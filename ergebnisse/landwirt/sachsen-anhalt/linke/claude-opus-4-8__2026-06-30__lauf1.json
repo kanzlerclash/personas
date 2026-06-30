@@ -1,0 +1,125 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Planungssicherheit statt jährlicher Verordnung!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Förderverfahren vereinfachen, Bürokratiekosten senken und mehrjährige Förderzusagen geben, damit Betriebe sicher planen können.",
+      "seite": 114,
+      "zitat": "mehrjährige Förderzusagen einführen, damit Betriebe sicher planen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank leidet konkret unter ständig wechselnden Auflagen und Förder-Wirrwarr; mehrjährige Zusagen und weniger Bürokratie treffen seine zentrale Hoffnung nach Planungssicherheit.",
+      "begruendung_selbst": "Wenn ich endlich mal mehrere Jahre verlässlich planen kann, statt jedes halbe Jahr eine neue Regel zu kriegen, dann reden wir.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Erzeugerpreise – das ist mein Thema!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Faire Erzeugerpreise und Transparenz in den Lieferketten durchsetzen, den Preisdruck der großen Handelsketten begrenzen.",
+      "seite": 111,
+      "zitat": "faire Erzeugerpreise und Transparenz entlang der Lieferketten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sinkende Erzeugerpreise gehören zu Franks größten Sorgen; dass die Partei sich gegen den Druck der Konzerne stellt, deckt sich mit seiner Lage.",
+      "begruendung_selbst": "Ich liefere top Ware und kriege den Cent hingerechnet – wenn jemand den Discountern auf die Finger schaut, bin ich dabei.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Land für meine Tochter, nicht für Investoren!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Zugang zu Land für die sichern, die ihn bewirtschaften; Share Deals verbieten, Bodenpreise begrenzen, Junglandwirt:innen den Einstieg erleichtern.",
+      "seite": 110,
+      "zitat": "Junglandwirt:innen immer schwieriger Zugang zu Flächen erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Franks Tochter erwägt die Hofübernahme, und Pacht-Konkurrenz durch außerlandwirtschaftliche Investoren ist eine seiner konkreten Sorgen.",
+      "begruendung_selbst": "Wenn meine Tochter übernehmen will, kämpft sie gegen Fonds, die uns die Flächen wegkaufen – da muss endlich ein Riegel vor.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wolf: endlich dürfen wir handeln!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Starker Herdenschutz, schnelle Entschädigung und die Möglichkeit gezielter Wolfsentnahmen, wenn Schutzmaßnahmen ausgeschöpft sind.",
+      "seite": 112,
+      "zitat": "gezielte Entnahmen von Wölfen ermöglichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Strikter Wolfsschutz erschwert Franks Weidehaltung; dass gezielte Entnahmen ausdrücklich möglich sein sollen, entschärft einen seiner konkreten Konflikte.",
+      "begruendung_selbst": "Ich bin nicht gegen den Wolf an sich – aber wenn er mir die Rinder reißt, will ich nicht jahrelang zuschauen müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom für Trocknung und Bewässerung billiger!",
+      "thema": "energie",
+      "programmpunkt": "Energiepreise senken, unter anderem die Stromsteuer drastisch reduzieren und die Strompreisaufsicht wieder einführen.",
+      "seite": 107,
+      "zitat": "die Stromsteuer auf 0,1 ct/kWh senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energiekosten für Bewässerung, Trocknung und Kühlung drücken Franks Marge; eine spürbare Stromsteuersenkung entlastet ihn direkt.",
+      "begruendung_selbst": "Jede Kilowattstunde für Trocknung und Kühlung tut weh – senkt mir die Stromkosten, dann bleibt unterm Strich mehr.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Obergrenzen für die Tierhaltung – realitätsfern!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Bundesratsinitiative für gesetzliche Bestandsobergrenzen und das Ende exportorientierter Fleischerzeugung.",
+      "seite": 112,
+      "zitat": "Bundesratsinitiative für Bestandsobergrenzen in der Tierhaltung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank erlebt staatliche Vorgaben zur Tierhaltung als Bevormundung; pauschale Obergrenzen verschärfen aus seiner Sicht die Gängelung.",
+      "begruendung_selbst": "Wieder eine Vorgabe von Leuten, die noch nie im Stall standen – sollen die mir sagen, wie viele Tiere ich halten darf?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "30 Prozent Öko per Ansage – auf wessen Rücken?",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Den Anteil ökologisch bewirtschafteter Flächen von rund 10 auf mindestens 30 Prozent steigern.",
+      "seite": 113,
+      "zitat": "von derzeit rund 10 auf mindestens 30 Prozent steigern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank misstraut von oben gesetzten Zielen; ein verdreifachter Öko-Flächenanteil erscheint ihm als praxisferne Vorgabe an seinen Ackerbau.",
+      "begruendung_selbst": "Ein Ziel auf dem Papier dreimal so hoch zu schrauben ist leicht – ackern und das Risiko tragen muss ich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaneutral bis 2035 – das kostet mich!",
+      "thema": "klima",
+      "programmpunkt": "Verbindliches CO2-Budget und Klimaneutralität bis 2035 mit verpflichtender Klimawirkungsprüfung aller Entscheidungen.",
+      "seite": 121,
+      "zitat": "Klimaneutral bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank fürchtet, dass ambitionierte Klimaziele über CO2-Bepreisung und Auflagen seine Kosten treiben; ein so frühes Ziel verstärkt diese Sorge.",
+      "begruendung_selbst": "Klimaschutz ja – aber wenn das Tempo so gesetzt wird, zahle am Ende ich die Zeche an Diesel, Dünger und Auflagen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet bei der Linken überraschend viel zu seinen konkreten Sorgen: Planungssicherheit, faire Erzeugerpreise, Bodenzugang für die Hofnachfolge, Wolfsentnahmen und billigeren Strom. Zugleich kollidieren Bestandsobergrenzen, das Öko-Flächenziel und die schnelle Klimaneutralität mit seiner eigentums- und praxisorientierten Haltung. Unterm Strich steht ein zwiespältiges Bild aus echter Entlastung und gefürchteter Bevormundung.",
+    "score": 0
+  }
+}

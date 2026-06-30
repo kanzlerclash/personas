@@ -1,0 +1,77 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kitas ermöglichen Vereinbarkeit von Familie",
+      "thema": "familie",
+      "programmpunkt": "Kitas werden als unverzichtbarer Beitrag für das Aufwachsen von Kindern und die Vereinbarkeit von Familie und Beruf anerkannt und sollen entsprechend gefördert werden",
+      "seite": 57,
+      "zitat": "Vereinbarkeit von Familie und Beruf",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Nadine ist ein verlässlicher Kitaplatz keine Selbstverständlichkeit, sondern Grundvoraussetzung dafür, dass sie arbeiten kann. Die explizite Anerkennung dieser Bedeutung durch die Grünen gibt ihr das Gefühl, dass ihre Situation ernst genommen wird.",
+      "begruendung_selbst": "Genau das. Ohne Kita kann ich nicht arbeiten, ohne Arbeit kann ich nicht für meine Kinder sorgen. Wer das begreift, hat meine Aufmerksamkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ganztagsschulen flächendeckend ausbauen",
+      "thema": "bildung",
+      "programmpunkt": "Ganztagsschulen sollen flächendeckend ausgebaut werden",
+      "seite": 59,
+      "zitat": "Ganztagsschulen flächendeckend ausgebaut werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines Tochter ist acht Jahre alt – genau das Alter, in dem verlässliche Nachmittagsbetreuung über Berufstätigkeit oder Einkommensausfälle entscheidet. Flächendeckende Ganztagsschulen würden ihren Alltag strukturell erleichtern.",
+      "begruendung_selbst": "Wenn meine Tochter nachmittags in der Schule betreut ist, muss ich nicht halb kündigen, um sie abzuholen. Das wäre für uns ein echter Unterschied.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lernmittel kostenlos für alle",
+      "thema": "bildung",
+      "programmpunkt": "Lernmittelfreiheit soll für alle Schüler:innen gelten",
+      "seite": 55,
+      "zitat": "Lernmittelfreiheit für alle Schüler*innen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Aufstockerin mit zwei Kindern in Schule und Kita summieren sich Bücher, Hefte und Materialien zu spürbaren Belastungen. Lernmittelfreiheit nimmt Nadine einen konkreten finanziellen Druck, der sich in ihrem Haushalt direkt bemerkbar macht.",
+      "begruendung_selbst": "Jedes Jahr wieder Bücher, Hefte, Stifte – und ich muss schauen, wie ich das hinbekomme. Wenn das kostenlos wäre, wäre das eine echte Erleichterung für uns.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sanierungshilfe hilft mir als Mieterin nicht",
+      "thema": "wohnen",
+      "programmpunkt": "Sanierungen sollen einkommensabhängig gefördert werden – das adressiert jedoch Eigentümer:innen, nicht Mieter:innen wie Nadine",
+      "seite": 26,
+      "zitat": "Sanierungen sollen künftig gezielt einkommensabhängig gefördert",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine mietet ihre Wohnung – Förderprogramme für Gebäudesanierungen kommen bei ihr nicht an. Sie bräuchte eine direkte Mietpreisbremse oder Mieterschutz; eine einkommensabhängige Sanierungsförderung schützt sie nicht vor steigenden Mieten.",
+      "begruendung_selbst": "Sanierungsförderung klingt gut, aber ich bin Mieterin. Was mein Vermieter baut, entscheide nicht ich. Was mir fehlt, ist ein Schutz vor der nächsten Mieterhöhung.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet im Grünen-Programm wichtige Versprechen, die ihren Alltag konkret verbessern würden – vor allem Kitaausbau, flächendeckende Ganztagsschulen und Lernmittelfreiheit. Das Programm adressiert jedoch nicht spezifisch die Situation von Alleinerziehenden und enthält keine konkreten Verbesserungen beim Bürgergeld, beim Unterhaltsvorschuss oder beim Mieterschutz für Mieter:innen. Insgesamt überwiegen die positiven Ansätze, aber das Gefühl, als Alleinerziehende nicht direkt angesprochen zu werden, hinterlässt einen leichten Vorbehalt.",
+    "score": 1
+  }
+}

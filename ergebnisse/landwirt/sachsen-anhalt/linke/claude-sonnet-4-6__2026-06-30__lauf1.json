@@ -1,0 +1,125 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich jemand auf unserer Seite",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei stellt sich ausdrücklich auf die Seite der Erzeuger und will den Preisdruck großer Lebensmittelketten begrenzen sowie faire Erzeugerpreise durchsetzen.",
+      "seite": 109,
+      "zitat": "Die Linke steht an der Seite derer, die uns ernähren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank leidet unter sinkenden Erzeugerpreisen, die von wenigen Supermarktkonzernen diktiert werden. Die Partei benennt dieses Machtverhältnis klar und fordert Transparenz entlang der Lieferketten sowie ein Ende unfairer Handelspraktiken – das trifft Franks alltägliche Klage.",
+      "begruendung_selbst": "Das höre ich selten. Die meisten reden über Umwelt und Tierwohl – aber wer redet über meinen Erzeugerpreis, wenn Aldi und Edeka den Ton angeben? Wenigstens einer sieht das Problem.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Investoren raus von meinen Flächen",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will ein Agrarstrukturgesetz für das Land und ein landesweites Verbot von Share Deals beim Erwerb landwirtschaftlicher Betriebe, um Bodenkonzentration durch außerlandwirtschaftliche Investoren zu stoppen.",
+      "seite": 111,
+      "zitat": "ein landesweites Verbot von Share Deals beim Erwerb landwirtschaftlicher Betriebe",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank erlebt, wie Investorengruppen über Share Deals landwirtschaftliche Flächen aufkaufen und die Pachtpreise treiben. Das Verbot von Share Deals und ein öffentlicher Bodenfonds für Junglandwirte treffen einen konkreten Nerv.",
+      "begruendung_selbst": "Wenn der Boden an Fonds geht, statt an Leute, die ihn auch bearbeiten, dann kommt meine Tochter nie ran. Das ist genau das Problem, das keiner sonst anspricht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wolfsschaden muss vollständig erstattet werden",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm fordert schnelle und vollständige Entschädigung bei Wolfsrissen, staatlich getragenen Herdenschutz mit verlässlicher Finanzierung sowie die Möglichkeit gezielter Wolfs-Entnahmen bei Wiederholungstätern.",
+      "seite": 112,
+      "zitat": "bei Rissen eine schnelle und vollständige Entschädigung der Weidetierhalt er:innen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hält eine Mutterkuhherde und kennt den konkreten Konflikt mit dem Wolf. Die Entschädigungszusage und die Möglichkeit gezielter Entnahmen gehen weiter als reine Symbolpolitik, auch wenn pauschale Abschussquoten abgelehnt werden.",
+      "begruendung_selbst": "Endlich kein rein ideologisches Nein zum Wolf. Entschädigung und notfalls Entnahme – damit kann ich zumindest arbeiten. Dass keine feste Abschussquote kommt, ist mir zu vage, aber besser als nichts.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehrjährige Förderung statt jährliches Chaos",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will Bürokratiekosten deutlich reduzieren, Antragsverfahren vollständig digitalisieren und mehrjährige Förderzusagen einführen, damit Betriebe planen können.",
+      "seite": 114,
+      "zitat": "mehrjährige Förderzusagen einführen, damit Betriebe sicher planen können",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Franks zentrales Klagelied ist die fehlende Planungssicherheit durch jährlich wechselnde Förderregeln. Mehrjährige Förderzusagen und ein expliziter Bürokratieabbau für landwirtschaftliche Betriebe sind daher direkt relevant.",
+      "begruendung_selbst": "Ich brauche keine Formulare – ich brauche Planungssicherheit. Wenn ich weiß, was in drei Jahren gilt, kann ich investieren. Das hier klingt so.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dürreschäden ohne Behördenmarathon abfedern",
+      "thema": "klima",
+      "programmpunkt": "Für klimabedingte Ernteschäden soll eine Bundesratsinitiative für einen Mehrgefahrenfonds gestartet werden, der schnell und unbürokratisch hilft.",
+      "seite": 113,
+      "zitat": "eine Bundesratsinitiative für einen Mehrgefahrenfonds starten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank erlebt Dürrejahre und wetterbedingten Ernteausfall als existentielle Bedrohung. Ein schnell wirkender Mehrgefahrenfonds ohne bürokratische Hürden spricht direkt auf sein Risikoprofil.",
+      "begruendung_selbst": "Letztes Jahr hat mir die Dürre ein Viertel der Ernte gekostet. Wenn dann noch monatelang auf Hilfe gewartet wird, ist der Betrieb in Gefahr. Ein Fonds, der unbürokratisch einspringt – das wäre was.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "30 Prozent Öko – auf wessen Kosten?",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will den Anteil ökologisch bewirtschafteter Flächen von derzeit rund 10 auf mindestens 30 Prozent steigern und Ökolandbau gezielt fördern.",
+      "seite": 113,
+      "zitat": "den Anteil ökologisch bewirtschafteter Flächen von derzeit rund 10 auf mindestens 30 Prozent steigern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank wirtschaftet konventionell und sieht in einem staatlich gesetzten Ökolandbau-Ziel von 30 Prozent impliziten Druck auf seine Betriebsform. Das Ziel kann nur erreicht werden, wenn entweder Förderanreize konventionellen Betrieben entzogen oder Umstellungspflichten eingeführt werden.",
+      "begruendung_selbst": "Dreimal Ökolandbau – und wer zahlt das Risiko der Umstellung? Ich bin kein Feind des Ökoanbaus, aber wenn der Staat mir durch die Hintertür vorschreibt, wie ich zu wirtschaften habe, dann hört meine Toleranz auf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bestandsobergrenzen für meine Kühe?",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will eine Bundesratsinitiative für Bestandsobergrenzen in der Tierhaltung auf den Weg bringen.",
+      "seite": 112,
+      "zitat": "eine Bundesratsinitiative für Bestandsobergrenzen in der Tierhaltung auf den Weg bringen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank hält eine kleine Mutterkuhherde. Staatlich festgelegte Bestandsobergrenzen greifen in seine unternehmerische Entscheidungsfreiheit ein und können die ohnehin schwache Wirtschaftlichkeit seiner Tierhaltung weiter untergraben.",
+      "begruendung_selbst": "Ich habe eine kleine Herde, nicht einen Mega-Betrieb. Trotzdem wäre ich von einer Bestandsgrenze betroffen. Und dann soll ich noch in artgerechtere Ställe investieren, für die ich mir keine Obergrenzen leisten kann? Das passt nicht zusammen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermögenssteuer trifft meinen Traktor",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei will per Bundesratsinitiative eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro wiedereinführen.",
+      "seite": 17,
+      "zitat": "Eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Franks Vermögen steckt in Boden, Maschinen und Gebäuden. Ein 180-ha-Betrieb mit modernem Maschinenpark übersteigt die 1-Million-Grenze schnell. Die Vermögenssteuer würde seinen Betrieb laufend mit einer Steuer belegen, die er aus schwankendem Einkommen bedienen müsste – ein erheblicher Liquiditätsdruck.",
+      "begruendung_selbst": "Mein Vermögen ist kein Bankguthaben – das sind Acker, Trecker und Scheune. Wenn die das jedes Jahr besteuern, muss ich entweder verkaufen oder Schulden machen. Wer hat sich das ausgedacht?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet im Programm einige konkrete Ansätze, die seinen Alltag treffen: faire Erzeugerpreise, Schutz vor Flächenspekulanten, Wolfsentschädigung und Planungssicherheit durch mehrjährige Förderung. Gleichzeitig laufen die zentralen agrarpolitischen Weichenstellungen gegen seine Betriebsform: Das 30-Prozent-Ökolandbau-Ziel, Bestandsobergrenzen in der Tierhaltung und eine Vermögenssteuer auf Betriebsvermögen erzeugen erheblichen Gegenwind. Die Partei erkennt landwirtschaftliche Probleme an, setzt aber auf Steuerung und Transformation statt auf Markt und Eigenverantwortung – was Franks Grundhaltung widerspricht.",
+    "score": -1
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine Sanierungspflicht fürs Haus!",
+      "thema": "energie",
+      "programmpunkt": "Ablehnung jeder Solarpflicht bei Neubauten und Dachsanierungen, Setzen auf Eigenverantwortung der Bauherren.",
+      "seite": 46,
+      "zitat": "lehnen jegliche Form der Solarpflicht bei Neubauten und Dachsanierungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten Sanierungspflichten, die sie sich nicht leisten können; das klare Nein zu solchen Pflichten nimmt ihnen diese Angst.",
+      "begruendung_selbst": "Wenn wir das Dach machen müssten, von welchem Geld eigentlich? Gut, dass uns das niemand vorschreiben will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege darf uns nicht ruinieren!",
+      "thema": "gesundheit",
+      "programmpunkt": "Reform der Pflegeversicherung mit gedeckelten Eigenanteilen und Schutz des selbstgenutzten Wohneigentums.",
+      "seite": 29,
+      "zitat": "mit gedeckelten Eigenanteilen, fairer Finanzierung und Schutz des selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Angst vor Pflegekosten ist zentral; gedeckelte Eigenanteile und Schutz des Eigenheims sichern genau das, was sie verlieren könnten.",
+      "begruendung_selbst": "Unser Haus ist alles, was wir haben. Dass die Pflege es nicht auffrisst, ist für uns das Wichtigste überhaupt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Arzt soll aufs Dorf kommen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Medi-Bus als rollende Praxis für Regionen mit Ärztemangel, dazu mehr Studienplätze und Landarztquote.",
+      "seite": 29,
+      "zitat": "im ländlichen Raum durch Medi - Bus verbessern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar fürchtet, dass der Hausarzt aufhört; ein mobiles Versorgungsangebot adressiert ihre konkrete Sorge um Erreichbarkeit.",
+      "begruendung_selbst": "Was machen wir, wenn der Hausarzt zumacht? Wenn dann wenigstens ein Arzt-Bus kommt, sind wir nicht ganz verloren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei - mehr Sicherheit!",
+      "thema": "sicherheit",
+      "programmpunkt": "Kräftige Aufstockung der Landespolizei und mehr Sichtbarkeit vor Ort.",
+      "seite": 5,
+      "zitat": "Die Landespolizei kräftig aufstocken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sicherheitsgefühl und Polizeipräsenz sind dem Paar wichtig; mehr Personal stärkt ihr Bedürfnis nach Ordnung und Schutz im Ort.",
+      "begruendung_selbst": "Wir wollen uns abends sicher fühlen. Mehr Polizei vor Ort gibt uns das gute Gefühl zurück.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ältere werden nicht vergessen!",
+      "thema": "familie",
+      "programmpunkt": "Stärkung von Begegnungsorten wie Mehrgenerationenhäusern und Seniorentreffs gegen Vereinsamung im Alter.",
+      "seite": 32,
+      "zitat": "Mehrgenerationenhäuser oder Seniorentreffs stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar sorgt sich, dass die Älteren auf dem Land vergessen werden; Angebote der Begegnung sprechen ihr Teilhabebedürfnis an.",
+      "begruendung_selbst": "Man fühlt sich schnell abgehängt hier draußen. Dass an uns Ältere gedacht wird, tut gut.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter sehen ihre zentralen Sorgen ernst genommen: keine Sanierungspflicht, gedeckelte Pflege-Eigenanteile mit Schutz des Hauses, ein Arzt-Bus fürs Dorf, mehr Polizei und Angebote für Ältere. Eine ausdrückliche Rentengarantie bleibt zwar offen, doch das Programm wirkt für sie verlässlich und sicherheitsorientiert.",
+    "score": 2
+  }
+}

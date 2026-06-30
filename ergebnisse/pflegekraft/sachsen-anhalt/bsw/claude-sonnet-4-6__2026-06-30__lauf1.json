@@ -1,0 +1,89 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Tariftreuegesetz für Krankenhäuser – überfällig!",
+      "thema": "gesundheit",
+      "programmpunkt": "BSW fordert ein verbindliches Tariftreuegesetz für Krankenhäuser in Sachsen-Anhalt, das für alle Beschäftigten gilt, unabhängig von Beschäftigungsform oder Ausgliederung in Tochterunternehmen.",
+      "seite": 57,
+      "zitat": "Das BSW fordert ein Tariftreuegesetz für Krankenhäuser in Sachsen-Anhalt, das für alle am Krankenhaus Beschäftigten gilt, unabhängig von Beschäftigungsform oder Ausgliederung in Tochterunternehmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Maria arbeitet unter Tarif, während Kolleginnen in ausgelagerten Tochterbetrieben noch schlechter bezahlt werden. Ein gesetzlich verbindliches Tariftreuegesetz würde diese Zweiklassenstruktur beenden und auch sie direkt besser stellen.",
+      "begruendung_selbst": "Meine Kollegin im Reinigungsdienst – ausgelagert – verdient noch weniger als ich, obwohl sie dasselbe Haus sauber hält. Das ist Lohndumping hinter einem GmbH-Schild. Ein Tariftreuegesetz wäre Gerechtigkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflegevollversicherung – endlich!",
+      "thema": "gesundheit",
+      "programmpunkt": "BSW fordert eine Pflegevollversicherung, die überwiegend aus Steuermitteln finanziert wird.",
+      "seite": 58,
+      "zitat": "Das BSW fordert eine Pflegevollversicherung, die überwiegend aus Steuermitteln finanziert wird.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Maria erlebt täglich, wie Bewohner ihres Pflegeheims ihre Ersparnisse aufbrauchen oder Kinder zur Kasse gebeten werden. Eine Vollversicherung aus Steuermitteln würde die Würde der Gepflegten sichern und die Last gerechter verteilen.",
+      "begruendung_selbst": "Ich pflege täglich alte Menschen, die Angst haben, ihr letztes Geld zu verlieren. Eine Vollversicherung würde diese Angst nehmen – und auch mir sagen: Die Gesellschaft wertschätzt diese Arbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Löhne und verlässliche Zeiten!",
+      "thema": "arbeit",
+      "programmpunkt": "BSW fordert faire Löhne, verlässliche Arbeitszeiten und bessere Bedingungen für Pflegekräfte, damit mehr Menschen für die Pflege gewonnen werden.",
+      "seite": 58,
+      "zitat": "Pflegekräfte verdienen faire Löhne, verlässliche Arbeitszeiten und bessere Bedingungen im Berufsalltag.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Maria schmeißt Überstunden am laufenden Band und verdient trotzdem zu wenig. Das BSW benennt die Kernprobleme – faire Löhne, verlässliche Zeiten – die ihren Berufsalltag prägen.",
+      "begruendung_selbst": "Ich gehe früh rein und weiß nicht, wann ich rauskomme. Mein Lohn deckt die Miete kaum. Wenn BSW das wirklich ändern will, dann ist das die einzige Partei, die meinen Beruf ernst nimmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gegen Privatisierung – Pflege ist kein Markt!",
+      "thema": "gesundheit",
+      "programmpunkt": "BSW will die fortschreitende Kommerzialisierung des Gesundheitswesens stoppen und öffentliche Strukturen erhalten.",
+      "seite": 56,
+      "zitat": "BSW steht für eine klare Kehrtwende: Gesundheit ist keine Ware und kein Bestandteil militärischer Logik – sie ist ein Menschenrecht.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Maria hat miterlebt, wie private Betreiber ihre Einrichtung übernahmen: Stellen wurden gestrichen, Bezahlung sank, Pflegeschlüssel verschlechterten sich. Die BSW-Aussage, Gesundheit sei kein Markt, trifft ihr Berufsverständnis.",
+      "begruendung_selbst": "Seitdem der private Träger da ist, werden Stellen abgebaut und Gewinne herausgezogen. Pflege als Menschenrecht – nicht als Markt. Das ist, was ich lebe, nicht nur sage.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Abschiebung von Pflege-Azubis?",
+      "thema": "integration",
+      "programmpunkt": "BSW fordert konsequente Abschiebung, wenn kein Asylrecht besteht, auch wenn Migranten straffällig werden.",
+      "seite": 62,
+      "zitat": "Die Handlungsfähigkeit des Staates muss glaubhaft und sichtbar sein. Dazu gehört auch die konsequente Abschiebung, wenn kein Anspruch auf Asyl besteht, Asylmissbrauch vorliegt oder Migranten straffällig werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "In Marias Einrichtung arbeiten mehrere Pflegekräfte aus dem Ausland, die das System am Laufen halten. Wenn strenge Abschiebungspolitik dazu führt, dass Auszubildende oder Pflegekräfte ohne sicheren Status das Land verlassen müssen, verschärft das den ohnehin katastrophalen Fachkräftemangel.",
+      "begruendung_selbst": "Zwei meiner besten Kolleginnen kommen aus dem Ausland und halten die Schicht zusammen. Wenn die gehen müssen, bricht der Betrieb zusammen. Härte bei Abschiebungen klingt nach Ordnung – aber ich sehe, was das bedeutet.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das BSW-Programm adressiert Marias Berufsrealität direkt: Tariftreuegesetz für Krankenhäuser, Pflegevollversicherung, faire Löhne und Ablehnung der Kommerzialisierung sind zentrale Treffer. Die strenge Abschiebungspolitik ist ein Wermutstropfen, der in der Praxis ihren Betrieb treffen kann. Per Saldo überwiegen die positiven Punkte deutlich.",
+    "score": 1
+  }
+}

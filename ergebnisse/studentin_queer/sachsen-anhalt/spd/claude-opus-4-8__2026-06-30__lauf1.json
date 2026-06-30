@@ -1,0 +1,113 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Klimaziele endlich verbindlich",
+      "thema": "klima",
+      "programmpunkt": "Ein Klimaschutzgesetz soll verbindliche, überprüfbare Reduktionspfade festschreiben.",
+      "seite": 22,
+      "zitat": "Ein Klimaschutzgesetz schafft Verbindlichkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule misst Politik daran, ob sie Klima ernst nimmt; ein verbindliches Gesetz mit überprüfbaren Zielen entspricht ihrem Wunsch nach konsequentem statt symbolischem Klimaschutz.",
+      "begruendung_selbst": "Verbindlich und überprüfbar - genau das brauchen wir, nicht wieder nur Absichtserklärungen. Es geht um meine Zukunft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Rechte sind keine Floskel",
+      "thema": "demokratie",
+      "programmpunkt": "Ein Landes-Antidiskriminierungsgesetz soll die Rechte Betroffener stärken.",
+      "seite": 36,
+      "zitat": "stärken wir die Rechte der Betroffenen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule fürchtet den Abbau von Antidiskriminierungs- und Vielfaltspolitik; ein eigenes Landesgesetz dagegen bestätigt ihr, dass ihre Rechte nicht zur Verhandlungsmasse werden.",
+      "begruendung_selbst": "Ein Antidiskriminierungsgesetz heißt: Meine Rechte stehen nicht zur Debatte, sondern werden geschützt. Das ist mehr als warme Worte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queere Räume bleiben",
+      "thema": "demokratie",
+      "programmpunkt": "Das Queere Jugendbudget soll ausgebaut und verstetigt werden, queere Beratungs- und Fachstrukturen gestärkt.",
+      "seite": 25,
+      "zitat": "Das Modellprojekt des Queeren Jugendbudgets wird ausgebaut und verstetigt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als queere junge Frau erlebt Jule solche Räume und Förderungen als konkreten Schutz; die Verstetigung statt Streichung trifft genau ihre Sorge um erkämpfte Strukturen.",
+      "begruendung_selbst": "Queere Projekte werden nicht gekürzt, sondern dauerhaft gesichert - das gibt Leuten wie mir Sicherheit, dass wir hier mitgedacht werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Studiengebühren",
+      "thema": "bildung",
+      "programmpunkt": "Studiengebühren werden abgelehnt, Studierendenwerke und bezahlbares Wohnen gestärkt.",
+      "seite": 21,
+      "zitat": "Studiengebühren lehnt die SPD ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit knappem, unregelmäßigem Budget wären Studiengebühren für Jule eine existenzielle Hürde; die klare Ablehnung entlastet ihre prekäre Studienfinanzierung.",
+      "begruendung_selbst": "Bei meinem Budget wären Gebühren das Aus. Dass die da klar Nein sagen, ist für mich keine Kleinigkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Konsequent gegen rechts",
+      "thema": "demokratie",
+      "programmpunkt": "Eine Schwerpunktstaatsanwaltschaft Rechtsextremismus soll die strafrechtliche Verfolgung stärken.",
+      "seite": 35,
+      "zitat": "Eine Schwerpunktstaatsanwaltschaft Rechtsextremismus stärkt die konsequente strafrechtliche Verfolgung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule wünscht sich eine starke, wehrhafte Demokratie; das harte Vorgehen gegen Rechtsextremismus berührt ihr Sicherheitsgefühl als queere Aktivistin direkt.",
+      "begruendung_selbst": "Rechtsextremismus ist für Leute wie mich eine reale Gefahr. Eine eigene Staatsanwaltschaft dafür zeigt, dass das ernst genommen wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erneuerbare sind eh am günstigsten",
+      "thema": "energie",
+      "programmpunkt": "Erneuerbare Energien werden als günstigste Energieform benannt und konsequent ausgebaut.",
+      "seite": 5,
+      "zitat": "Erneuerbare Energien sind die günstigste Form der Energieerzeugung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule verbindet Energiewende und bezahlbares Leben; die Aussage, Erneuerbare seien am günstigsten, untermauert für sie, dass Klimaschutz und niedrige Preise zusammengehen.",
+      "begruendung_selbst": "Endlich sagt es mal jemand: Erneuerbare sind nicht teuer, sie sind die billigste Energie. Klima und Geldbeutel widersprechen sich nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Flughafen ausbauen? Ernsthaft?",
+      "thema": "klima",
+      "programmpunkt": "Der Flughafen Leipzig/Halle soll ohne dauerhafte Zuschüsse weiterentwickelt werden.",
+      "seite": 43,
+      "zitat": "Der Flughafen Leipzig/Halle wird ohne dauerhafte Zuschüsse weiterentwickelt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für die klimabewegte Jule steht der Ausbau eines Luftfracht-Drehkreuzes im Widerspruch zu den verbindlichen Klimazielen, die das Programm an anderer Stelle setzt.",
+      "begruendung_selbst": "Verbindliche Klimaziele und gleichzeitig den Frachtflughafen weiterentwickeln - das passt für mich vorne und hinten nicht zusammen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule sieht ihre Kernwerte breit bestätigt: ein verbindliches Klimaschutzgesetz, ein Landes-Antidiskriminierungsgesetz, verstetigte queere Strukturen, gebührenfreies Studium und ein harter Kurs gegen Rechtsextremismus treffen ihre Anliegen fast lückenlos. Reibung erzeugt vor allem die Weiterentwicklung des Flughafens Leipzig/Halle, die sie als klimapolitischen Widerspruch wahrnimmt. Für die progressive, ökologisch orientierte Studentin überwiegt der Zuspruch sehr deutlich.",
+    "score": 2
+  }
+}

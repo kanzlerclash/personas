@@ -1,0 +1,138 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Betriebsübernahmen erleichtern, Jungbauern fördern",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Betriebsübernahmen sollen erleichtert werden, damit junge Landwirte Höfe übernehmen können.",
+      "seite": 16,
+      "zitat": "Betriebsübernahmen erleichtern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank beschäftigt die Hofnachfolge seit Jahren. Ein politisches Bekenntnis zur Erleichterung von Betriebsübernahmen trifft dieses Kernproblem direkt und signalisiert, dass der Generationswechsel in der Landwirtschaft strukturell unterstützt werden soll.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass die Übergabe an den Nächsten nicht noch schwieriger gemacht werden soll. Das ist das Einzige, was mich bei denen kurz aufhorchen lässt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beratung statt übermäßiger Bürokratie",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Landwirte sollen mehr Beratung und Hilfestellung erhalten, statt mit übermäßiger Bürokratie belastet zu werden.",
+      "seite": 16,
+      "zitat": "mehr Beratung und Hilfestellung statt übermäßiger Bürokratie",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank empfindet staatliche Regulierung als permanente Belastung. Dieses Versprechen greift seine Alltagserfahrung direkt auf und formuliert einen anderen Umgangston mit Landwirten – auch wenn Frank skeptisch bleibt, ob die Praxis dem Versprechen folgt.",
+      "begruendung_selbst": "Das klingt gut, aber ich höre das seit 20 Jahren. Am Ende kommt trotzdem wieder ein neues Formular.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auskömmliche Erzeugerpreise sichern",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm setzt sich für verlässliche wirtschaftliche Grundlagen mit auskömmlichen Erzeugerpreisen für Landwirte ein.",
+      "seite": 15,
+      "zitat": "verlässliche wirtschaftliche Grundlagen mit auskömmlichen Erzeugerpreisen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Erzeugerpreis ist für Frank die unmittelbarste Existenzfrage. Dass die Grünen dies explizit benennen, ist für ihn ungewohnt und positiv – auch wenn er bezweifelt, dass die Partei die nötigen Marktmechanismen dafür akzeptiert.",
+      "begruendung_selbst": "Wenigstens steht das drin. Ob sie wissen, wie man das umsetzt, ohne den Markt komplett zu regulieren – das ist die andere Frage.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Agrarstrukturgesetz für kleinstrukturierte Betriebe",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Ein Agrarstrukturgesetz soll vielfältige kleinstrukturierte Betriebe fördern und Share Deals bei Landkauf regulieren.",
+      "seite": 16,
+      "zitat": "Regulierung von Anteilskäufen (Share Deals)",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank konkurriert als mittelständischer Betrieb mit Investoren und Agrarkonzernen um Flächen. Die Regulierung von Share Deals und die Stärkung kleinerer Betriebe schützt seine Wettbewerbsposition gegenüber Großinvestoren.",
+      "begruendung_selbst": "Dass die großen Investoren nicht mehr so einfach Äcker aufkaufen können – das ist was, das mir nützt. Da bin ich dabei.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Flächendeckend ökologisch als Langzeitvision",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die langfristige Vision des Programms ist eine flächendeckend ökologische Bewirtschaftung aller landwirtschaftlichen Flächen.",
+      "seite": 15,
+      "zitat": "Unsere langfristige Vision ist eine flächendeckend ökologische Bewirtschaftung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Frank bedeutet eine flächendeckende Ökovision das Ende seiner konventionellen Betriebsweise. 180 Hektar Ackerbau nach ökologischen Standards umzustellen wäre wirtschaftlich nicht ohne massive staatliche Unterstützung möglich und stellt seine gesamte Lebensleistung in Frage.",
+      "begruendung_selbst": "Das ist das Ende meines Betriebs, wie ich ihn kenne. Die können das schön Vision nennen, für mich ist das eine Drohung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Glyphosat und PFAS verbieten",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm fordert ein konsequentes Verbot problematischer Stoffe wie PFAS und Glyphosat.",
+      "seite": 16,
+      "zitat": "konsequentes Verbot problematischer Stoffe wie PFAS, Glyphosat",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Glyphosat ist für Frank ein zentrales Pflanzenschutzmittel im Ackerbau, das Arbeitsaufwand und Kosten erheblich senkt. Ein Verbot ohne praxistaugliche Alternativen würde seine Betriebskosten erhöhen und Ertragsrisiken schaffen.",
+      "begruendung_selbst": "Glyphosat ist nicht mein Lieblingsthema, aber ohne haben wir ein ernsthaftes Problem mit Beikräutern. Die Alternativen kosten dreimal so viel und funktionieren halb so gut.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Tierzahlen an Fläche binden",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Tierzahlen sollen konsequent an die vorhandene Fläche gebunden werden.",
+      "seite": 18,
+      "zitat": "konsequente Bindung der Tierzahlen an die vorhandene Fläche",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Franks Mutterkuhherde ist auf flexible Bestandsgrößen angewiesen. Eine starre Flächenbindung der Tierzahlen würde seinen Spielraum bei der Herdengröße einschränken und könnte ihn zwingen, profitable Tiere abzugeben.",
+      "begruendung_selbst": "Die wollen mir also vorschreiben, wie viele Kühe auf meine Wiese dürfen. Das ist mein Betrieb, das entscheide ich nach Futterlage und Markt, nicht nach einer Verordnung aus Magdeburg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserschutzgebiete nur noch ökologisch",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Bewirtschaftung von Flächen in Wasserschutzgebieten soll ausschließlich ökologisch erfolgen.",
+      "seite": 12,
+      "zitat": "Bewirtschaftung von Flächen in Wasserschutzgebieten ausschließlich ökologisch erfolgen darf",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Teile von Franks 180 Hektar könnten in oder angrenzend an Wasserschutzgebiete liegen. Eine Pflicht zur ausschließlich ökologischen Bewirtschaftung ohne vollen Ertragsausgleich bedeutet faktisch Enteignung von Ertragspotenzial.",
+      "begruendung_selbst": "Ich soll meinen Acker anders bewirtschaften, weil er zufällig neben einem Wasserschutzgebiet liegt? Dann sollen die mir auch den Einnahmeausfall erstatten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschädliche Subventionen abbauen",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Umwelt- und klimaschädliche Subventionen sollen konsequent abgebaut werden.",
+      "seite": 96,
+      "zitat": "umwelt- und klimaschädliche Subventionen konsequent abzubauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank befürchtet, dass unter diesem Sammelbegriff auch der Agrardiesel und weitere landwirtschaftliche Steuervergünstigungen fallen. Nach der Agrardiesel-Debatte 2023/24 ist das für ihn kein abstraktes Thema mehr, sondern eine konkrete Bedrohung der Betriebskostenrechnung.",
+      "begruendung_selbst": "Agrardiesel, Kfz-Steuer, was kommt als nächstes? Jedes Mal wenn die Grünen von Subventionsabbau reden, trifft es uns Bauern als Erstes.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet im Grünen Programm einige bäuerliche Anliegen wieder: Betriebsübergaben, Bürokratieabbau und der Schutz vor Investoren beim Landkauf sprechen ihn an. Doch die ökologische Gesamtrichtung – flächendeckende Ökolandwirtschaft als Fernziel, Pestizidverbote, Flächenbindung der Tierhaltung und der Abbau von Agrarsubventionen – trifft seinen konventionellen Betrieb existenziell. Die Grünen signalisieren Frank: Dein Betrieb ist das Problem, nicht die Lösung.",
+    "score": -1
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich verlässliche Heizungsregeln!",
+      "thema": "energie",
+      "programmpunkt": "Eine technologieoffene Wärmewende mit Augenmaß, realistischen Übergängen und Planungssicherheit statt starrer Vorgaben.",
+      "seite": 26,
+      "zitat": "Wir brauchen deshalb eine Wärmewende mit Augenmaß.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine ist vom Hin und Her beim Heizungstausch genervt, weil es ihre Kunden lähmt; eine berechenbare, technologieoffene Linie würde ihre Auftragsplanung stabilisieren.",
+      "begruendung_selbst": "Sag mir eine Regel, an die ich mich halten kann – wenn der Heizungstausch endlich planbar wird, buchen meine Kunden wieder.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Aktenordner, mehr Arbeit!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Abbau von Bürokratie und Sonderregelungen für Betriebe.",
+      "seite": 20,
+      "zitat": "Bürokratie und Sonderregelungen abbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bürokratie kostet Sabine reale Arbeitszeit und ist ihr Hauptärgernis; der angekündigte Abbau adressiert genau diesen Schmerzpunkt.",
+      "begruendung_selbst": "Genau das brauche ich: weniger Formulare und Nachweise, damit ich abends nicht mehr im Papierkram ertrinke.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ein Portal statt Behörden-Hürdenlauf!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Ein landesweites Unternehmensportal mit einheitlichem Zugang zu Verwaltungsleistungen und beschleunigte Genehmigungen.",
+      "seite": 22,
+      "zitat": "Landesweites Unternehmensportal zur vereinfachten Kommunikation mit Behörden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Langsame Genehmigungen und Nachweispflichten binden Sabines Zeit; ein digitales Portal mit klaren Fristen würde ihren Verwaltungsaufwand spürbar senken.",
+      "begruendung_selbst": "Wenn ich Anträge digital an einer Stelle einreichen kann und endlich Fristen gelten, gewinne ich Stunden für die Baustelle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Handwerk wird endlich geschätzt!",
+      "thema": "arbeit",
+      "programmpunkt": "Aufwertung von beruflicher Bildung, Handwerk und Meisterqualifikation, inklusive gezielter Meisterausbildungsförderung.",
+      "seite": 23,
+      "zitat": "Berufliche Bildung, Handwerk und Meisterqualifikation aufwerten und unterstützen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Meisterin und Ausbilderin sieht Sabine die Aufwertung des Handwerks und der Meisterqualifikation als überfällige Wertschätzung ihres Berufsstands.",
+      "begruendung_selbst": "Endlich jemand, der das Handwerk und den Meisterbrief ernst nimmt – das ist mehr wert als jedes Sonntagslob.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Reinvestieren soll sich lohnen!",
+      "thema": "steuern",
+      "programmpunkt": "Förderung der Eigenkapitalbildung durch steuerliche Begünstigung von Rücklagen und geringere Besteuerung reinvestierter Gewinne.",
+      "seite": 21,
+      "zitat": "geringere Besteuerung von reinvestierten Gewinnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine kämpft dauerhaft mit Liquidität und Investitionsfinanzierung; eine steuerliche Begünstigung reinvestierter Gewinne stärkt ihre Eigenkapitalbasis direkt.",
+      "begruendung_selbst": "Wenn ich Gewinn in den Fuhrpark stecke und dafür weniger Steuer zahle, kann ich endlich planen statt nur Löcher stopfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte schneller anerkennen!",
+      "thema": "arbeit",
+      "programmpunkt": "Schnellere und einfachere Anerkennung ausländischer Berufsabschlüsse.",
+      "seite": 23,
+      "zitat": "muss schneller und einfacher erfolgen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine findet keine Gesellen mehr; eine zügige Anerkennung ausländischer Abschlüsse erweitert ihren Bewerberpool und entschärft ihren Fachkräftemangel.",
+      "begruendung_selbst": "Ich hätte gern mehr Leute auf der Baustelle – wenn gute Fachkräfte aus dem Ausland schneller anerkannt werden, stelle ich sofort ein.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "15 Euro ohne Ausnahme treibt meine Kosten!",
+      "thema": "arbeit",
+      "programmpunkt": "Gesetzlicher Mindestlohn von 15 Euro ohne Sonderregelungen.",
+      "seite": 35,
+      "zitat": "einen gesetzlichen Mindestlohn von 15,00 Euro pro Stunde",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Inhaberin mit acht Beschäftigten trägt Sabine steigende Lohnkosten unmittelbar; ein Mindestlohn von 15 Euro ohne Ausnahmen erhöht ihren Kostendruck.",
+      "begruendung_selbst": "Ich zahle ordentlich, aber wenn von oben 15 Euro ohne jede Ausnahme verordnet werden, geht das voll auf meine Kalkulation.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nur mit Tarif an öffentliche Aufträge?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Öffentliche Aufträge und Fördermittel sollen nur an tarifgebundene Unternehmen vergeben werden.",
+      "seite": 22,
+      "zitat": "dürfen nur an tarifgebundene Unternehmen vergeben werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ein kleiner, nicht tarifgebundener SHK-Betrieb wie Sabines könnte durch eine Tariftreuepflicht von öffentlichen Aufträgen ausgeschlossen werden.",
+      "begruendung_selbst": "Ich bin ein Familienbetrieb, kein Konzern mit Tarifvertrag – wenn ich deshalb von Aufträgen ausgesperrt werde, ist das unfair.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Was kostet mich die Betriebsübergabe?",
+      "thema": "steuern",
+      "programmpunkt": "Reform der Erbschaft- und Schenkungsteuer mit höherer Besteuerung großer Vermögen.",
+      "seite": 36,
+      "zitat": "Dringenden Reformbedarf sehen wir auch bei der Erbschaft- und Schenkungsteuer.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines Betrieb ist Altersvorsorge und Übergabeobjekt zugleich; eine schärfere Erbschaftsteuer berührt die noch ungeklärte Nachfolge in rund zehn Jahren.",
+      "begruendung_selbst": "Der Betrieb ist mein Lebenswerk und meine Rente – bei der Übergabe will ich nicht erst zum Finanzamt, bevor mein Kind anfangen darf.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine sieht ihre Kernanliegen Bürokratieabbau, verlässliche Heizungsregeln, digitale Verwaltung und Handwerks-Aufwertung gut bedient. Zugleich treffen sie als Arbeitgeberin der Mindestlohn von 15 Euro ohne Ausnahmen und die Tariftreue-Pflicht bei öffentlichen Aufträgen direkt in der Kalkulation. Das Programm bleibt für sie spürbar zwiespältig zwischen Entlastung und neuen Kostenrisiken.",
+    "score": 0
+  }
+}

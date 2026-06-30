@@ -1,0 +1,128 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Telemedizin-Zentrum für ländliche Versorgung",
+      "thema": "gesundheit",
+      "programmpunkt": "Gründung eines Landeszentrums für angewandte Telemedizin und -pflege sowie Digitalisierung im Gesundheitsbereich als Chance für bessere Verzahnung",
+      "seite": 84,
+      "zitat": "Digitalisierung im Gesundheitsbereich bietet viele Chancen für eine bessere Verzahnung der Leistungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra kämpft täglich mit der Unterversorgung auf dem Land und der schlechten Vernetzung zwischen ambulant und stationär. Ein Landeszentrum für Telemedizin würde direkt ihre Praxis entlasten und Patienten bessere Erreichbarkeit von Fachärzten ermöglichen — ohne dass beide weite Wege zurücklegen müssen.",
+      "begruendung_selbst": "Wenn Telemedizin richtig eingesetzt wird, kann ich meine Patienten viel besser zu Spezialisten lotsen ohne dass sie stundenlang fahren müssen. Das wäre eine echte Entlastung für meine Praxis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mobile Arztpraxen als Versorgungsalternative",
+      "thema": "gesundheit",
+      "programmpunkt": "Innovative Konzepte für mobile Arztpraxen sollen im ländlichen Raum neue Versorgungsmodelle ermöglichen",
+      "seite": 89,
+      "zitat": "innovative Konzepte für mobile Arztpraxen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im Kontext der fehlenden Praxisnachfolge sind mobile Praxismodelle eine realistische Alternative zur Schließung. Für Dr. Petra, die keine Nachfolgerin findet, könnte ein solches Konzept die Übergangsversorgung ihrer Patienten sichern.",
+      "begruendung_selbst": "Wenn ich irgendwann aufhöre und niemanden finde, der meine Praxis übernimmt, wäre eine mobile Lösung zumindest besser als gar keine Versorgung mehr für meine Patienten.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Grundversorgung ambulant und stationär sichern",
+      "thema": "gesundheit",
+      "programmpunkt": "Ambulante und stationäre geburtshilfliche Versorgung sowie Kinderheilkunde sollen gesichert werden, fachlich hochwertig und erreichbar",
+      "seite": 80,
+      "zitat": "ambulante und stationäre geburtshilfliche Versorgung und die Kinderheilkunde gilt es zu sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Bekenntnis zur Sicherung der Grundversorgung im ländlichen Raum bestätigt Dr. Petras tägliche Arbeit als systemrelevant und gibt ihr politische Rückendeckung für den Erhalt der Infrastruktur, auf die ihre Patienten angewiesen sind.",
+      "begruendung_selbst": "Endlich steht schwarz auf weiß, dass Kinderheilkunde und Geburtshilfe gesichert werden sollen. Das sind genau die Fachbereiche, die bei uns im ländlichen Raum als erstes sterben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Delegation ärztlicher Leistungen vorantreiben",
+      "thema": "gesundheit",
+      "programmpunkt": "Weitere Delegation und Substitution von ärztlichen Leistungen auf nichtärztliche Gesundheits- und Pflegeprofessionen soll vorangebracht werden",
+      "seite": 81,
+      "zitat": "weitere Delegation und Substitution von bisher ärztlichen Leistungen auf nichtärztliche Gesundheits- und Pflegeprofessionen vorangebracht werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra ist chronisch überlastet. Die Möglichkeit, Routineaufgaben an VERAH, MFA oder Pflegefachkräfte zu delegieren, würde ihre Kapazität für komplexe Fälle erhöhen und die Praxis als Einzelpraxis überlebensfähiger machen.",
+      "begruendung_selbst": "Wenn ich Routinechecks und Hausbesuche an gut ausgebildete nichtärztliche Fachkräfte delegieren kann, kann ich endlich wieder Arzt sein statt Verwaltungsapparat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hausärzte dürfen Schwangerschaftsabbrüche beraten",
+      "thema": "gesundheit",
+      "programmpunkt": "Hausärztinnen und Hausärzte in Sachsen-Anhalt sollen Zulassungen für Beratung und Durchführung medikamentöser Schwangerschaftsabbrüche erhalten können",
+      "seite": 83,
+      "zitat": "Hausärzt*innen in Sachsen-Anhalt Zulassungen für eine Beratung und eine Durchführung eines medikamentösen Schwangerschaftsabbruchs erhalten können",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Diese Maßnahme erweitert den Handlungsspielraum von Hausärztinnen direkt und ermöglicht eine wohnortnahe Versorgung in einer sensiblen Situation. Für eine Landärztin, die ohnehin Allrounderin sein muss, bedeutet das eine konkrete Kompetenzerweiterung.",
+      "begruendung_selbst": "Das ist eine längst überfällige Maßnahme. Meine Patientinnen müssen für sowas bisher weite Wege auf sich nehmen — wenn ich das in der Praxis anbieten kann, ist das ein echter Mehrwert.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kein Bürokratieabbau für Praxen",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm enthält keine konkreten Maßnahmen zum Abbau der Dokumentations- und Verwaltungslast für niedergelassene Ärztinnen und Ärzte",
+      "seite": 80,
+      "zitat": "stationäre Versorgung fachlich hochwertig und erreichbar absichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petras größte Alltagslast ist Bürokratie — Dokumentation, Abrechnung, Qualitätssicherung. Das Programm schweigt dazu vollständig. Ohne Entlastung hier bleibt die Praxis auf Dauer nicht tragbar, egal wie gut die Versorgungspolitik sonst ist.",
+      "begruendung_selbst": "Ich verbringe mehr Zeit mit Formularen als mit Patienten. Kein Wort dazu im Programm — das enttäuscht mich, weil das mein größtes Problem im Alltag ist.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Keine konkreten Niederlassungsanreize",
+      "thema": "gesundheit",
+      "programmpunkt": "Spezifische Förderprogramme oder Anreizstrukturen für die Ansiedlung junger Ärztinnen und Ärzte im ländlichen Raum fehlen im Programm",
+      "seite": 89,
+      "zitat": "innovative Konzepte für mobile Arztpraxen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mobile Praxen sind ein Notfallkonzept, kein struktureller Anreiz für Niederlassung. Dr. Petras eigentliches Problem ist das Fehlen einer Nachfolgerin — dafür bräuchte es Stipendien, Landarztquoten, Praxisübergabehilfen. Das Programm schweigt dazu.",
+      "begruendung_selbst": "Mobile Praxen sind schön, aber ich brauche jemanden der meine Praxis übernimmt. Das ist eine konkrete Personagewinnungsfrage, keine Konzeptfrage — und genau das fehlt hier.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Migration löst Nachfolgeproblem nicht",
+      "thema": "integration",
+      "programmpunkt": "Migration wird als essenziell für das Gesundheitssystem bezeichnet, ohne konkrete Umsetzungswege für ländliche Niederlassung ausländischer Ärzte zu benennen",
+      "seite": 81,
+      "zitat": "Migration eine essenzielle Stütze für das Gesundheitssystem",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra steht ausländischen Kolleginnen und Kollegen grundsätzlich offen gegenüber, aber der Satz im Programm bleibt eine allgemeine Feststellung. Konkrete Maßnahmen zur Anerkennung ausländischer Abschlüsse oder zur gezielten Ansiedlung im Landkreis fehlen.",
+      "begruendung_selbst": "Ja, Migration hilft dem Gesundheitssystem — das weiß ich aus meiner Praxis. Aber wie wir konkret ausländische Kollegen nach Sachsen-Anhalt auf das Land holen, steht da nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Grünen-Programm trifft Dr. Petras Versorgungsrealität in mehreren zentralen Punkten: Telemedizin, mobile Praxen, Delegation und die Erweiterung des hausärztlichen Handlungsspielraums bei Schwangerschaftsabbrüchen sind konkrete und gut gedachte Maßnahmen. Das strukturelle Nachfolgeproblem der Landärztin — das eigentliche Kernproblem — wird jedoch nicht gelöst: Weder Bürokratieabbau noch gezielte Niederlassungsanreize für Jungärzte finden sich im Programm. Das Ergebnis ist ein Programm, das die Symptome der Unterversorgung adressiert, ohne deren Ursachen zu beheben.",
+    "score": 1
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Null Toleranz für Diskriminierung",
+      "thema": "demokratie",
+      "programmpunkt": "Diskriminierung wegen Herkunft, Religion, sexueller Orientierung oder geschlechtlicher Identität soll mit null Toleranz bekämpft werden.",
+      "seite": 40,
+      "zitat": "Wir zeigen null Toleranz gegen diejenigen, die Menschen wegen ihrer Herkunft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule fürchtet den Abbau von Antidiskriminierungsarbeit; ein klares Bekenntnis gegen Diskriminierung schützt queere Lebensweisen wie ihre.",
+      "begruendung_selbst": "Dass sexuelle Orientierung und Identität ausdrücklich genannt werden, gibt mir das Gefühl, nicht verhandelbar zu sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schutz für unsere Demos",
+      "thema": "demokratie",
+      "programmpunkt": "Großveranstaltungen diskriminierter Gruppen sollen ausreichend polizeilich abgesichert werden, um Angriffe zu verhindern.",
+      "seite": 41,
+      "zitat": "dass Großveranstaltungen von diskriminierten Gruppierungen ausreichend mit Polizisten abgesichert sind",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als queere Aktivistin erlebt Jule Veranstaltungen wie den CSD als gefährdet; ein staatlicher Schutzauftrag bestätigt ihr Sicherheitsbedürfnis.",
+      "begruendung_selbst": "Beim CSD muss ich keine Angst vor Übergriffen haben - dass der Staat dafür sorgen will, ist genau richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Selbstbestimmung ohne Gutachter",
+      "thema": "demokratie",
+      "programmpunkt": "Verwaltungshandeln zur Geschlechtsidentität soll vom Gedanken der Selbstbestimmung geprägt sein, ohne externe Gutachter.",
+      "seite": 41,
+      "zitat": "Administrative Akte müssen vom Gedanken der Selbstbestimmung geprägt sein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule legt Wert auf Anerkennung verschiedener Geschlechtsidentitäten; die Selbstbestimmungs-Orientierung in der Verwaltung stützt ihre Rechte.",
+      "begruendung_selbst": "Meine Identität ist keine Frage für irgendwelche Gutachter. Selbstbestimmung als Prinzip - so muss Verwaltung denken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Schwangerschaftsabbruch entstigmatisieren",
+      "thema": "familie",
+      "programmpunkt": "Der Zugang zu wohnortnaher, ergebnisoffener Beratung und Versorgung bei Schwangerschaftsabbrüchen soll verbessert werden.",
+      "seite": 43,
+      "zitat": "Der Zugang zu wohnortnaher, professioneller und ergebnisoffener Beratung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Selbstbestimmung über den eigenen Körper ist Teil von Jules Werten; bessere, entstigmatisierte Versorgung deckt sich mit ihrer Haltung.",
+      "begruendung_selbst": "Dass das endlich als medizinische Versorgung statt als Tabu behandelt wird - das war überfällig.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaschutz wird abgeräumt",
+      "thema": "klima",
+      "programmpunkt": "Klimapolitik wird auf marktwirtschaftliche Instrumente verengt und vor Verboten und Symbolmaßnahmen gewarnt.",
+      "seite": 23,
+      "zitat": "Klimapolitik darf nicht in Bevormundung, Verboten und teuren Symbolmaßnahmen abgleiten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule baut ihre Zukunft auf konsequenten Klimaschutz; die Abwehr ordnungsrechtlicher Maßnahmen liest sie als Rückbau der Energiewende.",
+      "begruendung_selbst": "Das klingt für mich nach Ausreden, um nichts Verbindliches zu tun. Es geht um meine Zukunft, nicht um Symbolik.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Atom und Fracking statt Wende",
+      "thema": "energie",
+      "programmpunkt": "Das Programm will den Wiedereinstieg in die Kernenergie und die Nutzung von heimischem Fracking-Gas.",
+      "seite": 14,
+      "zitat": "Dazu gehört für uns auch der Wiedereinstieg in die Nutzung der Kernenergie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule steht die konsequente Energiewende im Zentrum; Atomkraft und Fracking widersprechen ihrem klima- und sicherheitspolitischen Verständnis fundamental.",
+      "begruendung_selbst": "Zurück zur Atomkraft und auch noch Fracking? Das ist das Gegenteil von dem, was wir für eine lebenswerte Zukunft brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Windkraft ausbremsen",
+      "thema": "energie",
+      "programmpunkt": "Bei Erfüllung des Sektorenziels soll die Pflicht zur Erfüllung des Flächenziels für Windkraft entfallen.",
+      "seite": 15,
+      "zitat": "entfällt die Pflicht zur Erfüllung des für sie derzeit festgelegten Flächenziels bis 2032",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule will einen konsequenten Erneuerbaren-Ausbau; das Aufweichen verbindlicher Flächenziele wertet sie als Bremse der Energiewende.",
+      "begruendung_selbst": "Verbindliche Ausbauziele aufweichen heißt: weniger Erneuerbare. Das ist das Letzte, was wir jetzt brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gendern soll verboten werden",
+      "thema": "demokratie",
+      "programmpunkt": "In der Behördenkommunikation soll keine Gendersprache vorgeschrieben werden.",
+      "seite": 41,
+      "zitat": "keine Gendersprache in der Behördenkommunikation vorzuschreiben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sprachliche Sichtbarkeit ist Teil von Jules Gleichstellungsverständnis; ein Verbot, geschlechtergerechte Sprache zu nutzen, läuft ihren Werten zuwider.",
+      "begruendung_selbst": "Sprache schafft Sichtbarkeit. Wenn man uns das ausreden will, ist das eben doch ein Signal gegen uns.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule erlebt das Programm zwiespältig: Beim Diskriminierungsschutz, der Absicherung queerer Veranstaltungen, der Selbstbestimmung und der Versorgung bei Schwangerschaftsabbrüchen fühlt sie sich überraschend ernst genommen. Beim Klima- und Energiekurs - verbotskritisch, mit Atomkraft, Fracking und aufgeweichten Windzielen - sieht sie dagegen ihre Lebensgrundlage bedroht, und beim Gendern ein Signal gegen sich. Unterm Strich überwiegt für sie die klimapolitische Enttäuschung knapp.",
+    "score": -1
+  }
+}

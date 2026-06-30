@@ -1,0 +1,101 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kita-Platz in der Nähe garantiert",
+      "thema": "familie",
+      "programmpunkt": "Das Programm „HeimatKita“ verspricht eine Kindertagesbetreuung im Ort oder maximal 15 Minuten entfernt.",
+      "seite": 57,
+      "zitat": "maximal 15 Minuten entfernt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein fehlender Kita-Platz erschwert Tom und Jessica die Vereinbarkeit zweier Jobs; eine Betreuungsgarantie in der Nähe trifft ihre konkrete Not.",
+      "begruendung_selbst": "Ohne verlässlichen Kita-Platz können wir nicht beide arbeiten – eine Garantie in der Nähe wäre Gold wert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgschaft auch ohne dickes Polster",
+      "thema": "wohnen",
+      "programmpunkt": "Für Haushalte ohne Rücklagen sollen Landesausfallbürgschaften eingeführt werden.",
+      "seite": 92,
+      "zitat": "Landesausfallbürgschaften für Haushalte ohne Rücklagen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Den beiden fehlt Eigenkapital für eine tragbare Finanzierung; Landesbürgschaften für Haushalte ohne Rücklagen könnten ihren Zugang zur Finanzierung verbessern.",
+      "begruendung_selbst": "Uns fehlt das Eigenkapital, nicht der Wille – eine Landesbürgschaft könnte für uns die Tür öffnen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sie werben um Familien wie uns",
+      "thema": "wohnen",
+      "programmpunkt": "Eine Kampagne soll gezielt junge Familien für das Wohnen und Leben in ländlichen Räumen gewinnen.",
+      "seite": 92,
+      "zitat": "die gezielt junge Familien anspricht",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Speckgürtel-Paar mit Kleinkind gehören Tom und Jessica zur umworbenen Zielgruppe; das Werben um junge Familien signalisiert ihnen Wertschätzung.",
+      "begruendung_selbst": "Schön, dass man Familien wie uns aufs Land holen will – nur muss das Wohnen dann auch bezahlbar sein.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sanierung statt Bauen – und unser Traum?",
+      "thema": "wohnen",
+      "programmpunkt": "Der Vorrang des Bestands wird Leitprinzip: Sanierung statt Neubau.",
+      "seite": 92,
+      "zitat": "Vorrang des Bestands wird Leitprinzip",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica träumen von den eigenen vier Wänden im Neubau; ein klarer Vorrang für Bestandssanierung läuft ihrem Eigenheimwunsch zuwider.",
+      "begruendung_selbst": "Wir wollen bauen, nicht ewig im Altbau sanieren – wenn Neubau zur Ausnahme wird, bleibt unser Traum auf der Strecke.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauland wird knapper und teurer",
+      "thema": "wohnen",
+      "programmpunkt": "Der tägliche Flächenverbrauch soll bis 2030 deutlich gesenkt und das 30-Hektar-Ziel eingefordert werden.",
+      "seite": 93,
+      "zitat": "Flächenverbrauch soll bis 2030 deutlich gesenkt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Baulandpreise sind für das Paar ohnehin ein Traumkiller; eine starke Begrenzung des Flächenverbrauchs verknappt Bauland und droht es weiter zu verteuern.",
+      "begruendung_selbst": "Wenn noch weniger Bauland ausgewiesen wird, treibt das die Preise – und für uns wird Eigentum endgültig unerreichbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauen nur mit Bus vor der Tür",
+      "thema": "wohnen",
+      "programmpunkt": "Flächen für Neubauten sollen nur vorgesehen werden, wenn eine ÖPNV-Anbindung vorhanden ist oder sichergestellt werden kann.",
+      "seite": 92,
+      "zitat": "wenn eine ÖPNV-Anbindung vorhanden ist",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Im Speckgürtel suchen Tom und Jessica nach bezahlbarem Bauland; eine ÖPNV-Bedingung für Neubaugebiete schränkt ihre ohnehin knappen Möglichkeiten weiter ein.",
+      "begruendung_selbst": "Gerade die günstigen Lagen haben oft keinen Bus – wenn dort dann gar nicht gebaut werden darf, wird es eng für uns.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica finden bei Kita-Garantie, Landesbürgschaften ohne Eigenkapital und dem Werben um junge Familien echte Anknüpfungspunkte. Ihr Kernwunsch – bezahlbares Eigenheim im Neubau – kollidiert jedoch mit dem Leitprinzip Bestand-vor-Neubau, der Flächensparpolitik und ÖPNV-Auflagen für Bauland. Unterm Strich sehen sie ihren Eigentumstraum eher gebremst als gefördert.",
+    "score": -1
+  }
+}

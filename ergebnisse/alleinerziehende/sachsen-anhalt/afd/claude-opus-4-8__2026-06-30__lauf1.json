@@ -1,0 +1,125 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kostenlose Kita - das wäre riesig!",
+      "thema": "familie",
+      "programmpunkt": "Krippen und Kindergärten sollen ab dem ersten Kind landesweit kostenlos werden.",
+      "seite": 4,
+      "zitat": "ab dem ersten Kind kostenlos machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Betreuungskosten belasten Nadines knappes Budget stark; kostenlose Kitaplätze würden ihr finanziell und bei der Vereinbarkeit spürbar helfen.",
+      "begruendung_selbst": "Wenn die Kita nichts mehr kostet, bleibt bei mir am Monatsende wirklich was übrig. Das würde so viel ausmachen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Familiengeld für meine zwei Kinder!",
+      "thema": "familie",
+      "programmpunkt": "Ein landeseigenes Familiengeld soll Eltern ab Geburt monatlich pro Kind unterstützen, gestaffelt nach Kinderzahl.",
+      "seite": 4,
+      "zitat": "für ihr erstgeborenes Kind monatlich 50 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit zwei Kindern und knappem Einkommen wäre ein monatliches Familiengeld für Nadine ein realer Zuschuss, der jeden Monat zählt.",
+      "begruendung_selbst": "Bei zwei Kindern macht so ein monatliches Plus für mich den Unterschied zwischen knapp und ganz knapp.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schulessen und Bücher umsonst!",
+      "thema": "bildung",
+      "programmpunkt": "Schulbücher sollen leihweise kostenlos gestellt und die Mittagsverpflegung von der Krippe bis zur Schule kostenfrei sein.",
+      "seite": 7,
+      "zitat": "Kostenlose Bücher für jedes Kind!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Lernmittel und Klassenkosten sind für Nadine oft ein Problem; kostenlose Bücher und Schulessen entlasten ihre Kinder und ihren Geldbeutel.",
+      "begruendung_selbst": "Schulbücher, Essen, das summiert sich. Wenn das übernommen wird, muss ich nicht bei jedem Schulbrief schlucken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sportverein gratis für meine Kinder!",
+      "thema": "familie",
+      "programmpunkt": "Jedes Kind soll sich bis 18 kostenfrei in einem Verein seiner Wahl sportlich betätigen können.",
+      "seite": 4,
+      "zitat": "sich in einem Verein seiner Wahl kostenfrei sportlich zu betätigen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Vereinsbeiträge kann sich Nadine oft nicht leisten; kostenfreier Vereinssport ermöglicht ihren Kindern Teilhabe, die sonst am Geld scheitert.",
+      "begruendung_selbst": "Meine Kinder sollen in den Verein wie die anderen auch. Wenn das nichts kostet, müssen sie nicht draußen bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bezahlbare Wohnung wäre überfällig",
+      "thema": "wohnen",
+      "programmpunkt": "Der soziale Wohnungsbau soll gefördert und bezahlbarer Wohnraum für Geringverdiener vorgehalten werden.",
+      "seite": 15,
+      "zitat": "bezahlbare Wohnungen für Personen mit geringem und mittlerem Einkommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Miete frisst bei Nadine den Großteil des Einkommens; mehr bezahlbarer Wohnraum würde ihren größten Kostenblock entschärfen.",
+      "begruendung_selbst": "Die Miete frisst bei mir fast alles. Bezahlbare Wohnungen wären für uns das Wichtigste überhaupt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Meine Familie ist auch eine richtige!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei stellt sich dagegen, sogenannte Einelternfamilien als normalen oder erstrebenswerten Lebensentwurf darzustellen.",
+      "seite": 4,
+      "zitat": "als normalen, fortschrittlichen oder gar erstrebenswerten Lebensentwurf zu propagieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine reagiert empfindlich, wenn ihr Lebensmodell als nicht richtig behandelt wird; die ausdrückliche Abwertung der Einelternfamilie trifft sie und ihre Kinder in ihrer Würde.",
+      "begruendung_selbst": "Ich arbeite, ich kümmere mich, ich gebe alles für meine Kinder. Und trotzdem wird gesagt, unsere Familie sei nicht das Richtige? Das tut weh.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Staat - wer hilft mir dann?",
+      "thema": "familie",
+      "programmpunkt": "Aufgaben sollen von der Familie statt vom Staat übernommen werden; funktionierende Familien machten etwa Schulsozialarbeiter überflüssig.",
+      "seite": 4,
+      "zitat": "Funktionierende Familien machen Schulsozialarbeiter überflüssig",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine hat kaum Unterstützung im Alltag und ist auf staatliche und institutionelle Hilfen angewiesen; die Idee, dass die Familie das auffängt, geht an ihrer Lage als alleinerziehende Berufstätige vorbei.",
+      "begruendung_selbst": "Ich habe keine Familie, die mal eben einspringt. Wenn der Staat sich zurückzieht und auf die Familie setzt, stehe ich allein da.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verlässliche Betreuung kommt zu kurz",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm betont Beitragsfreiheit und ein bestimmtes Betreuungskonzept, adressiert aber nicht den Ausbau verlässlicher Plätze und Öffnungszeiten.",
+      "seite": 4,
+      "zitat": "Mehr Familie, weniger Staat!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine braucht vor allem einen verlässlichen Platz mit Öffnungszeiten, die zur Arbeit passen; der Schwerpunkt auf weniger Staat verspricht ihr keine bessere Vereinbarkeit.",
+      "begruendung_selbst": "Gebt mir einen verlässlichen Betreuungsplatz, dann kann ich auch mehr arbeiten. Gratis nützt mir nichts, wenn der Platz oder die Zeiten fehlen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet im Programm handfeste finanzielle Entlastungen für ihre Lage: kostenlose Kita, Familiengeld, gratis Schulessen, Bücher und Vereinssport sowie bezahlbaren Wohnraum. Dem steht entgegen, dass ihr Lebensmodell als Alleinerziehende ausdrücklich abgewertet wird und die Linie 'mehr Familie, weniger Staat' an ihrer Lebensrealität ohne familiäres Auffangnetz vorbeigeht. Material und Würde ziehen für sie in entgegengesetzte Richtungen.",
+    "score": 0
+  }
+}

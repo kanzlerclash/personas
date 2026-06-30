@@ -1,0 +1,113 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mietpreisbremse statt Renditelogik – das klingt richtig",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke benennt Aktienkonzerne und Großvermieter, die Mieten als Renditelieferanten missbrauchen, und fordert eine Mietpreisbremse sowie die Stärkung gemeinnütziger Wohnungswirtschaft.",
+      "seite": 82,
+      "zitat": "Aktien-Konzerne und Großvermieter zahlen aus unseren Mieten Renditen an ihre Anleger:innen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla erlebt genau diese Konstellation in Berlin: Ihr Vermieter ist Teil einer Investmentkette, nicht ein einzelner Eigentümer. Die Benennung dieser Logik durch die Linke und die daraus abgeleitete Forderung nach Mietpreisbremse und gemeinnütziger Wohnungswirtschaft treffen ihre Analyse exakt – auch wenn das Programm Sachsen-Anhalt betrifft, signalisiert es ihr, welchen Weg die Partei bundesweit geht.",
+      "begruendung_selbst": "Das ist es. Wohnen ist für diese Konzerne kein Recht, sondern ein Aktienposten. Dass die Linke das so benennt, zeigt mir, dass sie kapiert haben, worum es wirklich geht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Modernisierungsumlage weg – mein größtes Angstthema",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke fordert die Abschaffung der Modernisierungsumlage, durch die Vermieter Sanierungskosten dauerhaft auf Mieten umlegen dürfen.",
+      "seite": 84,
+      "zitat": "die Modernisierungsumlage abschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carlas größte Angst ist der Brief mit der Modernisierungsankündigung im Briefkasten, der ihre Miete explodieren lässt. Die Modernisierungsumlage ist das juristische Instrument dahinter. Die klare Forderung nach ihrer Abschaffung trifft ihren zentralen Schutzwunsch.",
+      "begruendung_selbst": "Das ist genau das Instrument, mit dem mein Kiez gerade umgebaut wird. Sanierungen sind gut – aber warum soll ich zahlen, wenn der Vermieter damit Wert aufbaut? Die Umlage macht aus energetischer Sanierung ein Verdrängungswerkzeug.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Grundsteuer nicht mehr auf mich abwälzen",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will verhindern, dass die Grundsteuer von Vermieter:innen auf Mieter:innen umgelegt wird – eine Entlastung, die direkt in den Geldbeutel von Mieterhaushalten eingreift.",
+      "seite": 84,
+      "zitat": "die Grundsteuer nicht mehr auf die Mieter:innen umgelegt wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Grundsteuerumlage ist in Berlin eine spürbare Kostenposition, die Mieter:innen als Betriebskosten zahlen, obwohl die Grundsteuer eigentlich auf das Eigentum erhoben wird. Carla sieht in dieser Regelung typisches Beispiel dafür, wie Kosten von Eigentümern auf Mieter:innen verschoben werden.",
+      "begruendung_selbst": "Ich zahle Grundsteuer auf eine Wohnung, die mir nicht gehört. Das ist absurd. Diese Praxis zu beenden wäre eine echte, direkte Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Landeswohnungsbaugesellschaft – Daseinsvorsorge statt Markt",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke setzt sich für die Gründung einer Landeswohnungsbaugesellschaft ein, die dauerhaft gebundenen sozialen Wohnraum schafft, auch dort wo weder Genossenschaften noch kommunale Unternehmen aktiv sind.",
+      "seite": 84,
+      "zitat": "Gleichzeitig sollen Wohnungen geschaffen werden, die nicht aus der Sozialbindung fallen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht gemeinwohlorientierte Wohnungsunternehmen als einzige echte Alternative zur Marktlogik. Die Landeswohnungsbaugesellschaft mit dauerhafter Sozialbindung ist für sie das Modell, das auch Berlin fehlt: ein öffentlicher Akteur, der dauerhaft günstige Wohnungen hält statt sie nach Ablauf der Bindungsfrist dem Markt zu überlassen.",
+      "begruendung_selbst": "Sozialbindungen, die nach 20 Jahren auslaufen, sind ein Witz. Was ich will, ist Wohnraum, der dauerhaft dem Markt entzogen ist. Dass die Linke 'nicht aus der Sozialbindung fallen' als Ziel setzt, zeigt das richtige Verständnis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenloser ÖPNV – so sollte Stadt funktionieren",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will den ÖPNV mittelfristig landesweit zum Nulltarif anbieten, beginnend mit günstigen Tickets für Schüler:innen, Azubis, Studierende und Menschen mit Sozialticket.",
+      "seite": 102,
+      "zitat": "Wir wollen ihn deshalb mittelfristig landesweit zum Nulltarif anbieten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla fährt in Berlin ohne Auto, ausschließlich mit ÖPNV und Rad. Kostenloser Nahverkehr ist für sie eine direkte Entlastung und ein stadtpolitisches Signal: Mobilität als Daseinsvorsorge, nicht als kostenpflichtiger Service. Dass die Linke dieses Ziel für Sachsen-Anhalt anstrebt, bestätigt ihr die politische Richtung der Partei.",
+      "begruendung_selbst": "Nulltarif-ÖPNV ist für mich die logische Schlussfolgerung aus 'Mobilität ist Daseinsvorsorge'. Wenn Sachsen-Anhalt das hinbekommt, soll Berlin bitte erklären, warum das dort nicht geht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Eigenheimsubventionen statt Mieterschutz – falsche Priorität",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will einkommensgestaffelte Förderprogramme für energetische Sanierungen und Heizungstausch von selbstgenutzten Eigenheimen – öffentliche Mittel fließen damit an Wohneigentümer:innen.",
+      "seite": 85,
+      "zitat": "Förderung für die energetische Sanierung sowie den Austausch von Heizungsanlagen von selbstgenutzten Eigenheimen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aus Carlas Sicht sind öffentliche Förderprogramme für Eigenheimbesitzer:innen die falsche Priorität, solange Mieter:innen ungeschützt bleiben. Eigenheimbesitzer:innen haben durch ihr Eigentum bereits einen strukturellen Vorteil; öffentliche Mittel für ihre Renovierungen zu verwenden stärkt die Eigentumsseite, nicht die Mieterseite.",
+      "begruendung_selbst": "Meine Vermieterin kann ihre Heizung mit Steuergeld erneuern – und die Kosten trotzdem über die Nebenkosten auf mich abwälzen. Das ist die Logik hinter solchen Programmen. Ich würde das Geld lieber in echten Mieterschutz stecken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das hier ist nicht mein Wohnungsmarkt",
+      "thema": "wohnen",
+      "programmpunkt": "Der Wohnungsteil des Programms adressiert vor allem die spezifische Sachsen-Anhalt-Situation: DDR-Plattenbauten, Leerstand im ländlichen Raum, strukturelle Schrumpfung – Probleme eines ganz anderen Wohnungsmarkts als Carlas Berliner Innenstadtsituation.",
+      "seite": 85,
+      "zitat": "Förderprogramm um Plattenbauten aus DDR-Zeiten durch Aufwertung, Wohnungszusammenlegung und Geschossrückbau attraktiver zu machen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Das Sachsen-Anhalt-Programm richtet sich auf Schrumpfung, Leerstand und DDR-Altbestand – Probleme, die mit Carlas Berliner Realität (Nachfragedruck, explodierende Mieten, kaum freie Wohnungen) wenig gemein haben. Die konkreten Maßnahmen treffen ihre Situation nicht. Das Programm zeigt die ideologische Richtung der Partei, nicht die Lösungen für ihren Alltag.",
+      "begruendung_selbst": "Ich lebe in einer Stadt, wo es zu wenig Wohnungen gibt und zu viele Angebote an Investoren. Hier geht es um Leerstand und Plattenbauten. Das ist eine andere Welt. Gut für die Menschen dort – aber nicht mein Problem.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im Linke-Programm für Sachsen-Anhalt viele ihrer zentralen wohnpolitischen Forderungen: Mietpreisbremse, Abschaffung der Modernisierungsumlage, Grundsteuer nicht mehr auf Mieter:innen umlegen, dauerhaft gebundener Sozialwohnungsbau und langfristig kostenloser ÖPNV decken sich mit ihrer gemeinwohlorientierten Grundhaltung. Das Programm signalisiert ihr die richtige politische Richtung der Partei. Gleichzeitig erkennt sie: Das Programm löst ihre Berliner Probleme nicht – es adressiert einen ganz anderen Wohnungsmarkt mit Leerstand und Schrumpfung statt Nachfrageüberhang und Verdrängung. Öffentliche Mittel für Eigenheimsubventionen sieht sie kritisch. In der Gesamtbewertung überwiegt die ideologische Übereinstimmung, gebremst durch die Erkenntnis, dass das Programm nicht für ihre Lebenssituation gemacht ist.",
+    "score": 1
+  }
+}

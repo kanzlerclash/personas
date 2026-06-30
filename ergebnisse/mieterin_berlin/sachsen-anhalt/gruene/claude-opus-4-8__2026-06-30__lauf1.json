@@ -1,0 +1,88 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen ist kein Aktienpaket",
+      "thema": "wohnen",
+      "programmpunkt": "Wohnen wird als Grundrecht definiert, Wohnungen ausdrücklich nicht als Spekulationsobjekt.",
+      "seite": 91,
+      "zitat": "Wohnen ist ein Grundrecht und Wohnungen sind kein Spekulationsobjekt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carlas Grundüberzeugung ist, dass Wohnen Daseinsvorsorge und kein Spekulationsgut ist; das Programm formuliert genau diesen Satz.",
+      "begruendung_selbst": "Das ist es doch: Wohnen ist kein Aktienpaket. Endlich steht das mal so schwarz auf weiß.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mieten deckeln",
+      "thema": "wohnen",
+      "programmpunkt": "Zur Sicherung von bezahlbarem Wohnraum sollen Mietendeckel eingesetzt werden.",
+      "seite": 91,
+      "zitat": "Mietendeckel eingesetzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt unter der Angst vor Mieterhöhung und Verdrängung; ein Mietendeckel ist für sie das wirksamste Schutzinstrument.",
+      "begruendung_selbst": "Ein Deckel auf die Mieten – das wäre für mich der Unterschied zwischen Bleiben und Wegmüssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schutz vor Rauswurf",
+      "thema": "wohnen",
+      "programmpunkt": "Befürwortet wird ein landesweites Moratorium für Zwangsräumungen wegen Mietschulden bei Wohnungen in öffentlicher Hand.",
+      "seite": 92,
+      "zitat": "Moratorium für Zwangsräumungen aufgrund von Mietschulden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Verdrängung ist Carlas zentrale Angst; ein Räumungsmoratorium adressiert ihre Sorge, das Zuhause zu verlieren.",
+      "begruendung_selbst": "Die Angst, plötzlich auf der Straße zu stehen – ein Moratorium gegen Räumungen nimmt genau die ernst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Boden den Spekulanten entziehen",
+      "thema": "wohnen",
+      "programmpunkt": "Das kommunale Vorkaufsrecht soll gesichert und ausgeweitet werden, um Bodenspekulation zu verhindern.",
+      "seite": 98,
+      "zitat": "um Bodenspekulation zu verhindern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht im Markt die Ursache von Verdrängung; kommunale Instrumente gegen Bodenspekulation entsprechen ihrem gemeinwohlorientierten Wohnverständnis.",
+      "begruendung_selbst": "Wenn die Kommune Grundstücke vor Spekulanten schützen kann, dann bleibt der Kiez vielleicht der Kiez.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stadt für Menschen, nicht Autos",
+      "thema": "verkehr",
+      "programmpunkt": "Autoarme Quartiere sollen durch Begrenzung des Durchgangsverkehrs und autofreie Zonen gefördert werden.",
+      "seite": 93,
+      "zitat": "Wir fördern autoarme Quartiere",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt ohne Auto und schätzt eine lebenswerte, gemischte Stadt; die Förderung autoarmer Quartiere passt zu ihrem Alltag.",
+      "begruendung_selbst": "Ich brauche kein Auto, ich brauche lebenswerte Straßen – autoarme Quartiere sind genau mein Ding.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Carla findet ihre wohnungspolitischen Überzeugungen fast wörtlich wieder: Wohnen als Grundrecht, Mietendeckel, ein Räumungsmoratorium, kommunale Instrumente gegen Bodenspekulation und eine autoarme Stadt. Das Programm stellt Gemeinwohl klar über Marktlogik – genau ihre Linie. Sie reagiert deutlich zustimmend, auch wenn sie als Berlinerin die Umsetzung kritisch beobachten würde.",
+    "score": 2
+  }
+}

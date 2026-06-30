@@ -1,0 +1,88 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Queere Lebensweisen als 'Abweichung'!",
+      "thema": "familie",
+      "programmpunkt": "Das Programm bezeichnet nicht-heteronormative Lebensweisen als 'sexuelle Abweichungen' und will staatliche Werbung dafür einstellen; es positioniert die Ehe aus Mann und Frau als einzige normative Normalform.",
+      "seite": 4,
+      "zitat": "sexuelle Abweichungen und nicht-reproduktive Lebensweisen mittlerweile mehr Akzeptanz genießen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule ist queer und erlebt diese Formulierung als direkte Abwertung ihrer Lebensweise durch ein mögliches Regierungsprogramm; die Sprache selbst signalisiert, dass sie nicht als gleichwertige Bürgerin gilt.",
+      "begruendung_selbst": "Wenn eine Partei meine Rechte zur Verhandlungsmasse macht, weiß ich genug. Mich als 'Abweichung' zu bezeichnen – das ist kein sachpolitisches Argument, das ist Ausgrenzung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pubertätsblocker verbieten – mein Körper!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm will den Zugang zu Pubertätsblockern und geschlechtsangleichenden Hormontherapien für Minderjährige einschränken oder unterbinden.",
+      "seite": 4,
+      "zitat": "Zugang zu diesen experimentellen Eingriffen einzuschränken",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule setzt sich in ihrem Hochschulumfeld für trans* Rechte ein; das Programm greift medizinische Entscheidungen an, die Betroffenen und ihren Ärzten zustehen sollten.",
+      "begruendung_selbst": "Das ist nicht der Staat, der schützt – das ist der Staat, der einschränkt. Junge Menschen, die sich in ihrem Körper nicht wohlfühlen, brauchen Unterstützung, keine Verbote.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiewende komplett stoppen – meine Zukunft!",
+      "thema": "klima",
+      "programmpunkt": "Das Programm will die Energiewende beenden und die Klimapolitik als 'globalistische Klimaideologie' ablehnen; fossile Energie soll dauerhaft Teil des Mixes bleiben.",
+      "seite": 13,
+      "zitat": "AfD lehnt die globalistische Klimaideologie und die damit einhergehende Wohlstandsvernichtungspolitik grundlegend ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule ist der Klimaschutz keine Ideologie, sondern die Frage, ob sie in zwanzig Jahren noch eine lebenswerte Zukunft hat; die Kehrtwende in der Energiepolitik trifft sie an ihrem Kernwert.",
+      "begruendung_selbst": "Es geht nicht um Ideologie – es geht darum, ob ich in zwanzig Jahren noch eine lebenswerte Zukunft habe. Wer die Energiewende als gescheitert erklärt und fossile Energie ausbauen will, nimmt mir diese Zukunft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gendersprache verboten – auch an der Uni!",
+      "thema": "bildung",
+      "programmpunkt": "Das Programm will Gendersprache im gesamten amtlichen Sprachgebrauch verbieten, einschließlich an Schulen und in staatlichen Hochschulstrukturen.",
+      "seite": 6,
+      "zitat": "Gendersprache im gesamten amtlichen Sprachgebrauch untersagen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule studiert Sozial-/Umweltwissenschaften und nutzt inklusivere Sprache als Teil ihres Alltags und akademischen Umfelds; ein staatliches Verbot empfindet sie als Eingriff in die Sprachfreiheit.",
+      "begruendung_selbst": "Sprache ist Ausdruck davon, wen man als Teil der Gesellschaft sieht. Wenn der Staat vorschreibt, wie man schreiben darf – das ist keine Freiheit, das ist Kontrolle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Geld für queere Organisationen!",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm will Vereinen und Organisationen, die es als 'pervers-linke Agitation' bewertet, jede öffentliche Förderung entziehen.",
+      "seite": 4,
+      "zitat": "Vereinen und Organisationen, die sich an solcher Agitation beteiligen, jede Form öffentlicher Förderung und steuerlicher Vergünstigung entziehen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule ist in einer Klima- und Hochschulgruppe aktiv, die sich auch mit Gleichstellungsthemen befasst; das Programm bedroht die Finanzierungsbasis solcher zivilgesellschaftlichen Strukturen.",
+      "begruendung_selbst": "Wenn Gruppen, die sich für Gleichstellung einsetzen, plötzlich keine Förderung mehr bekommen – dann werden Minderheiten still gestellt. Das ist keine neutrale Politik, das ist Ausgrenzung mit Staatsgeld.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule findet im AfD-Programm an fast allen Punkten, die ihre Lebensrealität betreffen, direkte Gegenpositionen: ihre queere Lebensweise wird abgewertet, ihre Klimasorgen als Ideologie abgetan, ihre Sprache verboten und die Strukturen, in denen sie sich bewegt, sollen ihre Förderung verlieren. Das Programm trifft sie existenziell auf mehreren Ebenen gleichzeitig.",
+    "score": -2
+  }
+}

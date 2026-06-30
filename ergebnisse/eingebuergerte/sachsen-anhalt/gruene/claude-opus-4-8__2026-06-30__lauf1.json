@@ -1,0 +1,88 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Schutz vor Diskriminierung",
+      "thema": "demokratie",
+      "programmpunkt": "Mit einem Antidiskriminierungsgesetz soll für die Verwaltung ein einheitlicher Rahmen gegen Diskriminierung geschaffen werden.",
+      "seite": 44,
+      "zitat": "Mit einem Antidiskriminierungsgesetz holen wir für die Verwaltung nach",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt Alltagsdiskriminierung und wünscht klaren Schutz; ein Antidiskriminierungsgesetz für staatliche Stellen trifft ihr Kernanliegen.",
+      "begruendung_selbst": "Wenn ich mich gegen Diskriminierung durch Behörden endlich wehren kann, ist das genau der Schutz, den ich mir wünsche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitbestimmen, wer hier lebt",
+      "thema": "integration",
+      "programmpunkt": "Ein aktives und passives Wahlrecht soll allen dauerhaft in einer Kommune Lebenden zustehen, unabhängig von der Staatsangehörigkeit.",
+      "seite": 35,
+      "zitat": "unabhängig von der Staatsangehörigkeit",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Aylin bemisst sich Zugehörigkeit an Teilhabe statt Abstammung; ein Wahlrecht unabhängig vom Pass macht Integration für ihre Community real.",
+      "begruendung_selbst": "Wer hier lebt und arbeitet, sollte mitentscheiden dürfen – Zugehörigkeit hängt doch nicht am Pass.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eine Verwaltung, die uns abbildet",
+      "thema": "arbeit",
+      "programmpunkt": "Die Polizei soll gezielt Menschen mit Migrationsgeschichte, Frauen und queere Menschen ansprechen und fördern.",
+      "seite": 43,
+      "zitat": "Menschen mit Migrationsgeschichte, Frauen, queere Menschen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Angestellte im öffentlichen Dienst begrüßt Aylin, dass Institutionen Menschen mit Migrationsgeschichte ausdrücklich willkommen heißen und fördern wollen.",
+      "begruendung_selbst": "Wenn der Staat Leute wie mich aktiv sucht und fördert, zeigt das: Wir gehören selbstverständlich dazu.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sie stehen an unserer Seite",
+      "thema": "demokratie",
+      "programmpunkt": "Es gibt ein klares Bekenntnis der Solidarität mit den Betroffenen rechter Gewalt.",
+      "seite": 40,
+      "zitat": "Wir sind solidarisch mit den Betroffenen rechter Gewalt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin fürchtet ausgrenzende Rhetorik wie 'Remigration'; ein ausdrückliches Schutzversprechen gegen rechte Gewalt gibt ihr Sicherheit und Zugehörigkeit.",
+      "begruendung_selbst": "Wenn gegen Menschen wie mich gehetzt wird, will ich wissen, dass der Staat an meiner Seite steht – das tut hier gut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Migrantische Vereine ernst genommen",
+      "thema": "integration",
+      "programmpunkt": "Migrantische Vereine und Initiativen sollen als demokratische Akteure stärker unterstützt und anerkannt werden.",
+      "seite": 74,
+      "zitat": "Migrantische Vereine und Initiativen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin lebt zwischen Mehrheitsgesellschaft und Herkunftscommunity; die Anerkennung migrantischer Selbstorganisationen würdigt ihre Lebenswelt als Teil der Demokratie.",
+      "begruendung_selbst": "Unsere Vereine halten viel zusammen – dass die als demokratische Akteure anerkannt werden, ist überfällig.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet ihre zentralen Sorgen ernst genommen: ein Antidiskriminierungsgesetz, Wahlrecht unabhängig vom Pass, eine vielfältige Verwaltung, Solidarität mit Betroffenen rechter Gewalt und Anerkennung migrantischer Selbstorganisationen. Das Programm spricht über Menschen mit Migrationsgeschichte als selbstverständlichen Teil der Gesellschaft – genau das, was sie sich wünscht. Sie reagiert klar zustimmend.",
+    "score": 2
+  }
+}

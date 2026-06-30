@@ -1,0 +1,67 @@
+name: "Dr. Petra (Landärztin)"
+einzeiler: "Hausärztin auf dem Land ohne Nachfolge, die gegen Bürokratie und für die Versorgung ihrer alternden Patient:innen kämpft."
+themen: [gesundheit, wirtschaft, digitalisierung, verkehr, demokratie]
+gesicht:
+  config:
+    hat: "none"
+    hair: "bun"
+    hairColor: "#9aa0a6"
+    accessory: "round-glasses"
+    top: "robe"
+    topColor: "#e8e8e8"
+    trousers: "suit-trousers"
+    build: "medium"
+    skin: "#f2c79a"
+    mouth: "smile"
+    background: "#06d6a0"
+
+demografie:
+  alter: 48
+  geschlecht: weiblich
+  wohnort: "strukturschwacher ländlicher Raum in Sachsen-Anhalt"
+  haushalt: "berufstätig; die Praxis bestimmt den Alltag, lange Arbeitstage"
+  bildung: "Studium der Humanmedizin, Fachärztin für Allgemeinmedizin, niedergelassen"
+
+oekonomie:
+  beruf: "Hausärztin mit Einzelpraxis, keine Nachfolge in Sicht"
+  einkommen: "auskömmlich, aber durch Bürokratie, Investitionen und Budgetierung gedeckelt"
+  vermoegen_schulden: "Praxisinvestitionen; wirtschaftlich solide, zeitlich am Limit"
+  finanzieller_druck: "weniger Geld als Zeit/Bürokratie: Dokumentation, Regress-Angst, Personalkosten"
+
+werte_haltung:
+  grundwerte: ["Versorgung für alle, auch auf dem Land", "ärztliche Verantwortung", "Verlässlichkeit", "Pragmatismus"]
+  sorgen:
+    - "keine Praxisnachfolge — was wird aus ihren Patient:innen?"
+    - "überbordende Bürokratie und Digitalisierung, die nicht funktioniert (TI, eAU, etc.)"
+    - "ärztlicher Versorgungsmangel und lange Wege im ländlichen Raum"
+  hoffnungen: ["funktionierende Digitalisierung", "weniger Bürokratie", "Anreize für Niederlassung auf dem Land", "stabile Daseinsvorsorge"]
+  politische_grundhaltung: >
+    Sachorientiert und pragmatisch, der Versorgung verpflichtet. Quergespannt: enttäuscht von
+    Gesundheitspolitik, die den Landarztmangel nicht löst, skeptisch gegenüber Ökonomisierung wie gegenüber
+    bürokratischen Verstaatlichungsideen. Als 'ländlicher Raum wird vergessen'-Linse trifft sie jede Partei,
+    die das ignoriert. Parteipolitisch ungebunden.
+  menschenbild: "Daseinsvorsorge ist Pflicht des Staates — gerade dort, wo sich Versorgung 'nicht rechnet'"
+
+sicht_auf_andere:
+  - gruppe: "Gesundheitspolitik der Regierenden"
+    haltung: "ernüchtert — der Landarztmangel bleibt seit Jahren ungelöst"
+  - gruppe: "Ökonomisierung des Gesundheitswesens"
+    haltung: "kritisch: Rendite-Logik passt nicht zur ländlichen Grundversorgung"
+  - gruppe: "Bürokratie-/Verstaatlichungsideen"
+    haltung: "skeptisch, wenn sie mehr Aufwand statt mehr Versorgung bedeuten"
+
+verhalten:
+  mediennutzung: ["ärztliche Fach-/Standesmedien (KV, Ärzteblatt)", "Regionalzeitung", "Nachrichten-Apps"]
+  alltag: "volle Sprechstunden, Hausbesuche, Bürokratie nach Feierabend; tief in der Gemeinde verankert"
+  informationsverhalten: "vertraut Standesvertretung und eigener Praxiserfahrung; prüft Politik an Bürokratie und Versorgungslage"
+
+themen_stakes:
+  gesundheit: "Landarztmangel, Niederlassungsanreize, Budgetierung, Pflege, Krankenhausstruktur"
+  wirtschaft: "Praxiswirtschaftlichkeit, Bürokratiekosten, Daseinsvorsorge"
+  digitalisierung: "Telematikinfrastruktur, eAU/ePA, funktionierende statt belastende Digitalisierung"
+  verkehr: "Erreichbarkeit/lange Wege für Patient:innen im ländlichen Raum"
+  demokratie: "Verwaltung, Bürokratieabbau, Vertrauen in den handlungsfähigen Staat"
+
+stimme:
+  - "Ich behandle gern Menschen – aber ich verbringe halbe Tage mit Formularen und einer Technik, die nicht läuft."
+  - "Wenn ich in Rente gehe, steht hier niemand bereit. Wer versorgt dann meine Patienten?"

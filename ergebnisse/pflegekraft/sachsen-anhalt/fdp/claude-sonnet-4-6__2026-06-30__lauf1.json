@@ -1,0 +1,77 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Bürokratie in der Pflege endlich abbauen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Doppelstrukturen und Mehrfachdokumentationen in Pflegeeinrichtungen sollen abgeschafft werden; dokumentiert werden soll künftig vor allem bei Abweichungen; Prüfungen sollen koordiniert und auf risikobasierte Anlassprüfungen begrenzt werden.",
+      "seite": 69,
+      "zitat": "Doppelstrukturen und Mehrfachdokumentationen schaffen wir ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin verbringt nach Feierabend Zeit mit Dokumentation statt mit Erholung. Die klare Ansage gegen Mehrfachdokumentation trifft ihren Hauptkritikpunkt direkt.",
+      "begruendung_selbst": "Ich bin Pflegerin, kein Bürokrat. Wenn ich endlich weniger dokumentiere und dafür mehr Zeit am Bett habe, ist das genau richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausländische Abschlüsse schneller anerkennen!",
+      "thema": "integration",
+      "programmpunkt": "Pflegekräfte sollen vorläufig arbeiten dürfen, sobald alle Unterlagen und Sprachkenntnisse vorliegen und der Arbeitgeber zustimmt; Anerkennungsverfahren sollen beschleunigt werden, Kenntnisprüfungen direkt in Einrichtungen möglich.",
+      "seite": 70,
+      "zitat": "Pflegekräfte sollen vorläufig arbeiten dürfen, sobald alle erforderlichen Unterlagen und nötige Sprachkenntnisse vorliegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station läuft nur dank Kolleginnen aus dem Ausland. Lange Anerkennungsverfahren kosten sie genau das Personal, das sie braucht. Schnellere Anerkennung sichert ihre tägliche Arbeitsfähigkeit.",
+      "begruendung_selbst": "Meine Kolleginnen aus dem Ausland dürfen monatelang nicht richtig arbeiten, obwohl sie alles können. Das macht mich wahnsinnig — und das soll jetzt besser werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Flexible Arbeitszeiten für bessere Vereinbarkeit!",
+      "thema": "arbeit",
+      "programmpunkt": "Flexible Arbeitszeitmodelle sowie Schichtzuschläge auf Stundenlohnbasis sollen erhalten und gezielt weiterentwickelt werden, damit Pflege besser mit dem persönlichen Lebensentwurf vereinbar wird.",
+      "seite": 69,
+      "zitat": "Flexible Arbeitszeitmodelle sowie Schichtzuschläge auf Stundenlohnbasis wollen wir erhalten und gezielt weiterentwickeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Schichtdienst bestimmt ihren Alltag. Flexible Modelle und gesicherte Zuschläge sind für sie keine Nebensache, sondern Voraussetzung für die Entscheidung, im Beruf zu bleiben.",
+      "begruendung_selbst": "Ich halte den Schichtdienst durch, weil die Zulagen einen Teil der Last abgelten. Wenn das gesichert und ausgebaut wird, ist das ein echtes Signal.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Pflegeversicherung privatisieren — wer zahlt das?",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflegeversicherung soll umfassend reformiert werden; versicherungsfremde Leistungen sollen gestrichen und ein kapitalgedecktes Element ergänzt werden; private und betriebliche Vorsorge sollen gestärkt werden.",
+      "seite": 70,
+      "zitat": "Versicherungsfremde Leistungen gehören gestrichen, ein kapitalgedecktes Element muss wie bei der Krankenversicherung ergänzt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin sorgt sich um eine solidarisch finanzierte Pflege. Leistungskürzungen und Verlagerung auf kapitalgedeckte Vorsorge bedeuten, dass viele ihrer Patientinnen sich gute Pflege künftig weniger leisten könnten — was ihren Arbeitsalltag unter noch mehr Ökonomisierungsdruck setzt.",
+      "begruendung_selbst": "Wenn Leistungen gestrichen werden, zahlen das am Ende meine Patienten — oder ich arbeite noch mehr für das Gleiche. Das darf nicht die Antwort sein.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet bei der FDP Sachsen-Anhalt konkrete Verbesserungen für ihren Berufsalltag: Bürokratieabbau in der Dokumentation, schnellere Anerkennung ausländischer Abschlüsse und Sicherung flexibler Schichtmodelle treffen ihre drei Hauptthemen. Die geplante Reform der Pflegeversicherung mit kapitalgedecktem Element und Leistungsstreichungen sieht sie skeptisch, da sie die Versorgungsqualität ihrer Patientinnen gefährdet. Insgesamt neutral bis leicht positiv.",
+    "score": 0
+  }
+}

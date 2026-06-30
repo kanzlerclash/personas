@@ -1,0 +1,125 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich: Dorf ohne Anbindung wird gesehen",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm erkennt ausdrücklich an, dass das Auto für Menschen in Dörfern ohne ÖPNV-Anschluss unverzichtbar und bezahlbar sein muss.",
+      "seite": 101,
+      "zitat": "der PKW für Menschen in Dörfern ohne Anbindung an den Öffentlichen Verkehr wichtig",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf pendelt 45 Minuten täglich mit dem Auto, weil in seinem Dorf kein ÖPNV existiert. Dass das Programm diesen Sachverhalt benennt und nicht einfach Radwege empfiehlt, ist für ihn eine ungewöhnliche Anerkennung seiner Realität.",
+      "begruendung_selbst": "Ich würde ja gern umsteigen – nur fährt hier kein Bus. Immerhin steht das mal so klar drin. Wenigstens einer, der nicht einfach sagt, ich soll aufs Rad umsteigen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenloser ÖPNV – wenn er mal kommt",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will öffentlichen Nahverkehr langfristig landesweit zum Nulltarif anbieten und in einem ersten Schritt günstige Dauerkarten für Schüler, Azubis und Sozialhilfeempfänger einführen.",
+      "seite": 102,
+      "zitat": "langfristig kostenfreien ÖPNV für Alle",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sollte eine brauchbare ÖPNV-Verbindung für Toralfs Pendelstrecke je entstehen, wäre ein kostenloser Nahverkehr ein erheblicher finanzieller Vorteil. Das Versprechen ist im Moment abstrakt, trifft aber seinen Wunsch nach bezahlbarer Mobilität.",
+      "begruendung_selbst": "Kostenloser Bus wäre traumhaft – wenn denn einer führe. Im Moment ist das ein Versprechen für eine Zukunft, die ich vielleicht nie erlebe. Aber die Richtung stimmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Jedes Dorf soll angebunden werden",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm fordert, jede Gemeinde an den öffentlichen Personennahverkehr anzuschließen und den ÖPNV besonders in dünn besiedelten Regionen auszubauen.",
+      "seite": 101,
+      "zitat": "jede Gemeinde an den öffentlichen Personennahverkehr anschließen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Wohnort hat keine ÖPNV-Anbindung. Das explizite Ziel, jede Gemeinde einzubinden, ist der einzige Weg, wie er mittelfristig auf den Bus umsteigen könnte – und damit Spritkosten sparen.",
+      "begruendung_selbst": "Das ist genau, was ich brauche. Wenn mein Dorf wirklich angebunden wird, bin ich der Erste, der umsteigt. Die Frage ist nur, ob das auch wirklich passiert oder nur auf dem Papier steht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Busse auch zwischen kleinen Orten",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will zwischen kleinen Orten im ländlich geprägten Raum mehr Busse einsetzen, unabhängig vom Schülerverkehr, und Rufbusse ausbauen.",
+      "seite": 103,
+      "zitat": "zwischen kleinen Orten im ländlich geprägten Raum unabhängig von der Schüler:innenbeförderung mehr Busse einsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf kennt den Status quo: Busse fahren nur, wenn Schulkinder mitfahren. Eine eigenständige Linienstruktur für den ländlichen Raum jenseits des Schülerverkehrs würde erstmals echte Alltagsalternativen schaffen.",
+      "begruendung_selbst": "Heute fährt bei uns morgens ein Schulbus und dann nichts mehr. Wenn da endlich reguläre Linien kommen, können auch Pendler wie ich drauf umsteigen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriejobs müssen gesichert bleiben",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will die Automobilzulieferindustrie und Chemieindustrie durch Investitionen und Transformationsverträge mit Beschäftigungsgarantien sichern und Strukturwandel aktiv gestalten.",
+      "seite": 91,
+      "zitat": "Energiewende als Jobmotor: Sachsen-Anhalt hat beste Voraussetzungen für Solar- und Windenergie",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf arbeitet als Industriemechaniker im Schichtbetrieb. Die Partei bekennt sich explizit dazu, Industriearbeitsplätze durch den Wandel zu sichern, statt sie dem Markt zu überlassen – ein klares Signal für seine Jobsicherheit.",
+      "begruendung_selbst": "Mein Job ist meine Basis. Wenn der Strukturwandel meinen Betrieb wegräumt, nützt mir der beste Bus nichts. Dass die sich um Industriejobs kümmern wollen, nehme ich zumindest zur Kenntnis.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Weniger Autos – das bin ich",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm tritt ausdrücklich für eine Reduzierung des motorisierten Individualverkehrs ein und will Verkehr auf Schiene und Wasserstraßen verlagern.",
+      "seite": 101,
+      "zitat": "Wir plädieren für eine Verkehrsreduzierung beim motorisierten Individualverkehr",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf ist auf sein Auto angewiesen – eine Alternative gibt es für seinen Pendelweg heute nicht. Solange die ÖPNV-Anbindung nicht existiert, trifft eine Politik zur Reduktion des motorisierten Individualverkehrs ihn direkt und einseitig.",
+      "begruendung_selbst": "Macht meine Arbeit nicht teurer, als sie einbringt. Mehr verlange ich gar nicht. Wenn ihr mein Auto reduzieren wollt, baut erst die Alternative – dann reden wir.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tempo 30 macht meinen Weg länger",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will mehr Tempo-30-Zonen in Städten und Dörfern unterstützen und sich auf Bundesebene dafür einsetzen, dass Kommunen selbstständig Geschwindigkeitssenkungen beschließen können.",
+      "seite": 104,
+      "zitat": "in Städten und Dörfern mehr Tempo-30-Abschnitte unterstützen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralfs 45-Minuten-Pendelweg führt durch mehrere Ortschaften. Breitere Tempo-30-Zonen verlängern seine tägliche Fahrzeit und erhöhen den Kraftstoffverbrauch. Als Schichtarbeiter, der auf pünktliches Erscheinen angewiesen ist, ist das keine Kleinigkeit.",
+      "begruendung_selbst": "Ich stehe früh auf, fahre im Dunkeln zur Schicht. Wenn überall Tempo 30 kommt, fahr ich noch länger. Das klingt nach Stadtplanung für Leute, die nicht pendeln müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pendlerpauschale? Fehlanzeige",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm enthält keine Maßnahmen zur direkten Entlastung von Pendlern, etwa durch Ausbau oder Erhöhung der Pendlerpauschale oder konkrete Kraftstoffkostenentlastung für Berufspendler ohne ÖPNV-Alternative.",
+      "seite": 101,
+      "zitat": "Rückgrat einer neuen Mobilitätskultur in Sachsen-Anhalt ist dabei ein vernetzter Umweltverbund",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralfs zentrales finanzielles Problem sind Sprit- und Autokosten. Das Programm verspricht langfristig kostenlosen ÖPNV und ländliche Anbindung, aber keine konkreten kurzfristigen Entlastungsmaßnahmen für Berufspendler, die heute täglich auf das Auto angewiesen sind.",
+      "begruendung_selbst": "Es ist schön, wenn mal ÖPNV kommt. Aber bis dahin zahle ich jeden Monat für Sprit und Auto. Irgendjemand muss das jetzt helfen – das Versprechen für später hilft mir nicht beim nächsten Tankfüllen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet im Programm eine ehrliche Anerkennung seiner Lage als Autopendler ohne ÖPNV-Alternative sowie ambitionierte Versprechen zur ländlichen Busversorgung und zum kostenfreien Nahverkehr. Gleichzeitig läuft die Grundrichtung des Programms – weniger motorisierter Individualverkehr, mehr Tempo-30, Umweltverbund als Leitbild – strukturell gegen seinen heutigen Alltag. Kurzfristige Entlastung für laufende Pendelkosten fehlt vollständig. Die Bilanz ist neutral: die richtige Problemdiagnose, aber keine sofort wirksamen Antworten.",
+    "score": 0
+  }
+}

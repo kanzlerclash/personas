@@ -1,0 +1,90 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Betreuung bis 14 — nicht verhandelbar!",
+      "thema": "familie",
+      "programmpunkt": "Der Rechtsanspruch auf bis zu zehn Stunden Betreuung von Geburt bis zum 14. Lebensjahr ist für die SPD nicht verhandelbar; flexible Öffnungszeiten werden ausgebaut.",
+      "seite": 27,
+      "zitat": "Der Rechtsanspruch auf bis zu zehn Stunden Betreuung von Geburt bis zum 14. Lebensjahr ist nicht verhandelbar.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Nadine ist die Verfügbarkeit von Kita und Hort die Grundvoraussetzung, damit sie arbeiten kann. Ein unverhandelbarer Rechtsanspruch auf bis zu zehn Stunden schützt sie vor Kürzungen.",
+      "begruendung_selbst": "Ohne verlässlichen Betreuungsplatz kann ich nicht arbeiten. Wenn der Anspruch wirklich 'nicht verhandelbar' ist, dann kann ich endlich ein bisschen aufatmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenloses warmes Mittagessen — endlich!",
+      "thema": "bildung",
+      "programmpunkt": "Die SPD setzt sich für ein kostenloses, gesundes und warmes Mittagessen für alle Kinder und Jugendlichen in Kita und Schule ein.",
+      "seite": 27,
+      "zitat": "ein kostenloses, gesundes und warmes Mittagessen für alle Kinder und Jugendliche in KiTa und Schule",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine rechnet jeden Euro nach. Das Mittagessen in Kita und Schule ist ein monatlich wiederkehrender Posten, den sie oft kaum stemmt. Ein kostenloses Angebot entlastet sie direkt und nimmt Druck raus.",
+      "begruendung_selbst": "Ich rechne jeden Monat durch, was die Kita kostet. Wenn das Mittagessen wegfällt, spart das wirklich etwas. Und meine Kinder essen ordentlich — das ist nicht nichts.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Alleinerziehende werden als Zielgruppe erkannt!",
+      "thema": "familie",
+      "programmpunkt": "Alleinerziehende werden explizit als Gruppe benannt, die durch bedarfsgerechte Qualifizierungs- und Beschäftigungsangebote besser erreicht werden soll.",
+      "seite": 7,
+      "zitat": "Alleinerziehende... sollen durch individuelle, bedarfsgerechte Qualifizierungs- und Beschäftigungsangebote besser erreicht werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine fühlt sich oft unsichtbar in der Politik. Die explizite Nennung von Alleinerziehenden als Zielgruppe für bessere Beschäftigungsunterstützung signalisiert, dass ihre spezifische Lage wahrgenommen wird.",
+      "begruendung_selbst": "Endlich kommt das Wort 'Alleinerziehende' in einem Programm vor, ohne dass ich gleich Mitleid serviert kriege. Ich will Unterstützung, die passt — nicht Almosen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Sozialstaat soll unterstützen, nicht stigmatisieren!",
+      "thema": "gesundheit",
+      "programmpunkt": "Soziale Sicherungssysteme sollen unterstützen, nicht stigmatisieren; Hilfe muss schnell und unbürokratisch erreichbar sein.",
+      "seite": 15,
+      "zitat": "Soziale Sicherungssysteme sollen unterstützen, nicht stigmatisieren. Hilfe muss schnell und unbürokratisch erreichbar sein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine erlebt immer wieder, dass sie als Bürgergeld-Aufstockerin unter Generalverdacht gestellt wird. Das explizite Bekenntnis, dass Systeme nicht stigmatisieren sollen, spricht direkt ihre Würde an.",
+      "begruendung_selbst": "Ich arbeite und kümmere mich. Dass ich aufstocke, heißt nicht, dass ich faul bin. Wenn das eine Partei so sagt, statt mich als Problem zu behandeln — das fühlt sich gut an.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kindergrundsicherung bleibt Bundeswunsch!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Kindergrundsicherung wird als zentrales Ziel benannt, aber nur über eine Bundesratsinitiative angestrebt — auf Landesebene bleibt wenig Konkretes.",
+      "seite": 27,
+      "zitat": "Eine bedarfsgerechte Kindergrundsicherung, die Leistungen bündelt, vereinfacht und existenzsichernd wirkt, bleibt unser zentrales Ziel.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadines finanzielle Lage hängt stark von Sozialleistungen ab, die im Wesentlichen Bundesrecht sind. Die Kindergrundsicherung als 'zentrales Ziel' zu benennen, ohne auf Landesebene daran arbeiten zu können, ist für sie frustrierend — es bleibt ein leeres Versprechen ohne kurzfristige Wirkung.",
+      "begruendung_selbst": "Ich höre das seit Jahren: Kindergrundsicherung kommt. Bundesratsinitiative klingt nach 'wir versuchen's'. Ich brauche das jetzt, nicht irgendwann.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet im SPD-Programm eine starke Resonanz auf ihre Alltagssituation: Der unverhandelbare Betreuungsanspruch, kostenloses Schulmittagessen, explizite Anerkennung Alleinerziehender als Zielgruppe und der Anspruch an einen würdevollen Sozialstaat treffen ihre Kernbedürfnisse. Einzig die Kindergrundsicherung bleibt als Bundeswunsch ohne direkten Landesbezug und damit ohne kurzfristige Entlastungswirkung.",
+    "score": 2
+  }
+}

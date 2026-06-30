@@ -1,0 +1,102 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Verbrenner bleibt – Erleichterung!",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU lehnt ein pauschales Verbrenner-Verbot ab und setzt auf Technologieoffenheit, u.a. durch Förderung CO2-mindernder Kraftstoffe.",
+      "seite": 17,
+      "zitat": "sprechen uns gegen ein pauschales Verbrenner - Verbot aus",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf braucht sein Auto täglich für 45 Minuten Arbeitsweg – ein Verbrenner-Aus ohne bezahlbare Alternative wäre für ihn eine existenzielle Belastung. Die Absage daran nimmt eine seiner größten Sorgen.",
+      "begruendung_selbst": "Ich würde ja gern umsteigen – nur fährt hier kein Bus, und ein E-Auto kann ich mir nicht leisten. Dass die endlich aufhören, mir mein Auto wegzunehmen, ist das Mindeste.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dieselprivileg bleibt!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU lehnt den Abbau des Dieselprivilegs ab und will keine zusätzliche Steuerbelastung auf Diesel.",
+      "seite": 17,
+      "zitat": "Hände weg vom sogenannten Dieselprivileg",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Spritkosten sind Toralfs größter fixer Kostenposten beim Pendeln. Der Erhalt des Dieselprivilegs bremst eine weitere Verteuerung seines Arbeitsweges direkt.",
+      "begruendung_selbst": "Macht meine Arbeit nicht teurer als sie einbringt. Der Diesel ist schon teuer genug – wenn das Privileg fällt, frage ich mich, ob sich der Job noch lohnt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutschlandticket bleibt!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Deutschlandticket soll erhalten bleiben, wobei Bürger im ländlichen Raum stärker davon profitieren sollen.",
+      "seite": 62,
+      "zitat": "Das Deutschlandticket wollen wir erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Obwohl Toralf hauptsächlich Auto fährt, ist das Deutschlandticket für gelegentliche Bahnnutzung und für seine Familie relevant. Der Fokus auf ländliche Nutzer deckt sich mit seiner Situation.",
+      "begruendung_selbst": "Für den Arbeitsweg bringt mir das Ticket wenig, weil hier kein Bus hinfährt. Aber meine Frau nutzt's manchmal – und gut ist, dass es nicht gestrichen wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Tempo-30-Ideologie!",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU stellt sich gegen ideologisch motivierte Ausweitung von Geschwindigkeitsbeschränkungen auf Autobahnen und Durchgangsstraßen sowie gegen überholte Umweltzonen.",
+      "seite": 62,
+      "zitat": "stehen einer ideologisch motivierten... Ausweitung von Geschwindigkeitsbeschränkungen... entschlossen entgegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf pendelt täglich auf Straßen und Autobahnen. Weitere Beschränkungen würden seinen ohnehin langen Arbeitsweg verlängern und seine empfundene Ungleichbehandlung verstärken.",
+      "begruendung_selbst": "Wenn ich morgens um sechs auf die Autobahn fahre, will ich ankommen – nicht wegen einer Ideologie zwanzig Minuten länger pendeln.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Industrie bleibt – mein Job bleibt!",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU will Industrie- und Chemiestandorte sichern und durch Industriestrompreise sowie bezahlbare Energie die Wettbewerbsfähigkeit sichern.",
+      "seite": 16,
+      "zitat": "Chemie - und Grundstoffindustrie ist für Sachsen - Anhalt von zentraler Bedeutung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf arbeitet im Schichtbetrieb in der Industrie. Der Erhalt von Industriestandorten sichert mittelbar seinen Job und damit die wirtschaftliche Grundlage seiner Familie.",
+      "begruendung_selbst": "Wenn der Standort schließt, hab ich ein Problem – und kein Bus bringt mich zu einem neuen Arbeitsplatz, der irgendwo anders liegt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "ÖPNV auf dem Land: Viel Versprechen...",
+      "thema": "verkehr",
+      "programmpunkt": "Der ÖPNV im ländlichen Raum soll ausgebaut werden, wobei das Deutschlandticket besser für ländliche Bürger nutzbar werden soll.",
+      "seite": 62,
+      "zitat": "Bürgerinnen und Bürger im ländlichen Raum stärker als bisher davon profitieren können",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf lebt in einem Dorf ohne brauchbaren ÖPNV. Die formulierten Ziele zu Verbesserungen im ländlichen Nahverkehr sind vage und ohne konkrete Investitionszusagen, sodass er wenig Vertrauen hat, dass sich an seiner Situation etwas ändert.",
+      "begruendung_selbst": "Seit Jahren heißt es, der ländliche ÖPNV wird besser. Ich warte noch drauf. Ohne konkrete Zahlen und Linien ist das für mich leeres Versprechen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet im CDU-Programm die klare Absage an ein Verbrenner-Verbot, den Schutz des Dieselprivilegs und eine ablehnende Haltung gegenüber Fahrverboten – alles Punkte, die ihn als Pendler auf dem Land direkt entlasten. Die Industriesicherung schützt mittelbar seinen Arbeitsplatz. Einziger kritischer Punkt bleibt, dass konkrete Verbesserungen beim ländlichen ÖPNV vage bleiben und er als Autofahrer weiterhin auf Eigenmobilität angewiesen sein wird.",
+    "score": 1
+  }
+}

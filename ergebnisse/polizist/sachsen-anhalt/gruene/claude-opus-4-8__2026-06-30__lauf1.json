@@ -1,0 +1,101 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Kollegen",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Personalausbau im Vollzug soll konsequent bis zur Zielgröße von 7.000 Stellen fortgesetzt werden.",
+      "seite": 41,
+      "zitat": "bis zur Zielgröße von 7.000 Stellen fortgesetzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet konkret unter Personalmangel und Überlastung; eine klare Stellen-Zielgröße trifft seine wichtigste Forderung.",
+      "begruendung_selbst": "Gebt uns die Leute – genau das sage ich seit Jahren. Mit 7.000 Stellen könnte man den Dienst endlich vernünftig fahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Modern gegen neue Gefahren",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizei soll gezielt zur Drohnenabwehr befähigt und entsprechend ausgerüstet werden.",
+      "seite": 42,
+      "zitat": "Polizei gezielt zur Drohnenabwehr befähigen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco beklagt veraltete Ausstattung; die Befähigung gegen hybride Gefahren wie Drohnen entspricht seinem Wunsch nach moderner Ausrüstung.",
+      "begruendung_selbst": "Die Bedrohung ändert sich – dann muss auch unsere Ausstattung mithalten, sonst stehen wir blank da.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsfeinde raus aus dem Dienst",
+      "thema": "demokratie",
+      "programmpunkt": "Verfassungsfeinde sollen durch gebündelte Disziplinarverfahren zügig und rechtssicher aus dem öffentlichen Dienst entfernt werden.",
+      "seite": 40,
+      "zitat": "aus dem Dienst entfernt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als institutionentreuer Beamter teilt Marco das Interesse, dass Verfassungsfeinde den Staatsdienst nicht von innen schwächen.",
+      "begruendung_selbst": "Wer gegen die Verfassung steht, hat in Uniform nichts verloren – das schwächt sonst genau die Institution, die ich schütze.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wieder unter Generalverdacht",
+      "thema": "sicherheit",
+      "programmpunkt": "Eine unabhängige Stelle soll Beschwerden und Fehlverhalten in der Polizei untersuchen.",
+      "seite": 43,
+      "zitat": "Fehlverhalten in der Polizei untersucht",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco reagiert empfindlich auf pauschale Polizeikritik; eine eigene Kontrollstelle liest er als weiteres Misstrauen gegen seine Kollegschaft.",
+      "begruendung_selbst": "Erst keine Leute, keine Ausstattung – und dann noch eine Stelle, die uns auf die Finger schaut. Das fühlt sich nach Misstrauen an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Taser fast nur als letztes Mittel",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Einsatz von Tasern soll nur eine der letzten Möglichkeiten der Deeskalation sein.",
+      "seite": 42,
+      "zitat": "eine der letzten Möglichkeiten der Deeskalation sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Im Streifendienst braucht Marco handlungsfähige Mittel; eine starke Einschränkung des Tasers erlebt er als Einengung seines Eigenschutzes.",
+      "begruendung_selbst": "Im Einsatz muss ich entscheiden können, womit ich mich und andere schütze – nicht erst, wenn es fast zu spät ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Werkzeuge, die man uns verbietet",
+      "thema": "sicherheit",
+      "programmpunkt": "Gesichtserkennung, Massenüberwachung und Analysesoftware wie Palantir werden abgelehnt.",
+      "seite": 41,
+      "zitat": "Gesichtserkennung wird es mit uns nicht geben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco will Befugnisse, die seine Arbeit wirksam machen; das pauschale Nein zu modernen Fahndungsinstrumenten widerspricht dem.",
+      "begruendung_selbst": "Andere bekommen Werkzeuge an die Hand, wir nicht – dabei würde uns das die Ermittlungen erleichtern.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco erkennt mit dem Personalziel von 7.000 Stellen und besserer Ausstattung seine zentralen Forderungen wieder und teilt die Linie gegen Verfassungsfeinde im Dienst. Zugleich stößt ihm die starke Betonung von Kontrolle, eingeschränkten Befugnissen und abgelehnten Fahndungsmitteln auf, weil er sich darin unter Generalverdacht gestellt sieht. Unterm Strich überwiegt knapp die Freude über mehr Personal.",
+    "score": 1
+  }
+}

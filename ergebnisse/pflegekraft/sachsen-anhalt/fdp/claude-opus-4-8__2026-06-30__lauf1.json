@@ -1,0 +1,113 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Weniger Doku, mehr Pflege",
+      "thema": "gesundheit",
+      "programmpunkt": "Doppelstrukturen und Mehrfachdokumentation in der Pflege sollen abgeschafft werden.",
+      "seite": 69,
+      "zitat": "Doppelstrukturen und Mehrfachdokumentationen schaffen wir ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin verliert Zeit an Dokumentation; ein Abbau der Mehrfachdoku gäbe ihr mehr Zeit für die Patient:innen.",
+      "begruendung_selbst": "Jede Stunde am Schreibtisch fehlt mir am Bett. Wenn die Doppeldoku wegfällt, gewinne ich genau die Zeit zurück.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Kolleginnen dürfen schneller arbeiten",
+      "thema": "integration",
+      "programmpunkt": "Anerkennung ausländischer Pflegeabschlüsse soll beschleunigt, vorläufiges Arbeiten bei vorliegenden Unterlagen ermöglicht werden.",
+      "seite": 70,
+      "zitat": "Pflegekräfte sollen vorläufig arbeiten dürfen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station lebt von migrantischen Kolleg:innen; eine schnellere Anerkennung sichert die Versorgung und entlastet ihr Team direkt.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland läuft hier nichts. Wenn sie schneller anfangen dürfen, hilft das uns allen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflegeberuf endlich aufwerten",
+      "thema": "arbeit",
+      "programmpunkt": "Der Pflegeberuf soll durch flexible Arbeitszeitmodelle und erhaltene Schichtzuschläge attraktiver gemacht werden.",
+      "seite": 69,
+      "zitat": "den Pflegeberuf spürbar attraktiver zu machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin empfindet ihre Arbeit als zu wenig anerkannt; das Bekenntnis zu besseren Arbeitsbedingungen trifft ihre Hoffnung auf Wertschätzung.",
+      "begruendung_selbst": "Wenn der Beruf wirklich attraktiver wird und die Zuschläge bleiben, bleiben vielleicht auch die Erfahrenen im System.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zuwanderung in Arbeit, nicht Hetze",
+      "thema": "integration",
+      "programmpunkt": "Migrationspolitik soll Chancen nutzen, ohne Ängste und populistische Ressentiments zu schüren.",
+      "seite": 10,
+      "zitat": "ohne Ängste und populistische Ressentiments zu schüren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin lehnt einen harten Migrationskurs ab, der ihre Belegschaft trifft; der sachliche, anti-populistische Ton entspricht ihrer Haltung.",
+      "begruendung_selbst": "Endlich mal kein Reden über meine Kollegen als Problem. Sachlich statt Hetze - so sollte das immer sein.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Pflege als Renditeobjekt",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflegeversicherung soll um ein kapitalgedecktes Element ergänzt und private wie betriebliche Vorsorge gestärkt werden.",
+      "seite": 70,
+      "zitat": "ein kapitalgedecktes Element muss wie bei der Krankenversicherung ergänzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin steht Ökonomisierung kritisch gegenüber; ein kapitalgedeckter Umbau weckt ihre Sorge, dass Renditelogik die Versorgung weiter ausdünnt.",
+      "begruendung_selbst": "Pflege gehört nicht an den Kapitalmarkt. Ich fürchte, am Ende zählt wieder die Rendite und nicht der Mensch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unternehmerische Freiheit statt Personal",
+      "thema": "wirtschaft",
+      "programmpunkt": "Eine Kommunalisierung der Pflege wird abgelehnt, stattdessen auf unternehmerische Freiheit gesetzt.",
+      "seite": 71,
+      "zitat": "Pflege braucht verlässliche Rahmenbedingungen, unternehmerische Freiheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin sieht Ökonomisierung als Ursache ihrer Überlastung; der Vorrang unternehmerischer Freiheit zielt für sie nicht auf den fehlenden Personalschlüssel.",
+      "begruendung_selbst": "Unternehmerische Freiheit löst meine Personallücke nicht. Ich brauche mehr Kolleginnen, keine schöneren Worte über den Markt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Privatisierung verschärft alles",
+      "thema": "wirtschaft",
+      "programmpunkt": "Landesbeteiligungen sollen kritisch evaluiert und im Rahmen einer Privatisierungsoffensive abgebaut werden.",
+      "seite": 9,
+      "zitat": "eine umfassende Privatisierungsoffensive zu starten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin steht Privatisierung im Gesundheits- und Versorgungsbereich kritisch gegenüber; eine generelle Privatisierungsoffensive widerspricht ihrem solidarischen Versorgungsverständnis.",
+      "begruendung_selbst": "Privatisieren als Allheilmittel - das habe ich im Gesundheitswesen schon erlebt. Für die Versorgung wird es selten besser.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet konkrete Entlastung in der Entbürokratisierung der Pflegedoku, der schnelleren Anerkennung ihrer migrantischen Kolleg:innen und dem sachlichen Migrationston. Zugleich stoßen ihr die kapitalgedeckte Pflegeversicherung, das Bekenntnis zu unternehmerischer Freiheit statt Personalaufbau und die allgemeine Privatisierungsoffensive auf, weil sie Ökonomisierung als Ursache ihrer Überlastung sieht. Für sie hält sich Zustimmung und Ablehnung in etwa die Waage.",
+    "score": 0
+  }
+}

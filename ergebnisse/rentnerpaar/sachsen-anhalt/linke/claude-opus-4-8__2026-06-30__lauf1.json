@@ -1,0 +1,100 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich eine Rente, von der man leben kann!",
+      "thema": "gesundheit",
+      "programmpunkt": "Armutsfeste Mindestrente von 1.400 Euro und Anhebung des Rentenniveaus auf 53 Prozent.",
+      "seite": 42,
+      "zitat": "armutsfesten Mindestrente in Höhe von 1.400 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter leben von kleinen Renten; eine armutsfeste Mindestrente und ein höheres Rentenniveau treffen ihre zentrale Hoffnung auf eine sichere Rente.",
+      "begruendung_selbst": "Wir haben ein Leben lang gearbeitet – wenn die Rente endlich sicher zum Leben reicht, ist uns viel geholfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege darf uns nicht arm machen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Solidarische Pflegevollversicherung, Abschaffung der Eigenanteile und ein Landespflegegeld, weil Eigenanteile sich beinahe verdoppelt haben.",
+      "seite": 56,
+      "zitat": "In den letzten sechs Jahren hat sich der Eigenanteil für einen Pflegeheimplatz beinahe verdoppelt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Angst vor Pflegekosten ist eine ihrer größten Sorgen; die Abschaffung der Eigenanteile nimmt ihnen eine existenzielle Bedrohung im Alter.",
+      "begruendung_selbst": "Vor den Pflegekosten haben wir richtig Angst – wenn die Eigenanteile wegfallen, müssen wir nicht ums Ersparte fürchten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Warme Wohnung als Grundrecht – richtig so!",
+      "thema": "energie",
+      "programmpunkt": "Strom- und Gassperren gesetzlich verbieten und Sockeltarife einführen, weil eine warme Wohnung ein Grundrecht ist.",
+      "seite": 106,
+      "zitat": "weil Strom und eine warme Wohnung ein Grundrecht sind",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Steigende Heizkosten belasten das Paar mit kleiner Rente; Schutz vor Sperren und bezahlbare Grundtarife sichern ihre wichtigste Sorge ab.",
+      "begruendung_selbst": "Bei unserer Rente ist jede Heizkostenrechnung ein Schreck – dass eine warme Wohnung als Grundrecht gilt, beruhigt uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanieren mit Förderung statt Zwang!",
+      "thema": "wohnen",
+      "programmpunkt": "Nach Einkommen gestaffelte Förderung für energetische Sanierung und Heizungstausch selbstgenutzter Eigenheime.",
+      "seite": 85,
+      "zitat": "gestaffelte Förderung für die energetische Sanierung sowie den Austausch von Heizungsanlagen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar fürchtet unbezahlbare Sanierungspflichten; eine einkommensgestaffelte Förderung statt Zwang entschärft ihre Angst um das eigene Haus von 1981.",
+      "begruendung_selbst": "Wenn wir das Dach dämmen müssen – von welchem Geld? Mit gestaffelter Förderung statt Pflicht könnten wir das stemmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hausarzt und Bus bleiben uns erhalten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Fachärztemangel über Landarztquoten bekämpfen, Telemedizin und Rufbusse im ländlichen Raum ausbauen.",
+      "seite": 55,
+      "zitat": "Wir wirken dem Fachärztemangel durch weitere Landarztquoten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Sorge, der einzige Hausarzt im Ort könnte aufhören, ist konkret; Landarztquoten und Telemedizin sichern ihre wohnortnahe Versorgung.",
+      "begruendung_selbst": "Wenn unser Hausarzt aufhört, sind wir aufgeschmissen – Quoten und ein Rufbus zum Arzt nehmen uns diese Angst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Experimente mit unserer Rente!",
+      "thema": "gesundheit",
+      "programmpunkt": "Bedingungslose Ablehnung von Privatisierung und Festhalten an der gesetzlichen Rente statt Börsenmodellen.",
+      "seite": 19,
+      "zitat": "Kürzungen in den Bereichen Soziales und Umwelt wird es mit uns nicht geben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar misstraut riskanten Reformen wie der Aktienrente; ein klares Bekenntnis gegen Sozialkürzungen und Privatisierung passt zu ihrem Sicherheitsbedürfnis.",
+      "begruendung_selbst": "Wir wollen kein Börsenspiel mit unserer Rente – wenn da keiner kürzt und nichts privatisiert wird, sind wir zufrieden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Für Helga und Dieter trifft die Linke beinahe jeden ihrer Nerven: sichere Rente, abgeschaffte Pflege-Eigenanteile, bezahlbare Heizkosten, Sanierungsförderung statt Zwang und gesicherte Hausarztversorgung auf dem Land. Ihre Veränderungsskepsis findet kaum Reibungspunkte, da das Programm gerade ihre Sicherheitsinteressen bedient. Das Paar fühlt sich in seiner Lebenslage umfassend gesehen.",
+    "score": 2
+  }
+}

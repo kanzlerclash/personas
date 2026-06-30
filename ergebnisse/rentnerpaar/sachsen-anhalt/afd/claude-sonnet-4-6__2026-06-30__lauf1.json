@@ -1,0 +1,89 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Heizkosten endlich runter!",
+      "thema": "energie",
+      "programmpunkt": "Das Programm will durch Rückkehr zu einem breiten Energiemix mit fossilen Trägern die Energiepreise senken; explizit werden altersarme Rentner als besonders Betroffene der Energiepreissteigerungen genannt.",
+      "seite": 13,
+      "zitat": "Von den explodierenden Energiepreisen sind vor allem Einkommensschwache wie etwa altersarme Rentner betroffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter heizen ein Haus aus den 1980er Jahren mit kleinen Renten; die Energie- und Heizkosten sind einer ihrer größten Ausgabenposten. Das Programm benennt sie namentlich als Leidtragende und verspricht Entlastung.",
+      "begruendung_selbst": "Wenn wir das Dach dämmen müssen, von welchem Geld eigentlich? Wir können keine Unsummen investieren. Wenn die Heizkosten sinken, können wir wenigstens im Winter warm sitzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krankenhaus bleibt im Dorf!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm lehnt Privatisierung von Krankenhäusern ab, will die Investitionen in Kliniken erhöhen und die Versorgung im ländlichen Raum sichern.",
+      "seite": 20,
+      "zitat": "Keine Privatisierung von Krankenhäusern mehr!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Helga und Dieter im Dorf ist eine erreichbare medizinische Versorgung im Alter zentral; das Programm verspricht explizit, Schließungen zu stoppen und ländliche Versorgung zu sichern.",
+      "begruendung_selbst": "Wenn das nächste Krankenhaus zumacht, kommen wir mit dem Auto noch hin – aber was, wenn wir nicht mehr fahren können? Das muss erreichbar bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dorf-Infrastruktur erhalten!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm will den ländlichen Raum stärken, keine Schulen schließen und Dorfstraßen sanieren.",
+      "seite": 15,
+      "zitat": "Heizen mit Öl und Holz sowie Autofahren mit Diesel und Benzin weiterhin möglich bleiben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter heizen ihr Haus mit Öl und sind aufs Auto angewiesen; das Programm schützt explizit diese Lebensweise vor staatlichen Verboten und Umstellungspflichten.",
+      "begruendung_selbst": "Wir haben keine Wärmepumpe und kein Geld für eine. Wenn der Staat uns vorschreiben will, wie wir heizen, dann ruiniert er uns. Gut, dass das hier klar abgelehnt wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Sicherheit im Dorf!",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm will die Landespolizei auf mindestens 7.500 Beamte aufstocken und den Fokus auf echte Verbrechen legen.",
+      "seite": 9,
+      "zitat": "Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Sicherheitsgefühl im Ort ist eine zentrale Sorge von Helga und Dieter; mehr Polizisten sollen zu schnelleren Reaktionszeiten und mehr Schutz beitragen.",
+      "begruendung_selbst": "Wir haben unser Leben lang gearbeitet und wollen jetzt in Ruhe alt werden. Wenn abends jemand einbricht und die Polizei braucht 20 Minuten – das macht einem Angst. Mehr Polizei beruhigt mich.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "ÖRR abbauen – das wollen wir nicht!",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm will den öffentlich-rechtlichen Rundfunk grundlegend reformieren und seine Strukturen verschlanken.",
+      "seite": 18,
+      "zitat": "Weniger Staat, schlankere Strukturen, mehr echte Vielfalt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter vertrauen als primäre Informationsquelle dem öffentlich-rechtlichen Fernsehen; Pläne zur Schwächung des ÖRR treffen ihr Informations- und Unterhaltungsbedürfnis.",
+      "begruendung_selbst": "Den Abend mit der Tagesschau – das ist für uns normal. Wenn das wegfällt oder schlechter wird, weiß ich nicht, wie wir an gute Nachrichten kommen sollen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter finden im AfD-Programm für ihre konkreten Alltagssorgen – hohe Heizkosten, ärztliche Versorgung, Sicherheit – direkte Antworten. Gerade die explizite Nennung altersarmer Rentner als Betroffene der Energiepreiskrise spricht sie an. Der geplante Umbau des ÖRR stört sie, fällt aber nicht so stark ins Gewicht wie die positiven Punkte.",
+    "score": 1
+  }
+}

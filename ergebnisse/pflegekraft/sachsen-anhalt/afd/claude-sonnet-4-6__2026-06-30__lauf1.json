@@ -1,0 +1,77 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine Privatisierung – endlich!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm lehnt die Privatisierung von Krankenhäusern ab und will kommunale und staatliche Trägerschaft sichern.",
+      "seite": 20,
+      "zitat": "Keine Privatisierung von Krankenhäusern mehr!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt die Ökonomisierung des Gesundheitswesens als direkten Treiber der Unterbesetzung; ein klares Nein zur Privatisierung spricht ihrer Überzeugung, dass Pflege keine Renditeware sein darf.",
+      "begruendung_selbst": "Schickt uns Personal, keine Sonntagsreden. Wenn das Krankenhaus nicht mehr auf Rendite optimiert wird, ist das ein erster Schritt. Denn Rendite und gute Pflege passen nicht zusammen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Investitionen ins Gesundheitswesen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm will die Investitionsmittel für Kliniken deutlich erhöhen und marode Gebäude sowie veraltete Technik sanieren.",
+      "seite": 20,
+      "zitat": "marode Gebäude, veraltete Technik und fehlendes Personal",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin arbeitet täglich mit veralteter Ausstattung und unter Personalmangel; mehr Investitionen würden ihre Arbeitsbedingungen konkret verbessern.",
+      "begruendung_selbst": "Wenn das Material funktioniert und die Station ausreichend besetzt ist, kann ich gut pflegen. Investitionen in die Klinik sind Investitionen in meine Arbeit und in die Patienten.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Meine Kolleginnen abschieben?!",
+      "thema": "integration",
+      "programmpunkt": "Das Programm fordert eine Abschiebe- und Remigrationsoffensive und will die Einwanderung grundlegend stoppen; ausländische Arbeitsmigration zur Fachkräftesicherung wird explizit abgelehnt.",
+      "seite": 5,
+      "zitat": "Abschiebe- und Remigrationsoffensive zwingend notwendig",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin arbeitet auf einer Station, die ohne migrantische Kolleginnen längst nicht mehr funktionieren würde; eine harte Rückkehr- und Abschiebepolitik gefährdet direkt die Besetzung und damit die Patientenversorgung.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht – und manche reden, als wären sie das Problem. Das verstehe ich nicht. Die retten täglich Menschenleben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege durch Familie ersetzen?!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm will professionelle Pflege durch familiäre Fürsorge ersetzen und die Familie als Entlastungsinstrument des Sozialstaats stärken.",
+      "seite": 20,
+      "zitat": "Pflege ist ihrem Wesen nach Ausdruck der Fürsorge liebender Angehöriger",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin weiß aus der Praxis, dass komplexe Pflege professionelles Wissen erfordert; das Narrativ der familiären Pflege als Normalfall ignoriert den realen Qualifikationsbedarf und kann dazu dienen, professionelle Stellen einzusparen.",
+      "begruendung_selbst": "Ich pflege täglich Menschen mit Demenz, nach Schlaganfällen, mit Wunden. Das kann eine liebende Familie nicht einfach übernehmen. Wer das sagt, hat keine Ahnung, was wir hier leisten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin begrüßt das klare Nein zur Krankenhaus-Privatisierung und die geplante Investitionsoffensive als strukturelle Verbesserungen ihrer Arbeitsbedingungen. Die Migrationspolitik trifft jedoch ihr unmittelbares Arbeitsumfeld empfindlich, da ihre Station auf ausländische Kollegen angewiesen ist; zudem empfindet sie das Lob der familiären Pflege als Entwertung ihrer professionellen Arbeit.",
+    "score": -1
+  }
+}

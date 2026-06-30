@@ -1,0 +1,125 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Klimageld direkt an Bürger auszahlen",
+      "thema": "klima",
+      "programmpunkt": "Die Einführung eines Klimageldes soll dafür sorgen, dass die Erträge der CO₂-Steuer direkt an die Bürgerinnen und Bürger zurückfließen.",
+      "seite": 11,
+      "zitat": "Erträge der CO₂-Steuer direkt an die Bürger*innen zurückfließen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf trägt die steigenden Spritkosten direkt, da er täglich auf das Auto angewiesen ist. Ein Klimageld würde die CO₂-Steuerbelastung für Pendler zumindest teilweise kompensieren und wäre für ihn eine direkte finanzielle Entlastung ohne Verhaltensänderungszwang.",
+      "begruendung_selbst": "Das ist das Einzige, was ich bei denen gut finde: wenn das Geld aus der CO₂-Steuer wirklich zurückkommt, dann ist das zumindest kein reines Abzocken mehr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutschlandticket dauerhaft finanzieren",
+      "thema": "verkehr",
+      "programmpunkt": "Das Deutschlandticket soll verlässlich und dauerhaft finanziert werden, mit vergünstigten Versionen für Auszubildende und Menschen mit geringen Einkommen.",
+      "seite": 29,
+      "zitat": "verlässliche und dauerhafte Finanzierung des Deutschlandtickets",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Familie könnte vom Deutschlandticket profitieren, auch wenn er selbst keinen ÖPNV-Anschluss hat. Die Finanzierungssicherheit nimmt die Unsicherheit über künftige Preissprünge und signalisiert politischen Willen für den öffentlichen Nahverkehr.",
+      "begruendung_selbst": "Für mich nützt das nichts – ich komme nicht an den Bus ran. Aber meine Frau und die Kinder fahren damit in die Stadt. Dass es bleibt, ist gut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vergünstigtes Ticket für Geringverdiener",
+      "thema": "verkehr",
+      "programmpunkt": "Vergünstigte Deutschlandtickets sollen für Auszubildende, Freiwilligendienstleistende und Menschen mit geringen Einkommen eingeführt werden.",
+      "seite": 29,
+      "zitat": "vergünstigte Deutschlandtickets für Auszubildende, Freiwilligendienstleistende und Menschen mit geringen Einkommen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Industriemechaniker mit mittlerem Einkommen ist Toralf selbst nicht die Zielgruppe, aber er erkennt den sozialen Sinn hinter dieser Maßnahme. Langfristig könnte eine bessere ÖPNV-Nutzung auch den Straßenverkehr entlasten, von dem er täglich abhängt.",
+      "begruendung_selbst": "Dass es günstiger wird für Leute mit wenig Geld, finde ich fair. Das löst mein Problem nicht, aber es ist wenigstens gerecht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kleine klimaneutrale Fahrzeuge bevorzugen",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm favorisiert kleine und klimaneutrale Fahrzeuge und will Parkraumgestaltung entsprechend ausrichten.",
+      "seite": 31,
+      "zitat": "kleine und klimaneutrale Fahrzeuge bevorzugen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf fährt ein älteres, größeres Fahrzeug, das er sich leisten kann und das für seinen Arbeitsweg funktioniert. Eine Politik, die bestimmte Fahrzeugtypen bevorzugt, benachteiligt ihn strukturell – sowohl beim Parkraum als auch bei künftigen Regulierungen.",
+      "begruendung_selbst": "Ich soll mir mal eben ein klimaneutrales Fahrzeug kaufen. Von welchem Geld? Und wo lade ich das auf dem Dorf? Das ist weit weg von meiner Realität.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radwege statt Straßeninvestitionen",
+      "thema": "verkehr",
+      "programmpunkt": "Im ländlichen Raum sollen sichere Radwege zwischen den Ortschaften geschaffen werden.",
+      "seite": 28,
+      "zitat": "ländlichen Raum braucht es sichere Radwege zwischen den Ortschaften",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf pendelt 45 Minuten mit dem Auto, da es keine Buslinie gibt. Investitionen in Radwege statt in die Straßen, auf die er täglich angewiesen ist, signalisieren ihm falsche Prioritäten für seinen Alltag im ländlichen Sachsen-Anhalt.",
+      "begruendung_selbst": "Mit dem Fahrrad zur Arbeit? Das sind 40 Kilometer. Die können Radwege bauen, so viele sie wollen – mein Problem lösen die damit nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "100 Prozent erneuerbar bis 2030",
+      "thema": "energie",
+      "programmpunkt": "Sachsen-Anhalt soll bis 2030 im Strombereich 100 Prozent erneuerbar aufgestellt sein.",
+      "seite": 22,
+      "zitat": "Sachsen-Anhalt bis 2030 im Strombereich 100 Prozent erneuerbar aufstellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Der schnelle Umbau des Stromsystems erzeugt Kosten, die über Netzentgelte und Strompreise weitergegeben werden. Toralf hat kein E-Auto und kann von günstigem Strom nicht profitieren – er trägt die Transformationskosten, ohne kurzfristig einen Nutzen zu haben.",
+      "begruendung_selbst": "Strom wird teurer im Umbau, Sprit bleibt teuer wegen CO₂-Steuer, ein E-Auto kann ich mir nicht leisten. Ich zahle für eine Energiewende, die für mich nicht funktioniert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Subventionsabbau trifft Pendler",
+      "thema": "steuern",
+      "programmpunkt": "Umwelt- und klimaschädliche Subventionen sollen konsequent abgebaut werden.",
+      "seite": 96,
+      "zitat": "umwelt- und klimaschädliche Subventionen konsequent abzubauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf befürchtet, dass die Pendlerpauschale oder andere verkehrsbezogene Steuerentlastungen als klimaschädliche Subvention eingestuft werden könnten. Die vage Formulierung gibt keine Sicherheit, und für einen Pendler ohne Alternative steht viel auf dem Spiel.",
+      "begruendung_selbst": "Die Pendlerpauschale ist das Einzige, was mich steuerlich ein bisschen entlastet. Wenn die das auch noch abbauen – was soll ich dann noch wählen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein expliziter Schutz für Verbrenner",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm enthält keinen expliziten Schutz für Pendler mit Verbrennungsfahrzeugen oder eine Entlastung für erzwungenes Autofahren.",
+      "seite": 31,
+      "zitat": "kleine und klimaneutrale Fahrzeuge bevorzugen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf hat keine Wahl beim Verkehrsmittel. Das Programm adressiert Stadtpendler mit ÖPNV-Alternativen, nicht Landbewohner wie ihn. Ein fehlendes Bekenntnis zum Verbrennerschutz oder zur Entlastung erzwungener Autofahrer ist für ihn ein deutliches Zeichen, nicht gemeint zu sein.",
+      "begruendung_selbst": "Die denken an die Leute in der Stadt mit ihrer Straßenbahn. Ich stehe morgens um sechs im Dunkeln auf dem Hof und muss ins Auto – die haben mich vergessen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet im Grünen Programm mit dem Klimageld eine echte finanzielle Entlastungsidee, die seine CO₂-Steuerlast abfedert. Doch die Gesamtrichtung – Bevorzugung klimaneutraler Fahrzeuge, Investitionen in Radwege statt Straßen, ambitionierte Energiewendekosten und vager Subventionsabbau – trifft ihn als erzwungenen Autopendler ohne ÖPNV-Alternative strukturell hart. Das Programm ist für urbane Milieus entworfen; Toralfs ländliche Pendlersituation kommt darin nicht vor.",
+    "score": -1
+  }
+}

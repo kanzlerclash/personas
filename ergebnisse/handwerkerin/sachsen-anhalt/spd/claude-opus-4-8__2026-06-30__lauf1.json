@@ -1,0 +1,137 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Bürokratie soll uns nicht ausbremsen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Handwerk und Mittelstand sollen von Bürokratie entlastet, Dokumentationspflichten vereinfacht oder abgeschafft werden.",
+      "seite": 4,
+      "zitat": "Bürokratie darf sie nicht ausbremsen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt ihre Abende mit Papierkram statt im Betrieb; das ausdrückliche Bekenntnis, Handwerksbetriebe nicht durch Bürokratie auszubremsen, trifft ihr größtes Tagesärgernis.",
+      "begruendung_selbst": "Genau mein Satz. Ich will Aufträge abarbeiten und ausbilden, nicht Aktenordner füllen. Wenn das ernst gemeint ist, bin ich dabei.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fördern ohne Formularschlacht",
+      "thema": "wirtschaft",
+      "programmpunkt": "Förderprogramme sollen durch geringere Antragsanforderungen und digitale Nachweise zugänglicher werden.",
+      "seite": 4,
+      "zitat": "Förderprogramme werden durch geringere Antragsanforderungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für einen Acht-Personen-Betrieb ohne Rechtsabteilung sind komplizierte Förderanträge eine reale Hürde; einfachere, digitale Verfahren senken Sabines Aufwand spürbar.",
+      "begruendung_selbst": "Förderung gibt es ja - nur komme ich an die ohne halben Urlaubstag Papierkram kaum ran. Einfacher und digital, das wäre echt was wert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energie endlich planbar billiger",
+      "thema": "energie",
+      "programmpunkt": "Netzentgelte sollen weitgehend gedeckelt, Stromsteuer gesenkt und die Netze digitalisiert werden.",
+      "seite": 5,
+      "zitat": "eine weitgehende Deckelung der Netzentgelte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energiekosten gehören zu Sabines Daueraufgabe Liquidität; konkrete Entlastung bei Netzentgelten und Stromsteuer wirkt direkt auf ihre Betriebskosten.",
+      "begruendung_selbst": "Strom ist für meine Werkstatt und den Fuhrpark ein dicker Posten. Jede Entlastung beim Strompreis spüre ich sofort in der Kalkulation.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Fachkräfte-Politik",
+      "thema": "arbeit",
+      "programmpunkt": "Eine offene, verlässliche Fachkräftepolitik wird als Voraussetzung für Industrie und Handwerk benannt.",
+      "seite": 6,
+      "zitat": "Eine offene und verlässliche Fachkräftepolitik ist Voraussetzung für die Zukunft von Industrie und Handwerk.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine findet keine Gesellen und Azubis mehr; dass das Programm Fachkräftesicherung inklusive Zuwanderung zur Existenzfrage des Handwerks erklärt, deckt sich mit ihrer akuten Sorge.",
+      "begruendung_selbst": "Ohne Leute kann ich Aufträge ablehnen, so weit ist es schon. Dass das Handwerk hier mitgedacht wird und nicht nur die Industrie, freut mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauen nach Fachlichkeit statt Bürokratie",
+      "thema": "wirtschaft",
+      "programmpunkt": "Planungs- und Genehmigungsverfahren beim Bauen sollen beschleunigt und entbürokratisiert werden.",
+      "seite": 44,
+      "zitat": "Bauen soll wieder von Fachlichkeit geprägt sein, nicht von überbordender Bürokratie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als SHK-Meisterin hängt Sabines Auftragslage an Bau- und Sanierungsvorhaben; schnellere Verfahren bedeuten weniger lahmgelegte Projekte und verlässlichere Auslastung.",
+      "begruendung_selbst": "Wenn ein Bauvorhaben monatelang in der Genehmigung hängt, hängt mein Auftrag mit dran. Tempo und Fachlichkeit statt Formularwahn, ja bitte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ämter endlich durchgehend digital",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungsverfahren sollen vom Antrag bis zum Bescheid durchgängig digitalisiert werden.",
+      "seite": 56,
+      "zitat": "konsequent Ende - zu - Ende digitalisiert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine bewertet Politik am Aufwand; eine echte Ende-zu-Ende-Digitalisierung statt halber Online-Angebote würde ihr reale Arbeitszeit beim Behördenkontakt zurückgeben.",
+      "begruendung_selbst": "Nicht noch ein PDF zum Ausdrucken und Einscannen. Wenn ein Antrag wirklich digital durchläuft, spare ich Stunden im Büro.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Tariftreue als Vergabe-Hürde",
+      "thema": "arbeit",
+      "programmpunkt": "Über das Tariftreue- und Vergabegesetz soll die Tarifbindung gestärkt werden, das Gesetz wird nicht abgeschafft.",
+      "seite": 8,
+      "zitat": "Mit dem Tariftreue - und Vergabegesetz stärken wir die Tarifbindung im Land.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als nicht zwingend tarifgebundene Mittelständlerin sieht Sabine in tarifgebundener Vergabe eine zusätzliche Bedingung, die ihren Betrieb gegenüber öffentlichen Aufträgen benachteiligen kann.",
+      "begruendung_selbst": "Ich zahle ordentlich, aber mir vorzuschreiben, an welchen Tarif ich mich für jeden Auftrag halten muss, ist genau die Gängelung, die ich nicht will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermögensteuer trifft den Betrieb",
+      "thema": "steuern",
+      "programmpunkt": "Auf Bundesebene wird die Wiedereinführung einer wirksamen Vermögensteuer angestrebt.",
+      "seite": 57,
+      "zitat": "Wiedereinführung einer wirksamen Vermögensteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines Vermögen steckt im Betrieb (Werkstatt, Fuhrpark); eine Vermögensteuer wirkt aus ihrer Sicht wie eine Substanzbelastung des Unternehmens, das zugleich ihre Altersvorsorge ist.",
+      "begruendung_selbst": "Mein Vermögen ist der Betrieb - die Werkstatt, die Fahrzeuge. Wer das besteuert, greift in die Substanz und in meine Altersvorsorge.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erbschaftsteuer gefährdet die Übergabe",
+      "thema": "steuern",
+      "programmpunkt": "Erbschaftsteuer-Privilegien für Betriebsvermögen sollen gestrichen und durch Stundung plus Freibetrag ersetzt werden.",
+      "seite": 54,
+      "zitat": "Privilegien für Vermögende in den §§ 13a, 13b und 28a ErbStG sollen gestrichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine plant in rund zehn Jahren die Betriebsübergabe mit ungeklärter Steuerlast; die Streichung der Verschonungsregeln berührt diese Sorge unmittelbar, auch wenn ein Freibetrag für KMU vorgesehen ist.",
+      "begruendung_selbst": "Die Übergabe ist sowieso schon ein Steuerthema. Wenn jetzt die Verschonung fürs Betriebsvermögen wackelt, wird die Nachfolge noch schwerer.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine erkennt im Programm viele ihrer Kernanliegen wieder: konsequenter Bürokratieabbau, einfachere Förderung, Energiepreis-Entlastung, ernstgenommene Fachkräftepolitik und entbürokratisiertes, digitalisiertes Bauen und Verwalten. Gegen den Strich gehen ihr die tarifgebundene Vergabe sowie die geplante Vermögen- und Erbschaftsteuer, die sie als Belastung von Betrieb und Übergabe liest. Als pragmatische Mittelständlerin überwiegt der positive Eindruck knapp, getrübt durch klare Vorbehalte bei Steuern und Auflagen.",
+    "score": 1
+  }
+}

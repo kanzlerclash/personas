@@ -1,0 +1,78 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "CCS endlich ermöglichen — die Brücke steht!",
+      "thema": "energie",
+      "programmpunkt": "Sachsen-Anhalt soll die Länderklausel des novellierten KSpG nutzen und Onshore-CCS ermöglichen; Modellregionen für sichere CO2-Speicherung sollen gesucht, Pilotprojekte mit Forschung und Industrie entwickelt werden.",
+      "seite": 23,
+      "zitat": "Wir wollen die Länderklausel des novellierten Kohlendioxidspeicherungsgesetzes (KSpG 2025) nutzen und damit eine CO₂-Speicherung an Land (Onshore-CCS) ermöglichen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht CCS als technologische Brücke für seine Region. Das klare Bekenntnis zur Onshore-CCS-Ermöglichung in Sachsen-Anhalt ist für ihn ein direkter Perspektivgewinn.",
+      "begruendung_selbst": "CCS ist für meine Region die Brücke in die Zukunft. Dass das endlich ermöglicht wird statt blockiert — das ist genau das, wofür ich argumentiere.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Technologieoffenheit statt Verbotspolitik!",
+      "thema": "energie",
+      "programmpunkt": "Echte Technologieoffenheit und ein Netzausbau, der Speichertechnologien ermöglicht; SMR, Fracking-Gas und Kernenergie als Optionen; keine einseitige Technologiefestlegung.",
+      "seite": 14,
+      "zitat": "Deshalb fordern wir echte Technologieoffenheit und setzen uns für einen Netzausbau ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny lehnt pauschale Technologieverbote ab, weil sie seiner Region Werkzeuge für den Wandel nehmen. Technologieoffenheit entspricht genau seiner pragmatischen Grundhaltung.",
+      "begruendung_selbst": "Ich bin kein Ideologe. Ich will wissen, was funktioniert und was der Region hilft. Technologieoffenheit ist kein Luxus — die ist notwendig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rüstungsinvestitionen bringen neue Jobs!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Sachsen-Anhalt soll von Bundesinvestitionen in die Verteidigungsindustrie profitieren; lokale mittelständische Unternehmen aus der Automobilindustrie sollen mit Rüstungsinvestoren vernetzt werden.",
+      "seite": 10,
+      "zitat": "Zum Aufbau lokaler Produktionen gehören lokale Zuliefererketten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sorgt sich um den Fortbestand seiner Region. Neue industrielle Wertschöpfung durch Vernetzung mit der Rüstungsindustrie wäre für seine strukturschwache Region ein wichtiger Beschäftigungsanker.",
+      "begruendung_selbst": "Wenn sich stattdessen neue Industrie ansiedelt und Zulieferer neue Aufträge bekommen, habe ich eine Zukunft hier. Das wäre konkret.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Schnelles Fracking als Brücke — das überzeugt mich noch nicht.",
+      "thema": "energie",
+      "programmpunkt": "Das pauschale Fracking-Verbot soll durch ein wissenschaftsbasiertes Genehmigungsregime ersetzt werden, heimisches Schiefergas soll nutzbar gemacht werden.",
+      "seite": 16,
+      "zitat": "pauschale Verbot des unkonventionellen Frackings auf Bundesebene durch ein wissenschaftsbasiertes Genehmigungsregime zu ersetzen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny will Technologieoffenheit, aber er denkt pragmatisch. Fracking als neues Standbein seiner Region passt nicht zu seiner Perspektive auf einen nachhaltigen Strukturwandel — es wäre nur eine neue fossile Abhängigkeit.",
+      "begruendung_selbst": "Ich will keine neue fossile Sackgasse. Fracking schafft vielleicht kurz Arbeitsplätze, aber keine Zukunft. Ich brauche Technologien, die in 20 Jahren noch laufen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet beim FDP-Programm für Sachsen-Anhalt starke Resonanz auf seine Kernthemen: Onshore-CCS als Brückentechnologie wird konkret ermöglicht, Technologieoffenheit entspricht seinem Pragmatismus, und die Vernetzung von Automobilzulieferern mit der Rüstungsindustrie bietet seiner Region neue Perspektiven. Fracking als neues Standbein sieht er skeptisch. Insgesamt trifft das Programm seine Interessenlage gut.",
+    "score": 1
+  }
+}

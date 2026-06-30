@@ -1,0 +1,101 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Bündnisfall wird ernst genommen",
+      "thema": "verteidigung",
+      "programmpunkt": "Die besondere logistische Bedeutung Sachsen-Anhalts im Bündnisfall wird benannt, Zivilschutz und zivile Verteidigung sollen gestärkt werden.",
+      "seite": 54,
+      "zitat": "Sachsen - Anhalt hätte im Bündnisfall eine besondere logistische Bedeutung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan erlebt die NATO-Ostflanke täglich; dass das Programm die Bündnisrolle und die Notwendigkeit zivilverteidigungs-fester Strukturen anerkennt, deckt sich mit seinem Lagebewusstsein.",
+      "begruendung_selbst": "Endlich nimmt jemand den Bündnisfall ernst und nicht als ferne Theorie. Logistik und Zivilschutz entscheiden im Ernstfall mit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz gegen Spionage stärken",
+      "thema": "demokratie",
+      "programmpunkt": "Der Verfassungsschutz soll den Herausforderungen durch Sabotage und Spionage gewachsen sein.",
+      "seite": 33,
+      "zitat": "Sabotage und Spionage muss auch der Verfassungsschutz gewachsen sein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan ordnet Sabotage und Spionage der realen Bedrohungslage an der Ostflanke zu; ein gestärkter Verfassungsschutz entspricht seinem Sicherheits- und Verfassungsverständnis.",
+      "begruendung_selbst": "Sabotage und Spionage sind keine Hirngespinste, das sehen wir an der Ostflanke. Dass der Verfassungsschutz dafür gerüstet wird, ist richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Katastrophenschutz ausfinanziert",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Katastrophenschutz soll weiterentwickelt und umfassend ausfinanziert werden.",
+      "seite": 30,
+      "zitat": "der Katastrophenschutz weiterentwickelt und umfassend ausfinanziert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Einsatzbereitschaft und verlässliche Strukturen sind für Stefan zentral; ein umfassend finanzierter Katastrophenschutz entspricht seinem Anspruch, dass Vorsorge nicht an Geld scheitern darf.",
+      "begruendung_selbst": "Vorsorge muss ausfinanziert sein, sonst ist sie nur Papier. Beim Katastrophenschutz wird das hier wenigstens klar gesagt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wehrhafte Demokratie",
+      "thema": "demokratie",
+      "programmpunkt": "Rechtsextremismus, Sabotage und Spionage sollen entschieden bekämpft, die Verfassung geschützt werden.",
+      "seite": 32,
+      "zitat": "Den wachsenden Herausforderungen durch Rechtsextremismus,",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan ist verfassungstreu und lehnt Kräfte ab, die Bündnis und Demokratie untergraben; das Bekenntnis zur wehrhaften Demokratie deckt sich mit seiner institutionentreuen Haltung.",
+      "begruendung_selbst": "Wer die Demokratie und das Bündnis von innen angreift, gefährdet auch meinen Auftrag. Eine wehrhafte Demokratie ist mir wichtig.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Abrüstung untergräbt meinen Auftrag",
+      "thema": "verteidigung",
+      "programmpunkt": "Diplomatie, Verständigung, Abrüstung und internationale Zusammenarbeit werden als zentrale Aufgaben betont.",
+      "seite": 54,
+      "zitat": "Diplomatie, Verständigung, Abrüstung und internationale Zusammenarbeit bleiben zentrale Aufgaben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan steht Abrüstungsforderungen angesichts der Bedrohungslage ablehnend gegenüber; die prominente Betonung von Abrüstung als zentraler Aufgabe widerspricht seinem Verständnis von Abschreckung und Einsatzbereitschaft.",
+      "begruendung_selbst": "Abrüstung als zentrale Aufgabe - und das bei der Lage an der Ostflanke? Das untergräbt genau das, wofür ich jeden Tag bereitstehe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Warme Worte, kein Material",
+      "thema": "verteidigung",
+      "programmpunkt": "Sicherheit wird ausdrücklich nicht allein militärisch gedacht, konkrete Aussagen zur Ausrüstung der Truppe fehlen weitgehend.",
+      "seite": 54,
+      "zitat": "Sicherheit entsteht nicht allein militärisch.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefans Kernsorge sind Ausrüstungs- und Materialmängel; ein Programm, das Sicherheit betont nicht-militärisch denkt und zur Ausstattung der Truppe schweigt, lässt seine eigentliche Priorität unbeantwortet.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Über die Ausrüstung, die ich wirklich brauche, steht hier so gut wie nichts.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet als Berufssoldat in einem Landesprogramm naturgemäß wenig zu seinem Kernthema, das überwiegend Bundessache ist. Positiv wertet er die Anerkennung der Bündnisbedeutung, den Ausbau von Zivil- und Katastrophenschutz und die wehrhafte Demokratie gegen Sabotage und Spionage. Gegen den Strich gehen ihm dagegen die prominente Betonung von Abrüstung und der Satz, Sicherheit entstehe nicht allein militärisch, während zur Ausrüstung der Truppe nichts Konkretes kommt. Unterm Strich bleibt ein gemischtes, weitgehend neutrales Bild.",
+    "score": 0
+  }
+}

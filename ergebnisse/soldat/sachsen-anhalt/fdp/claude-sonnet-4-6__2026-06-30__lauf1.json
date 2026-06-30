@@ -1,0 +1,64 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Rüstungsinvestition nach Sachsen-Anhalt holen!",
+      "thema": "verteidigung",
+      "programmpunkt": "Sachsen-Anhalt soll vom Aufbau industrieller Wertschöpfung durch Bundesinvestitionen in die Bundeswehr profitieren; die Verteidigungsindustrie soll als zentrale Branche angesiedelt werden; rahmenbedingungen für schnellen Produktionsaufbau sollen verbessert werden.",
+      "seite": 9,
+      "zitat": "Wir wollen, dass Sachsen-Anhalt vom Aufbau dieser industriellen Wertschöpfung und der damit verbundenen Arbeitsplätze profitiert.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan weiß, dass Ausrüstung und Material von Produktion abhängen. Rüstungsproduktion in Deutschland stärkt die Versorgungskette der Bundeswehr und signalisiert Ernsthaftigkeit beim Aufbau der Verteidigungsfähigkeit.",
+      "begruendung_selbst": "Wenn die Produktion in Deutschland ist, kommt das Material schneller zu uns. Das ist kein abstraktes Wirtschaftsthema — das ist meine Ausrüstung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Forschungsfreiheit für Verteidigungstechnologie!",
+      "thema": "verteidigung",
+      "programmpunkt": "Zivilklauseln an Hochschulen sollen abgelehnt werden; die Vernetzung zwischen heimischer Hochschullandschaft und innovativen Unternehmen der Verteidigungsindustrie soll gestärkt werden.",
+      "seite": 10,
+      "zitat": "Zivilklauseln lehnen wir ab. Wir wollen die Vernetzung zwischen der heimischen Hochschullandschaft und innovativen Unternehmen der Verteidigungsindustrie stärken.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan ist darauf angewiesen, dass moderne Technologien entwickelt und beschafft werden. Forschungsfreiheit ohne Zivilklauseln ist für ihn ein Baustein einer ernsthaften Verteidigungspolitik.",
+      "begruendung_selbst": "Wenn Forschung verboten wird, weil jemand Waffen für Kriegsmittel hält, bleiben wir technologisch zurück. Ich brauche das Beste, was die Forschung kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sondervermögen konsequent für Verteidigung nutzen!",
+      "thema": "verteidigung",
+      "programmpunkt": "Mittel aus dem Sondervermögen für Infrastruktur und Klimaneutralität sollen auch für Fachkräftesicherung, Genehmigungsverfahren, Netzanbindung und vorbereitende Infrastruktur neuer Kernenergie- und Verteidigungsprojekte nutzbar gemacht werden.",
+      "seite": 14,
+      "zitat": "Mittel aus dem Sondervermögen für Infrastruktur und Klimaneutralität auch für Fachkräftesicherung, Genehmigungsverfahren, Netzanbindung und vorbereitende Infrastruktur neuer Kernenergieprojekte nutzbar machen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan bewertet Parteien an ihrer Bereitschaft, Verteidigung wirklich zu finanzieren. Das Bekenntnis, Sondervermögen für verteidigungsrelevante Infrastruktur nutzbar zu machen, zeigt substanzielle Ernsthaftigkeit.",
+      "begruendung_selbst": "Warme Worte kenne ich genug. Wenn Geld fließt — und zwar das richtige Geld für die richtige Infrastruktur — dann reden wir über Ernsthaftigkeit.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet im FDP-Programm für Sachsen-Anhalt ein klares Bekenntnis zu Verteidigungsinvestitionen und Rüstungsproduktion in Deutschland, Forschungsfreiheit ohne Zivilklauseln und die Absicht, das Sondervermögen für verteidigungsrelevante Infrastruktur zu nutzen. Das Programm entspricht seinen Erwartungen an eine ernsthafte Verteidigungspolitik auf Landesebene. Kein nennenswerter Reibungspunkt.",
+    "score": 2
+  }
+}

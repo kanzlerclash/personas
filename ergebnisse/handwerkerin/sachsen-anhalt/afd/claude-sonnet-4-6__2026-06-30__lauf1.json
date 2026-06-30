@@ -1,0 +1,77 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Bürokratie runter – endlich!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm will alle nicht zwingend vorgeschriebenen bürokratischen Regelungen streichen und als Richtmarke für jede neue Regelung mindestens zwei alte abschaffen.",
+      "seite": 12,
+      "zitat": "bürokratische Last der Unternehmen in Sachsen-Anhalt ist erdrückend",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt Abende mit Papierkram statt mit ihrer Familie; ein systematischer Bürokratieabbau würde ihr real Zeit und Geld zurückgeben.",
+      "begruendung_selbst": "Ich hätte gern mehr Azubis und weniger Aktenordner. Wenn die das ernst meinen und wirklich streichen statt nur kürzen, wäre das für meinen Betrieb ein echter Gewinn.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerk endlich aufwerten!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm sieht kostenfreie Meisterausbildung, eine Meisterprämie und ein Freiwilliges Handwerksjahr vor, um dem Fachkräftemangel im Handwerk entgegenzuwirken.",
+      "seite": 12,
+      "zitat": "kostenfreie Meisterausbildung gewährleisten, Meisterprämie einführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine findet keine Gesellen und Azubis mehr; Maßnahmen, die Handwerksausbildung attraktiver machen und junge Menschen ins Handwerk lenken, treffen direkt ihren Bedarf.",
+      "begruendung_selbst": "Sag mir, ich hätte plötzlich wieder Bewerbungen, weil Handwerk endlich cool und die Meisterausbildung nichts mehr kostet – das wäre mein Traum. Dann könnte ich auch Nachfolge denken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiepreise runter für alle!",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will durch Rückkehr zu einem breiten Energiemix mit fossilen Trägern die Energiepreise senken, die auch Handwerksbetriebe stark belasten.",
+      "seite": 13,
+      "zitat": "Rückkehr zu einem breit angelegten Energiemix auf Grundlage der sozialen Marktwirtschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energie ist ein fixer Kostenblock für Sabines Betrieb – Werkstatt, Fuhrpark, Materialien; günstigere Preise würden ihre Marge direkt verbessern.",
+      "begruendung_selbst": "Licht, Warmwasser, die Fahrzeuge – das alles kostet und das geht in die Kalkulation. Wenn die Energiepreise sinken, habe ich wieder etwas Luft zum Atmen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Fachkräfte von außen? Nein!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm setzt bei Fachkräftemangel ausschließlich auf einheimische Nachwuchskräfte und lehnt Einwanderung zur Fachkräftegewinnung explizit ab.",
+      "seite": 12,
+      "zitat": "Lösung dieses Problems nicht in der Masseneinwanderung von unqualifizierten, bildungsfernen und kulturfremden Ausländern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine hat akuten Mangel an Gesellen und Azubis; der Zeithorizont für den Aufbau einheimischer Nachwuchskräfte ist lang, während ihr Betrieb heute Stellen nicht besetzen kann. Qualifizierte Zuwanderung als kurzfristige Brücke fällt damit weg.",
+      "begruendung_selbst": "Ich warte nicht fünf Jahre auf einen Azubi, der durch das Handwerksjahr kommt. Ich brauche jetzt jemanden auf der Baustelle. Da hätte ich mir eine offenere Haltung gewünscht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet in der AfD-Programmatik ihren Kernwunsch – Bürokratieabbau und Wertschätzung des Handwerks – gut verankert; die Maßnahmen zur Nachwuchsgewinnung im Handwerk sind konkret. Die klare Absage an qualifizierte Arbeitsmigration trifft sie jedoch an einer empfindlichen Stelle, da sie heute schon keine Stellen besetzen kann. Unterm Strich überwiegt für sie das Positive.",
+    "score": 1
+  }
+}

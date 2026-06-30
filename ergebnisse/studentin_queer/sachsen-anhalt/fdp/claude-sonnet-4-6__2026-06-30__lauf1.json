@@ -1,0 +1,101 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Null Toleranz für Diskriminierung — das stimmt!",
+      "thema": "demokratie",
+      "programmpunkt": "Die FDP bekennt sich zu null Toleranz gegenüber Diskriminierung aufgrund sexueller Orientierung, geschlechtlicher Identität oder Herkunft; Großveranstaltungen queerer Gruppen sollen ausreichend polizeilich geschützt werden.",
+      "seite": 40,
+      "zitat": "Wir zeigen null Toleranz gegen diejenigen, die Menschen wegen ihrer Herkunft, Religion, sexuellen Orientierung, ihres individuellen Lebensentwurfs oder geschlechtlichen Identität diskriminieren.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt queer in Sachsen-Anhalt und erfährt alltägliche Ausgrenzungsrisiken. Das klare Bekenntnis gegen Diskriminierung und der Schutz queerer Veranstaltungen sind für sie nicht abstrakt, sondern persönlich relevant.",
+      "begruendung_selbst": "Das klingt nach mehr als einer Floskel, wenn da auch steht, dass meine Demo geschützt wird. Daran messe ich, ob das ernst gemeint ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Geschlechtsneutralität in der Verwaltung!",
+      "thema": "demokratie",
+      "programmpunkt": "Administrative Akte sollen vom Gedanken der Selbstbestimmung geprägt sein; die Angabe des Geschlechts soll nur dort erfasst werden, wo unbedingt nötig; die freie Entfaltung der Persönlichkeit darf nicht von Gutachtern abhängig gemacht werden.",
+      "seite": 41,
+      "zitat": "Administrative Akte müssen vom Gedanken der Selbstbestimmung geprägt sein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule, die sie/ihr-Pronomen nutzt, profitiert von einer Verwaltungspraxis, die Geschlechtsidentität minimal und selbstbestimmt behandelt. Das ist für sie ein konkreter Alltagesfortschritt.",
+      "begruendung_selbst": "Dass ich beim Amt nicht mehr ständig meine Identität erklären muss — das ist keine Kleinigkeit für mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lebensmittel günstiger — als Studentin dringend nötig!",
+      "thema": "steuern",
+      "programmpunkt": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen.",
+      "seite": 9,
+      "zitat": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule hat am Monatsende oft nichts mehr übrig. Günstigere Lebensmittel würden ihr knappes Budget direkt entlasten.",
+      "begruendung_selbst": "Ich schaue beim Einkauf auf jeden Cent. Wenn die Lebensmittel günstiger werden, ist das für mich kein Luxus, das ist überlebenswichtig.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kernenergie? Das ist kein Klimaschutz!",
+      "thema": "klima",
+      "programmpunkt": "Die FDP befürwortet den Wiedereinstieg in die Kernenergie, will reaktivierbare Kraftwerke prüfen, neue Anlagen bauen und Sachsen-Anhalt als Entwicklungsstandort für Kerntechnologie positionieren.",
+      "seite": 14,
+      "zitat": "Dazu gehört für uns auch der Wiedereinstieg in die Nutzung der Kernenergie.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule engagiert sich in einer Klimagruppe und sieht konsequente Erneuerbare als einzigen Weg. Kernenergie gilt ihr als falscher Pfad, der Ressourcen von echter Klimapolitik abzieht.",
+      "begruendung_selbst": "Kernkraft ist keine Klimapolitik — sie ist eine Ablenkung. Ich will Erneuerbare, keine neuen Risiken, die meine Generation erbt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fracking in Sachsen-Anhalt? Nein danke!",
+      "thema": "klima",
+      "programmpunkt": "Das pauschale Fracking-Verbot soll durch ein wissenschaftsbasiertes Genehmigungsregime ersetzt werden, heimisches Schiefergas soll nutzbar gemacht werden.",
+      "seite": 16,
+      "zitat": "pauschale Verbot des unkonventionellen Frackings auf Bundesebene durch ein wissenschaftsbasiertes Genehmigungsregime zu ersetzen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht Fracking als direkten Widerspruch zur Energiewende — neue fossile Erschließung ist aus ihrer Sicht eine Bedrohung der Klimaziele, auf die ihre Zukunft baut.",
+      "begruendung_selbst": "Neues Fracking, während das Klima kippt? Das ist nicht Pragmatismus — das ist Rückschritt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld-Sanktionen treffen Schwächste.",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Bürgergeld soll reformiert werden; wer zumutbare Arbeit ablehnt, muss mit Leistungskürzungen rechnen; gemeinnützige Arbeitspflichten für Langzeitarbeitslose sollen eingeführt werden.",
+      "seite": 40,
+      "zitat": "Wer die Teilnahme verweigert, muss mit Leistungskürzungen rechnen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht in Sanktionen und Arbeitspflichten ein Instrument, das strukturell Benachteiligte weiter unter Druck setzt, statt Ursachen zu bekämpfen. Soziale Solidarität ist für sie ein Grundwert.",
+      "begruendung_selbst": "Wer in der Not ist, braucht Unterstützung, keine Bestrafung. Diese 'fördern und fordern'-Rhetorik klingt für mich nach Misstrauen gegen die Ärmsten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule findet bei der FDP Sachsen-Anhalt echte Anknüpfungspunkte beim Antidiskriminierungsschutz und der verwaltungsrechtlichen Selbstbestimmung bei Geschlechtsidentität — das sind für sie persönlich relevante Fortschritte. Die Klima- und Energiepolitik der Partei (Kernenergie, Fracking) steht jedoch in direktem Widerspruch zu ihrer Kernüberzeugung. Die Bürgergeld-Sanktionen widersprechen ihrem Solidaritätsverständnis. Insgesamt überwiegen die Reibungspunkte.",
+    "score": -1
+  }
+}

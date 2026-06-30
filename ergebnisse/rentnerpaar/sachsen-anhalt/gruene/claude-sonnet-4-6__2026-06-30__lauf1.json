@@ -1,0 +1,137 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sanierungsförderung einkommensabhängig, keine Pflicht",
+      "thema": "wohnen",
+      "programmpunkt": "Sanierungen sollen künftig gezielt einkommensabhängig gefördert werden; Haushalte ohne Rücklagen sollen durch Landesbürgschaften besseren Zugang zu Finanzierungen erhalten.",
+      "seite": 26,
+      "zitat": "Sanierungen sollen künftig gezielt einkommensabhängig gefördert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten eine Sanierungspflicht für ihr Haus von 1981, die sie sich mit kleinen Renten nicht leisten könnten. Der einkommensabhängige Förderansatz nimmt diesen Druck heraus und signalisiert, dass niemand zur Sanierung gezwungen wird, der sie nicht finanzieren kann.",
+      "begruendung_selbst": "Solange niemand kommt und sagt, ihr müsst das jetzt sanieren ob ihr wollt oder nicht, können wir damit leben. Dass es Förderung gibt für die, die es brauchen, ist richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Landesbürgschaft für Finanzierung ohne Rücklagen",
+      "thema": "wohnen",
+      "programmpunkt": "Haushalte ohne Rücklagen sollen durch Landesbürgschaften besseren Zugang zu Finanzierungen erhalten.",
+      "seite": 26,
+      "zitat": "Haushalte ohne Rücklagen sollen durch Landesbürgschaften besseren Zugang zu Finanzierungen erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter haben kaum Ersparnisse. Wenn eine notwendige Reparatur oder Modernisierung ansteht, fehlt oft die Eigenkapitalbasis für Bankdarlehen. Eine Landesbürgschaft könnte diesen Zugang öffnen, ohne dass sie ihr Haus verkaufen müssten.",
+      "begruendung_selbst": "Wir haben das Haus, aber kein Geld auf der Seite. Wenn die Bank nicht mitmacht, ist man aufgeschmissen. Wenn das Land bürgt, ist das ein echter Unterschied.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege unabhängig von Einkommen sichern",
+      "thema": "gesundheit",
+      "programmpunkt": "Menschen sollen unabhängig von Einkommen und Vermögen angemessen versorgt werden.",
+      "seite": 87,
+      "zitat": "unabhängig von Einkommen und Vermögen angemessen versorgt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Helga und Dieter ist Pflege das drängendste Zukunftsthema. Das Bekenntnis, dass der Zugang zu Pflege nicht vom Vermögen abhängen soll, schützt sie davor, ihr Haus verkaufen zu müssen, um Pflegeleistungen zu finanzieren.",
+      "begruendung_selbst": "Wir haben unser ganzes Leben gearbeitet und haben dieses Haus. Das soll nicht weg, nur weil einer von uns Pflege braucht. Dass das drinsteht, beruhigt uns ein bisschen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kurzzeitpflege und Pflegeinfrastruktur ausbauen",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflegeinfrastruktur soll deutlich verbessert werden, insbesondere durch die Entwicklung von Konzepten für Kurzzeitpflegeplätze.",
+      "seite": 86,
+      "zitat": "Pflegeinfrastruktur deutlich zu verbessern, insbesondere durch die Entwicklung von Konzepten für Kurzzeitpflegeplätze",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kurzzeitpflege ist für Helga und Dieter der Schlüssel, um gegenseitig füreinander da zu sein wenn einer kurzzeitig ausfällt, ohne gleich in ein Heim zu müssen. Dass das Programm diesen Bereich explizit adressiert, trifft ein praktisches Alltagsproblem der Generation.",
+      "begruendung_selbst": "Wenn Dieter mal ins Krankenhaus muss, wer passt dann auf mich auf? Kurzzeitpflege – das ist das, was wir wirklich brauchen. Gut, dass das jemand endlich sagt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ambulante Versorgung und Hausarzt sichern",
+      "thema": "gesundheit",
+      "programmpunkt": "Die ambulante und stationäre geburtshilfliche Versorgung und die Kinderheilkunde gilt es zu sichern.",
+      "seite": 80,
+      "zitat": "ambulante und stationäre geburtshilfliche Versorgung und die Kinderheilkunde gilt es zu sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn das Programm die Hausarztversorgung nicht explizit hervorhebt, zeigt das Bekenntnis zur ambulanten Versorgung, dass Grundversorgung auf dem Land politisch relevant bleibt. Für Helga und Dieter ist der Hausarzt im Dorf die wichtigste medizinische Institution.",
+      "begruendung_selbst": "Unser Arzt fährt schon Rentenalter. Wenn der aufhört und kein Nachfolger kommt, dann müssen wir 30 Kilometer fahren für jeden Termin. Das darf nicht passieren.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "100 Prozent erneuerbar erhöht Heizkosten",
+      "thema": "energie",
+      "programmpunkt": "Sachsen-Anhalt soll bis 2030 im Strombereich 100 Prozent erneuerbar aufgestellt sein.",
+      "seite": 22,
+      "zitat": "Sachsen-Anhalt bis 2030 im Strombereich 100 Prozent erneuerbar aufstellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Der Umbau des Energiesystems ist mit erheblichen Übergangskosten verbunden, die über Netzentgelte und Energiepreise weitergegeben werden. Helga und Dieter heizen ein altes Haus und haben wenig Spielraum in ihrem Budget – steigende Energiekosten in der Transformationsphase sind eine direkte Belastung.",
+      "begruendung_selbst": "Im Winter heizen wir viel, das Haus ist alt. Wenn Strom und Gas teurer werden, weil alles umgebaut wird, dann spüren wir das sofort. Wir haben keine Rücklagen dafür.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Subventionsabbau gefährdet Energiehilfen",
+      "thema": "steuern",
+      "programmpunkt": "Umwelt- und klimaschädliche Subventionen sollen konsequent abgebaut werden.",
+      "seite": 96,
+      "zitat": "umwelt- und klimaschädliche Subventionen konsequent abzubauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter sind auf stabile Energiepreise angewiesen. Der Begriff klimaschädliche Subventionen ist breit genug, um Energiehilfen oder Heizkostenzuschüsse einzuschließen. Diese Unsicherheit beunruhigt ein Rentnerpaar, das jeden Euro zweimal umdrehen muss.",
+      "begruendung_selbst": "Was ist alles eine klimaschädliche Subvention? Der Heizkostenzuschuss? Das wissen wir nicht, und das macht uns nervös.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wahlrecht ab 14 Jahren irritiert",
+      "thema": "demokratie",
+      "programmpunkt": "Das aktive Wahlrecht bei Landtags- und Kommunalwahlen soll ab 14 Jahren eingeführt werden.",
+      "seite": 36,
+      "zitat": "aktive Wahlrecht bei Landtags- und Kommunalwahlen ab 14 Jahren einführen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter sind wertkonservativ und verbinden Wahlrecht mit Reife und Verantwortung. Vierzehnjährige als Wähler zu betrachten empfinden sie als Relativierung staatsbürgerlicher Würde und als weiteres Zeichen einer Werteveränderung, die sie nicht teilen.",
+      "begruendung_selbst": "Mit 14 hat man noch keine Ahnung, was eine Steuer ist oder was eine Wahl bedeutet. Das finden wir ehrlich gesagt nicht durchdacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Massenüberwachung ablehnen gibt Unsicherheitsgefühl",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm lehnt Massenüberwachung in Fußballstadien, auf Versammlungen sowie bei Veranstaltungen und Märkten im öffentlichen Raum ab.",
+      "seite": 42,
+      "zitat": "lehnen wir Massenüberwachung in Fußballstadien, auf Versammlungen sowie bei Veranstaltungen und Märkten im öffentlichen Raum ab",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter verbinden Kameras und Überwachung im öffentlichen Raum mit persönlicher Sicherheit, nicht mit Datenschutz. Die Ablehnung dieser Maßnahmen signalisiert ihnen, dass Sicherheitsgefühl weniger zählt als abstrakte Freiheitsrechte.",
+      "begruendung_selbst": "Wenn wir auf den Weihnachtsmarkt gehen, dann ist uns lieb, wenn da jemand aufpasst. Die wollen das abschaffen, das verstehen wir nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter finden im Grünen Programm konkrete Entlastungen bei den Themen, die ihnen am meisten Sorgen bereiten: Pflegeversorgung ohne Vermögensvorbehalt, Kurzzeitpflege, keine Sanierungspflicht und einkommensabhängige Förderung. Diese Punkte treffen ihre Lebenssituation direkt und positiv. Gleichzeitig beunruhigen sie steigende Energiekosten durch die Energiewende, der vage Subventionsabbau und kulturpolitische Positionen wie das Wahlrecht ab 14. Unterm Strich gleicht sich das aus – das Programm ist weder bedrohlich noch überzeugend für sie.",
+    "score": 0
+  }
+}

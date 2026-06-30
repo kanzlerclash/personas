@@ -1,0 +1,113 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich verlässliche Kita-Plätze!",
+      "thema": "bildung",
+      "programmpunkt": "Die Linke will alle Kita-, Schul- und Hortstandorte im Land erhalten und die Personalschlüssel in Kitas verbessern.",
+      "seite": 46,
+      "zitat": "den Erhalt aller Kita-, Schul- und Hortstandorte im Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar hat ein Kleinkind und plant ein zweites Kind. Verlässliche Betreuung ist Voraussetzung dafür, dass beide weiterhin berufstätig bleiben und das notwendige Eigenkapital ansparen können. Der explizite Erhalt aller Standorte adressiert ihre Sorge um fehlende Kita-Plätze direkt.",
+      "begruendung_selbst": "Ohne Kita-Platz kann ich nicht arbeiten gehen. Wenn sie versprechen, alle Standorte zu erhalten, ist das für uns ganz konkret wichtig – mehr als viele andere politische Versprechen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "630 Euro für jedes Kind – das hilft uns",
+      "thema": "familie",
+      "programmpunkt": "Die Linke fordert eine armutsfeste, sanktionsfreie Kindergrundsicherung in Höhe von mindestens 630 Euro pro Monat für alle Kinder, die ohne hohe bürokratische Hürden beantragt werden kann.",
+      "seite": 45,
+      "zitat": "mindestens 630 Euro pro Monat für alle Kinder",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Familie mit Kleinkind und Sparrate für Eigenkapital würde eine universelle Kindergrundsicherung die Haushaltslage spürbar entlasten. Die Entkopplung von bürokratischen Hürden ist für das beschäftigte Paar praktisch relevant.",
+      "begruendung_selbst": "Das Geld käme direkt bei uns an. Wir verdienen nicht schlecht, aber zwischen Miete, Kita-Beiträgen und dem Sparen fürs Eigenkapital bleibt wenig übrig. 630 Euro pro Kind würden etwas von diesem Druck nehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenloser ÖPNV wäre ein Gewinn",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will den öffentlichen Nahverkehr mittelfristig landesweit kostenlos anbieten und bereits kurzfristig günstige Pendler-Tickets einführen.",
+      "seite": 102,
+      "zitat": "mittelfristig landesweit zum Nulltarif anbieten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar pendelt im Umland – beide Berufstätige mit einem Auto, das Kosten verursacht. Ein kostenloser oder stark verbilligter ÖPNV würde die Mobilitätskosten senken und wäre bis zum Kauf eines Hauses eine echte Entlastung.",
+      "begruendung_selbst": "Wenn Busse und Bahnen kostenlos wären, würden wir vielleicht auf ein Auto verzichten können. Das spart Versicherung, Sprit, alles. Geld, das wir dringend fürs Eigenkapital brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Günstige Energie für Familien",
+      "thema": "energie",
+      "programmpunkt": "Die Linke will einen verpflichtenden Sockeltarif für Strom und Wärme einführen, damit der Grundbedarf für alle bezahlbar bleibt.",
+      "seite": 106,
+      "zitat": "einen verpflichtenden Sockeltarif für Strom und Wärme",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Steigende Nebenkosten zählen zu den expliziten Sorgen der jungen Familie. Ein gesetzlicher Sockeltarif würde die Grundenergiekosten stabilisieren – sowohl in der aktuellen Mietwohnung als auch perspektivisch im geplanten Eigenheim.",
+      "begruendung_selbst": "Die Nebenkosten laufen uns davon. Ein Sockeltarif, der den Grundbedarf absichert, wäre wirklich eine Erleichterung im Alltag.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kein Geld fürs eigene Haus – das trifft uns ins Mark",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will Fördermittel für den Wohnungsbau ausschließlich für unbefristet gebundenen sozialen Mietwohnungsbau verwenden und explizit nicht für die Förderung von Wohneigentum einsetzen.",
+      "seite": 83,
+      "zitat": "nicht für die Förderung von Eigentum",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontraer",
+      "begruendung": "Das Paar benennt als Kernziel den Kauf oder Bau eines eigenen Hauses – und scheitert bislang an Preisen, Zinsen und Förderabstand. Das Programm der Linken schließt Eigentumsförderung kategorisch aus und lenkt alle Mittel in Mietwohnungen. Damit ist das zentrale Lebensziel der Persona politisch nicht unterstützt, sondern strukturell verdrängt.",
+      "begruendung_selbst": "Wir wollen kein Sozialwohnungsprogramm – wir wollen unser eigenes Haus. Wenn die Linke sagt, kein Fördeureuro geht in Eigenheim-Unterstützung, dann ist das für uns eine klare Ansage: Die meinen uns nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauen im Speckgürtel soll nicht sein?",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke lehnt unkontrollierte Zersiedelung durch Neubauten am Stadtrand und auf der grünen Wiese ab und setzt auf Nachverdichtung im Bestand.",
+      "seite": 85,
+      "zitat": "Eine unkontrollierte Zersiedelung durch Neubauten am Stadtrand",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontraer",
+      "begruendung": "Das Paar lebt im Speckgürtel und plant dort zu bauen – genau das Muster, das die Linke als 'unkontrollierte Zersiedelung' ablehnt. Diese Positionierung trifft die Persona direkt in ihrem Bauvorhaben und verschärft die Wahrnehmung, dass linke Wohnungspolitik für Eigenheimaspiranten keine Antwort hat.",
+      "begruendung_selbst": "Wir wollen auf dem Land bauen, wo es noch Grundstücke gibt. Wenn das als 'Zersiedelung' abgestempelt wird, fühlen wir uns von dieser Politik nicht gemeint.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tempolimit statt Pendler-Hilfe",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will ein bundesweites Tempolimit auf Autobahnen durchsetzen und keine neuen Autobahnen bauen.",
+      "seite": 104,
+      "zitat": "ein bundesweites Tempolimit auf den Autobahnen durchsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontraer",
+      "begruendung": "Das Paar pendelt täglich im Umland Sachsen-Anhalts, wo das Auto oft das einzige praktikable Verkehrsmittel ist. Tempolimit und kein Autobahnausbau treffen Auto-Pendler im Speckgürtel. Solange der Nulltarif-ÖPNV noch nicht realisiert ist, wird die Pendelsituation durch diese Maßnahmen eher belastet.",
+      "begruendung_selbst": "Ein Tempolimit macht meinen Weg zur Arbeit länger. Bevor der Nahverkehr wirklich funktioniert, komme ich aufs Auto nicht drauf an. Das fühlt sich an, als ob die Stadtpolitik macht und wir im Umland die Rechnung zahlen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Tom und Jessica als eigenheimambitioniertes Pendler-Paar liefert das Linke-Programm in Einzelpunkten echte Entlastungen – vor allem bei Kita-Erhalt, Kindergrundsicherung und perspektivisch kostenlosem ÖPNV. Der entscheidende Einwand ist strukturell: Die Linke schließt Eigentumsförderung kategorisch aus und lehnt Neubau im Speckgürtel ab. Ihr zentrales Lebensziel – ein eigenes Haus – findet im Programm keine politische Unterstützung. Das Programm adressiert Mieter und Transferleistungsempfänger, nicht aufstiegsorientierte Eigenheimaspiranten.",
+    "score": -1
+  }
+}

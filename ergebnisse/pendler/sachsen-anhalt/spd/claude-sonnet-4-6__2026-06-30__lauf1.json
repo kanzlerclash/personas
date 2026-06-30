@@ -1,0 +1,90 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mobilitätsgarantie für alle Regionen!",
+      "thema": "verkehr",
+      "programmpunkt": "Die SPD will eine Mobilitätsgarantie für alle Regionen Sachsen-Anhalts, mit Stärkung von Bus und Bahn auch in ländlichen Gebieten.",
+      "seite": 41,
+      "zitat": "Ziel ist eine Mobilitätsgarantie für alle Regionen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Dorf hat keinen brauchbaren ÖPNV. Das Versprechen einer Mobilitätsgarantie für alle Regionen adressiert seine Lage direkt — auch wenn er skeptisch ist, ob es umgesetzt wird.",
+      "begruendung_selbst": "Wenn endlich ein Bus fährt, könnten wir das zweite Auto einsparen. Das wäre eine echte Erleichterung für unseren Geldbeutel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Führerschein günstiger — das hilft!",
+      "thema": "verkehr",
+      "programmpunkt": "Der Führerschein soll günstiger werden, weil er im ländlichen Raum oft Voraussetzung für den Berufseinstieg ist.",
+      "seite": 9,
+      "zitat": "Da er in vielen Fällen für den Berufseinstieg notwendig ist, muss der Führerschein günstiger werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf sieht die Führerscheinkosten als Last für junge Menschen und Familien. Auch für seine Kinder, die bald in die Ausbildung kommen, wäre eine Vergünstigung direkt spürbar.",
+      "begruendung_selbst": "Meine Kinder müssen den Führerschein machen — das kostet uns schnell 2.000 Euro. Wenn das günstiger wird, ist das echtes Geld.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stromsteuer senken — gut für mich!",
+      "thema": "energie",
+      "programmpunkt": "Die SPD will die Umsatzsteuer auf Lebensmittel und die Stromsteuer senken, um Haushalte mit geringen Einkommen zu entlasten.",
+      "seite": 54,
+      "zitat": "Die Umsatzsteuer auf Lebensmittel des Grundbedarfs sowie die Stromsteuer sollen daher für alle Haushalte gesenkt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Steigende Lebensmittel- und Energiepreise belasten Toralfs Haushalt direkt. Senkungen bei Strom und Grundnahrungsmitteln geben ihm konkreten Kaufkraftzuwachs.",
+      "begruendung_selbst": "Am Monatsende bleibt zu wenig. Wenn Strom und Lebensmittel günstiger werden, merke ich das direkt im Portemonnaie.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Industriejobs schützen — mein Job zählt!",
+      "thema": "arbeit",
+      "programmpunkt": "Die SPD will Industriearbeitsplätze in Sachsen-Anhalt erhalten und den Strukturwandel sozial absichern.",
+      "seite": 6,
+      "zitat": "Strukturwandel darf niemanden zurücklassen. In neue Arbeitsplätze, Umschulungen und regionale Wirtschaftszentren wird gezielt investiert.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf arbeitet als Industriemechaniker in einem Schichtbetrieb. Die Zusicherung, dass Strukturwandel sozial abgefedert wird und niemand zurückgelassen werden soll, stützt seine Jobsicherheit.",
+      "begruendung_selbst": "Ich will nicht in zehn Jahren umschulen müssen, weil der Betrieb zu. Wenn die den Wandel wirklich absichern, bleib ich ruhiger.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "ÖPNV schön und gut — bei mir fährt keiner!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm fokussiert stark auf ÖPNV-Ausbau in bestehenden Netzen und Städten; die tatsächliche Lücke im ländlichen Raum wird zwar benannt, aber mit wenig Konkretem gefüllt.",
+      "seite": 41,
+      "zitat": "Dazu gehören die Sicherung der bestehenden Straßenbahnnetze, die Förderung der Neuanschaffung von Straßenbahnen und Bussen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf wohnt in einem Dorf ohne nennenswerten ÖPNV. Die genannten Maßnahmen betreffen primär bestehende Straßenbahnnetze und Buslinien in Städten — sein Alltag als Autofahrer ohne Alternative wird damit nicht gelöst.",
+      "begruendung_selbst": "Straßenbahnen — ich wohn im Dorf. Was nützen mir Straßenbahnen in Halle, wenn ich hier keinen Bus hab und auch keinen kriegen werde?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet einige positive Ansätze im SPD-Programm: die Mobilitätsgarantie als Versprechen, Führerscheinverbilligung und Steuersenkungen auf Energie und Lebensmittel sind für ihn spürbar. Gleichzeitig bleibt er skeptisch, ob ein ÖPNV-Fokus, der primär auf bestehende städtische Netze zielt, seiner Realität als ländlicher Autopendler gerecht wird. Das Programm nimmt seine Lage wahr, ohne eine wirkliche Antwort auf seine Abhängigkeit vom Auto zu geben.",
+    "score": 0
+  }
+}

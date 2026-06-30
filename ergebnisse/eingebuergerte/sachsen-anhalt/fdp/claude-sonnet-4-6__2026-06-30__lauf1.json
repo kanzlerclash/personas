@@ -1,0 +1,77 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Null Toleranz für Diskriminierung — das meint mich!",
+      "thema": "demokratie",
+      "programmpunkt": "Die FDP bekennt sich zu null Toleranz gegenüber Diskriminierung aufgrund Herkunft, Religion, sexueller Orientierung oder individuellen Lebensentwurfs; Antidiskriminierungsansprechpersonen in der Polizei, konsequente Strafverfolgung.",
+      "seite": 40,
+      "zitat": "Wir zeigen null Toleranz gegen diejenigen, die Menschen wegen ihrer Herkunft, Religion, sexuellen Orientierung, ihres individuellen Lebensentwurfs oder geschlechtlichen Identität diskriminieren.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt Alltagsdiskriminierung und muss ihre Zugehörigkeit ständig beweisen. Das klare Bekenntnis gegen Herkunftsdiskriminierung und feste Ansprechpersonen in der Polizei sind für sie konkrete Schutzversprechen.",
+      "begruendung_selbst": "Das steht klar da: Herkunft darf kein Grund für Benachteiligung sein. Das ist das Mindeste, das ich erwarte — und hier steht es wenigstens.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sachliche Migrationspolitik, keine Hysterie!",
+      "thema": "integration",
+      "programmpunkt": "Die FDP will eine pragmatische Migrationspolitik, die Chancen nutzt und Kontrolle wahrt; Zuwanderer, die arbeiten wollen und die Grundwerte achten, sollen unbürokratischen Zugang zum Arbeitsmarkt erhalten; keine populistischen Ressentiments.",
+      "seite": 10,
+      "zitat": "ohne Ängste und populistische Ressentiments zu schüren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin unterscheidet zwischen sachlicher Steuerung und pauschaler Ausgrenzungsrhetorik. Das Versprechen, Migration ohne populistische Ressentiments zu behandeln, entspricht ihrer Erwartung an eine faire Debatte.",
+      "begruendung_selbst": "Ich will keine offenen Grenzen ohne Regeln. Aber ich will auch nicht, dass über Menschen wie meine Eltern so geredet wird, als wären sie das Problem schlechthin.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Abschiebungshaft und harte Linie — das klingt nach Generalverdacht.",
+      "thema": "integration",
+      "programmpunkt": "Die FDP will Abschiebungen effizienter gestalten, eine Abschiebungshafteinrichtung spätestens 2027 in Betrieb nehmen, elektronische Fußfesseln als Alternative ermöglichen und Identitätsklärung konsequent durchsetzen.",
+      "seite": 11,
+      "zitat": "Auf keinen Fall darf der Rechtsstaat durch Verhinderung der Identitätsklärung oder durch Untertauchen an der Nase herumgeführt werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin ist sensibel dafür, wie Migrationsdebatte geführt wird. Die Betonung von Abschiebungen und die harte Sprache machen ihr Sorgen, dass sachliche Steuerung in pauschale Härte kippt — auch wenn sie Rechtsstaatlichkeit grundsätzlich teilt.",
+      "begruendung_selbst": "Rechtsstaat ja, das teile ich. Aber wenn das Hauptwort 'Abschiebungshaft' heißt, frage ich mich, wen das eigentlich als Erstes trifft — und ob das wirklich nicht auf Menschen wie meine Cousins zeigt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dauerhaftes Bleiberecht nur bei Eigenleistung — das macht mich nervös.",
+      "thema": "integration",
+      "programmpunkt": "Das dauerhafte Bleiberecht soll an zwei Bedingungen geknüpft werden: Lebensunterhalt durch Eigenleistung und glaubhaftes Bekenntnis zu den Grundwerten; Import politischer Feindschaften soll abgelehnt werden.",
+      "seite": 11,
+      "zitat": "das dauerhafte Bleiberecht wollen wir Freie Demokraten daher an zwei wesentliche Bedingungen knüpfen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin beobachtet genau, wie Zugehörigkeitsbedingungen formuliert werden. Auch wenn sie diese Prinzipien teilt, fragt sie sich, wer definiert, was 'glaubhaft' ist — und ob das ein neues Misstrauensinstrument gegen Menschen mit Migrationsgeschichte wird.",
+      "begruendung_selbst": "Meine Familie hat dieses Land mit aufgebaut. Wenn jetzt Zugehörigkeit erneut an Bedingungen geknüpft wird, hört sich das nach einem Vertrauenstest an, den nur wir ablegen müssen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet bei der FDP Sachsen-Anhalt einige wichtige Haltepunkte: das Bekenntnis zu null Toleranz gegenüber Diskriminierung und der Verzicht auf populistische Ressentiments in der Migrationsdebatte entsprechen ihrer Erwartung an sachliche Politik. Die harte Abschieberhetorik und die Bedingungen für das Bleiberecht machen ihr jedoch Sorgen, dass sachliche Steuerung in pauschale Härte umschlägt — ein Muster, das sie genau beobachtet. Insgesamt ambivalent.",
+    "score": 0
+  }
+}

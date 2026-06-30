@@ -1,0 +1,114 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau!",
+      "thema": "wirtschaft",
+      "programmpunkt": "In den kommenden fünf Jahren sollen keine neuen Auflagen und keine unnötigen Berichtspflichten für Unternehmen eingeführt werden; das 'One-in-One-out'-Prinzip wird umgesetzt.",
+      "seite": 13,
+      "zitat": "keine neuen Auflagen und keine unnötigen zusätzlichen Berichtspflichten zulassen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine benennt ausufernde Bürokratie als ihre größte Belastung. Das konkrete Moratorium gegen neue Auflagen für fünf Jahre ist ein direktes Entlastungsversprechen für ihren Betrieb.",
+      "begruendung_selbst": "Fünf Jahre keine neuen Formulare? Das klingt fast zu gut um wahr zu sein – aber ich nehme es gern. Mein Büro quillt schon über.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerk endlich gleichwertig!",
+      "thema": "arbeit",
+      "programmpunkt": "Berufliche Bildung und Handwerk sollen gezielt aufgewertet werden, die Gleichwertigkeit von beruflichem und akademischem Abschluss soll gestärkt werden.",
+      "seite": 14,
+      "zitat": "berufliche Bildung und das Handwerk gezielt aufwerten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines Fachkräftemangel hängt für sie auch daran, dass der Meisterberuf gesellschaftlich geringgeschätzt wird. Eine politische Gleichwertigkeitsoffensive könnte mehr Nachwuchs ins Handwerk bringen.",
+      "begruendung_selbst": "Wenn junge Leute endlich kapieren, dass ein Meisterbrief mindestens so viel wert ist wie ein Bachelor, dann bewerben sich vielleicht auch wieder welche bei mir.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nebenkostenstopp – muss man nutzen!",
+      "thema": "steuern",
+      "programmpunkt": "Die CDU setzt sich für einen Nebenkostenstopp für Unternehmen ein und will in den kommenden fünf Jahren weitere Erhöhungen von Abgaben und Gebühren vermeiden.",
+      "seite": 13,
+      "zitat": "Nebenkostenstopp für Unternehmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine kämpft mit steigenden Lohnnebenkosten, Energiekosten und Materialpreisen. Ein Moratorium bei Abgabeerhöhungen entlastet ihre Liquidität konkret.",
+      "begruendung_selbst": "Rundfunk, Berufsgenossenschaft, Kammerbeiträge – das läppert sich. Wenn das eingefroren wird, hab ich am Ende des Jahres tatsächlich etwas mehr auf dem Konto.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vergabe endlich fairer!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Landesvergabegesetz wurde vereinfacht; beschleunigte und digitalisierte Vergabeverfahren sollen insbesondere kleinen und mittleren Unternehmen erleichterten Zugang zu öffentlichen Aufträgen verschaffen.",
+      "seite": 17,
+      "zitat": "vereinfachte, beschleunigte und digitalisierte Vergabeverfahren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine fühlt sich gegenüber großen Unternehmen mit Rechtsabteilungen bei öffentlichen Aufträgen benachteiligt. Vereinfachte Vergabeverfahren verschaffen ihr einen direkten Vorteil.",
+      "begruendung_selbst": "Public-Ausschreibungen lesen sich manchmal wie Jura-Klausuren. Wenn das einfacher wird, kann ich auch mal mitbieten ohne vorher einen Anwalt zu fragen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unternehmensnachfolge endlich angehen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU will Unternehmensnachfolgen gezielt unterstützen, um altersbedingte Betriebsaufgaben zu vermeiden und Arbeitsplätze zu sichern.",
+      "seite": 14,
+      "zitat": "Unternehmensnachfolgen gezielt... sichern so die Zukunftsfähigkeit des Mittelstands",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines mittelfristige Hauptsorge ist die Betriebsübergabe in etwa zehn Jahren. Konkrete Unterstützung bei der Nachfolge greift direkt in ihre Lebensplanung.",
+      "begruendung_selbst": "Irgendwann gehe ich in Rente – aber der Betrieb soll weiterlaufen. Wenn das Land dabei hilft, einen Nachfolger zu finden, ist das nicht irgendwas, das ist meine Altersvorsorge.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Digitale Verwaltung – weniger Wege!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Behördengänge sollen digital und einmalig möglich sein; weniger Formulare und verlässliche digitale Abläufe entlasten Betriebe von Verwaltungsaufwand.",
+      "seite": 51,
+      "zitat": "Weniger Formulare, mehr Service, verlässliche digitale Abläufe",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt Abende mit Papierkram. Digitale und einmalige Verwaltungsprozesse würden ihre Arbeitszeit direkt entlasten und Verwaltungsgang auf ein Minimum reduzieren.",
+      "begruendung_selbst": "Wenn ich ein Formular online einmal ausfülle und das alle Stellen weitergeben – dann spar ich mir vielleicht die zwei Stunden pro Woche, die ich jetzt im Amt stehe.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sozialabgaben deckeln – meine Lohnkosten?",
+      "thema": "steuern",
+      "programmpunkt": "Auf Bundesebene setzt die CDU sich für ein Deckeln der Sozialabgaben ein, was die Wettbewerbsfähigkeit stärken soll.",
+      "seite": 17,
+      "zitat": "die Sozialabgaben zu deckeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine begrüßt den Ansatz grundsätzlich, ist sich aber bewusst, dass ein Deckel ohne Gegenfinanzierung die Sozialleistungen ihrer Mitarbeiter berühren könnte, was Unruhe im Betrieb bedeuten würde. Dieser Punkt ist für sie ambivalent, nicht klar negativ.",
+      "begruendung_selbst": "Weniger Lohnnebenkosten klingt gut – aber ich muss auch meinen Mitarbeitern in die Augen sehen. Was der Deckel für ihre Rente bedeutet, das muss ich erst verstehen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet im CDU-Programm ein klares Bekenntnis zu ihren zentralen Anliegen: Bürokratieabbau, Handwerksaufwertung, Entlastung bei Nebenkosten und vereinfachte Vergabe. Das Programm signalisiert eine wirtschaftsliberale, mittelstandsfreundliche Haltung, die ihrer Lebensrealität als Inhaberin eines kleinen Handwerksbetriebs entspricht. Die einzige Ambivalenz entsteht bei arbeitsrechtlichen Fragen, da Sabine zwar Kostenentlastung will, aber auch gegenüber ihren Beschäftigten Verantwortung trägt.",
+    "score": 1
+  }
+}

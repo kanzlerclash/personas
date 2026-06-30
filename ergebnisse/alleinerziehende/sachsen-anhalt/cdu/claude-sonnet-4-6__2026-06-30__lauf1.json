@@ -1,0 +1,101 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Alleinerziehende endlich entlasten!",
+      "thema": "familie",
+      "programmpunkt": "Die CDU will Alleinerziehende gezielt entlasten: auf Bundesebene durch faire steuerliche Entlastung, auf Landesebene durch Beratung, Unterstützung und erleichterten Zugang zu Hilfen.",
+      "seite": 31,
+      "zitat": "Alleinerziehende gezielt entlasten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine kämpft täglich gegen finanzielle Enge und mangelnde Unterstützung. Das direkte Bekenntnis zu gezielter Entlastung für Alleinerziehende als eigenständiger Gruppe gibt ihr das Gefühl, gesehen zu werden.",
+      "begruendung_selbst": "Ich arbeite, ich kümmere mich – und trotzdem heißt es nie wirklich: Nadine, wir helfen dir. Wenn das jetzt konkret werden soll, nehme ich das an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ganztagsbetreuung ab 2026!",
+      "thema": "bildung",
+      "programmpunkt": "Der Rechtsanspruch auf Ganztagsbetreuung ab 2026 soll umgesetzt werden, mit besserer Vernetzung von Ganztagsangeboten, Horten und Grundschulen.",
+      "seite": 49,
+      "zitat": "Rechtsanspruch auf Ganztagsbetreuung ab 2026 umsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines Möglichkeit, Teilzeit auszuweiten und mehr zu verdienen, hängt unmittelbar daran, ob verlässliche Ganztags-Betreuung für ihre Kinder verfügbar ist. Der Rechtsanspruch ab 2026 ist für sie ein konkretes Versprechen.",
+      "begruendung_selbst": "Gebt mir einen verlässlichen Betreuungsplatz, dann kann ich auch mehr arbeiten. Wenn das ab 2026 ein Recht ist – dann muss das auch wirklich kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita-Bürokratie runter – für alle!",
+      "thema": "bildung",
+      "programmpunkt": "Die Arbeit in Kitas soll entbürokratisiert werden, damit Erzieherinnen und Erzieher mehr Zeit für die Kinder haben.",
+      "seite": 49,
+      "zitat": "Erzieherinnen und Erzieher wieder stärker auf die Arbeit mit den Kindern konzentrieren können",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine ist auf gute Kita-Qualität angewiesen, weil sie selbst keine Zeit hat, Erziehung aufzufangen. Wenn Erzieher:innen mehr Zeit für ihre Kinder haben, profitiert sie direkt.",
+      "begruendung_selbst": "Was gut für die Erzieherinnen ist, ist gut für meine Kinder. Die sollen sich um sie kümmern, nicht um Formulare.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Zwangsarbeit für Aufstockerinnen?",
+      "thema": "arbeit",
+      "programmpunkt": "Die Teilnahme an Landesprogrammen zur Arbeitsmarktförderung soll für arbeitsfähige Leistungsbezieher nicht mehr freiwillig sein; es soll verbindliche Angebote zur Arbeitsaufnahme geben.",
+      "seite": 31,
+      "zitat": "nicht länger vom Prinzip der Freiwilligkeit abhängig sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine arbeitet bereits, stockt aber auf. Das Bürgerarbeit-Konzept trifft sie potenziell, weil pauschale 'Arbeitsfähigkeit' ihre Situation als Mutter mit zwei kleinen Kindern missversteht. Sie empfindet das als Misstrauen.",
+      "begruendung_selbst": "Ich arbeite bereits – und trotzdem reicht's nicht. Wenn jetzt jemand sagt, ich muss 'verbindlich', obwohl ich Kinder habe, die betreut werden müssen, dann fühle ich mich verdächtigt, nicht unterstützt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Mietdeckel – Angst vor Miete bleibt!",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU lehnt Mietpreisdeckel und andere Eingriffe in den Wohnungsmarkt als ideologisch motiviert ab und setzt auf Eigentumsförderung statt Mieterregulierung.",
+      "seite": 65,
+      "zitat": "Mietpreisdeckel, willkürliche Enteignungen und weitere Eingriffe in Eigentumsrechte entschieden ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine gibt den Großteil ihres Einkommens für Miete aus. In einer Lage steigender Mietpreise bedeutet die Ablehnung jeglicher Regulierung für sie eine potenzielle Verschlechterung ihrer Wohnsituation.",
+      "begruendung_selbst": "Ich miete, ich habe kein Eigenkapital und werde auch keins bilden. Wenn Mieten steigen und der Staat nichts tun will, bin ich die Erste, die das spürt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "'Fördern und Fordern' – wieder ich?",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will das Prinzip 'Fördern und Fordern' in der Grundsicherung wieder stärken und Missbrauch konsequent sanktionieren.",
+      "seite": 17,
+      "zitat": "Prinzip Fördern und Fordern in der Grundsicherung wieder stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als aufstockende Teilzeitkraft fühlt Nadine sich von 'Fördern und Fordern'-Rhetorik verdächtigt, obwohl sie arbeitet und sich kümmert. Sie erlebt diese Formulierungen als mangelnden Respekt für ihre Situation.",
+      "begruendung_selbst": "Ich fördere mich selbst – jeden Tag. Dass sofort von 'Missbrauch' geredet wird, wenn es um Aufstockung geht, trifft mich. Ich bin nicht das Problem.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet im CDU-Programm einige direkte Ansätze für ihre Situation: die ausdrückliche Nennung Alleinerziehender als zu entlastende Gruppe, den Ganztags-Betreuungsanspruch und bessere Kita-Qualität. Dagegen stehen das Bürgerarbeit-Konzept, das ihren Aufstockungsstatus mit Freiwilligkeit in Frage stellt, die Ablehnung von Mietregulierung und eine 'Fördern und Fordern'-Rhetorik, die sie als Misstrauen wahrnimmt. Das Programm schwankt zwischen Ansprache und Verdächtigung.",
+    "score": -1
+  }
+}

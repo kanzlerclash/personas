@@ -1,0 +1,89 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Ausländerfeindlichkeit klar ablehnen!",
+      "thema": "integration",
+      "programmpunkt": "Die CDU lehnt Ausländerfeindlichkeit, Hass, Hetze und pauschale Verdächtigungen entschieden ab und betont, dass Menschen mit Migrationshintergrund fester Bestandteil der Gesellschaft sind.",
+      "seite": 9,
+      "zitat": "Ausländerfeindlichkeit, Hass, Hetze und pauschale Verdächtigungen lehnen wir entschieden ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt Alltagsdiskriminierung und Ausgrenzungsrhetorik als Bedrohung ihrer Zugehörigkeit. Das klare Bekenntnis gegen pauschale Verdächtigung gibt ihr das Signal, dass sie nicht pauschal als Problemgruppe behandelt wird.",
+      "begruendung_selbst": "Ich bin hier geboren. Wenn eine Partei klar sagt, dass Hetze und pauschale Verdächtigungen nicht akzeptiert werden, höre ich zumindest zu.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Extremismus bekämpfen – alle Seiten!",
+      "thema": "demokratie",
+      "programmpunkt": "Der Verfassungsschutz soll gestärkt werden und einen 360°-Blick auf alle Formen des Extremismus bewahren, auch islamistischen.",
+      "seite": 7,
+      "zitat": "jede Form des politisch und islamistisch motivierten Extremismus bekämpfen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin befürwortet eine sachliche Sicherheitspolitik, die nicht einseitig gegen eine Herkunftsgruppe gerichtet ist. Der Ansatz, Extremismus von allen Seiten zu bekämpfen, entspricht ihrer Erwartung an einen rechtsstaatlichen Umgang.",
+      "begruendung_selbst": "Sicherheit und Rechtsstaat stehen nicht im Widerspruch zu Migrationsgeschichte. Gut, wenn das auch gilt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Migration auf null – was bin dann ich?",
+      "thema": "integration",
+      "programmpunkt": "Die CDU will die irreguläre Migration auf null reduzieren, freiwillige Aufnahmeprogramme beenden und den Familiennachzug für subsidiär Schutzberechtigte aussetzen.",
+      "seite": 8,
+      "zitat": "die irreguläre Migration auf null zu reduzieren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin ist selbst eingebürgert, Teil ihrer Familie lebt im Ausland. Die Kombination aus Null-Migrations-Ziel, Familiennachzugsstopp und Ausweitung von Abschiebungen empfindet sie als Klimawechsel, der Menschen wie sie als 'Ausnahme' von einer grundsätzlich abweisenden Haltung erscheinen lässt.",
+      "begruendung_selbst": "Ich bin akzeptiert, solange ich hier geboren bin und arbeite. Aber was ist mit meiner Familie? Und was sagt das über das Klima für alle, die so aussehen wie ich?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Syrien 'sicheres Herkunftsland'?",
+      "thema": "integration",
+      "programmpunkt": "Die CDU setzt sich dafür ein, Syrien und den Irak als sichere Herkunftsstaaten einzustufen und so schnellere Rückführungen zu ermöglichen.",
+      "seite": 8,
+      "zitat": "Syrien und den Irak als sichere Herkunftsstaaten einzustufen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin verfolgt die Migrationsdebatte kritisch auf Framing und Sachlichkeit. Die Einstufung Syriens als 'sicher' widerspricht aus ihrer Sicht der Realität und signalisiert ihr, dass Abschiebbarkeit über Fakten gestellt wird.",
+      "begruendung_selbst": "Syrien sicher? Das ist keine sachliche Einschätzung, das ist ein politisches Signal. Und ich beachte sehr genau, welche Signale gesendet werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rückführungen in großem Stil – Bedrohung?",
+      "thema": "integration",
+      "programmpunkt": "Die CDU setzt sich auf Bundesebene für ein Konzept ein, das Rückführungen in großem Stil ermöglicht und Vollzugshemmnisse beseitigt.",
+      "seite": 8,
+      "zitat": "Rückführungen in großem Stil ermöglicht und bestehende Vollzugshemmnisse wirksam beseitigt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin achtet genau auf Sprache. Die Formulierung 'Rückführungen in großem Stil' erinnert sie an Rhetorik, die nicht zwischen legaler Einwanderung und irregulärem Aufenthalt trennt, und erzeugt bei ihr Misstrauen gegenüber dem programmatischen Rahmen.",
+      "begruendung_selbst": "Steuert Migration meinetwegen klar und sachlich – aber redet nicht über Menschen wie über ein Problem, das man in großem Stil beseitigen muss.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet im CDU-Programm ein klar ausgesprochenes Bekenntnis gegen Fremdenfeindlichkeit und pauschale Verdächtigungen, das ihr wichtig ist. Gleichzeitig überwiegen programmatische Aussagen zur Migrationswende, die sie als gesellschaftliches Klima-Signal liest: Null-Migration-Ziel, Syrien als 'sicheres Land', Familiennachzugstopp und 'Rückführungen in großem Stil' erzeugen trotz der Distanzierungsformel ein Klima, das Menschen mit Migrationsgeschichte belastet.",
+    "score": -1
+  }
+}

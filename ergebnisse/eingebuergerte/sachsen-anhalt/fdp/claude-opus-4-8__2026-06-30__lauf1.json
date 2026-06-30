@@ -1,0 +1,89 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Migration ohne Ressentiment",
+      "thema": "integration",
+      "programmpunkt": "Migration soll pragmatisch angegangen werden, ohne Ängste und populistische Ressentiments zu schüren.",
+      "seite": 10,
+      "zitat": "ohne Ängste und populistische Ressentiments zu schüren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin bewertet Parteien danach, wie sie über Menschen mit Migrationsgeschichte sprechen; der ausdrückliche Verzicht auf Ressentiment-Rhetorik entlastet sie.",
+      "begruendung_selbst": "Endlich mal ein Ton, der nicht auf meine Kosten geht. Sachlich über Migration reden, ohne Stimmung gegen uns zu machen - das tut gut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leistung zählt, nicht Herkunft",
+      "thema": "integration",
+      "programmpunkt": "Ausländische Qualifikationen sollen schneller anerkannt und der Arbeitsmarktzugang erleichtert werden.",
+      "seite": 10,
+      "zitat": "müssen ausländische Qualifikationen schneller anerkannt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylins Wertekern ist 'Teilhabe statt Abstammung'; eine zügige Qualifikationsanerkennung verkörpert für sie gelebte Chancengleichheit.",
+      "begruendung_selbst": "Wer was kann, soll arbeiten dürfen - egal woher. Genau so sollte Integration aussehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Diskriminierung wird nicht geduldet",
+      "thema": "demokratie",
+      "programmpunkt": "Diskriminierung wegen Herkunft, Religion oder Identität soll mit null Toleranz bekämpft werden.",
+      "seite": 40,
+      "zitat": "Wir zeigen null Toleranz gegen diejenigen, die Menschen wegen ihrer Herkunft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt Alltagsdiskriminierung; ein klares staatliches Bekenntnis gegen Diskriminierung wegen Herkunft bestätigt ihr Bedürfnis nach Schutz und Zugehörigkeit.",
+      "begruendung_selbst": "Wegen meiner Herkunft angefeindet zu werden, kenne ich. Dass das klar verurteilt wird, gibt mir Rückhalt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wer 'passt' kulturell genug?",
+      "thema": "integration",
+      "programmpunkt": "Das Bleiberecht soll an Eigenleistung und ein Verfassungsbekenntnis geknüpft, eine kulturell kompatible Eingliederung angestrebt werden.",
+      "seite": 11,
+      "zitat": "eine kulturell und sozial kompatible Eingliederung angestrebt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin ist wachsam, dass sachliche Steuerung in pauschale Härte kippt; die Formel der 'kulturellen Kompatibilität' weckt bei ihr die Sorge, Zugehörigkeit werde an Abstammung statt Teilhabe gemessen.",
+      "begruendung_selbst": "Was heißt 'kulturell kompatibel'? Solche Sätze treffen am Ende immer Menschen wie mich, die längst dazugehören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sprachkurs nur für Selbstzahler",
+      "thema": "integration",
+      "programmpunkt": "Sprachkurse sollen vorrangig für Selbstzahler oder Teilnehmer mit Eigenanteil angeboten werden.",
+      "seite": 11,
+      "zitat": "Sprachkurse sollen vorrangig für Selbstzahler",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin sieht Sprache als Schlüssel zur Teilhabe; eine Priorisierung von Selbstzahlern verengt für ärmere Zugewanderte den Zugang und widerspricht ihrem Teilhabeideal.",
+      "begruendung_selbst": "Wer Deutsch lernen will, sollte das können - nicht nur, wer es bezahlt. Integration darf nicht am Geldbeutel scheitern.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin nimmt den bewusst anti-populistischen, leistungs- statt herkunftsbezogenen Ton und das Bekenntnis gegen Diskriminierung als wohltuend wahr. Gleichzeitig bleibt sie wachsam: Formeln wie 'kulturell kompatible Eingliederung' und der Vorrang zahlender Sprachkursteilnehmer wecken ihre Sorge, dass sachliche Steuerung in Härte und neue Zugehörigkeitsfragen kippt. In der Summe überwiegt ein vorsichtig positives Bild.",
+    "score": 1
+  }
+}

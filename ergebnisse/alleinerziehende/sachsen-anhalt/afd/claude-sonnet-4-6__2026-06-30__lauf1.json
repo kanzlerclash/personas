@@ -1,0 +1,77 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kita endlich kostenlos!",
+      "thema": "familie",
+      "programmpunkt": "Das Programm will Krippen und Kindergärten ab dem ersten Kind dauerhaft kostenlos machen.",
+      "seite": 4,
+      "zitat": "Krippen und Kindergärten mit einer dauerhaft auf Landesebene gesicherten Finanzierung ab dem ersten Kind kostenlos",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine zahlt aktuell Kita-Beiträge, die ihr schmales Budget erheblich belasten; ein kostenloser Kita-Platz würde ihr monatlich einen signifikanten Betrag zurückgeben.",
+      "begruendung_selbst": "Gebt mir einen verlässlichen Betreuungsplatz, dann kann ich auch mehr arbeiten. Wenn der Kita-Platz kostenlos wird, ist das eine echte Entlastung – egal, wer das einführt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schulessen kostenlos – endlich!",
+      "thema": "bildung",
+      "programmpunkt": "Das Programm will Schulessen für alle Kinder von der Krippe bis zur Schule kostenlos und von hoher Qualität vorhalten.",
+      "seite": 4,
+      "zitat": "Mittagsverpflegung muss für alle Kinder, von der Krippe bis zur Schule, ebenfalls kostenfrei",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jede Klassenfahrt und jeder Schulposten ist für Nadine ein finanzielles Problem; kostenloses Schulessen nimmt ihr einen wiederkehrenden Stressfaktor.",
+      "begruendung_selbst": "Ich arbeite, ich kümmere mich – und trotzdem reicht es vorne und hinten nicht. Wenn das Schulessen nichts mehr kostet, ist das ein echter Unterschied für uns.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mein Leben ist keine halbe Sache!",
+      "thema": "familie",
+      "programmpunkt": "Das Programm stellt sich gegen jede Propagierung von Einelternfamilien als normalem Lebensmodell und betont ausdrücklich die Familie aus Mutter, Vater und Kindern als Norm.",
+      "seite": 4,
+      "zitat": "Einelternfamilien als normalen, fortschrittlichen oder gar erstrebenswerten Lebensentwurf zu propagieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine lebt als Alleinerziehende nicht aus einer politischen Entscheidung, sondern aus ihrer Lebenssituation heraus; das Programm erkennt zwar 'die Leistung' an, stellt ihr Lebensmodell aber gleichzeitig als defizitär dar.",
+      "begruendung_selbst": "Ich arbeite, ich kümmere mich, ich bin für meine Kinder da – und dann sage ich ihnen, dass ihr Zuhause laut Parteiprogramm keine richtige Familie ist? Das ist respektlos.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schwangerschaftsabbruch kriminalisieren!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm will den Schwangerschaftsabbruch im Strafrecht belassen und setzt sich gegen eine Legalisierung außerhalb des § 218 ein.",
+      "seite": 4,
+      "zitat": "Schwangerschaftsabbruch muss im Strafrecht bleiben!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine als allein-erziehende Frau mit knappem Budget ist in einer Lebenslage, in der eine ungewollte Schwangerschaft existenzielle Folgen hätte; das Festhalten am Strafrecht nimmt Frauen Entscheidungsfreiheit.",
+      "begruendung_selbst": "Wer entscheidet über meinen Körper? Ich lebe jeden Tag mit der Verantwortung für meine Kinder. Diese Entscheidung gehört zu mir, nicht ins Strafgesetzbuch.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet im Programm mit der kostenlosen Kita und dem kostenlosen Schulessen zwei direkte Entlastungen für ihr knappes Budget. Gleichzeitig stellt das Programm ihr Lebensmodell als nicht normalwertig hin und setzt bei Schwangerschaftsfragen auf strafrechtliche Kontrolle, was sie als Eingriff in ihre Würde und Autonomie empfindet. Die Bilanz ist gemischt.",
+    "score": -1
+  }
+}

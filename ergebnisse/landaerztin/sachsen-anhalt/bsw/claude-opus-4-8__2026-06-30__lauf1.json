@@ -1,0 +1,101 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Anreize für Landärzte!",
+      "thema": "gesundheit",
+      "programmpunkt": "Landesstipendien für Medizinstudierende mit Bindung an unterversorgte Regionen sowie gezielte Unterstützung der Niederlassung.",
+      "seite": 60,
+      "zitat": "Landesstipendien mit Bindung an unterversorgte Regionen stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra findet keine Nachfolge; an Regionen gebundene Stipendien und Niederlassungsanreize zielen genau auf ihr drängendstes Problem, den Landarztmangel.",
+      "begruendung_selbst": "Wenn ich in Rente gehe, steht hier niemand bereit – Stipendien, die junge Ärzte aufs Land binden, wären genau der richtige Hebel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hilfe gegen den Bürokratieberg!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Finanzielle Unterstützung für Arztpraxen, etwa für Praxismanager und eine praxisnahe Digitalisierung der Verwaltungsabläufe.",
+      "seite": 60,
+      "zitat": "für die Einstellung von Praxismanagern sowie für eine praxisnahe Digitalisierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra verliert halbe Tage an Dokumentation; Unterstützung für Praxismanager und sinnvolle Digitalisierung würde ihr Zeit für die eigentliche Versorgung zurückgeben.",
+      "begruendung_selbst": "Ich behandle gern Menschen – wenn mir jemand den Verwaltungskram abnimmt, habe ich endlich wieder Zeit für meine Patienten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitalisierung, die hilft statt nervt!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Datenschutz soll praktikabel und bürgernah sein und nicht zum bürokratischen Hemmnis werden.",
+      "seite": 70,
+      "zitat": "sondern muss wirksam, verständlich und bürgernah sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra erlebt Telematik und eAU als belastend und nicht funktionierend; das Versprechen praktikabler, bürgernaher Regeln entspricht ihrem Wunsch nach funktionierender Digitalisierung.",
+      "begruendung_selbst": "Ich brauche Technik, die läuft, und Datenschutz, der nicht jede Sprechstunde lähmt – genau das wird hier angesprochen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung vor Rendite!",
+      "thema": "gesundheit",
+      "programmpunkt": "Absage an die Ökonomisierung des Gesundheitswesens; Gesundheit wird als Menschenrecht und nicht als Ware verstanden.",
+      "seite": 56,
+      "zitat": "Gesundheit ist keine Ware",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra hält die Rendite-Logik für unvereinbar mit ländlicher Grundversorgung; die klare Absage an die Ökonomisierung deckt sich mit ihrem ärztlichen Selbstverständnis.",
+      "begruendung_selbst": "Versorgung auf dem Land rechnet sich nie nach Rendite – gut, dass Gesundheit hier als Menschenrecht und nicht als Ware gilt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Den ländlichen Raum stärken!",
+      "thema": "verkehr",
+      "programmpunkt": "Den ländlichen Raum durch bessere Infrastruktur und Verkehrsanbindung für Niederlassung und Versorgung attraktiver machen.",
+      "seite": 61,
+      "zitat": "Ländlichen Raum durch bessere Infrastruktur attraktiver machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Lange Wege ihrer Patientinnen und die Unattraktivität des Standorts treiben Petra um; bessere Infrastruktur und Anbindung verbessern Versorgung und Nachfolgechancen zugleich.",
+      "begruendung_selbst": "Meine Patienten haben weite Wege, und kein junger Arzt will hierher – bessere Infrastruktur macht beides leichter.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Großumbau löst meinen Mangel nicht.",
+      "thema": "gesundheit",
+      "programmpunkt": "Vereinheitlichung der Kassenleistungen und Zusammenlegung von Krankenkassen samt solidarischer Bürgerversicherung.",
+      "seite": 56,
+      "zitat": "spricht sich deshalb für eine Vereinheitlichung der Kassenleistungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra steht bürokratischen Großumbauten skeptisch gegenüber, wenn sie mehr Aufwand statt mehr Versorgung bringen; ein Kassen-Großumbau löst aus ihrer Sicht den Landarztmangel nicht.",
+      "begruendung_selbst": "Ein riesiger Kassen-Umbau klingt nach viel Bürokratie – aber meinen leeren Nachfolgersitz füllt das nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Petra sieht ihre Kernsorgen ungewöhnlich konkret bedient: regionsgebundene Stipendien gegen den Landarztmangel, Entlastung von Bürokratie über Praxismanager und praxisnahe Digitalisierung, eine klare Absage an die Ökonomisierung und Stärkung des ländlichen Raums. Skeptisch bleibt sie gegenüber dem großen Kassenumbau, der ihren Versorgungsmangel nicht beheben dürfte. Insgesamt überwiegt für sie der pragmatische Nutzen für die Daseinsvorsorge auf dem Land.",
+    "score": 1
+  }
+}

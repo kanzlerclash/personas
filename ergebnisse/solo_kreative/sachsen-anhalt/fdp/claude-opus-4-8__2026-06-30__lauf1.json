@@ -1,0 +1,101 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kreativwirtschaft endlich ernst genommen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Kulturelle Vielfalt und Kreativwirtschaft sollen ermöglicht werden, ohne sie in Bürokratie zu ersticken.",
+      "seite": 43,
+      "zitat": "Wir wollen kulturelle Vielfalt ermöglichen, ohne sie in Bürokratie zu ersticken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike lebt von der Kreativwirtschaft und fürchtet Förderkürzungen; die Aufwertung der Kreativwirtschaft bei gleichzeitigem Bürokratieabbau trifft ihre Existenzgrundlage.",
+      "begruendung_selbst": "Endlich wird meine Branche als Wirtschaft gesehen und nicht als Hobby - und das ohne neue Formulare. Das ist mein Thema.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Behördenkram für Kleinste",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungsleistungen sollen durchgängig digital, ohne Medienbrüche und Papier nutzbar sein.",
+      "seite": 48,
+      "zitat": "vom Antrag bis zum Bescheid, ohne Medienbrüche und ohne Papier",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist von der Bürokratielast als Soloselbstständige überfordert; eine durchgängig digitale Verwaltung verringert ihren Verwaltungsaufwand spürbar.",
+      "begruendung_selbst": "Buchhaltung und Behörden fressen meine Zeit. Wenn das alles digital läuft, kann ich wieder arbeiten statt verwalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gründer von Zwängen befreien",
+      "thema": "arbeit",
+      "programmpunkt": "Junge Unternehmen sollen von Dokumentationspflichten und Zwangsmitgliedschaften entlastet werden.",
+      "seite": 8,
+      "zitat": "von Befragungen, Dokumentationspflichten und Zwangsmitgliedschaften soweit möglich entlastet",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soloselbstständige empfindet Mareike Pflichten und Beiträge als unverhältnismäßig zur Betriebsgröße; eine Entlastung kommt ihr direkt zugute.",
+      "begruendung_selbst": "Ich bin ein Ein-Frau-Betrieb, kein Konzern. Weniger Zwangsbeiträge und Pflichten - genau das brauche ich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Steuerlast vereinfachen",
+      "thema": "steuern",
+      "programmpunkt": "Das Steuerrecht soll vereinfacht und Fälle doppelter Besteuerung abgeschafft werden.",
+      "seite": 9,
+      "zitat": "setzen uns im Land und im Bund für eine Vereinfachung des Steuerrechts ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike erlebt Steuer- und Beitragslast als überfordernd; eine Vereinfachung des Steuerrechts senkt ihren Aufwand und entspricht ihrer Hoffnung.",
+      "begruendung_selbst": "Allein die Steuererklärung kostet mich Nerven und Geld. Vereinfachung wäre für Kleinste wie mich Gold wert.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Absichern? Mach's selbst",
+      "thema": "gesundheit",
+      "programmpunkt": "Bei der Vorsorge wird auf kapitalgedeckte Elemente und Anreize für private Vorsorge gesetzt.",
+      "seite": 70,
+      "zitat": "Anreize für private sowie betriebliche Vorsorge gestärkt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes Kernsorge ist die fehlende soziale Absicherung Soloselbstständiger; der Verweis auf private Vorsorge lässt ihr Risiko bei Krankheit, Flaute und Alter ungelöst.",
+      "begruendung_selbst": "Private Vorsorge - wovon denn, in den mageren Monaten? Genau da, wo ich Schutz brauche, lässt mich das allein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigenverantwortung als Leerstelle",
+      "thema": "arbeit",
+      "programmpunkt": "Sozialpolitik betont Eigenverantwortung und 'Fördern und Fordern' statt Ausweitung sozialer Sicherung.",
+      "seite": 40,
+      "zitat": "den Menschen mehr von ihrem Geld zu lassen und ihnen Arbeit zu ermöglichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike fällt zwischen die sozialen Raster; eine auf Eigenverantwortung verengte Sozialpolitik bietet keine Antwort auf die Absicherungslücke der Soloselbstständigen.",
+      "begruendung_selbst": "Eigenverantwortung schön und gut - aber ich falle durch jedes Raster. Ein nettes Wort ersetzt keinen Schutz bei Krankheit.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike begrüßt die Aufwertung der Kreativwirtschaft, den Bürokratieabbau, die Entlastung von Zwangsmitgliedschaften und die Steuervereinfachung - all das trifft ihren Alltag als Soloselbstständige. Ihre tiefste Sorge, die fehlende soziale Absicherung, beantwortet das Programm jedoch mit privater Eigenvorsorge, was ihre Absicherungslücke gerade nicht schließt. Konkrete Entlastungen und ungelöste Existenzsicherung halten sich für sie die Waage.",
+    "score": 0
+  }
+}

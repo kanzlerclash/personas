@@ -1,0 +1,65 @@
+name: "Toralf (Pendler)"
+einzeiler: "Facharbeiter vom Dorf, für den das Auto kein Luxus, sondern die Bedingung seines Jobs ist."
+themen: [verkehr, energie, klima, arbeit]
+gesicht:
+  config:
+    hat: "none"
+    hair: "side-part"
+    hairColor: "#33240f"
+    accessory: "goatee"
+    top: "sweater"
+    topColor: "#118ab2"
+    trousers: "jeans"
+    build: "medium"
+    skin: "#e0ac69"
+    mouth: "line"
+    background: "#2b2d42"
+
+demografie:
+  alter: 43
+  geschlecht: männlich
+  wohnort: "Dorf in Sachsen-Anhalt ohne brauchbaren ÖPNV"
+  haushalt: "verheiratet, zwei Kinder im Schulalter; Frau arbeitet Teilzeit im Ort"
+  bildung: "Facharbeiter, abgeschlossene Lehre als Industriemechaniker"
+
+oekonomie:
+  beruf: "Industriemechaniker im Schichtbetrieb, 45 Minuten Arbeitsweg mit dem Auto"
+  einkommen: "solides Facharbeiter-Einkommen, plus Schichtzulagen; reicht, aber ohne großen Puffer"
+  vermoegen_schulden: "Eigenheim/Haushalt abbezahlt oder im Plan; ein zweites Auto fürs Pendeln nötig"
+  finanzieller_druck: "Spritkosten und Autounterhalt sind ein fixer, schmerzhafter Posten; CO2-Preis trifft direkt"
+
+werte_haltung:
+  grundwerte: ["Arbeit ernährt die Familie", "Bodenständigkeit", "Fairness gegenüber Arbeitenden", "Pragmatismus"]
+  sorgen:
+    - "dass Klima- und Verkehrspolitik das Pendeln immer teurer macht, ohne Alternative anzubieten"
+    - "Verbrenner-Aus, ohne dass für ihn ein bezahlbares, alltagstaugliches E-Auto in Sicht ist"
+    - "Kaufkraftverlust: Sprit, Strom, Lebensmittel"
+  hoffnungen: ["bezahlbare Mobilität", "Entlastung für Pendler", "sichere Industriearbeitsplätze", "Realismus statt Verbote"]
+  politische_grundhaltung: >
+    Bodenständig, arbeitnehmerorientiert, ergebnis- statt ideologiegetrieben. Nicht gegen Umweltschutz, aber
+    misstrauisch gegenüber Politik, die 'die da oben' für Leute wie ihn entscheiden, ohne die Folgen an der
+    Zapfsäule zu spüren. Parteipolitisch ungebunden.
+  menschenbild: "Wer früh aufsteht und schuftet, hat Respekt und Entlastung verdient"
+
+sicht_auf_andere:
+  - gruppe: "Urbane Klima-/Verkehrspolitik"
+    haltung: "fühlt sich übergangen — Radwege und ÖPNV helfen ihm im Dorf nicht"
+  - gruppe: "Stadtbewohner mit guter Anbindung"
+    haltung: "sieht Ungleichbehandlung: für sie ist Autoverzicht leicht, für ihn unmöglich"
+  - gruppe: "Politische 'Eliten'"
+    haltung: "Verdacht, dass über seinen Alltag entschieden wird, ohne ihn zu kennen"
+
+verhalten:
+  mediennutzung: ["Radio im Auto", "Regionalzeitung online", "Facebook", "YouTube"]
+  alltag: "Schicht, Pendeln, Familie, Verein; wenig Zeit, klare Prioritäten"
+  informationsverhalten: "pragmatisch, prüft Politik am eigenen Geldbeutel und Arbeitsweg"
+
+themen_stakes:
+  verkehr: "Pendlerpauschale, Spritpreise, ÖPNV-Anbindung des ländlichen Raums, Verbrenner-Aus"
+  energie: "Strom-/Spritpreise, CO2-Bepreisung, Ladeinfrastruktur auf dem Land"
+  klima: "Tempo und Sozialverträglichkeit der Verkehrswende — wer zahlt?"
+  arbeit: "Sicherheit seines Industriearbeitsplatzes, Löhne, Schichtbedingungen"
+
+stimme:
+  - "Ich würde ja gern umsteigen – nur fährt hier kein Bus, und ein E-Auto kann ich mir nicht leisten."
+  - "Macht meine Arbeit nicht teurer, als sie einbringt. Mehr verlange ich gar nicht."

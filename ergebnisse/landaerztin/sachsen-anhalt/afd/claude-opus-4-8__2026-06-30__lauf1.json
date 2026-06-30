@@ -1,0 +1,101 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Anreize für Nachfolger!",
+      "thema": "gesundheit",
+      "programmpunkt": "Ein Landarztstipendienprogramm soll Medizinstudenten finanzieren, die sich verpflichten, mindestens zehn Jahre als Landärzte zu arbeiten.",
+      "seite": 20,
+      "zitat": "ein spezielles Landarztstipendienprogramm auflegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petras drängendste Sorge ist die fehlende Praxisnachfolge; ein gezieltes Landarztstipendium adressiert genau dieses Problem.",
+      "begruendung_selbst": "Wenn ich in Rente gehe, steht hier niemand bereit. Ein Stipendium, das junge Ärzte aufs Land bindet, ist genau das, was wir brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Dorf wird zurückgelassen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Grund- und Regelversorgung sollen in allen Regionen des Landes erhalten bleiben, eine kalte Strukturbereinigung wird abgelehnt.",
+      "seite": 20,
+      "zitat": "Grund- und Regelversorgung müssen in allen Regionen Sachsen-Anhalts erhalten bleiben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra kämpft gegen das Vergessen des ländlichen Raums; das ausdrückliche Bekenntnis zur flächendeckenden Versorgung trifft ihren Kernmaßstab.",
+      "begruendung_selbst": "Meine Patienten haben ohnehin lange Wege. Dass die Versorgung auf dem Land garantiert bleiben soll, ist genau die Linse, an der ich Politik messe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mobile Praxen und Telemedizin - sinnvoll",
+      "thema": "verkehr",
+      "programmpunkt": "Mobile Arztpraxen, Telemedizin und verbesserte Klinikstrukturen in den Landkreisen sollen unterstützt werden.",
+      "seite": 15,
+      "zitat": "mobile Arztpraxen, Telemedizin und verbesserte Klinikstrukturen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Lange Wege und Versorgungsmangel im ländlichen Raum prägen Dr. Petras Alltag; mobile Angebote und Telemedizin sind praxisnahe Ansätze, die ihre Patienten erreichen.",
+      "begruendung_selbst": "Mobile Praxen und gute Telemedizin könnten meinen Patienten die weiten Wege ersparen. Das ist endlich mal praktisch gedacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung vor Rendite!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Eine weitere Privatisierung von Krankenhäusern wird abgelehnt; öffentliche Trägerschaft soll Vorrang vor gewinnorientierten Konzernen haben.",
+      "seite": 20,
+      "zitat": "Keine Privatisierung von Krankenhäusern mehr!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra steht der Ökonomisierung des Gesundheitswesens kritisch gegenüber; die Absage an Renditelogik passt zu ihrer Sicht, dass sich Versorgung auf dem Land nicht 'rechnen' muss.",
+      "begruendung_selbst": "Rendite-Logik passt nicht zur ländlichen Grundversorgung. Dass die Versorgung Vorrang vor dem Profit bekommt, sehe ich genauso.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Doku, mehr Patient!",
+      "thema": "gesundheit",
+      "programmpunkt": "Bürokratische Hürden sollen abgebaut werden: weniger Dokumentationspflichten, mehr Zeit für die Versorgung am Menschen.",
+      "seite": 20,
+      "zitat": "Weniger Dokumentationspflichten, mehr Zeit für die Pflege am Menschen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra verbringt halbe Tage mit Formularen und Regress-Angst; ein Abbau der Dokumentationslast gäbe ihr Zeit für ihre eigentliche Arbeit zurück.",
+      "begruendung_selbst": "Ich behandle gern Menschen, aber ich verbringe halbe Tage mit Formularen. Weniger Doku wäre für mich die größte Entlastung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "'Importärzte' wegreden hilft mir nicht",
+      "thema": "integration",
+      "programmpunkt": "Statt ausländischer Ärzte soll auf hier ausgebildete Mediziner gesetzt werden; ausländische Ärzte werden als wegen Sprache und Qualifikation oft ungeeignet bezeichnet.",
+      "seite": 20,
+      "zitat": "Medizinstudenten statt Importärzte!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra denkt sachorientiert von der Versorgung her; gerade auf dem Land hängt die ärztliche Versorgung oft an ausländischen Kollegen, sodass ihre pauschale Abwertung den Ärztemangel kurzfristig eher verschärft.",
+      "begruendung_selbst": "Mehr eigene Studienplätze, gern. Aber bis die da sind, halten oft genau die ausländischen Kollegen den Laden am Laufen. Die wegzureden löst meinen Mangel nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra sieht ihre Kernanliegen erstaunlich genau getroffen: ein Landarztstipendium gegen die fehlende Nachfolge, die Garantie flächendeckender Versorgung, mobile Praxen und Telemedizin, eine Absage an die Ökonomisierung sowie weniger Dokumentation. Quer liegt die pauschale Abwertung ausländischer Ärzte, auf die die Versorgung auf dem Land kurzfristig angewiesen ist. Insgesamt überwiegen für sie die praxisnahen Versorgungsversprechen.",
+    "score": 1
+  }
+}

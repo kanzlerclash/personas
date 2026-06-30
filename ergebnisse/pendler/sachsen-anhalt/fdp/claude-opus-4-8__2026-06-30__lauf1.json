@@ -1,0 +1,101 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sprit billiger, endlich",
+      "thema": "steuern",
+      "programmpunkt": "Die Mehrwertsteuer auf Kraftstoffe soll nur noch auf den Nettopreis vor Energiesteuer und CO2-Abgabe erhoben werden.",
+      "seite": 9,
+      "zitat": "die Mehrwertsteuer auf Kraftstoffe lediglich auf den Nettopreis",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Spritkosten sind für Toralf ein fixer, schmerzhafter Posten; eine Entlastung an der Zapfsäule trifft seinen Alltag direkt.",
+      "begruendung_selbst": "Steuer auf die Steuer beim Tanken - das war immer Wahnsinn. Wenn das wegfällt, merke ich das jeden Monat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Auto bleibt mein Recht",
+      "thema": "verkehr",
+      "programmpunkt": "Im ländlichen Raum bleibt das Auto die wichtigste Mobilitätsform, der ÖPNV wird ergänzend ausgebaut.",
+      "seite": 72,
+      "zitat": "außerhalb der Städte das Auto die Mobilität der Wahl für die meisten Menschen bleiben wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fühlt sich von urbaner Verkehrspolitik übergangen; die ausdrückliche Anerkennung des Autos im Dorf nimmt seine Lage ernst.",
+      "begruendung_selbst": "Endlich sagt mal jemand laut, was bei uns Realität ist: ohne Auto komme ich hier nicht zur Schicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erst Straßen, dann Träume",
+      "thema": "verkehr",
+      "programmpunkt": "In die Verkehrsinfrastruktur soll wieder kräftig investiert und jeder Ort an ein Mittelzentrum angebunden werden.",
+      "seite": 62,
+      "zitat": "Überall im Land soll ein Mittelzentrum in einer Zeit von 30 Minuten erreichbar sein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Gute Straßen und Erreichbarkeit sind für Toralfs Arbeitsweg entscheidend; das Investitionsversprechen kommt seinem Pendelalltag zugute.",
+      "begruendung_selbst": "Ich brauche kein Lastenrad, ich brauche eine ordentliche Straße zur Arbeit. Das ist mal eine klare Ansage.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz ohne Bevormundung",
+      "thema": "klima",
+      "programmpunkt": "Klimapolitik soll marktwirtschaftlich und technologieoffen statt über Verbote erfolgen.",
+      "seite": 23,
+      "zitat": "Klimapolitik darf nicht in Bevormundung, Verboten und teuren Symbolmaßnahmen abgleiten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fürchtet Verbote ohne bezahlbare Alternative; der verbotsfreie Ansatz entspricht seinem Wunsch nach Realismus.",
+      "begruendung_selbst": "Macht mir keine Verbote, für die ich keine Alternative habe. Das ist genau, was die da oben sonst nicht kapieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rufbus statt gar nichts",
+      "thema": "verkehr",
+      "programmpunkt": "Das ländliche Busnetz soll mit On-Demand-Shuttles und Rufbussen modernisiert werden.",
+      "seite": 73,
+      "zitat": "inklusive On-Demand-Shuttles, Rufbussen und perspektivisch autonomen Kleinbussen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "In Toralfs Dorf fährt kein brauchbarer Bus; flexible On-Demand-Angebote könnten erstmals eine echte Alternative bieten.",
+      "begruendung_selbst": "Bei uns fährt ja nichts. Wenn ein Rufbus käme, könnte wenigstens meine Frau mal ohne Auto los.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Pendlerpauschale? Fehlanzeige",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm setzt beim Auto auf MwSt-Entlastung und Straßenbau, benennt aber keine gezielte Pendlerentlastung über die CO2-Belastung hinaus.",
+      "seite": 23,
+      "zitat": "Emissionshandel ist dabei das Leitinstrument",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf misst Politik am Geldbeutel; der Emissionshandel als Leitinstrument verteuert Sprit tendenziell weiter, ohne dass eine eigene Pendlerkompensation zugesichert wird.",
+      "begruendung_selbst": "Emissionshandel heißt für mich am Ende: Tanken wird teurer. Wer gleicht das für Leute aus, die fahren müssen?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet sich in der autofreundlichen, verbotskritischen Linie stark wieder: günstigerer Sprit über die Mehrwertsteuer, klares Bekenntnis zum Auto im ländlichen Raum, Investitionen in Straßen und flexible Rufbusse. Ein Wermutstropfen bleibt der Emissionshandel als Leitinstrument, das Tanken eher verteuert, ohne dass eine eigene Pendlerentlastung benannt wird.",
+    "score": 1
+  }
+}

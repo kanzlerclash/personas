@@ -1,0 +1,114 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Rechtsextreme Netzwerke dauerhaft zerschlagen",
+      "thema": "sicherheit",
+      "programmpunkt": "Rechtsextreme Netzwerke sollen von Sicherheitsbehörden effektiv genutzt werden, entsprechende Strukturen sollen dauerhaft zerschlagen werden",
+      "seite": 40,
+      "zitat": "rechtsextreme Netzwerke müssen von den Sicherheitsbehörden effektiv genutzt und entsprechende Strukturen dauerhaft zerschlagen werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan weiß als Berufssoldat, dass innere Sicherheit und äußere Verteidigung zusammenhängen. Der klare Wille, rechtsextreme Strukturen dauerhaft zu zerschlagen, entspricht seinem Verständnis einer wehrhaften Demokratie, die auch in den Streitkräften kein Platz für Extremismus duldet.",
+      "begruendung_selbst": "Das ist kein Lippenbekenntnis — Rechtsextreme in Netzwerken, auch in Teilen der Sicherheitsbehörden, sind eine echte Gefahr. Wer die konsequent bekämpft, handelt im Interesse der Bundeswehr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Demokratie steht unter Druck",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm benennt explizit den Druck auf die Demokratie und bekennt sich zu ihrer Verteidigung",
+      "seite": 35,
+      "zitat": "Demokratie steht unter Druck",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan versteht sich als Verteidiger der demokratischen Grundordnung. Das ehrliche Eingeständnis, dass Demokratie unter Druck steht, und das Bekenntnis zu ihrer Stärkung resoniert mit seinem Berufsverständnis als Soldat im Dienst des Grundgesetzes.",
+      "begruendung_selbst": "Ich verteidige kein abstraktes Deutschland — ich verteidige das Grundgesetz. Wer das ernst nimmt und sagt, dass es unter Druck steht, der redet zumindest ehrlich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Feuerwehr und Katastrophenschutz stärken",
+      "thema": "sicherheit",
+      "programmpunkt": "Freiwillige Feuerwehren sowie Rettungs- und Katastrophenschutzdienste sollen finanziell stärker unterstützt werden",
+      "seite": 48,
+      "zitat": "Freiwilligen Feuerwehren sowie die Rettungs- und Katastrophenschutzdienste müssen finanziell stärker unterstützt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Zivil-militärische Zusammenarbeit im Katastrophenschutz ist für die Bundeswehr ein relevanter Einsatzbereich. Gut aufgestellte Katastrophenschutzdienste entlasten die Bundeswehr im Inland und stärken die gesellschaftliche Resilienz — beides liegt in Stefans Interesse.",
+      "begruendung_selbst": "Wenn Feuerwehr und Katastrophenschutz gut ausgestattet sind, braucht man die Bundeswehr im Inland seltener. Das ist vernünftig — Resilienz fängt zivil an.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kein Wort zu Bundeswehr und NATO",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm enthält kein einziges Bekenntnis zu Bundeswehr, NATO-Bündnistreue oder nationaler Verteidigung — das Thema wird vollständig ausgeblendet",
+      "seite": 35,
+      "zitat": "Demokratie steht unter Druck",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan ist das Schweigen zu Verteidigung kein neutrales Signal — es ist ein Misstrauensindikator. Ein Landeswahlprogramm kann keine Bundeswehrpolitik machen, aber ein klares Bekenntnis zu Sicherheit und Bündnistreue wäre möglich gewesen und fehlt.",
+      "begruendung_selbst": "Dass Verteidigung Ländersache ist, weiß ich. Aber wenn eine Partei hunderte Seiten schreibt und kein einziges Mal sagt, dass sie hinter der Bundeswehr steht — das sagt mir genug.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klima verdrängt Sicherheitsdiskurs",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm priorisiert Klima, Soziales und Demokratie stark, ohne äußere Sicherheit oder Landesverteidigung auch nur randständig zu erwähnen",
+      "seite": 22,
+      "zitat": "konsequenten Ausbau der erneuerbaren Energien ist ein wichtiger Treiber des Strukturwandels, ein wirtschaftlicher Standortvorteil für Sachsen-Anhalt und ein Jobmotor",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan nimmt die Prioritätensetzung des Programms als Ausdruck politischer Werte wahr: Wer ausschließlich Klima und Soziales thematisiert und Sicherheitspolitik vollständig ausblendet, signalisiert für ihn ein Weltbild, in dem Verteidigung als nachrangig gilt.",
+      "begruendung_selbst": "Klima ist wichtig, das streite ich nicht ab. Aber wenn 96 Seiten lang kein einziger Satz zur äußeren Sicherheit kommt, dann sagt mir das, wo diese Partei Verteidigung einordnet: ganz hinten.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Historisches Misstrauen gegenüber Grüner Sicherheitspolitik",
+      "thema": "verteidigung",
+      "programmpunkt": "Die historische Positionierung der Grünen für Abrüstung und gegen Bundeswehreinsätze erzeugt bei Stefan Vertrauensverlust, der durch das Programm nicht adressiert wird",
+      "seite": 96,
+      "zitat": "umwelt- und klimaschädliche Subventionen konsequent abzubauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Programm enthält nichts, das dem historischen Misstrauen gegenüber der Grünen Sicherheitspolitik entgegenwirkt. Stefan braucht kein Lippenbekenntnis, aber ein Signal der Kurskorrektur — dieses fehlt vollständig.",
+      "begruendung_selbst": "Ich beurteile Parteien nicht nur am aktuellen Programm, sondern auch daran, was sie über Jahrzehnte vertreten haben. Die Grünen haben lange gegen Auslandseinsätze und für Abrüstung gekämpft. Das vergesse ich nicht so schnell.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Bekenntnis zu 2-Prozent-Ziel",
+      "thema": "verteidigung",
+      "programmpunkt": "Weder das NATO-Zwei-Prozent-Ziel noch konkrete Signale zur Unterstützung angemessener Verteidigungsausgaben finden sich im Programm",
+      "seite": 88,
+      "zitat": "starke Wirtschaft, die ökologisch und sozial gerecht ist",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn das 2-Prozent-Ziel Bundessache ist, könnten Landesparteien durch das Programm signalisieren, dass sie diese Priorität unterstützen. Das Fehlen jeglicher Bezugnahme signalisiert für Stefan das Gegenteil.",
+      "begruendung_selbst": "Eine starke ökologische Wirtschaft ist gut — aber ohne ausreichende Verteidigungsmittel haben wir bald keine Demokratie mehr, die wir schützen könnten. Dieser Zusammenhang fehlt im Programm komplett.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Grünen-Programm bietet Stefan aus der Soldatenperspektive nur wenige Anknüpfungspunkte: Das Bekenntnis zur wehrhaften Demokratie und die Stärkung des Katastrophenschutzes sind positiv, reichen aber nicht aus, um das tiefe Misstrauen gegenüber der grünen Sicherheitspolitik zu überbrücken. Verteidigung, NATO und Bundeswehr sind im Landesprogramm schlicht nicht vorhanden — was Stefan nicht als föderalen Pragmatismus liest, sondern als politisches Signal der Nachrangigkeit. Das Programm ist für einen Berufssoldaten strukturell ungeeignet, Vertrauen zu schaffen.",
+    "score": -1
+  }
+}

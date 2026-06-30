@@ -1,0 +1,113 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wasserstoff für die Chemieindustrie: endlich ein konkreter Plan",
+      "thema": "energie",
+      "programmpunkt": "Die Linke will grünen Wasserstoff gezielt für die Chemieindustrie fördern, Elektrolyseanlagen mit erneuerbarem Strom ausbauen und regionale Wasserstoffnetze entwickeln.",
+      "seite": 109,
+      "zitat": "grünen Wasserstoff für die Chemieindustrie gezielt fördern, Elektrolyseanlagen mit erneuerbarem Strom ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny arbeitet in der Energiewirtschaft und weiß: Die Chemieindustrie in Sachsen-Anhalt – Leuna bis Schkopau – ist auf günstige Prozesswärme und Feedstocks angewiesen, für die grüner Wasserstoff eine realistische Brücke sein kann. Die Förderung regionaler Wasserstoffnetze gibt seiner Region eine konkrete technologische Perspektive.",
+      "begruendung_selbst": "Wasserstoff für die Chemieindustrie – das ist kein Zukunftsmärchen, das ist der einzig realistische Pfad für Leuna und Schkopau. Wenn die Linke das fördert und die Infrastruktur aufbaut, gibt es meiner Region eine Chance.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Niemand soll im Wandel zurückbleiben",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke plant Überleitungsgesellschaften, die im Strukturwandel Beschäftigung, Weiterbildung und neue Perspektiven sichern, verbunden mit Weiterbildungspflicht für jede öffentliche Förderung.",
+      "seite": 91,
+      "zitat": "Überleitungsgesellschaften sichern Beschäftigung, Weiterbildung und neue Perspektiven, damit niemand im Strukturwandel zurückbleibt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny hat Familie am Standort, Immobilie in der Region und die realistische Sorge, dass sein Berufsfeld wegfällt bevor ein neues da ist. Überleitungsgesellschaften mit echter Qualifizierung sind das Instrument, das er braucht: ein Netz, das ihm Zeit gibt sich anzupassen, statt ihn mit einer Abfindung allein zu lassen.",
+      "begruendung_selbst": "Erst die Brücke bauen, dann die alte abreißen – das meinen die hier mit Überleitungsgesellschaft. Das ist das einzige Modell, das ich akzeptieren kann. Ohne das ist Strukturwandel nur ein anderes Wort für Entlassung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine verlängerte Werkbank – Wertschöpfung hierbleiben lassen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke will regionale Wertschöpfung in Sachsen-Anhalt halten, Mitbestimmung stärken und regionale Wirtschaftskreisläufe fördern, statt Abhängigkeit von internationalen Konzernen zu vertiefen.",
+      "seite": 91,
+      "zitat": "Regionale Wertschöpfung statt verlängerter Werkbank",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny teilt die Sorge, dass seine Region zur bloßen Durchführungsstelle von Großkonzernen wird, ohne eigene Entscheidungs- und Innovationskraft. Die Forderung nach regionaler Wertschöpfung statt 'verlängerter Werkbank' trifft seine Hoffnung, dass die Energiewende Arbeitsplätze mit Zukunft schafft, nicht nur abhängige Montagearbeit.",
+      "begruendung_selbst": "Ich will nicht, dass die Windparks hier stehen und die Ingenieure in Hamburg sitzen. Wenn wir die Energiewende machen, soll die Wertschöpfung hier bleiben – Wartung, Betrieb, Weiterentwicklung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sachsen-Anhalt als Produktionsstandort für Energiewende-Anlagen",
+      "thema": "energie",
+      "programmpunkt": "Die Linke will Sachsen-Anhalt wieder zu einem Produktionsstandort für Anlagen der Energiewende machen – als aktive Industriepolitik, nicht als passiver Standort für Windparks anderer.",
+      "seite": 109,
+      "zitat": "Sachsen-Anhalt wieder zu einem Produktionsstandort für Anlagen der Energiewende machen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als jemand mit technischer Ausbildung im Energiebereich würde Ronny von einer lokalen Industrie für Energiewende-Anlagen direkt profitieren: neue Berufsfelder, die seine Qualifikationen nutzen, statt ihn umzuschulen. Diese industriepolitische Perspektive ist genau die Art von 'Plan', den er von Parteien fordert.",
+      "begruendung_selbst": "Das wäre eine echte Perspektive. Statt nur zuzuschauen wie anderswo Solarmodule und Windturbinen gebaut werden, könnte ich mein Wissen hier einsetzen. Produktion statt nur Betrieb.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "2035 Klimaneutral – das Datum kommt vor dem Plan",
+      "thema": "klima",
+      "programmpunkt": "Die Linke will Sachsen-Anhalt bis 2035 klimaneutral machen und dafür ein verbindliches CO₂-Budget festlegen, das den Pfad beschreibt.",
+      "seite": 121,
+      "zitat": "Klimaneutral bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "2035 ist für Ronny ein konkretes Problem: Die Energiewirtschaft – insbesondere Netzbetrieb und Gas/Kohle-Infrastruktur – lässt sich nicht in neun Jahren komplett transformieren, ohne dass die Versorgungssicherheit leidet. Für ihn gilt das Prinzip: erst die Brücke bauen, dann die alte abreißen. Das Datum 2035 klingt nach Datum ohne Plan.",
+      "begruendung_selbst": "Wer 'klimaneutral bis 2035' als Ziel setzt, muss mir gleichzeitig sagen, welche Technologie bis dahin einsatzbereit ist, wer die Netze baut und wer die Kosten trägt. Das Datum allein ist kein Energiekonzept.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gas nur als Brücke mit 1000-Stunden-Limit – zu eng",
+      "thema": "energie",
+      "programmpunkt": "Die Linke will Gaskraftwerke nur als Brücke zulassen und das mit verbindlichen Kriterien verknüpfen: H2-ready und maximal 1.000 Volllaststunden pro Jahr.",
+      "seite": 109,
+      "zitat": "Gaskraftwerke nur als Brücke zulassen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny arbeitet in Kohle/Gas/Netzen und weiß: Gas ist aktuell das flexible Rückgrat der Versorgungssicherheit. Die strikte Begrenzung auf 1.000 Volllaststunden und H2-ready-Pflicht schränkt die Brückenfunktion massiv ein, lange bevor echte Alternativen ausreichend verfügbar sind. Er sieht das als Versorgungsrisiko.",
+      "begruendung_selbst": "1.000 Volllaststunden sind etwa 11 Wochen Volllast. Das reicht nicht als Backup für Dunkelflauten oder Netzspitzen. Wenn der Ausbau der Erneuerbaren stockt – und er stockt immer wieder – dann brauchen wir mehr Flexibilität als das.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Wort zu CCS – eine Option einfach weggelassen",
+      "thema": "energie",
+      "programmpunkt": "Das Programm erwähnt Carbon Capture and Storage (CCS) an keiner Stelle – weder als Brückentechnologie noch als mögliche Option für die Industrietransformation.",
+      "seite": 108,
+      "zitat": "Die nächste Stufe der Energiewende entscheidet sich nicht allein beim Strom, sondern vor allem bei Wärme, Speicherung und industriellen Zukunftstechnologien.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Prozessemissionen in der Chemie- und Grundstoffindustrie, die sich nicht durch Elektrifizierung oder grünen Wasserstoff vermeiden lassen, ist CCS international als Brückentechnologie anerkannt. Dass die Linke CCS nicht einmal erwähnt – weder ablehnend noch als Option – signalisiert Ronny, dass die Partei einen Werkzeugkasten propagiert, dem ein wichtiges Werkzeug fehlt. Er sieht das als Technologieverarmung aus ideologischen Gründen.",
+      "begruendung_selbst": "CCS kommt im ganzen Programm nicht vor. Für Branchen mit unvermeidbaren Prozessemissionen – wie Teile der Chemieindustrie – ist das ein Blindfleck. Technologieoffenheit sieht für mich anders aus.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet im Linke-Programm einige konkrete regionale Perspektiven: die gezielte Förderung von grünem Wasserstoff für die Chemieindustrie, den Anspruch auf regionale Wertschöpfung statt verlängerter Werkbank und Überleitungsgesellschaften als sozialen Puffer. Das zeigt ihm, dass die Partei seinen Standort nicht aufgeben will. Gleichzeitig stößt er auf ein ambitioniertes 2035-Klimaneutralitätsziel ohne ausreichende technologische Brückenplanung, eine strikte Begrenzung von Gas als Backup und das vollständige Fehlen von CCS als Technologieoption. Für ihn ist das Programm ein Zeichen guten Willens gegenüber seiner Region, aber es hat zu viele ideologische Sperren wo er Pragmatismus bräuchte. Die Grundhaltung – 'Wandel ja, aber mit Plan und ohne die Menschen zurückzulassen' – teilt er, aber die konkrete Umsetzung des Programms erzeugt zu viel Planungsunsicherheit für seine Branche.",
+    "score": 0
+  }
+}

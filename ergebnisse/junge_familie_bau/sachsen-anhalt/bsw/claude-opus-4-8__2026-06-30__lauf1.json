@@ -1,0 +1,101 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine Grundsteuer aufs Eigenheim!",
+      "thema": "steuern",
+      "programmpunkt": "Für junge Familien soll die Grundsteuer auf selbstgenutztes Wohneigentum vollständig abgeschafft bzw. dauerhaft erlassen werden.",
+      "seite": 31,
+      "zitat": "die Grundsteuer auf selbstgenutztes Wohneigentum vollständig abschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica rechnen jede laufende Belastung durch; der Wegfall der Grundsteuer aufs Eigenheim senkt ihre dauerhaften Wohnkosten genau in ihrer Zielgruppe.",
+      "begruendung_selbst": "Wenn fürs eigene Haus keine Grundsteuer mehr anfällt, wird unsere Rechnung endlich realistischer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich runter mit den Kaufnebenkosten!",
+      "thema": "steuern",
+      "programmpunkt": "Steuerliche Sonderabschreibungen und Freibeträge bei der Grunderwerbsteuer sowie zinsgünstige KfW-Programme für den Erwerb.",
+      "seite": 31,
+      "zitat": "Freibeträge bei der Grunderwerbsteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Erwerbsnebenkosten sind für das Paar ein Traumkiller; Freibeträge bei der Grunderwerbsteuer und KfW-Förderung verbessern ihre Finanzierungschance konkret.",
+      "begruendung_selbst": "Genau die Nebenkosten machen uns die Finanzierung kaputt – Freibeträge bei der Grunderwerbsteuer wären ein echter Hebel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauland für junge Familien!",
+      "thema": "wohnen",
+      "programmpunkt": "Ausweisung zusätzlicher Bauflächen, insbesondere für Eigenheime von Familien und Erstkäufern.",
+      "seite": 31,
+      "zitat": "für den Bau von Eigenheimen für Familien und Erstkäufer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Baulandpreise machen Eigentum für das Paar unerreichbar; gezielte Bauflächen für Erstkäufer adressieren ihr Kernhindernis auf dem Weg zum Eigenheim.",
+      "begruendung_selbst": "Wir wollen bauen – wenn es dafür endlich bezahlbares Bauland für Erstkäufer gibt, kommen wir unserem Ziel näher.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauen darf nicht künstlich teuer sein!",
+      "thema": "energie",
+      "programmpunkt": "Klimaschutz und Energieeffizienz dürfen das Bauen nicht künstlich verteuern; verpflichtende QNG-Standards werden abgelehnt.",
+      "seite": 30,
+      "zitat": "nicht zu einer künstlichen Verteuerung des Bauens führen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar erlebt energetische Vorgaben als preistreibend; die Absage an verteuernde Standards passt zu ihrer Kritik an teuren Auflagen beim Bauen.",
+      "begruendung_selbst": "Gut gemeinte Vorschriften treiben den Baupreis hoch – wenn das wegfällt, wird unser Hausbau überhaupt erst machbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita-Gebühren weg, Job machbar!",
+      "thema": "familie",
+      "programmpunkt": "Einführung beitragsfreier Kitas in Sachsen-Anhalt.",
+      "seite": 46,
+      "zitat": "Wir setzen uns deshalb für beitragsfreie Kitas in Sachsen-Anhalt ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kita-Kosten und -Verfügbarkeit erschweren dem Paar die Vereinbarkeit zweier Jobs; beitragsfreie Kitas entlasten ihr Budget und ihre Sparrate fürs Eigenkapital.",
+      "begruendung_selbst": "Beitragsfreie Kita heißt für uns: mehr Geld fürs Eigenkapital und beide können arbeiten.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Hohe Steuern auf Leistung schrecken mich ab.",
+      "thema": "steuern",
+      "programmpunkt": "Wiedereinführung der Vermögensteuer und progressive Besteuerung hoher Einkommen und Vermögen.",
+      "seite": 36,
+      "zitat": "für die Wiedereinführung der Vermögenssteuer ein",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als aufstiegs- und eigentumsorientiertes Paar steht Tom und Jessica einer starken Umverteilungs- und Vermögensbesteuerung skeptisch gegenüber, auch wenn sie selbst nicht betroffen sind.",
+      "begruendung_selbst": "Wer sich was aufbaut, soll nicht gleich zur Kasse gebeten werden – diese Steuerlust auf Vermögen ist nicht unsere Welt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Tom und Jessica trifft das Programm ihren Eigenheim-Traum überraschend genau: Wegfall der Grundsteuer aufs selbstgenutzte Eigentum, Freibeträge bei der Grunderwerbsteuer, Bauland für Erstkäufer, billigeres Bauen und beitragsfreie Kitas. Ihrer leistungs- und eigentumsfreundlichen Haltung widerspricht allein der starke Umverteilungskurs samt Vermögensteuer. Da ihre konkreten Hürden beim Bauen und bei der Betreuung adressiert werden, überwiegt die Zustimmung.",
+    "score": 1
+  }
+}

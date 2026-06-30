@@ -1,0 +1,113 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Tarifbindung gestärkt",
+      "thema": "arbeit",
+      "programmpunkt": "Die Tarifbindung soll über das Tariftreue- und Vergabegesetz weiter gestärkt werden; öffentliche Aufträge nur an Unternehmen mit fairen Löhnen.",
+      "seite": 76,
+      "zitat": "Tariftreue- und Vergabegesetz weiter gestärkt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Gewerkschafter lebt Uwe von guten, tarifgebundenen Löhnen; die ausdrückliche Stärkung der Tarifbindung trifft seinen Kernwert.",
+      "begruendung_selbst": "Gute Arbeit braucht starke Tarife – wenn die das ernst meinen, ziehen wir an einem Strang.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sie lassen die Industrie nicht fallen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Transformation der Chemie- und Automobilzulieferindustrie soll aktiv unterstützt werden.",
+      "seite": 89,
+      "zitat": "in Sachsen-Anhalt werden wir aktiv unterstützen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe bangt um den Fortbestand seines Industriestandorts; eine aktive Unterstützung der Chemie-Transformation adressiert seine existenzielle Sorge.",
+      "begruendung_selbst": "Wenn der Wandel begleitet wird statt uns einfach abzuhängen, dann hat mein Standort vielleicht eine Zukunft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Windkraft schafft Jobs bei uns",
+      "thema": "energie",
+      "programmpunkt": "Der Windenergieausbau stärkt über grünen Wasserstoff die chemische Industrie und schafft Arbeitsplätze im Land.",
+      "seite": 23,
+      "zitat": "schafft Arbeitsplätze in Sachsen-Anhalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe will Klimaschutz, der Jobs sichert; die Verknüpfung von Energiewende und Industriearbeitsplätzen entspricht seiner Bedingung an die Transformation.",
+      "begruendung_selbst": "Klimaschutz, der bei uns Arbeitsplätze schafft statt vernichtet – so muss das laufen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hilfe für die energieintensiven Betriebe",
+      "thema": "wirtschaft",
+      "programmpunkt": "Für energieintensive kleine und mittlere Unternehmen soll ein an Klimaziele gekoppelter Transformationsfonds aufgelegt werden.",
+      "seite": 89,
+      "zitat": "ein Transformationsfonds aufgelegt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energiepreise gefährden Uwes Branche; ein Transformationsfonds für energieintensive Betriebe stützt den Übergang seiner Industrie.",
+      "begruendung_selbst": "Die Betriebe brauchen Geld für den Umbau, sonst wandern sie ab – so ein Fonds wäre das richtige Signal.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die Strompreise sollen durch Senkung der Stromsteuer auf das zulässige Minimum gesenkt werden.",
+      "seite": 22,
+      "zitat": "Die Strompreise wollen wir senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bezahlbare Energie für die Industrie ist Uwes Hoffnung; eine angekündigte Strompreissenkung adressiert die Wettbewerbsfähigkeit seines Standorts.",
+      "begruendung_selbst": "Ohne bezahlbaren Strom überlebt die Schwerindustrie hier nicht – jede Senkung zählt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "CCS pauschal verteufeln",
+      "thema": "energie",
+      "programmpunkt": "Die Technologie Carbon Capture and Storage (CCS) wird entschieden abgelehnt.",
+      "seite": 26,
+      "zitat": "die Technologie des Carbon Capture and Storage (CCS)",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für die schwer dekarbonisierbare Chemieindustrie kann CCS eine Brücke sein; die pauschale Ablehnung nimmt Uwes Branche aus seiner Sicht ein Werkzeug.",
+      "begruendung_selbst": "Für manche Prozesse gibt es keine andere Lösung – CCS einfach zu verbieten, gefährdet meine Branche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausstieg vor dem Ersatz",
+      "thema": "energie",
+      "programmpunkt": "Es wird erwartet, dass der Kohleausstieg bereits früher als 2034 marktgetrieben erfolgt.",
+      "seite": 25,
+      "zitat": "bereits früher marktgetrieben erfolgen wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe fürchtet ein Tempo der Transformation, das Jobs gefährdet; ein vorgezogener Ausstieg verstärkt seine Sorge vor Deindustrialisierung ohne Ersatz.",
+      "begruendung_selbst": "Erst muss das Neue stehen, dann kann das Alte weg – andersrum verlieren bei uns die Leute ihre Arbeit.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe sieht seine arbeitnehmerischen Kernwerte gestärkt: Tarifbindung, aktive Unterstützung der Chemie-Transformation, Industriejobs durch die Energiewende und bezahlbaren Strom. Quergespannt bleibt er beim Tempo und bei der pauschalen Ablehnung von CCS, weil er darin eine Gefahr für seine Branche sieht. Insgesamt überwiegen für ihn die jobsichernden Zusagen knapp.",
+    "score": 1
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Faire Löhne und echte Mitbestimmung!",
+      "thema": "arbeit",
+      "programmpunkt": "Faire Löhne, anständige Arbeitsbedingungen und echte betriebliche Mitbestimmung als politisches Ziel verankern",
+      "seite": 76,
+      "zitat": "faire Löhne, anständige Arbeitsbedingungen und echte Mitbestimmung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als langjähriger Gewerkschafter trifft dieser Programmpunkt Uwes Kernüberzeugungen direkt. Das Bekenntnis zu fairen Löhnen und echter Mitbestimmung ist für ihn kein Lippenbekenntnis, sondern der Prüfstein jeder Partei. Er registriert, dass die Grünen hier klar auf Arbeitnehmerseite stehen – was ihm in seiner politischen Bewertung wichtig ist.",
+      "begruendung_selbst": "Das sind die Grundbedingungen, für die wir in der Gewerkschaft seit Jahrzehnten kämpfen: faire Bezahlung, ordentliche Bedingungen und echte Mitsprache. Gut, wenn das auch im Wahlprogramm steht – jetzt muss es auch gelebt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemiedreieck wird nicht einfach aufgegeben",
+      "thema": "wirtschaft",
+      "programmpunkt": "Transformation der Chemie- und Automobilzulieferindustrie in Sachsen-Anhalt aktiv begleiten und unterstützen",
+      "seite": 89,
+      "zitat": "Transformation der Chemie- und Automobilzulieferindustrie in Sachsen-Anhalt werden wir aktiv unterstützen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe arbeitet im Chemiedreieck und beobachtet die Transformation seiner Branche mit gemischten Gefühlen. Das explizite Versprechen aktiver Unterstützung für die Chemie- und Automobilzulieferindustrie signalisiert ihm, dass die Grünen seinen Standort nicht abschreiben wollen – das ist für ihn eine wichtige Botschaft, die er von dieser Partei nicht unbedingt erwartet hätte.",
+      "begruendung_selbst": "Ich wollte wissen, ob die Grünen unsere Industrie einfach abwürgen wollen. Das hier klingt anders – aktive Unterstützung für die Transformation heißt zumindest, dass sie unsere Jobs im Blick haben. Das nehme ich zur Kenntnis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff als Zukunft der Chemie",
+      "thema": "energie",
+      "programmpunkt": "Verfügbarkeit von erneuerbarem Wasserstoff als Voraussetzung für die Wettbewerbsfähigkeit der chemischen Industrie anerkennen",
+      "seite": 27,
+      "zitat": "Ohne breit verfügbaren erneuerbar produzierten Wasserstoff ist unsere chemische Industrie in Zukunft nicht wettbewerbsfähig",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe kennt die Debatten um die Zukunft des Chemiedreiecks gut. Dass das Programm Wasserstoff als Grundvoraussetzung für die Wettbewerbsfähigkeit benennt – und nicht nur als abstraktes Ziel –, signalisiert ihm, dass wirklich über seinen Berufsalltag nachgedacht wurde. Er sieht darin eine realistische Einschätzung der industriellen Herausforderungen.",
+      "begruendung_selbst": "Das stimmt: Ohne erneuerbaren Wasserstoff läuft bei uns in der Chemie irgendwann gar nichts mehr. Dass das so klar steht, zeigt mir, dass hier jemand verstanden hat, wie unsere Branche wirklich funktioniert.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "2030 erneuerbar – wer zahlt das?",
+      "thema": "energie",
+      "programmpunkt": "Sachsen-Anhalt bis 2030 vollständig auf erneuerbare Energien im Strombereich umstellen",
+      "seite": 22,
+      "zitat": "Sachsen-Anhalt bis 2030 im Strombereich 100 Prozent erneuerbar aufstellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontraer",
+      "begruendung": "Uwe bezweifelt, dass das ambitionierte 2030-Ziel ohne massive Energiepreissprünge zu erreichen ist. Sein Industriestandort ist auf wettbewerbsfähige Strompreise angewiesen – kurzfristige Preissteigerungen durch überhasteten Umbau bedrohen die Wettbewerbsfähigkeit des Chemiedreiecks direkt. Ein klares Brückenstromkonzept fehlt im Programm.",
+      "begruendung_selbst": "100 Prozent erneuerbar bis 2030 klingt gut auf dem Papier, aber bei uns im Werk zählt vor allem der Strompreis. Wenn der explodiert, weil der Umbau zu schnell geht, verlieren wir Aufträge – und dann nützt mir das beste Klimabekenntnis nichts.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriesubventionen abbauen trifft uns hart",
+      "thema": "wirtschaft",
+      "programmpunkt": "Umwelt- und klimaschädliche Subventionen konsequent und vollständig abbauen",
+      "seite": 96,
+      "zitat": "umwelt- und klimaschädliche Subventionen konsequent abzubauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontraer",
+      "begruendung": "Uwe sieht in der pauschalen Forderung nach Subventionsabbau eine Bedrohung für energieintensive Industrien, die auf bestehende Entlastungen angewiesen sind. Ohne klare Regelungen, was unter 'klimaschädlich' fällt und wie der Übergang gestaltet wird, riskiert dieser Programmpunkt den beschleunigten Abzug von Schwerindustrie aus der Region.",
+      "begruendung_selbst": "Wenn einfach alle 'klimaschädlichen' Subventionen wegfallen, trifft das am härtesten die energieintensiven Betriebe bei uns – genau die, die noch nicht auf saubere Energiequellen umgestellt haben, weil der günstige Wasserstoff noch fehlt. Das ist ein Widerspruch zum Transformationsversprechen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe begrüßt die klaren Bekenntnisse zu fairen Löhnen, Mitbestimmung und zur aktiven Unterstützung des Chemiedreiecks, die zeigen, dass die Grünen seinen Industriestandort nicht einfach abschreiben wollen. Die ambitionierten Klimaziele bis 2030 und der pauschale Abbau industrieller Subventionen bereiten ihm aber ernsthafte Sorgen um seinen Arbeitsplatz und die Wettbewerbsfähigkeit der Region. Ein fehlendes Brückenstromkonzept und die Unklarheit über den Subventionsabbau machen das Programm für ihn letztlich unterm Strich negativ, trotz der industriepolitischen Signale.",
+    "score": -1
+  }
+}

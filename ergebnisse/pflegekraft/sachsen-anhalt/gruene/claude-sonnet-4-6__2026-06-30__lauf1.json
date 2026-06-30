@@ -1,0 +1,115 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Personalschlüssel und Tariflöhne sichern",
+      "thema": "gesundheit",
+      "programmpunkt": "Gezielter Personalschlüssel und Unterstützung bei der Refinanzierung von Tariflöhnen in Pflege und Erziehung werden gefordert",
+      "seite": 77,
+      "zitat": "Personalschlüssel und gezielte Unterstützung bei der Refinanzierung von Tariflöhnen in Pflege und Erziehung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin arbeitet auf einer chronisch unterbesetzten Station und erlebt jeden Schicht, was fehlende Personalschlüssel bedeuten. Die Verbindung von Personalstandards und Tariffinanzierung trifft genau ihren Bedarf und ist konkreter als übliche Versprechen.",
+      "begruendung_selbst": "Das ist das Erste, was ich seit Jahren in einem Programm lese, das wirklich konkret ist. Personalschlüssel und Tariflöhne refinanzieren – das ist nicht nice to have, das rettet Leben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Löhne und echte Mitbestimmung",
+      "thema": "arbeit",
+      "programmpunkt": "Faire Löhne, anständige Arbeitsbedingungen und echte Mitbestimmung werden als politisches Ziel formuliert",
+      "seite": 76,
+      "zitat": "faire Löhne, anständige Arbeitsbedingungen und echte Mitbestimmung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin fühlt sich in ihrem Beruf häufig nicht ausreichend anerkannt – weder finanziell noch durch Mitsprache bei Dienstplänen und Abläufen. Das klare Bekenntnis zu fairen Löhnen und echter Mitbestimmung spricht sie direkt an.",
+      "begruendung_selbst": "Faire Löhne und Mitbestimmung – das klingt simpel, aber in der Pflege ist das alles andere als selbstverständlich. Wer das ernst meint, hat meine Aufmerksamkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Migration stützt unser Gesundheitssystem",
+      "thema": "integration",
+      "programmpunkt": "Migration wird als essenzieller Beitrag für das Funktionieren des Gesundheitssystems anerkannt",
+      "seite": 81,
+      "zitat": "Migration eine essenzielle Stütze für das Gesundheitssystem",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin arbeitet Seite an Seite mit migrantischen Kolleg:innen und schätzt deren Einsatz. Eine Partei, die das explizit anerkennt, schützt ihre Kolleg:innen vor Ausgrenzung und gesellschaftlicher Abwertung.",
+      "begruendung_selbst": "Meine Kollegin macht denselben Job wie ich, genauso hart, genauso wichtig. Dass das endlich politisch anerkannt wird und nicht wegdiskutiert wird, tut richtig gut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflegeinfrastruktur deutlich verbessern",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflegeinfrastruktur soll deutlich verbessert werden",
+      "seite": 86,
+      "zitat": "Pflegeinfrastruktur deutlich zu verbessern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Pflegerin erlebt Kerstin täglich die Folgen maroder Infrastruktur – von veralteten Geräten bis zu fehlenden Räumen. Eine klare Verbesserungszusage trifft einen ihrer zentralen Wünsche für die Praxis.",
+      "begruendung_selbst": "Wir brauchen bessere Bedingungen – bessere Geräte, mehr Platz, funktionierende Abläufe. Das ist keine Luxusforderung, das ist Voraussetzung für gute Pflege.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stationäre Versorgung erreichbar sichern",
+      "thema": "gesundheit",
+      "programmpunkt": "Die stationäre Versorgung soll fachlich hochwertig und erreichbar abgesichert werden",
+      "seite": 80,
+      "zitat": "stationäre Versorgung fachlich hochwertig und erreichbar absichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sorgt sich um Schließungen und Umstrukturierungen, die die Qualität der stationären Versorgung untergraben. Das Bekenntnis zu fachlicher Qualität und Erreichbarkeit gibt ihr ein positives Signal für die Zukunft ihres Arbeitsplatzes.",
+      "begruendung_selbst": "Wenn Stationen schließen oder Träger wechseln, leiden die Patientinnen und wir. Dass die Versorgung hochwertig und erreichbar bleiben soll, ist für mich ein wichtiges Signal.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Versorgung unabhängig vom Geldbeutel",
+      "thema": "gesundheit",
+      "programmpunkt": "Menschen sollen unabhängig von Einkommen und Vermögen angemessen versorgt werden",
+      "seite": 87,
+      "zitat": "unabhängig von Einkommen und Vermögen angemessen versorgt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht in ihrer Arbeit täglich, wie Einkommen über die Qualität der Pflege mitentscheidet. Das Bekenntnis zu einer einkommensunabhängigen Versorgung trifft ihren Gerechtigkeitssinn als jemand, die täglich mit Pflegebedürftigen aller Schichten arbeitet.",
+      "begruendung_selbst": "Ob jemand reich oder arm ist, darf nicht entscheiden, ob er gut gepflegt wird. Das ist für mich keine politische Frage, das ist eine Frage der Menschenwürde.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Keine klare Position gegen Privatisierung",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm verspricht hochwertige stationäre Versorgung, enthält aber kein klares Bekenntnis gegen die Privatisierung von Krankenhäusern",
+      "seite": 80,
+      "zitat": "stationäre Versorgung fachlich hochwertig und erreichbar absichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin befürchtet, dass Privatisierungen von Kliniken zu Stellenabbau, Sparmaßnahmen und schlechteren Arbeitsbedingungen führen. Das Programm verspricht Qualität und Erreichbarkeit, bezieht aber keine klare Stellung gegen private Träger oder Profitorientierung im Krankenhauswesen.",
+      "begruendung_selbst": "Qualität versprechen ist gut. Aber wenn morgen ein Investor die Klinik übernimmt und die Hälfte der Stellen streicht, hilft mir das Versprechen nichts. Dazu höre ich zu wenig.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet im Grünen-Programm viele ihrer zentralen Forderungen wieder: Personalschlüssel, Tariflöhne, Anerkennung migrantischer Pflegekräfte und den Anspruch auf einkommensunabhängige Versorgung. Das Programm adressiert ihren Berufsalltag konkret und mit mehr Substanz als die meisten anderen Parteien, ohne jedoch eine klare Position zur Privatisierung von Kliniken einzunehmen – einem Thema, das Kerstin tief bewegt. Insgesamt überwiegen die positiven Überschneidungen deutlich, sodass ein leicht positiver Eindruck verbleibt.",
+    "score": 1
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich: Wolf regulieren!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die CDU setzt sich für wirksame Regelungen zur Begrenzung des Wolfsbestands ein, um Sicherheit für Mensch und Weidetiere zu gewährleisten.",
+      "seite": 40,
+      "zitat": "wirksame Regelungen zur Regulierung des Wolfsbestandes",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hält Wölfe für ein konkretes Existenzproblem seiner Mutterkuhherde. Ein klares Bekenntnis zur Bestandsregulierung trifft ihn direkt und bestätigt seine seit Jahren geäußerte Forderung.",
+      "begruendung_selbst": "Ich hab Kühe auf der Weide, keine Kuscheltiere im Zoo. Wenn endlich was gegen den Wolf passiert, ist das keine Kleinigkeit – das ist mein Betrieb.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Formulare, mehr Acker!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Bestehende Dokumentationspflichten in der Landwirtschaft sollen überprüft und dort abgebaut werden, wo sie keinen Mehrwert für Tiergesundheit oder Verbraucherschutz bringen.",
+      "seite": 41,
+      "zitat": "Dokumentationspflichten überprüfen und dort abbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank benennt Bürokratie als Hauptbelastung seines Betriebs. Ein konkretes Versprechen zum Abbau von Dokumentationspflichten in der Landwirtschaft trifft seinen zentralen Kritikpunkt.",
+      "begruendung_selbst": "Jedes Jahr neue Formblätter für denselben Acker. Wenn das endlich weniger wird, kann ich vielleicht wieder Landwirtschaft machen statt Aktenwirtschaft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "EU-Agrarbudget schützen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die CDU lehnt Kürzungen im EU-Agrarbudget ab und setzt sich für eine angemessene Verteilung der Mittel für Land- und Forstwirtschaft im EU-Mittelfristigen Finanzrahmen ein.",
+      "seite": 42,
+      "zitat": "Wir lehnen Kürzungen im EU - Agrarbudget ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank ist als Ackerbauer und Mutterkuhhalter auf EU-Direktzahlungen angewiesen. Eine klare Absage an Kürzungen gibt ihm ein Stück Planungssicherheit in seinem einkommensschwankenden Betrieb.",
+      "begruendung_selbst": "Wenn Brüssel die Direktzahlungen kappt, ist das bei mir direkt auf dem Konto zu spüren. Dass die CDU das ablehnt, ist das Mindeste, was ich erwarten kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "1:1-Umsetzung statt Übererfüllung!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "EU-Recht soll national nur 1:1 umgesetzt werden; nationale Alleingänge bei Pflanzenschutz und Düngemitteln, die Wettbewerbsnachteile erzeugen, sollen beendet werden.",
+      "seite": 38,
+      "zitat": "EU - Recht nur 1:1 umsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank erlebt nationale Übererfüllung von EU-Vorgaben als direkten Wettbewerbsnachteil gegenüber europäischen Konkurrenten. Das Versprechen der 1:1-Umsetzung entspricht einer seiner Kernforderungen.",
+      "begruendung_selbst": "Mein Nachbar in Polen darf mehr spritzen, mehr düngen – und am Ende kauft der Supermarkt trotzdem billig dort. Das ist doch kein fairer Wettbewerb.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dieselprivileg bleibt – endlich!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU lehnt den Abbau des Agrardieselprivilegs ab und will die Förderung CO2-mindernder Kraftstoffe statt Verteuerung bestehender Kraftstoffsteuervorteile.",
+      "seite": 17,
+      "zitat": "Hände weg vom sogenannten Dieselprivileg",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Diesel ist für Frank ein massiver Betriebskostenposten – für Traktoren, Mähdrescher, Transporter. Der Erhalt des Agrardiesels entlastet ihn direkt und ist ein wichtiges Signal gegen weitere Kostenbelastungen.",
+      "begruendung_selbst": "Der Diesel läuft auf jedem Hektar, den ich bewirtschafte. Das wegnehmen wäre wie einem Handwerker den Werkzeugkasten pfänden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Entlastung von CO2-Kosten!",
+      "thema": "klima",
+      "programmpunkt": "Land- und Forstwirtschaft soll von einem weiteren Anstieg der CO2-Kosten ausgenommen werden und mit der energieintensiven Industrie gleichgestellt werden.",
+      "seite": 42,
+      "zitat": "Land - und Forstwirtschaft werden von einem weiteren Anstieg der CO2 - Kosten ausgenommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "CO2-Bepreisung trifft Frank bei Kraftstoff, Dünger und Energie. Die Zusage, die Landwirtschaft von weiteren Kostenanstiegen zu verschonen, beseitigt eine konkrete Sorge.",
+      "begruendung_selbst": "Der Klimaschutz soll gemacht werden – aber doch nicht allein auf meinem Rücken. Wenn das jetzt offiziell abgebremst wird, ist das ein echter Unterschied.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wolfsversprechen schon oft gehört...",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Versprechen zur Wolfsregulierung ist grundsätzlich positiv, bleibt aber wie in früheren Wahlperioden ohne konkreten Zeitplan oder Bestandsobergrenzen.",
+      "seite": 40,
+      "zitat": "wirksame Regelungen zur Regulierung des Wolfsbestandes",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank hat ähnliche Ankündigungen bereits in früheren Legislaturperioden erlebt, ohne dass sich an seiner konkreten Situation mit Weidetieren etwas geändert hat. Das Programm bleibt vage bei Umsetzungsinstrumenten.",
+      "begruendung_selbst": "Das hab ich schon dreimal gehört. Zeigt mir eine Zahl, eine Obergrenze, eine echte Regel – dann glaub ich's. Bis dahin ist das Wahlkampf.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet im CDU-Programm viele seiner Kernforderungen wieder: Abbau von Bürokratie und Dokumentationspflichten, Schutz des Agrardiesels, 1:1-Umsetzung von EU-Recht, Wolfsregulierung und Schutz des EU-Agrarbudgets. Das Programm zeigt eine klare Ausrichtung auf praxisnahe Entlastung der Landwirtschaft, die seinen Werten und seiner Betroffenheit entspricht. Einziger Vorbehalt ist die Erfahrung, dass politische Versprechen in der Landwirtschaft oft hinter den Erwartungen zurückbleiben.",
+    "score": 2
+  }
+}

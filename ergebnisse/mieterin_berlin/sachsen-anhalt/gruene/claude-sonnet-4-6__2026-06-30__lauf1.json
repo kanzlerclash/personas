@@ -1,0 +1,90 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Bodenspekulation endlich wirksam verhindern!",
+      "thema": "wohnen",
+      "programmpunkt": "Kommunales Vorkaufsrecht sichern und ausweiten, um Bodenkäufe durch Spekulant*innen zu unterbinden",
+      "seite": 98,
+      "zitat": "kommunales Vorkaufsrecht sichern und ausweiten, um Bodenspekulation zu verhindern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla teilt die wohnungspolitische Grundüberzeugung, dass Bodenspekulation aktiv bekämpft werden muss. Das kommunale Vorkaufsrecht ist für sie ein zentrales Instrument, um Verdrängung zu verlangsamen – auch wenn das Programm aus Sachsen-Anhalt kommt und nicht direkt für Berlin gilt, stimmt der Ansatz mit ihrer Überzeugung überein.",
+      "begruendung_selbst": "Genau so muss das sein: Kommunen müssen das Recht haben, Grundstücke zurückzukaufen, bevor sie in die Hände von Spekulant*innen fallen. Das ist eine der wenigen Maßnahmen, die strukturell wirken – auch wenn das hier nicht meine Stadt betrifft.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Wohnen ist ein Menschenrecht!",
+      "thema": "wohnen",
+      "programmpunkt": "Landesweites Moratorium für Zwangsräumungen bei Mietschulden und Bekenntnis zum Wohnen als Menschenrecht",
+      "seite": 92,
+      "zitat": "Recht auf Wohnen sollte ein Menschenrecht sein",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Moratorium gegen Zwangsräumungen und die Formulierung des Wohnrechts als Menschenrecht entsprechen Carlas wohnpolitischer Grundhaltung. Sie sieht Wohnungsverlust als gesellschaftliches Versagen, nicht als individuelles Schicksal – und findet diesen Ansatz im Programm klar verankert.",
+      "begruendung_selbst": "Endlich sagt das mal jemand klar: Wohnen ist ein Menschenrecht. Und ein Moratorium für Zwangsräumungen bei Mietschulden ist das Mindeste, was wir brauchen – damit niemand wegen ein paar Monaten Rückstand auf der Straße landet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Housing First – Menschen vor Akten",
+      "thema": "wohnen",
+      "programmpunkt": "Housing-First-Prinzip priorisieren: zuerst Wohnung, dann Unterstützung",
+      "seite": 92,
+      "zitat": "Housing First bevorzugt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla unterstützt den Housing-First-Ansatz als konsequente Umsetzung des Wohnrechts: Erst Unterkunft sichern, dann Probleme lösen. Sie sieht darin eine sozialpolitische Grundentscheidung, die Menschenwürde vor bürokratische Voraussetzungen stellt – inhaltlich ganz auf ihrer Linie.",
+      "begruendung_selbst": "Housing First ist der richtige Ansatz: Menschen brauchen zuerst ein Dach über dem Kopf, bevor man irgendetwas anderes von ihnen erwarten kann. Gut, dass das hier explizit steht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sanierungshilfen schützen keine Mieter*innen",
+      "thema": "wohnen",
+      "programmpunkt": "Gebäudesanierungen einkommensabhängig fördern und Landesbürgschaften für Haushalte ohne Rücklagen einführen",
+      "seite": 26,
+      "zitat": "Sanierungen sollen künftig gezielt einkommensabhängig gefördert",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontraer",
+      "begruendung": "Als Mieterin befürchtet Carla, dass Sanierungsförderung primär Eigentümer*innen zugute kommt. Ohne begleitende Deckelung der Modernisierungsumlage können staatlich subventionierte Sanierungen die Mieten nach oben treiben – womit das Instrument des Klimaschutzes zur Verdrängungsmaschine wird. Dieses strukturelle Schweigen des Programms enttäuscht sie.",
+      "begruendung_selbst": "Wer Sanierungen fördert, ohne die Modernisierungsumlage zu begrenzen, hilft Vermieter*innen, die Kosten auf uns Mieter*innen abzuwälzen. Das ist genau das Muster, das ich in Berlin kenne – und das Programm adressiert das nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schöne Worte, kein Mietendeckel",
+      "thema": "wohnen",
+      "programmpunkt": "Programm bekennt sich zum Wohnrecht als Menschenrecht, enthält aber keinen Mietendeckel oder Begrenzung der Modernisierungsumlage",
+      "seite": 92,
+      "zitat": "Recht auf Wohnen sollte ein Menschenrecht sein",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla teilt das Leitprinzip, dass Wohnen ein Menschenrecht sein sollte. Allerdings fehlen ihr im Programm konkrete Durchsetzungsinstrumente – insbesondere ein Mietendeckel oder eine Begrenzung der Modernisierungsumlage –, die das Prinzip auch für Mieter*innen wirksam machen würden. Für sie als Berlinerin bleibt das Sachsen-Anhalt-Programm zudem kaum direkt relevant.",
+      "begruendung_selbst": "Wohnen als Menschenrecht – ja, klar. Aber ohne Mietendeckel und ohne Schutz vor Modernisierungsumlagen ist das nur ein schöner Satz, der mir als Mieterin in Berlin herzlich wenig nützt. Das Programm traut sich nicht, wirklich konsequent zu sein.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im Grünen Sachsen-Anhalt-Programm einige Ansätze, die ihren wohnungspolitischen Überzeugungen entsprechen – insbesondere das kommunale Vorkaufsrecht, das Moratorium gegen Zwangsräumungen und der Housing-First-Ansatz treffen ihren Kern. Als Berliner Mieterin ist das Landesprogramm für Sachsen-Anhalt für sie jedoch kaum direkt relevant, und die entscheidenden Instrumente wie ein Mietendeckel oder eine Begrenzung der Modernisierungsumlage fehlen im Programm vollständig. Unter dem Strich nimmt sie positive Signale wahr, bleibt aber enttäuscht, weil das Programm beim Mieterschutz hinter ihren Erwartungen zurückbleibt.",
+    "score": 0
+  }
+}

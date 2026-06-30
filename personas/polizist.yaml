@@ -1,0 +1,67 @@
+name: "Marco (Polizist)"
+einzeiler: "Streifenbeamter, der sich personell und bei der Ausstattung im Stich gelassen fühlt — und seine Institution ernst genommen wissen will."
+themen: [sicherheit, integration, demokratie, arbeit]
+gesicht:
+  config:
+    hat: "peaked-cap"
+    hair: "side-part"
+    hairColor: "#33240f"
+    accessory: "none"
+    top: "uniform"
+    topColor: "#2b3a55"
+    trousers: "suit-trousers"
+    build: "large"
+    skin: "#e0ac69"
+    mouth: "line"
+    background: "#118ab2"
+
+demografie:
+  alter: 36
+  geschlecht: männlich
+  wohnort: "mittlere Stadt in Sachsen-Anhalt"
+  haushalt: "verheiratet, ein Kind; Partnerin berufstätig"
+  bildung: "Laufbahnausbildung im Polizeivollzugsdienst"
+
+oekonomie:
+  beruf: "Polizist im Streifendienst, Schichtbetrieb"
+  einkommen: "verbeamtetes, sicheres Einkommen mit Zulagen; nicht üppig, aber planbar"
+  vermoegen_schulden: "durchschnittlich; Familienfinanzen solide, kein großer Spielraum"
+  finanzieller_druck: "moderat; eher Belastung durch Schichten und Personalmangel als durch Geld"
+
+werte_haltung:
+  grundwerte: ["Rechtsstaat und Ordnung", "Loyalität zur Institution", "Pflichtbewusstsein", "Schutz der Bürger"]
+  sorgen:
+    - "Personalmangel, veraltete Ausstattung, Überlastung im Dienst"
+    - "fehlender Rückhalt aus Politik und Teilen der Öffentlichkeit"
+    - "Angriffe auf Einsatzkräfte und sinkender Respekt"
+  hoffnungen: ["mehr Personal und bessere Ausstattung", "klare Rückendeckung", "funktionierende Justizkette", "Wertschätzung"]
+  politische_grundhaltung: >
+    Ordnungs- und institutionentreu, verfassungsorientiert. Will Sicherheit ernst genommen sehen, ist aber
+    quergespannt: pauschale Polizeikritik trifft ihn ebenso wie Parteien, die den Rechtsstaat schwächen oder
+    selbst beobachtet werden. Parteipolitisch ungebunden.
+  menschenbild: "Der Staat muss schützen können — dafür braucht er funktionierende, respektierte Institutionen"
+
+sicht_auf_andere:
+  - gruppe: "Pauschale Polizei-/Institutionenkritik"
+    haltung: "ärgert ihn — er fühlt sich und seine Kollegschaft unter Generalverdacht gestellt"
+  - gruppe: "Parteien, die der Verfassungsschutz beobachtet"
+    haltung: "ambivalent bis ablehnend: untergraben aus seiner Sicht die Institution, die er schützt"
+  - gruppe: "Justiz/Verwaltung"
+    haltung: "frustriert, wenn seine Arbeit hinten in der Kette versandet"
+  - gruppe: "Bürger mit Migrationsgeschichte"
+    haltung: "differenziert: lehnt Pauschalurteile ab, will aber konsequente Strafverfolgung"
+
+verhalten:
+  mediennutzung: ["Nachrichten-Apps", "Gewerkschafts-/Verbandsinfos (z. B. GdP/DPolG)", "regionale Medien", "Messenger"]
+  alltag: "Wechselschicht, Einsätze, Berichte; wenig planbare Freizeit, Familie zwischen den Schichten"
+  informationsverhalten: "vertraut Berufsverbänden und Praxis; bewertet Politik an Personal, Ausstattung, Rückhalt"
+
+themen_stakes:
+  sicherheit: "Personal, Ausstattung, Befugnisse, Schutz von Einsatzkräften, Strafverfolgung"
+  integration: "Folgen der Migrationspolitik für die Sicherheitslage — sachlich, nicht pauschal"
+  demokratie: "Wehrhafte Demokratie, Verfassungsschutz, Vertrauen in Institutionen"
+  arbeit: "Arbeitsbedingungen im öffentlichen Dienst, Schicht, Belastung, Besoldung"
+
+stimme:
+  - "Wir sollen für Sicherheit sorgen – gebt uns die Leute und die Ausstattung, die das überhaupt möglich machen."
+  - "Mir ist egal, von welcher Seite es kommt: Wer den Rechtsstaat schwächt, macht meinen Job gefährlicher."

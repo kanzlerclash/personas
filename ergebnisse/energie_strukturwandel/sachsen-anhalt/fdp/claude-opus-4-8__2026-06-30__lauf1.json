@@ -1,0 +1,76 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "CCS als Brücke für die Region",
+      "thema": "energie",
+      "programmpunkt": "Die Länderklausel des CO2-Speicherungsgesetzes soll genutzt werden, um Onshore-CCS mit Modellregionen zu ermöglichen.",
+      "seite": 23,
+      "zitat": "Onshore-CCS endlich als Chance für unsere Wirtschaft ermöglichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht in CCS ein Werkzeug, das seiner Region eine Brücke gibt; die ausdrückliche Ermöglichung adressiert genau seine Sorge vor pauschaler Technologieablehnung.",
+      "begruendung_selbst": "Genau das meine ich mit einem Werkzeug für die Region. CCS gibt uns eine Brücke, statt uns die Tür zuzuschlagen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Technologieoffen statt Dogma",
+      "thema": "energie",
+      "programmpunkt": "Gefordert wird echte Technologieoffenheit mit breitem Energie-Mix und Anreizen für Speichertechnologien.",
+      "seite": 14,
+      "zitat": "Deshalb fordern wir echte Technologieoffenheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny ist pragmatisch und technologieoffen; das Bekenntnis gegen einseitige Technologiefestlegung deckt sich mit seinem fachlichen Realismus.",
+      "begruendung_selbst": "Nicht auf eine Technologie wetten - das ist vernünftig. So denkt jemand, der weiß, wie Versorgung wirklich läuft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erst Plan, dann Versorgungssicherheit",
+      "thema": "energie",
+      "programmpunkt": "Versorgungssicherheit und Wirtschaftlichkeit sollen zusammengebracht, Speichertechnologien gezielt ermöglicht werden.",
+      "seite": 14,
+      "zitat": "Regeln, die Versorgungssicherheit und Wirtschaftlichkeit zusammenbringen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronnys Leitwert ist verlässliche Energieversorgung; der Fokus auf Versorgungssicherheit statt reiner Ausstiegslogik entspricht seinem 'erst die Brücke bauen'-Prinzip.",
+      "begruendung_selbst": "Versorgungssicherheit zuerst - das ist mein ganzer Punkt. Enddatum ohne Ersatz ist genau der Fehler, den ich fürchte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wertschöpfung bleibt vor Ort",
+      "thema": "wirtschaft",
+      "programmpunkt": "Kommunen und Regionen sollen verbindlich an Wertschöpfung, Gewerbesteuer und Infrastrukturinvestitionen neuer Energieprojekte beteiligt werden.",
+      "seite": 15,
+      "zitat": "verbindlich an Wertschöpfung, Gewerbesteuer, Infrastrukturinvestitionen und regionalen Innovationspartnerschaften beteiligen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny will Perspektiven und Investitionen für seine Region; eine verbindliche regionale Wertschöpfungsbeteiligung bedient seine Hoffnung auf Arbeit vor Ort.",
+      "begruendung_selbst": "Wenn die Wertschöpfung und die Gewerbesteuer hier bleiben, dann lohnt sich der Wandel für meine Region wirklich.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet sein zentrales Anliegen - ein technologieoffener, planbarer Wandel mit Versorgungssicherheit und Perspektive für die Region - im Programm fast lehrbuchhaft gespiegelt. Besonders die ausdrückliche Ermöglichung von Onshore-CCS, die Technologieoffenheit und die verbindliche regionale Wertschöpfungsbeteiligung treffen seine 'erst die Brücke, dann der Abriss'-Haltung. Reibungspunkte sieht er kaum.",
+    "score": 2
+  }
+}

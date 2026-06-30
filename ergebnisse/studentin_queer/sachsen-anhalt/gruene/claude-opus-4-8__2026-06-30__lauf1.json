@@ -1,0 +1,113 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "100 Prozent Ökostrom bis 2030",
+      "thema": "energie",
+      "programmpunkt": "Das Land soll im Strombereich bis 2030 zu 100 Prozent erneuerbar aufgestellt werden.",
+      "seite": 22,
+      "zitat": "bis 2030 im Strombereich 100 Prozent",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jules Zukunftsgefühl hängt am Tempo der Energiewende; ein konkretes 100-Prozent-Ziel bis 2030 trifft genau ihren Maßstab.",
+      "begruendung_selbst": "Genau darum geht es mir: nicht abwarten, sondern jetzt raus aus den Fossilen – meine Zukunft hängt daran.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz ist Menschenschutz",
+      "thema": "klima",
+      "programmpunkt": "Eine sozial gerechte Klimapolitik wird als Menschenschutz verstanden und mit einem Klimaschutzgesetz untermauert.",
+      "seite": 10,
+      "zitat": "Klimaschutz ist Menschenschutz!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule bewertet Politik daran, ob sie Klima ernst nimmt; die Verbindung von Klima und sozialer Gerechtigkeit deckt sich mit ihrer Grundhaltung.",
+      "begruendung_selbst": "Endlich sagt es mal jemand so: Klimaschutz ist kein Hobby, das ist Schutz für uns alle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queere Beratung auch auf dem Land",
+      "thema": "demokratie",
+      "programmpunkt": "Kontakt- und Beratungsangebote für queere Menschen in ländlichen Räumen sollen gestärkt werden.",
+      "seite": 44,
+      "zitat": "Beratungsangebote für queere Menschen in ländlichen Räumen stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als queere Person fürchtet Jule den Abbau von Schutz- und Vielfaltsstrukturen; der Ausbau queerer Angebote bestätigt ihr Anliegen unmittelbar.",
+      "begruendung_selbst": "Dass queere Leute nicht nur in der Großstadt Hilfe finden, sondern überall – das ist genau das, wofür ich kämpfe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "BAföG ohne die Eltern",
+      "thema": "bildung",
+      "programmpunkt": "Auf Bundesebene soll das BAföG zu einem elternunabhängigen BAföG weiterentwickelt werden.",
+      "seite": 67,
+      "zitat": "zu einem elternunabhängigen BAföG",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt von knapper BAföG-Teilförderung und Nebenjob; ein elternunabhängiges BAföG würde ihre prekäre Finanzlage spürbar entschärfen.",
+      "begruendung_selbst": "Mein Budget ist Monat für Monat eng – ein BAföG, das nicht am Einkommen meiner Eltern hängt, wäre eine echte Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnheime, die ich zahlen kann",
+      "thema": "bildung",
+      "programmpunkt": "Bezahlbares studentisches Wohnen soll über das Programm „Junges Wohnen“ durch Neubau und Sanierung von Wohnheimen gefördert werden.",
+      "seite": 67,
+      "zitat": "Bezahlbares studentisches Wohnen fördern wir",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Steigende Mieten treffen Jule bei dünnem Budget sofort; gefördertes studentisches Wohnen adressiert eine ihrer akuten Sorgen.",
+      "begruendung_selbst": "Jede Mieterhöhung haut bei mir voll rein – bezahlbare Wohnheimplätze wären für Leute wie mich Gold wert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klare Kante gegen rechts",
+      "thema": "demokratie",
+      "programmpunkt": "Der Rechtsextremismus wird als größte Gefahr für die Demokratie benannt und konsequent bekämpft.",
+      "seite": 39,
+      "zitat": "Der Rechtsextremismus ist die größte Gefahr für die Demokratie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule fürchtet den Rechtsruck und den Abbau ihrer Rechte; die klare Benennung der Gefahr und entschlossene Gegenmaßnahmen geben ihr Rückhalt.",
+      "begruendung_selbst": "Wenn meine Rechte zur Verhandlungsmasse werden, weiß ich genug – gut, dass hier klar Position gegen rechts bezogen wird.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ein neues Gaskraftwerk? Wirklich?",
+      "thema": "energie",
+      "programmpunkt": "Zur Beschleunigung des Braunkohleausstiegs wird der Aufbau eines H2-ready-Gaskraftwerks in Schkopau befürwortet.",
+      "seite": 25,
+      "zitat": "Aufbau eines H2-ready-Gaskraftwerks in Schkopau",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aus Jules klimabewegter Perspektive ist neue fossile Gasinfrastruktur ein Rückschritt, auch wenn sie als Brücke gedacht ist.",
+      "begruendung_selbst": "Erst raus aus der Kohle und dann ein neues Gaskraftwerk hinstellen – das ist mir zu sehr Brücke ins Gestern.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule findet im Programm fast durchgehend ihre Anliegen wieder: ambitionierte Klima- und Energieziele, Schutz und Ausbau queerer Strukturen, ein elternunabhängiges BAföG, bezahlbares Wohnen und klare Kante gegen rechts. Lediglich das geplante Gaskraftwerk erscheint ihr als fossiler Kompromiss. Insgesamt fühlt sie sich stark gesehen.",
+    "score": 2
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Strukturwandel als Jobmotor – das stimmt",
+      "thema": "energie",
+      "programmpunkt": "Ausbau erneuerbarer Energien als Treiber des Strukturwandels und als wirtschaftlichen Standortvorteil und Jobmotor für Sachsen-Anhalt begreifen",
+      "seite": 22,
+      "zitat": "ein wirtschaftlicher Standortvorteil für Sachsen-Anhalt und ein Jobmotor",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny arbeitet in der Energiewirtschaft und weiß, dass der Umbau des Energiesystems auch neue Jobs schafft. Das Programm benennt den erneuerbaren Ausbau explizit als Jobmotor und Standortvorteil – das entspricht seiner Wahrnehmung der Transformationschancen, auch wenn er die Risiken für Bestandsbeschäftigte nicht vergessen kann.",
+      "begruendung_selbst": "Das sehe ich auch so: Wer den Wandel richtig angeht, schafft neue Jobs. Sachsen-Anhalt hat hier echte Standortvorteile – Wind, Fläche, Infrastruktur. Dass das Programm das so klar benennt, finde ich richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff: Zukunft der Chemie gedacht",
+      "thema": "energie",
+      "programmpunkt": "Verfügbarkeit von erneuerbarem Wasserstoff als Schlüssel für die Zukunftsfähigkeit der chemischen Industrie benennen",
+      "seite": 27,
+      "zitat": "Ohne breit verfügbaren erneuerbar produzierten Wasserstoff ist unsere chemische Industrie in Zukunft nicht wettbewerbsfähig",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht erneuerbaren Wasserstoff als die zentrale Brückentechnologie für die Dekarbonisierung der Industrie in seiner Region. Das klare Bekenntnis des Programms zu Wasserstoff als Grundvoraussetzung für die Chemiebranche trifft seine industrielle Realität genau und gibt ihm Hoffnung auf eine geordnete Transformation statt eines abrupten Ausstiegs.",
+      "begruendung_selbst": "Wasserstoff ist für die Chemie keine Option, sondern eine Notwendigkeit. Dass das Programm das so direkt ausspricht, ist für mich ein wichtiges Signal: Da denken die Grünen endlich mal in Industrielogik, nicht nur in Klimaideologie.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Transformation aktiv begleiten – richtig!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Transformation der Chemie- und Automobilzulieferindustrie in Sachsen-Anhalt aktiv und gezielt unterstützen",
+      "seite": 89,
+      "zitat": "Transformation der Chemie- und Automobilzulieferindustrie in Sachsen-Anhalt werden wir aktiv unterstützen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny will keine Deindustrialisierung, sondern eine geordnete Transformation. Das Versprechen aktiver politischer Begleitung der Chemie- und Automobilzulieferbranche – seiner Branche – ist für ihn ein konkretes politisches Signal, dass die Grünen nicht nur Abschied feiern, sondern Umbau gestalten wollen.",
+      "begruendung_selbst": "Das ist das Entscheidende: nicht Abwickeln, sondern aktiv begleiten. Wenn das so gemeint ist, wie es dasteht, dann hat die Energiewende in Sachsen-Anhalt eine echte Chance – auch für die Leute, die bisher in Kohle und Gas gearbeitet haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Freileitungen: Pragmatischer Netzausbau!",
+      "thema": "energie",
+      "programmpunkt": "Verstärkten Ausbau von Freileitungen statt Erdkabeln für schnelleren und kosteneffizienteren Netzausbau",
+      "seite": 25,
+      "zitat": "verstärkten Ausbau von Freileitungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Netzfachmann weiß Ronny, dass Freileitungen schneller und günstiger realisierbar sind als Erdkabel. Das Programm bekennt sich zum pragmatischen Freileitungsausbau – das wertet er als Zeichen, dass die Grünen die realen Anforderungen an die Netzinfrastruktur verstehen und nicht Symbolpolitik über Machbarkeit stellen.",
+      "begruendung_selbst": "Endlich mal pragmatisch: Freileitungen sind schneller zu bauen, günstiger und für die Netzsicherheit oft die bessere Wahl. Wer das sagt, hat verstanden, dass Energiewende auch Ingenieursarbeit ist – kein Wunschkonzert.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "2030 erneuerbar – was ist mit uns?",
+      "thema": "energie",
+      "programmpunkt": "Sachsen-Anhalt bis 2030 vollständig auf erneuerbare Energien im Strombereich umstellen",
+      "seite": 22,
+      "zitat": "Sachsen-Anhalt bis 2030 im Strombereich 100 Prozent erneuerbar aufstellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontraer",
+      "begruendung": "Das 2030-Ziel ist für Ronny ambitioniert bis unrealistisch – und vor allem fehlt ihm ein klarer Pfad für die Menschen, die bisher in Kohle- und Gaskraftwerken arbeiten. Das Programm nennt kein Qualifizierungskonzept, keinen Sozialplan, keine Brückentechnologie für die Übergangsphase. Das Ziel allein ohne Weg ist für ihn keine Antwort.",
+      "begruendung_selbst": "Hundert Prozent erneuerbar bis 2030 – und was passiert mit meinen Kolleg*innen im Kraftwerk? Kein Wort über Umschulung, keinen Plan für die Übergangsphase. Das klingt nach einer politischen Ansage, nicht nach einem echten Transformationsplan.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fossile Subventionen weg, kein Ersatz",
+      "thema": "wirtschaft",
+      "programmpunkt": "Umwelt- und klimaschädliche Subventionen konsequent abbauen, ohne expliziten Ersatz für betroffene Sektoren",
+      "seite": 96,
+      "zitat": "umwelt- und klimaschädliche Subventionen konsequent abzubauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontraer",
+      "begruendung": "Ronny versteht die Logik hinter dem Subventionsabbau, vermisst aber eine klare Antwort auf die Frage, was für die betroffenen Unternehmen und Beschäftigten folgt. In seiner Region hängen Arbeitsplätze an Energieunternehmen, die auf bestimmte staatliche Rahmenbedingungen angewiesen sind. Ein Abbau ohne Ersatzinstrumente beschleunigt die Abwanderung, nicht die Transformation.",
+      "begruendung_selbst": "Klimaschädliche Subventionen abbauen – da bin ich grundsätzlich dabei. Aber wenn das von heute auf morgen passiert, ohne dass saubere Alternativen da sind, dann verlassen Betriebe die Region. Das Programm sagt nicht, was danach kommt – und das ist das Problem.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet im Grünen Programm eine klare Vision für die Energietransformation, die er im Grundsatz teilt: Wasserstoff, aktive Industrieunterstützung und pragmatischer Netzausbau zeigen, dass wirklich über seinen Bereich nachgedacht wurde. Ihm fehlt jedoch ein glaubwürdiger Übergangsplan für Beschäftigte in fossilen Sektoren und Klarheit über Brückentechnologien – insbesondere die fehlende Positionierung zu CCS und das ambitionierte 2030-Ziel ohne Qualifizierungskonzept lassen ihn skeptisch. Unter dem Strich: richtige Richtung, aber zu wenig Pfadklarheit für die Menschen, die den Wandel leben müssen.",
+    "score": 0
+  }
+}

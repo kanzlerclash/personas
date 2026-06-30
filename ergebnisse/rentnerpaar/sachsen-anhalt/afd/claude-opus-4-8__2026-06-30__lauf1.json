@@ -1,0 +1,137 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine Sanierungspflicht fürs Häuschen!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Wärmeplanungs- und Gebäudeenergiegesetz soll abgeschafft werden, sodass kein staatlicher Sanierungs- und Heizungszwang besteht.",
+      "seite": 13,
+      "zitat": "für die Abschaffung des Wärmeplanungs- und Gebäudeenergiegesetzes",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten teure Sanierungspflichten für ihr Haus von 1981; der Wegfall des Zwangs nimmt ihnen eine konkrete Existenzangst.",
+      "begruendung_selbst": "Wenn wir das Dach dämmen müssten, von welchem Geld eigentlich? Gut, dass uns das niemand vorschreibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Öl und Holz bleiben erlaubt!",
+      "thema": "energie",
+      "programmpunkt": "Heizen mit Öl und Holz sowie Autofahren mit Diesel und Benzin sollen weiterhin möglich bleiben.",
+      "seite": 15,
+      "zitat": "dass Heizen mit Öl und Holz",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar heizt mit den vorhandenen Anlagen und kann sich keinen Heizungstausch leisten; der Erhalt der bestehenden Heizform sichert ihre Lebenshaltung.",
+      "begruendung_selbst": "Unsere Heizung tut, was sie soll. Dass wir sie nicht teuer rausreißen müssen, beruhigt uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom billiger für kleine Renten!",
+      "thema": "energie",
+      "programmpunkt": "Die Stromsteuer soll für Privathaushalte auf den EU-Mindestwert gesenkt werden, um vor allem einkommensschwache Bürger zu entlasten.",
+      "seite": 13,
+      "zitat": "vor allem einkommensschwache Bürger zu entlasten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit kleinen Renten muss das Paar jeden Posten planen; eine niedrigere Stromsteuer entlastet ihren Haushalt unmittelbar.",
+      "begruendung_selbst": "Bei uns muss jeder Euro reichen. Wenn der Strom billiger wird, merken wir das sofort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unser Hausarzt soll bleiben!",
+      "thema": "gesundheit",
+      "programmpunkt": "Ein Landarztstipendienprogramm soll Medizinstudenten finanzieren, die sich verpflichten, mindestens zehn Jahre als Landärzte zu arbeiten.",
+      "seite": 20,
+      "zitat": "ein spezielles Landarztstipendienprogramm auflegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten, dass ihr Hausarzt ohne Nachfolge aufhört; Anreize für Landärzte sichern ihre wohnortnahe Versorgung.",
+      "begruendung_selbst": "Wenn unser Hausarzt aufhört, sind wir aufgeschmissen. Dass Nachwuchs aufs Land geholt wird, gibt uns Hoffnung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflegegeld für zu Hause!",
+      "thema": "gesundheit",
+      "programmpunkt": "Steuerliche Entlastungen und ein Landespflegegeld sollen die Pflege zu Hause unterstützen und die Eigenanteile in der Heimpflege begrenzen.",
+      "seite": 20,
+      "zitat": "steuerliche Entlastungen und ein Landespflegegeld",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Angst vor Pflegekosten ist für das Paar zentral; finanzielle Unterstützung und gedeckelte Eigenanteile mindern dieses Risiko.",
+      "begruendung_selbst": "Vor den Pflegekosten haben wir am meisten Angst. Ein Pflegegeld und gedeckelte Heimkosten wären eine echte Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei für mehr Sicherheit!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Landespolizei soll auf mindestens 7.500 Vollzugsbeamte aufgestockt werden.",
+      "seite": 9,
+      "zitat": "die Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das sicherheitsorientierte Paar sorgt sich um Kriminalität im Ort; mehr Polizeipräsenz stärkt ihr Sicherheitsgefühl.",
+      "begruendung_selbst": "Wir wollen uns im Dorf sicher fühlen. Mehr Polizei auf der Straße ist da genau das Richtige.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgerbus bringt uns zum Arzt!",
+      "thema": "familie",
+      "programmpunkt": "Dorfläden, Bank- und Poststellen sollen erhalten und Bürgerbus-Projekte gestartet werden, damit auch Rentner Arzt oder Kirche erreichen.",
+      "seite": 15,
+      "zitat": "damit auch Rentner den Arzt oder die Kirche besuchen können",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar fürchtet, auf dem Land abgehängt zu werden; Bürgerbusse und erhaltene Nahversorgung sichern ihre Teilhabe im Alter.",
+      "begruendung_selbst": "Solange wir noch Auto fahren, geht es. Aber ein Bürgerbus wäre Gold wert, wenn das mal nicht mehr klappt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Unsere Kinder wohnen doch weit weg",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflege soll wieder stärker durch die Familie statt durch den Staat übernommen werden.",
+      "seite": 20,
+      "zitat": "dass die Familie wieder mehr von dem übernimmt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieters Kinder leben weit weg; ein Pflegemodell, das auf familiäre Übernahme setzt, geht an ihrer Lebenslage vorbei und könnte ihnen im Ernstfall nicht helfen.",
+      "begruendung_selbst": "Schön gesagt, die Familie soll pflegen. Aber unsere Kinder wohnen weit weg. Wer kümmert sich dann wirklich um uns?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Was wird aus unserem Fernsehen?",
+      "thema": "demokratie",
+      "programmpunkt": "Der Rundfunkbeitrag soll als Zwangsgebühr abgeschafft und der öffentlich-rechtliche Rundfunk in ein Grundangebot überführt werden.",
+      "seite": 18,
+      "zitat": "Die Zwangsgebühr ist daher abzuschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar bezieht seine Informationen wesentlich aus dem öffentlich-rechtlichen Fernsehen; ein radikaler Umbau verunsichert ihren vertrauten Medienzugang.",
+      "begruendung_selbst": "Auf unser Fernsehen verlassen wir uns. Wenn die das jetzt umkrempeln, wissen wir nicht, was am Ende noch übrig bleibt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter sehen viele ihrer Ängste adressiert: keine Sanierungspflicht, bezahlbare Energie, Erhalt des Hausarztes, ein Landespflegegeld und mehr Sicherheit im Ort. Quer liegen das auf die Familie setzende Pflegemodell, das bei weit entfernten Kindern nicht greift, und der radikale Umbau ihres vertrauten öffentlich-rechtlichen Rundfunks. Insgesamt überwiegt die versprochene Sicherheit und Entlastung.",
+    "score": 1
+  }
+}

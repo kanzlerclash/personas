@@ -1,0 +1,90 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Arzt auf dem Land bleibt erreichbar!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die SPD will eine flächendeckende, gut erreichbare medizinische Versorgung sichern; Telemedizin und mobile Angebote sollen Versorgungslücken im ländlichen Raum schließen.",
+      "seite": 12,
+      "zitat": "Eine flächendeckende, gut erreichbare und qualitativ hochwertige medizinische Versorgung ist Voraussetzung für Lebensqualität und gleichwertige Lebensverhältnisse.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter haben einen Hausarzt in der Nähe — noch. Ihr größte Sorge ist, dass dieser aufhört und kein Nachfolger kommt. Das Bekenntnis zur ländlichen Versorgungssicherung trifft diese Existenzangst.",
+      "begruendung_selbst": "Unser Hausarzt ist nicht mehr der Jüngste. Wenn der aufhört, müssen wir mit dem Auto in die nächste Stadt. Das schaffen wir vielleicht bald nicht mehr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zu Hause alt werden — das wollen wir!",
+      "thema": "gesundheit",
+      "programmpunkt": "Versorgungsnetzwerke vor Ort, Quartiersansätze und Nachbarschaftshilfe sollen ein möglichst langes Leben in Selbstständigkeit im eigenen Wohnumfeld ermöglichen.",
+      "seite": 14,
+      "zitat": "Versorgungsnetzwerke vor Ort werden gestärkt, um ein möglichst langes Leben in Selbstständigkeit und im eigenen Wohnumfeld zu ermöglichen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das eigene Haus zu verlassen ist für Helga und Dieter unvorstellbar. Dass der Staat ambulante Strukturen und Nachbarschaftshilfe stärken will, gibt ihnen die Perspektive, auch im Alter im eigenen Heim zu bleiben.",
+      "begruendung_selbst": "Wir haben unser ganzes Leben in dieses Haus gesteckt. Wenn uns jemand dabei hilft, hier zu bleiben, statt ins Heim zu müssen — das ist alles, was wir wollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutschlandticket billig für Rentner!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Land Sachsen-Anhalt will das Deutschlandticket für Senioren mit etwa 20 Euro pro Monat subventionieren.",
+      "seite": 42,
+      "zitat": "Das Land Sachsen-Anhalt das Abonnement des Deutschlandtickets für Senioren mit ca. 20 Euro/Monat fördern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein günstiges Deutschlandticket gibt Helga und Dieter Mobilität, solange sie das Auto noch fahren können oder müssen — und ermöglicht ihnen, Arztbesuche, Einkäufe und soziale Kontakte zu erhalten.",
+      "begruendung_selbst": "Wenn wir das Auto irgendwann nicht mehr können, ist das ein Segen. 20 Euro — das ist wirklich günstig und wir würden das auch nutzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wärme darf keine zweite Miete werden!",
+      "thema": "energie",
+      "programmpunkt": "Die klimafreundliche Wärmeversorgung darf laut SPD keine zweite Miete werden; Kommunen werden bei der Wärmeplanung unterstützt.",
+      "seite": 43,
+      "zitat": "Die klimafreundliche Wärmeversorgung darf keine zweite Miete werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Heizkosten sind eine der größten Sorgen des Rentnerpaars. Das explizite Versprechen, dass die Wärmewende nicht zur Kostenexplosion führen soll, gibt ihnen etwas Sicherheit.",
+      "begruendung_selbst": "Heizen ist unser größter Posten. Wenn die sagen, das soll nicht explodieren — das höre ich gern. Ob sie's halten, muss sich zeigen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Erbschaft für Kinder wird teurer?",
+      "thema": "steuern",
+      "programmpunkt": "Die SPD will auf Bundesebene Erbschaftsteuerprivilegien streichen und durch Stundungsregelungen mit Freibetrag ersetzen.",
+      "seite": 54,
+      "zitat": "Privilegien für Vermögende in den §§ 13a, 13b und 28a ErbStG sollen gestrichen und durch großzügige Stundungsregelungen mit moderatem Zins sowie einen Freibetrag von 5 Mio. Euro ersetzt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Haus ist das einzige Vermögen von Helga und Dieter. Sie sorgen sich, ob ihre Kinder bei der Erbschaft belastet werden — auch wenn das Haus weit unter 5 Mio. Euro liegt und vom Freibetrag gedeckt sein dürfte. Die generelle Richtung der Erbschaftsteuerreform bereitet ihnen dennoch Unbehagen.",
+      "begruendung_selbst": "Wir wollen, dass unser Haus an die Kinder geht — das ist alles. Wenn jetzt da wieder dran gedreht wird, werden wir nervös.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter finden im SPD-Programm für Sachsen-Anhalt mehrere direkt relevante Zusagen: ländliche Gesundheitsversorgung, ambulante Pflegestrukturen im eigenen Wohnumfeld, ein günstiges Seniorenticket und die Zusicherung, dass Heizen bezahlbar bleibt. Diese Punkte treffen ihre Kernsorgen. Einziger Schatten ist die auf Bundesebene angestrebte Erbschaftsteuerreform, die ihr Haus-Erbe für die Kinder unsicherer erscheinen lässt — auch wenn der hohe Freibetrag sie wahrscheinlich nicht direkt trifft.",
+    "score": 1
+  }
+}

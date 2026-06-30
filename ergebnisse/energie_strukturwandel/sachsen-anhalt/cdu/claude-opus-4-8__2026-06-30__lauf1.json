@@ -1,0 +1,100 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Erst die Brücke, dann der Abriss!",
+      "thema": "energie",
+      "programmpunkt": "Vor dem Rückbau grundlastfähiger Kraftwerke braucht es konkrete Lösungen bei Speichern, Netzen und Ersatzkraftwerken.",
+      "seite": 44,
+      "zitat": "Vor dem Rückbau grundlastfähiger Kraftwerke braucht es konkrete Lösungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fürchtet Ausstiegsdaten ohne Ersatz; die Reihenfolge erst Lösungen, dann Rückbau ist exakt seine zentrale Forderung.",
+      "begruendung_selbst": "Erst die Brücke bauen, dann die alte abreißen - genau so muss es laufen, sonst fällt meine Region ins Wasser.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CCS wird nicht verteufelt!",
+      "thema": "energie",
+      "programmpunkt": "Gezieltes Setzen auf neue Technologien wie CCS/CCU, Batterien und synthetische Kraftstoffe.",
+      "seite": 46,
+      "zitat": "Forschung und Nutzung von CCS/CCU",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht in CCS eine Brücke für seine Region; das ausdrückliche Bekenntnis zu CCS/CCU bewahrt das Werkzeug, das er gegen pauschale Ablehnung verteidigt.",
+      "begruendung_selbst": "CCS ist für uns kein Teufelszeug, sondern eine Chance. Endlich jemand, der die Technik nicht von vornherein verbietet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ideologiefrei - so muss Energiepolitik sein.",
+      "thema": "klima",
+      "programmpunkt": "Bekenntnis zu ideologiefreier, technologieoffener Energiepolitik mit Versorgungssicherheit und Bezahlbarkeit als Priorität.",
+      "seite": 44,
+      "zitat": "Wir handeln ideologiefrei",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny ist technologieoffen und faktenorientiert; eine ideologiefreie, technologieoffene Linie entspricht genau seiner pragmatischen Haltung.",
+      "begruendung_selbst": "Mir ist egal, ob die Lösung grün, blau oder grau heißt - sie muss funktionieren. Genau dafür steht dieser Satz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff statt Werkbank-Schicksal.",
+      "thema": "energie",
+      "programmpunkt": "Vorantreiben einer industriellen Wasserstoffwirtschaft mit Erdgas- und Wasserstoffkraftwerk und Anschluss ans Wasserstoffnetz.",
+      "seite": 46,
+      "zitat": "Grüner Wasserstoff ist für die Industrie von morgen unverzichtbar.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny hofft auf neue Industrie statt Abwanderung; der Aufbau einer Wasserstoffwirtschaft bietet seiner Region eine berufliche Perspektive.",
+      "begruendung_selbst": "Wasserstoff könnte für uns die Zukunft sein. Wenn hier Kraftwerke und Netze entstehen, bleibt die Wertschöpfung in der Region.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strukturwandel als echte Chance.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Strukturwandel als Chance nutzen, Mittel zielgerichtet einsetzen für nachhaltige Arbeitsplätze und regionale Wertschöpfung.",
+      "seite": 79,
+      "zitat": "Strukturwandel als Chance nutzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny will einen Plan mit Perspektive für seine Region; der gestaltende Anspruch beim Strukturwandel trifft seine Hoffnung auf neue Arbeitsplätze vor Ort.",
+      "begruendung_selbst": "Gebt mir einen Plan, nicht nur ein Enddatum. Strukturwandel als Chance zu denken, ist genau die richtige Haltung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgungssicherheit zuerst - richtig.",
+      "thema": "energie",
+      "programmpunkt": "Versorgungssicherheit und Bezahlbarkeit haben oberste Priorität als Grundlage für Standorte und Arbeitsplätze.",
+      "seite": 44,
+      "zitat": "Versorgungssicherheit und Bezahlbarkeit haben für uns oberste Priorität",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Energiewirtschaftler weiß Ronny, dass ohne sichere Versorgung der Standort kippt; deren Priorisierung deckt sich mit seinem Berufsverständnis.",
+      "begruendung_selbst": "Ohne sichere und bezahlbare Energie steht hier bald nichts mehr. Dass das oberste Priorität hat, ist für mich Grundlage von allem.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet seine pragmatische, technologieoffene Linie nahezu vollständig wieder: erst Ersatz dann Rückbau, ausdrückliches Ja zu CCS und Wasserstoff, Priorität für Versorgungssicherheit und ein gestaltender Strukturwandel mit Perspektive für seine Region. Punkte, die seiner Lage zuwiderlaufen, sieht er nicht.",
+    "score": 2
+  }
+}

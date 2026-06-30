@@ -1,0 +1,78 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Re-Industrialisierung statt Abwicklung!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm will den wirtschaftlichen Niedergang und die Deindustrialisierung stoppen und einen Re-Industrialisierungsprozess einleiten.",
+      "seite": 12,
+      "zitat": "wirtschaftlichen Niedergang und die damit verbundene De-Industrialisierung stoppen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht den Bestand seiner Branche als existenzielle Sorge; ein klares Bekenntnis zur Reindustrialisierung adressiert direkt seine Angst vor dem Verlust des Standorts.",
+      "begruendung_selbst": "Ich bin nicht gegen Klimaschutz. Ich bin gegen Klimaschutz, der meine Kollegen arbeitslos macht. Wenn die Industrie hier wieder stark werden soll, bin ich dabei.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiepreise für die Industrie runter!",
+      "thema": "energie",
+      "programmpunkt": "Das Programm will durch Rückkehr zu einem breiten Energiemix mit fossilen Trägern explodierende Energiekosten senken, die Industriestandorte besonders belasten.",
+      "seite": 13,
+      "zitat": "energiepolitischen Sonderweg ist die Ursache für explodierende Energiekosten, steigenden Energiemangel, zunehmende Deindustrialisierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Günstige Energiepreise sind eine Standortbedingung für die Chemieindustrie im Chemiedreieck; hohe Strompreise machen den Standort international uncompetitiv.",
+      "begruendung_selbst": "Wenn der Strom doppelt so teuer ist wie in anderen Ländern, wandert die Produktion ab. Dann wandern die Arbeitsplätze ab. Das ist keine Theorie – das passiert gerade.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Sanktionen schaden uns selbst!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm will die Wirtschaftssanktionen gegen Russland aufheben, da sie nach Auffassung der AfD vor allem die heimische Wirtschaft schädigen.",
+      "seite": 12,
+      "zitat": "Aufhebung der Russlandsanktionen und aller anderen Wirtschaftssanktionen einsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Chemieindustrie hat unter dem Wegfall günstiger Rohstoffe und Exportmärkte in Richtung Russland gelitten; günstigere Betriebsmittelpreise würden den Standort stabilisieren.",
+      "begruendung_selbst": "Die Sanktionen kosten uns Aufträge und verteuern Rohstoffe. Ich verstehe die politische Lage – aber wenn der Preis der Job meines Kollegen ist, muss man auch das benennen dürfen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kein Wort zu Tarifbindung!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm enthält keine Aussagen zu Tarifbindung, Mitbestimmung oder Stärkung der Gewerkschaften – zentrale Interessen von Uwe als Betriebsrat.",
+      "seite": 12,
+      "zitat": "kleine und mittelständische Unternehmen als Rückgrat der sachsen-anhaltischen Wirtschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe identifiziert sich als Gewerkschafter und Betriebsrat; ein Programm, das stark auf mittelständische Arbeitgeber setzt und Arbeitnehmerrechte nicht erwähnt, lässt seine Interessenvertretungsebene komplett außen vor.",
+      "begruendung_selbst": "Wer den Sozialstaat und die Gewerkschaften schwächt, hat mich als Gegner. Das Programm redet viel über Unternehmer – aber kein Wort über die, die in den Betrieben arbeiten und mitreden wollen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet in der Industriepolitik und den Energiepreisversprechen direkte Anknüpfungspunkte für seine Sorge um den Standort; die Absage an die Deindustrialisierung spricht ihn an. Dass das Programm Gewerkschaften, Mitbestimmung und Tarifbindung vollständig ignoriert, schafft jedoch eine empfindliche Lücke für ihn als Betriebsrat und Gewerkschafter.",
+    "score": 0
+  }
+}

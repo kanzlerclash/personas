@@ -1,0 +1,101 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich verbindliche Mindesthonorare!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke will verbindliche Mindesthonorare für Künstlerinnen und Künstler einführen, besonders bei öffentlich geförderten Projekten.",
+      "seite": 70,
+      "zitat": "verbindliche Mindesthonorare für Künstler:innen, gerade bei öffentlich geförderten Projekten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike arbeitet im Kreativbereich und kennt die Praxis, für öffentlich geförderte Projekte ohne kostendeckende Honorare tätig zu werden. Verbindliche Mindesthonorare würden ihre Verhandlungsposition gegenüber Auftraggebern stärken und strukturell absichern, was bisher informell und oft zulasten der Kreativen ausgehandelt wird.",
+      "begruendung_selbst": "Das wäre ein echter Schritt. Gerade bei öffentlich geförderten Projekten arbeite ich manchmal für Honorare, die nicht mal meine Betriebskosten decken. Wenn das verbindlich wird, kann ich nicht mehr so leicht untergeboten werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dauerförderung statt ewigem Projektzirkus",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke will langfristige institutionelle Förderungen einführen statt kurzfristiger Projektförderung, und dazu eine verlässliche Finanzierung der freien Kulturszene einschließlich Basishonoraren für Selbstständige sicherstellen.",
+      "seite": 71,
+      "zitat": "eine verlässliche Finanzierung der freien Kulturszene",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Projektförderung erzwingt permanente Akquise, lückige Absicherung und Planungsunsicherheit – genau das Muster, das Mareikes Alltag bestimmt. Institutionelle Dauerförderung schafft stabile Strukturen, in denen auch Freie langfristig tätig sein können, statt ständig von Antrag zu Antrag zu leben.",
+      "begruendung_selbst": "Ich verbringe enorm viel Zeit damit, Projekte zu beantragen und zu begründen. Wenn Institutionen verlässlich gefördert werden, gibt es endlich Aufträge, die mehr als drei Monate in die Zukunft planen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klubs und Spielstätten nicht sterben lassen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke will eine verstetigte Landesförderung von Klubs und Musikspielstätten einführen, um das Klubsterben aktiv zu bekämpfen und Subkultur zu fördern.",
+      "seite": 71,
+      "zitat": "eine verstetigte Landesförderung von Klubs und Musikspielstätten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist in der Kreativ- und Digitalszene tätig und generiert einen Teil ihrer Aufträge aus der freien Kulturszene – Klubs, Spielstätten und alternative Kulturzentren sind ihre Auftraggeber und ihr berufliches Umfeld. Deren Überleben sichert auch ihre Auftragsbasis.",
+      "begruendung_selbst": "Wenn die Spielstätten schließen, schließt für mich auch ein Teil des Markts. Wer braucht noch ein Plakat oder eine Website, wenn die Venue weg ist?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Kulturbudget, endlich!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke will das Kulturbudget erhöhen, um Mindesthonorare und Programmvielfalt zu gewährleisten, und Kultureinrichtungen in allen Sparten verbindliche Tarifsteigerungen sichern.",
+      "seite": 70,
+      "zitat": "eine Erhöhung des Kulturbudgets, das Mindesthonorare und Programmvielfalt gewährleistet",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein höheres Kulturbudget ist die materielle Voraussetzung für alle anderen kulturpolitischen Versprechen. Mareike profitiert nicht nur direkt als Auftragnehmerin, sondern auch durch stabilere Auftraggeber-Strukturen in Theatern, Museen und freien Institutionen.",
+      "begruendung_selbst": "Mit mehr Geld im Kulturbudget gibt es mehr Aufträge und faire Honorare. Das ist das Fundament für alles andere – ohne Geld sind alle Versprechen wertlos.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Neue Steuer trifft auch Kleinselbstständige",
+      "thema": "steuern",
+      "programmpunkt": "Die Linke will die Gewerbesteuer zur Gemeindewirtschaftssteuer ausweiten, die auch Solo-Selbstständige und freiberufliche Dienstleister einbezieht – mit einem Freibetrag von 24.500 Euro.",
+      "seite": 18,
+      "zitat": "mit einem einheitlichen Freibetrag von 24.500 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontraer",
+      "begruendung": "Als Freiberuflerin ist Mareike bislang von der Gewerbesteuer befreit. Die geplante Gemeindewirtschaftssteuer würde erstmals alle selbstständig erwirtschafteten Einkommen erfassen. In guten Jahren liegt sie über dem Freibetrag und würde tatsächlich zur Kasse gebeten. Dies erhöht die steuerliche Verwaltungslast und schafft eine neue Beitragspflicht in genau jenen Einkommensklassen, in denen Selbstständige bereits kämpfen.",
+      "begruendung_selbst": "Ich zahle schon KSK-Beiträge, Krankenkasse, Einkommensteuer – und jetzt soll noch eine Kommunalsteuer dazukommen? In guten Monaten falle ich über die Grenze, in schlechten wieder nicht. Genau die Unberechenbarkeit, die ich nicht brauche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Absicherung bei Flaute? Fehlt im Programm.",
+      "thema": "arbeit",
+      "programmpunkt": "Das arbeitsrechtliche Kapitel der Linken sichert umfassend Beschäftigte in Festanstellung ab – mit sechs Wochen Urlaub, 35-Stunden-Woche und Betriebsratsrechten. Für soloselbstständige Kreative ohne Arbeitgeber fehlen spezifische Sicherungsmodelle.",
+      "seite": 86,
+      "zitat": "sechs Wochen Urlaub für alle Beschäftigten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontraer",
+      "begruendung": "Mareike fällt durch das Raster: Sie ist weder Arbeitnehmerin noch betrieblich eingebunden. Die umfangreiche Absicherungsarchitektur des Linken-Programms für Beschäftigte – Urlaubsanspruch, Mitbestimmung, Tariflohn – erreicht Solo-Selbstständige strukturell nicht. Ihre Kernsorge um Absicherung bei Krankheit und Auftragsflaute bleibt im Programm unbeantwortet.",
+      "begruendung_selbst": "Sechs Wochen Urlaub für Beschäftigte – toll. Wenn ich krank bin, kriege ich kein Honorar. Das Programm meint die Festangestellten. Ich bin noch immer das, was durch alle Raster fällt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Mareike als soloselbstständige Kreative ist das Linke-Programm in der Kulturpolitik konkret und weitgehend positiv: Mindesthonorare, Dauerförderung statt Projektzirkus und Spielstättenförderung adressieren ihre berufliche Realität direkt. Der Gegenwind kommt aus zwei Richtungen: Die Ausdehnung der Gemeindewirtschaftssteuer auf Freiberufler bringt eine neue Beitragspflicht, und das arbeitsrechtliche Kapitel richtet sich an Beschäftigte, nicht an Solo-Selbstständige. Insgesamt überwiegt für sie die kulturpolitische Substanz, das Sozialschutz-Gap bleibt aber ungelöst.",
+    "score": 1
+  }
+}

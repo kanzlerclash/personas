@@ -1,0 +1,101 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Niederlassung entbürokratisieren",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Unterstützung für niederlassungswillige Ärzte soll ausgebaut und bürokratische Hürden gezielt reduziert werden.",
+      "seite": 65,
+      "zitat": "reduzieren dafür gezielt bürokratische Hürden, die diesen Weg erschweren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra findet keine Nachfolge und erstickt in Bürokratie; weniger Hürden bei der Niederlassung adressiert direkt ihre größte Sorge um die Praxiszukunft.",
+      "begruendung_selbst": "Wenn die Niederlassung einfacher wird, findet sich vielleicht doch jemand für meine Praxis. Genau da muss man ansetzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung kommt zu den Patienten",
+      "thema": "gesundheit",
+      "programmpunkt": "Rollende Arztpraxen und Facharzt-Busse sollen die Versorgung in herausfordernde ländliche Regionen bringen.",
+      "seite": 64,
+      "zitat": "Wir bringen die medizinische Versorgung zu den Menschen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petras alternde Patient:innen haben lange Wege; mobile Versorgungsangebote entlasten ihre Praxis und sichern die Erreichbarkeit.",
+      "begruendung_selbst": "Viele meiner Älteren kommen kaum noch zu mir. Eine rollende Praxis wäre eine echte Entlastung für die Versorgung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich funktionierende Technik",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Telematik-Infrastruktur soll praxistauglich gestaltet werden, damit Digitalisierung einen echten Mehrwert bringt.",
+      "seite": 65,
+      "zitat": "wollen wir die Telematik-Infrastruktur praxistauglich gestalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra verzweifelt an nicht funktionierender Digitalisierung; das Versprechen praxistauglicher Telematik trifft ihren konkreten Arbeitsfrust.",
+      "begruendung_selbst": "Ich will Technik, die läuft, statt mich aufzuhalten. Praxistauglich - genau das fehlt seit Jahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Physician Assistant aufs Land",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Berufsbild Physician Assistant soll als fester Baustein der ambulanten Versorgung im ländlichen Raum ausgebaut werden.",
+      "seite": 65,
+      "zitat": "das junge Berufsbild des Physician Assistant zu einem festen Baustein der ambulanten Versorgung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Personalknappheit belastet Petras Praxis; zusätzliche entlastende Berufsbilder verschaffen ihr im Alltag Spielraum.",
+      "begruendung_selbst": "Jede Hand, die mich entlastet, hilft. Wenn Physician Assistants kommen, gewinne ich Zeit für meine Patienten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krankenhäuser auf dem Land halten",
+      "thema": "gesundheit",
+      "programmpunkt": "Tragfähige Krankenhausstandorte sollen erhalten und mit lokalen Gesundheitszentren vernetzt werden.",
+      "seite": 66,
+      "zitat": "Wir fördern lokale Gesundheitszentren als verbindendes Element zwischen Kliniken und Praxen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra kämpft um die Daseinsvorsorge im ländlichen Raum; die Vernetzung von Kliniken und Praxen stärkt die Versorgungsstruktur, in der sie arbeitet.",
+      "begruendung_selbst": "Wenn Klinik und Praxis besser zusammenarbeiten, hält das die Versorgung auf dem Land am Leben. Das ist mein täglicher Kampf.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bürokratie woanders, nicht bei mir",
+      "thema": "wirtschaft",
+      "programmpunkt": "Prüfungen von Verwendungsnachweisen sollen auf Stichproben begrenzt, ärztliche Budgetierung jedoch nicht eigens adressiert werden.",
+      "seite": 48,
+      "zitat": "nur noch durch Stichprobenkontrollen abgesichert werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petras spezifische Belastungen aus Budgetierung und Regressangst bleiben unbenannt; der Bürokratieabbau zielt vorrangig auf Kommunen und Unternehmen, nicht auf ihren Praxisalltag.",
+      "begruendung_selbst": "Schön, dass Kommunen entlastet werden - aber meine Regressangst und die Budgets nimmt mir das nicht. Da fühle ich mich übersehen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra sieht ihre Kernsorgen weitgehend bedient: weniger Bürokratie bei der Niederlassung, mobile Versorgung für ihre Patient:innen, praxistaugliche Telematik, entlastende Berufsbilder wie der Physician Assistant und der Erhalt vernetzter Versorgungsstrukturen. Dass die spezifischen ärztlichen Lasten aus Budgetierung und Regressangst unbenannt bleiben, trübt das Bild leicht, doch die konkreten Versorgungsversprechen überwiegen klar.",
+    "score": 1
+  }
+}

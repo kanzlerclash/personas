@@ -1,0 +1,126 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Frauen im Handwerk stärken",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm will die Chancen von Frauen im Handwerk verbessern, da sie dort weiterhin unterrepräsentiert sind.",
+      "seite": 91,
+      "zitat": "Frauen sind im Handwerk weiterhin unterrepräsentiert. Wir wollen ihre Chancen verbessern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine hat sich als Frau in einer männerdominierten Branche durchgesetzt. Eine explizite politische Unterstützung für Frauen im Handwerk stärkt ihr Umfeld beim Nachwuchs und sendet ein Signal an Bewerberinnen, die sie dringend als Fachkräfte sucht.",
+      "begruendung_selbst": "Es ist nicht selbstverständlich, dass das überhaupt im Programm steht. Als Meisterin in der SHK-Branche weiß ich, was das bedeutet – ich bin immer noch eine Ausnahme.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanierungsförderung einkommensabhängig und verlässlich",
+      "thema": "energie",
+      "programmpunkt": "Sanierungen sollen künftig gezielt einkommensabhängig gefördert werden, und Haushalte ohne Rücklagen sollen durch Landesbürgschaften Finanzierungszugang erhalten.",
+      "seite": 26,
+      "zitat": "Sanierungen sollen künftig gezielt einkommensabhängig gefördert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine lebt von Sanierungs- und Heizungsaufträgen. Verlässliche und klare Förderregeln sind die Grundlage dafür, dass Kunden investieren. Das Förderchaos der vergangenen Jahre hat ihr Auftragsvolumen direkt beeinträchtigt – ein stabiler, einkommensabhängiger Ansatz wäre eine erhebliche Verbesserung.",
+      "begruendung_selbst": "Meine Kunden wollen wissen, was sie bekommen, bevor sie unterschreiben. Wenn die Förderung von Einkommen abhängt und nicht jedes Jahr neu erfunden wird, kann ich endlich wieder vernünftig planen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte aus dem Ausland halten",
+      "thema": "arbeit",
+      "programmpunkt": "Internationale Talente sollen langfristig in Sachsen-Anhalt gehalten werden, um dem Fachkräftemangel entgegenzuwirken.",
+      "seite": 88,
+      "zitat": "starke Wirtschaft, die ökologisch und sozial gerecht ist",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines acht Beschäftigte zu halten und zu ergänzen ist ihre drängendste Managementaufgabe. Eine Politik, die internationale Fachkräfte aktiv bindet, adressiert diesen Engpass direkt und hat für sie unmittelbare betriebswirtschaftliche Relevanz.",
+      "begruendung_selbst": "Ich habe gerade mal genug Leute für den Betrieb. Wenn das Land hilft, dass die bleiben, die schon hier sind und Deutsch gelernt haben, dann ist das für mich bares Geld wert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Löhne und Mitbestimmung",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm fordert faire Löhne, anständige Arbeitsbedingungen und echte Mitbestimmung für Beschäftigte.",
+      "seite": 76,
+      "zitat": "faire Löhne, anständige Arbeitsbedingungen und echte Mitbestimmung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine konkurriert um Fachkräfte mit größeren Betrieben. Ein politisches Umfeld, das faire Löhne als Standard setzt, schafft gleiche Wettbewerbsbedingungen und schützt sie davor, in einen Unterbietungswettbewerb mit Niedriglohnangeboten gezogen zu werden.",
+      "begruendung_selbst": "Ich zahle ordentlich, weil ich meine Leute behalten will. Wenn das alle tun müssen, habe ich kein Problem damit.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "PFAS-Verbot trifft Installationsmaterial",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm fordert ein konsequentes Verbot problematischer Stoffe wie PFAS.",
+      "seite": 16,
+      "zitat": "konsequentes Verbot problematischer Stoffe wie PFAS, Glyphosat",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "PFAS-Verbindungen sind in Dichtmitteln, Lötzinn und Installationsmaterialien der SHK-Branche weit verbreitet. Ein konsequentes Verbot ohne ausreichende Übergangszeiträume und praxistaugliche Alternativen würde Sabines Einkauf und Materialdisposition erheblich komplizieren und verteuern.",
+      "begruendung_selbst": "Ich weiß nicht, ob die wissen, was in meinen Dichtmitteln steckt. Wenn ich das alles tauschen muss, brauche ich Zeit und Alternativen – nicht ein pauschales Verbot.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "100 Prozent erneuerbar treibt Betriebskosten",
+      "thema": "energie",
+      "programmpunkt": "Sachsen-Anhalt soll bis 2030 im Strombereich 100 Prozent erneuerbar aufgestellt sein.",
+      "seite": 22,
+      "zitat": "Sachsen-Anhalt bis 2030 im Strombereich 100 Prozent erneuerbar aufstellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Der Umbau des Stromnetzes bis 2030 ist ambitioniert und mit erheblichen Netzentgeltsteigerungen verbunden. Sabines energieintensive Werkstatt und Fuhrpark verteuern sich in der Übergangsphase, ohne dass das Ziel kurzfristig Entlastung bringt.",
+      "begruendung_selbst": "Bis 2030 sind es noch vier Jahre. Was das für meine Stromrechnung in der Werkstatt bedeutet in dieser Umbauphase, das interessiert mich mehr als das Fernziel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Subventionsabbau trifft Betriebskosten",
+      "thema": "wirtschaft",
+      "programmpunkt": "Umwelt- und klimaschädliche Subventionen sollen konsequent abgebaut werden.",
+      "seite": 96,
+      "zitat": "umwelt- und klimaschädliche Subventionen konsequent abzubauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines Handwerksbetrieb ist auf Fahrzeuge angewiesen. Steuerliche Vergünstigungen für Diesel-Transporter oder Energiesubventionen fallen unter diese Formulierung. Für einen kleinen Betrieb mit acht Beschäftigten schlagen solche Kostensteigerungen direkt auf die Marge durch.",
+      "begruendung_selbst": "Meine Transporter fahren mit Diesel. Wenn das teurer wird, weil die Grünen Subventionen streichen, dann hat das unmittelbare Auswirkungen auf meine Kalkulation.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Bürokratieentlastung für Handwerk",
+      "thema": "wirtschaft",
+      "programmpunkt": "Konkrete Maßnahmen zur Bürokratieentlastung für Handwerksbetriebe fehlen im Programm weitgehend.",
+      "seite": 88,
+      "zitat": "starke Wirtschaft, die ökologisch und sozial gerecht ist",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines größte Alltagsbelastung ist der Verwaltungsaufwand. Das Programm enthält zwar das Prinzip weniger Bürokratie im Agrarbereich, überträgt es aber nicht explizit auf Handwerksbetriebe. Für Sabine bleibt das Versprechen einer Entlastung abstrakt und unverbindlich.",
+      "begruendung_selbst": "Sag mir eine Regel, die wegfällt. Nicht eine Vision. Ich verbringe jeden Freitagabend mit Formularen, und das Programm sagt mir nicht, welches davon als erstes verschwindet.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet im Grünen Programm punktuelle Anerkennung: die Stärkung von Frauen im Handwerk, ein verlässlicherer Sanierungsförderansatz und das Bekenntnis zu fairen Löhnen treffen sie positiv. Auf der anderen Seite fehlen konkrete Bürokratieentlastungen für Handwerksbetriebe, während PFAS-Verbote, Energiekostentreiber und der Abbau von Subventionen reale Betriebsrisiken darstellen. Das Programm interessiert sich mehr für das Ziel als für den pragmatischen Weg dorthin – was für Sabine den entscheidenden Unterschied macht.",
+    "score": 0
+  }
+}

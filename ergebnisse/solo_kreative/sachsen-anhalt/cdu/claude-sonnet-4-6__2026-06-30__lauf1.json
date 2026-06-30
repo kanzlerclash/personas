@@ -1,0 +1,90 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kreativwirtschaft als Zukunftsbranche!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU will die Kultur- und Kreativwirtschaft als Zukunftsbranche weiterentwickeln und gezielte Startförderungen, insbesondere für Clubs und kreative Orte, auflegen.",
+      "seite": 82,
+      "zitat": "Kultur - und Kreativwirtschaft als Zukunftsbranche weiterentwickeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike lebt in einer Branche, die selten als Wirtschaftskraft anerkannt wird. Das explizite Bekenntnis zur Kreativwirtschaft als Zukunftsbranche mit gezielter Startförderung ist für sie eine seltene politische Anerkennung.",
+      "begruendung_selbst": "Ich falle durch jedes Raster: zu selbstständig für Schutz, zu klein für die Förderung. Wenn das jetzt als Zukunftsbranche anerkannt wird, höre ich zumindest zu.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Formulare – Erleichterung!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Staatliche Dienstleistungen sollen digital und einmalig möglich sein; weniger Formulare und verlässliche digitale Abläufe sollen Betriebe und Selbstständige entlasten.",
+      "seite": 51,
+      "zitat": "Weniger Formulare, mehr Service, verlässliche digitale Abläufe",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike verbringt unverhältnismäßig viel Zeit mit Bürokratie, die für Großbetriebe mit Steuerberatern kein Problem ist. Digitale und einmalige Behördenprozesse würden ihr direkt Zeit für produktive Arbeit freisetzen.",
+      "begruendung_selbst": "Jede Stunde, die ich mit Formularen verbringe, ist eine Stunde, die ich keine Aufträge bearbeite und kein Geld verdiene. Weniger Formulare ist mein direktes Eigeninteresse.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "KI und Urheberrecht respektieren!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU setzt sich dafür ein, dass Urheberrechte auch im Zeitalter der KI respektiert, geschützt und vergütet werden.",
+      "seite": 36,
+      "zitat": "Urheberrechte auch im Zeitalter der KI respektiert, geschützt und vergütet werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike lebt von ihren kreativen Leistungen. Die Forderung nach Urheberrechtsschutz auch gegenüber KI-Anwendungen schützt direkt ihre wirtschaftliche Grundlage.",
+      "begruendung_selbst": "Wenn eine KI meine Designs nutzt und ich dafür keinen Cent sehe, ist das Diebstahl. Dass das explizit als Problem benannt wird, überrascht mich positiv.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Keine soziale Absicherung für Selbstständige!",
+      "thema": "arbeit",
+      "programmpunkt": "Das CDU-Programm adressiert Soloselbstständige und deren Absicherungslücken nicht; sozialpolitische Maßnahmen richten sich an Arbeitnehmer und Unternehmen mit Beschäftigten.",
+      "seite": 18,
+      "zitat": "Wer kann und will, soll auch dürfen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes größte Sorge ist das Fehlen einer sozialen Absicherung bei Krankheit, Auftragsflaute und im Alter. Das Programm erwähnt Soloselbstständige nicht als eigenständige Gruppe mit besonderen Schutzbedarfen.",
+      "begruendung_selbst": "Wenn ich krank werde oder die Aufträge wegbleiben, fange ich keinen Schutz auf – da ist einfach nichts. Und in diesem Programm auch nicht.",
+      "beleg_hinweis": "Seite von 17 auf 18 korrigiert",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fördern und Fordern – nicht für mich?",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will das Prinzip 'Fördern und Fordern' in der Grundsicherung stärken und ist grundsätzlich aktivierend-arbeitsmarktpolitisch ausgerichtet.",
+      "seite": 17,
+      "zitat": "Prinzip Fördern und Fordern in der Grundsicherung wieder stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike weiß, dass sie in Auftragsflauten knapp über oder unter Grundsicherungsgrenzen sein kann. Für sie ist die 'Fördern und Fordern'-Logik eine Rhetorik, die Menschen mit atypischen Einkommensverläufen unter Generalverdacht stellt.",
+      "begruendung_selbst": "Ich arbeite hart – aber manche Monate kommt nichts rein. Wenn dann sofort von 'Fordern' geredet wird, fühle ich mich als Abzocker behandelt, obwohl ich Teil der Kreativwirtschaft bin.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet im CDU-Programm einige Ansätze, die ihr zugutekommen: die Anerkennung der Kreativwirtschaft als Zukunftsbranche, Urheberrechtsschutz im KI-Zeitalter und Bürokratieabbau durch digitale Verwaltung. Ihr zentrales Anliegen – soziale Absicherung für Soloselbstständige – wird jedoch nicht adressiert. Das Programm denkt in Kategorien von Arbeitnehmern und Unternehmern mit Beschäftigten; die Grauzone ihrer Erwerbsform bleibt unsichtbar.",
+    "score": 0
+  }
+}

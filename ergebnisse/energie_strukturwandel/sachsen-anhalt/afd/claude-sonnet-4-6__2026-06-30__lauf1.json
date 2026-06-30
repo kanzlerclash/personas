@@ -1,0 +1,77 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Fossile Energie nicht sofort abschalten!",
+      "thema": "energie",
+      "programmpunkt": "Das Programm will zu einem breiten Energiemix inklusive fossiler Träger zurückkehren und die planwirtschaftliche Energiewende stoppen.",
+      "seite": 13,
+      "zitat": "der auch fossile Energieträger beinhaltet",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny arbeitet in der Energiewirtschaft und sieht einen sofortigen fossilen Ausstieg ohne ausreichende Alternative als Bedrohung für seine Region; das Programm gibt fossilen Energieträgern eine Bestandsperspektive.",
+      "begruendung_selbst": "Gebt mir einen Plan, nicht nur ein Enddatum – sonst stirbt hier die Region, bevor das Neue da ist. Die AfD sagt wenigstens nicht: sofort alles abschalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgungssicherheit wieder Priorität!",
+      "thema": "energie",
+      "programmpunkt": "Das Programm nennt Versorgungssicherheit als zentrales energiepolitisches Ziel und kritisiert die bisherige Energiewende als Ursache für Energiemangel.",
+      "seite": 13,
+      "zitat": "steigenden Energiemangel, zunehmende Deindustrialisierung und eine abnehmende Versorgungssicherheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Ronny als Energietechniker ist Versorgungssicherheit ein handwerklicher Grundsatz; ein Programm, das sie zur Priorität erklärt, entspricht seinem beruflichen Verständnis von verlässlicher Energieversorgung.",
+      "begruendung_selbst": "Erst die Brücke bauen, dann die alte abreißen. Andersrum fallen wir ins Wasser. Ich bin froh, wenn Versorgungssicherheit wieder oben auf der Agenda steht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strukturschwache Regionen stärken!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm prüft Sonderwirtschaftszonen in strukturschwachen Regionen, um Investitionen anzuziehen und Wirtschaftsstrukturen vor Ort aufzubauen.",
+      "seite": 12,
+      "zitat": "Einrichtung räumlich abgegrenzter Sonderwirtschaftszonen in strukturschwachen Regionen des Landes",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny lebt in einer Strukturwandelregion, die auf neue Investitionen und Ansiedlungen angewiesen ist; ein Instrument zur gezielten Attraktivierung strukturschwacher Standorte entspricht seinem Interesse.",
+      "begruendung_selbst": "Wenn die Region neue Industrie braucht, muss man ihr auch Anreize geben. Sonderwirtschaftszonen kenne ich aus anderen Ländern – wenn das hier funktioniert, ist das ein echter Gewinn für uns.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaideologie – kein Plan für mich!",
+      "thema": "klima",
+      "programmpunkt": "Das Programm lehnt die gesamte Klimapolitik als 'globalistische Klimaideologie' ab, ohne einen alternativen Transformationspfad für Energieregionen zu entwickeln.",
+      "seite": 13,
+      "zitat": "AfD lehnt die globalistische Klimaideologie und die damit einhergehende Wohlstandsvernichtungspolitik grundlegend ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny teilt das Ziel des Wandels, will aber einen realistischen Plan mit neuen Jobs für seine Region; die pauschale Ablehnung des gesamten Klimarahmens ohne konstruktive Alternative lässt ihn ohne Perspektive für seinen Berufsweg.",
+      "begruendung_selbst": "Ich will Wandel – aber mit Plan. Wenn man alles ablehnt, ohne zu sagen, was stattdessen kommt, gibt mir das keine Sicherheit für meine Karriere und meine Region. Stillstand ist auch keine Lösung.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet im Programm die Anerkennung fossiler Energieträger und den Fokus auf Versorgungssicherheit als Entlastung für seinen aktuellen Job. Die pauschale Ablehnung der Klimapolitik ohne Transformationspfad lässt ihn aber ohne konkrete Perspektive für die Zeit nach fossilen Energieträgern, was seine eigentliche Hauptsorge ist.",
+    "score": 1
+  }
+}

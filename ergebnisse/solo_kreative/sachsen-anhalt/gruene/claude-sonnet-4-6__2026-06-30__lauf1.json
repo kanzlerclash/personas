@@ -1,0 +1,126 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Freie Theater und Spielstätten stärken",
+      "thema": "bildung",
+      "programmpunkt": "Freie Theater und Spielstätten sollen gezielt unterstützt werden, was den kulturellen Sektor stärkt, in dem Kreative wie Mareike tätig sind",
+      "seite": 70,
+      "zitat": "freie Theater und Spielstätten gezielt unterstützen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Kreative ist Mareike Teil eines Ökosystems, das auf institutionelle Kulturförderung angewiesen ist. Die Unterstützung freier Theater und Spielstätten stärkt die Auftraggeber- und Vernetzungsstruktur, von der auch freischaffende Designerinnen und Contentproduzentinnen profitieren.",
+      "begruendung_selbst": "Wenn freie Theater und Spielstätten mehr Geld bekommen, entstehen auch mehr Aufträge für Leute wie mich — für Grafikdesign, Kommunikation, Bühnenvisualisierung. Das ist mein Markt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kultur stiftet Identität und Zugehörigkeit",
+      "thema": "bildung",
+      "programmpunkt": "Kultur wird als identitätsstiftend und gemeinschaftsbildend anerkannt — eine grundlegende Wertschätzung kreativer Arbeit",
+      "seite": 69,
+      "zitat": "Kultur stiftet Identität, schafft Zugehörigkeit",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die programmatische Anerkennung von Kultur als gesellschaftliche Notwendigkeit — nicht als Luxus — stärkt die politische Legitimität von Fördergeldern und signalisiert Wertschätzung für Menschen, die in kreativen Berufen arbeiten.",
+      "begruendung_selbst": "Es ist nicht selbstverständlich, dass eine Partei in einem Wahlprogramm so klar sagt: Kultur ist keine Dekoration, sie ist Gesellschaft. Das merkt man sich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mutterschutz auch für Selbstständige",
+      "thema": "arbeit",
+      "programmpunkt": "Mutterschutz soll auch auf Selbstständige ausgeweitet werden, was eine konkrete Absicherungslücke für Soloselbstständige schließt",
+      "seite": 91,
+      "zitat": "Mutterschutz auch für Selbstständige",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist KSK-versichert, hat aber als Soloselbstständige keine arbeitsrechtlichen Schutzrechte bei Mutterschaft. Diese explizite Forderung adressiert eine reale Versorgungslücke, die ihr Leben direkt betrifft.",
+      "begruendung_selbst": "Das ist so eine simple Sache, die aber einen riesigen Unterschied macht. Als Selbstständige falle ich komplett raus wenn ich schwanger werde. Das endlich zu adressieren ist überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Projekte gegen Diskriminierung fördern",
+      "thema": "integration",
+      "programmpunkt": "Projekte gegen Diskriminierung sollen unterstützt werden, was das gesellschaftliche Umfeld für diverse Kreative verbessert",
+      "seite": 75,
+      "zitat": "Projekte gegen Diskriminierung unterstützen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für eine freischaffende Kreative, die in diversen Milieus und Netzwerken tätig ist, ist das gesellschaftliche Klima der Offenheit und Antidiskriminierung relevant — sowohl als Wert als auch als Standortfaktor für kulturelle Szenen.",
+      "begruendung_selbst": "Eine Gesellschaft, die Diskriminierung aktiv bekämpft, ist auch eine, in der ich gerne arbeite und Aufträge annehme. Das klingt abstrakt, ist aber sehr konkret für meinen Alltag.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "KSK bleibt unerwähnt im Programm",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm enthält keine spezifischen Maßnahmen zur Stärkung oder Entlastung der Künstlersozialkasse oder zur Verbesserung der Lage von KSK-Versicherten",
+      "seite": 76,
+      "zitat": "faire Löhne, anständige Arbeitsbedingungen und echte Mitbestimmung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl das Programm faire Arbeitsbedingungen fordert, bleibt die spezifische Situation von KSK-Versicherten völlig unberücksichtigt. Für Mareike ist die KSK der zentrale Absicherungsmechanismus — die Lücke im Programm ist erheblich.",
+      "begruendung_selbst": "Faire Löhne und Mitbestimmung — das klingt toll, aber ich habe keinen Betriebsrat und keinen Arbeitgeber. Was Grüne konkret für KSK-Versicherte tun wollen, steht da nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Altersvorsorge für Selbstständige",
+      "thema": "arbeit",
+      "programmpunkt": "Konkrete Maßnahmen zur Altersabsicherung von Soloselbstständigen fehlen im Programm vollständig",
+      "seite": 88,
+      "zitat": "starke Wirtschaft, die ökologisch und sozial gerecht ist",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike sorgt sich massiv um ihre Altersvorsorge, da sie als Soloselbstständige keine betriebliche Rente hat und die KSK-Rente allein nicht trägt. Das Programm adressiert soziale Gerechtigkeit allgemein, aber konkrete Lösungen für diese strukturelle Lücke fehlen.",
+      "begruendung_selbst": "Sozial gerecht klingt gut, aber was ist mit meiner Rente? Ich zahle KSK-Beiträge, habe kein Eigenkapital, keine Betriebsrente. Das Thema kommt im Programm überhaupt nicht vor.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Subventionsabbau trifft Kreativförderung",
+      "thema": "wirtschaft",
+      "programmpunkt": "Der pauschale Abbau von als schädlich definierten Subventionen könnte indirekt auch Kulturförderinstrumente betreffen",
+      "seite": 96,
+      "zitat": "umwelt- und klimaschädliche Subventionen konsequent abzubauen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl Kulturförderung nicht explizit gemeint ist, schafft die Rhetorik des pauschalen Subventionsabbaus Unsicherheit darüber, welche Fördertöpfe politisch unter Druck geraten könnten — ein strukturelles Risiko für die Kulturszene.",
+      "begruendung_selbst": "Wenn Subventionen pauschal auf den Prüfstand kommen, frage ich mich immer: Was ist als nächstes dran? Kulturförderung hat selten eine mächtige Lobby.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "SA-Programm für Berlinerin kaum relevant",
+      "thema": "wirtschaft",
+      "programmpunkt": "Als in Berlin lebende Soloselbstständige ist Mareike von einem sachsen-anhaltischen Landesprogramm strukturell kaum direkt betroffen",
+      "seite": 89,
+      "zitat": "moderne Dorfzentren, die verschiedene Angebote wie Dorfgemeinschaftsläden, Co-Working-Plätze",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Das Programm richtet sich an Sachsen-Anhalt und adressiert ländliche Strukturen, Dorfzentren und regionale Wirtschaft. Für eine in Berlin lebende Kreative entfalten diese Maßnahmen keine direkten Wirkungen auf ihren Alltag oder ihr Einkommen.",
+      "begruendung_selbst": "Ich bin aus Berlin — Co-Working-Plätze in Dorfgemeinschaftszentren in Sachsen-Anhalt sind nicht mein Alltag. Das Programm spricht mich geografisch kaum an.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Grünen-Programm bietet Mareike mit dem Mutterschutz für Selbstständige einen echten und seltenen programmatischen Treffer sowie eine starke kulturpolitische Grundhaltung, die ihr Tätigkeitsfeld aufwertet. Entscheidende Lücken bleiben aber: KSK-Stärkung, Altersvorsorge für Soloselbstständige und konkrete Einkommenssicherung im Krankheitsfall fehlen vollständig. Als Berlinerin bleibt zudem das SA-Landesprogramm strukturell auf Distanz zu ihrem Alltag, sodass selbst gut gemeinte regionale Maßnahmen sie kaum direkt erreichen.",
+    "score": 0
+  }
+}

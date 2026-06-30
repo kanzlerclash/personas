@@ -1,0 +1,125 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Alleinerziehende werden gesehen!",
+      "thema": "familie",
+      "programmpunkt": "Gezielte Entlastung Alleinerziehender, faire steuerliche Entlastung und ausgebaute Beratungs- und Unterstützungsangebote.",
+      "seite": 31,
+      "zitat": "faire steuerliche Entlastung Alleinerziehender",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine zählt zu den besonders belasteten Familien; eine ausdrückliche Entlastung Alleinerziehender adressiert ihre Lage direkt und respektvoll.",
+      "begruendung_selbst": "Endlich redet mal jemand über uns Alleinerziehende. Jeder Euro mehr im Monat macht bei mir einen echten Unterschied.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bezahlbare Betreuung - ja bitte!",
+      "thema": "familie",
+      "programmpunkt": "Flächendeckende, hochwertige und bezahlbare Kinderbetreuung als zentrales Anliegen.",
+      "seite": 31,
+      "zitat": "qualitativ hochwertige und bezahlbare Kinderbetreuung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Verlässliche, bezahlbare Betreuung ist Nadines Bedingung, um mehr arbeiten zu können; das Anliegen trifft ihren Alltag im Kern.",
+      "begruendung_selbst": "Gebt mir einen verlässlichen, bezahlbaren Platz, dann kann ich auch mehr arbeiten. Genau daran hängt alles bei mir.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Familienmodell zählt auch!",
+      "thema": "familie",
+      "programmpunkt": "Familienpolitik, die Familien unabhängig von ihrer Form stärkt und Eltern frei entscheiden lässt.",
+      "seite": 31,
+      "zitat": "unabhängig davon, in welcher Form sie gelebt wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine ist empfindlich gegenüber einem engen Familienbild; die Anerkennung aller Familienformen nimmt ihr das Gefühl, als 'nicht richtig' zu gelten.",
+      "begruendung_selbst": "Wir sind eine richtige Familie, auch ohne Vater im Haus. Dass das anerkannt wird, tut gut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ganztag bis zur Schule - gut!",
+      "thema": "bildung",
+      "programmpunkt": "Umsetzung des Rechtsanspruchs auf Ganztagsbetreuung ab 2026 und bessere Vernetzung von Hort und Grundschule.",
+      "seite": 49,
+      "zitat": "Rechtsanspruch auf Ganztagsbetreuung ab 2026",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit zwei Kindern (4 und 8) braucht Nadine verlässliche Betreuungszeiten; ein Ganztagsanspruch sichert die Vereinbarkeit mit ihrem Job.",
+      "begruendung_selbst": "Ohne Ganztag krieg ich Arbeit und Kinder nicht unter einen Hut. Der Anspruch ist für mich Gold wert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Angebote nach dem Unterricht.",
+      "thema": "bildung",
+      "programmpunkt": "Stärkung und Ausbau von Nachmittagsangeboten an Schulen und Horten für faire Bildungschancen.",
+      "seite": 20,
+      "zitat": "Nachmittagsangebote an Schulen und Horten stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine setzt auf Bildung als Chance für ihre Kinder; ausgebaute Nachmittagsangebote fördern sie unabhängig vom knappen Familienbudget.",
+      "begruendung_selbst": "Ich kann meinen Kindern nicht alles bezahlen. Wenn die Schule nachmittags fördert, haben sie trotzdem ihre Chance.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Schon wieder unter Verdacht.",
+      "thema": "gesundheit",
+      "programmpunkt": "Verpflichtende Bürgerarbeit: Wer arbeitsfähig ist und Leistungen bezieht, soll gemeinnützig etwas zurückgeben müssen.",
+      "seite": 30,
+      "zitat": "der muss auch etwas zurückgeben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine arbeitet und stockt nur auf; die Logik des 'Zurückgebens' trifft sie als pauschalen Verdacht gegen Leistungsbeziehende.",
+      "begruendung_selbst": "Ich arbeite und kümmere mich - und trotzdem klingt das, als wäre ich faul. Das verletzt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zwang statt Freiwilligkeit.",
+      "thema": "gesundheit",
+      "programmpunkt": "Teilnahme an Arbeitsmarktprogrammen soll für arbeitsfähige Leistungsbezieher nicht mehr freiwillig sein.",
+      "seite": 31,
+      "zitat": "nicht länger vom Prinzip der Freiwilligkeit abhängig sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine fürchtet Verschärfungen und Sanktionen; ein Ende der Freiwilligkeit erhöht den Druck auf Menschen in ihrer Lage.",
+      "begruendung_selbst": "Ich brauche keinen Zwang, sondern einen Betreuungsplatz. Mehr Druck hilft mir und meinen Kindern überhaupt nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mieten dem Markt überlassen?",
+      "thema": "wohnen",
+      "programmpunkt": "Ablehnung von Mietpreisdeckel und anderen Markteingriffen, Fokus auf Eigentum und sozialen Wohnungsbau.",
+      "seite": 65,
+      "zitat": "lehnen ideologisch motivierte Markteingriffe wie Mietpreisdeckel",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Miete frisst Nadines Budget; das Nein zu Mietregulierung lässt sie steigenden Mieten ohne Schutz ausgesetzt.",
+      "begruendung_selbst": "Die Miete ist mein größtes Problem. Wenn da nichts begrenzt wird, weiß ich nicht, wie ich das halten soll.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine erlebt das Programm zwiespältig: Die ausdrückliche Entlastung Alleinerziehender, bezahlbare Betreuung, der Ganztagsanspruch und die Anerkennung aller Familienformen treffen ihren Alltag positiv. Zugleich verletzt sie die verpflichtende Bürgerarbeit-Logik und das Nein zur Mietregulierung lässt ihre größte Kostenangst ungeschützt - unterm Strich ein Gleichgewicht.",
+    "score": 0
+  }
+}

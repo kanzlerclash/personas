@@ -1,0 +1,77 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mehr Kollegen auf der Straße!",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm will die Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken und mehr Personal für die Verbrechensbekämpfung einsetzen.",
+      "seite": 9,
+      "zitat": "Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet täglich unter Personalmangel, Überlastung und fehlender Rückendeckung; eine konkrete Aufstockungszahl ist aus seiner Sicht ein ernst gemeintes Signal, nicht nur ein politisches Versprechen.",
+      "begruendung_selbst": "Wir sollen für Sicherheit sorgen – gebt uns die Leute und die Ausstattung, die das überhaupt möglich machen. Eine klare Zahl, keine Floskeln – das höre ich gern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich echte Verbrechen verfolgen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm will die Polizei auf schwere Straftaten konzentrieren statt auf Meinungsäußerungen und sogenannte Meinungsdelikte.",
+      "seite": 9,
+      "zitat": "Polizei muss deshalb wieder ihr Hauptaugenmerk auf die Bekämpfung echter Verbrechen legen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco empfindet den Einsatz von Polizeikapazitäten für fragwürdige Meinungsdelikte als Fehleinsatz; der Fokus auf echte Straftaten entspricht seinem Bild einer effektiven Polizeiarbeit.",
+      "begruendung_selbst": "Wenn ich Einbrüche bearbeite und gleichzeitig Staatsschutzdelikte für Online-Kommentare, dann reicht das Personal hinten und vorne nicht. Ich will mich auf das konzentrieren, was wirklich schadet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Polizei wieder respektiert!",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm will durch Respekt und Aufgabenneuausrichtung dafür sorgen, dass die Polizei wieder als Freund und Helfer wahrgenommen wird.",
+      "seite": 9,
+      "zitat": "sie von den Bürgern wieder als Freund und Helfer wahrgenommen wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet unter dem gesunkenen Respekt gegenüber Einsatzkräften und pauschaler Polizeikritik; ein klares Bekenntnis zur Institution spricht ihn direkt an.",
+      "begruendung_selbst": "Ich mache diesen Job, weil ich die Bürger schützen will. Wenn mich jemand beim Einsatz anpöbelt oder die Politik mich pauschalisiert – das zerrt an einem. Rückendeckung bedeutet mir etwas.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Verfassungsschutz soll Gegner schützen?",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm will den Verfassungsschutz grundlegend reformieren, damit er nicht mehr die AfD als Opposition verfolgt – eine Partei, die selber vom VS beobachtet wird.",
+      "seite": 11,
+      "zitat": "Für einen Verfassungsschutz, der die Verfassung schützt!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht den Verfassungsschutz als wichtige Säule der wehrhaften Demokratie; Pläne, ihn politisch umzubauen von einer Partei, die selber als Beobachtungsobjekt gilt, erzeugen bei ihm institutionelles Misstrauen.",
+      "begruendung_selbst": "Mir ist egal, von welcher Seite es kommt: Wer den Rechtsstaat schwächt, macht meinen Job gefährlicher. Wenn die selber beobachtet werden und den VS umbauen wollen – das macht mich vorsichtig.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco findet konkrete Punkte, die seinen Berufsalltag direkt adressieren: mehr Personal, Fokus auf schwere Straftaten und Respekt für die Institution. Gleichzeitig erzeugt sein Institutionenverständnis Unbehagen bei der geplanten Verfassungsschutzreform durch eine Partei, die selbst Beobachtungsgegenstand ist. Unterm Strich ist das Bild geteilt.",
+    "score": 0
+  }
+}

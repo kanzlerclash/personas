@@ -1,0 +1,101 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Landarztquote bleibt",
+      "thema": "gesundheit",
+      "programmpunkt": "Landarzt-, Amts- und Landzahnarztquote werden fortgeführt, um Ärzte für den ländlichen Raum zu gewinnen.",
+      "seite": 14,
+      "zitat": "Landarzt - , Amtsarzt - und Landzahnarztquote werden fortgeführt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra findet keine Praxisnachfolge; die Fortführung der Landarztquote zielt auf genau den Nachwuchs, von dem die Zukunft ihrer Patient:innen abhängt.",
+      "begruendung_selbst": "Die Landarztquote ist eine der wenigen Stellschrauben, die wirklich Nachwuchs aufs Land bringen kann. Gut, dass daran festgehalten wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Entlastung der Ärzte",
+      "thema": "gesundheit",
+      "programmpunkt": "Gesundheitsberufe sollen durch Aufgabenverlagerung mehr Verantwortung übernehmen, auch zur Entlastung der Ärztinnen und Ärzte.",
+      "seite": 12,
+      "zitat": "auch zur Entlastung von Ärztinnen und Ärzten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra ist zeitlich am Limit; eine Aufgabenverlagerung auf andere Gesundheitsberufe verspricht ihr konkrete Entlastung im überfüllten Praxisalltag.",
+      "begruendung_selbst": "Wenn qualifizierte Kräfte mir Aufgaben abnehmen dürfen, habe ich endlich wieder mehr Zeit für das, wofür ich Ärztin geworden bin.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung statt Rendite",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Krankenhauslandschaft soll sich an Qualität und Erreichbarkeit orientieren, nicht an Kapitalinteressen.",
+      "seite": 12,
+      "zitat": "Qualität, Erreichbarkeit und Wirtschaftlichkeit orientiert und nicht an Kapitalinteressen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra hält Rendite-Logik für unvereinbar mit ländlicher Grundversorgung; eine an Versorgung statt Kapital ausgerichtete Krankenhauspolitik entspricht ihrer Haltung.",
+      "begruendung_selbst": "Grundversorgung darf sich nicht rechnen müssen. Dass Versorgung über Rendite gestellt wird, sehe ich genauso.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verwaltung endlich vereinfachen",
+      "thema": "demokratie",
+      "programmpunkt": "Mit der Neuordnung der Gesundheits- und Sozialverwaltung soll das Verwaltungshandeln vereinfacht und die Antragsbearbeitung verkürzt werden.",
+      "seite": 16,
+      "zitat": "das Verwaltungshandeln deutlich vereinfachen und die Antragsbearbeitung verkürzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra verbringt halbe Tage mit Bürokratie; eine vereinfachte Gesundheitsverwaltung mit kürzeren Verfahren trifft ihre größte Belastung neben dem Zeitmangel.",
+      "begruendung_selbst": "Wenn die Bürokratie wirklich schlanker wird, gewinne ich Stunden zurück, die ich heute mit Formularen verliere.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung in die Fläche bringen",
+      "thema": "verkehr",
+      "programmpunkt": "Mobile Angebote, regionale Versorgungszentren und digitale Unterstützung sollen Versorgung im ländlichen Raum sichern.",
+      "seite": 16,
+      "zitat": "Mobile Angebote, regionale Versorgungszentren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Lange Wege und ausdünnende Versorgung prägen Dr. Petras Region; mobile und regionale Versorgungsformen adressieren genau die Erreichbarkeit für ihre alternden Patient:innen.",
+      "begruendung_selbst": "Meine Patienten haben weite Wege. Mobile Angebote und regionale Zentren sind genau das, was die Versorgung auf dem Land am Leben hält.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Rekommunalisierung löst keinen Ärztemangel",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Land will bei Rekommunalisierungen von Kliniken finanzielle Unterstützung leisten.",
+      "seite": 12,
+      "zitat": "bei erforderlichen Rekommunalisierungen finanzielle Unterstützung leisten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra teilt die Skepsis gegenüber Ökonomisierung, ist aber ebenso misstrauisch gegenüber Verstaatlichungsideen, die mehr Aufwand statt mehr Versorgung bringen; Rekommunalisierung adressiert für sie nicht das eigentliche Problem, den Personal- und Nachfolgemangel.",
+      "begruendung_selbst": "Wem gehört die Klinik, ist nicht meine Frage. Ob jemand da ist, der behandelt, schon. Rekommunalisierung allein bringt mir keinen Nachfolger.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra sieht ihre Kernthemen breit aufgegriffen: fortgeführte Landarztquote, Entlastung der Ärzte durch Aufgabenverlagerung, eine an Versorgung statt Kapital orientierte Krankenhauspolitik, vereinfachte Gesundheitsverwaltung und mobile Versorgung in der Fläche. Skeptisch bleibt sie, weil Rekommunalisierung ihr eigentliches Problem - Personal- und Praxisnachfolgemangel - nicht löst und sie solche Ankündigungen seit Jahren kennt. Für die ernüchterte, aber sachorientierte Landärztin überwiegt vorsichtig der Zuspruch.",
+    "score": 1
+  }
+}

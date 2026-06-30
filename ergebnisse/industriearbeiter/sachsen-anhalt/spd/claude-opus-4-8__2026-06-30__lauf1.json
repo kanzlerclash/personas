@@ -1,0 +1,113 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Tariflöhne in allen Branchen",
+      "thema": "arbeit",
+      "programmpunkt": "Die SPD setzt sich für Tariflöhne in allen Branchen und den Schutz vor prekärer Beschäftigung ein.",
+      "seite": 4,
+      "zitat": "Tariflöhne in allen Branchen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Gewerkschafter mit tarifgebundenem Einkommen ist gute, fair entlohnte Arbeit Uwes Kernwert; das ausdrückliche Bekenntnis zu Tariflöhnen trifft sein zentrales Anliegen.",
+      "begruendung_selbst": "Tarif ist für mich keine Verhandlungssache. Wenn das in allen Branchen gelten soll, kämpft die Partei für genau das, wofür ich stehe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tariftreue bei der Vergabe",
+      "thema": "arbeit",
+      "programmpunkt": "Mit dem Tariftreue- und Vergabegesetz wird die Tarifbindung im Land gestärkt und nicht abgeschafft.",
+      "seite": 8,
+      "zitat": "Mit dem Tariftreue - und Vergabegesetz stärken wir die Tarifbindung im Land.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe verteidigt gute Löhne und Tarifbindung; ein Gesetz, das öffentliche Aufträge an Tariftreue knüpft, ist aus seiner gewerkschaftlichen Sicht genau das richtige Instrument.",
+      "begruendung_selbst": "Wer öffentliche Aufträge will, soll Tarif zahlen. Punkt. Dass das festgeschrieben und nicht aufgeweicht wird, ist ein starkes Signal.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitbestimmung wird verteidigt",
+      "thema": "arbeit",
+      "programmpunkt": "Unternehmen, die Mitbestimmung behindern, sollen von Förderung ausgeschlossen werden.",
+      "seite": 8,
+      "zitat": "Unternehmen, die Mitbestimmung systematisch behindern, sollen von staatlichen Förderungen ausgeschlossen werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mitbestimmung ist für den Betriebsrat Uwe zentral; dass Mitbestimmungsverweigerer Förderungen verlieren sollen, gibt seiner Arbeit Rückhalt durch das Land.",
+      "begruendung_selbst": "Endlich Konsequenzen für Betriebe, die Betriebsräte verhindern. Das stärkt uns den Rücken bei der Arbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Die Chemie bleibt unser Brot",
+      "thema": "wirtschaft",
+      "programmpunkt": "Der industrielle Kern im Chemiedreieck wird als Sicherung tausender Arbeitsplätze mit höchster Priorität unterstützt.",
+      "seite": 6,
+      "zitat": "Lohn und Brot für tausende Menschen in Sachsen - Anhalt sichert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes Wohlstand hängt am Bestand der Chemie-/Schwerindustrie; dass das Programm den Chemiestandort als existenziell für die Region anerkennt, trifft seine größte Sorge.",
+      "begruendung_selbst": "Die Chemie hier ernährt ganze Familien, auch meine. Dass das ernst genommen und mit Priorität behandelt wird, beruhigt mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keiner bleibt zurück",
+      "thema": "klima",
+      "programmpunkt": "Der Strukturwandel soll niemanden zurücklassen, mit Investitionen in neue Jobs und Umschulungen.",
+      "seite": 6,
+      "zitat": "Strukturwandel darf niemanden zurücklassen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe akzeptiert den Wandel, fürchtet aber, dass er auf dem Rücken der Beschäftigten geschieht; das Versprechen, niemanden zurückzulassen, entspricht exakt seiner Bedingung.",
+      "begruendung_selbst": "Wandel ja - aber nicht so, dass meine Kollegen auf der Strecke bleiben. Genau das verspricht der Satz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bezahlbare Energie für die Industrie",
+      "thema": "energie",
+      "programmpunkt": "Netzentgelte sollen weitgehend gedeckelt und die Stromsteuer gesenkt werden, für die Wettbewerbsfähigkeit der Industrie.",
+      "seite": 5,
+      "zitat": "eine weitgehende Deckelung der Netzentgelte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht hohe Energiepreise als Jobgefahr für seine Branche; konkrete Entlastung bei Netzentgelten und Stromsteuer adressiert die Wettbewerbsfähigkeit, an der sein Arbeitsplatz hängt.",
+      "begruendung_selbst": "Wenn der Strom die Anlagen unbezahlbar macht, ist mein Job weg. Eine Deckelung der Netzentgelte ist also direkt Jobsicherung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Falsches Tempo gefährdet Jobs",
+      "thema": "klima",
+      "programmpunkt": "Ein Klimaschutzgesetz mit verbindlichen Reduktionspfaden soll Verbindlichkeit schaffen.",
+      "seite": 22,
+      "zitat": "Ein Klimaschutzgesetz schafft Verbindlichkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe trägt die Richtung mit, fürchtet aber das Tempo; verbindliche Reduktionspfade für emissionsintensive Branchen wie die Chemie wecken bei ihm die Sorge, dass Vorgaben schneller greifen, als tragfähiger Ersatz da ist.",
+      "begruendung_selbst": "Verbindliche Pfade klingen gut am Schreibtisch. Aber wenn der Druck schneller kommt als der Umbau, kostet das in meiner Branche Arbeitsplätze.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet sein gewerkschaftliches Herz im Programm wieder: Tariflöhne, Tariftreuegesetz, gestärkte Mitbestimmung, ein klares Bekenntnis zum Chemiestandort, sozial abgesicherter Strukturwandel und Energiepreis-Entlastung für die Industrie treffen seine Kernanliegen fast vollständig. Seine grundsätzliche Sorge - das Tempo der Transformation - bleibt, wird aber durch die starke soziale und industriepolitische Rahmung weitgehend aufgefangen. Für den arbeitnehmerorientierten Facharbeiter überwiegt der Zuspruch deutlich.",
+    "score": 2
+  }
+}

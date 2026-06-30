@@ -1,0 +1,101 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kohleausstieg 2038 bleibt!",
+      "thema": "klima",
+      "programmpunkt": "Die CDU hält am vereinbarten Kohleausstieg bis 2038 als politisch und rechtlich verabredetem Konsens fest.",
+      "seite": 45,
+      "zitat": "vereinbarte Kohleausstieg bis 2038 ist ein politisch und rechtlich verabredeter Konsens",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule bewertet jede Abkehr vom vereinbarten Kohleausstieg als Rückschritt. Das klare Festhalten am 2038-Datum ist für sie ein minimaler Stabilisierungspunkt – auch wenn das Tempo aus ihrer Sicht viel zu langsam ist.",
+      "begruendung_selbst": "2038 ist viel zu spät. Aber wenigstens rückt die CDU hier nicht weiter zurück. Das ist kein Lob, das ist nur: nicht noch schlechter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Politische Bildung stärken – gut!",
+      "thema": "demokratie",
+      "programmpunkt": "Politische Bildung soll gezielt gestärkt und neu ausgerichtet werden, mit mehr Sachlichkeit und stärkerer Präsenz im Alltag.",
+      "seite": 25,
+      "zitat": "politische Bildung in Sachsen - Anhalt gezielt stärken und neu ausrichten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule sieht in einer starken demokratischen Bildung ein Instrument gegen Extremismus und für ihre Vorstellung einer vielfältigen Gesellschaft. Diese Formulierung ist allgemein genug, dass sie zustimmen kann.",
+      "begruendung_selbst": "Wenn mehr Leute wissen, wie Demokratie funktioniert, ist das gut – egal wer das fordert. Das brauchen wir gerade dringend.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klima-Vorgaben als 'Ideologie' abtun!",
+      "thema": "klima",
+      "programmpunkt": "Die CDU will praxisferne und ideologisch getriebene Vorgaben für die Industrie zurückdrängen, darunter Taxonomieverordnung, Lieferkettengesetz und CO2-Abgaben.",
+      "seite": 90,
+      "zitat": "praxisferne und ideologisch getriebene Vorgaben für unsere Industrie",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule empfindet die Rahmung von Klimaschutzmaßnahmen als 'ideologisch' als grundlegende Fehleinschätzung. Das Zurückdrängen von CO2-Abgaben und Umweltstandards gefährdet aus ihrer Sicht ihre Zukunft direkt.",
+      "begruendung_selbst": "Es geht nicht um Ideologie – es geht darum, ob ich in zwanzig Jahren noch eine lebenswerte Zukunft habe. Wer Klimaschutz als Ideologie abtut, hat das Problem nicht verstanden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verbrenner-Aus ablehnen – rückwärts!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU lehnt ein pauschales Verbrenner-Verbot ab und setzt auf Technologieoffenheit statt verbindliche Umstiegspflichten.",
+      "seite": 17,
+      "zitat": "sprechen uns gegen ein pauschales Verbrenner - Verbot aus",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht das Festhalten am Verbrenner als Blockade der notwendigen Verkehrswende. Für sie bedeutet 'Technologieoffenheit' in diesem Kontext, den fossilen Status quo länger zu konservieren.",
+      "begruendung_selbst": "Technologieoffenheit klingt neutral, ist es aber nicht. Im Zweifel bedeutet es: Verbrenner bleibt, Klimawandel auch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gendersprache abgelehnt – Signal!",
+      "thema": "familie",
+      "programmpunkt": "Die CDU wendet sich gegen ein Genderverständnis, das Gleichwertigkeit der Geschlechter durch Sprachregelungen ausdrücken will, und bezeichnet dies als Symbolpolitik ohne Akzeptanz.",
+      "seite": 33,
+      "zitat": "wenden uns gegen ein Genderverständnis, das die Gleichwertigkeit der Geschlechter durch Sprachregelungen auszudrücken versucht",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule erlebt inklusive Sprache als Anerkennung ihrer Existenz und die queerer Menschen generell. Die öffentliche Ablehnung dieser Praxis durch die CDU sendet aus ihrer Sicht ein ausschließendes Signal.",
+      "begruendung_selbst": "Wenn eine Partei sagt, dass die Sprache, die mich sichtbar macht, abzulehnen ist – dann weiß ich genug. Das ist nicht Symbolpolitik, das ist ein Signal.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein BAföG, kein Wohnversprechen!",
+      "thema": "bildung",
+      "programmpunkt": "Das Programm enthält keine konkreten Maßnahmen zur BAföG-Erhöhung oder zur Studienfinanzierung; Hochschulpolitik konzentriert sich auf Wettbewerbsfähigkeit und Wirtschaftsanbindung.",
+      "seite": 76,
+      "zitat": "marktfähige, in der Wirtschaft dringend benötigte Absolventinnen und Absolventen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule lebt am finanziellen Limit und benötigt konkrete Verbesserungen bei BAföG und Studienfinanzierung. Das Programm adressiert Hochschulpolitik fast ausschließlich wirtschaftsbezogen, ohne ihre Lebenslage zu berühren.",
+      "begruendung_selbst": "Ich lebe von 450 Euro plus BAföG und hoffe, dass am Monatsende noch etwas übrig ist. Das Programm redet über Wirtschaft und Wettbewerb – nicht über mich.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule findet im CDU-Programm wenig, das ihr zustimmt: Klimaschutzmaßnahmen werden als 'ideologisch' abgetan, ein Verbrenner-Verbot abgelehnt und inklusive Sprache öffentlich als Symbolpolitik bewertet. Die Ablehnung geschlechtsneutraler Sprache und das Fehlen jeglicher Maßnahmen zu BAföG oder Studienfinanzierung verstärken das Bild einer Partei, die ihr Lebensmodell nicht anerkennt und ihre Zukunftssorgen nicht ernst nimmt.",
+    "score": -2
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Unterhalt – endlich bedingungslos!",
+      "thema": "familie",
+      "programmpunkt": "Die Linke will den Unterhaltsvorschuss bedingungslos für alle verfügbar machen, die ihn benötigen, und die Anrechnung des Kindergelds auf den Unterhaltsvorschuss abschaffen.",
+      "seite": 21,
+      "zitat": "der Unterhaltsvorschuss bedingungslos für alle verfügbar sein muss, die ihn benötigen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine kämpft mit dem Unterhaltsvorschuss und dessen Anrechnung, die ihr finanziellen Spielraum entzieht. Ein bedingungsloser Zugang würde ihren monatlichen Haushalt direkt stabilisieren.",
+      "begruendung_selbst": "Ich kämpfe jeden Monat. Wenn der Unterhaltsvorschuss einfach da wäre – ohne Formulare und Sonderregeln – würde sich sofort was ändern bei uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "24 Monate Elterngeld – das ist fair",
+      "thema": "familie",
+      "programmpunkt": "Die Linke will Alleinerziehenden einen Anspruch auf 24 Monate Elterngeld einräumen – länger als für Paare – und Betrieben Freistellungen bei Notfallbetreuung ermöglichen.",
+      "seite": 21,
+      "zitat": "Alleinerziehende einen Anspruch auf 24 Monate Elterngeld erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Alleinerziehende trägt Nadine die gesamte Betreuungsarbeit allein. Eine verlängerte Elterngeldlaufzeit erkennt diese doppelte Last explizit an und gibt ihr mehr Planungssicherheit.",
+      "begruendung_selbst": "Ich mach alles alleine. Dann ist es doch logisch, dass ich auch mehr Elternzeit brauche. Endlich sagt das mal wer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita kostenlos – das entlastet uns wirklich",
+      "thema": "bildung",
+      "programmpunkt": "Die Linke will Kita-Bildung beitragsfrei machen, einen Rechtsanspruch auf zehn Stunden ganztägige Betreuung einführen und die Personalschlüssel verbessern.",
+      "seite": 29,
+      "zitat": "die Bildung in Kindertageseinrichtungen für alle Eltern beitragsfrei wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kita-Beiträge sind für Nadine ein monatlicher Druckposten. Beitragsfreiheit kombiniert mit einem verlässlichen Rechtsanspruch auf zehn Stunden würde ihr ermöglichen, mehr zu arbeiten und mehr zu verdienen.",
+      "begruendung_selbst": "Wenn die Kita nichts kostet und ich weiß, dass meine Kleine zehn Stunden betreut ist, kann ich wirklich arbeiten. Das wäre das, was ich brauche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kindergrundsicherung – ohne Behördenhölle",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will eine armutsfeste, eigenständige und sanktionsfreie Kindergrundsicherung in Höhe von mindestens 630 Euro monatlich einführen, niedrigschwellig zugänglich.",
+      "seite": 45,
+      "zitat": "eine armutsfeste, eigenständige und sanktionsfreie Kindergrundsicherung in Höhe von mindestens 630 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines Kinder brauchen verlässliche finanzielle Unterstützung. 630 Euro pro Kind und Monat, ohne Sanktionen und ohne bürokratische Hürden, würden ihre Haushaltslage grundlegend verändern.",
+      "begruendung_selbst": "630 Euro pro Kind – sanktionsfrei und ohne fünf Formulare? Das wäre ein echter Unterschied. Nicht Almosen, sondern verlässliche Unterstützung für meine Kinder.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld ohne Bestrafung",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke will eine existenzsichernde Grundsicherung ohne Sanktionen und Schikanen und bekämpft die Abwertung von Beziehenden als 'Sozialschmarotzer'.",
+      "seite": 42,
+      "zitat": "existenzsichernden Grundsicherung ohne Sanktionen und Schikanen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine bezieht aufstockende Leistungen und empfindet die Sanktionsrhetorik als persönliche Diskriminierung. Das klare Bekenntnis zu Würde statt Misstrauen im Umgang mit Leistungsbeziehenden trifft sie emotional und praktisch.",
+      "begruendung_selbst": "Ich arbeite, ich kümmere mich, und trotzdem behandelt man mich wie eine Verdächtige. Wenn eine Partei sagt: keine Schikanen – dann weiß die, wie mein Alltag wirklich aussieht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Runder Tisch – wir reden selbst mit!",
+      "thema": "familie",
+      "programmpunkt": "Die Linke will einen Runden Tisch für Alleinerziehende einrichten, der es Elternteilen ermöglicht, politische Beschlüsse und deren Konsequenzen selbst zu überprüfen.",
+      "seite": 46,
+      "zitat": "einen Runden Tisch für Alleinerziehende",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine fühlt sich politisch übergangen – über sie wird geredet, nicht mit ihr. Ein institutionalisierter Beteiligungsmechanismus für Alleinerziehende entspricht ihrer Forderung nach Respekt statt Bevormundung.",
+      "begruendung_selbst": "Die meisten reden über uns, ohne zu wissen, wie das ist. Wenn ich selbst überprüfen kann, ob Beschlüsse wirklich ankommen – das wäre was anderes.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet im Programm der Linken fast punktgenaue Antworten auf ihre Lebenslage: Unterhaltsvorschuss ohne Wenn und Aber, verlängertes Elterngeld für Alleinerziehende, kostenlose Kita mit verlässlichem Rechtsanspruch, Kindergrundsicherung ohne Sanktionen und ein institutioneller Beteiligungsrahmen für Alleinerziehende. Die Linke adressiert nicht nur einzelne Probleme, sondern nimmt auch die Würdeperspektive ernst, die Nadine in anderen politischen Angeboten vermisst. Für sie ist dieses Programm ein seltener Fall, in dem Politik tatsächlich ihre Realität zu kennen scheint.",
+    "score": 2
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Telemedizin auf dem Land – endlich!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will Medimobil und Telemedizin für die ambulante medizinische Versorgung auf dem Land einsetzen.",
+      "seite": 55,
+      "zitat": "Wir wollen den Einsatz von Medimobil und Telemedizin",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra sorgt sich darum, was nach ihrem Ausscheiden mit ihren Patienten im ländlichen Raum wird. Telemedizin und mobile Versorgungsmodelle sind für sie eine pragmatische Übergangslösung, die sie auch in ihrer laufenden Praxis interessiert – insbesondere für die alternde, mobilitätseingeschränkte Patientenschaft.",
+      "begruendung_selbst": "Das ist genau das Richtige für den ländlichen Raum. Wenn ich nicht mehr da bin, braucht es Strukturen, die auch ohne niedergelassenen Arzt vor Ort funktionieren. Telemedizin und ein Medimobil wären ein echter Anfang.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Ärzte aufs Land durch Quoten",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will dem Fachärztemangel durch Landarztquoten für Kinder- und Zahnärzte entgegenwirken und Haltefaktoren für Landeskinder ausbauen.",
+      "seite": 55,
+      "zitat": "Wir wirken dem Fachärztemangel durch weitere Landarztquoten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Nachfolgeproblem ist Dr. Petras drängendste Sorge. Landarztquoten greifen an der Wurzel: Sie verpflichten Absolventinnen und Absolventen zur Niederlassung in unterversorgten Gebieten. Das adressiert ihr Problem, wenn auch mit zeitlichem Vorlauf.",
+      "begruendung_selbst": "Landarztquoten sind kein schnelles Allheilmittel, aber sie helfen. Wenn mehr Studienabgänger gezielt auf das Land verpflichtet werden, steigt die Chance, dass sich irgendwann jemand findet, der meine Praxis übernimmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weg mit dem Fallpauschalen-Irrsinn",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will Krankenhäuser nach Bedarf und Qualität finanzieren und nicht nach Fallpauschalen, Profit oder Kostendruck.",
+      "seite": 48,
+      "zitat": "nicht nach Fallpauschalen, Profit oder Kostendruck",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Ökonomisierung des Gesundheitswesens steht Dr. Petra als Landärztin täglich vor Augen: Krankenhäuser in ihrer Region schließen Abteilungen, weil sie sich nicht 'rechnen'. Das Fallpauschalen-System zwingt zur Überbehandlung profitabler Fälle und treibt Häuser in die Insolvenz. Die Abschaffung dieses Mechanismus entspricht ihrer Grundüberzeugung, dass Versorgung kein Marktgeschäft ist.",
+      "begruendung_selbst": "Das Fallpauschalen-System hat das Gesundheitswesen kaputtgemacht. Jedes Krankenhaus optimiert für Abrechenbarkeit statt für Versorgung. Wenn das abgeschafft wird, ist das ein systemischer Schritt in die richtige Richtung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kommunale Versorgungszentren als Rückhalt",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will kommunale Versorgungszentren als Rückgrat der wohnortnahen Gesundheitsversorgung fördern, die ambulante, stationäre und notfallmedizinische Leistungen verbinden.",
+      "seite": 54,
+      "zitat": "Wir wollen kommunale Versorgungszentren als Rückgrat der wohnortnahen Gesundheitsversorgung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra sucht nach Strukturen, die nach ihrem Ausscheiden ihre Patientenschaft auffangen können. Kommunale Versorgungszentren, die ambulant und stationär verzahnen, könnten genau diese Funktion übernehmen – auch ohne eine klassische Einzelpraxis als Nachfolge.",
+      "begruendung_selbst": "Wenn ich gehe und keine Nachfolgerin gefunden wird, braucht meine Gemeinde irgendetwas. Ein kommunales Zentrum, das ambulant und notfallmedizinisch abdeckt, wäre keine perfekte Lösung – aber eine reale Alternative zur totalen Unterversorgung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Verstaatlichung heißt mehr Bürokratie",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will private Krankenhäuser in öffentliche Hand überführen und einen Klinikverbund mit Landesbeteiligung gründen.",
+      "seite": 49,
+      "zitat": "Wir engagieren uns für eine Überführung privater Krankenhäuser in die öffentliche Hand",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontraer",
+      "begruendung": "Dr. Petra ist pragmatisch und versorgungsorientiert. Für sie entscheidet die Frage nicht 'öffentlich oder privat', sondern 'funktioniert es oder nicht'. Verstaatlichungen und Klinikverbünde mit öffentlicher Landesbeteiligung bedeuten aus ihrer Erfahrung zunächst neue Verwaltungsebenen, Koordinationsprozesse und politische Einmischung – keine schnellere Hilfe für ihre Patienten.",
+      "begruendung_selbst": "Ich bin skeptisch. Öffentliche Trägerschaften können gut sein, müssen es aber nicht. Was ich aus der Praxis kenne, sind eher mehr Formulare, mehr Zuständigkeiten, mehr Reibung. Was ich brauche, ist schnelle Versorgung – egal unter welchem Dach.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Neue Steuer für niedergelassene Ärzte",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke will die Gewerbesteuer zur Gemeindewirtschaftssteuer ausweiten und dabei auch freiberufliche Tätigkeiten einbeziehen – bislang sind niedergelassene Ärzte als Freiberufler von der Gewerbesteuer befreit.",
+      "seite": 18,
+      "zitat": "mit einem einheitlichen Freibetrag von 24.500 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontraer",
+      "begruendung": "Niedergelassene Ärztinnen wie Dr. Petra sind als Freiberuflerinnen bislang gewerbesteuerbefreit. Die Ausweitung zur Gemeindewirtschaftssteuer würde erstmals alle selbstständig erwirtschafteten Einkommen erfassen. Bei einem praxistypischen Einkommen liegt sie deutlich über dem Freibetrag und würde eine neue kommunale Steuerlast tragen – zusätzlich zur ohnehin hohen Bürokratiebelastung.",
+      "begruendung_selbst": "Als Freiberuflerin zahle ich keine Gewerbesteuer – das war bisher so. Wenn das geändert wird, käme ein neuer Posten auf meine Praxisrechnung. Mehr Abgaben, mehr Bürokratie, mehr Verwaltung. Das brauche ich wirklich nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Dr. Petra als Landärztin ohne Nachfolge enthält das Linke-Programm in der Gesundheitsversorgung reale Substanz: Telemedizin, Landarztquoten und die Abkehr von der Fallpauschalen-Logik entsprechen ihrem Versorgungsauftrag. Der Vorbehalt ist strukturell: Das Programm setzt stark auf staatliche Trägerschaft und Verstaatlichung, ohne die bürokratische Belastung niedergelassener Einzelpraxen zu adressieren. Die geplante Gemeindewirtschaftssteuer würde zudem eine neue Abgabenpflicht für Freiberufler schaffen. Insgesamt reagiert das Programm auf das Problem ländlicher Unterversorgung, aber mit Mitteln, die Dr. Petra aus pragmatischer Sicht eher misstrauisch betrachtet.",
+    "score": 0
+  }
+}

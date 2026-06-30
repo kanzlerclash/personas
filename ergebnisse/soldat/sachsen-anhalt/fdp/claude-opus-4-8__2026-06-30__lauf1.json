@@ -1,0 +1,64 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Glaubwürdige Abschreckung, endlich",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Verteidigungsindustrie soll als zentrale Branche aufgebaut und die Rüstungsproduktion in Deutschland gestärkt werden.",
+      "seite": 9,
+      "zitat": "Zur Gewährleistung einer glaubwürdigen und resilienten Abschreckung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan erlebt Ausrüstungsmängel täglich; das Bekenntnis zu glaubwürdiger Abschreckung und einer starken Rüstungsbasis entspricht seinem Bedürfnis nach Einsatzfähigkeit.",
+      "begruendung_selbst": "Abschreckung funktioniert nur, wenn das Material da ist. Dass das ernst genommen wird, ist für meinen Auftrag entscheidend.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Forschung auch für die Verteidigung",
+      "thema": "verteidigung",
+      "programmpunkt": "Zivilklauseln werden abgelehnt, die Vernetzung von Hochschulen mit der Verteidigungsindustrie soll gestärkt werden.",
+      "seite": 10,
+      "zitat": "Zivilklauseln lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan sieht Verteidigung als legitime, ernste Aufgabe; die Ablehnung von Forschungsbeschränkungen stützt die Ausstattung und Innovation, von der seine Truppe abhängt.",
+      "begruendung_selbst": "Wer die Truppe ausrüsten will, darf Forschung dafür nicht ausschließen. Das ist Ernsthaftigkeit, die ich erwarte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wehrhafte Demokratie ernst gemeint",
+      "thema": "demokratie",
+      "programmpunkt": "Die Demokratie soll gegen autokratische Bedrohung, Cyberangriffe und Desinformation widerstandsfähig gemacht werden.",
+      "seite": 46,
+      "zitat": "Von außen etwa durch autokratische Regime, die Cyberangriffe und Desinformation nutzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan ist verfassungstreu und bündnisorientiert; die klare Benennung autokratischer Bedrohung deckt sich mit seiner Lageeinschätzung an der Ostflanke.",
+      "begruendung_selbst": "Die Bedrohung ist real, das spüre ich im Dienst. Gut, dass sie hier klar beim Namen genannt wird.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Als Landtagsprogramm berührt das Papier Stefans Kernthema Verteidigung nur am Rand, trifft dort aber seinen Nerv: das Bekenntnis zu glaubwürdiger Abschreckung, der Aufbau der Rüstungsindustrie, die Ablehnung von Zivilklauseln und die klare Benennung der autokratischen Bedrohung entsprechen seiner sicherheits- und bündnisorientierten Haltung. Gegenpositionen findet er keine, auch wenn konkrete Ausstattungs- und Besoldungsfragen Bundessache bleiben.",
+    "score": 1
+  }
+}

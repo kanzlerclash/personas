@@ -1,0 +1,88 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mehr Personal statt Sonntagsreden!",
+      "thema": "gesundheit",
+      "programmpunkt": "Verbesserte Arbeitsbedingungen mit mehr Personal, verlässlichen Dienstplänen und bedarfsgerechter Personalbemessung.",
+      "seite": 53,
+      "zitat": "verbesserte Arbeitsbedingungen mit mehr Personal",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin arbeitet auf einer chronisch unterbesetzten Station; konkrete Zusagen für mehr Personal und verlässliche Dienstpläne treffen ihren wichtigsten Wunsch.",
+      "begruendung_selbst": "Schickt uns Personal, keine warmen Worte – verlässliche Dienstpläne und mehr Hände sind genau das, was die Station braucht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich West-Lohn und Tarif!",
+      "thema": "arbeit",
+      "programmpunkt": "Angleichung der Löhne an das westdeutsche Niveau und verbindliche Tarifbindung in der Pflege.",
+      "seite": 51,
+      "zitat": "Angleichung der Löhne an das westdeutsche Niveau",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Gemessen an ihrer Belastung empfindet Kerstin ihren Lohn als zu niedrig; Lohnangleichung und Tarifbindung würden ihre Bezahlung spürbar verbessern.",
+      "begruendung_selbst": "Wir leisten dasselbe wie im Westen – dann will ich auch endlich denselben Lohn und einen verlässlichen Tarif.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ohne meine Kolleginnen läuft hier nichts!",
+      "thema": "integration",
+      "programmpunkt": "Anerkennung, dass die Pflege ohne Zuwanderung nicht mehr funktioniert; faire Arbeitsmigration und schnelle Anerkennung von Abschlüssen.",
+      "seite": 97,
+      "zitat": "die Branche ohne Zuwanderung nicht mehr funktionieren würde",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station hängt an migrantischen Kolleg:innen; dass das Programm Zuwanderung als unverzichtbar würdigt statt zum Problem zu erklären, deckt sich mit ihrer Sicht.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht – schön, dass das hier endlich jemand ausspricht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krankenhäuser raus aus der Rendite-Logik!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Überführung privater Krankenhäuser in öffentliche Hand und Finanzierung nach Bedarf statt nach Fallpauschalen.",
+      "seite": 48,
+      "zitat": "nicht nach Fallpauschalen, Profit oder Kostendruck",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin steht Ökonomisierung und Privatisierung kritisch gegenüber; eine bedarfsorientierte, öffentliche Finanzierung würde den Renditedruck auf ihren Alltag mindern.",
+      "begruendung_selbst": "Wenn nicht mehr die Rendite den Takt vorgibt, sondern der Bedarf, wird mein Arbeitsalltag endlich menschlicher.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege darf nicht arm machen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Solidarische Pflegevollversicherung mit abgeschafften Eigenanteilen, getragen von starken Schultern.",
+      "seite": 56,
+      "zitat": "damit starke Schultern mehr tragen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht die Überforderung Pflegebedürftiger und ihrer Angehörigen täglich; eine solidarisch finanzierte Pflege entlastet die von ihr Versorgten.",
+      "begruendung_selbst": "Ich erlebe, wie Familien an den Pflegekosten zerbrechen – dass die starken Schultern mehr tragen, ist nur gerecht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet bei der Linken nahezu alle ihre beruflichen Kernforderungen wieder: mehr Personal, West-Lohn und Tarifbindung, Schutz ihrer migrantischen Kolleg:innen sowie ein Ende der Ökonomisierung in den Krankenhäusern. Auch die solidarische Pflegefinanzierung entlastet die von ihr Versorgten. Aus ihrer Sicht entspricht das Programm fast vollständig ihrer sozial- und arbeitnehmerorientierten Haltung.",
+    "score": 2
+  }
+}

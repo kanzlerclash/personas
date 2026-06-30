@@ -1,0 +1,28 @@
+# Datenlizenz — CC-BY-SA 4.0
+
+Die in diesem Repository GENERIERTEN DATEN stehen unter der Lizenz
+**Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0
+International (CC BY-SA 4.0)**.
+
+Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+
+## Was unter CC BY-SA 4.0 steht
+
+- `personas/`        — die fiktiven Persona-Profile
+- `bevoelkerung/`    — Bevölkerungsanteile samt Quellenangaben
+- `prompts/`         — die verwendeten Prompts
+- `daten/`           — Themen-Taxonomie, Quell-Register, Modell-Liste
+- `ergebnisse/`      — die generierten LLM-Auswertungen
+
+Bei Weiterverwendung: **Namensnennung** „KanzlerClash — Personas (#LTW26)" mit
+Link auf dieses Repository, und **Weitergabe unter gleichen Bedingungen**.
+
+## Was NICHT unter dieser Lizenz steht
+
+- **Der Code** steht unter der MIT-Lizenz (siehe LICENSE).
+- **Die Wahlprogramme** der Parteien sind urheberrechtlich geschützt, NICHT Teil
+  dieses Repositories und werden nur als Quell-URL referenziert. Sie können nicht
+  unter CC BY-SA relizenziert werden. Kurzzitate (< 15 Wörter) in den
+  Auswertungen erfolgen als Beleg im Rahmen des Zitatrechts.
+- Generierte Inhalte können Fehler/Verzerrungen enthalten (LLM-Bias); sie sind
+  als Modell-Aussagen zu verstehen, nicht als geprüfte Fakten.

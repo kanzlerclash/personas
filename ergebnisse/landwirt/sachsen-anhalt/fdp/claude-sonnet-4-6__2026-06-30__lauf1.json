@@ -1,0 +1,101 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Kontrollbesuche!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Dichte der Vor-Ort-Kontrollen soll von 5 % auf 1 % der Betriebe gesenkt werden, Gebührenbescheide bei Kontrollen sollen entfallen.",
+      "seite": 17,
+      "zitat": "Die Dichte der Vor-Ort-Kontrollen soll von 5% auf 1% der Betriebe gesenkt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank kämpft täglich gegen Kontrollpflichten, die ihm Arbeitszeit kosten. Eine Reduktion der Kontrolldichte von 5 % auf 1 % trifft seinen Hauptkritikpunkt direkt und würde konkreten Aufwand einsparen.",
+      "begruendung_selbst": "Das ist das erste Mal seit Jahren, dass jemand versteht, dass ich keine Zeit für Amtsbesuche habe, sondern Arbeit auf dem Hof.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Doppelbesteuerung beim Kauf — endlich abschaffen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Bei Grundstückskäufen über die Landgesellschaft soll die doppelte Grunderwerbsteuer abgeschafft werden, damit Landwirte ihr wichtigstes Produktionsmittel Boden leichter erwerben können.",
+      "seite": 16,
+      "zitat": "Landwirte beim Grunderwerb doppelt zu besteuern, finden wir nicht fair.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hat viel Kapital in Boden investiert und leidet unter der strukturellen Benachteiligung beim Erwerb weiterer Flächen. Die Abschaffung der Doppelbesteuerung würde ihm direkt nutzen.",
+      "begruendung_selbst": "Wenn ich über die Landgesellschaft Fläche kaufe, zahle ich zweimal Steuer. Das ist schlicht ungerecht — die FDP hat das erkannt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ämter als Partner, nicht als Feinde!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Ämter sollen sich nicht primär als Kontrollinstanz, sondern als beratende Partner der Landwirte verstehen und bei Förderanträgen unterstützen.",
+      "seite": 17,
+      "zitat": "Ämter sollen aus liberaler Sicht viel mehr Partner der Landwirte sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank misstraut dem Behördenapparat und erlebt ihn als Gegner. Das Versprechen, Ämter zu Partnern umzubauen, trifft seine Grundhaltung punktgenau.",
+      "begruendung_selbst": "Ich will, dass mir das Amt hilft, die Förderanträge richtig auszufüllen — nicht dass es auf meinen Fehler wartet, um mich zu bestrafen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wolf muss managebar werden!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Wolfspopulation soll aktiv gemanagt werden, Populationsuntergrenzen für den günstigen Erhaltungszustand sollen festgelegt, Rissbegutachtungen verbessert und Schäden konsequent entschädigt werden.",
+      "seite": 22,
+      "zitat": "Die Population des Wolfes muss so gemanagt werden können, dass Arten- und Nutztierschutz in unserer Kulturlandschaft dauerhaft gelingen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Wolf ist für Frank kein Abstraktum, sondern ein konkreter Konflikt mit seiner Mutterkuhherde. Das klare Bekenntnis zum Wolfsmanagement deckt sich mit seiner Forderung.",
+      "begruendung_selbst": "Ich sage schon lange: Der Wolf muss beherrschbar bleiben. Das sage ich nicht aus Spaß, sondern weil meine Tiere in Gefahr sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Gold-Plating mehr auf meinem Rücken!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "EU-Anforderungen dürfen bei der Umsetzung in nationales Recht nicht verschärft werden; alle bestehenden Verschärfungen sollen entfernt werden, damit kein Wettbewerbsnachteil gegenüber EU-Partnern entsteht.",
+      "seite": 18,
+      "zitat": "Keine einzige EU-Anforderung darf bei der Umsetzung in nationales Recht verschärft werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sieht sich gegenüber europäischen Konkurrenten benachteiligt, weil Deutschland EU-Vorgaben stets verschärft. Das Versprechen, damit zu brechen, trifft seinen Kernvorwurf.",
+      "begruendung_selbst": "Mein Kollege in Polen macht dasselbe wie ich — aber ohne die Extraauflagen, die Berlin mir aufbrummt. Das ist keine fairer Wettbewerb.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Schiefergas unter meinen Feldern?",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will das pauschale Fracking-Verbot durch ein wissenschaftsbasiertes Genehmigungsregime ersetzen und heimisches Schiefergas nutzbar machen, auch in Sachsen-Anhalt.",
+      "seite": 16,
+      "zitat": "pauschale Verbot des unkonventionellen Frackings auf Bundesebene durch ein wissenschaftsbasiertes Genehmigungsregime zu ersetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank bewirtschaftet Boden über mehrere Generationen. Fracking-Bohrungen in der Region berühren Grundwasserrisiken und Flächennutzung direkt — er ist skeptisch, wenn sein Boden als Ressource für andere gilt.",
+      "begruendung_selbst": "Mein Boden ist mein Kapital. Ich will nicht, dass darunter gebohrt wird, ohne dass ich weiß, was das mit meinem Grundwasser macht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet im FDP-Programm für Sachsen-Anhalt starke Resonanz auf seine zentralen Themen: Bürokratieabbau in der Landwirtschaft, Wolfsmanagement, Abschaffung der Doppelbesteuerung beim Grunderwerb und Ende des deutschen Gold-Platings bei EU-Vorgaben werden klar adressiert. Die Partei spricht seine Sprache der Eigenverantwortung und des Misstrauens gegenüber staatlicher Bevormundung. Der Fracking-Plan erzeugt bei ihm Vorbehalt. Insgesamt trifft das Programm seine Interessenlage sehr gut.",
+    "score": 2
+  }
+}

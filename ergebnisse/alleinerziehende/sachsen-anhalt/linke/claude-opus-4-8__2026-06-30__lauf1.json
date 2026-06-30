@@ -1,0 +1,88 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kindergrundsicherung – das wäre Luft zum Atmen!",
+      "thema": "familie",
+      "programmpunkt": "Armutsfeste, sanktionsfreie Kindergrundsicherung von mindestens 630 Euro pro Monat, niedrigschwellig beantragbar.",
+      "seite": 45,
+      "zitat": "in Höhe von mindestens 630 Euro pro Monat für alle Kinder",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine kämpft um jeden Euro für ihre zwei Kinder; eine spürbare, unbürokratische Kindergrundsicherung würde ihre angespannte Finanzlage direkt entlasten.",
+      "begruendung_selbst": "630 Euro im Monat für jedes Kind, ohne Formularschlacht – das würde bei uns vorne und hinten den Unterschied machen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beitragsfreie Kita mit 10 Stunden – endlich!",
+      "thema": "familie",
+      "programmpunkt": "Rechtsanspruch auf ganztägige Kita-Betreuung von zehn Stunden und beitragsfreie Bildung in Kitas.",
+      "seite": 29,
+      "zitat": "auf eine ganztägige Betreuung in Kindertageseinrichtungen von 10 Stunden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Verlässliche Betreuungszeiten sind Nadines Voraussetzung, um mehr arbeiten zu können; ein 10-Stunden-Anspruch und Beitragsfreiheit treffen ihren Alltag ins Mark.",
+      "begruendung_selbst": "Gebt mir einen verlässlichen Ganztagsplatz, der nichts kostet – dann kann ich endlich mehr arbeiten gehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich an uns Alleinerziehende gedacht!",
+      "thema": "familie",
+      "programmpunkt": "Unterhaltsvorschuss bedingungslos, 24 Monate Elterngeld für Alleinerziehende und ein Runder Tisch Alleinerziehende.",
+      "seite": 21,
+      "zitat": "dass Alleinerziehende einen Anspruch auf 24 Monate Elterngeld erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine erlebt sonst, dass über sie geredet wird, ohne ihre Realität zu kennen; konkrete Maßnahmen für Alleinerziehende geben ihrer Lebenslage Gewicht.",
+      "begruendung_selbst": "Endlich Politik, die mein Modell nicht für falsch hält, sondern uns Alleinerziehenden konkret den Rücken stärkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Misstrauen, keine Sanktionen mehr!",
+      "thema": "gesundheit",
+      "programmpunkt": "Existenzsichernde Grundsicherung ohne Sanktionen und Schikanen statt Diffamierung von Leistungsbeziehenden.",
+      "seite": 42,
+      "zitat": "Grundsicherung ohne Sanktionen und Schikanen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine reagiert empfindlich auf Verdächtigungen, obwohl sie arbeitet und sich kümmert; sanktionsfreie Grundsicherung nimmt ihr die Angst vor Verschärfungen.",
+      "begruendung_selbst": "Ich arbeite und kümmere mich – und trotzdem fühle ich mich verdächtigt. Ohne Sanktionsdruck wäre das endlich anders.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohngeld endlich ohne Formularhürden!",
+      "thema": "wohnen",
+      "programmpunkt": "Mietpreisbremse und ein stark vereinfachtes Wohngeld-Antragsverfahren mit schneller Bescheidung.",
+      "seite": 84,
+      "zitat": "das Antragsverfahren stark vereinfachen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Miete frisst bei Nadine den Großteil des Budgets; eine Mietbremse und ein einfacheres Wohngeld senken ihre größte Fixbelastung und den Behördenaufwand.",
+      "begruendung_selbst": "Die Miete frisst fast alles – wenn das Wohngeld endlich einfach zu kriegen ist, hilft mir das sofort.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Nadine sieht ihre Lebenslage von der Linken durchgängig adressiert: Kindergrundsicherung, beitragsfreie Ganztagsbetreuung, gezielte Hilfen für Alleinerziehende, sanktionsfreie Grundsicherung und einfacheres Wohngeld. Besonders zählt für sie der Respekt statt Misstrauen gegenüber Menschen, die arbeiten und sich kümmern. Reibungspunkte mit ihrer sozialstaatsorientierten Haltung sind kaum erkennbar.",
+    "score": 2
+  }
+}

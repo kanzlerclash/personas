@@ -1,0 +1,89 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Selbstausbeutung mit öffentlichem Geld? Nein!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Soziale Mindeststandards und Honoraruntergrenzen sind Voraussetzung öffentlicher Kulturförderung; Selbstausbeutung mit öffentlichen Mitteln wird abgelehnt.",
+      "seite": 39,
+      "zitat": "Soziale Mindeststandards und Honoraruntergrenzen sind Voraussetzung öffentlicher Förderung. Selbstausbeutung mit öffentlichen Mitteln lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike kennt die Realität, kreative Arbeiten für symbolische Honorare zu machen, weil 'die Förderung' nicht reicht. Das Bekenntnis zu Honoraruntergrenzen in der Kulturförderung stärkt direkt ihre Verhandlungsposition.",
+      "begruendung_selbst": "Ich fall durch jedes Raster — aber wenigstens sagt jemand: wenn das Land Geld gibt, muss auch genug für mich dabei sein. Das ist kein Luxus, das ist Würde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehrjährige Kulturförderung — Planungssicherheit!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Mehrjährige Förderungen, Budgets und vereinfachte Verfahren in der Kulturförderung schaffen Verlässlichkeit; Bürokratie wird abgebaut.",
+      "seite": 38,
+      "zitat": "Mehrjährige Förderungen, Budgets und vereinfachte Verfahren schaffen Verlässlichkeit.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike lebt von Projektförderung, die oft Jahr für Jahr neu beantragt werden muss. Mehrjährige Förderungen wären für sie eine echte Verbesserung der Planbarkeit und würden Akquise-Aufwand reduzieren.",
+      "begruendung_selbst": "Ich verbringe mehr Zeit mit Förderanträgen als mit meiner Arbeit. Wenn Förderungen mehrjährig werden und einfacher beantragt werden können, kann ich endlich mehr Zeit für das tun, wofür ich bezahlt werden will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Solo-Selbstständige werden berücksichtigt!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Wirtschaftspolitik berücksichtigt bei Kleinbetrieben und Solo-Selbstständigen besondere Rahmenbedingungen und stärkt soziale Absicherung und Vorsorge.",
+      "seite": 4,
+      "zitat": "Dabei berücksichtigt sie insbesondere bei Kleinbetrieben und Solo-Selbständigen die besonderen Rahmenbedingungen, stärkt soziale Absicherung und Vorsorge.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike fällt durch alle sozialen Raster: zu selbstständig für Arbeitnehmerschutz, zu klein für Unternehmenslobby. Die explizite Nennung von Solo-Selbstständigen als Zielgruppe ist für sie ein wichtiges Anerkennungssignal.",
+      "begruendung_selbst": "Ich bin kein Arbeitnehmer und kein Unternehmer — ich bin irgendwo dazwischen und nirgends. Dass das Programm Solo-Selbstständige nennt und nicht nur ignoriert, ist schon mal mehr als sonst.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "KSK und Soziabsicherung: kein konkreter Plan.",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm nennt keine spezifischen Maßnahmen zur Verbesserung der sozialen Absicherung von Soloselbstständigen bei Krankheit, Auftragsflaute oder Altersvorsorge.",
+      "seite": 4,
+      "zitat": "stärkt soziale Absicherung und Vorsorge",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes größte Existenzsorge ist das Fehlen einer Absicherung, wenn Aufträge wegbleiben oder sie krank wird. Das Programm benennt zwar den Anspruch, aber liefert keinen konkreten Mechanismus für Solo-Selbstständige jenseits allgemeiner Lippenbekenntnisse.",
+      "begruendung_selbst": "Wenn ich krank werde oder die Aufträge wegbleiben, fange ich keinen Schutz auf. 'Soziale Absicherung stärken' — schön. Aber was genau? Für wen? Wann? Das bleibt im Ungefähren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mittelstandsbauche abschaffen — aber wann?",
+      "thema": "steuern",
+      "programmpunkt": "Die SPD will auf Bundesebene den 'Mittelstandsbauch' bei der Einkommensteuer abschaffen.",
+      "seite": 54,
+      "zitat": "die Abschaffung des sog. 'Mittelstandsbauches' bei der Einkommensteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike zahlt als Soloselbstständige mit mittlerem Jahreseinkommen überproportional viel Einkommensteuer. Die Abschaffung des Mittelstandsbauchs würde sie direkt entlasten — aber es bleibt eine Bundesforderung ohne klaren Zeitrahmen.",
+      "begruendung_selbst": "Ich zahl mehr als Angestellte mit gleichem Einkommen — weil der Mittelstandsbauch hart trifft. Gut, dass sie das wollen. Aber das sagen sie seit Jahren.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet im SPD-Programm für Sachsen-Anhalt einige relevante Signale: Honoraruntergrenzen in der Kulturförderung, Ablehnung von Selbstausbeutung mit Fördermitteln und die Erwähnung von Solo-Selbstständigen als Zielgruppe sind für sie bedeutsam. Die größten Lücken bleiben bei der konkreten sozialen Absicherung für Selbstständige und beim Tempo der Steuerentlastung — beides bleibt vage oder Bundeswunsch.",
+    "score": 1
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich genug Leute",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Stellenaufwuchs auf 7.000 Vollzugsstellen wird gehalten und um 1.200 Verwaltungskräfte ergänzt.",
+      "seite": 52,
+      "zitat": "Stellenaufwuchs auf 7.000 Stellen im Polizeivollzugsdienst",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet unter Personalmangel; das Festhalten an der Zielzahl und zusätzliche Verwaltungskräfte adressieren seine größte Sorge direkt.",
+      "begruendung_selbst": "Genau das brauchen wir: mehr Kollegen und Leute, die den Papierkram machen, damit ich raus auf die Straße kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vollzug entlasten, Kernaufgabe zuerst",
+      "thema": "sicherheit",
+      "programmpunkt": "Durch Verwaltungsmitarbeiter im Polizeidienst soll der Vollzug auf Schutz, Gefahrenabwehr und Strafverfolgung konzentriert werden.",
+      "seite": 52,
+      "zitat": "mehr Polizei kommt zu ihren Kernaufgaben: Schutz von Sicherheit und Ordnung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco will sich seinen eigentlichen Aufgaben widmen; die klare Aufgabentrennung entspricht seiner Vorstellung von funktionierender Polizeiarbeit.",
+      "begruendung_selbst": "Ich bin nicht ausgebildet, um Formulare zu sortieren. Lasst mich das machen, wofür ich da bin.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Aufstieg nach Leistung",
+      "thema": "arbeit",
+      "programmpunkt": "Ein transparentes Personalentwicklungskonzept soll Beförderung strikt nach Eignung und Leistung regeln.",
+      "seite": 52,
+      "zitat": "Leistung muss sich wieder lohnen – sichtbar, gerecht und verlässlich.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Verlässliche Aufstiegsperspektiven steigern für Marco die Attraktivität des Dienstes und die Wertschätzung seiner Arbeit.",
+      "begruendung_selbst": "Wenn Beförderung nach Leistung läuft und nicht nach Kassenlage, ist das fair. So bleibt man auch motiviert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsstaat durchsetzen",
+      "thema": "sicherheit",
+      "programmpunkt": "Ausreisepflichtige sollen das Land zügig verlassen, Abschiebungen effizienter ermöglicht werden.",
+      "seite": 11,
+      "zitat": "Dort, wo es erforderlich ist, werden wir Abschiebungen effizienter als bisher ermöglichen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco will konsequente Strafverfolgung und einen funktionierenden Rechtsstaat; die Durchsetzung der Ausreisepflicht entspricht seiner sachlichen Sicht auf die Sicherheitslage.",
+      "begruendung_selbst": "Wenn der Rechtsstaat Entscheidungen trifft, müssen sie auch umgesetzt werden. Sonst untergräbt das meine Arbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Demokratie muss wehrhaft sein",
+      "thema": "demokratie",
+      "programmpunkt": "Gesetzesverstöße sollen verlässlich geahndet, Vertrauen in funktionierende Institutionen gestärkt werden.",
+      "seite": 46,
+      "zitat": "Wer gegen Gesetze verstößt, weiß, dass dies staatlich geahndet wird.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist institutionentreu und will den Rechtsstaat gestärkt sehen; das Bekenntnis zu konsequenter Ahndung deckt sich mit seinem Berufsethos.",
+      "begruendung_selbst": "Mein Job funktioniert nur, wenn am Ende der Kette auch wirklich etwas passiert. Genau das will ich hören.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Waffenverbotszonen weg - riskant",
+      "thema": "sicherheit",
+      "programmpunkt": "Alle Waffenverbotszonen und damit die anlasslosen Personenkontrollen darin sollen abgeschafft werden.",
+      "seite": 52,
+      "zitat": "die Abschaffung aller Waffenverbotszonen im Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Anlasslose Kontrollen in Waffenverbotszonen sind für Marco ein praktisches Einsatzinstrument; deren Wegfall kann er als Schwächung seiner Befugnisse vor Ort erleben.",
+      "begruendung_selbst": "Die Kontrollmöglichkeit in solchen Zonen nimmt mir im Einsatz ein Werkzeug. Das sehe ich aus der Praxis anders.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco sieht seine Kernanliegen weitgehend bedient: mehr Personal, Entlastung des Vollzugs, leistungsgerechter Aufstieg, konsequente Rechtsdurchsetzung und ein wehrhafter Rechtsstaat. Beim Streichen der Waffenverbotszonen und der dortigen Kontrollbefugnisse meldet er aus der Einsatzpraxis aber Bedenken an.",
+    "score": 1
+  }
+}

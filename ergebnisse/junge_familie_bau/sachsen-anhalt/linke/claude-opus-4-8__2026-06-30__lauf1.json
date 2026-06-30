@@ -1,0 +1,101 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Beitragsfreie Kita – das entlastet uns!",
+      "thema": "familie",
+      "programmpunkt": "Rechtsanspruch auf zehnstündige Kita-Betreuung und beitragsfreie Bildung in Kitas.",
+      "seite": 29,
+      "zitat": "die Bildung in Kindertageseinrichtungen für alle Eltern beitragsfrei wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica brauchen für zwei Jobs verlässliche Betreuung; beitragsfreie Kitaplätze senken die Kita-Kosten, die neben der Sparrate fürs Eigenkapital drücken.",
+      "begruendung_selbst": "Wenn die Kita nichts kostet und verlässlich offen hat, bleibt uns mehr fürs Eigenkapital und beide können arbeiten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanierungsförderung nach Einkommen – fair",
+      "thema": "energie",
+      "programmpunkt": "Nach Einkommen gestaffelte Förderung für energetische Sanierung und Heizungstausch selbstgenutzter Eigenheime.",
+      "seite": 85,
+      "zitat": "gestaffelte Förderung für die energetische Sanierung sowie den Austausch von Heizungsanlagen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar fürchtet, dass energetische Vorgaben das Bauen verteuern; eine einkommensgestaffelte Förderung mildert genau diese Mehrkosten beim späteren Eigenheim.",
+      "begruendung_selbst": "Wenn es Förderung gestaffelt nach Einkommen gibt, werden die teuren Energievorgaben für uns wenigstens stemmbar.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Förderung nur für Mietwohnungen, nicht fürs Eigenheim!",
+      "thema": "wohnen",
+      "programmpunkt": "Fördermittel für den Wohnungsbau ausschließlich für gebundenen sozialen Mietwohnungsbau und nicht für Eigentum verwenden.",
+      "seite": 83,
+      "zitat": "Mietkosten senken und sozialen Wohnungsbau fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica wollen Wohneigentum; eine Wohnungsbauförderung, die ausdrücklich nur Mietwohnungen und nicht Eigentum stützt, lässt ihr Kernziel außen vor.",
+      "begruendung_selbst": "Wir wollen bauen, nicht ewig mieten – aber gefördert wird nur der Mietbau. Für unseren Traum bleibt da nichts.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Bauen auf der grünen Wiese – wo dann?",
+      "thema": "wohnen",
+      "programmpunkt": "Unkontrollierte Zersiedelung durch Neubauten am Stadtrand und auf der grünen Wiese ablehnen.",
+      "seite": 85,
+      "zitat": "Neubauten am Stadtrand und auf der grünen Wiese lehnen wir ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar sucht im Speckgürtel; die Ablehnung von Neubauten am Stadtrand schränkt genau die Flächen ein, auf denen sie sich ihr Eigenheim vorstellen.",
+      "begruendung_selbst": "Wir suchen im Umland ein Grundstück – wenn Bauen am Stadtrand abgelehnt wird, bleibt für uns kaum noch was übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Solarpflicht treibt unsere Baukosten hoch",
+      "thema": "energie",
+      "programmpunkt": "Solarpflicht für Neubauten und Passivhausstandard, um Photovoltaik auf Dächern zu priorisieren.",
+      "seite": 107,
+      "zitat": "mit Solarpflicht für Neubauten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Strenge Energievorgaben sind für die jungen Bauherren preistreibend; eine Solarpflicht erhöht die ohnehin schon zu hohen Baukosten zusätzlich.",
+      "begruendung_selbst": "Gut gemeint, aber jede Pflicht beim Neubau treibt den Preis – und der ist für uns schon jetzt der Traumkiller.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermögenssteuer statt Erbe-Hilfe beim Bauen",
+      "thema": "steuern",
+      "programmpunkt": "Bundesratsinitiative zur Wiedereinführung der Vermögenssteuer und Reform der Erbschaftsteuer statt Entlastung beim Eigentumserwerb.",
+      "seite": 17,
+      "zitat": "Eine Bundesratsinitiative zur Wiedereinführung der Vermögenssteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar will Eigentum aus eigener Leistung, ohne erben zu müssen, und hofft auf gesenkte Erwerbsnebenkosten; das Programm setzt stattdessen auf Vermögens- und Erbschaftssteuer ohne Eigentumsförderung.",
+      "begruendung_selbst": "Wir wollen bauen, ohne erben zu müssen – aber statt uns den Einstieg zu erleichtern, kommen neue Vermögenssteuern.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica begrüßen die beitragsfreie Kita und die einkommensgestaffelte Sanierungsförderung, die ihren Familienalltag entlasten. Doch ihr eigentliches Ziel, bezahlbares Wohneigentum, läuft gegen das Programm: Förderung nur für Mietwohnungen, Ablehnung von Neubauten am Stadtrand, Solarpflicht und Vermögenssteuer statt Eigentumshilfe. Für ihre aufstiegs- und eigentumsorientierte Lage überwiegt deutlich die Enttäuschung.",
+    "score": -1
+  }
+}

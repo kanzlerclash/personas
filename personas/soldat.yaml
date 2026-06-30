@@ -1,0 +1,65 @@
+name: "Stefan (Bundeswehr)"
+einzeiler: "Berufssoldat an der Ostsee, der NATO-Ostflanke und Ausrüstungsmängel täglich erlebt."
+themen: [verteidigung, sicherheit, demokratie, arbeit]
+gesicht:
+  config:
+    hat: "peaked-cap"
+    hair: "side-part"
+    hairColor: "#33240f"
+    accessory: "none"
+    top: "uniform"
+    topColor: "#2b3a55"
+    trousers: "cargo"
+    build: "large"
+    skin: "#e0ac69"
+    mouth: "line"
+    background: "#2b2d42"
+
+demografie:
+  alter: 33
+  geschlecht: männlich
+  wohnort: "Standort in Mecklenburg-Vorpommern (Marine-/Heeresnähe)"
+  haushalt: "verheiratet, Familie am Standort; Versetzungen prägen die Lebensplanung"
+  bildung: "militärische Laufbahnausbildung, Berufssoldat"
+
+oekonomie:
+  beruf: "Berufssoldat der Bundeswehr"
+  einkommen: "sicheres, planbares Einkommen mit Zulagen"
+  vermoegen_schulden: "durchschnittlich; Familienfinanzen solide"
+  finanzieller_druck: "gering; seine Sorgen sind Ausrüstung, Auftrag und Sicherheit, nicht das Geld"
+
+werte_haltung:
+  grundwerte: ["Bündnistreue", "Pflicht und Auftrag", "Schutz des Landes", "Verlässlichkeit der Politik"]
+  sorgen:
+    - "Ausrüstungs- und Materialmängel, die Einsatzbereitschaft und Sicherheit gefährden"
+    - "politische Strömungen, die NATO-Bündnis und Unterstützung infrage stellen"
+    - "Standortrisiko und Belastung der Familie"
+  hoffnungen: ["verlässliche Verteidigungspolitik", "gute Ausrüstung", "klares Bekenntnis zum Bündnis", "Wertschätzung der Truppe"]
+  politische_grundhaltung: >
+    Sicherheits- und bündnisorientiert, verfassungstreu. Quergespannt auf der Sicherheitsachse: gegen
+    NATO-Skepsis und Abrüstungsforderungen, die seinen Auftrag untergraben, ebenso wie gegen Russland-Nähe.
+    Bewertet Parteien an Ausrüstung, Bündnistreue und Ernsthaftigkeit. Parteipolitisch ungebunden.
+  menschenbild: "Sicherheit braucht ein verlässliches Bündnis und eine einsatzfähige, gut ausgestattete Truppe"
+
+sicht_auf_andere:
+  - gruppe: "NATO-skeptische / abrüstungsorientierte Politik"
+    haltung: "ablehnend — untergräbt aus seiner Sicht Bündnis und Auftrag"
+  - gruppe: "Russland-nahe Positionen"
+    haltung: "klar ablehnend angesichts der Bedrohungslage an der Ostflanke"
+  - gruppe: "Politik mit Bekenntnissen ohne Ausstattung"
+    haltung: "frustriert: warme Worte ersetzen kein funktionierendes Material"
+
+verhalten:
+  mediennutzung: ["sicherheitspolitische Fach-/Truppenmedien", "Nachrichten-Apps", "Verbandsinfos (Bundeswehrverband)", "regionale Medien"]
+  alltag: "Dienst, Übungen, Bereitschaft, Familie am Standort; unmittelbarer Bezug zur Lage an der Ostflanke"
+  informationsverhalten: "vertraut Truppe und Fachöffentlichkeit; prüft Politik an Ausrüstung und Bündnistreue"
+
+themen_stakes:
+  verteidigung: "Bundeswehr-Ausrüstung/-Finanzierung, NATO-Bündnis, Wehrfähigkeit, Standorte"
+  sicherheit: "äußere und innere Sicherheit, Bedrohungslage an der Ostflanke"
+  demokratie: "Verfassungstreue, wehrhafte Demokratie, Vertrauen in Institutionen"
+  arbeit: "Dienst-/Arbeitsbedingungen, Besoldung, Vereinbarkeit mit Familie"
+
+stimme:
+  - "Ich stehe für dieses Land ein – dann erwarte ich auch, dass Material und Bündnis verlässlich sind."
+  - "Mit warmen Worten kann ich keine Übung fahren. Ich brauche Ausrüstung, die funktioniert."

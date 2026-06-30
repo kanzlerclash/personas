@@ -1,0 +1,137 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Ticket bleibt - immerhin!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Deutschlandticket soll erhalten bleiben.",
+      "seite": 62,
+      "zitat": "Das Deutschlandticket wollen wir erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt von ÖPNV und Rad bei knappem Budget; der Erhalt eines günstigen Tickets entlastet ihre Lebenshaltungskosten direkt.",
+      "begruendung_selbst": "Bei meinem Budget zählt jeder Euro fürs Ticket. Dass es bleibt, ist eine der wenigen guten Nachrichten hier.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Istanbul-Konvention - richtig so.",
+      "thema": "familie",
+      "programmpunkt": "Umsetzung der Istanbul-Konvention bleibt zentrale Verpflichtung in Prävention, Schutz und Beratung.",
+      "seite": 33,
+      "zitat": "Die Umsetzung der Istanbul - Konvention bleibt für uns eine zentrale Verpflichtung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Gleichstellung und Gewaltschutz sind Jule wichtig; das Festhalten an der Istanbul-Konvention deckt sich mit ihren Werten.",
+      "begruendung_selbst": "Gewaltschutz für Frauen ist keine Verhandlungsmasse. Dass sie da dranbleiben, erkenne ich an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Jüdisches Leben schützen - ja.",
+      "thema": "demokratie",
+      "programmpunkt": "Schutz und Förderung jüdischen Lebens und entschlossener Kampf gegen Antisemitismus.",
+      "seite": 73,
+      "zitat": "Jüdisches Leben schützen und fördern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule steht für Minderheitenschutz; der entschlossene Einsatz gegen Antisemitismus entspricht ihrem Anspruch, Marginalisierte zu schützen.",
+      "begruendung_selbst": "Minderheiten zu schützen ist das Mindeste. Beim Kampf gegen Antisemitismus bin ich voll dabei.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaschutz wird zurückgedreht!",
+      "thema": "klima",
+      "programmpunkt": "Forderung, 'ideologische' Klima- und Umweltvorgaben der EU zurückzunehmen, inklusive Taxonomie und CO2-Abgaben.",
+      "seite": 90,
+      "zitat": "ideologische Klima - und Umweltvorgaben zurücknehmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Klima ist für Jules Zukunftsgefühl zentral; das Zurückdrehen von Klimavorgaben trifft direkt ihre Lebensgrundlage und Werte.",
+      "begruendung_selbst": "Es geht um meine Zukunft in zwanzig Jahren. Wer Klimaschutz als Ideologie abtut, spielt mit genau der.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Braunkohle wird weiter gefördert?!",
+      "thema": "energie",
+      "programmpunkt": "Festhalten am Kohleausstieg erst 2038 und weitere Förderung der stofflichen Nutzung der Braunkohle.",
+      "seite": 45,
+      "zitat": "Die stoffliche Nutzung der Braunkohle wird von uns weiterhin gefördert.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule will einen schnellen Kohleausstieg; das Festhalten an Kohle und 2038 widerspricht ihrer Forderung nach konsequenter Energiewende.",
+      "begruendung_selbst": "2038 ist viel zu spät, und Kohle noch zu fördern ist absurd. So gewinnen wir keine Zeit fürs Klima.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Solarpflicht - falsches Signal.",
+      "thema": "energie",
+      "programmpunkt": "Konsequente Ablehnung jeder Solarpflicht bei Neubauten und Dachsanierungen.",
+      "seite": 46,
+      "zitat": "lehnen jegliche Form der Solarpflicht bei Neubauten und Dachsanierungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule ist der konsequente Ausbau Erneuerbarer zentral; die Ablehnung der Solarpflicht bremst aus ihrer Sicht die Energiewende.",
+      "begruendung_selbst": "Wir haben die Dächer doch - warum nutzt man sie nicht? Eine Absage an die Solarpflicht ist das genaue Gegenteil von Tempo.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gendern verbieten? Mein Leben zählt!",
+      "thema": "demokratie",
+      "programmpunkt": "Ablehnung eines Genderverständnisses, das Gleichwertigkeit der Geschlechter durch Sprachregelungen ausdrückt.",
+      "seite": 33,
+      "zitat": "Wir wenden uns gegen ein Genderverständnis, das die Gleichwertigkeit der Geschlechter",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als queere Person erlebt Jule geschlechtergerechte Sprache als Teil ihrer Anerkennung; deren Abwertung als 'Symbolpolitik' verletzt ihr Selbstverständnis.",
+      "begruendung_selbst": "Sprache ist nicht nur Symbol, sie macht uns sichtbar. Wenn das pauschal abgekanzelt wird, fühle ich mich übergangen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Irreguläre Migration 'auf null'?!",
+      "thema": "integration",
+      "programmpunkt": "Ziel, die irreguläre Migration auf null zurückzuführen und Aufnahmeprogramme zu beenden.",
+      "seite": 6,
+      "zitat": "Wir wollen die irreguläre Migration auf null zurückführen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule denkt aus Solidarität mit Geflüchteten; das Null-Ziel und das Ende von Aufnahmeprogrammen widerspricht ihrer humanitären Haltung.",
+      "begruendung_selbst": "Hinter jeder Zahl steckt ein Mensch in Not. 'Auf null' klingt für mich nach Abschottung statt Verantwortung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verbandsklage abschaffen - undemokratisch.",
+      "thema": "demokratie",
+      "programmpunkt": "Ziel der kompletten Abschaffung der Verbandsklage zur Vermeidung von Investitionsblockaden.",
+      "seite": 62,
+      "zitat": "Unser Ziel bleibt die komplette Abschaffung der Verbandsklage.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule schätzt eine starke Zivilgesellschaft; die Abschaffung der Verbandsklage schwächt aus ihrer Sicht Umwelt- und Beteiligungsrechte.",
+      "begruendung_selbst": "Verbandsklagen sind ein Werkzeug, um Natur und uns gegen Konzerne zu verteidigen. Die einfach zu streichen, nimmt uns eine Stimme.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Jule kollidiert das Programm mit ihren Kernwerten: Klimavorgaben werden zurückgedreht, Braunkohle weiter gefördert, die Solarpflicht abgelehnt, geschlechtergerechte Sprache abgewertet und die Verbandsklage soll fallen. Einzelne Punkte wie Deutschlandticket, Istanbul-Konvention und der Kampf gegen Antisemitismus findet sie gut, doch insgesamt sieht sie ihre Zukunft und ihre Rechte zur Disposition gestellt.",
+    "score": -2
+  }
+}

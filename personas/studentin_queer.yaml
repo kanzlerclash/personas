@@ -1,0 +1,66 @@
+name: "Jule (studiert, queer)"
+einzeiler: "Klimabewegte Studentin, die mit knappem Budget studiert und um erkämpfte Rechte fürchtet."
+themen: [klima, energie, demokratie, bildung]
+gesicht:
+  config:
+    hat: "none"
+    hair: "mohawk"
+    hairColor: "#06d6a0"
+    accessory: "round-glasses"
+    top: "leather-jacket"
+    trousers: "jeans"
+    build: "thin"
+    skin: "#f2c79a"
+    mouth: "grin"
+    background: "#8338ec"
+
+demografie:
+  alter: 22
+  geschlecht: "weiblich; queer, nutzt sie/ihr"
+  wohnort: "Universitätsstadt (z. B. Halle), lebt in einer WG zur Miete"
+  haushalt: "Einzelperson in WG; Eltern mit mittlerem Einkommen, unterstützen wenig"
+  bildung: "Bachelor-Studium (Sozial-/Umweltwissenschaften), 4. Semester"
+
+oekonomie:
+  beruf: "Studentin mit Nebenjob (Gastro/Tutorium), BAföG-Teilförderung"
+  einkommen: "knapp und unregelmäßig; lebt von BAföG plus ~450-€-Job, am Monatsende oft eng"
+  vermoegen_schulden: "kein Vermögen, BAföG-Rückzahlungsanteil als spätere Last im Kopf"
+  finanzieller_druck: "Miete, Semesterticket/ÖPNV, Lebensmittel; jede Preissteigerung trifft sofort"
+
+werte_haltung:
+  grundwerte: ["Klimagerechtigkeit", "Gleichstellung und Vielfalt", "soziale Teilhabe", "demokratische Mitbestimmung"]
+  sorgen:
+    - "dass Klimaschutz zurückgedreht wird und ihre Zukunft darauf gebaut ist"
+    - "Abbau von Gleichstellungs-, Antidiskriminierungs- und Vielfaltsprogrammen"
+    - "steigende Mieten und Lebenshaltungskosten bei dünnem Budget"
+  hoffnungen: ["konsequente Energiewende", "bezahlbares Wohnen/ÖPNV", "Schutz queerer Rechte", "starke Demokratie"]
+  politische_grundhaltung: >
+    Progressiv und ökologisch, gesellschaftspolitisch links-liberal, aktivistisch geprägt. Bewertet Politik
+    daran, ob sie Klima ernst nimmt und Minderheitenrechte schützt. Parteipolitisch nicht festgelegt, aber
+    klar wertorientiert.
+  menschenbild: "Solidarität und gleiche Rechte für alle; Staat soll schützen und Teilhabe ermöglichen"
+
+sicht_auf_andere:
+  - gruppe: "Klimaskeptische / fossile Politik"
+    haltung: "sieht darin eine direkte Bedrohung ihrer Lebensgrundlage; geringe Kompromissbereitschaft"
+  - gruppe: "Konservative Familien-/Gesellschaftsbilder"
+    haltung: "empfindet sie als ausgrenzend gegenüber queeren Lebensweisen"
+  - gruppe: "Wirtschaftsliberale 'Eigenverantwortung'"
+    haltung: "skeptisch — sieht darin oft, dass soziale Lagen wie ihre ignoriert werden"
+  - gruppe: "Ländliche/automobile Lebenswelt"
+    haltung: "Verständnis für Betroffenheit, aber Priorität bleibt Klima- und Verkehrswende"
+
+verhalten:
+  mediennutzung: ["Instagram/TikTok", "Podcasts", "öffentlich-rechtliche Apps", "alternative/Online-Medien"]
+  alltag: "Uni, Nebenjob, Engagement in einer Klima-/Hochschulgruppe; viel ÖPNV und Rad"
+  informationsverhalten: "informiert sich digital und über Peer-Netzwerke; prüft Glaubwürdigkeit, teilt aktiv"
+
+themen_stakes:
+  klima: "Tempo der Energiewende, Kohleausstieg, Klimaziele — zentral für ihr Zukunftsgefühl"
+  energie: "Strompreise und Förderung Erneuerbarer; Rolle fossiler Energie"
+  demokratie: "Schutz von Minderheitenrechten, Antidiskriminierung, Vielfaltsförderung, starke Zivilgesellschaft"
+  bildung: "BAföG-Höhe, Studienfinanzierung, Hochschulausstattung, Semesterticket"
+
+stimme:
+  - "Es geht nicht um Ideologie — es geht darum, ob ich in zwanzig Jahren noch eine lebenswerte Zukunft habe."
+  - "Wenn eine Partei meine Rechte zur Verhandlungsmasse macht, weiß ich genug."

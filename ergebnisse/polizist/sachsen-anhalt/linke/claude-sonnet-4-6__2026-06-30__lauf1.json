@@ -1,0 +1,113 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich 500 neue Stellen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke will 500 neue Polizeistellen bis 2030 schaffen, um mehr Bürgernähe und Präsenz zu ermöglichen.",
+      "seite": 128,
+      "zitat": "500 neue Polizeistellen bis 2030 bedeuten nicht nur mehr Präsenz auf der Straße",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der chronische Personalmangel ist Marcos zentrales Arbeitsproblem. Die konkrete Zahl von 500 Stellen adressiert direkt seine Alltagsüberlastung und ist ein seltenes konkretes Versprechen.",
+      "begruendung_selbst": "500 Stellen – das klingt endlich nach einer Zahl, die man anfassen kann. Wenn das kommt, merken wir das wirklich auf der Straße.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "38 Stunden – das wäre was",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke setzt sich für eine Arbeitszeitreduktion für Polizeikräfte auf 38 Stunden ein, um Vereinbarkeit mit Familie und Erholung zu verbessern.",
+      "seite": 128,
+      "zitat": "Arbeitszeitreduktion für Polizeikräfte auf 38 Stunden eingeführt werden kann",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet unter Schichtdienst und mangelnder Erholung. Eine Arbeitszeitreduktion würde seine Lebensqualität direkt verbessern und ist ein Zeichen, dass Belastungen ernst genommen werden.",
+      "begruendung_selbst": "Schichtdienst mit Familie – wer das kennt, weiß, was 38 Stunden bedeuten würden. Das wäre ein echter Unterschied.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Cybercrime ernst nehmen",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke will Polizei und Justiz mit spezialisierten Einheiten für Cyberkriminalität, Wirtschaftskriminalität und KI-gestützte Manipulation modernisieren.",
+      "seite": 127,
+      "zitat": "rüsten wir Polizei und Justiz für die Kriminalität von morgen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dass die Linke moderne Kriminalitätsformen priorisiert und spezialisierte Einheiten fordert, trifft Marcos Anliegen nach professioneller Ausstattung und Wirksamkeit.",
+      "begruendung_selbst": "Kriminalität entwickelt sich weiter – und endlich sagt mal jemand, dass wir da nicht hinterherhinken dürfen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "VS abschaffen – das geht gar nicht",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke will den Verfassungsschutz in seiner jetzigen Form abschaffen und durch eine Agentur für Demokratie und Menschenrechte ersetzen.",
+      "seite": 129,
+      "zitat": "Ein Verfassungsschutz in seiner jetzigen Form ist überflüssig",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Der Verfassungsschutz ist für Marco eine wichtige Institution zum Schutz des Rechtsstaats vor extremistischen Bedrohungen. Eine Abschaffung schwächt aus seiner Sicht die wehrhafte Demokratie und macht seinen Dienst gefährlicher.",
+      "begruendung_selbst": "Wir haben genug Extremisten, die den Rechtsstaat angreifen wollen. Und die wollen ernsthaft das Instrument abschaffen, das das beobachtet?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beschwerdestelle – ich steh' unter Verdacht",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke fordert eine unabhängige Polizeibeschwerdestelle mit eigenen Ermittlungsbefugnissen und ausreichender Ausstattung.",
+      "seite": 128,
+      "zitat": "unabhängige Polizeibeschwerdestelle mit eigenen Ermittlungsbefugnissen und ausreichender Ausstattung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht eine solche Stelle als pauschales Misstrauenssignal gegenüber seiner Berufsgruppe. Auch wenn er prinzipiell Kontrolle akzeptiert, fühlt er sich als Ganzer unter Generalverdacht gestellt statt punktuell problematisches Verhalten zu adressieren.",
+      "begruendung_selbst": "Ich mache meinen Job sauber. Aber statt Rückendeckung bekomme ich eine neue Behörde, die mir auf die Finger schaut. Das senkt die Moral.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kennzeichnungspflicht – wir sind keine Täter",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke will eine individuelle Kennzeichnungspflicht und den automatischen Einsatz von Bodycams bei Schusswaffengebrauch oder Taser-Einsatz einführen.",
+      "seite": 129,
+      "zitat": "Die individuelle Kennzeichnungspflicht und der automatische Einsatz von Bodycams",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco empfindet Kennzeichnungspflicht in Kombination mit einer eigenen Ermittlungsbehörde als systematisches Misstrauen. Er befürwortet Bodycams als Schutz für beide Seiten, sieht aber das Gesamtpaket als Ausdruck einer Haltung, die Polizisten unter Generalverdacht stellt.",
+      "begruendung_selbst": "Bodycam zum Schutz – okay. Aber wenn die ganze Politik darauf ausgerichtet ist, mir auf die Finger zu schauen statt mich zu schützen, dann stimmt was nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Prävention ersetzt keine Strafverfolgung",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke sieht Investitionen in Bildung und Jugendarbeit als wichtigste Kriminalprävention und stellt damit klassische Strafverfolgung als nachrangig dar.",
+      "seite": 134,
+      "zitat": "spart später Kosten für Polizei und Justiz",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco versteht Prävention als sinnvoll, erlebt aber die Rahmung 'Soziale Programme ersetzen Polizei' als Abwertung seiner Arbeit und als Realitätsverweigerung gegenüber der tatsächlichen Kriminalitätslage.",
+      "begruendung_selbst": "Prävention ist gut und richtig. Aber wenn jemand einbricht oder zuschlägt, braucht man mich – und das wird hier fast wie ein Betriebsunfall behandelt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco findet im Programm der Linken konkrete Entlastungsversprechen, die seinen Alltag direkt treffen: 500 neue Stellen, kürzere Arbeitszeiten und ein modernes Kriminalitätsverständnis. Diese Pluspunkte werden jedoch durch ein ordnungspolitisches Gesamtbild überschattet, das er als institutionelles Misstrauen erlebt: Beschwerdestelle, Kennzeichnungspflicht und die geplante Abschaffung des Verfassungsschutzes signalisieren ihm, dass die Linke sein Berufsfeld kontrollieren, nicht stärken will. Für Marco bleibt das Programm gespalten – konkrete Entlastung hier, strukturelle Entwertung dort.",
+    "score": 0
+  }
+}

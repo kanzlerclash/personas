@@ -1,0 +1,100 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Ruhe vor der Dauerregelung!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Verlässliche Rahmenbedingungen statt ständig neuer Regulierung, weniger Bürokratie und mehr Freiheit für Investitionen.",
+      "seite": 38,
+      "zitat": "Verlässliche Rahmenbedingungen statt Dauerregulierung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank leidet konkret unter jährlich wechselnden Auflagen; eine Zusage zu Planbarkeit trifft genau seine größte Sorge.",
+      "begruendung_selbst": "Genau das ist mein Problem: jedes Jahr eine neue Verordnung. Wenn sie endlich Verlässlichkeit liefern, kann ich wieder wirtschaften.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beim Wolf wird endlich gehandelt!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Wirksame Regelungen zur Regulierung des Wolfsbestandes zum Schutz von Mensch und Weidetieren.",
+      "seite": 40,
+      "zitat": "wirksame Regelungen zur Regulierung des Wolfsbestandes ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Wolf erschwert Franks Mutterkuh-/Weidehaltung konkret; eine Bestandsregulierung adressiert einen seiner realen Konflikte.",
+      "begruendung_selbst": "Meine Tiere stehen auf der Weide, nicht im Tresor. Wenn der Wolf reguliert wird, kann ich meine Herde überhaupt noch halten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine CO2-Kosten obendrauf!",
+      "thema": "klima",
+      "programmpunkt": "Land- und Forstwirtschaft sollen von einem weiteren Anstieg der CO2-Kosten ausgenommen und der energieintensiven Industrie gleichgestellt werden.",
+      "seite": 42,
+      "zitat": "von einem weiteren Anstieg der CO2 - Kosten ausgenommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Franks Marge ist eng; eine Befreiung von steigenden CO2-Kosten entlastet ihn direkt und bestätigt sein Gefühl, sonst die Zeche zu zahlen.",
+      "begruendung_selbst": "Ich hab nichts gegen Klimaschutz - aber nicht auf meinem Rücken. Wenn die CO2-Kosten nicht weiter steigen, bleibt mir was übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Brüssel nur 1:1, nicht draufsatteln!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "EU-Recht soll nur 1:1 umgesetzt und nationale Alleingänge beendet werden, um Wettbewerbsnachteile abzubauen.",
+      "seite": 38,
+      "zitat": "EU - Recht nur 1:1 umsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Franks Hauptgegner ist die Überregulierung aus Brüssel und Berlin; ein klares Nein zum 'Gold-Plating' trifft seinen Kernärger.",
+      "begruendung_selbst": "Ich konkurriere mit Bauern in ganz Europa. Wenn Deutschland immer noch eins draufsetzt, verliere ich - 1:1 reicht völlig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Produktionskosten runter - endlich!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Produktionskosten in der Landwirtschaft sollen gesenkt werden, damit Betriebe wirtschaftlich erfolgreich sein können.",
+      "seite": 38,
+      "zitat": "Produktionskosten in der Landwirtschaft senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Diesel-, Dünger- und Energiekosten sind für Frank ein schmerzhafter Fixposten; das Ziel sinkender Kosten betrifft seine Liquidität unmittelbar.",
+      "begruendung_selbst": "Eine schlechte Ernte tut sofort weh. Wenn meine Kosten runtergehen, übersteh ich auch die roten Nullen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Acker bleibt Acker - kein PV drauf!",
+      "thema": "energie",
+      "programmpunkt": "Hochwertige Ackerböden bleiben der Ernährungssicherung vorbehalten; PV-Ausbau wird auf Brach- und Konversionsflächen gelenkt.",
+      "seite": 47,
+      "zitat": "Hochwertige Ackerböden bleiben der Ernährungssicherung vorbehalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Flächenfraß und Pacht-Konkurrenz sind Franks Sorge; der Schutz guter Böden vor Versiegelung sichert seine Produktionsgrundlage.",
+      "begruendung_selbst": "Guter Boden ist mein Kapital. Wenn der für Essen bleibt statt für Solarparks, ist das genau richtig gedacht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Programm trifft Franks Lage als eigentums- und leistungsorientierter Landwirt fast durchgängig: Bürokratieabbau, Planbarkeit, 1:1-EU-Umsetzung, Wolfsregulierung, CO2-Entlastung und Flächenschutz adressieren seine konkreten Sorgen. Konträre Punkte zu seiner Lebenslage findet er kaum.",
+    "score": 2
+  }
+}

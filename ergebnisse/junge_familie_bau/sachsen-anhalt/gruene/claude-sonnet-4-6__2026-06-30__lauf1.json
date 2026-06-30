@@ -1,0 +1,126 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kita als Fundament für Familie",
+      "thema": "familie",
+      "programmpunkt": "Kitas werden als unverzichtbar für das Aufwachsen von Kindern und die Vereinbarkeit von Familie und Beruf anerkannt",
+      "seite": 57,
+      "zitat": "Kitas leisten einen unverzichtbaren Beitrag für ein gutes Aufwachsen unserer Kinder und für die Vereinbarkeit von Familie und Beruf",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sind Doppelverdiener mit Kleinkind — ein verlässlicher Kita-Platz ist für sie existenziell. Das Bekenntnis im Programm bestätigt ihre Priorität und signalisiert politische Rückendeckung für die Infrastruktur, auf die sie angewiesen sind.",
+      "begruendung_selbst": "Endlich eine Partei, die Kitas nicht als Randthema behandelt. Ohne verlässliche Betreuung können wir beide nicht arbeiten — das trifft genau unsere Situation.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ganztagsschule flächendeckend ausbauen",
+      "thema": "bildung",
+      "programmpunkt": "Ganztagsschulen sollen flächendeckend ausgebaut werden, um Betreuung und Bildung zu verbessern",
+      "seite": 59,
+      "zitat": "Ganztagsschulen flächendeckend ausgebaut werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für ein junges Doppelverdiener-Ehepaar im Speckgürtel ist der Ausbau von Ganztagsschulen mittelfristig direkt relevant — das Kleinkind wird schulpflichtig und braucht Nachmittagsbetreuung. Diese Zusage reduziert künftige Organisationskosten erheblich.",
+      "begruendung_selbst": "Unser Kind ist noch klein, aber in ein paar Jahren brauchen wir eine Ganztagsschule in erreichbarer Nähe. Es ist gut zu wissen, dass das wirklich ausgebaut werden soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanierung einkommensabhängig fördern",
+      "thema": "wohnen",
+      "programmpunkt": "Sanierungen sollen gezielt einkommensabhängig gefördert werden, mit Landesbürgschaften für Haushalte ohne Rücklagen",
+      "seite": 26,
+      "zitat": "Sanierungen sollen künftig gezielt einkommensabhängig gefördert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica wollen ein Eigenheim kaufen, möglicherweise einen Bestandsbau mit Sanierungsbedarf. Die einkommensabhängige Förderung und Bürgschaftslösungen adressieren direkt das Problem, dass bei hohen Zinsen und Baukosten kaum Eigenkapital für Modernisierung übrig bleibt.",
+      "begruendung_selbst": "Wir haben nicht das Kapital, nach dem Hauskauf auch noch aufwendige Sanierungen zu finanzieren. Wenn das Land Bürgschaften übernimmt und Förderung nach Einkommen staffelt, könnten wir uns das tatsächlich leisten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vorkaufsrecht gegen Bodenspekulation",
+      "thema": "wohnen",
+      "programmpunkt": "Kommunales Vorkaufsrecht soll gesichert und ausgeweitet werden, um Bodenspekulation zu verhindern",
+      "seite": 98,
+      "zitat": "kommunales Vorkaufsrecht sichern und ausweiten, um Bodenspekulation zu verhindern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Steigende Grundstückspreise im Speckgürtel sind für kaufwillige Familien ein zentrales Hindernis. Maßnahmen gegen Bodenspekulation könnten die Preisdynamik dämpfen und Bauland für Familien zugänglicher machen.",
+      "begruendung_selbst": "Wenn Kommunen Grundstücke aufkaufen bevor Spekulanten sie aufkaufen, dann bleiben Preise eher im Rahmen. Das hilft uns direkt beim Bauplatz oder Hauskauf.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "100 Prozent erneuerbar erhöht Wärmekosten",
+      "thema": "energie",
+      "programmpunkt": "Sachsen-Anhalt soll bis 2030 im Strombereich 100 Prozent erneuerbar aufgestellt sein — mit Konsequenzen für Wärme und Neubau",
+      "seite": 22,
+      "zitat": "Sachsen-Anhalt bis 2030 im Strombereich 100 Prozent erneuerbar aufstellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das ambitionierte Erneuerbaren-Ziel bis 2030 erhöht kurzfristig den Investitionsdruck bei Heizung und Wärmeversorgung von Neubauten. Für eine Familie, die gerade in ein Eigenheim investiert, bedeutet das zusätzliche Kostenrisiken durch erforderliche Wärmepumpen oder Solaranlagen.",
+      "begruendung_selbst": "Natürlich wollen wir klimafreundlich bauen, aber wenn das Land so aggressiv auf Erneuerbare umstellt, werden wir als Neubau-Käufer die teuersten Heizlösungen einbauen müssen. Das kommt noch oben drauf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Eigentumsförderung im Programm",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm enthält keine konkreten Maßnahmen zur Eigentumsförderung für junge Familien oder zum Abbau der Grunderwerbsteuer",
+      "seite": 92,
+      "zitat": "Recht auf Wohnen sollte ein Menschenrecht sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Programm fokussiert stark auf Mieterschutz und sozialen Wohnungsbau. Konkrete Erleichterungen für selbstnutzende Eigentumsbildung junger Familien — etwa Grunderwerbsteuerbefreiung für Erstkäufer oder Eigenheimzulagen — fehlen vollständig.",
+      "begruendung_selbst": "Der Fokus liegt auf Mietern und sozialem Wohnungsbau — das ist wichtig, aber wir wollen selber kaufen. Für uns als Erstbauende gibt es hier nichts Konkretes.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Subventionsabbau trifft Bauförderung",
+      "thema": "wirtschaft",
+      "programmpunkt": "Umwelt- und klimaschädliche Subventionen sollen konsequent abgebaut werden, was auch bisher günstige Baukredite oder Energiesubventionen betreffen kann",
+      "seite": 96,
+      "zitat": "umwelt- und klimaschädliche Subventionen konsequent abzubauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Der pauschale Subventionsabbau könnte bestehende Förderinstrumente für energieintensives Bauen oder günstige Darlehen treffen, ohne dass das Programm klar benennt, welche Alternativen für kaufwillige Familien bereitstehen.",
+      "begruendung_selbst": "Wenn Subventionen wegfallen, die uns beim Bauen halfen, dann müssen die neuen Förderungen diese Lücke wirklich schließen. Ich sehe das hier nicht garantiert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ökologische Baustandards verteuern Neubau",
+      "thema": "wohnen",
+      "programmpunkt": "Grüne Förderpolitik setzt auf hohe energetische Standards beim Bauen, die Neubaukosten strukturell erhöhen",
+      "seite": 26,
+      "zitat": "Haushalte ohne Rücklagen sollen durch Landesbürgschaften besseren Zugang zu Finanzierungen erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Während Bürgschaften helfen, lösen sie das Grundproblem nicht: Energetische Anforderungen treiben die Baukosten hoch, bevor Förderungen greifen. Für Tom und Jessica bedeutet das höhere Gesamtkosten beim Eigenheim, auch wenn einzelne Maßnahmen subventioniert werden.",
+      "begruendung_selbst": "Die Bürgschaften klingen gut, aber wenn der Bau selbst durch Auflagen teurer wird, hilft mir die Finanzierungshilfe nur begrenzt. Unterm Strich zahle ich mehr.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Grünen-Programm bietet Tom und Jessica relevante Ankerpunkte bei Kita-Ausbau, Ganztagsschule und einkommensabhängiger Sanierungsförderung — alles Punkte, die direkt ihre Lebenssituation als junge Familie im Speckgürtel adressieren. Auf der Negativseite fehlen konkrete Eigentumsfördermaßnahmen für Erstkäufer vollständig, und die ambitionierten ökologischen Ziele bis 2030 erhöhen den Kostendruck beim Neubau, ohne dass ein klarer Ausgleich erkennbar wäre. Das Programm versteht die Betreuungsseite der jungen Familie, vernachlässigt aber ihre Rolle als kaufwillige Eigenheimfamilie mit begrenztem Kapital.",
+    "score": 0
+  }
+}

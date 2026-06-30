@@ -1,0 +1,101 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine Grunderwerbsteuer beim Ersten Mal",
+      "thema": "steuern",
+      "programmpunkt": "Der Ersterwerb von Immobilien durch natürliche Personen soll von der Grunderwerbsteuer befreit werden.",
+      "seite": 54,
+      "zitat": "eine Befreiung des Ersterwerbs von Immobilien von der Grunderwerbsteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Erwerbsnebenkosten sind für Tom und Jessica ein Traumkiller; eine Befreiung des Ersterwerbs von der Grunderwerbsteuer senkt genau die Hürde, an der ihre Finanzierung scheitert.",
+      "begruendung_selbst": "Die Kaufnebenkosten fressen unser Erspartes. Wenn die Grunderwerbsteuer beim ersten Eigenheim wegfällt, kommen wir der Finanzierung ein gutes Stück näher.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zinslose Kredite fürs Eigenheim",
+      "thema": "wohnen",
+      "programmpunkt": "Familien, die in ihrer Heimat bleiben wollen, sollen unterstützt werden, auch durch zinslose Kredite.",
+      "seite": 44,
+      "zitat": "werden unterstützt – auch durch zinslose Kredite.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Zinsen sind für das Paar das zentrale Hindernis; zinslose Kredite für bauwillige Familien setzen direkt an ihrem Finanzierungsproblem an.",
+      "begruendung_selbst": "An den Zinsen scheitert es bei uns. Ein zinsloser Kredit wäre genau der Hebel, der das Ganze überhaupt erst stemmbar macht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauen soll billiger werden",
+      "thema": "wohnen",
+      "programmpunkt": "Serielles Bauen soll Kosten senken, Verfahren werden beschleunigt und entbürokratisiert.",
+      "seite": 44,
+      "zitat": "Serielles Bauen senkt Kosten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Baukosten machen Eigentum für das Paar unerreichbar; günstigeres, serielles Bauen und schnellere Verfahren adressieren ihren Druck beim Bauen direkt.",
+      "begruendung_selbst": "Wenn Bauen durch serielle Lösungen und schnellere Genehmigungen billiger wird, rückt das eigene Haus für uns endlich in Reichweite.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita-Platz für zwei Jobs",
+      "thema": "familie",
+      "programmpunkt": "Kitas mit flexiblen Öffnungszeiten auch in Randzeiten werden ausgebaut.",
+      "seite": 27,
+      "zitat": "Kitas mit flexiblen Öffnungszeiten auch in Randzeiten benötigt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener brauchen Tom und Jessica verlässliche Betreuung, die zu zwei Jobs passt; der Ausbau flexibler Kita-Zeiten trifft ihre Vereinbarkeitsfrage.",
+      "begruendung_selbst": "Ohne verlässlichen Kita-Platz können wir nicht beide arbeiten. Flexible Öffnungszeiten sind für uns die Grundvoraussetzung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Hilfe nur für die ganz Kleinen Einkommen",
+      "thema": "steuern",
+      "programmpunkt": "Eine Wiederauflage der Eigenheimzulage ist nur für Familien mit niedrigen Einkommen vorgesehen.",
+      "seite": 54,
+      "zitat": "für Familien mit niedrigen Einkommen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica verdienen zusammen ordentlich, aber zu wenig für eine tragbare Finanzierung; eine nur auf niedrige Einkommen zugeschnittene Eigenheimzulage lässt die geklemmte Mitte, zu der sie gehören, außen vor.",
+      "begruendung_selbst": "Wir verdienen beide ordentlich - und fallen damit aus solchen Förderungen raus. Genau die Mitte, die es trotzdem nicht schafft, wird wieder übersehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaregeln treiben den Baupreis",
+      "thema": "energie",
+      "programmpunkt": "Ein verbindliches Klimaschutzgesetz mit Reduktionspfaden soll eingeführt werden.",
+      "seite": 22,
+      "zitat": "Ein Klimaschutzgesetz schafft Verbindlichkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar erlebt energetische Vorgaben als preistreibend beim Bauen; ein verbindliches Klimaschutzgesetz weckt die Sorge, dass neue Standards ihr ohnehin enges Baubudget zusätzlich belasten.",
+      "begruendung_selbst": "Jede neue Klimavorgabe heißt für uns: noch teurer bauen. Gut gemeint, aber bezahlen müssen es am Ende junge Bauherren wie wir.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica finden ihre Kernhürden überraschend direkt adressiert: die Befreiung des Ersterwerbs von der Grunderwerbsteuer, zinslose Kredite für Familien, günstigeres serielles Bauen und flexible Kita-Zeiten treffen genau ihren Eigenheim- und Vereinbarkeitswunsch. Getrübt wird das Bild dadurch, dass die Eigenheimzulage nur niedrige Einkommen erreicht und ein verbindliches Klimaschutzgesetz die gefürchteten Baukosten weiter treiben könnte. Für die aufstiegsorientierte Mitte überwiegt der Zuspruch, mit klarer Skepsis, ob die Entlastung am Ende für sie reicht.",
+    "score": 1
+  }
+}

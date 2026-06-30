@@ -1,0 +1,78 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Braunkohle als Übergangslösung anerkannt!",
+      "thema": "energie",
+      "programmpunkt": "BSW sieht Braunkohle als Teil des Energiemixes und erkennt an, dass sie mittelfristig ausläuft – aber ohne überstürzten Ausstieg.",
+      "seite": 24,
+      "zitat": "Dazu zählt auch der heimische Energieträger Braunkohle. Die Nutzung der Braunkohle ist mittelfristig auslaufend",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny arbeitet im Energiebereich und weiß: Ein überstürzter Braunkohle-Ausstieg ohne gesicherte Alternativen zerstört Arbeitsplätze. Das BSW anerkennt Braunkohle als Übergangslösung mit klarem Auslaufdatum – das ist pragmatisch.",
+      "begruendung_selbst": "Ich will nicht ewig Braunkohle – aber ich will auch nicht, dass wir in zwei Jahren keinen Strom mehr haben. Eine ehrliche Übergangsperspektive ist besser als jeder ideologische Schnellausstieg.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Technologieoffen – das ist die richtige Haltung!",
+      "thema": "energie",
+      "programmpunkt": "BSW setzt auf einen breiten, technologieoffenen Energiemix mit gesicherter Leistung – Kernfusion und innovative Reaktortechnologien eingeschlossen.",
+      "seite": 25,
+      "zitat": "Wir unterstützen Forschung und Entwicklung neuer Energie- und Reaktortechnologien, darunter die Kernfusion sowie innovative Konzepte wie den Dual-Fluid-Reaktor.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny arbeitet im Bereich der Energietransformation und glaubt an Innovation statt Ideologie. Das BSW-Bekenntnis zu neuen Reaktortechnologien und Kernfusion gibt Forschungsimpulsen Rückhalt.",
+      "begruendung_selbst": "Wer wirklich Klimaschutz will, darf keine Technologien von vornherein ausschließen. Kernfusion und neue Reaktorkonzepte müssen geforscht werden dürfen – gut, dass das BSW das sieht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strukturwandel mit Mitbestimmung!",
+      "thema": "arbeit",
+      "programmpunkt": "BSW betont, dass Mitbestimmung kein Hemmnis, sondern ein Erfolgsfaktor im Strukturwandel ist.",
+      "seite": 22,
+      "zitat": "Mitbestimmung ist kein Hemmnis, sondern ein Erfolgsfaktor im Strukturwandel",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als jemand, der selbst durch den Bergbauausstieg eine Umschulung erlebt hat, weiß Ronny: Transformationen gelingen nur, wenn Arbeitnehmer mitgestalten dürfen. Das BSW-Bekenntnis zur Mitbestimmung ist für ihn eine Grundvoraussetzung.",
+      "begruendung_selbst": "Beim letzten Strukturwandel haben sie über uns hinweg entschieden. Wenn Mitbestimmung jetzt Erfolgsfaktor sein soll – dann wird es vielleicht besser diesmal.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kein CCS in Sachsen-Anhalt – das ist ein Problem",
+      "thema": "energie",
+      "programmpunkt": "BSW lehnt CO2-Verpressung (CCS) in Sachsen-Anhalt explizit als riskantes Experiment ab.",
+      "seite": 85,
+      "zitat": "Keine CO ₂ -Verpressung (CCS) in Sachsen-Anhalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny kennt Planungen für CCS-Pilotprojekte in der Region, die ihm als möglicher Zukunftsbereich erscheinen. Die kategorische BSW-Ablehnung von CCS schließt eine Technologieoption aus, die für die Industrie in der Übergangsphase wichtig sein könnte.",
+      "begruendung_selbst": "Technologieoffen – aber CCS verboten? Das ist ein Widerspruch. Wenn wir Emissionen in der Übergangszeit nicht irgendwo speichern können, fehlt uns ein wichtiges Werkzeug. Da ist BSW unkonsequent.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet bei BSW einen pragmatischen Umgang mit der Energiewende: Braunkohle als Übergangslösung anerkannt, Technologieoffenheit betont, Mitbestimmung im Strukturwandel gestärkt. Das CCS-Verbot für Sachsen-Anhalt kollidiert mit seiner Sicht auf die Optionsvielfalt im Übergang. Per Saldo: leicht positiv, aber kein klarer Jubel.",
+    "score": 0
+  }
+}

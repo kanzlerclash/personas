@@ -1,0 +1,90 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mindestrente 1.500 Euro – das wäre unser Recht!",
+      "thema": "wirtschaft",
+      "programmpunkt": "BSW fordert eine Mindestrente von 1.500 Euro netto nach 40 Beitragsjahren und die Steuerfreiheit von Renten bis 2.000 Euro.",
+      "seite": 36,
+      "zitat": "eine Mindestrente von 1.500 Euro nach 40 Beitragsjahren, die Steuerfreiheit von Renten bis 2.000 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ingrid und Werner haben jahrzehntelang in die Rentenkasse eingezahlt und kämpfen dennoch mit knappem Budget. Eine gesetzlich garantierte Mindestrente von 1.500 Euro würde ihre finanzielle Lage spürbar verbessern und Altersarmut wirksam bekämpfen.",
+      "begruendung_selbst": "40 Jahre gearbeitet und trotzdem jeden Euro umdrehen – das kann nicht richtig sein. Wenn das BSW 1.500 Euro garantiert, dann wäre das endlich eine Anerkennung unserer Lebensleistung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rentenniveau auf 75 Prozent!",
+      "thema": "wirtschaft",
+      "programmpunkt": "BSW fordert ein Rentenniveau von mindestens 75 Prozent des Nettoeinkommens und lehnt jede Anhebung des Rentenalters ab.",
+      "seite": 36,
+      "zitat": "ein Rentenniveau von mindestens 75 Prozent des Nettoeinkommens. Eine weitere Anhebung des Renteneintrittssalters lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das gesinkene Rentenniveau ist eine zentrale Sorge des Rentnerehepaars. Ein verbindliches Mindestniveau von 75 Prozent würde dafür sorgen, dass ihre Rente dauerhaft auskömmlich bleibt – und keine weiteren Abstriche drohen.",
+      "begruendung_selbst": "Die Rente wird immer weniger wert, während alles teurer wird. Wenn 75 Prozent das Minimum sein soll, dann ist das ein Versprechen, an dem man sie messen kann.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Pflegevollversicherung – endlich!",
+      "thema": "gesundheit",
+      "programmpunkt": "BSW fordert eine Pflegevollversicherung, die überwiegend aus Steuermitteln finanziert wird, damit würdige Pflege keine Frage des Geldes ist.",
+      "seite": 58,
+      "zitat": "Das BSW fordert eine Pflegevollversicherung, die überwiegend aus Steuermitteln finanziert wird.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ingrid und Werner denken mit Sorge an den Pflegefall. Pflegekosten können ihr gesamtes Erspartes aufzehren und ihre Kinder in Haftung nehmen. Eine Pflegevollversicherung aus Steuermitteln würde diese Existenzangst nehmen.",
+      "begruendung_selbst": "Was passiert, wenn einer von uns Pflege braucht? Dann ist das ganze Ersparte weg. Eine Vollversicherung würde uns diesen Alptraum nehmen. Das ist es, was wir gebraucht hätten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hausarzt im Dorf – nicht wegrationalisiert!",
+      "thema": "gesundheit",
+      "programmpunkt": "BSW setzt sich für Landarzt-Stipendienprogramme, Gemeindemedizin und alternative Versorgungsmodelle ein, um medizinische Versorgung im ländlichen Raum zu sichern.",
+      "seite": 61,
+      "zitat": "Ländlichen Raum durch bessere Infrastruktur attraktiver machen • Alternative Versorgungsmodelle wie Gesundheitszentren ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihr Hausarzt hat gerade aufgehört und die nächste Praxis ist 20 km entfernt. Werner kann nicht mehr gut Auto fahren. Gesundheitszentren im ländlichen Raum wären eine direkte Antwort auf ihre konkrete Not.",
+      "begruendung_selbst": "Unser Arzt ist weg. Jetzt muss Werner mit dem Bus zur nächsten Stadt – das ist kein Spaß mit über 70. Wenn das BSW das wirklich ändern will, haben sie unsere Stimme.",
+      "beleg_hinweis": "Seite von 60 auf 61 korrigiert",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiepreise runter – Heizen muss bezahlbar sein!",
+      "thema": "energie",
+      "programmpunkt": "BSW will durch technologieoffenen Energiemix und Abschaffung der CO2-Abgabe die Energiepreise für Bürger und Haushalte senken.",
+      "seite": 27,
+      "zitat": "daher fordern wir, diese ungerechte Steuer auszusetzen oder abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Heizkosten sind für das ältere Rentnerpaar mit festem und knappem Einkommen ein erheblicher Kostenfaktor. Senkende Energiepreise würden direkt ihre Kaufkraft verbessern.",
+      "begruendung_selbst": "Im Winter heizen wir sparsam, weil wir es uns nicht leisten können, voll aufzudrehen. Wenn diese Abgaben wegfallen, können wir wenigstens warm sitzen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das BSW-Programm trifft die zentralen Sorgen des Rentnerehepaars: Mindestrente, Rentenniveau, Pflegevollversicherung und ärztliche Versorgung im ländlichen Raum werden klar adressiert. Die Energiepreispolitik entlastet sie zusätzlich. Kein Programmpunkt schadet ihnen direkt. Das ist die stärkste Übereinstimmung mit einer Partei, die sie im Programm finden werden.",
+    "score": 2
+  }
+}

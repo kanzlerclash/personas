@@ -1,0 +1,125 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "53 Prozent Rente – das wär was",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will das Rentenniveau auf 53 Prozent anheben und eine gemeinsame gesetzliche Rentenversicherung einführen, in die alle Erwerbstätigen einzahlen.",
+      "seite": 44,
+      "zitat": "das Rentenniveau im Bund auf 53 Prozent anheben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter beziehen kleine gesetzliche Renten und beobachten, dass 60 Prozent aller Renten in Sachsen-Anhalt unter der Armutsgrenze liegen – obwohl die Mehrheit über 40 Beitragsjahre hatte. Eine Anhebung des Rentenniveaus wäre für sie direkt wirksam.",
+      "begruendung_selbst": "Wir haben unser Leben lang gearbeitet – jetzt soll die Rente bitte sicher sein. Wenn 53 Prozent wirklich kommen, wäre das der erste echte Schritt, von dem wir was merken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "DDR-Lebensleistung wird endlich anerkannt",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will einen Gerechtigkeitsfonds einführen, der regelmäßige Ausgleichszahlungen an einen erweiterten Kreis ehemaliger DDR-Beschäftigter gewährt, auch für in der DDR geschiedene Frauen.",
+      "seite": 44,
+      "zitat": "regelmäßige Ausgleichszahlungen an einen erweiterten Kreis ehemaliger DDR-Beschäftigter",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter haben ihre Berufsbiografien vollständig in der DDR begonnen und sind von der als ungerecht empfundenen Rentenüberleitung nach der Wende betroffen. Ein Gerechtigkeitsfonds spricht genau diese Wunde an, die im Rentensystem seit Jahrzehnten schmerzt.",
+      "begruendung_selbst": "Wir haben in der DDR gearbeitet wie alle anderen auch. Dass die Rente dafür nie richtig angerechnet wurde, ist bis heute bitter. Wer das endlich korrigieren will, kriegt unsere Aufmerksamkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Pflegekosten mehr aus eigener Tasche",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will eine solidarische Pflegevollversicherung auf Bundesebene einführen, damit pflegebedingte Eigenanteile abgeschafft werden und niemand wegen Pflege in Armut gerät.",
+      "seite": 56,
+      "zitat": "eine solidarische Pflegevollversicherung auf Bundesebene, damit pflegebedingte Eigenanteile abgeschafft werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die größte Angst von Helga und Dieter ist, dass Pflegekosten ihr Haus aufzehren. Der durchschnittliche Eigenanteil übersteigt die Durchschnittsrente in Sachsen-Anhalt bereits deutlich. Eine vollständige Abschaffung der Eigenanteile wäre existenzsichernd.",
+      "begruendung_selbst": "Wenn wir einmal Pflege brauchen, ist das Haus weg. Das ist keine Übertreibung – das rechnen wir nach. Wenn die Eigenanteile wirklich wegfallen, dann ist das ein Versprechen, das uns direkt trifft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Jemand hilft mit dem Bürokratie-Dschungel",
+      "thema": "familie",
+      "programmpunkt": "Die Partei will mobile Bürokratie-Lotsen einführen, die Rentner auf dem Land bei der Beantragung von Leistungen und der Orientierung durch bürokratische Verfahren unterstützen.",
+      "seite": 57,
+      "zitat": "die Einführung von sogenannten mobilen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter leben im Dorf ohne nahe Infrastruktur. Förderanträge, Wohngeld, Pflegeleistungen – das ist ein undurchsichtiger Antragsdschungel. Mobile Lotsen, die auch auf dem Land helfen, adressieren direkt ihre Hilflosigkeit gegenüber der Verwaltung.",
+      "begruendung_selbst": "Wir wissen oft gar nicht, welche Hilfen uns zustehen. Das Formular für Wohngeld hat fünf Seiten. Wenn jemand kommt und hilft, das zu beantragen, wäre das keine Kleinigkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arzt aufs Land bringen – Telemedizin",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will Medimobil und Telemedizin für ambulante Versorgung auf dem Land einsetzen und kommunale Versorgungszentren als Rückgrat der wohnortnahen Gesundheitsversorgung fördern.",
+      "seite": 55,
+      "zitat": "den Einsatz von Medimobil und Telemedizin für ambulante medizinische Versorgung auf dem Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter haben einen Hausarzt in Reichweite – noch. Die Sorge vor dessen Aufgabe der Praxis ist real. Telemedizin und mobile Versorgungsangebote würden auch dann eine Grundversorgung sichern, wenn die niedergelassene Praxis wegfällt.",
+      "begruendung_selbst": "Wenn unser Hausarzt aufhört, muss ich 30 Kilometer fahren. Beim nächsten Arzttermin. Das geht irgendwann nicht mehr. Telemedizin und Medimobil – das klingt nach einer echten Lösung für Dörfer wie unseres.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Seniorenticket für den Bus – ja bitte",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will Senioren-Tickets oder ermäßigte Tarife für ältere Menschen einführen und Rufbusse im ländlichen Raum ausbauen, auch für ältere Menschen ohne Auto.",
+      "seite": 58,
+      "zitat": "Einführung von Senioren-Tickets oder ermäßigten Tarifen für ältere Menschen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fahren noch selbst Auto, aber wissen, dass das irgendwann endet. Günstige Seniorentickets und Rufbusse im ländlichen Raum sind dann die Bedingung für soziale Teilhabe im Alter.",
+      "begruendung_selbst": "Solange wir noch fahren können, ist das kein Thema. Aber wir wissen beide, das endet irgendwann. Wenn dann ein günstiger Bus da ist, bleibt man nicht eingesperrt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanierung? Nur mit staatlicher Unterstützung",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will eine nach Einkommensklassen gestaffelte Förderung für die energetische Sanierung und den Austausch von Heizungsanlagen bei selbstgenutzten Eigenheimen einführen.",
+      "seite": 85,
+      "zitat": "eine nach Einkommensklassen gestaffelte Förderung für die energetische Sanierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter leben in einem Haus von 1981 und fürchten Sanierungspflichten, die sie sich nicht leisten können. Die einkommensgestaffelte Förderung (statt Pflicht ohne Ausgleich) geht in eine für sie erträgliche Richtung.",
+      "begruendung_selbst": "Wenn wir das Dach dämmen müssen, von welchem Geld eigentlich? Wenn es dafür Förderung nach Einkommen gibt, könnten wir das vielleicht sogar schaffen. Das ist anders als ein blöder Zwang.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Erbschaftsteuer bedroht unser Haus",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei will die Erbschafts- und Schenkungssteuer reformieren, um Vermögenskonzentration abzubauen – mit dem erklärten Ziel, dass starke Schultern mehr tragen.",
+      "seite": 17,
+      "zitat": "Wir setzen uns ein für gerechte Beiträge, damit Vermögenskonzentration abnimmt und Chancen wachsen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Haus ist Helgas und Dieters einziges Vermögen und ihr Zuhause zugleich. Sie möchten es einmal den Kindern hinterlassen. Eine verschärfte Erbschaftsteuer ohne klare Freistellungen für selbstgenutzte Eigenheime oder niedrige Renten könnte diesen Plan empfindlich stören.",
+      "begruendung_selbst": "Das Haus ist das Einzige, was wir haben. Das haben wir für unsere Kinder aufgebaut. Wenn die bei der Übergabe die Hälfte an den Staat abgeben müssen, hat das mit Gerechtigkeit nichts mehr zu tun.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter finden im Programm eine ungewöhnlich dichte Passung zu ihren konkreten Alltagssorgen: Die Kombination aus Rentenniveauanhebung, DDR-Gerechtigkeitsfonds, Pflegevollversicherung, mobilen Bürokratie-Lotsen, ländlicher Gesundheitsversorgung und Seniorentickets adressiert fast alle ihre Kernängste direkt. Die Erbschaftsteuerreform ist ein echter Störfaktor für ihre Planung hinsichtlich des Hauses. Insgesamt ist das Programm für diese Persona inhaltlich so gut ausgerichtet wie das keiner anderen Partei typischerweise der Fall ist – auch wenn grundsätzliche Skepsis gegenüber großen Reformversprechen der Linken bleibt.",
+    "score": 1
+  }
+}

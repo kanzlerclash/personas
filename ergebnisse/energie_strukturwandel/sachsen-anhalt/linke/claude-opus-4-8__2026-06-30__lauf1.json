@@ -1,0 +1,113 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Energiewende als Jobmotor für meine Region!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Energiewende als Jobmotor nutzen, regionale Wertschöpfung halten und neue Industriearbeitsplätze schaffen.",
+      "seite": 91,
+      "zitat": "Energiewende als Jobmotor",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fürchtet das 'verlängerte Werkbank'-Schicksal seiner Region; die Energiewende als Quelle neuer Arbeitsplätze trifft seine Hoffnung auf Perspektiven vor Ort.",
+      "begruendung_selbst": "Wenn aus dem Wandel echte Jobs hier entstehen, statt nur Werkbank für andere zu sein, ist das genau mein Ziel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgungssicherheit mitgedacht – endlich!",
+      "thema": "energie",
+      "programmpunkt": "Eine Energiepolitik, die Versorgungssicherheit, Klimaschutz und soziale Gerechtigkeit zusammen denkt.",
+      "seite": 106,
+      "zitat": "Versorgungssicherheit, Klimaschutz und soziale Gerechtigkeit zusammen denkt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Ronny ist Versorgungssicherheit zentral; dass sie ausdrücklich gleichrangig mit Klimaschutz gedacht wird, entspricht seinem pragmatischen Anspruch an die Energiepolitik.",
+      "begruendung_selbst": "Klimaschutz ja, aber das Licht muss anbleiben – dass beides zusammengedacht wird, ist genau mein pragmatischer Punkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stadtwerke und Wasserstoff für uns vor Ort!",
+      "thema": "energie",
+      "programmpunkt": "Kommunale Stadtwerke und Landwerke fördern und grünen Wasserstoff für die Chemieindustrie ausbauen.",
+      "seite": 109,
+      "zitat": "grünen Wasserstoff für die Chemieindustrie gezielt fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny will Investitionen und neue Industrie in seiner Region; gezielte Wasserstoffförderung und starke Stadtwerke bieten konkrete Zukunftsperspektiven für seinen Standort.",
+      "begruendung_selbst": "Wasserstoff für die Chemie und starke Stadtwerke – das wären echte Brücken in eine Zukunft für meine Region.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Niemand bleibt im Wandel zurück!",
+      "thema": "arbeit",
+      "programmpunkt": "Überleitungsgesellschaften sichern Beschäftigung, Weiterbildung und neue Perspektiven, damit niemand zurückbleibt.",
+      "seite": 91,
+      "zitat": "damit niemand im Strukturwandel zurückbleibt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronnys berufliche Zukunft ist an die Region gebunden; abgesicherte Übergänge und Qualifizierung adressieren seine Sorge vor Perspektivlosigkeit.",
+      "begruendung_selbst": "Gebt mir einen Plan, der die Leute mitnimmt – Überleitung und Weiterbildung sind genau das, was wir hier brauchen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Enddatum 2035 – aber wo ist die Brücke?",
+      "thema": "klima",
+      "programmpunkt": "Klimaneutralität bis 2035 mit verbindlichem CO2-Budget für das Land.",
+      "seite": 121,
+      "zitat": "Klimaneutral bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny ist skeptisch gegenüber starren Ausstiegsdaten ohne tragfähigen Ersatz; ein ambitioniertes Zieldatum verschärft seine Sorge, dass die Region vor dem Neuen stirbt.",
+      "begruendung_selbst": "Erst die Brücke bauen, dann die alte abreißen – ein Enddatum ohne fertigen Ersatz ist genau das, was ich fürchte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gaskraftwerke gedeckelt – nimmt mir die Brücke",
+      "thema": "energie",
+      "programmpunkt": "Gaskraftwerke nur als Brücke mit verbindlichen Kriterien wie H2-ready und maximal 1.000 Volllaststunden zulassen.",
+      "seite": 109,
+      "zitat": "maximal 1.000 Volllaststunden festlegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny arbeitet in Kohle, Gas und Netzen und ist technologieoffen; enge Betriebsgrenzen für Gaskraftwerke erlebt er als Einschränkung einer nötigen Brückentechnologie.",
+      "begruendung_selbst": "Wenn man Gaskraftwerke so eng deckelt, nimmt man uns ein Werkzeug, das wir für die Versorgungssicherheit noch brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pauschale Technologie-Absagen – nicht mein Weg",
+      "thema": "energie",
+      "programmpunkt": "Klare Absage an Atomkraft und an Debatten, die überholte Energieerzeugung wiederbeleben wollen.",
+      "seite": 106,
+      "zitat": "eine klare Absage an Atomkraft",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny lehnt pauschale Technologieablehnung ab und vermisst Technologieoffenheit; kategorische Absagen widersprechen seinem Anspruch, alle Optionen für die Region zu prüfen.",
+      "begruendung_selbst": "Ich will Optionen prüfen, nicht Technologien per Beschluss ausschließen – so bleibt für meine Region zu wenig Spielraum.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny erkennt im Programm viel von dem, was seine Region braucht: Energiewende als Jobmotor, gezielte Wasserstoffförderung, starke Stadtwerke und abgesicherte Übergänge im Strukturwandel. Zugleich stoßen ihm das frühe Zieldatum 2035, die enge Deckelung von Gaskraftwerken und die pauschalen Technologie-Absagen auf, weil er Realismus und Technologieoffenheit vermisst. Aus seiner pragmatischen Sicht halten sich Chancen und Bedenken die Waage.",
+    "score": 0
+  }
+}

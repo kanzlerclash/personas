@@ -1,0 +1,100 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Gleicher Lohn wie im Westen – endlich!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke setzt sich für die Angleichung der Löhne in Sachsen-Anhalt an das westdeutsche Niveau ein und will Tarifverträge allgemeinverbindlich machen.",
+      "seite": 51,
+      "zitat": "die längst überfällige Angleichung der Löhne an das westdeutsche Niveau",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin arbeitet unter hoher Belastung für ein Gehalt, das sie gemessen an ihrer Verantwortung als zu niedrig empfindet. Die Lohnangleichung ist für sie eine Frage der Gerechtigkeit und der Anerkennung systemrelevanter Arbeit.",
+      "begruendung_selbst": "Ich mache dieselbe Arbeit wie eine Pflegekraft in Bayern – und bekomme deutlich weniger. Das ist seit Jahrzehnten überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Personal, verlässliche Dienstpläne",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke fordert verbesserte Arbeitsbedingungen für Krankenhauspersonal mit mehr Personal, verlässlichen Dienstplänen, besseren Schichtzulagen und guten Personalschlüsseln.",
+      "seite": 53,
+      "zitat": "verbesserte Arbeitsbedingungen mit mehr Personal, verlässlichen Dienstplänen, besseren Schichtzulagen und guten Personalschlüsseln für das Krankenhauspersonal",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins täglich erlebte Unterbesetzung und unplanbare Dienste werden hier direkt adressiert. Die Linke benennt nicht nur Symptome, sondern schlägt strukturelle Lösungen vor, die den Pflegealltag tatsächlich verändern würden.",
+      "begruendung_selbst": "Genau das: mehr Personal, verlässliche Dienstpläne. Das ist kein Luxus – das ist Grundlage dafür, dass ich gut pflegen kann und nicht selbst krank werde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflegevollversicherung – Eigenanteile weg!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will eine solidarische Pflegevollversicherung auf Bundesebene einführen, damit pflegebedingte Eigenanteile abgeschafft werden und niemand wegen Pflegekosten in Armut gerät.",
+      "seite": 56,
+      "zitat": "eine solidarische Pflegevollversicherung auf Bundesebene, damit pflegebedingte Eigenanteile abgeschafft werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich, wie Pflegebedürftige und ihre Familien an explodierenden Eigenanteilen verzweifeln. Eine Vollversicherung würde nicht nur Betroffene entlasten, sondern auch den Druck von ihr nehmen, unter prekären Bedingungen zu sparen.",
+      "begruendung_selbst": "Ich sehe, wie Familien am Limit sind, weil Pflege so teuer geworden ist. Wenn der Eigenanteil wegfällt, können wir endlich wirklich für die Menschen da sein – nicht nur für das, was das Budget hergibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege raus aus Privathand",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke will Pflegeeinrichtungen konsequent in öffentliche oder gemeinnützige Trägerschaft überführen und Privatisierung im Pflegebereich beenden.",
+      "seite": 56,
+      "zitat": "Pflegeeinrichtungen konsequent in öffentliche oder gemeinnützige Trägerschaft überführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt Privatisierung als unmittelbaren Treiber von Unterbesetzung und Arbeitsverdichtung. Renditelogik und gute Pflege schließen sich für sie aus – öffentliche Trägerschaft würde die Strukturen schaffen, unter denen würdige Pflege möglich ist.",
+      "begruendung_selbst": "Wenn Pflege Rendite abwerfen muss, leidet immer das Personal und die Patienten. Raus aus dem Profit – das ist der einzige Weg zu echter Verbesserung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausländische Abschlüsse schnell anerkennen",
+      "thema": "integration",
+      "programmpunkt": "Die Linke will ausländische Berufsabschlüsse innerhalb von sechs Monaten anerkennen und Anpassungsqualifizierungen anbieten.",
+      "seite": 98,
+      "zitat": "Ausländische Berufsabschlüsse werden innerhalb von sechs Monaten anerkannt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station hängt von internationalen Kolleginnen ab. Lange Anerkennungsverfahren sind für sie sinnlos bürokratische Hürden, die qualifizierte Pflegekräfte in Niedriglohnarbeit drängen oder vertreiben, statt sie ins Team zu integrieren.",
+      "begruendung_selbst": "Meine Kolleginnen aus dem Ausland können pflegen – das sehe ich jeden Tag. Warum braucht es dann manchmal Jahre, bis ihr Abschluss gilt? Sechs Monate wäre schon ein riesiger Schritt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege braucht Zuwanderung – das stimmt",
+      "thema": "integration",
+      "programmpunkt": "Die Linke erkennt an, dass die Pflegebranche ohne Zuwanderung nicht mehr funktionieren würde, und verbindet das mit einer fairen Integrationspolitik statt Abschottung.",
+      "seite": 97,
+      "zitat": "die Branche ohne Zuwanderung nicht mehr funktionieren würde",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich, dass ihre Station ohne migrantische Kolleginnen kollabieren würde. Das klare programmatische Bekenntnis dazu – ohne Einschränkung oder Schuldgefühl – trifft ihre Haltung exakt und steht im direkten Gegensatz zu Positionen, die sie als abwegig empfindet.",
+      "begruendung_selbst": "Genau das sage ich auch. Ohne meine Kolleginnen aus dem Ausland wäre diese Station dicht. Wer das nicht sagen will, redet nicht über meine Realität.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet im Programm der Linken eine umfassende Entsprechung ihrer beruflichen Kernprobleme: Lohnangleichung, bessere Personalschlüssel, Entprivatisierung der Pflege und eine Pflegevollversicherung adressieren die strukturellen Defizite, unter denen sie täglich leidet. Besonders stark deckt sich die Haltung der Linken zur Arbeitsmigration mit Kerstins Alltagsrealität: Das Bekenntnis zur Unverzichtbarkeit internationaler Pflegekräfte und zu schneller Anerkennung ihrer Abschlüsse ist für sie kein Nebenpunkt, sondern eine Frage des Überlebens ihres Teams und ihrer Station.",
+    "score": 2
+  }
+}

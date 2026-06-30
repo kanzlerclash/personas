@@ -1,0 +1,89 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "ÖPNV bis ins Dorf - immerhin",
+      "thema": "verkehr",
+      "programmpunkt": "Der ÖPNV soll mit dichteren Takten, On-Demand-Angeboten und dem Deutschlandticket ausgebaut werden.",
+      "seite": 73,
+      "zitat": "Das Deutschlandticket bleibt Teil des Angebots",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt autofrei und schätzt starken ÖPNV; das Festhalten am Deutschlandticket und der ÖPNV-Ausbau entsprechen ihrem verkehrspolitischen Leitbild.",
+      "begruendung_selbst": "Wenigstens beim Nahverkehr ziehen sie nicht den Stecker. Ein gutes ÖPNV-Angebot ist für mich Grundausstattung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Der Markt soll's richten",
+      "thema": "wohnen",
+      "programmpunkt": "Wohnungspolitik setzt auf private Investitionen statt Regulierung und will Förderabhängigkeit durch wirtschaftliche Stärke ersetzen.",
+      "seite": 13,
+      "zitat": "wir ermöglichen private Investitionen statt sie wegzuregulieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla erlebt 'der Markt regelt' als Verdrängung; der ausdrücklich deregulierende Wohnkurs steht ihrem Schutzbedürfnis als Mieterin diametral entgegen.",
+      "begruendung_selbst": "'Nicht wegregulieren' heißt für mich: kein Schutz vor der nächsten Mieterhöhung. Genau das macht mir Angst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentum für die, die's haben",
+      "thema": "wohnen",
+      "programmpunkt": "Im Zentrum steht die Förderung von Wohneigentum über einen Grunderwerbsteuer-Freibetrag.",
+      "seite": 12,
+      "zitat": "Wir machen die eigenen vier Wände wieder erreichbar",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Eigentum ist für Carla in der Stadt unerreichbar; ein eigentumszentrierter Ansatz ohne Mieterschutz geht an ihrer Lebensrealität als Mieterin vorbei.",
+      "begruendung_selbst": "Eigentum ist für mich utopisch. Mir hilft kein Freibetrag, mir hilft eine Wohnung, die ich behalten kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Bremse gegen Verdrängung",
+      "thema": "wohnen",
+      "programmpunkt": "Modernisierungen sollen über steuerliche Abschreibungen angereizt werden, ohne mietregulierende Schutzinstrumente.",
+      "seite": 13,
+      "zitat": "damit energetische Sanierungen und barrierereduzierende Maßnahmen im Bestand steuerlich beschleunigt abgeschrieben werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla fürchtet die Modernisierungsumlage als Verdrängungshebel; steuerliche Modernisierungsanreize ohne Mieterschutz verstärken aus ihrer Sicht genau diese Gefahr.",
+      "begruendung_selbst": "Mehr Anreize für Modernisierung und kein Wort zum Mieterschutz - das ist der Brief im Kasten, vor dem ich Angst habe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Daseinsvorsorge an den Markt verkauft",
+      "thema": "wirtschaft",
+      "programmpunkt": "Landesbeteiligungen sollen über eine umfassende Privatisierungsoffensive abgebaut werden.",
+      "seite": 9,
+      "zitat": "eine umfassende Privatisierungsoffensive zu starten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla versteht Wohnen und Daseinsvorsorge als gemeinwohlgebunden; eine breite Privatisierungslinie widerspricht ihrer Überzeugung, dass der Staat hier nicht zurückweichen darf.",
+      "begruendung_selbst": "Wohnen ist kein Aktienpaket. Alles privatisieren heißt, das Gemeinwohl dem Profit zu opfern.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im starken ÖPNV-Bekenntnis einen einzelnen Anknüpfungspunkt, sieht ihr Kernthema Wohnen aber durchgehend gegen ihre Überzeugungen gewendet: Deregulierung statt Mieterschutz, Eigentumsförderung statt bezahlbarer Mieten, Modernisierungsanreize ohne Verdrängungsschutz und eine breite Privatisierungslinie. Für sie ist das die marktliberale Wohnungspolitik, die sie ablehnt.",
+    "score": -2
+  }
+}

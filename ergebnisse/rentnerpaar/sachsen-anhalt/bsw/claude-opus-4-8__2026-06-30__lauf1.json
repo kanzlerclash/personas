@@ -1,0 +1,100 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Die Rente endlich sicher!",
+      "thema": "gesundheit",
+      "programmpunkt": "Mindestrente von 1.500 Euro nach 40 Beitragsjahren, Rentenniveau von mindestens 75 Prozent, keine Anhebung des Renteneintrittsalters.",
+      "seite": 36,
+      "zitat": "eine Mindestrente von 1.500 Euro nach 40 Beitragsjahren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter leben von kleinen Renten und fürchten Experimente mit der Altersvorsorge; eine stabile, armutsfeste gesetzliche Rente trifft ihren wichtigsten Wunsch.",
+      "begruendung_selbst": "Wir haben unser Leben lang gearbeitet – wenn die Rente sicher ist und nicht zum Börsenspiel wird, fällt uns ein Stein vom Herzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Die Pflege ruiniert uns nicht!",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflege soll bezahlbar bleiben, Heimkosten dürfen Pflegebedürftige nicht in die Armut treiben, Pflegevollversicherung aus Steuermitteln.",
+      "seite": 57,
+      "zitat": "Heimkosten dürfen pflegebedürftige Menschen nicht in die Armut treiben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Angst vor Pflegekosten ist für das Ehepaar zentral; die Zusage, Heimkosten nicht zur Armutsfalle werden zu lassen, nimmt eine konkrete Existenzsorge auf.",
+      "begruendung_selbst": "Was, wenn einer von uns ins Heim muss? Dass uns das nicht in die Armut treiben soll, ist genau das, was wir hören wollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung kommt aufs Dorf zurück!",
+      "thema": "gesundheit",
+      "programmpunkt": "Aufbau eines flächendeckenden Systems von Gemeindeschwestern für die wohnortnahe Versorgung älterer und chronisch kranker Menschen.",
+      "seite": 60,
+      "zitat": "ein flächendeckendes System von Gemeindeschwestern aufbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar bangt um die ärztliche Versorgung im Ort, wenn der Hausarzt aufhört; Gemeindeschwestern und Niederlassungsanreize versprechen Versorgung in Reichweite.",
+      "begruendung_selbst": "Wenn unser Hausarzt aufhört, sind wir verloren – eine Gemeindeschwester, die zu uns kommt, wäre eine echte Hilfe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heizen muss bezahlbar bleiben!",
+      "thema": "energie",
+      "programmpunkt": "Wärmewende mit Augenmaß, sozialverträglich und ohne überfordernde Preissteigerungen.",
+      "seite": 26,
+      "zitat": "Wir brauchen deshalb eine Wärmewende mit Augenmaß.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Heizkosten sind für die Rentner ein zentraler Posten; eine Wärmewende, die Preissteigerungen vermeidet, lindert ihre Angst vor unbezahlbaren Energiekosten.",
+      "begruendung_selbst": "Jeder Euro für die Heizung muss bei uns geplant sein – eine Energiewende mit Maß und Ziel statt teurer Hauruck-Aktionen, das passt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Sanierungspflicht, die uns ruiniert!",
+      "thema": "wohnen",
+      "programmpunkt": "Klimaschutz und Energieeffizienz dürfen das Bauen und Sanieren nicht künstlich verteuern; verpflichtende QNG-Standards werden abgelehnt.",
+      "seite": 30,
+      "zitat": "nicht zu einer künstlichen Verteuerung des Bauens führen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten Sanierungspflichten, die sie sich nicht leisten können; die Absage an verteuernde Vorgaben schützt ihr Wohnen im eigenen Haus.",
+      "begruendung_selbst": "Wenn wir das Dach dämmen müssten, von welchem Geld eigentlich? Gut, dass uns keiner teure Pflichten aufdrückt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei im Ort!",
+      "thema": "sicherheit",
+      "programmpunkt": "Mehr sichtbare Polizeipräsenz und Aufstockung der Landespolizei auf rund 7.000 Stellen bis 2028.",
+      "seite": 67,
+      "zitat": "Wir setzen uns für mehr sichtbare Polizeipräsenz",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Ehepaar sorgt sich um Sicherheit und Kriminalität im Ort; mehr sichtbare Polizei stärkt ihr Sicherheitsgefühl und das Gefühl, nicht abgehängt zu sein.",
+      "begruendung_selbst": "Wenn man die Polizei wieder im Ort sieht, fühlt man sich gleich sicherer – das tut uns gut.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Für Helga und Dieter adressiert das BSW-Programm fast alle ihre Ängste: sichere Rente ohne Börsenrisiko, bezahlbare Pflege, wohnortnahe Versorgung, eine Wärmewende mit Augenmaß und mehr Polizeipräsenz. Belastbare Punkte gegen ihre Kerninteressen finden sie kaum. Das Versprechen von Verlässlichkeit und Versorgung im Alter passt eng zu ihrem Sicherheitsbedürfnis.",
+    "score": 2
+  }
+}

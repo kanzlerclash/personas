@@ -1,0 +1,113 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Technologieoffen statt Verbote!",
+      "thema": "energie",
+      "programmpunkt": "Bekenntnis zu einem breiten, technologieoffenen Energiemix mit gesicherter Leistung.",
+      "seite": 24,
+      "zitat": "einen breiten, technologieoffenen Energiemix mit gesicherter Leistung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny lehnt einseitige Festlegungen ab und setzt auf Technologieoffenheit; ein breiter Energiemix mit gesicherter Leistung entspricht seinem fachlichen Pragmatismus.",
+      "begruendung_selbst": "Genau so denke ich: nicht auf eine Technologie festlegen, sondern einen Mix, der die Versorgung wirklich sichert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erst die Brücke, dann der Abriss!",
+      "thema": "energie",
+      "programmpunkt": "Grundlastfähigkeit soll erhalten bleiben, solange keine gleichwertigen Alternativen verfügbar sind.",
+      "seite": 25,
+      "zitat": "Grundlastfähigkeit erhalten, solange keine gleichwertigen Alternativen verfügbar sind",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny warnt vor Ausstiegsdaten ohne Ersatz; der Erhalt der Grundlast bis zu echten Alternativen ist genau sein 'Erst die Brücke bauen'-Prinzip.",
+      "begruendung_selbst": "Erst die Brücke bauen, dann die alte abreißen – endlich steht das mal so im Programm.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Forschung für die Energiezukunft!",
+      "thema": "klima",
+      "programmpunkt": "Technologieoffene Förderung von Forschung an neuen Energie- und Reaktortechnologien.",
+      "seite": 25,
+      "zitat": "Forschung an neuen Energie- und Reaktortechnologien technologieoffen fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als technisch versierter Energiewirtschaftler begrüßt Ronny, dass auf Innovation und Vielfalt statt auf ideologische Festlegung gesetzt wird.",
+      "begruendung_selbst": "Zukunftssicherheit kommt durch Vielfalt und Forschung, nicht durch Denkverbote – das sehe ich genauso.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Neue Wertschöpfung für meine Region!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Aufbau regionaler Wertschöpfung von der Lithiumförderung bis zur Batteriefertigung in Sachsen-Anhalt.",
+      "seite": 28,
+      "zitat": "Regionale Wertschöpfung von Förderung bis Batteriefertigung aufbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sorgt sich um Perspektiven seiner Strukturwandelregion; eine neue Wertschöpfungskette vor Ort ist genau die Zukunftsindustrie, die er sich wünscht.",
+      "begruendung_selbst": "Wenn hier von der Förderung bis zur Batteriefertigung was Neues entsteht, hat meine Region wieder eine Perspektive.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umschulung statt Perspektivlosigkeit!",
+      "thema": "arbeit",
+      "programmpunkt": "Sicherung der Beschäftigung im Strukturwandel durch Qualifizierung und Weiterbildung.",
+      "seite": 28,
+      "zitat": "Beschäftigung durch Qualifizierung und Weiterbildung im Strukturwandel sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fürchtet Abwanderung und Perspektivlosigkeit; ein Plan, Beschäftigte über Qualifizierung im Wandel zu halten, adressiert seine Sorge um gute Arbeit vor Ort.",
+      "begruendung_selbst": "Gebt mir einen Plan mit Umschulung und neuen Jobs, nicht nur ein Enddatum – genau das brauchen die Leute hier.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "CCS-Verbot nimmt uns die Brücke!",
+      "thema": "klima",
+      "programmpunkt": "Grundsätzliche Ablehnung der CO2-Verpressung (CCS) in Sachsen-Anhalt zugunsten dezentraler Speicher und Aufforstung.",
+      "seite": 85,
+      "zitat": "Verpressung (CCS) lehnen wir für Sachsen-Anhalt ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny sieht in CCS eine mögliche Brücke für seine Region; das pauschale Verbot widerspricht direkt seiner Sorge vor Technologieablehnung ohne Ersatz.",
+      "begruendung_selbst": "Da redet man von Technologieoffenheit und verbietet ausgerechnet CCS pauschal – das nimmt meiner Region ein Werkzeug.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pauschale Verbote statt Offenheit?",
+      "thema": "energie",
+      "programmpunkt": "Grundsätzlicher Ausschluss von Wind- und Photovoltaikanlagen in Waldgebieten.",
+      "seite": 82,
+      "zitat": "Wind- und Photovoltaikanlagen im Wald ausschließen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny lehnt pauschale Technologie- und Flächenverbote ab; der kategorische Ausschluss erneuerbarer Anlagen im Wald widerspricht der ansonsten betonten Technologieoffenheit.",
+      "begruendung_selbst": "Mal technologieoffen, mal kategorisch verbieten – solche pauschalen Flächenverbote engen den Ausbau unnötig ein.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet seine pragmatische, technologieoffene Linie weitgehend gespiegelt: breiter Energiemix, Erhalt der Grundlast bis echte Alternativen da sind, Forschungsförderung, regionale Wertschöpfung und Qualifizierung im Strukturwandel. Reibung entsteht beim pauschalen CCS-Verbot und am kategorischen Ausschluss von Wind und PV im Wald, die er als Widerspruch zur Technologieoffenheit erlebt. Insgesamt überwiegt für ihn die Zustimmung, getrübt durch zwei pauschale Verbote.",
+    "score": 1
+  }
+}

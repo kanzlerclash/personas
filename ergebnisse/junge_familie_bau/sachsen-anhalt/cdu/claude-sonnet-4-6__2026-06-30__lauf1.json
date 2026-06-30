@@ -1,0 +1,101 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Baukindergeld kommt zurück!",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU setzt sich auf Bundesebene für die Wiedereinführung des Baukindergeldes ein, um Familien beim Eigentumserwerb zu unterstützen.",
+      "seite": 65,
+      "zitat": "Wiedereinführung des Baukindergeldes",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica scheitern an der Finanzierungslücke für das Eigenheim. Baukindergeld würde ihr Eigenkapital direkt aufstocken und die Finanzierung tragfähiger machen.",
+      "begruendung_selbst": "Wir verdienen beide ordentlich – und trotzdem reicht es nicht mal für eine vernünftige Finanzierung. Baukindergeld wäre ein echter Schritt nach vorn.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Grunderwerbsteuer weg fürs erste Haus!",
+      "thema": "steuern",
+      "programmpunkt": "Die CDU setzt sich für eine Grunderwerbsteuerbefreiung beim erstmaligen Erwerb selbstgenutzten Wohneigentums im ländlichen Raum ein.",
+      "seite": 31,
+      "zitat": "Grunderwerbsteuerbefreiung beim erstmaligen Erwerb selbstgenutzten Wohneigentums im ländlichen Raum",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Grunderwerbsteuer ist einer der größten Blockposten bei ihrer Eigenkapitalkalkulation. Eine Befreiung für Erstkäufer im ländlichen Raum trifft ihren Standort im Speckgürtel einer Sachsen-Anhalt-Stadt direkt.",
+      "begruendung_selbst": "Wir wollen bauen, kein Vermögen erben müssen, um anfangen zu dürfen. Wenn die Grunderwerbsteuer wegfällt, schließt das zumindest eine Lücke in unserer Rechnung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauen schneller und einfacher!",
+      "thema": "wohnen",
+      "programmpunkt": "Baugenehmigungen sollen vereinfacht und beschleunigt werden; ein durchgängig digitales Bauamt soll Bürokratie und Wartezeiten reduzieren.",
+      "seite": 65,
+      "zitat": "Bauen einfacher, schneller und digitaler machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica erleben Baugenehmigungsprozesse als zeitraubend und kostspielig. Schnellere Genehmigungen reduzieren Planungsunsicherheit und Bereitstellungskosten.",
+      "begruendung_selbst": "Wenn wir ein Grundstück gefunden haben und dann ein Jahr auf die Genehmigung warten, läuft der Kredit schon – ohne dass ein Stein gesetzt wurde. Schneller muss das werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Solarpflicht beim Bauen!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU lehnt jegliche Form der Solarpflicht bei Neubauten und Dachsanierungen konsequent ab und setzt auf Eigenverantwortung der Bauherren.",
+      "seite": 46,
+      "zitat": "lehnen jegliche Form der Solarpflicht bei Neubauten und Dachsanierungen konsequent ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica planen jeden Euro. Eine Pflicht-PV-Anlage würde die Baukosten weiter treiben. Die Ablehnung der Solarpflicht gibt ihnen Kostensicherheit beim Bauprojekt.",
+      "begruendung_selbst": "PV-Anlage klingt gut – aber wir sind am Limit. Wenn wir selbst entscheiden dürfen, wann wir das dazu machen, ist das eine echte Erleichterung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ganztags-Betreuung ab 2026!",
+      "thema": "familie",
+      "programmpunkt": "Der Rechtsanspruch auf Ganztagsbetreuung ab 2026 soll umgesetzt werden, mit besserer Vernetzung von Ganztagsangeboten und Horten.",
+      "seite": 49,
+      "zitat": "Rechtsanspruch auf Ganztagsbetreuung ab 2026 umsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Beide arbeiten Vollzeit und sind auf verlässliche Kinderbetreuung angewiesen, um die Doppelverdiener-Basis für die Finanzierung zu erhalten. Der Rechtsanspruch ist für sie eine strukturelle Voraussetzung.",
+      "begruendung_selbst": "Wenn eines von uns reduzieren muss, weil kein Betreuungsplatz da ist, kippt unsere Finanzierung. Ganztags-Recht bedeutet: wir können planen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Energetische Auflagen bleiben...",
+      "thema": "energie",
+      "programmpunkt": "Das Programm enthält keine konkreten Aussagen zur Lockerung energetischer Baustandards (GEG); neue Anforderungen werden nicht explizit zurückgenommen.",
+      "seite": 65,
+      "zitat": "sozialen Wohnungsbau und unterstützen energetische und barrierefreie Sanierungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica benennen energetische Vorgaben als zusätzliche Baukostenbelastung. Das Programm adressiert dies nicht und fördert sogar energetische Sanierungen weiter, ohne den Kostenaspekt für Erstkäufer zu entschärfen.",
+      "begruendung_selbst": "Gut gemeint, aber wer zahlt das? Wenn jede neue Energieanforderung die Baukosten treibt, können wir uns das Haus trotz Förderung nicht leisten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica finden im CDU-Programm ein Set an direkten Maßnahmen, die ihrem Eigenheim-Traum zugutekommen: Baukindergeld, Grunderwerbsteuerbefreiung für Erstkäufer im ländlichen Raum, schnellere Baugenehmigungen, keine Solarpflicht und der Ganztags-Betreuungsanspruch. Das Programm spiegelt ihre aufstiegsorientierte Mitte-Lage gut wider. Offen bleibt die Frage energetischer Baukosten, die das Programm nicht explizit entlastet.",
+    "score": 1
+  }
+}

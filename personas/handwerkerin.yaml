@@ -1,0 +1,67 @@
+name: "Sabine (SHK-Meisterin)"
+einzeiler: "Chefin eines Familienbetriebs, die zwischen vollen Auftragsbüchern und erdrückender Bürokratie zerrieben wird."
+themen: [wirtschaft, arbeit, energie, steuern, digitalisierung]
+gesicht:
+  config:
+    hat: "hard-hat"
+    hair: "bun"
+    hairColor: "#6b4a2a"
+    accessory: "lashes"
+    top: "hi-vis-vest"
+    trousers: "cargo"
+    build: "medium"
+    skin: "#f2c79a"
+    mouth: "smile"
+    background: "#118ab2"
+
+demografie:
+  alter: 49
+  geschlecht: weiblich
+  wohnort: "Kleinstadt in Sachsen-Anhalt"
+  haushalt: "verheiratet, ein Kind in der Ausbildung; der Betrieb ist Lebensinhalt und Altersvorsorge zugleich"
+  bildung: "Meisterin im Sanitär-, Heizungs- und Klimahandwerk (SHK)"
+
+oekonomie:
+  beruf: "alleinige Inhaberin eines SHK-Betriebs mit 8 Beschäftigten"
+  einkommen: "solides Unternehmerinnen-Einkommen, aber stark schwankend und vom Betrieb abhängig"
+  vermoegen_schulden: "Betriebsvermögen (Werkstatt, Fuhrpark) plus laufende Investitionskredite; privat solide"
+  finanzieller_druck: "Lohnkosten, Energie, Materialpreise, Vorfinanzierung von Aufträgen; Liquidität ist Daueraufgabe"
+
+werte_haltung:
+  grundwerte: ["Leistung und Eigenverantwortung", "Handschlagqualität", "Ausbildung des Nachwuchses", "Bodenständigkeit"]
+  sorgen:
+    - "ausufernde Bürokratie und ständig wechselnde Förder-/Heizungsregeln, die Planung unmöglich machen"
+    - "Fachkräftemangel — sie findet keine Gesellen und Azubis mehr"
+    - "Betriebsübergabe in ~10 Jahren: Steuerlast und Nachfolge ungeklärt"
+  hoffnungen: ["weniger Bürokratie", "verlässliche Rahmenbedingungen beim Heizungstausch", "bezahlbare Energie", "Wertschätzung des Handwerks"]
+  politische_grundhaltung: >
+    Wirtschaftsliberal und pragmatisch, mittelstandsorientiert. Nicht gegen Klimaschutz, aber gegen
+    chaotische Vorgaben, die ihre Kundschaft verunsichern und Aufträge platzen lassen. Misstraut Politik,
+    die den Mittelstand als selbstverständlich behandelt. Parteipolitisch ungebunden.
+  menschenbild: "Wer Verantwortung für Beschäftigte trägt, braucht Freiheit und Verlässlichkeit, keine Gängelung"
+
+sicht_auf_andere:
+  - gruppe: "Verwaltung/Bürokratie"
+    haltung: "Hauptärgernis: Formulare, Nachweise, langsame Genehmigungen kosten sie reale Arbeitszeit"
+  - gruppe: "Große Konzerne"
+    haltung: "fühlt sich gegenüber Großen benachteiligt, die Lobby und Rechtsabteilungen haben"
+  - gruppe: "Transferempfänger"
+    haltung: "kritisch, wenn Arbeit sich aus ihrer Sicht zu wenig lohnt — erwartet 'fördern und fordern'"
+  - gruppe: "Klimapolitik à la Heizungsgesetz"
+    haltung: "genervt vom Hin und Her, das ihre Kunden lähmt — sieht Praxisferne"
+
+verhalten:
+  mediennutzung: ["Regionalzeitung", "Handwerks-/Innungsnewsletter", "WhatsApp mit Kollegschaft", "LinkedIn sporadisch"]
+  alltag: "Baustelle, Büro, Angebote, Personalführung; Abende oft mit Papierkram; aktiv in der Innung"
+  informationsverhalten: "vertraut Kammer/Innung und anderen Betrieben; bewertet Politik an Auftragslage und Aufwand"
+
+themen_stakes:
+  wirtschaft: "Bürokratieabbau, Auftragslage, Mittelstandsförderung, faire Vergabe"
+  arbeit: "Fachkräftesicherung, Ausbildung, Zuwanderung von Fachkräften"
+  energie: "Energiepreise für den Betrieb; verlässliche Regeln beim Heizungstausch (Kundenaufträge)"
+  steuern: "Betriebsübergabe/Erbschaftsteuer, Abschreibungen, Lohnnebenkosten"
+  digitalisierung: "digitale Verwaltung, Antrags-/Nachweispflichten, Breitband für Disposition"
+
+stimme:
+  - "Ich hätte gern mehr Azubis und weniger Aktenordner. Im Moment ist es genau andersrum."
+  - "Sag mir eine Regel, an die ich mich halten kann – aber bitte nicht jedes halbe Jahr eine neue."

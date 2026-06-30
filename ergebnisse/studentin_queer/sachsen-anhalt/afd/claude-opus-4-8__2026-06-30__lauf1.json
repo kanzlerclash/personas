@@ -1,0 +1,137 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wenigstens beim Wohnen ein Lichtblick",
+      "thema": "wohnen",
+      "programmpunkt": "Der soziale Wohnungsbau soll gefördert und bezahlbarer Wohnraum für Menschen mit geringem und mittlerem Einkommen vorgehalten werden.",
+      "seite": 15,
+      "zitat": "bezahlbare Wohnungen für Personen mit geringem und mittlerem Einkommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt mit knappem Budget zur Miete und fürchtet steigende Wohnkosten; eine Förderung bezahlbaren Wohnraums entspricht einem ihrer realen Bedürfnisse.",
+      "begruendung_selbst": "Bei mir ist am Monatsende oft eng. Dass wenigstens bezahlbarer Wohnraum mal vorkommt, nehme ich ernst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Billigerer Strom hilft mir auch",
+      "thema": "energie",
+      "programmpunkt": "Die Stromsteuer für Privathaushalte soll auf den EU-Mindestwert gesenkt werden, um vor allem einkommensschwache Bürger zu entlasten.",
+      "seite": 13,
+      "zitat": "vor allem einkommensschwache Bürger zu entlasten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jede Preissteigerung trifft Jule sofort; eine niedrigere Stromsteuer würde ihr knappes Budget tatsächlich entlasten, unabhängig vom energiepolitischen Gesamtkurs.",
+      "begruendung_selbst": "Klar wäre billiger Strom für mich eine Erleichterung. Nur erkaufe ich den hier mit dem Aus für die Energiewende, und das ist mir die Sache nicht wert.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sie streiten meine Zukunft einfach ab",
+      "thema": "klima",
+      "programmpunkt": "Die Partei lehnt die These des menschengemachten Klimawandels und die gesamte Klimaschutzlogik grundsätzlich ab.",
+      "seite": 13,
+      "zitat": "lehnt die globalistische Klimaideologie",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Klimaschutz ist für Jule existenziell für ihr Zukunftsgefühl; die grundsätzliche Leugnung jeder Klimapolitik trifft den Kern ihrer Werte und Lebensplanung.",
+      "begruendung_selbst": "Es geht nicht um Ideologie, es geht darum, ob ich in zwanzig Jahren noch eine lebenswerte Zukunft habe. Und die wird hier einfach weggewischt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiewende? Komplett abgewickelt",
+      "thema": "energie",
+      "programmpunkt": "Sämtliche Subventionen für erneuerbare Energien sollen gestrichen und der Einspeisevorrang beendet werden.",
+      "seite": 13,
+      "zitat": "diese Subventionen unter Wahrung des Bestandsschutzes ausnahmslos streichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule hofft auf eine konsequente Energiewende; das vollständige Streichen der Erneuerbaren-Förderung samt Rückkehr zu Kohle und Kernkraft steht ihrem zentralen Anliegen diametral entgegen.",
+      "begruendung_selbst": "Statt die Erneuerbaren auszubauen, werden sie kaputtgespart und die Kohle wieder hochgefahren. Das ist das genaue Gegenteil von dem, was wir brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Flagge soll aus der Schule raus",
+      "thema": "familie",
+      "programmpunkt": "An Schulen soll von offizieller Seite keine Regenbogenfahne mehr gezeigt werden.",
+      "seite": 7,
+      "zitat": "keine Regenbogenfahne mehr gezeigt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule als queere Person ist die Regenbogenflagge ein Symbol erkämpfter Sichtbarkeit; ihr Verbot im schulischen Raum erlebt sie als gezielte Zurückdrängung queerer Lebensweisen.",
+      "begruendung_selbst": "Diese Flagge bedeutet, dass Leute wie ich dazugehören. Sie aus den Schulen zu verbannen, sagt jungen queeren Menschen: ihr seid hier nicht erwünscht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Trans Jugendlichen wird der Weg verbaut",
+      "thema": "familie",
+      "programmpunkt": "Der Zugang zu Pubertätsblockern und geschlechtsangleichenden Hormontherapien für Kinder und Jugendliche soll eingeschränkt bzw. unterbunden werden.",
+      "seite": 4,
+      "zitat": "den Zugang zu diesen experimentellen Eingriffen einzuschränken bzw. zu unterbinden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule setzt sich für queere Rechte ein; eine Politik, die trans Jugendlichen den Zugang zu Versorgung verwehrt, trifft eine Gruppe, mit der sie sich solidarisch verbunden fühlt.",
+      "begruendung_selbst": "Hier geht es um echte Menschen, die mit ihrem Körper hadern. Ihnen pauschal die Versorgung zu verweigern, macht ihr Leben nur härter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queere Vereine kriegen den Geldhahn zu",
+      "thema": "demokratie",
+      "programmpunkt": "Vereinen und Organisationen, die sich für 'alternative Lebensentwürfe' einsetzen, soll jede öffentliche Förderung und steuerliche Vergünstigung entzogen werden.",
+      "seite": 4,
+      "zitat": "jede Form öffentlicher Förderung und steuerlicher Vergünstigung entziehen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule fürchtet den Abbau von Vielfalts- und Antidiskriminierungsprogrammen; der gezielte Förderentzug für queer-unterstützende Strukturen bestätigt diese Sorge unmittelbar.",
+      "begruendung_selbst": "Die Beratungsstellen und Vereine, die mir und anderen Halt geben, sollen ausgetrocknet werden. Das ist kein Sparen, das ist Verdrängung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Studienfach soll verschwinden",
+      "thema": "bildung",
+      "programmpunkt": "Genderstudien sollen abgeschafft werden, da sie als politische Ideologie und nicht als Wissenschaft eingestuft werden.",
+      "seite": 8,
+      "zitat": "Genderstudien abschaffen!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule studiert Sozial- und Umweltwissenschaften; die Abschaffung ganzer Forschungsfelder, die ihr nahestehen, trifft ihr akademisches Umfeld und ihre Werte.",
+      "begruendung_selbst": "Da werden ganze Forschungsrichtungen für unerwünscht erklärt, nur weil sie nicht ins Weltbild passen. Das hat mit Wissenschaftsfreiheit nichts zu tun.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein BAföG steht auf der Kippe",
+      "thema": "bildung",
+      "programmpunkt": "Statt des einkommensabhängigen BAföG soll eine rein leistungsabhängige Landesförderung aufgebaut werden.",
+      "seite": 8,
+      "zitat": "alternativ zu dem Bafög-System eine Landesförderung aufbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule lebt von einer BAföG-Teilförderung; die Umstellung auf eine rein leistungsbasierte Förderung würde die bedarfsorientierte Absicherung, auf die sie angewiesen ist, infrage stellen.",
+      "begruendung_selbst": "Ich brauche das BAföG, weil ich es brauche, nicht weil ich die beste Note habe. Wer nur nach Leistung fördert, lässt Leute wie mich hinten runterfallen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule erlebt das Programm als breiten Angriff auf nahezu alles, was ihr wichtig ist: ihre queere Identität und Sichtbarkeit, die Rechte trans Personen, ihr Studienfeld, die Vielfaltsförderung und vor allem ihre Klimazukunft. Nur an Randpunkten wie bezahlbarem Wohnen und niedrigerer Stromsteuer findet sie eine reale Entlastung. Die existenzielle Betroffenheit überwiegt für sie eindeutig.",
+    "score": -2
+  }
+}

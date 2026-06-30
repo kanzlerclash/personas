@@ -1,0 +1,113 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Der Hausarzt bleibt erreichbar",
+      "thema": "gesundheit",
+      "programmpunkt": "Landarzt-, Amtsarzt- und Landzahnarztquote werden fortgeführt, um die ärztliche Versorgung auf dem Land zu sichern.",
+      "seite": 14,
+      "zitat": "Landarzt - , Amtsarzt - und Landzahnarztquote werden fortgeführt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten, dass ihr einziger Hausarzt aufhört; die Fortführung der Landarztquote zielt direkt auf ihre Sorge um die wohnortnahe Versorgung.",
+      "begruendung_selbst": "Wenn unser Doktor mal aufhört, ist hier nichts mehr in der Nähe. Dass die was für Landärzte tun, beruhigt uns wenigstens ein bisschen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Im eigenen Haus alt werden",
+      "thema": "gesundheit",
+      "programmpunkt": "Versorgungsnetzwerke und Quartiersansätze sollen ein langes, selbstständiges Leben im eigenen Wohnumfeld ermöglichen.",
+      "seite": 14,
+      "zitat": "ein möglichst langes Leben in Selbstständigkeit und im eigenen Wohnumfeld",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im eigenen Haus alt zu werden ist ein Grundwert des Paares; der Ausbau wohnortnaher Unterstützungsstrukturen kommt ihrem Wunsch entgegen, nicht ins Heim zu müssen.",
+      "begruendung_selbst": "Wir wollen in unserem Haus bleiben, solange es geht. Hilfe vor Ort, damit das klappt - genau das brauchen wir.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Günstiges Ticket für uns Senioren",
+      "thema": "verkehr",
+      "programmpunkt": "Das Deutschlandticket-Abo für Senioren soll mit rund 20 Euro im Monat gefördert werden.",
+      "seite": 42,
+      "zitat": "Deutschlandtickets für Senioren mit ca. 20 Euro/Monat",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit kleinen Renten muss jeder Posten geplant werden; ein vergünstigtes Seniorenticket erleichtert dem Paar Mobilität und Teilhabe, sobald das Autofahren schwerer wird.",
+      "begruendung_selbst": "Solange wir noch fahren, brauchen wir es nicht. Aber 20 Euro im Monat fürs Ticket sind eine faire Sache, wenn das Auto mal wegfällt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die Stromsteuersenkung soll auch für private Verbraucher gelten.",
+      "seite": 43,
+      "zitat": "Die Senkung der Stromsteuer muss zukünftig auch für private Stromverbraucher gelten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Heizkosten und Lebenshaltung drücken bei kleiner Rente; eine Stromsteuersenkung für Privathaushalte trifft die finanzielle Lage des Paares unmittelbar.",
+      "begruendung_selbst": "Jede Nebenkostenabrechnung macht uns Bauchschmerzen. Wenn der Strom etwas billiger wird, ist das für uns echtes Geld.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei für unsere Ruhe",
+      "thema": "sicherheit",
+      "programmpunkt": "Eine ausreichende Personalstärke der Polizei wird als Voraussetzung für Sicherheit benannt.",
+      "seite": 28,
+      "zitat": "Ausreichende Personalstärke bleibt Voraussetzung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sicherheit und das Gefühl, nicht abgehängt zu sein, sind dem Paar wichtig; das Bekenntnis zu mehr Polizeipersonal spricht ihr Bedürfnis nach Verlässlichkeit im Ort an.",
+      "begruendung_selbst": "Man hört ja so einiges. Wenn die Polizei genug Leute hat und auch mal vorbeikommt, fühlt man sich auf dem Dorf gleich sicherer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich eine echte Pflegereform",
+      "thema": "gesundheit",
+      "programmpunkt": "Im Bundesrat will man sich für eine echte Pflegereform mit auskömmlicher Finanzierung einsetzen.",
+      "seite": 14,
+      "zitat": "Wir setzen uns im Bundesrat für eine echte Pflegereform auf Bundesebene ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Angst vor Pflegekosten ist für das Paar zentral; eine angekündigte Pflegereform berührt diese Sorge, bleibt für sie aber eine vage Bundesangelegenheit ohne konkrete Entlastung heute.",
+      "begruendung_selbst": "Pflege macht uns am meisten Angst. Eine Reform wäre gut - nur ist das wieder Berlin und dauert, das kennen wir schon.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimagesetz - was kostet uns das?",
+      "thema": "klima",
+      "programmpunkt": "Ein Klimaschutzgesetz mit verbindlichen Reduktionspfaden soll eingeführt werden, sozial abgefedert.",
+      "seite": 22,
+      "zitat": "Ein Klimaschutzgesetz schafft Verbindlichkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar fürchtet energetische Pflichten, die es sich nicht leisten kann; ein verbindliches Klimaschutzgesetz weckt diese Sorge, auch wenn das Programm Belastungen für einkommensschwache Haushalte ausschließen will.",
+      "begruendung_selbst": "Verbindliche Klimaziele - das endet doch wieder bei Vorschriften fürs Haus. Und von welchem Geld sollen wir dann das Dach dämmen?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter sehen viele ihrer konkreten Sorgen aufgegriffen: gesicherte Landarztversorgung, Hilfen für ein selbstständiges Leben im eigenen Haus, ein günstiges Seniorenticket, Stromentlastung und mehr Polizeipräsenz. Die angekündigte Pflegereform berührt ihre größte Angst, bleibt ihnen aber zu vage. Skeptisch macht sie allein das verbindliche Klimaschutzgesetz mit der Furcht vor Sanierungskosten. Insgesamt überwiegt für das sicherheitsorientierte Paar das Gefühl, mit seiner Lebenslage mitgedacht zu werden.",
+    "score": 1
+  }
+}

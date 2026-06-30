@@ -1,0 +1,76 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich unser Haus möglich!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm bietet Eltern mit mindestens einem Kind unter 40 einen zinsgünstigen Kredit bis 300.000 Euro für Bau oder Kauf von selbstgenutztem Wohnraum, mit Schuldenentlastung pro weiterem Kind.",
+      "seite": 4,
+      "zitat": "zinsvergünstigter Kredit bis zu einer Höhe von 300.000 Euro zum Bau oder Kauf von selbstgenutztem Wohnraum",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica verdienen zusammen ordentlich, kommen aber bei aktuellen Zinsen nicht an eine tragbare Finanzierung; ein zinsgünstiger Staatskredit verbessert ihre Kalkulation direkt.",
+      "begruendung_selbst": "Wir verdienen beide ordentlich – und trotzdem reicht es nicht mal für eine vernünftige Finanzierung. Ein zinsgünstiger Kredit vom Land – das klingt nach dem Hebel, den wir brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Grunderwerbsteuer halbieren!",
+      "thema": "steuern",
+      "programmpunkt": "Das Programm will die Grunderwerbsteuer von fünf auf zweieinhalb Prozent senken.",
+      "seite": 19,
+      "zitat": "Grunderwerbsteuer von aktuell fünf Prozent auf zweieinhalb Prozent absenken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Beim Hauskauf in Sachsen-Anhalt fallen erhebliche Erwerbsnebenkosten an; die Halbierung der Grunderwerbsteuer reduziert die Anfangskosten direkt und macht Eigenkapital wirksamer.",
+      "begruendung_selbst": "Wir wollen bauen, kein Vermögen erben müssen, um anfangen zu dürfen. Wenn die Nebenkosten sinken, können wir das gesparte Geld in den Eigenanteil stecken. Das ist real.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita kostenlos – Familienplanung leichter!",
+      "thema": "familie",
+      "programmpunkt": "Das Programm will Krippen und Kindergärten ab dem ersten Kind kostenlos und das Schulessen kostenfrei machen.",
+      "seite": 4,
+      "zitat": "Krippen und Kindergärten mit einer dauerhaft auf Landesebene gesicherten Finanzierung ab dem ersten Kind kostenlos",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica tragen aktuell Kita-Kosten als fixen Posten neben Miete und Sparrate; kostenlose Betreuung gibt ihnen monatlich Spielraum für die Finanzierung.",
+      "begruendung_selbst": "Mit Kind und zwei Jobs ist die Kita unser größter Fixposten nach der Miete. Wenn das wegfällt, ändert sich unsere Kalkulation für das Haus erheblich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Begrüßungsgeld für unser Baby!",
+      "thema": "familie",
+      "programmpunkt": "Das Programm zahlt 2.000 Euro Baby-Begrüßungsgeld für das erste und zweite Kind, 4.000 für jedes weitere.",
+      "seite": 4,
+      "zitat": "Baby-Begrüßungsgeld in Höhe von 2.000 Euro für die ersten beiden Kinder",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Direkt nach der Geburt fallen viele Anschaffungen an; ein Begrüßungsgeld von 2.000 Euro federt diese Mehrkosten ab und gibt dem Paar finanzielle Luft.",
+      "begruendung_selbst": "Jeder Euro zählt, wenn man gleichzeitig spart, Kita zahlt und das Haus kaufen will. 2.000 Euro direkt nach der Geburt – das ist keine Kleinigkeit für uns.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica finden im Programm ein dichtes Paket direkt auf ihre Lebenslage zugeschnittener Maßnahmen: zinsgünstige Eigenheimkredite, niedrigere Grunderwerbsteuer, kostenlose Kita und Begrüßungsgeld. Das Programm spricht ihre Kernmotivation – Eigenheim und Familie finanzierbar machen – konsequent an.",
+    "score": 2
+  }
+}

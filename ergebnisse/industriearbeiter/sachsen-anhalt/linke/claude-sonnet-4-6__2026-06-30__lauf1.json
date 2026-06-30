@@ -1,0 +1,113 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Tarifbindung wieder zur Regel machen – das ist mein Kampf",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke will die Tarifbindung stärken: Vergabemindestlohn von 16,50 Euro pro Stunde, an Inflation und Tarifentwicklung gekoppelt, sowie die Allgemeinverbindlichkeit von Tarifverträgen erleichtern und Arbeitgeberblockaden beenden.",
+      "seite": 86,
+      "zitat": "einen Vergabemindestlohn von 16,50 Euro pro Stunde, gekoppelt an Inflation und Tarifentwicklungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe kämpft als Gewerkschafter täglich dafür, dass Tarifverträge halten und Löhne nicht unterlaufen werden. Die Forderung nach einem Vergabemindestlohn und der Allgemeinverbindlichkeit von Tarifverträgen entspricht dem, wofür er im Betriebsrat streitet: Faire Löhne als Grundlage, nicht als Ausnahme.",
+      "begruendung_selbst": "Genau dafür kämpfen wir in der Gewerkschaft. Wer Mindestlohn unterschreitet oder Tarife umgeht, soll keine öffentlichen Aufträge bekommen. Das ist die einfachste Waffe gegen Lohndumping, und die Linke sagt: Ja, die nutzen wir.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Betriebsrat mitentscheiden lassen – nicht nur informieren",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke fordert Mitentscheidungsrechte für Betriebsräte bei Investitionen, Standortfragen und Digitalisierung sowie harte Sanktionen gegen Union Busting und Behinderung von Betriebsratsarbeit.",
+      "seite": 87,
+      "zitat": "Mitentscheidungsrechte der Betriebsräte bei Investitionen, Standortfragen und Digitalisierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Betriebsratsmitglied in einem Chemieunternehmen erlebt Uwe, dass Standortentscheidungen oft über seinen Kopf hinweg fallen. Echte Mitentscheidungsrechte bei Investitionen und Standortfragen wären ein Systemwechsel: Beschäftigte als Mitgestalter, nicht nur als Betroffene.",
+      "begruendung_selbst": "Das ist der Unterschied zwischen einem Betriebsrat, der Informationen bekommt, und einem Betriebsrat, der mitentscheidet. Wenn eine Werksschließung geplant wird, will ich das nicht als fertige Entscheidung erfahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemie und Grundstoffindustrie: Plan statt Planlosigkeit",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke will die Chemie- und Grundstoffindustrie nicht aufgeben, sondern mit konkreten Maßnahmen transformieren: faire Energiepreise in Umbauphasen, Unterstützung beim Umstieg auf klimaneutrale Verfahren, grüne Wasserstoffinfrastruktur und verbindliche Transformationsverträge.",
+      "seite": 92,
+      "zitat": "Energie- und CO₂-Kosten in Umbauphasen senken – gekoppelt an gute Arbeit, Klimaschutz und sichere Standorte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe arbeitet im Chemiedreieck und erlebt, wie hohe Energiepreise den Standortdruck erhöhen. Die Koppelung von Energiepreisentlastung an Standortgarantien und gute Arbeit ist das Modell, das er von Politik verlangt: keine Subventionen ohne Gegenleistung, aber auch keine Transformation auf Kosten der Beschäftigten.",
+      "begruendung_selbst": "Das ist der Deal, den ich mir vorstelle. Ihr kriegt Unterstützung, aber nur wenn ihr hier bleibt und Tarifgehälter zahlt. Nicht einfach Geld nehmen und dann trotzdem verlagern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Werksschließung ohne Perspektive – endlich verbindlich",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke fordert, dass bei Betrieben keine Werksschließung ohne gesicherte Perspektive stattfinden darf – Arbeitsplätze, Wissen und Strukturen sollen für kommende Generationen erhalten bleiben.",
+      "seite": 93,
+      "zitat": "keine Werksschließung ohne Perspektive – Arbeitsplätze, Wissen und Strukturen für kommende Generationen sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe hat sein ganzes Berufsleben in der Branche verbracht und erlebt, wie Schließungsankündigungen über Nacht kommen. Die Forderung nach verbindlichen Perspektiven vor Werksschließungen – gekoppelt an Transformationsverträge mit Investitions- und Beschäftigungsgarantien – entspricht seiner zentralen Sorge um den Standort.",
+      "begruendung_selbst": "Ich habe Kollegen erlebt, die nach 30 Jahren von heute auf morgen keine Arbeit mehr hatten. Wenn eine Partei das ernst meint und es mit Transformationsverträgen verbindlich macht, hat das Gewicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Überleitungsgesellschaften: Wandel mit Netz",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke will im Strukturwandel Überleitungsgesellschaften einrichten, die Beschäftigung, Weiterbildung und neue Perspektiven sichern, damit niemand im Wandel zurückbleibt.",
+      "seite": 91,
+      "zitat": "Überleitungsgesellschaften sichern Beschäftigung, Weiterbildung und neue Perspektiven, damit niemand im Strukturwandel zurückbleibt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe akzeptiert Wandel, aber nicht ohne sozialen Boden. Überleitungsgesellschaften sind das Instrument, das Beschäftigten Zeit und Qualifizierung gibt, statt sie mit einer Abfindung in die Erwerbslosigkeit zu entlassen. Das entspricht seiner Forderung nach sozial abgesichertem Strukturwandel.",
+      "begruendung_selbst": "Transformation ist kein Problem für mich, wenn sie gemacht wird wie beim Kohleausstieg im Ruhrgebiet: mit Auffanggesellschaften, Weiterbildung, echten Alternativen. Wenn jemand mit 55 seinen Job verliert und nichts mehr findet – das ist dann kein 'Wandel', das ist Jobvernichtung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaneutral 2035: zu schnell, zu wenig Rücksicht aufs Tempo",
+      "thema": "klima",
+      "programmpunkt": "Die Linke will Sachsen-Anhalt bis 2035 klimaneutral machen und ein verbindliches CO₂-Budget festlegen, das den Pfad zur Klimaneutralität beschreibt.",
+      "seite": 121,
+      "zitat": "Klimaneutral bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für die energieintensive Chemie- und Grundstoffindustrie, in der Uwe arbeitet, ist 2035 ein extrem ambitioniertes Ziel. Die nötige Umstellung auf grüne Produktionsverfahren braucht Investitionszeiträume, Infrastruktur und Technologie, die nicht in neun Jahren verfügbar sind. Uwe akzeptiert das Ziel der Klimaneutralität, aber das Tempo macht ihm Sorgen – er fürchtet, dass Arbeitsplätze wegfallen, bevor Alternativen da sind.",
+      "begruendung_selbst": "Ich bin nicht gegen Klimaschutz. Aber 2035 bedeutet, mein Werk muss in unter zehn Jahren komplett umgestellt sein. Die Technologien dafür existieren teils noch nicht. Was passiert mit uns, wenn der Zeitplan nicht hält?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Wort zum Industriestrompreis",
+      "thema": "energie",
+      "programmpunkt": "Das Energiekapitel thematisiert Energiepreise für Haushalte und Kommunen ausführlich, nennt aber keinen konkreten vergünstigten Industriestrompreis für die energieintensive Industrie, wie ihn Gewerkschaften fordern.",
+      "seite": 106,
+      "zitat": "Hohe Energiepreise treffen vor allem Menschen mit kleinen Einkommen, aber auch Vereine, Kommunen und Betriebe.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwes Branche – die Chemie- und Schwerindustrie – kämpft mit Industriestrompreisen, die im europäischen Vergleich zu hoch sind und Standorte gefährden. Das Energiekapitel fokussiert auf Haushaltsentlastungen und Netzentgelte, formuliert aber kein konkretes Instrument für einen wettbewerbsfähigen Industriestrompreis. Für Uwe ist das eine Lücke, die seine zentrale Sorge nicht adressiert.",
+      "begruendung_selbst": "Mein Betrieb zahlt Industriestrompreise, die in keinem anderen europäischen Land so hoch sind. Wenn das so bleibt, verlieren wir den Standort – egal wie gut das Sozialprogramm ist. Ich vermisse da eine klare Antwort der Linken.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet im Linke-Programm die stärkste Gewerkschafts- und Mitbestimmungsagenda, die er sich wünscht: Tarifbindung als Regel, echte Betriebsratsmitbestimmung bei Standortfragen, Transformationsverträge mit Beschäftigungsgarantien für die Chemieindustrie und Überleitungsgesellschaften für den Strukturwandel. Das Programm nimmt seine Branche ernst und liefert konkrete Instrumente. Kritisch sieht er das ambitionierte 2035-Klimaneutralitätsziel als möglicherweise zu schnell für die energieintensive Industrie sowie das Fehlen eines klar formulierten vergünstigten Industriestrompreises. In der Gesamtschau überwiegt die Übereinstimmung in den Kernthemen Arbeit, Mitbestimmung und sozial abgesicherter Wandel deutlich – das Programm spricht seine Sprache.",
+    "score": 1
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Bürokratie kleiner machen!",
+      "thema": "steuern",
+      "programmpunkt": "Das Programm will überflüssige Bürokratie systematisch abbauen – für jede neue Regelung mindestens zwei alte streichen.",
+      "seite": 12,
+      "zitat": "bürokratische Last der Unternehmen in Sachsen-Anhalt ist erdrückend",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike verbringt unverhältnismäßig viel Zeit mit Buchhaltung, Steuererklärungen und Formularen; jede echte Bürokratieverringerung gibt ihr Zeit für die eigentliche Arbeit zurück.",
+      "begruendung_selbst": "Ich falle durch jedes Raster: zu selbstständig für Schutz, zu klein für die Bürokratie. Wenn wenigstens der Papierkram weniger wird, atme ich etwas auf.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nur patriotische Kunst wird gefördert!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm will Kulturförderung auf Kunst beschränken, die zur deutschen Identitätsfindung beiträgt, und will Förderung für als antideutsch wahrgenommene Kunst streichen.",
+      "seite": 6,
+      "zitat": "Staatsgeld vorwiegend solche Kunst fördern, die einen Beitrag zu deutscher Identitätsfindung leistet",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike arbeitet im freien Kreativbereich, der oft von Projektförderung abhängt; eine ideologisch gefilterte Förderung gefährdet ihren Zugang zu staatlichen Mitteln.",
+      "begruendung_selbst": "Wenn der Staat entscheidet, welche Kunst 'deutsch genug' ist, für den Rest keine Förderung mehr kommt – dann bin ich draußen. Ich mache Design, keinen Patriotismus auf Auftrag.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "KSK und Absicherung – Fehlanzeige!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm enthält keine Maßnahmen zur sozialen Absicherung von Soloselbstständigen, zur KSK oder zur Verbesserung der Altersvorsorge für Kreativschaffende.",
+      "seite": 12,
+      "zitat": "kleine und mittelständische Unternehmen als Rückgrat der sachsen-anhaltischen Wirtschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike hat keine Absicherung bei Krankheit oder Auftragsflaute und keine gesicherte Altersvorsorge; das Programm schweigt zu ihrer konkreten Lage als Soloselbstständige.",
+      "begruendung_selbst": "Wenn ich krank werde oder die Aufträge wegbleiben, fange ich keinen Schutz auf – da ist einfach nichts. Das Programm redet über Mittelstand, meint aber Betriebe, nicht mich.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet im Programm einen kleinen positiven Impuls durch Bürokratieabbau. Gleichzeitig bedroht die ideologisch gesteuerte Kulturförderung ihre Auftragsbasis direkt, und ihre zentrale Sorge – soziale Absicherung für Soloselbstständige – bleibt im Programm komplett unbehandelt.",
+    "score": -1
+  }
+}

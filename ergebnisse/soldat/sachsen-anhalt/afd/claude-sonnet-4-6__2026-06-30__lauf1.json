@@ -1,0 +1,64 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Frieden mit Russland – das ist naiv!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm nennt explizit den Wunsch nach 'keinem Krieg mit Russland und Frieden in Europa' und kritisiert diejenigen, die das anders sehen, als 'Putinversteher'.",
+      "seite": 3,
+      "zitat": "keinen Krieg mit Russland und Frieden in Europa wollen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan steht an der NATO-Ostflanke und erlebt die russische Bedrohung als konkrete Realität; eine Partei, die Kritik an dieser Haltung als 'Putinversteher'-Vorwurf karikiert, untergräbt das Sicherheitsverständnis, das sein Dienst täglich verlangt.",
+      "begruendung_selbst": "Ich stehe für dieses Land ein – dann erwarte ich auch, dass Material und Bündnis verlässlich sind. Wenn eine Partei sagt, sie will Frieden mit dem, der uns bedroht, frage ich mich, gegen wen ich eigentlich übe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Russlandsanktionen aufheben – jetzt?!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm will sich im Bundesrat für die Aufhebung der Russlandsanktionen einsetzen.",
+      "seite": 12,
+      "zitat": "Aufhebung der Russlandsanktionen und aller anderen Wirtschaftssanktionen einsetzen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan als Berufssoldat sind die Sanktionen Teil des westlichen Druckregimes gegenüber Russland; ihre Aufhebung würde Russland wirtschaftlich entlasten und die NATO-Solidarität schwächen.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Wenn man Sanktionen aufhebt, stärkt man den Gegner. Das ist keine abstrakte Frage für mich – das ist meine Lage an der Ostflanke.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz umbauen – das schützt nicht!",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm will den Verfassungsschutz so reformieren, dass er die AfD als Opposition nicht mehr verfolgt.",
+      "seite": 11,
+      "zitat": "Für einen Verfassungsschutz, der die Verfassung schützt!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan vertraut auf wehrhafte demokratische Institutionen; Pläne, Kontrollbehörden so umzubauen, dass sie die eigene Partei nicht mehr beobachten, untergräbt das institutionelle Vertrauen, das er für seinen Dienst braucht.",
+      "begruendung_selbst": "Ich schwöre auf die Verfassung. Wenn eine Partei die Kontrollbehörde umbaut, damit sie selber nicht mehr draufschaut – das macht mir Sorgen, egal von welcher Seite.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet im Programm vor allem Positionen, die seinen Dienst und sein Bündnisverständnis untergraben: die Russland-nahen Wirtschaftsforderungen, die NATO-skeptisch wirkende Rhetorik und die geplante Verfassungsschutzreform. Da das Programm ein Landesprogramm ist und Bundeswehr-Themen kaum berührt, gibt es wenig konkret Positives.",
+    "score": -1
+  }
+}

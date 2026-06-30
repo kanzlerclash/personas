@@ -1,0 +1,88 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Freibetrag bei der Grunderwerbsteuer",
+      "thema": "steuern",
+      "programmpunkt": "Für den erstmaligen Erwerb selbstgenutzten Wohneigentums soll ein Grunderwerbsteuer-Freibetrag eingeführt werden.",
+      "seite": 12,
+      "zitat": "einen Grunderwerbsteuer-Freibetrag für den erstmaligen Erwerb selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica scheitern an den Kaufnebenkosten; ein Freibetrag bei der Grunderwerbsteuer senkt genau ihre Eintrittshürde ins Eigentum.",
+      "begruendung_selbst": "Die Nebenkosten haben uns bisher das Genick gebrochen. Ein Freibetrag bei der Grunderwerbsteuer - das ist echtes Geld für uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigene vier Wände erreichbar machen",
+      "thema": "wohnen",
+      "programmpunkt": "Wohneigentum soll durch ein Chancenpaket aus Förderung und steuerlicher Entlastung wieder erreichbar werden.",
+      "seite": 12,
+      "zitat": "Wir machen die eigenen vier Wände wieder erreichbar",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar will Eigentum als Sicherheit für die Familie; das ausdrückliche Ziel, Eigentum erreichbar zu machen, trifft ihren Lebenstraum.",
+      "begruendung_selbst": "Endlich eine Politik, die uns das Eigenheim zutraut, statt es uns auszureden. Genau das wollen wir hören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Betreuung passend zum Job",
+      "thema": "familie",
+      "programmpunkt": "Flexible Öffnungszeiten und Betreuungszusammenschlüsse sollen Betreuung an die Arbeitszeiten der Eltern anpassen.",
+      "seite": 25,
+      "zitat": "mit flexiblen Öffnungszeiten nach tatsächlichem Bedarf",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Fehlende Kita-Verfügbarkeit erschwert dem Doppelverdiener-Paar die Vereinbarkeit; bedarfsgerechte Öffnungszeiten erleichtern beiden die Berufstätigkeit.",
+      "begruendung_selbst": "Wenn die Betreuung zu unseren Arbeitszeiten passt, können wir beide arbeiten - genau daran hängt unsere Finanzierung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauen ohne Auflagen-Aufpreis",
+      "thema": "energie",
+      "programmpunkt": "Statt Förderbürokratie sollen steuerliche Anreize Sanierung und Modernisierung ermöglichen, Überregulierung beim Bauen wird abgelehnt.",
+      "seite": 13,
+      "zitat": "wir ermöglichen private Investitionen statt sie wegzuregulieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar fürchtet, dass energetische Vorgaben das Bauen verteuern; der deregulierende, anreizbasierte Kurs entspricht ihrer Sorge um bezahlbares Bauen.",
+      "begruendung_selbst": "Jede neue Bauauflage treibt den Preis hoch. Wenn man uns bauen lässt statt zu regulieren, wird der Traum bezahlbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Überstunden bleiben uns",
+      "thema": "steuern",
+      "programmpunkt": "Die Einkommensteuer soll gesenkt und jede Überstunde steuerfrei gestellt werden.",
+      "seite": 40,
+      "zitat": "Gleichzeitig wollen wir jede Überstunde steuerfrei stellen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Zum Ansparen von Eigenkapital zählt für das Paar jeder Euro; steuerfreie Überstunden und niedrigere Einkommensteuer stärken ihre Sparrate.",
+      "begruendung_selbst": "Jeder Euro netto mehr geht bei uns aufs Eigenkapital. Steuerfreie Überstunden bringen uns dem Haus näher.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica sehen ihren Eigenheim-Traum vom Programm gezielt adressiert: Grunderwerbsteuer-Freibetrag, das erklärte Ziel erreichbaren Eigentums, bedarfsgerechte Kinderbetreuung, weniger preistreibende Bauauflagen und steuerfreie Überstunden treffen ihre Aufstiegs- und Familienplanung fast vollständig. Reibungspunkte finden sie kaum.",
+    "score": 2
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Landarzt-Stipendien endlich umsetzen!",
+      "thema": "gesundheit",
+      "programmpunkt": "BSW will eigene Stipendienprogramme für Medizinstudierende auflegen, die sich verpflichten, nach ihrer Ausbildung zehn Jahre in unterversorgten Regionen zu arbeiten.",
+      "seite": 60,
+      "zitat": "Das Land sollte verstärkt eigene Stipendienprogramme auflegen für Medizinstudierende, die sich im Gegenzug verpflichten, nach Abschluss ihrer Ausbildung für einen längeren Zeitraum – etwa zehn Jahre – in unterversorgten Regionen Sachsen-Anhalts tätig zu sein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Elisabeth Krause sucht verzweifelt eine Nachfolgerin für ihre Praxis. Stipendienprogramme, die Ärztinnen gezielt in die Fläche lenken, wären eine direkte Antwort auf den Mangel, mit dem sie täglich kämpft.",
+      "begruendung_selbst": "Ich werde in fünf Jahren in Rente gehen und habe noch keine Nachfolgerin. Wenn das Land jetzt Studierenden ein Stipendium zahlt, damit sie hierher kommen, rettet das diese Region. Das ist es, was gebraucht wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Telemedizin stärken – für uns unverzichtbar!",
+      "thema": "gesundheit",
+      "programmpunkt": "BSW will Telemedizin und moderne Versorgungsformen sinnvoll stärken, um auch im ländlichen Raum eine gute Versorgung zu sichern.",
+      "seite": 61,
+      "zitat": "Telemedizin und moderne Versorgungsformen sinnvoll stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Elisabeth nutzt Telemedizin bereits für Kontrolltermine, kann damit aber nicht alles abdecken. Stärkere Förderung und rechtliche Klarheit würden ihr helfen, mehr Patienten digital zu betreuen und Wege zu sparen.",
+      "begruendung_selbst": "Meine Patienten sind alt und fahren 30 km für einen Nachsorgetermin. Wenn ich das per Video machen darf – und bezahlt bekomme – hilft das allen. Telemedizin braucht mehr Rückhalt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gegen Privatisierung – Gesundheit als Recht!",
+      "thema": "gesundheit",
+      "programmpunkt": "BSW will die Kommerzialisierung des Gesundheitswesens stoppen und Gesundheit als öffentliche Daseinsvorsorge und Menschenrecht behandeln.",
+      "seite": 56,
+      "zitat": "BSW steht für eine klare Kehrtwende: Gesundheit ist keine Ware und kein Bestandteil militärischer Logik – sie ist ein Menschenrecht.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Elisabeth beobachtet, wie private Ärztehäuser lukrative Fächer übernehmen und die unattraktiven in der Fläche zurücklassen. Die BSW-Ablehnung der Kommerzialisierung deckt sich mit ihrer Überzeugung.",
+      "begruendung_selbst": "Praxisketten in der Stadt, ich allein auf dem Land – weil sie die Rendite maximieren und ich die Gemeinschaft versorge. Das BSW sagt: Gesundheit ist kein Markt. Das ist mein Berufsethos.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratieentlastung – ich will Arzt sein!",
+      "thema": "gesundheit",
+      "programmpunkt": "BSW will Beratungs- und Servicestellen für junge Ärzte schaffen, die über Fördermöglichkeiten, Niederlassungsmodelle und bürokratische Hürden informieren.",
+      "seite": 60,
+      "zitat": "Ergänzend braucht es Beratungs- und Servicestellen für Studierende und junge Ärzte, die über Fördermöglichkeiten, Niederlassungsmodelle und Unterstützung bei der Praxisgründung informieren.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Elisabeth weiß, dass viele junge Ärzte schon an der Praxisgründung scheitern – zu viel Bürokratie, zu wenig Beratung. Servicesstellen würden ihr helfen, Nachfolger zu finden, die nicht von Anfang an aufgeben.",
+      "begruendung_selbst": "Junge Ärzte wollen Patienten helfen, nicht Formulare ausfüllen. Eine Stelle, die sie dabei begleitet, würde mehr Landärzte in die Fläche bringen als jede Werbekampagne.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Medizinstudienplätze – endlich!",
+      "thema": "bildung",
+      "programmpunkt": "BSW fordert mehr Studienplätze in der Humanmedizin an den Universitätskliniken in Halle und Magdeburg.",
+      "seite": 53,
+      "zitat": "Die Zahl der Studienplätze in der Humanmedizin und insbesondere in der Zahnmedizin muss erhöht werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mehr Medizinstudienplätze bedeuten langfristig mehr Ärzte, die verteilt werden können. Elisabeth weiß, dass der Mangel strukturell ist – mehr Ausbildungskapazitäten sind ein unverzichtbarer Teil der Lösung.",
+      "begruendung_selbst": "Es gibt zu wenige Ärzte, weil zu wenige ausgebildet werden. Das fängt mit Studienplätzen an. Wenn das Land hier investiert, werden die ersten Früchte in zehn Jahren spürbar – aber besser jetzt als gar nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Dr. Krause findet im BSW-Programm eine außergewöhnlich klare und direkte Adressierung ihrer Berufsrealität: Landarzt-Stipendien, Telemedizin, Ablehnung der Kommerzialisierung, Bürokratieentlastung und mehr Studienplätze treffen alle ihre zentralen Anliegen. Kein Programmpunkt schadet ihr. Das ist die stärkste Übereinstimmung, die sie als Landärztin finden wird.",
+    "score": 2
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Extremismus konsequent zerschlagen",
+      "thema": "sicherheit",
+      "programmpunkt": "Rechtsextreme Netzwerke sollen von Sicherheitsbehörden effektiv bekämpft und dauerhaft zerschlagen werden",
+      "seite": 40,
+      "zitat": "entsprechende Strukturen dauerhaft zerschlagen werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco begrüßt, dass die Grünen den Sicherheitsbehörden eine aktive Rolle bei der Bekämpfung des Rechtsextremismus zuschreiben. Das deckt sich mit seiner Institutionentreue und dem Wunsch nach klarer politischer Rückendeckung für seinen Berufsstand.",
+      "begruendung_selbst": "Endlich eine klare Ansage: Rechtsextreme Strukturen müssen weg, und wir als Behörden sollen das durchsetzen. Das ist genau das, wofür ich morgens aufstehe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rückfälle verhindern, Sicherheit stärken",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Verhinderung künftiger Straftaten soll wieder stärker in den Mittelpunkt der Sicherheitspolitik rücken",
+      "seite": 47,
+      "zitat": "Resozialisierung und die Verhinderung künftiger Straftaten wieder stärker in den Mittelpunkt rücken",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Fokus auf Rückfallprävention trifft bei Marco einen Nerv: Als Streifenbeamter erlebt er täglich, wie dieselben Personen immer wieder auffällig werden. Ein Strafvollzug, der Rückfälle verhindert, entlastet auch seinen Alltag.",
+      "begruendung_selbst": "Ich will, dass weniger Straftaten passieren. Wenn das System tatsächlich dafür sorgt, dass jemand nicht rückfällig wird, nützt das auch mir auf der Straße.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Feuerwehr und Rettungsdienste stärken",
+      "thema": "sicherheit",
+      "programmpunkt": "Freiwillige Feuerwehren sowie Rettungs- und Katastrophenschutzdienste sollen finanziell stärker gefördert werden",
+      "seite": 48,
+      "zitat": "Freiwilligen Feuerwehren sowie die Rettungs- und Katastrophenschutzdienste müssen finanziell stärker unterstützt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco sieht die Stärkung der Feuerwehren und Katastrophenschutzdienste als Bekenntnis zur Sicherheitsinfrastruktur insgesamt. Was für die Feuerwehr gilt, sollte aus seiner Sicht auch für die Polizei gelten.",
+      "begruendung_selbst": "Wir Einsatzkräfte hängen zusammen. Was der Feuerwehr zugute kommt, ist ein gutes Signal – auch wenn die Polizei im Programm nicht so prominent vorkommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Landesverwaltung attraktiver machen",
+      "thema": "arbeit",
+      "programmpunkt": "Die Landesverwaltung soll als attraktive Arbeitgeberin mit modernen Bedingungen und fairen Karrierewegen ausgebaut werden",
+      "seite": 50,
+      "zitat": "Landesverwaltung als attraktive Arbeitgeberin auszubauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Polizeibeamter ist Marco Teil der Landesverwaltung. Das Bekenntnis zu modernen Arbeitsbedingungen und fairen Karrierewegen adressiert direkt seine Sorge um Anerkennung und den wachsenden Personalmangel.",
+      "begruendung_selbst": "Das trifft mich direkt. Wenn der öffentliche Dienst attraktiver wird, bleibt mehr Nachwuchs – und wir haben weniger Unterbesetzung auf der Straße.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Überwachungsverbot bindet uns die Hände",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Grünen lehnen Massenüberwachung in Stadien, auf Versammlungen und im öffentlichen Raum ab",
+      "seite": 42,
+      "zitat": "lehnen wir Massenüberwachung in Fußballstadien",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Marco sind Kameraüberwachung und Bildauswertung wichtige Ermittlungswerkzeuge bei Straftaten im öffentlichen Raum. Eine pauschale Ablehnung dieser Mittel schwächt aus seiner Sicht die operative Schlagkraft der Polizei.",
+      "begruendung_selbst": "Wenn wir bei Fußballspielen oder Demos keine Kameras einsetzen dürfen, haben wir nach einem Angriff auf Kollegen oft nichts in der Hand. Das bindet uns die Hände.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Externe Kontrolle statt Institutionenvertrauen",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizeihochschule Aschersleben soll zu einer unabhängigen Hochschule mit Fokus auf Antidiskriminierung weiterentwickelt werden",
+      "seite": 43,
+      "zitat": "Polizeihochschule Aschersleben soll zu einer unabhängigen Hochschule weiterentwickelt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Forderung nach Unabhängigkeit der Hochschule und ein Ausbildungsschwerpunkt auf Antidiskriminierung liest Marco als implizites Misstrauen gegenüber der Institution Polizei. Er fühlt sich dadurch nicht unterstützt, sondern unter Generalverdacht gestellt.",
+      "begruendung_selbst": "Das klingt, als glauben die nicht, dass wir es selber hinkriegen. Unabhängige Hochschule, Antidiskriminierungsschulungen – als wären wir das Problem, nicht die Lösung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Resozialisierung als Kern reicht nicht",
+      "thema": "sicherheit",
+      "programmpunkt": "Resozialisierung wird als zentrales Element verantwortungsvoller Sicherheitspolitik definiert",
+      "seite": 46,
+      "zitat": "Resozialisierung ist Kern einer wirksamen, verantwortungsvollen Sicherheitspolitik",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Das Bekenntnis zur Resozialisierung als Kern der Sicherheitspolitik klingt für Marco zu soft. Er sieht Sicherheit primär durch konsequente Strafverfolgung und spürbare Präsenz, nicht durch Rehabilitationsversprechen.",
+      "begruendung_selbst": "Resozialisierung ist gut gemeint, aber wenn ein Täter rauskommt und wieder zuschlägt, hilft das Versprechen niemandem. Ich will mehr Polizei auf der Straße, keine Sozialarbeit als Sicherheitskonzept.",
+      "beleg_hinweis": "Seite von 47 auf 46 korrigiert",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco erkennt in einzelnen Punkten des Grünen-Programms Ansätze, die seiner Arbeit zugutekommen könnten, etwa das Bekenntnis zur Extremismusbekämpfung und einer attraktiveren Landesverwaltung. Entscheidende Punkte wie die Ablehnung von Überwachungstechnologien und die Forderung nach externer Kontrolle der Polizeiausbildung stoßen bei ihm jedoch auf deutliche Ablehnung. Das Fehlen eines klaren Bekenntnisses zur Polizeiaufstockung und der insgesamt distanzierte Ton gegenüber der Institution Polizei führen zu einem negativen Gesamteindruck.",
+    "score": -1
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Carbon-Management-Strategie — das ist meine Brücke!",
+      "thema": "energie",
+      "programmpunkt": "Die SPD will eine Carbon-Management-Strategie anstoßen und darauf basierend Industrie-Dialoge führen; die LENA wird zur Landeskoordinierungsstelle für Wasserstoff- und CO2-Infrastrukturen.",
+      "seite": 5,
+      "zitat": "Wir werden die Erstellung einer Carbon-Management-Strategie und darauf basierender Industrie-Dialoge anstoßen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht Carbon-Management und CCS als entscheidende Brückentechnologien für seine Region. Eine explizit genannte Carbon-Management-Strategie signalisiert, dass die SPD diese Technologie nicht pauschal ablehnt — das ist für seine Zukunftsplanung entscheidend.",
+      "begruendung_selbst": "Erst die Brücke bauen, dann die alte abreißen. Eine Carbon-Management-Strategie ist genau diese Brücke. Endlich sagt jemand, dass CO2 nicht nur ein Problem, sondern auch eine Ressource sein kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff und CO2-Infrastruktur kommen!",
+      "thema": "energie",
+      "programmpunkt": "Die Landesenergieagentur LENA soll zur Landeskoordinierungsstelle für die künftigen Wasserstoff- und Kohlendioxid-Infrastrukturen werden.",
+      "seite": 6,
+      "zitat": "Sie soll zur Landeskoordinierungsstelle für die künftigen Wasserstoff- und Kohlendioxid-Infrastrukturen werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht in Wasserstoff und CO2-Infrastruktur die Jobfelder der Zukunft in seiner Region. Eine Landeskoordinierungsstelle dafür ist ein konkreter institutioneller Schritt, der seinen Berufsfeld-Wechsel erleichtern kann.",
+      "begruendung_selbst": "Wasserstoff und CO2 — das sind meine neuen Felder. Wenn das Land das koordiniert und nicht dem Markt überlässt, hab ich eine Chance, in der Region zu bleiben statt abwandern zu müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Just Transition Fund für Kohleregionen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Sachsen-Anhalt setzt sich für ein Anschlussprogramm an den Just Transition Fund ab 2028 für die Kohleregionen ein.",
+      "seite": 53,
+      "zitat": "Für die Kohleregionen setzt sich Sachsen-Anhalt für ein Anschlussprogramm an den Just Transition Fund ab 2028 ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronnys Region hängt am Strukturwandel. Ein Anschlussprogramm nach 2028 sichert, dass Investitionen nicht auslaufen, wenn die ersten Kohleausstiegseffekte voll spürbar werden.",
+      "begruendung_selbst": "2028 — das ist nicht weit. Wenn danach das Geld weg ist und nichts Neues kommt, stirbt hier die Region. Das Anschlussprogramm ist kein Luxus, das ist Überlebensmittel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erneuerbare plus Speicher — das ist mein Feld!",
+      "thema": "energie",
+      "programmpunkt": "Erneuerbare Energien haben Vorrang; Bioenergie und Speicher spielen eine zentrale Rolle; Energie wird gespeichert, wenn sie im Überfluss vorhanden ist.",
+      "seite": 5,
+      "zitat": "Bioenergie und Speicher haben Vorrang vor teurem Gas. Energie wird gespeichert, wenn sie im Überfluss vorhanden ist.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny kennt Energienetze und Speichersysteme. Die klare Priorisierung von Speichern und erneuerbaren Energien zeigt eine technologische Richtung, in der er sein Know-how einsetzen kann.",
+      "begruendung_selbst": "Netze, Speicher, Lastmanagement — das ist genau das, was ich verstehe. Wenn die Energiepolitik in diese Richtung geht, weiß ich, wo meine Expertise gebraucht wird.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Gas geht nur noch als Notlösung?",
+      "thema": "energie",
+      "programmpunkt": "Bioenergie und Speicher haben Vorrang vor teurem Gas; Gas wird nicht als Brückentechnologie explizit benannt.",
+      "seite": 5,
+      "zitat": "Bioenergie und Speicher haben Vorrang vor teurem Gas.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny arbeitet auch in der Gas-/Netzinfrastruktur. Das Programm stellt Gas explizit hintan, ohne Übergangspfade zu nennen. Für ihn bedeutet das Unsicherheit über die Lebensdauer seiner aktuellen beruflichen Felder.",
+      "begruendung_selbst": "Ich betreib Gasnetze. Wenn Gas jetzt schon die letzte Wahl ist — was passiert dann mit meiner Arbeit übermorgen? Ich brauch einen Plan, kein Enddatum.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny sieht im SPD-Programm für Sachsen-Anhalt mehr Substanz als erwartet: Die Carbon-Management-Strategie, die LENA als Wasserstoff- und CO2-Koordinierungsstelle und das Just Transition Fund-Anschlussprogramm zeigen, dass die SPD technologieoffen denkt und die Region nicht abschreiben will. Leichte Sorge bleibt bei der Abwertung von Gas, da sein aktuelles Berufsfeld davon betroffen sein könnte.",
+    "score": 1
+  }
+}

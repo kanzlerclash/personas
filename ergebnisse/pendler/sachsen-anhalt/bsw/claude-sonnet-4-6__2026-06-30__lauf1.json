@@ -1,0 +1,89 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sprit unter 1,50 Euro – endlich!",
+      "thema": "verkehr",
+      "programmpunkt": "BSW fordert eine Kraftstoffpreisdeckelung: keine Tankstelle soll mehr als 1,50 Euro pro Liter verlangen dürfen.",
+      "seite": 7,
+      "zitat": "Keine Tankstelle darf Sprit über 1,50 Euro anbieten!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Pendler mit täglich über 60 km Arbeitsweg ist der Kraftstoffpreis einer der größten variablen Kostenpunkte. Eine gesetzliche Deckelung würde seine monatliche Belastung unmittelbar und spürbar senken.",
+      "begruendung_selbst": "Ich fahre jeden Tag zur Arbeit, weil es keine echte Alternative gibt. Wenn Sprit endlich wieder bezahlbar wird, atme ich auf – das ist kein Luxus, das ist mein Alltag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO2-Abgabe abschaffen!",
+      "thema": "energie",
+      "programmpunkt": "BSW will die CO2-Bepreisung aussetzen oder abschaffen, da sie als nationale Sonderlast einseitig Bürger und Unternehmen belastet.",
+      "seite": 27,
+      "zitat": "die CO ₂ -Bepreisung in Deutschland ist für das globale Klima begrenzt wirksam und belastet als nationale Sonderlast einseitig",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die CO2-Abgabe verteuert Kraftstoff direkt. Wer pendelt, weil er muss und nicht weil er will, trägt diese Last ohne echte Ausweichmöglichkeit. Die BSW-Forderung trifft genau seine finanzielle Lage.",
+      "begruendung_selbst": "Die CO2-Steuer soll mein Verhalten ändern – aber ich hab kein Auto aus Spaß, sondern weil es keinen Zug gibt. Diese Steuer zahle ich, und sie ändert nichts. Weg damit.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Kein Verbrennerverbot!",
+      "thema": "verkehr",
+      "programmpunkt": "BSW lehnt ein pauschales Verbrennerverbot ab und setzt auf technologieoffene Mobilitätspolitik.",
+      "seite": 32,
+      "zitat": "Ein pauschales Verbrennerverbot lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein Zwangsumstieg auf Elektrofahrzeuge würde für ihn als Pendler ohne ausreichende Ladeinfrastruktur auf dem Land erhebliche Investitionskosten und Planungsunsicherheit bedeuten. Das klare Nein zum Verbrennerverbot gibt ihm Planungssicherheit.",
+      "begruendung_selbst": "Ich soll ein E-Auto kaufen, das ich bei mir nicht laden kann? Wo die nächste Ladesäule 20 km entfernt ist? Das BSW sagt: Nein zu diesem Zwang. Das höre ich gern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutschlandticket günstiger machen!",
+      "thema": "verkehr",
+      "programmpunkt": "BSW will das Deutschlandticket erhalten und perspektivisch günstiger machen sowie ÖPNV in ländlichen Räumen stärken.",
+      "seite": 33,
+      "zitat": "Das Deutschlandticket hat sich bewährt, muss erhalten bleiben und perspektivisch günstiger werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Pendler zwischen Dörfern und Merseburg könnte ein günstigeres Deutschlandticket zumindest teilweise helfen, wenn die Verbindungen besser werden. Die Absicherung des Tickets ist für ihn wichtig als Rückhalt.",
+      "begruendung_selbst": "Wenn der Bus mal fährt, nehme ich das Ticket gern. Aber er fährt eben nicht oft genug. Wenigstens soll es nicht teurer werden – gut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Straße und Schiene endlich finanzieren!",
+      "thema": "verkehr",
+      "programmpunkt": "BSW will die marode Verkehrsinfrastruktur sanieren, den Bundesverkehrswegeplan umsetzen und Bau- und Sanierungsvorhaben beschleunigen.",
+      "seite": 32,
+      "zitat": "Die marode Verkehrsinfrastruktur, ein geschrumpftes und unterfinanziertes Schienennetz sowie häufige Störungen und Verspätungen der Züge sind Ausdruck jahrelanger Fehlentscheidungen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Er pendelt auf Straßen mit Schlaglöchern und nutzt einen Zug, der selten fährt und oft unpünktlich ist. Das BSW benennt das Problem beim Namen und verspricht, es anzugehen.",
+      "begruendung_selbst": "Endlich sagt das jemand klar. Die Straße, auf der ich täglich fahre, ist eine Katastrophe. Und der Zug – wenn er kommt – ist zu spät. Das darf kein Dauerzustand bleiben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Für einen Alltagspendler im ländlichen Sachsen-Anhalt trifft das BSW-Programm den Nerv: Kraftstoffpreisdeckel, CO2-Abgabe abschaffen, kein Verbrennerverbot und die Sanierung der maroden Infrastruktur sind seine Kernthemen. Das Programm enthält keine Punkte, die ihm direkt schaden – die Verbesserungen beim ÖPNV sind gut gemeint, aber als Autofahrer profitiert er vor allem von den Energiepreis-Maßnahmen.",
+    "score": 2
+  }
+}

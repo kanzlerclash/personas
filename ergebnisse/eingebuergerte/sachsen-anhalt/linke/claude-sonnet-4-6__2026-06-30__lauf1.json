@@ -1,0 +1,113 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich: Ich bin erste Generation, nicht zweite",
+      "thema": "integration",
+      "programmpunkt": "Die Linke benennt in Deutschland aufgewachsene Kinder von Eingewanderten nicht als '2. Generation Migrant:innen', sondern als 'erste Generation Sachsen-Anhalter:innen' und erkennt damit ihre Zugehörigkeit ohne Vorbehalt an.",
+      "seite": 96,
+      "zitat": "für uns nicht 2. Generation Migrant:innen, sondern erste Generation Sachsen-Anhalter:innen!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Diese Formulierung trifft Aylins Kernanliegen exakt: Zugehörigkeit soll sich nicht an Abstammung, sondern an Aufwachsen und Teilhabe bemessen. Die explizite Umbenennung durch die Partei signalisiert, dass ihr Gefühl, ständig die Zugehörigkeit beweisen zu müssen, politisch ernst genommen wird.",
+      "begruendung_selbst": "Genau das meine ich. Ich bin hier geboren und aufgewachsen – und trotzdem werde ich immer wieder als 'Migrationshintergrund' abgestempelt. Dass die Linke das anders rahmt, tut gut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Qualifizierung statt Diskriminierung – endlich klare Worte",
+      "thema": "integration",
+      "programmpunkt": "Die Linke setzt Integration als aktive Willkommenspolitik um: Nicht Ausgrenzung, sondern Qualifizierung und aktive Gestaltung statt Abschottung.",
+      "seite": 97,
+      "zitat": "Nicht Ausgrenzung, sondern Willkommen. Nicht Diskriminierung, sondern Qualifizierung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt Alltagsdiskriminierung und beobachtet, wie Migrationsdebatte Menschen wie sie zum Problem macht. Die klare Absage an Diskriminierung als Politikprinzip – verbunden mit dem Angebot echter Qualifizierung – trifft ihre Hoffnung auf sachliche und respektvolle Politik.",
+      "begruendung_selbst": "Das ist die Sprache, die ich mir von Politik wünsche. Nicht Angst schüren und Grenzen betonen, sondern Chancen öffnen und Menschen als Menschen behandeln.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Im öffentlichen Dienst endlich willkommen sein",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke will eine Diversitätsstrategie für den öffentlichen Dienst: Die Einstellung von Menschen mit Migrationshintergrund soll als Ausdruck einer Willkommenskultur Priorität haben, alle relevanten Beschäftigten sollen interkulturelle Weiterbildungen erhalten.",
+      "seite": 98,
+      "zitat": "Die Einstellung von Menschen mit Migrationshintergrund soll als Ausdruck einer Willkommenskultur Priorität erhalten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Angestellte in der Stadtverwaltung arbeitet Aylin direkt im öffentlichen Dienst. Die Forderung nach aktiver Diversitätsstrategie und interkulturellen Kompetenzen ihrer Kolleg:innen berührt ihren Alltag unmittelbar: Sie soll nicht als Ausnahme toleriert, sondern als Normalfall begrüßt werden.",
+      "begruendung_selbst": "Ich erlebe im Büro manchmal, dass ich erklären muss, wie ich hierher 'gekommen' bin – dabei bin ich einfach hier aufgewachsen. Eine Verwaltung, die das als Stärke begreift statt als Erklärungsbedarf, wäre ein anderes Arbeitsumfeld.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Demokratie schützen, Rechtsextremismus die Grundlage entziehen",
+      "thema": "demokratie",
+      "programmpunkt": "Die Linke will Rechtsextremismus nicht durch Überwachung, sondern durch lebendige Demokratie vor Ort bekämpfen: Mobile Beratungsteams, Stärkung demokratischer Strukturen, Schutz für Engagierte.",
+      "seite": 15,
+      "zitat": "Demokratie ist kein Luxus, sie ist der beste Schutz für uns alle",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin sorgt sich um Polarisierung und Schwächung demokratischer Institutionen. Die Positionierung der Linken, Rechtsextremismus durch stärkere Demokratie statt mehr Staatsapparat zu begegnen, passt zu ihrer rechtsstaatlich-liberalen Grundhaltung.",
+      "begruendung_selbst": "Genau. Was mich schützt, sind nicht mehr Kameras oder Polizei, sondern Orte, an denen Leute zusammenkommen und zusammenhalten. Wo Demokratie lebt, findet rechte Hetze weniger Platz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Dasein ist kein Rechenmodell",
+      "thema": "integration",
+      "programmpunkt": "Die Linke formuliert ausdrücklich, dass sie Migrationspolitik nicht danach ausrichtet, welchen Nutzen migrantische Menschen 'für uns haben', sondern wie gesellschaftliche Strukturen für ein selbstbestimmtes Leben aller gestaltet werden können.",
+      "seite": 100,
+      "zitat": "Unsere Politik stellt sich nicht die Frage, welchen Nutzen migrantische Menschen für uns haben",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin lehnt es ab, über Menschen wie sie zu reden wie über ein Problem oder eine Ressource. Dass die Linke explizit diese Nutzen-Logik zurückweist und stattdessen nach gesellschaftlichen Strukturen fragt, trifft ihren Grundsatz: Zugehörigkeit bemisst sich an Teilhabe und Recht, nicht an Herkunft oder wirtschaftlichem Wert.",
+      "begruendung_selbst": "Das ist wichtig. Ich bin kein Demografieprojekt und kein Arbeitskräfteprogramm. Wenn Parteien Migration nur als wirtschaftliches Kalkül besprechen, fühle ich mich wie ein Posten in einer Tabelle, nicht wie eine Bürgerin.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Frontex abschaffen? Das klingt nach Ideologie, nicht Pragmatismus",
+      "thema": "integration",
+      "programmpunkt": "Die Linke fordert die Abschaffung der europäischen Grenzschutzagentur Frontex als Teil ihrer EU-Politik.",
+      "seite": 96,
+      "zitat": "Im Übrigen sind wir der Meinung, Frontex gehört abgeschafft!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin befürwortet geregelte, sachliche Migrationspolitik und lehnt pauschale Ausgrenzung ab – aber auch naive Grenzpolitik. Die kategorische Forderung nach Frontex-Abschaffung ohne Alternative wirkt auf sie nicht sachlich, sondern positionspolitisch. Sie befürchtet, dass solche Maximalpositionen rechten Narrativen Futter liefern statt sie zu entkräften.",
+      "begruendung_selbst": "Ich bin für offene Gesellschaft, aber nicht für Politiksignale, die klingen als würde man Grenzen und Ordnung grundsätzlich ablehnen. Das nutzt mir nichts – im Gegenteil. Es gibt Leuten, die mich nicht hier haben wollen, ein Argument.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erst der wirtschaftliche Nutzen, dann der Mensch",
+      "thema": "integration",
+      "programmpunkt": "Im Integrationskapitel wird Migration zunächst primär über demographische und wirtschaftliche Argumente begründet: Geburtenrückgang, Arbeitskräftemangel, Rentenfinanzierung als Hauptgründe für Willkommenspolitik.",
+      "seite": 97,
+      "zitat": "Ohne Zuwanderung ist das Schrumpfen der Bevölkerung garantiert.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn die Linke auf Seite 100 den reinen Nutzenblick explizit zurückweist, ist die Einleitung des Integrationskapitels stark ökonomisch-demographisch gerahmt. Für Aylin fühlt sich eine Willkommenspolitik, die primär mit Fachkräftemangel und Rente argumentiert, wie eine bedingte Einladung an – nicht wie die bedingungslose Zugehörigkeit, die sie sich wünscht.",
+      "begruendung_selbst": "Ich lese das und denke: Ihr wollt uns, weil ihr uns braucht. Aber was, wenn ihr uns eines Tages nicht mehr braucht? Zugehörigkeit kann nicht von Nützlichkeit abhängen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet im Linke-Programm eine der stärksten programmatischen Antworten auf ihre Kernanliegen: Die explizite Umbenennung von '2. Generation' zu 'erste Generation Sachsen-Anhalter:innen', die klare Absage an Diskriminierung und der ausdrückliche Verzicht auf eine reine Nutzen-Logik decken sich mit ihrer Überzeugung, dass Zugehörigkeit an Teilhabe und Recht hängt, nicht an Herkunft. Die Diversitätsstrategie für den öffentlichen Dienst trifft sie in ihrem konkreten Arbeitsalltag. Kritisch sieht sie die Frontex-Abschaffungsforderung als zu radikal für eine sachliche Grenzpolitik und die starke wirtschaftliche Rahmung der Integrationsbegründung zu Beginn als potentiell reduktiv – auch wenn die Partei diesen Blick später korrigiert. In der Summe entspricht dieses Programm ihren Hoffnungen auf klaren Diskriminierungsschutz und eine respektvolle Sprache weit stärker als die meisten anderen Angebote.",
+    "score": 2
+  }
+}

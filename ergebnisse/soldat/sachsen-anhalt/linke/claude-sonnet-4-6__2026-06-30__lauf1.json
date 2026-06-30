@@ -1,0 +1,88 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Gegen mehr Verteidigungsausgaben – das ist absurd",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Linke streitet gegen die Erhöhung der Militärausgaben und sieht darin keine Sicherheitsverbesserung, sondern Profite für Rüstungskonzerne.",
+      "seite": 13,
+      "zitat": "gegen die Erhöhung der Militärausgaben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontraer",
+      "begruendung": "Stefan erlebt täglich die Folgen unzureichender Ausrüstung. Ausrüstungsmängel gefährden nach seiner Erfahrung nicht nur die Einsatzbereitschaft, sondern auch die Sicherheit der Soldatinnen und Soldaten. Das kategorische Nein zu Mehrausgaben ist für ihn kein abstraktes Politikstatement, sondern betrifft direkt seinen Dienst und seinen Auftrag.",
+      "begruendung_selbst": "Mit Ideologie kann ich keine Übung fahren. Wir haben Material, das nicht funktioniert. Wenn die Linke sagt, kein Geld für die Bundeswehr, dann sagt sie mir: Dein Problem interessiert uns nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gegen Wehrpflicht – meinen Nachwuchs gibt es nicht",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Linke streitet gegen die schrittweise Einführung der Wehrpflicht und sieht darin eine Beraubung junger Menschen ihrer Freiheit.",
+      "seite": 13,
+      "zitat": "gegen die schrittweise Einführung der Wehrpflicht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontraer",
+      "begruendung": "Die Wehrfähigkeit Deutschlands hängt auch von ausreichend Personal ab. Stefan sieht eine Wiedereinführung der Wehrpflicht als mögliche Antwort auf den Personalmangel der Truppe. Die Ablehnung durch die Linke – verbunden mit der moralisch aufgeladenen Framing-Sprache ('Beraubung ihrer Freiheit') – wertet seinen eigenen Beruf und seinen Dienst ab.",
+      "begruendung_selbst": "Ich habe mich freiwillig verpflichtet, für dieses Land einzustehen. Wenn die Wehrpflicht als Freiheitsraub bezeichnet wird, dann bezeichnet man das, wofür ich stehe, als etwas Schlechtes.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "'Kriegstüchtigkeit' – das ist kein Schimpfwort",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke lehnt den Begriff und das Konzept der 'nationalen Kriegstüchtigkeit' ab, den sie als gefährliche Spirale von Militarisierung und Aufrüstung beschreibt.",
+      "seite": 12,
+      "zitat": "sondern die Herstellung einer nationalen Kriegstüchtigkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontraer",
+      "begruendung": "Das Linke-Programm rahmt 'Kriegstüchtigkeit' als das Falsche, wofür andere Parteien stehen. Für Stefan als Berufssoldat ist Einsatzbereitschaft kein ideologischer Begriff, sondern sein Kernauftrag. Die Ablehnung dieses Konzepts delegitimiert aus seiner Sicht nicht nur die Verteidigungspolitik, sondern seine eigene Berufsrolle.",
+      "begruendung_selbst": "Kriegstüchtigkeit heißt für mich: Wir können uns verteidigen, wenn es drauf ankommt. Wenn das als Problem dargestellt wird, hat die Partei kein Verständnis dafür, was wir tun und warum.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Flughäfen nicht militärisch nutzen – direkte Einschränkung",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Linke lehnt die militärische Nutzung des Flughafens Leipzig/Halle ab und positioniert sich gegen die weitere Ausrüstung militärischer Standorte wie Holzdorf.",
+      "seite": 105,
+      "zitat": "keine militärische Nutzung des Flughafens",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontraer",
+      "begruendung": "Militärische Infrastruktur – Flughäfen, Standorte, Logistikwege – ist der operative Unterbau von Stefans Arbeit. Die Forderung, militärische Nutzung von Flughafen-Infrastruktur zu unterbinden, schwächt konkret die logistischen Kapazitäten der Truppe. Solche Infrastrukturentscheidungen auf Landesebene haben direkte Folgen für Übungen und Einsatzbereitschaft.",
+      "begruendung_selbst": "Diese Infrastruktur ist nicht Dekoration. Wenn Logistikwege gekappt werden, fehlen sie im Ernstfall. Das ist keine Meinung, das ist operative Realität.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "NATO-Ausgaben als Rüstungsprofit-Rede – das verletzt mich",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke rahmt Rüstungsausgaben nicht als Sicherheitsinvestitionen, sondern als Gewinne für Rüstungskonzerne und beschreibt den Weg zur nationalen Verteidigungsfähigkeit als 'immer gefährlicher werdende Spirale von Militarisierung'.",
+      "seite": 13,
+      "zitat": "Spirale von Militarisierung, Aufrüstung und Bedrohung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontraer",
+      "begruendung": "Stefan ist Berufssoldat an der NATO-Ostflanke. Die rhetorische Gleichsetzung von Verteidigungsausgaben mit Militarisierung und Aufrüstungs-'Spirale' negiert aus seiner Sicht die reale Bedrohungslage, die er im Dienst täglich einkalkuliert. Das Programm zeigt kein Verständnis für den Unterschied zwischen Aggression und Verteidigung.",
+      "begruendung_selbst": "Ich stehe für dieses Land ein. Wenn mein Dienst als Teil einer 'gefährlichen Spirale' beschrieben wird, bin ich nicht Schutzkraft, sondern Problem. Das ist eine Sicht auf Bundeswehr, die ich nicht akzeptieren kann.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Stefan als Berufssoldat an der NATO-Ostflanke ist das Linke-Programm in zentralen Punkten direkt kontraproduktiv: Es lehnt höhere Verteidigungsausgaben ab, positioniert sich gegen die Wehrpflicht-Diskussion, framt Verteidigungsbereitschaft als 'Militarisierung' und fordert Einschränkungen militärischer Infrastruktur. Das Programm enthält keinen einzigen Punkt, der Stefans professionelle Kernsorgen – Ausrüstung, Bündnistreue, Einsatzfähigkeit – aufgreift oder würdigt. Die anti-militärische Grundhaltung ist nicht nur eine politische Differenz, sondern trifft Stefan in seiner Berufsidentität.",
+    "score": -2
+  }
+}

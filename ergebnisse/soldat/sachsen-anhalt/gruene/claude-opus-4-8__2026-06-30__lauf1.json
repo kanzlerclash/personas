@@ -1,0 +1,76 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sie planen den Verteidigungsfall mit",
+      "thema": "verteidigung",
+      "programmpunkt": "Es sollen Konzepte für Aufmarsch-, Spannungs-, Bündnis- und Verteidigungsfall entwickelt und mit militärischen Dienststellen abgestimmt werden.",
+      "seite": 48,
+      "zitat": "Bündnis- und Verteidigungsfall",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan will seinen Auftrag ernst genommen sehen; dass das Land Verteidigungs- und Bündnisfall ausdrücklich einplant, bestätigt seine sicherheitspolitische Erwartung.",
+      "begruendung_selbst": "Endlich wird auch zivil mitgedacht, dass es einen Verteidigungsfall geben kann – das nimmt meinen Auftrag ernst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Reservisten werden freigestellt",
+      "thema": "verteidigung",
+      "programmpunkt": "Beschäftigte sollen für Dienst als Reservist der Bundeswehr und Weiterbildungen im Heimatschutz freigestellt und priorisiert werden.",
+      "seite": 48,
+      "zitat": "als Reservist*in der Bundeswehr",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan wünscht Wertschätzung der Truppe; klare Freistellungsregeln für Reservistendienst stärken die Verzahnung von Bundeswehr und Gesellschaft, die ihm wichtig ist.",
+      "begruendung_selbst": "Wenn Reservisten ohne Hürden zu Übungen dürfen, zeigt das: Die Truppe wird hier ernst genommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wehrhaft auch im Staatsdienst",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm bekennt sich zu einer wehrhaften Demokratie im Staatsdienst und konsequentem Vorgehen gegen Verfassungsfeinde.",
+      "seite": 40,
+      "zitat": "wehrhafte Demokratie im Staatsdienst",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als verfassungstreuer Berufssoldat teilt Stefan das Anliegen, dass der Staat seine Institutionen gegen Verfassungsfeinde schützt.",
+      "begruendung_selbst": "Wer dem Staat dient, muss zur Verfassung stehen – das sehe ich genauso.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bündnis auch beim Schutz zählt",
+      "thema": "verteidigung",
+      "programmpunkt": "Der Katastrophenschutz soll enger mit dem EU-Zivilschutz-Mechanismus rescEU verzahnt werden.",
+      "seite": 48,
+      "zitat": "EU-Zivilschutz-Mechanismus (rescEU)",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bündnistreue ist Stefans Kernwert; die engere europäische Verzahnung im Schutzbereich entspricht seiner Überzeugung von verlässlichen Bündnissen.",
+      "begruendung_selbst": "Sicherheit gibt es nur im Bündnis – dass man auch im Zivilschutz europäisch zusammenarbeitet, ist genau richtig.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet auf Landesebene mehr Anknüpfung, als er erwartet: ernsthafte Planung für den Bündnis- und Verteidigungsfall, Freistellung für Reservisten, ein Bekenntnis zur wehrhaften Demokratie und europäische Zusammenarbeit im Schutzbereich. Seine Kernthemen Bundeswehr-Ausrüstung und NATO liegen beim Bund und bleiben offen, doch das Programm zeigt keine Bündnisskepsis. Insgesamt fällt sein Urteil verhalten positiv aus.",
+    "score": 1
+  }
+}

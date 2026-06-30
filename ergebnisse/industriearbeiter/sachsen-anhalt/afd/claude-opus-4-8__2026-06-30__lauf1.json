@@ -1,0 +1,101 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Billige Energie rettet meine Branche!",
+      "thema": "energie",
+      "programmpunkt": "Durch niedrigere Energiekosten und eine Bundesratsinitiative soll die Deindustrialisierung gestoppt und eine Reindustrialisierung eingeleitet werden.",
+      "seite": 13,
+      "zitat": "den Arbeitsplatzabbau im Land zu stoppen und einen Reindustrialisierungsprozess einzuleiten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes Wohlstand hängt am Bestand des Chemiestandorts; bezahlbare Industrieenergie und ein Stopp der Deindustrialisierung treffen seine existenzielle Sorge um die Jobs.",
+      "begruendung_selbst": "Ohne bezahlbare Energie ist mein Werk weg, und mit ihm mein Job. Wer die Industrie hält, hält meine Kollegen in Arbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohlejobs nicht einfach abschreiben!",
+      "thema": "energie",
+      "programmpunkt": "Der Kohleausstieg soll gestoppt und der Kohlestandort erhalten werden, um gut bezahlte Industriearbeitsplätze zu sichern.",
+      "seite": 13,
+      "zitat": "gut bezahlte Industriearbeitsplätze im Land zu sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe fürchtet, dass das Tempo der Transformation Industriejobs vernichtet; der Erhalt gut bezahlter Industriearbeit entspricht seinem Kernanliegen als Gewerkschafter.",
+      "begruendung_selbst": "Ich bin nicht gegen Klimaschutz, aber nicht gegen einen, der meine Kollegen arbeitslos macht. Gute Industriejobs muss man halten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO2-Bremse runter von der Industrie!",
+      "thema": "klima",
+      "programmpunkt": "Der Emissionshandel soll abgeschafft werden, weil die CO2-Bepreisung heimische Unternehmen im Wettbewerb benachteilige.",
+      "seite": 13,
+      "zitat": "gut bezahlte Arbeitsplätze im Land für immer verloren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe erlebt das Transformationstempo als Jobgefahr; das Argument, die CO2-Bepreisung koste Arbeitsplätze, deckt sich mit seiner Sorge um den Standort.",
+      "begruendung_selbst": "Wenn die Konkurrenz im Ausland keine CO2-Abgabe zahlt und wir schon, dann wandern die Jobs ab. Das sehe ich jeden Tag im Betrieb.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mitbestimmung ist nicht 'fehl am Platz'!",
+      "thema": "arbeit",
+      "programmpunkt": "Das demokratische Prinzip wird neben Militär und Wirtschaftsunternehmen als für die Schule unpassend bezeichnet, womit Mitbestimmung im Betrieb abgewertet wird.",
+      "seite": 7,
+      "zitat": "Neben dem Militär oder den Wirtschaftsunternehmen ist die Schule",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Betriebsrat und Gewerkschafter ist Mitbestimmung Uwes Kernwert; die Einordnung von Wirtschaftsunternehmen als Ort, an dem das demokratische Prinzip fehl am Platz sei, richtet sich gegen sein Selbstverständnis.",
+      "begruendung_selbst": "Mitbestimmung im Betrieb ist kein Beiwerk, das ist hart erkämpft. Wer das für 'fehl am Platz' hält, hat mich als Gegner.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Staatsquote runter heißt Sozialabbau",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Staatsquote soll auf maximal 45 Prozent gesenkt und Ministeriumsausgaben pauschal gekürzt werden.",
+      "seite": 17,
+      "zitat": "die Staatsquote in Sachsen-Anhalt zu senken",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe lehnt Sozialabbau und einen geschwächten Sozialstaat ab; eine pauschale Senkung der Staatsquote und Ausgabenkürzungen liest er als Angriff auf soziale Sicherungssysteme.",
+      "begruendung_selbst": "Schlanker Staat klingt gut, heißt am Ende aber oft, dass beim Sozialen gekürzt wird. Da bin ich skeptisch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klima ganz wegzuleugnen geht zu weit",
+      "thema": "klima",
+      "programmpunkt": "Die Partei lehnt die Klimaschutzlogik und die These des menschengemachten Klimawandels grundsätzlich ab.",
+      "seite": 13,
+      "zitat": "lehnt die globalistische Klimaideologie",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist für Klimaschutz, nur in sozial abgesichertem Tempo; die völlige Leugnung jeder Klimapolitik überschreitet seine Position, die den Wandel im Grundsatz bejaht.",
+      "begruendung_selbst": "Ich will den Wandel mit Jobschutz, nicht ohne Wandel. So zu tun, als gäbe es das Klimaproblem gar nicht, ist mir zu billig.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe ist tief zwiegespalten: Billige Industrieenergie, Erhalt der Kohlejobs und das Ende der CO2-Bremse treffen seine existenzielle Sorge um den Chemiestandort. Zugleich kollidiert das Programm mit seinem Kern als Gewerkschafter, etwa bei der Abwertung betrieblicher Mitbestimmung und der Senkung der Staatsquote, die er als Sozialabbau liest. Jobschutz und gewerkschaftliche Werte ziehen ihn in entgegengesetzte Richtungen.",
+    "score": 0
+  }
+}

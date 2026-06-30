@@ -1,0 +1,113 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Der Arzt kommt zu uns",
+      "thema": "gesundheit",
+      "programmpunkt": "Rollende Arztpraxen und Facharzt-Busse sollen die Versorgung in versorgungsschwache Regionen bringen.",
+      "seite": 64,
+      "zitat": "Wir bringen die medizinische Versorgung zu den Menschen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten den Wegfall des Hausarztes; eine mobile Versorgung sichert ihre ärztliche Erreichbarkeit im Alter.",
+      "begruendung_selbst": "Wenn unser Hausarzt aufhört, sind wir aufgeschmissen. Eine Praxis, die zu uns ins Dorf kommt, das wäre eine echte Hilfe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fördern statt Sanierungszwang",
+      "thema": "energie",
+      "programmpunkt": "Statt Förderbürokratie sollen steuerliche Anreize energetische Sanierungen ermöglichen.",
+      "seite": 13,
+      "zitat": "Deshalb setzen wir auf steuerliche Investitionsanreize statt auf Förderbürokratie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar fürchtet unbezahlbare Sanierungspflichten; ein Anreiz- statt Zwangsansatz nimmt ihnen die Existenzangst ums Eigenheim.",
+      "begruendung_selbst": "Anreiz ist schön und gut, Hauptsache kein Zwang. Wir können das Dach nicht von der kleinen Rente neu dämmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei im Ort",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Stellenaufwuchs der Polizei auf 7.000 Stellen soll gehalten und Präsenz im öffentlichen Raum erhöht werden.",
+      "seite": 52,
+      "zitat": "Wir sorgen für sichtbar mehr Polizei in Stadt und Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sicherheitsgefühl und Polizeipräsenz sind dem Paar wichtig; mehr sichtbare Polizei auch auf dem Land bedient ihre Sorge.",
+      "begruendung_selbst": "Mehr Polizei auf dem Land gibt uns ein besseres Gefühl. Man fühlt sich sonst schnell allein gelassen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Daheim alt werden dürfen",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflege soll dem Grundsatz 'ambulant vor stationär' folgen und den Verbleib im gewohnten Umfeld sichern.",
+      "seite": 70,
+      "zitat": "der den Verbleib im gewohnten Umfeld so lange wie möglich aufrechterhält",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar will im eigenen Haus alt werden; der Vorrang häuslicher Pflege entspricht ihrem Lebensziel.",
+      "begruendung_selbst": "Wir wollen in unserem Haus bleiben, solange es geht. Dass Pflege das unterstützt, ist genau richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Barrierefrei im Alter",
+      "thema": "wohnen",
+      "programmpunkt": "Barrierefreies Wohnen im Neubau und Bestand soll erleichtert, Alltagstechnik wie AAL unterstützt werden.",
+      "seite": 39,
+      "zitat": "komfortable und barrierefreie Wohnbedingungen voraus. Deshalb wollen wir deren Schaffung erleichtern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Altersgerechtes Wohnen sichert dem Paar Selbstständigkeit; Erleichterungen bei Umbau und Technik treffen ihren Bedarf.",
+      "begruendung_selbst": "Wenn das Bad mal barrierefrei muss, ist jede Erleichterung willkommen. Selbstständig bleiben, das ist uns das Wichtigste.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Finger weg vom Börsenspiel",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflegeversicherung soll um ein kapitalgedecktes Element und Anreize für private Vorsorge ergänzt werden.",
+      "seite": 70,
+      "zitat": "ein kapitalgedecktes Element muss wie bei der Krankenversicherung ergänzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar lehnt Risiko in der Altersabsicherung ab; eine kapitalgedeckte Komponente weckt ihre tiefe Skepsis gegenüber Marktexperimenten mit der Vorsorge.",
+      "begruendung_selbst": "Kapitalgedeckt heißt für uns Risiko. Wir haben ein Leben lang eingezahlt, das soll sicher sein, kein Spiel an der Börse.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wer nicht versichert ist, hat Pech",
+      "thema": "wohnen",
+      "programmpunkt": "Statt einer Pflichtversicherung gegen Elementarschäden soll gelten: Wer nicht versichert ist, bekommt im Schadensfall keine staatliche Hilfe.",
+      "seite": 53,
+      "zitat": "darf im Schadensfall nicht auf Hilfe von „Vater Staat“ warten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mit knappen Rücklagen empfinden Helga und Dieter den ausgeschlossenen staatlichen Beistand bei Schäden als zusätzliche Verunsicherung für ihr Haus.",
+      "begruendung_selbst": "Eine teure Versicherung können wir kaum stemmen - und dann im Ernstfall ganz allein dastehen? Das macht uns Angst.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Helga und Dieter überwiegen die Versorgungsversprechen: mobile Arztpraxen, Sanierung per Anreiz statt Zwang, mehr Polizei und der Vorrang häuslicher Pflege treffen ihre Ängste ums Eigenheim und die Versorgung auf dem Land. Skeptisch macht sie das kapitalgedeckte Element in der Pflege und der Ausschluss staatlicher Hilfe bei Nichtversicherung, weil sie Risiko und fehlenden Beistand fürchten.",
+    "score": 1
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich jemand, der uns versteht!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die AfD will Landwirte von EU-, Bundes- und Landesbürokratie entlasten und sieht im dichten Regelwerk ein zentrales Hemmnis; alle Betriebsformen – bio wie konventionell – sollen gleich gefördert werden.",
+      "seite": 14,
+      "zitat": "Dschungel aus Landes-, Bundes- und EU-Bürokratie",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank empfindet Bürokratie als seine größte Alltagslast; das Programm benennt exakt seinen Hauptkritikpunkt und verspricht systematischen Abbau überflüssiger Dokumentationspflichten.",
+      "begruendung_selbst": "Jedes Jahr eine neue Verordnung. Jetzt sagt endlich mal eine Partei, dass das so nicht weitergehen kann. Und dass sie keinen Unterschied zwischen bio und konventionell machen – das ist fair.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energie endlich wieder bezahlbar!",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will die Energiewende beenden und zu einem breiten Energiemix zurückzukehren, der fossile Träger einschließt, um explodierende Energiepreise zu senken.",
+      "seite": 13,
+      "zitat": "der auch fossile Energieträger beinhaltet",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Strom für Bewässerung, Trocknung und Kühlung sowie Agrardiesel sind erhebliche Kostenpositionen für Frank; günstigere Energiepreise würden direkt seine Marge verbessern.",
+      "begruendung_selbst": "Wenn der Strom wieder bezahlbar wird, atme ich auf. Ich kann keine steigenden Betriebskosten einfach über den Getreidepreis reinholen – da bin ich dem Weltmarkt ausgeliefert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mittelstand statt Großkonzerne!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm setzt auf Förderung kleiner und mittelständischer Unternehmen statt auf milliardenschwere Subventionen für einzelne Großkonzerne.",
+      "seite": 12,
+      "zitat": "kleine und mittelständische Unternehmen als Rückgrat",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sieht sich als kleinen, eigenverantwortlichen Unternehmer, der keine Lobby-Macht hat; eine Politik, die explizit den Mittelstand in den Vordergrund stellt, trifft seine Interessenlage.",
+      "begruendung_selbst": "Intel bekommt Milliarden, und ich kämpfe um jeden Euro Förderantrag. Das ist doch kein fairer Wettbewerb. Dass die das anprangern, finde ich richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaideologie vom Hof fernhalten!",
+      "thema": "klima",
+      "programmpunkt": "Die AfD lehnt die Klimaideologie ab und will keine Flächenstilllegungen und CO₂-Auflagen, die Landwirte wirtschaftlich belasten.",
+      "seite": 13,
+      "zitat": "AfD lehnt die globalistische Klimaideologie und die damit einhergehende Wohlstandsvernichtungspolitik grundlegend ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank ist nicht grundsätzlich klimafeindlich, aber er leidet konkret unter Flächenstilllegungsauflagen und CO₂-Bepreisung, die er als praxisfern und einseitig auf dem Rücken der Landwirtschaft empfindet.",
+      "begruendung_selbst": "Ich hab nichts gegen Naturschutz – aber nicht, wenn ihn die bezahlen, die ihn nie gemacht haben. Wenn die Auflagen wegfallen, kann ich mich wieder aufs Wirtschaften konzentrieren.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Frank findet im AfD-Programm seine zentralen Anliegen – Bürokratieabbau, bezahlbare Energie, Mittelstandsförderung und Ablehnung praxisferner Klimaauflagen – direkt adressiert. Das Programm trifft seine Interessenlage als konventioneller Familienlandwirt in der Altmark punktgenau. Punkte, die ihn negativ träfen, enthält das Programm kaum.",
+    "score": 2
+  }
+}

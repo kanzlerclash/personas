@@ -1,0 +1,76 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Remigration – das meinen die mich!",
+      "thema": "integration",
+      "programmpunkt": "Das Programm fordert eine Abschiebe- und Remigrationsoffensive und spricht von 'inländerfeindlicher Massenmigration' – eine Sprache, die Menschen mit Migrationsgeschichte generell als Problem rahmt.",
+      "seite": 5,
+      "zitat": "kulturfremden und inländerfeindlichen Massenmigration",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin ist in Deutschland geboren und eingebürgert; die Bezeichnung von Migration als 'kulturfremde inländerfeindliche Massenmigration' trifft auch ihre Familie und ihren Lebensweg, obwohl sie vollständig Teil der deutschen Gesellschaft ist.",
+      "begruendung_selbst": "Ich bin hier geboren – und trotzdem muss ich mir anhören, ich solle 'zurück'. Wohin denn? Wenn Parteien von Remigration reden, meinen die Menschen wie mich. Das ist kein Sachpolitikbegriff, das ist eine Drohung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Neue Identität erzwingen?",
+      "thema": "integration",
+      "programmpunkt": "Das Programm verlangt von Eingebürgerten, die alte Identität vollständig loszulassen, und will einen Einbürgerungsaufsatz mit Bekenntnischarakter einführen.",
+      "seite": 6,
+      "zitat": "seine alte Identität loslassen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin versteht ihre Zugehörigkeit zu Deutschland als selbstverständlich; die Forderung, alle Verbindungen zur Herkunft zu kappen, empfindet sie als Entwertung ihrer gelebten Biografie und ihrer Familie im Ausland.",
+      "begruendung_selbst": "Steuert Migration meinetwegen klar und sachlich, aber redet nicht über Menschen wie über ein Problem. Meine Familie im Ausland ist Teil von mir. Die kann ich nicht 'loslassen', wie einen alten Mantel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Islam in Deutschland verboten?!",
+      "thema": "integration",
+      "programmpunkt": "Das Programm stellt fest, der Islam gehöre nicht zu Deutschland und will alle rechtlichen Möglichkeiten nutzen, den Einfluss dieser Religion einzuschränken.",
+      "seite": 6,
+      "zitat": "Islam gehört weder zu Deutschland noch zu Sachsen-Anhalt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin stammt aus einer muslimisch geprägten Familie; eine Staatsposition, die ihrer Religionszugehörigkeit die gesellschaftliche Legitimation abspricht, stellt ihre Zugehörigkeit grundsätzlich in Frage.",
+      "begruendung_selbst": "Meine Eltern sind gläubig. Sie zahlen Steuern, arbeiten, sind seit Jahrzehnten hier. Wenn eine Landesregierung sagt, ihre Religion gehöre nicht dazu – was sagt das dann über sie? Über mich?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz gegen Opposition!",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm will den Verfassungsschutz so umbauen, dass er nicht mehr die AfD beobachtet – eine Partei, die laut eigener Aussage keine Gefahr für die Demokratie sei.",
+      "seite": 11,
+      "zitat": "Für einen Verfassungsschutz, der die Verfassung schützt!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin bewertet Parteien stark nach ihrer Rhetorik gegenüber Menschen mit Migrationsgeschichte; eine Partei, die demokratische Schutzinstitutionen umbauen will, um sich selbst der Beobachtung zu entziehen, weckt bei ihr tiefes Misstrauen in Bezug auf den Schutz von Minderheitenrechten.",
+      "begruendung_selbst": "Wenn die eigenen Kontrollmechanismen umgebaut werden von der Partei, die sie kontrollieren soll – dann frage ich mich, wer dann noch auf meine Rechte achtet. Der Rechtsstaat schützt mich oder er schützt mich nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin erlebt das Programm als umfassende Ablehnung ihrer Zugehörigkeit: Die Remigrations-Sprache trifft sie und ihre Familie direkt, die Einbürgerungspolitik entwürdigt ihre Biografie, und die Islamkritik stellt die Legitimität ihrer familiären Religionspraxis in Frage. Das Programm enthält für sie keinen einzigen Punkt, der ihre Lage verbessern würde.",
+    "score": -2
+  }
+}

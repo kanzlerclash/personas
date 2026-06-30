@@ -1,0 +1,76 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Bundesweiter Mietendeckel – jetzt!",
+      "thema": "wohnen",
+      "programmpunkt": "BSW fordert einen bundesweiten Mietendeckel als Instrument gegen steigende Mieten in angespannten Wohnungsmärkten.",
+      "seite": 30,
+      "zitat": "Ein bundesweiter Mietendeckel ist dafür ein geeignetes Instrument",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Selin wohnt in Magdeburg, wo die Mieten in bestimmten Stadtteilen bereits deutlich gestiegen sind. Ein bundesweiter Mietendeckel würde sie vor weiteren Mietsteigerungen schützen und ihre Wohnsicherheit stärken.",
+      "begruendung_selbst": "Meine Miete ist in drei Jahren zweimal gestiegen. Ich weiß nicht, wie lange ich mir das noch leisten kann. Ein Mietendeckel wäre der einzige direkte Schutz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gemeinwohl-Wohnungsbau statt Renditejäger!",
+      "thema": "wohnen",
+      "programmpunkt": "BSW setzt sich für eine deutliche Ausweitung des sozialen und gemeinnützigen Wohnungsbaus ein sowie gegen kommunalen Leerstand und Spekulation.",
+      "seite": 30,
+      "zitat": "Das BSW Sachsen-Anhalt setzt sich für eine deutliche Ausweitung des sozialen und gemeinnützigen Wohnungsbaus ein",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Selin beobachtet, wie Investoren in ihrer Stadt Wohnungen aufkaufen und leer stehen lassen. Mehr gemeinnütziger Wohnungsbau würde das Angebot erhöhen und den Marktdruck senken.",
+      "begruendung_selbst": "Ich sehe Wohnungen leer stehen, während ich nach bezahlbarem Wohnraum suche. Wohnungen für Menschen statt für Rendite – das ist die einzig logische Antwort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine QNG-Pflicht beim Bauen!",
+      "thema": "wohnen",
+      "programmpunkt": "BSW lehnt verpflichtende QNG-Standards ab, da sie bezahlbaren Wohnraum verteuern.",
+      "seite": 31,
+      "zitat": "verpflichtende QNG-Standards oder vergleichbare Zertifizierungen lehnen wir ab, da sie bezahlbaren Wohnraum unnötig verteuern und Eigentumsbildung für Normalverdiener erschweren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kostentreiber bei der Neubauproduktion führen letztlich zu höheren Mieten. Die BSW-Position, unnötige Standards zu streichen, zielt auf günstigeres Bauen – was mittelbar auch Mietern hilft.",
+      "begruendung_selbst": "Wenn Neubauten billiger werden, gibt es mehr davon – und der Druck auf meine Miete sinkt. Alles, was das Bauen günstiger macht, hilft auch mir.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kommunales Vorkaufsrecht gegen Spekulation!",
+      "thema": "wohnen",
+      "programmpunkt": "BSW will kommunale Vorkaufsrechte konsequent nutzen, um Leerstand und Spekulation zu bekämpfen.",
+      "seite": 34,
+      "zitat": "die konsequente Nutzung kommunaler Vorkaufsrechte gegen Leerstand und Spekulation",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kommunales Eingreifen gegen Spekulation schützt den Wohnungsmarkt vor rein renditeorientierter Verwertung. Selin sieht das als strukturelle Antwort auf das Problem, das auch ihre Lage bestimmt.",
+      "begruendung_selbst": "Wenn die Stadt leer stehende Wohnungen vorkauft, statt sie Spekulanten zu überlassen, dann zeigt das: Hier wird Wohnen als Recht behandelt, nicht als Ware.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Selin findet im BSW-Programm eine konsistente wohnungspolitische Linie: Mietendeckel, gemeinnütziger Wohnungsbau, Ablehnung kostentreibender Standards und kommunale Vorkaufsrechte adressieren alle ihre zentralen Wohnprobleme. Kein Programmpunkt schadet ihr erkennbar. Das ist eine starke Übereinstimmung.",
+    "score": 1
+  }
+}

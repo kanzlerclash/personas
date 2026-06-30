@@ -1,0 +1,101 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Betreuung, die zu Schichten passt",
+      "thema": "familie",
+      "programmpunkt": "Betreuungszusammenschlüsse sollen kurzfristig einspringen, wenn Arbeitszeiten außerhalb der Kita-Öffnungszeiten liegen.",
+      "seite": 26,
+      "zitat": "etwa bei Schichtarbeit oder im ländlichen Raum",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine scheitert oft an Betreuungszeiten, die nicht zur Arbeit passen; flexible Einspring-Angebote treffen ihren konkreten Alltagsbedarf.",
+      "begruendung_selbst": "Genau daran hängt alles bei mir: Wenn die Betreuung zu meinen Zeiten passt, kann ich auch mehr arbeiten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arbeiten und Kind unter einem Dach",
+      "thema": "familie",
+      "programmpunkt": "Modellprojekte für Gemeinschaftsbüros mit Kinderbetreuung sollen Eltern Arbeit und Betreuung im selben Gebäude ermöglichen.",
+      "seite": 26,
+      "zitat": "Anstatt Eltern allein zu lassen, fördern wir Zentren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ohne Unterstützung im Alltag wäre für Nadine eine Betreuung am Arbeitsort eine echte Entlastung bei der Vereinbarkeit.",
+      "begruendung_selbst": "Mein Kind nebenan betreut, während ich arbeite - das würde mir den Spagat jeden Tag leichter machen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schulen im sozialen Brennpunkt stärken",
+      "thema": "bildung",
+      "programmpunkt": "Schulen in sozial benachteiligten Gegenden sollen zusätzliche Ressourcen erhalten, Kinder mit Startnachteilen früh gefördert werden.",
+      "seite": 25,
+      "zitat": "Schulen in sozial benachteiligten Gegenden statten wir mit zusätzlichen Ressourcen aus",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine setzt auf Bildung als Chance für ihre Kinder; gezielte Förderung benachteiligter Schulen kommt ihrer Lebenslage zugute.",
+      "begruendung_selbst": "Meine Kinder sollen die gleichen Chancen haben. Wenn ihre Schule extra unterstützt wird, ist das genau in meinem Sinn.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mir wird wieder misstraut",
+      "thema": "gesundheit",
+      "programmpunkt": "Wer staatliche Hilfe bezieht, soll seine Mitwirkungspflichten erfüllen, sonst sollen Sanktionen konsequent ausgeschöpft werden.",
+      "seite": 40,
+      "zitat": "muss entsprechend auch seinen Mitwirkungspflichten nachkommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine arbeitet und stockt nur auf; die Sanktionsrhetorik trifft sie als Verdacht, obwohl sie sich kümmert.",
+      "begruendung_selbst": "Ich arbeite und kümmere mich - und dann reden die über Sanktionen, als wäre ich faul. Das verletzt einfach.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leistungskürzung als Drohung",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Ablehnung einer zumutbaren Arbeit soll eine Leistungskürzung nach sich ziehen, gemeinnützige Arbeitspflichten werden befürwortet.",
+      "seite": 40,
+      "zitat": "muss zum Beispiel die Ablehnung einer zumutbaren Arbeit eine Leistungskürzung nach sich ziehen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Bei aufstockendem Bezug fürchtet Nadine Verschärfungen, die ihre ohnehin knappe Lage treffen, ohne ihre Betreuungssituation zu berücksichtigen.",
+      "begruendung_selbst": "Was ist eine 'zumutbare Arbeit', wenn keiner meine Kinder betreut? Mit so einer Drohung treffen die genau Leute wie mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Lebensmodell zählt nicht",
+      "thema": "wohnen",
+      "programmpunkt": "Wohnungspolitik setzt auf Eigentumsförderung und private Investitionen statt auf Mietregulierung oder gezielte Mietzuschüsse.",
+      "seite": 13,
+      "zitat": "wir ermöglichen private Investitionen statt sie wegzuregulieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Miete frisst Nadines Budget; ein eigentums- und marktorientierter Wohnkurs bietet ihr als Mieterin ohne Eigenkapital keine spürbare Entlastung.",
+      "begruendung_selbst": "Eigentum fördern bringt mir nichts - ich kämpfe mit der Miete. Für Leute wie mich steht da einfach nichts drin.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine erkennt bei der flexiblen Kinderbetreuung und der Förderung benachteiligter Schulen echte Hilfe für ihren Alltag. Doch die Sanktions- und Mitwirkungsrhetorik beim Bürgergeld trifft sie als Misstrauen gegen eine, die arbeitet und sich kümmert, und der eigentumsorientierte Wohnkurs lässt ihre Lage als Mieterin mit knappem Budget außen vor. Die Entlastungen wiegen die soziale Schieflage für sie nicht auf.",
+    "score": -1
+  }
+}

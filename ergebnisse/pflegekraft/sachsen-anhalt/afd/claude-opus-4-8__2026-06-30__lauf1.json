@@ -1,0 +1,113 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Gesundheit ist keine Ware - genau!",
+      "thema": "gesundheit",
+      "programmpunkt": "Gesundheit wird als öffentliche Aufgabe statt als Markt verstanden; Profitstreben soll dem Patientenwohl untergeordnet werden.",
+      "seite": 20,
+      "zitat": "Gesundheit aber ist keine Ware",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin steht der Ökonomisierung des Gesundheitswesens kritisch gegenüber; die klare Absage an reine Marktlogik entspricht ihrer beruflichen Überzeugung.",
+      "begruendung_selbst": "Das sage ich seit Jahren: Am Bett zählt der Mensch, nicht die Rendite. Schön, dass das mal jemand so hinschreibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit dem Klinik-Ausverkauf!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Eine weitere Privatisierung von Krankenhäusern wird abgelehnt; öffentliche und gemeinnützige Trägerschaft soll Vorrang haben.",
+      "seite": 20,
+      "zitat": "Keine Privatisierung von Krankenhäusern mehr!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt, wie Rendite-Logik die Versorgung ausdünnt; der Stopp weiterer Privatisierungen adressiert eine ihrer zentralen Sorgen.",
+      "begruendung_selbst": "Wo der Konzern regiert, wird am Personal gespart und ich renne. Dass damit Schluss sein soll, hilft uns auf Station.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Personaluntergrenzen!",
+      "thema": "arbeit",
+      "programmpunkt": "Es sollen Pflegepersonaluntergrenzen festgelegt und bürokratische Dokumentationspflichten abgebaut werden.",
+      "seite": 20,
+      "zitat": "Weniger Dokumentationspflichten, mehr Zeit für die Pflege am Menschen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Chronische Unterbesetzung und Arbeitsverdichtung sind Kerstins Hauptbelastung; verbindliche Untergrenzen und weniger Bürokratie zielen direkt darauf.",
+      "begruendung_selbst": "Mehr Zeit am Bett und weniger Papierkram, das ist genau das, was mir und den Patienten fehlt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weg mit den Fallpauschalen-Fehlanreizen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das DRG-Fallpauschalensystem soll ersetzt werden, weil es ökonomische Fehlanreize zur frühen Entlassung setzt.",
+      "seite": 20,
+      "zitat": "das DRG-System zu ersetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht im DRG-System einen Treiber der Ökonomisierung; ein Ersatz, der Behandlungsqualität belohnt, entspricht ihrer Sicht auf gute Pflege.",
+      "begruendung_selbst": "Patienten werden rausgeworfen, sobald die Pauschale stimmt. Wenn das endlich kippt, kann Pflege wieder Pflege sein.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ohne meine Kolleginnen läuft hier nichts",
+      "thema": "integration",
+      "programmpunkt": "Auf ausländische Fachkräfte soll verzichtet werden; im Gesundheits- und Pflegesektor wird ihre Anwerbung sogar als Gefahr für das Patientenwohl dargestellt.",
+      "seite": 5,
+      "zitat": "wird dadurch das Wohl der Patienten gefährdet",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstins Station hält sich nur durch migrantische Kolleginnen; die Darstellung dieser Fachkräfte als Risiko trifft ihre Belegschaft und damit die Versorgung, die sie täglich sichert.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht, und hier wird getan, als wären sie eine Gefahr. Das ist eine Frechheit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Importärzte? Das sind meine Kollegen!",
+      "thema": "integration",
+      "programmpunkt": "Statt auf ausländische Ärzte soll auf hier ausgebildete Mediziner gesetzt werden; ausländische Ärzte werden als wegen Sprache und Qualifikation oft ungeeignet bezeichnet.",
+      "seite": 20,
+      "zitat": "Medizinstudenten statt Importärzte!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin arbeitet täglich mit ausländischen Kolleginnen und Kollegen zusammen; deren pauschale Abwertung als ungeeignet empfindet sie als ungerecht und versorgungsgefährdend.",
+      "begruendung_selbst": "Die reden über 'Importärzte', als wären das keine Menschen, die hier jeden Tag Leben retten. So bekommt man keine Station ans Laufen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Personal versprechen, Personal vergraulen",
+      "thema": "arbeit",
+      "programmpunkt": "Während mehr Pflegepersonal angekündigt wird, soll die Zuwanderung ausländischer Pflegekräfte beendet und ihre Bleibeperspektive nicht gestärkt werden.",
+      "seite": 5,
+      "zitat": "auf kulturfremde Fachkräfte verzichten!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstins Wunsch nach mehr Personal wird konterkariert, wenn genau die Fachkräfte ausbleiben, die ihre Station heute am Laufen halten; das Versprechen und die Migrationslinie widersprechen sich in der Praxis.",
+      "begruendung_selbst": "Schickt uns Personal, keine Sonntagsreden. Aber wer die Leute wegschickt, die schon da sind, schafft kein Personal, der schafft Lücken.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet ihre Kernanliegen gegen die Ökonomisierung stark gespiegelt: keine Privatisierung, mehr Investitionen, Personaluntergrenzen und ein Ende der Fallpauschalen-Fehlanreize. Zugleich greift der harte Migrationskurs genau die ausländischen Kolleginnen an, ohne die ihre Station nicht funktioniert, und untergräbt damit das Personalversprechen. Strukturpolitik und Migrationslinie ziehen für sie in genau entgegengesetzte Richtungen.",
+    "score": 0
+  }
+}

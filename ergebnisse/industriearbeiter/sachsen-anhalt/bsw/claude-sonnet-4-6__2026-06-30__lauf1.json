@@ -1,0 +1,88 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Deindustrialisierung stoppen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "BSW setzt auf aktive Wirtschafts- und Industriepolitik, die den Standort stabilisiert, ohne die bestehende Basis zu opfern.",
+      "seite": 17,
+      "zitat": "Wir setzen auf eine aktive Wirtschafts- und Industriepolitik, die den Standort stabilisiert und Zukunftsbranchen aufbaut, ohne die bestehende Basis zu opfern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Klaus arbeitet im Chemiewerk und erlebt täglich, wie der Standort durch hohe Energiekosten und Überregulierung unter Druck gerät. Das BSW-Versprechen, die industrielle Basis zu erhalten, entspricht direkt seiner Arbeitsplatz-Sorge.",
+      "begruendung_selbst": "Wenn das Werk schließt, ist hier nichts mehr. Ich will nicht umschulen und pendeln – ich will meinen Beruf machen. Eine Partei, die das versteht, hat meinen Respekt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarifbindung und Mitbestimmung sichern!",
+      "thema": "arbeit",
+      "programmpunkt": "BSW setzt auf Tarifbindung, Mitbestimmung und starke Arbeitnehmerrechte als Grundlage für wirtschaftliche Stabilität.",
+      "seite": 17,
+      "zitat": "Gute Arbeit, Tarifbindung und Mitbestimmung sind dabei die Grundlage für Stabilität.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Klaus ist Betriebsrat und kämpft täglich für Tarifverträge und Mitbestimmungsrechte. Das BSW benennt diese als Grundlage der Wirtschaft – nicht als Hindernis für Unternehmen.",
+      "begruendung_selbst": "In meinem Betrieb haben wir Tarifvertrag – aber der Druck, das aufzugeben, wächst. Wenn die Regierung Tarifbindung nicht nur duldet, sondern fordert, dann stärkt das meine Verhandlungsposition.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiepreise für die Industrie senken!",
+      "thema": "energie",
+      "programmpunkt": "BSW will Energiekosten durch einen breiten, technologieoffenen Energiemix senken und die CO2-Abgabe abschaffen.",
+      "seite": 17,
+      "zitat": "Die öffentliche Hand muss dabei die Rahmenbedingungen für eine verlässliche und bezahlbare Energieversorgung sicherstellen – als Voraussetzung für Investitionen, Wettbewerbsfähigkeit und gute Arbeitsplätze.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiepreise sind der zentrale Standortnachteil des Chemiewerks, in dem Klaus arbeitet. Günstige Energie ist Voraussetzung für Arbeitsplatzsicherheit in seiner Branche.",
+      "begruendung_selbst": "Unser Werk ist energieintensiv. Wenn Strom zu teuer ist, verlagern wir die Produktion ins Ausland – und ich bin arbeitslos. Bezahlbare Energie ist meine Jobsicherheit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemiestandort erhalten!",
+      "thema": "wirtschaft",
+      "programmpunkt": "BSW misst der Transformation des Chemiesektors strategische Priorität bei und will Industriestandorte durch bezahlbare Energie und schnellere Genehmigungen stärken.",
+      "seite": 28,
+      "zitat": "Industriestandorte durch bezahlbare Energie und schnellere Genehmigungen stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Klaus arbeitet im Chemiebereich – einem Schlüsselsektor für Sachsen-Anhalt, der unter besonderem Druck steht. Das BSW benennt seinen Sektor explizit als strategisch wichtig.",
+      "begruendung_selbst": "Mein Werk steht auf der Liste der zu 'transformierenden' Betriebe. Das BSW sagt: Chemie bleibt wichtig. Das ist die einzige Aussage, die mich ruhig schlafen lässt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gas aus Russland? Wettbewerbsfähigkeit vor Ideologie!",
+      "thema": "energie",
+      "programmpunkt": "BSW will Energie von allen Lieferanten beziehen und setzt sich für Gespräche mit Russland über Gaslieferungen ein.",
+      "seite": 17,
+      "zitat": "Wir setzen uns dafür ein, Energie von allen Lieferanten zu beziehen. Dazu müssen auch Gespräche mit Russland geführt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Günstiges Gas ist für Klaus' Chemiewerk existenziell. Der Verzicht auf russisches Gas hat die Produktionskosten drastisch erhöht. Das BSW adressiert diesen Punkt direkt.",
+      "begruendung_selbst": "Günstiges Gas hat unsere Wettbewerbsfähigkeit gesichert. Seit dem Embargo zahlen wir das Vierfache. Wer da pragmatisch denkt statt ideologisch, denkt auch an mich.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Klaus findet im BSW-Programm eine klare industriepolitische Linie: Standortsicherung, Tarifbindung, günstige Energie und explizite Bekenntnis zum Chemiesektor treffen alle seine zentralen Anliegen. Kein Programmpunkt schadet ihm erkennbar. Das ist die stärkste Parteiübereinstimmung, die er finden wird.",
+    "score": 2
+  }
+}

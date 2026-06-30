@@ -1,0 +1,137 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Kollegen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Landespolizei soll auf mindestens 7.500 Vollzugsbeamte aufgestockt werden.",
+      "seite": 9,
+      "zitat": "die Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marcos zentrale Sorge ist der Personalmangel im Streifendienst; eine konkrete Aufstockung trifft direkt seinen wichtigsten Wunsch.",
+      "begruendung_selbst": "Gebt uns die Leute, dann können wir den Job auch machen. Genau das steht hier drin.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papierkram, mehr Streife!",
+      "thema": "arbeit",
+      "programmpunkt": "Polizeivollzugsbeamte sollen von Verwaltungstätigkeiten entlastet werden, damit sie sich auf Vollzugsaufgaben konzentrieren können.",
+      "seite": 9,
+      "zitat": "von Verwaltungstätigkeiten weitgehend entlastet werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt zunehmende Verwaltungslast als Belastung; eine Entlastung verschafft ihm Zeit für die eigentliche Polizeiarbeit.",
+      "begruendung_selbst": "Ich bin Polizist geworden, um draußen zu sein, nicht um Formulare auszufüllen. Das geht in die richtige Richtung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Generalverdacht nach dem Schuss!",
+      "thema": "sicherheit",
+      "programmpunkt": "Nach Schusswaffengebrauch sollen interne Ermittlungen nur noch bei konkreten Verdachtsmomenten eingeleitet werden, mit Unschuldsvermutung.",
+      "seite": 9,
+      "zitat": "uneingeschränkt die Unschuldsvermutung gelten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco fühlt sich mit seiner Kollegschaft unter Generalverdacht gestellt; der Wegfall automatischer Ermittlungen entlastet ihn beruflich und persönlich.",
+      "begruendung_selbst": "Wer im Einsatz handeln muss, sollte danach nicht automatisch wie ein Täter behandelt werden. Endlich denkt das mal jemand mit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bessere Ausrüstung - auch Taser!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizei soll mit Distanz-Elektro-Impulsgeräten (Tasern) ausgestattet und daran ausgebildet werden.",
+      "seite": 9,
+      "zitat": "solche Geräte anschaffen und die Polizei daran ausbilden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Veraltete Ausstattung gehört zu Marcos Sorgen; ein erweitertes, abgestuftes Einsatzmittel verbessert seine Handlungsfähigkeit und Sicherheit.",
+      "begruendung_selbst": "Zwischen Pfefferspray und Pistole fehlt oft was. Ein Taser gibt mir im Einsatz eine echte Option mehr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fürsorge für die Truppe!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Land soll die Kosten der Dienstunfähigkeitsversicherung für Polizeibeamte und Anwärter übernehmen.",
+      "seite": 9,
+      "zitat": "die Kosten der Dienstunfähigkeitsversicherungen für Polizeibeamte und Anwärter",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco wünscht sich Rückhalt und Wertschätzung; eine vom Land getragene Absicherung ist ein konkretes Zeichen der Fürsorge des Dienstherrn.",
+      "begruendung_selbst": "Wir gehen für die Sicherheit ins Risiko. Dass der Dienstherr uns dafür auch absichert, ist nur fair.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich folgt die Strafe der Tat!",
+      "thema": "sicherheit",
+      "programmpunkt": "Beschleunigte Verfahren nach dem Neuköllner Modell sollen dafür sorgen, dass Straftaten zügig und nachvollziehbar abgeurteilt werden.",
+      "seite": 10,
+      "zitat": "damit die Strafe als Konsequenz der Tat erfahrbar wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist frustriert, wenn seine Arbeit in einer langsamen Justizkette versandet; schnellere Verfahren machen seinen Einsatz wirksam.",
+      "begruendung_selbst": "Es zermürbt, wenn meine Arbeit am Ende im Gericht versandet. Eine zügige Justizkette gibt dem Ganzen erst Sinn.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Den Verfassungsschutz schwächt man nicht",
+      "thema": "demokratie",
+      "programmpunkt": "Der Verfassungsschutz soll auf ein klassisch geheimdienstliches Spektrum reduziert und an enge, harte Kriterien gebunden werden.",
+      "seite": 11,
+      "zitat": "Der Verfassungsschutz muss zu einem Inlandsgeheimdienst reformiert werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco steht für eine wehrhafte Demokratie und ist gegenüber einer Partei, die der Verfassungsschutz beobachtet, ambivalent; einen Umbau, der diese Behörde schwächt, sieht er als Untergrabung der Institution, die er schützt.",
+      "begruendung_selbst": "Mir ist egal, von welcher Seite es kommt: Wer die Institutionen schwächt, die uns alle schützen, macht meinen Job am Ende gefährlicher.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgerwehr ist nicht mein Job-Ersatz",
+      "thema": "sicherheit",
+      "programmpunkt": "Als dritte Säule der Sicherheitsarchitektur soll eine freiwillige Bürgerwacht aufgebaut werden, die Ordnungsamt und Polizei unterstützt.",
+      "seite": 9,
+      "zitat": "eine freiwillige Bürgerwacht aufbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als institutionentreuer Beamter ist Marco skeptisch, ob laienhafte Bürgerwachen das staatliche Gewaltmonopol und professionelle Polizeiarbeit ergänzen oder eher verwischen.",
+      "begruendung_selbst": "Sicherheit ist Profisache. Engagierte Bürger gern, aber eine Bürgerwehr ersetzt weder Ausbildung noch das, wofür der Staat zuständig ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pauschalurteile bringen mir nichts",
+      "thema": "integration",
+      "programmpunkt": "Kriminelle Ausländer sollen bei Verurteilung ab einem Jahr generell ausgewiesen werden; Migration wird durchgängig als Sicherheitsproblem gerahmt.",
+      "seite": 9,
+      "zitat": "Kriminelle Ausländer ausweisen!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco will konsequente Strafverfolgung, lehnt aber pauschale Verdächtigungen ganzer Gruppen ab; die durchgängig pauschale Rahmung widerspricht seiner differenzierten Berufssicht.",
+      "begruendung_selbst": "Wer Straftaten begeht, muss konsequent verfolgt werden, klar. Aber ich stelle nicht ganze Gruppen unter Generalverdacht, das hilft meiner Arbeit nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco findet seine beruflichen Kernwünsche stark bedient: mehr Personal, bessere Ausstattung, Entlastung von Verwaltung, Wegfall des Generalverdachts und eine schnellere Justizkette. Zugleich kollidiert das Programm mit seiner Institutionentreue, etwa beim Umbau des Verfassungsschutzes, bei Bürgerwachen und der pauschalen Migrationsrhetorik. Die konkreten Verbesserungen seiner Arbeitsbedingungen überwiegen knapp.",
+    "score": 1
+  }
+}

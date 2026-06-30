@@ -1,0 +1,113 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine Kita-Gebühren mehr!",
+      "thema": "familie",
+      "programmpunkt": "Einführung beitragsfreier Kitas in Sachsen-Anhalt.",
+      "seite": 46,
+      "zitat": "Wir setzen uns deshalb für beitragsfreie Kitas in Sachsen-Anhalt ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine zählt jeden Euro; beitragsfreie Kitas würden ihren Haushalt direkt entlasten und ihren Kindern den Platz sichern.",
+      "begruendung_selbst": "Wenn die Kita nichts mehr kostet, bleibt mir am Monatsende endlich ein bisschen Luft – das macht für mich einen echten Unterschied.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Betreuung, die zur Arbeit passt!",
+      "thema": "familie",
+      "programmpunkt": "Das Land soll verlässliche Ferien- und Ganztagsbetreuung finanzieren, um die Lücke zwischen schulfreien Tagen und Urlaubstagen zu schließen.",
+      "seite": 37,
+      "zitat": "verlässliche Ferien- und Ganztagsbetreuung finanziert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Betreuungszeiten, die zur Arbeit passen, sind Nadines Daueraufgabe; finanzierte Ferien- und Ganztagsbetreuung ermöglicht ihr überhaupt erst, zu arbeiten.",
+      "begruendung_selbst": "Gebt mir verlässliche Betreuung auch in den Ferien, dann kann ich auch mehr arbeiten – genau daran scheitert es bei mir ständig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schulsachen für alle bezahlt!",
+      "thema": "bildung",
+      "programmpunkt": "Einführung einer echten Lernmittelfreiheit mit kostenfreiem Zugang zu Lehr- und Lernmitteln unabhängig von der sozialen Herkunft.",
+      "seite": 43,
+      "zitat": "eine echte Lernmittelfreiheit einzuführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jeder unerwartete Posten wie Schulbücher ist für Nadine ein Problem; echte Lernmittelfreiheit nimmt ihr eine konkrete Kostenlast für die Kinder ab.",
+      "begruendung_selbst": "Schulbücher, Arbeitshefte – das summiert sich. Wenn das endlich frei ist, muss ich nicht mehr jeden Cent umdrehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Die Miete soll nicht weiter steigen!",
+      "thema": "wohnen",
+      "programmpunkt": "Wirksame Begrenzung von Mietsteigerungen durch einen bundesweiten Mietendeckel und Ausweitung des sozialen Wohnungsbaus.",
+      "seite": 30,
+      "zitat": "Ein bundesweiter Mietendeckel ist dafür ein geeignetes Instrument.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Miete frisst bei Nadine den Großteil des Einkommens; ein Mietendeckel und mehr Sozialwohnungen sichern ihr bezahlbares Wohnen.",
+      "begruendung_selbst": "Die Miete schluckt fast alles, was ich habe – wenn die gedeckelt wird, kann ich endlich wieder durchatmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arbeit muss sich lohnen!",
+      "thema": "arbeit",
+      "programmpunkt": "Gesetzlicher Mindestlohn von 15 Euro pro Stunde ohne Ausnahmen.",
+      "seite": 35,
+      "zitat": "einen gesetzlichen Mindestlohn von 15,00 Euro pro Stunde",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine arbeitet Teilzeit und stockt auf; ein höherer Mindestlohn erhöht das, was ihr von der eigenen Arbeit bleibt.",
+      "begruendung_selbst": "Ich arbeite und kümmere mich – wenn der Lohn endlich reicht, lohnt sich meine Arbeit auch wirklich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kinderarmut endlich anpacken!",
+      "thema": "gesundheit",
+      "programmpunkt": "Wirksame Bekämpfung von Kinder- und Altersarmut sowie ein schneller, unbürokratischer Zugang zu Sozialleistungen.",
+      "seite": 78,
+      "zitat": "Altersarmut und Kinderarmut wirksam bekämpfen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine bewegt sich am Existenzminimum und macht viele Behördengänge; ein erklärter Kampf gegen Kinderarmut und einfachere Anträge entsprechen ihrer Lage.",
+      "begruendung_selbst": "Meine Kinder sollen nicht arm aufwachsen, nur weil ich allein erziehe – und weniger Behördenmarathon hilft mir auch.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Schon wieder unter Generalverdacht?",
+      "thema": "arbeit",
+      "programmpunkt": "Gerechtigkeit wird mit der klaren Erwartung verbunden, dass jeder seinen Beitrag leistet.",
+      "seite": 7,
+      "zitat": "die klare Erwartung, dass jeder seinen Beitrag leistet",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine reagiert empfindlich auf 'fördern und fordern'-Töne, weil sie sich trotz Arbeit und Sorgearbeit verdächtigt fühlt; die Beitragsrhetorik weckt diese Sorge.",
+      "begruendung_selbst": "Ich leiste doch meinen Beitrag – jeden Tag, mit zwei Kindern und Teilzeitjob. Ich will nicht ständig hören, ich müsste mich erst beweisen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das BSW-Programm trifft Nadines Alltag fast durchgehend positiv: beitragsfreie Kitas, finanzierte Ferien- und Ganztagsbetreuung, Lernmittelfreiheit, Mietendeckel, höherer Mindestlohn und ein erklärter Kampf gegen Kinderarmut adressieren ihre Kernsorgen. Lediglich die Betonung, jeder müsse seinen Beitrag leisten, weckt bei ihr die Sorge vor Misstrauen. Insgesamt sieht sie ihre Lage und die ihrer Kinder deutlich ernst genommen.",
+    "score": 2
+  }
+}

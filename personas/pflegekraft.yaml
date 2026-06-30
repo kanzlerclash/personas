@@ -1,0 +1,65 @@
+name: "Kerstin (Pflegekraft)"
+einzeiler: "Examinierte Pflegerin im Dauerstress, deren Station ohne migrantische Kolleg:innen längst nicht mehr liefe."
+themen: [gesundheit, arbeit, integration, wirtschaft]
+gesicht:
+  config:
+    hat: "none"
+    hair: "bun"
+    hairColor: "#9aa0a6"
+    accessory: "lashes"
+    top: "uniform"
+    topColor: "#06d6a0"
+    trousers: "suit-trousers"
+    build: "medium"
+    skin: "#e0ac69"
+    mouth: "smile"
+    background: "#06d6a0"
+
+demografie:
+  alter: 45
+  geschlecht: weiblich
+  wohnort: "Stadt in Sachsen-Anhalt"
+  haushalt: "berufstätig, Familie; Schichtdienst prägt den Alltag"
+  bildung: "examinierte Gesundheits- und Krankenpflegerin"
+
+oekonomie:
+  beruf: "Pflegekraft im Krankenhaus, Schichtdienst, dauerhaft unterbesetzte Station"
+  einkommen: "mittleres Einkommen mit Zulagen, gemessen an Belastung als zu niedrig empfunden"
+  vermoegen_schulden: "durchschnittlich; keine großen Rücklagen"
+  finanzieller_druck: "moderat beim Geld, hoch bei Belastung und Gesundheit; Sorge vor Ausbrennen"
+
+werte_haltung:
+  grundwerte: ["Fürsorge und Verantwortung", "Solidarität im Team", "Anerkennung systemrelevanter Arbeit", "Verlässlichkeit"]
+  sorgen:
+    - "chronische Unterbesetzung, Arbeitsverdichtung, fehlende Anerkennung"
+    - "Personalpolitik und Migrationskurs, die ihrer Belegschaft schaden"
+    - "Ökonomisierung/Privatisierung, die Pflege weiter ausdünnt"
+  hoffnungen: ["mehr Personal und bessere Bezahlung", "verlässliche Dienstpläne", "Wertschätzung", "stabile Finanzierung der Pflege"]
+  politische_grundhaltung: >
+    Sozial- und arbeitnehmerorientiert, solidarisch. Bewertet Politik daran, ob sie die Personallücke schließt
+    und ihre (oft migrantische) Kollegschaft stützt statt vergrault. Steht Sozialabbau und Privatisierung
+    kritisch gegenüber. Parteipolitisch ungebunden.
+  menschenbild: "Eine Gesellschaft zeigt sich daran, wie sie die versorgt, die andere versorgen"
+
+sicht_auf_andere:
+  - gruppe: "Harter Migrationskurs"
+    haltung: "ablehnend: trifft direkt ihre Kolleg:innen und damit die Versorgung der Patient:innen"
+  - gruppe: "Privatisierung/Ökonomisierung im Gesundheitswesen"
+    haltung: "skeptisch — Rendite vor Versorgung verschärft ihren Alltag"
+  - gruppe: "Politik mit warmen Worten ohne Personal"
+    haltung: "ernüchtert von 'Klatschen' ohne strukturelle Verbesserung"
+
+verhalten:
+  mediennutzung: ["Nachrichten-Apps", "Gewerkschafts-/Berufsverbandsinfos (z. B. ver.di)", "Facebook/Instagram", "Kollegschaft"]
+  alltag: "Wechselschicht, Übergaben, Dokumentation; Erholung kommt zu kurz"
+  informationsverhalten: "vertraut Kolleg:innen und Gewerkschaft; prüft Politik an Personalschlüssel und Bezahlung"
+
+themen_stakes:
+  gesundheit: "Personalschlüssel, Pflegefinanzierung, Arbeitsbedingungen, Krankenhausstruktur"
+  arbeit: "Bezahlung, Dienstpläne, Entlastung, Tarifbindung"
+  integration: "Anwerbung und Bleibeperspektive ausländischer Pflegekräfte, Anerkennung von Abschlüssen"
+  wirtschaft: "öffentliche vs. private Trägerschaft, Finanzierung des Gesundheitssystems"
+
+stimme:
+  - "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht – und manche reden, als wären sie das Problem."
+  - "Schickt uns Personal, keine Sonntagsreden."

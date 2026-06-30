@@ -1,0 +1,88 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Gemeinsame Verteidigung stärken - ja!",
+      "thema": "verteidigung",
+      "programmpunkt": "Forderung nach einer EU, die ihre Außengrenzen schützt und die gemeinsame Verteidigung stärkt.",
+      "seite": 89,
+      "zitat": "die gemeinsame Verteidigung stärkt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan bewertet Politik an Bündnistreue und Ernsthaftigkeit; ein Bekenntnis zur Stärkung der gemeinsamen Verteidigung entspricht seinem Kernanliegen.",
+      "begruendung_selbst": "Ich stehe für dieses Land ein. Dass die gemeinsame Verteidigung gestärkt werden soll, ist genau die Ernsthaftigkeit, die ich erwarte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klares Ja zu Europa und Sicherheit.",
+      "thema": "verteidigung",
+      "programmpunkt": "Bekenntnis zu einer Europäischen Union, die Sicherheit, Wohlstand und Freiheit garantiert.",
+      "seite": 88,
+      "zitat": "klar zu einer Europäischen Union, die Sicherheit, Wohlstand und Freiheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan lehnt Bündnisskepsis ab; ein klares Bekenntnis zu einer sicherheitsgebenden EU stützt seinen Auftrag an der Ostflanke.",
+      "begruendung_selbst": "Bündnisskepsis untergräbt meinen Auftrag. Ein klares Ja zu Europa und Sicherheit ist für mich keine Floskel, sondern Grundlage.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verteidigungsindustrie im Land - gut.",
+      "thema": "verteidigung",
+      "programmpunkt": "Ansiedlung von Chemie für die Verteidigungsindustrie als Beitrag zur europäischen Souveränität.",
+      "seite": 12,
+      "zitat": "Nitro - Chemie für die Verteidigungsindustrie",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan frustriert, wenn Bekenntnisse ohne Ausstattung bleiben; die Förderung wehrtechnischer Produktion stärkt aus seiner Sicht die materielle Basis.",
+      "begruendung_selbst": "Mit warmen Worten fahre ich keine Übung. Dass wehrtechnische Produktion ins Land geholt wird, ist mal konkret statt nur Symbolik.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bevölkerungsschutz mit der Bundeswehr.",
+      "thema": "sicherheit",
+      "programmpunkt": "Stärkung der Abteilung Bevölkerungsschutz als Schnittstelle zu Bund, Bundeswehr und Ländern angesichts veränderter Lage.",
+      "seite": 10,
+      "zitat": "Schnittstelle zum Bund, zur Bundeswehr",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan erlebt die veränderte Bedrohungslage unmittelbar; eine gestärkte Schnittstelle zur Bundeswehr im Bevölkerungsschutz entspricht seinem Sicherheitsdenken.",
+      "begruendung_selbst": "Die Lage hat sich verändert, das spüre ich täglich. Dass Land und Bundeswehr beim Schutz enger zusammenarbeiten, ist überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wehrhafte Demokratie gegen die Ränder.",
+      "thema": "demokratie",
+      "programmpunkt": "Stärkung des Verfassungsschutzes gegen zunehmende extremistische Bestrebungen.",
+      "seite": 7,
+      "zitat": "der Verfassungsschutz weiter gestärkt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan ist verfassungstreu und lehnt staatsgefährdende Strömungen ab; ein gestärkter Verfassungsschutz entspricht seiner Haltung zur wehrhaften Demokratie.",
+      "begruendung_selbst": "Eine wehrhafte Demokratie muss sich verteidigen können. Einen starken Verfassungsschutz halte ich für selbstverständlich.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Als Landesprogramm berührt das Papier Stefans Kernthema Verteidigung nur am Rand, doch wo es das tut, liegt es klar auf seiner Linie: Stärkung der gemeinsamen Verteidigung, klares Bekenntnis zu Bündnis und Sicherheit, wehrtechnische Industrie im Land, Bevölkerungsschutz mit der Bundeswehr und ein starker Verfassungsschutz. Gegen seine Lage gerichtete Punkte findet er nicht; die konkrete Truppenausstattung bleibt aber Bundessache.",
+    "score": 1
+  }
+}

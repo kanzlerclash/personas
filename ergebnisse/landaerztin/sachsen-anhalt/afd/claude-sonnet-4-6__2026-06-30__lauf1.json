@@ -1,0 +1,77 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine weiteren Krankenhausschließungen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm lehnt Privatisierung von Krankenhäusern ab, will Investitionen erhöhen und die Versorgung im ländlichen Raum sichern.",
+      "seite": 20,
+      "zitat": "Unser besonderes Augenmerk gilt dabei der medizinischen Versorgung im ländlichen Raum",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra kämpft täglich gegen einen Versorgungsmangel, der sich verschärft, wenn Krankenhäuser schließen; mehr Investitionen und der Erhalt kleiner Kliniken stärken das Netz, auf das ihre Patienten angewiesen sind.",
+      "begruendung_selbst": "Wenn ich in Rente gehe, steht hier niemand bereit. Wer versorgt dann meine Patienten? Wenn das Krankenhaus schließt, muss ich jeden Patienten noch weiter schicken. Das darf nicht passieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Privatisierung war ein Fehler!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm will bereits privatisierte Krankenhäuser, wo medizinisch geboten, in öffentliche oder gemeinnützige Trägerschaft zurückführen.",
+      "seite": 20,
+      "zitat": "bereits privatisierte Häuser dort, wo es medizinisch geboten ist, wieder in die Verantwortung von Land, Kommunen oder gemeinnützigen Trägern zu überführen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra sieht die Renditelogik privater Krankenhauskonzerne als Treiber des Landarztmangels und der schlechten Versorgungsqualität; die Rückführung in öffentliche Trägerschaft entspricht ihrem Verständnis von Daseinsvorsorge.",
+      "begruendung_selbst": "Ich behandle gern Menschen – aber ich verbringe halbe Tage mit Formularen. Und wenn dann das lokale Krankenhaus auf Rendite optimiert und die Innere Medizin schließt, arbeite ich im Vakuum.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie runter, Versorgung rauf!",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm will bürokratische Regelungen systematisch abbauen und überflüssige Verwaltungslasten streichen.",
+      "seite": 17,
+      "zitat": "immer mehr Ressourcen verschlingt und sich dabei zunehmend von den Bürgern entfremdet",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra verbringt nach eigenem Erleben halbe Tage mit Dokumentation statt mit Patienten; Bürokratieabbau würde ihr direkt Zeit für die medizinische Versorgung zurückgeben.",
+      "begruendung_selbst": "Ich behandle gern Menschen – aber ich verbringe halbe Tage mit Formularen und einer Technik, die nicht läuft. Weniger Bürokratie bedeutet mehr Sprechzeit. Das ist mein Ziel.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Keine Anreize für Landärzte!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm nennt die ländliche Versorgung als Ziel, enthält aber keine konkreten finanziellen Anreize, Niederlassungsförderung oder Stipendienprogramme für Landarztmangel-Gebiete.",
+      "seite": 20,
+      "zitat": "Alle Bürger sollen Zugang zu einer qualitativ hochwertigen Gesundheitsversorgung haben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra sucht händeringend nach einer Nachfolge; allgemeine Bekenntnisse zur ländlichen Versorgung lösen ihren konkreten Nachwuchsmangel nicht, weil konkrete Niederlassungsanreize fehlen.",
+      "begruendung_selbst": "Das klingt gut – aber wer kommt hierher? Ich höre keinen Plan, wie man junge Ärzte aufs Land lockt. Ohne Stipendien oder Praxisübernahmeprämien bleibt das eine leere Versprechen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra findet das klare Bekenntnis zur ländlichen Gesundheitsversorgung, die Ablehnung der Privatisierung und das Versprechen von Bürokratieabbau als direkte Adressierung ihrer Alltagsprobleme. Dass das Programm keine konkreten Maßnahmen gegen den Landarztmangel und für Nachfolge-Anreize enthält, ist für sie die entscheidende Lücke.",
+    "score": 1
+  }
+}

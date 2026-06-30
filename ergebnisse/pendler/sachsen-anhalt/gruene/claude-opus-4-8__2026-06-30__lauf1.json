@@ -1,0 +1,101 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sie wissen, dass ich das Auto brauche",
+      "thema": "verkehr",
+      "programmpunkt": "Anerkennung, dass das Auto in ländlichen Räumen für viele Menschen weiterhin notwendig bleibt.",
+      "seite": 27,
+      "zitat": "das Auto in ländlichen Räumen für viele Menschen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fühlt sich von urbaner Verkehrspolitik übergangen; die ausdrückliche Anerkennung der Auto-Notwendigkeit auf dem Land nimmt seine Lebensrealität ernst.",
+      "begruendung_selbst": "Endlich schreibt das mal jemand hin: Bei mir im Dorf geht es ohne Auto eben nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stündlich ein Bus bis ins Dorf",
+      "thema": "verkehr",
+      "programmpunkt": "Der Busverkehr soll flächendeckend ausgebaut werden, um alle Dörfer mindestens stündlich zu erreichen.",
+      "seite": 29,
+      "zitat": "alle Dörfer mindestens einmal pro Stunde zuverlässig zu erreichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf lebt ohne brauchbaren ÖPNV; ein verlässlicher Stundentakt bis ins Dorf wäre eine echte Alternative für ihn und seine Familie.",
+      "begruendung_selbst": "Wenn hier wirklich jede Stunde ein Bus führe, müsste meine Frau nicht für jede Besorgung das zweite Auto nehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Laden auch auf dem Land",
+      "thema": "energie",
+      "programmpunkt": "Die Ladeinfrastruktur für Elektrofahrzeuge soll massiv ausgebaut und gefördert werden, gerade in ländlichen Räumen.",
+      "seite": 30,
+      "zitat": "Ladeinfrastruktur für Elektrofahrzeuge massiv ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf scheut den Umstieg auch wegen fehlender Lademöglichkeiten; ein Ausbau auf dem Land senkt eine seiner praktischen Hürden.",
+      "begruendung_selbst": "Umsteigen kann ich nur, wenn ich auch laden kann – und nicht erst 30 Kilometer zur nächsten Säule fahre.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verbrenner umrüsten statt neu kaufen",
+      "thema": "verkehr",
+      "programmpunkt": "Die Umrüstung privater Verbrennerfahrzeuge zu reinen Elektrofahrzeugen soll gefördert werden.",
+      "seite": 31,
+      "zitat": "zu reinen Elektrofahrzeugen fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein bezahlbares E-Auto ist für Toralf nicht in Sicht; eine geförderte Umrüstung könnte den Umstieg für ihn überhaupt erschwinglich machen.",
+      "begruendung_selbst": "Ein neues E-Auto kann ich mir nicht leisten – aber wenn die Umrüstung gefördert wird, redet man mit mir.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Tempo 130 auf der Autobahn",
+      "thema": "verkehr",
+      "programmpunkt": "Tempo 130 soll Regelgeschwindigkeit auf allen Autobahnen werden.",
+      "seite": 31,
+      "zitat": "Tempo 130 als Regelgeschwindigkeit auf allen Autobahnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf pendelt täglich mit dem Auto; ein generelles Tempolimit erlebt er als Eingriff in seinen Arbeitsweg.",
+      "begruendung_selbst": "Mein Arbeitsweg ist eh lang genug – jetzt soll ich auch noch langsamer fahren? Das hilft mir genau gar nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tempo 30 macht alles zäh",
+      "thema": "verkehr",
+      "programmpunkt": "Tempo 30 soll innerörtliche Regelgeschwindigkeit werden, mit Ausnahmemöglichkeiten für Kommunen.",
+      "seite": 31,
+      "zitat": "Tempo 30 als innerörtliche",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auf seinen Wegen durch Ortschaften erlebt Toralf flächiges Tempo 30 als weitere Verlangsamung des Alltags, der vom Auto abhängt.",
+      "begruendung_selbst": "Erst kein Bus, dann überall Tempo 30 – am Ende komm ich nirgends mehr pünktlich an.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf erlebt das Programm zwiespältig, aber überraschend nah an seiner Lage: Es erkennt die Auto-Notwendigkeit auf dem Land an, verspricht stündlichen Busverkehr, Ladeinfrastruktur und geförderte Umrüstung – genau seine Wünsche nach bezahlbarer, alltagstauglicher Mobilität. Tempolimits auf Autobahn und innerorts stoßen ihm dagegen auf. Unterm Strich fühlt er sich stärker gesehen als erwartet.",
+    "score": 1
+  }
+}

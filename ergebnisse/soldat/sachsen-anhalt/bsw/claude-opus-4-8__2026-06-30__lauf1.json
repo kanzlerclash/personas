@@ -1,0 +1,101 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wenigstens ein Ja zur Verteidigungsfähigkeit.",
+      "thema": "verteidigung",
+      "programmpunkt": "Bekenntnis zu einer verteidigungsfähigen Bundesrepublik auf Basis einer Freiwilligenarmee, die der Landes- und Bündnisverteidigung dient.",
+      "seite": 9,
+      "zitat": "bekennt sich zu einer verteidigungsfähigen Bundesrepublik",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan ist Verteidigungsfähigkeit und Bündnisverteidigung wichtig; dass das Programm sich grundsätzlich zu einer verteidigungsfähigen Bundeswehr bekennt, nimmt er als einzigen Anknüpfungspunkt wahr.",
+      "begruendung_selbst": "Immerhin ein Bekenntnis zur Verteidigungsfähigkeit und Bündnisverteidigung – das ist das Mindeste, was ich erwarte.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Gegen Aufrüstung heißt gegen meinen Auftrag!",
+      "thema": "verteidigung",
+      "programmpunkt": "Klare Stimme gegen Aufrüstung und Kriegskredite, gegen die größte Aufrüstung seit Bestehen der Bundesrepublik.",
+      "seite": 9,
+      "zitat": "eine Stimme gegen Krieg und Aufrüstung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt an der Ostflanke täglich Ausrüstungsmängel und braucht Investitionen; eine pauschale Absage an Aufrüstung untergräbt aus seiner Sicht Auftrag und Einsatzbereitschaft.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren – wer Aufrüstung pauschal ablehnt, lässt mich ohne funktionierendes Material dastehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine NATO-Manöver? Das gefährdet die Ostflanke!",
+      "thema": "verteidigung",
+      "programmpunkt": "Ablehnung von NATO-Manövern und der militärischen Nutzung ziviler Infrastruktur in Sachsen-Anhalt.",
+      "seite": 9,
+      "zitat": "Keine NATO-Manöver und militärische Nutzung ziviler Infrastruktur",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan sind NATO-Übungen und Logistik zentral für die Bündnisverteidigung; ihre Ablehnung steht im direkten Widerspruch zu seinem Auftrag an der Ostflanke.",
+      "begruendung_selbst": "Ohne gemeinsame Übungen und Logistik ist Bündnisverteidigung nicht zu machen – das hier schwächt genau das, wofür ich einstehe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ICAN und kein US-Schutzschirm?",
+      "thema": "verteidigung",
+      "programmpunkt": "Ablehnung der Stationierung neuer US-Mittelstreckenraketen und Unterstützung eines atomwaffenfreien Deutschlands.",
+      "seite": 10,
+      "zitat": "Keine Stationierung neuer US-Mittelstreckenraketen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Angesichts der Bedrohungslage hält Stefan Abschreckung und Bündnisfähigkeit für unverzichtbar; die Absage an US-Raketen und Atomwaffenschutz widerspricht seinem Sicherheitsverständnis.",
+      "begruendung_selbst": "Abschreckung hält den Frieden – wer Raketen und Schutzschirm ablehnt, lässt uns an der Ostflanke ungeschützt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rüstungsindustrie aushungern? Falsch!",
+      "thema": "verteidigung",
+      "programmpunkt": "Keine Subventionen, Kredite oder Fördermittel für Rüstungsunternehmen und ein öffentlicher Fonds für Rüstungskonversion.",
+      "seite": 10,
+      "zitat": "Keine Subventionen, Kredite oder Fördermittel für Rüstungsunternehmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan braucht verlässliche Ausrüstung; die Aushungerung der Rüstungsindustrie und Konversionspläne gefährden aus seiner Sicht Beschaffung und Einsatzfähigkeit der Truppe.",
+      "begruendung_selbst": "Ich brauche Material, das funktioniert – wer die Rüstungsindustrie trockenlegt, sorgt nicht für meine Ausrüstung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Russland-Gas? Bei dieser Bedrohung?",
+      "thema": "sicherheit",
+      "programmpunkt": "Forderung nach Gaslieferungen und Gesprächen mit Russland, Nutzung der Nordstream-Pipeline.",
+      "seite": 17,
+      "zitat": "Eine Nutzung der Nordstream-Gaspipeline ist daher unerlässlich!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan lehnt Russland-Nähe angesichts der Bedrohung an der Ostflanke klar ab; die Forderung nach russischem Gas und Nordstream widerspricht seiner sicherheitspolitischen Grundhaltung fundamental.",
+      "begruendung_selbst": "Während Russland die Ostflanke bedroht, wieder Gas von dort holen zu wollen – das ist für mich genau das falsche Signal.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Stefan steht das BSW-Programm seinem sicherheits- und bündnispolitischen Selbstverständnis fast durchgängig entgegen: Absage an Aufrüstung, NATO-Manöver, US-Raketen und Rüstungsindustrie sowie eine Annäherung an Russland. Allein das grundsätzliche Bekenntnis zu einer verteidigungsfähigen Bundeswehr findet seine Zustimmung. Da seine Kernthemen Ausrüstung, Bündnistreue und Abschreckung systematisch konterkariert werden, fällt sein Urteil klar ablehnend aus.",
+    "score": -2
+  }
+}

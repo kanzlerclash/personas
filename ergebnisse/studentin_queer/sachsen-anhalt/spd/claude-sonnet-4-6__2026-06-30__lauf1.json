@@ -1,0 +1,89 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Queer-Programme werden fortgeführt!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Landesprogramme 'Für ein geschlechtergerechtes Sachsen-Anhalt' und 'Queer leben in Sachsen-Anhalt' werden fortgeführt, weiterentwickelt und mit verbindlichen Zielen und ausreichenden Mitteln ausgestattet.",
+      "seite": 36,
+      "zitat": "Die Landesprogramme 'Für ein geschlechtergerechtes Sachsen-Anhalt' und 'Queer leben in Sachsen-Anhalt' werden fortgeführt, weiterentwickelt und mit verbindlichen Zielen, ausreichenden Mitteln und klarer Zuständigkeit ausgestattet.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Jule als queere Person in Sachsen-Anhalt ist die Kontinuität und Stärkung dieser Programme zentral. Sie lebt täglich mit Diskriminierungsrisiken, die durch solche Programme strukturell abgefedert werden.",
+      "begruendung_selbst": "Diese Programme sind keine netten Extras — die sind für Menschen wie mich existenziell. Dass sie nicht nur weitergeführt, sondern auch noch mit echten Zielen versehen werden, ist wirklich ein Unterschied.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queer-Fachzentren werden ausgebaut!",
+      "thema": "demokratie",
+      "programmpunkt": "Die landesfinanzierten Fachzentren für geschlechtliche Vielfalt werden zu interdisziplinären Versorgungs- und Beratungsstellen ausgebaut; eine Studie zur Lebenssituation queerer Menschen wird in Auftrag gegeben.",
+      "seite": 36,
+      "zitat": "Die landesfinanzierten Fachzentren für geschlechtliche Vielfalt werden zu interdisziplinären Versorgungs- und Beratungsstellen ausgebaut.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule und ihre queere Community brauchen konkrete Anlaufstellen. Der Ausbau zu interdisziplinären Versorgungs- und Beratungsstellen ist eine substanzielle Verbesserung gegenüber dem Status quo.",
+      "begruendung_selbst": "Ich kenn Leute, die stundenweit zur nächsten queeren Beratungsstelle fahren müssen. Wenn die ausgebaut werden, ist das kein Symbolismus — das ist echte Hilfe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutzgesetz — endlich Verbindlichkeit!",
+      "thema": "klima",
+      "programmpunkt": "Ein Klimaschutzgesetz für Sachsen-Anhalt soll Verbindlichkeit und Überprüfbarkeit der Ziele schaffen sowie Reduktionspfade für Treibhausgasemissionen festlegen.",
+      "seite": 22,
+      "zitat": "Ein Klimaschutzgesetz schafft Verbindlichkeit und Überprüfbarkeit der Ziele sowie Transparenz über Zuständigkeiten und Fortschritte.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Klimaschutz ist für Jule keine abstrakte Forderung, sondern Überlebensfrage ihrer Generation. Ein Klimaschutzgesetz mit Verbindlichkeit ist genau die Art von institutioneller Verankerung, die sie fordert.",
+      "begruendung_selbst": "Es geht nicht um Ideologie. Es geht darum, dass ich in zwanzig Jahren noch eine lebenswerte Zukunft habe. Ein Gesetz, das Ziele festschreibt, ist der erste Schritt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_sebst": "Studiengebühren und Studierendenwerke gesichert!",
+      "thema": "bildung",
+      "programmpunkt": "Die SPD lehnt Studiengebühren ab und stärkt Studierendenwerke für bezahlbares Wohnen, Beratung und soziale Infrastruktur.",
+      "seite": 21,
+      "zitat": "Studiengebühren lehnt die SPD ab. Studierendenwerke werden gestärkt, um bezahlbares Wohnen, Beratung und soziale Infrastruktur zu sichern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt mit knappem Budget und BAföG. Keine Studiengebühren und ein gestärktes Studierendenwerk bedeuten direkte finanzielle Entlastung und bessere Unterstützungsstrukturen.",
+      "begruendung_selbst": "Ich leb am Limit. Studiengebühren wären für mich das Ende. Und wenn das Studierendenwerk besser ausgestattet wird, gibt's vielleicht sogar einen Therapieplatz ohne Jahreswarteschlange.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Energiewende zu langsam und zu vorsichtig!",
+      "thema": "klima",
+      "programmpunkt": "Die Energiewende soll bei bezahlbaren Preisen für Unternehmen und private Haushalte erfolgen; die Sorge um wirtschaftliche Akzeptanz bremst das Tempo.",
+      "seite": 5,
+      "zitat": "Wir stehen für eine konsequente Energiewende bei bezahlbaren Energiepreisen für Unternehmen und private Haushalte.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule geht die notwendige Geschwindigkeit der Energiewende über Preisbedenken hinaus. Die Formulierung lässt offen, ob Klimaziele wirklich Vorrang haben, wenn sie auf Kosten wirtschaftlicher Interessen gehen.",
+      "begruendung_selbst": "Bezahlbar klingt gut, aber wenn 'bezahlbar' ein Bremse für das Tempo ist, zahlen meine Generation und die nächsten den Preis. Den sieht man nicht auf der Stromrechnung.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule findet im SPD-Programm für Sachsen-Anhalt starke Resonanz: Das Bekenntnis zu Queer-Programmen und deren Ausbau, ein Klimaschutzgesetz mit Verbindlichkeit sowie gesicherte Studierendenwerke sprechen ihre Kernthemen direkt an. Leichte Skepsis bleibt beim Tempo der Energiewende, das ihrer Einschätzung nach noch hinter dem klimapolitisch Notwendigen zurückbleibt.",
+    "score": 2
+  }
+}

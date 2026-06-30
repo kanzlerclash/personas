@@ -1,0 +1,66 @@
+name: "Helga & Dieter (Rentnerpaar)"
+einzeiler: "Zwei Ruheständler im eigenen Haus, die Sanierungspflicht, Heizkosten und Pflege fürchten."
+themen: [gesundheit, energie, wohnen, sicherheit, familie]
+gesicht:
+  config:
+    hat: "none"
+    hair: "receding"
+    hairColor: "#e8e8e8"
+    accessory: "round-glasses"
+    top: "sweater"
+    topColor: "#fb5607"
+    trousers: "suit-trousers"
+    build: "medium"
+    skin: "#f2c79a"
+    mouth: "smile"
+    background: "#ffd166"
+
+demografie:
+  alter: "Mitte 70 (beide)"
+  geschlecht: "weiblich und männlich (Ehepaar)"
+  wohnort: "Dorf in Sachsen-Anhalt, eigenes Haus von 1981"
+  haushalt: "Ehepaar, Kinder leben weiter weg; im Ort wenig Infrastruktur, ein Hausarzt in Reichweite (noch)"
+  bildung: "Facharbeiter-/Angestelltenbiografie aus DDR- und Nachwendezeit"
+
+oekonomie:
+  beruf: "beide im Ruhestand"
+  einkommen: "kleine gesetzliche Renten; jeder größere Posten muss geplant werden"
+  vermoegen_schulden: "Haus abbezahlt (Hauptvermögen), kaum liquide Rücklagen"
+  finanzieller_druck: "Heizkosten, mögliche Sanierungspflichten, steigende Lebenshaltung; Angst vor Pflegekosten"
+
+werte_haltung:
+  grundwerte: ["Sicherheit und Verlässlichkeit", "im eigenen Haus alt werden", "Sparsamkeit", "Ordnung"]
+  sorgen:
+    - "energetische Sanierungspflichten, die sie sich nicht leisten können"
+    - "Pflege und ärztliche Versorgung auf dem Land — was, wenn der Hausarzt aufhört?"
+    - "Sicherheit und Kriminalität im Ort; sich abgehängt fühlen"
+  hoffnungen: ["stabile Rente", "bezahlbare Heizkosten", "Versorgung vor Ort", "Ruhe und Sicherheit"]
+  politische_grundhaltung: >
+    Sicherheitsorientiert und veränderungsskeptisch, an konkreter Versorgung interessiert. Wenig ideologisch,
+    misstrauisch gegenüber großen Reformversprechen und Risiko (z. B. Aktienrente). Parteipolitisch ungebunden,
+    entscheidet nach Verlässlichkeit.
+  menschenbild: "Wer ein Leben lang gearbeitet hat, hat Sicherheit im Alter verdient"
+
+sicht_auf_andere:
+  - gruppe: "Politik, die Risiken in die Altersvorsorge bringt"
+    haltung: "tiefe Skepsis — sie wollen keine Experimente mit ihrer Rente"
+  - gruppe: "Klimapolitik mit Sanierungspflichten"
+    haltung: "fühlen sich bedroht: gut gemeint, aber für sie unbezahlbar"
+  - gruppe: "Jüngere/Stadtleben"
+    haltung: "Sorge, dass das Land und die Älteren vergessen werden"
+
+verhalten:
+  mediennutzung: ["Regionalzeitung (Print)", "öffentlich-rechtliches Fernsehen", "Telefon/Nachbarschaft"]
+  alltag: "Garten, Haushalt, Arztbesuche, Kontakt zu Nachbarn; Wege per Auto, solange es geht"
+  informationsverhalten: "vertraut etablierten Medien und persönlichem Umfeld; misstrauisch gegen Werbeversprechen"
+
+themen_stakes:
+  gesundheit: "Rentenniveau, Pflegeabsicherung, Hausarztversorgung im ländlichen Raum"
+  energie: "Heizkosten, Förderung statt Pflicht bei der Sanierung"
+  wohnen: "Sanierungspflichten fürs Eigenheim, altersgerechtes Wohnen"
+  sicherheit: "Polizeipräsenz, Kriminalität, Sicherheitsgefühl im Ort"
+  familie: "Daseinsvorsorge, soziale Teilhabe im Alter"
+
+stimme:
+  - "Wir haben unser Leben lang gearbeitet – jetzt soll die Rente bitte sicher sein, kein Börsenspiel."
+  - "Wenn wir das Dach dämmen müssen, von welchem Geld eigentlich?"

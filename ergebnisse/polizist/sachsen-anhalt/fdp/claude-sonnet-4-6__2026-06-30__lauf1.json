@@ -1,0 +1,77 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "7.000 Stellen — Versprechen halten!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP hält an der Zielzahl von 7.000 Stellen im Polizeivollzugsdienst fest; zusätzlich sollen 1.200 Verwaltungsmitarbeiter den Vollzugsdienst von Verwaltungsaufgaben entlasten.",
+      "seite": 52,
+      "zitat": "Wir halten an der Zielzahl fest, damit hochqualifizierte Beamtinnen und Beamte ihre Kernaufgaben wahrnehmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marcos größte operative Sorge ist Personalmangel. Das klare Bekenntnis zur Stellenzahl und die Entlastung durch Verwaltungspersonal treffen seinen Kernwunsch.",
+      "begruendung_selbst": "Endlich. Nicht nur warme Worte, sondern eine konkrete Zahl. Und wenn mir jemand Verwaltungsaufgaben abnimmt, kann ich wieder Polizist sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leistung soll sich lohnen — im Polizeidienst auch!",
+      "thema": "arbeit",
+      "programmpunkt": "Ein verbindliches, landesweit einheitliches Personalentwicklungskonzept für den Polizeivollzugsdienst soll Beförderungs- und Aufstiegsmöglichkeiten transparent und strikt nach objektiven Kriterien regeln.",
+      "seite": 52,
+      "zitat": "Leistung muss sich wieder lohnen – sichtbar, gerecht und verlässlich.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt intransparente Beförderungswege als Frustration im Dienst. Ein leistungsbasiertes, transparentes Konzept würde ihm Perspektive geben.",
+      "begruendung_selbst": "Ich will wissen, wofür ich arbeite. Wenn Leistung transparent bewertet wird und ich aufsteigen kann, ist das Motivation.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Konsequente Abschiebung — Rechtsstaat durchsetzen!",
+      "thema": "integration",
+      "programmpunkt": "Ausreisepflichtige Ausländer sollen zügig das Land verlassen; die geplante Abschiebungshafteinrichtung soll spätestens Ende 2027 in Betrieb gehen, bis dahin Kooperationsvereinbarungen mit anderen Ländern.",
+      "seite": 11,
+      "zitat": "Ausreisepflichtige Ausländer müssen zügig das Land verlassen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco will einen handlungsfähigen Rechtsstaat, der Gesetze konsequent vollzieht. Die klare Ansage zur Abschiebedurchsetzung entspricht seiner Überzeugung, dass der Rechtsstaat glaubwürdig bleiben muss.",
+      "begruendung_selbst": "Ich führe Maßnahmen durch und sehe, wie sie scheitern, wenn die Kette nicht funktioniert. Klare Regeln und ihre Durchsetzung — das ist mein Job.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Waffenverbotszonen abschaffen — das versteh ich nicht.",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP fordert die Abschaffung aller Waffenverbotszonen im Land, da sie anlasslose Personenkontrollen ermöglichen.",
+      "seite": 52,
+      "zitat": "Ebenso fordern wir die Abschaffung aller Waffenverbotszonen im Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco schätzt Instrumente, die ihm präventive Handlungsmöglichkeiten geben. Waffenverbotszonen sind ein Werkzeug, um in belasteten Lagen schnell handeln zu können — ihre Abschaffung engt seinen Spielraum ein.",
+      "begruendung_selbst": "Waffenverbotszonen helfen mir, in bestimmten Lagen Präsenz zu zeigen und einzugreifen. Das pauschal abzuschaffen macht meinen Dienst schwerer, nicht leichter.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco findet bei der FDP Sachsen-Anhalt starke Punkte in seiner Kernsorge: Personalaufwuchs auf 7.000 Stellen, Entlastung durch Verwaltungspersonal und ein transparentes Leistungskonzept für Karrierewege. Die klare Haltung zur Abschiebedurchsetzung entspricht seinem Rechtsstaatsverständnis. Einziger Reibungspunkt ist die Abschaffung von Waffenverbotszonen, die seinen taktischen Spielraum einschränkt. Insgesamt positiv.",
+    "score": 1
+  }
+}

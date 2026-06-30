@@ -1,0 +1,101 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Wertschätzung fürs Handwerk",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Wertschätzung des Handwerks soll gestärkt und junge Menschen für handwerkliche Berufe begeistert werden.",
+      "seite": 90,
+      "zitat": "die Wertschätzung des Handwerks stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine wünscht sich Anerkennung des Handwerks; das ausdrückliche Bekenntnis dazu trifft ihre berufliche Identität.",
+      "begruendung_selbst": "Endlich redet mal jemand übers Handwerk wie über etwas Wertvolles und nicht wie über einen Notnagel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eine Anlaufstelle für Fachkräfte",
+      "thema": "arbeit",
+      "programmpunkt": "Eine One-Stop-Agency soll bürokratische Prozesse für internationale Fachkräfte bündeln und den Zugang zu Arbeit erleichtern.",
+      "seite": 91,
+      "zitat": "schaffen eine One-Stop-Agency",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Fachkräftemangel ist Sabines drängendstes Problem; eine zentrale Stelle zur Gewinnung von Fachkräften adressiert genau ihre Personalsorgen.",
+      "begruendung_selbst": "Wenn ich Gesellen und Azubis brauche und einer mir die Bürokratie dafür abnimmt, dann bringt mir das wirklich was.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss runter",
+      "thema": "energie",
+      "programmpunkt": "Die Strompreise sollen durch Senkung der Stromsteuer auf das zulässige Minimum gesenkt werden.",
+      "seite": 22,
+      "zitat": "Die Strompreise wollen wir senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energiekosten belasten Sabines Betrieb laufend; die angekündigte Strompreissenkung trifft einen ihrer fixen Kostenposten.",
+      "begruendung_selbst": "Jeder Cent weniger beim Strom hilft mir und meinen acht Leuten – das ist kein Luxus, das ist Liquidität.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verlässliche Regeln beim Heizen",
+      "thema": "energie",
+      "programmpunkt": "Für den Einbau von Wärmepumpen soll es praxisnahe und unkomplizierte Vorgaben geben.",
+      "seite": 26,
+      "zitat": "unkomplizierte Vorgaben geben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine leidet als SHK-Meisterin unter wechselnden Heizungsregeln; praxisnahe, unkomplizierte Vorgaben würden ihre Kundenaufträge planbarer machen.",
+      "begruendung_selbst": "Sag mir eine klare Regel für die Wärmepumpe, an die ich mich halten kann – dann läuft auch der Auftrag.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Vergabe-Auflagen für die Kleinen",
+      "thema": "arbeit",
+      "programmpunkt": "Die Tarifbindung soll über das Tariftreue- und Vergabegesetz gestärkt werden; öffentliche Aufträge nur an Unternehmen mit fairen Löhnen.",
+      "seite": 76,
+      "zitat": "Tariftreue- und Vergabegesetz weiter gestärkt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als mittelständische Unternehmerin sieht Sabine in zusätzlichen Vergabe- und Tarifauflagen mehr Nachweispflichten und einen Nachteil gegenüber Großen.",
+      "begruendung_selbst": "Noch mehr Bedingungen für öffentliche Aufträge – das treibt mir nur den Papierkram hoch, den ich ohnehin nicht schaffe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Höhere Lasten auf meinen Schultern",
+      "thema": "steuern",
+      "programmpunkt": "Auf Bundesebene wird das Prinzip der Bürgerversicherung mit Einbezug aller Einkommensformen befürwortet.",
+      "seite": 76,
+      "zitat": "Prinzip der Bürger*innenversicherung ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als selbstständige Unternehmerin befürchtet Sabine bei einer Bürgerversicherung steigende Abgaben auf Betriebs- und Lohnkosten.",
+      "begruendung_selbst": "Am Ende zahle ich als Chefin und Selbstständige wieder drauf – wer trägt das Risiko, wenn nicht ich?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine erkennt im Programm viel, was ihren Mittelstandsinteressen entgegenkommt: Wertschätzung des Handwerks, Hilfe bei der Fachkräftegewinnung, sinkende Strompreise und endlich verlässliche Vorgaben beim Heizungstausch. Skeptisch bleibt sie bei zusätzlichen Vergabe- und Sozialabgabenlasten, die sie als Bürokratie und Belastung für kleine Betriebe liest. Insgesamt überwiegen für sie die positiven Signale leicht.",
+    "score": 1
+  }
+}

@@ -1,0 +1,66 @@
+name: "Tom & Jessica (junge Familie)"
+einzeiler: "Doppelverdiener-Paar im Speckgürtel, dem Zinsen, Baulandpreise und Auflagen den Eigenheim-Traum verbauen."
+themen: [wohnen, familie, steuern, energie, verkehr]
+gesicht:
+  config:
+    hat: "none"
+    hair: "side-part"
+    hairColor: "#6b4a2a"
+    accessory: "none"
+    top: "sweater"
+    topColor: "#06d6a0"
+    trousers: "jeans"
+    build: "medium"
+    skin: "#f2c79a"
+    mouth: "smile"
+    background: "#ffd166"
+
+demografie:
+  alter: "Anfang 30 (beide)"
+  geschlecht: "weiblich und männlich (Paar)"
+  wohnort: "Speckgürtel einer Stadt in Sachsen-Anhalt, aktuell zur Miete"
+  haushalt: "Paar mit einem Kleinkind; zweites Kind denkbar"
+  bildung: "beide mit Ausbildung/Studium, fest berufstätig"
+
+oekonomie:
+  beruf: "zwei mittlere Einkommen (Angestellte)"
+  einkommen: "zusammen ordentlich, aber für Hauskauf bei aktuellen Zinsen/Preisen zu knapp"
+  vermoegen_schulden: "etwas Erspartes als Eigenkapital, reicht nicht für tragbare Finanzierung"
+  finanzieller_druck: "Mieten, Kita-Kosten, Sparrate fürs Eigenkapital; Zins- und Baukosten als Traumkiller"
+
+werte_haltung:
+  grundwerte: ["eigene vier Wände", "Sicherheit für die Familie", "Leistung soll sich lohnen", "Aufstieg durch Arbeit"]
+  sorgen:
+    - "Zinsen, Baulandpreise, Grunderwerbsteuer und Baukosten machen Eigentum unerreichbar"
+    - "energetische Vorgaben verteuern Bauen/Sanieren zusätzlich"
+    - "fehlender Kita-Platz erschwert die Vereinbarkeit von zwei Jobs"
+  hoffnungen: ["bezahlbares Bauen/Kaufen", "Senkung der Erwerbsnebenkosten", "verlässliche Kinderbetreuung", "Förderung für Familien"]
+  politische_grundhaltung: >
+    Aufstiegsorientierte Mitte, leistungs- und eigentumsfreundlich, pragmatisch. Quergespannt: enttäuscht von
+    regierender Politik, deren Bauland trotzdem unbezahlbar bleibt, skeptisch gegenüber teuren Auflagen, aber
+    auch gegenüber Skepsis an Eigentumsförderung. Parteipolitisch ungebunden.
+  menschenbild: "Wer arbeitet und plant, sollte sich Eigentum und Familie leisten können"
+
+sicht_auf_andere:
+  - gruppe: "Regierende Bau-/Wohnungspolitik"
+    haltung: "enttäuscht — Versprechen ohne spürbare Entlastung beim Bauen"
+  - gruppe: "Strenge Energie-/Sanierungsvorgaben"
+    haltung: "kritisch: gut gemeint, aber preistreibend für junge Bauherren"
+  - gruppe: "Eigentumsskeptische Politik"
+    haltung: "ablehnend — sie wollen Eigentum, nicht ewig mieten"
+
+verhalten:
+  mediennutzung: ["Bau-/Finanzportale", "Instagram/YouTube", "Regionalmedien online", "Eltern-/Bauherren-Foren"]
+  alltag: "zwei Jobs, Kita, Haussuche/Finanzierungsrechner, Pendeln im Umland"
+  informationsverhalten: "rechnet konkret durch; prüft Politik an Kaufnebenkosten, Förderung, Kita-Verfügbarkeit"
+
+themen_stakes:
+  wohnen: "Baulandpreise, Baukosten, Eigentumsförderung, Mietniveau bis zum Kauf"
+  familie: "Kita-Plätze, Familienförderung, Vereinbarkeit Beruf/Familie"
+  steuern: "Grunderwerbsteuer, Erwerbsnebenkosten, Förderprogramme/Freibeträge"
+  energie: "energetische Bauvorgaben (GEG), Heizung, Förderung"
+  verkehr: "Pendelanbindung im Umland, ÖPNV, Straße"
+
+stimme:
+  - "Wir verdienen beide ordentlich – und trotzdem reicht es nicht mal für eine vernünftige Finanzierung."
+  - "Wir wollen bauen, kein Vermögen erben müssen, um anfangen zu dürfen."

@@ -1,0 +1,100 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mein Diesel bleibt erlaubt!",
+      "thema": "verkehr",
+      "programmpunkt": "Technologieoffenheit statt Verbote, vom emissionsarmen Diesel über E-Mobilität bis Wasserstoff; kein pauschales Verbrenner-Verbot.",
+      "seite": 62,
+      "zitat": "vom emissionsarmen Diesel über E - Mobilität",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf kann sich kein E-Auto leisten und braucht sein Auto für die Schicht; das Festhalten am Diesel sichert seine Alltagsmobilität.",
+      "begruendung_selbst": "Ein E-Auto kann ich mir nicht leisten, und hier fährt kein Bus. Dass mein Diesel bleiben darf, ist für mich existenziell.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Fahrverbote gegen Pendler!",
+      "thema": "verkehr",
+      "programmpunkt": "Ablehnung ideologisch motivierter Technologiefeindlichkeit und diskriminierender Fahrverbote.",
+      "seite": 61,
+      "zitat": "diskriminierende Fahrverbote strikt ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fühlt sich von urbaner Verkehrspolitik übergangen; ein klares Nein zu Fahrverboten nimmt seine Sorge ernst, ausgesperrt zu werden.",
+      "begruendung_selbst": "Ich fahr ja nicht zum Spaß 45 Minuten zur Arbeit. Wer mir das Fahren verbietet, nimmt mir den Job.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Mobilität fürs Dorf!",
+      "thema": "verkehr",
+      "programmpunkt": "Bessere Mobilität im ländlichen Raum durch Rufverkehre, Bürgerbusse, autonomes Fahren und vernetzte Angebote.",
+      "seite": 63,
+      "zitat": "autonomes Fahren und Ruf - Verkehre, Bürgerbusse",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "In Toralfs Dorf gibt es keinen brauchbaren ÖPNV; konkrete Vorschläge für ländliche Mobilität bieten ihm erstmals eine Alternative.",
+      "begruendung_selbst": "Ich würde ja gern umsteigen - nur fährt hier nichts. Wenn endlich Rufbusse kommen, rede ich gern weiter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutschlandticket bleibt - und fürs Land!",
+      "thema": "verkehr",
+      "programmpunkt": "Deutschlandticket erhalten, davon sollen künftig vor allem Menschen im ländlichen Raum stärker profitieren.",
+      "seite": 62,
+      "zitat": "Das Deutschlandticket wollen wir erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein günstiges Ticket nützt Toralfs Familie nur, wenn es auf dem Land etwas bringt; genau diese Stoßrichtung wird genannt.",
+      "begruendung_selbst": "Ein billiges Ticket bringt mir nichts, wenn hier kein Zug hält. Dass es gerade fürs Land mehr bringen soll, klingt vernünftig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom und Sprit nicht weiter teuer!",
+      "thema": "energie",
+      "programmpunkt": "Niedrigere Strompreise für Industrie und Haushalte über regionale Strompreiszonen.",
+      "seite": 44,
+      "zitat": "Wir brauchen einen niedrigeren Strompreis für die Industrie",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energiekosten treffen Toralf doppelt - an der Zapfsäule und beim Strom; niedrigere Preise entlasten sein knappes Budget.",
+      "begruendung_selbst": "Macht meine Fahrt zur Arbeit nicht teurer, als sie einbringt. Billiger Strom hier wäre für uns ein echter Unterschied.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriejobs sollen sicher bleiben!",
+      "thema": "arbeit",
+      "programmpunkt": "Eine starke Wirtschaft als Grundlage für sichere Arbeitsplätze und gute Löhne.",
+      "seite": 11,
+      "zitat": "Wir brauchen eine starke Wirtschaft für sichere Arbeitsplätze",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Lebensgrundlage ist sein Industriearbeitsplatz; das Bekenntnis zu sicheren Arbeitsplätzen berührt seine zentrale Sorge.",
+      "begruendung_selbst": "Wer früh aufsteht und schuftet, will wissen, dass der Job morgen noch da ist. Genau darum geht's mir.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Toralf erkennt sich in der technologieoffenen, auto- und pendlerfreundlichen Linie wieder: kein Verbrenner-Verbot, keine Fahrverbote, Mobilitätsangebote fürs Dorf und Entlastung bei Energie treffen seinen Alltag. Eine direkte Pendler- oder Spritentlastung an der Zapfsäule bleibt zwar offen, doch Punkte gegen seine Lage findet er nicht.",
+    "score": 2
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen als Daseinsvorsorge - ja!",
+      "thema": "wohnen",
+      "programmpunkt": "Die soziale Wohnraumversorgung wird als Element der Daseinsvorsorge verstanden, bezahlbarer Wohnraum für Geringverdiener soll gefördert werden.",
+      "seite": 15,
+      "zitat": "Die soziale Wohnraumversorgung ist ein Element der Daseinsvorsorge.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla versteht Wohnen als Daseinsvorsorge und nicht als Spekulationsgut; die Einordnung sozialer Wohnraumversorgung als öffentliche Aufgabe trifft genau ihren Wertekern.",
+      "begruendung_selbst": "Wohnen ist kein Aktienpaket. Dass es hier als Daseinsvorsorge benannt wird, ist genau der richtige Ausgangspunkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gesundheit ist keine Ware - sehe ich auch so",
+      "thema": "gesundheit",
+      "programmpunkt": "Gesundheit wird als öffentliche Aufgabe verstanden, weitere Privatisierung von Krankenhäusern wird abgelehnt.",
+      "seite": 20,
+      "zitat": "Gesundheit aber ist keine Ware",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lehnt reine Marktlogik in der Daseinsvorsorge ab; die Absage an die Ökonomisierung des Gesundheitswesens entspricht ihrer Grundhaltung, auch wenn sie selbst in Berlin lebt.",
+      "begruendung_selbst": "Was bei der Wohnung gilt, gilt auch beim Krankenhaus: Manche Dinge dürfen nicht dem Profit überlassen werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Auto first, Rad als Feindbild",
+      "thema": "verkehr",
+      "programmpunkt": "Die Förderung von Lastenrädern wird abgelehnt und als ideologische CO2-Reduktion bezeichnet.",
+      "seite": 16,
+      "zitat": "Wir brauchen keine Lastenräder!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla lebt autofrei und setzt auf ÖPNV und Rad; die ausdrückliche Ablehnung von Radförderung steht ihrem Bild einer autoarmen Stadt entgegen.",
+      "begruendung_selbst": "Ich komme ohne Auto bestens klar. Dass das Rad hier zum Feindbild gemacht wird, ist das Gegenteil von der Stadt, die ich will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radwege nur, wenn das Auto nicht stört",
+      "thema": "verkehr",
+      "programmpunkt": "Beim Radwegebau soll darauf geachtet werden, dass er nicht als Waffe gegen den Autoverkehr eingesetzt wird.",
+      "seite": 16,
+      "zitat": "nicht als Waffe gegen den Autoverkehr eingesetzt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Carla ist die autoarme, gut mit Rad und ÖPNV erschlossene Stadt ein Ideal; die durchgehende Priorisierung des Autos läuft ihrem Stadtbild zuwider.",
+      "begruendung_selbst": "Eine lebenswerte Stadt heißt für mich weniger Autos, nicht mehr. Hier wird alles dem Auto untergeordnet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung ohne Vielfalt - meine Stadt nicht",
+      "thema": "wohnen",
+      "programmpunkt": "Fördermittel sollen nicht mehr nach Gender- oder Vielfaltszielen vergeben werden; die 'Regenbogenagenda' wird abgelehnt.",
+      "seite": 15,
+      "zitat": "Förderpolitik ohne Regenbogen!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla schätzt die lebendige, gemischte Stadt und soziale Vielfalt; eine Förderpolitik, die Vielfaltsprojekte ausschließt, widerspricht ihrem Bild eines bunten Gemeinwesens.",
+      "begruendung_selbst": "Mein Kiez lebt von Vielfalt. Eine Politik, die genau das aus der Förderung streicht, hat das nie erlebt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Carla als Berliner Mieterin berührt ein Landesprogramm für Sachsen-Anhalt ihre Kernsorgen - Mietregulierung, Milieuschutz, Schutz vor Verdrängung - kaum direkt. Wo es ihre Werte trifft, ist es gemischt: Wohnen und Gesundheit als Daseinsvorsorge gefallen ihr, die autozentrierte Verkehrslinie und die Ablehnung von Vielfalt stoßen sie ab. Da ihre wichtigsten Anliegen unbeantwortet bleiben und die Wertkonflikte überwiegen, fällt ihr Urteil leicht negativ aus.",
+    "score": -1
+  }
+}

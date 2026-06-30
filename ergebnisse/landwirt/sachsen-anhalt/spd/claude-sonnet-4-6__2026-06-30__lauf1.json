@@ -1,0 +1,101 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich: Bürokratie soll weniger werden!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die SPD will Genehmigungs- und Dokumentationspflichten in der Landwirtschaft vereinfachen, ohne bestehende Standards abzusenken. Daten sollen nur einmal digital erfasst werden.",
+      "seite": 45,
+      "zitat": "Landwirtinnen und Landwirte wollen auf's Feld, in den Stall und Betrieb – nicht dauerhaft an den Schreibtisch.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank leidet unter dem hohen Bürokratieaufwand, der ihm Arbeitszeit auf dem Hof raubt. Die explizite Anerkennung dieses Problems und die Ankündigung von Vereinfachungen trifft genau seinen Alltag.",
+      "begruendung_selbst": "Das ist das erste Mal seit Jahren, dass ich das Gefühl hab, die haben's wirklich mal verstanden. Ich will Landwirt sein, kein Bürokrat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauernproteste ernst genommen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die SPD nimmt die Anliegen der Bauernproteste ernst und will sie in einen strukturierten Dialog überführen. Ein landesspezifisches agrarpolitisches Leitbild soll gemeinsam mit Betroffenen entwickelt werden.",
+      "seite": 45,
+      "zitat": "Die Anliegen der Bauernproteste werden ernst genommen und in einen strukturierten Dialog überführt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hat die Bauernproteste mitverfolgt und unterstützt. Dass die SPD Sachsen-Anhalt explizit auf diese eingeht und einen Dialog verspricht, signalisiert zumindest, dass seine Lage wahrgenommen wird.",
+      "begruendung_selbst": "Ich war selbst dabei. Wer das jetzt ernst nimmt statt uns abzukanzeln, bekommt zumindest mein Ohr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Junglandwirte sollen Chancen kriegen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Junge und gründungswillige Landwirtinnen und Landwirte sollen besseren Zugang zu Boden erhalten; die Landgesellschaft wird gestärkt.",
+      "seite": 45,
+      "zitat": "Junge und gründungswillige Landwirtinnen und Landwirte sollen besseren Zugang zu Boden erhalten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hofft, dass seine Tochter den Hof übernimmt. Maßnahmen, die jungen Landwirten den Einstieg erleichtern, stützen indirekt auch seine Hoffnung auf Hofnachfolge.",
+      "begruendung_selbst": "Wenn meine Tochter eine echte Chance hat, dann überleg ich's mir auch nochmal. Der Zugang zu Flächen ist für Junge das größte Hindernis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gemeinwohlleistungen honorieren — richtig!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Gemeinwohlleistungen der Landwirtschaft für Umwelt, Klima, Tierwohl und Biodiversität sollen einkommenswirksam honoriert werden.",
+      "seite": 45,
+      "zitat": "Gemeinwohlleistungen der Landwirtschaft – etwa für Umwelt, Klima, Tierwohl und Biodiversität – müssen einkommenswirksam honoriert werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank leistet durch Moorflächen und Grünland tatsächlich Umweltarbeit, die bisher oft nicht bezahlt wird. Eine einkommenswirksame Honorierung wäre eine direkte finanzielle Entlastung.",
+      "begruendung_selbst": "Ich pflege das Land hier seit Generationen. Wenn das endlich was wert ist, rede ich nicht mehr so hart dagegen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Moorschutz auf meinem Rücken!",
+      "thema": "klima",
+      "programmpunkt": "Die SPD will Moore und Auen durch Wiedervernässungsprojekte schützen und CO2 binden; Kooperationen sollen kooperativ und freiwillig erfolgen.",
+      "seite": 22,
+      "zitat": "Moore, Auen und Wälder binden CO₂, regulieren den Wasserhaushalt und stärken die biologische Vielfalt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn die Maßnahmen als freiwillig bezeichnet werden, bedeuten Moorrenaturierungen und Flächenstilllegungen für Frank konkreten Produktionsverlust. Er trägt die Kosten des Klimaschutzes, ohne dass die Kompensation klar geregelt ist.",
+      "begruendung_selbst": "Freiwillig klingt nett, aber wenn die Subventionen dran hängen, ist das nicht mehr freiwillig. Ich hab nichts gegen Naturschutz — aber nicht umsonst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Carbon-Management — was kommt auf uns zu?",
+      "thema": "klima",
+      "programmpunkt": "Die SPD will eine Carbon-Management-Strategie anstoßen und darauf basierend Industrie-Dialoge führen.",
+      "seite": 5,
+      "zitat": "Wir werden die Erstellung einer Carbon-Management-Strategie und darauf basierender Industrie-Dialoge anstoßen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Frank ist unklar, was Carbon-Management für die Landwirtschaft bedeutet. Als Boden- und Flächenbewirtschafter könnte er in CO2-Kompensationssysteme gezwungen werden, die seinen Betrieb regulieren.",
+      "begruendung_selbst": "Das klingt gut für die Chemieindustrie. Aber irgendwann kommt das bei mir auf dem Feld an — und dann bin ich wieder der, der zahlt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank sieht im SPD-Programm einige echte Entlastungssignale: Bürokratieabbau, der Dialog mit Bauernprotesten und die Honorierung von Gemeinwohlleistungen treffen seine Kernsorgen. Gleichzeitig bleibt er misstrauisch gegenüber Klima- und Umweltauflagen, die er als versteckte Kosten auf dem Rücken der Landwirte wahrnimmt. Das Programm spricht ihn stärker an als erwartet, ohne seine grundlegende Skepsis gegenüber Vorgaben aus Berlin und Brüssel vollständig aufzulösen.",
+    "score": 0
+  }
+}

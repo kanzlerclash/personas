@@ -1,0 +1,100 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Queer im Grundgesetz verankern!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Linke will eine Bundesratsinitiative starten, um Artikel 3 des Grundgesetzes um das Merkmal der sexuellen und geschlechtlichen Identität zu erweitern.",
+      "seite": 24,
+      "zitat": "das Merkmal der sexuellen und geschlechtlichen Identität erweitert wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Jule ist die verfassungsrechtliche Absicherung queerer Identitäten zentral: Sie schützt erworbene Rechte dauerhaft gegen politische Mehrheitswechsel. Dieses Vorhaben trifft ihr Kernbedürfnis nach rechtlicher Nicht-Verhandelbarkeit ihrer Identität.",
+      "begruendung_selbst": "Wenn meine Identität im Grundgesetz steht, können sie sie nicht einfach wieder wegdiskutieren. Das ist kein Wunsch – das ist Würde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queere Geflüchtete schützen",
+      "thema": "demokratie",
+      "programmpunkt": "Die Linke will, dass queere geflüchtete Personen, die Asyl suchen, dieses auch erhalten – und setzt sich für gesicherte Beratungsangebote sowie Wohnungen außerhalb von Sammelunterkünften ein.",
+      "seite": 25,
+      "zitat": "wer als queere geflüchtete Person Asyl sucht, dieses erhält",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule versteht Solidarität als geteilt – queere Geflüchtete sind für sie eine besonders vulnerable Gruppe, die doppelter Diskriminierung ausgesetzt ist. Dieses explizite Bekenntnis zur Schutzpflicht trifft ihre Grundhaltung direkt.",
+      "begruendung_selbst": "Jemand flieht, weil er in seinem Land verfolgt wird – und dann soll er hier nicht sicher sein? Das darf nicht sein, und ich finde es gut, dass das hier schwarz auf weiß steht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "LSBTIQ+ nicht nur dulden, sondern stärken",
+      "thema": "demokratie",
+      "programmpunkt": "Die Linke will das LSBTIQ+-Aktionsprogramm gemeinsam mit der Community zu einem modernen Programm ausgestalten, Koordinierungsstellen ausbauen und CSDs besser schützen.",
+      "seite": 24,
+      "zitat": "Aktionsprogramm für die Akzeptanz von LSBTI+ zusammen mit der Community",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule schätzt besonders das Prinzip der Beteiligung: Das Programm soll nicht über die Community entschieden, sondern mit ihr entwickelt werden. Das entspricht ihrer aktivistischen Grundhaltung.",
+      "begruendung_selbst": "Nicht 'wir machen was für euch', sondern 'wir machen es mit euch'. Das ist der Unterschied, und die Linke scheint den zu kennen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klima – endlich ambitioniert!",
+      "thema": "klima",
+      "programmpunkt": "Die Linke will Sachsen-Anhalt bis 2035 klimaneutral machen und ein verbindliches CO₂-Budget festlegen.",
+      "seite": 121,
+      "zitat": "den Pfad zur Klimaneutralität bis 2035 klar beschreibt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "2035 als Zieldatum für Klimaneutralität ist für Jule das ambitionierteste Versprechen auf Landesebene. Klimagerechtigkeit ist für sie die zentrale Überlebensfrage ihrer Generation, und dieses Zieldatum nimmt sie ernst.",
+      "begruendung_selbst": "2035 – das ist nicht irgendwann, das ist in neun Jahren. Wenn die das ernst meinen, ist das genau das, was wir jetzt brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "BAföG endlich elternunabhängig!",
+      "thema": "bildung",
+      "programmpunkt": "Die Linke will auf Bundesebene eine Initiative für ein elternunabhängiges BAföG starten, das die Lebenshaltungskosten widerspiegelt und jährlich mindestens um die Inflation angepasst wird.",
+      "seite": 37,
+      "zitat": "Initiative für ein elternunabhängiges BAföG",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt mit Teilförderung, weil ihre Eltern formal zu viel verdienen, aber wenig unterstützen. Ein elternunabhängiges BAföG würde ihre finanzielle Lage unmittelbar und substanziell verbessern.",
+      "begruendung_selbst": "Meine Eltern verdienen zu viel für die volle Förderung, aber ich sehe das Geld trotzdem nicht. Elternunabhängig – das wäre für viele von uns eine echte Befreiung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "0-Euro-Ticket – Mobilität für alle",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will das Semesterticket preislich stabil halten, mittelfristig ein 9-Euro-Ticket einführen und langfristig einen kostenfreien ÖPNV anstreben.",
+      "seite": 37,
+      "zitat": "das Semesterticket preislich stabil halten, mittelfristig ein 9-Euro-Ticket",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Studentin ohne Auto und mit knappem Budget ist Jule täglich auf ÖPNV angewiesen. Günstige und verlässliche Mobilität ist für sie nicht Komfort, sondern Voraussetzung gesellschaftlicher Teilhabe.",
+      "begruendung_selbst": "Ich fahr Rad und Bus, weil ich mir kein Auto leisten kann und kein schlechtes Klima will. Wenn das Semesterticket billiger wird, kommt beides gut zusammen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Jule findet im Programm der Linken eine nahezu vollständige Entsprechung ihrer Kernthemen: Der Schutz queerer Identitäten wird verfassungsrechtlich abgesichert, das LSBTIQ+-Aktionsprogramm ausgebaut, das Klimaziel ambitioniert auf 2035 gesetzt und ihre Studiumsbedingungen durch BAföG-Reform und günstigeren ÖPNV konkret verbessert. Für eine progressiv und ökologisch orientierte Studentin ist dieses Programm inhaltlich außergewöhnlich nah an ihrer Lebenswirklichkeit und politischen Überzeugung.",
+    "score": 2
+  }
+}

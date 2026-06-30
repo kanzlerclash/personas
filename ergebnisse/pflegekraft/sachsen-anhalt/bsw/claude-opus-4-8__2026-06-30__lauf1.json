@@ -1,0 +1,113 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Tariflohn für alle im Krankenhaus!",
+      "thema": "gesundheit",
+      "programmpunkt": "Ein Tariftreuegesetz für Krankenhäuser, das für alle Beschäftigten gilt, unabhängig von Ausgliederung in Tochterunternehmen.",
+      "seite": 57,
+      "zitat": "Das BSW fordert ein Tariftreuegesetz für Krankenhäuser",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt Tarifflucht und Ausgliederung; ein verbindliches Tariftreuegesetz für alle Klinikbeschäftigten trifft genau ihre Forderung nach fairer Bezahlung.",
+      "begruendung_selbst": "Endlich Tarif für alle auf der Station – egal ob fest angestellt oder in irgendeine Tochterfirma ausgegliedert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Löhne statt Sonntagsreden!",
+      "thema": "arbeit",
+      "programmpunkt": "Bessere Bezahlung, verlässliche Arbeitszeiten und Anerkennung für Pflegekräfte, um den Beruf attraktiv zu halten.",
+      "seite": 58,
+      "zitat": "Pflegekräfte verdienen faire Löhne",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin empfindet ihre Bezahlung gemessen an der Belastung als zu niedrig; das Versprechen fairer Löhne und planbarer Arbeitszeiten adressiert ihren Alltag direkt.",
+      "begruendung_selbst": "Schickt uns Personal und zahlt anständig – verlässliche Dienstpläne und faire Löhne, nicht nur Klatschen vom Balkon.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege gehört nicht der Rendite!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Klare Absage an Privatisierung im Gesundheitswesen; für private Träger unattraktiv gewordene Krankenhäuser sollen in die öffentliche Hand zurückgeführt werden.",
+      "seite": 57,
+      "zitat": "unverzüglich in die öffentliche Hand zurückgeführt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht in der Ökonomisierung die Ursache ihrer Arbeitsverdichtung; die Rückführung von Kliniken in öffentliche Hand entspricht ihrer Kritik an Rendite vor Versorgung.",
+      "begruendung_selbst": "Wenn Konzerne nur auf Rendite schauen, leidet die Versorgung – Pflege gehört in öffentliche Hand, nicht an die Börse.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit der Zwei-Klassen-Medizin!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung einer solidarischen Bürgerversicherung für alle, um die Zwei-Klassen-Medizin zu überwinden.",
+      "seite": 56,
+      "zitat": "um die Zwei-Klassen-Medizin zu überwinden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin steht Privatisierung und Ungleichheit im Gesundheitswesen kritisch gegenüber; eine solidarische Bürgerversicherung stärkt aus ihrer Sicht eine bedarfsgerechte Versorgung.",
+      "begruendung_selbst": "Es kann nicht sein, dass der Geldbeutel über die Behandlung entscheidet – eine Versicherung für alle wäre endlich gerecht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Kolleginnen dürfen bleiben!",
+      "thema": "integration",
+      "programmpunkt": "Geduldete, die arbeiten, Steuern zahlen oder in Ausbildung sind, sollen nicht abgeschoben werden und eine verlässliche Perspektive erhalten.",
+      "seite": 64,
+      "zitat": "Wer seinen Beitrag leistet, muss eine verlässliche Perspektive erhalten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station hängt an migrantischen Kolleginnen; die Bleibeperspektive für arbeitende und ausbildende Menschen schützt direkt ihr Team und die Versorgung.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht – gut, dass die, die arbeiten, hierbleiben dürfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Streikrecht bleibt unantastbar!",
+      "thema": "arbeit",
+      "programmpunkt": "Stärkung von Tarifbindung und Mitbestimmung; das Streikrecht darf nicht eingeschränkt werden.",
+      "seite": 22,
+      "zitat": "als Grundpfeiler der Demokratie darf nicht eingeschränkt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als gewerkschaftlich orientierte Pflegekraft sieht Kerstin im Schutz von Streikrecht und Mitbestimmung die Grundlage, ihre Arbeitsbedingungen überhaupt verbessern zu können.",
+      "begruendung_selbst": "Ohne Streikrecht und starke Mitbestimmung holen wir in der Pflege gar nichts heraus – gut, dass das verteidigt wird.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Reden über Migranten als Last.",
+      "thema": "integration",
+      "programmpunkt": "Betonung, die Aufnahmebereitschaft sei begrenzt und die heimische Bevölkerung müsse vor Überlastung geschützt werden.",
+      "seite": 62,
+      "zitat": "Die heimische Bevölkerung ist vor Überlastungstendenzen zu schützen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist empfindlich gegenüber Tönen, die ihre migrantischen Kolleginnen als Problem rahmen; die Überlastungs-Rhetorik widerspricht ihrer solidarischen Haltung.",
+      "begruendung_selbst": "Manche reden, als wären meine Kolleginnen das Problem – dabei halten genau sie die Versorgung am Laufen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet ihre Kernanliegen stark vertreten: Tariftreue für alle Klinikbeschäftigten, faire Löhne, Rückführung von Kliniken in öffentliche Hand, eine solidarische Bürgerversicherung und eine Bleibeperspektive für ihre arbeitenden Kolleginnen. Nur die Rhetorik begrenzter Aufnahmebereitschaft missfällt ihr mit Blick auf ihr Team. Insgesamt liest sie das Programm als deutliche Aufwertung der Pflege und des öffentlichen Gesundheitswesens.",
+    "score": 2
+  }
+}

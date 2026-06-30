@@ -1,0 +1,77 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Bürokratie für Kleine endlich senken!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Junge Unternehmen sollen in den ersten Jahren von Befragungen, Dokumentationspflichten und Zwangsmitgliedschaften entlastet werden; die One-Stop-Agency soll Verfahren bündeln und Unternehmer aktiv begleiten.",
+      "seite": 8,
+      "zitat": "Junge Unternehmen sollten in den ersten Jahren von Befragungen, Dokumentationspflichten und Zwangsmitgliedschaften soweit möglich entlastet werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist überfordert von Bürokratie- und Steuerlast, die für ihre Betriebsgröße unverhältnismäßig ist. Entlastung für Kleinstunternehmer in den ersten Jahren entspricht ihrer konkreten Situation.",
+      "begruendung_selbst": "Ich bin eine Person, kein Unternehmen mit Rechtsabteilung. Wenn der Staat das endlich kapiert und mich von Formularen befreit, kann ich arbeiten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kreativwirtschaft als Standortfaktor ernst nehmen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Kultur und Kreativwirtschaft werden explizit als wirtschaftlicher Faktor für Sachsen-Anhalt anerkannt; die Vernetzung von Kultur, Kreativwirtschaft sowie Veranstaltungs- und Eventbranche soll gestärkt werden.",
+      "seite": 45,
+      "zitat": "Deshalb setzen wir auf eine stärkere Vernetzung von Kultur, Kreativwirtschaft sowie Veranstaltungs- und Eventbranche.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike arbeitet im Kreativ- und Digitalbereich. Die Anerkennung der Kreativwirtschaft als Standortfaktor und ihre Vernetzungsförderung signalisiert, dass ihr Sektor als relevant gilt.",
+      "begruendung_selbst": "Kreativwirtschaft als Wirtschaftsfaktor — endlich wird das nicht mehr als Hobby behandelt. Wenn das auch in Förderlogik übersetzt wird, könnte das für mich was bedeuten.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Soziale Absicherung Selbstständiger? Kein Wort.",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm adressiert Soloselbstständige und Freiberufler nur bei der Aktivrente (Gleichbehandlung Selbstständiger beim steuerfreien Zuverdienst); soziale Absicherung bei Krankheit oder Auftragsflaute wird nicht thematisiert.",
+      "seite": 39,
+      "zitat": "fordern jedoch im selben Atemzug die Gleichbehandlung Selbstständiger und Freiberufler, die bislang nicht vom steuerfreien Zuverdienst profitieren sollen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike fürchtet Krankheit und Auftragsflauten ohne Sicherheitsnetz. Das Programm spricht Selbstständige nur im Rentenzusammenhang an, aber nicht beim Kernproblem: fehlende Absicherung in der aktiven Erwerbsphase.",
+      "begruendung_selbst": "Wenn ich krank bin oder keine Aufträge habe, fängt mich nichts auf. Das Programm redet über Aktivrente — ich brauche etwas für jetzt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rundfunkbeitrag streichen — das trifft auch Kultur.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Für Unternehmen soll der Rundfunkbeitrag gestrichen werden.",
+      "seite": 43,
+      "zitat": "Wir setzen uns dafür ein, für Unternehmen den Rundfunkbeitrag zu streichen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist auf Aufträge aus Medien, Kultur und ÖRR angewiesen. Ein geschwächter öffentlich-rechtlicher Rundfunk durch weniger Einnahmen bedeutet weniger Kulturaufträge für Freischaffende wie sie.",
+      "begruendung_selbst": "Ein Teil meiner Aufträge kommt aus dem ÖRR-Umfeld. Wenn der weniger Geld hat, bekomme ich weniger Aufträge. Das klingt nach Sparen auf meinem Rücken.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet bei der FDP Sachsen-Anhalt echte Entlastung durch Bürokratieabbau für Kleinstunternehmen und die Anerkennung der Kreativwirtschaft als Standortfaktor. Die soziale Absicherung von Soloselbstständigen in der aktiven Erwerbsphase bleibt jedoch unbehandelt — ihr existenzielles Hauptproblem. Die Rundfunkbeitrag-Abschaffung für Unternehmen gefährdet indirekt ihren Auftragsmarkt. Insgesamt ambivalent.",
+    "score": 0
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich echter Bürokratieabbau!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Berichtspflichten sollen vereinfacht oder abgeschafft, Genehmigungsverfahren beschleunigt und überflüssige Regulierungen gestrichen werden; explizit genannt wird der Handwerksmeister, der nicht mehr Formulare sortieren soll.",
+      "seite": 7,
+      "zitat": "wenn der Handwerksmeister nicht mehr am Küchentisch Formulare sortiert, sondern Angebote schreibt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt Abende mit Papierkram statt mit Kundenakquise. Das Bild des Handwerksmeisters am Küchentisch ist ihr Alltag — die explizite Nennung trifft sie sehr direkt.",
+      "begruendung_selbst": "Das hätte ich nicht besser beschreiben können. Genau das ist mein Abend: Formulare statt Angebote.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lebensmittel ohne Mehrwertsteuer — meine Mitarbeiter profitieren!",
+      "thema": "steuern",
+      "programmpunkt": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen, zur Kompensation kann der Regelsatz erhöht werden.",
+      "seite": 9,
+      "zitat": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine zahlt ihren Beschäftigten faire Löhne, kämpft aber mit steigenden Lebenshaltungskosten. Die Entlastung bei Lebensmitteln käme ihr und ihren acht Beschäftigten direkt zugute.",
+      "begruendung_selbst": "Wenn die Einkäufe günstiger werden, bleibt meinen Leuten mehr vom Lohn übrig — und ich muss nicht gleich mehr zahlen, damit es reicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte ohne Sprachbürokratie einstellen!",
+      "thema": "arbeit",
+      "programmpunkt": "Für Zuwanderer, die arbeiten wollen, sollen bürokratische Hürden abgebaut werden, insbesondere überzogene Sprachprüfungen; ausländische Qualifikationen sollen schneller anerkannt werden.",
+      "seite": 10,
+      "zitat": "Hürden abbauen, wie sie derzeit zum Beispiel durch überzogene Sprachprüfungen bestehen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines größtes operatives Problem ist der Fachkräftemangel — sie findet keine Gesellen mehr. Schnellere Anerkennung und weniger Sprachhürden für qualifizierte Zugewanderte würden ihr direkt helfen.",
+      "begruendung_selbst": "Ich hätte schon längst zwei Gesellen aus dem Ausland eingestellt, aber die Anerkennungsverfahren dauern ewig. Wenn das schneller geht, löse ich mein Problem.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "One-Stop statt Zuständigkeitspingpong!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Eine digitale One-Stop-Agency soll Gründungs- und Unternehmensverfahren bündeln und Unternehmer aktiv begleiten; Gründungen in den ersten Jahren sollen von Befragungen und Dokumentationspflichten entlastet werden.",
+      "seite": 8,
+      "zitat": "mit einer digitalen One-Stop-Agency, die Verfahren bündelt und Gründerinnen und Gründer aktiv begleitet",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine kennt das Zuständigkeitspingpong aus eigener Erfahrung. Eine zentrale Anlaufstelle würde ihren Verwaltungsaufwand erheblich reduzieren.",
+      "begruendung_selbst": "Ich renne heute von Amt zu Amt für dieselbe Sache. Eine Stelle, die alles bündelt — das wäre ein echter Befreiungsschlag.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Tariftreuegesetz abschaffen — das fühlt sich falsch an.",
+      "thema": "arbeit",
+      "programmpunkt": "Das Tariftreue- und Vergabegesetz soll schnellstmöglich abgeschafft werden, um öffentliche Aufträge ohne Tarifbindungspflicht vergeben zu können.",
+      "seite": 7,
+      "zitat": "das Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine zahlt ihren Mitarbeitenden faire Löhne und hält die Ausbildungsqualität hoch. Die Abschaffung der Tariftreue bei öffentlichen Aufträgen öffnet Billiganbietern Tür und Tor — und schadet seriösen Betrieben wie ihrem.",
+      "begruendung_selbst": "Ich bilde aus und zahle ordentlich. Wenn bei öffentlichen Aufträgen kein Tarif mehr gilt, gewinnt der Billigste — und das bin nicht ich.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet im FDP-Programm ihre Kernforderungen klar adressiert: Bürokratieabbau, der explizit den Handwerksbetrieb benennt, schnellere Anerkennung von Fachkräften aus dem Ausland und weniger Dokumentationspflichten. Die Steuerpositionen entlasten auch ihre Beschäftigten. Einziger ernsthafter Reibungspunkt ist die Abschaffung des Tariftreuegesetzes, die ihr Wettbewerbsmodell unter Druck setzte. Insgesamt trifft das Programm ihre Interessenlage gut.",
+    "score": 1
+  }
+}

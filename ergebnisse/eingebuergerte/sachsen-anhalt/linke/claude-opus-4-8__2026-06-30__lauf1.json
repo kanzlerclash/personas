@@ -1,0 +1,88 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Ich gehöre dazu – kein Problemfall!",
+      "thema": "integration",
+      "programmpunkt": "Migration als Chance begreifen und Menschen mit Einwanderungsgeschichte als selbstverständlichen Teil der Gesellschaft anerkennen.",
+      "seite": 96,
+      "zitat": "Migration ist kein Problem, sondern Chance",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt die Migrationsdebatte als Frage ihrer Zugehörigkeit; eine Sprache, die nicht über Menschen wie sie als Problem redet, trifft ihr Grundbedürfnis nach Anerkennung.",
+      "begruendung_selbst": "Endlich wird nicht über mich wie über ein Problem geredet – ich bin hier zu Hause, nicht geduldet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Würde statt diskriminierender Bezahlkarte!",
+      "thema": "integration",
+      "programmpunkt": "Die diskriminierende Bezahlkarte durch ein verpflichtendes Basiskonto ersetzen und selbstständige Kontoführung ermöglichen.",
+      "seite": 98,
+      "zitat": "Die diskriminierende Bezahlkarte wird durch ein verpflichtendes Basiskonto ersetzt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin lehnt ausgrenzende Symbolpolitik ab; die Abkehr von einer als diskriminierend benannten Bezahlkarte entspricht ihrem Anspruch auf Gleichbehandlung und Würde.",
+      "begruendung_selbst": "Eine Bezahlkarte, die Menschen vorführt, widerspricht allem, woran ich glaube – ein normales Konto ist eine Frage der Würde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Demokratie wehrhaft gegen rechte Hetze!",
+      "thema": "demokratie",
+      "programmpunkt": "Mobile Beratungsteams, gestärkte Zivilgesellschaft und entschiedenes Vorgehen gegen Rechtsextremismus und Antisemitismus.",
+      "seite": 15,
+      "zitat": "Demokratiestärkung vor Ort",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Polarisierung und ausgrenzende Rhetorik bedrohen Aylins Zugehörigkeitsgefühl; ein Fokus auf Demokratiestärkung gegen Rechtsextremismus deckt sich mit ihrer Sorge.",
+      "begruendung_selbst": "Wenn die Demokratie vor Ort gestärkt und rechter Hetze etwas entgegengesetzt wird, ist das auch Schutz für mich und meine Familie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Asyl und Familiennachzug bleiben – richtig!",
+      "thema": "integration",
+      "programmpunkt": "Recht auf Asyl, Schutz vor Abschiebung und Familiennachzug als nicht verhandelbar verteidigen.",
+      "seite": 100,
+      "zitat": "Wir stehen an der Seite derjenigen, die Schutz suchen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin fürchtet das Kippen sachlicher Migrationspolitik in pauschale Härte; ein klares Bekenntnis zu Schutzrechten und Familiennachzug steht ihrer Sorge entgegen.",
+      "begruendung_selbst": "Familien gehören zusammen – dass das hier nicht verhandelbar ist, beruhigt mich angesichts der ganzen Härte-Rhetorik.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vielfalt im öffentlichen Dienst – mein Berufsfeld!",
+      "thema": "arbeit",
+      "programmpunkt": "Einstellung von Menschen mit Migrationshintergrund im öffentlichen Dienst als Ausdruck einer Willkommenskultur priorisieren.",
+      "seite": 98,
+      "zitat": "Vielfalt in allen Institutionen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte erlebt Aylin den öffentlichen Dienst von innen; eine ausdrückliche Diversitätsstrategie stärkt ihre Aufstiegs- und Teilhabechancen.",
+      "begruendung_selbst": "Ich arbeite selbst in der Verwaltung – wenn Vielfalt dort zur Priorität wird, zählt endlich Leistung und nicht Herkunft.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Aylin erlebt das Programm als deutliches Gegenmodell zu der Ausgrenzungsrhetorik, die sie fürchtet: Migration als Chance, Würde statt Bezahlkarte, wehrhafte Demokratie gegen rechte Hetze und Vielfalt im öffentlichen Dienst, ihrem eigenen Berufsfeld. Schutzrechte und Familiennachzug werden klar verteidigt. Für ihr liberal-demokratisches Selbstverständnis und ihre Frage der Zugehörigkeit fällt die Resonanz stark positiv aus.",
+    "score": 2
+  }
+}

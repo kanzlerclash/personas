@@ -1,0 +1,113 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kostenfreier Meister – endlich Nachwuchs!",
+      "thema": "arbeit",
+      "programmpunkt": "Handwerk stärken durch kostenfreie Meisterqualifikation und Weiterbildung in Zukunftsbranchen.",
+      "seite": 93,
+      "zitat": "kostenfreie Meisterqualifikation",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine sucht händeringend Nachwuchs; eine kostenfreie Meisterqualifikation senkt die Hürde, Gesellen langfristig im Betrieb zu halten und weiterzuentwickeln.",
+      "begruendung_selbst": "Wenn der Meisterbrief nichts kostet, traut sich vielleicht endlich wieder einer ran – genau die Leute brauche ich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Öffentliche Aufträge an uns Lokale!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Regionale Wertschöpfung sichern, indem öffentliche Aufträge fair und transparent an lokale Betriebe gehen.",
+      "seite": 93,
+      "zitat": "öffentliche Aufträge an lokale Betriebe",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine fühlt sich gegenüber Großen benachteiligt; eine Vergabe, die lokale Handwerksbetriebe bevorzugt, stärkt ihre Auftragslage.",
+      "begruendung_selbst": "Wenn die öffentliche Hand vor Ort vergibt statt immer an die Großen mit der Rechtsabteilung, habe ich auch mal eine Chance.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schnelle Anerkennung – mehr Fachkräfte!",
+      "thema": "arbeit",
+      "programmpunkt": "Schnelle Anerkennung ausländischer Berufsabschlüsse mit Anerkennungsstellen, digitalen Verfahren und Sprachförderung.",
+      "seite": 88,
+      "zitat": "schnelle Anerkennung von Berufsabschlüssen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Beim Fachkräftemangel ist Sabine auf zugewanderte Fachkräfte angewiesen; zügige Anerkennung bringt diese schneller in ihren Betrieb.",
+      "begruendung_selbst": "Mir ist egal, woher einer kommt – wenn er was kann, will ich ihn anstellen können, ohne Jahre auf den Stempel zu warten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Vertrauen statt Aktenordner!",
+      "thema": "demokratie",
+      "programmpunkt": "Mehr Vertrauen statt Bürokratie wagen, Förderverfahren entschlacken und kommunale Pauschalförderung statt Antragsdschungel.",
+      "seite": 76,
+      "zitat": "mehr Vertrauen statt Bürokratie wagen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bürokratie kostet Sabine reale Arbeitszeit; ein erklärter Wille zu weniger Formularen und mehr Vertrauen trifft ihr Hauptärgernis.",
+      "begruendung_selbst": "Ich hätte gern mehr Azubis und weniger Papierkram – wer Vertrauen statt Misstrauen verspricht, hat erstmal mein Ohr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausbildungsumlage entlastet meinen Betrieb",
+      "thema": "arbeit",
+      "programmpunkt": "Einführung einer Ausbildungsumlage, die ausbildende Betriebe entlastet und nicht ausbildende an den Kosten beteiligt.",
+      "seite": 86,
+      "zitat": "Einführung einer Ausbildungsumlage",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine bildet selbst aus; eine Umlage, die ausbildende Betriebe entlastet und Trittbrettfahrer beteiligt, kommt ihr entgegen.",
+      "begruendung_selbst": "Ich bilde aus, andere klauen mir die fertigen Gesellen weg – wenn die mitzahlen, ist das nur gerecht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Vermögenssteuer trifft meinen Betrieb!",
+      "thema": "steuern",
+      "programmpunkt": "Bundesratsinitiative zur Wiedereinführung einer Vermögenssteuer von einem Prozent auf Vermögen über einer Million Euro.",
+      "seite": 17,
+      "zitat": "Eine Bundesratsinitiative zur Wiedereinführung der Vermögenssteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines Betriebsvermögen (Werkstatt, Fuhrpark) ist gebunden; eine Vermögenssteuer und die ungeklärte Betriebsübergabe verschärfen ihre Steuersorge.",
+      "begruendung_selbst": "Mein Vermögen steckt in Werkstatt und Fuhrpark, nicht auf dem Konto – eine Vermögenssteuer trifft den Betrieb, nicht den Reichtum.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sechs Wochen Urlaub – wer zahlt das?",
+      "thema": "arbeit",
+      "programmpunkt": "Sechs Wochen Urlaub für alle Beschäftigten und langfristig die 35-Stunden-Woche bei vollem Lohn.",
+      "seite": 86,
+      "zitat": "sechs Wochen Urlaub für alle Beschäftigten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Inhaberin mit acht Beschäftigten trägt Sabine die Lohnkosten; mehr Urlaub und kürzere Arbeitszeit erhöhen ihre Belastung bei knappem Personal.",
+      "begruendung_selbst": "Schön für die Beschäftigten – aber bei acht Leuten und vollen Auftragsbüchern fehlt mir jede Woche, die ausfällt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine erkennt bei der Linken einige echte Pluspunkte für ihren Betrieb: kostenfreie Meisterqualifikation, regionale Vergabe, schnelle Fachkräfteanerkennung und das Versprechen von weniger Bürokratie. Doch als wirtschaftsliberale Mittelständlerin stoßen ihr die Vermögenssteuer und teurere Arbeitsbedingungen sauer auf, gerade angesichts der ungeklärten Betriebsübergabe. Unterm Strich überwiegt die Skepsis leicht.",
+    "score": -1
+  }
+}

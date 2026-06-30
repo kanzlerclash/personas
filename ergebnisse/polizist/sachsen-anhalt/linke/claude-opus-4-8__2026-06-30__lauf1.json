@@ -1,0 +1,101 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "500 neue Stellen – endlich Entlastung!",
+      "thema": "sicherheit",
+      "programmpunkt": "500 neue Polizeistellen bis 2030 und mehr Zeit für Bürgernähe.",
+      "seite": 128,
+      "zitat": "500 neue Polizeistellen bis 2030",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet unter Personalmangel und Überlastung; ein konkretes Stellenversprechen trifft seine wichtigste Forderung nach mehr Personal.",
+      "begruendung_selbst": "Gebt uns die Leute – mit 500 zusätzlichen Stellen hätte ich endlich Zeit für die Arbeit, statt nur Löcher zu stopfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "38-Stunden-Woche – Zeit für die Familie!",
+      "thema": "arbeit",
+      "programmpunkt": "Arbeitszeitreduktion für Polizeikräfte auf 38 Stunden, damit Zeit für Familie und Erholung bleibt.",
+      "seite": 128,
+      "zitat": "Arbeitszeitreduktion für Polizeikräfte auf 38 Stunden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marcos Belastung kommt vor allem aus Schicht und Personalmangel; eine kürzere Arbeitszeit verbessert seine Vereinbarkeit von Dienst und Familie.",
+      "begruendung_selbst": "Zwischen Wechselschicht und Familie bleibt wenig – 38 Stunden wären ein echtes Stück Entlastung für mich und meine Leute.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schwere Straftaten konsequent verfolgen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Konsequente Strafverfolgung schwerer Straftaten und neue Schwerpunktstaatsanwaltschaften gegen Rechtsextremismus und Femizide.",
+      "seite": 137,
+      "zitat": "konsequente Strafverfolgung schwerer Straftaten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco frustriert es, wenn seine Arbeit hinten in der Justizkette versandet; spezialisierte Staatsanwaltschaften und konsequente Verfolgung stärken die Wirksamkeit seines Einsatzes.",
+      "begruendung_selbst": "Wenn meine Fälle hinten nicht versanden, sondern konsequent verfolgt werden, macht meine Arbeit auf der Straße erst Sinn.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Verfassungsschutz abschaffen? Falsch!",
+      "thema": "demokratie",
+      "programmpunkt": "Den Verfassungsschutz in seiner jetzigen Form für überflüssig erklären und in eine Agentur für Demokratie umwandeln.",
+      "seite": 129,
+      "zitat": "Ein V erfassungsschutz in seiner jetzigen Form ist überflüssig",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco ist institutionentreu und für eine wehrhafte Demokratie; den Verfassungsschutz zu entkernen erlebt er als Schwächung des Rechtsstaats, den er schützen soll.",
+      "begruendung_selbst": "Wer den Verfassungsschutz abräumt, schwächt genau die wehrhafte Demokratie, die meinen Job überhaupt rechtfertigt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beschwerdestelle gegen uns – Generalverdacht!",
+      "thema": "sicherheit",
+      "programmpunkt": "Unabhängige Polizeibeschwerdestelle mit eigenen Ermittlungsbefugnissen, Kennzeichnungspflicht und automatischer Bodycam-Einsatz.",
+      "seite": 128,
+      "zitat": "eine unabhängige Polizeibeschwerdestelle mit eigenen Ermittlungsbefugnissen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco reagiert empfindlich auf pauschale Polizeikritik; eine Beschwerdestelle mit eigenen Ermittlern liest er als Misstrauen gegen seine Kollegschaft.",
+      "begruendung_selbst": "Ich habe nichts zu verbergen – aber so eine Stelle fühlt sich an, als stünden wir alle erstmal unter Verdacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Palantir & Co. pauschal ablehnen – kurzsichtig!",
+      "thema": "sicherheit",
+      "programmpunkt": "Automatisierte Datenanalysesoftware wie Palantir und Gesichtserkennung zur Massenüberwachung konsequent ablehnen.",
+      "seite": 129,
+      "zitat": "Die Einführung einer automatisierten Datenanalysesoftware wie Palantir lehnen wir konsequent ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco will technisch auf der Höhe arbeiten; ein kategorisches Nein zu modernen Analysewerkzeugen erlebt er als Behinderung wirksamer Ermittlungsarbeit.",
+      "begruendung_selbst": "Die Täter sind technisch top – und wir sollen auf moderne Werkzeuge verzichten? So bleiben wir denen einen Schritt hinterher.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco freut sich über das Versprechen von 500 neuen Stellen, kürzerer Arbeitszeit und konsequenter Strafverfolgung, die seine Überlastung und seinen Wunsch nach Wirksamkeit adressieren. Zugleich erlebt er die Entkernung des Verfassungsschutzes, die Beschwerdestelle und die Ablehnung moderner Ermittlungstechnik als Misstrauen und Schwächung seiner Institution. Für ihn ergibt sich ein zwiespältiges Bild zwischen spürbarer Entlastung und ordnungspolitischer Reibung.",
+    "score": 0
+  }
+}

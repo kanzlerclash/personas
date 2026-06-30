@@ -1,0 +1,101 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Das Krankenhaus bleibt",
+      "thema": "gesundheit",
+      "programmpunkt": "Krankenhäuser im Land sollen als Orte der Gesundheits- und Notfallversorgung erhalten werden.",
+      "seite": 79,
+      "zitat": "als Orte der Gesundheits- und Notfallversorgung erhalten werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten den Wegfall wohnortnaher Versorgung; das Bekenntnis zum Erhalt der Krankenhäuser adressiert ihre Sorge im ländlichen Raum.",
+      "begruendung_selbst": "Wenn man Mitte siebzig ist, will man wissen, dass im Notfall ein Krankenhaus in der Nähe noch offen hat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ärzte aufs Land holen",
+      "thema": "gesundheit",
+      "programmpunkt": "Fehlende Anreize für Fachärzte in der Fläche sollen gezielt behoben werden.",
+      "seite": 81,
+      "zitat": "Anreize für Fachärzt*innen in der Fläche",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die beiden bangen um ihren Hausarzt; Anreize, damit Ärzte aufs Land kommen, treffen genau diese Sorge.",
+      "begruendung_selbst": "Was machen wir, wenn unser Hausarzt aufhört? Dass man Ärzte aufs Land lockt, ist genau das, was wir brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung statt Sanierungszwang",
+      "thema": "wohnen",
+      "programmpunkt": "Sanierungsförderungen sollen vereinfacht und für einkommensschwache Haushalte zugänglich gemacht werden.",
+      "seite": 92,
+      "zitat": "für einkommensschwache Haushalte zugänglich gemacht",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar fürchtet unbezahlbare Sanierungspflichten; ein einfacher Förderzugang gerade für kleine Einkommen entlastet ihre größte Wohnsorge.",
+      "begruendung_selbst": "Wenn wir das Dach dämmen sollen, dann nur mit einer Förderung, die auch bei kleiner Rente ankommt – nicht mit Zwang.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Würde im Pflegeheim",
+      "thema": "gesundheit",
+      "programmpunkt": "In stationären Einrichtungen soll es ein verbrieftes Recht auf ein Einzelzimmer geben.",
+      "seite": 86,
+      "zitat": "ein verbrieftes Recht auf ein Einzelzimmer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit Blick auf mögliche Pflegebedürftigkeit schätzen Helga und Dieter Zusagen, die Selbstbestimmung und Würde im Alter sichern.",
+      "begruendung_selbst": "Wenn es eines Tages doch ins Heim geht, dann möchten wir wenigstens ein eigenes Zimmer haben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Zu lasch bei der Sicherheit",
+      "thema": "sicherheit",
+      "programmpunkt": "Gesichtserkennung und Massenüberwachung im öffentlichen Raum werden abgelehnt.",
+      "seite": 41,
+      "zitat": "Gesichtserkennung wird es mit uns nicht geben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das sicherheitsorientierte Paar wünscht sich spürbare Ordnung im Ort; die Ablehnung von Überwachungstechnik widerspricht ihrem Bedürfnis nach mehr Sicherheit.",
+      "begruendung_selbst": "Wir wollen uns sicher fühlen – wenn die Polizei nicht mal Kameras nutzen darf, wer schützt uns dann?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schwarzfahren soll straflos sein?",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Fahren ohne Fahrschein soll nicht mehr als Straftat behandelt werden.",
+      "seite": 31,
+      "zitat": "Fahren ohne Fahrschein nicht mehr als Straftat",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für das auf Ordnung bedachte Paar wirkt die Entkriminalisierung des Schwarzfahrens wie ein Nachlassen bei Regeln, die für sie selbstverständlich gelten.",
+      "begruendung_selbst": "Wer keinen Fahrschein löst, hat eben Pech – das ist Ordnung, die soll man nicht einfach abschaffen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Helga und Dieter trifft das Programm ihre Kernsorgen erstaunlich gut: Erhalt der Krankenhäuser, Anreize für Landärzte, ein einfacher Förderzugang bei der Sanierung statt Zwang und Würde in der Pflege. Bei der inneren Sicherheit empfinden sie die Linie als zu lasch. Insgesamt überwiegt die Erleichterung über die Versorgungszusagen.",
+    "score": 1
+  }
+}

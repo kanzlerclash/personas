@@ -1,0 +1,125 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich faire Erzeugerpreise!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Abnahmegarantien für regionale Agrarprodukte und vorrangiger Regionaleinkauf öffentlicher Einrichtungen als Gegenpol zu Freihandelsabkommen wie Mercosur.",
+      "seite": 19,
+      "zitat": "Abnahmegarantien für landwirtschaftliche Produkte aus regionaler Erzeugung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank kämpft mit schwankenden, weltmarktabhängigen Preisen und sieht in Abnahmegarantien und Mercosur-Skepsis einen direkten Schutz seiner Marge.",
+      "begruendung_selbst": "Wenn ich endlich faire Preise und Absatz vor Ort hätte, statt vom Weltmarkt erdrückt zu werden – das wäre mal was, das mir wirklich hilft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Bauer entscheidet, nicht das Amt!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Entscheidungen über Fruchtfolge und Zwischenfruchternte sollen ohne behördliche Vorgaben allein beim Landwirt liegen; praxisuntaugliche Vorgaben werden abgelehnt.",
+      "seite": 81,
+      "zitat": "ohne behördliche Zwänge, und nach guter fachlicher Praxis",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich von immer neuen Auflagen gegängelt; dass die Entscheidung beim Praktiker bleiben soll, trifft genau seinen Wunsch nach Anerkennung statt Bevormundung.",
+      "begruendung_selbst": "Genau so muss es sein: Ich stehe auf dem Acker, ich weiß, was geht – und nicht irgendein Theoretiker am Schreibtisch in der Stadt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit der Spritabzocke!",
+      "thema": "energie",
+      "programmpunkt": "Senkung der Energiesteuern und Abschaffung der CO2-Abgabe zur Entlastung von Betrieben und Bürgern.",
+      "seite": 7,
+      "zitat": "Die Energiesteuern müssen runter.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Diesel-, Trocknungs- und Energiekosten sind für Frank ein fixer, schmerzhafter Posten; eine Senkung der Energiesteuern entlastet seinen Betrieb unmittelbar.",
+      "begruendung_selbst": "Jeder Liter Diesel und jede Kilowattstunde für die Trocknung kostet mich – wenn die Steuern runtergehen, bleibt mir endlich was übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz nicht auf meinem Rücken!",
+      "thema": "klima",
+      "programmpunkt": "Aussetzung oder Abschaffung der CO2-Bepreisung, weil sie vor allem mittlere und niedrige Einkommen belaste.",
+      "seite": 27,
+      "zitat": "diese ungerechte Steuer auszusetzen oder abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hält Klimaschutz für praxisfern und auf seinem Rücken gemacht; der Verzicht auf die CO2-Abgabe bestätigt seine Sicht, dass die Falschen zahlen.",
+      "begruendung_selbst": "Ich hab nichts gegen sauberes Wasser und gute Böden – aber den Klimaschutz sollen nicht die bezahlen, die ihn jeden Tag draußen machen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich der Wolf ins Jagdrecht!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Zügige Aufnahme des Wolfes in das Jagdrecht über das Landesjagdgesetz und ein modernisiertes Wildtiermanagement.",
+      "seite": 82,
+      "zitat": "Aufnahme des Wolfes in das Jagdrecht soll zügig im Landesjagdgesetz umgesetzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der strikte Wolfsschutz erschwert Franks Mutterkuh-Weidehaltung; ein Wolf im Jagdrecht ist für ihn ein konkreter, greifbarer Konflikt, der gelöst würde.",
+      "begruendung_selbst": "Meine Kühe stehen draußen auf der Weide – wenn der Wolf endlich ins Jagdrecht kommt, kann ich sie wieder vernünftig schützen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hilfe beim Antragschaos!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Landeseigene Kompetenzstellen sollen Landwirte vor Ort beraten und einen Teil der Antragsarbeit übernehmen.",
+      "seite": 20,
+      "zitat": "welche die Landwirte vor Ort beratend unterstützen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dokumentationspflichten und Förder-Wirrwarr sind für Frank der Hauptärger; eine Stelle, die ihm Anträge abnimmt, würde reale Arbeitszeit zurückgeben.",
+      "begruendung_selbst": "Wenn mir endlich jemand den Papierkram abnimmt, kann ich wieder Landwirtschaft machen statt Aktenordner füllen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Glyphosat-Verbot ist praxisfern!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Ablehnung von Glyphosat zugunsten nachhaltiger Alternativen im Pflanzenbau.",
+      "seite": 81,
+      "zitat": "Glyphosat ablehnen und nachhaltige Alternativen fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Pflanzenschutz-Beschränkungen treffen Franks Betrieb direkt; ein Glyphosat-Aus erlebt er als weitere praxisferne Auflage, die Aufwand und Ertragsrisiko erhöht.",
+      "begruendung_selbst": "Da reden sie wieder vom Verbieten, ohne mir zu sagen, wie ich die Fläche dann sauber halten soll – das macht's nur teurer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erbschaftsteuer gefährdet die Hofnachfolge!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Reform der Erbschaft- und Schenkungsteuer mit höherer Besteuerung großer Vermögen.",
+      "seite": 36,
+      "zitat": "Dringenden Reformbedarf sehen wir auch bei der Erbschaft- und Schenkungsteuer.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Franks Kapital steckt in Boden und Maschinen; eine schärfere Erbschaftsteuer kann die geplante Übergabe an die Tochter zusätzlich belasten und gefährdet die Betriebskontinuität.",
+      "begruendung_selbst": "Mein Vermögen ist der Hof – wenn die Tochter den übernimmt und dafür Steuer zahlen muss, von welchem Geld eigentlich?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet im BSW-Programm viel Anschluss: Abnahmegarantien, weniger behördliche Vorgaben, Energiekostensenkung, Wolf ins Jagdrecht und Antragshilfe sprechen seine Kernsorgen direkt an. Gegen den Strich gehen ihm das Glyphosat-Aus und die geplante Erbschaftsteuerreform mit Blick auf die Hofnachfolge. Unterm Strich überwiegt für ihn die spürbare Entlastung und Anerkennung als Praktiker.",
+    "score": 1
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Studium darf nichts kosten!",
+      "thema": "bildung",
+      "programmpunkt": "Gebührenfreies Studium und eine deutliche Ausweitung und Reform des BAföG, damit Studieren nicht vom Geldbeutel abhängt.",
+      "seite": 51,
+      "zitat": "Das Studium muss gebührenfrei bleiben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt von BAföG und Nebenjob; ein gebührenfreies Studium plus besseres BAföG sichert ihre soziale Teilhabe an der Hochschule unmittelbar.",
+      "begruendung_selbst": "Bildung ist kein Luxus – wenn das Studium gebührenfrei bleibt und das BAföG steigt, kann ich studieren, ohne ständig am Limit zu sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich gegen steigende Mieten!",
+      "thema": "wohnen",
+      "programmpunkt": "Wirksame Begrenzung von Mietsteigerungen, ein bundesweiter Mietendeckel und Ausweitung des sozialen Wohnungsbaus.",
+      "seite": 30,
+      "zitat": "Ein bundesweiter Mietendeckel ist dafür ein geeignetes Instrument.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit dünnem Budget trifft Jule jede Mieterhöhung sofort; ein Mietendeckel entspricht ihrer Sorge um bezahlbares Wohnen.",
+      "begruendung_selbst": "Jede Mieterhöhung haut bei mir voll rein – ein Mietendeckel wäre genau das, was Leute wie ich in der WG brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Ticket muss billiger werden!",
+      "thema": "verkehr",
+      "programmpunkt": "Erhalt und Vergünstigung des Deutschlandtickets sowie kostenfreier Nahverkehr für Schüler und Azubis.",
+      "seite": 33,
+      "zitat": "muss erhalten bleiben und perspektivisch günstiger werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule ist viel mit ÖPNV und Rad unterwegs und zahlt knapp; ein günstigeres Deutschlandticket entlastet ihren engen Monatsetat.",
+      "begruendung_selbst": "Ich fahr eh nur Bus, Bahn und Rad – wenn das Ticket günstiger wird, bleibt am Monatsende endlich mal was übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr echte Mitbestimmung!",
+      "thema": "demokratie",
+      "programmpunkt": "Einführung von Bürgerräten auf Landes- und Kommunalebene und Erleichterung von Volksentscheiden.",
+      "seite": 12,
+      "zitat": "Bürgerräte auf Landes- und Kommunalebene einführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Demokratische Mitbestimmung ist einer von Jules Grundwerten; verbindliche Beteiligungsformate entsprechen ihrem aktivistischen Demokratieverständnis.",
+      "begruendung_selbst": "Mitbestimmen statt nur zugucken – Bürgerräte und einfachere Volksentscheide, das ist Demokratie, wie ich sie will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wenigstens unsere Ehe wird geschützt.",
+      "thema": "familie",
+      "programmpunkt": "Zusage, sich für den Schutz der Rechte gleichgeschlechtlicher Ehepartner in einer sicheren Öffentlichkeit einzusetzen.",
+      "seite": 38,
+      "zitat": "Diese Ehepartner können auf unseren Einsatz für den Schutz ihrer Rechte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als queere Person achtet Jule genau auf den Schutz erkämpfter Rechte; das Bekenntnis zum Schutz gleichgeschlechtlicher Paare nimmt sie als Mindestzusage wahr.",
+      "begruendung_selbst": "Immerhin: dass unsere Ehe und unsere Sicherheit geschützt werden sollen, ist ein Punkt, den ich gelten lasse.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sie drehen den Klimaschutz zurück!",
+      "thema": "klima",
+      "programmpunkt": "Aussetzung oder Abschaffung der CO2-Bepreisung.",
+      "seite": 27,
+      "zitat": "diese ungerechte Steuer auszusetzen oder abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Klimaschutz ist für Jule existenziell für ihr Zukunftsgefühl; die Abschaffung des zentralen CO2-Preisinstruments erlebt sie als Bedrohung ihrer Lebensgrundlage.",
+      "begruendung_selbst": "Es geht um meine Zukunft – und sie schaffen ausgerechnet das Instrument ab, das CO2 teurer macht. Das ist das Gegenteil von ernst nehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Braunkohle als Zukunft? Ernsthaft?",
+      "thema": "energie",
+      "programmpunkt": "Festhalten an einem breiten Energiemix einschließlich des heimischen Energieträgers Braunkohle.",
+      "seite": 24,
+      "zitat": "Dazu zählt auch der heimische Energieträger Braunkohle.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule will eine konsequente Energiewende und schnellen Kohleausstieg; ein Bekenntnis zur Braunkohle steht ihrem Kernanliegen diametral entgegen.",
+      "begruendung_selbst": "Während die Welt aus der Kohle muss, feiern die noch die Braunkohle als unseren Reichtum – das ist von gestern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Rechte sind keine Prüfsache!",
+      "thema": "familie",
+      "programmpunkt": "Orientierung an der biologischen Zweigeschlechtlichkeit und Überprüfung der Auswirkungen des Selbstbestimmungsgesetzes auf Schutzräume.",
+      "seite": 37,
+      "zitat": "orientiert sich an der biologischen Zweigeschlechtlichkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule fürchtet den Abbau erkämpfter queerer Rechte; die Festlegung auf Zweigeschlechtlichkeit und die Überprüfung des Selbstbestimmungsgesetzes liest sie als Angriff auf ihre Identität.",
+      "begruendung_selbst": "Wenn eine Partei meine Geschlechtsidentität wieder zur Verhandlungsmasse macht, weiß ich genug.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Themen als 'Nebensache' abgetan!",
+      "thema": "familie",
+      "programmpunkt": "Pronomen und das Hissen von Flaggen im Landtag werden nicht als politische Kernaufgaben betrachtet.",
+      "seite": 39,
+      "zitat": "Debatten über Pronomen oder das Hissen von Flaggen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule sind Sichtbarkeit und Anerkennung queerer Lebensweisen kein Randthema; die Abwertung als Nebensache empfindet sie als Ausgrenzung.",
+      "begruendung_selbst": "Für mich ist das keine Spielerei – wer Pronomen und Sichtbarkeit als unwichtig abtut, übersieht, dass es um Respekt geht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sie würgen die Zivilgesellschaft ab!",
+      "thema": "demokratie",
+      "programmpunkt": "Bestimmte zivilgesellschaftliche Projekte sollen nicht länger mit öffentlichen Mitteln gefördert werden, Demokratieförderprogramme werden kritisch überprüft.",
+      "seite": 15,
+      "zitat": "dürfen nicht länger mit öffentlichen Mitteln gefördert werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule setzt auf eine starke Zivilgesellschaft und Antidiskriminierungsarbeit; das Streichen von Fördermitteln für solche Projekte sieht sie als Schwächung demokratischer Strukturen.",
+      "begruendung_selbst": "Genau die Initiativen, die gegen Diskriminierung arbeiten, sollen jetzt kein Geld mehr bekommen – das schwächt unsere Demokratie.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Jule bietet das Programm spürbare soziale Pluspunkte: gebührenfreies Studium, Mietendeckel, günstigeres ÖPNV-Ticket und mehr Mitbestimmung. Ihre Kernidentität trifft es jedoch hart, weil Klimaschutz zurückgedreht, an der Braunkohle festgehalten und queere Rechte sowie zivilgesellschaftliche Förderung in Frage gestellt werden. Unterm Strich überwiegen für sie die Widersprüche zu Klima- und Minderheitenanliegen.",
+    "score": -1
+  }
+}

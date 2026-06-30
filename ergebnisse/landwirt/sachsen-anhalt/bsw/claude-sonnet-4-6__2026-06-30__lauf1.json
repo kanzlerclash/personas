@@ -1,0 +1,103 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Abnahmegarantien für uns!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "BSW fordert Abnahmegarantien für landwirtschaftliche Produkte aus regionaler Erzeugung; öffentliche Einrichtungen sollen vorrangig regional einkaufen.",
+      "seite": 19,
+      "zitat": "setzt sich das BSW für Abnahmegarantien für landwirtschaftliche Produkte aus regionaler Erzeugung ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank kämpft mit sinkenden Erzeugerpreisen und internationalem Preisdruck. Abnahmegarantien und regionale Beschaffungspflichten für öffentliche Einrichtungen würden ihm stabile Absatzwege und faire Preise sichern, was direkt seiner Kernforderung nach verlässlicher Planung entspricht.",
+      "begruendung_selbst": "Wenn der Staat meine Produkte kauft, statt billiges Zeug aus Argentinien zu holen, dann kann ich endlich wieder kalkulieren. Das ist kein Almosen – das ist Gerechtigkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie auf mein Minimum!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "BSW will landeseigene Kompetenzstellen schaffen, die Landwirten beratend helfen und einen Teil der Antragstellung übernehmen, sowie Berichtspflichten auf ein notwendiges Mindestmaß reduzieren.",
+      "seite": 19,
+      "zitat": "landeseigene Kompetenzstellen erzielt werden, welche die Landwirte vor Ort beratend unterstützen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank verliert nach eigener Einschätzung wertvolle Arbeitszeit durch Dokumentationspflichten und Förder-Wirrwarr. Staatliche Stellen, die ihm Antragsarbeit abnehmen, treffen genau diesen Schmerz und würden es ihm ermöglichen, sich auf den Betrieb zu konzentrieren.",
+      "begruendung_selbst": "Jedes Jahr neue Formulare, und ich soll nebenbei noch Landwirtschaft machen. Wenn mir endlich jemand hilft, den Papierkram zu erledigen, kann ich mich um das kümmern, was ich wirklich kann.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "CO2-Abgabe gehört weg!",
+      "thema": "energie",
+      "programmpunkt": "BSW fordert die Abschaffung oder Aussetzung der CO2-Bepreisung als einseitige Belastung für Bürger und Unternehmen.",
+      "seite": 26,
+      "zitat": "die CO₂-Bepreisung in Deutschland ist für das globale Klima begrenzt wirksam und belastet als nationale Sonderlast einseitig",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Diesel, Düngermittel und Energiekosten sind für Frank variable, spürbare Kostenposten. Die CO2-Abgabe verteuert diese direkt und trifft ihn als Flächenbetrieb besonders hart; die BSW-Position entspricht seinem zentralen wirtschaftlichen Interesse.",
+      "begruendung_selbst": "Der Klimaschutz wird auf meinem Rücken gemacht – ich zahl die CO2-Steuer, aber die Großindustrie in China nicht. Das ist keine Gerechtigkeit, das ist Abzocke.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "PV nicht auf mein Ackerland!",
+      "thema": "klima",
+      "programmpunkt": "BSW will Photovoltaik vorrangig auf Dächern und versiegelten Flächen – ausdrücklich nicht auf Ackerland oder im Wald.",
+      "seite": 24,
+      "zitat": "Neue Photovoltaikanlagen gehören auf Dächer, Parkplatzüberdachungen und bereits versiegelte Flächen – nicht auf Ackerland",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sorgt sich um Flächenfraß und Pacht-Konkurrenz durch Solarinvestoren. Die explizite BSW-Position gegen PV auf Ackerland schützt seine Betriebsflächen und entspricht seinem Interesse an Schwarzerdeböden als Produktionsgrundlage.",
+      "begruendung_selbst": "Schwarzerdeboden ist das Wertvollste, was dieses Land hat. Wenn der mit Solarpanelen zugepflastert wird, kann ich einpacken. Gut, dass das jemand endlich klar sagt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wolf endlich ins Jagdrecht!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "BSW will die Aufnahme des Wolfes in das Jagdrecht im Landesjagdgesetz zügig umsetzen, sobald das Bundesjagdgesetz entsprechend angepasst wird.",
+      "seite": 82,
+      "zitat": "Die zu erwartende Anpassung des Bundesjagdgesetzes zur Aufnahme des Wolfes in das Jagdrecht soll zügig im Landesjagdgesetz umgesetzt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hält Weidewirtschaft und leidet unter Wolfsübergriffen auf seine Mutterkuhherde. Die BSW-Positionierung zur Wolfsregulierung trifft einen konkreten Alltagskonflikt, der kein Abstraktum für ihn ist.",
+      "begruendung_selbst": "Ich hab nichts gegen Naturschutz – aber nicht, wenn der Wolf meine Tiere reißt und ich nicht reagieren darf. Wer das ernstnimmt, hat meine Aufmerksamkeit.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Glyphosat-Verbot schadet mir!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "BSW lehnt den Einsatz von Glyphosat ab und will nachhaltige Alternativen fördern.",
+      "seite": 81,
+      "zitat": "Glyphosat ablehnen und nachhaltige Alternativen fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank arbeitet nach guter fachlicher Praxis und setzt Pflanzenschutzmittel ein, die in Deutschland zugelassen sind. Ein Glyphosat-Verbot würde seine Betriebskosten und seinen Aufwand erheblich erhöhen, ohne dass ihm plausible Alternativen für seine Skala und seinen Boden angeboten werden.",
+      "begruendung_selbst": "Jedes Jahr eine neue Verordnung. Jetzt auch noch Glyphosat weg – von welchem Geld soll ich dann die teureren Alternativen kaufen? Das entscheiden Leute, die noch nie auf einem Traktor gesessen haben.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet im BSW-Programm starke Übereinstimmungen in seinen zentralen Anliegen: Abnahmegarantien, Bürokratieentlastung durch Kompetenzstellen, Ablehnung der CO2-Abgabe, Schutz von Ackerflächen vor PV-Bebauung und Unterstützung bei der Wolfsregulierung treffen seinen Alltag direkt. Der einzige spürbare Konflikt liegt in der Ablehnung von Glyphosat, die er als praxisfern empfindet. Insgesamt findet Frank hier eine Partei, die Landwirtschaft als systemrelevant ernst nimmt und nicht als Problemverursacher behandelt.",
+    "score": 1
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Kollegen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Landespolizei soll auf weit mehr als 8.100 Bedienstete aufgewachsen werden, mit konsequentem Personalaufwuchs im Vollzugsdienst.",
+      "seite": 6,
+      "zitat": "weit mehr als 8. 100 Bedienstete",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco benennt Personalmangel als seine Hauptbelastung im Dienst. Der konkrete Zahlenwert mit >8.100 Bediensteten ist eine klare Verpflichtung und keine vage Absichtserklärung.",
+      "begruendung_selbst": "Wir sollen für Sicherheit sorgen – gebt uns die Leute, die das überhaupt möglich machen. Wenn die endlich eine Zahl nennen, nehme ich das beim Wort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Taser – endlich sicherer arbeiten!",
+      "thema": "sicherheit",
+      "programmpunkt": "Alle Polizistinnen und Polizisten in Sachsen-Anhalt sollen flächendeckend mit Distanz-Elektroimpulsgeräten (Tasern) ausgestattet werden.",
+      "seite": 7,
+      "zitat": "flächendeckend mit Distanz - Elektroimpulsgeräten (Taser) ausstatten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist im Streifendienst täglich gefährlichen Situationen ausgesetzt. Taser als Zwischenmittel erhöhen seine eigene Sicherheit und ermöglichen verhältnismäßiges Einschreiten.",
+      "begruendung_selbst": "Zwischen gar nichts und der Schusswaffe gibt's bisher nicht viel. Ein Taser kann Leben retten – meins und das der Person gegenüber.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bodycam auch bei häuslicher Gewalt!",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Einsatz von Bodycams soll auf Wohnungen ausgeweitet werden, insbesondere bei Fällen häuslicher Gewalt, um Einsatzkräfte zu schützen.",
+      "seite": 7,
+      "zitat": "Einsatz der Bodycam soll auch in Wohnungen möglich sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Häusliche Gewaltlagen sind für Marco gefährliche Routineeinsätze. Die Bodycam in Wohnungen schützt ihn und seine Kolleginnen und stärkt die Beweislage.",
+      "begruendung_selbst": "Häusliche Gewalt ist keine Privatangelegenheit, die endet, wenn wir klingeln. Die Kamera hilft nicht nur uns – sie hilft auch den Opfern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "KI-Videoschutz – modernes Werkzeug!",
+      "thema": "sicherheit",
+      "programmpunkt": "KI-gestützter intelligenter Videoschutz soll landesweit ermöglicht werden, um auffällige Verhaltensmuster automatisiert zu erkennen.",
+      "seite": 7,
+      "zitat": "KI - gestützten intelligenten Videoschutz landesweit ermöglichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco fühlt sich bei der Strafverfolgung durch mangelnde Technik gebremst. KI-gestützte Erkennungssysteme können seine Arbeit unterstützen und Fahndungserfolge verbessern.",
+      "begruendung_selbst": "Wir suchen Täter manchmal stundenlang auf Videomaterial. Wenn eine KI das in Minuten erledigt, kann ich mich um die eigentliche Polizeiarbeit kümmern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz stärken!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Sicherheitsbehörden insgesamt und damit auch der Verfassungsschutz sollen weiter gestärkt werden, mit einem 360°-Blick auf alle Formen des Extremismus.",
+      "seite": 7,
+      "zitat": "jede Form des politisch und islamistisch motivierten Extremismus bekämpfen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco wünscht sich einen starken, unparteiischen Rechtsstaat. Das Bekenntnis zum 360°-Blick auf Extremismus von allen Seiten entspricht seiner Haltung: er lehnt es ab, wenn politische Präferenzen die Sicherheitsarbeit verzerren.",
+      "begruendung_selbst": "Mir ist egal, von welcher Seite es kommt – Extremismus ist gefährlich. Gut, dass hier von links wie rechts und islamistisch gesprochen wird, nicht nur von einer Seite.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Migrationswende – klare Linie hilft!",
+      "thema": "integration",
+      "programmpunkt": "Die CDU will irreguläre Migration auf null reduzieren, Asylverfahren beschleunigen und konsequente Rückführungen durchsetzen.",
+      "seite": 8,
+      "zitat": "die irreguläre Migration auf null zu reduzieren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt die Folgen unkontrollierter Zuwanderung in seiner täglichen Arbeit als konkrete Einsatzrealität. Eine geordnetere Migrationslage entlastet seine Einsatzplanung, ohne pauschale Verdächtigungen.",
+      "begruendung_selbst": "Ich mache keine Pauschalurteile. Aber geordnete Verhältnisse und klare Regeln – das erleichtert meine Arbeit. Wenn wer kein Recht zu bleiben hat, muss das auch gelten.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Marco findet im CDU-Programm ein umfassendes Paket, das seinen Kernforderungen entspricht: mehr Personal, bessere Ausstattung (Taser, Bodycam, KI), eine starke Sicherheitspolitik und ein klares Bekenntnis zur wehrhaften Demokratie mit 360°-Blick auf Extremismus. Das Programm gibt ihm das Signal, dass seine Arbeit ernst genommen und strukturell unterstützt wird. Wesentliche Gegenargumente aus seiner Perspektive sind kaum vorhanden.",
+    "score": 2
+  }
+}

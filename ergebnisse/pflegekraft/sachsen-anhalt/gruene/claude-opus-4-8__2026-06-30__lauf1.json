@@ -1,0 +1,77 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Meine Kolleginnen sind keine Last",
+      "thema": "integration",
+      "programmpunkt": "Migration wird als essenzielle Stütze für das Gesundheitssystem anerkannt.",
+      "seite": 81,
+      "zitat": "Migration eine essenzielle Stütze",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station läuft nur dank migrantischer Kolleginnen; die Anerkennung von Migration als Stütze des Systems widerspricht direkt den Stimmungen, die sie ablehnt.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht – endlich sagt das mal jemand klar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschlüsse schneller anerkennen",
+      "thema": "integration",
+      "programmpunkt": "Anerkennungsverfahren ausländischer Berufsabschlüsse sollen schneller und digitaler gestaltet werden.",
+      "seite": 78,
+      "zitat": "schneller und digitaler gestaltet werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Verzögerte Anerkennungen halten Kerstins Kollegschaft auf; schnellere Verfahren erleichtern die Bleibeperspektive und damit die Versorgung auf ihrer Station.",
+      "begruendung_selbst": "Wenn die Anerkennung endlich zügig läuft, bekommen wir die Leute schneller an die Patientenbetten – das hilft uns allen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klinik in öffentliche Hand",
+      "thema": "gesundheit",
+      "programmpunkt": "Zur Sicherung der Versorgung werden Sicherstellungszuschläge und die Rekommunalisierung von Krankenhäusern unterstützt.",
+      "seite": 79,
+      "zitat": "die Rekommunalisierung von Krankenhäusern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht in Ökonomisierung und Privatisierung eine Ursache ihrer Arbeitsverdichtung; eine Rekommunalisierung entspricht ihrem Wunsch, Versorgung vor Rendite zu stellen.",
+      "begruendung_selbst": "Wenn nicht ständig die Rendite über der Versorgung steht, wird mein Arbeitsalltag vielleicht endlich wieder tragbar.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Pflege auf Augenhöhe",
+      "thema": "gesundheit",
+      "programmpunkt": "Eine professionelle Pflegeselbstvertretung soll der Pflege eine wahrnehmbare Stimme auf Augenhöhe mit der Ärzteschaft geben.",
+      "seite": 87,
+      "zitat": "auf Augenhöhe mit der Ärzteschaft bringen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin vermisst Anerkennung systemrelevanter Arbeit; eine eigene Pflegeselbstvertretung verspricht ihrer Berufsgruppe echtes Gewicht.",
+      "begruendung_selbst": "Wir leisten die Arbeit, also wollen wir auch mitreden – nicht nur Beifall, sondern eine Stimme, die zählt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Kerstin sieht zentrale Anliegen ihrer Berufsgruppe aufgegriffen: die ausdrückliche Wertschätzung ihrer migrantischen Kollegschaft, schnellere Anerkennungsverfahren, eine Absage an Privatisierung zugunsten von Rekommunalisierung und eine professionelle Pflegeselbstvertretung. Das Programm stützt statt vergrault ihre Kolleginnen und nimmt die Strukturprobleme ernst. Sie reagiert deutlich zustimmend.",
+    "score": 2
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mehr Kompetenz für Pflegekräfte!",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflegefachkräfte sollen mehr Kompetenzen und Verantwortung erhalten, um die Versorgung zu stabilisieren und die Versorgungsqualität zu verbessern.",
+      "seite": 28,
+      "zitat": "Pflegefachkräfte erhalten mehr Kompetenzen und Verantwortung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich, dass sie mehr könnte als ihr formal erlaubt ist. Erweiterte Kompetenzen würden die Unterbesetzung abpuffern und ihren beruflichen Status stärken.",
+      "begruendung_selbst": "Ich weiß oft selbst, was der Patient braucht – und muss trotzdem stundenlang auf eine ärztliche Anordnung warten. Wenn das endlich anerkannt wird, hilft das dem System und mir.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege bezahlbar halten – wichtig!",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflege soll für Betroffene bezahlbar gehalten werden; pflegende Angehörige sollen verlässliche Unterstützung, Beratung und Entlastung erhalten.",
+      "seite": 27,
+      "zitat": "Pflege für Betroffene bezahlbar halten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht täglich, wie Pflegebedürftige und ihre Angehörigen an Finanzierungsgrenzen stoßen. Das Bekenntnis zur Bezahlbarkeit entspricht ihrer Grundüberzeugung, dass Pflege kein Luxus sein darf.",
+      "begruendung_selbst": "Meine Patienten sollen nicht wählen müssen zwischen guter Versorgung und dem letzten Ersparten. Das ist keine Ideologie – das ist Anstand.",
+      "beleg_hinweis": "Seite von 28 auf 27 korrigiert",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Familiennachzug stoppen – trifft meine Kolleg:innen!",
+      "thema": "integration",
+      "programmpunkt": "Der Familiennachzug für subsidiär Schutzberechtigte soll weiterhin ausgesetzt bleiben; freiwillige Aufnahmeprogramme sollen beendet werden.",
+      "seite": 8,
+      "zitat": "Familiennachzug für subsidiär Schutzberechtigte weiterhin ausgesetzt bleiben",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin arbeitet in einem Team, das ohne migrantische Pflegekräfte nicht funktionieren würde. Maßnahmen, die ausländischen Kolleginnen und Kollegen die Integration erschweren oder ihre Familien fern halten, schaden direkt ihrer Arbeitsfähigkeit.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht. Wenn deren Familien nicht nachkommen dürfen, suchen sie sich einen Job in einem anderen Land. Und dann? Dann stehe ich allein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Privatisierung bleibt möglich – mein Risiko!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU hält an Trägervielfalt fest, wobei privatwirtschaftliche Häuser als gleichberechtigte Säule der Versorgung gelten.",
+      "seite": 28,
+      "zitat": "privatwirtschaftliche Häuser sind gleichberechtigte und tragende Säulen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin sieht Privatisierung im Gesundheitswesen als Treiber von Unterbesetzung und Kostendruck. Das Bekenntnis zu privatwirtschaftlichen Häusern als gleichberechtigt signalisiert ihr, dass die Ökonomisierung weiterläuft.",
+      "begruendung_selbst": "Privat bedeutet Rendite. Rendite bedeutet weniger Personal. Weniger Personal bedeutet: ich mache den Job von zwei Leuten. Das wollte ich eigentlich nicht mehr hören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschiebungen nach Afghanistan – Kollegen weg!",
+      "thema": "integration",
+      "programmpunkt": "Die CDU setzt sich dafür ein, dass der Bund Abschiebungen nach Afghanistan, Syrien und Irak ermöglicht und diese Länder als sichere Herkunftsstaaten eingestuft werden.",
+      "seite": 8,
+      "zitat": "Abschiebungen nach Afghanistan, Syrien und in den Irak ermöglicht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Unter Kerstins Kolleg:innen sind auch Menschen aus diesen Ländern, die die Station am Laufen halten. Eine Politik, die ihre Aufenthaltsrechte gefährdet, ist für Kerstin keine abstrakte Politikfrage, sondern betrifft ihren Alltag.",
+      "begruendung_selbst": "Ich kenne die Gesichter hinter diesen Herkunftsländern. Das sind meine Kolleginnen. Wenn die weg sind, bricht hier etwas zusammen – und das kommt in diesem Programm gar nicht vor.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet im CDU-Programm einzelne positive Punkte wie Kompetenzstärkung für Pflegekräfte und das Bekenntnis zur Bezahlbarkeit. Dagegen stehen Maßnahmen, die ausländische Pflegekräfte direkt bedrohen: Familiennachzugsstopp, mögliche Abschiebungen und das Bekenntnis zu privatwirtschaftlichen Trägern als gleichwertige Säule. Da ihre Station ohne migrantische Kolleg:innen nicht arbeitsfähig wäre, überwiegen die negativen Wirkungen klar.",
+    "score": -1
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich gegen das Höfesterben",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Ein Agrarstrukturgesetz soll kleinstrukturierte Betriebe fördern und dem Höfesterben entgegenwirken.",
+      "seite": 16,
+      "zitat": "dem Höfesterben entgegengewirkt wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sorgt sich um den Fortbestand seines Familienbetriebs; ein erklärtes Ziel gegen das Höfesterben trifft seine Lage unmittelbar.",
+      "begruendung_selbst": "Wenn die endlich mal die kleinen Höfe halten wollen statt nur zuzuschauen, wie einer nach dem anderen aufgibt – das ist genau meine Sorge.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hilfe für die Hofnachfolge",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Gezielte Förderung von Jungbäuerinnen und Existenzgründern, um den Einstieg in die Landwirtschaft zu erleichtern.",
+      "seite": 16,
+      "zitat": "gezielte Förderung von Jungbäuer*innen und Existenzgründer*innen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Franks Tochter erwägt die Übernahme; Unterstützung für junge Hofübernehmer berührt direkt seine größte Zukunftsfrage.",
+      "begruendung_selbst": "Wenn meine Tochter den Hof übernehmen soll, dann hilft jeder Euro, der den Einstieg leichter macht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beraten statt gängeln",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Bei der Umsetzung von Vorschriften soll mehr beraten und geholfen statt mit Bürokratie belastet werden.",
+      "seite": 16,
+      "zitat": "mehr Beratung und Hilfestellung statt übermäßiger Bürokratie",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank empfindet Dokumentationspflichten als Hauptärgernis; das Versprechen von Beratung statt Bürokratie trifft genau seinen Frust.",
+      "begruendung_selbst": "Beratung statt jedes Jahr ein neues Formular – ja bitte, davon hätte ich gern mehr und vom Papierkram weniger.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Preise vom Acker",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Regionale Wertschöpfungsketten sollen gestärkt und faire Preise für Erzeuger gesichert werden.",
+      "seite": 19,
+      "zitat": "faire Preise für Erzeuger sicherzustellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sinkende Erzeugerpreise gehören zu Franks Kernsorgen; das Ziel fairer Preise berührt seine wirtschaftliche Basis direkt.",
+      "begruendung_selbst": "Am Ende zählt, was ich für mein Vieh und Korn bekomme – wenn faire Preise wirklich kommen, rede ich mit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit dem Flächenfraß",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Wertvolle Böden, besonders Schwarzerden, sollen vor Versiegelung geschützt und so für die Nahrungsmittelproduktion erhalten werden.",
+      "seite": 9,
+      "zitat": "den Erhalt dieser wertvollen Böden sicherzustellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sorgt sich um Flächenfraß und Pacht-Konkurrenz; der Schutz fruchtbarer Böden deckt sich mit seinem Interesse am Erhalt von Agrarland.",
+      "begruendung_selbst": "Jeder Hektar, der zubetoniert wird, fehlt mir und meiner Tochter – guter Boden gehört aufs Feld, nicht unter Asphalt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sie nehmen mir den Pflanzenschutz",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Konsequentes Verbot problematischer Stoffe wie Glyphosat, PFAS und hormonaktiver Substanzen.",
+      "seite": 16,
+      "zitat": "Verbot problematischer Stoffe wie PFAS, Glyphosat und hormonaktiver Substanzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Pflanzenschutz-Zulassungen sind für Franks Ackerbau existenziell; ein Verbot zentraler Mittel greift direkt in seine Betriebsführung ein.",
+      "begruendung_selbst": "Erst nimmt man uns ein Mittel nach dem anderen weg, und dann wundert man sich, dass die Ernte nicht mehr stimmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wolfsschutz vor meiner Herde",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Strenger Wolfsschutz; Abschüsse sollen nur in eng begrenzten Ausnahmefällen zulässig sein.",
+      "seite": 7,
+      "zitat": "Abschüsse nur in eng begrenzten Ausnahmefällen zulässig sind",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Halter einer Mutterkuhherde erlebt Frank den strikten Wolfsschutz als konkreten Konflikt mit seiner Weidehaltung.",
+      "begruendung_selbst": "Wenn der Wolf praktisch unantastbar bleibt, dann steht meine Weidehaltung auf dem Spiel, nicht die Theorie im Ministerium.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auflagen fressen die Tierhaltung",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Verringerung der industriellen Tierhaltung und Bindung der Tierzahlen an die Fläche.",
+      "seite": 18,
+      "zitat": "Verringerung industrieller Tierhaltung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tierhaltungsauflagen zählen zu Franks Sorgen; Vorgaben zur Reduzierung von Tierhaltung erhöhen aus seiner Sicht den Druck auf Betriebe wie seinen.",
+      "begruendung_selbst": "Immer noch mehr Vorgaben für die Tierhaltung – am Ende lohnt sich das Vieh gar nicht mehr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz auf meinem Rücken",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Schrittweiser Ausstieg aus chemisch-synthetischen Pflanzenschutzmitteln bis 2035, beginnend mit Herbiziden.",
+      "seite": 17,
+      "zitat": "schrittweisen Ausstieg aus chemisch-synthetischen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ein verbindlicher Ausstiegspfad bei Pflanzenschutzmitteln bedeutet für Frank Planungsunsicherheit und Ertragsrisiken in seinem Ackerbau.",
+      "begruendung_selbst": "Erst ein Enddatum setzen und dann gucken, wie wir damit klarkommen – das ist genau die Praxisferne, die mich aufregt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet bei der Hofnachfolge, dem Höfesterben, fairen Erzeugerpreisen und beim Bodenschutz Punkte, die seine Lage ernst nehmen. Doch die ökologische Ausrichtung der Agrarpolitik – Pflanzenschutzverbote, strikter Wolfsschutz und Tierhaltungsauflagen – trifft den Kern seines konventionellen Betriebs und bestätigt sein Gefühl, dass Klimaschutz auf seinem Rücken gemacht wird. Unterm Strich überwiegt für ihn die Sorge vor neuen Vorgaben.",
+    "score": -1
+  }
+}

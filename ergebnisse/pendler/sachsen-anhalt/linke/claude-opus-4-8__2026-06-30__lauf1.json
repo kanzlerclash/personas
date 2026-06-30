@@ -1,0 +1,101 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich: Mein Auto wird ernst genommen!",
+      "thema": "verkehr",
+      "programmpunkt": "Anerkennung, dass das Auto in Dörfern ohne ÖPNV-Anbindung nötig ist und bezahlbar bleiben muss.",
+      "seite": 101,
+      "zitat": "wichtig und muss bezahlbar sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fühlt sich von urbaner Verkehrspolitik übergangen; dass das Programm den PKW im Dorf ausdrücklich als nötig und bezahlbar anerkennt, trifft genau seine Lage.",
+      "begruendung_selbst": "Endlich schreibt mal jemand, dass mein Auto kein Luxus ist, sondern die Bedingung dafür, dass ich überhaupt zur Schicht komme.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom billiger – das spüre ich sofort!",
+      "thema": "energie",
+      "programmpunkt": "Strompreisaufsicht wieder einführen, um überhöhte Preise zu verhindern und Haushalte zu entlasten.",
+      "seite": 106,
+      "zitat": "die Wiedereinführung der Strompreisaufsicht, um Abzocke zu verhindern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kaufkraftverlust durch Strom-, Sprit- und Lebensmittelpreise ist Toralfs konkrete Sorge; eine Preisaufsicht und Stromsteuersenkung entlasten seinen knappen Haushalt.",
+      "begruendung_selbst": "Wenn beim Strom mal jemand auf die Preise schaut, statt uns abzuzocken, bleibt am Monatsende ein bisschen mehr übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Jedes Dorf an den ÖPNV – auch meins?",
+      "thema": "verkehr",
+      "programmpunkt": "Jede Gemeinde an den ÖPNV anschließen und auch Menschen ohne Auto im ländlichen Raum Mobilität ermöglichen.",
+      "seite": 101,
+      "zitat": "an den öffentlichen Personennahverkehr anschließen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf lebt in einem Dorf ohne brauchbaren ÖPNV; das Versprechen, jede Gemeinde anzuschließen, böte ihm und seiner Familie eine reale Alternative.",
+      "begruendung_selbst": "Ich würde ja umsteigen – wenn hier endlich ein Bus führe, der was taugt, statt zweimal am Tag zu fahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriejobs sichern – mein Brot!",
+      "thema": "arbeit",
+      "programmpunkt": "Industriearbeitsplätze über sozial abgesicherten Wandel und faire Energiepreise erhalten, damit niemand abgehängt wird.",
+      "seite": 91,
+      "zitat": "damit niemand im Strukturwandel zurückbleibt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Sicherheit seines Industriearbeitsplatzes ist für Toralf zentral; ein Wandel, der Beschäftigung und Standorte sichert, deckt sich mit seinem Interesse.",
+      "begruendung_selbst": "Solange mein Job sicher ist und der Umbau nicht auf meinem Rücken läuft, kann ich mit dem Wandel leben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Weniger Autoverkehr – aber wie komm ich zur Schicht?",
+      "thema": "verkehr",
+      "programmpunkt": "Verkehrsreduzierung beim motorisierten Individualverkehr und ein bundesweites Tempolimit auf Autobahnen.",
+      "seite": 104,
+      "zitat": "bundesweites Tempolimit auf den Autobahnen durchsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf erlebt eine Politik, die den Autoverkehr zurückdrängt, als gegen seinen Alltag gerichtet, solange für ihn keine echte Alternative bereitsteht.",
+      "begruendung_selbst": "Erst den Verkehr ausbremsen und dann gibt es bei mir trotzdem keinen Bus – das ist Politik gegen Leute wie mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tempo 2035 – wer zahlt den Umbau?",
+      "thema": "klima",
+      "programmpunkt": "Klimaneutralität bis 2035 mit verbindlichem CO2-Budget für das Land.",
+      "seite": 121,
+      "zitat": "Klimaneutral bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf fürchtet, dass ein hohes Klimaschutztempo das Pendeln und Heizen weiter verteuert, ohne dass er an der Zapfsäule entlastet wird.",
+      "begruendung_selbst": "Macht meine Arbeit nicht teurer, als sie einbringt – ein so frühes Ziel klingt für mich nach noch höheren Kosten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet bei der Linken seltene Anerkennung dafür, dass sein Auto im Dorf unverzichtbar ist, dazu spürbare Entlastung bei Strompreisen und das Versprechen sicherer Industriejobs. Gegen den Strich gehen ihm die generelle Zurückdrängung des Autoverkehrs und das hohe Klimatempo, weil er für sich keine bezahlbare Alternative sieht. Es bleibt ein gemischtes Bild zwischen echter Entlastung und Verkehrswende-Skepsis.",
+    "score": 0
+  }
+}

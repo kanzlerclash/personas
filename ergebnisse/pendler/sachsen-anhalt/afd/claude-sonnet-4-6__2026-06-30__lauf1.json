@@ -1,0 +1,76 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mein Auto bleibt erlaubt!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm bekennt sich klar zum Verbrennungsmotor als Hauptverkehrsmittel im ländlichen Raum und will autofahrerfreundliche Verkehrspolitik.",
+      "seite": 16,
+      "zitat": "Automobil, und zwar in der Regel mit Verbrennungsmotor, auf absehbare Zeit das Verkehrsmittel Nummer 1",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist auf das Auto angewiesen, weil es auf dem Dorf keinen ÖPNV gibt; ein Verbrenner-Aus ohne bezahlbare E-Auto-Alternative wäre für ihn existenziell. Das Programm nimmt diese Realität ernst.",
+      "begruendung_selbst": "Ich würde ja gern umsteigen – nur fährt hier kein Bus, und ein E-Auto kann ich mir nicht leisten. Dass die das endlich ansprechen statt mir Vorwürfe zu machen, tut gut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Straßen sanieren statt Radwege!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm sieht massive Investitionen in Straßeninfrastruktur vor und kritisiert den Investitionsstau als Gefahr für Wirtschaft und Pendler.",
+      "seite": 16,
+      "zitat": "Investitionen in die Infrastruktur sind Investitionen in die Zukunft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf pendelt täglich 45 Minuten auf schlechten Straßen; sanierte Straßen sind für ihn nicht nur Komfort, sondern auch Zeitersparnis und Sicherheit.",
+      "begruendung_selbst": "Macht meine Arbeit nicht teurer, als sie einbringt. Mehr verlange ich gar nicht. Und dazu gehört, dass die Straße, auf der ich morgens um fünf fahre, keine Schlaglochpiste ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sprit günstiger werden lassen!",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will durch Rückkehr zu einem breiten fossilen Energiemix die Preise senken und die CO₂-Bepreisung ablehnen.",
+      "seite": 13,
+      "zitat": "planwirtschaftliche Energiewende der Altparteien ist dramatisch gescheitert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Spritkosten und CO₂-Abgabe sind für Toralf direkte, monatlich spürbare Ausgaben; günstigere Energiepreise würden seinen finanziellen Spielraum real vergrößern.",
+      "begruendung_selbst": "Was die CO₂-Steuer mir abknöpft, sehe ich jede Woche an der Zapfsäule. Kein Politiker kommt mit mir pendeln. Wer die Energiewende bremst, entlastet mich konkret.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dorf darf nicht sterben!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm will den ländlichen Raum stärken, keine Schulen mehr schließen und Infrastruktur auf dem Land erhalten.",
+      "seite": 15,
+      "zitat": "dass keine Schule mehr geschlossen wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf hat Kinder im Schulalter und lebt im ländlichen Raum; Schulschließungen würden seine Familie direkt treffen und die Lebensqualität im Dorf weiter verschlechtern.",
+      "begruendung_selbst": "Wenn die Schule im Dorf zumacht, muss meine Frau die Kinder noch weiter fahren. Irgendwann lohnt sich das alles nicht mehr. Ich will hier bleiben können.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet im AfD-Programm seine zentralen Alltagsthemen – Verbrennermotor, Straßensanierung, günstigere Spritpreise und Erhalt ländlicher Infrastruktur – klar adressiert. Das Programm spricht die Lebenswelt des Pendlers auf dem Dorf direkter an als die meisten anderen Parteien. Punkte, die ihn negativ träfen, enthält das Programm aus seiner Perspektive kaum.",
+    "score": 1
+  }
+}

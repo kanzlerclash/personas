@@ -1,0 +1,112 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Kollegen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Fortsetzung des personellen Aufwuchses im Polizeivollzugsdienst angesichts steigender Einsatzlagen.",
+      "seite": 6,
+      "zitat": "den Personalaufwuchs im Polizeivollzugsdienst weiter fortsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marcos zentrale Belastung ist der Personalmangel; ein klares Bekenntnis zu mehr Stellen adressiert seine größte Sorge im Dienst.",
+      "begruendung_selbst": "Gebt uns die Leute, dann können wir den Job auch machen. Mehr Personal ist genau das, was an der Front fehlt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bessere Ausrüstung, endlich Taser!",
+      "thema": "sicherheit",
+      "programmpunkt": "Flächendeckende Ausstattung der Landespolizei mit Distanz-Elektroimpulsgeräten (Tasern) und moderner Technik.",
+      "seite": 7,
+      "zitat": "flächendeckend mit Distanz - Elektroimpulsgeräten (Taser) ausstatten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco fühlt sich bei der Ausstattung im Stich gelassen; bessere Einsatzmittel erhöhen unmittelbar seine eigene Sicherheit im Streifendienst.",
+      "begruendung_selbst": "Wer in gefährliche Lagen geht, braucht das richtige Werkzeug. Mit Taser steh ich nicht mehr mit leeren Händen da.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schutz für die, die schützen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Bodycam-Einsatz auch in Wohnungen, gerade bei häuslicher Gewalt, zum deeskalierenden Schutz der Einsatzkräfte.",
+      "seite": 7,
+      "zitat": "Der Einsatz der Bodycam soll auch in Wohnungen möglich sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Angriffe auf Einsatzkräfte sind Marcos Sorge; erweiterte Bodycam-Befugnisse stärken konkret den Schutz seiner Kollegschaft und seine Rückendeckung.",
+      "begruendung_selbst": "Gerade bei häuslicher Gewalt wird es brenzlig. Wenn die Bodycam auch drinnen läuft, schützt das uns alle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rückhalt statt Generalverdacht!",
+      "thema": "demokratie",
+      "programmpunkt": "Klares Bekenntnis: Wer im Ernstfall hilft, kann auf die volle Unterstützung des Landes bauen.",
+      "seite": 5,
+      "zitat": "Wer im Ernstfall hilft, soll auf unsere volle Unterstützung bauen können.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco vermisst Rückhalt aus Politik und Öffentlichkeit; ein ausdrückliches Unterstützungsversprechen trifft sein Bedürfnis nach Wertschätzung.",
+      "begruendung_selbst": "Pauschale Polizeikritik trifft mich. So ein klares 'wir stehen hinter euch' ist genau das, was ich erwarte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Straftäter konsequent verfolgen!",
+      "thema": "integration",
+      "programmpunkt": "Konsequentes Vorgehen gegen ausländische Straftäter und Gefährder.",
+      "seite": 8,
+      "zitat": "Ausländischen Straftätern und Gefährdern begegnen wir weiterhin mit aller Konsequenz.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco lehnt Pauschalurteile ab, will aber konsequente Strafverfolgung; der Fokus auf Straftäter und Gefährder entspricht seiner differenzierten Haltung.",
+      "begruendung_selbst": "Ich verurteile niemanden pauschal. Aber wer Straftaten begeht, muss die Härte des Rechtsstaats spüren - egal woher er kommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wehrhafter Staat braucht Verfassungsschutz!",
+      "thema": "demokratie",
+      "programmpunkt": "Stärkung der Sicherheitsbehörden und des Verfassungsschutzes gegen zunehmende extremistische Bestrebungen.",
+      "seite": 7,
+      "zitat": "der Verfassungsschutz weiter gestärkt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist verfassungsorientiert und sorgt sich um Kräfte, die den Rechtsstaat schwächen; ein gestärkter Verfassungsschutz entspricht seiner wehrhaften Haltung.",
+      "begruendung_selbst": "Wer den Rechtsstaat angreift, macht meinen Job gefährlicher. Ein starker Verfassungsschutz ist da kein Luxus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Die Justizkette muss liefern!",
+      "thema": "sicherheit",
+      "programmpunkt": "Beschleunigte Verfahren und unmittelbare Ahndung von Straftaten durch Zielzeiten und digitale Infrastruktur.",
+      "seite": 58,
+      "zitat": "Durch beschleunigte Verfahren soll eine unmittelbare Ahndung von Straftaten erfolgen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist frustriert, wenn seine Arbeit hinten in der Kette versandet; schnellere Verfahren geben seiner Streifenarbeit erst Wirkung.",
+      "begruendung_selbst": "Ich nehme jemanden fest, und dann passiert ewig nichts. Wenn die Justiz endlich Tempo macht, war meine Arbeit nicht umsonst.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Marco sieht praktisch alle seine beruflichen Anliegen bedient: mehr Personal, bessere Ausstattung, Schutz der Einsatzkräfte, ausdrücklicher Rückhalt, konsequente Strafverfolgung, ein gestärkter Verfassungsschutz und schnellere Verfahren. Punkte, die seiner Institution oder Lage zuwiderlaufen, findet er nicht.",
+    "score": 2
+  }
+}

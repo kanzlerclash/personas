@@ -1,0 +1,90 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Beförderungsstau wird endlich abgebaut!",
+      "thema": "arbeit",
+      "programmpunkt": "Die SPD will das Beförderungsbudget deutlich verbessern, um den Stau bei jüngeren Polizistinnen und Polizisten abzubauen und verlässliche Perspektiven zu schaffen.",
+      "seite": 29,
+      "zitat": "Deshalb wird das Beförderungsbudget deutlich verbessert, um den Stau abzubauen und verlässliche Perspektiven zu schaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist 36 Jahre alt und damit Teil der Gruppe, die der Beförderungsstau besonders hart trifft. Diese direkte Zusage spricht seine berufliche Situation unmittelbar an.",
+      "begruendung_selbst": "Ich warte seit Jahren auf eine Beförderung, die laut Papier längst fällig wäre. Wenn die das Budget endlich aufstocken, ist das mehr als Symbolpolitik.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Besoldung wird auskömmlich!",
+      "thema": "arbeit",
+      "programmpunkt": "Die seit Jahren fehlerhafte amtsangemessene Alimentierung der Polizeibeschäftigten wird umfassend verbessert.",
+      "seite": 29,
+      "zitat": "Die Ausfinanzierung der Dienstposten in der Landespolizei und die seit Jahren fehlerhafte amtsangemessene Alimentierung der Polizeibeschäftigten wird umfassend verbessert.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco empfindet seine Besoldung als nicht angemessen für die Belastung im Schichtdienst. Die Ankündigung, die strukturelle Unterfinanzierung der Dienstposten zu beheben, trifft einen zentralen Kritikpunkt.",
+      "begruendung_selbst": "Fehlerhafte Alimentierung — das ist Amtsdeutsch dafür, dass wir zu wenig kriegen. Wenn das endlich behoben wird, ist das längst überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Polizei bekommt Rückendeckung!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die SPD verspricht der Polizei politische Rückendeckung, technisch gute Ausstattung und verlässliche Dienstpläne.",
+      "seite": 28,
+      "zitat": "Dafür braucht sie politische Rückendeckung und gute Arbeitsbedingungen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet darunter, dass er die Unterstützung aus der Politik vermisst. Das explizite Bekenntnis zu politischer Rückendeckung und guten Arbeitsbedingungen gibt ihm zumindest ein Signal der Anerkennung.",
+      "begruendung_selbst": "Wenn ein Programm das ernsthaft sagt und nicht nur als Sonntagsrede — das merke ich. Rückendeckung bedeutet für mich nicht nur Lob, sondern Personal und Ausstattung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsextremismus konsequent verfolgen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Eine Schwerpunktstaatsanwaltschaft Rechtsextremismus soll die strafrechtliche Verfolgung stärken; der Verfassungsschutz wird ausgebaut.",
+      "seite": 35,
+      "zitat": "Eine Schwerpunktstaatsanwaltschaft Rechtsextremismus stärkt die konsequente strafrechtliche Verfolgung.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco will einen funktionierenden Rechtsstaat, der Extremismus konsequent verfolgt. Eine spezialisierte Staatsanwaltschaft stärkt die Kette zwischen seinem Einsatz und der Strafverfolgung.",
+      "begruendung_selbst": "Wir nehmen die fest — und dann kommt nichts. Eine Schwerpunktstaatsanwaltschaft, die gezielt Rechtsextremismus verfolgt: das ist genau das, was ich mir am Ende der Kette wünsche.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Polizeibeauftragter: Kontrolle oder Unterstützung?",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Unabhängigkeit des Polizeibeauftragten soll gestärkt werden.",
+      "seite": 29,
+      "zitat": "Die Unabhängigkeit des Polizeibeauftragen soll gestärkt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco steht dem unabhängigen Polizeibeauftragten ambivalent gegenüber. Einerseits versteht er, dass Kontrolle Legitimität schafft. Andererseits befürchtet er, dass Stärkung des Beauftragten seinen Kolleg:innen das Gefühl gibt, dauerhaft unter Generalverdacht zu stehen.",
+      "begruendung_selbst": "Kontrolle ist gut, ich bin kein Heiliger. Aber wenn der Beauftragte zur ersten Anlaufstelle für jede Beschwerde wird, ist das nicht Vertrauen — das ist Misstrauen als Institution.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco findet im SPD-Programm für Sachsen-Anhalt ungewöhnlich konkrete Zusagen für seine Berufsgruppe: Beförderungsbudget, Alimentierungsverbesserung und politische Rückendeckung sprechen seine zentralen Alltagsprobleme direkt an. Auch die konsequente Strafverfolgung von Rechtsextremismus stärkt die Kette, in der seine Arbeit sinnvoll endet. Leichte Skepsis bleibt beim unabhängigen Polizeibeauftragten, den er als potenziell misstrauensschürend erlebt.",
+    "score": 2
+  }
+}

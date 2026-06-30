@@ -1,0 +1,102 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kohleausstieg 2038 – Plan steht!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU hält am Kohleausstieg bis 2038 als verbindlichem politischen Konsens fest und will betroffenen Regionen und Unternehmen Verlässlichkeit und Fördermittel sichern.",
+      "seite": 45,
+      "zitat": "vereinbarte Kohleausstieg bis 2038 ist ein politisch und rechtlich verabredeter Konsens",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny braucht einen planbaren Zeithorizont für seinen Standort. Das Festhalten am 2038-Datum – ohne vorzeitige Verkürzung – gibt ihm und seinem Arbeitgeber die nötige Planungssicherheit für Umrüstungsinvestitionen.",
+      "begruendung_selbst": "Gebt mir einen Plan, nicht nur ein Enddatum, das sich alle zwei Jahre verschiebt. 2038 ist klar – das kann ich für meinen Standort kalkulieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CCS/CCU endlich ermöglicht!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU setzt auf neue Technologien wie CCS/CCU, Batterien und Wärmespeicher und begrüßt das Kohlendioxid-Speicherungsgesetz des Bundes.",
+      "seite": 46,
+      "zitat": "Forschung und Nutzung von CCS/CCU, Batterien, Wärmespeichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht CCS als Brückentechnologie für seine Region. Das ausdrückliche Bekenntnis zu CCS/CCU und das Begrüßen des CO2-Speicherungsgesetzes sind für ihn konkrete Signale einer technologieoffenen Politik.",
+      "begruendung_selbst": "Erst die Brücke bauen, dann die alte abreißen. CCS ist meine Brücke – und endlich sagt mal jemand klar, dass die gebaut werden soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff-Zukunft für die Region!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU will ein zukunftsfähiges Erdgas- und Wasserstoffkraftwerk bauen und die Industrie- und Chemieparks zügig ans nationale Wasserstoffnetz anschließen.",
+      "seite": 46,
+      "zitat": "Grüner Wasserstoff ist für die Industrie von morgen unverzichtbar",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronnys berufliche Zukunft hängt daran, ob seine Region eine neue Energierolle erhält. Wasserstoffinfrastruktur und Kraftwerksneubau sind konkrete Anker für neue Wertschöpfung an seinem Standort.",
+      "begruendung_selbst": "Wenn hier Wasserstoff-Infrastruktur entsteht, bleibe ich nicht Strukturwandelverlierer – sondern werde Teil der Lösung. Das ist, was ich gebraucht habe zu hören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Regionale Stromzone – günstiger Strom!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU will eine Initiative starten, um die bundeseinheitliche Strompreiszone zu teilen und Regionen mit viel Windstrom günstigeren Strom für Industrie und Haushalte zu sichern.",
+      "seite": 44,
+      "zitat": "bundeseinheitliche Strompreiszone zu teilen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronnys Region produziert viel Windstrom, zahlt aber denselben Preis wie Bayern. Regionale Stromzonen würden die lokale Wirtschaft direkt entlasten und neue Ansiedlungen attraktiver machen.",
+      "begruendung_selbst": "Wir produzieren den Strom, aber bezahlen denselben Preis wie Leute, die ihn nur verbrauchen. Das ist nicht fair – und endlich sagt das mal jemand.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strukturwandel aktiv begleiten!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU will den Strukturwandel im Mitteldeutschen Braunkohlerevier und in der Chemieindustrie aktiv begleiten, mit Fördermitteln und politischem Engagement auf allen Ebenen.",
+      "seite": 15,
+      "zitat": "Strukturwandel im Mitteldeutschen Braunkohlerevier... aktiv begleiten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny braucht Gewissheit, dass seine Region nicht allein gelassen wird. Das Versprechen aktiver Begleitung mit EU- und Bundesfördermitteln signalisiert ihm, dass der Wandel koordiniert und nicht dem Zufall überlassen wird.",
+      "begruendung_selbst": "Wandel gelingt nur mit einem Plan, der die Menschen vor Ort mitnimmt. Dass das hier explizit steht, ist nicht selbstverständlich.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Windkraft-Flächen begrenzt – bremst Erneuerbare!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU lehnt starre Flächenbeitragswerte für den Windkraftausbau über 2027 hinaus ab und steht dem Errichten von Windenergieanlagen im Wald kritisch gegenüber.",
+      "seite": 45,
+      "zitat": "Starre Flächenbeitragswerte für den Windkraftausbau über das Jahr 2027 hinaus lehnen wir ab",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny weiß, dass eine schnelle Erneuerbare-Energiewende mehr Windkapazität benötigt. Die Ablehnung verbindlicher Ausbaupfade nach 2027 gefährdet die Investitionssicherheit für neue Erneuerbaren-Kapazitäten, die seine Region braucht.",
+      "begruendung_selbst": "Ich will Windkraft, Wasserstoff, Netze – alles zusammen. Wenn man schon bei den Flächen bremst, bevor das Neue steht, fehlt uns die Energiegrundlage für den Neuanfang.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet im CDU-Programm starke Antworten auf seine Kernfragen: CCS-Offenheit, Wasserstoffinvestitionen, Festhalten am Kohleausstieg 2038, regionale Stromzonen und aktive Strukturwandelbegleitung. Das Programm denkt Energiepolitik pragmatisch und technologieoffen, was seinen Grundüberzeugungen entspricht. Der einzige kritische Punkt ist die Begrenzung des Windkraftausbaus, die den Erneuerbaren-Rahmen verengt, den Ronny für die neue Energiebasis seiner Region benötigt.",
+    "score": 1
+  }
+}

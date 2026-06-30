@@ -1,0 +1,113 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Die Chemie soll bleiben!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die chemische Industrie in Sachsen-Anhalt halten und beim Übergang zu Zukunftstechnologien verlässlich unterstützen.",
+      "seite": 15,
+      "zitat": "chemische Industrie in Sachsen - Anhalt halten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes Wohlstand hängt am Fortbestand der Branche; das Bekenntnis, die Chemie im Land zu halten, trifft seine existenzielle Sorge um den Standort.",
+      "begruendung_selbst": "Meine Region lebt von der Chemie. Wenn die hier gehalten wird, geht es um nichts weniger als unsere Jobs.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriestrompreis - endlich!",
+      "thema": "energie",
+      "programmpunkt": "Befürwortung eines Industriestrompreises zur Sicherung der Wettbewerbsfähigkeit und der Arbeitsplätze.",
+      "seite": 45,
+      "zitat": "benötigen wir u.a. einen Industriestrompreis und begrüßen dessen Einführung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiekosten bedrohen Uwes Branche; ein Industriestrompreis adressiert direkt die von ihm gefürchtete Standortgefahr.",
+      "begruendung_selbst": "Ohne bezahlbaren Strom wandert die Industrie ab. Ein Industriestrompreis ist genau das, was meine Kollegen brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausstieg mit Verlässlichkeit.",
+      "thema": "klima",
+      "programmpunkt": "Festhalten am Kohlekompromiss bis 2038 und Verlässlichkeit für betroffene Regionen und Unternehmen.",
+      "seite": 45,
+      "zitat": "Wir schulden den betroffenen Regionen und auch Unternehmen Verlässlichkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe fürchtet ein Tempo, das Jobs zerstört; das Versprechen von Verlässlichkeit statt vorgezogener Daten entspricht seinem Wunsch nach abgesichertem Wandel.",
+      "begruendung_selbst": "Ich bin nicht gegen den Wandel - aber er muss verlässlich sein. Kein Hauruck, der uns die Existenz nimmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mit Gewerkschaften am Tisch.",
+      "thema": "arbeit",
+      "programmpunkt": "Wirtschaftspolitik im engen Dialog mit Unternehmen, Kammern, Verbänden und Gewerkschaften.",
+      "seite": 17,
+      "zitat": "im engen und kontinuierlichen Dialog mit Unternehmen, Kammern, Verbänden und Gewerkschaften",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mitbestimmung ist Uwe wichtig; dass Gewerkschaften ausdrücklich als Gesprächspartner genannt werden, erkennt seine Rolle an.",
+      "begruendung_selbst": "Wenn über meine Branche entschieden wird, will ich, dass die Gewerkschaft mit am Tisch sitzt. Genau das steht hier drin.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Finger weg vom Mindestlohn!",
+      "thema": "arbeit",
+      "programmpunkt": "Forderung, Mindestlöhne nicht für Wahlversprechen zu instrumentalisieren, und Reformdruck in den Sozialsystemen.",
+      "seite": 18,
+      "zitat": "nicht für Wahlversprechen instrumentalisieren lassen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Gewerkschafter verteidigt Uwe gute Löhne; die Relativierung des Mindestlohns liest er als Angriff auf Arbeitnehmerinteressen.",
+      "begruendung_selbst": "Der Mindestlohn ist für viele Kollegen die Untergrenze zum Überleben. Den kleinzureden, geht für mich gar nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Löhne ohne Umverteilung? Naiv.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Sichere Einkommen sollen durch eine starke Wirtschaft entstehen, nicht durch staatliche Vorgaben und Umverteilung.",
+      "seite": 12,
+      "zitat": "nicht durch staatliche Vorgaben und Umverteilung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe glaubt an Tarifbindung und solidarische Sicherung; die Absage an Umverteilung widerspricht seinem gewerkschaftlichen Selbstverständnis.",
+      "begruendung_selbst": "Gute Löhne kommen vom Tarifvertrag und vom Kampf, nicht vom Wohlwollen des Marktes. Diese Logik teile ich nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Druck auf Erwerbslose - dagegen.",
+      "thema": "arbeit",
+      "programmpunkt": "Verpflichtende Bürgerarbeit: Arbeitsmarktprogramme sollen für arbeitsfähige Leistungsbezieher nicht mehr freiwillig sein.",
+      "seite": 31,
+      "zitat": "nicht länger vom Prinzip der Freiwilligkeit abhängig sein",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe steht Sozialabbau kritisch gegenüber; verpflichtende Bürgerarbeit empfindet er als Druck auf Schwächere statt als soziale Sicherung.",
+      "begruendung_selbst": "Wer den Sozialstaat schwächt, hat mich als Gegner. Erwerbslose unter Druck zu setzen, löst kein einziges Problem.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwes Kernanliegen Standorterhalt, bezahlbare Industrieenergie, verlässlicher Wandel und Sozialpartnerschaft werden vom Programm überwiegend bedient. Quergespannt bleibt er bei der Sozial- und Lohnphilosophie: die Relativierung des Mindestlohns, die Absage an Umverteilung und verpflichtende Bürgerarbeit widersprechen seinem gewerkschaftlichen Standpunkt. Per Saldo leicht positiv.",
+    "score": 1
+  }
+}

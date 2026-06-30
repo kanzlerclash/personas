@@ -1,0 +1,90 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Chemiedreieck vor Sonderauflagen schützen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Für Schlüsselindustrien wie das Chemiedreieck soll ein europäisches Mindestmaß bei Regulierung gelten; neue Pflichten nur nach dem one-in-two-out-Prinzip; Berichtspflichten sollen auf europäisches Minimum reduziert werden.",
+      "seite": 8,
+      "zitat": "Gerade für Schlüsselindustrien wie das Chemiedreieck gilt: Neue Pflichten dürfen nur noch nach klaren Leitplanken entstehen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe arbeitet im Chemiedreieck. Das explizite Bekenntnis zum Schutz dieser Schlüsselindustrie vor Überregulierung sichert aus seiner Sicht den Standort und damit seinen Arbeitsplatz.",
+      "begruendung_selbst": "Wenn mein Werk mit immer neuen deutschen Sonderauflagen leben muss, verliert es gegenüber dem Ausland. Das Chemiedreieck schützen heißt: meine Stelle schützen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Niedrige Energiepreise für die Industrie!",
+      "thema": "energie",
+      "programmpunkt": "Netzentgelte sollen fairer verteilt und für Sachsen-Anhalt gesenkt werden; Technologieoffenheit und Versorgungssicherheit sollen Wettbewerbsfähigkeit sichern; Fracking und Kernenergie als Optionen.",
+      "seite": 14,
+      "zitat": "Netzentgelte müssen daher zwischen den Regionen fairer verteilt und für die Menschen in Sachsen-Anhalt spürbar gesenkt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiepreise sind für Uwes Branche die existenzielle Bedrohung. Das Versprechen niedrigerer Netzentgelte und günstigerer Industriestromkosten trifft seinen Kernpunkt.",
+      "begruendung_selbst": "Mein Betrieb zieht weg, wenn Energie zu teuer wird. Wenn die Netzentgelte sinken, bleibt er hier — und ich habe einen Job.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Tariftreuegesetz abschaffen — das schwächt uns!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Tariftreue- und Vergabegesetz soll schnellstmöglich abgeschafft werden.",
+      "seite": 7,
+      "zitat": "das Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist Gewerkschafter und kämpft für tarifgebundene Löhne. Die Abschaffung des Tariftreuegesetzes öffnet Lohndumping bei öffentlichen Aufträgen Tür und Tor — ein direkter Angriff auf sein gewerkschaftliches Kernanliegen.",
+      "begruendung_selbst": "Ich habe jahrelang für Tarife gekämpft. Wenn beim öffentlichen Auftrag kein Tarif mehr gilt, können meine Kollegen nicht mehr mithalten. Das akzeptiere ich nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld-Sanktionen schwächen Solidarität.",
+      "thema": "arbeit",
+      "programmpunkt": "Bürgergeld soll reformiert werden; Sanktionsspielräume sollen konsequent ausgeschöpft werden; gemeinnützige Arbeitspflichten für Langzeitarbeitslose.",
+      "seite": 40,
+      "zitat": "Wer staatliche Hilfe in Anspruch nimmt, muss entsprechend auch seinen Mitwirkungspflichten nachkommen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist solidarisch geprägt. Arbeitslosigkeit durch Strukturwandel kann morgen ihn oder seine Kollegen treffen — er will ein stabiles Sicherungsnetz, keine verschärfte Sanktionslogik.",
+      "begruendung_selbst": "Wenn das Werk schließt, bin ich morgen Bürgergeldempfänger. Wer dann mit Sanktionen droht, statt zu unterstützen, hat nicht verstanden, was Strukturwandel bedeutet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_elbst": "Privatisierungsoffensive — das bedeutet schlechtere Arbeit.",
+      "titel_selbst": "Privatisierung — schlechtere Arbeit für uns!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Land soll alle Beteiligungen kritisch evaluieren und eine umfassende Privatisierungsoffensive starten; für die FDP ist Privatisierung keine schlechte Sache, sondern eine Ausweitung wirtschaftlicher Freiheit.",
+      "seite": 9,
+      "zitat": "Für uns ist Privatisierung kein Unwort, sondern eine hinreichende Ausweitung wirtschaftlicher Freiheit.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe erlebt Privatisierung als Bedrohung von Tarifbindung, Mitbestimmung und sicheren Arbeitsplätzen. Privatisierte Betriebe haben aus seiner Gewerkschaftssicht häufig schlechtere Arbeitsbedingungen.",
+      "begruendung_selbst": "Privatisierung heißt für mich: weniger Betriebsrat, schlechtere Tarife, mehr Druck. Das will ich nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet bei der FDP Sachsen-Anhalt Positives beim Schutz des Chemiedreiecks vor Überregulierung und beim Versprechen niedrigerer Energiekosten für die Industrie — das deckt sich mit seiner Jobsicherheitssorge. Die Abschaffung des Tariftreuegesetzes, die Privatisierungsoffensive und die Bürgergeld-Sanktionslogik widersprechen seinem gewerkschaftlichen Grundverständnis. Insgesamt überwiegen die Reibungspunkte aus gewerkschaftlicher Sicht.",
+    "score": -1
+  }
+}

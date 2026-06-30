@@ -1,0 +1,101 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau!",
+      "thema": "wirtschaft",
+      "programmpunkt": "BSW will ein landesweites Unternehmensportal für Anträge, Genehmigungen und Behördenkommunikation schaffen und Genehmigungsverfahren beschleunigen.",
+      "seite": 21,
+      "zitat": "landesweites Unternehmensportal mit einem einheitlichen Zugang für alle relevanten Verwaltungsleistungen medienbruchfrei aufbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt Abende mit Papierkram statt mit Aufträgen. Ein zentrales, digitales Portal, das Anträge bündelt und Rückfragen reduziert, würde ihr unmittelbar Arbeitszeit sparen und Planungssicherheit geben.",
+      "begruendung_selbst": "Ich hätte gern mehr Azubis und weniger Aktenordner. Wenn ich endlich alles an einem Ort erledigen kann statt dreimal zur Behörde zu fahren, bleibt mir mehr Zeit für das Handwerk.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meisterqualifikation endlich gewürdigt!",
+      "thema": "arbeit",
+      "programmpunkt": "BSW setzt sich für gezielte Meisterausbildungsförderung ein und will handwerkliche Berufe aufwerten sowie Unternehmensnachfolge sichern.",
+      "seite": 23,
+      "zitat": "Das BSW unterstützt eine gezielte Meisterausbildungsförderung, um handwerkliche Berufe aufzuwerten, Unternehmensnachfolge zu sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine hat als Meisterin ihren Betrieb aufgebaut und sorgt sich um die Nachfolge. Eine gezielte Förderung der Meisterqualifikation adressiert direkt ihr Berufsfeld und ihre Sorge um die Übergabe in etwa zehn Jahren.",
+      "begruendung_selbst": "Sag mir eine Regel, an die ich mich halten kann – und die Meisterpflicht ist eine, die Qualität sichert. Wenn das Land das endlich ernstnimmt statt alles zu akademisieren, stehe ich dahinter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verbrenner-Aus? Nicht mit uns!",
+      "thema": "energie",
+      "programmpunkt": "BSW lehnt ein pauschales Verbrennerverbot ab und setzt auf technologieoffene Mobilitätspolitik einschließlich synthetischer Kraftstoffe.",
+      "seite": 32,
+      "zitat": "Ein pauschales Verbrennerverbot lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines Betrieb hat einen Fuhrpark mit Servicefahrzeugen. Planungssicherheit für ihre Fahrzeugflotte hängt direkt an den Antriebsregeln; ein Verbrennerverbot würde ihr Ersatzinvestitionen aufzwingen, die den Betrieb belasten würden.",
+      "begruendung_selbst": "Meine Monteure fahren zu den Baustellen – die können nicht auf E-Ladesuche gehen, wenn die Leute keine Heizung haben. Verlässliche Regeln statt Verbote, das ist es, was ich brauche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiekosten runter jetzt!",
+      "thema": "energie",
+      "programmpunkt": "BSW will durch technologieoffenen Energiemix, Abschaffung von Subventionen und Energieumlagen sowie bezahlbare Energieversorgung die Energiepreise für Betriebe senken.",
+      "seite": 20,
+      "zitat": "Energiekosten durch breiten, technologieoffenen Energiemix senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energie ist ein fixer Kostenposten in Sabines Betrieb – für Werkstatt, Fahrzeuge und Kundenprojekte (Heizungstausch). Sinkende Energiepreise verbessern direkt ihre Marge und die Planbarkeit ihrer Aufträge.",
+      "begruendung_selbst": "Was ich für Strom und Energie zahle, frisst meine Kalkulation. Wenn das endlich günstiger wird, kann ich günstiger anbieten und trotzdem leben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte endlich anwerben!",
+      "thema": "arbeit",
+      "programmpunkt": "BSW will die Anerkennung ausländischer Berufsabschlüsse beschleunigen und gezielte, staatlich koordinierte Fachkräfteanwerbung fördern.",
+      "seite": 23,
+      "zitat": "Die Anerkennung ausländischer Berufsabschlüsse muss schneller und einfacher erfolgen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine findet keine Gesellen und Azubis mehr. Schnellere Anerkennung ausländischer Abschlüsse würde ihr ermöglichen, qualifiziertes Personal auch aus dem Ausland einzustellen – ein pragmatischer Ansatz, den sie als Betriebsinhaberin schätzt.",
+      "begruendung_selbst": "Ich hätte gern mehr Azubis und weniger Aktenordner. Wenn ein gut ausgebildeter Klempner aus dem Ausland endlich schnell eine Arbeitserlaubnis bekommt, kann ich meinen Betrieb weiterführen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mindestlohn 15 € trifft mich!",
+      "thema": "arbeit",
+      "programmpunkt": "BSW fordert einen gesetzlichen Mindestlohn von 15 Euro pro Stunde ohne Ausnahmen.",
+      "seite": 35,
+      "zitat": "einen gesetzlichen Mindestlohn von 15,00 Euro pro Stunde",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Inhaberin mit 8 Beschäftigten sind steigende Lohnkosten ein direkter Betriebskostentreiber. Obwohl Sabine faire Bezahlung grundsätzlich befürwortet, erhöht ein Sprung auf 15 Euro ihren Personalaufwand und macht Kalkulationen für Aufträge schwieriger.",
+      "begruendung_selbst": "Ich zahle meinen Leuten gern ordentlich – aber wenn der Mindestlohn auf 15 Euro springt, ohne dass gleichzeitig die Auftragspreise steigen, kommt der Druck bei mir an. Der Staat nimmt mir mit einer Hand und gibt mit der anderen nichts.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet im BSW-Programm viel Passendes: Bürokratieabbau durch das Unternehmensportal, Aufwertung der Meisterqualifikation, Ablehnung des Verbrennerverbots, sinkende Energiepreise und schnellere Anerkennung ausländischer Abschlüsse treffen ihre täglichen Sorgen. Der geplante Mindestlohn von 15 Euro ist ein echter Kostentreiber, der ihren Spielraum einengt. Per Saldo überwiegen die Punkte, die ihr als Handwerksbetrieb direkt nützen.",
+    "score": 1
+  }
+}

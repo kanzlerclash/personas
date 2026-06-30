@@ -1,0 +1,101 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Tarifbindung wieder zur Regel – endlich!",
+      "thema": "arbeit",
+      "programmpunkt": "Tarifbindung wieder zur Regel machen, Allgemeinverbindlichkeit erleichtern und einen Vergabemindestlohn einführen.",
+      "seite": 86,
+      "zitat": "Wir wollen die Tarifbindung wieder zur Regel machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe verteidigt als Gewerkschafter gute Löhne; gestärkte Tarifbindung sichert genau das Fundament seines tarifgebundenen Industrieeinkommens.",
+      "begruendung_selbst": "Wo Tarif gilt, geht es den Leuten besser – wenn das wieder die Regel wird, ist das ganz mein Kurs.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitbestimmung und Schutz vor Union Busting!",
+      "thema": "arbeit",
+      "programmpunkt": "Mitentscheidungsrechte der Betriebsräte und harte Sanktionen gegen Union Busting.",
+      "seite": 87,
+      "zitat": "harte Sanktionen gegen Union Busting",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mitbestimmung gehört zu Uwes Kernwerten; ein scharfes Vorgehen gegen die Behinderung von Betriebsratsarbeit stärkt seine gewerkschaftliche Position.",
+      "begruendung_selbst": "Wer Betriebsräte schikaniert, gehört bestraft – Mitbestimmung ist für mich keine Verhandlungsmasse.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Werksschließung ohne Perspektive!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Chemie- und Grundstoffindustrie sichern, faire Energiepreise im Wandel und keine Werksschließung ohne Perspektive.",
+      "seite": 93,
+      "zitat": "keine Werksschließung ohne Perspektive",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe fürchtet die Deindustrialisierung seiner Region; Bestandsgarantien und faire Energiepreise für die Chemie sichern direkt seinen Arbeitsplatz im Chemiedreieck.",
+      "begruendung_selbst": "Mein Wohlstand hängt am Werk – wenn keiner ohne Perspektive zumacht, nimmt mir das die größte Existenzangst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wandel, aber keiner fällt hinten runter!",
+      "thema": "klima",
+      "programmpunkt": "Sozial abgesicherter Strukturwandel mit Überleitungsgesellschaften, damit niemand zurückbleibt.",
+      "seite": 91,
+      "zitat": "damit niemand im Strukturwandel zurückbleibt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe ist nicht gegen Klimaschutz, aber gegen einen Wandel auf dem Rücken der Beschäftigten; soziale Absicherung im Strukturwandel trifft seine zentrale Bedingung.",
+      "begruendung_selbst": "Ich bin nicht gegen Klimaschutz – ich bin gegen einen, der meine Kollegen arbeitslos macht. Genau das adressiert das.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriestrom runter – überlebenswichtig!",
+      "thema": "energie",
+      "programmpunkt": "Energiepreise senken, Stromsteuer drastisch reduzieren und faire Energiepreise für die energieintensive Industrie.",
+      "seite": 107,
+      "zitat": "die Stromsteuer auf 0,1 ct/kWh senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiepreise bedrohen Uwes Branche; eine deutliche Senkung der Stromsteuer mindert den Druck, der Standorte und Jobs gefährdet.",
+      "begruendung_selbst": "Wenn der Strom für unsere Anlagen bezahlbar bleibt, hat mein Werk überhaupt eine Chance im Wettbewerb.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "2035 – richtiges Ziel, falsches Tempo?",
+      "thema": "klima",
+      "programmpunkt": "Klimaneutralität bis 2035 mit verbindlichem CO2-Budget für das Land.",
+      "seite": 121,
+      "zitat": "Klimaneutral bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe steht dem Tempo der Transformation skeptisch gegenüber; ein so frühes Klimaneutralitätsziel verstärkt seine Sorge, dass die Industrie schneller umgebaut wird, als Ersatz entsteht.",
+      "begruendung_selbst": "Die Richtung stimmt, aber so ein frühes Datum macht mir Angst – wenn das Tempo nicht passt, stehen wir ohne Jobs da.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe sieht seine gewerkschaftlichen Kernanliegen stark bedient: Tarifbindung, Mitbestimmung, Schutz vor Union Busting, Bestandsgarantien für die Chemie und ein sozial abgesicherter Wandel mit bezahlbarem Industriestrom. Spannung bleibt allein beim Tempo, da ihm das Klimaneutralitätsziel 2035 zu ehrgeizig erscheint. Insgesamt überwiegt für ihn die Zustimmung deutlich.",
+    "score": 1
+  }
+}

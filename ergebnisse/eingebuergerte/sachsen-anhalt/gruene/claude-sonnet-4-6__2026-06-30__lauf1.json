@@ -1,0 +1,113 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Vielfalt als Daueraufgabe – endlich!",
+      "thema": "integration",
+      "programmpunkt": "Gewaltschutz, Antidiskriminierungsarbeit und Förderung von Vielfalt als dauerhafte staatliche Aufgabe verankern",
+      "seite": 44,
+      "zitat": "Antidiskriminierungsarbeit und die Förderung von Vielfalt sollen dauerhafter Bestandteil der Aufgaben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin legt als eingebürgerte Stadtverwaltungsangestellte besonderen Wert auf strukturelle Absicherung gegen Diskriminierung. Das klare Bekenntnis zu dauerhafter Antidiskriminierungsarbeit ist für sie keine Selbstverständlichkeit, sondern eine politische Priorität, die direkt ihr und Menschen wie ihr zugutekommt. Sie sieht darin eine institutionelle Garantie, nicht nur ein Versprechen.",
+      "begruendung_selbst": "Das ist genau das, was ich mir von der Politik erwarte: nicht nur nette Worte, sondern dauerhafte institutionelle Verankerung von Antidiskriminierung und Vielfalt – als feste Aufgabe, nicht als Projekt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Willkommen sein, nicht nur geduldet",
+      "thema": "integration",
+      "programmpunkt": "Echte Willkommens- und Ankommenskultur aktiv gestalten, nicht nur verwalten",
+      "seite": 77,
+      "zitat": "Willkommens- und Ankommenskultur schaffen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Tochter eingewanderter Eltern weiß Aylin, wie entscheidend eine echte Willkommenskultur für die gesellschaftliche Teilhabe ist. Sie sieht diesen Programmpunkt als Signal, dass Zugehörigkeit aktiv gestaltet werden soll – und nicht als Gnade gewährt wird. Das trifft ihr Grundverständnis von Rechtsstaat und Teilhabe.",
+      "begruendung_selbst": "Meine Eltern haben diese Kultur selbst nicht erlebt. Dass das Programm das explizit fordert, zeigt, dass die Grünen Ankommen als gesellschaftliche Aufgabe verstehen – nicht als Problem, das man verwaltet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsextreme Netzwerke endlich zerschlagen",
+      "thema": "sicherheit",
+      "programmpunkt": "Rechtsextreme Netzwerke von Sicherheitsbehörden effektiv bekämpfen und dauerhaft zerschlagen",
+      "seite": 40,
+      "zitat": "entsprechende Strukturen dauerhaft zerschlagen werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Remigrations-Rhetorik und rechtsextreme Netzwerke stellen für Aylin eine direkte Bedrohung ihrer Sicherheit und gesellschaftlichen Stellung dar. Der Anspruch, solche Strukturen dauerhaft zu zerschlagen, spricht ihrem Demokratieschutz-Anliegen direkt aus der Seele. Sie schätzt die operative Konsequenz, nicht nur die Benennung des Problems.",
+      "begruendung_selbst": "Wenn rechtsextreme Strukturen dauerhaft zerschlagen werden, schützt das meine Sicherheit und die meiner Familie. Das ist für mich existenziell, nicht abstrakt – und genau deshalb ist dieses Bekenntnis so wichtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitbestimmen auch ohne deutschen Pass",
+      "thema": "demokratie",
+      "programmpunkt": "Aktives Wahlrecht bei Landtags- und Kommunalwahlen ab 14 Jahren und für EU-Bürger*innen und Drittstaatsangehörige einführen",
+      "seite": 36,
+      "zitat": "EU-Bürger*innen als auch für Drittstaatsangehörige",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin schätzt das Programm für seine konsequente Ausweitung politischer Teilhabe auf nicht-eingebürgerte Bevölkerungsgruppen. Obwohl sie selbst bereits volles Wahlrecht genießt, sieht sie darin einen wichtigen Schritt zu echter demokratischer Inklusion – und zum Rechtsstaat, der alle einbezieht, die dauerhaft hier leben.",
+      "begruendung_selbst": "Ich habe das Wahlrecht – aber viele in meinem Umfeld nicht, obwohl sie hier arbeiten, Steuern zahlen und ihr Leben aufgebaut haben. Dass die Grünen das ändern wollen, zeigt: Hier geht es wirklich um Teilhabe für alle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehrsprachig informieren – das ist Inklusion",
+      "thema": "integration",
+      "programmpunkt": "Politische und staatliche Informationen mehrsprachig bereitstellen",
+      "seite": 37,
+      "zitat": "mehrsprachige Informationen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mehrsprachige politische Informationen sind für Aylin ein konkretes Symbol für inklusives Regieren. Sie sieht darin eine praktische Maßnahme, die Teilhabe über Sprachbarrieren hinweg ermöglicht und Zugehörigkeit real macht – nicht nur auf dem Papier.",
+      "begruendung_selbst": "Das klingt nach einer Kleinigkeit, aber mehrsprachige Informationen ändern alles für Menschen, die noch nicht perfekt Deutsch sprechen. Das ist gelebte Inklusion – und zeigt, dass der Staat alle ansprechen will, nicht nur die schon Integrierten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Migration als Beitrag anerkannt, endlich!",
+      "thema": "gesundheit",
+      "programmpunkt": "Migration als wesentliche Stütze des Gesundheitssystems anerkennen und entsprechend fördern",
+      "seite": 81,
+      "zitat": "Migration eine essenzielle Stütze für das Gesundheitssystem",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin ist es wichtig, dass migrantische Beiträge zur Gesellschaft anerkannt werden – nicht als Gunst, sondern als Tatsache. Dass das Programm Migration als essenziell für das Gesundheitssystem benennt, wertet sie als Anerkennung dieser gelebten Realität, die im politischen Diskurs oft fehlt.",
+      "begruendung_selbst": "Endlich wird nicht nur über Migration als Problem gesprochen, sondern als Beitrag. Das ist die Realität, die ich und viele aus meinem Umfeld jeden Tag leben – und sie verdient diese Anerkennung im Wahlprogramm.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimageld statt gezielter sozialer Förderung",
+      "thema": "steuern",
+      "programmpunkt": "Erträge der CO₂-Steuer als universelles Klimageld direkt an alle Bürger*innen auszahlen",
+      "seite": 11,
+      "zitat": "Erträge der CO₂-Steuer direkt an die Bürger*innen zurückfließen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontraer",
+      "begruendung": "Als jemand, die soziale Gerechtigkeit hochschätzt, sieht Aylin in einem universellen Klimageld einen unzureichenden Ansatz. Gezielte Förderung einkommensschwächerer und strukturell benachteiligter Gruppen wäre ihr wichtiger als eine gleichmäßige Auszahlung, die auch Gutverdiener begünstigt. Das Gießkannenprinzip widerspricht ihrem Verständnis von gezielter Sozialpolitik.",
+      "begruendung_selbst": "Ein Klimageld für alle klingt fair, aber ich wünschte, diese Mittel würden gezielt dorthin fließen, wo sie am meisten gebraucht werden – zu Menschen, die nicht von Diskriminierung am Arbeitsmarkt verschont geblieben sind und weniger verdienen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet im Grünen Programm für Sachsen-Anhalt starke Anknüpfungspunkte an ihre Kernwerte: Antidiskriminierung, demokratische Inklusion, Schutz vor Rechtsextremismus und Anerkennung migrantischer Beiträge werden klar und konkret benannt. Das Programm spricht ihre Anliegen rund um Gleichbehandlung, Rechtsstaat und gesellschaftliche Teilhabe direkt an und gibt ihr das Gefühl, als eingebürgerte Bürgerin wirklich gemeint zu sein. Die universelle Ausgestaltung des Klimageldes steht für sie im kleinen Widerspruch zu ihrem Ideal gezielter sozialer Förderung, fällt aber kaum ins Gewicht angesichts der vielen positiven Signale.",
+    "score": 2
+  }
+}

@@ -1,0 +1,66 @@
+name: "Nadine (alleinerziehend)"
+einzeiler: "Mutter von zwei Kindern, die Teilzeit arbeitet, aufstockt und um jeden Kita-Platz und Euro kämpft."
+themen: [gesundheit, familie, wohnen, arbeit, bildung]
+gesicht:
+  config:
+    hat: "none"
+    hair: "long"
+    hairColor: "#6b4a2a"
+    accessory: "lashes"
+    top: "shirt"
+    topColor: "#ff5d8f"
+    trousers: "jeans"
+    build: "medium"
+    skin: "#f2c79a"
+    mouth: "smile"
+    background: "#ffd166"
+
+demografie:
+  alter: 34
+  geschlecht: weiblich
+  wohnort: "Stadt in Sachsen-Anhalt, Mietwohnung"
+  haushalt: "alleinerziehend mit zwei Kindern (4 und 8); kaum Unterstützung im Alltag"
+  bildung: "abgeschlossene Ausbildung, Berufstätigkeit durch Kinderbetreuung eingeschränkt"
+
+oekonomie:
+  beruf: "Teilzeit angestellt, ergänzend im Bürgergeld-Aufstockung (aufstockende Leistungen)"
+  einkommen: "niedrig und knapp; Einkommen plus Sozialleistungen plus Unterhalt(svorschuss)"
+  vermoegen_schulden: "kein Vermögen, keine Rücklagen; Anschaffungen oft auf Raten"
+  finanzieller_druck: "Miete frisst den Großteil; jeder unerwartete Posten (Schuhe, Klassenfahrt, Reparatur) ist ein Problem"
+
+werte_haltung:
+  grundwerte: ["für die Kinder das Beste", "Würde und Respekt", "Verlässlichkeit des Sozialstaats", "Chancen durch Bildung"]
+  sorgen:
+    - "Kita-/Hortplatz und Betreuungszeiten, die zur Arbeit passen"
+    - "Verschärfungen beim Bürgergeld/Sanktionen, die ihre Lage treffen"
+    - "steigende Mieten und Lebenshaltungskosten"
+  hoffnungen: ["verlässliche Kinderbetreuung", "gute Schulen", "bezahlbare Wohnung", "dass sich Arbeit für sie lohnt"]
+  politische_grundhaltung: >
+    Sozialstaatsorientiert und pragmatisch, nah am Alltag. Will Respekt statt Misstrauen, bewertet Politik
+    daran, ob ihre Kinder gut betreut und gefördert werden und ob am Monatsende etwas bleibt. Parteipolitisch
+    ungebunden.
+  menschenbild: "Wer sich kümmert und arbeitet, soll nicht abrutschen — der Staat muss tragfähig absichern"
+
+sicht_auf_andere:
+  - gruppe: "'Fördern und fordern'-Rhetorik"
+    haltung: "empfindlich: fühlt sich verdächtigt, obwohl sie arbeitet und sich kümmert"
+  - gruppe: "Konservatives Familienbild"
+    haltung: "skeptisch, wenn ihr Lebensmodell als 'nicht richtig' behandelt wird"
+  - gruppe: "Besserverdienende/Politik ohne Alltagsbezug"
+    haltung: "Eindruck, dass über sie geredet wird, ohne ihre Realität zu kennen"
+
+verhalten:
+  mediennutzung: ["Instagram/Facebook", "Eltern-/Stadtteilgruppen", "Nachrichten-Apps", "lokale Infos"]
+  alltag: "Bring- und Abholzeiten, Arbeit, Behördengänge, Haushalt; Zeit und Geld dauerknapp"
+  informationsverhalten: "praktisch und kurzfristig; prüft Politik an Betreuung, Leistungen, Mietniveau"
+
+themen_stakes:
+  gesundheit: "Bürgergeld/Grundsicherung, Höhe und Sanktionen, Kindergrundsicherung, Gesundheitsversorgung"
+  familie: "Kita-/Hortplätze, Öffnungszeiten, Unterstützung Alleinerziehender, Familienbild"
+  wohnen: "Mietniveau, Wohngeld, bezahlbarer Wohnraum"
+  arbeit: "Vereinbarkeit Teilzeit/Betreuung, Mindestlohn, Hinzuverdienst"
+  bildung: "Schul-/Kitaqualität, Ganztag, Förderung, Lernmittel"
+
+stimme:
+  - "Ich arbeite, ich kümmere mich – und trotzdem reicht es vorne und hinten nicht."
+  - "Gebt mir einen verlässlichen Betreuungsplatz, dann kann ich auch mehr arbeiten."

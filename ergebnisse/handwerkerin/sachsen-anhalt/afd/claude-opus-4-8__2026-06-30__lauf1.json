@@ -1,0 +1,137 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich der Mittelstand statt der Großen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Statt Milliardensubventionen für ausländische Großkonzerne soll kleinen und mittelständischen Betrieben Vorrang gegeben werden.",
+      "seite": 12,
+      "zitat": "Förderung des Mittelstands statt Subventionierung globalistischer Großkonzerne!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine fühlt sich gegenüber großen Konzernen mit Lobby benachteiligt; die explizite Mittelstandspriorität spricht ihr Interesse als Familienbetrieb an.",
+      "begruendung_selbst": "Die Großen kriegen Milliarden, und ich kämpfe um jeden Auftrag. Dass mal einer den Mittelstand zuerst nennt, tut gut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zwei Regeln weg für jede neue!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Überflüssige bürokratische Regelungen sollen gestrichen werden; für jede neue Regel sollen mindestens zwei alte entfallen.",
+      "seite": 12,
+      "zitat": "überflüssige Regelungen streichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bürokratie kostet Sabine reale Arbeitszeit und ist ihr größtes Ärgernis; ein konsequenter Abbau trifft ihren Kernwunsch.",
+      "begruendung_selbst": "Ich hätte gern mehr Azubis und weniger Aktenordner. Genau das verspricht das hier.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meisterbrief umsonst - super!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Meisterausbildung soll kostenfrei werden, ergänzt um eine Meisterprämie als Anreiz für junge Handwerker.",
+      "seite": 12,
+      "zitat": "dass die Meisterausbildung zukünftig kostenfrei erfolgt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Meisterin und Ausbilderin profitiert Sabine direkt von Anreizen, die junge Leute zum Meisterabschluss und ins Handwerk bringen.",
+      "begruendung_selbst": "Wenn der Meister nichts kostet und obendrauf eine Prämie kommt, überlegt sich mancher Geselle den Weg vielleicht doch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerksjahr gegen den Akademisierungswahn!",
+      "thema": "arbeit",
+      "programmpunkt": "Ein Freiwilliges Handwerksjahr soll Schulabsolventen mehrere Handwerksberufe näherbringen und gegen die einseitige Bevorzugung des Studiums wirken.",
+      "seite": 12,
+      "zitat": "ein Freiwilliges Handwerksjahr einführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine findet keine Azubis mehr; Maßnahmen, die junge Menschen ans Handwerk heranführen, adressieren ihren Fachkräftemangel direkt.",
+      "begruendung_selbst": "Jeder, der mal in der Werkstatt stand, merkt erst, was im Handwerk steckt. Aus so einem Praktikanten wird vielleicht mein Azubi.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versprochen: keine neuen Steuern!",
+      "thema": "steuern",
+      "programmpunkt": "Es wird garantiert, dass es keine neuen Abgaben oder Steuererhöhungen im Land gibt, und auf Bundesebene für Senkungen geworben.",
+      "seite": 19,
+      "zitat": "keine neuen Abgaben oder Steuererhöhungen im Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Planbarkeit bei Steuern und Abgaben ist für Sabines Liquiditätsplanung zentral; eine Steuergarantie entlastet sie als Unternehmerin.",
+      "begruendung_selbst": "Sag mir eine Regel, an die ich mich halten kann. Wenigstens bei den Steuern hätte ich dann Ruhe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom runter - auch für meinen Betrieb!",
+      "thema": "energie",
+      "programmpunkt": "Die Stromsteuer soll nicht nur für die Industrie, sondern für alle Unternehmen abgesenkt werden.",
+      "seite": 13,
+      "zitat": "nicht nur für Industriebetriebe sowie Land- und Forstwirtschaft, sondern für alle Unternehmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energiekosten belasten Sabines Werkstatt und Fuhrpark; eine breite Stromsteuersenkung entlastet auch kleine Handwerksbetriebe.",
+      "begruendung_selbst": "Energie ist auch bei mir ein dicker Posten. Wenn die Entlastung nicht nur den Großen gilt, bin ich dabei.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit dem Heizungs-Hin-und-Her!",
+      "thema": "energie",
+      "programmpunkt": "Das Wärmeplanungs- und Gebäudeenergiegesetz soll abgeschafft und ein technologieoffener Wärmesektor geschaffen werden.",
+      "seite": 13,
+      "zitat": "einen technologieoffenen Wärmesektor",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das ständig wechselnde Heizungsrecht verunsichert Sabines Kundschaft und lässt Aufträge platzen; mehr Verlässlichkeit würde ihr Auftragsbuch stabilisieren.",
+      "begruendung_selbst": "Meine Kunden trauen sich nicht mehr zu entscheiden, weil die Regeln dauernd kippen. Klarheit wäre das halbe Geschäft.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Woher kommen dann meine Gesellen?",
+      "thema": "arbeit",
+      "programmpunkt": "Auf die Anwerbung ausländischer Fachkräfte soll verzichtet werden; sie wird als Quelle von Folgeproblemen dargestellt.",
+      "seite": 5,
+      "zitat": "auf kulturfremde Fachkräfte verzichten!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine zählt Zuwanderung von Fachkräften ausdrücklich zu ihren arbeitsmarktpolitischen Anliegen; ein genereller Verzicht verschärft ihren Personalmangel statt ihn zu lösen.",
+      "begruendung_selbst": "Ich finde doch jetzt schon keine Leute. Wenn auch noch die aus dem Ausland wegfallen, wer steht dann morgens auf meiner Baustelle?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weg mit der Wärmepumpen-Förderung? Riskant",
+      "thema": "energie",
+      "programmpunkt": "Fördermittel und -programme für Wärmepumpen sollen gestrichen werden; sie sollen sich ohne Subventionen am Markt behaupten.",
+      "seite": 13,
+      "zitat": "auf die Streichung jeglicher Fördermittel und -programme für Wärmepumpen hinwirken",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ein Teil von Sabines Aufträgen hängt am geförderten Heizungstausch; ein abrupter Wegfall der Förderung könnte ihr Geschäft mit Wärmepumpen einbrechen lassen.",
+      "begruendung_selbst": "Ein Teil meiner Aufträge ist genau dieser Heizungstausch. Fällt die Förderung weg, bricht mir das Geschäft womöglich weg.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine sieht ihre wirtschaftsliberalen Kernanliegen stark bedient: Bürokratieabbau, Mittelstandsvorrang, kostenlose Meisterausbildung, Handwerksnachwuchs, Steuergarantie und niedrigere Energiekosten. Gegen ihre Interessen läuft der pauschale Verzicht auf ausländische Fachkräfte, der ihren Personalmangel verschärft, sowie die abrupte Streichung der Wärmepumpen-Förderung. Insgesamt überwiegen für sie die Entlastungsversprechen.",
+    "score": 1
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Kontrollen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Vor-Ort-Kontrollen der Betriebe sollen von 5 auf 1 Prozent gesenkt, auf Gebührenbescheide verzichtet werden.",
+      "seite": 17,
+      "zitat": "Die Dichte der Vor-Ort-Kontrollen soll von 5% auf 1% der Betriebe gesenkt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank erlebt Kontrollen und Dokumentation als ständige Belastung; eine Senkung der Kontrolldichte entlastet seinen Betrieb unmittelbar.",
+      "begruendung_selbst": "Genau das meine ich: weniger Beamte auf dem Hof, mehr Zeit fürs Feld. Endlich mal jemand, der das versteht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ämter als Partner, nicht Gegner",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Behörden sollen Landwirte beraten und Fehler vermeiden helfen statt vor allem zu kontrollieren.",
+      "seite": 17,
+      "zitat": "Ämter sollen aus liberaler Sicht viel mehr Partner der Landwirte sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich von Behörden unter Verdacht gestellt; das Partner-Verständnis entspricht seinem Wunsch nach Anerkennung statt Bevormundung.",
+      "begruendung_selbst": "Wenn das Amt mir hilft statt mir auf die Finger zu schauen, arbeite ich gern mit. So muss das laufen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Wolf gehört gemanagt",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Wolfsbestände sollen über Populationsuntergrenzen gemanagt, Risse konsequent entschädigt werden.",
+      "seite": 22,
+      "zitat": "Wolfsangriffe und die daraus entstehenden Schäden sind konsequent zu entschädigen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Wolf bedroht Franks Weidehaltung konkret; Bestandsmanagement und Entschädigung adressieren seinen direkten Konflikt.",
+      "begruendung_selbst": "Meine Mutterkühe stehen auf der Weide, nicht im Tresor. Wer den Wolf schützt, muss auch meine Tiere schützen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit der Doppelsteuer",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die doppelte Grunderwerbsteuer beim Bodenkauf über die Landgesellschaft soll abgeschafft werden.",
+      "seite": 16,
+      "zitat": "Landwirte beim Grunderwerb doppelt zu besteuern, finden wir nicht fair.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Boden ist Franks wichtigstes Produktionsmittel; der Abbau der Doppelbesteuerung senkt seine Hürde beim Flächenerwerb.",
+      "begruendung_selbst": "Zweimal Steuer für ein Stück Acker - das hat mir noch nie eingeleuchtet. Gut, dass das endlich weg soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein deutscher Sonderweg mehr",
+      "thema": "landwirtschaft",
+      "programmpunkt": "EU-Vorgaben sollen bei der Umsetzung nicht verschärft, Auflagen aufs europäische Mindestmaß zurückgeführt werden.",
+      "seite": 18,
+      "zitat": "Landwirte brauchen Planungssicherheit.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank macht ständig wechselnde, übererfüllte Vorgaben für seine Planungsunsicherheit verantwortlich; das Mindestmaß-Prinzip trifft seinen Kernfrust.",
+      "begruendung_selbst": "Wenn der Acker im Wettbewerb steht, kann ich keine extra deutschen Auflagen schultern, die der Pole nebenan nicht hat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz ohne Verbotskeule",
+      "thema": "klima",
+      "programmpunkt": "Klimapolitik soll technologieoffen und marktwirtschaftlich über den Emissionshandel laufen, nicht über Verbote.",
+      "seite": 23,
+      "zitat": "Klimapolitik darf nicht in Bevormundung, Verboten und teuren Symbolmaßnahmen abgleiten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank ist nicht klimaleugnend, lehnt aber Klimaschutz auf seinem Rücken ab; der marktwirtschaftliche Ansatz entspricht seiner Haltung.",
+      "begruendung_selbst": "Ich bin nicht gegen Klimaschutz. Aber nicht mit Verboten von oben, die an meiner Wirklichkeit vorbeigehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tiertransport-Gängelei abschaffen",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Der landeseigene Tiertransporterlass von 2019 soll abgeschafft werden, EU-Recht reiche aus.",
+      "seite": 19,
+      "zitat": "Den Tiertransporterlass aus dem Jahre 2019 wollen wir abschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Überregulierung bei Transporten erschwert Franks Tierhaltung; die Rücknahme auf EU-Standard entlastet ihn praktisch.",
+      "begruendung_selbst": "Was europaweit erlaubt ist, muss bei uns auch gehen. Diese Extra-Hürden helfen keinem Tier.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Programm trifft Franks Lage als Landwirt fast punktgenau: weniger Kontrollen und Bürokratie, Ämter als Partner, Wolfsmanagement, Ende der Doppelbesteuerung und ein marktwirtschaftlicher statt verbotsbasierter Klimakurs. Er fühlt sich anerkannt statt bevormundet und findet kaum etwas, das gegen seine Interessen läuft.",
+    "score": 2
+  }
+}

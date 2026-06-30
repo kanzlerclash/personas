@@ -1,0 +1,113 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Klares Ja zum Asylrecht!",
+      "thema": "integration",
+      "programmpunkt": "Uneingeschränktes Bekenntnis zum Asylrecht und zur Aufnahme von Schutzberechtigten, bei klarer Unterscheidung von Asyl, Arbeitsmigration und Integration.",
+      "seite": 62,
+      "zitat": "Das BSW steht uneingeschränkt zum Asylrecht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin schätzt eine sachliche, rechtsstaatliche Migrationspolitik; das klare Bekenntnis zum Asylrecht und die saubere Trennung der Politikfelder entsprechen ihrem Anspruch.",
+      "begruendung_selbst": "Steuert Migration meinetwegen klar und sachlich – aber das Asylrecht muss stehen. Genau das lese ich hier.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wer mitmacht, gehört dazu!",
+      "thema": "integration",
+      "programmpunkt": "Wer arbeitet, Steuern zahlt und den Lebensunterhalt selbst bestreitet, gehört selbstverständlich zur Mitte der Gesellschaft.",
+      "seite": 63,
+      "zitat": "gehört selbstverständlich zur Mitte der Gesellschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylins Selbstverständnis ist, dass Zugehörigkeit sich an Teilhabe und Recht bemisst, nicht an Abstammung; diese Aussage bestätigt ihr Menschenbild unmittelbar.",
+      "begruendung_selbst": "Genau so sehe ich das: Wer hier arbeitet und seinen Beitrag leistet, gehört dazu – Punkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Integration ohne Selbstaufgabe!",
+      "thema": "integration",
+      "programmpunkt": "Integration bedeutet keine Aufgabe der eigenen kulturellen Identität und Religion, sondern Einbindung bei Anerkennung der Verfassungsordnung.",
+      "seite": 64,
+      "zitat": "Integration bedeutet nicht Aufgabe der eigenen kulturellen Identität und Religion",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin lehnt den Druck ab, ihre Zugehörigkeit ständig beweisen zu müssen; dass Integration nicht Selbstaufgabe bedeute, würdigt ihre Doppelidentität.",
+      "begruendung_selbst": "Ich muss mich nicht zwischen Herkunft und Zugehörigkeit entscheiden – schön, dass das hier anerkannt wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schutz von Minderheiten ist Staatsaufgabe!",
+      "thema": "demokratie",
+      "programmpunkt": "Prävention und Schutz vor Gewalttaten gegen Minderheiten werden als staatliche Aufgaben mit hoher Priorität benannt.",
+      "seite": 39,
+      "zitat": "Schutz vor Gewalttaten gegen Minderheiten sind staatliche Aufgaben",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Diskriminierungsschutz ist für Aylin zentral; das klare Bekenntnis, Minderheiten vor Gewalt zu schützen, stärkt ihr Vertrauen in einen schützenden Rechtsstaat.",
+      "begruendung_selbst": "Dass der Staat Minderheiten aktiv schützen will, ist genau das, was ich von einer verlässlichen Demokratie erwarte.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kinder nach Herkunft sortieren? Nein!",
+      "thema": "integration",
+      "programmpunkt": "Eine gezielte prozentuale Verteilung von 'Ausländerkindern' in Kitas mit einer Obergrenze von 30 Prozent.",
+      "seite": 64,
+      "zitat": "eine gezielte prozentuale Verteilung der Ausländerkinder",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin reagiert empfindlich, wenn über Menschen mit Migrationsgeschichte wie über ein Problem gesprochen wird; das Sortieren von Kindern nach Herkunft per Quote trifft genau diese Sorge.",
+      "begruendung_selbst": "Kinder nach Herkunft zählen und verteilen – das ist genau das Reden über Menschen wie über ein Problem, das mich verletzt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnen nach Herkunftsquote?",
+      "thema": "integration",
+      "programmpunkt": "Verpflichtung der Städte, Migranten gleichmäßig über alle Stadtviertel zu verteilen, mit einer Belegungsobergrenze.",
+      "seite": 65,
+      "zitat": "Migranten in allen Stadtvierteln gleichmäßig unterzubringen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Eine staatlich gesteuerte Verteilung von Menschen nach Herkunft empfindet Aylin als bevormundend und stigmatisierend gegenüber Migrantinnen und Migranten.",
+      "begruendung_selbst": "Menschen werden hier wie eine Masse behandelt, die man gleichmäßig verteilen muss – das fühlt sich falsch an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wo sachlich aufhört, wird es hart.",
+      "thema": "integration",
+      "programmpunkt": "Ungeregelte und illegale Migration soll umgehend gestoppt und konsequent abgeschoben werden.",
+      "seite": 62,
+      "zitat": "Diese ist umgehend zu stoppen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin ist wachsam, dass sachliche Steuerung in pauschale Härte kippt; der scharfe Ton beim Stoppen von Migration nährt diese Befürchtung.",
+      "begruendung_selbst": "Steuerung ja – aber dieser harte Ton lässt mich fürchten, dass aus 'sachlich' schnell pauschale Härte wird.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet im Programm Punkte, die ihr Menschenbild bestätigen: Bekenntnis zum Asylrecht, Zugehörigkeit durch Teilhabe, Respekt vor kultureller Identität und Schutz von Minderheiten. Zugleich stößt sie sich stark an Herkunftsquoten für Kinder und an der gesteuerten Verteilung von Migranten, die für sie genau das stigmatisierende Reden über Menschen darstellen, das sie fürchtet. Da ihr primärer Maßstab die Würde im Umgang mit Migrationsgeschichte ist, überwiegt für sie das Unbehagen leicht.",
+    "score": -1
+  }
+}

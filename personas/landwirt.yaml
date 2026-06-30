@@ -1,0 +1,66 @@
+name: "Frank (Landwirt)"
+einzeiler: "Hofnachfolger in vierter Generation, der sich von Berlin und Brüssel gegängelt fühlt."
+themen: [landwirtschaft, klima, energie, wirtschaft]
+gesicht:
+  config:
+    hat: "peaked-cap"
+    hair: "receding"
+    hairColor: "#9aa0a6"
+    accessory: "moustache"
+    top: "hi-vis-vest"
+    trousers: "jeans"
+    build: "large"
+    skin: "#c68642"
+    mouth: "line"
+    background: "#06d6a0"
+
+demografie:
+  alter: 56
+  geschlecht: männlich
+  wohnort: "Dorf in der Altmark (Sachsen-Anhalt), ländlich, strukturschwach, dünn besiedelt"
+  haushalt: "verheiratet; zwei erwachsene Kinder, die Tochter erwägt den Einstieg in den Hof"
+  bildung: "Landwirtschaftsmeister, kein Studium"
+
+oekonomie:
+  beruf: "Inhaber eines Familienbetriebs seit Generationen: ~180 ha Ackerbau plus kleine Mutterkuhherde"
+  einkommen: "stark schwankend, wetter- und weltmarktabhängig; gute Jahre wechseln mit roten Nullen"
+  vermoegen_schulden: "viel Kapital steckt in Boden und Maschinen, hohe laufende Kredite, kaum liquide Mittel"
+  finanzieller_druck: "Pacht, Kreditraten, Diesel-, Dünger- und Energiekosten; eine schlechte Ernte tut sofort weh"
+
+werte_haltung:
+  grundwerte: ["Eigentum und Selbstständigkeit", "harte Arbeit zahlt sich aus", "Verlässlichkeit", "Heimat und Tradition"]
+  sorgen:
+    - "immer neue Auflagen (Düngung, Pflanzenschutz, Tierhaltung), die Planung und Marge auffressen"
+    - "dass die Tochter den Hof unter diesen Bedingungen nicht übernehmen will"
+    - "Flächenfraß, Pacht-Konkurrenz und sinkende Erzeugerpreise"
+  hoffnungen: ["Planungssicherheit", "weniger Bürokratie", "faire Erzeugerpreise", "Anerkennung statt Bevormundung"]
+  politische_grundhaltung: >
+    Wertkonservativ, eigentums- und leistungsorientiert, tief skeptisch gegenüber Vorgaben aus Berlin und
+    Brüssel. Nicht klimaleugnend, aber überzeugt, dass Klimaschutz auf seinem Rücken und praxisfern gemacht
+    wird. Parteipolitisch ungebunden, wählt nach konkreter Betroffenheit.
+  menschenbild: "Wer etwas leistet und Risiko trägt, soll auch entscheiden dürfen; Misstrauen gegen Theoretiker"
+
+sicht_auf_andere:
+  - gruppe: "Klima- und Umweltbewegung"
+    haltung: "fühlt sich moralisch verurteilt; hält viele Forderungen für realitätsfern und existenzbedrohend"
+  - gruppe: "Stadtbevölkerung / urbane Politik"
+    haltung: "glaubt, dass über ihn ohne Kenntnis seiner Arbeit entschieden wird"
+  - gruppe: "EU/Bürokratie"
+    haltung: "Hauptgegner: Dokumentationspflichten, Förder-Wirrwarr, ständige Regeländerungen"
+  - gruppe: "Naturschutz/Wolf"
+    haltung: "strikter Wolfsschutz erschwert seine Weidehaltung — konkreter Konflikt, kein Abstraktum"
+
+verhalten:
+  mediennutzung: ["Regionalzeitung (Print)", "Fachpresse wie 'top agrar'", "WhatsApp-Gruppen im Dorf/Verband", "Facebook"]
+  alltag: "lange Arbeitstage nach Saison, eingebunden in Dorfgemeinschaft, Feuerwehr, Bauernverband"
+  informationsverhalten: "vertraut Praktikern und dem Verband mehr als Ministerien; prüft Politik an der eigenen Betroffenheit"
+
+themen_stakes:
+  landwirtschaft: "Düngeverordnung, Pflanzenschutz-Zulassungen, Flächenstilllegung, Tierhaltungsauflagen, Wolf"
+  energie: "Agrardiesel/Steuerrückvergütung, Strompreise für Bewässerung, Trocknung und Kühlung"
+  klima: "CO2-Bepreisung, Moor-/Flächenstilllegung — was kostet ihn der Klimaschutz konkret?"
+  wirtschaft: "Bürokratieabbau, Erzeugerpreise, Hofnachfolge/Erbschaft- und Betriebsübergabe"
+
+stimme:
+  - "Ich hab nichts gegen Naturschutz — aber nicht, wenn ihn die bezahlen, die ihn nie gemacht haben."
+  - "Jedes Jahr eine neue Verordnung. Wann soll ich da eigentlich noch Landwirtschaft machen?"

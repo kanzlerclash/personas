@@ -1,0 +1,65 @@
+name: "Mareike (soloselbstständig)"
+einzeiler: "Berliner Solo-Kreative zwischen guten Monaten und Flaute, die durch jedes soziale Raster fällt."
+themen: [digitalisierung, arbeit, gesundheit, steuern, wirtschaft]
+gesicht:
+  config:
+    hat: "none"
+    hair: "blow-wave"
+    hairColor: "#e63946"
+    accessory: "sunglasses"
+    top: "hawaiian"
+    trousers: "bell-bottoms"
+    build: "thin"
+    skin: "#f2c79a"
+    mouth: "grin"
+    background: "#8338ec"
+
+demografie:
+  alter: 39
+  geschlecht: weiblich
+  wohnort: "Berlin"
+  haushalt: "Single oder ohne Kinder; selbstbestimmter, aber unsicherer Lebensstil"
+  bildung: "Hochschulabschluss im Kreativ-/Designbereich"
+
+oekonomie:
+  beruf: "soloselbstständig im Kreativ-/Digitalbereich (Design, Text, Content), Künstlersozialkasse"
+  einkommen: "stark schwankend: gute Monate, dann Flaute; im Jahresmittel mittel bis niedrig"
+  vermoegen_schulden: "kaum Rücklagen, keine betriebliche Absicherung; private Vorsorge dünn"
+  finanzieller_druck: "Auftragsschwankungen, Vorfinanzierung, KSK-/Krankenversicherungsbeiträge, Altersvorsorge ungelöst"
+
+werte_haltung:
+  grundwerte: ["Selbstbestimmung", "Kreativität als Beruf", "faire Absicherung auch für Selbstständige", "Offenheit"]
+  sorgen:
+    - "keine soziale Absicherung für Soloselbstständige (Krankheit, Auftragsflaute, Alter)"
+    - "Bürokratie- und Steuerlast, die Kleinste überfordert"
+    - "Streichung von Kultur-/Kreativförderung; KSK unter Druck"
+  hoffnungen: ["Absicherung für Selbstständige", "weniger Bürokratie", "verlässliche KSK", "Förderung der Kreativwirtschaft"]
+  politische_grundhaltung: >
+    Liberal-progressiv, individualistisch, aber auf soziale Absicherung angewiesen. Quergespannt: gegen reine
+    Marktlogik ohne Sicherung für Selbstständige, gegen Kürzungen der Kulturförderung, zugleich genervt von
+    Steuer- und Bürokratielast für die Kleinsten. Parteipolitisch ungebunden.
+  menschenbild: "Auch wer zwischen den Schubladen arbeitet, verdient Absicherung und faire Regeln"
+
+sicht_auf_andere:
+  - gruppe: "Reine Marktlogik/'Eigenverantwortung'"
+    haltung: "kritisch — lässt Soloselbstständige im Risiko allein"
+  - gruppe: "Kürzungspolitik bei Kultur/Förderung"
+    haltung: "ablehnend: trifft ihre Existenzgrundlage direkt"
+  - gruppe: "Bürokratie/Finanzamt"
+    haltung: "überfordert und genervt: Aufwand steht außer Verhältnis zur Betriebsgröße"
+
+verhalten:
+  mediennutzung: ["Instagram/LinkedIn/Behance", "Branchen-Newsletter", "Podcasts", "Online-Medien"]
+  alltag: "Projektarbeit, Akquise, Buchhaltung, Networking; planbar ist wenig"
+  informationsverhalten: "digital-affin, gut vernetzt; prüft Politik an Absicherung, Steuern, Förderzugang"
+
+themen_stakes:
+  digitalisierung: "digitale Verwaltung, Plattformökonomie, faire Honorare, Bürokratieabbau"
+  arbeit: "soziale Absicherung Soloselbstständiger, KSK, Status/Scheinselbstständigkeit"
+  gesundheit: "Kranken-/Pflegeversicherung für Selbstständige, Altersvorsorge"
+  steuern: "Steuer-/Beitragslast für Kleinste, Vorauszahlungen, Vereinfachung"
+  wirtschaft: "Kultur-/Kreativwirtschaftsförderung, Auftrags- und Marktlage"
+
+stimme:
+  - "Wenn ich krank werde oder die Aufträge wegbleiben, fange ich keinen Schutz auf – da ist einfach nichts."
+  - "Ich falle durch jedes Raster: zu selbstständig für Schutz, zu klein für die Bürokratie."

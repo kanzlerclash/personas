@@ -1,0 +1,113 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Eine echte Brücke für die Region",
+      "thema": "energie",
+      "programmpunkt": "Zur Beschleunigung des Braunkohleausstiegs wird der Aufbau eines H2-ready-Gaskraftwerks in Schkopau befürwortet.",
+      "seite": 25,
+      "zitat": "Aufbau eines H2-ready-Gaskraftwerks in Schkopau",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fordert eine Brücke, bevor das Alte abgeschaltet wird; ein H2-fähiges Gaskraftwerk in seiner Region ist genau ein solcher pragmatischer Übergang.",
+      "begruendung_selbst": "Erst die Brücke bauen, dann die Kohle abschalten – ein H2-ready-Kraftwerk vor Ort ist genau das, was ich meine.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wertschöpfung bleibt hier",
+      "thema": "arbeit",
+      "programmpunkt": "Der Windenergieausbau stärkt über grünen Wasserstoff die chemische Industrie und schafft Arbeitsplätze im Land.",
+      "seite": 23,
+      "zitat": "schafft Arbeitsplätze in Sachsen-Anhalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fürchtet Abwanderung und Perspektivlosigkeit; die Aussicht auf neue Arbeitsplätze rund um Wasserstoff in seiner Region trifft seine Hoffnung.",
+      "begruendung_selbst": "Wenn neue Jobs hier entstehen statt anderswo, dann stirbt meine Region nicht – darauf kommt es an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgungssicherheit ernst genommen",
+      "thema": "energie",
+      "programmpunkt": "Die Energiewende braucht funktionierende, belastbare Netze, die saniert, optimiert und ausgebaut werden sollen.",
+      "seite": 24,
+      "zitat": "Energiewende braucht funktionierende und belastbare Netze.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Energiewirtschaftler bewertet Ronny Politik an der Versorgungssicherheit; das klare Bekenntnis zu belastbaren Netzen entspricht seinem Fachblick.",
+      "begruendung_selbst": "Ohne stabile Netze kippt die ganze Energiewende – schön, dass das hier nicht ausgeblendet wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Reservekraftwerke mit Plan",
+      "thema": "energie",
+      "programmpunkt": "Flexible Reservekraftwerke, die auf Wasserstoff umrüstbar sind, sollen gezielt gefördert werden.",
+      "seite": 27,
+      "zitat": "auf Wasserstoff umrüstbar sind",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny schätzt technologieoffene, planbare Lösungen; umrüstbare Reservekraftwerke sind ein pragmatischer Pfad, der seiner Haltung entspricht.",
+      "begruendung_selbst": "Anlagen, die man später auf Wasserstoff umstellen kann – das ist technologieoffen gedacht, so mag ich das.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sie nehmen uns ein Werkzeug",
+      "thema": "energie",
+      "programmpunkt": "Die Technologie Carbon Capture and Storage (CCS) wird entschieden abgelehnt.",
+      "seite": 26,
+      "zitat": "die Technologie des Carbon Capture and Storage (CCS)",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny lehnt pauschale Technologieablehnung ab; das klare Nein zu CCS nimmt seiner Region aus seiner Sicht eine Brückentechnologie.",
+      "begruendung_selbst": "CCS einfach zu verbieten, heißt meiner Region ein Werkzeug aus der Hand zu schlagen, das wir brauchen könnten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohle-Aus per Federstrich",
+      "thema": "energie",
+      "programmpunkt": "Die Festlegung von Lützen als Braunkohle-Vorranggebiet wird gestrichen; dort soll keine Kohle mehr abgebaut werden.",
+      "seite": 25,
+      "zitat": "Lützen wird nicht für den Kohleabbau genutzt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny verlangt einen Plan vor dem Enddatum; das Streichen von Kohleoptionen verschärft für ihn die Unsicherheit über die Zukunft seiner Region.",
+      "begruendung_selbst": "Optionen streichen, bevor der Ersatz steht – genau das macht mir Angst um die Region.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Enddatum ohne Sicherheit",
+      "thema": "energie",
+      "programmpunkt": "Es wird erwartet, dass der Kohleausstieg bereits früher als 2034 marktgetrieben erfolgt.",
+      "seite": 25,
+      "zitat": "bereits früher marktgetrieben erfolgen wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ein vorgezogener Ausstieg trifft Ronnys Kernsorge, dass Ausstiegsdaten gesetzt werden, bevor tragfähiger Ersatz steht.",
+      "begruendung_selbst": "Gebt mir einen Plan, nicht nur ein früheres Enddatum – sonst fallen wir ins Wasser, bevor das Neue da ist.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny erlebt das Programm zwiespältig: Mit dem H2-ready-Gaskraftwerk, neuen Wasserstoff-Jobs, dem Bekenntnis zu belastbaren Netzen und umrüstbaren Reservekraftwerken bietet es seiner Region konkrete Perspektiven. Zugleich stoßen ihm die Ablehnung von CCS und das Vorziehen des Kohleausstiegs auf, weil er Tempo und Technologieoffenheit vermisst. Unterm Strich hält sich Zustimmung und Skepsis die Waage.",
+    "score": 0
+  }
+}

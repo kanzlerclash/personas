@@ -1,0 +1,100 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kinderarmut zuerst angehen",
+      "thema": "familie",
+      "programmpunkt": "Die Bekämpfung von Kinderarmut soll konsequent priorisiert und mit landeseigenen Ergänzungsprogrammen unterlegt werden.",
+      "seite": 54,
+      "zitat": "Bekämpfung von Kinderarmut konsequent zu priorisieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine zieht zwei Kinder unter knappen Bedingungen groß; eine erklärte Priorität gegen Kinderarmut trifft den Kern ihrer Lage.",
+      "begruendung_selbst": "Meine Kinder sollen nicht hinten runterfallen, nur weil das Geld knapp ist – endlich macht das mal jemand zur Priorität.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kitabeiträge nach Einkommen",
+      "thema": "familie",
+      "programmpunkt": "Das Land soll ein Modell zur sozialen Staffelung von Kitabeiträgen erarbeiten.",
+      "seite": 57,
+      "zitat": "Modell zur sozialen Staffelung von Kitabeiträgen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Betreuungskosten belasten Nadines knappes Budget; eine soziale Staffelung der Kitabeiträge würde sie finanziell direkt entlasten.",
+      "begruendung_selbst": "Wenn der Kitabeitrag sich nach dem richtet, was ich wirklich habe, bleibt am Monatsende vielleicht mal was übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sie denken an Alleinerziehende",
+      "thema": "arbeit",
+      "programmpunkt": "Für Alleinerziehende sollen Kinderbetreuung, Beratung und der Wiedereinstieg in Arbeit deutlich verbessert werden.",
+      "seite": 76,
+      "zitat": "Für Alleinerziehende und Menschen mit Erwerbsunterbrechungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine will mehr arbeiten, scheitert aber an Betreuung; dass Alleinerziehende ausdrücklich genannt und beim Wiedereinstieg gestützt werden, spricht ihre Realität an.",
+      "begruendung_selbst": "Gebt mir verlässliche Betreuung, dann arbeite ich auch mehr – schön, dass man genau das hier endlich mitdenkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Verdacht gegen Arme",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Kriminalisierung von Armut wird abgelehnt; Ersatzfreiheitsstrafen sollen abgeschafft werden.",
+      "seite": 47,
+      "zitat": "Wir lehnen die Kriminalisierung von Armut ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine fühlt sich von 'Fördern und fordern'-Rhetorik verdächtigt; eine Absage an die Kriminalisierung von Armut bestätigt ihren Wunsch nach Respekt.",
+      "begruendung_selbst": "Ich arbeite und kümmere mich – und werde trotzdem behandelt, als wäre ich das Problem. Gut, dass das hier anders klingt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich die Miete deckeln",
+      "thema": "wohnen",
+      "programmpunkt": "Zur Sicherung von bezahlbarem Wohnraum sollen Mietendeckel eingesetzt werden.",
+      "seite": 91,
+      "zitat": "Mietendeckel eingesetzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Miete frisst den Großteil von Nadines Einkommen; ein Mietendeckel adressiert direkt ihren größten Kostenposten.",
+      "begruendung_selbst": "Die Miete frisst alles – wenn die gedeckelt wird, kann ich überhaupt mal durchatmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hilfe für mein Kind in der Schule",
+      "thema": "bildung",
+      "programmpunkt": "An jeder Schule soll mindestens eine feste Schulsozialarbeiterstelle vorgehalten werden.",
+      "seite": 62,
+      "zitat": "mindestens ein*e fest angestellte*r Schulsozialarbeiter*in",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine setzt auf gute Schulen als Chance für ihre Kinder; verlässliche Schulsozialarbeit unterstützt sie dabei ganz praktisch.",
+      "begruendung_selbst": "Wenn an der Schule jemand da ist, der meinen Kindern hilft, nimmt mir das ein echtes Stück Sorge ab.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet ihre Alltagssorgen über weite Strecken aufgegriffen: Priorität für die Bekämpfung von Kinderarmut, einkommensgestaffelte Kitabeiträge, ausdrückliche Unterstützung Alleinerziehender, ein Mietendeckel, mehr Schulsozialarbeit und eine Absage an die Kriminalisierung von Armut. Sie fühlt sich mit Respekt statt Misstrauen angesprochen und sieht ihre Lage konsequent mitgedacht.",
+    "score": 2
+  }
+}

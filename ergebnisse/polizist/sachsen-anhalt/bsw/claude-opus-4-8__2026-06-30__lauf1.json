@@ -1,0 +1,113 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich genug Leute auf der Wache!",
+      "thema": "sicherheit",
+      "programmpunkt": "Aufstockung der Landespolizei auf rund 7.000 Beamte bis 2028, um Einsatzfähigkeit und Präsenz zu sichern.",
+      "seite": 68,
+      "zitat": "braucht Sachsen-Anhalt insgesamt rund 7.000 Polizeibeamte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt Personalmangel und Überlastung täglich; eine konkrete Aufstockungszahl bis 2028 trifft genau seine zentrale Forderung nach mehr Kollegen.",
+      "begruendung_selbst": "Genau das sage ich seit Jahren: Gebt uns die Leute, dann können wir den Job auch machen, ohne auszubrennen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wer Verantwortung trägt, wird auch bezahlt!",
+      "thema": "arbeit",
+      "programmpunkt": "Amtsangemessene Besoldung, Auflösung von Beförderungsstaus und eine Regelbeförderung im Polizeidienst.",
+      "seite": 68,
+      "zitat": "Amtsangemessene Besoldung sicherstellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Schleppende Beförderungen und nicht amtsangemessene Besoldung untergraben Marcos Motivation; eine Regelbeförderung und faire Besoldung adressieren das direkt.",
+      "begruendung_selbst": "Wer Verantwortung übernimmt, soll auch entsprechend entlohnt werden – nicht jahrelang auf eine freie Planstelle warten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ran an die organisierte Kriminalität!",
+      "thema": "sicherheit",
+      "programmpunkt": "Schwerpunkt auf die Bekämpfung organisierter Kriminalität und handlungsfähige, gut ausgestattete Sicherheitsbehörden.",
+      "seite": 67,
+      "zitat": "Schwerpunkt auf Bekämpfung organisierter Kriminalität legen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco will konsequente Strafverfolgung und eine handlungsfähige Polizei; der Fokus auf die Strukturen schwerer Kriminalität entspricht seinem Selbstverständnis.",
+      "begruendung_selbst": "Wer die großen Fische verfolgt, schützt die ehrlichen Bürger am wirksamsten – dafür brauche ich Rückhalt und Ausstattung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Angriffe auf uns dürfen nicht durchgehen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Übergriffe auf Einsatz- und Rettungskräfte sollen konsequent geahndet werden.",
+      "seite": 76,
+      "zitat": "Übergriffe auf Einsatz- und Rettungskräfte müssen konsequent geahndet werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sinkender Respekt und Angriffe auf Einsatzkräfte gehören zu Marcos größten Sorgen; eine konsequente Ahndung signalisiert ihm den vermissten Rückhalt.",
+      "begruendung_selbst": "Wir gehen für andere ins Risiko – wer uns angreift, muss konsequent belangt werden, nicht mit Samthandschuhen behandelt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bei Straftaten konsequent abschieben!",
+      "thema": "integration",
+      "programmpunkt": "Konsequente Abschiebung bei fehlendem Asylanspruch, Asylmissbrauch oder Straffälligkeit.",
+      "seite": 62,
+      "zitat": "die konsequente Abschiebung, wenn kein Anspruch auf Asyl besteht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco lehnt Pauschalurteile ab, will aber konsequente Strafverfolgung; die Linie, Straffällige ohne Bleiberecht abzuschieben, deckt sich mit seiner differenzierten Sicht.",
+      "begruendung_selbst": "Mir ist egal, woher einer kommt – wer hier kein Bleiberecht hat und straffällig wird, muss auch gehen, das gehört zum Rechtsstaat.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Schwächt mir nicht die Sicherheitsbehörden!",
+      "thema": "demokratie",
+      "programmpunkt": "Sofortige Abschaffung der Verfassungsschutz-Kategorie 'Delegitimierung des Staates' und Prüfung, Aufgaben auf den polizeilichen Staatsschutz zu verlagern.",
+      "seite": 12,
+      "zitat": "die sofortige Abschaffung der Extremismuskategorie",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als verfassungsorientierter Beamter sieht Marco im Beschneiden der Verfassungsschutz-Instrumente eine Schwächung der Institutionen, die er schützen soll.",
+      "begruendung_selbst": "Wer den Sicherheitsbehörden die Werkzeuge nimmt, macht meinen Job am Ende gefährlicher – egal aus welcher Richtung das kommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erst Ausstattung versprechen, dann Werkzeuge wegnehmen?",
+      "thema": "sicherheit",
+      "programmpunkt": "Ablehnung von Palantir-Software und vergleichbaren Systemen zur automatisierten Datenverknüpfung.",
+      "seite": 67,
+      "zitat": "Den Einsatz von Palantir-Software und vergleichbaren Systemen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco fordert moderne, handlungsfähige Ausstattung; ein pauschales Aus für moderne Datenanalyse erlebt er als Einschränkung seiner Ermittlungsmöglichkeiten.",
+      "begruendung_selbst": "Auf der einen Seite mehr Ausstattung, auf der anderen verbietet ihr uns moderne Analysewerkzeuge – das passt für mich nicht zusammen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco findet seine Kernforderungen nach mehr Personal, amtsangemessener Besoldung, hartem Vorgehen gegen organisierte Kriminalität und Schutz vor Übergriffen klar bedient. Zugleich beunruhigt ihn die Schwächung des Verfassungsschutzes und das Verbot moderner Analysesoftware, weil er darin eine Beschneidung seiner Institution und Werkzeuge sieht. Beim Thema Personal und Respekt überwiegt die Zustimmung, beim Thema Befugnisse bleibt er skeptisch.",
+    "score": 1
+  }
+}

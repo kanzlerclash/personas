@@ -1,0 +1,77 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mindesthonorare – endlich faire Bezahlung!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Verbindliche Mindesthonorare für Künstler:innen, gerade bei öffentlich geförderten Projekten.",
+      "seite": 70,
+      "zitat": "verbindliche Mindesthonorare für Künstler:innen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike kämpft mit schwankenden Honoraren und dünner Absicherung; verbindliche Mindesthonorare entsprechen ihrem Wunsch nach fairen Regeln für kreative Arbeit.",
+      "begruendung_selbst": "Endlich jemand, der sagt: Kreativarbeit hat einen Mindestpreis – genau daran scheitert es bei uns ständig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Basishonorare für Selbstständige – das bin ich!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Verlässliche Finanzierung der freien Kulturszene mit Tarifbindung und Basishonoraren für Selbstständige.",
+      "seite": 71,
+      "zitat": "Basishonorare für Selbstständige",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Solo-Kreative fällt Mareike durch jedes Raster; Basishonorare und verlässliche Kulturförderung adressieren ihre Existenzgrundlage direkt.",
+      "begruendung_selbst": "Ich falle durch jedes Raster – Basishonorare für Selbstständige wären endlich mal ein Boden, auf den ich mich stellen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Bürokratie in der Verwaltung – ja bitte!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungsprozesse entschlacken und eine spürbare Entlastung in den Abläufen der Verwaltung schaffen.",
+      "seite": 143,
+      "zitat": "spürbare Entlastung in den Abläufen der Verwaltung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bürokratie- und Steuerlast überfordern Mareike als Kleinste; ein erklärter Wille zu schlankeren, verlässlichen Verfahren trifft ihren Frust mit dem Aufwand.",
+      "begruendung_selbst": "Der Aufwand steht in keinem Verhältnis zu meiner Betriebsgröße – jede echte Entlastung im Behördenkram hilft mir sofort.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Neue Steuer auf Selbstständige – ausgerechnet wir!",
+      "thema": "steuern",
+      "programmpunkt": "Gewerbesteuer zur Gemeindewirtschaftssteuer ausweiten und Solo-Selbstständige mit einem Freibetrag von 24.500 Euro einbeziehen.",
+      "seite": 18,
+      "zitat": "mit einem einheitlichen Freibetrag von 24.500 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike empfindet die Beitrags- und Steuerlast für die Kleinsten als überfordernd; die Einbeziehung von Solo-Selbstständigen in eine erweiterte Gewerbesteuer wirkt trotz Freibetrag wie eine neue Belastung.",
+      "begruendung_selbst": "Erst recht in den Flaute-Monaten fürchte ich jede zusätzliche Abgabe – mich noch in eine Gewerbesteuer zu ziehen, macht es nicht leichter.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet bei der Linken starke Signale für ihre Branche: verbindliche Mindesthonorare, Basishonorare für Selbstständige und der Wille zu weniger Bürokratie. Eine echte Absicherung für Soloselbstständige bei Krankheit, Auftragsflaute und im Alter bleibt aber weitgehend ungeklärt, und die geplante Gemeindewirtschaftssteuer beunruhigt sie. Da das Programm Sachsen-Anhalt betrifft, wirkt es für ihre Berliner Lage vor allem als wohlwollende, aber lückenhafte Bestätigung.",
+    "score": 1
+  }
+}

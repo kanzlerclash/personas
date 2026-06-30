@@ -1,0 +1,77 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Lebensmittel billiger — das spür ich!",
+      "thema": "steuern",
+      "programmpunkt": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen; außerdem soll Mehrwertsteuer auf Kraftstoff nur noch auf den Nettopreis ohne Energiesteuer und CO2-Abgabe berechnet werden.",
+      "seite": 9,
+      "zitat": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf leidet unter Kaufkraftverlust bei Sprit und Lebensmitteln. Beide Punkte — günstigerer Kraftstoff durch veränderte Steuerbasis und günstigere Lebensmittel — treffen seinen Alltag direkt.",
+      "begruendung_selbst": "Das merke ich am Ende des Monats. Wenn Lebensmittel und Sprit günstiger werden, ist das kein Abstraktum — das ist echter Spielraum.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Straßen ordentlich sanieren!",
+      "thema": "verkehr",
+      "programmpunkt": "Beim Straßenbau hat Erhalt Priorität; Landes- und Kreisstraßen sollen grundhaft saniert statt geflickt werden, niemand soll länger als 30 Minuten bis zur Kreisstadt oder Autobahn brauchen.",
+      "seite": 71,
+      "zitat": "Landes- und Kreisstraßen sollten dabei in erster Linie grundhaft saniert statt nur geflickt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fährt täglich 45 Minuten auf Straßen, die oft mangelhaft unterhalten sind. Die Aussage, Flickwerk zu beenden, trifft seine tägliche Erfahrung.",
+      "begruendung_selbst": "Die Straßen, auf denen ich jeden Tag fahre, sind ein Witz. Grundsanierung statt Flickwerk — das bin ich sofort dabei.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV auch auf dem Land ausbauen!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Landes-Bus-Netz soll ausgebaut werden, inklusive On-Demand-Shuttles und Rufbussen im ländlichen Raum; 30-Minuten-Erreichbarkeit zur nächsten größeren Stadt als Ziel.",
+      "seite": 73,
+      "zitat": "Wir bauen das Landes-Bus-Netz aus und modernisieren Angebote im ländlichen Raum – inklusive On-Demand-Shuttles, Rufbussen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf würde den ÖPNV nutzen, wenn er eine echte Alternative böte. On-Demand-Angebote im ländlichen Raum könnten langfristig seine Pendelsituation verbessern.",
+      "begruendung_selbst": "Wenn mal wirklich ein Rufbus kommt, der zu meinen Schichten passt, denke ich darüber nach. Bisher war das nie realistisch.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimapolitik trifft immer den Kleinen.",
+      "thema": "klima",
+      "programmpunkt": "Die FDP setzt auf Emissionshandel als Leitinstrument und marktwirtschaftliche CO2-Bepreisung — andere Steuern sollen dadurch ersetzt werden, kein Verbotsstaat.",
+      "seite": 23,
+      "zitat": "Emissionshandel ist dabei das Leitinstrument, es muss andere Steuern und Abgaben ersetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf zahlt bereits CO2-Preis an der Zapfsäule. Der Emissionshandel als Leitinstrument bedeutet für ihn weiter steigende Spritkosten, solange keine bezahlbare Alternative verfügbar ist. Das Versprechen, andere Abgaben zu ersetzen, klingt abstrakt.",
+      "begruendung_selbst": "Mir wird immer gesagt, der CO2-Preis soll mich zum Umstieg bewegen. Aber ich kann nicht umsteigen, wenn hier kein Bus fährt und kein E-Auto bezahlbar ist.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet bei der FDP Sachsen-Anhalt einige konkrete Entlastungspunkte: günstigere Lebensmittel und eine reformierte Kraftstoffbesteuerung treffen seinen Kaufkraftdruck, das Straßensanierungsversprechen spricht seine tägliche Pendelrealität an. Der Ausbau ländlicher ÖPNV-Alternativen signalisiert, dass sein ländlicher Standort nicht vergessen wird. Das Festhalten am CO2-Emissionshandel als Leitinstrument belastet ihn jedoch weiter. Insgesamt hält er die FDP für die Arbeiter- und Pendlerlage nicht vollständig überzeugend.",
+    "score": 1
+  }
+}

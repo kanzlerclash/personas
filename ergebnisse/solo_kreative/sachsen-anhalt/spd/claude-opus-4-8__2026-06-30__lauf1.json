@@ -1,0 +1,101 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich an Solo-Selbstständige gedacht",
+      "thema": "arbeit",
+      "programmpunkt": "Wirtschaftspolitik soll bei Solo-Selbstständigen die besonderen Rahmenbedingungen berücksichtigen und soziale Absicherung und Vorsorge stärken.",
+      "seite": 4,
+      "zitat": "stärkt soziale Absicherung und Vorsorge",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareikes größte Lücke ist die fehlende Absicherung als Soloselbstständige; dass das Programm sie ausdrücklich als eigene Gruppe nennt und Absicherung verspricht, trifft ihr Kernanliegen.",
+      "begruendung_selbst": "Dass Solo-Selbstständige überhaupt vorkommen und nicht nur die großen Betriebe, ist schon mehr, als ich sonst lese. Absicherung ist genau mein Thema.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Selbstausbeutung mit Förderung",
+      "thema": "wirtschaft",
+      "programmpunkt": "Honoraruntergrenzen und soziale Mindeststandards sind Voraussetzung öffentlicher Förderung, Selbstausbeutung wird abgelehnt.",
+      "seite": 39,
+      "zitat": "Selbstausbeutung mit öffentlichen Mitteln lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike kennt Aufträge zu Dumpingkonditionen; Honoraruntergrenzen als Förderbedingung schützen genau jene faire Bezahlung, von der ihre Existenz abhängt.",
+      "begruendung_selbst": "Honoraruntergrenzen statt Arbeiten zum Nulltarif - das ist überfällig. In meiner Branche wird Selbstausbeutung viel zu oft als normal verkauft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Zahlungsbedingungen",
+      "thema": "arbeit",
+      "programmpunkt": "Für Kleinbetriebe und Solo-Selbstständige sollen faire Vergabe- und Zahlungsbedingungen gesichert werden.",
+      "seite": 4,
+      "zitat": "sorgt für faire Vergabe - und Zahlungsbedingungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Vorfinanzierung und späte Zahlungen bringen Mareike in Liquiditätsnot; faire Zahlungsbedingungen adressieren eine ihrer konkreten Existenzsorgen.",
+      "begruendung_selbst": "Wenn Kunden ewig nicht zahlen, sitze ich auf dem Trockenen. Faire Zahlungsbedingungen sind für mich keine Nebensache, sondern Überleben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auch Games sind Kultur",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Kulturverständnis wird auf digitale Angebote wie Computerspiele erweitert und diese in die Förderung einbezogen.",
+      "seite": 37,
+      "zitat": "Wir erweitern das Kulturverständnis aktiv auf digitale Angebote wie Computerspiele",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike arbeitet im digitalen Kreativbereich; eine Förderung, die digitale Formate als Kultur anerkennt, öffnet ihr und ihrer Branche neue Zugänge.",
+      "begruendung_selbst": "Endlich wird Digitales als Kultur ernst genommen und nicht belächelt. Das ist genau die Welt, in der ich arbeite.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ämter ohne Papierkram-Hölle",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungsverfahren sollen vom Antrag bis zum Bescheid durchgängig digitalisiert werden.",
+      "seite": 56,
+      "zitat": "konsequent Ende - zu - Ende digitalisiert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bürokratie- und Steuerlast überfordern Mareike als Kleinste; eine echte Ende-zu-Ende-Digitalisierung verspricht weniger Aufwand, der bei ihr außer Verhältnis zur Betriebsgröße steht.",
+      "begruendung_selbst": "Ich verbringe Tage mit Formularen, die meinen Mini-Betrieb völlig überfordern. Wenn das digital durchläuft, gewinne ich Zeit zum Arbeiten.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sichtbarkeit zahlt keine Krankenkasse",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Unterstützung für Solo-Selbstständige bleibt bei Qualifizierung, Beteiligung und Sichtbarkeit, ohne konkretes Sicherungsinstrument.",
+      "seite": 4,
+      "zitat": "öffnet Qualifizierungsangebote und verbessert Beteiligung und Sichtbarkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes existenzielle Lücke ist die Absicherung bei Krankheit, Auftragsflaute und im Alter; das Programm bietet hier vor allem weiche Maßnahmen wie Sichtbarkeit und Qualifizierung, während die harte soziale Sicherung Bundessache bleibt.",
+      "begruendung_selbst": "Qualifizierung und Sichtbarkeit sind nett, aber wenn ich krank werde oder die Aufträge wegbleiben, fängt mich das nicht auf. Da ist immer noch nichts.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike sieht ihre Lebenslage seltener Weise überhaupt mitgedacht: Solo-Selbstständige werden als eigene Gruppe benannt, Honoraruntergrenzen und faire Zahlungsbedingungen geschützt, digitale Kultur gefördert und die Verwaltung entbürokratisiert. Ihr Kernproblem - eine echte soziale Absicherung bei Krankheit, Flaute und im Alter - bleibt jedoch bei weichen Maßnahmen stehen, weil die harte Sicherung Bundessache ist. Für die liberal-progressive, auf Absicherung angewiesene Solo-Kreative überwiegt ein vorsichtig positives Bild mit spürbarer Lücke beim Sicherungsnetz.",
+    "score": 1
+  }
+}

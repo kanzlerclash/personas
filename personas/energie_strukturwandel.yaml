@@ -1,0 +1,64 @@
+name: "Ronny (Energie, Strukturwandel)"
+einzeiler: "Energiewirtschaftler in einer Strukturwandelregion, für den Kohleausstieg und CCS keine Theorie sind."
+themen: [energie, klima, arbeit, wirtschaft]
+gesicht:
+  config:
+    hat: "hard-hat"
+    hair: "tousled"
+    hairColor: "#33240f"
+    accessory: "goatee"
+    top: "hi-vis-vest"
+    trousers: "cargo"
+    build: "medium"
+    skin: "#e0ac69"
+    mouth: "line"
+    background: "#118ab2"
+
+demografie:
+  alter: 41
+  geschlecht: männlich
+  wohnort: "strukturschwache Region in Sachsen-Anhalt, deren Stadt am Strukturwandel hängt"
+  haushalt: "Familie am Standort; Lebensplanung an die Region gebunden"
+  bildung: "technische Ausbildung/Studium im Energiebereich"
+
+oekonomie:
+  beruf: "Beschäftigter in der Energiewirtschaft (Kohle/Gas/Netze)"
+  einkommen: "solides Facharbeiter-/Technikereinkommen, an die Branche gekoppelt"
+  vermoegen_schulden: "durchschnittlich; Immobilie/Verwurzelung am Standort"
+  finanzieller_druck: "moderat heute, hohe Unsicherheit über die berufliche Zukunft seiner Region"
+
+werte_haltung:
+  grundwerte: ["verlässliche Energieversorgung", "Zukunft für die Region", "Pragmatismus", "Arbeit und Wertschöpfung vor Ort"]
+  sorgen:
+    - "dass Ausstiegsdaten gesetzt werden, bevor tragfähiger Ersatz steht"
+    - "Ablehnung von Technologien wie CCS, die seiner Region eine Brücke nehmen könnten"
+    - "Abwanderung, Perspektivlosigkeit, 'verlängerte Werkbank'-Schicksal"
+  hoffnungen: ["technologieoffener, planbarer Wandel", "Investitionen und neue Industrie in der Region", "Versorgungssicherheit", "gute Arbeit vor Ort"]
+  politische_grundhaltung: >
+    Pragmatisch und technologieoffen, regional verwurzelt. Quergespannt: kritisch gegenüber starren
+    Ausstiegsdaten ohne Ersatz und gegenüber pauschaler Technologieablehnung, aber für den Wandel an sich.
+    Bewertet Politik an konkreten Perspektiven für seine Region. Parteipolitisch ungebunden.
+  menschenbild: "Wandel gelingt nur mit einem Plan, der die Menschen vor Ort mitnimmt"
+
+sicht_auf_andere:
+  - gruppe: "Technologie-ablehnende Klimapolitik (z. B. CCS-Verbot)"
+    haltung: "kritisch — nimmt seiner Region aus seiner Sicht ein Werkzeug"
+  - gruppe: "Schnelles Ausstiegs-Tempo"
+    haltung: "skeptisch: Enddatum ohne Ersatzplan bedroht Existenzen"
+  - gruppe: "Klimabewegung"
+    haltung: "teilt das Ziel, vermisst aber Realismus für Industrieregionen"
+
+verhalten:
+  mediennutzung: ["Fach-/Branchenmedien", "Regionalzeitung", "Nachrichten-Apps", "berufliche Netzwerke"]
+  alltag: "Betrieb/Anlagen/Netze, Familie, regionales Engagement; verfolgt Energiepolitik genau"
+  informationsverhalten: "technisch versiert, faktenorientiert; prüft Politik an Versorgungssicherheit und Regionsperspektive"
+
+themen_stakes:
+  energie: "Kohle-/Gasausstieg, CCS, Netzausbau, Versorgungssicherheit, Strompreise"
+  klima: "Tempo und Technologiewahl des Wandels — mit oder gegen seine Region"
+  arbeit: "Jobsicherheit, Qualifizierung, neue Arbeitsplätze im Strukturwandel"
+  wirtschaft: "Strukturförderung, Ansiedlung, Investitionen in der Region"
+
+stimme:
+  - "Gebt mir einen Plan, nicht nur ein Enddatum – sonst stirbt hier die Region, bevor das Neue da ist."
+  - "Erst die Brücke bauen, dann die alte abreißen. Andersrum fallen wir ins Wasser."

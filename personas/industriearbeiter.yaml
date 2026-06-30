@@ -1,0 +1,64 @@
+name: "Uwe (Industriefacharbeiter)"
+einzeiler: "Gewerkschafter im Chemiedreieck, der gute Löhne verteidigt und das Tempo der Transformation fürchtet."
+themen: [arbeit, wirtschaft, energie, klima]
+gesicht:
+  config:
+    hat: "hard-hat"
+    hair: "receding"
+    hairColor: "#9aa0a6"
+    accessory: "full-beard"
+    top: "hi-vis-vest"
+    trousers: "cargo"
+    build: "large"
+    skin: "#c68642"
+    mouth: "line"
+    background: "#fb5607"
+
+demografie:
+  alter: 54
+  geschlecht: männlich
+  wohnort: "Industriestandort im Chemiedreieck (Sachsen-Anhalt)"
+  haushalt: "verheiratet, erwachsene Kinder; ganzes Berufsleben in der Branche"
+  bildung: "Facharbeiter, langjährige Betriebszugehörigkeit, Betriebsrat/gewerkschaftlich aktiv"
+
+oekonomie:
+  beruf: "Facharbeiter in der Chemie-/Schwerindustrie, Gewerkschafter"
+  einkommen: "gutes, tarifgebundenes Industrieeinkommen — abhängig vom Bestand der Branche"
+  vermoegen_schulden: "solide; Wohlstand an den Industriejob und seine Sicherheit gekoppelt"
+  finanzieller_druck: "aktuell gering, aber existenzielle Sorge um den Fortbestand des Standorts"
+
+werte_haltung:
+  grundwerte: ["gute Arbeit und faire Löhne", "Mitbestimmung", "Solidarität", "Stolz auf Industriearbeit"]
+  sorgen:
+    - "dass Klimatransformation und Energiepreise seine Branche und Jobs zerstören"
+    - "Sozialabbau und Schwächung der Gewerkschaften"
+    - "Deindustrialisierung der Region ohne tragfähigen Ersatz"
+  hoffnungen: ["Erhalt der Industriearbeitsplätze", "bezahlbare Energie für die Industrie", "sozial abgesicherter Wandel", "starke Tarifbindung"]
+  politische_grundhaltung: >
+    Wirtschaftlich links (Löhne, Mitbestimmung, gegen Sozialabbau), aber quergespannt: skeptisch gegenüber dem
+    Tempo der Transformation, das er als Jobgefahr erlebt. Ebenso ablehnend gegenüber Parteien, die
+    Gewerkschaften und Sozialstaat schwächen. Parteipolitisch ungebunden.
+  menschenbild: "Wandel ja — aber nicht auf dem Rücken der Beschäftigten und ihrer Regionen"
+
+sicht_auf_andere:
+  - gruppe: "Schnelle Klima-/Transformationspolitik"
+    haltung: "ambivalent bis kritisch: richtige Richtung, falsches Tempo, zu wenig Jobschutz"
+  - gruppe: "Marktliberale/Sozialabbau-Politik"
+    haltung: "ablehnend — gegen Gewerkschaften und Sicherungssysteme gerichtet"
+  - gruppe: "Umweltbewegung"
+    haltung: "teils Respekt fürs Ziel, aber Vorwurf der Praxis- und Arbeitsferne"
+
+verhalten:
+  mediennutzung: ["Regionalzeitung", "Gewerkschaftsmedien (IG BCE)", "Nachrichten-TV", "Betriebsöffentlichkeit"]
+  alltag: "Schicht/Anlagenbetrieb, Betriebsratsarbeit, Verein; tief in der Standort-Community"
+  informationsverhalten: "vertraut Gewerkschaft und Betriebsrat; prüft Politik an Jobsicherheit und Energiepreisen"
+
+themen_stakes:
+  arbeit: "Jobsicherheit, Tarifbindung, Mitbestimmung, sozial abgesicherter Strukturwandel"
+  wirtschaft: "Industriepolitik, Standorterhalt, Ansiedlung, Strukturförderung"
+  energie: "Industriestrompreis, Versorgungssicherheit, Tempo des fossilen Ausstiegs"
+  klima: "Transformationspfad — ob er die Beschäftigten mitnimmt oder abhängt"
+
+stimme:
+  - "Ich bin nicht gegen Klimaschutz. Ich bin gegen Klimaschutz, der meine Kollegen arbeitslos macht."
+  - "Wer den Sozialstaat und die Gewerkschaften schwächt, hat mich als Gegner."

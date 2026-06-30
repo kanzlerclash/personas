@@ -1,0 +1,101 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Klares Nein zu Hetze - gut so.",
+      "thema": "integration",
+      "programmpunkt": "Entschiedene Ablehnung von Ausländerfeindlichkeit, Hass, Hetze und pauschalen Verdächtigungen.",
+      "seite": 9,
+      "zitat": "Ausländerfeindlichkeit, Hass, Hetze und pauschale Verdächtigungen lehnen wir entschieden ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin fürchtet ausgrenzende Rhetorik; die ausdrückliche Absage an Hetze und Pauschalverdacht spricht ihr Sicherheitsbedürfnis und ihre Würde an.",
+      "begruendung_selbst": "So einen Satz wollte ich lesen. Wenn Hetze klar abgelehnt wird, fühle ich mich als Teil dieses Landes ernst genommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ich gehöre dazu - schwarz auf weiß.",
+      "thema": "integration",
+      "programmpunkt": "Feststellung, dass Menschen mit Migrationshintergrund ein fester Bestandteil der Gesellschaft sind.",
+      "seite": 9,
+      "zitat": "sind ein fester Bestandteil unserer Gesellschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylins Kernsorge ist Zugehörigkeit; die Anerkennung als selbstverständlicher Teil der Gesellschaft trifft genau dieses Bedürfnis.",
+      "begruendung_selbst": "Ich bin hier geboren - dass das anerkannt wird, ist mehr wert als jedes Förderprogramm.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitte gegen die Ränder - beruhigend.",
+      "thema": "demokratie",
+      "programmpunkt": "Abgrenzung von hitzigen, radikalen Forderungen von ganz links und ganz rechts.",
+      "seite": 4,
+      "zitat": "von ganz links und ganz rechts sind gefährlich",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin sorgt sich um Polarisierung und schwächelnde Institutionen; ein Bekenntnis zur politischen Mitte stützt ihr Bedürfnis nach Stabilität.",
+      "begruendung_selbst": "Polarisierung macht mir Angst. Wenn sich jemand klar von den Rändern absetzt, ist das für mich ein gutes Zeichen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "'Auf null' - das kippt ins Pauschale.",
+      "thema": "integration",
+      "programmpunkt": "Ziel, die irreguläre Migration auf null zurückzuführen und die Migrationswende mit weiterer Entschlossenheit zu vertiefen.",
+      "seite": 6,
+      "zitat": "Wir wollen die irreguläre Migration auf null zurückführen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin befürwortet sachliche Steuerung, fürchtet aber das Kippen in pauschale Härte; eine 'Null'-Rhetorik nährt genau diese Sorge.",
+      "begruendung_selbst": "Steuert Migration sachlich, ja - aber 'auf null' klingt nach Härte, die irgendwann auch über Menschen wie mich redet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bewertung nach Hautfarbe? Heikel.",
+      "thema": "sicherheit",
+      "programmpunkt": "Schaffung gesetzlicher Grundlagen für biogeographische Analysen zu Haar-, Haut- und Augenfarbe in der Polizeiarbeit.",
+      "seite": 7,
+      "zitat": "Bewertungen der Haar - , Haut - und Augenfarbe",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Frau mit Migrationsgeschichte ist Aylin sensibel für ethnisierende Ermittlungslogik; phänotypische Analysen wecken ihre Sorge vor Verdachtskultur.",
+      "begruendung_selbst": "Ermittlungen nach Haut- und Haarfarbe - da werde ich hellhörig. Genau so entsteht das Gefühl, ständig verdächtig zu sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschiebungen in Kriegsländer - zu hart.",
+      "thema": "integration",
+      "programmpunkt": "Einsatz für Abschiebungen nach Afghanistan, Syrien und in den Irak und deren Einstufung als sichere Herkunftsstaaten.",
+      "seite": 8,
+      "zitat": "Abschiebungen nach Afghanistan, Syrien und in den Irak",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mit familiären Bezügen ins Ausland empfindet Aylin Abschiebungen in solche Länder als Härte, die ihre Sorge vor pauschaler Politik bestätigt.",
+      "begruendung_selbst": "Teile meiner Familie leben im Ausland. Abschiebungen ausgerechnet dorthin fühlen sich für mich nach Kälte an, nicht nach Augenmaß.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet im Programm beides: ausdrückliche Sätze gegen Hetze und die Anerkennung als fester Bestandteil der Gesellschaft beruhigen ihre Sorge um Zugehörigkeit, und die Abgrenzung zu den Rändern schätzt sie. Zugleich verunsichern sie die 'Null'-Rhetorik, phänotypische Ermittlungsanalysen und Abschiebungen in Kriegsländer - so steht Anerkennung gegen befürchtete Härte.",
+    "score": 0
+  }
+}

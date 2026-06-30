@@ -1,0 +1,89 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Rollende Arztpraxen kommen zu uns!",
+      "thema": "gesundheit",
+      "programmpunkt": "Ein landesweites Förderprogramm soll rollende Arztpraxen und spezialisierte Facharzt-Busse einrichten, besonders für ältere Menschen mit körperlichen Beeinträchtigungen, für die der Arztbesuch beschwerlich ist.",
+      "seite": 64,
+      "zitat": "Auch für ältere Menschen mit körperlichen Beeinträchtigungen, für die sich der Arztbesuch als besonders beschwerlich darstellt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter leben im Dorf mit einem Hausarzt in Reichweite, der irgendwann aufhören wird. Mobile Arztangebote würden ihre größte Versorgungsangst direkt adressieren.",
+      "begruendung_selbst": "Wenn unser Arzt in Rente geht, kommen wir nicht mehr gut zu einer Praxis. Ein rollender Arzt im Dorf — das wäre wirklich eine Erleichterung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lebensmittel ohne Steuer — das spüren wir!",
+      "thema": "steuern",
+      "programmpunkt": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen.",
+      "seite": 9,
+      "zitat": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit kleinen Renten ist jeder Einkauf ein Balanceakt. Eine Mehrwertsteuerbefreiung bei Lebensmitteln würde die reale Kaufkraft von Helga und Dieter spürbar verbessern.",
+      "begruendung_selbst": "Wir schauen beim Einkauf auf jeden Euro. Wenn die Lebensmittel günstiger werden, bleibt endlich wieder etwas übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Barrierefreiheit als Standard — endlich!",
+      "thema": "wohnen",
+      "programmpunkt": "Barrierefreiheit soll als Standard im öffentlichen Raum gelten; barrierefreies Wohnen soll erleichtert werden, sowohl im Neubau als auch im Bestand.",
+      "seite": 39,
+      "zitat": "Barrierefreiheit muss jedoch auch als Standard im öffentlichen Raum gelten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter denken voraus: Das eigene Haus muss mit dem Alter mitwachsen. Das Versprechen, Barrierefreiheit auch im Bestand zu erleichtern, spricht ihre Sorge ums Wohnen im Alter direkt an.",
+      "begruendung_selbst": "Wir wollen so lange wie möglich im eigenen Haus bleiben. Wenn barrierefreier Umbau einfacher gefördert wird, können wir das auch wirklich.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bürgergeld kürzen — trifft auch Rentner!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Bürgergeld soll reformiert werden; wer staatliche Hilfe in Anspruch nimmt, muss Mitwirkungspflichten erfüllen, sonst drohen Leistungskürzungen bis zu Bürgerarbeitspflicht.",
+      "seite": 40,
+      "zitat": "Wer staatliche Hilfe in Anspruch nimmt, muss entsprechend auch seinen Mitwirkungspflichten nachkommen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter haben ein Leben lang gearbeitet und sind zwar selbst nicht im Bürgergeld-Bezug, aber sie sorgen sich um die Stabilität des Sozialsystems, das ihre Renten mitabsichert. Leistungsorientierung stimmt mit ihrer Grundhaltung überein, auch wenn Rentensicherheit nicht explizit adressiert wird.",
+      "begruendung_selbst": "Wir haben nie die Hand aufgehalten. Wer kann, soll auch arbeiten — das finden wir richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege bleibt unsicher und teuer.",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflegeversicherung soll umfassend reformiert werden; versicherungsfremde Leistungen sollen gestrichen, ein kapitalgedecktes Element ergänzt werden.",
+      "seite": 70,
+      "zitat": "Versicherungsfremde Leistungen gehören gestrichen, ein kapitalgedecktes Element muss wie bei der Krankenversicherung ergänzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter fürchten Pflegekosten als größtes Risiko im Alter. Ein kapitalgedecktes Element schützt ihre Generation nicht — sie haben kaum Rücklagen und können nicht mehr neu sparen. Leistungskürzungen durch Streichung versicherungsfremder Leistungen treffen sie direkt.",
+      "begruendung_selbst": "Wenn Pflege noch teurer wird oder Leistungen wegfallen, wissen wir nicht, wie wir das stemmen sollen. Wir haben kein Kapital mehr aufzubauen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter finden bei der FDP Sachsen-Anhalt konkrete Erleichterungen bei der ärztlichen Versorgung im ländlichen Raum und bei Lebensmittelpreisen. Barrierefreiheitsversprechen treffen ihren Wunsch, im eigenen Haus alt zu werden. Die Pflegepolitik mit kapitalgedecktem Element und Leistungskürzungen macht ihnen jedoch Sorgen, da sie keine Rücklagen aufbauen können. Das Programm adressiert ihre Lage teilweise, lässt aber die Rentensicherheit und Pflegebezahlbarkeit zu offen.",
+    "score": 0
+  }
+}

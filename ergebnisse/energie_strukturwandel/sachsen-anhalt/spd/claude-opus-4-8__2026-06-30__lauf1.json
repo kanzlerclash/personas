@@ -1,0 +1,113 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Erst Ersatz, dann Investition",
+      "thema": "wirtschaft",
+      "programmpunkt": "In neue Arbeitsplätze, Umschulungen und regionale Wirtschaftszentren wird gezielt investiert, gerade in ehemaligen Bergbauregionen.",
+      "seite": 6,
+      "zitat": "In neue Arbeitsplätze, Umschulungen und regionale Wirtschaftszentren wird gezielt investiert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronnys Lebensplanung hängt an der Zukunft seiner Strukturwandelregion; gezielte Investitionen in neue Jobs und Zentren vor Ort sind genau der Ersatzplan, den er einfordert.",
+      "begruendung_selbst": "Genau das meine ich mit Plan: erst neue Arbeit und Zentren aufbauen, damit die Region nicht ausblutet. Nicht nur ein Enddatum verkünden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Technologieoffen beim CO2",
+      "thema": "energie",
+      "programmpunkt": "Eine Carbon-Management-Strategie und darauf aufbauende Industrie-Dialoge sollen angestoßen werden.",
+      "seite": 5,
+      "zitat": "Wir werden die Erstellung einer Carbon - Management - Strategie und darauf basierender Industrie - Dialoge anstoßen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny ist technologieoffen und sieht in CO2-Management eine Brücke für seine Industrieregion; dass das Programm dies aktiv angeht statt pauschal abzulehnen, entspricht seiner Haltung.",
+      "begruendung_selbst": "Endlich keine Technologie-Verbotsdebatte, sondern eine echte CO2-Strategie. Genau so behält meine Region eine Brücke in die Zukunft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO2- und Wasserstoff-Infrastruktur",
+      "thema": "energie",
+      "programmpunkt": "Die Landesenergieagentur soll Koordinierungsstelle für künftige Wasserstoff- und Kohlendioxid-Infrastrukturen werden.",
+      "seite": 6,
+      "zitat": "Landeskoordinierungsstelle für die künftigen Wasserstoff - und Kohlendioxid - Infrastrukturen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Energiewirtschaftler weiß Ronny, dass Wasserstoff- und CO2-Netze über die Zukunft seiner Branche entscheiden; eine landeseigene Koordinierungsstelle dafür ist konkrete, planbare Politik in seinem Sinn.",
+      "begruendung_selbst": "Ohne CO2- und Wasserstoffnetze läuft hier nichts. Dass das Land das koordiniert, zeigt, dass jemand wirklich an die Infrastruktur denkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Geld für die Kohleregion gesichert",
+      "thema": "wirtschaft",
+      "programmpunkt": "Für die Kohleregionen wird ein Anschlussprogramm an den Just Transition Fund ab 2028 angestrebt.",
+      "seite": 53,
+      "zitat": "ein Anschlussprogramm an den Just Transition Fund ab 2028",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fürchtet Perspektivlosigkeit, wenn Fördermittel auslaufen; ein gesichertes Anschlussprogramm gibt seiner Region über 2028 hinaus Planungssicherheit.",
+      "begruendung_selbst": "Wenn die Strukturmittel einfach auslaufen, fällt die Region ins Loch. Ein Anschlussprogramm ist die Brücke, die wir brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgungssicherheit mitgedacht",
+      "thema": "energie",
+      "programmpunkt": "Bioenergie und Speicher sollen Vorrang vor teurem Gas haben, um Lastspitzen und Dunkelflauten auszugleichen.",
+      "seite": 5,
+      "zitat": "Bioenergie und Speicher haben Vorrang vor teurem Gas.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Versorgungssicherheit ist Ronnys fachliches Kernthema; dass das Programm Speicher und den Ausgleich von Dunkelflauten ausdrücklich adressiert, zeigt ihm energiewirtschaftlichen Realismus.",
+      "begruendung_selbst": "Speicher gegen die Dunkelflaute - das ist genau die Frage, die zählt. Schön, dass das nicht ausgeblendet wird, sondern Teil des Plans ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Neue Industrie für die Region",
+      "thema": "wirtschaft",
+      "programmpunkt": "Sachsen-Anhalt soll Standort für Zukunftsindustrien von Windkraft über Wasserstoff bis Batterietechnologie werden.",
+      "seite": 5,
+      "zitat": "von erneuerbaren Energien wie Windkraft über Wasserstoff und Batterietechnologien",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny hofft auf neue Industrie statt 'verlängerte Werkbank'; der gezielte Aufbau von Zukunftsbranchen am Standort entspricht seiner Perspektive für die Region.",
+      "begruendung_selbst": "Wasserstoff, Batterien, Wind - das sind die Jobs von morgen. Wenn die hierher kommen, hat meine Region eine echte Zukunft.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Pfade dürfen kein starres Enddatum sein",
+      "thema": "klima",
+      "programmpunkt": "Ein Klimaschutzgesetz soll verbindliche Reduktionspfade für Treibhausemissionen festlegen.",
+      "seite": 22,
+      "zitat": "Reduktionspfade für Treibhausemissionen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronnys Grundskepsis gilt Ausstiegsdaten ohne tragfähigen Ersatz; verbindlich festgelegte Reduktionspfade wecken bei ihm die Sorge, dass Termine den realen Aufbau von Ersatz überholen, auch wenn das Programm parallel investiert.",
+      "begruendung_selbst": "Verbindliche Pfade sind okay, solange sie sich am Aufbau orientieren und nicht am Kalender. Sonst reißt man die alte Brücke ab, bevor die neue steht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny erkennt im Programm fast lückenlos seinen technologieoffenen, planorientierten Ansatz wieder: gezielte Investitionen in neue Jobs und Zentren, eine Carbon-Management-Strategie, koordinierte Wasserstoff- und CO2-Infrastruktur, ein Just-Transition-Anschlussprogramm, Speicher für die Versorgungssicherheit und neue Zukunftsindustrien. Sein einziger Vorbehalt gilt verbindlichen Reduktionspfaden, die er nur akzeptiert, wenn sie sich am realen Aufbau und nicht am Kalender orientieren. Für den pragmatischen Energiewirtschaftler überwiegt der Zuspruch klar.",
+    "score": 2
+  }
+}

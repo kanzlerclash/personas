@@ -1,0 +1,112 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "100 Prozent erneuerbar bis 2030",
+      "thema": "energie",
+      "programmpunkt": "Sachsen-Anhalt soll bis 2030 den Strom zu 100 Prozent aus erneuerbaren Quellen beziehen",
+      "seite": 22,
+      "zitat": "Sachsen-Anhalt bis 2030 im Strombereich 100 Prozent erneuerbar aufstellen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule engagiert sich in der Klimabewegung und fordert genau diese Ambition: konkrete, zeitlich gebundene Ziele für den Ausstieg aus fossilen Energien. Ein klares 2030-Ziel für 100 Prozent erneuerbare Energie überzeugt sie als echtes Bekenntnis.",
+      "begruendung_selbst": "Endlich eine Partei, die keine halbherzigen Versprechen macht, sondern ein echtes Datum nennt. 2030, 100 Prozent – das ist das, wofür ich auf die Straße gehe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schutz vor Queerfeindlichkeit in Schulen",
+      "thema": "bildung",
+      "programmpunkt": "Kinder sollen an allen Schulen vor Diskriminierung, Mobbing, Rassismus und Queerfeindlichkeit geschützt werden",
+      "seite": 64,
+      "zitat": "Kinder vor Diskriminierung, Mobbing, Rassismus und Queerfeindlichkeit an allen Schulen schützen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule weiß aus ihrem Umfeld, wie wichtig ein geschützter Schulalltag für queere Jugendliche ist. Die explizite Benennung von Queerfeindlichkeit als Problem, das aktiv bekämpft werden soll, bestätigt ihr das Engagement der Grünen für queere Rechte.",
+      "begruendung_selbst": "Dass Queerfeindlichkeit hier explizit benannt wird, ist nicht selbstverständlich. Queere Kinder verdienen Schutz – und genau das wird versprochen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Semesterticket stabil, TV-Stud erkämpfen",
+      "thema": "bildung",
+      "programmpunkt": "Preisstabilität beim Semesterticket und ein Tarifvertrag für studentische Beschäftigte werden angestrebt",
+      "seite": 68,
+      "zitat": "Preisvergünstigungen und Preisstabilität",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Studentin mit BAföG sind bezahlbares Semesterticket und faire Arbeitsbedingungen im Studi-Job existenzielle Fragen. Die Grünen adressieren beides mit konkreten Forderungen, die Jule direkt betreffen.",
+      "begruendung_selbst": "Preisstabilität beim Semesterticket und endlich ein Tarifvertrag für Studijobs – das sind keine Kleinigkeiten, das entscheidet, ob ich über die Runden komme.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Antidiskriminierung und Vielfalt dauerhaft",
+      "thema": "demokratie",
+      "programmpunkt": "Gewaltschutz, Antidiskriminierungsarbeit und Förderung von Vielfalt sollen dauerhafte Bestandteile staatlicher Aufgaben werden",
+      "seite": 44,
+      "zitat": "Gewaltschutz, Antidiskriminierungsarbeit und die Förderung von Vielfalt sollen dauerhafter Bestandteil der Aufgaben",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule kämpft für eine Gesellschaft, in der Antidiskriminierung nicht projektfinanziert und zeitlich befristet ist, sondern als Daueraufgabe verstanden wird. Dieser Punkt trifft genau ihren Anspruch an einen modernen Staat.",
+      "begruendung_selbst": "Es reicht nicht, alle paar Jahre ein Projekt zu fördern. Antidiskriminierung und Vielfalt müssen dauerhaft verankert sein – das ist endlich eine klare Ansage.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimageld sozial gerecht verteilen",
+      "thema": "klima",
+      "programmpunkt": "Erträge der CO₂-Steuer sollen direkt als Klimageld an die Bürger:innen zurückfließen",
+      "seite": 11,
+      "zitat": "Erträge der CO₂-Steuer direkt an die Bürger*innen zurückfließen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Klimageld verbindet Klimapolitik mit sozialer Gerechtigkeit – ein Argument, das Jule schon länger überzeugt. Als Studentin mit geringem Einkommen profitiert sie materiell und sieht darin ein Instrument, das Klimaschutz gerechter macht.",
+      "begruendung_selbst": "Das Klimageld ist genau richtig: Wer wenig verbraucht und wenig verdient, bekommt unterm Strich mehr zurück. Klimaschutz darf kein Luxusprojekt sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hochschulfinanzierung endlich erhöhen",
+      "thema": "bildung",
+      "programmpunkt": "Die Grundfinanzierung des Landes für Hochschulen soll weiter erhöht werden",
+      "seite": 67,
+      "zitat": "erhöhen wir die Grundfinanzierung des Landes für Hochschulen weiter",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Eine bessere Grundfinanzierung der Hochschulen bedeutet für Jule mehr Stellen, bessere Betreuung und weniger Prekarisierung im Wissenschaftsbetrieb. Das betrifft sie direkt als Studentin in Halle.",
+      "begruendung_selbst": "Wenn die Hochschulen mehr Geld bekommen, bedeutet das weniger überfüllte Seminare, mehr Tutorien, bessere Infrastruktur. Das merke ich direkt in meinem Studienalltag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Demokratie gegen Rechtsextremismus schützen",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm benennt explizit den Druck auf die Demokratie durch die extreme Rechte auf kommunaler, Landes- und Bundesebene",
+      "seite": 35,
+      "zitat": "Demokratie steht unter Druck",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule ist politisch aktiv und erlebt das Erstarken der extremen Rechten als unmittelbare Bedrohung für Demokratie, Klimapolitik und queere Rechte. Die klare Benennung dieser Gefahr stärkt ihr Vertrauen in die Grünen.",
+      "begruendung_selbst": "Es tut gut zu lesen, dass das klar benannt wird: Demokratie steht unter Druck. Das ist keine Übertreibung, das ist mein Alltag als queere Aktivistin.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Jule findet im Grünen-Wahlprogramm nahezu alle ihre zentralen Anliegen wieder – von konkreten Klimazielen über queere Schutzrechte bis hin zu sozialer Absicherung im Studium. Das Programm spricht ihre Sprache und adressiert sowohl ihre materielle Lage als Studentin mit BAföG als auch ihre politischen Überzeugungen als Klimaaktivistin und queere Person. Punkte, die ihr Missfallen erregen würden, sind kaum zu finden; höchstens Auslassungen wie die fehlende explizite Mietregulierung für Studierende stören – aber nichts im Programm widerspricht ihr aktiv.",
+    "score": 2
+  }
+}

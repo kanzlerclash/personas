@@ -1,0 +1,88 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keiner zwingt mich vom Auto!",
+      "thema": "verkehr",
+      "programmpunkt": "Ablehnung einer erzwungenen Verkehrswende, weil das Auto in vielen Regionen unverzichtbar bleibt.",
+      "seite": 32,
+      "zitat": "Eine erzwungene Verkehrswende lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf pendelt täglich 45 Minuten ohne ÖPNV-Alternative; die Aussage, das Auto bleibe auf dem Land unverzichtbar, nimmt seine Lebensrealität ernst.",
+      "begruendung_selbst": "Endlich einer, der versteht: Hier fährt kein Bus, ich komme nur mit dem Auto zur Schicht – und das soll auch so bleiben dürfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Verbrenner-Aus über meinen Kopf hinweg!",
+      "thema": "klima",
+      "programmpunkt": "Ablehnung eines pauschalen Verbrennerverbots, technologieoffene CO2-Reduktion über den gesamten Lebenszyklus.",
+      "seite": 32,
+      "zitat": "Ein pauschales Verbrennerverbot lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fürchtet das Verbrenner-Aus, weil kein bezahlbares E-Auto für ihn in Sicht ist; die Ablehnung eines pauschalen Verbots entspricht seinem Wunsch nach Realismus.",
+      "begruendung_selbst": "Ich würde ja umsteigen – nur kann ich mir kein E-Auto leisten. Wenn der Verbrenner bleiben darf, atme ich auf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sprit muss bezahlbar bleiben!",
+      "thema": "energie",
+      "programmpunkt": "Senkung der Energiesteuern und eine geforderte Preisobergrenze an der Zapfsäule.",
+      "seite": 7,
+      "zitat": "Keine Tankstelle darf Sprit über 1,50 Euro anbieten!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Spritkosten sind für Toralf ein fixer, schmerzhafter Posten; eine Begrenzung des Preises an der Zapfsäule trifft seinen Geldbeutel unmittelbar.",
+      "begruendung_selbst": "Jeden Tag tanken, das frisst mein Geld – wenn der Sprit gedeckelt wird, merke ich das sofort im Portemonnaie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weg mit der CO2-Abzocke!",
+      "thema": "klima",
+      "programmpunkt": "Aussetzung oder Abschaffung der CO2-Bepreisung, weil sie mittlere und niedrige Einkommen am stärksten belaste.",
+      "seite": 27,
+      "zitat": "diese ungerechte Steuer auszusetzen oder abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der CO2-Preis trifft Toralf als Pendler direkt; dass er als ungerechte Belastung der unteren Einkommen weg soll, deckt sich mit seiner Sorge um Kaufkraft.",
+      "begruendung_selbst": "Macht meine Arbeit nicht teurer, als sie einbringt – die CO2-Steuer zahle ich an jeder Tankstelle, und die gehört einfach weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Industriearbeit soll bleiben!",
+      "thema": "arbeit",
+      "programmpunkt": "Erhalt und Stärkung des Industriestandorts Sachsen-Anhalt durch aktive Industriepolitik.",
+      "seite": 20,
+      "zitat": "Erhalt und Stärkung des Industriestandorts Sachsen-Anhalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Existenz hängt an einem sicheren Industriearbeitsplatz im Schichtbetrieb; das klare Bekenntnis zum Industriestandort adressiert seine zentrale Jobsorge.",
+      "begruendung_selbst": "Meine Arbeit ernährt die Familie – wenn die Politik die Industrie hier hält, ist das genau das, was ich brauche.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das BSW-Programm trifft Toralfs Lebenslage als Landpendler fast punktgenau: keine erzwungene Verkehrswende, kein Verbrenner-Aus, niedrigere Spritkosten, Streichung der CO2-Abgabe und ein Bekenntnis zum Industriestandort. Belastbare Gegenpunkte zu seinen Kernsorgen findet er kaum. Für ihn liest sich das Programm wie an seinem Alltag an der Zapfsäule und in der Schicht ausgerichtet.",
+    "score": 2
+  }
+}

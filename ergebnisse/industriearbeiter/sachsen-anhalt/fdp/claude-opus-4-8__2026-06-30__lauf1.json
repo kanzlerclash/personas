@@ -1,0 +1,113 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Bezahlbare Energie für die Chemie",
+      "thema": "energie",
+      "programmpunkt": "Netzentgelte sollen fairer verteilt und gesenkt werden, damit der Industriestandort wettbewerbsfähig bleibt.",
+      "seite": 14,
+      "zitat": "die den Industriestandort Deutschland und Sachsen-Anhalt dauerhaft wettbewerbsfähig hält",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes Wohlstand hängt am Bestand der energieintensiven Branche; ein klarer Fokus auf wettbewerbsfähige Energiekosten sichert seine Jobperspektive.",
+      "begruendung_selbst": "Ohne bezahlbaren Strom stirbt die Chemie - und mit ihr mein Job. Dass das ernst genommen wird, ist das Wichtigste.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Standort vor Gold-Plating schützen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Für Schlüsselindustrien wie das Chemiedreieck sollen neue Pflichten am europäischen Mindestmaß orientiert werden.",
+      "seite": 8,
+      "zitat": "Gerade für Schlüsselindustrien wie das Chemiedreieck gilt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sorgt sich um die Deindustrialisierung seiner Region; die ausdrückliche Schonung des Chemiestandorts vor nationalen Sonderlasten kommt seinem Standorterhalt zugute.",
+      "begruendung_selbst": "Wenn wir hier strengere Regeln haben als die Konkurrenz in Europa, wandern die Werke ab. Das muss aufhören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Neue Industrie in die Region",
+      "thema": "wirtschaft",
+      "programmpunkt": "Sachsen-Anhalt soll von Investitionen in industrielle Wertschöpfung, etwa der Verteidigungsindustrie, und Zuliefererketten profitieren.",
+      "seite": 10,
+      "zitat": "lokale mittelständische Unternehmen, etwa aus der strauchelnden Automobilindustrie, besser mit Investoren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe fürchtet Strukturbruch ohne Ersatz; die Vernetzung strauchelnder Industrie mit neuen Investoren bietet seiner Region eine Job-Perspektive.",
+      "begruendung_selbst": "Wenn neue Wertschöpfung an die alten Werke andockt, bleiben Arbeitsplätze hier. Das ist mal ein konkreter Plan.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz mit Augenmaß",
+      "thema": "klima",
+      "programmpunkt": "Klimapolitik soll marktwirtschaftlich und technologieoffen statt über Verbote und Symbolmaßnahmen erfolgen.",
+      "seite": 23,
+      "zitat": "Wir setzen auf marktwirtschaftliche Instrumente und wirksame CO₂ -Reduktion",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe trägt das Klimaziel mit, fürchtet aber das Tempo; ein marktwirtschaftlicher, technologieoffener Pfad entspricht seinem Wunsch nach einem Wandel, der Jobs nicht zerstört.",
+      "begruendung_selbst": "Ich bin nicht gegen Klimaschutz - aber nicht mit der Brechstange. Mit Augenmaß und Technologie statt Verboten kann ich leben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Tariftreue abschaffen? Nicht mit mir",
+      "thema": "arbeit",
+      "programmpunkt": "Das Tariftreue- und Vergabegesetz soll abgeschafft werden.",
+      "seite": 7,
+      "zitat": "das Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Gewerkschafter verteidigt Uwe Tarifbindung; die Abschaffung des Tariftreuegesetzes liest er als Angriff auf faire Löhne und gute Arbeit.",
+      "begruendung_selbst": "Tariftreue ist kein Bürokratiemonster, das sichert anständige Löhne. Wer das abschafft, hat mich als Gegner.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozialabbau im Sozialkapitel",
+      "thema": "arbeit",
+      "programmpunkt": "Sozialleistungen sollen nach 'Fördern und Fordern' umgebaut, Sanktionen ausgeschöpft und gemeinnützige Arbeitspflichten eingeführt werden.",
+      "seite": 39,
+      "zitat": "nach dem Prinzip „Fördern und Fordern“, befähigen, schnellstmöglich in den Arbeitsmarkt zurückzukehren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe lehnt eine Schwächung der Sicherungssysteme ab; die Sanktions- und Pflichtarbeitslinie widerspricht seinem solidarischen Verständnis vom Sozialstaat.",
+      "begruendung_selbst": "Erst Druck und Sanktionen, statt anständig abzusichern - das ist genau der Sozialabbau, gegen den ich kämpfe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Privatisierung statt Mitbestimmung",
+      "thema": "wirtschaft",
+      "programmpunkt": "Landesbeteiligungen sollen über eine umfassende Privatisierungsoffensive abgebaut werden.",
+      "seite": 9,
+      "zitat": "eine umfassende Privatisierungsoffensive zu starten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe verbindet öffentliche Hand mit Beschäftigungssicherheit und Mitbestimmung; eine breite Privatisierungslinie steht seinem gewerkschaftlichen Leitbild entgegen.",
+      "begruendung_selbst": "Alles in private Hände - das heißt am Ende oft weniger Mitbestimmung und unsichere Jobs. Davon halte ich nichts.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe ist klassisch quergespannt: Bei bezahlbarer Industrieenergie, dem Schutz des Chemiestandorts, neuer Industrieansiedlung und einem maßvollen Klimakurs sieht er seine Standort- und Jobsorgen ernst genommen. Auf der Arbeitnehmer- und Sozialachse jedoch trifft ihn das Programm hart: Abschaffung der Tariftreue, Sanktionslogik und Privatisierungsoffensive widersprechen seinem gewerkschaftlichen Kern. Beides hebt sich für ihn weitgehend auf.",
+    "score": 0
+  }
+}

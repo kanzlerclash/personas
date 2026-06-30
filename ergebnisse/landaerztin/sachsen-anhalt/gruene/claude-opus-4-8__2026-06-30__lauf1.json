@@ -1,0 +1,89 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Anreize, damit jemand nachkommt",
+      "thema": "gesundheit",
+      "programmpunkt": "Fehlende Anreize für Fachärzte in der Fläche sollen gezielt behoben werden.",
+      "seite": 81,
+      "zitat": "Anreize für Fachärzt*innen in der Fläche",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra findet keine Praxisnachfolge; gezielte Anreize für Ärzte in der Fläche treffen ihre größte berufliche Sorge.",
+      "begruendung_selbst": "Wenn ich in Rente gehe, steht hier niemand bereit – Anreize für die Niederlassung sind genau das, was wir brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung in kommunaler Hand",
+      "thema": "gesundheit",
+      "programmpunkt": "Kommunale Medizinische Versorgungszentren sollen gefördert werden, um flächendeckende Versorgung unabhängig von privaten Investoren zu sichern.",
+      "seite": 80,
+      "zitat": "Förderung kommunaler Medizinischer Versorgungszentren (MVZ)",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra steht der Ökonomisierung skeptisch gegenüber und sorgt sich um die Grundversorgung; kommunale MVZ entsprechen ihrem Anspruch an verlässliche Daseinsvorsorge.",
+      "begruendung_selbst": "Versorgung darf nicht von Investoren abhängen – kommunale Zentren könnten das nach mir auffangen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Telemedizin, die wirklich hilft",
+      "thema": "digitalisierung",
+      "programmpunkt": "Ein Landeszentrum für angewandte Telemedizin und -pflege soll gegründet werden.",
+      "seite": 84,
+      "zitat": "ein Landeszentrum für angewandte Telemedizin",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra wünscht funktionierende statt belastende Digitalisierung; ein Telemedizin-Zentrum verspricht bessere Erreichbarkeit für ihre Patienten im ländlichen Raum.",
+      "begruendung_selbst": "Wenn Telemedizin endlich praktisch funktioniert, erreiche ich meine Leute auch über weite Wege besser.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung in die Fläche bringen",
+      "thema": "gesundheit",
+      "programmpunkt": "Mit Ansätzen wie dem Gesundheitskiosk soll die Gesundheitsversorgung in der Fläche verbessert werden.",
+      "seite": 81,
+      "zitat": "Gesundheitsversorgung in der Fläche verbessern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra kämpft um Versorgung im strukturschwachen Raum; neue Anlaufstellen in der Fläche entlasten ihre Praxis und stützen die Grundversorgung.",
+      "begruendung_selbst": "Alles, was die Versorgung näher zu den Menschen bringt, nimmt mir und meinen Patienten Druck.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Noch mehr verpflichtende Strukturen",
+      "thema": "demokratie",
+      "programmpunkt": "Kommunale Gesundheitskonferenzen sollen gesetzlich verbindlich geregelt werden.",
+      "seite": 83,
+      "zitat": "gesetzlich verbindlich regeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra ist gegenüber bürokratischen Vorgaben skeptisch; neue gesetzlich verpflichtende Gremien wecken bei ihr die Sorge vor mehr Aufwand statt mehr Versorgung.",
+      "begruendung_selbst": "Noch ein verpflichtendes Gremium – ich hoffe nur, das bringt Versorgung und nicht bloß weitere Sitzungen und Formulare.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra sieht ihre Kernsorgen direkt adressiert: Anreize gegen den Landarztmangel, kommunale Versorgungszentren gegen die Ökonomisierung, ein Telemedizin-Zentrum und neue Anlaufstellen in der Fläche. Lediglich neue gesetzlich verpflichtende Strukturen beäugt sie skeptisch, weil sie mehr Bürokratie fürchtet. Insgesamt überwiegt deutlich die Zustimmung zur Versorgungslinie.",
+    "score": 1
+  }
+}

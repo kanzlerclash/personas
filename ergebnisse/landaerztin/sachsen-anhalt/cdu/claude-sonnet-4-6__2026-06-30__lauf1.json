@@ -1,0 +1,105 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Praxisgründung und -übernahme gefördert!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will die Förderprogramme für Praxisgründungen und -übernahmen ausbauen, um die Niederlassung von Ärztinnen und Ärzten im ländlichen Raum zu unterstützen.",
+      "seite": 27,
+      "zitat": "Förderprogramme für Praxisgründungen und - übernahmen bauen wir aus",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petras zentrales Problem ist die fehlende Praxisnachfolge. Wer eine Übernahme finanziell attraktiver macht, löst ihr persönliches Ausstiegsproblem und sichert gleichzeitig die Versorgung ihrer Patientinnen.",
+      "begruendung_selbst": "Ich will mich eines Tages zurückziehen können, ohne meine Patienten einfach stehen zu lassen. Wenn die Übernahme gefördert wird, findet sich vielleicht jemand, der weitermacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Studienplätze Humanmedizin!",
+      "thema": "bildung",
+      "programmpunkt": "Die CDU will die Anzahl der Studienplätze im Fach Humanmedizin erhöhen, um mehr Ärztinnen und Ärzten den Einstieg in den Beruf zu ermöglichen.",
+      "seite": 27,
+      "zitat": "Studienplatzzahlen im Fach Humanmedizin zu erhöhen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra weiß, dass der Arztmangel ein Generationenproblem ist. Mehr Studienplätze sind die einzige langfristige Stellschraube, um den Nachschub an Landärztinnen und -ärzten zu sichern.",
+      "begruendung_selbst": "Das Problem fängt damit an, dass zu wenige Medizin studieren dürfen. Wenn das gelöst wird, landen vielleicht mehr auf dem Land – das wäre gut für meine Nachfolge-Suche.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Landarzt-Stipendium – Richtige Richtung!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will das Landarzt-Stipendienprogramm ausbauen, bei dem Medizinstudierende eine Förderung erhalten und sich im Gegenzug verpflichten, eine Zeit lang als Landärzte tätig zu sein.",
+      "seite": 27,
+      "zitat": "Landarzt - Stipendienprogramm ausbauen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra kennt das strukturelle Problem: Junge Ärztinnen und Ärzte ziehen die Stadt vor. Ein Stipendium, das mit Landarztpflicht verknüpft ist, bringt gezielt neue Kräfte in ihre Region.",
+      "begruendung_selbst": "Wer auf dem Land aufgewachsen ist und eine Förderung erhält, bleibt eher auch dort. Das Stipendienprogramm ist kein Wundermittel, aber es schafft tatsächlich Anreize.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Medi-Bus für die Dörfer!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will einen mobilen Medi-Bus einführen, der ärztliche Grundversorgung in abgelegene Orte bringt und so die Versorgungslücken zwischen festen Praxisstandorten schließt.",
+      "seite": 29,
+      "zitat": "Einführung eines sogenannten Medi - Busses",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra weiß, dass sie nicht jeden Ort erreichen kann. Ein mobiles Versorgungsangebot entlastet ihre Praxis und bringt Grundversorgung dorthin, wo keine feste Praxis mehr wirtschaftlich ist.",
+      "begruendung_selbst": "Nicht jedes Dorf braucht eine eigene Praxis – aber jeder Mensch braucht Zugang zur Grundversorgung. Der Medi-Bus ist praktischer Pragmatismus, den ich unterstütze.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gemeindenotfallsanitäter – Brücke bis zur Praxis!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will Gemeindenotfallsanitäter einführen, die in der Notaufnahme nicht nötige Fälle übernehmen und Patientinnen in der häuslichen Versorgung begleiten, um Praxen zu entlasten.",
+      "seite": 28,
+      "zitat": "Gemeindenotfallsanitäter als ergänzende Säule in der Patientenversorgung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra wird regelmäßig mit Fällen konfrontiert, die eigentlich keinen Arztbesuch erfordern, aber keinen anderen Weg finden. Der Gemeindenotfallsanitäter ergänzt ihre Arbeit und macht das System robuster.",
+      "begruendung_selbst": "Manchmal bräuchten Patienten gar keinen Arzt – nur jemanden, der kurz schaut. Ein Gemeindenotfallsanitäter würde mir wirklich Zeit und Kraft ersparen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bürokratie in der Praxis bleibt!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm enthält keine konkreten Entlastungsversprechen bei ärztlicher Bürokratie, Dokumentationspflichten oder Telematikinfrastruktur-Anforderungen.",
+      "seite": 25,
+      "zitat": "Gesundheitsversorgung muss für alle Menschen in Sachsen - Anhalt zugänglich sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petras Alltag ist geprägt von Formularen, Abrechnungsbürokratie und TI-Pflichten, die sie ohne Mitarbeiterstab bewältigen muss. Das Programm benennt Versorgungsziele, ohne die Ärztebürokratie als eigenständiges Problem zu adressieren.",
+      "begruendung_selbst": "Ich würde mehr Patienten sehen, wenn ich weniger Formulare ausfüllen müsste. Dass das Programm das nicht anspricht, ist eine echte Lücke für jemanden wie mich.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra findet im CDU-Programm starke Antworten auf ihre Kernfragen: Förderung von Praxisgründungen und -übernahmen, Ausbau des Landarzt-Stipendiums, mehr Studienplätze, der Medi-Bus und der Gemeindenotfallsanitäter sind konkrete Maßnahmen, die direkt auf die Versorgungskrise im ländlichen Raum zielen. Ihr persönlichster Schmerzpunkt – Bürokratieentlastung für Einzelpraxen – bleibt im Programm unadressiert, was den Enthusiasmus dämpft.",
+    "score": 2
+  }
+}

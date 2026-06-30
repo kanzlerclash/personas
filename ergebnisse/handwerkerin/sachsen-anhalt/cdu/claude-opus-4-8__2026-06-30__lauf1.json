@@ -1,0 +1,100 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Schluss mit neuen Auflagen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Belastungsmoratorium für die Wirtschaft, One-in-one-out und keine neuen unnötigen Berichtspflichten in den nächsten fünf Jahren.",
+      "seite": 13,
+      "zitat": "keine neuen Auflagen und keine unnötigen zusätzlichen Berichtspflichten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verliert reale Arbeitszeit an Papierkram; ein Belastungsstopp trifft ihre Hauptbeschwerde direkt.",
+      "begruendung_selbst": "Ich hätte gern mehr Azubis und weniger Aktenordner. Wenn fünf Jahre keine neue Auflage kommt, ist das genau mein Ding.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerk endlich aufgewertet!",
+      "thema": "arbeit",
+      "programmpunkt": "Berufliche Bildung und Handwerk aufwerten, Gleichwertigkeit zur akademischen Bildung stärken, Meisterabschlüsse fördern.",
+      "seite": 14,
+      "zitat": "berufliche Bildung und das Handwerk gezielt aufwerten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine bildet aus und findet keinen Nachwuchs; die Aufwertung des Handwerks adressiert ihre Fachkräftesorge und ihren Berufsstolz.",
+      "begruendung_selbst": "Ohne Handwerk läuft hier nichts. Wenn die Ausbildung endlich gleich viel zählt wie ein Studium, kommen vielleicht wieder Azubis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "An die Betriebsübergabe wird gedacht!",
+      "thema": "steuern",
+      "programmpunkt": "Unternehmensnachfolgen werden gezielt unterstützt, um altersbedingte Betriebsaufgaben und Arbeitsplatzverluste zu vermeiden.",
+      "seite": 14,
+      "zitat": "unterstützen wir Unternehmensnachfolgen gezielt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Übergabe in rund zehn Jahren ist für Sabine ungeklärt; gezielte Nachfolge-Unterstützung berührt ihre Altersvorsorge und Lebensleistung.",
+      "begruendung_selbst": "Mein Betrieb ist meine Altersvorsorge. Wenn die Übergabe nicht zur Steuerfalle wird, kann ich beruhigt planen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heizungsregeln, die bezahlbar bleiben!",
+      "thema": "energie",
+      "programmpunkt": "Kommunale Wärmeplanung und Vorgaben sollen für Bürger und Unternehmen bezahlbar und technisch machbar sein.",
+      "seite": 46,
+      "zitat": "bezahlbar und technisch machbar sein müssen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Hin und Her bei Heizungsregeln verunsichert Sabines Kundschaft und lässt Aufträge platzen; bezahlbare, machbare Vorgaben helfen ihrem Geschäft.",
+      "begruendung_selbst": "Sag mir eine Regel, an die ich mich halten kann. Wenn meine Kunden wieder planen, kann ich auch wieder einbauen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss billiger werden!",
+      "thema": "energie",
+      "programmpunkt": "Initiative für niedrigere Strompreise für Industrie und Haushalte über regionale Strompreiszonen.",
+      "seite": 44,
+      "zitat": "Wir brauchen einen niedrigeren Strompreis für die Industrie",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energiekosten sind für Sabines Betrieb eine Daueraufgabe; niedrigere Strompreise entlasten ihre Kalkulation unmittelbar.",
+      "begruendung_selbst": "Energie frisst meine Marge. Wenn der Strom hier endlich günstiger wird, hab ich Luft für Löhne und Investitionen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kleine kommen leichter an Aufträge!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Vereinfachte, digitalisierte Vergabeverfahren und erleichterter Zugang kleiner und mittlerer Unternehmen zu öffentlichen Aufträgen.",
+      "seite": 17,
+      "zitat": "erleichterten Zugang zu öffentlichen Aufträgen erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine fühlt sich gegenüber Großen mit Rechtsabteilungen benachteiligt; einfachere Vergabe für KMU adressiert genau dieses Gefühl.",
+      "begruendung_selbst": "Die Großen haben Lobby und Juristen, ich hab den Feierabend für Formulare. Einfachere Vergabe gibt uns Kleinen endlich eine Chance.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Für Sabine als wirtschaftsliberale Mittelständlerin liest sich das Programm wie eine Wunschliste: Bürokratieabbau, Aufwertung des Handwerks, Nachfolge-Unterstützung, bezahlbare Energie und einfachere Vergabe treffen ihre Kernsorgen. Gegen ihre Lage gerichtete Punkte erkennt sie kaum.",
+    "score": 2
+  }
+}

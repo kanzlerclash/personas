@@ -1,0 +1,89 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Ohne meine Kolleginnen läuft nichts!",
+      "thema": "integration",
+      "programmpunkt": "Anerkennung, dass viele Krankenhäuser, Betriebe und Gastronomie ohne Menschen mit Migrationshintergrund nicht funktionieren würden.",
+      "seite": 9,
+      "zitat": "Ohne sie würden viele Krankenhäuser, Handwerksbetriebe",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station hängt an migrantischen Kolleg:innen; die ausdrückliche Würdigung ihrer Rolle deckt sich genau mit ihrer Erfahrung.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht. Endlich sagt das mal jemand offen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflegekräfte sollen bessere Bedingungen haben.",
+      "thema": "gesundheit",
+      "programmpunkt": "Attraktive Arbeitsbedingungen und verlässliche Entwicklungsperspektiven für Pflegekräfte und Gesundheitsberufe.",
+      "seite": 27,
+      "zitat": "finden hier attraktive Arbeitsbedingungen, verlässliche Entwicklungsperspektiven",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin leidet unter Arbeitsverdichtung; das Versprechen besserer Arbeitsbedingungen spricht ihr zentrales Anliegen an - bleibt für sie aber zu beweisen.",
+      "begruendung_selbst": "Bessere Arbeitsbedingungen, das will ich hören. Nur müssen am Ende auch Leute auf der Station stehen, nicht nur Worte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege bezahlbar - für alle.",
+      "thema": "gesundheit",
+      "programmpunkt": "Reform der Pflegeversicherung mit gedeckelten Eigenanteilen und Stärkung pflegender Angehöriger.",
+      "seite": 29,
+      "zitat": "mit gedeckelten Eigenanteilen, fairer Finanzierung und Schutz des selbstgenutzten Wohneigentums",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sorgt sich um eine stabile, solidarische Pflegefinanzierung; gedeckelte Eigenanteile entlasten die von ihr Versorgten und das System.",
+      "begruendung_selbst": "Pflege darf niemanden ruinieren. Wenn die Eigenanteile gedeckelt werden, ist das wenigstens ein Schritt in die richtige Richtung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Harter Kurs vergrault mein Team.",
+      "thema": "integration",
+      "programmpunkt": "Konsequente Abschiebung Ausreisepflichtiger und Migrationswende mit dem Ziel, irreguläre Migration auf null zu senken.",
+      "seite": 8,
+      "zitat": "Ausreisepflichtige werden konsequent abgeschoben",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin fürchtet, dass ein harter Migrationston ihre oft migrantische Belegschaft verunsichert und die Versorgung gefährdet.",
+      "begruendung_selbst": "Manche reden, als wären meine Kolleginnen das Problem. So ein Ton vergrault genau die Leute, die wir dringend brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Private Häuser gleichgestellt - skeptisch.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Öffentlich-rechtliche, frei-gemeinnützige und privatwirtschaftliche Krankenhäuser sollen gleichberechtigte Säulen der Versorgung bleiben.",
+      "seite": 28,
+      "zitat": "privatwirtschaftliche Häuser sind gleichberechtigte und tragende Säulen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin steht der Ökonomisierung kritisch gegenüber; die Gleichstellung privatwirtschaftlicher Träger bestärkt aus ihrer Sicht Rendite vor Versorgung.",
+      "begruendung_selbst": "Wenn die Rendite zählt, leidet die Pflege. Private Häuser einfach gleichzustellen, macht mir Sorge um meinen Alltag.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet die ausdrückliche Würdigung migrantischer Kolleg:innen und das Bekenntnis zu besseren Arbeitsbedingungen und bezahlbarer Pflege wichtig. Zugleich fürchtet sie, dass der harte Migrationskurs ihre Belegschaft trifft, und sieht in der Gleichstellung privater Träger die Ökonomisierung bestärkt; verbindliche Personalschlüssel vermisst sie. Unterm Strich gemischt.",
+    "score": 0
+  }
+}

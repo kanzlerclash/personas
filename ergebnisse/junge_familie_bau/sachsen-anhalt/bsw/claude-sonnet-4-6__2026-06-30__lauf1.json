@@ -1,0 +1,88 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Grunderwerbsteuer-Freibetrag – das hilft uns!",
+      "thema": "wohnen",
+      "programmpunkt": "BSW setzt sich für steuerliche Sonderabschreibungen und Freibeträge bei der Grunderwerbsteuer ein, um Eigentumsbildung für Normalverdiener zu ermöglichen.",
+      "seite": 31,
+      "zitat": "steuerliche Sonderabschreibungen und Freibeträge bei der Grunderwerbsteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Lars und Katrin wollen ein Haus kaufen, scheitern aber an den Nebenkosten beim Erwerb. Ein Freibetrag bei der Grunderwerbsteuer würde direkt ihre Finanzierungslücke verkleinern.",
+      "begruendung_selbst": "Die Grunderwerbsteuer frisst beim Hauskauf einen riesigen Batzen weg – Geld, das ich nicht im Kredit habe. Ein Freibetrag wäre die entscheidende Entlastung, die uns den Kauf ermöglicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Grundsteuer für junge Familien abschaffen!",
+      "thema": "steuern",
+      "programmpunkt": "BSW will die Grundsteuer auf selbstgenutztes Wohneigentum für junge Familien vollständig abschaffen bzw. dauerhaft erlassen.",
+      "seite": 31,
+      "zitat": "Für junge Familien wollen wir darüber hinaus die Grundsteuer auf selbstgenutztes Wohneigentum vollständig abschaffen bzw. dauerhaft erlassen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Lars und Katrin haben Kinder und wollen Eigentum aufbauen. Die dauerhafte Befreiung von der Grundsteuer würde ihre laufenden Kosten dauerhaft senken und Bauen im ländlichen Raum attraktiver machen.",
+      "begruendung_selbst": "Grundsteuer auf dem eigenen Haus, das wir mit Müh und Not abzahlen – das nervt. Wenn das für Familien mit Kindern wegfällt, ist das eine ehrliche Familienförderung. Das rechnet sich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine QNG-Pflicht – Bauen endlich erschwinglich!",
+      "thema": "wohnen",
+      "programmpunkt": "BSW lehnt verpflichtende QNG-Standards ab, da sie bezahlbaren Wohnraum verteuern und Eigentumsbildung für Normalverdiener erschweren.",
+      "seite": 31,
+      "zitat": "verpflichtende QNG-Standards oder vergleichbare Zertifizierungen lehnen wir ab, da sie bezahlbaren Wohnraum unnötig verteuern und Eigentumsbildung für Normalverdiener erschweren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Lars und Katrin bauen mit einem knappen Budget. Verpflichtende Zertifizierungsanforderungen verteuern Neubauten erheblich. Die BSW-Ablehnung dieser Pflichten senkt die Bauhürde direkt.",
+      "begruendung_selbst": "Wir bauen kein Luxushaus – wir bauen ein Familienhaus. Jeder extra Standard, den wir einbauen müssen, kostet Tausende Euro, die wir nicht haben. Weg damit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bau-Beschleunigungsgesetz – endlich!",
+      "thema": "wohnen",
+      "programmpunkt": "BSW unterstützt ein Bau-Beschleunigungsgesetz mit klaren Fristen und Standardverfahren sowie die Einführung eines digitalen Bauantrags.",
+      "seite": 31,
+      "zitat": "Das BSW unterstützt daher ein Bau-Beschleunigungsgesetz mit klaren Fristen und Standardverfahren, die Einführung eines digitalen Bauantrags",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihr Bauantrag liegt seit Monaten bei der Behörde. Verzögerungen kosten Geld und Nerven. Ein Bau-Beschleunigungsgesetz mit digitalen Verfahren würde ihr konkretes Problem lösen.",
+      "begruendung_selbst": "Wir warten seit acht Monaten auf den Bauantrag. Jede Woche Verzögerung kostet uns Zinsen. Ein digitaler Antrag mit festen Fristen wäre Gold wert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita beitragsfrei – das gibt uns Luft!",
+      "thema": "familie",
+      "programmpunkt": "BSW will perspektivisch beitragsfreie Kitas und eine flächendeckende Ganztagsbetreuung sichern.",
+      "seite": 47,
+      "zitat": "Perspektivisch beitragsfreie Kitas einführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Lars und Katrin zahlen Kitabeiträge für zwei Kinder. Diese Kosten belasten ihr ohnehin knappes Baubudget. Beitragsfreiheit würde direkt ihren Handlungsspielraum beim Hausbau verbessern.",
+      "begruendung_selbst": "Zwei Kinder in der Kita – das macht jeden Monat einen Riesenposten aus. Wenn das wegfällt, können wir die Darlehensrate leichter stemmen. Das hängt alles zusammen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Lars und Katrin finden im BSW-Programm fast alles, was sie sich wünschen: Grunderwerbsteuer-Freibetrag, Grundsteuer-Abschaffung für Familien, keine QNG-Pflicht, Bau-Beschleunigungsgesetz und beitragsfreie Kitas. Das ist ein fast vollständiges Paket für bauende junge Familien. Kein Programmpunkt schadet ihnen direkt.",
+    "score": 2
+  }
+}

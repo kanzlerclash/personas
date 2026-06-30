@@ -1,0 +1,89 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Flexible Kita-Zeiten — das ist mein Leben!",
+      "thema": "familie",
+      "programmpunkt": "Kitas sollen so organisiert sein, dass sie zum Alltag der Familien passen — mit flexiblen Öffnungszeiten nach tatsächlichem Bedarf; mobile Betreuungsreserven und Gemeinschaftsbüros mit Kinderbetreuung sollen gefördert werden.",
+      "seite": 25,
+      "zitat": "mit flexiblen Öffnungszeiten nach tatsächlichem Bedarf",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine kämpft täglich darum, Betreuungszeiten und ihre Teilzeitarbeit zu koordinieren. Flexible Kita-Zeiten würden ihr ermöglichen, mehr zu arbeiten und weniger improvisieren zu müssen.",
+      "begruendung_selbst": "Wenn meine Kita nicht schon um 16 Uhr zumacht, kann ich endlich wirklich in Vollzeit arbeiten. Das ist der Unterschied zwischen arm und weniger arm.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lebensmittel ohne Steuer — jeden Monat spürbar!",
+      "thema": "steuern",
+      "programmpunkt": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen.",
+      "seite": 9,
+      "zitat": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines Budget ist extrem eng, die Miete frisst den Großteil. Günstigere Lebensmittel für zwei Kinder wären kein symbolischer Vorteil, sondern eine monatliche Entlastung im dreistelligen Bereich.",
+      "begruendung_selbst": "Ich kauf für zwei Kinder ein. Wenn das billiger wird, kann ich vielleicht einen Monat ohne Nachrechnen einkaufen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bürgergeld kürzen trifft mich direkt!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Bürgergeld soll reformiert werden; Sanktionsspielräume sollen konsequent ausgeschöpft werden, Ablehnung zumutbarer Arbeit führt zu Leistungskürzungen; gemeinnützige Arbeitspflichten für Langzeitarbeitslose.",
+      "seite": 40,
+      "zitat": "Wer staatliche Hilfe in Anspruch nimmt, muss entsprechend auch seinen Mitwirkungspflichten nachkommen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine bezieht Bürgergeld-Aufstockung, arbeitet aber gleichzeitig. Sie erfährt die 'Fördern und Fordern'-Rhetorik als Misstrauen gegenüber Menschen, die unter ihren tatsächlichen Möglichkeiten bleiben müssen, weil Betreuung fehlt.",
+      "begruendung_selbst": "Ich arbeite — ich bin kein Sozialfall, der sich drückt. Wenn trotzdem Sanktionen als Drohung kommen, fühle ich mich als Verdächtige behandelt, nicht als Mutter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietpreise interessieren die FDP nicht.",
+      "thema": "wohnen",
+      "programmpunkt": "Das FDP-Programm setzt auf private Investitionen und steuerliche Anreize statt Mietregulierung; der Staat soll faire Rahmenbedingungen setzen, Entscheidungen aber Eigentümern und Unternehmen überlassen.",
+      "seite": 12,
+      "zitat": "die Entscheidungen über Investitionen treffen Unternehmen, Eigentümer und Familien selbst",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadines Miete frisst den Großteil ihres Einkommens. Ein marktliberaler Ansatz ohne Mietpreisbegrenzung bietet ihr keine Sicherheit vor weiteren Erhöhungen.",
+      "begruendung_selbst": "Meine Miete ist mein größtes Problem. Wenn der Markt regeln soll, heißt das: Es wird teurer. Das kann ich nicht brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beiträge statt Beitragsfreiheit bei der Kita.",
+      "thema": "bildung",
+      "programmpunkt": "Beitragsstabilität ist ein Ziel, aber nicht um den Preis sinkender Qualität; öffentliche Mittel sollen so verwendet werden, dass Qualität Vorrang hat vor pauschaler Beitragsfreiheit ohne Standards.",
+      "seite": 30,
+      "zitat": "Öffentliche Mittel sollen so verwendet werden, dass Qualität in der Bildung Vorrang hat vor pauschaler Beitragsfreiheit ohne Standards.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine ist auf bezahlbare Betreuung angewiesen. Das Signal, dass Beitragsfreiheit nicht die Priorität ist, macht ihr Sorgen, dass Kita-Beiträge steigen könnten.",
+      "begruendung_selbst": "Ich zahle für die Kita schon knapp. Wenn Qualität Vorrang vor Beitragsfreiheit hat, heißt das: Ich zahle mehr. Das kann ich mir nicht leisten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet bei der FDP Sachsen-Anhalt punktuelle Entlastungen: flexible Kita-Zeiten treffen ihren Alltag direkt, günstigere Lebensmittel helfen ihrem Budget. Aber das Bürgergeld-Sanktionsversprechen trifft sie als aufstockende Arbeitsmutter, die Mietfrage bleibt dem Markt überlassen, und die Signale bei Kita-Beiträgen machen ihr Sorgen. Das Programm behandelt ihre Lebenslage zu wenig als strukturelles Problem.",
+    "score": -1
+  }
+}

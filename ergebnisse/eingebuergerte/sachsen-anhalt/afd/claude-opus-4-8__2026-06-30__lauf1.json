@@ -1,0 +1,100 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Remigration meint Menschen wie mich",
+      "thema": "integration",
+      "programmpunkt": "Eine Abschiebe- und Remigrationsoffensive wird zum zentralen migrationspolitischen Ziel erklärt.",
+      "seite": 5,
+      "zitat": "Einleitung einer Abschiebe- und Remigrationsoffensive",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin erlebt den Begriff 'Remigration' als gegen Menschen mit ihrer Familiengeschichte gerichtet; eine zur Offensive erhobene Remigrationspolitik trifft unmittelbar ihr Gefühl von Zugehörigkeit.",
+      "begruendung_selbst": "Ich bin hier geboren, und trotzdem höre ich 'Remigration'. Wohin soll ich denn? Das ist meine Heimat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Geburtsrecht streichen - also meins?",
+      "thema": "integration",
+      "programmpunkt": "Das Geburtsortsprinzip soll aus dem Staatsangehörigkeitsrecht gestrichen und zum Abstammungsprinzip zurückgekehrt werden.",
+      "seite": 5,
+      "zitat": "Streichung des Geburtsortsprinzips aus dem Staatsangehörigkeitsrecht",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin gründet ihre Zugehörigkeit auf Recht und Teilhabe, nicht auf Abstammung; die Rückkehr zum reinen Abstammungsprinzip stellt für Menschen wie sie die Selbstverständlichkeit deutscher Zugehörigkeit infrage.",
+      "begruendung_selbst": "Zugehörigkeit heißt für mich Teilhabe und Recht, nicht Blut. Wer das Geburtsrecht streicht, sagt Kindern wie mir: ihr gehört nicht wirklich dazu.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Herkunft soll ich 'loslassen'",
+      "thema": "integration",
+      "programmpunkt": "Wer eingebürgert wird, soll sich per Erklärung verpflichten, die neue Identität anzunehmen und die alte Identität loszulassen.",
+      "seite": 6,
+      "zitat": "seine neue Identität annehmen und seine alte Identität loslassen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin lebt Zugehörigkeit gerade nicht als Verleugnung ihrer Herkunft; die Forderung, die alte Identität abzulegen, widerspricht ihrem Selbstverständnis als selbstverständlicher Teil der Gesellschaft.",
+      "begruendung_selbst": "Ich bin Deutsche und Tochter meiner Familie zugleich. Man muss seine Herkunft nicht wegwerfen, um dazuzugehören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Pass gilt offenbar weniger",
+      "thema": "demokratie",
+      "programmpunkt": "Schwerkriminellen Doppelstaatsbürgern soll die deutsche Staatsbürgerschaft regelhaft aberkannt werden.",
+      "seite": 5,
+      "zitat": "die Aberkennung der deutschen Staatsbürgerschaft bei schwerkriminellen Doppelstaatsbürgern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn es um Straftäter geht, schafft die Logik für Doppelstaatsbürger eine Staatsbürgerschaft zweiter Klasse; Aylin sieht damit den gleichen Wert ihres Passes infrage gestellt.",
+      "begruendung_selbst": "Mein deutscher Pass soll widerrufbar sein, der eines anderen nicht? Dann ist meine Staatsbürgerschaft eben doch nur auf Probe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Willkommen nur für 'deutsche Kinder'",
+      "thema": "integration",
+      "programmpunkt": "Statt einer Willkommenskultur für Zugewanderte soll es eine Verabschiedungskultur und eine Willkommenskultur ausdrücklich für deutsche Kinder geben.",
+      "seite": 5,
+      "zitat": "eine Willkommenskultur für deutsche Kinder",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Aufteilung in erwünschte und unerwünschte Menschen entlang der Herkunft trifft Aylins Kernsorge, ständig ihre Zugehörigkeit beweisen zu müssen.",
+      "begruendung_selbst": "Da wird genau aufgeteilt, wer erwünscht ist und wer nicht, und ich falle in die falsche Schublade. Genau dieses Gefühl meine ich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pauschal gegen eine ganze Religion",
+      "thema": "integration",
+      "programmpunkt": "Es wird festgestellt, dass der Islam weder zu Deutschland noch zu Sachsen-Anhalt gehöre, und sein Einfluss soll beschränkt werden.",
+      "seite": 6,
+      "zitat": "Der Islam gehört weder zu Deutschland noch zu Sachsen-Anhalt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin lehnt pauschale, ausgrenzende Rhetorik ab; die pauschale Aberkennung der Zugehörigkeit einer ganzen Religion erlebt sie als Angriff auf die Community, aus der ihre Familie stammt.",
+      "begruendung_selbst": "Über Millionen Menschen wird einfach gesagt, sie gehörten nicht dazu. So redet man über Menschen wie über ein Problem.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin erlebt das Programm fast durchgehend als Infragestellung ihrer Zugehörigkeit: Remigrationsoffensive, Streichung des Geburtsrechts, das Gebot, die eigene Herkunft abzulegen, eine zweitklassige Staatsbürgerschaft für Doppelstaatler und pauschale Ausgrenzungsrhetorik. Eine sachliche, geregelte Migrationspolitik, die sie befürworten könnte, findet sie hier nicht. Das Programm berührt ihre Existenz fast nur negativ.",
+    "score": -2
+  }
+}

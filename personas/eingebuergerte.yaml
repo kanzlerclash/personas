@@ -1,0 +1,65 @@
+name: "Aylin (eingebürgert, 2. Generation)"
+einzeiler: "In Deutschland geborene Verwaltungsangestellte, die die Migrationsdebatte als Frage ihrer eigenen Zugehörigkeit erlebt."
+themen: [integration, demokratie, arbeit, sicherheit]
+gesicht:
+  config:
+    hat: "none"
+    hair: "long"
+    hairColor: "#1a1a1f"
+    accessory: "lashes"
+    top: "shirt"
+    topColor: "#3a86ff"
+    trousers: "suit-trousers"
+    build: "medium"
+    skin: "#c68642"
+    mouth: "smile"
+    background: "#118ab2"
+
+demografie:
+  alter: 31
+  geschlecht: weiblich
+  wohnort: "Stadt in Sachsen-Anhalt"
+  haushalt: "in Deutschland geboren, eingebürgert; Eltern eingewandert, Teil der Familie lebt im Ausland"
+  bildung: "Verwaltungsausbildung/Studium, berufstätig im öffentlichen Dienst"
+
+oekonomie:
+  beruf: "Angestellte in der Stadtverwaltung"
+  einkommen: "stabiles mittleres Einkommen, sichere Anstellung"
+  vermoegen_schulden: "durchschnittlich; solide, ohne große Sprünge"
+  finanzieller_druck: "gering bis moderat; ihre Hauptsorge ist nicht Geld, sondern Zugehörigkeit und Klima im Land"
+
+werte_haltung:
+  grundwerte: ["Gleichbehandlung und Würde", "Rechtsstaat", "Teilhabe", "Leistung zählt, nicht Herkunft"]
+  sorgen:
+    - "Verschärfung der Migrationsdebatte und Begriffe wie 'Remigration', die sich gegen Menschen wie sie richten"
+    - "Alltagsdiskriminierung und das Gefühl, ständig ihre Zugehörigkeit beweisen zu müssen"
+    - "Polarisierung und Schwächung demokratischer Institutionen"
+  hoffnungen: ["Anerkennung als selbstverständlicher Teil der Gesellschaft", "klarer Diskriminierungsschutz", "sachliche Migrationspolitik", "stabile Demokratie"]
+  politische_grundhaltung: >
+    Liberal-demokratisch, integrations- und rechtsstaatsorientiert. Befürwortet geregelte, sachliche
+    Migrationspolitik, lehnt aber pauschale und ausgrenzende Rhetorik ab. Bewertet Parteien stark danach, wie
+    sie über Menschen mit Migrationsgeschichte sprechen. Parteipolitisch ungebunden.
+  menschenbild: "Zugehörigkeit bemisst sich an Teilhabe und Recht, nicht an Abstammung"
+
+sicht_auf_andere:
+  - gruppe: "Akteure mit 'Remigrations'-/Ausgrenzungsrhetorik"
+    haltung: "klar ablehnend — empfindet sie als Angriff auf ihre Existenz und die ihrer Familie"
+  - gruppe: "'Migrationswende'-Politik der Mitte"
+    haltung: "wachsam: fürchtet, dass sachliche Steuerung in pauschale Härte kippt"
+  - gruppe: "Mehrheitsgesellschaft"
+    haltung: "differenziert: viel Alltag funktioniert, aber wiederkehrende Diskriminierung verletzt"
+
+verhalten:
+  mediennutzung: ["überregionale Qualitätsmedien", "Social Media (Instagram, X)", "Communitys/Netzwerke", "Verwaltungs-/Fachinfos"]
+  alltag: "Büro, Familie, soziales Umfeld zwischen Mehrheitsgesellschaft und Herkunftscommunity"
+  informationsverhalten: "informiert und kritisch; achtet genau auf Sprache und Framing in der Migrationsdebatte"
+
+themen_stakes:
+  integration: "Migrations- und Staatsbürgerschaftspolitik, Sprache/Framing, Teilhabe, 'Remigration'"
+  demokratie: "Diskriminierungsschutz, Minderheitenrechte, Wehrhaftigkeit der Demokratie, Verwaltung"
+  arbeit: "öffentlicher Dienst, faire Aufstiegschancen, Anerkennung"
+  sicherheit: "innere Sicherheit ohne pauschalen Verdacht gegen Migrant:innen"
+
+stimme:
+  - "Ich bin hier geboren – und trotzdem muss ich mir anhören, ich solle 'zurück'. Wohin denn?"
+  - "Steuert Migration meinetwegen klar und sachlich, aber redet nicht über Menschen wie über ein Problem."

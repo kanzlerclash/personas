@@ -1,0 +1,113 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Hände weg vom Streikrecht!",
+      "thema": "arbeit",
+      "programmpunkt": "Stärkung von Tarifbindung und Mitbestimmung; das Streikrecht darf nicht eingeschränkt werden, Behinderung von Mitbestimmung wird sanktioniert.",
+      "seite": 22,
+      "zitat": "als Grundpfeiler der Demokratie darf nicht eingeschränkt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Gewerkschafter und Betriebsrat sind Streikrecht und Mitbestimmung Uwes wichtigste Instrumente; ihr ausdrücklicher Schutz bestätigt seine Grundwerte.",
+      "begruendung_selbst": "Mitbestimmung und Streikrecht sind unsere Macht im Betrieb – wer die antastet, hat mich als Gegner.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Die Industrie bleibt hier!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Bekenntnis zum Industriestandort Sachsen-Anhalt und aktive Industriepolitik statt Zuschauen.",
+      "seite": 20,
+      "zitat": "Erhalt und Stärkung des Industriestandorts Sachsen-Anhalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes Wohlstand hängt am Fortbestand der Branche; eine aktive Industriepolitik adressiert seine existenzielle Sorge um den Standort direkt.",
+      "begruendung_selbst": "Wenn die Politik die Industrie hier aktiv hält statt zuzuschauen, sichert das die Jobs meiner Kollegen und mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben!",
+      "thema": "energie",
+      "programmpunkt": "Sichere, bezahlbare und jederzeit verfügbare Energieversorgung über einen breiten Energiemix für die Industrie.",
+      "seite": 20,
+      "zitat": "Strom muss bezahlbar und rund um die Uhr verfügbar sein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die energieintensive Chemie hängt an bezahlbaren, verlässlichen Strompreisen; das Versprechen sicherer Versorgung schützt aus Uwes Sicht seine Arbeitsplätze.",
+      "begruendung_selbst": "Ohne bezahlbaren Strom rund um die Uhr ist meine Anlage weg – und damit mein Job. Gut, dass das ernst genommen wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wandel nicht auf unserem Rücken!",
+      "thema": "klima",
+      "programmpunkt": "Wirtschaftlicher Wandel und Transformation sollen sozial gerecht gestaltet werden und nicht zu Lasten der Beschäftigten gehen.",
+      "seite": 22,
+      "zitat": "Wirtschaftlicher Wandel darf nicht zu Lasten der Beschäftigten gehen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe ist für den Wandel, fürchtet aber das Tempo; die Zusage, die Transformation sozial abzusichern und niemanden abzuhängen, trifft genau seine Bedingung.",
+      "begruendung_selbst": "Ich bin nicht gegen Klimaschutz – nur nicht so, dass meine Kollegen arbeitslos werden. Genau das verspricht man hier.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Investieren statt Kaputtsparen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Aktive staatliche Investitions- und Nachfragepolitik statt Sparprogrammen und Sozialkürzungen.",
+      "seite": 19,
+      "zitat": "Aktive staatliche Investitions- und Nachfragepolitik",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe lehnt Sozialabbau und Sparpolitik ab; eine investive Nachfragepolitik entspricht seiner wirtschaftlich linken Haltung und sichert regionale Aufträge.",
+      "begruendung_selbst": "Kaputtsparen hat uns die Region ruiniert – wenn der Staat endlich investiert, kommen Aufträge und Jobs zurück.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umschulung statt Abstellgleis!",
+      "thema": "arbeit",
+      "programmpunkt": "Sicherung der Beschäftigung im Strukturwandel durch Qualifizierung und Weiterbildung.",
+      "seite": 28,
+      "zitat": "Beschäftigung durch Qualifizierung und Weiterbildung im Strukturwandel sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe will einen sozial abgesicherten Wandel; Qualifizierung und Weiterbildung statt Arbeitsplatzabbau ohne Perspektive entsprechen seiner Forderung an die Transformation.",
+      "begruendung_selbst": "Wenn sich was ändert, dann mit Umschulung und Perspektive – nicht einfach Leute auf die Straße setzen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "CCS-Verbot nimmt uns ein Werkzeug!",
+      "thema": "energie",
+      "programmpunkt": "Grundsätzliche Ablehnung der CO2-Verpressung (CCS) in Sachsen-Anhalt.",
+      "seite": 85,
+      "zitat": "Verpressung (CCS) lehnen wir für Sachsen-Anhalt ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für die schwer dekarbonisierbare Chemieindustrie kann CCS ein Übergangswerkzeug sein; ein pauschales Verbot erlebt Uwe als möglichen Verlust einer Brücke für den Standort.",
+      "begruendung_selbst": "Wenn ihr uns CCS pauschal verbietet, nehmt ihr unserer Chemie womöglich eine Brücke, die Jobs sichern könnte.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe sieht seine Kernanliegen breit bestätigt: Schutz von Streikrecht und Mitbestimmung, Erhalt des Industriestandorts, bezahlbare Energie, sozial abgesicherte Transformation und investive statt sparende Wirtschaftspolitik. Lediglich das pauschale CCS-Verbot betrachtet er als möglichen Verlust eines Werkzeugs für die Chemie. Insgesamt trifft das Programm seine Mischung aus wirtschaftlich linker Haltung und Sorge um Industriejobs sehr gut.",
+    "score": 2
+  }
+}

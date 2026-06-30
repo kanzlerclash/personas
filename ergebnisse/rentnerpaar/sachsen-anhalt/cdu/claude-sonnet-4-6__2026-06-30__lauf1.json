@@ -1,0 +1,102 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Pflege-Eigenanteil gedeckelt!",
+      "thema": "gesundheit",
+      "programmpunkt": "Auf Bundesebene setzt sich die CDU für eine Reform der Pflegeversicherung mit gedeckelten Eigenanteilen und Schutz des selbstgenutzten Wohneigentums ein.",
+      "seite": 29,
+      "zitat": "gedeckelten Eigenanteilen, fairer Finanzierung und Schutz des selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten Pflegekosten als größte Bedrohung für ihr Eigenheim und ihre Ersparnisse. Gedeckelte Eigenanteile und ausdrücklicher Schutz des Eigenheims sind für sie eine direkte Entlastungszusage.",
+      "begruendung_selbst": "Wenn einer von uns Pflege braucht und das kostet alles was wir haben – das ist unser größter Albtraum. Dass das Haus dabei geschützt bleibt, nimmt uns eine Last.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hausarzt bleibt erreichbar!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU setzt auf flächendeckende medizinische Versorgung als Kern der Daseinsvorsorge, mit Förderung von Praxisgründungen auf dem Land und dem Medi-Bus-Konzept.",
+      "seite": 27,
+      "zitat": "flächendeckende medizinische Versorgung als Kern der Daseinsvorsorge",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter haben nur noch einen Hausarzt in Reichweite und fürchten, dass dieser aufhört. Das klare Bekenntnis zur ländlichen Daseinsvorsorge und konkrete Instrumente wie Praxisförderung und Medi-Bus berühren sie direkt.",
+      "begruendung_selbst": "Wenn unser Arzt aufhört, ist die nächste Praxis zwanzig Kilometer weg. Solange wir noch Auto fahren, geht das. Aber was ist danach?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei – sicherer fühlen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Landespolizei soll auf weit mehr als 8.100 Bedienstete aufgestockt werden, mit stärkerem sichtbaren Präsenz vor Ort.",
+      "seite": 6,
+      "zitat": "weit mehr als 8. 100 Bedienstete",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Rentnerpaar nimmt Sicherheit und Kriminalität als zunehmende Sorge wahr. Mehr Polizei und sichtbare Präsenz im Ort entsprechen ihrem Sicherheitsgefühl.",
+      "begruendung_selbst": "Früher hat man die Polizei im Dorf gesehen. Jetzt kommt die manchmal überhaupt nicht mehr. Mehr Personal – das merkt man dann hoffentlich auch bei uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unser Haus bleibt unsers!",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU lehnt willkürliche Enteignungen und Eingriffe in Eigentumsrechte entschieden ab und setzt sich für Schutz des Wohneigentums ein.",
+      "seite": 65,
+      "zitat": "Mietpreisdeckel, willkürliche Enteignungen und weitere Eingriffe in Eigentumsrechte entschieden ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das abbezahlte Eigenheim ist das Hauptvermögen von Helga und Dieter. Jegliche Bedrohung dieses Vermögens durch staatliche Eingriffe ist für sie eine existenzielle Frage.",
+      "begruendung_selbst": "Das Haus haben wir uns ein Leben lang erarbeitet. Da soll niemand dran rum. Die CDU sagt klar Nein zu Enteignungen – das ist uns wichtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Analog bleibt möglich!",
+      "thema": "demokratie",
+      "programmpunkt": "Auch wenn Verwaltung digitalisiert wird, soll es weiterhin analoge Kontaktmöglichkeiten für Bürger geben, die keine digitalen Angebote nutzen können.",
+      "seite": 32,
+      "zitat": "Auch analoge Kontaktmöglichkeiten müssen weiterhin vorgehalten werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter informieren sich über Zeitung und Telefon, nicht digital. Die ausdrückliche Zusage, dass staatliche Leistungen auch analog zugänglich bleiben, nimmt ihnen die Sorge vor digitalem Ausschluss.",
+      "begruendung_selbst": "Wir haben kein Smartphone und wollen auch keins lernen. Gut, dass man weiterhin auch einfach zur Behörde gehen kann.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Rente: kein konkretes Versprechen",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm äußert sich nicht konkret zum Rentenniveau oder zur Rentenabsicherung; wirtschaftliche Stärkung wird als Grundlage für soziale Absicherung benannt.",
+      "seite": 12,
+      "zitat": "Dauerhaft steigende und sichere Einkommen entstehen... durch eine starke und wettbewerbsfähige Wirtschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Rentnerpaar erwartet klare Aussagen zum Schutz des Rentenniveaus. Das CDU-Programm verweist stattdessen auf wirtschaftliche Stärke als Basis – das ist ihnen zu abstrakt und gibt keine direkte Sicherheit.",
+      "begruendung_selbst": "Wir haben unser Leben lang gearbeitet und jetzt soll die Rente sicher sein. Uns zu sagen, das hängt von der Wirtschaft ab – das klingt nicht nach Versprechen, das klingt nach Ausrede.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter finden im CDU-Programm starke Anknüpfungspunkte bei ihren Kernsorgen: gedeckelte Pflegeeigenanteile, Schutz des Eigenheims, mehr Polizei und der Erhalt analoger Verwaltungswege. Die ländliche Daseinsvorsorge – insbesondere die Hausarztversorgung – wird mit konkreten Instrumenten adressiert. Einzig bei der Rentensicherheit fehlt ein direktes Versprechen, was für das Paar ein zentrales Manko bleibt.",
+    "score": 1
+  }
+}

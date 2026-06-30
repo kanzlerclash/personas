@@ -1,0 +1,76 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Grunderwerbsteuer-Freibetrag — endlich!",
+      "thema": "wohnen",
+      "programmpunkt": "Für Erstkäufer selbstgenutzten Wohneigentums soll ein Grunderwerbsteuer-Freibetrag eingeführt werden, kombiniert mit zinsvergünstigten Darlehen der Investitionsbank; Eigenkapital soll so geschont werden.",
+      "seite": 12,
+      "zitat": "ergänzen es um einen Grunderwerbsteuer-Freibetrag für den erstmaligen Erwerb selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica scheitern genau an den Kaufnebenkosten, nicht am Preis selbst. Ein Grunderwerbsteuer-Freibetrag ist das zentrale Instrument, das ihr Eigenkapitalproblem direkt löst.",
+      "begruendung_selbst": "Die Grunderwerbsteuer kostet uns beim Kauf einen ganzen Jahresurlaub — und das Geld fehlt uns als Eigenkapital. Wenn der Freibetrag kommt, öffnet sich endlich eine Tür.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kaufpreise in Sachsen-Anhalt noch moderat!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm erkennt an, dass Kaufpreise in Sachsen-Anhalt vielerorts moderat sind, der Erwerb aber oft an hohen Kaufnebenkosten scheitert; das soll durch Finanzierung und steuerliche Entlastung behoben werden.",
+      "seite": 12,
+      "zitat": "In Sachsen-Anhalt sind die Kaufpreise vielerorts moderat, dennoch scheitert der Erwerb oft an den hohen Kaufnebenkosten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica im Speckgürtel einer sachsen-anhaltischen Stadt sehen diese Diagnose als zutreffend. Das Programm versteht ihr konkretes Problem und adressiert es direkt.",
+      "begruendung_selbst": "Genau das ist unser Problem! Das Haus selbst ist bezahlbar, aber drumherum geht alles drauf. Wer das erkannt hat, hat uns verstanden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Flexible Kita-Zeiten für Doppelverdiener!",
+      "thema": "familie",
+      "programmpunkt": "Kitas sollen mit flexiblen Öffnungszeiten nach tatsächlichem Bedarf organisiert sein; mobile Betreuungsreserven und Gemeinschaftsbüros mit Kinderbetreuung sollen gefördert werden.",
+      "seite": 25,
+      "zitat": "mit flexiblen Öffnungszeiten nach tatsächlichem Bedarf",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica brauchen beide vollständig berufstätig zu bleiben, um die Finanzierung stemmen zu können. Flexible Kita-Zeiten sind für sie keine Komfortfrage, sondern wirtschaftliche Notwendigkeit.",
+      "begruendung_selbst": "Wenn einer von uns wegen der Kita-Zeiten früher nach Hause muss, geht das direkt von unserem Eigenkapitalplan ab. Flexible Betreuung ist für uns buchstäblich Geld.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Genehmigungen beschleunigen — Bau endlich machbar!",
+      "thema": "wohnen",
+      "programmpunkt": "Genehmigungsverfahren sollen verbindlich beschleunigt und digital nachvollziehbar sein; eine durchgängige digitale Genehmigungskette vom Antrag bis zum Bescheid soll Standard werden.",
+      "seite": 13,
+      "zitat": "eine durchgängige, verlässliche digitale Genehmigungskette von Antrag über Beteiligungen und Nachforderungen bis zum Bescheid",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Lange Genehmigungszeiten erhöhen die Baukosten und verlängern teure Mietphasen. Schnellere digitale Verfahren würden Tom und Jessicas Finanzierungsplanung stabilisieren.",
+      "begruendung_selbst": "Jeder Monat, den wir auf eine Genehmigung warten, kostet uns Miete und verschiebt den Einzug. Wenn das digital und schnell geht, spart das uns bares Geld.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica finden im FDP-Programm für Sachsen-Anhalt eine direkte Ansprache ihrer zentralen Hürden: der Grunderwerbsteuer-Freibetrag für Erstkäufer ist genau das fehlende Element ihrer Finanzierung, die Diagnose der hohen Kaufnebenkosten trifft ihre Realität, flexible Kita-Zeiten sichern ihre Doppelverdiener-Strategie, und schnelle Genehmigungsverfahren reduzieren die Gesamtkosten. Das Programm ist für sie eines der wenigen, das ihren Wohntraum konkret angeht.",
+    "score": 2
+  }
+}

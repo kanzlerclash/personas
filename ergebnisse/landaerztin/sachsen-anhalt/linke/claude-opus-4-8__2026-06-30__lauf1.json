@@ -1,0 +1,88 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Landarztquoten gegen den Mangel – überfällig!",
+      "thema": "gesundheit",
+      "programmpunkt": "Dem Fachärztemangel mit weiteren Landarztquoten und Haltefaktoren für Landeskinder entgegenwirken.",
+      "seite": 55,
+      "zitat": "Wir wirken dem Fachärztemangel durch weitere Landarztquoten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra findet keine Praxisnachfolge; Landarztquoten und Niederlassungsanreize adressieren genau ihre Sorge, was aus ihren Patient:innen wird.",
+      "begruendung_selbst": "Wenn ich in Rente gehe, steht hier niemand bereit – Quoten, die gezielt Landärzt:innen bringen, sind genau das, was fehlt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich wird das Versorgungsproblem benannt!",
+      "thema": "gesundheit",
+      "programmpunkt": "Anerkennung, dass Facharzttermine zunehmend schwer zu bekommen und Praxen auf dem Land schlecht erreichbar sind.",
+      "seite": 54,
+      "zitat": "Termine beim Facharzt zu bekommen, gestaltet sich zunehmend schwieriger",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra erlebt den ärztlichen Versorgungsmangel täglich; dass das Programm das Problem klar benennt statt zu beschönigen, deckt sich mit ihrer Praxisrealität.",
+      "begruendung_selbst": "Ich sehe jeden Tag, wie schwer meine Patienten an Termine kommen – schön, dass das mal ehrlich beim Namen genannt wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Medimobil und Telemedizin aufs Land!",
+      "thema": "verkehr",
+      "programmpunkt": "Medimobil und Telemedizin für die ambulante Versorgung im ländlichen Raum einsetzen.",
+      "seite": 55,
+      "zitat": "den Einsatz von Medimobil und Telemedizin",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Lange Wege belasten Petras alternde Patient:innen; mobile und telemedizinische Angebote entlasten ihre Versorgung im strukturschwachen Raum konkret.",
+      "begruendung_selbst": "Meine Patienten sind alt und die Wege weit – wenn Medimobil und Telemedizin kommen, kann ich die Versorgung besser tragen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Inhabergeführte Praxen statt Investoren!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Inhaberbetriebene MVZ unterstützen, statt Konzernen und Investoren den Vortritt zu lassen.",
+      "seite": 55,
+      "zitat": "Wir unterstützen inhaberbetriebene MVZ",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra steht der Ökonomisierung kritisch gegenüber; die Stärkung inhabergeführter Praxen statt Investorenstrukturen passt zu ihrem ärztlichen Selbstverständnis.",
+      "begruendung_selbst": "Ich bin Ärztin, keine Renditemaschine – dass inhabergeführte Praxen gestärkt werden statt Investoren, ist ganz mein Verständnis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Private Equity raus aus der Versorgung!",
+      "thema": "gesundheit",
+      "programmpunkt": "Verhindern, dass private Kapitalgesellschaften in großem Stil in Pflegeeinrichtungen und MVZ investieren.",
+      "seite": 55,
+      "zitat": "Wir verhindern, dass private Kapitalgesellschaften",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra hält Rendite-Logik für unvereinbar mit ländlicher Grundversorgung; ein Riegel gegen Private-Equity-Investoren entspricht ihrer Ablehnung der Ökonomisierung.",
+      "begruendung_selbst": "Rendite-Logik passt nicht zur Grundversorgung auf dem Land – Finanzinvestoren aus den Praxen herauszuhalten ist goldrichtig.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra sieht ihre Kernsorge, den Landarztmangel und die ungeklärte Nachfolge, mit Landarztquoten, Telemedizin und Medimobil ernsthaft adressiert. Auch ihre Ablehnung der Ökonomisierung findet sich in der Unterstützung inhabergeführter Praxen und der Abwehr von Private-Equity wieder. Offen bleibt für die bürokratiegeplagte Pragmatikerin allein, ob die Versprechen wirklich umgesetzt werden; insgesamt überwiegt klar die Zustimmung.",
+    "score": 1
+  }
+}

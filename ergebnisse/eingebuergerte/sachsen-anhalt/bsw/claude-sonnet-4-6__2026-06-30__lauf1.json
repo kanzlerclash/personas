@@ -1,0 +1,91 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Arbeit schützt vor Abschiebung – das zählt!",
+      "thema": "integration",
+      "programmpunkt": "BSW will, dass Geduldete, die arbeiten, Steuern zahlen oder in Ausbildung sind, nicht abgeschoben werden.",
+      "seite": 64,
+      "zitat": "Geduldete Menschen, die sozialversicherungspflichtig arbeiten, Steuern zahlen oder sich in einer Ausbildung befinden, dürfen nicht abgeschoben werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Fatima hat selbst erlebt, wie der Weg zur Integration Jahrzehnte dauert. Sie kennt Bekannte mit unsicherem Status. Das BSW-Versprechen, Arbeit als Schutz vor Abschiebung anzuerkennen, erscheint ihr als gerechtes Gegengewicht zur harten Abschiebungsrhetorik.",
+      "begruendung_selbst": "Wer arbeitet, Steuern zahlt und sich integriert – der gehört dazu. Das ist, was auch für mich gilt. Diese Linie ist fair, auch wenn ich mir mehr Offenheit wünsche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sprachförderung ausbauen – das wirkt!",
+      "thema": "integration",
+      "programmpunkt": "BSW will berufsbezogene Sprachkurse auf B2-Niveau deutlich ausbauen.",
+      "seite": 64,
+      "zitat": "müssen insbesondere berufsbezogene Sprachkurse auf B2-Niveau deutlich ausgeweitet werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Fatima weiß aus eigener Erfahrung: Sprache ist der Schlüssel. Bessere Sprachkurse für Menschen, die bereits hier leben, hätten auch ihr frühzeitig geholfen. Sie befürwortet diese pragmatische Integrationsförderung.",
+      "begruendung_selbst": "Sprache war mein härtester Kampf. Wer das ernst nimmt und Kurse ausweitet, macht echte Integration möglich – nicht Lippenbekenntnisse.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Begrenzte Aufnahmebereitschaft – das trifft mich",
+      "thema": "integration",
+      "programmpunkt": "BSW erklärt die Aufnahmebereitschaft und Integrationsfähigkeit der Gesellschaft für begrenzt und spricht von Überlastungsschutz der heimischen Bevölkerung.",
+      "seite": 62,
+      "zitat": "Die Aufnahmebereitschaft und Integrationsfähigkeit der Gesellschaft sind begrenzt. Die heimische Bevölkerung ist vor Überlastungstendenzen zu schützen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Fatima hat selbst erlebt, wie man auf Fremdheit und Ablehnung stößt. Der BSW-Rahmen, Migration primär als Belastung für die Mehrheitsbevölkerung zu beschreiben, schmerzt – auch wenn sie nun selbst Bürgerin ist. Sie fühlt sich nicht willkommen.",
+      "begruendung_selbst": "Wenn die Gesellschaft 'überlastet' wird durch Menschen wie mich damals – was sagt das über meinen Platz hier? Ich bin Bürgerin, aber diese Sprache macht mich wieder zur Belastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Segregationsquoten für Kinder – das ist falsch",
+      "thema": "bildung",
+      "programmpunkt": "BSW will die Verteilung von Ausländerkindern in Schulen und Kitas über Quoten steuern, die 30 Prozent nicht überschreiten sollen.",
+      "seite": 65,
+      "zitat": "eine gezielte prozentuale Verteilung der Ausländerkinder auch in den Kindergärten erforderlich, wobei eine Quote von 30 % nicht überschritten werden sollte",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Fatima hat Kinder, die in deutschen Schulen integriert wurden. Die Idee, Kinder nach Herkunftsquoten zu verteilen, empfindet sie als Stigmatisierung und als Botschaft: Du gehörst nicht wirklich dazu.",
+      "begruendung_selbst": "Meine Kinder sollen nach Prozentsatz verteilt werden? Als ob sie eine Belastung wären, die man dosieren muss. Das verletzt mich. Integration gelingt nicht durch Quoten, sondern durch Begegnung.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Zwangsumzug für Migranten – Würde sieht anders aus",
+      "thema": "integration",
+      "programmpunkt": "BSW will Städte verpflichten, Migranten gleichmäßig in allen Stadtvierteln unterzubringen und Obergrenzen für Wohnbelegung einführen.",
+      "seite": 65,
+      "zitat": "Stattdessen müssen die Städte verpflichtet werden, Migranten in allen Stadtvielteln gleichmäßig unterzubringen. Dazu muss es eine Obergrenze für die Belegung von Wohnungen mit Zuwanderern in den Wohnvierteln geben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Zwangsverteilung und Obergrenzen für den Wohnanteil von Migranten erinnern Fatima an diskriminierende Wohnpolitiken. Statt echte Integration zu ermöglichen, schreibt das den Sonderstatus von Migranten gesetzlich fest.",
+      "begruendung_selbst": "Man kann nicht zwangsweise integrieren. Wenn Migranten als Größe kontrolliert werden, die 'dosiert' gehört, dann fehlt der Respekt. Das ist keine Integrationspolitik – das ist Verwaltung von Menschen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Fatima findet beim BSW pragmatische Elemente, die sie aus eigener Integrationsgeschichte befürwortet: Arbeitsschutz vor Abschiebung, Sprachförderung. Aber der Grundton des BSW – Aufnahmekapazität ist begrenzt, Kinder werden quotiert, Wohnen wird reguliert – trifft sie als Eingebürgerte grundsätzlich. Diese Sprache beschreibt Menschen wie sie als Belastung, nicht als Gewinn. Per Saldo ist das Bild negativ.",
+    "score": -1
+  }
+}

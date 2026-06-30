@@ -1,0 +1,77 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kein ÖPNV-Abbau — gut für mich!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Deutschlandticket soll Teil des Angebots bleiben; ÖPNV soll ausgebaut und Pünktlichkeit gesteigert werden; Bahnhöfe sollen zu Mobilitätszentren werden.",
+      "seite": 73,
+      "zitat": "Das Deutschlandticket bleibt Teil des Angebots",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt ohne Auto und ist vollständig auf ÖPNV angewiesen. Das Bekenntnis zum Deutschlandticket und zum ÖPNV-Ausbau sichert ihre Mobilitätsbasis.",
+      "begruendung_selbst": "Ich fahre nur ÖPNV. Solange das Deutschlandticket bleibt und die Bahnen besser werden, ist das gut für mich.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Markt statt Mieterschutz — das ist mein Albtraum.",
+      "thema": "wohnen",
+      "programmpunkt": "Das FDP-Programm setzt auf private Investitionen, steuerliche Anreize und Eigentumsförderung; Entscheidungen über Investitionen sollen Unternehmen und Eigentümern überlassen bleiben; keine Mietpreisregulierung.",
+      "seite": 12,
+      "zitat": "die Entscheidungen über Investitionen treffen Unternehmen, Eigentümer und Familien selbst",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla lebt in Angst vor Modernisierungsumlage und Verdrängung. Ein konsequent marktliberaler Ansatz ohne Mietpreisschutz bedeutet für sie maximale Unsicherheit.",
+      "begruendung_selbst": "Wenn der Markt alles regelt, regelt er mich raus. Ich habe nichts davon, dass Investoren Geld verdienen — ich brauche Schutz vor dem nächsten Modernisierungsbrief.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Private Wohnungswirtschaft stärken — auf meine Kosten?",
+      "thema": "wohnen",
+      "programmpunkt": "Die private Wohnungswirtschaft soll gestärkt werden, weil Modernisierung ohne private Vermieter nicht gelinge; steuerliche Investitionsanreize statt Förderbürokratie sollen energetische Sanierungen erleichtern.",
+      "seite": 13,
+      "zitat": "Wir stärken die private Wohnungswirtschaft, weil die Modernisierung des Bestands ohne private Vermieter und mittelständische Unternehmen nicht gelingen kann.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla fürchtet genau Modernisierungsumlagen als Verdrängungsinstrument. Ein Programm, das private Vermieter bei der Sanierung stärkt, ohne Mieterschutz zu erwähnen, ist aus ihrer Sicht eine Einladung zur Umlage.",
+      "begruendung_selbst": "Modernisierung klingt gut. Aber wer zahlt die Umlage? Ich. Das Programm sagt kein Wort darüber, wie ich vor der Modernisierungsrechnung geschützt werde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentumsförderung — nicht für mich.",
+      "thema": "wohnen",
+      "programmpunkt": "Wohneigentum soll durch Grunderwerbsteuer-Freibetrag und Förderung der Investitionsbank für Erstkäufer erleichtert werden, besonders für junge Familien.",
+      "seite": 12,
+      "zitat": "Wir machen die eigenen vier Wände wieder erreichbar, weil Wohneigentum Vermögensaufbau, Altersvorsorge und Stabilität für Familien bedeutet.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla kann sich Eigentum in Berlin nicht leisten und lehnt eine Politik ab, die Eigentumsbildung statt Mieterschutz fördert. Eigentumsförderung hilft ihr nicht, solange sie mietet.",
+      "begruendung_selbst": "Ich kann kein Eigentum kaufen. Dass andere leichter kaufen können, hilft mir nicht — im Gegenteil, das treibt die Kaufpreise hoch, die dann die Mieten mitziehen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im FDP-Programm für Sachsen-Anhalt kaum Anknüpfungspunkte für ihre Kernanliegen. Das konsequent marktliberal ausgerichtete Wohnprogramm setzt auf private Investitionen und Eigentumsförderung, aber nicht auf Mieterschutz oder Mietpreisregulierung — genau das, was sie braucht. Das ÖPNV-Bekenntnis ist positiv. Insgesamt steht das Programm ihrem Wohninteresse strukturell entgegen.",
+    "score": -2
+  }
+}

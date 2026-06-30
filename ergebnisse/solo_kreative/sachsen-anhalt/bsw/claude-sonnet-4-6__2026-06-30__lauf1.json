@@ -1,0 +1,90 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "KSK-Reform endlich auf dem Zettel!",
+      "thema": "arbeit",
+      "programmpunkt": "BSW will die soziale Lage von Künstlern und Kulturschaffenden gezielt verbessern, durch eine Reform der Künstlersozialkasse und besseren Schutz vor Altersarmut.",
+      "seite": 40,
+      "zitat": "Die soziale Lage von Künstlern und Kulturschaffenden ist gezielt zu verbessern – etwa durch eine Reform der Künstlersozialkasse, besseren Schutz vor Altersarmut und Verdienstausfällen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Anna ist KSK-versichert, aber die Kasse kann ihre schlechte Absicherung im Krankheitsfall und die magere Rentenanwartschaft nicht wirklich auffangen. Eine Reform der KSK ist einer ihrer wichtigsten politischen Wünsche.",
+      "begruendung_selbst": "Ich zahle in die KSK ein und bin trotzdem im Krankheitsfall kaum abgesichert. Eine echte Reform, die Kulturschaffende vor Altersarmut schützt, wäre überfällig. Dass BSW das benennt, höre ich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Freie Szene absichern – langfristig!",
+      "thema": "wirtschaft",
+      "programmpunkt": "BSW will die freie Szene mit langfristigen Perspektiven stärken, etwa durch Kulturstiftungen und Planungssicherheit für projektbezogen Arbeitende.",
+      "seite": 40,
+      "zitat": "Die freie Szene braucht langfristige Perspektiven, etwa durch Kulturstiftungen oder vergleichbare Modelle, die Planungssicherheit schaffen und kreative Arbeit ermöglichen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Anna lebt von Projektförderungen, die kurzfristig kommen und plötzlich wegfallen. Langfristige Perspektiven durch Kulturstiftungen würden ihr die Planungssicherheit geben, die sie braucht, um dauerhaft kreativ arbeiten zu können.",
+      "begruendung_selbst": "Ich weiß nie, ob mein nächstes Projekt finanziert wird. Langfristige Förderstrukturen statt Jahresprojekte – das ist es, was ich brauche, um nicht jedes Jahr neu anzufangen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung ohne Ideologiezwang!",
+      "thema": "demokratie",
+      "programmpunkt": "BSW will, dass Förderprogramme transparent, diskriminierungsfrei und ohne politische Loyalitätszwänge ausgestaltet sind.",
+      "seite": 41,
+      "zitat": "Förderprogramme müssen transparent, diskriminierungsfrei und ohne politische Loyalitätszwänge ausgestaltet sein. Der Zugang zu öffentlichen Mitteln darf nicht von ideologischen Bekenntnissen abhängen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Anna hat erfahren, dass Förderentscheidungen manchmal von der politischen Positionierung der Antragsteller abzuhängen scheinen. Die BSW-Forderung nach ideologiefreier Förderung schützt ihre Arbeit als Künstlerin.",
+      "begruendung_selbst": "Ich mache Kunst, keine Bekenntnisse. Wenn Fördermittel davon abhängen, was ich politisch sage, ist das keine Kunstförderung – das ist Steuerung. BSW sagt: weg damit. Gut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratieabbau für Selbstständige!",
+      "thema": "wirtschaft",
+      "programmpunkt": "BSW will Antragsverfahren vereinfachen, digitale Zugänge schaffen und bürokratische Hürden für Antragsteller abbauen.",
+      "seite": 41,
+      "zitat": "Stattdessen brauchen Antragsteller Vorfinanzierungsmöglichkeiten, Planungssicherheit und den Abbau bürokratischer Hürden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soloselbstständige verliert Anna viel Zeit mit Förderanträgen, Verwendungsnachweisen und Behördengängen. Einfachere Zugänge und Vorfinanzierungsmöglichkeiten würden ihr helfen, mehr Zeit für die eigentliche Arbeit zu haben.",
+      "begruendung_selbst": "Ich beantrage Förderung, dann warte ich, dann bekomme ich die Abschlussdokumente nicht rechtzeitig hin. Einfachere Verfahren und Vorfinanzierung würden mir endlich ermöglichen, an meiner Kunst zu arbeiten statt an Formularen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Soloselbstständige – nicht wirklich gesichert",
+      "thema": "arbeit",
+      "programmpunkt": "BSW hat keine spezifischen Maßnahmen zur sozialen Absicherung von Soloselbstständigen jenseits der KSK.",
+      "seite": 23,
+      "zitat": "Gute Arbeit durch Tarifbindung, Mitbestimmung und starke Arbeitnehmerrechte sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das BSW-Sozialkonzept ist stark auf Arbeitnehmerrechte, Tarifbindung und Mitbestimmung ausgerichtet – also auf abhängige Beschäftigung. Für Soloselbstständige wie Anna fehlen konkrete Maßnahmen zur Krankenversicherung, Absicherung bei Auftragseinbrüchen und Rentenvorsorge außerhalb der KSK.",
+      "begruendung_selbst": "Tarifbindung und Mitbestimmung helfen mir nichts – ich habe keinen Tarifpartner und keinen Betriebsrat. Ich bin allein. Das Programm denkt in Arbeitnehmer-Kategorien, nicht in Selbstständigen-Realitäten.",
+      "beleg_hinweis": "Seite von 22 auf 23 korrigiert",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Anna findet beim BSW wichtige Treffer: KSK-Reform, langfristige Perspektiven für die freie Szene, Förderung ohne Ideologiezwang und Bürokratieabbau. Gleichzeitig bleibt das Programm bei sozialer Absicherung von Soloselbstständigen jenseits der KSK vage – die Sozialkonzepte denken primär in Arbeitnehmer-Kategorien. Per Saldo leicht positiv.",
+    "score": 1
+  }
+}

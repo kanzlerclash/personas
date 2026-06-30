@@ -1,0 +1,18 @@
+[
+  { "id": "arbeit", "name": "Arbeit", "beschreibung": "Arbeit & Fachkräfte" },
+  { "id": "wirtschaft", "name": "Wirtschaft", "beschreibung": "Wirtschaft & Industrie (inkl. Strukturwandel, Tourismus, Ansiedlung)" },
+  { "id": "steuern", "name": "Steuern", "beschreibung": "Steuern & Haushalt" },
+  { "id": "bildung", "name": "Bildung", "beschreibung": "Bildung & Schule" },
+  { "id": "klima", "name": "Klima", "beschreibung": "Klima, Umwelt & Naturschutz" },
+  { "id": "energie", "name": "Energie", "beschreibung": "Energie: Versorgung, Kohleausstieg, Netze, Preise" },
+  { "id": "integration", "name": "Integration", "beschreibung": "Integration & Migration" },
+  { "id": "wohnen", "name": "Wohnen", "beschreibung": "Wohnen & Mieten" },
+  { "id": "gesundheit", "name": "Gesundheit", "beschreibung": "Soziales, Rente & Gesundheit/Pflege" },
+  { "id": "familie", "name": "Familie", "beschreibung": "Familie & Gesellschaft (Gleichstellung, Kultur)" },
+  { "id": "sicherheit", "name": "Sicherheit", "beschreibung": "Innere Sicherheit & Recht" },
+  { "id": "verkehr", "name": "Verkehr", "beschreibung": "Verkehr & Mobilität (inkl. ÖPNV)" },
+  { "id": "landwirtschaft", "name": "Landwirtschaft", "beschreibung": "Landwirtschaft & ländlicher Raum (inkl. Daseinsvorsorge)" },
+  { "id": "demokratie", "name": "Demokratie", "beschreibung": "Demokratie & Verwaltung (inkl. Bürokratie)" },
+  { "id": "digitalisierung", "name": "Digitalisierung", "beschreibung": "Digitalisierung & Breitband" },
+  { "id": "verteidigung", "name": "Verteidigung", "beschreibung": "Verteidigung & Frieden (überwiegend Bund → Land/Bund-Tag)" }
+]

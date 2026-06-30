@@ -1,0 +1,113 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Strom billiger - auch für mich",
+      "thema": "energie",
+      "programmpunkt": "Die Senkung der Stromsteuer soll künftig auch für private Stromverbraucher gelten.",
+      "seite": 43,
+      "zitat": "Die Senkung der Stromsteuer muss zukünftig auch für private Stromverbraucher gelten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Einkommen reicht ohne großen Puffer; eine Stromsteuersenkung ausdrücklich für Privathaushalte entlastet seinen Alltag direkt und ohne Bedingungen.",
+      "begruendung_selbst": "Endlich mal Entlastung, die bei mir ankommt und nicht nur bei den Firmen. Jeder Euro weniger auf der Stromrechnung zählt bei uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lebensmittel und Strom runter",
+      "thema": "energie",
+      "programmpunkt": "Umsatzsteuer auf Grundnahrungsmittel und Stromsteuer sollen für alle Haushalte gesenkt werden.",
+      "seite": 54,
+      "zitat": "die Stromsteuer sollen daher für alle Haushalte gesenkt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kaufkraftverlust bei Sprit, Strom und Lebensmitteln ist Toralfs konkrete Sorge; Entlastung bei Grundnahrungsmitteln und Strom für alle Haushalte zielt genau auf seinen Geldbeutel.",
+      "begruendung_selbst": "Sprit, Strom, Essen - alles teurer geworden. Wenn die wenigstens bei Lebensmitteln und Strom runtergehen, merkt das eine Familie wie meine sofort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Führerschein muss billiger werden",
+      "thema": "verkehr",
+      "programmpunkt": "Der Führerschein soll günstiger werden, weil er für den Berufseinstieg oft notwendig ist.",
+      "seite": 43,
+      "zitat": "Der Führerschein soll günstiger werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Toralf ist das Auto die Bedingung seines Jobs; mit zwei Kindern im Blick treffen ihn die hohen Führerscheinkosten, deren Senkung das Programm ausdrücklich anstrebt.",
+      "begruendung_selbst": "Bei zwei Kindern weiß ich, was so ein Führerschein kostet. Auf dem Dorf geht es nun mal nicht ohne, also her mit günstigeren Preisen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ohne Industrie keine guten Jobs",
+      "thema": "arbeit",
+      "programmpunkt": "Die Sicherung der Industriearbeitsplätze wird als Grundlage guter Arbeit und sozialen Zusammenhalts gesetzt.",
+      "seite": 2,
+      "zitat": "Ohne Industrie keine guten Arbeitsplätze.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Sicherheit hängt am Bestand seines Industriearbeitsplatzes; das klare Bekenntnis zum Industrieland deckt sich mit seiner Hoffnung auf sichere Industriearbeit.",
+      "begruendung_selbst": "Mein Job in der Werkstatt ernährt die Familie. Wenn die Politik die Industrie hier hält, hält sie auch meinen Arbeitsplatz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Bus aufs Dorf",
+      "thema": "verkehr",
+      "programmpunkt": "Moderne Ruf- und Nachtbussysteme sollen ausgebaut werden.",
+      "seite": 26,
+      "zitat": "Ergänzend werden moderne Ruf - und Nachtbussysteme ausgebaut.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf lebt in einem Dorf ohne brauchbaren ÖPNV; Rufbusse berühren genau seine Lage, auch wenn er skeptisch bleibt, ob das für seinen Schichtdienst alltagstauglich ist.",
+      "begruendung_selbst": "Ein Rufbus wäre für meine Frau und die Kinder im Ort schon mal was. Für meine Frühschicht hilft mir das aber leider trotzdem nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Geld fließt in Radwege statt Straßen",
+      "thema": "verkehr",
+      "programmpunkt": "Mindestens zehn Prozent der Straßenbaumittel sollen dauerhaft in Fuß- und Radverkehr fließen.",
+      "seite": 42,
+      "zitat": "zehn Prozent der Landesmittel für den Straßenbau werden dauerhaft für Fuß - und Radverkehr eingesetzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf fühlt sich von Rad- und ÖPNV-Politik übergangen, weil ihm das im Dorf nichts nützt; feste Mittel weg vom Straßenbau hin zum Radverkehr bestätigen für ihn diese Schieflage.",
+      "begruendung_selbst": "Radwege sind schön für die Stadt. Ich brauche eine ordentliche Straße zur Arbeit, und genau da soll jetzt Geld abgezogen werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wo bleibt die Pendlerentlastung?",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm setzt bei Mobilität auf ÖPNV, Schiene und Deutschlandticket, ohne gezielte Entlastung für Auto-Pendler im ländlichen Raum.",
+      "seite": 41,
+      "zitat": "ein leistungsfähiges , bezahlbares und verlässliches Angebot von Bus und Bahn",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralfs Kernanliegen - Entlastung beim teuren Pendeln mit dem Auto - wird vom Landesprogramm kaum adressiert; der Fokus auf Bus und Bahn geht an seiner Realität im Schichtbetrieb vorbei.",
+      "begruendung_selbst": "Immer nur Bus und Bahn. Ich fahre 45 Minuten zur Schicht, wo kein Zug hält. Für Leute wie mich steht da schlicht nichts drin.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet bei den Geldbeutel-Themen Entlastung, die er spürt: niedrigere Strom- und Lebensmittelkosten, ein günstigerer Führerschein und ein Bekenntnis zur Industrie als Jobgarant. Bei seinem Kernthema, der Mobilität auf dem Land, fühlt er sich dagegen übergangen, weil das Programm auf Bus, Bahn und Radverkehr setzt und gezielte Pendlerentlastung beim Auto fehlt. Pragmatisch wie er ist, bleibt unterm Strich ein vorsichtig positives Bild mit klarem Vorbehalt beim Verkehr.",
+    "score": 1
+  }
+}

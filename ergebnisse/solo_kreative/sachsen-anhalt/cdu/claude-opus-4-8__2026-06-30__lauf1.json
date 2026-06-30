@@ -1,0 +1,77 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Weniger Formulare - endlich!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Digitaler Staat mit weniger Formularen, mehr Service und verlässlichen digitalen Abläufen, ein Behördengang soll reichen.",
+      "seite": 51,
+      "zitat": "Weniger Formulare, mehr Service",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist von Bürokratie überfordert, deren Aufwand außer Verhältnis zu ihrer Betriebsgröße steht; weniger Formulare entlasten sie direkt.",
+      "begruendung_selbst": "Ich falle durch jedes Raster und ersticke trotzdem in Papierkram. Weniger Formulare wären für mich Gold wert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung für Clubs und Kreative!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Gezielte Startförderungen für Clubs und kreative Orte, Weiterentwicklung der Kultur- und Kreativwirtschaft als Zukunftsbranche.",
+      "seite": 82,
+      "zitat": "gezielte Startförderungen, insbesondere für Clubs und kreative Orte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike fürchtet Kürzungen der Kreativförderung; gezielte Startförderungen für ihre Branche sichern ihre Existenzgrundlage statt sie zu beschneiden.",
+      "begruendung_selbst": "Meine Existenz hängt an der Kreativszene. Dass die gefördert statt gekürzt wird, ist für mich eine echte gute Nachricht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Förderung für Kleine.",
+      "thema": "digitalisierung",
+      "programmpunkt": "Unterstützung von Start-ups und Mittelstand bei Investitionen in digitale Technologien und vereinfachte Förderprogramme.",
+      "seite": 52,
+      "zitat": "Start - ups und Mittelstand bei Investitionen in digitale Technologien",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Solo-Kreative im Digitalbereich profitiert Mareike von einfacheren digitalen Förderzugängen; das adressiert ihren Wunsch nach machbaren Regeln.",
+      "begruendung_selbst": "Förderung klingt gut, wenn ich nicht drei Wochen Antrag dafür brauche. Einfacher Zugang für Kleine - das nehme ich.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Eigenverantwortung - und wer fängt mich auf?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Stärkung des Vertrauens in Leistung, Eigenverantwortung und Unternehmertum als Leitbild der Wirtschaftspolitik.",
+      "seite": 12,
+      "zitat": "Vertrauen in Leistung, Eigenverantwortung und Unternehmertum wieder stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike braucht soziale Absicherung, die das Programm für Soloselbstständige nicht bietet; die Betonung reiner Eigenverantwortung lässt sie im Risiko allein.",
+      "begruendung_selbst": "Eigenverantwortung schön und gut - aber wenn die Aufträge wegbleiben, fange ich nichts auf. Da ist einfach kein Netz.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike begrüßt, was ihren Alltag konkret berührt: Bürokratieabbau, einfachere digitale Förderzugänge und ausdrückliche Startförderung für Clubs und Kreativwirtschaft. Ihr existenzielles Kernthema - soziale Absicherung für Soloselbstständige - bleibt im Landesprogramm unbeantwortet, und die Betonung der Eigenverantwortung lässt sie skeptisch. Per Saldo leicht positiv.",
+    "score": 1
+  }
+}

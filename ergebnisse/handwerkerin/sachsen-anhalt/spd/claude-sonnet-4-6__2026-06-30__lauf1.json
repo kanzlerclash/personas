@@ -1,0 +1,102 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Doppelbelastungen endlich reduzieren!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Bürokratieabbau für den Mittelstand: Doppelbelastungen durch europäische, bundes- und landesrechtliche Vorgaben werden reduziert, Dokumentationspflichten vereinfacht oder abgeschafft.",
+      "seite": 4,
+      "zitat": "Doppelbelastungen durch europäische, bundes- und landesrechtliche Vorgaben werden reduziert.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verliert täglich Arbeitszeit durch Doppelerfassungen und Nachweispflichten aus verschiedenen Rechtskreisen. Die direkte Adressierung dieses Problems trifft ihr zentrales Alltagsproblem.",
+      "begruendung_selbst": "Ich füll das Gleiche in drei verschiedene Formulare ein. Wenn das wegfällt, hab ich endlich wieder Zeit für meine Leute auf der Baustelle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderprogramme endlich zugänglicher!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Förderprogramme werden durch geringere Antragsanforderungen und digitale Nachweisverfahren zugänglicher gestaltet.",
+      "seite": 4,
+      "zitat": "Förderprogramme werden durch geringere Antragsanforderungen und digitale Nachweisverfahren zugänglicher gestaltet.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine hat gute Jahre mit Heizungstausch-Aufträgen, scheitert aber oft an komplizierten Förderanträgen, die sie selbst ausfüllen muss. Vereinfachte Zugänge würden ihr direkt helfen.",
+      "begruendung_selbst": "Die Förderung gibt's — aber bis ich den Antrag durchhab, hab ich drei Abende verloren. Weniger Aufwand bedeutet mir mehr Aufträge.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strompreise für Betriebe senken!",
+      "thema": "energie",
+      "programmpunkt": "Die SPD setzt sich für eine weitgehende Deckelung der Netzentgelte und eine Reduzierung der Stromsteuer ein, um Wettbewerbsfähigkeit zu sichern.",
+      "seite": 5,
+      "zitat": "Deshalb setzen wir uns für eine weitgehende Deckelung der Netzentgelte, eine konsequente Digitalisierung der Netze sowie für eine Reduzierung der Stromsteuer ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energie ist ein fixer Kostenfaktor für Sabines Werkstatt und Fuhrpark. Sinkende Strom- und Netzkosten entlasten ihren Betrieb direkt.",
+      "begruendung_selbst": "Meine Betriebskosten hängen stark am Strom. Wenn Netzentgelte und Stromsteuer sinken, atme ich auf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte gewinnen — damit ich ausbauen kann!",
+      "thema": "arbeit",
+      "programmpunkt": "Eine offene Fachkräftepolitik sichert die Gewinnung ausländischer Fachkräfte; Anerkennungsverfahren werden beschleunigt.",
+      "seite": 6,
+      "zitat": "Eine offene und verlässliche Fachkräftepolitik ist Voraussetzung für die Zukunft von Industrie und Handwerk.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines größtes Alltagsproblem ist der Mangel an Gesellen und Azubis. Maßnahmen zur Gewinnung von Fachkräften, auch aus dem Ausland, und zur Ausbildungsförderung unterstützen sie direkt.",
+      "begruendung_selbst": "Ich würde sofort einstellen, wenn sich jemand bewirbt. Wenn mehr Leute den Weg ins Handwerk finden — egal woher — dann kann ich endlich wachsen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Tariftreuegesetz: mehr Kosten für mich!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Tariftreue- und Vergabegesetz wird beibehalten und gestärkt; Unternehmen, die Mitbestimmung behindern, werden von Förderungen ausgeschlossen.",
+      "seite": 8,
+      "zitat": "Mit dem Tariftreue- und Vergabegesetz stärken wir die Tarifbindung im Land.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als kleine Betriebsinhaberin ohne Tarifvertrag erhöht das Tariftreuegesetz bei öffentlichen Aufträgen ihren Druck: Sie muss Tariflöhne nachweisen, was administrativen Aufwand bedeutet und ihre Spielräume bei der Vergabe einengt.",
+      "begruendung_selbst": "Ich bezahle gut — aber ich brauch keine Partei, die mir vorschreibt wie, und die mich dann bei der Ausschreibung verhindert, weil ich keinen Tarifvertrag hab.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erbschaftsteuer — meine Übergabe wird teurer!",
+      "thema": "steuern",
+      "programmpunkt": "Die SPD will auf Bundesebene eine gerechte Erbschaftsteuerreform: Privilegien in §§ 13a, 13b ErbStG sollen gestrichen werden.",
+      "seite": 54,
+      "zitat": "Privilegien für Vermögende in den §§ 13a, 13b und 28a ErbStG sollen gestrichen und durch großzügige Stundungsregelungen mit moderatem Zins sowie einen Freibetrag von 5 Mio. Euro ersetzt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine plant die Betriebsübergabe in rund zehn Jahren. Die bisher geltenden Verschonungsregeln für Betriebsvermögen (§§ 13a, 13b ErbStG) sichern, dass der Betrieb nicht liquidiert werden muss. Deren Streichung — auch mit Freibetrag — schafft Unsicherheit für ihre Nachfolgeplanung.",
+      "begruendung_selbst": "Mein Betrieb ist meine Altersvorsorge. Wenn das alles versteuert wird, weiß ich nicht, ob sich eine Übergabe noch rechnet.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet im SPD-Programm echte Entlastungspunkte: Bürokratieabbau, vereinfachte Förderzugänge und niedrigere Energiepreise treffen ihre Alltagsprobleme. Die Fachkräftepolitik kommt ihr ebenfalls entgegen. Belastet wird die Gesamtbewertung durch das Tariftreuegesetz, das für kleine Betriebe ohne Tarifvertrag Hürden bei öffentlichen Aufträgen schafft, und durch Unsicherheit bei der Erbschaftsteuer für die Betriebsnachfolge.",
+    "score": 1
+  }
+}

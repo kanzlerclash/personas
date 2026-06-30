@@ -1,0 +1,76 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Beitragsfreie Kita – das würde alles ändern!",
+      "thema": "familie",
+      "programmpunkt": "BSW will perspektivisch beitragsfreie Kitas einführen und eine flächendeckende, ganztägige Kinderbetreuung sichern.",
+      "seite": 47,
+      "zitat": "Perspektivisch beitragsfreie Kitas einführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kita-Beiträge sind für Miriam eine erhebliche monatliche Ausgabe, die ihr Haushaltsbudget stark belastet. Beitragsfreiheit würde ihr direkt finanziellen Spielraum verschaffen und die Vereinbarkeit von Job und Familie erleichtern.",
+      "begruendung_selbst": "Ich zahle jeden Monat Kitabeiträge, damit ich arbeiten gehen kann, damit ich Kitabeiträge zahlen kann. Ein Teufelskreis. Wenn das endlich wegfällt, bleibt mir was über.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ganztagsbetreuung statt Lückenbüßer!",
+      "thema": "familie",
+      "programmpunkt": "BSW will mehr Ganztagsschulen und eine verlässliche Ganztagsbetreuung für Kinder ausbauen.",
+      "seite": 48,
+      "zitat": "Wir brauchen mehr Ganztagsschulen, bessere Betreuungsschlüssel, kleinere Klassen und Gruppen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Alleinerziehende ist Miriam auf verlässliche Betreuungszeiten angewiesen. Wenn die Schule um 13 Uhr endet und sie bis 17 Uhr arbeitet, entsteht eine Lücke, die sie teuer auffüllen muss. Mehr Ganztagsschulen schließen diese Lücke.",
+      "begruendung_selbst": "Wenn Schule um 13 Uhr aufhört und ich bis 17 Uhr arbeite, wer holt dann mein Kind? Ich kann mir keine Tagesmutter leisten. Ganztagsschulen wären für mich keine Komfort-Option, sondern Überlebensstrategie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mindestlohn 15 Euro – ich bin dabei!",
+      "thema": "arbeit",
+      "programmpunkt": "BSW fordert einen gesetzlichen Mindestlohn von 15 Euro pro Stunde ohne Ausnahmen.",
+      "seite": 35,
+      "zitat": "einen gesetzlichen Mindestlohn von 15,00 Euro pro Stunde",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Miriam arbeitet in Teilzeit im Einzelhandel zu einem Lohn, der nach allen Abzügen kaum reicht. Ein Mindestlohn von 15 Euro würde ihren Stundenlohn deutlich erhöhen und ihr mehr finanzielle Stabilität geben.",
+      "begruendung_selbst": "Ich arbeite und lande trotzdem am Monatsende mit nichts. Mit 15 Euro Mindestlohn würde ich endlich durchatmen können. Das ist kein Luxus, das ist das Minimum.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietendeckel schützt meine Wohnung!",
+      "thema": "wohnen",
+      "programmpunkt": "BSW fordert einen bundesweiten Mietendeckel und mehr gemeinnützigen Wohnungsbau.",
+      "seite": 30,
+      "zitat": "Ein bundesweiter Mietendeckel ist dafür ein geeignetes Instrument",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Miete ist Miriams größter Ausgabeposten. Steigende Mieten bedrohen ihre Wohnstabilität und die ihrer Kinder. Ein Mietendeckel würde eine wesentliche Existenzgrundlage sichern.",
+      "begruendung_selbst": "Wenn die Miete steigt, muss ich umziehen – und ein Umzug mit zwei Kindern ist die Hölle. Ein Mietendeckel wäre mein Schutz vor dieser Willkür.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das BSW-Programm spricht direkt Miriams Alltagsproblemen: beitragsfreie Kitas, Ganztagsschulen, höherer Mindestlohn und Mietendeckel sind die vier wichtigsten sozialen Anliegen einer Alleinerziehenden mit kleinem Einkommen. Kein Programmpunkt schadet ihr erkennbar. Das ist eine starke Übereinstimmung.",
+    "score": 1
+  }
+}

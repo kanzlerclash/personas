@@ -1,0 +1,88 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Modernisierungsumlage weg – meine größte Angst!",
+      "thema": "wohnen",
+      "programmpunkt": "Modernisierungsumlage abschaffen, Sanierungen warmmietenneutral gestalten und die Grundsteuer nicht mehr auf Mieter:innen umlegen.",
+      "seite": 84,
+      "zitat": "die Modernisierungsumlage abschaffen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carlas existenzielle Furcht ist die Modernisierung als Verdrängungshebel; deren Abschaffung trifft genau das Instrument, das sie aus ihrem Kiez treiben könnte.",
+      "begruendung_selbst": "Genau der Brief mit der Modernisierung ist mein Albtraum – schafft man die Umlage ab, fällt mir ein Stein vom Herzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietpreisbremse statt 'der Markt regelt'!",
+      "thema": "wohnen",
+      "programmpunkt": "Mietpreisbremse einsetzen, gemeinnützige Wohnungswirtschaft stärken und Mietkosten senken.",
+      "seite": 82,
+      "zitat": "uns für eine Mietpreisbremse einsetzen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lehnt reine Marktlogik im Wohnungswesen ab; eine Mietpreisbremse und gemeinnütziger Wohnungsbau entsprechen ihrer Überzeugung, dass Wohnen Daseinsvorsorge ist.",
+      "begruendung_selbst": "Wohnen ist kein Aktienpaket – wer Mieten deckelt statt dem Markt zu überlassen, denkt so wie ich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnen ist ein Menschenrecht – ja!",
+      "thema": "wohnen",
+      "programmpunkt": "Wohnen als Menschenrecht und Schutzraum begreifen, Spekulation begrenzen und Zweckentfremdung sanktionieren.",
+      "seite": 82,
+      "zitat": "Eine sichere Unterkunft ist ein Menschenrecht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carlas Grundwert ist der Schutz vor Verdrängung; die Rahmung von Wohnen als Menschenrecht statt Spekulationsgut deckt sich exakt mit ihrer Haltung.",
+      "begruendung_selbst": "Wer Wohnen als Menschenrecht und nicht als Spekulationsgut begreift, hat meinen Kiez und meine Angst verstanden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Spekulation mit Leerstand bestrafen!",
+      "thema": "wohnen",
+      "programmpunkt": "Zweckentfremdung von Wohnraum gesetzlich sanktionieren, um den Kommunen mehr Handlungsspielraum gegen Spekulation zu geben.",
+      "seite": 85,
+      "zitat": "ein Gesetz, das die Zweckentfremdung von Wohnraum sanktioniert",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht Immobilieninvestoren als Gegeninteresse, das ihre Sicherheit untergräbt; ein Zweckentfremdungsverbot stärkt den gemeinwohlorientierten Wohnungsmarkt, den sie verteidigt.",
+      "begruendung_selbst": "Wenn Wohnungen leer stehen, während Leute keine finden, muss das Konsequenzen haben – endlich packt das jemand an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Autoarme Stadt und Nulltarif – meine Welt!",
+      "thema": "verkehr",
+      "programmpunkt": "ÖPNV mittelfristig zum Nulltarif, kostenlose Fahrradmitnahme und Stärkung des Umweltverbunds.",
+      "seite": 102,
+      "zitat": "Attraktiver ÖPNV zum Nulltarif",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt autofrei und befürwortet eine autoarme, gut angebundene Stadt; der Ausbau des ÖPNV bis zum Nulltarif entspricht ihrem Mobilitätsideal.",
+      "begruendung_selbst": "Ich brauche kein Auto – ein ÖPNV zum Nulltarif ist genau die Stadt, in der ich leben will.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Carla findet ihre wohnungspolitischen Überzeugungen bei der Linken kompromisslos gespiegelt: Abschaffung der Modernisierungsumlage, Mietpreisbremse, Wohnen als Menschenrecht und ein Zweckentfremdungsverbot gegen Spekulation. Auch die autoarme ÖPNV-Stadt entspricht ihrem Ideal. Da das Programm Sachsen-Anhalt betrifft, wirkt es für ihre Berliner Lage vor allem als Bestätigung ihrer Haltung, weniger als direkte Entlastung.",
+    "score": 2
+  }
+}

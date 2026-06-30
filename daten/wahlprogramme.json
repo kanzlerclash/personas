@@ -1,0 +1,70 @@
+{
+  "_hinweis": "Quell-Register der Wahlprogramme. Originale werden nach cache/<landtag>/<partei>/ geladen (gitignored, fremdes Urheberrecht). Fehlt eine URL (null), ist das Programm noch ausstehend.",
+  "wahlen": [
+    { "landtag": "sachsen-anhalt", "datum": "2026-09-06" },
+    { "landtag": "mecklenburg-vorpommern", "datum": "2026-09-20" },
+    { "landtag": "berlin", "datum": "2026-09-20" }
+  ],
+  "parteien": ["cdu", "spd", "afd", "gruene", "fdp", "linke", "bsw"],
+  "programme": [
+    {
+      "partei": "cdu",
+      "landtag": "sachsen-anhalt",
+      "url": "https://www.cdulsa.de/sites/www.cdulsa.de/files/downloads/regierungsprogramm_ltw_web.pdf",
+      "stand": null
+    },
+    {
+      "partei": "spd",
+      "landtag": "sachsen-anhalt",
+      "url": "https://spdsachsenanhalt.de/wp-content/uploads/sites/63/2026/05/SPD-Wahlprogramm-2026-Stand-07.05.2026.pdf",
+      "stand": "Stand 07.05.2026"
+    },
+    {
+      "partei": "gruene",
+      "landtag": "sachsen-anhalt",
+      "url": "https://www.gruene-lsa.de/wp-content/uploads/2026/05/Programm-zur-Landtagswahl-2026.pdf",
+      "stand": null
+    },
+    {
+      "partei": "afd",
+      "landtag": "sachsen-anhalt",
+      "url": "https://afd-regierungsprogramm.de/",
+      "format": "html",
+      "stand": null
+    },
+    {
+      "partei": "fdp",
+      "landtag": "sachsen-anhalt",
+      "url": "https://42cloud.universum.com/sites/default/files/2026-04/Freiheit%20hat%20nur%20eine%20Heimat%20%E2%80%93%20Wahlprogramm%20der%20FDP%20Sachsen-Anhalt%20zur%20Landagswahl%202026_0.pdf",
+      "stand": null
+    },
+    {
+      "partei": "linke",
+      "landtag": "sachsen-anhalt",
+      "url": "https://www.dielinke-sachsen-anhalt.de/fileadmin/aaa_download_lsa/Parteitage/10._LPT_2._Tagung_VV_LTW_2026/Beschluesse/2026-03-19_Landtagswahlprogramm__final_.pdf",
+      "stand": "beschlossen 19.03.2026"
+    },
+    {
+      "partei": "bsw",
+      "landtag": "sachsen-anhalt",
+      "url": "https://st.bsw-vg.de/wp-content/uploads/2026/04/BSW_Landtagswahlprogramm_SachsenAnhalt.pdf",
+      "stand": null
+    },
+
+    { "partei": "cdu", "landtag": "mecklenburg-vorpommern", "url": null, "stand": null },
+    { "partei": "spd", "landtag": "mecklenburg-vorpommern", "url": null, "stand": null },
+    { "partei": "gruene", "landtag": "mecklenburg-vorpommern", "url": null, "stand": null },
+    { "partei": "afd", "landtag": "mecklenburg-vorpommern", "url": null, "stand": null },
+    { "partei": "fdp", "landtag": "mecklenburg-vorpommern", "url": null, "stand": null },
+    { "partei": "linke", "landtag": "mecklenburg-vorpommern", "url": null, "stand": null },
+    { "partei": "bsw", "landtag": "mecklenburg-vorpommern", "url": null, "stand": null },
+
+    { "partei": "cdu", "landtag": "berlin", "url": null, "stand": null },
+    { "partei": "spd", "landtag": "berlin", "url": null, "stand": null },
+    { "partei": "gruene", "landtag": "berlin", "url": null, "stand": null },
+    { "partei": "afd", "landtag": "berlin", "url": null, "stand": null },
+    { "partei": "fdp", "landtag": "berlin", "url": null, "stand": null },
+    { "partei": "linke", "landtag": "berlin", "url": null, "stand": null },
+    { "partei": "bsw", "landtag": "berlin", "url": null, "stand": null }
+  ]
+}

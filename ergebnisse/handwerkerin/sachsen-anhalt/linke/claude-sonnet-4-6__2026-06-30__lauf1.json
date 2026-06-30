@@ -1,0 +1,113 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Meister kostenlos – das hilft wirklich",
+      "thema": "bildung",
+      "programmpunkt": "Die Partei will die Meisterqualifikation kostenfrei stellen und Weiterbildung in Zukunftsbranchen wie Gebäudesanierung, Photovoltaik und Wärmetechnik fördern.",
+      "seite": 93,
+      "zitat": "kostenfreie Meisterqualifikation, Weiterbildung in Zukunftsbranchen wie Gebäudesanierung, Photovoltaik und Wärmetechnik",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines Betrieb lebt davon, dass es Meister gibt, die Ausbilden und führen können. Wenn der Meistertitel kostenlos wird, sinkt die Hürde für Nachwuchskräfte erheblich – und das in genau den Branchen (Wärme, PV, Sanierung), in denen sie aktuell die meisten Aufträge hat.",
+      "begruendung_selbst": "Das trifft genau den Punkt. Viele meiner Gesellen scheuen den Meister wegen der Kosten. Wenn das wegfällt, kriege ich vielleicht endlich eine:n Nachfolger:in – und der Betrieb hat Zukunft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schülerpraktika – Azubis von morgen",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will verpflichtende Schulpraktika einführen und praxisbezogenen Unterricht stärken, damit junge Menschen das Handwerk aktiv erleben und als Berufsweg erkennen.",
+      "seite": 93,
+      "zitat": "verpflichtende Schüler:innenpraktika, damit junge Menschen das Handwerk erleben und erlernen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines drängenstes Problem ist der Azubimangel. Verpflichtende Praktika in handwerklichen Betrieben erhöhen die Chance, dass junge Menschen frühzeitig Begeisterung für das Handwerk entwickeln und überhaupt in Ausbildung einmünden.",
+      "begruendung_selbst": "Ich hätte gern mehr Azubis und weniger Aktenordner. Wenn Jugendliche erstmal in meiner Werkstatt stehen und sehen, was Handwerk ist, entscheiden sich mehr dafür. Die Praktikumspflicht ist eine gute Idee.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiepreise runter – endlich",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will einen verpflichtenden Sockeltarif für Strom und Wärme einführen sowie die Stromsteuer auf 0,1 Cent pro Kilowattstunde senken, damit Energie für Betriebe bezahlbar bleibt.",
+      "seite": 106,
+      "zitat": "einen verpflichtenden Sockeltarif für Strom und Wärme",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energiekosten sind ein fixer Betriebskostenblock für Sabines Werkstatt und Fuhrpark. Ein Sockeltarif und eine deutliche Senkung der Stromsteuer würden die laufenden Kosten spürbar senken und Liquidität schaffen.",
+      "begruendung_selbst": "Ich zahle für Strom in der Werkstatt, für Sprit der Monteure, für Gas im Büro. Wenn der Grundverbrauch endlich wieder erschwinglich wird, kommt das direkt bei mir an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerk braucht echte Unterstützung",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will einen Wirtschaftsfonds für die Unterstützung von Mittelstand und Handwerk auflegen, der langfristige Kredite und Investitionsmittel für den sozial-ökologischen Umbau bereitstellt.",
+      "seite": 90,
+      "zitat": "einen Wirtschaftsfonds für den Umbau der Industrie, die Unterstützung des Mittelstands und des Handwerks",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine steht vor Investitionsentscheidungen rund um Heizungstausch und Energieeffizienz in ihrer Werkstatt. Ein explizit auf Handwerk und Mittelstand ausgerichteter Investitionsfonds mit günstigen Konditionen könnte hier eine Brücke sein.",
+      "begruendung_selbst": "Ich brauche keine Subventionen, aber zinsgünstige Kredite für Investitionen wäre ich nicht nein sagen. Dass das Handwerk namentlich genannt wird, habe ich in anderen Programmen nicht oft gelesen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Erbschaftsteuer macht Übergabe teurer",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei will die Erbschafts- und Schenkungssteuer reformieren, damit Vermögenskonzentration abgebaut wird – mit dem Ziel gerechter Beiträge, die Vermögen stärker belasten.",
+      "seite": 17,
+      "zitat": "Wir setzen uns ein für gerechte Beiträge, damit Vermögenskonzentration abnimmt und Chancen wachsen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine plant die Betriebsübergabe in etwa zehn Jahren als zentralen Teil ihrer Altersvorsorge. Ihr Betriebsvermögen – Werkstatt, Fuhrpark, Kundenstamm – ist das Ergebnis jahrzehntelanger Aufbauarbeit. Eine verschärfte Erbschaft- und Schenkungssteuer ohne klare KMU-Ausnahmen kann die Übergabe massiv verteuern oder scheitern lassen.",
+      "begruendung_selbst": "Ich habe dreißig Jahre in diesen Betrieb gesteckt. Wenn ich ihn weitergebe, soll der Nachfolger ihn führen können – nicht die Hälfte in Steuern zahlen. Das ist keine Vermögenskonzentration, das ist Lebensleistung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarifpflicht erhöht meine Lohnkosten",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will öffentliche Fördermittel und Investitionen an die Bedingung der Tarifbindung koppeln, d. h. Betriebe ohne Tarifvertrag erhalten keine öffentlichen Aufträge oder Investitionsmittel.",
+      "seite": 90,
+      "zitat": "Investitionen werden an Tarifbindung, Standortgarantie und gemeinwohlorientierte Produktionsverfahren gekoppelt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine hat keine Tarifbindung und zahlt marktgerechte Löhne, die sie individuell mit ihren acht Beschäftigten aushandelt. Eine Pflicht zur Tarifbindung als Voraussetzung für öffentliche Aufträge schließt sie entweder von kommunalen Aufträgen aus oder zwingt sie in einen starren Lohnrahmen.",
+      "begruendung_selbst": "Ich zahle meinen Leuten gute Löhne – weil ich sie halten will, nicht weil es ein Tarifvertrag vorschreibt. Wenn ich ohne Tarifbindung keinen öffentlichen Auftrag mehr kriege, verliere ich einen wichtigen Kundenstrang.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Millionengrenze trifft meinen Betrieb",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei will eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro wiedereinführen.",
+      "seite": 17,
+      "zitat": "Eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines Betriebsvermögen umfasst Werkstattgebäude, Fuhrpark, Maschinen und Lager. Für einen Handwerksbetrieb mit acht Mitarbeitenden kann die summierte Bewertung dieses Vermögens die Millionengrenze erreichen – mit der Folge, dass sie jährlich 1 Prozent aus laufendem Einkommen abführen müsste, auch in schlechten Jahren.",
+      "begruendung_selbst": "Mein Vermögen sind Schrauben, Rohre und Transporter – kein Bankkonto. Das jährlich zu besteuern, ohne dass ich liquide Mittel dafür habe, würde mich in einem schlechten Jahr direkt in die Bredouille bringen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet im Programm spezifische Angebote für das Handwerk, die direkt auf ihre Alltagsprobleme zielen: kostenfreier Meistertitel, verpflichtende Schulpraktika, Energiepreissenkung und ein expliziter Wirtschaftsfonds für Mittelstand und Handwerk. Die steuerlichen Vorhaben – Erbschaftsteuerreform und Vermögenssteuer – bedrohen jedoch ihre Übergabeplanung und laufende Betriebsliquidität erheblich. Die Koppelung von Fördermitteln an Tarifbindung ist ein weiteres Hemmnis für einen kleinen Betrieb ohne kollektive Tarifstruktur. Die Bilanz ist gemischt: handwerksspezifisch positiv, steuerlich und regulatorisch problematisch.",
+    "score": 0
+  }
+}

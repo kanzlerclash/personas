@@ -1,0 +1,89 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Rollende Arztpraxen — der Staat kommt endlich!",
+      "thema": "gesundheit",
+      "programmpunkt": "Ein landesweites Förderprogramm für rollende Arztpraxen und spezialisierte Facharzt-Busse soll infrastrukturell herausfordernde Regionen versorgen; auch ältere Menschen sollen mobil versorgt werden.",
+      "seite": 64,
+      "zitat": "etablieren wir „rollende Arztpraxen“ und spezialisierte Facharzt-Busse in infrastrukturell herausfordernden Regionen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra kämpft gegen den drohenden Versorgungskollaps nach ihrer Rente. Mobile Arztangebote würden die Lücke schließen, die ohne Nachfolge entsteht — und das ist für ihre Patientinnen und Patienten konkret.",
+      "begruendung_selbst": "Wenn ich in Rente gehe, kommt vielleicht der rollende Arzt. Das ist nicht meine Traumlösung, aber es wäre wenigstens etwas für meine Patienten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie in der Praxis endlich abbauen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Bürokratische Hürden für Niederlassung sollen abgebaut werden; die Telematik-Infrastruktur soll praxistauglich gestaltet werden; der Arztberuf soll mit passgenauen Entlastungsangeboten attraktiver werden.",
+      "seite": 65,
+      "zitat": "bauen wir die Unterstützung für dieses Unterfangen aus und reduzieren dafür gezielt bürokratische Hürden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra verbringt halbe Tage mit Formularen und einer Telematik, die nicht läuft. Das Versprechen, genau diese Hürden zu reduzieren, trifft ihren Arbeitsalltag direkt.",
+      "begruendung_selbst": "Wenn mir jemand die Formulare abnimmt und die Telematik zum Laufen bringt, habe ich zwei Stunden mehr am Tag für meine Patienten. Das ist nicht nichts.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Physician Assistants — endlich echte Unterstützung!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Berufsbild des Physician Assistant soll zu einem festen Baustein der ambulanten Versorgung werden; Ausbildungskapazitäten sollen gezielt ausgebaut werden, besonders im ländlichen Raum.",
+      "seite": 65,
+      "zitat": "Wir wollen das junge Berufsbild des Physician Assistant zu einem festen Baustein der ambulanten Versorgung von morgen machen – besonders im ländlichen Raum.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra hat zu viele Patientinnen und zu wenig Zeit. Ein Physician Assistant würde sie in der Praxis direkt entlasten und ihre knappe Kapazität erweitern.",
+      "begruendung_selbst": "Wenn mir ein PA Routineaufgaben abnimmt, kann ich mich um die komplexen Fälle kümmern. Das ist der Unterschied zwischen Aushalten und Aufhören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netzwerkmodelle für Weiterbildung ausweiten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Erfolgreiche Netzwerkmodelle für die Weiterbildung in der Allgemeinmedizin sollen auf weitere Fachbereiche ausgeweitet werden; so sollen frühzeitig Perspektiven für junge Ärzte in der Region geschaffen werden.",
+      "seite": 65,
+      "zitat": "stärken wir den ärztlichen Nachwuchs, indem wir erfolgreiche Netzwerkmodelle (wie „Kompas“ für die Weiterbildung in der Allgemeinmedizin) auf weitere Fachbereiche wie Kinderheilkunde und Psychiatrie ausweiten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petras größte Sorge ist die Nachfolgefrage. Netzwerkmodelle, die junge Ärzte in der Region halten und für die Allgemeinmedizin begeistern, adressieren genau das strukturelle Problem.",
+      "begruendung_selbst": "Wenn ein junger Arzt durch ein Netzwerkmodell in der Region Wurzeln schlägt, findet sich vielleicht ein Nachfolger für meine Praxis. Das ist meine Hoffnung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Digitalisierung als Lösung — ohne Infrastruktur?",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Verwaltung soll durchgängig digitalisiert werden; Digital-Only als Ziel; mehr Automatisierung; für Menschen ohne Internet bleibt die Behörde vor Ort zugänglich.",
+      "seite": 49,
+      "zitat": "In Zukunft soll die Verwaltung, die eine Leistung digital verfügbar macht, diese ausschließlich digital anbieten können",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra erlebt Digitalisierung als Mehrbelastung, wenn sie nicht funktioniert. Der Digital-Only-Ansatz ohne garantierte Funktionsfähigkeit der Infrastruktur schafft neue Abhängigkeiten statt Entlastung.",
+      "begruendung_selbst": "Wenn die Telematik schon nicht läuft, will ich keine neue Pflicht zur Digitalisierung ohne Funktionsgarantie. Erst die Infrastruktur — dann Digital only.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra findet im FDP-Programm für Sachsen-Anhalt mehrere konkrete Antworten auf ihre dringendsten Fragen: rollende Arztpraxen für die Nachfolgelücke, Bürokratieabbau in der Niederlassung, Physician Assistants als Entlastung und Netzwerkmodelle für Nachwuchsgewinnung. Der Digital-Only-Ansatz ohne Funktionsgarantie erzeugt Vorbehalt. Insgesamt bewertet sie das Programm positiv.",
+    "score": 1
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Chemie-Standorte sichern – mein Job!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Chemie- und Grundstoffindustrie wird als zentrales Rückgrat der regionalen Wirtschaft anerkannt; die CDU will Standorte sichern und neue Chemieunternehmen ansiedeln.",
+      "seite": 16,
+      "zitat": "Chemie - und Grundstoffindustrie ist für Sachsen - Anhalt von zentraler Bedeutung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes gesamte Berufsbiografie ist mit der Chemieindustrie im Chemiedreieck verknüpft. Das klare Bekenntnis zu dieser Branche als strategisches Kernanliegen schützt seinen Arbeitsplatz und sein Lebensmodell.",
+      "begruendung_selbst": "Ich bin nicht gegen Klimaschutz. Ich bin gegen Klimaschutz, der meine Kollegen arbeitslos macht. Das hier ist ein klares Bekenntnis zu meiner Branche – das zählt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriestrompreis kommt!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU begrüßt die Einführung eines Industriestrompreises, um die Wettbewerbsfähigkeit der Industrie bei den im internationalen Vergleich hohen Energiekosten zu sichern.",
+      "seite": 45,
+      "zitat": "Industriestrompreis und begrüßen dessen Einführung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe weiß, dass hohe Energiepreise seinen Standort direkt gefährden. Ein Industriestrompreis ist die konkreteste Maßnahme, um die Produktionskosten wettbewerbsfähig zu halten und Verlagerungen zu verhindern.",
+      "begruendung_selbst": "Wenn der Strom zu teuer ist, geht die Produktion woanders hin – und ich bin arbeitslos. Der Industriestrompreis ist nicht Luxus, der ist Existenzfrage.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohleausstieg 2038 – Versprechen gilt!",
+      "thema": "klima",
+      "programmpunkt": "Die CDU hält am vereinbarten Kohleausstieg bis 2038 als politisch und rechtlich verabredetem Konsens fest und will betroffenen Regionen Verlässlichkeit geben.",
+      "seite": 45,
+      "zitat": "vereinbarte Kohleausstieg bis 2038 ist ein politisch und rechtlich verabredeter Konsens",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe akzeptiert den Wandel – aber auf Basis verlässlicher Abmachungen. Das Festhalten am 2038-Konsens gibt ihm Planungssicherheit für die verbleibende Betriebsphase seiner Kolleginnen und Kollegen.",
+      "begruendung_selbst": "Wandel ja – aber nicht auf dem Rücken der Beschäftigten und ihrer Regionen. Dass das 2038-Datum gilt, ist ein Versprechen. Das nehmen wir beim Wort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Emissionshandel bremsen!",
+      "thema": "energie",
+      "programmpunkt": "Das Abschmelzen der kostenlosen Emissionsberechtigungen im ETS soll ausgesetzt und mit Blick auf Wettbewerbsfähigkeit strategisch überarbeitet werden.",
+      "seite": 16,
+      "zitat": "Löschungsmechanismus der Marktstabilitätsreserve sind unverzüglich auszusetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Emissionshandel treibt Produktionskosten in der Chemieindustrie. Die Forderung nach einer Aussetzung des Abschmelzens der Freimengen hilft Uwes Standort direkt.",
+      "begruendung_selbst": "Wenn jedes CO2-Zertifikat teurer wird, lohnt sich die Produktion irgendwann nicht mehr. Das bremsen – das ist konkrete Industriepolitik, nicht Symbolik.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sozialabgaben deckeln – Gewerkschaft warnt!",
+      "thema": "arbeit",
+      "programmpunkt": "Auf Bundesebene setzt die CDU sich für das Deckeln der Sozialabgaben ein, um Arbeitskosten international konkurrenzfähig zu halten.",
+      "seite": 17,
+      "zitat": "die Sozialabgaben zu deckeln",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist gewerkschaftlich engagiert und versteht Sozialabgaben als Grundlage für Rente, Kranken- und Arbeitslosenversicherung. Deckeln bedeutet für ihn entweder Leistungskürzung oder Privatisierungsdruck.",
+      "begruendung_selbst": "Wer den Sozialstaat und die Gewerkschaften schwächt, hat mich als Gegner. Sozialabgaben deckeln klingt günstig – aber was passiert mit meiner Rente?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mindestlohn nicht erhöhen – kein Rückhalt!",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU will Mindestlöhne nicht für Wahlversprechen instrumentalisieren lassen und setzt auf wirtschaftliche Stärke statt staatliche Lohnfestlegung.",
+      "seite": 18,
+      "zitat": "Mindestlöhne nicht für Wahlversprechen instrumentalisieren lassen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe sieht den Mindestlohn als wichtige Untergrenze für Beschäftigte, die keine starke Gewerkschaft hinter sich haben. Das Einschränken der Mindestlohnpolitik auf 'nicht instrumentalisieren' liest er als Signal gegen Erhöhungen.",
+      "begruendung_selbst": "Ich hab einen Tarifvertrag – aber manche Kolleginnen nicht. Wer den Mindestlohn kleinredet, schützt die Schwächsten nicht. Das ist kein Lob.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet im CDU-Programm starke Industrie- und Energiepolitik für seinen Standort: Industriestrompreis, ETS-Bremse, klares Chemie-Bekenntnis und Verlässlichkeit beim Kohleausstieg 2038. Die sozial- und gewerkschaftspolitischen Aussagen hingegen – Sozialabgaben deckeln, Mindestlohn zurückhalten – stehen seiner arbeitnehmerorientierten Grundhaltung entgegen. Das Programm liefert Jobsicherheit auf Kosten sozialpolitischer Ambition.",
+    "score": 1
+  }
+}

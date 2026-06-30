@@ -1,0 +1,65 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "Stand 07.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kommunale Wohnungsunternehmen schützen!",
+      "thema": "wohnen",
+      "programmpunkt": "Kommunale Wohnungsunternehmen bleiben Teil der öffentlichen Daseinsvorsorge; Zwangsverkäufe zur Haushaltskonsolidierung werden ausgeschlossen.",
+      "seite": 44,
+      "zitat": "Zwangsverkäufe zur Haushaltskonsolidierung werden ausgeschlossen. Kommunale Wohnungsunternehmen sollen über Gemeindegrenzen hinweg tätig sein können.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lehnt marktliberale Wohnungspolitik grundsätzlich ab. Das Bekenntnis, kommunale Bestände nicht zu privatisieren, entspricht ihrer Überzeugung, dass Wohnen Daseinsvorsorge sein muss.",
+      "begruendung_selbst": "Wohnen ist kein Aktienpaket. Dass niemand kommunale Bestände auf den Markt werfen darf, um Haushaltslöcher zu stopfen — das ist das Mindeste, was ich von einer linken Partei erwarte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozialer Wohnungsbau für Familien und Junge!",
+      "thema": "wohnen",
+      "programmpunkt": "Der soziale Wohnungsbau wird gestärkt, insbesondere für altersgerechte Wohnungen, Familien und junges Wohnen für Studierende und Auszubildende.",
+      "seite": 43,
+      "zitat": "Der soziale Wohnungsbau wird gestärkt, insbesondere für altersgerechte und barrierefreie Wohnungen, Wohnraum für Familien in Oberzentren sowie junges Wohnen für Studierende und Auszubildende.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla begrüßt als grundsätzliche Haltung, dass der Staat in den Wohnungsmarkt investiert statt ihn dem Markt zu überlassen. Auch wenn das Sachsen-Anhalt-Programm für Berlin nicht bindend ist, bestätigt es ihre politische Grundhaltung.",
+      "begruendung_selbst": "In Berlin passiert genau das Gegenteil: Sozialwohnungen verschwinden, Preise explodieren. Wenigstens gibt es Teile Deutschlands, wo man das noch ernst nimmt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mietstopp? Mietdeckel? Fehlanzeige!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm enthält keine spezifischen Regelungen zu Mietpreisbremse, Mietdeckel oder Schutz vor Eigenbedarfskündigungen.",
+      "seite": 43,
+      "zitat": "Bezahlbarer Wohnraum bleibt auch in Sachsen-Anhalt eine Herausforderung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carlas zentrale Sorgen — Modernisierungsumlage, Eigenbedarfskündigung, Mietsteigerungen — werden im Programm nicht adressiert. Sachsen-Anhalt hat strukturell andere Wohnungsprobleme als Berlin, daher ist das Schweigen nachvollziehbar, aber für Carla unbefriedigend.",
+      "begruendung_selbst": "Ich hab Angst vor dem Brief mit der Modernisierung. Von diesem Programm bekomme ich darauf keine Antwort. Es spricht von bezahlbarem Wohnraum, aber was schützt mich konkret?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla als Berliner Mieterin findet im SPD-Programm für Sachsen-Anhalt inhaltliche Resonanz auf ihre grundsätzliche Überzeugung, dass Wohnen Daseinsvorsorge ist: der Schutz kommunaler Bestände vor Privatisierung und der Ausbau des sozialen Wohnungsbaus entsprechen ihrer politischen Haltung. Ihre konkreten Berliner Sorgen um Mietpreisbremse, Eigenbedarfskündigungen und Modernisierungsumlagen werden durch ein Sachsen-Anhalt-Programm aber nicht adressiert — das Programm trifft ihre Lage strukturell kaum.",
+    "score": 0
+  }
+}

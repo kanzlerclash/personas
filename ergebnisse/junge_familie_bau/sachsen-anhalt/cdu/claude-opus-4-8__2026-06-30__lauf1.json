@@ -1,0 +1,100 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine Grunderwerbsteuer fürs erste Haus!",
+      "thema": "steuern",
+      "programmpunkt": "Grunderwerbsteuerbefreiung beim erstmaligen Erwerb selbstgenutzten Wohneigentums im ländlichen Raum.",
+      "seite": 31,
+      "zitat": "Grunderwerbsteuerbefreiung beim erstmaligen Erwerb selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Erwerbsnebenkosten sind für Tom und Jessica ein Traumkiller; eine Befreiung von der Grunderwerbsteuer senkt genau die Hürde beim Kauf.",
+      "begruendung_selbst": "Die Kaufnebenkosten haben uns immer das Genick gebrochen. Ohne Grunderwerbsteuer rückt das eigene Haus endlich näher.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Baukindergeld kommt zurück!",
+      "thema": "familie",
+      "programmpunkt": "Einsatz auf Bundesebene für die Wiedereinführung des Baukindergeldes.",
+      "seite": 65,
+      "zitat": "Wiedereinführung des Baukindergeldes",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als junge Familie mit Kind brauchen sie Förderung beim Erwerb; das Baukindergeld unterstützt genau ihre Situation.",
+      "begruendung_selbst": "Mit Kind und knappem Eigenkapital zählt jede Förderung. Baukindergeld wäre für uns ein echter Baustein zur Finanzierung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauen endlich schneller und einfacher.",
+      "thema": "wohnen",
+      "programmpunkt": "Vereinfachte, beschleunigte und digitalere Baugenehmigungen für mehr Tempo beim Wohnungsbau.",
+      "seite": 65,
+      "zitat": "Bauen einfacher, schneller und digitaler machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Langwierige Genehmigungen treiben Baukosten; einfachere, schnellere Verfahren senken Aufwand und Kosten für ihr Bauvorhaben.",
+      "begruendung_selbst": "Jeder Monat Genehmigung kostet uns Geld und Nerven. Schneller und digitaler - das hilft uns konkret.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine teure Solarpflicht beim Bauen!",
+      "thema": "energie",
+      "programmpunkt": "Konsequente Ablehnung jeder Solarpflicht bei Neubauten und Dachsanierungen, Setzen auf Eigenverantwortung.",
+      "seite": 46,
+      "zitat": "lehnen jegliche Form der Solarpflicht bei Neubauten und Dachsanierungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energetische Vorgaben verteuern aus ihrer Sicht das Bauen; eine abgelehnte Solarpflicht senkt die befürchteten Zusatzkosten.",
+      "begruendung_selbst": "Wir wollen bauen, nicht uns an Pflichten arm rechnen. Dass uns keine Solarpflicht aufgezwungen wird, spart bares Geld.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Steuererhöhungen für die Mitte!",
+      "thema": "steuern",
+      "programmpunkt": "Ablehnung von Steuererhöhungen, die Familien, Arbeitnehmer und den Mittelstand belasten würden.",
+      "seite": 78,
+      "zitat": "Steuererhöhungen lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener-Mitte fürchten sie zusätzliche Belastungen; ein klares Nein zu Steuererhöhungen entspricht ihrem Wunsch, dass Leistung sich lohnt.",
+      "begruendung_selbst": "Wir verdienen beide ordentlich und trotzdem reicht's kaum. Wenigstens keine neuen Steuern obendrauf - das ist fair.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita-Platz für zwei Jobs.",
+      "thema": "familie",
+      "programmpunkt": "Umsetzung des Rechtsanspruchs auf Ganztagsbetreuung ab 2026 und flexible Betreuungsmodelle.",
+      "seite": 49,
+      "zitat": "Rechtsanspruch auf Ganztagsbetreuung ab 2026",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein fehlender Kita-Platz erschwert ihnen zwei Jobs; verlässliche Ganztagsbetreuung sichert ihre Vereinbarkeit und ihr Einkommen.",
+      "begruendung_selbst": "Ohne Betreuungsplatz kann einer von uns nicht voll arbeiten. Der Ganztagsanspruch ist für unsere Planung entscheidend.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica sehen ihren Eigenheim-Traum unmittelbar adressiert: Grunderwerbsteuerbefreiung, Baukindergeld, einfacheres und schnelleres Bauen, keine Solarpflicht, keine Steuererhöhungen und ein Ganztagsanspruch für die Vereinbarkeit. Das Programm spricht ihre aufstiegs- und eigentumsorientierte Lage durchweg an.",
+    "score": 2
+  }
+}

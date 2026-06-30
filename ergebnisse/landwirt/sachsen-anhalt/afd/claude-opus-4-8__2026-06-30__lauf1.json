@@ -1,0 +1,125 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Schluss mit dem Bürokratie-Dschungel!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Landwirte sollen von unnötiger Bürokratie und Dokumentationspflichten entlastet werden, damit sie wieder ihren Betrieb bewirtschaften können.",
+      "seite": 14,
+      "zitat": "Unser Ziel ist es, die Landwirte von unnötiger Bürokratie zu entlasten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank erlebt Dokumentations- und Berichtspflichten als Hauptbelastung seines Hofes; das Versprechen trifft genau seinen größten Schmerzpunkt.",
+      "begruendung_selbst": "Jedes Jahr eine neue Verordnung, und ich sitze abends über Formularen statt auf dem Trecker. Wenn das aufhört, kann ich endlich wieder Landwirtschaft machen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Bio-Bonus auf meine Kosten!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Bio-, Öko- und konventionelle Betriebe sollen gleichbehandelt werden; eine wettbewerbsverzerrende Bevorzugung bestimmter Betriebsformen wird abgelehnt.",
+      "seite": 14,
+      "zitat": "Wir unterscheiden nicht zwischen Bio-, Öko- oder konventionellen Betrieben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als konventioneller Ackerbauer mit Mutterkuhherde fühlt sich Frank durch Förderprivilegien für bestimmte Betriebsformen benachteiligt.",
+      "begruendung_selbst": "Ich arbeite genauso hart wie der Öko-Betrieb nebenan. Warum soll der Geld kriegen und ich nicht?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ackerland gehört in Bauernhand!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Ein Agrarstrukturgesetz soll ortsansässigen Familienbetrieben den Bodenzugang sichern und Spekulation sowie Flächenkonzentration in wenigen Händen verhindern.",
+      "seite": 14,
+      "zitat": "die Konzentration großer Flächen in wenigen Händen verhindern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sorgt sich um Pacht-Konkurrenz und Flächenfraß; ein Vorrang für regionale Betriebe vor Investoren entspricht direkt seinem Interesse.",
+      "begruendung_selbst": "Wenn überregionale Investoren mir die Pacht wegschnappen, kann meine Tochter den Hof vergessen. Boden muss zu den Bauern vor Ort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wolf rein in die Bestandsregulierung!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Wolfskompetenzzentrum soll abgeschafft und die Wolfspopulation gezielt reguliert werden.",
+      "seite": 14,
+      "zitat": "die Population gezielt regulieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der strikte Wolfsschutz erschwert Franks Weidehaltung mit der Mutterkuhherde; eine Bestandsregulierung ist für ihn ein konkreter, kein abstrakter Konflikt.",
+      "begruendung_selbst": "Ich hab nichts gegen Natur, aber meine Kälber sind keine Wolfsbeute. Endlich einer, der das ernst nimmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Wassercent auf mein Feld!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Besteuerung von Bewässerungswasser durch den sogenannten Wassercent soll zurückgenommen werden.",
+      "seite": 14,
+      "zitat": "Keine Besteuerung von Bewässerungswasser!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bewässerung ist für Frank ein realer Kostenfaktor; eine Wassersteuer würde seine ohnehin schwankende Marge direkt treffen.",
+      "begruendung_selbst": "Wasser ist mein Produktionsmittel. Wer das besteuert, treibt mir nur die Kosten hoch und am Ende die Preise.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Runter mit dem Agrardiesel-Preis!",
+      "thema": "energie",
+      "programmpunkt": "Die Energiesteuer auf Kraftstoffe soll auf den EU-Mindestsatz abgesenkt werden, um Pendler und Wirtschaft zu entlasten.",
+      "seite": 13,
+      "zitat": "dass die Energiesteuer für Kraftstoffe auf den EU-Mindestsatz abgesenkt wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dieselkosten gehören zu Franks schmerzhaftesten Fixposten; eine Senkung der Kraftstoffsteuer wirkt unmittelbar auf seine Betriebskosten.",
+      "begruendung_selbst": "Der Trecker säuft Diesel, das ist nun mal so. Jeder Cent weniger Steuer bleibt bei mir auf dem Hof.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Acker ist kein Solarpark!",
+      "thema": "energie",
+      "programmpunkt": "Industrielle Solarparks auf Ackerland und in Kulturlandschaften werden abgelehnt; Acker- und Grünland soll der Lebensmittelproduktion vorbehalten bleiben.",
+      "seite": 13,
+      "zitat": "auf heimischem Ackerland ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fürchtet Flächenfraß; der Schutz von Ackerland vor Versiegelung durch Solarparks sichert ihm seine Produktionsgrundlage.",
+      "begruendung_selbst": "Auf gutem Ackerboden wächst Brot, kein Strom. Dass den endlich mal einer schützt, gefällt mir.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klima gibt's, nur nicht auf meinem Rücken",
+      "thema": "klima",
+      "programmpunkt": "Die Partei lehnt die These des menschengemachten Klimawandels und jede Klimaschutzlogik grundsätzlich ab.",
+      "seite": 13,
+      "zitat": "lehnt die globalistische Klimaideologie",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Frank ist kein Klimaleugner; er sieht das Klima sehr wohl als Realität, kritisiert nur praxisfernen Klimaschutz auf seinem Rücken. Die pauschale Leugnung deckt sich nicht mit seiner Erfahrung als Praktiker, der Wetterextreme im Feld erlebt.",
+      "begruendung_selbst": "Dass der Klimaschutz praxisfern ist, sehe ich auch so. Aber zu tun, als gäbe es das Problem gar nicht? Ich merke die trockenen Sommer auf dem Acker selbst.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet in dem Programm fast alle seine konkreten Anliegen wieder: Bürokratieabbau, Gleichbehandlung der Betriebsformen, Schutz von Ackerland und Bodenzugang, Wolfsregulierung sowie günstigeren Diesel. Allein die pauschale Leugnung des Klimawandels steht quer zu seiner Praktikersicht. Unterm Strich überwiegt für ihn die spürbare Entlastung deutlich.",
+    "score": 1
+  }
+}
