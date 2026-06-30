@@ -1,0 +1,95 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Gegen extremistische Angriffe!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die AfD benennt gezielt Straftaten und Übergriffe von Linksextremisten auf die Bundeswehr und fordert ein härteres sicherheitspolitisches Vorgehen dagegen.",
+      "seite": 9,
+      "zitat": "„schwerste Straftaten gegen die Polizei, unsere Infrastruktur, die Bundeswehr und Bürger“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan sieht die Truppe als schützenswert an und fühlt sich durch extremistische Anfeindungen und Gewalt im Dienst bedroht. Er begrüßt es, wenn staatliche Stellen sich hinter die Soldaten stellen und konsequent gegen Verfassungsfeinde vorgehen, die seine Kameraden attackieren.",
+      "begruendung_selbst": "Es ist unerträglich, wenn wir unseren Dienst für die Gesellschaft leisten und dafür von Linksextremen angegriffen werden. Da erwarte ich, dass der Staat hart durchgreift und uns schützt."
+    },
+    {
+      "titel_selbst": "Endlich Respekt für Soldaten!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm fordert einen eigenen Landesbeauftragten für Kriegerdenkmäler, um den Einsatz und die Opfer gefallener Soldaten öffentlich und institutionell zu würdigen.",
+      "seite": 6,
+      "zitat": "„Gefallene Soldaten haben ihr Leben für die Verteidigung ihres Landes gegeben.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Berufssoldat wünscht sich Stefan mehr gesellschaftliche Wertschätzung für seinen Berufsstand und die damit verbundenen Opfer, auch wenn es hier primär um historische Erinnerungskultur geht. Das offene Bekenntnis zum militärischen Dienst am Land bestärkt ihn in seinem beruflichen Ethos.",
+      "begruendung_selbst": "Wer Uniform trägt, hält im Ernstfall den Kopf für dieses Land hin. Diese Opferbereitschaft verdient Respekt und ein klares politisches Bekenntnis, das in unserer Gesellschaft leider oft zu kurz kommt."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Gefährliche Russland-Nähe!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei strebt eine enge Zusammenarbeit mit Russland an und lehnt die kritische Haltung der anderen Parteien ab.",
+      "seite": 7,
+      "zitat": "„Die aktuelle russlandfeindliche Politik der Altparteien wiederum liegt nicht in deutschem Interesse.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan ist an der NATO-Ostflanke stationiert und erlebt die russische Bedrohung in seinem Dienstalltag unmittelbar. Eine Politik, die Russland als Partner hofiert, untergräbt seinen gesamten militärischen Auftrag und die gemeinsame europäische Verteidigungsstrategie.",
+      "begruendung_selbst": "Ich stehe an der Ostflanke, um unsere Verbündeten vor einer echten Bedrohung zu schützen. Wenn eine Partei die Gefahr verkennt und mit Russland kuscheln will, fällt sie unserer Truppe in den Rücken."
+    },
+    {
+      "titel_selbst": "Sanktionen aufheben? Niemals!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei fordert das sofortige Ende der Wirtschaftssanktionen gegen Russland zugunsten der heimischen Wirtschaft.",
+      "seite": 12,
+      "zitat": "„für die Aufhebung der Russlandsanktionen und aller anderen Wirtschaftssanktionen einsetzen.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan hat die sicherheitspolitische Solidarität innerhalb des Bündnisses absolute Priorität vor regionalen wirtschaftlichen Interessen. Ein einseitiges Ende der Sanktionen wäre aus seiner Sicht ein eklatanter Verrat an den internationalen Partnern und ein falsches Signal an den Aggressor.",
+      "begruendung_selbst": "Wir können doch nicht aus wirtschaftlichem Eigennutz unsere Bündnispartner im Stich lassen und den Aggressor belohnen. Verlässliche Bündnistreue ist für unsere eigene Sicherheit unverzichtbar."
+    },
+    {
+      "titel_selbst": "Vertrauen in Institutionen zerstören!",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD bezeichnet den Verfassungsschutz als Instrument der Regierung gegen die Opposition und will ihn in seinen Kompetenzen drastisch beschneiden.",
+      "seite": 11,
+      "zitat": "„Gegen diesen Missbrauch des Verfassungsschutzes als Regierungsschutz wehren wir uns“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Soldat hat Stefan einen Eid auf die Verfassung geschworen und vertraut den staatlichen Institutionen einer wehrhaften Demokratie. Der pauschale Versuch, zentrale Sicherheitsbehörden politisch zu delegitimieren, widerspricht seinem tiefen, unparteiischen Staatsverständnis vollkommen.",
+      "begruendung_selbst": "Als Soldat habe ich geschworen, die freiheitlich-demokratische Grundordnung tapfer zu verteidigen. Wenn eine Partei unsere eigenen Sicherheitsbehörden gezielt untergräbt, stellt sie den Staat selbst infrage."
+    },
+    {
+      "titel_selbst": "Ukraine-Hilfe ist kein Verschenken!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm verurteilt Hilfszahlungen an die Ukraine und stellt diese in direkten Kontrast zur Sanierung maroder Straßen.",
+      "seite": 3,
+      "zitat": "„oder an die Ukraine verschenkt werden“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan beurteilt die europäische Sicherheitsarchitektur strategisch und sieht die Unterstützung der Ukraine als existenziellen Beitrag zur Bündnisverteidigung. Die populistische Gegenrechnung von Sicherheitspolitik mit Schlaglochreparaturen empfindet er als extrem kurzsichtig und sicherheitspolitisch gefährlich.",
+      "begruendung_selbst": "Wer internationale Unterstützung für Angegriffene als ‚Verschenken‘ abtut, versteht die aktuelle Sicherheitslage in Europa nicht. Jeder investierte Euro dort schützt indirekt unsere eigene Ostflanke."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für den Berufssoldaten Stefan weist das AfD-Programm gravierende sicherheitspolitische Mängel auf. Zwar begrüßt er punktuell die verbale Wertschätzung militärischer Traditionen und die Abgrenzung von linksextremer Gewalt gegen die Truppe. Die offene Russland-Nähe, die Ablehnung von Sanktionen und Ukraine-Hilfen sowie die fundamentale Kritik an staatlichen Sicherheitsbehörden stehen jedoch im völligen Widerspruch zu seinem Verfassungsverständnis, seiner Bündnistreue und seinem militärischen Auftrag an der NATO-Ostflanke.",
+    "score": -2
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "persona": "rentnerpaar",
+  "partei": "cdu",
+  "modell": "gemini-3.1-pro",
+  "besonders_gut": [
+    {
+      "thema": "pflege",
+      "seite": 27,
+      "zitat": "Auf Bundesebene setzen wir uns für eine grundlegende Reform der Pflegeversicherung ein, mit gedeckelten Eigenanteilen, fairer Finanzierung und Schutz des selbstgenutzten Wohneigentums.",
+      "begruendung": "Das greift genau die größte finanzielle Angst von Helga und Dieter auf. Sie fürchten nichts mehr, als ihr abbezahltes Haus wegen möglicher Pflegekosten verkaufen zu müssen."
+    },
+    {
+      "thema": "verkehr",
+      "seite": 62,
+      "zitat": "Wir stehen einer ideologisch motivierten und grundlosen Ausweitung von Geschwindigkeitsbeschränkungen auf Autobahnen und auf innerörtlichen Durchgangsstraßen auf Tempo 30 entschlossen entgegen. Ebenfalls stehen wir für einen ideologiefreien motorisierten Individualverkehr.",
+      "begruendung": "Für das Rentnerpaar auf dem Land ist das Auto unverzichtbar („Ohne Auto geht hier nichts“). Die klare Positionierung der CDU für das Auto und gegen staatliche Einschränkungen spricht sie als veränderungsskeptische Wähler stark an."
+    },
+    {
+      "thema": "sicherheit",
+      "seite": 20,
+      "zitat": "Die Sicherheit der Bürgerinnen und Bürger sowie der Schutz des Eigentums und die Prävention vor Einbrüchen in Wohnungen und Unternehmen genießt für uns höchsten Stellenwert.",
+      "begruendung": "Helga und Dieter machen sich große Sorgen um steigende Kriminalität, insbesondere Einbrüche auf dem Land. Das starke Bekenntnis der CDU zu Sicherheit und Ordnung sowie zur Prävention gibt ihnen das gewünschte Sicherheitsgefühl."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "thema": "digitalisierung",
+      "seite": 51,
+      "zitat": "Digitalisierung entscheidet heute über Leistungsfähigkeit, Standortattraktivität und Lebensqualität.",
+      "begruendung": "Dem Rentnerpaar ist diese starke Fokussierung auf Digitalisierung suspekt („Dieser ganze App-Quatsch“). Sie befürchten bei solchen Aussagen, dass sie als weniger digital affine Menschen künftig von der Gesellschaft und der Daseinsvorsorge abgehängt werden."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das CDU-Programm spricht Helga und Dieter inhaltlich extrem stark an, da es passgenau ihre Kernanliegen und existenziellen Ängste adressiert. Der Schutz des mühsam erarbeiteten Eigenheims vor Pflegekosten, die Ablehnung von Fahrverboten und das klare Bekenntnis zum Auto auf dem Land geben dem sicherheitsorientierten Rentnerpaar das gewünschte Gefühl von Verlässlichkeit. Die harte Linie in der Sicherheitspolitik und beim Schutz vor Einbrüchen entspricht exakt ihrem ordnungspolitischen Kompass. Einzig der starke, als modern empfundene Fokus auf eine umfassende Digitalisierung der Gesellschaft stößt bei ihnen auf Skepsis, fällt aber angesichts der ansonsten stark auf ihre Bedürfnisse zugeschnittenen Versprechen kaum ins Gewicht.",
+    "score": 2
+  },
+  "metrik": {
+    "bewertungs_id": "rentnerpaar-cdu-gemini-3.1-pro-2026-06-30",
+    "themen_treffer": 3,
+    "widersprueche": 1
+  }
+}

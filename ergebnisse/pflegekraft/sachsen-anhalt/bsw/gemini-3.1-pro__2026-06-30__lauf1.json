@@ -1,0 +1,95 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich verlässliche Dienstpläne für uns!",
+      "thema": "arbeit",
+      "programmpunkt": "Das BSW will ein Tariftreuegesetz für Krankenhäuser einführen und sichert faire Löhne sowie verlässliche Arbeitszeiten für Pflegekräfte zu.",
+      "seite": 58,
+      "zitat": "Pflegekräfte verdienen faire Löhne, verlässliche Arbeitszeiten und bessere Bedingungen im Berufsalltag.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin leidet massiv unter den aktuellen Arbeitsbedingungen. Die explizite Forderung nach verlässlichen Arbeitszeiten und fairen Löhnen in der Pflege trifft genau ihre Hauptsorgen und gibt ihr das Gefühl von Wertschätzung.",
+      "begruendung_selbst": "Das ist genau das, was wir auf Station seit Jahren fordern! Wenn meine Arbeitszeiten endlich verlässlich wären und der Lohn den Stress widerspiegelt, würde ich vielleicht nicht ständig ans Aufhören denken."
+    },
+    {
+      "titel_selbst": "Pflege ist keine Ware!",
+      "thema": "gesundheit",
+      "programmpunkt": "Krankenhäuser sollen nicht als profitorientierte Geschäftsmodelle betrieben werden; das Programm fordert den Stopp von Privatisierungen und eine Rekommunalisierung.",
+      "seite": 57,
+      "zitat": "Gleichzeitig sprechen wir uns klar gegen eine zunehmende Privatisierung im Gesundheitswesen aus.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona steht der Ökonomisierung des Gesundheitssystems äußerst kritisch gegenüber, da der immense Renditedruck ihre alltägliche Arbeit erschwert. Die klare Absage an weitere Privatisierungen spiegelt ihre Überzeugung wider.",
+      "begruendung_selbst": "Das Krankenhaus ist doch kein Unternehmen, das Gewinn abwerfen muss! Wenn der ständige Druck von privaten Investoren wegfällt, können wir uns vielleicht endlich wieder auf das konzentrieren, was wirklich zählt: die Patienten."
+    },
+    {
+      "titel_selbst": "Wer anpackt, muss bleiben dürfen!",
+      "thema": "integration",
+      "programmpunkt": "Das Programm betont, dass Menschen mit Duldung, die arbeiten oder eine Ausbildung machen, ein sicheres Bleiberecht erhalten sollen.",
+      "seite": 64,
+      "zitat": "Wer seinen Beitrag leistet, muss eine verlässliche Perspektive erhalten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Kerstin ist es existenziell wichtig, dass ihre migrantischen Kollegen nicht abgeschoben werden. Eine verlässliche Bleibeperspektive für arbeitende Zugewanderte sichert ihr Team und verringert die Sorge vor weiterem Personalverlust.",
+      "begruendung_selbst": "Es ist nur fair! Wer bei uns auf Station Knochenarbeit leistet und Steuern zahlt, der darf nicht in ständiger Angst vor der Abschiebung leben müssen. Wir brauchen diese Leute hier jeden Tag."
+    },
+    {
+      "titel_selbst": "Lasst die Kollegen endlich arbeiten!",
+      "thema": "integration",
+      "programmpunkt": "Verfahren zur Anerkennung ausländischer Berufsabschlüsse sollen deutlich beschleunigt und vereinfacht werden, damit Fachkräfte schneller in den Beruf einsteigen können.",
+      "seite": 63,
+      "zitat": "eine deutliche Beschleunigung und Vereinfachung der Anerkennung ausländischer Berufsabschlüsse für qualifizierte Arbeitskräfte.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Kerstins Station stark auf ausländisches Personal angewiesen ist, würde eine schnellere Anerkennung von Abschlüssen direkte Entlastung für ihren Schichtalltag bringen, der von chronischer Unterbesetzung geprägt ist.",
+      "begruendung_selbst": "Das wurde aber auch Zeit. Wir haben so viele fähige Leute aus dem Ausland hier, die ewig auf Stempeln herumkauen müssen, statt uns am Bett zu helfen. Die Bürokratie muss weg!"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Woher soll unser Personal dann kommen?",
+      "thema": "integration",
+      "programmpunkt": "Das BSW fordert, dass Fachkräfteanwerbung aus dem Ausland gestoppt wird, falls die Herkunftsländer diese Fachkräfte theoretisch selbst benötigen.",
+      "seite": 63,
+      "zitat": "wir werben keine Fachkräfte ab, die die Herkunftsländer selbst benötigen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aus Kerstins pragmatischer Sicht gefährdet dieser moralische Anspruch die ohnehin fragile Funktionsfähigkeit ihrer Station. Ein Anwerbestopp aus Mangelstaaten nimmt ihr die Hoffnung auf kurzfristige Lösungen für die akute Personalnot.",
+      "begruendung_selbst": "Das klingt auf dem Papier vielleicht edel, aber in der Realität heißt das: Wir kriegen kein Personal mehr. Wenn die keine ausländischen Pfleger mehr anwerben, können wir die Station dichtmachen. Schickt uns Personal, keine Sonntagsreden!"
+    },
+    {
+      "titel_selbst": "Die Zuwanderer sind unsere Rettung!",
+      "thema": "integration",
+      "programmpunkt": "Das Programm argumentiert, dass die Aufnahmebereitschaft begrenzt sei und die heimische Bevölkerung vor gesellschaftlichen Überlastungstendenzen geschützt werden müsse.",
+      "seite": 62,
+      "zitat": "Die heimische Bevölkerung ist vor Überlastungstendenzen zu schützen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin empfindet den Vorwurf der Überlastung im Kontext von Migration als widersprüchlich zu ihrem Alltag. Ihre tatsächliche Überlastung resultiert aus fehlendem Personal, während Einwanderung für sie den Kollaps des Systems verhindert.",
+      "begruendung_selbst": "Das ärgert mich maßlos! Die reden von Überlastung durch Migranten, dabei kommt meine Überlastung auf der Arbeit vom ständigen Personalmangel! Ohne meine ausländischen Kollegen würde ich komplett zusammenbrechen, sie sind die Lösung."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet im Programm des BSW viel Zuspruch für ihre Kernanliegen, insbesondere durch die klare Absage an Privatisierungen im Gesundheitswesen und die Forderung nach besseren Arbeitsbedingungen sowie Tarifbindung in der Pflege. Auch die geforderten Erleichterungen bei der Anerkennung ausländischer Abschlüsse begrüßt sie sehr, da dies ihre Station entlasten könnte. Kritisch sieht sie jedoch die ablehnende Haltung zur aktiven Anwerbung von ausländischen Fachkräften aus Mangelstaaten, da sie dies angesichts des Personalnotstands als weltfremd empfindet.",
+    "score": 1
+  }
+}

@@ -3,37 +3,31 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>KanzlerClash — Personas × Wahlprogramme (#LTW26)</title>
-    <meta
-      name="description"
-      content="Fiktive Personas treffen auf die Wahlprogramme zur Landtagswahl 2026 — ausgewertet von mehreren LLMs, mit Belegen. Forschungsprojekt, CC-BY-SA."
-    />
+    <title>KanzlerClash — KI-Urteile über Wahlprogramme (#LTW26)</title>
+    <meta name="description" content="Wie urteilen verschiedene KI-Modelle über die Wahlprogramme zur Landtagswahl 2026? Datenexplorer mit Modell-Vergleich, Bias-Signaturen und belegten Quellen. Forschungs-/Bildungsprojekt, keine Wahlempfehlung." />
   </head>
   <body>
     <header class="kopf">
-      <h1>KanzlerClash — Personas × Wahlprogramme</h1>
-      <p class="unterzeile">
-        Wie stehen 16 fiktive Lebenslagen zu den Wahlprogrammen der Landtagswahlen 2026?
-        Ausgewertet von mehreren LLMs, jede Aussage mit Seite&nbsp;+&nbsp;Zitat belegt.
-      </p>
-      <p class="termine">
-        Sachsen-Anhalt 6.9.2026 · Berlin 20.9.2026 · Mecklenburg-Vorpommern 20.9.2026
-      </p>
-      <p class="hinweis">
-        ⚠ Fiktive Archetypen, keine realen Personen. Jede Persona ist <em>aus ihrer Lage heraus</em>
-        einseitig — Neutralität entsteht erst über die Summe aller. Keine Wahlempfehlung.
-        Daten: CC-BY-SA. Ergebnisse sind LLM-Aussagen, keine geprüften Fakten.
-      </p>
+      <a href="#/" class="logo">KanzlerClash · #LTW26</a>
+      <span class="kopf-sub">KI-Urteile über Wahlprogramme — Sachsen-Anhalt</span>
     </header>
 
-    <main id="app">
-      <section id="personas" class="raster" aria-label="Personas"></section>
-      <section id="detail" hidden></section>
-    </main>
+    <!-- EU-AI-Act-Transparenzhinweis: auf jeder Ansicht sichtbar -->
+    <div class="ai-act" role="note">
+      ⚠ <strong>KI-generierte Inhalte.</strong> Die Bewertungen stammen von KI-Modellen,
+      beziehen sich auf <strong>fiktive Personas</strong> (keine realen Personen) und können
+      Fehler und Verzerrungen (Bias) enthalten. <strong>Keine Wahlempfehlung</strong> —
+      dient ausschließlich der politischen Bildung. Parteizitate dienen als Beleg
+      (Urheberrecht der Parteien).
+    </div>
+
+    <main id="app"></main>
 
     <footer class="fuss">
       <span id="stand"></span> ·
-      <a href="https://github.com/kanzlerclash/personas">Quellcode &amp; Daten (GitHub)</a>
+      Daten unter CC-BY-SA ·
+      <a href="https://github.com/kanzlerclash/personas">Quellcode &amp; Methodik (GitHub)</a> ·
+      Transparenz gem. EU-KI-VO Art. 50
     </footer>
 
     <script type="module" src="./main.ts"></script>

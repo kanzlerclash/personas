@@ -1,0 +1,95 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sichere Kita in Wohnortnähe!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei verspricht, Kitas flächendeckend zu erhalten und garantiert, dass der nächste Betreuungsplatz maximal eine Viertelstunde entfernt ist.",
+      "seite": 52,
+      "zitat": "Die nächste Kindertagesbetreuung ist entweder in derselben Ortschaft oder maximal 15 Minuten entfernt!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sind darauf angewiesen, dass sie Job und Kindertagesbetreuung verlässlich kombinieren können. Eine Kita in unmittelbarer Nähe entspannt den eng getakteten Alltag der beiden Berufstätigen im Speckgürtel enorm.",
+      "begruendung_selbst": "Wenn wir beide arbeiten und pendeln, brauchen wir zwingend einen Kitaplatz um die Ecke. Eine Garantie für einen Platz in maximal 15 Minuten Entfernung nimmt uns eine riesige Sorge ab!"
+    },
+    {
+      "titel_selbst": "Wichtige Entlastung bei den Gebühren!",
+      "thema": "familie",
+      "programmpunkt": "Familien mit mehreren Kindern sollen durch dauerhafte Ermäßigungen bei den Kita-Beiträgen finanziell entlastet werden.",
+      "seite": 52,
+      "zitat": "Wir sichern die Beitragsermäßigung für Mehrkinderfamilien dauerhaft ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar plant ein zweites Kind, muss aber jeden Euro für das Eigenkapital umdrehen. Eine Beitragsermäßigung für Mehrkinderfamilien senkt den finanziellen Druck und hilft ihnen beim Sparen.",
+      "begruendung_selbst": "Wir überlegen, ein zweites Kind zu bekommen, aber Kita-Gebühren sind ein echter Budgetfresser. Wenn die Beiträge für Familien mit mehreren Kindern dauerhaft ermäßigt werden, hilft uns das sehr beim Sparen fürs Eigenkapital."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kein Platz mehr für Neubau?",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will den Neubau von Gebäuden zugunsten der Sanierung von Bestandsbauten als politisches Leitprinzip zurückdrängen.",
+      "seite": 92,
+      "zitat": "Vorrang des Bestands wird Leitprinzip: Sanierung statt Neubau.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar träumt von einem eigenen, neu gebauten Haus im Umland. Wenn die Politik den Neubau kategorisch einschränkt, befürchten sie, dass passendes Bauland noch knapper und unbezahlbarer wird.",
+      "begruendung_selbst": "Wir wollen uns unseren Traum vom Eigenheim erfüllen und neu bauen. Wenn jetzt nur noch Bestandssanierung erwünscht ist und neue Baugebiete blockiert werden, wird das wenige Bauland ja noch teurer!"
+    },
+    {
+      "titel_selbst": "Das Ende vom Traum vom Haus!",
+      "thema": "wohnen",
+      "programmpunkt": "Um den Flächenverbrauch zu stoppen, plant die Partei ein striktes Netto-Null-Ziel ohne neue Flächenversiegelung.",
+      "seite": 93,
+      "zitat": "Bis 2050 muss das Netto-Null-Ziel erreicht werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica sind frustriert von einer Baupolitik, die ideologisch Flächen für Wohngebiete verknappt. Sie sehen in solchen Zielen den Grund dafür, dass für junge Familien kaum noch bezahlbarer Baugrund ausgewiesen wird.",
+      "begruendung_selbst": "Es ist ja gut, Flächen zu schonen. Aber wenn die Politik ein striktes Netto-Null-Ziel beim Flächenverbrauch ausruft, bedeutet das faktisch, dass für Familien wie uns kaum noch neue, bezahlbare Baugebiete ausgewiesen werden!"
+    },
+    {
+      "titel_selbst": "Zwang macht Bauen unerschwinglich!",
+      "thema": "energie",
+      "programmpunkt": "Bei neuen Wohngebäuden soll die Installation von Solaranlagen gesetzlich verpflichtend in die Bauordnung aufgenommen werden.",
+      "seite": 23,
+      "zitat": "eine Pflicht zur Nutzung von Solarenergie bei Neubauten in der Landesbauordnung verankern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die beiden haben großes Interesse an Nachhaltigkeit, müssen ihr Baubudget aber sehr streng kalkulieren. Eine rechtlich bindende Pflicht zur Solaranlage empfinden sie als teure staatliche Vorgabe, die ihr ohnehin knappes Budget sprengt.",
+      "begruendung_selbst": "Klimaschutz in allen Ehren, aber wenn wir beim Neubau gesetzlich zu einer teuren Solaranlage gezwungen werden, treibt das die Baukosten endgültig ins Unbezahlbare. Das bricht uns finanziell das Genick."
+    },
+    {
+      "titel_selbst": "Und wer denkt an die Pendler?",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will sich auf den Erhalt bestehender Straßen konzentrieren, bevor der Neubau von Verkehrsinfrastruktur geplant wird.",
+      "seite": 25,
+      "zitat": "den Erhalt von Straßen und Brücken konsequent priorisieren, bevor neue Infrastruktur geplant wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Berufspendler im Speckgürtel sind sie auf ein gut ausgebautes Straßennetz und fließenden Verkehr angewiesen. Eine strikte Zurückstellung neuer Entlastungsstraßen bedeutet für sie mehr Staus und weniger Lebensqualität im Alltag.",
+      "begruendung_selbst": "Wir fahren jeden Tag mit dem Auto zur Arbeit und zur Kita. Wenn jetzt kaum noch neue Entlastungsstraßen gebaut werden dürfen, stehen wir als Pendler aus dem Umland nur noch im Stau."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der Grünen bietet Tom und Jessica bei der Familienpolitik starke Entlastungen, insbesondere durch garantierte, ortsnahe Kitaplätze und Beitragsermäßigungen. In der für sie zentralen Frage des Wohnens und Bauens steht das Programm jedoch diametral zu ihren Zielen: Die Abkehr vom Neubau, restriktive Flächenziele und gesetzliche Solarpflichten verschärfen aus ihrer Sicht die ohnehin kritischen Baukosten und machen den Traum vom Eigenheim unerreichbar.",
+    "score": -1
+  }
+}

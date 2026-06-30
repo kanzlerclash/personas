@@ -1,0 +1,106 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mein Ticket bleibt!",
+      "thema": "verkehr",
+      "programmpunkt": "Erhalt des Deutschlandtickets, um Mobilität für alle zu sichern.",
+      "seite": 62,
+      "zitat": "Das Deutschlandticket wollen wir erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla begrüßt das Bekenntnis zum Deutschlandticket, da sie als städtische Mieterin ohne Auto stark auf den öffentlichen Nahverkehr angewiesen ist.",
+      "begruendung_selbst": "Das Deutschlandticket ist für mich im Alltag unverzichtbar. Gut, dass das nicht auch noch zur Disposition steht."
+    },
+    {
+      "titel_selbst": "Mehr Platz fürs Rad!",
+      "thema": "verkehr",
+      "programmpunkt": "Förderung des Alltagsradelns durch den Ausbau neuer Radwege.",
+      "seite": 63,
+      "zitat": "Wir wollen die Zahl der gebauten Radwege steigern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla bewertet den Ausbau der Radverkehrsinfrastruktur positiv, weil sie sich für ihre täglichen Wege eine fahrradfreundlichere und sicherere Stadt wünscht.",
+      "begruendung_selbst": "Endlich mal was Positives für den Alltag! Ich fahre jeden Tag Rad, mehr und sichere Wege sind genau das, was wir brauchen."
+    },
+    {
+      "titel_selbst": "Wenigstens sozialer Wohnungsbau.",
+      "thema": "wohnen",
+      "programmpunkt": "Staatliche Förderung für den sozialen Wohnungsbau zur Schaffung von Wohnraum.",
+      "seite": 65,
+      "zitat": "fördern d en sozialen Wohnungsbau",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla findet Unterstützung für die Förderung des sozialen Wohnungsbaus, da sie dringend mehr gemeinwohlorientierten und bezahlbaren Wohnraum jenseits des freien Marktes fordert.",
+      "begruendung_selbst": "Es ist ein Minimum, aber immerhin wird der soziale Wohnungsbau gefördert. Wir brauchen dringend Wohnungen, die nicht nur auf Profit ausgelegt sind."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mieterschutz ist nicht ideologisch!",
+      "thema": "wohnen",
+      "programmpunkt": "Strikte Ablehnung von Mietpreisdeckeln und anderen regulierenden Eingriffen in den Markt.",
+      "seite": 65,
+      "zitat": "ideologisch motivierte Markteingriffe wie Mietpreisdeckel",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla ist empört über die pauschale Ablehnung eines Mietendeckels, da sie sich durch staatliche Eingriffe vor Verdrängung und unbezahlbaren Mieten schützen möchte.",
+      "begruendung_selbst": "Mietpreisdeckel als 'ideologisch' abzutun, ist ein Schlag ins Gesicht. Für mich ist das keine Ideologie, sondern die nackte Angst, mein Zuhause zu verlieren!"
+    },
+    {
+      "titel_selbst": "Eigentum ist purer Luxus!",
+      "thema": "wohnen",
+      "programmpunkt": "Fokus auf die Erleichterung und Förderung des Erwerbs von privatem Wohneigentum.",
+      "seite": 65,
+      "zitat": "Deshalb wollen wir den Erwerb von Wohneigentum erleichtern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla fühlt sich von der starken Fokussierung auf Eigentumsförderung ausgeschlossen, da der Erwerb von Wohneigentum für sie aufgrund fehlenden Kapitals ohnehin unrealistisch ist.",
+      "begruendung_selbst": "Was nützt mir diese Förderung? Ich werde mir in Berlin ohnehin nie eine Wohnung kaufen können. Das ist Politik für Reiche, nicht für uns Mieter."
+    },
+    {
+      "titel_selbst": "Freie Fahrt für Abgase?",
+      "thema": "verkehr",
+      "programmpunkt": "Abschaffung bestehender Umweltzonen in städtischen Innenstädten.",
+      "seite": 62,
+      "zitat": "Überholte Umweltzonen in Innenstädten wollen wir aufheben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla lehnt die geplante Abschaffung von städtischen Umweltzonen strikt ab, da dies ihrer Forderung nach einer lebenswerten, autoarmen Stadt widerspricht.",
+      "begruendung_selbst": "Umweltzonen aufzuheben, ist ein völlig falsches Signal. Wir brauchen weniger Autos und bessere Luft im Kiez, nicht noch mehr Abgase vor der Haustür."
+    },
+    {
+      "titel_selbst": "Der Markt regelt eben nicht!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Aussage, dass Wohlstand primär durch die Wirtschaft und nicht durch staatliche Umverteilung entsteht.",
+      "seite": 12,
+      "zitat": "entstehen jedoch nicht durch staatliche Vorgaben und Umverteilung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla kritisiert die stark marktliberale Haltung der Partei, da sie eine starke staatliche Regulierung in der Daseinsvorsorge für unabdingbar hält.",
+      "begruendung_selbst": "Die Mär vom freien Markt, der Wohlstand für alle bringt, glaube ich schon lange nicht mehr. Ohne staatliche Umverteilung bleiben Leute wie ich auf der Strecke."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet in dem Programm einige für sie positive Aspekte im Verkehrsbereich, wie den Ausbau von Radwegen und den Erhalt des Deutschlandtickets. Die wohnungs- und wirtschaftspolitische Ausrichtung lehnt sie jedoch entschieden ab, da die starke Marktgläubigkeit und die explizite Ablehnung von Mietpreisdeckeln ihre existenzielle Angst vor Verdrängung ignorieren. Insgesamt fühlt sie sich von der Priorisierung von Wohneigentum in ihrer Lebensrealität nicht repräsentiert.",
+    "score": -2
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Hilfe für kommunale Vermieter!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei plant, kommunale Wohnungsunternehmen und Genossenschaften durch einen landeseigenen Altschuldenfonds finanziell zu entlasten.",
+      "seite": 12,
+      "zitat": "Wir wollen einen landeseigenen, befristeten Altschuldenfonds auflegen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla befürwortet gemeinwohlorientierten Wohnraum stark. Dass die FDP kommunale Wohnungsunternehmen und Genossenschaften durch den Schuldenabbau stärken will, begrüßt sie als sinnvollen Schritt, um bezahlbaren Wohnraum zu sichern.",
+      "begruendung_selbst": "Genossenschaften und landeseigene Wohnungen sind unsere letzte Bastion gegen Immobilien-Haie. Wenn diese durch einen Fonds entschuldet werden, ist das genau der richtige Ansatz."
+    },
+    {
+      "titel_selbst": "Endlich sichere Radwege für alle!",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP verspricht, Lücken im Radwegenetz zu schließen und die Infrastruktur für Fahrradfahrer konsequent auszubauen.",
+      "seite": 71,
+      "zitat": "Menschen wollen mit dem Rad mobil sein, wir schaffen die Infrastruktur dafür.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ist im städtischen Alltag fast ausschließlich auf das Fahrrad angewiesen. Der geplante Ausbau der Radinfrastruktur und das Schließen von Lücken im Netz verbessern ihre umweltfreundliche Mobilität direkt.",
+      "begruendung_selbst": "Ich habe kein Auto und fahre fast alles mit dem Rad. Wenn Lücken im Netz geschlossen werden, komme ich endlich sicherer und entspannter durch den Verkehr."
+    },
+    {
+      "titel_selbst": "Mein Deutschlandticket muss bleiben!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei bekennt sich zum langfristigen Erhalt des Deutschlandtickets als festem Bestandteil des öffentlichen Nahverkehrs.",
+      "seite": 73,
+      "zitat": "Das Deutschlandticket bleibt Teil des Angebots",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Carla als überzeugte ÖPNV-Nutzerin ist das Deutschlandticket eine entscheidende finanzielle Erleichterung. Das Bekenntnis der FDP zum Erhalt des Tickets sichert ihre bezahlbare Fortbewegung.",
+      "begruendung_selbst": "Ohne Auto ist das Deutschlandticket meine absolute Lebensader. Gut, dass es laut dem Programm erhalten bleiben soll, denn das spart mir jeden Monat bares Geld."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Der Markt regelt nur Verdrängung!",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP lehnt strikte staatliche Eingriffe in den Wohnungsmarkt ab und setzt stattdessen auf weitreichende Deregulierung und die Förderung privater Investitionen.",
+      "seite": 13,
+      "zitat": "wir ermöglichen private Investitionen statt sie wegzuregulieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla wünscht sich eine starke Mietregulierung als notwendigen Schutz vor Spekulation. Die marktliberale Absage der FDP an Regulierungen weckt in ihr tiefe Ängste vor unkontrollierten Mietsteigerungen.",
+      "begruendung_selbst": "Wenn ich lese, dass Wohnen nicht 'wegreguliert' werden soll, läuten bei mir alle Alarmglocken. Der freie Markt hat in meinem Kiez noch nie bezahlbaren Wohnraum geschaffen, sondern immer nur für Verdrängung gesorgt."
+    },
+    {
+      "titel_selbst": "Modernisierung ist mein Kündigungsgrund!",
+      "thema": "wohnen",
+      "programmpunkt": "Zur finanziellen Förderung von Sanierungen sollen Vermieter ihre Modernisierungskosten im Bestand dauerhaft steuerlich beschleunigt abschreiben können.",
+      "seite": 13,
+      "zitat": "Sachsen-Anhalt wird eine Bundesratsinitiative für eine dauerhafte Modernisierungs-Abschreibung starten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Steuerliche Anreize für Modernisierungen führen in Carlas Lebensrealität fast immer zu unbezahlbaren Mieterhöhungen. Sie fürchtet, dass diese Maßnahmen primär Investoren nützen, die Altbauten luxussanieren.",
+      "begruendung_selbst": "Ich habe panische Angst vor dem Tag, an dem die Modernisierungsankündigung im Briefkasten liegt. Solche Steuergeschenke für Vermieter finanzieren am Ende meine direkte Verdrängung aus der Wohnung."
+    },
+    {
+      "titel_selbst": "Daseinsvorsorge gehört nicht an die Börse!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei strebt an, staatliche Beteiligungen an Unternehmen aufzugeben und staatliche Aufgaben konsequent in den privaten Markt zu überführen.",
+      "seite": 9,
+      "zitat": "Der Staat ist nie ein guter Unternehmer",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla betrachtet essenzielle Bereiche wie das Wohnen als Daseinsvorsorge, die dem Gemeinwohl dienen muss. Die pauschale privatisierungsorientierte Haltung der FDP widerspricht ihrem Misstrauen gegenüber Profitinteressen.",
+      "begruendung_selbst": "Dass der Staat sich als schlechter Unternehmer aus allem heraushalten soll, ist brandgefährlich. Wenn man Grundbedürfnisse dem privaten Profitstreben überlässt, bleiben normale Menschen wie ich komplett auf der Strecke."
+    },
+    {
+      "titel_selbst": "Eigentum ist für mich völlig utopisch!",
+      "thema": "wohnen",
+      "programmpunkt": "Das zentrale wohnungspolitische Ziel der Partei ist es, breiten Schichten den Erwerb von privatem Wohneigentum zu erleichtern, beispielsweise durch Steuerfreibeträge.",
+      "seite": 12,
+      "zitat": "Eigentum stärkt Unabhängigkeit: Wohneigentum fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Politik, die primär auf den Erwerb von Wohneigentum abzielt, geht an Carlas finanzieller Realität vorbei. Für sie als Mieterin ohne Vermögen löst diese Priorisierung kein einziges drängendes Problem.",
+      "begruendung_selbst": "Wohneigentum in Berlin? Wer soll das denn bezahlen? Mir helfen keine Freibeträge für Eigenheimkäufer, sondern strenge Gesetze, die meine aktuelle Miete bezahlbar halten und mich als Mieterin schützen."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Wahlprogramm der FDP weckt in Carla aufgrund seiner stark marktliberalen Ausrichtung enorme Bedenken, insbesondere in ihrem zentralen Anliegen Wohnen. Während sie pragmatische Ansätze wie den Ausbau von Radwegen, den Erhalt des Deutschlandtickets oder die Entschuldung kommunaler Vermieter schätzt, lehnt sie die strikte Ablehnung von Mietmarktregulierungen, die einseitige Eigentumsförderung sowie steuerliche Anreize für Modernisierungen als existenzielle Bedrohung ab.",
+    "score": -2
+  }
+}

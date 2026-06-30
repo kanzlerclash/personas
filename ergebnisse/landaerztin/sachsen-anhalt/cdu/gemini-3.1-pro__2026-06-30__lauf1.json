@@ -1,0 +1,117 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Starthilfe statt Hürdenlauf!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will Praxisgründungen und -übernahmen gezielt fördern und bürokratische Hindernisse aus dem Weg räumen.",
+      "seite": 27,
+      "zitat": "bürokratische Hürden bauen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra sucht dringend einen Nachfolger für ihre Landpraxis und sieht in der Bürokratie das Haupthindernis für junge Ärztinnen und Ärzte. Eine gezielte Entbürokratisierung der Übernahme hilft ihr direkt bei der Praxisübergabe.",
+      "begruendung_selbst": "Endlich wird erkannt, dass junge Kollegen Starthilfe brauchen, statt von Anträgen erschlagen zu werden, wenn sie meine Praxis übernehmen wollen."
+    },
+    {
+      "titel_selbst": "Schluss mit dem Zettelwahnsinn!",
+      "thema": "demokratie",
+      "programmpunkt": "Die CDU verspricht, in der neuen Wahlperiode keine neuen Auflagen und keine zusätzlichen Berichtspflichten für Unternehmen und Selbstständige einzuführen.",
+      "seite": 13,
+      "zitat": "keine neuen Auflagen und keine unnötigen zusätzlichen Berichtspflichten zulassen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die ausufernde Dokumentation und Berichtspflicht frisst Dr. Petras kostbare Zeit, die sie dringend für die Patientenversorgung bräuchte. Ein verbindlicher Stopp neuer administrativer Auflagen entlastet ihren Arbeitsalltag spürbar.",
+      "begruendung_selbst": "Wenn nicht noch mehr Formulare auf meinem Schreibtisch landen, kann ich endlich wieder mehr Zeit für meine Patienten aufbringen statt für die Akten."
+    },
+    {
+      "titel_selbst": "Mehr Nachwuchs aufs Land!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die bestehende Landarztquote soll beibehalten, evaluiert und bei Bedarf weiter ausgebaut werden.",
+      "seite": 28,
+      "zitat": "Die bestehende Landarztquote soll überprüft und bei Bedarf weiterentwickelt werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Landärztin ohne Nachfolge befürwortet sie alle strukturellen Instrumente, die junge Mediziner gezielt in die ländliche Fläche bringen und dort binden.",
+      "begruendung_selbst": "Es ist absolut richtig, Medizinstudenten schon früh für die Arbeit auf dem Land zu verpflichten – wir brauchen hier draußen jeden Kopf."
+    },
+    {
+      "titel_selbst": "Apotheken vor Ort erhalten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei bekennt sich zum Erhalt lokaler Apotheken als wichtigen Bestandteil der ländlichen Gesundheitsversorgung.",
+      "seite": 27,
+      "zitat": "als wichtigen Teil der medizinischen Daseinsvorsorge stärken",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Dr. Petra sind die lokalen Apotheken unverzichtbare Partner in der ländlichen Grundversorgung. Deren Erhalt sichert die zuverlässige Medikamentenversorgung ihrer älteren Patienten.",
+      "begruendung_selbst": "Ohne die Apotheke im nächsten Dorf bringt mein bestes Rezept nichts. Es ist wichtig, dass diese Ankerpunkte im ländlichen Raum geschützt werden."
+    },
+    {
+      "titel_selbst": "Mobilität für Oma Erna!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Deutschlandticket soll erhalten bleiben, aber gezielt so weiterentwickelt werden, dass Menschen im ländlichen Raum einen größeren Nutzen davon haben.",
+      "seite": 62,
+      "zitat": "Bürgerinnen und Bürger im ländlichen Raum stärker als bisher davon profitieren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sie erlebt täglich, wie schwer ihre nicht mehr mobilen Patienten die Praxis erreichen. Ein nutzbarer, bezahlbarer ÖPNV auf dem Land würde die Erreichbarkeit ihrer Sprechstunde massiv verbessern.",
+      "begruendung_selbst": "Meine älteren Patienten sind ohne Auto aufgeschmissen. Wenn der Nahverkehr hier draußen endlich besser wird, kommen sie auch wieder leichter in meine Praxis."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Medizin ist keine Renditeanlage!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm setzt auf eine Trägervielfalt, in der auch privatwirtschaftliche und auf Rendite ausgerichtete Kliniken eine zentrale Rolle in der Versorgung spielen sollen.",
+      "seite": 28,
+      "zitat": "privatwirtschaftliche Häuser sind gleichberechtigte und tragende Säulen unserer Versorgung.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra lehnt die fortschreitende Ökonomisierung der Medizin strikt ab. Renditeorientierte, private Träger passen in ihren Augen nicht zum bedarfsorientierten Auftrag der ländlichen Daseinsvorsorge.",
+      "begruendung_selbst": "Krankenhäuser sollen Patienten heilen und nicht die Taschen von Aktionären füllen. Wer Profit sucht, ist in der ländlichen Grundversorgung völlig fehl am Platz."
+    },
+    {
+      "titel_selbst": "Meine Praxis ist kein Auslaufmodell!",
+      "thema": "gesundheit",
+      "programmpunkt": "Medizinische Versorgungszentren (MVZ), in denen verschiedene Gesundheitsberufe angestellt zusammenarbeiten, sollen zukünftig die primäre Basis der ambulanten Versorgung sein.",
+      "seite": 28,
+      "zitat": "werden zum Rückgrat der Versorgung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Inhaberin einer inhabergeführten Einzelpraxis empfindet sie diese Fokussierung auf große Zentrenstrukturen als Abwertung ihres Modells und fürchtet eine anonymere Medizin.",
+      "begruendung_selbst": "Die klassische Einzelpraxis, in der ich meine Patienten noch beim Namen kenne, soll ausgedient haben? Diese riesigen Zentren bedeuten am Ende nur Fließbandmedizin und noch mehr Verwaltung."
+    },
+    {
+      "titel_selbst": "Drohnen statt funktionierender eAU?",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Partei will im Gesundheitsbereich modernste Technologien wie Drohnen zur Lageerkundung und Medikamentenversorgung erproben.",
+      "seite": 28,
+      "zitat": "Drohnen zur Lageerkundung und Versorgung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Während Dr. Petra im Praxisalltag mit einer oft blockierten Telematikinfrastruktur und abstürzenden E-Rezept-Systemen kämpft, wirken Zukunftsfantasien wie Drohnen für sie deplatziert und als völlig falsche Prioritätensetzung.",
+      "begruendung_selbst": "Bevor wir ernsthaft anfangen, irgendwelche Drohnen über unsere Dörfer fliegen zu lassen, sollte vielleicht erst einmal die schnöde elektronische Krankschreibung fehlerfrei funktionieren!"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra findet in dem Programm viele pragmatische und hilfreiche Ansätze, insbesondere beim Abbau von Bürokratie und der Förderung von Praxisübernahmen, was ihr direkt bei der Nachfolgesuche hilft. Auch die Landarztquote und die Stärkung des ländlichen ÖPNV unterstützt sie. Enttäuscht und skeptisch blickt sie jedoch auf die technologieverliebten Zukunftsvisionen wie Drohnen, solange die Basis-Digitalisierung versagt, sowie auf die explizite Stärkung privatwirtschaftlicher Kliniken und MVZ-Strukturen, in denen sie eine Ökonomisierung der Medizin und eine Abwertung ihrer klassischen Einzelpraxis fürchtet.",
+    "score": 1
+  }
+}

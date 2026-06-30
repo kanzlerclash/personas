@@ -1,0 +1,95 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Kolleginnen und Kollegen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei plant, die Zahl der Polizeikräfte konsequent auf eine Zielgröße von 7.000 Stellen aufzustocken.",
+      "seite": 41,
+      "zitat": "soll konsequent bis zur Zielgröße von 7.000 Stellen fortgesetzt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet stark unter dem aktuellen Personalmangel und der daraus resultierenden Arbeitsbelastung im Schichtdienst. Die konkrete Zielmarke für mehr Einstellungen bei der Polizei trifft exakt seine Kernforderung nach personeller Entlastung.",
+      "begruendung_selbst": "Wir pfeifen auf dem letzten Loch. Wenn die wirklich die 7.000 Stellen vollmachen, wäre das die Entlastung, die wir auf der Straße so dringend brauchen."
+    },
+    {
+      "titel_selbst": "Kein Platz für Verfassungsfeinde!",
+      "thema": "demokratie",
+      "programmpunkt": "Beamte müssen sich eindeutig zur freiheitlich-demokratischen Grundordnung bekennen und Extremisten sollen zügig aus dem Dienst entfernt werden.",
+      "seite": 40,
+      "zitat": "Wer verbeamtet werden will, muss uneingeschränkt zur freiheitlich-demokratischen Grundordnung stehen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als ordnungstreuer Beamter identifiziert sich Marco stark mit dem Schutz staatlicher Institutionen. Er teilt die harte Linie gegen Extremisten im öffentlichen Dienst, da diese aus seiner Sicht die Integrität der Polizei und des Rechtsstaats beschädigen.",
+      "begruendung_selbst": "Wer unseren Staat ablehnt, hat in Uniform nichts verloren. Das untergräbt das Vertrauen in unsere Arbeit und macht den Job für uns alle nur noch schwerer."
+    },
+    {
+      "titel_selbst": "Damit unsere Arbeit nicht versandet!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Justiz soll personell so ausgestattet und digitalisiert werden, dass Gerichtsverfahren deutlich schneller und effizienter abgeschlossen werden können.",
+      "seite": 46,
+      "zitat": "So sollen Verfahren beschleunigt und bürokratische Hürden abgebaut werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist häufig frustriert, wenn von ihm ermittelte Fälle vor Gericht nur schleppend bearbeitet werden oder im Sande verlaufen. Eine effizientere Justiz sorgt dafür, dass seine polizeiliche Arbeit auf der Straße auch spürbare juristische Konsequenzen hat.",
+      "begruendung_selbst": "Es gibt nichts Frustrierenderes, als wenn wir jemanden schnappen und es ewig dauert, bis es ein Urteil gibt. Wenn die Justiz endlich schneller wird, hat unsere Arbeit wieder mehr Sinn."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Schon wieder ein Generalverdacht!",
+      "thema": "sicherheit",
+      "programmpunkt": "Es soll eine neue, externe und unabhängige Instanz geschaffen werden, die Beschwerden über polizeiliches Fehlverhalten untersucht.",
+      "seite": 43,
+      "zitat": "eine unabhängige Stelle schaffen, die Beschwerden, Hinweise und Fehlverhalten in der Polizei untersucht",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco fühlt sich durch pauschale Polizeikritik ohnehin schon stark belastet. Eine externe Kontrollstelle empfindet er als institutionalisiertes Misstrauen gegenüber seiner täglichen Arbeit und als mangelnde Rückendeckung durch die Politik.",
+      "begruendung_selbst": "Wir halten jeden Tag den Kopf hin und als Dankeschön kriegen wir noch eine Aufsichtsstelle vorgesetzt. Das fühlt sich so an, als ob man uns grundsätzlich nicht vertraut."
+    },
+    {
+      "titel_selbst": "Ihr nehmt uns wichtige Werkzeuge!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei spricht sich gegen automatisierte Gesichtserkennung und flächendeckende Massenüberwachung bei Veranstaltungen oder an öffentlichen Orten aus.",
+      "seite": 41,
+      "zitat": "Massenüberwachung durch Chatkontrolle oder Gesichtserkennung wird es mit uns nicht geben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco wünscht sich weitreichende Befugnisse und moderne technische Ausstattung, um Straftaten effektiv verfolgen zu können. Der Verzicht auf technologische Überwachungsmittel an Kriminalitätsschwerpunkten oder bei Großereignissen schränkt seinen polizeilichen Handlungsspielraum ein.",
+      "begruendung_selbst": "Wir sollen für Sicherheit sorgen, dürfen aber moderne Technik nicht nutzen? Gerade bei Großlagen oder schweren Straftaten brauchen wir solche Instrumente, um Täter überhaupt noch rechtssicher ermitteln zu können."
+    },
+    {
+      "titel_selbst": "Das weicht unseren Rechtsstaat auf!",
+      "thema": "sicherheit",
+      "programmpunkt": "Ersatzfreiheitsstrafen sollen abgeschafft werden, damit Menschen, die Geldstrafen nicht bezahlen können, stattdessen soziale Alternativen ableisten.",
+      "seite": 47,
+      "zitat": "Wir lehnen die Kriminalisierung von Armut ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco plädiert für eine konsequente Strafverfolgung und klare Konsequenzen für Gesetzesverstöße. Wenn verhängte Geldstrafen letztlich nicht vollstreckt werden, sieht er die abschreckende Wirkung des Rechtsstaats und die Verbindlichkeit von Strafurteilen gefährdet.",
+      "begruendung_selbst": "Gesetz ist Gesetz. Wenn am Ende keine echte Strafe mehr droht, weil man es als soziales Problem verbucht, dann nimmt uns auf der Straße doch überhaupt niemand mehr ernst."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco sieht das grüne Wahlprogramm sehr zwiespältig. Zwar begrüßt er das konkrete Bekenntnis zu mehr Personal und einer schnelleren Justiz ausdrücklich, da dies seinen Arbeitsalltag erleichtern würde. Gleichzeitig stößt er sich jedoch massiv an Vorhaben wie dem unabhängigen Polizeibeauftragten oder den Einschränkungen bei Überwachungstechnik, die er als Misstrauensvotum und praxisfremde Beschneidung seiner polizeilichen Befugnisse empfindet.",
+    "score": 0
+  }
+}

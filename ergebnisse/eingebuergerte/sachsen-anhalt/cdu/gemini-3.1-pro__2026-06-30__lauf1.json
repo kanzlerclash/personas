@@ -1,0 +1,117 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wir gehören endlich dazu!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei stellt klar, dass Menschen mit Einwanderungsgeschichte ein unverzichtbarer Teil der Gesellschaft sind und positioniert sich gegen Ausländerfeindlichkeit.",
+      "seite": 9,
+      "zitat": "Menschen mit Migrationshintergrund sind ein fester Bestandteil unserer Gesellschaft.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin sehnt sich nach unhinterfragter Anerkennung. Das klare Bekenntnis der Partei zu Menschen mit Einwanderungsgeschichte gibt ihr das Gefühl, als wertvoller Teil der Gesellschaft wahrgenommen zu werden.",
+      "begruendung_selbst": "Es tut gut zu lesen, dass wir als selbstverständlicher Teil dieses Landes gesehen werden. Genau diese Sachlichkeit brauchen wir in der hitzigen Debatte."
+    },
+    {
+      "titel_selbst": "Gleiche Chancen für alle Kinder.",
+      "thema": "bildung",
+      "programmpunkt": "Die CDU plant eine verbindliche Sprachstandserhebung für alle Kinder im Vorschulalter, um die deutsche Sprache frühzeitig und unabhängig vom Elternhaus zu fördern.",
+      "seite": 48,
+      "zitat": "Wir fördern Sprachkompetenz von Anfang an, unabhängig vom Elternhaus.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da für Aylin Leistung und nicht Herkunft zählt, befürwortet sie staatliche Maßnahmen, die Kindern durch frühzeitige Sprachförderung echte Aufstiegschancen und gesellschaftliche Teilhabe ermöglichen.",
+      "begruendung_selbst": "Die Sprache ist der Schlüssel zur Teilhabe. Wenn wir Kinder früh fördern, statt sie später abzustempeln, ist das der richtige Weg für echte Chancengerechtigkeit."
+    },
+    {
+      "titel_selbst": "Klare Kante gegen jeden Extremismus!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Sicherheitsbehörden sollen ihren ganzheitlichen Blick wahren und extremistische Bestrebungen jeder Art entschlossen bekämpfen.",
+      "seite": 7,
+      "zitat": "jede Form des politisch und islamistisch motivierten Extremismus bekämpfen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin fürchtet sich vor Polarisierung und rechten Ausgrenzungsfantasien. Ein wehrhafter Rechtsstaat, der alle extremistischen Ränder gleichermaßen im Blick behält, vermittelt ihr ein Gefühl der Sicherheit.",
+      "begruendung_selbst": "Mir macht die politische Polarisierung große Sorgen. Es beruhigt mich, wenn der Staat verspricht, radikale Kräfte, die unsere Demokratie bedrohen, scharf im Auge zu behalten."
+    },
+    {
+      "titel_selbst": "Endlich digitaler arbeiten!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Landesverwaltung soll durch den Einsatz digitaler Tools und die Abschaffung von Papierakten bürgernäher, effizienter und moderner werden.",
+      "seite": 55,
+      "zitat": "Wir digitalisieren Genehmigungs- und Vergabeverfahren vollständig",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte begrüßt Aylin das Vorhaben, ihren eigenen Arbeitsalltag und den Service für die Bürger durch digitale und vereinfachte Strukturen zeitgemäß aufzustellen.",
+      "begruendung_selbst": "In meinem Büroalltag in der Stadtverwaltung sehe ich ständig, wie wir durch alte Prozesse ausgebremst werden. Die volle Digitalisierung würde uns die Arbeit enorm erleichtern."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Muss ich mich noch mehr anpassen?",
+      "thema": "integration",
+      "programmpunkt": "Die CDU formuliert ein Bekenntnis zu einer christlich-abendländisch geprägten Leitkultur, die Zuwanderer als Voraussetzung für das Zusammenleben respektieren müssen.",
+      "seite": 72,
+      "zitat": "Wir bekennen uns zu unserer Leitkultur.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin empfindet die Forderung nach einer über das Gesetz hinausgehenden Leitkultur als ausgrenzend, da für sie Zugehörigkeit auf Recht und demokratischer Teilhabe basiert, nicht auf kultureller Abstammung.",
+      "begruendung_selbst": "Ich arbeite hart, zahle Steuern und halte mich an alle Gesetze. Warum reicht das nicht? Solche Begriffe geben mir das Gefühl, dass ich als Eingebürgerte immer neue Hürden nehmen muss."
+    },
+    {
+      "titel_selbst": "Generalverdacht per Hautfarbe!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizei soll künftig erweiterte DNA-Analysen nutzen dürfen, um gezielt nach äußerlichen Merkmalen wie Hautfarbe oder Haarfarbe zu fahnden.",
+      "seite": 7,
+      "zitat": "präzisere Bewertungen der Haar-, Haut- und Augenfarbe sowie des Alters vorgenommen werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aufgrund ihrer Erfahrungen mit Alltagsdiskriminierung ist Aylin alarmiert, dass Fahndungen nach äußeren Merkmalen Menschen mit Migrationsgeschichte im Alltag pauschal verdächtig machen könnten.",
+      "begruendung_selbst": "Wenn die Polizei bald ganz offiziell nach Hautfarbe fahndet, geraten Menschen wie ich auf der Straße noch schneller grundlos ins Visier. Das schürt nur Misstrauen gegen uns."
+    },
+    {
+      "titel_selbst": "Menschen sind kein reines Problem!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei verfolgt einen sehr strikten Kurs zur Begrenzung von Migration, der auch das Aussetzen von humanitären Aspekten wie dem Familiennachzug beinhaltet.",
+      "seite": 8,
+      "zitat": "Zugleich sollen freiwillige Aufnahmeprogramme beendet und der Familiennachzug für subsidiär Schutzberechtigte weiterhin ausgesetzt bleiben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn Aylin für eine geordnete Migration eintritt, lehnt sie die harte Rhetorik ab, die Einwanderung primär als Gefahr rahmt und schutzbedürftigen Familien den Nachzug verweigert.",
+      "begruendung_selbst": "Geregelte Einwanderung ist richtig, aber man darf die Menschlichkeit nicht vergessen. Wenn selbst geflüchtete Familien für immer getrennt bleiben sollen, ist mir diese Politik viel zu kalt."
+    },
+    {
+      "titel_selbst": "Schon wieder dieses Misstrauen.",
+      "thema": "demokratie",
+      "programmpunkt": "Im Kontext der bundesweiten digitalen Vernetzung der Verwaltungen wird explizit hervorgehoben, dass dies auch der Verhinderung von angeblichem Missbrauch durch Asylbewerber dienen soll.",
+      "seite": 52,
+      "zitat": "nicht im Sozialmissbrauch, nicht im Asylmissbrauch.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin stört sich am wiederkehrenden Framing, das Migration pauschal mit Kriminalität oder Sozialbetrug in Verbindung bringt, da dies Vorurteile in der Mehrheitsgesellschaft verfestigt.",
+      "begruendung_selbst": "Selbst bei einem Sachthema wie der Verwaltungsdigitalisierung muss der Asylmissbrauch als Beispiel herhalten. Es ist dieses ständige negative Framing, das uns Migranten das Leben schwer macht."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin bewertet das CDU-Programm gemischt. Sie begrüßt ausdrücklich die klare Anerkennung von Menschen mit Migrationsgeschichte als Teil der Gesellschaft, den starken Fokus auf frühkindliche Sprachförderung sowie Pläne zur Modernisierung der Verwaltung. Starkes Unbehagen bereiten ihr jedoch die Forderung nach einer Leitkultur, polizeiliche DNA-Analysen zur Bestimmung der Hautfarbe und die teils sehr restriktive Asylrhetorik, da sie fürchtet, dies könnte Diskriminierung und pauschale Vorurteile im Alltag verfestigen.",
+    "score": 0
+  }
+}

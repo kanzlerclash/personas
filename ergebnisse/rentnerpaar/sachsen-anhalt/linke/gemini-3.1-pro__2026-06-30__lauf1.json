@@ -1,0 +1,128 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Unterstützung bei der Pflege!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei plant die Einführung eines garantierten Landespflegegeldes in Höhe von mindestens 1500 Euro jährlich.",
+      "seite": 56,
+      "zitat": "ein Landespflegegeld von mindestens 1500 Euro pro Jahr einführen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dieter und Helga machen sich große Sorgen um die möglichen finanziellen Belastungen im Pflegefall. Ein garantiertes Landespflegegeld würde ihnen eine konkrete existentielle Sorge nehmen.",
+      "begruendung_selbst": "Wer ein Leben lang gearbeitet hat, darf am Ende nicht als Bittsteller dastehen. Diese kleine Finanzspritze für die Pflege ist genau das, was wir brauchen."
+    },
+    {
+      "titel_selbst": "Der Arzt muss zum Patienten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Auf dem Land soll die ambulante ärztliche Versorgung durch den Einsatz mobiler Praxen und Telemedizin sichergestellt werden.",
+      "seite": 55,
+      "zitat": "den Einsatz von Medimobil und Telemedizin für ambulante medizinische Versorgung auf dem Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Rentnerpaar fürchtet den baldigen Wegfall des Hausarztes im Dorf und den Verlust der ärztlichen Versorgung. Mobile medizinische Angebote wären eine direkte Lösung für sie, wenn sie selbst nicht mehr Auto fahren können.",
+      "begruendung_selbst": "Unser Arzt hört bestimmt bald auf, da wäre so ein medizinisches Mobil eine gute Lösung für unser Dorf. Hauptsache, es kommt überhaupt jemand vorbei, der nach dem Rechten sieht."
+    },
+    {
+      "titel_selbst": "Hilfe statt Zwang beim Haus!",
+      "thema": "wohnen",
+      "programmpunkt": "Die energetische Sanierung von Eigenheimen soll finanziell abhängig vom jeweiligen Einkommen gefördert werden.",
+      "seite": 85,
+      "zitat": "eine nach Einkommensklassen gestaffelte Förderung für die energetische Sanierung sowie den Austausch von Heizungsanlagen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre größte finanzielle Sorge ist eine unbezahlbare energetische Sanierungspflicht für ihr altes Haus. Eine Förderung, die auf ihre kleinen Renten Rücksicht nimmt, sichert den Verbleib in den eigenen vier Wänden.",
+      "begruendung_selbst": "Wenn der Staat uns zwingt, eine neue Heizung einzubauen, dann muss er uns Kleingeld-Rentnern auch helfen. Sonst müssen wir am Ende noch aus unserem mühsam abbezahlten Haus ausziehen!"
+    },
+    {
+      "titel_selbst": "Heizen darf kein Luxus sein!",
+      "thema": "energie",
+      "programmpunkt": "Es soll ein verpflichtender, günstiger Basistarif für Strom und Wärme eingeführt werden, um den Grundbedarf zu sichern.",
+      "seite": 106,
+      "zitat": "einen verpflichtenden Sockeltarif für Strom und Wärme, damit der Grundbedarf für alle bezahlbar ist",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Rentner müssen mit ihrem Haushaltsgeld streng wirtschaften und fürchten steigende Heizkosten. Ein gesetzlich garantierter, günstiger Basistarif gibt ihnen die nötige finanzielle Planungssicherheit für den Winter.",
+      "begruendung_selbst": "Wir drehen die Heizung ohnehin schon oft runter, um sparsam zu sein. Ein bezahlbarer Grundtarif wäre eine riesige Erleichterung für unsere Haushaltskasse und nimmt uns die Angst vorm Frieren."
+    },
+    {
+      "titel_selbst": "Hilfe im Papierkram-Dschungel!",
+      "thema": "demokratie",
+      "programmpunkt": "Mobile Lotsen sollen vor allem auf dem Land älteren Menschen bei Behördengängen und Anträgen helfen.",
+      "seite": 57,
+      "zitat": "die Einführung von sogenannten mobilen „Bürokratie-Lotsen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dieter und Helga sind schnell überfordert von zunehmend komplexen oder digitalen Formularen. Eine persönliche Hilfe vor Ort entspricht ihrem starken Bedürfnis nach Verlässlichkeit und konkreter Unterstützung im Alltag.",
+      "begruendung_selbst": "Diese ganzen digitalen Anträge versteht doch heute kein Mensch mehr! Wenn da jemand direkt ins Dorf kommt und uns beim Papierkram hilft, wäre das wirklich ein Segen."
+    },
+    {
+      "titel_selbst": "Endlich wieder Polizei im Dorf!",
+      "thema": "sicherheit",
+      "programmpunkt": "In kleineren Gemeinden sollen mobile Polizeistationen und regelmäßige Sprechstunden eingeführt werden.",
+      "seite": 134,
+      "zitat": "Mobile Polizeistationen, regelmäßige Bürger:innensprechstunden und der Ausbau mobiler, professioneller Hilfsangebote vor Ort",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar legt großen Wert auf Sicherheit und bedauert den Rückzug staatlicher Institutionen aus der Fläche. Mehr direkte Polizeipräsenz gibt ihnen das gewünschte Sicherheits- und Ordnungsgefühl zurück.",
+      "begruendung_selbst": "Man sieht ja kaum noch einen Schutzmann bei uns auf dem Land. Wenn die öfter hier wären und ansprechbar sind, könnten wir nachts wieder ruhiger schlafen."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ordnung statt Kuschelpädagogik!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei setzt bei straffälligen Jugendlichen primär auf Sozialarbeit und Prävention anstatt auf harte Strafen.",
+      "seite": 134,
+      "zitat": "Jugendarbeit statt Jugendknast – mehr Streetwork, offene Jugendtreffs und Jugendzentren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als ordnungsliebende Rentner, die sich nach Sicherheit sehnen, empfinden sie die linke Kriminalpolitik oft als zu nachsichtig. Sie wünschen sich stattdessen eine harte Durchsetzung von Gesetzen gegenüber Straftätern.",
+      "begruendung_selbst": "Wer Mist baut, der muss auch ordentlich dafür geradestehen. Wenn kriminelle Jugendliche nur in Jugendtreffs bespaßt werden, lernen die doch überhaupt keinen Respekt vor dem Gesetz."
+    },
+    {
+      "titel_selbst": "Sicherheit geht vor Datenschutz!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Nutzung von Gesichtserkennungssoftware zur Kriminalitätsbekämpfung und Massenüberwachung wird strikt abgelehnt.",
+      "seite": 129,
+      "zitat": "Gesichtserkennung zur Massenüberwachung lehnen wir ab",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für die sicherheitsorientierten Senioren, die sich vor Kriminalität fürchten, ist Datenschutz bei der Polizeiarbeit zweitrangig. Sie werten den Verzicht auf Überwachungstechnik als falsche Prioritätensetzung zugunsten der Täter.",
+      "begruendung_selbst": "Wenn man nichts verbrochen hat, braucht man doch auch keine Angst vor Kameras zu haben! Hauptsache, die Polizei hat alle Mittel, um die Einbrecher zu schnappen."
+    },
+    {
+      "titel_selbst": "Eigenheim ist auch Vorsorge!",
+      "thema": "wohnen",
+      "programmpunkt": "Staatliche Fördermittel für den Wohnungsbau sollen ausschließlich in den sozialen Mietwohnungsbau fließen, nicht in die Eigentumsförderung.",
+      "seite": 83,
+      "zitat": "nur für unbefristet gebundenen sozialen Mietwohnungsbau verwenden und nicht für die Förderung von Eigentum",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als stolze Eigenheimbesitzer, die ihr Leben lang für ihr Haus gespart haben, lehnen sie den Ausschluss von Eigentumsförderung ab. Sie empfinden privates Eigentum als die verlässlichste Form der Altersvorsorge.",
+      "begruendung_selbst": "Unser Haus ist unsere Lebensleistung und Altersvorsorge. Wenn der Staat nur noch Mietwohnungen bezuschusst, verbaut er jungen Leuten genau diese Sicherheit, die wir uns mühsam erarbeitet haben."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der Linken bietet Dieter und Helga viele konkrete Antworten auf ihre drängendsten Sorgen. Vor allem die Vorschläge zur finanziellen Absicherung im Pflegefall, der Schutz vor Sanierungskosten beim Eigenheim und die Stärkung der ärztlichen sowie polizeilichen Versorgung im ländlichen Raum treffen genau ihre Bedürfnisse. Ihre eher konservativen Werte bezüglich harter Strafverfolgung und Wohneigentum kollidieren jedoch an einigen Stellen mit dem linken Ansatz.",
+    "score": 1
+  }
+}

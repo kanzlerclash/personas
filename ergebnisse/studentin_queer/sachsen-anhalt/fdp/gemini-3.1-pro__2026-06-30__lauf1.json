@@ -1,0 +1,117 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich bezahlbare Lebensmittel!",
+      "thema": "steuern",
+      "programmpunkt": "Die FDP fordert, die Mehrwertsteuer auf Lebensmittel und Grundversorgungsgüter komplett abzuschaffen, um die Lebenshaltungskosten zu senken.",
+      "seite": 9,
+      "zitat": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule studiert mit einem knappen BAföG-Budget und Nebenjob. Jede Preissteigerung im Alltag trifft sie hart, weshalb eine steuerliche Entlastung bei Grundnahrungsmitteln ihre angespannte finanzielle Situation direkt verbessern würde.",
+      "begruendung_selbst": "Am Monatsende muss ich jeden Cent umdrehen. Wenn die Steuer auf Lebensmittel wirklich wegfällt, bleibt mir endlich ein bisschen mehr Luft zum Atmen."
+    },
+    {
+      "titel_selbst": "Mehr Verlass auf die Bahn!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei strebt eine deutliche Verbesserung der Pünktlichkeit im Schienenpersonennahverkehr an und will Zugausfälle massiv reduzieren.",
+      "seite": 73,
+      "zitat": "Die Pünktlichkeit im SPNV soll gegenüber dem Basisjahr 2025 um 20 Prozent steigen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Studentin ohne Auto ist Jule im Alltag vollständig auf den öffentlichen Nahverkehr angewiesen. Ein verlässlicherer Bahnverkehr erleichtert ihr Leben zwischen Uni, Nebenjob und politischem Engagement erheblich.",
+      "begruendung_selbst": "Ich sitze andauernd in verspäteten oder ausfallenden Zügen fest. Dass das Land das Problem mit konkreten Zielen angehen will, ist überfällig und richtig."
+    },
+    {
+      "titel_selbst": "Offenheit für queere Familien!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei bekennt sich ausdrücklich zu unterschiedlichen und frei gewählten Modellen des familiären Zusammenlebens.",
+      "seite": 42,
+      "zitat": "sowie für vielfältige, selbst gewählte Familienformen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule ist queer und fürchtet sich vor dem Abbau von Minderheitenrechten durch konservative gesellschaftliche Strömungen. Das explizite Bekenntnis zu vielfältigen Familienformen mindert diese Sorge etwas.",
+      "begruendung_selbst": "Es ist mir sehr wichtig, wenn eine Partei schwarz auf weiß anerkennt, dass eine Familie heutzutage weit mehr sein kann als nur Mutter, Vater, Kind."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Fracking ist ein Albtraum!",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will das Verbot von unkonventionellem Fracking auf Bundesebene aufheben, um den Weg für eine Förderung von heimischem Schiefergas freizumachen.",
+      "seite": 16,
+      "zitat": "pauschale Verbot des unkonventionellen Frackings auf Bundesebene durch ein wissenschaftsbasiertes Genehmigungsregime zu ersetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für die klimaengagierte Studentin ist die Erschließung neuer fossiler Gasquellen durch Fracking ein massiver Rückschritt, der ihrer Kernforderung nach einer konsequenten Energiewende komplett widerspricht.",
+      "begruendung_selbst": "Statt in die Erneuerbaren zu investieren, wollen die ernsthaft Fracking in Deutschland erlauben. Das zerstört unsere Umwelt und treibt die Klimakrise auf die Spitze!"
+    },
+    {
+      "titel_selbst": "Atomkraft ist keine Lösung!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert einen Wiedereinstieg in die Kernkraft, einschließlich eines Neubauprogramms für moderne Reaktoren.",
+      "seite": 14,
+      "zitat": "Dazu gehört für uns auch der Wiedereinstieg in die Nutzung der Kernenergie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jules ökologisches Grundverständnis steht der Nutzung von Atomkraft diametral entgegen; sie empfindet diesen Ansatz als gefährlich und als bewusste Verzögerung der Transformation hin zu erneuerbaren Energien.",
+      "begruendung_selbst": "Wir müssen endgültig weg von fossiler und nuklearer Energie. Den Wiedereinstieg in die Atomkraft zu fordern, zeigt mir, dass die Partei die Dringlichkeit der Klimakrise nicht versteht."
+    },
+    {
+      "titel_selbst": "Naturschutz wird dem Profit geopfert!",
+      "thema": "klima",
+      "programmpunkt": "Die FDP lehnt die staatlich geförderte Stilllegung von Waldflächen für den Klimaschutz ab und fordert, diese Wälder stattdessen aktiv zu bewirtschaften.",
+      "seite": 22,
+      "zitat": "Die Förderung von Waldstilllegungen durch öffentliche Mittel sind zu beenden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aus Jules Sicht ist der bedingungslose Schutz von Ökosystemen essenziell für den Erhalt der Artenvielfalt. Den Fokus auf forstwirtschaftliche Nutzung lehnt sie als ökonomisch motivierte Naturzerstörung ab.",
+      "begruendung_selbst": "Unberührte Wälder sind unsere wichtigsten Verbündeten gegen den Klimawandel. Wenn man Naturschutzgebiete streicht, um mehr Holz zu fällen, verliert unsere Natur."
+    },
+    {
+      "titel_selbst": "Klimaschutz ist mehr als Markt!",
+      "thema": "klima",
+      "programmpunkt": "Die FDP lehnt ordnungspolitische Verbote im Klimaschutz strikt ab und verlässt sich stattdessen auf marktwirtschaftliche Instrumente wie den Emissionshandel.",
+      "seite": 23,
+      "zitat": "Klimapolitik darf nicht in Bevormundung, Verboten und teuren Symbolmaßnahmen abgleiten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule betrachtet weitreichende staatliche Eingriffe als notwendig, um die Klimakrise abzuwenden. Die Ablehnung von strengeren Vorgaben empfindet sie als gefährliches Ausbremsen des Klimaschutzes.",
+      "begruendung_selbst": "Die diffamieren echten Klimaschutz als Bevormundung und verlassen sich allein auf den freien Markt. So werden wir meine Zukunft niemals sichern."
+    },
+    {
+      "titel_selbst": "Quoten sind wichtig, nicht starr!",
+      "thema": "familie",
+      "programmpunkt": "Die FDP lehnt verpflichtende Geschlechterquoten ab und setzt bei der Gleichstellungspolitik ausschließlich auf Flexibilität und Leistungsorientierung.",
+      "seite": 42,
+      "zitat": "Starre Geschlechterquoten lehnen wir ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule setzt sich für Gleichstellung und Antidiskriminierung ein. Die Ablehnung von Quoten und der Verweis auf reine Leistungsprinzipien blenden für sie die systematische, strukturelle Benachteiligung von Frauen aus.",
+      "begruendung_selbst": "Zu glauben, dass Gleichstellung nur durch Leistung entsteht, ignoriert alle strukturellen Hürden. Quoten abzulehnen heißt, dass sich in den Führungsetagen im Zweifel gar nichts ändert."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die FDP punktet bei der Studentin Jule zwar mit Vorhaben zur Senkung der Lebenshaltungskosten, Verbesserungen im ÖPNV und einer Offenheit für vielfältige Familienformen. Der klare Fokus auf Technologieoffenheit, fossile Energien wie Fracking, ein Wiedereinstieg in die Atomkraft und die generelle Ablehnung ordnungspolitischer Klimaschutzmaßnahmen sowie Geschlechterquoten stoßen bei der klimaengagierten und links-liberalen Studentin jedoch auf tiefste Ablehnung.",
+    "score": -2
+  }
+}

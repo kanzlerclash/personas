@@ -1,0 +1,117 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich genug Kollegen auf der Straße!",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm verspricht eine deutliche Aufstockung der Landespolizei auf 7.000 Beamte bis spätestens 2028.",
+      "seite": 68,
+      "zitat": "Bis spätestens 2028 braucht Sachsen-Anhalt insgesamt rund 7.000 Polizeibeamte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet in seinem Dienstalltag enorm unter Schichtdruck und Personalmangel. Die konkrete Zusage, spürbar mehr Personal einzustellen, trifft exakt seine zentrale Forderung nach besseren Arbeitsbedingungen.",
+      "begruendung_selbst": "Genau das sage ich seit Jahren! Wir pfeifen personell aus dem letzten Loch. Wenn wir wirklich mehr Kollegen bekommen, können wir endlich wieder richtig für Sicherheit sorgen, ohne selbst kaputtzugehen."
+    },
+    {
+      "titel_selbst": "Leistung muss anerkannt werden.",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert die Einführung von Regelbeförderungen sowie beschleunigte Aufstiegschancen bei besonderer Leistung, um den Beförderungsstau aufzulösen.",
+      "seite": 68,
+      "zitat": "Wir setzen uns für die Einführung einer Regelbeförderung ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Streifenpolizist mit familiärer Verantwortung ärgert sich Marco über blockierte Beförderungen. Die Aussicht auf verlässliche finanzielle Aufstiege empfindet er als dringend nötige Wertschätzung seiner anstrengenden Arbeit.",
+      "begruendung_selbst": "Es frustriert extrem, wenn man sich im Dienst aufreibt, aber wegen fehlender Planstellen jahrelang festhängt. Regelbeförderungen würden uns endlich die finanzielle Sicherheit und den Respekt geben, den wir verdienen."
+    },
+    {
+      "titel_selbst": "Die Justiz muss wieder funktionieren.",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Land soll massiv in die Justiz investieren und Personal aufbauen, um Gerichts- und Ermittlungsverfahren deutlich zu beschleunigen.",
+      "seite": 71,
+      "zitat": "Die personelle Situation der Justiz ist besonders kritisch.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist in der Praxis oft frustriert, wenn polizeiliche Ermittlungserfolge in überlasteten Staatsanwaltschaften und Gerichten versanden. Eine funktionierende und gut ausgestattete Justiz ist für ihn die unverzichtbare Ergänzung zur Polizeiarbeit.",
+      "begruendung_selbst": "Es nützt nichts, wenn wir auf der Straße die Täter schnappen, und am Ende passiert monatelang nichts. Eine handlungsfähige Justiz ist der einzige Weg, wie unsere Ermittlungsarbeit überhaupt Sinn ergibt."
+    },
+    {
+      "titel_selbst": "Sicherheit bleibt in staatlicher Hand!",
+      "thema": "sicherheit",
+      "programmpunkt": "Das staatliche Gewaltmonopol soll strikt bei der Polizei verbleiben, während eine Privatisierung von Sicherheitsaufgaben konsequent abgelehnt wird.",
+      "seite": 66,
+      "zitat": "Sicherheit ist keine Ware. Sie darf weder privatisiert werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marcos Grundwert ist die unbedingte Loyalität zur Institution und zum Rechtsstaat. Er sieht die hoheitliche Aufgabe der Polizei durch private Sicherheitsdienste entwertet und begrüßt das klare Bekenntnis zum staatlichen Gewaltmonopol.",
+      "begruendung_selbst": "Sicherheit darf nie vom Kontostand abhängen. Es ist unsere verfassungsgemäße Pflicht als Polizei, die Bürger zu schützen – das darf man nicht an private Firmen auslagern, denen es am Ende nur um Profit geht."
+    },
+    {
+      "titel_selbst": "Wer straffällig wird, muss gehen.",
+      "thema": "integration",
+      "programmpunkt": "Das BSW verlangt die konsequente Abschiebung von Asylbewerbern, die in Deutschland straffällig werden oder das Asylrecht missbrauchen.",
+      "seite": 62,
+      "zitat": "Asylmissbrauch vorliegt oder Migranten straffällig werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco pflegt ein differenziertes Bild von Migration, befürwortet aber ein hartes Durchgreifen des Rechtsstaates bei Kriminalität. Diese klare Trennung von Schutzbedürftigen und Straftätern entspricht exakt seiner beruflichen Haltung.",
+      "begruendung_selbst": "Ich habe wirklich nichts gegen Zuwanderer, die hier friedlich leben wollen. Aber wer unsere Gesetze bricht und Straftaten begeht, verwirkt seinen Schutzanspruch – da darf der Rechtsstaat nicht wegschauen."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Den Staatsschutz darf man nicht schwächen!",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm fordert die sofortige Abschaffung der Extremismuskategorie der sogenannten verfassungsschutzrelevanten Delegitimierung des Staates.",
+      "seite": 12,
+      "zitat": "Das BSW fordert deshalb die sofortige Abschaffung der Extremismuskategorie",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als verfassungstreuer Beamter, der die staatlichen Institutionen schützt, sieht Marco gezielte Kampagnen gegen den Staat mit Sorge. Den Verfassungsschutz in diesem Bereich blind zu machen, empfindet er als naiv und fahrlässig.",
+      "begruendung_selbst": "Ich riskiere jeden Tag meinen Kopf für unseren Rechtsstaat. Wenn radikale Gruppen ganz gezielt unsere demokratischen Institutionen zersetzen wollen, muss der Verfassungsschutz da genau hinschauen dürfen – so etwas darf man nicht verharmlosen."
+    },
+    {
+      "titel_selbst": "Nehmt uns nicht unsere Ermittlungswerkzeuge!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei lehnt den Einsatz von moderner Analysesoftware wie Palantir zur automatisierten Datenverknüpfung durch Sicherheitsbehörden kategorisch ab.",
+      "seite": 67,
+      "zitat": "Den Einsatz von Palantir-Software und vergleichbaren Systemen zur umfassenden automatisierten Datenverknüpfung lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco fordert eine zeitgemäße Ausstattung für die Polizei, um mit Kriminellen mithalten zu können. Das pauschale Verbot moderner Analysesoftware aus Datenschutzgründen sieht er als praxisferne Einschränkung seiner polizeilichen Handlungsfähigkeit.",
+      "begruendung_selbst": "Die organisierte Kriminalität ist bestens vernetzt und nutzt die neueste Technik, und wir sollen weiter Aktenordner wälzen? Wenn man uns Software wie Palantir wegnimmt, bindet man uns im Kampf gegen Schwerverbrechen doch mutwillig die Hände."
+    },
+    {
+      "titel_selbst": "Ein Schlag ins Gesicht für uns Beamte.",
+      "thema": "demokratie",
+      "programmpunkt": "Das BSW fordert eine pauschale Amnestie und Rehabilitierung für Menschen, die sich während der Corona-Pandemie gegen Maßnahmen widersetzt haben.",
+      "seite": 16,
+      "zitat": "Wir setzen uns für eine Amnestie und Rehabilitierung all jener ein",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco musste während der Pandemie unpopuläre staatliche Auflagen auf der Straße durchsetzen und ertrug dafür viel Unmut. Eine pauschale Amnestie für damalige Regelbrecher empfindet er als nachträglichen Vertrauensbruch und mangelnde Rückendeckung der Politik.",
+      "begruendung_selbst": "Wir standen damals auf der Straße und mussten die Corona-Regeln durchsetzen, wofür wir oft genug angefeindet wurden. Wenn die Politik jetzt pauschal alle Regelbrecher amnestiert, fällt sie uns Beamten nachträglich komplett in den Rücken."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco liest das Programm des BSW mit gemischten, aber tendenziell positiven Gefühlen. Einerseits spricht ihm das starke Bekenntnis zu einer personell und finanziell besser ausgestatteten Polizei, zur konsequenten Strafverfolgung sowie einer handlungsfähigen Justiz aus dem Herzen. Andererseits stört ihn die aus seiner Sicht praxisferne Skepsis der Partei gegenüber modernen Ermittlungsmethoden und dem Verfassungsschutz, da dies seine Arbeit erschwert und den Schutz des Rechtsstaats schwächt.",
+    "score": 1
+  }
+}

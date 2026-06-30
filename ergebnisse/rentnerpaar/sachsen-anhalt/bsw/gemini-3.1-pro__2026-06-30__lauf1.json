@@ -1,0 +1,80 @@
+{
+  "persona": "rentnerpaar",
+  "partei": "bsw",
+  "land": "sachsen-anhalt",
+  "zusammenfassung": {
+    "titel_selbst": "Die sprechen uns voll aus der Seele!",
+    "fokus_wichtigste_themen": "Das Wahlprogramm adressiert nahezu alle Kernsorgen von Helga und Dieter: Eine verlässliche Rente, der Stopp von teuren Klimavorgaben beim Wohnen und das Ende der CO2-Abgabe, was ihre größte Angst vor dem finanziellen Ruin durch ihr ungedämmtes Haus beseitigt. Auch die starke Betonung von Sicherheit, Ordnung und medizinischer Versorgung auf dem Land (inklusive Gemeindeschwestern) trifft genau ihren Nerv.",
+    "allgemeines_gefuehl": "Das Programm holt die beiden Rentner perfekt ab. Es bietet ihnen das Gefühl von Schutz vor finanzieller Überforderung (Energie, Sanierung) und verspricht einen starken Staat, der sich um die kleinen Leute und die ländlichen Räume kümmert. Sie fühlen sich verstanden und in ihrem Wunsch nach Sicherheit und dem Erhalt ihres Lebensstandards vollauf bestätigt. Lediglich große Worte wie eine „zweite friedliche Revolution“ wecken kurz ihre tiefe Skepsis vor großen Umbrüchen, was den durchweg positiven Gesamteindruck aber kaum trübt."
+  },
+  "besonders_gut": [
+    {
+      "thema": "gesundheit",
+      "seitenzahl": "35",
+      "zitat": "Wer ein Leben lang gearbeitet hat, muss im Alter gut abgesichert sein.",
+      "programmpunkt": "Das BSW spricht sich für die Sicherung der gesetzlichen Rente aus, lehnt ein höheres Renteneintrittsalter ab und will Altersarmut verhindern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "titel_selbst": "Anerkennung für unsere harte Arbeit!",
+      "begruendung": "Helga und Dieter haben ihr Leben lang gearbeitet. Die klare Zusage, die Rente als Fundament der Alterssicherung zu erhalten und nicht als Spielball für Sparmaßnahmen zu nutzen, nimmt ihnen eine große Sorge.",
+      "begruendung_selbst": "Wir haben jahrzehntelang malocht, da ist es nur gerecht, wenn man sich auf die Rente verlassen kann. Es beruhigt ungemein, dass hier jemand klar sagt: Unsere Rente ist sicher!"
+    },
+    {
+      "thema": "energie",
+      "seitenzahl": "6",
+      "zitat": "Die Energiesteuern müssen runter. Die CO ₂ -Abgabe gehört abgeschafft.",
+      "programmpunkt": "Die Partei fordert eine deutliche Senkung der Energiekosten für die Bürger, unter anderem durch die Abschaffung der CO2-Abgabe und geringere Energiesteuern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "titel_selbst": "Weg mit der teuren Heiz-Abzocke!",
+      "begruendung": "Da die beiden in einem älteren, ungedämmten Haus leben, sind Heizkosten einer ihrer größten Ausgabeposten. Eine Abschaffung der CO2-Abgabe würde ihren finanziellen Druck sofort spürbar senken.",
+      "begruendung_selbst": "Bei den ständigen Preissteigerungen für Öl wird einem ja schwindelig. Wenn diese CO2-Abgabe wegfällt, bleibt am Monatsende endlich wieder etwas Luft zum Durchatmen."
+    },
+    {
+      "thema": "wohnen",
+      "seitenzahl": "25",
+      "zitat": "Wir brauchen deshalb eine Wärmewende mit Augenmaß.",
+      "programmpunkt": "Das BSW lehnt starre Vorgaben beim Heizungs- und Gebäudeumbau ab und setzt stattdessen auf bezahlbare und praxisnahe Lösungen, die niemanden überfordern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "titel_selbst": "Kein Sanierungszwang für unser Haus!",
+      "begruendung": "Das Paar fürchtet nichts mehr als gesetzliche Vorgaben zur energetischen Sanierung ihres Hauses von 1981, die sie sich nicht leisten können. Der Verzicht auf Zwangsmaßnahmen nimmt ihnen eine existenzielle Angst.",
+      "begruendung_selbst": "Wenn wir jetzt noch das ganze Haus einpacken und dämmen müssten, wovon denn bitte? Es ist gut, dass uns diese Panik vor unbezahlbaren Vorschriften genommen wird."
+    },
+    {
+      "thema": "gesundheit",
+      "seitenzahl": "59",
+      "zitat": "Ergänzend wollen wir ein flächendeckendes System von Gemeindeschwestern aufbauen",
+      "programmpunkt": "Um die medizinische und pflegerische Versorgung insbesondere älterer Menschen im ländlichen Raum zu sichern, sollen alternative Modelle wie Gesundheitszentren und Gemeindeschwestern ausgebaut werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "ermutigt",
+      "titel_selbst": "Die Schwester kommt ins Dorf!",
+      "begruendung": "Da der nächste Facharzt weit weg ist und sie Angst haben, dass ihr Hausarzt aufhört, begrüßen sie alle Initiativen, die medizinische Hilfe direkt in ihr Dorf bringen.",
+      "begruendung_selbst": "Es wäre ein wahrer Segen, wenn regelmäßig eine Schwester im Dorf nach dem Rechten sieht. Wir sind ja aufs Auto angewiesen, das wird im Alter nicht leichter."
+    },
+    {
+      "thema": "sicherheit",
+      "seitenzahl": "66",
+      "zitat": "Wir setzen uns für mehr sichtbare Polizeipräsenz, klare rechtliche Befugnisse",
+      "programmpunkt": "Das BSW fordert mehr Personal für die Polizei, stärkere Präsenz auf den Straßen und klare Befugnisse, um Sicherheit und Ordnung konsequent durchzusetzen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "titel_selbst": "Endlich greift jemand durch!",
+      "begruendung": "Die beiden wünschen sich ein aufgeräumtes und sicheres Umfeld und haben oft das Gefühl, dass der Staat kriminellen Entwicklungen zu lange tatenlos zuschaut.",
+      "begruendung_selbst": "Man hat ja oft das Gefühl, der Staat schaut nur noch zu. Wenn man wieder öfter einen Polizisten sieht, der auch durchgreifen darf, gibt uns das ein großes Stück Sicherheit zurück."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "thema": "demokratie",
+      "seitenzahl": "87",
+      "zitat": "In einer zweiten friedlichen Revolution wollen wir den Osten transformieren",
+      "programmpunkt": "Das BSW formuliert den Anspruch, den Osten tiefgreifend zu wandeln, und vergleicht diese Pläne mit den Ausmaßen der friedlichen Revolution.",
+      "bezug": "meine_sicht_auf_die_welt",
+      "resonanz": "kontraer",
+      "titel_selbst": "Schon wieder eine Revolution?",
+      "begruendung": "Als veränderungsskeptische Rentner wollen Helga und Dieter vor allem Ruhe, Sicherheit und Stabilität. Der Begriff „Revolution“ und weitreichende Transformationspläne klingen für sie nach unsicheren und anstrengenden Umbrüchen.",
+      "begruendung_selbst": "Wir haben schon genug Umbrüche in unserem Leben mitgemacht und hart für unseren Wohlstand gearbeitet. Wir brauchen jetzt keine „zweite Revolution“ oder große Experimente, sondern einfach nur Verlässlichkeit."
+    }
+  ]
+}

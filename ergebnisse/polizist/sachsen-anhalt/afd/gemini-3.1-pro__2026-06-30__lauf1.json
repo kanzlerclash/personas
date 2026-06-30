@@ -1,0 +1,117 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Kollegen auf der Straße!",
+      "thema": "sicherheit",
+      "programmpunkt": "Deutliche personelle Aufstockung der Landespolizei, um die Einsatzbelastung zu reduzieren.",
+      "seite": 34,
+      "zitat": "Wir werden deshalb die Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet stark unter Personalmangel und Einsatzüberlastung. Eine konkrete personelle Aufstockung adressiert sein größtes berufliches Problem direkt.",
+      "begruendung_selbst": "Wenn wir auf 7.500 Beamte aufstocken, haben wir endlich wieder eine Chance, unsere Arbeit vernünftig zu machen, statt nur von Einsatz zu Einsatz zu hetzen."
+    },
+    {
+      "titel_selbst": "Wichtige Ausrüstung für unseren Schutz!",
+      "thema": "sicherheit",
+      "programmpunkt": "Einführung von Elektroschockern (Taser) im Polizeivollzugsdienst zur Schließung von Bewaffnungslücken.",
+      "seite": 34,
+      "zitat": "Wir werden deshalb solche Geräte anschaffen und die Polizei daran ausbilden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Schutz von Einsatzkräften ist für Marco zentral. Zusätzliche Einsatzmittel erhöhen seinen Eigenschutz bei eskalierenden Konflikten auf der Straße.",
+      "begruendung_selbst": "So ein Taser ist genau das Mittel, das uns oft fehlt, um gefährliche Situationen zu klären, ohne gleich zur Dienstwaffe greifen zu müssen."
+    },
+    {
+      "titel_selbst": "Schluss mit dem ständigen Generalverdacht!",
+      "thema": "sicherheit",
+      "programmpunkt": "Abschaffung automatischer Disziplinarverfahren nach Schusswaffengebrauch, sofern kein konkreter Verdacht auf Fehlverhalten vorliegt.",
+      "seite": 34,
+      "zitat": "…nach Schusswaffengebrauch nur noch bei konkreten Verdachtsmomenten auf Fehlverhalten interne Ermittlungen…",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ärgert sich oft über fehlende Rückendeckung und das Gefühl, pauschal verdächtigt zu werden. Diese Maßnahme vermittelt ihm das von ihm ersehnte Vertrauen in seine Dienstausübung.",
+      "begruendung_selbst": "Es kann nicht sein, dass man nach jedem extremen Einsatz sofort als Täter behandelt wird, da tut diese Rückendeckung aus der Politik ungemein gut."
+    },
+    {
+      "titel_selbst": "Spürbare Entlastung für meine Familie!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Land soll künftig die Kosten für die Dienstunfähigkeitsversicherung von Polizisten tragen.",
+      "seite": 34,
+      "zitat": "…dass das Land die Kosten der Dienstunfähigkeitsversicherungen für Polizeibeamte und Anwärter übernimmt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Familienvater mit moderatem Einkommen entlastet diese finanzielle Absicherung sein privates Budget. Zudem empfindet er es als konkrete Wertschätzung seines riskanten Berufs.",
+      "begruendung_selbst": "Eine Absicherung für den Fall, dass mir im Dienst etwas passiert, gibt meiner Familie Sicherheit und entlastet unser Konto."
+    },
+    {
+      "titel_selbst": "Die Strafe muss sofort folgen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Beschleunigte Gerichtsverfahren und konsequente, zeitnahe Strafen, insbesondere im Bereich der Jugendkriminalität.",
+      "seite": 38,
+      "zitat": "…insbesondere bei Straftaten von Jugendlichen der Delinquent schnell abgeurteilt wird.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Er ist frustriert, wenn polizeiliche Ermittlungserfolge im Justizapparat versanden. Schnelle Verfahren geben seiner Arbeit auf der Straße wieder mehr Sichtbarkeit und Sinn.",
+      "begruendung_selbst": "Es raubt mir jeden Nerv, wenn ich Straftäter festnehme und die Justiz sie monatelang laufen lässt. Das muss endlich aufhören."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Das untergräbt unseren eigenen Rechtsstaat!",
+      "thema": "demokratie",
+      "programmpunkt": "Massive Kritik am Verfassungsschutz, dem unterstellt wird, missbräuchlich als Schutz der Regierung gegen die Opposition zu agieren.",
+      "seite": 42,
+      "zitat": "Gegen diesen Missbrauch des Verfassungsschutzes als Regierungsschutz wehren wir uns…",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als loyaler, verfassungsorientierter Beamter lehnt Marco die Delegitimierung einer der zentralen Sicherheitsbehörden ab, da dies das Vertrauen in die Institutionen schwächt, für die er steht.",
+      "begruendung_selbst": "Wer unsere Sicherheitsbehörden pauschal als politisch instrumentalisiert abwertet, schwächt genau die Institutionen, die wir alle gemeinsam schützen müssen."
+    },
+    {
+      "titel_selbst": "Wir leben in keiner Diktatur!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Behauptung, dass sich der deutsche Staat von innen heraus zunehmend in eine Diktatur verwandle.",
+      "seite": 42,
+      "zitat": "…gerade dabei, sich in eine harte Diktatur, die mit juristischer Repression vorgeht, zu verwandeln.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Eine solche radikale Staatskritik kränkt Marco, da er selbst Repräsentant dieses Staates ist. Er verteidigt die demokratische Ordnung und fühlt sich durch solche Beschreibungen in seiner Integrität angegriffen.",
+      "begruendung_selbst": "Ich halte jeden Tag meinen Kopf für diesen Staat und die Rechtsordnung hin – ihn als angebliche Diktatur zu beschimpfen, ist für mich völlig inakzeptabel."
+    },
+    {
+      "titel_selbst": "Mehr Waffen machen alles gefährlicher!",
+      "thema": "sicherheit",
+      "programmpunkt": "Strikte Ablehnung von Verschärfungen im Waffenrecht und eine Liberalisierung zur Erleichterung von privatem Waffenbesitz.",
+      "seite": 42,
+      "zitat": "…eine weitere Verschärfung des Waffenrechts mit allen uns zu Gebote stehenden Mitteln verhindern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco fürchtet als Einsatzkraft eine Zunahme von legalen oder leicht zugänglichen Waffen bei Kontrollen. Jeder Waffenzugang in der Zivilgesellschaft erhöht das Berufsrisiko für ihn erheblich.",
+      "begruendung_selbst": "Wir Polizisten müssen auf der Straße brenzlige Situationen klären. Je mehr Leute bewaffnet sind, desto riskanter und unberechenbarer wird mein Dienst."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der AfD bedient Marcos drängendste berufliche Sorgen nach mehr Personal, besserer Schutzausstattung und mehr institutioneller Rückendeckung punktgenau. Gleichzeitig stoßen ihn die radikale Rhetorik gegen den Verfassungsschutz und der Vorwurf, der Staat entwickle sich zur Diktatur, als treuen Beamten massiv ab. Die geforderte Aufweichung des Waffenrechts sieht er zudem als direkte Gefahr für seine Einsätze auf der Straße.",
+    "score": 1
+  }
+}

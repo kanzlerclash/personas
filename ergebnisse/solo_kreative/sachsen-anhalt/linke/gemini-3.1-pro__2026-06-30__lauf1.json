@@ -1,0 +1,73 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Hilfe im Papierkrieg!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Linke plant den Einsatz von mobilen Lotsen, die niedrigschwellig bei der Beantragung von Leistungen und dem Abbau von Antragshemmnissen helfen sollen.",
+      "seite": 43,
+      "zitat": "mobile „Bürokratie - Lotsen“, um Antragshemmnisse abzubauen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Mareike ist der bürokratische Aufwand im Verhältnis zu ihrer Betriebsgröße oft extrem belastend. Eine konkrete, niedrigschwellige Unterstützungshilfe im Behördendschungel spricht ihr direkt aus der Seele.",
+      "begruendung_selbst": "Wenn es da draußen wirklich Leute geben soll, die mir durch den Behörden-Dschungel helfen, wäre das ein Traum. Ich verzweifle regelmäßig an den Formularen!"
+    },
+    {
+      "titel_selbst": "Faire Bezahlung für Kreative!",
+      "thema": "wirtschaft",
+      "programmpunkt": "In der Kulturförderung sollen Basishonorare für Selbstständige sowie eine Tarifbindung verankert werden, um prekäre Beschäftigung abzusichern.",
+      "seite": 71,
+      "zitat": "Tarifbindung und Basishonorare für Selbstständige",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike leidet unter stark schwankenden Einkommen und geringen Honoraren in der Kreativbranche. Verbindliche Basishonorare in der geförderten Kultur würden ihr Netz deutlich stabiler machen.",
+      "begruendung_selbst": "Endlich wird verstanden, dass auch wir Solo-Kreativen von etwas leben müssen! Verbindliche Honoraruntergrenzen nehmen mir wenigstens ein bisschen die ständige Existenzangst."
+    },
+    {
+      "titel_selbst": "Wir zählen auch als Arbeiter!",
+      "thema": "arbeit",
+      "programmpunkt": "Beim ehrenamtlichen Einsatz in der Feuerwehr soll ein voller Lohnersatz ausdrücklich auch für Selbstständige garantiert werden.",
+      "seite": 132,
+      "zitat": "vollen Lohnersatz bei Einsätzen – auch für Selbstständige",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Mareike selbst nicht ehrenamtlich in der Feuerwehr aktiv ist, wertschätzt sie die explizite Berücksichtigung von Selbstständigen, da diese bei staatlichen Ausfallregelungen sonst oft durchs Raster fallen.",
+      "begruendung_selbst": "Das finde ich richtig gut! Oft wird vergessen, dass wir auch Ausfall haben, wenn wir nicht arbeiten können. Schön, dass hier jemand mal unsere Lebensrealität mitdenkt."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Noch eine Steuer für mich?!",
+      "thema": "steuern",
+      "programmpunkt": "Die Linke plant die Umwandlung der Gewerbesteuer in eine Gemeindewirtschaftssteuer, die im Gegensatz zu heute alle Selbstständigen, also auch Freiberufler, zahlungspflichtig machen soll.",
+      "seite": 18,
+      "zitat": "Alle selbstständig erwirtschafteten Einkommen werden einbezogen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist als Solo-Kreative höchstwahrscheinlich freiberuflich tätig und damit bisher gewerbesteuerbefreit. Trotz geplantem Freibetrag empfindet sie die drohende Erfassung als zusätzliche Bürokratie- und Abgabenbelastung.",
+      "begruendung_selbst": "Ich fasse es nicht! Da kämpfe ich jeden Monat ums Überleben und dann will man ausgerechnet uns Freiberufler, die bisher verschont blieben, auch noch in eine neue Wirtschaftssteuer zwingen!"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der Linken bietet für die Solo-Kreative Mareike viel Licht, aber auch bedenklichen Schatten. Einerseits profitiert sie potenziell von geplanten Basishonoraren in der Kultur und dem Fokus auf Entbürokratisierung durch Lotsen, was ihre prekäre Lage stabilisieren würde. Andererseits steht die Ausweitung der Gewerbesteuer auf alle Selbstständigen in krassem Widerspruch zu ihrem Wunsch nach weniger Steuerlast und unkomplizierter Selbstständigkeit.",
+    "score": 1
+  }
+}

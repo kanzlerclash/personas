@@ -1,0 +1,117 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich ein Riegel für Investoren!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Grünen wollen den Ausverkauf von Agrarland an Großinvestoren durch eine strengere Regulierung von Share Deals unterbinden.",
+      "seite": 16,
+      "zitat": "notwendig, um den Ausver - kauf von Agrarland an Großinvestoren zu ver - hindern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sorgt sich stark um zunehmende Pacht-Konkurrenz durch Fremdkapital; Maßnahmen zum Schutz familiengeführter Betriebe vor Spekulanten treffen genau seine wirtschaftlichen Interessen.",
+      "begruendung_selbst": "Es wird höchste Zeit, dass da jemand durchgreift! Wir normalen Bauern können bei den Pachtpreisen von irgendwelchen Großinvestoren doch schon lange nicht mehr mithalten."
+    },
+    {
+      "titel_selbst": "Faire Preise, faire Arbeit!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Milcherzeuger sollen durch verbindliche Lieferverträge mit den Molkereien eine deutlich gestärkte Verhandlungsposition und gesicherte Preise erhalten.",
+      "seite": 16,
+      "zitat": "verbindliche Lieferverträge zwischen Milcherzeuger*innen und Molkereien zu schlie - ßen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stark schwankende Erzeugerpreise sind eine Hauptbelastung für Franks Betrieb; eine politische Absicherung stabiler Lieferbedingungen gibt ihm die ersehnte Planungssicherheit.",
+      "begruendung_selbst": "Das ist mal was Handfestes! Wenn wir vorher wissen, was wir für unsere Milch bekommen, kann ich auf dem Hof endlich wieder verlässlich planen und rechnen."
+    },
+    {
+      "titel_selbst": "Gute Nachrichten für meine Tochter!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei plant, Betriebsübernahmen in der Landwirtschaft politisch zu erleichtern, um die Flächennutzung durch ansässige Höfe langfristig zu sichern.",
+      "seite": 16,
+      "zitat": "Wir wollen Be - triebsübernahmen erleichtern und so landwirt - schaftliche Flächen langfristig erhalten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Franks Tochter den Einstieg in den Familienbetrieb überlegt, begrüßt er jegliche Unterstützung, die den Generationswechsel auf dem Hof bürokratisch und finanziell vereinfacht.",
+      "begruendung_selbst": "Das macht mir wirklich Mut. Ich will den Hof an meine Tochter weitergeben, aber ohne Unterstützung ist das heutzutage für die Jungen doch ein reines Risiko."
+    },
+    {
+      "titel_selbst": "Schluss mit dem Flächenfraß!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Industrieanlagen und Versiegelungen auf wertvollem Agrarland sollen gezielt begrenzt werden, um den Verlust von Anbauflächen zu stoppen.",
+      "seite": 9,
+      "zitat": "Indem wir groß fl ächige Bodenversiegelung und industrielle Anlagen in landwirtschaftlich wert - vollen Regionen begrenzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der ungebremste Flächenfraß ist eine von Franks zentralen Sorgen; den Schutz wertvoller Böden vor neuer Bebauung sieht er als elementar für seine Berufsgruppe an.",
+      "begruendung_selbst": "Boden ist unser wichtigstes Kapital, der wächst nicht nach! Wenn die es schaffen, dass nicht überall Logistikhallen auf bestem Ackerboden hochgezogen werden, bin ich voll dabei."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Realitätsfern am Acker vorbei!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Grünen fordern den vollständigen Ausstieg aus chemisch-synthetischen Pflanzenschutzmitteln bis zum Jahr 2035.",
+      "seite": 17,
+      "zitat": "Wir werden den schrittweisen Ausstieg aus chemisch-synthetischen P fl anzenschutzmitteln bis 2035 vorantreiben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ein pauschales Verbot von Pflanzenschutzmitteln empfindet Frank als ideologisch getriebenen Eingriff in seine Fachkompetenz, der seine Erträge und damit seine Existenz direkt gefährdet.",
+      "begruendung_selbst": "Ich fahre doch nicht aus Spaß mit der Spritze raus! Ohne Pflanzenschutz können wir die Ernten vergessen, das ist pure grüne Theorie vom Schreibtisch aus."
+    },
+    {
+      "titel_selbst": "Noch mehr Schnüffelei auf dem Hof!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die behördlichen Kontrollen von landwirtschaftlichen Betrieben beim Vollzug des Pflanzenschutzgesetzes sollen deutlich ausgeweitet werden.",
+      "seite": 17,
+      "zitat": "möchten wir die Kontrollen landwirt - schaftlicher Betriebe deutlich ausweiten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank leidet ohnehin unter massiver Bürokratie und ständigen Auflagen; die Ankündigung noch strengerer Kontrollen empfindet er als tiefes Misstrauen gegenüber seiner Arbeit.",
+      "begruendung_selbst": "Ich sitze jetzt schon halbe Nächte an irgendwelchen Dokumentationen. Die sollen uns Bauern endlich arbeiten lassen und nicht ständig kontrollieren, als wären wir Verbrecher!"
+    },
+    {
+      "titel_selbst": "Der Wolf lacht, ich zahle!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Der strenge Schutz des Wolfes soll aufrechterhalten werden, Abschüsse bleiben nur in äußerst seltenen Ausnahmefällen erlaubt.",
+      "seite": 7,
+      "zitat": "wobei Abschüsse nur in eng begrenzten Ausnahmefällen zulässig sind.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank sieht in der unregulierten Ausbreitung des Wolfes eine ständige Bedrohung für seine Mutterkuhherde und fühlt seine praktischen Probleme von der Politik ignoriert.",
+      "begruendung_selbst": "Da merkt man sofort, dass die aus der Stadt kommen! Wer schützt eigentlich meine Kälber auf der Weide? Mit langwierigen Ausnahmegenehmigungen rette ich meine Tiere nicht."
+    },
+    {
+      "titel_selbst": "Gute Böden einfach absaufen lassen?",
+      "thema": "klima",
+      "programmpunkt": "Als Maßnahme des Klimaschutzes sollen Moorgebiete und Nasswiesen verstärkt wiedervernässt werden.",
+      "seite": 13,
+      "zitat": "Wir plädieren für die verstärkte Förderung der Wiedervernässung von Mooren, Waldgebieten und Nasswiesen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank befürchtet durch solche Renaturierungsprojekte den direkten Verlust von wertvoller landwirtschaftlicher Nutzfläche und empfindet dies als Klimaschutz auf Kosten der Landwirte.",
+      "begruendung_selbst": "Wenn die jetzt überall Flächen vernässen wollen, wo soll ich dann noch mein Futter anbauen? Der Klimaschutz darf uns nicht einfach unsere Produktionsgrundlage wegnehmen."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank (Landwirt) stößt beim Lesen des Grünen-Programms auf massive Konflikte mit seiner beruflichen Praxis, entdeckt aber auch unerwartet positive strukturpolitische Ansätze. Während ihn das Festhalten am strengen Wolfsschutz, das geplante Pestizidverbot und die Ankündigung schärferer Hofkontrollen in seinem Misstrauen gegenüber einer realitätsfernen, stark regulierenden Politik bestätigen, begrüßt er andere Punkte sehr. Maßnahmen gegen den Flächenfraß, verbindliche Lieferverträge für faire Erzeugerpreise und der Schutz familiärer Agrarstrukturen vor Großinvestoren decken sich exakt mit seinen Hoffnungen auf mehr Planungssicherheit.",
+    "score": 0
+  }
+}

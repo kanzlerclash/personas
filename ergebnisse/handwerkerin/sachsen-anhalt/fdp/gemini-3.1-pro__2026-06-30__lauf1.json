@@ -1,0 +1,117 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkrieg!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei verspricht, Berichtspflichten für Unternehmen zu vereinfachen oder ganz abzuschaffen sowie Genehmigungsverfahren verbindlich zu beschleunigen.",
+      "seite": 7,
+      "zitat": "Berichtspflichten sollen vereinfacht oder abgeschafft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine sieht darin eine direkte Antwort auf ihr Hauptärgernis, da sie durch den Abbau von Formularen wieder mehr Zeit für das eigentliche Handwerk und die Betriebsführung hätte.",
+      "begruendung_selbst": "Ich brauche meine Zeit für Kunden und Angebote, nicht für Aktenordner. Wenn das wirklich kommt, kann ich abends endlich mal wieder durchatmen."
+    },
+    {
+      "titel_selbst": "Fachkräfte aus dem Ausland!",
+      "thema": "arbeit",
+      "programmpunkt": "Zuwanderern, die arbeiten wollen, soll der Zugang zum Arbeitsmarkt durch den Abbau bürokratischer Hürden wie überzogener Sprachprüfungen erleichtert werden.",
+      "seite": 10,
+      "zitat": "Zugang zum Arbeitsmarkt erleichtern und Hürden abbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Sabine händeringend Personal sucht, unterstützt sie den pragmatischen Ansatz, arbeitswilligen Migranten schneller den Weg in ihren Betrieb zu ebnen.",
+      "begruendung_selbst": "Wer anpacken kann und will, soll bei mir anfangen dürfen. Da interessieren mich keine perfekten Sprachzertifikate, sondern ob derjenige den Schraubenschlüssel halten kann."
+    },
+    {
+      "titel_selbst": "Klimaschutz mit Verstand, nicht Verboten!",
+      "thema": "klima",
+      "programmpunkt": "Die Klimapolitik soll sich nicht auf Verbote oder staatliche Bevormundung stützen, sondern auf marktwirtschaftliche Lösungen.",
+      "seite": 23,
+      "zitat": "Klimapolitik darf nicht in Bevormundung, Verboten und teuren Symbolmaßnahmen abgleiten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines Frust über praxisferne Regulierung wie das Heizungsgesetz wird hier aufgegriffen; sie begrüßt die klare Absage an dirigistische Klimapolitik, die ihre Kunden verunsichert.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass wir mit ständigen neuen Verboten nicht weiterkommen. Meine Kunden wollen Planungssicherheit und keine grünen Ideologie-Experimente im Heizungskeller."
+    },
+    {
+      "titel_selbst": "Überstunden ohne Steuerabzug!",
+      "thema": "steuern",
+      "programmpunkt": "Es wird gefordert, jede geleistete Überstunde komplett von der Steuer zu befreien.",
+      "seite": 40,
+      "zitat": "Gleichzeitig wollen wir jede Überstunde steuerfrei stellen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine befürwortet diese Forderung stark, weil es ihr helfen würde, ihre Mitarbeiter bei voller Auftragslage zu Mehrarbeit zu motivieren, da sich die zusätzliche Leistung wieder finanziell bemerkbar machen würde.",
+      "begruendung_selbst": "Wenn meine Jungs für einen dringenden Heizungstausch länger bleiben, darf der Staat nicht die Hälfte kassieren. Das motiviert endlich wieder zur Arbeit!"
+    },
+    {
+      "titel_selbst": "Wer bleiben will, muss arbeiten!",
+      "thema": "integration",
+      "programmpunkt": "Ein dauerhaftes Bleiberecht soll zwingend daran geknüpft werden, dass Migranten ihren Lebensunterhalt durch eigene Arbeit bestreiten.",
+      "seite": 11,
+      "zitat": "Bestreiten des Lebensunterhalts durch Eigenleistung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines Prinzip von Leistung und Gegenleistung findet sich in dieser harten Konditionierung wieder, da sie erwartet, dass sich Arbeit lohnen muss und Transferleistungen nicht der Regelfall sein dürfen.",
+      "begruendung_selbst": "Ganz einfach: Wer hier dauerhaft leben will, muss seinen eigenen Beitrag leisten. Ohne Fleiß kein Preis, so funktioniert das bei mir im Betrieb schließlich auch."
+    },
+    {
+      "titel_selbst": "Jugend ab in die Betriebe!",
+      "thema": "bildung",
+      "programmpunkt": "Ab der 7. Klasse sollen regelmäßige Unternehmensbesuche und Praktika fest etabliert werden, um Schülern die berufliche Praxis näherzubringen.",
+      "seite": 34,
+      "zitat": "regelmäßige Unternehmensbesuche und Praktika",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Sabine ist diese Maßnahme ein wichtiger Schritt gegen den Fachkräftemangel, da so frühzeitig Nachwuchs für Handwerksberufe abseits der reinen Akademisierung begeistert werden kann.",
+      "begruendung_selbst": "Wir müssen die jungen Leute rechtzeitig aus den Klassenzimmern holen und ihnen zeigen, was wir Handwerker leisten. Nur so kriege ich irgendwann wieder Auszubildende."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wieder mal Geschenke für Konzerne!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP plant Sonderwirtschaftszonen für Großansiedlungen, in denen Steuern komplett erlassen oder auf ein Minimum reduziert werden sollen.",
+      "seite": 7,
+      "zitat": "Steuern werden vollständig erlassen oder auf das vorgeschriebene Mindestmaß abgesenkt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine fühlt sich durch solche Pläne in ihrer Sorge bestätigt, dass der Staat einseitig große Konzerne bevorzugt, während der heimische Mittelstand die reguläre Steuerlast schultern muss.",
+      "begruendung_selbst": "Die großen Fische wie Intel zahlen keinen Cent Steuern und kriegen den roten Teppich ausgerollt, und wir kleinen Familienbetriebe dürfen den ganzen Laden am Laufen halten. Das ist einfach nur unfair!"
+    },
+    {
+      "titel_selbst": "Nur Geschenke für Start-ups?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Junge Gründer sollen in den ersten Jahren von lästiger Bürokratie, Berichtspflichten und Zwangsmitgliedschaften befreit werden.",
+      "seite": 8,
+      "zitat": "von Befragungen, Dokumentationspflichten und Zwangsmitgliedschaften soweit möglich entlastet werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine sieht es kritisch, dass Entlastungen gezielt nur Neugründungen zugutekommen sollen, während sie als etablierte Unternehmerin weiterhin alle Auflagen und Kammerbeiträge voll erfüllen muss.",
+      "begruendung_selbst": "Warum sollen nur die hippen Start-ups Privilegien kriegen? Wir bilden aus, zahlen seit Jahrzehnten Steuern und Beiträge, und für uns Alt-Eingesessene gibt es keinen Rabatt bei der Bürokratie."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet in weiten Teilen des FDP-Programms ihre Kernforderungen nach Bürokratieabbau, steuerlichen Anreizen für Mehrarbeit und pragmatischer Fachkräftesicherung wieder. Die deutliche Absage an praxisferne Klimaverbote und die Forderung nach Eigenverantwortung in der Sozialpolitik spiegeln ihre unternehmerische Werthaltung stark wider. Abgelehnt werden hingegen Vorhaben, die Großkonzerne oder Start-ups bei Steuern und Bürokratie einseitig entlasten, da sie hier eine eklatante Benachteiligung ihres etablierten mittelständischen Handwerksbetriebs wahrnimmt.",
+    "score": 1
+  }
+}

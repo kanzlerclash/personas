@@ -1,0 +1,117 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Weg mit der kaputten Technik!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die FDP fordert, die Telematik-Infrastruktur im Gesundheitswesen alltags- und praxistauglich zu machen.",
+      "seite": 65,
+      "zitat": "wollen wir die Telematik-Infrastruktur praxistauglich gestalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra ärgert sich täglich über die fehleranfällige IT in ihrer Praxis. Dass die Partei genau dieses Problem benennt und eine funktionierende Lösung fordert, spricht ihr aus der Seele.",
+      "begruendung_selbst": "Das ist genau mein Reden! Die TI raubt mir jeden Tag Nerven und wertvolle Behandlungszeit. Endlich sieht eine Partei, dass Digitalisierung im Alltag auch funktionieren muss, statt uns nur zu belasten."
+    },
+    {
+      "titel_selbst": "Echte Entlastung für die Praxis",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will das Berufsbild des Physician Assistant in der ambulanten Versorgung fest verankern und fördern.",
+      "seite": 65,
+      "zitat": "Physician Assistant zu einem festen Baustein der ambulanten Versorgung von morgen machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Angesichts des massiven Ärztemangels und ihrer übervollen Sprechstunden sieht sie in gut ausgebildeten Assistenten eine konkrete und pragmatische Hilfe, die sie dringend braucht.",
+      "begruendung_selbst": "Ohne kluge Arbeitsteilung brechen wir Hausärzte bald zusammen. Gut ausgebildete Assistenten können mir wirklich den Rücken freihalten, das ist viel besser als irgendwelche hohlen Phrasen über den ländlichen Raum."
+    },
+    {
+      "titel_selbst": "Pragmatische Hilfe im Notfall",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Konzept des Telenotarztes soll flächendeckend im Rettungswesen etabliert werden, um schnelle Notfallbegleitung zu gewährleisten.",
+      "seite": 68,
+      "zitat": "ermöglichen eine flächendeckende fernärztliche Notfallbegleitung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Landärztin kennt Petra die langen Wege und die Gefahr von Versorgungslücken bei Notfällen. Den Einsatz von Telenotärzten begrüßt sie als sinnvolle digitale Ergänzung zur Rettung vor Ort.",
+      "begruendung_selbst": "Wenn der Notarzt auf dem Land wieder ewig braucht, rettet so ein Telenotarzt im Zweifel Leben. Das ist mal ein pragmatischer Ansatz, der uns in der Fläche wirklich weiterhelfen kann."
+    },
+    {
+      "titel_selbst": "Meine Realität wird gesehen",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm honoriert, dass niedergelassene Ärzte auf dem Land oft über das Rentenalter hinaus praktizieren, um die medizinische Versorgung aufrechtzuerhalten.",
+      "seite": 61,
+      "zitat": "niedergelassene Ärzte arbeiten oft über die Altersgrenze hinaus",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra treibt die fehlende Praxisnachfolge um, und sie spürt den Druck weiterzumachen. Dass die Politik diese enorme Lebensleistung und Belastung älterer Ärzte offen anerkennt, tut ihr gut.",
+      "begruendung_selbst": "Ich mache mir ja ständig Sorgen, wer später mal meine Patienten übernimmt. Es ist schön zu lesen, dass zumindest anerkannt wird, dass wir hier auf dem Land sprichwörtlich bis zum Umfallen arbeiten."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Medizin light auf vier Rädern!",
+      "thema": "gesundheit",
+      "programmpunkt": "Um Versorgungslücken auf dem Land zu schließen, sollen rollende Arztpraxen und Facharzt-Busse gefördert werden.",
+      "seite": 64,
+      "zitat": "etablieren wir „rollende Arztpraxen“ und spezialisierte Facharzt- Busse",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Petra sind Arztbusse ein Eingeständnis des Scheiterns echter Daseinsvorsorge. Sie wünscht sich nachhaltige Anreize für feste Niederlassungen, keine fahrenden Notlösungen, die das vertrauensvolle Arzt-Patienten-Verhältnis nicht ersetzen können.",
+      "begruendung_selbst": "Ein Bus ist doch keine echte Hausarztpraxis! Meine Patienten brauchen Verlässlichkeit und Vertrauen, keine fahrende Notlösung, die einmal die Woche auf dem Marktplatz hält. Das ist eine Bankrotterklärung für den ländlichen Raum."
+    },
+    {
+      "titel_selbst": "Vorsicht vor reiner Renditelogik!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Land soll seine Beteiligungen an Unternehmen auf den Prüfstand stellen und massiv privatisieren.",
+      "seite": 9,
+      "zitat": "alle Beteiligungen des Landes kritisch zu evaluieren und eine umfassende Privatisierungsoffensive zu starten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Verfechterin einer verlässlichen staatlichen Daseinsvorsorge sieht Petra umfassende Privatisierungen sehr skeptisch. Sie fürchtet, dass Ökonomisierung in Bereichen wie der Infrastruktur auf Kosten der ländlichen Versorgung geht.",
+      "begruendung_selbst": "Wenn der Staat alles privatisiert, was bleibt dann für uns auf dem Land übrig? Gerade bei der Daseinsvorsorge darf nicht nur die Rendite zählen, sonst fallen die unwirtschaftlichen Regionen komplett hinten runter."
+    },
+    {
+      "titel_selbst": "Pflege ist kein Aktiendepot",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflegeversicherung soll um ein kapitalgedecktes Element erweitert und private Vorsorge stärker forciert werden.",
+      "seite": 70,
+      "zitat": "ein kapitalgedecktes Element muss wie bei der Krankenversicherung ergänzt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra erlebt bei ihren älteren, oft weniger wohlhabenden Patienten täglich, wie teuer Pflege ist. Eine stärkere Ausrichtung auf den Kapitalmarkt hält sie für unsolidarisch und in ihrer strukturschwachen Region für realitätsfern.",
+      "begruendung_selbst": "Meine Leute hier auf dem Land haben oft nur eine kleine Rente, wie sollen die noch privat für die Pflege vorsorgen? Die Pflegeversicherung muss solide finanziert sein, das darf man nicht dem Kapitalmarkt überlassen."
+    },
+    {
+      "titel_selbst": "Noch ein digitales Spielzeug?",
+      "thema": "demokratie",
+      "programmpunkt": "Der erreichte Bürokratieabbau soll in Zukunft über eine eigene App transparent dokumentiert und dargestellt werden.",
+      "seite": 48,
+      "zitat": "Der Abbau wird deshalb über eine App sichtbar gemacht",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl sie vehementen Bürokratieabbau fordert, wirkt die Idee, diesen durch eine zusätzliche App dokumentieren zu lassen, auf Petra weltfremd. Sie braucht spürbare Entlastung am Schreibtisch, keine weiteren digitalen Spielereien.",
+      "begruendung_selbst": "Ist das ein Scherz? Um zu beweisen, dass wir weniger Bürokratie haben, sollen wir uns eine App aufs Handy laden? Ich brauche am Ende des Tages einfach weniger Formulare und Statistiken, keine PR-Instrumente aus dem Ministerium."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die FDP punktet bei der Landärztin Petra mit ihrem klaren Bekenntnis zu einer pragmatischen, funktionierenden Digitalisierung (TI) und der Förderung von Assistenzberufen zur Entlastung der Praxen. Sehr kritisch sieht sie hingegen den Fokus auf privatisierte Daseinsvorsorge, kapitalgedeckte Pflege und Ersatzlösungen wie rollende Arztpraxen, da ihr hier das Verständnis für eine flächendeckend verlässliche Grundversorgung im ländlichen Raum fehlt.",
+    "score": 0
+  }
+}

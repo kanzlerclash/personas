@@ -1,0 +1,117 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Vielfalt im Amt!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei fordert, dass Diversität im öffentlichen Dienst gefördert wird und die Einstellung von Menschen mit Migrationshintergrund Priorität bekommt.",
+      "seite": 98,
+      "zitat": "Die Einstellung von Menschen mit Migrationshintergrund soll als Ausdruck einer Willkommenskultur Priorität erhalten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin arbeitet selbst in der Stadtverwaltung und erlebt oft, dass sie eine der Wenigen mit Migrationsgeschichte ist. Eine gezielte Förderung empfindet sie als wichtige institutionelle Anerkennung.",
+      "begruendung_selbst": "Ich arbeite in der Verwaltung und bin oft die Einzige mit Migrationsgeschichte. Wenn das Land uns gezielt einstellen will, zeigt das endlich, dass wir in den Behörden gebraucht werden."
+    },
+    {
+      "titel_selbst": "Wir sind kein Problem!",
+      "thema": "integration",
+      "programmpunkt": "Die Linke betont, dass Migration grundsätzlich eine Chance darstellt und fokussiert sich auf eine positive Erzählung von Integration.",
+      "seite": 96,
+      "zitat": "Migration ist kein Problem, sondern Chance, wenn Integration auf allen Ebenen gelebt wird.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin ist die ständige Problematisierung von Einwanderung leid. Dieses positive Framing entlastet sie und bestärkt sie in ihrem Zugehörigkeitsgefühl zur Gesellschaft.",
+      "begruendung_selbst": "Ich kann es nicht mehr hören, dass Leute wie wir ständig als Problem diskutiert werden. Dass hier Migration klar als Chance benannt wird, ist genau der Respekt, den wir verdienen."
+    },
+    {
+      "titel_selbst": "Unsere Arbeit hält alles zusammen!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm würdigt den zentralen Beitrag von Menschen mit Einwanderungsgeschichte zur Aufrechterhaltung der Infrastruktur und Daseinsvorsorge.",
+      "seite": 99,
+      "zitat": "In vielen systemrelevanten Bereichen des Alltags arbeiten Menschen mit Einwanderungsgeschichte und sichern die Daseinsvorsorge.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da sie als Beamtin ihren Teil zum Funktionieren des Staates beiträgt, trifft die explizite Würdigung migrantischer Arbeitsleistung genau ihren Wunsch nach leistungsgerechter Anerkennung.",
+      "begruendung_selbst": "Genau so ist es! Wir arbeiten in Ämtern, Kitas und Krankenhäusern und halten den Laden am Laufen. Es ist gut, dass anerkannt wird, was wir jeden Tag für dieses Land leisten."
+    },
+    {
+      "titel_selbst": "Polizei ohne rechten blinden Fleck!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will Rechtsextremismus innerhalb der Sicherheitsbehörden konsequent aufarbeiten und die Wegschau-Kultur beenden.",
+      "seite": 129,
+      "zitat": "Wir beenden die Kultur des Wegschauens bei rechtsextremen Umtrieben in den Sicherheitsbehörden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre Angst vor institutioneller Diskriminierung und mangelndem Schutz wird hier ernst genommen. Ein hartes Vorgehen gegen rechte Strukturen in der Polizei stärkt ihr Vertrauen in den Rechtsstaat.",
+      "begruendung_selbst": "Rassismus bei der Polizei macht mir als Frau mit ausländischen Wurzeln große Angst. Wenn da endlich nicht mehr weggeschaut, sondern hart durchgegriffen wird, fühle ich mich deutlich sicherer."
+    },
+    {
+      "titel_selbst": "Gleiche Rechte an der Kasse!",
+      "thema": "integration",
+      "programmpunkt": "Die umstrittene Bezahlkarte für Asylsuchende soll abgeschafft und durch ein reguläres Basiskonto ersetzt werden.",
+      "seite": 98,
+      "zitat": "Die diskriminierende Bezahlkarte wird durch ein verpflichtendes Basiskonto ersetzt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin lehnt Symbolpolitik auf dem Rücken von Minderheiten ab. Die Forderung nach einem normalen Konto entspricht ihrem starken inneren Kompass für Gleichbehandlung und Würde.",
+      "begruendung_selbst": "Diese Bezahlkarte schürt doch nur Misstrauen und stigmatisiert Menschen beim Einkaufen. Ein normales Konto für alle ist der einzig anständige Weg in einer Gesellschaft, die Gleichbehandlung ernst nimmt."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ein bisschen Kontrolle muss sein!",
+      "thema": "integration",
+      "programmpunkt": "Die Linke fordert die komplette Abschaffung der europäischen Grenzschutzagentur Frontex.",
+      "seite": 96,
+      "zitat": "Im Übrigen sind wir der Meinung, Frontex gehört abgeschafft!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Verwaltungsangestellte steht Aylin für geregelte Verfahren und Rechtsstaatlichkeit. Die pauschale Ablehnung des Grenzschutzes wirkt auf sie naiv und widerspricht ihrem Wunsch nach einer pragmatischen Migrationssteuerung.",
+      "begruendung_selbst": "Ich bin absolut gegen ausgrenzende Hetze, aber als Beamtin weiß ich: Wir brauchen geregelte Verfahren und Kontrolle an den Grenzen. Frontex einfach abzuschaffen, ist doch keine seriöse Politik."
+    },
+    {
+      "titel_selbst": "Wer schützt uns dann vor Rechts?",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke bewertet den Verfassungsschutz als überflüssig und will den Geheimdienst perspektivisch durch eine Demokratie-Agentur ersetzen.",
+      "seite": 129,
+      "zitat": "Ein Verfassungsschutz in seiner jetzigen Form ist überflüssig.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin fürchtet das Erstarken von rechtsextremen Netzwerken und Remigrations-Fantasien. Die Forderung, den Inlandsgeheimdienst abzuschaffen, hält sie für hochgefährlich, da dies den wehrhaften Staat schwächt.",
+      "begruendung_selbst": "Wenn die Rechten immer radikaler werden und rassistische Umstürze planen, brauchen wir einen starken Staat, der das aufklärt. Den Verfassungsschutz jetzt abzuschaffen, nimmt uns einen ganz wichtigen Schutzschild."
+    },
+    {
+      "titel_selbst": "Regeln gelten für alle!",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Fahren ohne gültigen Fahrschein soll nach dem Willen der Partei straffrei gestellt werden.",
+      "seite": 139,
+      "zitat": "die Abschaffung der Straffälligkeit von Fahren ohne gültigen Fahrausweis, um unverhältnismäßige Verfahren zu vermeiden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylins Weltbild basiert auf einem fairen Leistungsprinzip und der Einhaltung gemeinsamer Regeln. Die Entkriminalisierung von Schwarzfahren empfindet sie als ungerecht gegenüber der rechtstreuen Bevölkerungsmehrheit.",
+      "begruendung_selbst": "Ich gehe jeden Tag hart arbeiten und bezahle selbstverständlich mein Ticket. Wenn Schwarzfahren nicht mehr bestraft wird, frage ich mich schon, warum ich mich eigentlich an die Regeln halte."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet im Programm der Linken starken Rückhalt für ihre Forderung nach einer inklusiven, diskriminierungsfreien Gesellschaft und mehr Diversität im öffentlichen Dienst. Die klare Kante gegen Rassismus und die explizite Würdigung der migrantischen Arbeitsleistung holen sie emotional ab. Allerdings irritieren sie sicherheitspolitische Maximalforderungen wie die Abschaffung von Frontex oder des Verfassungsschutzes, die ihrem pragmatischen Verwaltungsethos und ihrem Wunsch nach geordneten, wehrhaften Staatsstrukturen widersprechen.",
+    "score": 1
+  }
+}

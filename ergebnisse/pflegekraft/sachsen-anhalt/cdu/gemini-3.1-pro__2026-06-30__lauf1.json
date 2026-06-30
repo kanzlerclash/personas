@@ -1,0 +1,106 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wenigstens seht ihr das ein!",
+      "thema": "integration",
+      "programmpunkt": "Das Programm würdigt ausdrücklich die Unverzichtbarkeit ausländischer Arbeitskräfte für Krankenhäuser und andere Wirtschaftsbereiche.",
+      "seite": 9,
+      "zitat": "Ohne sie würden viele Krankenhäuser, Handwerksbetriebe, Unternehmen, die Gastronomie und vieles andere nicht funktionieren.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin weiß aus dem täglichen Stationsalltag, dass die Pflege ohne Migrantinnen und Migranten sofort kollabieren würde. Das offene Eingeständnis der Partei, dass Krankenhäuser auf diese Arbeitskräfte angewiesen sind, bestätigt ihre Erfahrung und weckt bei ihr ein Gefühl von seltener politischer Ehrlichkeit.",
+      "begruendung_selbst": "Endlich sagt mal einer die Wahrheit! Ohne meine ausländischen Kolleginnen und Kollegen könnten wir unsere Station morgen früh direkt abschließen."
+    },
+    {
+      "titel_selbst": "Personalmangel endlich erkannt!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei betont, dass es eine entscheidende Aufgabe ist, Fachkräfte für sämtliche Gesundheitsberufe zu gewinnen und im Land zu halten.",
+      "seite": 27,
+      "zitat": "Die Gewinnung und Bindung von Fachkräften aller Gesundheitsberufe ist dabei entscheidend.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als chronisch überlastete Pflegekraft leidet Kerstin massiv unter der dünnen Personaldecke. Dass das Problem der Fachkräftebindung und -gewinnung im Programm so klar priorisiert wird, spricht ihr direkt aus dem Herzen und weckt die Hoffnung auf Entlastung.",
+      "begruendung_selbst": "Immerhin habt ihr verstanden, dass uns die Leute weglaufen. Wenn das Personal nicht gehalten wird, nützt das schönste Krankenhaus nichts."
+    },
+    {
+      "titel_selbst": "Mehr Verantwortung, aber auch Geld?",
+      "thema": "arbeit",
+      "programmpunkt": "Pflegefachkräften soll mehr Kompetenz zugestanden werden, um sie besser einzusetzen und die Versorgung zu stabilisieren.",
+      "seite": 28,
+      "zitat": "Die Kompetenzen von Pflegefachkräften müssen sinnvoller genutzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin ist gut ausgebildet und ärgert sich oft, wenn pflegerische Expertise nicht ausreichend genutzt wird. Sie begrüßt strukturelle Aufwertungen ihres Berufs, verbindet dies jedoch gedanklich sofort mit der Erwartung auf eine angemessenere Bezahlung für die höhere Verantwortung.",
+      "begruendung_selbst": "Wir haben eine anspruchsvolle Ausbildung und können viel mehr, als man uns oft lässt. Wenn man uns mehr entscheiden lässt, ist das super, aber das muss sich dann bitte auch auf dem Gehaltszettel zeigen."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Und wo bleibt die Pflege?",
+      "thema": "gesundheit",
+      "programmpunkt": "Um die medizinische Versorgung zu sichern, plant die Partei, zusätzliche Studienplätze ausschließlich für ärztliche und pharmazeutische Berufe zu schaffen.",
+      "seite": 27,
+      "zitat": "Deshalb werden wir zusätzliche Studienplätze für Human - und Zahnmedizin sowie für Pharmazie schaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nachdem zuvor von Gesundheitsberufen im Allgemeinen die Rede war, empfindet Kerstin die sofortige Verengung auf akademische Berufe als Affront. Es verstärkt ihr Gefühl mangelnder Wertschätzung, da konkrete Maßnahmen für ihre Berufsgruppe fehlen.",
+      "begruendung_selbst": "Erst redet ihr groß von allen Gesundheitsberufen und dann wollt ihr wieder nur mehr Ärzte ausbilden! Uns Pflegende auf Station vergesst ihr im nächsten Satz schon wieder."
+    },
+    {
+      "titel_selbst": "Kliniken sind keine Aktiengesellschaften!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm bekennt sich ausdrücklich zur Trägervielfalt und sichert zu, dass privatwirtschaftliche Krankenhäuser weiterhin eine gleichberechtigte Säule der Versorgung bleiben.",
+      "seite": 28,
+      "zitat": "privatwirtschaftliche Häuser sind gleichberechtigte und tragende Säulen unserer Versorgung.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin steht der Ökonomisierung im Gesundheitswesen extrem kritisch gegenüber, da sie den Profitdruck oft als Ursache für Personalmangel erlebt. Das Festhalten an gewinnorientierten Kliniken widerspricht ihrem Prinzip, dass in der Pflege der Mensch und nicht die Rendite im Fokus stehen muss.",
+      "begruendung_selbst": "Privatwirtschaftlich bedeutet Rendite vor Versorgung. Da wird auf dem Rücken von uns Pflegekräften gespart, damit die Kasse stimmt, und wir baden das dann in der Schicht aus!"
+    },
+    {
+      "titel_selbst": "Wer zahlt dann unser System?",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei möchte auf Bundesebene durchsetzen, dass die Sozialabgaben für Unternehmen gedeckelt werden.",
+      "seite": 17,
+      "zitat": "sowie die Sozialabgaben zu deckeln.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als sozial orientierte Angestellte im Gesundheitssektor sieht Kerstin in der Deckelung der Sozialabgaben eine Gefahr für die Finanzierung von Krankenkassen und Pflegeversicherung. Sie fürchtet, dass am Ende Gelder für besseres Personal fehlen oder Löhne nicht steigen können.",
+      "begruendung_selbst": "Wenn ihr die Sozialabgaben einfach deckelt, wo soll denn das Geld für gute Pflege und unsere Löhne herkommen? Dann wird doch am Ende wieder bei uns auf der Station gespart."
+    },
+    {
+      "titel_selbst": "So vergrault ihr unsere Leute!",
+      "thema": "integration",
+      "programmpunkt": "Das Programm fordert konsequente Härte in der Asylpolitik mit dem Ziel, die irreguläre Migration vollständig auf null zu senken.",
+      "seite": 8,
+      "zitat": "Es ist unser Ziel, die irreguläre Migration auf null zu reduzieren.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn es explizit um irreguläre Migration geht, empfindet Kerstin die pauschale Härte und das strenge politische Klima als bedrohlich für ausländische Arbeitskräfte. Sie sorgt sich, dass diese Rhetorik ihre internationalen Kolleginnen und Kollegen verunsichert und letztlich vertreibt.",
+      "begruendung_selbst": "Mit dieser ganzen harten Rhetorik schreckt ihr genau die Leute ab, die wir hier so dringend brauchen. Wer will denn in ein Land kommen, in dem immer nur über Ausweisung geredet wird?"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet im Programm zwar lobenswerte Ansätze wie das Bekenntnis zu ausländischen Arbeitskräften und die Erkenntnis des Fachkräftemangels. Die konkreten Lösungen enttäuschen sie jedoch stark, da der Fokus auf ärztlichen Studiengängen liegt, während finanzielle oder personelle Maßnahmen für die Pflege fehlen. Zudem lehnt sie das klare Bekenntnis zu privatwirtschaftlichen Kliniken ab und fürchtet durch Steuersenkungen eine Unterfinanzierung des Gesundheitssystems, weshalb ihre Gesamtwertung leicht negativ ausfällt.",
+    "score": -1
+  }
+}

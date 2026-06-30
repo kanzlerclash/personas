@@ -1,0 +1,95 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T11:59:30Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Anreize für junge Kollegen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert ein Stipendienprogramm für Medizinstudierende, wenn diese sich im Gegenzug verpflichten, für mindestens zehn Jahre als Landärzte in Sachsen-Anhalt zu praktizieren.",
+      "seite": 20,
+      "zitat": "Das Land finanziert Medizinstudenten mit Stipendien das Studium.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sorgt sich existentiell um ihre Praxisnachfolge. Ein gezieltes Stipendienprogramm mit einer harten Verpflichtung für den ländlichen Raum greift exakt ihre Sorge um die zukünftige Patientenversorgung auf.",
+      "begruendung_selbst": "Wenn ich bald in Rente gehe, steht hier niemand bereit. Ein Stipendium mit einer klaren Verpflichtung fürs Land ist genau der pragmatische Lösungsansatz, den wir hier draußen dringend brauchen."
+    },
+    {
+      "titel_selbst": "Daseinsvorsorge statt Renditedruck!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Privatisierung von kommunalen Krankenhäusern soll gestoppt werden, da das Gesundheitssystem nicht dem freien Markt und profitorientierten Klinikkonzernen überlassen werden dürfe.",
+      "seite": 20,
+      "zitat": "Der Verkauf kommunaler Krankenhäuser an gewinnorientierte private Klinikkonzerne hat sich als Fehler erwiesen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sie steht der Ökonomisierung des Gesundheitswesens sehr kritisch gegenüber. Dass Gesundheitsversorgung als echte öffentliche Aufgabe ohne Fokus auf Gewinnmaximierung betrachtet wird, entspricht voll und ganz ihrem ärztlichen Ethos.",
+      "begruendung_selbst": "Ich sage schon lange: Gesundheit ist keine Ware! Wenn Kliniken nur noch auf Profit schauen, bleiben am Ende meine ländlichen Patienten und die echte Versorgung auf der Strecke."
+    },
+    {
+      "titel_selbst": "Weg mit den Fallpauschalen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das aktuelle Abrechnungssystem der Krankenhäuser (DRG-System) soll durch ein neues System ersetzt werden, um bürokratischen Aufwand zu minimieren und ökonomische Fehlanreize abzuschaffen.",
+      "seite": 20,
+      "zitat": "Wir werden uns deshalb auf Bundesebene dafür einsetzen, das DRG-System zu ersetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da sie massiv unter der ausufernden Bürokratie und Budgetierung leidet, spricht ihr die geplante Abschaffung von abrechnungstechnischen Fehlanreizen und des Verwaltungsaufwands tief aus der Seele.",
+      "begruendung_selbst": "Ich verbringe halbe Tage mit Formularen und unsinnigen Abrechnungsvorgaben. Ein Ende dieses bürokratischen Wahnsinns würde mir endlich wieder mehr Luft und Zeit für meine eigentliche ärztliche Arbeit geben."
+    },
+    {
+      "titel_selbst": "Infrastruktur für meine Patienten!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Dem Abbau von Infrastruktur auf dem Land soll entgegengewirkt werden, um die Lebensqualität zu sichern – insbesondere durch den Erhalt und die Stärkung von Landarztpraxen und ländlichen Kliniken.",
+      "seite": 15,
+      "zitat": "Wer die Landärzte vergrault und Krankenhäuser abziehen lässt, bedroht die Lebensqualität in den Dörfern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petras Patienten leiden im strukturschwachen Raum oftmals unter langen Wegen und wegbrechender Nahversorgung. Die Priorisierung der dörflichen und medizinischen Infrastruktur sichert die Erreichbarkeit ihrer eigenen Praxis.",
+      "begruendung_selbst": "Es nützt die beste ärztliche Behandlung nichts, wenn die alten Leute gar nicht erst in meine Praxis kommen können. Dass unsere Dörfer endlich wieder gestärkt werden sollen, unterstütze ich voll."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ohne Ausländer bricht alles zusammen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei lehnt ausländische Ärzte pauschal ab, da diese aufgrund sprachlicher und kultureller Differenzen angeblich nicht geeignet seien, die medizinische Versorgung sicherzustellen.",
+      "seite": 20,
+      "zitat": "Ausländische Ärzte aber sind wegen der Sprachbarriere und kultureller Differenzen oft kaum geeignet",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als pragmatische Medizinerin weiß Petra aus ihrem Alltag, dass viele Krankenhäuser und Pflegeeinrichtungen in ihrer Region ohne ausländisches Personal längst schließen müssten. Die pauschale Diskreditierung empfindet sie als gefährlich für die Versorgungssicherheit.",
+      "begruendung_selbst": "Was für ein realitätsferner Unsinn! Wenn wir die ausländischen Kollegen aus den ländlichen Kliniken abziehen, kann ich meine Einweisungen gleich ins Leere schicken. Wir brauchen hier jede helfende Hand!"
+    },
+    {
+      "titel_selbst": "Das ist unwissenschaftliche Panikmache!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei behauptet, die mRNA-Impfstoffe gegen Corona seien unwirksam gewesen und hätten sich als gefährlich für Leib und Leben der Menschen erwiesen.",
+      "seite": 20,
+      "zitat": "mit einem kaum getesteten mRNA-Impfstoff gezwungen, der sich im Nachhinein als unwirksam und gefährlich",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als approbierte Hausärztin, die der evidenzbasierten Schulmedizin verpflichtet ist, hat sie selbst zahlreiche Patienten geimpft. Die unwissenschaftliche Verteufelung zugelassener Impfstoffe greift ihr medizinisches Fundament und ihre berufliche Verantwortung an.",
+      "begruendung_selbst": "Ich habe in meiner Praxis Tag und Nacht geimpft, um das Leben meiner Patienten zu schützen! Wenn Politiker anfangen, etablierte medizinische Errungenschaften als lebensgefährliches Gift darzustellen, verlassen wir den Boden der Tatsachen."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra findet im Programm der Partei viele Schnittmengen bezüglich einer gestärkten ländlichen Daseinsvorsorge: Das geforderte Landarztstipendium, das Ende der Klinikprivatisierungen und die Abkehr vom DRG-Abrechnungssystem entsprechen exakt ihren pragmatischen Forderungen nach einer soliden Versorgung ohne Renditedruck. Gleichzeitig ist sie als wissenschaftsbasierte Praktikerin entsetzt über die pauschale Abwertung ausländischer Ärzte und die gefährliche Leugnung medizinischer Fakten bei Impfstoffen. Da Letzteres ihren ärztlichen Alltag und Ethos direkt angreift, trübt dies das für ihre Landpraxis ansonsten attraktive Angebot erheblich.",
+    "score": 1
+  }
+}

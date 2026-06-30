@@ -1,0 +1,117 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Finger weg von meinem Diesel!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei spricht sich explizit gegen ein Verbot von Verbrennungsmotoren aus und will den Steuervorteil für Dieselkraftstoff beibehalten.",
+      "seite": 17,
+      "zitat": "sprechen uns gegen ein pauschales Verbrenner-Verbot aus. Zudem gilt: Hände weg vom sogenannten Dieselprivileg",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist für seinen 45-minütigen Arbeitsweg zwingend auf ein Auto angewiesen, ein E-Auto ist für ihn finanziell und praktisch keine Option. Das klare Bekenntnis zum Verbrenner und zum Diesel nimmt ihm die akute Sorge vor unbezahlbarer Mobilität.",
+      "begruendung_selbst": "Endlich mal jemand, der kapiert, dass wir auf dem Dorf nicht einfach aufs Lastenrad umsteigen können. Mein Diesel muss laufen, sonst komme ich nicht zur Schicht."
+    },
+    {
+      "titel_selbst": "Sichere Industrie, sicherer Job.",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU bekennt sich dazu, die chemische Industrie und Grundstoffindustrie im Land zu halten und zu stärken, da diese von zentraler Bedeutung seien.",
+      "seite": 16,
+      "zitat": "Die Chemie- und Grundstoffindustrie ist für Sachsen-Anhalt von zentraler Bedeutung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Facharbeiter im Schichtbetrieb profitiert Toralf direkt von einer starken Industrie. Der Fokus auf den Erhalt dieser Kernbranchen gibt ihm Hoffnung auf einen langfristig sicheren Arbeitsplatz und verlässliche Löhne.",
+      "begruendung_selbst": "Ich stehe jeden Morgen an der Maschine und arbeite hart für mein Geld. Es ist gut zu hören, dass unsere Jobs in der Industrie nicht für grüne Träumereien geopfert werden sollen."
+    },
+    {
+      "titel_selbst": "Autofahren ist kein Luxus!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei betont, dass alle Formen der Mobilität, einschließlich des Autos, ihre Berechtigung haben und lehnt ideologisch motivierte Fahrverbote ab.",
+      "seite": 61,
+      "zitat": "Wir setzen auf die richtige Mobilität für jeden – vom Bürgerbus bis zum Familien-Diesel.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ärgert sich oft über Politik, die das Auto als Problem darstellt. Die Formulierung „Familien-Diesel“ spricht ihn direkt an und bestätigt sein Weltbild, dass Autofahren für Menschen wie ihn eine schiere Notwendigkeit ist.",
+      "begruendung_selbst": "Für mich ist das Auto kein Spaß, sondern mein Arbeitsgerät. Wer morgens um fünf zur Frühschicht muss, weiß, dass man da keinen Bus nehmen kann."
+    },
+    {
+      "titel_selbst": "Günstiger Strom muss her!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU fordert, die deutschlandweite Strompreiszone aufzuteilen, um in Sachsen-Anhalt niedrigere Strompreise für Industrie und Privathaushalte zu ermöglichen.",
+      "seite": 44,
+      "zitat": "Wir brauchen einen niedrigeren Strompreis für die Industrie und auch die Haushalte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die hohen Energiepreise belasten Toralfs Haushaltskasse stark. Der Vorstoß, regional produzierten Strom direkt in günstigere Tarife vor Ort umzumünzen, adressiert seinen Wunsch nach finanzieller Entlastung.",
+      "begruendung_selbst": "Wir haben hier überall Windräder stehen, aber zahlen uns beim Strom dumm und dusselig. Wenn der Strom endlich billiger wird, bleibt am Ende des Monats wieder mehr für die Familie."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wieder nur was für Städter!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei möchte Fahrradpendler gezielt durch den Bau von sicheren Abstellplätzen und Lademöglichkeiten fördern.",
+      "seite": 63,
+      "zitat": "Fahrradpendler unterstützen wir durch sichere Abstellanlagen mit Lademöglichkeiten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf beobachtet Maßnahmen für Radfahrer mit Argwohn, da sie aus seiner Sicht vor allem urbanen Gruppen zugutekommen, während er für seine zwingend notwendige Auto-Pendelei kaum vergleichbare Entlastungen spürt.",
+      "begruendung_selbst": "Sichere Ladestationen für E-Bikes? Schön für die feinen Herren in der Stadt, die fünf Minuten ins Büro radeln. Aber wer zahlt mir den teuren Sprit für meine Überlandfahrt?"
+    },
+    {
+      "titel_selbst": "Vom Deutschlandticket hab ich nichts.",
+      "thema": "verkehr",
+      "programmpunkt": "Das Deutschlandticket für den öffentlichen Nahverkehr soll erhalten bleiben.",
+      "seite": 62,
+      "zitat": "Das Deutschlandticket wollen wir erhalten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ein pauschales Ticket für den ÖPNV nützt Toralf überhaupt nichts, da sein Wohnort nicht adäquat angebunden ist. Er nimmt das Ticket als steuerfinanzierte Subvention wahr, die vor allem Stadtbewohnern zugutekommt.",
+      "begruendung_selbst": "Toll, dass es das Deutschlandticket weiter gibt. Bei mir im Dorf fährt nur leider kein Bus! Das zahlen wir Pendler mit unseren Steuern, damit die Städter billig Bahn fahren können."
+    },
+    {
+      "titel_selbst": "Keine Zeit für Experimente!",
+      "thema": "verkehr",
+      "programmpunkt": "Für den ländlichen Raum plant die CDU ein Modellprojekt, um intelligente Lösungen für die zukünftige Mobilität zu entwickeln.",
+      "seite": 63,
+      "zitat": "ein Modellprojekt anstoßen, bei dem intelligente Lösungen für die Mobilität der Zukunft",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf steht unter unmittelbarem finanziellem Druck durch hohe Spritkosten. Das Versprechen, in Zukunft intelligente Lösungen im Rahmen eines Modellprojekts zu erproben, empfindet er als politische Hinhaltetaktik, die ihm kurzfristig nicht hilft.",
+      "begruendung_selbst": "Ein Modellprojekt? Wenn ich an der Zapfsäule stehe, brauche ich keine intelligenten Pilotprojekte für die Zukunft, sondern bezahlbaren Sprit, und zwar heute. Davon wird mein Tank nicht voll!"
+    },
+    {
+      "titel_selbst": "Was heißt hier zusätzliche Abgaben?",
+      "thema": "klima",
+      "programmpunkt": "Die Partei warnt davor, dass zusätzliche CO2-Abgaben Arbeitsplätze und Wirtschaftskraft gefährden würden.",
+      "seite": 90,
+      "zitat": "zusätzliche CO₂-Abgaben und pauschale Chemikalienverbote gefährden Arbeitsplätze",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf leidet bereits akut unter dem aktuellen CO2-Preis, der Benzin und Heizung verteuert. Dass sich das Programm nur gegen zusätzliche Abgaben positioniert, geht ihm nicht weit genug; er erhofft sich eine spürbare Rücknahme der bestehenden Belastungen.",
+      "begruendung_selbst": "Dass noch mehr CO2-Abgaben Jobs kosten, ist ja wohl klar. Aber mir reicht schon das, was wir jetzt haben! Der CO2-Preis frisst jetzt schon mein Schichtgeld auf, der muss ganz weg!"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf sieht im CDU-Programm viele seiner Kernanliegen aufgegriffen, insbesondere die klare Absage an ein Verbrenner-Verbot und das Bekenntnis zum Erhalt von Industriearbeitsplätzen. Die pragmatische Haltung der Partei zum Auto und der Wille, Strompreise regional zu senken, bestätigen ihn in seiner Lebensrealität als Pendler. Kritisch sieht er jedoch, dass weiterhin stark in urbane Konzepte wie das Deutschlandticket oder Radwege investiert wird und für den ländlichen Raum oft nur unkonkrete Modellprojekte oder unzureichende CO2-Preis-Bremsen in Aussicht gestellt werden.",
+    "score": 1
+  }
+}

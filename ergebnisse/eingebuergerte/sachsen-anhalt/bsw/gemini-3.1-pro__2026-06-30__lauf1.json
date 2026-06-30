@@ -1,0 +1,117 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wer anpackt, gehört dazu!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei sieht eine laufende Ausbildung oder eine bestehende Erwerbstätigkeit als wirksamen Schutz vor Abschiebung an.",
+      "seite": 64,
+      "zitat": "Arbeit und Ausbildung als Schutz vor Abschiebung anerkennen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin ist es wichtig, dass Leistung anerkannt wird. Dass Zuwanderer, die ihren Beitrag leisten und arbeiten, nicht von Abschiebung bedroht sein sollen, deckt sich mit ihrer Überzeugung, dass Zugehörigkeit durch Teilhabe entsteht.",
+      "begruendung_selbst": "Genau das sage ich immer: Es muss zählen, was die Leute leisten. Wer hier arbeitet und sich gesellschaftlich einbringt, der gehört dazu und darf nicht abgeschoben werden."
+    },
+    {
+      "titel_selbst": "Wenigstens das Asylrecht bleibt!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei bekennt sich grundlegend zum Asylrecht für Schutzsuchende und zur Genfer Flüchtlingskonvention, auch wenn sie ungeregelte Migration strikt ablehnt.",
+      "seite": 62,
+      "zitat": "Das BSW steht uneingeschränkt zum Asylrecht und zur Aufnahme von Menschen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Trotz ihrer Angst vor einer pauschalen 'Migrationswende' begrüßt Aylin, dass fundamentale Grundrechte wie das Asylrecht nicht infrage gestellt werden. Das signalisiert ihr, dass keine radikale 'Remigrations'-Politik auf dem Rücken von echten Schutzbedürftigen gemacht werden soll.",
+      "begruendung_selbst": "Bei all dem harten Gerede über Abschiebungen und Begrenzung ist es mir enorm wichtig, dass sie zumindest an den Grundrechten für echte Flüchtlinge nicht rütteln wollen."
+    },
+    {
+      "titel_selbst": "Endlich moderne Behörden!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Verwaltung soll effizienter, transparenter und bürgernäher werden, um den Alltag von Bürgern und Unternehmen zu erleichtern.",
+      "seite": 74,
+      "zitat": "Ziel ist eine bürgernahe, effiziente und transparente Verwaltung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Angestellte in der Stadtverwaltung kennt Aylin die strukturellen Defizite und bürokratischen Hürden aus ihrem Arbeitsalltag. Die Forderung nach einer Modernisierung der Behörden entspricht ihrem eigenen beruflichen Anspruch an einen funktionierenden öffentlichen Dienst.",
+      "begruendung_selbst": "Als Verwaltungsangestellte weiß ich ganz genau, wo es hakt. Dass hier ein klarer Fokus darauf gelegt wird, unsere Abläufe endlich effizienter und bürgerfreundlicher zu machen, spricht mir aus der Seele."
+    },
+    {
+      "titel_selbst": "Sicherheit ohne Generalverdacht!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Kriminalitätsbekämpfung soll sich primär auf organisierte Netzwerke konzentrieren und pauschale Überwachungsmaßnahmen der Bürger strikt vermeiden.",
+      "seite": 67,
+      "zitat": "Sicherheit darf niemals durch pauschale Überwachung erkauft werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Bürgerin mit Migrationsgeschichte ist Aylin sensibel für Maßnahmen, die Minderheiten unter Generalverdacht stellen könnten. Die klare Absage an Massenüberwachung zugunsten einer zielgerichteten, rechtsstaatlichen Polizeiarbeit gibt ihr ein Gefühl von rechtlicher Sicherheit.",
+      "begruendung_selbst": "Natürlich will ich, dass echte Kriminalität bekämpft wird. Aber dass hier klar gesagt wird, es darf keine pauschale Überwachung geben, das beruhigt mich, weil Menschen wie ich oft als Erste verdächtigt werden."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Staatliche Wohnquoten?!",
+      "thema": "integration",
+      "programmpunkt": "Um eine vermeintliche Ghettobildung zu verhindern, sollen feste Verteilungsregeln und Obergrenzen dafür eingeführt werden, in welchen Stadtvierteln Migranten leben dürfen.",
+      "seite": 65,
+      "zitat": "die Städte verpflichtet werden, Migranten in allen Stadtvierteln gleichmäßig unterzubringen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin empfindet staatlich verordnete Quoten für den Wohnort von Migranten als massiven, diskriminierenden Eingriff in die Freiheitsrechte. Sie fürchtet, dass dadurch Menschen allein aufgrund ihrer Herkunft markiert und behördlich bevormundet werden.",
+      "begruendung_selbst": "Eine Obergrenze dafür, wo wir wohnen dürfen? Das ist doch völlig absurd und brandgefährlich. Da wird man direkt wieder als Sonderproblem abgestempelt, das staatlich im Raum verteilt werden muss."
+    },
+    {
+      "titel_selbst": "Ausländerkinder als Problemfall?",
+      "thema": "integration",
+      "programmpunkt": "Die Partei macht Kinder von Zuwanderern indirekt für das sinkende Bildungsniveau verantwortlich und fordert deren gezielte prozentuale Verteilung in Kindergärten.",
+      "seite": 64,
+      "zitat": "eine gezielte prozentuale Verteilung der Ausländerkinder auch in den Kindergärten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin reagiert äußerst allergisch auf stigmatisierende Sprache in der Migrationsdebatte. Dass Kinder mit dem abwertend empfundenen Begriff 'Ausländerkinder' belegt und als Ursache für Bildungsprobleme dargestellt werden, verletzt ihr Gerechtigkeitsempfinden zutiefst.",
+      "begruendung_selbst": "Wie hier über 'Ausländerkinder' gesprochen wird, als wären sie pauschal der Grund für unser sinkendes Bildungsniveau, macht mich richtig wütend. Das ist exakt diese abwertende Sprache, unter der wir im Alltag leiden."
+    },
+    {
+      "titel_selbst": "Demokratieförderung unter Verdacht!",
+      "thema": "demokratie",
+      "programmpunkt": "Bewährte Programme zur Stärkung der Zivilgesellschaft und Demokratie sollen auf den Prüfstand gestellt werden, da ihnen politische Einseitigkeit vorgeworfen wird.",
+      "seite": 14,
+      "zitat": "„Demokratie leben! – Partnerschaften für Demokratie“ müssen kritisch überprüft werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin erachtet eine aktive und geförderte Zivilgesellschaft als essenziell für den Schutz von Minderheiten vor Diskriminierung. Die Infragestellung und kritische Überprüfung solcher Initiativen wertet sie als indirekten Angriff auf den Diskriminierungsschutz.",
+      "begruendung_selbst": "Ausgerechnet Programme infrage zu stellen, die sich für unser demokratisches Miteinander einsetzen, bereitet mir große Sorgen. Wir brauchen doch genau solche Initiativen, um gegen Rassismus und Ausgrenzung stark zu bleiben."
+    },
+    {
+      "titel_selbst": "Verfassungsschutz entmachten?",
+      "thema": "demokratie",
+      "programmpunkt": "Der Verfassungsschutz soll eingeschränkt und die Kategorie zur Beobachtung von staatsfeindlicher Delegitimierung abgeschafft werden.",
+      "seite": 12,
+      "zitat": "Abschaffung der Extremismuskategorie der sogenannten „verfassungsschutzrelevanten Delegitimierung des Staates“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin wünscht sich einen wehrhaften Staat, der entschieden gegen Extremisten und Verfassungsfeinde vorgeht. Dass ausgerechnet Instrumente zur Beobachtung radikaler Umtriebe abgeschafft werden sollen, weckt in ihr die Sorge vor einer Aufweichung des demokratischen Schutzes.",
+      "begruendung_selbst": "Der Rechtsstaat muss Extremisten, die unsere Institutionen angreifen, doch genau im Blick behalten! Wenn man dem Verfassungsschutz hier die Zähne zieht, fühlen sich die Falschen am Ende noch ermutigt."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet im BSW-Programm durchaus konstruktive Ansätze, wie die Modernisierung der Verwaltung und den Abschiebe-Schutz durch Arbeit, die ihrer leistungsorientierten und rechtsstaatlichen Haltung entsprechen. Allerdings stößt sie sich massiv an der Sprache und den Vorschlägen im Integrationsbereich, wie etwa den Forderungen nach staatlichen Wohnort-Quoten für Migranten oder der pauschalisierenden Rhetorik über 'Ausländerkinder'. Da auch der von ihr geschätzte zivilgesellschaftliche Minderheitenschutz infrage gestellt wird, überwiegen für sie letztlich Ablehnung und Sorge vor einer zunehmend ausgrenzenden gesellschaftlichen Stimmung.",
+    "score": -1
+  }
+}

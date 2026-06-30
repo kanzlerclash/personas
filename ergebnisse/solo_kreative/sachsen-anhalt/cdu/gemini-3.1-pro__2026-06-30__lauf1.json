@@ -1,0 +1,117 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Wertschätzung für meine Branche!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Kultur- und Kreativwirtschaft soll als Zukunftsbranche anerkannt und durch gezielte Startförderungen gestärkt werden.",
+      "seite": 82,
+      "zitat": "Kreative Berufe schaffen Identität, Innovation und Beschäftigung, von Design über Film bis Clubkultur.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike freut sich, dass ihre Branche nicht als brotlose Kunst abgetan, sondern als relevanter Wirtschaftsfaktor und Innovationstreiber anerkannt und gefördert werden soll.",
+      "begruendung_selbst": "Design und Content-Kreation sind harte Arbeit, die echten Mehrwert schafft. Dass hier Startförderungen fließen sollen und wir als Zukunftsbranche gelten, gibt mir endlich eine echte Perspektive."
+    },
+    {
+      "titel_selbst": "Schutz für meine kreative Arbeit!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Rechte von Urhebern sollen auch bei der Nutzung von Künstlicher Intelligenz gewahrt und finanziell abgegolten werden.",
+      "seite": 36,
+      "zitat": "dass Urheberrechte auch im Zeitalter der KI respektiert, geschützt und vergütet werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Solo-Kreative, deren Geschäftsmodell auf geistigem Eigentum basiert, fürchtet Mareike die ungebremste Ausbeutung ihrer Werke durch KI-Modelle. Diese Schutzmaßnahme trifft genau ihren Nerv.",
+      "begruendung_selbst": "KI-Unternehmen bedienen sich ungefragt an unseren Texten und Designs. Dass die Politik hier endlich unsere Urheberrechte verteidigen und für faire Vergütung sorgen will, ist absolut überlebenswichtig für mich."
+    },
+    {
+      "titel_selbst": "Förderanträge ohne Kopfschmerzen!",
+      "thema": "familie",
+      "programmpunkt": "Das Land will die Beantragung von Kulturförderungen vereinfachen, beschleunigen und die Antragswege durchgehend digitalisieren.",
+      "seite": 81,
+      "zitat": "Zu lange Verfahren und komplizierte Antragswege bremsen Kreativität aus.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Überforderung durch bürokratische Prozesse bei kleinsten Betriebsgrößen ist eine ihrer Hauptsorgen. Einfachere Antragswege würden ihr wertvolle Zeit für die eigentliche kreative Arbeit zurückgeben.",
+      "begruendung_selbst": "Es bringt mir gar nichts, wenn Fördertöpfe da sind, ich aber Tage für komplizierte Formulare opfern muss. Wenn das digitaler und einfacher wird, kann ich solche Hilfen realistisch nutzen."
+    },
+    {
+      "titel_selbst": "Stopp dem Papierkram-Wahnsinn!",
+      "thema": "demokratie",
+      "programmpunkt": "Es soll ein Belastungsmoratorium für die Wirtschaft geben, das neue bürokratische Pflichten verhindert und bestehende Vorgaben vereinfacht.",
+      "seite": 13,
+      "zitat": "braucht unsere Wirtschaft wieder Luft zum Atmen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike leidet als Einzelunternehmerin enorm unter der Steuer- und Bürokratielast, die sie komplett alleine bewältigen muss. Die Zusage, keine neuen Berichtspflichten einzuführen, verspricht ihr Linderung.",
+      "begruendung_selbst": "Ich verbringe oft halbe Nächte mit Buchhaltung und Formularen, statt Geld zu verdienen. Wenn die mir wirklich keine neuen Berichtspflichten mehr aufdrücken, kann ich vielleicht endlich mal durchatmen."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Zwangsarbeit statt echter Absicherung!",
+      "thema": "arbeit",
+      "programmpunkt": "Arbeitsfähige Bezieher staatlicher Leistungen sollen verpflichtend zur gemeinnützigen Bürgerarbeit herangezogen werden.",
+      "seite": 31,
+      "zitat": "für arbeitsfähige Leistungsbezieher nicht länger vom Prinzip der Freiwilligkeit abhängig sein.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Selbstständige, die in Flauten selbst schnell auf ein soziales Netz angewiesen sein könnte, empfindet Mareike diesen verpflichtenden Ansatz als entwürdigend und unsolidarisch.",
+      "begruendung_selbst": "Wenn mir die Aufträge wegbrechen und ich Hilfe brauche, will ich nicht zum Laubharken gezwungen werden. Das ist reine Schikane für Menschen, die ohnehin schon in existenziellen Nöten stecken."
+    },
+    {
+      "titel_selbst": "Reine Marktlogik rettet mich nicht!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Steigende Einkommen und Wohlstand sollen nicht durch staatliche Eingriffe, sondern ausschließlich über eine wettbewerbsfähige Wirtschaft entstehen.",
+      "seite": 12,
+      "zitat": "nicht durch staatliche Vorgaben und Umverteilung, sondern durch eine starke und wettbewerbsfähige Wirtschaft.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike vermisst das Bewusstsein für die systematische Unsicherheit von Soloselbstständigen. Die bloße Stärkung des Wirtschaftsstandorts ohne soziale Leitplanken hilft ihr bei Krankheit oder im Alter nicht.",
+      "begruendung_selbst": "Das ist die klassische 'Jeder ist seines Glückes Schmied'-Rhetorik. Dass der ach so tolle freie Markt uns Soloselbstständige bei Krankheit oder Flaute gnadenlos durchs Raster fallen lässt, wird hier einfach ignoriert."
+    },
+    {
+      "titel_selbst": "Billiger Kulturkampf gegen Diversität!",
+      "thema": "familie",
+      "programmpunkt": "Die CDU lehnt Bemühungen um geschlechtergerechte Sprache als bloße Symbolpolitik strikt ab.",
+      "seite": 33,
+      "zitat": "wenden uns gegen ein Genderverständnis, das die Gleichwertigkeit der Geschlechter durch Sprachregelungen auszudrücken versucht.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes Arbeits- und Lebensumfeld in der Berliner Kreativszene ist von Inklusivität geprägt. Eine explizit ablehnende Haltung gegenüber Gendersprache empfindet sie als rückwärtsgewandten Kulturkampf.",
+      "begruendung_selbst": "Dass man sich im Jahr 2026 noch politisch so verbissen an inklusiver Sprache abarbeitet, ist doch absurd. Solche konservativen Symboldebatten zeigen mir, dass die Partei von meiner Lebensrealität meilenweit entfernt ist."
+    },
+    {
+      "titel_selbst": "Stigmatisierung statt Weltoffenheit!",
+      "thema": "integration",
+      "programmpunkt": "Das Land rühmt sich der Vorreiterrolle bei der Einführung einer Bezahlkarte für Geflüchtete und will irreguläre Migration auf null reduzieren.",
+      "seite": 8,
+      "zitat": "hat als eines der ersten Bundesländer die Bezahlkarte für Flüchtlinge eingeführt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die restriktive Asylpolitik und insbesondere die Bezahlkarte widersprechen Mareikes liberal-progressiven Werten und ihrem klaren Wunsch nach einer offenen, toleranten Gesellschaft.",
+      "begruendung_selbst": "Leuten das ohnehin knappe Bargeld zu streichen und sie mit einer Bezahlkarte zu gängeln, ist für mich blanke Schikane. Mit Weltoffenheit und Toleranz hat so eine Politik jedenfalls nichts zu tun."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet im Programm der CDU durchaus positive Ansätze, insbesondere beim konsequenten Bürokratieabbau und der Förderung der Kreativwirtschaft, die ihre berufliche Existenz spürbar erleichtern würden. Gleichzeitig stößt sie sich massiv an der einseitig marktliberalen Ausrichtung ohne soziale Auffangnetze für Selbstständige, sowie an der aus ihrer Sicht unsozialen Bürgerarbeit und konservativen Symbolpolitik. Insgesamt überwiegen für sie die gesellschaftspolitischen Dissonanzen und fehlenden sozialen Sicherheiten, auch wenn die wirtschaftlichen Entlastungsversprechen verlockend klingen.",
+    "score": -1
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich ohne Grunderwerbsteuer bauen!",
+      "thema": "steuern",
+      "programmpunkt": "Die CDU plant, Erstkäufer von selbstgenutztem Wohneigentum von der Grunderwerbsteuer zu befreien.",
+      "seite": 31,
+      "zitat": "Grunderwerbsteuerbefreiung beim erstmaligen Erwerb selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica fühlen sich verstanden, da die hohen Kaufnebenkosten eine ihrer größten Hürden sind. Ein Wegfall dieser Steuer macht die Finanzierung ihres Eigenheims deutlich realistischer.",
+      "begruendung_selbst": "Das ist genau das, was wir fordern! Die Grunderwerbsteuer frisst momentan unser hart erspartes Eigenkapital komplett auf, ohne dass auch nur ein einziger Stein für unser Haus steht."
+    },
+    {
+      "titel_selbst": "Das Baukindergeld muss zurück!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei setzt sich auf Bundesebene dafür ein, das Baukindergeld für Familien wieder einzuführen.",
+      "seite": 65,
+      "zitat": "Wiedereinführung des Baukindergeldes",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Familie sieht in der Forderung nach der Rückkehr des Baukindergeldes eine konkrete und dringend benötigte finanzielle Entlastung. Es würde ihnen helfen, die monatlichen Kreditraten verlässlich zu bedienen.",
+      "begruendung_selbst": "Mit einer staatlichen Förderung wie dem Baukindergeld könnten wir die hohen Zinsen viel besser abfedern und unsere monatlichen Raten endlich sicher stemmen."
+    },
+    {
+      "titel_selbst": "Keine teuren Zwangsanlagen aufs Dach!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU lehnt verpflichtende Solaranlagen auf Dächern bei Neubauten konsequent ab und setzt auf Freiwilligkeit.",
+      "seite": 46,
+      "zitat": "lehnen jegliche Form der Solarpflicht bei Neubauten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar steht strengen und teuren energetischen Bauvorgaben kritisch gegenüber. Der Verzicht auf eine Solarpflicht nimmt massiven Kostendruck von ihrem ohnehin knappen Baubudget.",
+      "begruendung_selbst": "Gut gemeinte Auflagen wie eine Solarpflicht können wir uns beim Bauen aktuell einfach nicht leisten. Wir wollen selbst entscheiden, wann wir in so etwas investieren!"
+    },
+    {
+      "titel_selbst": "Schneller zur Arbeit pendeln!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Verkehrsinfrastruktur soll durch den zügigen Ausbau und die Fertigstellung von Autobahnen wie der A14 und A143 gestärkt werden.",
+      "seite": 61,
+      "zitat": "schnellstmögliche Fertigstellung der A14 und A143",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener im städtischen Umland verbringen beide viel Zeit auf dem Weg zur Arbeit. Der Ausbau der Straßeninfrastruktur verspricht ihnen eine spürbare Entlastung und Zeitersparnis im Alltag.",
+      "begruendung_selbst": "Wenn wir beide jeden Tag zur Arbeit pendeln müssen, brauchen wir freie und gut ausgebaute Straßen. Das spart uns kostbare Zeit, die wir lieber mit unserem Kind verbringen wollen."
+    },
+    {
+      "titel_selbst": "Unser Eigentum muss geschützt bleiben!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei positioniert sich klar gegen Markteingriffe in den Wohnungsmarkt und lehnt Enteignungen strikt ab.",
+      "seite": 65,
+      "zitat": "willkürliche Enteignungen und weitere Eingriffe in Eigentumsrechte",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar lehnt eigentumsskeptische Politikgruppen strikt ab und wünscht sich uneingeschränkte Sicherheit für ihr künftiges Haus. Sie fühlen sich durch die klare Haltung der Partei bestärkt.",
+      "begruendung_selbst": "Wir sparen hart für unsere eigenen vier Wände und wollen nicht, dass eine eigentumsfeindliche Politik den Wert unseres künftigen Hauses ständig in Frage stellt."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Fördert auch den Speckgürtel!",
+      "thema": "steuern",
+      "programmpunkt": "Die geplante Befreiung von der Grunderwerbsteuer soll gezielt auf Immobilienkäufe im ländlichen Raum beschränkt werden.",
+      "seite": 31,
+      "zitat": "Wohneigentums im ländlichen Raum ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Familie fürchtet, dass diese wichtige steuerliche Entlastung an ihrer Lebensrealität vorbeigeht, da sie im städtischen Umland bauen wollen, was oft nicht als rein ländlicher Raum zählt.",
+      "begruendung_selbst": "Wir wollen im städtischen Speckgürtel bauen, um nahe an unseren Arbeitsplätzen zu bleiben. Wenn die Entlastung nur für die tiefe Provinz gilt, hilft uns das beim Hauskauf überhaupt nicht weiter."
+    },
+    {
+      "titel_selbst": "Und was ist mit unserer Miete?",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU erteilt staatlichen Eingriffen in den Mietmarkt, wie etwa einem Mietpreisdeckel, eine klare Absage.",
+      "seite": 65,
+      "zitat": "ideologisch motivierte Markteingriffe wie Mietpreisdeckel",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica zahlen derzeit Miete, während sie mühsam Eigenkapital ansparen. Die strikte Ablehnung von Mietbremsen lässt ihre Befürchtung wachsen, dass steigende Mieten ihre Sparrate schmälern.",
+      "begruendung_selbst": "Es ist toll, dass Wohneigentum gefördert werden soll, aber bis wir soweit sind, müssen wir jeden Monat unsere teure Miete zahlen. Wenn die weiter steigt, können wir gar nichts mehr zurücklegen!"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der CDU Sachsen-Anhalt trifft bei Tom und Jessica in zentralen Punkten auf hohe Zustimmung. Besonders die geplante Förderung von Wohneigentum, der Verzicht auf energetische Bauauflagen und die steuerliche Entlastung bei Kaufnebenkosten spiegeln ihre Wünsche wider. Einzig die Beschränkung mancher Förderungen auf den rein ländlichen Raum sowie die ausbleibende Dämpfung der Mietkosten während ihrer Ansparphase dämpfen die Begeisterung leicht.",
+    "score": 2
+  }
+}

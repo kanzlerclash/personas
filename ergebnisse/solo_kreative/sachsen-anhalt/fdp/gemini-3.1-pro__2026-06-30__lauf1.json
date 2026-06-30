@@ -1,0 +1,106 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Zettelwirtschaft!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Partei will junge Unternehmen in der Anfangszeit weitgehend von Berichtspflichten und Zwangsmitgliedschaften befreien.",
+      "seite": 8,
+      "zitat": "in den ersten Jahren von Befragungen, Dokumentationspflichten und Zwangsmitgliedschaften soweit möglich entlastet werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike fühlt sich durch hohe bürokratische Auflagen oft überfordert und sieht hier eine direkte Erleichterung. Der Abbau von Dokumentationspflichten gibt Soloselbstständigen mehr Zeit für ihre eigentliche Arbeit.",
+      "begruendung_selbst": "Bürokratie frisst bei mir unendlich viel Zeit. Wenn ich mir den Papierkram und Zwangsbeiträge sparen könnte, hätte ich viel mehr Luft für echte Aufträge."
+    },
+    {
+      "titel_selbst": "Bitte macht das endlich!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Partei plant, dass alle behördlichen Vorgänge komplett digital und ohne Ausdrucke abgewickelt werden können.",
+      "seite": 48,
+      "zitat": "Verwaltungsleistungen durchgängig digital nutzen können – vom Antrag bis zum Bescheid",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die durchgängig digitale Abwicklung von Verwaltungsprozessen passt perfekt zur Arbeitsweise einer digitalaffinen Kreativen. Mareike sieht darin eine wichtige Ersparnis von Zeit und Nerven im Umgang mit Ämtern.",
+      "begruendung_selbst": "Ich arbeite komplett digital – es nervt tierisch, wenn ich fürs Amt noch Briefe ausdrucken muss. Alles online einreichen zu können, wäre eine absolute Erlösung."
+    },
+    {
+      "titel_selbst": "Wir werden mitgedacht!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert, dass auch Selbstständige und Freiberufler im Alter von steuerfreien Zuverdienstmöglichkeiten profitieren können.",
+      "seite": 39,
+      "zitat": "fordern jedoch im selben Atemzug die Gleichbehandlung Selbstständiger und Freiberufler",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike macht sich große Sorgen um ihre Altersvorsorge. Dass Selbstständige bei neuen Zuverdienstmöglichkeiten im Alter mit Angestellten gleichgestellt werden sollen, gibt ihr ein Gefühl von Fairness.",
+      "begruendung_selbst": "Meine Rente wird sowieso winzig ausfallen. Wenn ich im Alter dazuverdienen muss, will ich wenigstens steuerlich fair behandelt werden – genau wie Festangestellte."
+    },
+    {
+      "titel_selbst": "Meine Branche wird wertgeschätzt!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Kultur, Kreativwirtschaft und Veranstaltungsbranche sollen stärker miteinander vernetzt werden, da sie als relevanter Wirtschaftsfaktor und Jobmotor gelten.",
+      "seite": 45,
+      "zitat": "Deshalb setzen wir auf eine stärkere Vernetzung von Kultur, Kreativwirtschaft sowie Veranstaltungs- und Eventbranche.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike freut sich, dass die Kreativwirtschaft nicht als Liebhaberei abgetan, sondern als relevanter Wirtschaftsfaktor anerkannt wird. Eine stärkere Vernetzung verspricht ihr neue berufliche Chancen.",
+      "begruendung_selbst": "Kreativarbeit ist knallharte Wirtschaft! Es ist gut, dass das gesehen wird und wir stärker mit der Eventbranche vernetzt werden sollen – das bringt mir neue Kunden."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Und was ist bei Flaute?",
+      "thema": "gesundheit",
+      "programmpunkt": "Sozialleistungen sollen strikt nach dem Prinzip „Fördern und Fordern“ darauf ausgerichtet werden, Menschen schnellstmöglich in den regulären Arbeitsmarkt zu integrieren.",
+      "seite": 39,
+      "zitat": "sollten Sozialleistungen Menschen nicht dauerhaft versorgen, sondern nach dem Prinzip „Fördern und Fordern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike hat ein stark schwankendes Einkommen. Eine Sozialpolitik, die auf schnellen Zwang in den Angestellten-Arbeitsmarkt setzt, ignoriert den Schutzbedarf von Soloselbstständigen, die in Krisenzeiten eine verlässliche Überbrückung brauchen.",
+      "begruendung_selbst": "Dieses strenge 'Fördern und Fordern' klingt, als müsste ich bei einer Auftragsflaute sofort einen normalen Job annehmen. Wo bleibt das Netz für uns Selbstständige, wenn es mal schlecht läuft?"
+    },
+    {
+      "titel_selbst": "Kultur ist kein reines Business!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Kultureinrichtungen werden dazu angehalten, verantwortungsvoll, marktorientiert und wirtschaftlich zu agieren.",
+      "seite": 45,
+      "zitat": "Gleichzeitig erwarten wir von kulturellen Einrichtungen ein verantwortungsvolles und wirtschaftliches Handeln.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Mareike ist staatliche Kulturförderung oft indirekt essenziell für ihre eigenen Aufträge. Den strikten Fokus auf wirtschaftliches Handeln im Kulturbereich lehnt sie ab, da so kleine, unkommerzielle Projekte schnell verschwinden.",
+      "begruendung_selbst": "Wenn Kultureinrichtungen nur noch nach reiner Marktlogik und Profit funktionieren müssen, brechen meine Auftraggeber weg. Man kann Kultur nicht behandeln wie eine Fabrik."
+    },
+    {
+      "titel_selbst": "Und was hab ich davon?",
+      "thema": "steuern",
+      "programmpunkt": "Um Arbeitnehmer steuerlich zu entlasten, sollen sämtliche geleisteten Überstunden von der Einkommensteuer befreit werden.",
+      "seite": 40,
+      "zitat": "Gleichzeitig wollen wir jede Überstunde steuerfrei stellen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Soloselbstständige wie Mareike arbeiten oft extrem viel, haben aber systembedingt keine formellen Überstunden. Diese Art der Steuererleichterung bevorteilt ausschließlich Angestellte und lässt Kleinunternehmer mit schwankendem Einkommen komplett außen vor.",
+      "begruendung_selbst": "Steuerfreie Überstunden? Schön für Festangestellte. Ich arbeite an Projekten auch oft bis in die Nacht, aber bei mir heißt das einfach nur Selbstausbeutung ohne jeden Steuervorteil."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet im Wahlprogramm der FDP viele gute Ansätze beim Bürokratieabbau und der durchgängigen Digitalisierung der Verwaltung, die ihren Arbeitsalltag deutlich erleichtern würden. Gleichzeitig fehlt ihr jedoch jegliches Verständnis für ihre oft prekäre Lage bei Auftragsflauten, da die Partei stark auf Marktlogik in der Kulturförderung und auf das reine 'Fördern und Fordern' bei den Sozialsystemen pocht.",
+    "score": 0
+  }
+}

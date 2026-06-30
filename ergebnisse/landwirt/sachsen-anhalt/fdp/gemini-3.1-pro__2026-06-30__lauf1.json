@@ -1,0 +1,106 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Hof-Kontrollen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei plant, die Dichte der Vor-Ort-Kontrollen in landwirtschaftlichen Betrieben von 5% auf 1% zu reduzieren.",
+      "seite": 17,
+      "zitat": "Die Dichte der Vor-Ort-Kontrollen soll von 5% auf 1% der Betriebe gesenkt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank stöhnt unter dem ständigen bürokratischen Dokumentations- und Kontrollaufwand. Eine Verringerung der Vor-Ort-Kontrollen entlastet seinen Familienbetrieb direkt und signalisiert das von ihm geforderte Vertrauen.",
+      "begruendung_selbst": "Jedes Mal, wenn der Prüfer auf dem Hof steht, verliere ich wertvolle Stunden. Dass diese Kontroll-Wut endlich spürbar runtergeschraubt werden soll, ist überfällig!"
+    },
+    {
+      "titel_selbst": "Faire Regeln, kein EU-Gold-Plating!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei sichert zu, dass bei der Umsetzung von europäischem in deutsches Recht keinerlei zusätzliche nationale Verschärfungen vorgenommen werden.",
+      "seite": 18,
+      "zitat": "Keine einzige EU- Anforderung darf bei der Umsetzung in nationales Recht verschärft werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank ist tief skeptisch gegenüber Vorgaben aus Brüssel, leidet aber besonders darunter, wenn die deutsche Politik diese noch strenger auslegt. Der Verzicht auf Verschärfungen stärkt seine Wettbewerbsfähigkeit.",
+      "begruendung_selbst": "Es kann nicht sein, dass wir deutschen Bauern immer den Musterschüler spielen und die strengsten Auflagen Europas kriegen. Endlich gleiches Recht für alle im Binnenmarkt!"
+    },
+    {
+      "titel_selbst": "Schutz vor doppelter Steuer!",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei will die doppelte Besteuerung mit Grunderwerbsteuer beim Kauf von Ackerflächen über eine Landgesellschaft abschaffen.",
+      "seite": 16,
+      "zitat": "Eine doppelte Besteuerung erschwert aktuell den Eigentumserwerb:",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Landwirt spürt Frank den Druck durch Flächenfraß und Pacht-Konkurrenz massiv. Eine Senkung der Kaufnebenkosten schützt seinen Zugang zu Eigentum, was ihm als Grundwert heilig ist.",
+      "begruendung_selbst": "Boden ist unser wichtigstes Betriebsmittel! Wenn diese ungerechte Doppel-Steuer wegfällt, können wir Familienbetriebe beim Flächenkauf vielleicht wieder mit Investoren mithalten."
+    },
+    {
+      "titel_selbst": "Schluss mit dem Wolf-Wahnsinn!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Der Wolfsbestand soll aktiv gemanagt und eine Populationsuntergrenze definiert werden, um den Schutz von Nutztieren sicherzustellen.",
+      "seite": 22,
+      "zitat": "Die Population des Wolfes muss so gemanagt werden können, dass Arten- und Nutztierschutz",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Frank eine Mutterkuhherde hält, sieht er den absoluten Wolfsschutz nicht als abstraktes Naturschutzthema, sondern als direkte Bedrohung seiner Existenz.",
+      "begruendung_selbst": "Die Städter finden den Wolf ja romantisch, aber ich muss um meine Kälber bangen. Dass hier endlich eingegriffen wird, ist für unsere Weidehaltung überlebenswichtig!"
+    },
+    {
+      "titel_selbst": "Mehr Spielraum beim Agrarantrag!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Fehlertoleranz bei der Beantragung von EU-Flächenprämien soll auf 5% erhöht werden, um kleine Abweichungen ohne Strafen zu ermöglichen.",
+      "seite": 18,
+      "zitat": "hochgesetzt werden. Das spart enormen Verwaltungsaufwand und schafft Rechtssicherheit bei den Landwirten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die ständige Angst vor Sanktionen bei minimalen Abweichungen im Agrarantrag ist für Frank ein enormes Stressrisiko. Eine höhere Toleranz gibt ihm die ersehnte Planungssicherheit.",
+      "begruendung_selbst": "Wegen ein paar Zentimetern Abweichung auf dem Satellitenbild gleich gekürzt zu werden, ist Schikane. Mit fünf Prozent Toleranz kann ich nachts endlich wieder ruhiger schlafen!"
+    },
+    {
+      "titel_selbst": "Kooperation statt grüner Verbote!",
+      "thema": "klima",
+      "programmpunkt": "Der Naturschutz soll stärker über freiwillige Maßnahmen und wirtschaftliche Anreize organisiert werden anstatt über neue Flächenstilllegungen und ordnungsrechtliche Verbote.",
+      "seite": 20,
+      "zitat": "Naturschutz machen wir durch weniger Verbote und mehr Anreizwirkung deutlich attraktiver",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank ärgert sich über die Umweltbewegung, die seiner Meinung nach Naturschutz auf dem Rücken der Bauern austrägt. Die Idee, Naturschutz als Partnerschaft mit Anreizen zu organisieren, trifft exakt seine Vorstellung.",
+      "begruendung_selbst": "Ich hab nichts gegen Naturschutz – wir leben schließlich mit der Natur! Aber man muss uns Landwirte als Partner bezahlen und nicht ständig mit neuen Verboten überziehen."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaschutz treibt Dieselpreis!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei will den Emissionshandel als zentrales Leitinstrument für den Klimaschutz etablieren und auf andere Steuern verzichten.",
+      "seite": 23,
+      "zitat": "Emissionshandel ist dabei das Leitinstrument, es muss andere Steuern und Abgaben ersetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank klagt bereits über hohe Diesel- und Energiekosten. Er befürchtet, dass ein alles dominierender Emissionshandel die Betriebskosten für seine Traktoren massiv verteuert, ohne dass er eine technische Alternative hat.",
+      "begruendung_selbst": "Klimaschutz über den Markt regeln klingt ja gut, aber was heißt das für mich? Dass mein Agrardiesel noch teurer wird! Mein Traktor fährt schließlich nicht mit Batterie."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die FDP adressiert Franks tiefsitzenden Frust über Bürokratie und EU-Auflagen geradezu passgenau. Die Forderungen nach weniger Vor-Ort-Kontrollen, einem Ende des Gold-Platings und dem aktiven Wolfsmanagement treffen exakt seine Kernanliegen als Landwirt. Lediglich die starke Fokussierung auf den Emissionshandel weckt bei ihm die Sorge vor weiter steigenden Energiekosten für seinen Fuhrpark.",
+    "score": 2
+  }
+}

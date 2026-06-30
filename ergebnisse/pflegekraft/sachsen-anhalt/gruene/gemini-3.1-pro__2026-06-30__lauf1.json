@@ -1,0 +1,106 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Gleicher Lohn für gleiche Arbeit!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert, die Tarifbindung in der Wirtschaft über das Tariftreue- und Vergabegesetz konsequent auszubauen.",
+      "seite": 76,
+      "zitat": "durch das bestehende Tariftreue- und Vergabegesetz weiter gestärkt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin empfindet die ungleiche Bezahlung in der Pflegebranche oft als extrem ungerecht. Ein politischer Vorstoß für mehr Tarifbindung greift ihre Forderung nach verlässlicher und fairer Entlohnung direkt auf.",
+      "begruendung_selbst": "Es kann nicht sein, dass manche Träger uns mit Billiglöhnen abspeisen. Wir machen alle denselben harten Job, also brauchen wir auch überall anständige Tarifverträge!"
+    },
+    {
+      "titel_selbst": "Holt unsere Kolleginnen auf Station!",
+      "thema": "integration",
+      "programmpunkt": "Das Verfahren zur Anerkennung ausländischer Berufsabschlüsse soll entbürokratisiert, digitalisiert und damit insgesamt deutlich beschleunigt werden.",
+      "seite": 78,
+      "zitat": "sollen schneller und digitaler gestaltet werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Kerstin ist die Zuwanderung von Fachkräften die einzige realistische Lösung gegen den Personalmangel am Bett. Sie befürwortet daher nachdrücklich den Abbau von administrativen Hürden für ihre migrantischen Kolleginnen.",
+      "begruendung_selbst": "Ohne unsere internationalen Kräfte könnten wir die Station sofort dichtmachen. Wenn die Ämter endlich mal digitaler und schneller arbeiten würden, hätten wir viel früher die dringend nötige Entlastung."
+    },
+    {
+      "titel_selbst": "Endlich eine eigene Stimme!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Etablierung einer professionellen Pflegeselbstvertretung soll die Position der Pflegekräfte politisch stärken und sie der ärztlichen Profession gleichstellen.",
+      "seite": 87,
+      "zitat": "auf Augenhöhe mit der Ärzteschaft bringen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin bemängelt im Alltag oft die fehlende gesellschaftliche und politische Anerkennung ihres Berufsstandes. Eine strukturelle Aufwertung der Pflege gegenüber der Ärzteschaft gibt ihr das Gefühl, dass ihre Fachkompetenz ernst genommen wird.",
+      "begruendung_selbst": "Wir führen nicht nur Befehle aus, wir sind echte Profis! Wenn wir endlich selbst bei unseren Regeln mitreden können, werden wir auch nicht mehr so leicht von der Politik übergangen."
+    },
+    {
+      "titel_selbst": "Gesundheit ist keine Ware!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Grünen setzen auf den Ausbau von kommunalen Versorgungszentren, um das Gesundheitssystem unabhängiger von privaten Investoren und deren Profitstreben zu machen.",
+      "seite": 80,
+      "zitat": "medizinische Versorgung unabhängig von privaten Investoren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin steht der zunehmenden Ökonomisierung der Pflege sehr kritisch gegenüber, da diese den Kostendruck erhöht. Dass die Partei kommunale Trägerschaften fördern und private Renditeinteressen zurückdrängen will, deckt sich exakt mit ihrer Grundhaltung.",
+      "begruendung_selbst": "Wenn Krankenhäuser Gewinne abwerfen müssen, wird immer zuerst bei uns am Personal gespart. Es wird Zeit, dass die Gesundheit der Menschen wieder wichtiger ist als die Rendite von irgendwelchen Investoren."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Pflege ist kein Hobby!",
+      "thema": "gesundheit",
+      "programmpunkt": "Um den wachsenden Bedarf an Pflege zu decken, setzt die Partei unter anderem auf familiäre Unterstützung, Nachbarschaftshilfe und ehrenamtliches Engagement.",
+      "seite": 86,
+      "zitat": "über Nachbarschaft und Ehrenamt bis hin zu ambulanten Diensten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Kerstin ist Pflege eine höchst anspruchsvolle, physisch wie psychisch fordernde Profession. Den Ansatz, gravierende Pflegebedarfe durch freiwillige Nachbarschaftshilfe kompensieren zu wollen, empfindet sie als klare Abwertung ihrer Arbeit.",
+      "begruendung_selbst": "Sollen jetzt die Nachbarn die Medikamente stellen oder beim Waschen helfen? Wir brauchen echtes, gut bezahltes Fachpersonal und keine netten Ehrenamtsprojekte, die unsere schwere Arbeit am Ende nur abwerten."
+    },
+    {
+      "titel_selbst": "Mehr Hände, nicht mehr Titel!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei sieht in einer zunehmenden Akademisierung der Pflegeberufe einen wesentlichen und notwendigen Schritt zur weiteren Professionalisierung der Branche.",
+      "seite": 80,
+      "zitat": "einen entscheidenden Beitrag zur Professionalisierung dieser Berufe leistet",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als examinierte Fachkraft legt Kerstin großen Wert auf jahrelange praktische Erfahrung. Sie befürchtet, dass eine Akademisierung der Pflege zu einer theoriefernen Zweiklassengesellschaft auf der Station führt, ohne den Personalmangel am Bett zu lindern.",
+      "begruendung_selbst": "Ein Bachelor-Abschluss übernimmt für mich keine Nachtschicht. Wer glaubt, dass wir mit mehr studierten Theoretikern die handfesten Probleme auf der Station lösen, hat noch nie an einem echten Pflegebett gestanden."
+    },
+    {
+      "titel_selbst": "Sparen durch die Hintertür?",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Landespartei bekennt sich dazu, die Krankenhausreform des Bundes weitreichend umzusetzen und die stationäre Versorgung künftig durch ambulante Angebote zu ersetzen oder zu ergänzen.",
+      "seite": 80,
+      "zitat": "die vom Bund vorgesehene Krankenhausreform mutig und weitsichtig umsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Wie viele erfahrene Beschäftigte im Gesundheitswesen blickt Kerstin mit großer Sorge auf Klinikreformen. Sie fürchtet, dass tiefgreifende Umstrukturierungen zu Abteilungs- und Bettenabbau führen und den Stress für das verbleibende Personal weiter verschärfen.",
+      "begruendung_selbst": "Krankenhausreform heißt doch am Ende immer nur: Wir schließen Betten und verdichten die Arbeit noch mehr. Die da oben nennen das ‚weitsichtig‘, aber wir auf Station müssen den enormen Stress dann wieder ausbaden."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das grüne Programm findet bei Kerstin starken inhaltlichen Anklang, da es viele ihrer zentralen Sorgen in der Pflege adressiert. Sie befürwortet die Pläne für eine stärkere Tarifbindung, die konsequente Eindämmung von Profitinteressen im Gesundheitswesen und die schnellere Anerkennung ausländischer Fachkräfte nachdrücklich. Ernüchterung löst bei ihr jedoch die Fokussierung auf die Akademisierung der Pflege sowie die Einbeziehung des unbezahlten Ehrenamts in die professionelle Pflegeversorgung aus.",
+    "score": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "metrik": {
+    "abdeckung": 0.85,
+    "zustimmung": 0.70,
+    "konflikt": 0.35
+  },
+  "themen": [
+    {
+      "thema": "energie",
+      "relevanz": 10,
+      "stimmung": 8,
+      "analyse": "Die AfD spricht Ronnys zentrales Anliegen der Versorgungssicherheit und Arbeitsplatzsicherheit im Mitteldeutschen Revier durch die Forderung nach dem Stopp des Kohleausstiegs direkt an. Zudem wird seine Technologieoffenheit durch den geforderten Wiedereinstieg in die Kernenergie bedient. Abzüge gibt es, da die radikale Ablehnung von erneuerbaren Energien seinem pragmatischen Ingenieursdenken teilweise widersprechen könnte."
+    },
+    {
+      "thema": "wirtschaft",
+      "relevanz": 8,
+      "stimmung": 7,
+      "analyse": "Die Fokussierung auf bezahlbare Energie zur Sicherung des Industriestandorts und Verhinderung einer Deindustrialisierung deckt sich stark mit Ronnys beruflicher Perspektive. Der Erhalt von Industriearbeitsplätzen wird von ihm positiv bewertet, auch wenn ihm zukunftsorientierte Konzepte für den Strukturwandel jenseits der reinen Besitzstandswahrung fehlen könnten."
+    },
+    {
+      "thema": "klima",
+      "relevanz": 7,
+      "stimmung": 3,
+      "analyse": "Ronny wünscht sich eine pragmatische Klimapolitik ohne Ideologie und ist offen für technische Lösungen wie CCS. Die völlige Ablehnung der These vom menschengemachten Klimawandel und der Austritt aus dem Pariser Abkommen durch die AfD geht ihm als sachlich denkendem Ingenieur jedoch zu weit ins Ideologische und Unwissenschaftliche."
+    },
+    {
+      "thema": "arbeit",
+      "relevanz": 6,
+      "stimmung": 7,
+      "analyse": "Die Sicherung von Arbeitsplätzen in der etablierten Industrie und Energiewirtschaft wird stark betont, was Ronny als Arbeitnehmer im Energiesektor begrüßt."
+    }
+  ],
+  "besonders_gut": [
+    {
+      "zitat": "Eine AfD-geführte Landesregierung wird sich im Bundesrat dafür einsetzen, dass der Kohleausstieg in Deutschland gestoppt wird.",
+      "seite": 13,
+      "begruendung": "Diese Forderung adressiert exakt Ronnys Hauptsorge um die Versorgungssicherheit und die Arbeitsplätze im Mitteldeutschen Revier. Er sieht einen überstürzten Kohleausstieg äußerst kritisch."
+    },
+    {
+      "zitat": "Eine AfD-Landesregierung wird sich im Bundesrat für einen Wiedereinstieg in die Kernkraft einsetzen.",
+      "seite": 13,
+      "begruendung": "Trifft genau Ronnys Forderung nach echter Technologieoffenheit in der Energiepolitik, die Ideologien beiseite lässt und alle potenziellen Energiequellen prüft."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "zitat": "Eine AfD-geführte Landesregierung wird diese Subventionen [für erneuerbare Energien] unter Wahrung des Bestandsschutzes ausnahmslos streichen.",
+      "seite": 13,
+      "begruendung": "Als Pragmatiker in der Energiewirtschaft weiß Ronny, dass erneuerbare Energien längst Teil des Strommixes sind. Eine radikale Streichung könnte den notwendigen, schrittweisen Strukturwandel eher gefährden als begleiten."
+    },
+    {
+      "zitat": "Die globalistische Klimarettungslogik der Altparteien basiert auf der These vom angeblich menschengemachten Klimawandel.",
+      "seite": 13,
+      "begruendung": "Auch wenn Ronny Klimapolitik pragmatisch und unideologisch möchte, widerspricht die pauschale Leugnung des wissenschaftlichen Konsenses zum Klimawandel seinem Verstand als Ingenieur."
+    }
+  ],
+  "fazit": "Das AfD-Programm bedient Ronnys materielle und berufliche Kerninteressen (Verzögerung des Strukturwandels, Stopp des Kohleausstiegs, Versorgungssicherheit) in hohem Maße. Die radikale technologieoffene Haltung bei Kernkraft findet seine Zustimmung. Allerdings dürfte ihn als pragmatischen Ingenieur die im Programm deutlich werdende fundamentale Wissenschaftsskepsis beim Klimawandel und die kompromisslose Ablehnung aller erneuerbaren Energien abschrecken, da er eher rationale, technische Lösungen wie CCS bevorzugt als reine Fundamentalopposition."
+}

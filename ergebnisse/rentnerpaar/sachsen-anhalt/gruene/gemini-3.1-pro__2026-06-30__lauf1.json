@@ -1,0 +1,117 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Unser Krankenhaus muss bleiben!",
+      "thema": "gesundheit",
+      "programmpunkt": "Erhalt von Krankenhäusern zur Sicherung der Gesundheits- und Notfallversorgung auf dem Land.",
+      "seite": 79,
+      "zitat": "Krankenhäuser im Land müssen als Orte der Gesundheits- und Notfallversorgung erhalten werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die beiden sorgen sich stark um die medizinische Versorgung in ihrer ländlichen Region. Das klare Bekenntnis zum Erhalt der Krankenhäuser nimmt ihnen die Angst, im Notfall nicht rechtzeitig versorgt zu werden.",
+      "begruendung_selbst": "In unserem Alter weiß man nie, wann man schnell ärztliche Hilfe braucht. Es ist wirklich beruhigend, dass unser Krankenhaus in der Nähe nicht einfach weggespart werden soll."
+    },
+    {
+      "titel_selbst": "Endlich wieder Ärzte auf dem Land!",
+      "thema": "gesundheit",
+      "programmpunkt": "Schaffung von gezielten Anreizen, um fehlendes Facharztpersonal in ländliche Regionen zu locken.",
+      "seite": 81,
+      "zitat": "fehlende Anreize für Fachärzt*innen in der Fläche gezielt zu beheben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar macht sich Sorgen, was passiert, wenn ihr jetziger Hausarzt in Rente geht. Die Initiative, medizinisches Personal gezielt in die Fläche zu holen, trifft ihre größte Lebensangst.",
+      "begruendung_selbst": "Wir können doch nicht für jeden Facharztbesuch eine halbe Weltreise machen! Es wird allerhöchste Zeit, dass die Politik endlich dafür sorgt, dass sich hier auf dem Land wieder junge Ärzte niederlassen."
+    },
+    {
+      "titel_selbst": "Mehr Polizei auf die Straßen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Personelle Aufstockung der Polizei auf eine Zielgröße von 7.000 Beamtinnen und Beamten.",
+      "seite": 41,
+      "zitat": "Der Personalausbau bei den Vollzugsbeamt*innen soll konsequent",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar ist sicherheitsorientiert und fürchtet einen Anstieg der Kriminalität. Das Versprechen, die Polizei personell spürbar aufzustocken, adressiert ihr Bedürfnis nach Ordnung und einem sicheren Umfeld im Ort.",
+      "begruendung_selbst": "Früher kannte man noch den Dorfpolizisten, heute sieht man hier oft weit und breit keinen mehr. Es ist absolut richtig, dass wieder mehr Personal eingestellt werden soll, damit Recht und Ordnung herrschen."
+    },
+    {
+      "titel_selbst": "Politiker sollen in unsere Kasse zahlen!",
+      "thema": "demokratie",
+      "programmpunkt": "Einzahlung der Altersbezüge von Abgeordneten in die reguläre gesetzliche Rentenversicherung.",
+      "seite": 38,
+      "zitat": "die Überführung von Altersbezügen in die reguläre gesetzliche Rentenversicherung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter leben von kleinen Renten und reagieren empfindlich auf vermeintliche Politikerprivilegien. Die Forderung, Abgeordnete in die gesetzliche Kasse einzubeziehen, bedient ihr tiefes Bedürfnis nach Gerechtigkeit.",
+      "begruendung_selbst": "Wir haben jahrzehntelang unsere Beiträge gezahlt und müssen heute jeden Cent umdrehen. Es ist nur fair und richtig, wenn die Damen und Herren Politiker mal in exakt dieselbe Kasse einzahlen wie wir normalen Leute!"
+    },
+    {
+      "titel_selbst": "Eine Entlastung im Portemonnaie!",
+      "thema": "klima",
+      "programmpunkt": "Auszahlung der Einnahmen aus der CO2-Steuer als direktes Klimageld an die Bürgerinnen und Bürger.",
+      "seite": 11,
+      "zitat": "die Erträge der CO ₂ -Steuer direkt an die Bürger*innen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar leidet unter den steigenden Lebenshaltungskosten und muss sparsam wirtschaften. Ein Klimageld als direkte Auszahlung würde ihren stark belasteten Haushaltsplan entlasten.",
+      "begruendung_selbst": "Alles wird immer teurer, vom Heizen bis zum Wocheneinkauf. Wenn dieses Geld aus der Steuer wirklich mal direkt auf unserem eigenen Konto landen würde, wäre das eine echte finanzielle Hilfe für uns."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wir wollen keine neuen Schulden!",
+      "thema": "wohnen",
+      "programmpunkt": "Einführung von Leasingmodellen für moderne Heiztechnik, um die Kosten der Wärmewende zu verteilen.",
+      "seite": 26,
+      "zitat": "Leasingmodelle für Heiztechnik sollen ausgebaut werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter haben ihr Eigenheim mühsam abbezahlt und keine Rücklagen. Die Aussicht, für neue Heiztechnik im Alter Leasingverträge abschließen zu müssen, löst bei ihnen große finanzielle Existenzängste aus.",
+      "begruendung_selbst": "Wir haben unser Leben lang hart gearbeitet, damit das Haus endlich uns gehört und abbezahlt ist. Und jetzt sollen wir im Alter für eine teure neue Heizung noch Leasingverträge abschließen? Wir haben doch gar nicht mehr die Zeit, sowas abzustottern!"
+    },
+    {
+      "titel_selbst": "Lasst uns doch vernünftig Autofahren!",
+      "thema": "verkehr",
+      "programmpunkt": "Einführung von Tempo 30 als flächendeckende Regelgeschwindigkeit innerhalb von Ortschaften.",
+      "seite": 31,
+      "zitat": "Tempo 30 als innerörtliche Regelgeschwindigkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Da das Ehepaar im ländlichen Raum auf das Auto angewiesen ist, sehen sie ein flächendeckendes Tempolimit in Orten als unnötige Einschränkung und Gängelung, die ihren ohnehin beschwerlichen Alltag weiter verlangsamt.",
+      "begruendung_selbst": "Wir müssen vom Dorf aus für jeden Arztbesuch und jeden Einkauf ewig mit dem Auto fahren. Wenn wir jetzt überall nur noch mit Tempo 30 schleichen dürfen, dauert das ja alles noch länger. Ohne Auto geht es hier einfach nicht!"
+    },
+    {
+      "titel_selbst": "Die Kommunen sind doch jetzt schon voll!",
+      "thema": "integration",
+      "programmpunkt": "Bekenntnis zur Aufnahme weiterer Geflüchteter auf Basis der Menschenrechte.",
+      "seite": 33,
+      "zitat": "bekennen wir uns zur menschenrechtsorientierten Aufnahme von Geflüchteten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als veränderungsskeptische Bürger, die sich politisch oft vergessen fühlen, betrachten sie die weitere Aufnahme von Geflüchteten mit Sorge. Sie befürchten eine Überlastung der schwindenden lokalen Infrastruktur.",
+      "begruendung_selbst": "Es ist ja richtig, dass man in der Not helfen muss. Aber unsere eigenen Gemeinden sind pleite, es fehlt an Ärzten und Infrastruktur. Wir können doch nicht ewig immer noch mehr Leute bei uns aufnehmen, wenn hier selbst vieles im Argen liegt."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Rentnerpaar Helga und Dieter findet in dem Programm durchaus beruhigende Ansätze, insbesondere beim klaren Bekenntnis zum Erhalt von Krankenhäusern und Fachärzten im ländlichen Raum sowie dem Ausbau der Polizei. Jedoch überwiegen ihre Ängste vor den grünen Kernanliegen: Vor allem die anvisierte Wärmewende weckt finanzielle Existenzängste rund um ihr Eigenheim, während verkehrspolitische Einschränkungen wie Tempo 30 und die offene Migrationspolitik in direktem Konflikt zu ihrem bedürfnisorientierten und sicherheitsfokussierten Alltag auf dem Land stehen.",
+    "score": -1
+  }
+}

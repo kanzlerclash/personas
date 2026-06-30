@@ -1,0 +1,106 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen ist keine Spekulationsmasse!",
+      "thema": "wohnen",
+      "programmpunkt": "Die SPD schließt Zwangsverkäufe von kommunalen Wohnungsunternehmen aus und bekennt sich dazu, dass diese Teil der öffentlichen Daseinsvorsorge bleiben.",
+      "seite": 44,
+      "zitat": "Zwangsverkäufe zur Haushaltskonsolidierung werden ausgeschlossen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ist strikt dagegen, dass der Wohnungsmarkt reinen Profitinteressen überlassen wird. Das Bekenntnis zu kommunalen Wohnungsunternehmen als Instrument der Daseinsvorsorge deckt sich exakt mit ihrer Haltung gegen Privatisierung.",
+      "begruendung_selbst": "Endlich sagt mal jemand klar, dass Wohnen Daseinsvorsorge ist und keine Kuh, die man für den Haushalt melken und privatisieren darf. Wohnraum darf nicht an Investoren verhökert werden."
+    },
+    {
+      "titel_selbst": "Keine kalte Räumung durch Wärmewende!",
+      "thema": "wohnen",
+      "programmpunkt": "Klimafreundliche Heizsysteme und Wärmeversorgung sollen so umgesetzt werden, dass sie für Mieterinnen und Mieter nicht zu extremen Kostensteigerungen führen.",
+      "seite": 43,
+      "zitat": "Die klimafreundliche Wärmeversorgung darf keine zweite Miete werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Mieterin im Altbau schwebt die Angst vor unbezahlbaren Modernisierungsumlagen ständig über Carla. Die Zusicherung, dass die Wärmewende nicht voll auf die Miete durchschlagen soll, adressiert diese existenzielle Sorge.",
+      "begruendung_selbst": "Ich habe panische Angst vor dem Tag, an dem die energetische Sanierung kommt und ich mir den Kiez nicht mehr leisten kann. Dass das keine zweite Miete werden darf, ist extrem wichtig."
+    },
+    {
+      "titel_selbst": "Das Ticket muss bezahlbar bleiben!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Land bekennt sich dazu, das Deutschlandticket langfristig als bezahlbares Angebot für den Nahverkehr abzusichern.",
+      "seite": 42,
+      "zitat": "Das Deutschlandticket wird langfristig bezahlbar und verlässlich abgesichert.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Carla kein Auto besitzt und alle Wege mit öffentlichen Verkehrsmitteln oder dem Rad zurücklegt, profitiert sie direkt von einem dauerhaft günstigen Ticket. Es sichert ihre umweltfreundliche Mobilität.",
+      "begruendung_selbst": "Mein Leben in der Stadt funktioniert nur mit einem bezahlbaren ÖPNV. Wenn das Deutschlandticket gesichert wird, behalte ich wenigstens hier ein Stück finanzielle Planbarkeit im Alltag."
+    },
+    {
+      "titel_selbst": "Solidarität statt Ellenbogen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei rückt die Bekämpfung von Armut – speziell bei Kindern und älteren Menschen – in den Mittelpunkt ihrer Sozialpolitik.",
+      "seite": 15,
+      "zitat": "Armutsbekämpfung bleibt eine zentrale Aufgabe, insbesondere mit Blick auf Kinder- und Altersarmut.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Soziale Gerechtigkeit gehört zu Carlas Grundwerten. Ein klares Bekenntnis des Staates zum Schutz vulnerabler Gruppen vor Armut bestätigt ihr solidarisches Gesellschaftsbild.",
+      "begruendung_selbst": "Eine Stadt ist nur dann lebenswert, wenn nicht die Schwächsten an den Rand gedrängt werden. Dass Armutsbekämpfung Priorität haben soll, ist ein wichtiges Signal für den sozialen Zusammenhalt."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ein Freifahrtschein für Investoren!",
+      "thema": "wohnen",
+      "programmpunkt": "Um das Bauen zu beschleunigen, sollen formale Verfahrensvorgaben abgebaut und durch digitale Prüfungen ersetzt werden.",
+      "seite": 44,
+      "zitat": "Digitale Plausibilitätsprüfungen ersetzen formale Blockaden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla ist sehr misstrauisch gegenüber der Immobilienlobby. Wenn von weniger Prüfungen und Genehmigungsfiktionen beim Bauen die Rede ist, befürchtet sie, dass Mieterschutz und Milieuvorgaben unter die Räder geraten.",
+      "begruendung_selbst": "Bürokratieabbau beim Bauen klingt erst mal gut, bedeutet aber für mich als Mieterin meistens, dass Immobilienhaie noch ungehinderter abreißen und Luxuswohnungen hochziehen dürfen."
+    },
+    {
+      "titel_selbst": "Straßenbau von gestern!",
+      "thema": "verkehr",
+      "programmpunkt": "Trotz der Priorität auf Instandsetzung plant die Partei weiterhin die Umsetzung von umstrittenen Straßen- und Autobahn-Neubauprojekten.",
+      "seite": 42,
+      "zitat": "zugleich werden notwendige Neubauprojekte umgesetzt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Carla, die eine umweltfreundliche und autoarme Verkehrspolitik fordert, ist der weitere Ausbau von Autobahnen ein Rückschritt. Sie sieht darin eine Verschwendung von Ressourcen, die in den Umweltverbund fließen sollten.",
+      "begruendung_selbst": "Wir reden über Klimakrise und Verkehrswende, und dann sollen trotzdem weiter fröhlich neue Autobahnen asphaltiert werden? Das passt doch überhaupt nicht zusammen."
+    },
+    {
+      "titel_selbst": "Falsche Anreize fürs Auto!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Land soll sich dafür einsetzen, dass der Erwerb des Auto-Führerscheins günstiger wird, um jungen Menschen den Berufseinstieg zu erleichtern.",
+      "seite": 9,
+      "zitat": "muss der Führerschein günstiger werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Da Carla ihren Alltag komplett ohne Auto bewältigt und eine autoarme Mobilität favorisiert, sieht sie Subventionen für den motorisierten Individualverkehr kritisch. Das Geld fehlt aus ihrer Sicht für den Nahverkehr.",
+      "begruendung_selbst": "Statt das Geld in einen Führerschein-Rabatt zu stecken, sollte man die Öffis so gut ausbauen, dass niemand mehr zwingend ein Auto für den Job braucht."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im Programm der SPD Sachsen-Anhalt einige wichtige Ankerpunkte, die ihren Werten entsprechen, wie den Schutz der kommunalen Daseinsvorsorge beim Wohnen und die dauerhafte finanzielle Absicherung des Deutschlandtickets. Dennoch bleibt das Programm für sie an manchen Stellen zu kompromissbereit gegenüber wirtschaftlichen Einzelinteressen, da es auch auf Autobahnneubauten und investorenfreundlichen Bürokratieabbau im Baurecht setzt. Die für sie existenziellen, harten Eingriffe in den Wohnungsmarkt, wie ein echter Mietendeckel, fehlen in diesem ländlich geprägten Kontext gänzlich.",
+    "score": 0
+  }
+}

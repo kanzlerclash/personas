@@ -13,3 +13,16 @@ src/site/data.json
 
 .DS_Store
 *.log
+
+# Wegwerf-Artefakte, die CLI-Agenten (Codex/Gemini/agy) im Repo-Root erzeugt haben
+/scratch/
+/*.py
+/scratch_*
+/extracted_pages.txt
+/fdp_relevant_pages.txt
+/pages_46_55.txt
+/parsed_manifesto.txt
+/relevant_pages.txt
+/search_out.txt
+/temp_relevant.txt
+/text_analysis.txt

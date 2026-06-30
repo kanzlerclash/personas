@@ -1,0 +1,117 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich faire Spritpreise!",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP plant, die Doppelbesteuerung von Kraftstoffen zu beenden, sodass Mehrwertsteuer nicht mehr auf Energiesteuer und CO2-Abgabe anfällt.",
+      "seite": 9,
+      "zitat": "auf den Nettopreis vor der Energiesteuer und der CO 2 -Abgabe erhoben werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf leidet massiv unter den hohen Kosten für seinen täglichen Arbeitsweg. Die Abschaffung dieser Doppelbesteuerung beim Tanken würde ihn finanziell direkt und spürbar entlasten.",
+      "begruendung_selbst": "Es ist doch ein Witz, dass ich auf die Steuern beim Tanken noch mal Steuern zahle. Wenn das wegfällt, bleibt am Monatsende endlich etwas mehr in der Haushaltskasse."
+    },
+    {
+      "titel_selbst": "Die Realität auf dem Dorf erkannt.",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei erkennt pragmatisch an, dass das Auto im ländlichen Raum absehbar das wichtigste Verkehrsmittel bleiben wird.",
+      "seite": 72,
+      "zitat": "das Auto die Mobilität der Wahl für die meisten Menschen bleiben wird,",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fühlt sich oft von städtischer Verkehrspolitik bevormundet. Die ehrliche politische Anerkennung, dass das Auto auf dem Land unverzichtbar ist, validiert seine Lebensrealität.",
+      "begruendung_selbst": "Hier draußen fährt nun mal kein Bus zur Schicht. Gut, dass das mal jemand laut sagt und uns Autofahrer nicht nur als Umweltsünder hinstellt."
+    },
+    {
+      "titel_selbst": "Schluss mit der Schlagloch-Piste!",
+      "thema": "verkehr",
+      "programmpunkt": "Der Fokus im Straßenbau soll auf der soliden, grundhaften Sanierung bestehender Straßennetze statt auf provisorischem Flicken liegen.",
+      "seite": 71,
+      "zitat": "Landes- und Kreisstraßen sollten dabei in erster Linie grundhaft saniert statt nur geflickt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Toralf, der täglich weite Strecken pendelt, ist die Qualität der Straßen entscheidend. Ordentliche Fahrbahnen ersparen ihm Stress, Zeitverlust und teure Autoreparaturen.",
+      "begruendung_selbst": "Jeden Tag ruiniere ich mir auf dem Weg zur Schicht fast die Stoßdämpfer. Wenn die Straßen endlich mal richtig gemacht werden, hilft mir das wirklich."
+    },
+    {
+      "titel_selbst": "Bloß kein Verbrenner-Verbot!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei fordert grundsätzliche Technologieoffenheit und wendet sich damit gegen starre Antriebsverbote wie ein Aus für Verbrennungsmotoren.",
+      "seite": 14,
+      "zitat": "Deshalb fordern wir echte Technologieoffenheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein drohendes Verbrenner-Aus ist eine von Toralfs größten Sorgen, da E-Autos für ihn kaum bezahlbar sind. Die Offenheit bei den Motoren nimmt ihm diese finanzielle Zukunftsangst.",
+      "begruendung_selbst": "Ein neues E-Auto kann ich mir sowieso nicht leisten. Wenn die Politik uns nicht vorschreibt, welchen Motor wir fahren müssen, ist das die einzig vernünftige Lösung für normale Leute."
+    },
+    {
+      "titel_selbst": "Sicherheit für unsere Jobs!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Förderung einer starken, florierenden Wirtschaft wird als Fundament für den Erhalt und die Schaffung guter Arbeitsplätze gesehen.",
+      "seite": 5,
+      "zitat": "Nur eine prosperierende Wirtschaft schafft dauerhaft gute Arbeitsplätze",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Industriemechaniker hängt Toralfs Existenzgrundlage an einem starken Industriestandort. Das klare Bekenntnis zum wirtschaftlichen Wachstum gibt ihm Vertrauen in die Sicherheit seines Einkommens.",
+      "begruendung_selbst": "Ohne die Industrie und solide Betriebe können wir hier im Land einpacken. Wenn die Politik der Wirtschaft den Rücken stärkt, sichert das auch meinen Job."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Der Sprit wird unbezahlbar!",
+      "thema": "klima",
+      "programmpunkt": "Der Klimaschutz soll primär über den Emissionshandel gesteuert werden, was durch steigende CO2-Preise direkte Auswirkungen auf fossile Kraftstoffe hat.",
+      "seite": 23,
+      "zitat": "Emissionshandel ist dabei das Leitinstrument, es muss andere Steuern und Abgaben ersetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf befürchtet zu Recht, dass ein strikter Emissionshandel die Kraftstoffpreise unberechenbar in die Höhe treiben wird, was sein hart erarbeitetes Familienbudget massiv belastet.",
+      "begruendung_selbst": "Wenn der Markt den CO2-Preis regelt, klettern die Preise an der Zapfsäule doch ins Bodenlose. Ich muss zur Arbeit pendeln und kann das einfach nicht mehr zahlen."
+    },
+    {
+      "titel_selbst": "Schon wieder Geld für Radwege?",
+      "thema": "verkehr",
+      "programmpunkt": "Die Alltagsradnetze sollen ausgebaut, Lücken geschlossen und die Fahrradinfrastruktur insgesamt massiv aufgewertet werden.",
+      "seite": 71,
+      "zitat": "Ausbau des Wegenetzes für Radfahrer erreichen wir vor allem durch das Schließen von Lücken.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf betrachtet solche Verkehrskonzepte kritisch. Er hat das Gefühl, dass knappe Mittel für urbane Radfahrer ausgegeben werden, während ländliche Autopendler finanziell ausbluten.",
+      "begruendung_selbst": "Die in der Stadt kriegen ihre schicken Radwege finanziert, und ich zahle mich beim Tanken dumm und dämlich. Für meinen Arbeitsweg nützt mir das alles rein gar nichts."
+    },
+    {
+      "titel_selbst": "Steuergeld für Stadt-Schnösel!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will am Deutschlandticket grundsätzlich festhalten, insofern es nicht die allgemeine Verkehrsqualität gefährdet.",
+      "seite": 73,
+      "zitat": "Das Deutschlandticket bleibt Teil des Angebots,",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf profitiert kaum vom Deutschlandticket, da in seinem Dorf der ÖPNV mangelhaft ist. Er sieht darin eine ungerechte staatliche Subventionierung von Großstädtern.",
+      "begruendung_selbst": "Das ist doch wieder typisch: Die in der Stadt fahren für nen Appel und ein Ei mit der Bahn, und bei uns hält nicht mal ein Bus. Bezahlen dürfen wir es trotzdem."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der FDP bietet für Toralf Licht und Schatten, wobei die pragmatischen Ansätze zur Mobilität und Industrie überwiegen. Er begrüßt die Technologieoffenheit beim Auto, die geplanten Steuersenkungen auf Sprit und den Fokus auf den Erhalt von Industriearbeitsplätzen. Kritisch sieht er hingegen marktbasierte Klimainstrumente wie den Emissionshandel, die ihm unkalkulierbare Kostensteigerungen beim Pendeln drohen, sowie die in seinen Augen stadtzentrierten Subventionen für Radwege und das Deutschlandticket.",
+    "score": 1
+  }
+}

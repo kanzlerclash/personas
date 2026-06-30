@@ -1,0 +1,68 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "07. März 2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "antigravity-cli",
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Schluss mit der Spritpreis-Abzocke!",
+      "thema": "energie",
+      "programmpunkt": "Das BSW fordert die Abschaffung der CO2-Abgabe und einen Preisdeckel für Benzin an der Tankstelle auf 1,50 Euro.",
+      "seite": 6,
+      "zitat": "Die CO2-Abgabe gehört abgeschafft. Keine Tankstelle darf Sprit über 1,50 Euro anbieten!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf leidet massiv unter steigenden Spritkosten, da er auf das Auto angewiesen ist. Ein garantierter Höchstpreis und das Ende der CO2-Bepreisung würden ihn finanziell direkt entlasten.",
+      "begruendung_selbst": "Die CO2-Steuer ist für mich reine Schikane, weil ich ohnehin keine Alternative zum Auto habe. Ein fester Spritpreis von 1,50 Euro – das wäre mal eine Politik, die bei mir im Portemonnaie ankommt!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Auto bleibt mein Werkzeug!",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW spricht sich gegen eine erzwungene Verkehrswende und ein pauschales Verbrennerverbot aus, da das Auto im ländlichen Raum unverzichtbar bleibt.",
+      "seite": 32,
+      "zitat": "Ein pauschales Verbrennerverbot lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf befürchtet, durch das Verbrenner-Aus seine Mobilität zu verlieren, da E-Autos für ihn zu teuer sind. Das klare Bekenntnis zum Verbrennungsmotor gibt ihm Planungssicherheit für seinen Arbeitsweg.",
+      "begruendung_selbst": "Die in der Stadt können ja Rad fahren, aber auf dem Dorf bin ich auf mein Auto angewiesen. Ich kann mir kein E-Auto leisten, deshalb ist es genau richtig, dass der Verbrenner bleiben soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Arbeit ist was wert!",
+      "thema": "arbeit",
+      "programmpunkt": "Das BSW setzt sich für eine aktive Industriepolitik ein, um Deindustrialisierung zu stoppen, Arbeitsplätze zu sichern und Reallohnverluste zu vermeiden.",
+      "seite": 22,
+      "zitat": "Das BSW setzt sich dafür ein, dass Reallohnverluste vermieden und die Kaufkraft gesichert wird.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Industriemechaniker im Schichtbetrieb ist sein Job seine Existenzgrundlage. Das Bekenntnis zur Industrie vermittelt ihm ein Gefühl von wirtschaftlicher Sicherheit und Anerkennung seiner Arbeitsleistung.",
+      "begruendung_selbst": "Meine Schichten in der Fabrik ernähren die Familie. Dass hier jemand sagt, wie wichtig die Industrie bei uns ist, gibt mir Sicherheit. Wir dürfen die Betriebe nicht kaputtmachen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Die Städter zahlen es ja nicht!",
+      "thema": "klima",
+      "programmpunkt": "Das BSW kritisiert, dass die Lasten der aktuellen Klimapolitik einseitig bei unteren und mittleren Einkommen abgeladen werden.",
+      "seite": 27,
+      "zitat": "Die Lasten der Klimapolitik dürfen nicht länger einseitig denen auferlegt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf empfindet die urbane Klimapolitik als ungerecht, da sie Leute wie ihn auf dem Land abstraft. Das Programm bestätigt seine Sicht, dass die Politik eine soziale Schieflage hat.",
+      "begruendung_selbst": "Es ist doch immer dasselbe: Die Eliten in der Stadt denken sich tolle Klimaziele aus, und ich darf auf dem Weg zur Arbeit dafür blechen. Endlich spricht das mal jemand laut aus!",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet im Programm des BSW extrem hohe Übereinstimmung mit seiner Lebensrealität. Die klare Absage an das Verbrenner-Verbot, die geforderte Deckelung der Spritpreise auf 1,50 Euro und die Ablehnung der CO2-Abgabe adressieren direkt seine größten finanziellen Sorgen als Pendler. Auch die deutliche Positionierung für den Erhalt von Industriearbeitsplätzen und die Kritik an einer als elitär empfundenen Klimapolitik spiegeln genau sein pragmatisches, arbeitnehmerorientiertes Weltbild wider. Das Programm greift seine Sorgen fast passgenau auf.",
+    "score": 2
+  }
+}

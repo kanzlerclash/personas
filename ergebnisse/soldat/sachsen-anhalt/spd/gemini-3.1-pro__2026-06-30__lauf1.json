@@ -1,0 +1,95 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Realismus beim Bündnisfall!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm erkennt die strategische Rolle Sachsen-Anhalts bei der Logistik im Verteidigungsfall an.",
+      "seite": 54,
+      "zitat": "Sachsen - Anhalt hätte im Bündnisfall eine besondere logistische Bedeutung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan spürt hier ein klares Verständnis für die militärische Realität. Die Anerkennung der logistischen Anforderungen im Bündnisfall deckt sich genau mit seiner sicherheitspolitischen Haltung.",
+      "begruendung_selbst": "Endlich wird die Lage realistisch betrachtet. Wenn der Bündnisfall eintritt, muss die Logistik im Hinterland reibungslos laufen."
+    },
+    {
+      "titel_selbst": "Verteidigung braucht starken Zivilschutz!",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Bund soll aufgefordert werden, die zivile Verteidigung und den Zivilschutz im Land aktiv zu verbessern.",
+      "seite": 54,
+      "zitat": "Der Bund ist gefordert, den Zivilschutz und die zivile Verteidigung im Land zu stärken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soldat weiß Stefan, dass die militärische Landesverteidigung ohne eine resiliente zivile Infrastruktur nicht funktioniert. Diese Forderung stärkt seinen Rückhalt.",
+      "begruendung_selbst": "Landesverteidigung geht nicht ohne Zivilschutz. Gut, dass das hier endlich mal Hand in Hand gedacht wird."
+    },
+    {
+      "titel_selbst": "Material und Planbarkeit für alle!",
+      "thema": "sicherheit",
+      "programmpunkt": "Für die Einsatzkräfte der Polizei werden eine sehr gute technische Ausrüstung sowie verlässliche Dienstpläne gefordert.",
+      "seite": 28,
+      "zitat": "Einsatzkräfte müssen technisch gut ausgestattet sein und verlässliche Dienstpläne haben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan zieht klare Parallelen zu den Herausforderungen in der Bundeswehr. Die Wertschätzung für Sicherheitskräfte und der Fokus auf Planbarkeit entsprechen seinen eigenen Forderungen für die Truppe.",
+      "begruendung_selbst": "Genau das brauchen wir in Uniform alle – egal ob bei der Polizei oder in der Truppe. Ohne vernünftiges Material und Planbarkeit geht man kaputt."
+    },
+    {
+      "titel_selbst": "Bündnisse sichern unseren Frieden!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Europäische Union wird als unverzichtbare Basis für Zusammenarbeit und Friedenssicherung gewürdigt.",
+      "seite": 51,
+      "zitat": "Die Europäische Union ist Garant für Frieden, Freiheit und Zusammenarbeit.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefans sicherheitspolitisches Weltbild basiert auf Bündnistreue. Ein deutliches Bekenntnis zu europäischen Institutionen stärkt aus seiner Sicht die kollektive Sicherheit, für die er an der Ostflanke einsteht.",
+      "begruendung_selbst": "Ohne unsere starken Bündnisse in Europa und in der NATO wären wir sicherheitspolitisch völlig aufgeschmissen."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Abrüstung ist jetzt brandgefährlich!",
+      "thema": "verteidigung",
+      "programmpunkt": "Neben der militärischen Sicherheit wird betont, dass Abrüstung weiterhin ein zentrales Ziel der Politik sein müsse.",
+      "seite": 54,
+      "zitat": "Diplomatie, Verständigung, Abrüstung und internationale Zusammenarbeit bleiben zentrale Aufgaben deutscher und europäischer Politik.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "In der aktuellen Bedrohungslage an der Ostflanke empfindet Stefan den Ruf nach Abrüstung als geradezu naiv. Er befürchtet, dass solche Positionen die ohnehin schleppende Ausrüstung der Bundeswehr weiter untergraben.",
+      "begruendung_selbst": "Abrüstung? In der jetzigen Lage? Das ist völlig an der Realität vorbei und kostet am Ende unsere Sicherheit."
+    },
+    {
+      "titel_selbst": "Klingt nach billigen Ausflüchten!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei relativiert die Rolle des Militärs, indem sie festhält, dass Sicherheit nicht nur durch Waffengewalt geschaffen wird.",
+      "seite": 54,
+      "zitat": "Gleichzeitig gilt: Sicherheit entsteht nicht allein militärisch.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan vermutet hinter solchen Formulierungen eine Ausrede, um dringend notwendige Investitionen in die Truppe zu rechtfertigen oder zu vermeiden. Er sieht militärische Abschreckung als das absolute Fundament.",
+      "begruendung_selbst": "Das klingt für mich schon wieder nach einer Ausrede, um uns am Ende doch nicht vernünftig mit Material auszustatten."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan bewertet das Programm zwiespältig. Positiv honoriert er das realistische Bewusstsein für die logistische Bedeutung im Bündnisfall sowie den Fokus auf Zivilschutz und gut ausgerüstete Einsatzkräfte. Gleichzeitig stößt er sich massiv an den Forderungen nach Abrüstung und der Relativierung rein militärischer Sicherheit, was er angesichts der akuten Bedrohungslage als naive Gefahr für seinen Auftrag betrachtet.",
+    "score": 0
+  }
+}

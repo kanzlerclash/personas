@@ -1,0 +1,99 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": { "input_tokens": null, "output_tokens": null, "cached_tokens": null, "total_tokens": null, "dauer_ms": null, "usd": null },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich echte finanzielle Sicherheit!",
+      "thema": "familie",
+      "programmpunkt": "Der Unterhaltsvorschuss soll bedingungslos gewährt und nicht mehr mit dem Kindergeld verrechnet werden, zudem sollen Alleinerziehende 24 Monate Elterngeld erhalten.",
+      "seite": 21,
+      "zitat": "dass Alleinerziehende einen Anspruch auf 24 Monate Elterngeld erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine jongliert täglich Arbeit und Familie. Eine Ausweitung des Elterngelds und ein bedingungsloser Unterhaltsvorschuss würden ihr finanziell massiv den Rücken stärken und den Alltag entspannen.",
+      "begruendung_selbst": "Wenn der Unterhalt sicher ist und nicht ständig mit anderen Leistungen verrechnet wird, fällt mir ein riesiger Stein vom Herzen. Das bringt echte Planungssicherheit für uns."
+    },
+    {
+      "titel_selbst": "Mehr Betreuung rettet meinen Job!",
+      "thema": "bildung",
+      "programmpunkt": "Jedes Kind soll einen uneingeschränkten Rechtsanspruch auf zehn Stunden beitragsfreie ganztägige Betreuung inklusive kostenfreiem Schul- und Kitaessen erhalten.",
+      "seite": 29,
+      "zitat": "jedes Kind einen uneingeschränkten Rechtsanspruch auf eine ganztägige Betreuung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Eine verlässliche, kostenfreie und zehnstündige Betreuung ist für Nadine essenziell, um ihre Arbeitszeiten in Teilzeit überhaupt abdecken und Beruf und Kinder vereinbaren zu können.",
+      "begruendung_selbst": "Ohne verlässliche Kita kann ich nicht arbeiten. Wenn sie länger offen hat und kostenlos ist, kann ich aufatmen und muss nicht ständig Angst haben, meinen Job zu verlieren."
+    },
+    {
+      "titel_selbst": "Vollzeitgehalt trotz Teilzeitstunden!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke fordert eine gesetzliche Vollzeitarbeitszeit von vier Tagen bei vollem Lohnausgleich, um Familien zu entlasten und Einkommensverluste zu stoppen.",
+      "seite": 46,
+      "zitat": "bei gleichbleibendem Lohn zur Entlastung der Familien",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Mutter in Teilzeit würden sich Nadines Arbeitszeiten so einer normalen Vollzeitstelle annähern, ohne dass sie weniger verdient. Das lindert ihren finanziellen Druck enorm und belohnt ihre Arbeitsleistung.",
+      "begruendung_selbst": "Weniger Stunden arbeiten, aber volles Gehalt? Das wäre ein Traum. Endlich würde sich meine harte Arbeit wieder lohnen und ich hätte mehr Zeit für die Kinder."
+    },
+    {
+      "titel_selbst": "Geld direkt für die Kinder!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung einer armutsfesten und sanktionsfreien Kindergrundsicherung von mindestens 630 Euro im Monat.",
+      "seite": 45,
+      "zitat": "sanktionsfreie Kindergrundsicherung in Höhe von mindestens 630 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine stockt derzeit mit Bürgergeld auf und fürchtet Sanktionen. Eine eigenständige, hohe Kindergrundsicherung würde ihre Abhängigkeit von Ämtern verringern und die Haushaltskasse spürbar aufbessern.",
+      "begruendung_selbst": "Das ist Geld, das direkt bei meinen Kindern ankommt und uns vor ständiger Existenzangst schützt. Keine Demütigungen mehr beim Amt!"
+    },
+    {
+      "titel_selbst": "Stoppt die unfairen Mieterhöhungen!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Modernisierungsumlage soll abgeschafft werden, um zu verhindern, dass Sanierungskosten auf die Mieter abgewälzt werden.",
+      "seite": 84,
+      "zitat": "die Modernisierungsumlage abschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Steigende Mieten sind eine von Nadines größten Sorgen, da die Wohnkosten ihr weniges Geld auffressen. Die Abschaffung dieser Umlage schützt sie vor plötzlichen und untragbaren Mietsteigerungen.",
+      "begruendung_selbst": "Die Miete frisst uns auf. Wenn Sanierungen nicht mehr pauschal auf uns Mieter abgewälzt werden, bleibt am Ende des Monats vielleicht mal Geld für neue Kinderschuhe übrig."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Für so was fehlt mir die Zeit!",
+      "thema": "demokratie",
+      "programmpunkt": "Einrichtung eines Runden Tisches für Alleinerziehende, an dem Elternteile politische Beschlüsse selbst überprüfen sollen.",
+      "seite": 46,
+      "zitat": "einen Runden Tisch für Alleinerziehende, welcher es Elternteilen ermöglicht",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine ist durch Arbeit und zwei Kinder extrem eingespannt. Solche Mitmach-Gremien empfindet sie als realitätsferne Politik, für die sie im anstrengenden Alltag schlicht keine Kapazitäten hat.",
+      "begruendung_selbst": "Ein Runder Tisch? Wann soll ich mich da noch hinsetzen? Macht einfach eure Arbeit und sorgt für gute Kitas, statt ewig zu diskutieren!"
+    },
+    {
+      "titel_selbst": "Handeln statt Reden und Ausschüsse!",
+      "thema": "demokratie",
+      "programmpunkt": "Einrichtung einer Kinderkommission als parlamentarischer Unterausschuss beim Landtag zur Interessenvertretung.",
+      "seite": 62,
+      "zitat": "Beim Landtag soll eine Kinderkommission als parlamentarischer Unterausschuss eingerichtet werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine bewertet Politik pragmatisch an konkreten Verbesserungen wie Betreuungsplätzen. Strukturdebatten und Kommissionen wirken auf sie wie abgehobene Symbolpolitik ohne messbaren Alltagsnutzen.",
+      "begruendung_selbst": "Das klingt ja nett, hilft mir aber überhaupt nicht, wenn nachmittags der Hort kurzfristig schließt. Wir brauchen echte Lösungen vor Ort, keine Kommissionen im Landtag."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der Linken greift Nadines zentrale Sorgen um Geld, Betreuung und bezahlbares Wohnen sehr präzise und umfassend auf. Die weitreichenden sozialpolitischen Forderungen wie Kindergrundsicherung, kostenfreie Ganztagsbetreuung und Arbeitszeitverkürzungen versprechen eine enorme Erleichterung ihres Alltags. Lediglich bei den Vorhaben zur Gremien- und Bürgerbeteiligung zeigt sie sich pragmatisch-skeptisch, da ihr dafür schlicht die zeitlichen Ressourcen fehlen.",
+    "score": 2
+  }
+}

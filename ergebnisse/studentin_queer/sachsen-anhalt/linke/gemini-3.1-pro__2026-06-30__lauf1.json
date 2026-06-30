@@ -1,0 +1,106 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Sichtbarkeit für uns!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei fordert den Ausbau von Beratungsangeboten für LSBTIQ+ sowie die Belebung und finanzielle Förderung queerer Kulturorte.",
+      "seite": 25,
+      "zitat": "die Sichtbarkeit von queeren Identitäten in der kulturellen Landschaft fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule fürchtet um erkämpfte Minderheitenrechte und sieht in der aktiven Förderung queerer Infrastruktur und Kulturorte einen wichtigen Schutzraum für ihre eigene Community.",
+      "begruendung_selbst": "Als queere Person habe ich oft Angst vor Anfeindungen. Dass unsere Szene-Orte nicht nur geduldet, sondern aktiv gefördert werden sollen, gibt mir das Gefühl, hier sicher und gewollt zu sein."
+    },
+    {
+      "titel_selbst": "Studieren ohne Geldsorgen!",
+      "thema": "bildung",
+      "programmpunkt": "Die Linke setzt sich auf Bundesebene für ein elternunabhängiges BAföG ein, das die tatsächlichen Lebenshaltungskosten deckt.",
+      "seite": 37,
+      "zitat": "auf Bundesebene eine Initiative für ein elternunabhängiges BAföG starten, welches die durchschnittlichen Lebenshaltungskosten widerspiegelt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Studentin mit BAföG-Teilförderung und knappem Budget kämpft Jule monatlich mit ihren Finanzen; eine elternunabhängige Förderung würde ihren finanziellen Druck enorm lindern.",
+      "begruendung_selbst": "Ich drehe am Monatsende jeden Euro zweimal um. Ein BAföG, das nicht vom Gehalt meiner Eltern abhängt und endlich zum Leben reicht, würde mir eine riesige Last von den Schultern nehmen."
+    },
+    {
+      "titel_selbst": "Bezahlbares WG-Zimmer!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will studentisches Wohnen durch einen Hochschulsozialpakt mit günstigen Mieten und stabilen Mensapreisen gezielt fördern.",
+      "seite": 36,
+      "zitat": "einen Hochschulsozialpakt auflegen (günstige Mieten, stabile Mensapreise) und das Programm Junges Wohnen verbessern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die hohen Mietkosten in der Universitätsstadt sind eine der Hauptsorgen der Studentin; gezielte Programme für günstiges studentisches Wohnen entschärfen ihre prekäre finanzielle Lage.",
+      "begruendung_selbst": "Meine WG-Miete frisst fast mein ganzes Geld auf. Wenn das Land aktiv für günstige Mieten für uns Studis sorgt, habe ich vielleicht am Monatsende mal wieder etwas Luft zum Atmen."
+    },
+    {
+      "titel_selbst": "Nulltarif ist die Lösung!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei plant, das Semesterticket preislich abzusichern und strebt perspektivisch einen kostenfreien öffentlichen Nahverkehr für alle an.",
+      "seite": 37,
+      "zitat": "das Semesterticket preislich stabil halten, mittelfristig ein 9-Euro-Ticket und langfristig ein 0-Euro-Ticket einführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule ist in ihrem Alltag stark auf den Nahverkehr angewiesen und spürt jede Preissteigerung; ein Nulltarif würde ihre Lebenshaltungskosten spürbar senken und ihren ökologischen Werten entsprechen.",
+      "begruendung_selbst": "Ich bin sowieso nur mit Rad und Bahn unterwegs. Wenn das Semesterticket stabil bleibt oder der Nahverkehr sogar ganz kostenlos wird, ist das nicht nur gut für meinen leeren Geldbeutel, sondern auch ein echter Gewinn fürs Klima."
+    },
+    {
+      "titel_selbst": "Konsequenter Klimaschutz per Gesetz!",
+      "thema": "klima",
+      "programmpunkt": "Die Linke fordert ein festes CO₂-Budget für das Land und den rechtlich bindenden Weg zur Klimaneutralität bis zum Jahr 2035.",
+      "seite": 121,
+      "zitat": "ein verbindliches CO₂-Budget für Sachsen-Anhalt festlegen, das den Pfad zur Klimaneutralität bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule ist klimaaktivistisch geprägt und macht sich große Sorgen um ihre Zukunft; verbindliche und ambitionierte Ziele geben ihr die Hoffnung auf eine ernsthafte Energiewende.",
+      "begruendung_selbst": "Klimaschutz darf keine leere Floskel sein. Dass hier ein hartes CO2-Budget und Klimaneutralität bis 2035 gefordert werden, zeigt mir, dass meine Existenzängste endlich politisch ernst genommen werden."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Immer noch Autos?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will die heimische Autoindustrie durch Umstellung auf E-Mobilität und Leichtbau unterstützen und als regionalen Innovationsmotor erhalten.",
+      "seite": 91,
+      "zitat": "Diversifizierung der Produktion durch Batterietechnologie, E-Mobilität, Leichtbau, Schiene und nachhaltige Mobilität",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl die Partei auf Transformation setzt, sieht Jule in der Stützung der Autoindustrie den falschen Fokus, da sie eine konsequente Verkehrswende weg vom Individualverkehr für zwingend erforderlich hält.",
+      "begruendung_selbst": "Ich verstehe ja, dass Arbeitsplätze dranhängen. Aber wir können doch nicht ernsthaft weiter die Autoindustrie päppeln, auch wenn es E-Autos sind – wir brauchen eine radikale Verkehrswende hin zu Bahn und Bus!"
+    },
+    {
+      "titel_selbst": "Falsches Signal fürs Klima!",
+      "thema": "verkehr",
+      "programmpunkt": "Trotz des Fokus auf den Nahverkehr betont die Partei, dass das Autofahren für Menschen in ländlichen Räumen weiterhin erschwinglich bleiben muss.",
+      "seite": 101,
+      "zitat": "ist der PKW für Menschen in Dörfern ohne Anbindung an den Öffentlichen Verkehr wichtig",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule hat zwar Verständnis für ländliche Räume, sieht aber die Forderung nach bezahlbarem Autofahren kritisch, da dies ihrer Ansicht nach nötige Anreize für einen klimafreundlichen Umstieg ausbremst.",
+      "begruendung_selbst": "Klar ist es auf dem Dorf ohne Auto aktuell schwer. Aber wenn wir das Autofahren künstlich billig halten, fehlt am Ende doch wieder der Druck, den Nahverkehr auf dem Land wirklich flächendeckend auszubauen."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der Linken in Sachsen-Anhalt trifft Jules Kernanliegen nahezu punktgenau. Die weitreichenden Forderungen nach radikalem Klimaschutz, sozialer Absicherung durch ein elternunabhängiges BAföG und dem starken Schutz queerer Rechte bestätigen ihre progressiven Werte durchgehend. Lediglich kleine Zugeständnisse an den Autoverkehr im ländlichen Raum sowie die industriepolitische Stützung der Autoindustrie sieht sie als geringfügige Wermutstropfen in einem ansonsten sehr passenden Programm.",
+    "score": 2
+  }
+}

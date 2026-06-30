@@ -1,0 +1,106 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Schluss mit der Wolfsromantik!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Wolfskompetenzzentrum soll abgeschafft und der Wolfsbestand aktiv reguliert werden.",
+      "seite": 14,
+      "zitat": "Daher werden wir das umstrittene Wolfskompetenzzentrum abschaffen und die Population gezielt regulieren.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank kämpft mit den strengen Auflagen und Schäden durch den Wolfsschutz bei seiner Mutterkuhherde. Die geforderte Bestandsregulierung greift seinen alltäglichen Frust auf und stellt eine direkte Erleichterung in Aussicht.",
+      "begruendung_selbst": "Ich hab nichts gegen Naturschutz, aber diese ewigen Wolfs-Diskussionen gehen an der Realität vorbei. Wenn die Bestände vernünftig reguliert werden, haben wir mit der Weidehaltung endlich wieder weniger Scherereien."
+    },
+    {
+      "titel_selbst": "Schluss mit dem Zettelkrieg!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei verspricht, die bürokratischen Belastungen für landwirtschaftliche Betriebe deutlich zu senken.",
+      "seite": 14,
+      "zitat": "Unser Ziel ist es, die Landwirte von unnötiger Bürokratie zu entlasten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die ständigen Dokumentationspflichten fressen Franks Arbeitszeit und die Marge des Hofes auf. Das Versprechen auf weniger Verwaltung entspricht seinem tiefen Wunsch, wieder als Bauer und nicht als Bürokraft arbeiten zu können.",
+      "begruendung_selbst": "Jedes Jahr eine neue Verordnung und noch mehr Papierkram, wann soll ich da eigentlich noch Landwirtschaft machen? Wenn die das wirklich eindampfen, kann ich endlich wieder mehr Zeit auf dem Trecker verbringen."
+    },
+    {
+      "titel_selbst": "Ackerland für echte Bauern!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Ein Agrarstrukturgesetz soll sicherstellen, dass landwirtschaftliche Nutzflächen an regionale Familienbetriebe gehen und nicht an Investoren.",
+      "seite": 14,
+      "zitat": "Ein Agrarstrukturgesetz, das einheimische Landwirte ins Zentrum stellt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank macht sich große Sorgen um extrem steigende Pachtpreise durch branchenfremde Aufkäufer. Der Schutz regionaler Familienbetriebe vor reinen Spekulanten sichert langfristig seine Existenz und die Perspektive für seine Tochter.",
+      "begruendung_selbst": "Die Pachtpreise treiben uns in den Ruin, weil irgendwelche Großinvestoren den Hals nicht voll kriegen. Es wird höchste Zeit, dass unser Boden wieder denen gehört, die ihn auch anständig bewirtschaften."
+    },
+    {
+      "titel_selbst": "Runter mit den Energiekosten!",
+      "thema": "energie",
+      "programmpunkt": "Zur Bekämpfung hoher Energiekosten wird die Abschaffung der CO2-Abgabe gefordert.",
+      "seite": 13,
+      "zitat": "Die sogenannte CO₂-Abgabe führt zu einer massiven Mehrbelastung für Verbraucher.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der finanzielle Druck durch steigende Kosten für Agrardiesel, Trocknung und Kühlung belastet den Hof massiv. Die Rücknahme der CO2-Bepreisung würde sich direkt und positiv in seinen Bilanzen bemerkbar machen.",
+      "begruendung_selbst": "Diesel, Dünger, Strom – die Kosten fressen mich auf, und am Ende bleibt in der Kasse nur eine rote Null. Wenn diese unsinnige Abgabe wegfällt, können wir vielleicht endlich wieder wirtschaftlich arbeiten."
+    },
+    {
+      "titel_selbst": "Klimaschutz darf nicht ruinieren!",
+      "thema": "klima",
+      "programmpunkt": "Einschränkungen und Konsumvorgaben im Namen des Klimaschutzes werden abgelehnt und als Verbotskultur kritisiert.",
+      "seite": 13,
+      "zitat": "Unter einer AfD-geführten Landesregierung wird es keine klimadiktatorische Verbotskultur geben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich von der städtischen Klimabewegung oft moralisch abgewertet. Die klare Absage der Partei an ideologische Umweltauflagen und Verbote bestätigt sein Misstrauen gegenüber realitätsfremden Theoretikern.",
+      "begruendung_selbst": "Wir Landwirte arbeiten jeden Tag mit der Natur, aber ich lasse mich von diesen Aktivisten nicht als Umweltsünder hinstellen. Es ist wichtig, dass die Politik diesen ganzen Verboten mal eine klare Grenze zieht."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wer garantiert meine Flächenprämien?",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Es wird angestrebt, die gemeinsame EU-Agrarpolitik zu verlassen und die Subventionen rein national zu regeln.",
+      "seite": 14,
+      "zitat": "Deshalb setzen wir uns langfristig für eine Renationalisierung der Agrarpolitik ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl Frank die EU-Bürokratie zutiefst ablehnt, stellen die europäischen Flächenprämien in mageren Erntejahren sein wirtschaftliches Überleben sicher. Ein radikaler Systemwechsel schürt bei ihm enorme Ängste vor dem Verlust dieser existenziellen Planungssicherheit.",
+      "begruendung_selbst": "Über Brüssel schimpfe ich jeden Tag, aber ohne die Flächenprämien wäre mein Hof längst pleite. Wenn wir da ausscheren, weiß doch keiner, ob Berlin uns Bauern langfristig noch genauso unterstützt. Das Risiko ist mir zu groß."
+    },
+    {
+      "titel_selbst": "Klimawandel ignorieren hilft auch nicht!",
+      "thema": "klima",
+      "programmpunkt": "Das Phänomen des Klimawandels wird als globalistische Ideologie zurückgewiesen und der Fokus rein auf Anpassung gelegt.",
+      "seite": 13,
+      "zitat": "Die AfD lehnt die globalistische Klimaideologie und die damit einhergehende Wohlstandsvernichtungspolitik grundlegend ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank ist zunehmend frustriert über praxisferne Klima-Auflagen, ist aber kein Klimaleugner und spürt die negativen Folgen von Wetterextremen auf seinen Ertrag. Die pauschale Ablehnung des Klimawandels geht ihm als Praktiker zu weit und löst das tatsächliche Dürreproblem nicht.",
+      "begruendung_selbst": "Mir gehen diese städtischen Klimaaktivisten furchtbar auf die Nerven, aber auf dem Acker sehe ich doch selbst, dass die Dürrejahre immer schlimmer werden. Einfach so tun, als gäbe es das Problem gar nicht, ändert leider nichts an meinen Ernteausfällen."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet im Wahlprogramm weitreichende Zustimmung für seine Kernanliegen, da die Partei ihm bei Bürokratieabbau, Wolfsregulierung und Energiekosten direkte Entlastung verspricht. Die klare Positionierung gegen ideologische Umweltauflagen trifft genau seine Unzufriedenheit mit der städtischen Klimabewegung. Jedoch betrachtet er die radikalen Lösungsansätze wie den kompletten Ausstieg aus der europäischen Agrarförderung und die pauschale Leugnung von Wetterextremen mit der Skepsis eines Pragmatikers, der finanzielle Planungssicherheit braucht.",
+    "score": 1
+  }
+}

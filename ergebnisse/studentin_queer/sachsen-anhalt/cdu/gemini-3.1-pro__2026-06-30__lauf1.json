@@ -1,0 +1,139 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wichtig für mein Budget!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei bekennt sich zum Erhalt des deutschlandweit gültigen Nahverkehrstickets.",
+      "seite": 62,
+      "zitat": "Das Deutschlandticket wollen wir erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule hat ein sehr knappes Budget und ist im Alltag stark auf den Nahverkehr angewiesen. Der Erhalt des günstigen Tickets nimmt ihr eine finanzielle Sorge.",
+      "begruendung_selbst": "Ohne bezahlbaren ÖPNV wäre ich aufgeschmissen, jeder Euro mehr für Tickets tut am Monatsende weh. Gut, dass das Ticket bleiben soll."
+    },
+    {
+      "titel_selbst": "Fahrrad-Infrastruktur ist überfällig!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei plant, mehr Radwege zu bauen und Fahrradpendler mit sicheren Abstellanlagen zu unterstützen.",
+      "seite": 63,
+      "zitat": "Wir wollen die Zahl der gebauten Radwege steigern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da sie umweltbewusst lebt und viel mit dem Fahrrad fährt, profitiert Jule direkt von einer sichereren und besser ausgebauten Radinfrastruktur.",
+      "begruendung_selbst": "Endlich mal was für uns Radfahrer. Ich bin jeden Tag in der Stadt auf zwei Rädern unterwegs und brauche sichere Wege."
+    },
+    {
+      "titel_selbst": "Städte müssen Hitzesommer aushalten!",
+      "thema": "klima",
+      "programmpunkt": "Die CDU möchte Maßnahmen zur Klimaanpassung und den Hitzeschutz in der Stadtentwicklung stärker fördern.",
+      "seite": 68,
+      "zitat": "Wir wollen den Hitzeschutz als Förderaspekt in der Städtebauförderung stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule erlebt die Sommer in ihrer Großstadt-WG als belastend heiß. Investitionen in Klimaresilienz und Kühlung entsprechen ihrem Bedürfnis nach lebenswerten Städten.",
+      "begruendung_selbst": "Im Sommer steht die Luft in meinem WG-Zimmer oft wochenlang. Wenn die Stadt nicht endlich hitzefest wird, können wir hier bald nicht mehr leben."
+    },
+    {
+      "titel_selbst": "Gegen jeden Hass!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei positioniert sich klar gegen jede Form von Antisemitismus, Islamismus und religiös motiviertem Extremismus.",
+      "seite": 74,
+      "zitat": "antisemitistischen, islamistischen oder religionsfeindlichen Strömungen mit aller Entschlossenheit",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als queere Aktivistin, die sich für Minderheitenrechte einsetzt, teilt Jule das unbedingte Anliegen, Hass und Extremismus konsequent zu bekämpfen.",
+      "begruendung_selbst": "Minderheitenschutz ist für mich nicht verhandelbar. Wer Hass sät und andere ausgrenzt, muss von der Gesellschaft eine klare Grenze aufgezeigt bekommen."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimakrise duldet keinen Aufschub!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei hält am späten Kohleausstieg 2038 fest und möchte die Braunkohle weiterhin nutzen.",
+      "seite": 45,
+      "zitat": "Der vereinbarte Kohleausstieg bis 2038 ist ein politisch und rechtlich verabredeter Konsens.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für die klimabewegte Studentin ist das Festhalten an fossilen Energieträgern eine direkte Bedrohung ihrer Zukunft. Der langsame Ausstieg bis 2038 ist für sie inakzeptabel.",
+      "begruendung_selbst": "Das ist ein Schlag ins Gesicht meiner Generation! Wir haben absolut keine Zeit bis 2038, hier geht es um meine zukünftige Lebensgrundlage."
+    },
+    {
+      "titel_selbst": "Fossile Privilegien bleiben unangetastet!",
+      "thema": "klima",
+      "programmpunkt": "Ein pauschales Verbrenner-Verbot wird abgelehnt, stattdessen will die Partei das Dieselprivileg verteidigen und Technologieoffenheit fördern.",
+      "seite": 17,
+      "zitat": "sprechen uns gegen ein pauschales Verbrenner-Verbot aus.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht in der Verteidigung von Verbrennungsmotoren eine verfehlte Prioritätensetzung der Automobil-Lobby zulasten einer echten und nachhaltigen Verkehrswende.",
+      "begruendung_selbst": "Statt die Verkehrswende mutig anzugehen, wird hier nur die fossile Lobby bedient. So wird das nichts mit dem Klimaschutz!"
+    },
+    {
+      "titel_selbst": "Mietendeckel-Verbot ist unsozial!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei lehnt ordnungspolitische Eingriffe in den Wohnungsmarkt, wie etwa Mietpreisdeckel, kategorisch ab.",
+      "seite": 65,
+      "zitat": "Wir lehnen ideologisch motivierte Markteingriffe wie Mietpreisdeckel",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aufgrund ihres knappen Budgets ist Jule dringend auf bezahlbaren Wohnraum angewiesen. Den kategorischen Verzicht auf Mietregulierungen sieht sie als große Gefahr für Mieterinnen wie sie.",
+      "begruendung_selbst": "Wie soll ich mir mein WG-Zimmer bald noch leisten können? Den freien Markt einfach machen zu lassen, hilft uns Studierenden überhaupt nicht."
+    },
+    {
+      "titel_selbst": "Meine Identität ist keine 'Symbolpolitik'!",
+      "thema": "familie",
+      "programmpunkt": "Die CDU positioniert sich gegen inklusive Sprache und lehnt geschlechtergerechte Formulierungen als nutzlose Symbolpolitik ab.",
+      "seite": 33,
+      "zitat": "Wir erleben dies als eine Symbolpolitik, die in der Sache nicht hilft",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule als queere Person ist gendergerechte Sprache ein Ausdruck von Respekt und gesellschaftlicher Sichtbarkeit. Die konsequente Ablehnung empfindet sie als ausgrenzend.",
+      "begruendung_selbst": "Es geht hier um meine Existenz und einfachen Respekt, nicht um angebliche 'Symbolpolitik'. Solche Sätze zeigen mir ganz klar, dass meine Lebensrealität hier abgewertet wird."
+    },
+    {
+      "titel_selbst": "Spaltung statt Solidarität!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert eine verpflichtende 'Bürgerarbeit' für arbeitsfähige Leistungsempfänger als Gegenleistung für staatliche Hilfen.",
+      "seite": 30,
+      "zitat": "Wer eine staatliche Leistung bekommt und arbeitsfähig ist, der muss auch etwas zurückgeben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jules Menschenbild ist solidarisch. Den Zwang zur Arbeit für Transferleistungsempfänger empfindet sie als neoliberalen Druck und als Ausspielen von gesellschaftlich schwachen Gruppen.",
+      "begruendung_selbst": "Das ist genau diese wirtschaftsliberale Härte, die soziale Notlagen völlig ignoriert und Menschen unter Generalverdacht stellt. Wahre Solidarität sieht für mich ganz anders aus."
+    },
+    {
+      "titel_selbst": "Bildung darf kein Privileg sein!",
+      "thema": "bildung",
+      "programmpunkt": "Die Partei plant, dass internationale Studierende aus Nicht-EU-Staaten durch Studiengebühren zur Finanzierung der Hochschulen beitragen sollen.",
+      "seite": 76,
+      "zitat": "Studiengebühren für ausländische Studentinnen und Studenten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule steht für soziale Teilhabe und gleiche Rechte für alle. Studiengebühren empfindet sie als Barriere, die Menschen aus ärmeren Ländern oder dem globalen Süden diskriminiert.",
+      "begruendung_selbst": "Bildung muss gebührenfrei bleiben – und zwar für alle! Das ist eine extrem ausgrenzende Hürde, die internationale Kommilitonen aufgrund ihrer Herkunft benachteiligt."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule bewertet das CDU-Programm insgesamt sehr kritisch. Zwar begrüßt sie vereinzelt pragmatische Ansätze wie den Erhalt des Deutschlandtickets oder den Ausbau von Radwegen, stößt sich jedoch fundamental an der in ihren Augen verfehlten Klimapolitik und der als ausgrenzend empfundenen Gesellschafts- und Sozialpolitik.",
+    "score": -2
+  }
+}

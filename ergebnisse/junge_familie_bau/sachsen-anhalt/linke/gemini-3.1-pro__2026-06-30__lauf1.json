@@ -1,0 +1,72 @@
+{
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kostenlose Kita, das hilft enorm!",
+      "thema": "familie",
+      "programmpunkt": "Einführung einer beitragsfreien Kita für 10 Stunden täglich",
+      "seite": "29",
+      "zitat": "die Bildung in Kindertageseinrichtungen für alle Eltern beitragsfrei wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica arbeiten beide und sind auf eine lange Kita-Betreuung angewiesen. Die kostenfreie Betreuung für 10 Stunden würde sie finanziell erheblich entlasten und ihnen helfen, mehr Eigenkapital anzusparen.",
+      "begruendung_selbst": "Die Kita-Kosten fressen uns als Doppelverdiener bisher auf. Wenn wir 10 Stunden verlässliche Betreuung komplett kostenlos bekommen, bleibt am Ende des Monats endlich mehr für den Bausparvertrag."
+    },
+    {
+      "titel_selbst": "4-Tage-Woche bei vollem Lohn!",
+      "thema": "arbeit",
+      "programmpunkt": "Verkürzung der Vollzeitarbeitszeit auf vier Tage bei vollem Lohnausgleich",
+      "seite": "46",
+      "zitat": "eine Anpassung der Vollzeitarbeitszeitregelung zu einer 4-Tage-Woche bei gleichbleibendem Lohn",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Doppelbelastung aus Hausplanung, Job und Kind zehrt an den beiden. Eine Arbeitszeitverkürzung bei vollem Lohnausgleich würde ihnen dringend benötigten Freiraum für die Familie verschaffen.",
+      "begruendung_selbst": "Wir jonglieren täglich zwischen Jobs und Familie und sind abends oft völlig platt. Vier Tage arbeiten und trotzdem das gleiche Gehalt – das wäre der Wahnsinn für uns!"
+    },
+    {
+      "titel_selbst": "Endlich zählt Leistung, nicht Erbe!",
+      "thema": "steuern",
+      "programmpunkt": "Reform der Erbschaftssteuer, um leistungsloses Einkommen stärker heranzuziehen und Vermögen umzuverteilen",
+      "seite": "17",
+      "zitat": "für ein Land, in dem Leistung zählt, nicht Erbe",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar ärgert sich, dass harte Arbeit heutzutage kaum noch für Eigentum reicht, während andere große Vermögen leistungslos vererbt bekommen. Dass Leistung wieder mehr zählen soll, spricht ihr Gerechtigkeitsempfinden an.",
+      "begruendung_selbst": "Es frustriert uns so sehr, dass unsere eigenen Ersparnisse kaum für ein Haus reichen, während andere es einfach vererbt bekommen. Dass Leistung endlich wieder mehr zählen soll, sehen wir ganz genauso."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Keine Förderung für unser Eigenheim!",
+      "thema": "wohnen",
+      "programmpunkt": "Ausschließliche Förderung des Mietwohnungsbaus und der Stopp von Eigentumsförderung",
+      "seite": "83",
+      "zitat": "und nicht für die Förderung von Eigentum",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica träumen vom eigenen Haus und legen jeden Cent dafür zurück. Der geplante komplette Stopp der Eigentumsförderung zugunsten von Mietwohnungen torpediert ihre Lebensplanung direkt.",
+      "begruendung_selbst": "Das ist doch ein Witz! Wir arbeiten hart, um uns ein Eigenheim leisten zu können, und jetzt soll die Förderung dafür gestrichen werden? Damit rückt unser Traum in weite Ferne!"
+    },
+    {
+      "titel_selbst": "Gestaffelt heißt für uns: Wir zahlen selbst!",
+      "thema": "energie",
+      "programmpunkt": "Sozial gestaffelte Förderung für energetische Sanierung und Heizungstausch nach Einkommensklassen",
+      "seite": "85",
+      "zitat": "eine nach Einkommensklassen gestaffelte Förderung für die energetische Sanierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Doppelverdiener-Paar fürchten sie, bei sozial gestaffelten Förderungen regelmäßig durchs Raster zu fallen, obwohl teure energetische Auflagen das Bauen auch für sie kaum noch leistbar machen.",
+      "begruendung_selbst": "Wir verdienen zusammen zwar nicht schlecht, aber die teuren Energie- und Sanierungsvorgaben bringen auch uns ans Limit. Wenn die Förderung ans Einkommen gekoppelt ist, gehen wir garantiert wieder leer aus."
+    },
+    {
+      "titel_selbst": "Autofahrer sind wieder die Dummen!",
+      "thema": "verkehr",
+      "programmpunkt": "Stopp des Autobahnbaus und stärkere Fokussierung auf den öffentlichen Verkehr",
+      "seite": "105",
+      "zitat": "Keine neuen Autobahnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Vom Speckgürtel aus pendelt das Paar täglich mit dem Auto zur Arbeit, da der ÖPNV zu unflexibel für ihre Arbeits- und Kita-Zeiten ist. Den generellen Stopp des Autobahnbaus empfinden sie als realitätsfern und hinderlich.",
+      "begruendung_selbst": "Vom Speckgürtel in die Stadt geht es für uns praktisch nur mit dem Auto, wenn wir pünktlich zur Kita wollen. Wenn sie keine neuen Straßen mehr bauen, stehen wir nur noch mehr im Stau."
+    }
+  ]
+}

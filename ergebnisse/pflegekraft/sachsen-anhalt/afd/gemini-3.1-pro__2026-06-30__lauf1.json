@@ -1,0 +1,95 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Schluss mit der Profitgier!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei fordert einen Stopp der Privatisierung von Krankenhäusern und spricht sich dafür aus, diese vorrangig in öffentlicher Trägerschaft zu belassen.",
+      "seite": 20,
+      "zitat": "Keine Privatisierung von Krankenhäusern mehr!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin beobachtet täglich, wie das Streben nach Rendite den Klinikalltag verschärft; die Abkehr von privaten Klinikkonzernen entspricht ihrer Hoffnung auf eine bessere Versorgung.",
+      "begruendung_selbst": "Wenn die Klinik nicht mehr jedem Cent hinterherjagen muss, um Aktionäre glücklich zu machen, haben wir vielleicht endlich wieder den Kopf frei für unsere Patienten."
+    },
+    {
+      "titel_selbst": "Weg mit den Fallpauschalen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das bestehende DRG-Abrechnungssystem soll auf Bundesebene durch ein patientenfreundliches Modell ersetzt werden, das nicht den schnellen Profit belohnt.",
+      "seite": 20,
+      "zitat": "Wir werden uns deshalb auf Bundesebene dafür einsetzen, das DRG-System zu ersetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Ökonomisierung zwingt Kerstin und ihr Team oft dazu, Patienten zu früh zu entlassen, weshalb sie die Abschaffung dieses rein wirtschaftlichen Anreizes unterstützt.",
+      "begruendung_selbst": "Dieses ständige Rechnen, wie schnell ein Bett wieder frei wird, macht uns kaputt. Kranke Menschen sind keine Fließbandware, die nach Pauschale abgefertigt wird!"
+    },
+    {
+      "titel_selbst": "Endlich verbindliche Personalvorgaben!",
+      "thema": "arbeit",
+      "programmpunkt": "Es sollen feste Pflegepersonaluntergrenzen für alle medizinischen Bereiche vorgeschrieben werden.",
+      "seite": 20,
+      "zitat": "Danach werden wir Pflegepersonaluntergrenzen für alle medizinischen Bereiche festgelegen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Unter der chronischen Unterbesetzung und Arbeitsverdichtung leidet sie massiv; verbindliche Grenzen und weniger Bürokratie versprechen die dringend nötige Entlastung.",
+      "begruendung_selbst": "Ich kann mich nicht zerteilen. Verbindliche Personalschlüssel – das ist genau das, was wir brauchen, um im Schichtdienst nicht völlig auszubrennen."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ohne Ausländer können wir einpacken!",
+      "thema": "integration",
+      "programmpunkt": "Die Anwerbung ausländischer Fachkräfte wird abgelehnt, weil sie angeblich unerwünschte Folgeprobleme bringt und das Patientenwohl im Gesundheitswesen gefährde.",
+      "seite": 5,
+      "zitat": "In Branchen wie dem Gesundheits- und Pflegesektor wird dadurch das Wohl der Patienten gefährdet.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstins Arbeitsalltag ist ohne ihre migrantischen Kollegen nicht mehr zu bewältigen; deren pauschale Herabwürdigung empört sie zutiefst.",
+      "begruendung_selbst": "Solche Sätze sind ein Schlag ins Gesicht meiner internationalen Kollegen. Ohne sie könnten wir die Station längst dichtmachen!"
+    },
+    {
+      "titel_selbst": "Pflege ist ein harter Beruf, keine Romantik!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflege wird im Kern als Ausdruck familiärer Fürsorge dargestellt, die wieder stärker von der Familie statt vom Staat oder Profis übernommen werden soll.",
+      "seite": 20,
+      "zitat": "Pflege ist ihrem Wesen nach Ausdruck der Fürsorge liebender Angehöriger.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als examinierte Fachkraft wertet Kerstin diese Sichtweise als massive Herabwürdigung ihrer hart erlernten und hochprofessionellen Tätigkeit.",
+      "begruendung_selbst": "Das klingt ja nett, aber mein Beruf besteht aus Knochenarbeit, medizinischem Fachwissen und Schichtdienst – das ist keine romantische Nächstenliebe, sondern ein harter Job!"
+    },
+    {
+      "titel_selbst": "Technik ersetzt keine Pflegekraft!",
+      "thema": "arbeit",
+      "programmpunkt": "Statt auf Zuwanderung will die Partei auf Digitalisierung, Technisierung und Künstliche Intelligenz setzen, um fehlende Fachkräfte zu ersetzen.",
+      "seite": 5,
+      "zitat": "Technisierung, Digitalisierung und KI statt kulturfremder Fachkräfte!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin weiß aus der Praxis, dass Pflege intensive menschliche Zuwendung erfordert und Maschinen das fehlende Personal am Krankenbett nicht kompensieren können.",
+      "begruendung_selbst": "Soll jetzt etwa ein Roboter die Patienten waschen und trösten? Dieser naive Technik-Glaube geht völlig an der Realität auf unserer Station vorbei."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet in den krankenhaus- und sozialpolitischen Forderungen (Stopp der Privatisierung, Abschaffung der Fallpauschalen, verbindliche Personaluntergrenzen) genau die Entlastungen, die sie sich im Arbeitsalltag erhofft. Gleichzeitig stößt sie sich massiv an der migrationspolitischen Ausrichtung, da die pauschale Ablehnung ausländischer Fachkräfte für sie realitätsfern ist und ihr ohnehin chronisch unterbesetztes Team völlig sprengen würde.",
+    "score": 0
+  }
+}

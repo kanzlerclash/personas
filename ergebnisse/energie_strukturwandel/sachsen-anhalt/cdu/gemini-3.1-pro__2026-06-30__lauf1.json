@@ -1,0 +1,83 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Verlässlichkeit bis 2038!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei hält strikt am politisch vereinbarten Kohleausstieg 2038 fest und lehnt ein vorzeitiges Ausstiegsdatum ab.",
+      "seite": 45,
+      "zitat": "Der vereinbarte Kohleausstieg bis 2038 ist ein politisch und rechtlich verabredeter Konsens.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fürchtet starre Ausstiegsdaten, für die noch kein wirtschaftlicher Ersatz existiert. Das klare Bekenntnis zum ursprünglichen Kompromiss nimmt ihm die Sorge vor einem überstürzten Ende seiner Branche.",
+      "begruendung_selbst": "Endlich jemand, der uns die nötige Zeit gibt! Erst muss der Ersatz für unsere Arbeitsplätze stehen, bevor man uns den Stecker zieht."
+    },
+    {
+      "titel_selbst": "Wichtige Brückentechnologie",
+      "thema": "klima",
+      "programmpunkt": "Die Erforschung und Nutzung von CCS und CCU zur Kohlendioxidspeicherung wird ausdrücklich gefördert.",
+      "seite": 46,
+      "zitat": "Dazu zählen insbesondere die Forschung und Nutzung von CCS/CCU",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die pauschale Ablehnung von CCS in Teilen der Klimabewegung ist für Ronny praxisfern. Die Förderung von CCS im Wahlprogramm deckt sich mit seiner Hoffnung auf einen technologieoffenen Strukturwandel.",
+      "begruendung_selbst": "Ohne CCS können wir unsere Industriegebiete gleich dichtmachen. Diese Technologie ist genau das Werkzeug, das unsere Region im Wandel retten kann."
+    },
+    {
+      "titel_selbst": "Rohstoff statt nur Brennstoff",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die stoffliche Nutzung der heimischen Braunkohle soll weiter unterstützt werden, um neue Geschäftsfelder aufzubauen.",
+      "seite": 45,
+      "zitat": "Die stoffliche Nutzung der Braunkohle wird von uns weiterhin gefördert.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny ist an Wegen interessiert, die bestehende Rohstoffbasis und die Arbeitsplätze in seiner Heimat jenseits der Stromerzeugung zu erhalten.",
+      "begruendung_selbst": "Unsere Braunkohle ist viel zu wertvoll, um sie nur als klimaschädlich abzustempeln. Wenn wir sie stofflich nutzen, geben wir der Region eine echte neue Perspektive."
+    },
+    {
+      "titel_selbst": "Fairer Preis für uns",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm fordert eine regionale Aufteilung der Strompreiszonen, um Industrie und Haushalte in Sachsen-Anhalt finanziell zu entlasten.",
+      "seite": 44,
+      "zitat": "Wir brauchen einen niedrigeren Strompreis für die Industrie und auch die Haushalte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Energiefachmann weiß Ronny um die Belastung der Industrie durch hohe Stromkosten. Niedrigere regionale Preise sieht er als fairen Vorteil, der Industriearbeitsplätze in seiner Region sichert.",
+      "begruendung_selbst": "Wenn wir hier schon den ganzen Windstrom erzeugen, muss unsere Industrie auch davon profitieren. Das stärkt unseren Standort massiv und sichert Jobs."
+    },
+    {
+      "titel_selbst": "Realismus statt Ideologie",
+      "thema": "energie",
+      "programmpunkt": "Die Energiepolitik soll ausdrücklich ohne ideologische Vorgaben, sondern mit Verantwortung für Wirtschaft und Bürger gestaltet werden.",
+      "seite": 44,
+      "zitat": "Wir handeln ideologiefrei und übernehmen Verantwortung für unsere Bürgerinnen und Bürger",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny kritisiert die Klimabewegung oft für ihre aus seiner Sicht praxisfernen Forderungen. Der pragmatische Ansatz der Partei spiegelt exakt seinen Wunsch nach machbaren Lösungen wider.",
+      "begruendung_selbst": "Genau das werfe ich radikalen Klimaschützern vor: Ihnen fehlt der Realismus. Wir brauchen Lösungen, die technisch funktionieren und nicht nur moralisch gut klingen."
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Wahlprogramm der CDU Sachsen-Anhalt deckt sich fast ausnahmslos mit Ronnys Wünschen an einen pragmatischen Strukturwandel. Das klare Bekenntnis zum Kohleausstieg 2038, die Förderung von CCS und die Forderung nach regionalen Strompreiszonen adressieren seine größten beruflichen Sorgen direkt und positiv. Kritikpunkte oder echte Reibungsflächen zu seinen zentralen Themen gibt es aus seiner Sicht in diesem Programm nicht.",
+    "score": 2
+  }
+}

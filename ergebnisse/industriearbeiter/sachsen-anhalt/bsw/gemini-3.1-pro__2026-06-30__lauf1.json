@@ -1,0 +1,105 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Steuergeld nur mit Tarifvertrag!",
+      "thema": "arbeit",
+      "programmpunkt": "Das BSW will öffentliche Fördermittel und Aufträge streng an die Einhaltung von Tarifverträgen binden.",
+      "seite": 22,
+      "zitat": "Öffentliche Aufträge und Fördermittel dürfen nur an tarifgebundene Unternehmen vergeben werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht starke Gewerkschaften und Tarifbindung als Grundpfeiler für den Erhalt seines Lebensstandards. Die Forderung deckt sich exakt mit seinem Wunsch, dass der Staat prekäre Arbeit nicht subventioniert.",
+      "begruendung_selbst": "Als Gewerkschafter sage ich schon immer: Wer unsere Steuern als Förderung einstreicht, muss seine Leute auch ordentlich nach Tarif bezahlen."
+    },
+    {
+      "titel_selbst": "Wir reden beim Wandel mit!",
+      "thema": "arbeit",
+      "programmpunkt": "Betriebsräte und Gewerkschaften sollen bei Standort- und Transformationsentscheidungen aktiv eingebunden werden.",
+      "seite": 22,
+      "zitat": "Mitbestimmung ist kein Hemmnis, sondern ein Erfolgsfaktor im Strukturwandel.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als aktiver Betriebsrat ist Uwe darauf angewiesen, dass Veränderungen im Betrieb nicht diktiert werden. Das BSW erkennt seine gewerkschaftliche Arbeit als notwendig für einen sozial abgesicherten Wandel an.",
+      "begruendung_selbst": "Wenn die Bosse die Transformation planen, dürfen wir nicht nur zuschauen. Gut, dass unsere Mitsprache als Stärke und nicht als Problem gesehen wird."
+    },
+    {
+      "titel_selbst": "Industrie hält das Land am Laufen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei bekennt sich deutlich zur Erhaltung der Industrie in Sachsen-Anhalt als Garant für Arbeitsplätze und Wohlstand.",
+      "seite": 19,
+      "zitat": "Das BSW bekennt sich klar zum Industriestandort Sachsen-Anhalt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sein gesamter Wohlstand hängt an der Chemie- und Schwerindustrie in der Region. Er fühlt sich in seinem Stolz als Industriearbeiter bestätigt und in seiner Hoffnung auf den Erhalt der Arbeitsplätze unterstützt.",
+      "begruendung_selbst": "Wir erwirtschaften hier die Werte. Ohne die Industriegebiete geht in Sachsen-Anhalt das Licht aus. Wer sich klar zu unseren Standorten bekennt, hat das kapiert."
+    },
+    {
+      "titel_selbst": "Unser Chemiedreieck muss bleiben!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Transformation und Weiterentwicklung der Chemieparks soll mit hoher Priorität und durch günstige Rahmenbedingungen vorangetrieben werden.",
+      "seite": 27,
+      "zitat": "Die Transformation des Chemiesektors hat strategische Priorität.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Facharbeiter im Chemiedreieck ist dies sein direkter Arbeitsplatz. Ein politisches Konzept zum gezielten Schutz und zur Weiterentwicklung genau dieses Sektors adressiert seine größte Sorge um Deindustrialisierung.",
+      "begruendung_selbst": "Das ist genau mein Betrieb! Wenn die Politik sagt, dass unsere Chemieparks eine Zukunft haben und Priorität genießen, dann gibt mir das die Sicherheit, die wir hier im Revier dringend brauchen."
+    },
+    {
+      "titel_selbst": "Erst Alternativen, dann Ausstieg!",
+      "thema": "energie",
+      "programmpunkt": "Fossile Kraftwerke sollen zur Netzstabilität beitragen, bis ausreichend grüne Alternativen wie Wasserstoff verfügbar sind.",
+      "seite": 20,
+      "zitat": "müssen auch mit fossilen Brennstoffen betriebene Kraftwerke weiter zur Versorgungssicherheit beitragen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sorgt sich, dass ein zu schneller Kohleausstieg die Energiepreise hochtreibt und seinen Standort gefährdet. Die Garantie für eine durchgehende Grundlast nimmt ihm diese existenzielle Angst.",
+      "begruendung_selbst": "Ich bin für Klimaschutz, aber man kann nicht das alte Kraftwerk abschalten, wenn der neue Wasserstoff noch gar nicht da ist. Die Industrie braucht rund um die Uhr verlässlichen Strom."
+    },
+    {
+      "titel_selbst": "Vernunft statt Traumtänzerei!",
+      "thema": "klima",
+      "programmpunkt": "Die Klima- und Energiepolitik soll sich an den realen Möglichkeiten orientieren, statt ideologischen Vorgaben zu folgen.",
+      "seite": 24,
+      "zitat": "Umwelt- und Energiepolitik brauchen Vernunft statt Ideologie",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe teilt zwar die Ziele der Umweltbewegung, wirft ihr aber oft Praxis- und Arbeitsferne vor. Die Forderung des BSW nach einer vernunftgeleiteten und weniger ideologischen Politik bestätigt exakt sein Urteil.",
+      "begruendung_selbst": "Genau das sage ich immer: Klimaschutz ist wichtig, aber ihr habt oft keinen Plan, wie das in der Praxis laufen soll. Es muss funktionieren, ohne dass wir pleitegehen."
+    },
+    {
+      "titel_selbst": "Klimaschutz nicht auf unsere Kosten!",
+      "thema": "klima",
+      "programmpunkt": "Die nationale CO2-Bepreisung soll abgeschafft werden, da sie als ungerecht und einseitig belastend für Bürger und Betriebe wahrgenommen wird.",
+      "seite": 27,
+      "zitat": "Daher fordern wir, diese ungerechte Steuer auszusetzen oder abzuschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe befürchtet, dass die Kosten der Klimatransformation auf die arbeitende Bevölkerung abgewälzt werden. Ein Stopp des CO2-Preises entlastet seinen Geldbeutel und verbilligt gleichzeitig die Energie für seine Branche.",
+      "begruendung_selbst": "Es kann nicht sein, dass normale Leute durch immer neue Abgaben bluten müssen. So eine unsoziale Abzocke gehört weg, das hilft uns und unseren Betrieben."
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet im Programm des BSW eine nahezu vollständige Bestätigung seiner Perspektive als Industriearbeiter. Die starke Fokussierung auf den Erhalt der industriellen Basis, insbesondere des Chemiedreiecks, gepaart mit einem klaren Bekenntnis zu Tarifbindung und Mitbestimmung adressiert seine Kernanliegen punktgenau. Gleichzeitig teilt das Programm seine Skepsis gegenüber einer zu schnellen und potenziell jobgefährdenden Klimapolitik, was ihm ein hohes Maß an existenzieller Sicherheit vermittelt.",
+    "score": 2
+  }
+}

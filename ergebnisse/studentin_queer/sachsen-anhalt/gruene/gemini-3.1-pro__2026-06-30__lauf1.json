@@ -1,0 +1,117 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T13:14:20Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Klimaschutz in die Verfassung!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei fordert ein Klimaschutzgesetz, das Klimaneutralität bis 2035 verankert, und will Klimaschutz als offizielles Staatsziel in die Landesverfassung aufnehmen.",
+      "seite": 10,
+      "zitat": "Aufnahme des Klimaschutzes als Staatsziel in Artikel 35 der Landesverfassung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule sorgt sich massiv um ihre Zukunft aufgrund der Klimakrise. Eine verfassungsrechtliche Verankerung gibt ihr das Gefühl, dass ihre Lebensgrundlage verbindlich geschützt wird.",
+      "begruendung_selbst": "Klimaschutz darf kein nice-to-have sein, er muss ins Grundgesetz, damit unsere Zukunft nicht ständig zur Verhandlungsmasse wird!"
+    },
+    {
+      "titel_selbst": "Studieren ohne Existenzangst!",
+      "thema": "bildung",
+      "programmpunkt": "Auf Bundesebene soll das BAföG so reformiert werden, dass es komplett elternunabhängig wird.",
+      "seite": 67,
+      "zitat": "hin zu einem elternunabhängigen BAföG weiterentwickelt wird.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da sie mit knappem Budget lebt und wenig Unterstützung erhält, würde ein elternunabhängiges BAföG ihren finanziellen Druck enorm lindern.",
+      "begruendung_selbst": "Ich jobbe mich durchs Studium und am Monatsende wird's trotzdem eng – ein elternunabhängiges BAföG würde mich endlich aufatmen lassen."
+    },
+    {
+      "titel_selbst": "Stoppt den Mietenwahnsinn!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei setzt sich für einen Mietendeckel und den massiven Ausbau von Wohnheimen für Studierende und Auszubildende ein.",
+      "seite": 91,
+      "zitat": "sollen Mietendeckel eingesetzt werden, der Wohnheimbau für Auszubildende und Studierende erheblich ausgebaut",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule wohnt in einer WG zur Miete und leidet unter steigenden Lebenshaltungskosten. Günstiger Wohnraum und Preisbremsen sind für sie existenziell.",
+      "begruendung_selbst": "Die Miete frisst mein halbes Budget auf; ein Mietendeckel und mehr Wohnheime sind genau das, was wir jetzt brauchen."
+    },
+    {
+      "titel_selbst": "Queeres Leben schützen!",
+      "thema": "familie",
+      "programmpunkt": "Es soll gezielt gegen Diskriminierung, Rassismus und Queerfeindlichkeit an Schulen vorgegangen werden.",
+      "seite": 64,
+      "zitat": "Kinder vor Diskriminierung, Mobbing, Rassismus und Queerfeindlichkeit an allen Schulen schützen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als queere junge Frau treibt sie die Sorge um den Abbau von Minderheitenrechten um. Sie schätzt es, wenn Vielfalt und Antidiskriminierung aktiv gefördert werden.",
+      "begruendung_selbst": "Queerfeindlichkeit nimmt leider wieder zu, deshalb ist es extrem wichtig, dass schon in der Schule klar gegengehalten wird."
+    },
+    {
+      "titel_selbst": "Keine Kompromisse bei Feminismus!",
+      "thema": "familie",
+      "programmpunkt": "Antifeminismus wird als strategische Gefahr von rechts und als gruppenbezogene Menschenfeindlichkeit benannt und bekämpft.",
+      "seite": 41,
+      "zitat": "stellen uns deutlich gegen wachsende antifeministische Strömungen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule ist gesellschaftspolitisch links-liberal und sieht in konservativen und rechten Rollenbildern eine Bedrohung für queere und feministische Errungenschaften.",
+      "begruendung_selbst": "Rechte Hetze tarnt sich oft als 'Besorgnis', ist aber purer Antifeminismus – gut, dass das hier klar als Gefahr benannt wird."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaschutz duldet keine Ausnahmen!",
+      "thema": "energie",
+      "programmpunkt": "Windkraftanlagen in Wäldern sollen aus Gründen des Ökosystemschutzes grundsätzlich verboten werden.",
+      "seite": 14,
+      "zitat": "Um ein wichtiges Ökosystem zu schützen, lehnen wir Windanlagen im Wald grundsätzlich ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als kompromisslose Klimaaktivistin hat der schnelle Ausbau der erneuerbaren Energien für sie oberste Priorität. Pauschale Verbote für Windräder lehnt sie ab.",
+      "begruendung_selbst": "Wir stecken mitten in der Klimakrise! Da können wir nicht einfach pauschal Windräder im Wald verbieten, der Ausbau muss Vorrang haben."
+    },
+    {
+      "titel_selbst": "Mehr Polizei löst keine Probleme!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Zahl der Polizistinnen und Polizisten im Land soll weiter auf 7.000 aufgestockt werden.",
+      "seite": 41,
+      "zitat": "Personalausbau bei den Vollzugsbeamt*innen soll konsequent bis zur Zielgröße von 7.000 Stellen fortgesetzt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Klimaaktivistin ist sie polizeikritisch und sieht staatliche Aufrüstung skeptisch. Sie würde diese Gelder lieber in Sozialprogramme oder Klimaschutz investiert sehen.",
+      "begruendung_selbst": "Noch mehr Cops bedeuten für uns Aktivisti meist nur mehr Stress auf Demos. Investiert das Geld lieber in soziale Projekte!"
+    },
+    {
+      "titel_selbst": "Taser sind lebensgefährlich!",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Einsatz von Elektroschockpistolen (Tasern) durch die Polizei wird nicht gänzlich abgelehnt, sondern als letztes Mittel zur Deeskalation betrachtet.",
+      "seite": 42,
+      "zitat": "Einsatz von Tasern kann dabei lediglich eine der letzten Möglichkeiten der Deeskalation sein.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für sie steht die körperliche Unversehrtheit von Bürger*innen im Vordergrund. Taser als Deeskalationsmittel zu verharmlosen, widerspricht ihrer Haltung zutiefst.",
+      "begruendung_selbst": "Eine Waffe, die Menschen potenziell töten kann, darf man niemals beschönigend als 'Deeskalation' bezeichnen."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der Grünen deckt sich in weiten Teilen extrem gut mit Jules progressiver, ökologischer und queerer Haltung, insbesondere beim konsequenten Klimaschutz, sozialer Wohnungspolitik und dem Schutz von Minderheiten. Lediglich bei den polizeilichen Sicherheitsvorgaben sowie dem pauschalen Verbot von Windkraft im Wald zeigt sich Jule kompromisslos und kritisiert diese Positionen deutlich. Insgesamt fühlt sie sich von der Partei aber in ihren Kernanliegen sehr gut vertreten.",
+    "score": 2
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T13:03:06Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich ohne Grunderwerbsteuer bauen!",
+      "thema": "steuern",
+      "programmpunkt": "Die SPD plant, Familien und Einzelpersonen, die zum ersten Mal eine Immobilie erwerben, von der Grunderwerbsteuer zu befreien.",
+      "seite": 54,
+      "zitat": "Befreiung des Ersterwerbs von Immobilien von der Grunderwerbsteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sparen mühsam Eigenkapital für den Hauskauf zusammen, wovon ein großer Teil von den Kaufnebenkosten aufgefressen wird. Eine Befreiung von der Grunderwerbsteuer würde ihre Finanzierungslücke auf einen Schlag spürbar verkleinern und den Traum vom eigenen Haus realistischer machen.",
+      "begruendung_selbst": "Das ist genau das, worauf wir warten! Wir verdienen echt nicht schlecht, aber diese absurden Kaufnebenkosten fressen unser ganzes Erspartes. Wenn die Grunderwerbsteuer beim ersten Haus wegfällt, rückt unser Traum endlich wieder in greifbare Nähe."
+    },
+    {
+      "titel_selbst": "Kostenlose Kita heißt mehr Sparrate!",
+      "thema": "familie",
+      "programmpunkt": "Das langfristige Ziel der Partei ist es, die Beiträge für die Kinderbetreuung in Kitas komplett abzuschaffen.",
+      "seite": 28,
+      "zitat": "Beitragsfreiheit bleibt unser Ziel.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die aktuellen Kita-Kosten belasten das Haushaltsbudget der jungen Familie stark und verringern die monatliche Sparrate für das geplante Eigenheim. Eine Abschaffung der Gebühren gäbe ihnen deutlich mehr finanziellen Spielraum für ihr Projekt.",
+      "begruendung_selbst": "Die Kita-Gebühren reißen jeden Monat ein riesiges Loch in unsere Kasse, das Geld fehlt uns einfach beim Sparen fürs Haus. Wenn die Betreuung endlich komplett kostenfrei wird, hätten wir finanziell viel mehr Luft zum Atmen."
+    },
+    {
+      "titel_selbst": "Kita-Zeiten passend für Berufstätige!",
+      "thema": "familie",
+      "programmpunkt": "Es sollen Kitas mit flexiblen Öffnungszeiten, insbesondere für die Randzeiten, ausgebaut werden, um berufstätige Eltern besser zu unterstützen.",
+      "seite": 27,
+      "zitat": "Kitas mit flexiblen Öffnungszeiten auch in Randzeiten benötigt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da beide Partner in Vollzeit arbeiten und weite Pendelstrecken zwischen Wohnort und Arbeit haben, ist eine starre Kita-Betreuung ein massives Problem im Alltag. Flexible und längere Betreuungszeiten würden den familiären Organisationsstress erheblich reduzieren.",
+      "begruendung_selbst": "Wir arbeiten beide voll und pendeln ins Umland, da sind die normalen Kita-Öffnungszeiten oft ein Drahtseilakt. Wenn es endlich mehr Flexibilität in den Randzeiten gäbe, würde das unseren Alltag extrem entlasten."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kein neues Bauland für uns?",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei priorisiert bei der Flächennutzung die Bebauung und Verwertung bestehender Flächen in den Städten anstelle der Ausweisung neuer Baugebiete auf der grünen Wiese.",
+      "seite": 24,
+      "zitat": "Für uns hat Flächenrecycling Vorrang vor weiterer Versiegelung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica suchen dringend bezahlbares Bauland im Speckgürtel, das durch restriktive Ausweisungen ohnehin extrem teuer und knapp ist. Ein politischer Fokus gegen weitere Flächenversiegelung droht das Angebot an klassischen Einfamilienhaus-Grundstücken weiter zu verknappen und die Preise anzuheizen.",
+      "begruendung_selbst": "Wir wollen ein Haus im Grünen bauen und nicht in eine alte Baulücke in der Stadt ziehen. Wenn die Politik jetzt neue Baugebiete blockiert, werden die wenigen Grundstücke im Speckgürtel noch knapper und unbezahlbarer, als sie eh schon sind."
+    },
+    {
+      "titel_selbst": "Für uns gibt's wieder keine Förderung!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei fordert zwar eine neue staatliche Eigenheimzulage, will diese aber strikt auf Familien mit niedrigem Einkommen beschränken.",
+      "seite": 54,
+      "zitat": "Wiederauflage der Eigenheimzulage für Familien mit niedrigen Einkommen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Doppelverdiener mit zwei mittleren Einkommen fallen Tom und Jessica bei dieser Art von sozialen Förderungen klassischerweise durchs Raster. Sie spüren die enormen Baukosten und Zinsen voll, erhalten aber keine staatliche Hilfe, da diese nur für einkommensschwache Haushalte vorgesehen ist.",
+      "begruendung_selbst": "Das ist doch typisch! Wir reißen uns beide in Vollzeit den Hintern auf, zahlen ordentlich Steuern, aber wenn es um Förderung geht, gelten wir als zu reich. Wer normal arbeitet, geht bei solchen Einkommensgrenzen immer leer aus."
+    },
+    {
+      "titel_selbst": "Lasst uns unser hart Erspartes!",
+      "thema": "steuern",
+      "programmpunkt": "Gewinne aus Anlageformen wie Aktien und Zinsen sollen künftig nicht mehr pauschal, sondern mit dem individuellen, bei mittleren Einkommen höheren Einkommensteuersatz versteuert werden.",
+      "seite": 54,
+      "zitat": "Erträge aus Mietimmobilien, Aktien, Kryptowährungen oder Zinsen sollen besteuert werden wie andere Einkommen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar spart mühsam Eigenkapital für den Hauskauf an, wofür sie in Zeiten hoher Baukosten voraussichtlich auch Anlageformen wie ETFs nutzen müssen. Eine höhere Besteuerung dieser Kapitalerträge würde ihren Vermögensaufbau spürbar bremsen.",
+      "begruendung_selbst": "Wir legen unser Geld extra an, um uns bei diesen absurden Preisen irgendwann das Haus leisten zu können. Wenn uns der Staat jetzt auch noch diese Rendite mit einem höheren Steuersatz wegnimmt, wird das mit dem Eigenkapital nie was."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica sehen im Programm der SPD einige sehr attraktive Ansätze, insbesondere die mögliche Befreiung von der Grunderwerbsteuer beim ersten Hauskauf und den Ausbau flexibler Kita-Zeiten. Gleichzeitig fühlen sie sich als gut verdienende, aber beim Hausbau massiv unter Druck stehende Mitte bei Förderungen wie der Eigenheimzulage übergangen. Die geplante stärkere Besteuerung von Aktienerträgen und der grundsätzliche Vorrang für Flächenrecycling statt der Ausweisung neuer Baugebiete torpedieren ihren mühsamen Weg zum Einfamilienhaus im Speckgürtel zusätzlich.",
+    "score": 0
+  }
+}

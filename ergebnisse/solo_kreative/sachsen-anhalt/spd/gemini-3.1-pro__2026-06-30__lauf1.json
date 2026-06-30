@@ -1,0 +1,117 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Faire Bezahlung bei öffentlichen Aufträgen!",
+      "thema": "arbeit",
+      "programmpunkt": "Die SPD will in ihrer Wirtschaftspolitik besonders auf die Situation von Kleinbetrieben und Solo-Selbstständigen eingehen und für gerechte Vergütungen bei Aufträgen sorgen.",
+      "seite": 4,
+      "zitat": "sorgt für faire Vergabe- und Zahlungsbedingungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist bei öffentlichen Aufträgen oft auf faire Bedingungen angewiesen, weshalb das gezielte Eintreten für gerechtere Vergaberegeln und Zahlungsmoral ihre finanzielle Unsicherheit direkt abmildern würde.",
+      "begruendung_selbst": "Endlich sieht eine Partei, dass wir Kleinstunternehmer oft wochenlang auf unser Geld warten oder bei Aufträgen im Preis gedrückt werden. Faire Zahlungsbedingungen sind für mich absolut existenzsichernd."
+    },
+    {
+      "titel_selbst": "Schluss mit der Selbstausbeutung!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei macht die Einhaltung von sozialen Mindeststandards und verbindlichen Mindesthonoraren zur Bedingung für die Vergabe von Kulturförderungen.",
+      "seite": 39,
+      "zitat": "Soziale Mindeststandards und Honoraruntergrenzen sind Voraussetzung öffentlicher Förderung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Kreativschaffende leidet Mareike stark unter der oft prekären Bezahlung in der Branche. Die Koppelung von Kulturförderung an Honoraruntergrenzen schützt sie direkt vor ruinösem Preisdumping.",
+      "begruendung_selbst": "Es bringt mir nichts, wenn tolle Kulturprojekte gefördert werden, ich als Designerin am Ende aber für einen Hungerlohn arbeite. Honoraruntergrenzen nehmen den Druck raus, mich ständig unter Wert verkaufen zu müssen."
+    },
+    {
+      "titel_selbst": "Weniger Steuern für meine Existenz!",
+      "thema": "steuern",
+      "programmpunkt": "Auf Bundesebene setzt sich die SPD dafür ein, dass die Abgabenlast für untere Einkommensgruppen sinkt, damit Beschäftigte und Selbstständige spürbar entlastet werden.",
+      "seite": 54,
+      "zitat": "Selbständige und Arbeitnehmer „mehr netto vom brutto“ erhalten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Angesichts ihrer stark schwankenden und im Jahresmittel eher niedrigen Einkünfte ist eine Senkung der Abgaben für Mareike essenziell, um überhaupt finanzielle Puffer aufbauen zu können.",
+      "begruendung_selbst": "Meine Einnahmen fahren Achterbahn, aber die Abgaben bleiben hoch. Wenn am Ende des Monats wirklich spürbar mehr Netto auf dem Konto bleibt, rettet mich das eher über die nächsten Flauten."
+    },
+    {
+      "titel_selbst": "Förderanträge ohne Papierkrieg!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm kündigt an, bürokratische Hürden bei Förderprogrammen abzubauen und digitale, einfachere Nachweisverfahren für Betriebe einzuführen.",
+      "seite": 4,
+      "zitat": "Förderprogramme werden durch geringere Antragsanforderungen und digitale Nachweisverfahren zugänglicher gestaltet.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist oft mit der Verwaltung überfordert, da ihr als Soloselbstständige die Ressourcen für komplexe Anträge fehlen. Digitale und vereinfachte Verfahren senken diese kritische Hürde für sie enorm.",
+      "begruendung_selbst": "Als Ein-Frau-Betrieb habe ich keine eigene Buchhaltungsabteilung. Wenn ich für jeden Euro Förderung wochenlang Formulare wälzen muss, gebe ich auf. Digitale und einfache Anträge sind ein echter Segen."
+    },
+    {
+      "titel_selbst": "Endlich zahlen die Superreichen!",
+      "thema": "steuern",
+      "programmpunkt": "Die SPD fordert eine Vermögenssteuer für sehr große Vermögen ab 100 Millionen Euro, um damit unter anderem die Gesellschaft solidarisch zu stützen.",
+      "seite": 54,
+      "zitat": "eine Steuer von 2% auf Vermögen über 100 Millionen Euro",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike steht reiner Marktlogik äußerst kritisch gegenüber. Dass Multimillionäre stärker in die Pflicht genommen werden, entspricht voll ihrem Gerechtigkeitsempfinden und ihrem Wunsch nach fairen Lasten.",
+      "begruendung_selbst": "Es kann nicht sein, dass ich jeden Monat um meine Krankenversicherung zittere, während andere Millionen anhäufen, ohne einen fairen Beitrag zur Gesellschaft zu leisten. Das ist nur gerecht."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ich soll für fremde Azubis zahlen?",
+      "thema": "arbeit",
+      "programmpunkt": "Zur Finanzierung der beruflichen Ausbildung plant die Partei einen solidarischen Ausbildungsfonds, in den grundsätzlich alle Unternehmen einzahlen sollen.",
+      "seite": 9,
+      "zitat": "ein solidarisches Finanzierungssystem, in das alle Unternehmen einzahlen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Soloselbstständige ohne Kapazitäten für eigene Auszubildende befürchtet Mareike, durch diesen Fonds mit einer neuen Abgabe belastet zu werden, die ihren finanziellen Druck weiter verschärft.",
+      "begruendung_selbst": "Solidarität ist ja gut, aber ich kämpfe selbst oft ums Überleben. Ich habe weder den Platz noch das Geld für Azubis. Wenn ich in diesen Fonds einzahlen muss, schnürt mir das finanziell weiter die Luft ab."
+    },
+    {
+      "titel_selbst": "Meine magere Altersvorsorge besteuern?",
+      "thema": "steuern",
+      "programmpunkt": "Gewinne aus privaten Geldanlagen wie Aktien oder Kryptowährungen sollen nach dem Willen der SPD zukünftig genau wie reguläres Einkommen voll versteuert werden.",
+      "seite": 54,
+      "zitat": "Aktien, Kryptowährungen oder Zinsen sollen besteuert werden wie andere Einkommen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Da sie aufgrund ihres unsteten Einkommens kaum staatliche Altersvorsorge hat und privat vorsorgen muss, bedroht eine höhere Steuer ihre ohnehin dünne Absicherung durch kleine Aktien- oder ETF-Ersparnisse.",
+      "begruendung_selbst": "Ich falle aus dem gesetzlichen Rentensystem oft raus und muss mühsam jeden Monat etwas in ETFs stecken, um im Alter nicht bettelarm zu sein. Wenn ihr das jetzt voll als Einkommen besteuert, nehmt ihr mir meine einzige Reserve!"
+    },
+    {
+      "titel_selbst": "Und wer baut Wohnungen für mich?",
+      "thema": "wohnen",
+      "programmpunkt": "Der soziale Wohnungsbau soll sich vor allem auf bestimmte Zielgruppen fokussieren, darunter insbesondere Familien, Auszubildende, Studierende und Senioren.",
+      "seite": 43,
+      "zitat": "insbesondere für altersgerechte und barrierefreie Wohnungen, Wohnraum für Familien",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike sucht als Single mit teils sehr niedrigem Einkommen ebenfalls nach bezahlbarem Wohnraum in der Stadt, sieht ihre Demografie in den Förderprioritäten der Partei jedoch komplett ignoriert.",
+      "begruendung_selbst": "Da zeigt es sich wieder: Ich passe in keine Schublade. Ich bin keine Familie, kein Student mehr und nicht in Rente. Bezahlbaren Wohnraum brauche ich mit meinem Einkommen trotzdem dringend, werde aber einfach vergessen."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet im SPD-Programm viele Ansätze, die ihre prekäre Lage als Soloselbstständige direkt adressieren, insbesondere die Forderung nach Honoraruntergrenzen in der Kultur, fairen Vergabebedingungen und steuerlicher Entlastung. Positiv fällt ihr auch der Wille zur Entbürokratisierung von Förderungen und zur stärkeren Besteuerung von Millionenvermögen auf. Gleichzeitig frustriert sie, dass sie bei klassischen Sozialmaßnahmen wie dem sozialen Wohnungsbau wieder durch das Raster fällt und Pläne wie ein allgemeiner Ausbildungsfonds oder die volle Besteuerung von Aktienerträgen ihre ohnehin dünne Eigenvorsorge potenziell gefährden.",
+    "score": 1
+  }
+}

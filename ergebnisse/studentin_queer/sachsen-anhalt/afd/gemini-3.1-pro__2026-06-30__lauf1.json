@@ -1,0 +1,94 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mein Körper, meine Entscheidung!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei diffamiert die Sichtbarkeit von Trans- und queeren Lebensweisen und fordert ein Verbot geschlechtsangleichender Behandlungen bei Jugendlichen.",
+      "seite": 4,
+      "zitat": "Keine Pubertätsblocker und geschlechtsangleichenden Hormontherapien für Kinder und Jugendliche!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht ihre eigene hart erkämpfte Identität und die Freiheiten queerer Jugendlicher durch diese aggressive Ablehnung von Transitionen direkt bedroht.",
+      "begruendung_selbst": "Wenn sie Trans-Jugendlichen die nötige medizinische Hilfe verbieten wollen, greifen sie unsere grundlegendsten Rechte auf Selbstbestimmung an. Das macht mir wirklich Angst!"
+    },
+    {
+      "titel_selbst": "Wissenschaftsfreiheit wird hier abgeschafft!",
+      "thema": "bildung",
+      "programmpunkt": "Die AfD will Genderstudien an den Universitäten komplett abschaffen, da sie diese als reine politische Ideologie betrachtet.",
+      "seite": 8,
+      "zitat": "Genderstudien abschaffen!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule als Sozialwissenschafts-Studentin ist die geforderte Abschaffung kritischer und emanzipatorischer Lehrstühle ein direkter Eingriff in die akademische Freiheit und ihre Werte.",
+      "begruendung_selbst": "Das ist ein absoluter Angriff auf meine Wissenschaftsfreiheit! Die wollen einfach alle kritischen Perspektiven auf Gesellschaft und Geschlecht von der Uni verbannen."
+    },
+    {
+      "titel_selbst": "Meine Zukunft wird einfach verkauft!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei prangert den Ausbau von erneuerbaren Energien als Landschaftsverschandelung an und positioniert sich gegen die Energiewende.",
+      "seite": 3,
+      "zitat": "Zerstörung der Umwelt durch Windräder und Solaranlagen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule empfindet die Ablehnung der Energiewende als direkte Gefährdung ihrer eigenen Zukunft und einen Verrat an den Zielen der Klimagerechtigkeit.",
+      "begruendung_selbst": "Erneuerbare Energien als Umweltzerstörung zu bezeichnen, ist blanker Hohn. Die ignorieren die Klimakrise komplett und verspielen damit rücksichtslos meine Zukunft."
+    },
+    {
+      "titel_selbst": "Studium nur noch für Reiche!",
+      "thema": "bildung",
+      "programmpunkt": "Das aktuelle, sozial gestaffelte BAföG-System soll zugunsten eines reinen Leistungsstipendiums abgeschafft werden, das unabhängig vom Einkommen der Eltern vergeben wird.",
+      "seite": 8,
+      "zitat": "alternativ zu dem Bafög-System eine Landesförderung aufbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als BAföG-Empfängerin mit ohnehin knappem Budget wäre Jule von dieser Umstellung existenziell bedroht, da soziale Bedürftigkeit keine Rolle mehr spielen soll.",
+      "begruendung_selbst": "Ich komme nur dank BAföG finanziell überhaupt über die Runden. Wenn sie das durch ein reines Leistungsstipendium ersetzen, kann ich mein Studium direkt abbrechen!"
+    },
+    {
+      "titel_selbst": "Ausgrenzung pur!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei wendet sich gegen jede Förderung und gesellschaftliche Normalisierung von Familienmodellen abseits von Vater, Mutter und Kind, wie etwa Alleinerziehenden oder Regenbogenfamilien.",
+      "seite": 4,
+      "zitat": "sogenannte „Einelternfamilien“ als normalen, fortschrittlichen oder gar erstrebenswerten Lebensentwurf zu propagieren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht in der Herabwürdigung von Alleinerziehenden und anderen Familienmodellen ein massiv ausgrenzendes Gesellschaftsbild, das Minderheiten systematisch diskriminiert.",
+      "begruendung_selbst": "Dass sie Alleinerziehenden und queeren Paaren absprechen, eine 'richtige' Familie zu sein, ist einfach nur diskriminierend und weltfremd."
+    },
+    {
+      "titel_selbst": "Demokratie an der Uni abschaffen?",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will den Einfluss der Studentenräte an Hochschulen stark einschränken, da sie diese als von linken Minderheiten dominiert ansieht.",
+      "seite": 8,
+      "zitat": "insbesondere den Einfluss der Studentenräte zurückdrängt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als engagierte Studentin sieht Jule die geplante Entmachtung studentischer Gremien als massiven Abbau demokratischer Mitbestimmung an der Hochschule.",
+      "begruendung_selbst": "Studentenräte setzen sich für unsere sozialen Belange ein! Wenn die AfD uns diese demokratische Stimme nimmt, sind wir den Strukturen an der Uni komplett ausgeliefert."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der AfD Sachsen-Anhalt steht in fundamentalem und durchgehendem Widerspruch zu Jules Werten und Lebensrealität. Ihre klimapolitischen Überzeugungen, ihre Identität als queere Person sowie ihre finanzielle Absicherung als BAföG-Empfängerin werden durch das Programm aktiv angegriffen und abgelehnt. Es gibt keinen einzigen Punkt, der ihre Interessen oder ihre Situation in der Hochschule positiv aufgreift.",
+    "score": -2
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Der Arzt kommt zu uns!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will die ärztliche Versorgung auf dem Land durch rollende Arztpraxen und Facharzt-Busse sicherstellen.",
+      "seite": 64,
+      "zitat": "etablieren wir „rollende Arztpraxen“ und spezialisierte Facharzt-Busse",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter machen sich große Sorgen um die zukünftige ärztliche Versorgung in ihrem Dorf. Das Konzept von mobilen Fachärzten lindert diese Zukunftsangst enorm und verspricht Verlässlichkeit.",
+      "begruendung_selbst": "Unser Hausarzt ist auch nicht mehr der Jüngste. Wenn in Zukunft ein Facharzt-Bus direkt zu uns aufs Dorf kommt, fällt die beschwerliche Fahrerei in die Stadt weg – das wäre ein Segen!"
+    },
+    {
+      "titel_selbst": "Endlich wieder Polizei auf Streife!",
+      "thema": "sicherheit",
+      "programmpunkt": "Durch eine bessere Aufgabenverteilung und Kooperationen mit Ordnungsämtern soll die Polizeipräsenz in Stadt und Land sichtbar erhöht werden.",
+      "seite": 52,
+      "zitat": "Wir sorgen für sichtbar mehr Polizei in Stadt und Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar legt großen Wert auf Sicherheit und Ordnung. Das Versprechen, wieder mehr sichtbare Polizisten auch in ländlichen Gebieten einzusetzen, trifft genau ihr Bedürfnis nach Schutz und staatlicher Präsenz.",
+      "begruendung_selbst": "Man sieht hier draußen ja heute kaum noch einen Streifenwagen. Wenn sich wieder mehr Polizisten bei uns blicken lassen und nach dem Rechten sehen, fühlen wir uns abends in unserem Haus gleich viel sicherer."
+    },
+    {
+      "titel_selbst": "Das Leben billiger machen!",
+      "thema": "steuern",
+      "programmpunkt": "Die Mehrwertsteuer auf Lebensmittel und Artikel der Grundversorgung soll komplett abgeschafft werden.",
+      "seite": 9,
+      "zitat": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die beiden Ruheständler müssen mit ihren kleinen gesetzlichen Renten gut wirtschaften und spüren Preissteigerungen sofort. Die Streichung der Mehrwertsteuer auf Lebensmittel würde ihre angespannte Haushaltskasse spürbar entlasten.",
+      "begruendung_selbst": "Die Preise im Supermarkt sind ja kaum noch zu bezahlen, da müssen wir jeden Cent zweimal umdrehen. Wenn die Steuer aufs Essen wegfällt, bleibt am Monatsende wenigstens etwas mehr von unserer Rente übrig."
+    },
+    {
+      "titel_selbst": "Hilfe beim altersgerechten Umbau!",
+      "thema": "wohnen",
+      "programmpunkt": "Der Staat soll Rahmenbedingungen schaffen, die den barrierefreien Umbau von bestehenden Wohngebäuden erleichtern.",
+      "seite": 39,
+      "zitat": "Deshalb wollen wir deren Schaffung erleichtern, sowohl im Neubau als auch im Bestand.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihr größtes Kapital und ihr Lebensmittelpunkt ist ihr Eigenheim aus dem Jahr 1981. Die Erleichterung beim barrierefreien Umbau unterstützt ihren zentralen Wunsch, so lange wie möglich selbstbestimmt im eigenen Haus zu leben.",
+      "begruendung_selbst": "Unser Haus haben wir damals selbst hochgezogen, aber fürs Alter ist das Bad natürlich nicht gemacht. Wenn man uns beim Umbau unter die Arme greift, müssen wir später nicht ins Pflegeheim und können hier bleiben."
+    },
+    {
+      "titel_selbst": "Zusammenhalt im Dorf stärken!",
+      "thema": "familie",
+      "programmpunkt": "Zivilgesellschaftliche Initiativen wie Nachbarschaftshilfen und Begegnungsorte für Ältere sollen gezielt unterstützt werden, um sozialer Isolation vorzubeugen.",
+      "seite": 39,
+      "zitat": "wollen wir Orte der Begegnung fördern, um zivilgesellschaftlichen Initiativen Raum zu geben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da ihre Kinder nicht mehr in der Nähe wohnen, sind sie auf eine funktionierende Dorfgemeinschaft angewiesen. Die Förderung solcher Treffpunkte und Nachbarschaftshilfen gibt ihnen sozialen Halt und beugt der gefürchteten Vereinsamung vor.",
+      "begruendung_selbst": "Die Kinder sind weit weg, da ist man froh um jeden Kontakt hier im Ort. Wenn das Dorfleben und unsere Nachbarschaftshilfe unterstützt werden, fühlt man sich nicht so alleingelassen und abgehängt."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Steuerersparnis nützt uns gar nichts!",
+      "thema": "energie",
+      "programmpunkt": "Zur Förderung von energetischen Sanierungen setzt die Partei vorrangig auf steuerliche Abschreibungen statt auf direkte staatliche Förderzuschüsse.",
+      "seite": 12,
+      "zitat": "setzen wir auf steuerliche Investitionsanreize statt auf Förderbürokratie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar hat panische Angst vor teuren energetischen Sanierungspflichten für ihr altes Haus. Der Ansatz der FDP, Investitionen über Steuervorteile anzureizen, geht an ihrer Realität völlig vorbei, da sie mit ihren geringen Renten keine nennenswerten Steuern zahlen.",
+      "begruendung_selbst": "Wir zahlen doch mit unserer kleinen Rente so gut wie gar keine Einkommenssteuer mehr. Was hilft es uns da, wenn wir eine neue Heizung oder ein neues Dach von der Steuer absetzen können? Ohne direkte Zuschüsse bricht uns das finanziell das Genick."
+    },
+    {
+      "titel_selbst": "Kein Brief mehr ans Amt?",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungsleistungen sollen künftig ausschließlich digital angeboten werden, der klassische Weg über die Post soll komplett entfallen.",
+      "seite": 49,
+      "zitat": "diese ausschließlich digital anbieten können – der Postweg oder die E-Mail entfällt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dieter und Helga sind nicht sehr digitalaffin und erledigen behördliche Dinge lieber auf dem gewohnten Papierweg. Dass der Briefverkehr mit Ämtern gestrichen werden soll, empfinden sie als überfordernden Zwang, auch wenn es Alternativen vor Ort geben soll.",
+      "begruendung_selbst": "Wir haben uns an die Formulare aus Papier gewöhnt und schicken das immer ordentlich per Post. Wenn wir das jetzt am Computer machen sollen, womit wir uns gar nicht auskennen, oder jedes Mal extra ins Rathaus fahren müssen, ist das eine reine Zumutung."
+    },
+    {
+      "titel_selbst": "Schon wieder Börsenspiele!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflegeversicherung soll durch ein kapitalgedecktes System ergänzt und die private Eigenvorsorge für den Pflegefall gestärkt werden.",
+      "seite": 70,
+      "zitat": "ein kapitalgedecktes Element muss wie bei der Krankenversicherung ergänzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar fürchtet unkalkulierbare Pflegekosten, die sie sich nicht leisten können. Der Verweis auf Kapitaldeckung und private Vorsorge schreckt sie ab, da sie keine Rücklagen haben und dem Finanzmarkt aufgrund ihres Sicherheitsbedürfnisses zutiefst misstrauen.",
+      "begruendung_selbst": "Wir haben ein Leben lang gearbeitet und keine Ersparnisse, um jetzt noch privat für die Pflege vorzusorgen. Kapitalgedeckt, das heißt doch wieder nur, dass unsere Absicherung von irgendwelchen Börsen abhängt – das wollen wir auf keinen Fall."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Rentnerpaar findet im FDP-Programm durchaus positive Ansätze. Insbesondere die Pläne für mobile Arztpraxen, eine höhere Polizeipräsenz auf dem Land und die Streichung der Mehrwertsteuer auf Lebensmittel lindern ihre größten Alltagssorgen. Gleichzeitig stoßen die marktliberalen Kernkonzepte der FDP bei Helga und Dieter auf tiefe Ablehnung: Die Ausrichtung der Pflege auf kapitalgedeckte private Vorsorge, der rein digitale Behördenverkehr und die Förderung von energetischen Sanierungen ausschließlich über Steuervorteile gehen an ihrer finanziellen und digitalen Lebensrealität vorbei.",
+    "score": 0
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Schluss mit der Rendite-Logik!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will Krankenhäuser nach Bedarf statt nach Profit finanzieren und die Fallpauschalen abschaffen.",
+      "seite": 48,
+      "zitat": "Krankenhäuser sollen nach Bedarf und Qualität finanziert und organisiert werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra lehnt die Ökonomisierung der Medizin ab, da sie aus ihrer Sicht der ländlichen Grundversorgung schadet. Die Forderung der Partei, die Profitlogik im Krankenhauswesen zu beenden, trifft genau ihre Überzeugung, dass Daseinsvorsorge vor Wirtschaftlichkeit gehen muss.",
+      "begruendung_selbst": "Ich sehe doch jeden Tag, wie die Jagd nach Fallzahlen die Versorgung kaputtmacht. Ein Krankenhaus auf dem Land rechnet sich oft nicht, muss aber trotzdem für meine Patienten da sein."
+    },
+    {
+      "titel_selbst": "Endlich über Sektoren hinausdenken!",
+      "thema": "gesundheit",
+      "programmpunkt": "Um die ärztliche Versorgung zu sichern, sollen sektorenübergreifende Modelle gefördert und ambulante sowie stationäre Angebote verzahnt werden.",
+      "seite": 52,
+      "zitat": "die Angebote der ambulanten und stationären Versorgung zu verknüpfen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Einzelkämpferin auf dem Land spürt Petra den Mangel an Kooperationsmöglichkeiten mit Kliniken. Dass die Trennung zwischen ambulanter und stationärer Versorgung aufgebrochen werden soll, kommt ihrer pragmatischen Arbeitsrealität entgegen.",
+      "begruendung_selbst": "Das fordere ich seit Jahren! Wenn hier weit und breit kein Facharzt mehr ist, muss ich unkompliziert mit den Kliniken zusammenarbeiten können, ohne neue Antragsberge zu produzieren."
+    },
+    {
+      "titel_selbst": "So kriegen wir vielleicht Nachwuchs!",
+      "thema": "gesundheit",
+      "programmpunkt": "Dem Landarztmangel soll durch die Einführung von ärztlichen Landeskinderquoten und besseren Haltefaktoren für Nachwuchskräfte begegnet werden.",
+      "seite": 55,
+      "zitat": "Wir wirken dem Fachärztemangel durch weitere Landarztquoten, wie bspw. für Kinder- und Zahnärzte, entgegen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre größte Sorge ist die fehlende Praxisnachfolge. Maßnahmen, die gezielt Ärztinnen und Ärzte an das Land binden sollen, geben ihr Hoffnung für die zukünftige Betreuung ihrer Patientenschaft.",
+      "begruendung_selbst": "Wenn ich in Rente gehe, steht hier niemand bereit. Wir müssen endlich den Nachwuchs dazu bringen, auch mal in die ländlichen Regionen zu gehen."
+    },
+    {
+      "titel_selbst": "Meine Patienten müssen ankommen!",
+      "thema": "verkehr",
+      "programmpunkt": "Der öffentliche Nahverkehr soll gerade in dünn besiedelten Regionen stark ausgebaut und langfristig kostenfrei angeboten werden.",
+      "seite": 101,
+      "zitat": "in allen Regionen, besonders aber in den dünn besiedelten Regionen den ÖPNV ausbauen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sorgt sich um die Erreichbarkeit ihrer Praxis für ältere, nicht mehr mobile Menschen. Ein dichteres Busnetz würde vielen ihrer ländlichen Patientinnen und Patienten den beschwerlichen Weg zur Sprechstunde erleichtern.",
+      "begruendung_selbst": "Ich habe alte Patienten, die mich kaum noch erreichen können, wenn die Verwandtschaft nicht fährt. Ein verlässlicher Bus wäre für diese Senioren ein echtes Stück Lebensqualität."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Staatlich heißt oft nur bürokratisch!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm setzt stark auf die Überführung von privatisierter Gesundheitsinfrastruktur in öffentliche und kommunale Trägerschaft.",
+      "seite": 49,
+      "zitat": "Wir engagieren uns für eine Überführung privater Krankenhäuser in die öffentliche Hand.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl Petra die Profitgier ablehnt, ist sie als Freiberuflerin skeptisch gegenüber Verstaatlichungsideen. Sie befürchtet, dass noch mehr staatliche Steuerung im Gesundheitswesen letztlich nur in mehr Bürokratie und starren Vorgaben endet.",
+      "begruendung_selbst": "Ich bin auch gegen Renditejäger, aber ob der Staat das besser managt? Ich brauche Freiheiten für meine ärztliche Arbeit und nicht den nächsten landeseigenen Verwaltungskoloss."
+    },
+    {
+      "titel_selbst": "Funktioniert doch sowieso nicht!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Der Ausbau von Videosprechstunden und Telemedizin wird gefordert, ohne jedoch den von Hausärzten bemängelten Umsetzungsaufwand der Infrastruktur zu adressieren.",
+      "seite": 150,
+      "zitat": "in der Telemedizin digitale Sprechstunden in mindestens 50 Prozent aller Hausarztpraxen ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Petra ist die staatlich verordnete Digitalisierung belastend, da Anwendungen in der Praxis oft streiken. Die bloße Vorgabe von Telemedizin-Quoten geht an ihrer Realität einer unzureichenden Infrastruktur vorbei.",
+      "begruendung_selbst": "Die fordern Vorgaben für digitale Sprechstunden, aber bei mir hängt sich dreimal am Tag die Technik auf. Solange das nicht reibungslos läuft, bringt mir diese Zielvorgabe gar nichts."
+    },
+    {
+      "titel_selbst": "Die ärztliche Verantwortung bleibt!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will die Kompetenzen und Behandlungsbefugnisse von Pflegekräften, Apothekern und Therapeuten ausweiten.",
+      "seite": 54,
+      "zitat": "Wir wollen die Befugnisse der Heilberufe ausweiten und eine flächendeckende Versorgung gewährleisten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Hausärztin mit starkem Berufsethos sieht Petra die Ausweitung ärztlicher Leistungen auf andere kritisch. Sie pocht auf die ärztliche Diagnosehoheit und fürchtet einen Qualitätsverlust der Behandlung.",
+      "begruendung_selbst": "Ich trage am Ende die Verantwortung für den Patienten. Wenn jetzt auch andere Berufsgruppen ohne mein Wissen heilen und behandeln, verliere ich den medizinischen Überblick über meine Patienten."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra findet im Wahlprogramm der Linken eine starke Betonung der staatlichen Daseinsvorsorge, die ihrer Forderung nach einer Abkehr von der Profitlogik im Gesundheitswesen entgegenkommt. Auch der geplante Ausbau der sektorenübergreifenden Versorgung und die Maßnahmen gegen den Landarztmangel treffen auf ihre Zustimmung. Gleichzeitig steht sie der starken Fokussierung auf staatliche Strukturen sowie der pauschalen Ausweitung von Telemedizin skeptisch gegenüber, da sie darin neue bürokratische Hürden und Praxisferne sieht.",
+    "score": 1
+  }
+}

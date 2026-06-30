@@ -1,0 +1,106 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine Rendite mit der Pflege!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will den Aufkauf von Pflegeeinrichtungen und medizinischen Zentren durch profitorientierte private Investoren unterbinden und diese wieder in gemeinnützige oder öffentliche Hand überführen.",
+      "seite": 56,
+      "zitat": "Pflegeeinrichtungen konsequent in öffentliche oder gemeinnützige Trägerschaft überführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich die negative Seite der Ökonomisierung im Gesundheitssystem. Die Forderung, Pflegeeinrichtungen dem Renditedruck zu entziehen, deckt sich exakt mit ihrer Überzeugung, dass Pflege keine Ware sein darf.",
+      "begruendung_selbst": "Endlich sagt mal jemand klipp und klar, dass unsere Heime und Kliniken keine Geldanlagen sind! Wenn die Investoren ihre Gewinne rausziehen, fehlt uns auf Station das Geld für Personal und Ausstattung."
+    },
+    {
+      "titel_selbst": "Die Politik macht sich ehrlich!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke benennt die chronische Überlastung des medizinischen Personals schonungslos als direkte Folge politischer Kürzungs- und Sparmaßnahmen.",
+      "seite": 51,
+      "zitat": "Die bisherige verfehlte Sparpolitik hat die Überlastung des Personals bewusst in Kauf genommen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin ist frustriert von politischen Lippenbekenntnissen ohne echte Taten. Dass die Partei die Ursachen der Pflegekrise klar beim systematischen Sparen verortet, gibt ihr das Gefühl, mit ihrer harschen Realität gesehen zu werden.",
+      "begruendung_selbst": "Wenigstens mal keine Sonntagsreden! Dieses ewige Kaputtsparen hat uns doch erst in diese Notlage gebracht. Klatschen hilft mir im Dienst nicht, wir brauchen endlich Politiker, die ihre eigenen Fehler einsehen und korrigieren."
+    },
+    {
+      "titel_selbst": "Tariflohn statt Ausbeutung!",
+      "thema": "arbeit",
+      "programmpunkt": "Zuschläge für belastende Schichten an Feiertagen oder in der Nacht sollen strikt nach Tarif bezahlt und nicht durch schlechtere Hausverträge abgewertet werden dürfen.",
+      "seite": 86,
+      "zitat": "keine Abwertung unter Tarif von Zuschlägen für Nacht- und Schichtarbeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Pflegekraft in Wechselschicht ist Kerstin für ein anständiges Einkommen direkt auf gerechte Zuschläge angewiesen. Die tarifliche Absicherung honoriert die hohe körperliche und zeitliche Belastung in ihrem Arbeitsalltag.",
+      "begruendung_selbst": "Die Nacht- und Wochenendschichten rauben mir oft die letzte Kraft und Zeit mit meiner Familie. Es ist nur fair und absolut notwendig, dass diese Knochenarbeit auch durch ordentliche Zuschläge verlässlich belohnt wird."
+    },
+    {
+      "titel_selbst": "Mehr Zeit zum Durchatmen!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke setzt sich für einen gesetzlichen Mindestanspruch von sechs Wochen Jahresurlaub für alle Beschäftigten ein.",
+      "seite": 86,
+      "zitat": "sechs Wochen Urlaub für alle Beschäftigten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Durch die ständige Unterbesetzung kommt die Erholung bei Kerstin im Alltag massiv zu kurz. Mehr verlässliche Urlaubszeit ist für sie essenziell, um gesund zu bleiben und ihren belastenden Job langfristig durchhalten zu können.",
+      "begruendung_selbst": "Bei dem ständigen Einspringen und der Hetze auf Station brauche ich dringend mehr längere Erholungsphasen. Sechs Wochen garantierter Urlaub wären ein echter Segen, um nicht irgendwann völlig auszubrennen."
+    },
+    {
+      "titel_selbst": "Schnellere Anerkennung für meine Kolleginnen!",
+      "thema": "integration",
+      "programmpunkt": "Im Ausland erworbene Berufsabschlüsse sollen unbürokratisch und rasch, maximal innerhalb von einem halben Jahr, anerkannt werden.",
+      "seite": 98,
+      "zitat": "Ausländische Berufsabschlüsse werden innerhalb von sechs Monaten anerkannt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Kerstins Station stark auf migrantische Kolleginnen angewiesen ist, würde ein schnelleres Anerkennungsverfahren die Personalsituation zügig entspannen und dem gesamten Team die dringend benötigte Entlastung bringen.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland könnten wir unsere Station längst dichtmachen. Es ist höchste Zeit, dass man ihnen keine Steine mehr in den Weg legt und sie nicht monatelang in der Bürokratie festhängen lässt!"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wer soll die Arbeit dann machen?",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert pauschal eine Verkürzung der wöchentlichen Arbeitszeit auf 35 Stunden bei vollem Lohnausgleich.",
+      "seite": 86,
+      "zitat": "langfristig die Einführung der 35-Stunden-Woche bei vollem Lohn",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl sich Kerstin Entlastung wünscht, betrachtet sie Forderungen nach Arbeitszeitverkürzungen angesichts fehlender Fachkräfte als kontraproduktiv. Sie befürchtet, dass dadurch die verbleibende Arbeit von noch weniger Personal in kürzerer Zeit bewältigt werden müsste.",
+      "begruendung_selbst": "35 Stunden klingen auf dem Papier ja toll, aber wer lagert und wäscht in der restlichen Zeit die Patienten? Wir kriegen die Dienstpläne heute schon nicht voll. Weniger Stunden bei gleichem Personal heißt für mich nur noch mehr Rennen."
+    },
+    {
+      "titel_selbst": "Wir brauchen Leute am Bett, nicht im Hörsaal!",
+      "thema": "bildung",
+      "programmpunkt": "Die Pflegeausbildung soll perspektivisch aufgewertet und zunehmend akademisiert werden.",
+      "seite": 51,
+      "zitat": "ihre perspektivische Akademisierung sollen ebenso durchgesetzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als praktisch ausgebildete Fachkraft blickt Kerstin skeptisch auf den Trend, den Pflegeberuf an die Hochschulen zu verlagern. Sie befürchtet eine Entwertung der praktischen Handgriffe und noch größere personelle Engpässe durch akademische Einstiegshürden.",
+      "begruendung_selbst": "Noch mehr Akademisierung bringt uns auf der Station überhaupt nichts. Wir brauchen zupackende, handwerklich gut ausgebildete Kolleginnen für die Basisversorgung und keine studierten Theoretiker, die sich für die echte Arbeit am Patienten zu schade sind."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet in dem Programm der Linken eine starke inhaltliche Bestätigung ihrer eigenen beruflichen Erfahrungen und Hoffnungen. Die strikte Ablehnung von Privatisierungen im Gesundheitswesen, der klare Fokus auf Tarifbindung und die rasche Anerkennung ausländischer Fachkräfte adressieren genau ihre zentralen Sorgen aus dem Stationsalltag. Lediglich Forderungen nach einer pauschalen Arbeitszeitverkürzung und die geplante Akademisierung der Pflege sieht sie aus der harten, chronisch unterbesetzten Praxis heraus kritisch, da sie eine weitere Verdichtung der anfallenden Arbeit befürchtet.",
+    "score": 2
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mein Auto bleibt mein Auto!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei fordert den endgültigen Stopp des Verbrenner-Verbots auf Bundesebene.",
+      "seite": 13,
+      "zitat": "Eine AfD-geführte Landesregierung wird sich im Bundesrat für den endgültigen Stopp des Verbrenner-Verbotes einsetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist auf sein Auto angewiesen und sieht keine finanzielle Möglichkeit für ein E-Auto. Der Erhalt des Verbrenners sichert seine Mobilität und seinen Arbeitsweg.",
+      "begruendung_selbst": "Endlich jemand, der versteht, dass wir auf dem Land nicht einfach aufs Fahrrad umsteigen können! Ich brauche meinen Verbrenner, um auf Schicht zu kommen."
+    },
+    {
+      "titel_selbst": "Endlich Entlastung an der Zapfsäule!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will sich im Bundesrat für eine deutliche Absenkung der Energiesteuer auf Kraftstoffe bis auf den EU-Mindestsatz einsetzen.",
+      "seite": 13,
+      "zitat": "dass die Energiesteuer für Kraftstoffe auf den EU-Mindestsatz abgesenkt wird.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die hohen Spritkosten belasten Toralfs Haushaltsbudget stark. Eine Steuersenkung bei Kraftstoffen würde ihm direkt finanziell helfen.",
+      "begruendung_selbst": "Das ist genau mein Reden! Die Spritpreise fressen mein Gehalt auf, bevor der Monat richtig angefangen hat. Eine Steuersenkung ist längst überfällig."
+    },
+    {
+      "titel_selbst": "Schluss mit der Klima-Strafsteuer!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei setzt sich für die komplette Streichung der CO2-Steuer ein, um die Verbraucher finanziell zu entlasten.",
+      "seite": 13,
+      "zitat": "wird sich eine AfD-geführte Landesregierung im Bundesrat für die Streichung der CO₂-Steuer einsetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf empfindet die CO2-Bepreisung als direkten Angriff auf seinen Geldbeutel, da er weder beim Heizen noch beim Pendeln einfache Alternativen hat.",
+      "begruendung_selbst": "Ich zahle mich dumm und dämlich für diese sogenannte Klima-Abgabe. Es ist gut, dass das weg soll, davon haben wir kleinen Leute sowieso nichts."
+    },
+    {
+      "titel_selbst": "Sicherheit für meinen Arbeitsplatz!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert ein Ende des Emissionshandels, um die Deindustrialisierung zu stoppen und heimische Industriearbeitsplätze zu erhalten.",
+      "seite": 13,
+      "zitat": "alle Initiativmöglichkeiten ausschöpfen, um auf die Abschaffung des Emissionshandels hinzuwirken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Facharbeiter in der Industrie macht sich Toralf Sorgen um die Zukunft seines Jobs. Er teilt die Befürchtung, dass Klimapolitik die Industrie und damit seine Existenzgrundlage gefährdet.",
+      "begruendung_selbst": "Wenn die Industrie abwandert, weil Energie und CO2 zu teuer werden, stehe ich auf der Straße. Jemand muss endlich die Wirtschaft schützen, anstatt sie kaputtzumachen."
+    },
+    {
+      "titel_selbst": "Vielleicht fährt hier doch mal ein Bus!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei verspricht einen Ausbau des öffentlichen Nahverkehrs in der Fläche und will Streichungen von Buslinien verhindern.",
+      "seite": 15,
+      "zitat": "Ebenso werden wir für ein flächendeckendes Angebot im öffentlichen Nahverkehr sorgen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Toralf aktuell auf das Auto angewiesen ist, würde ein besserer ÖPNV auf dem Dorf seine Situation langfristig entlasten, insbesondere für seine Familie.",
+      "begruendung_selbst": "Es wäre ein Traum, wenn meine Frau oder die Kinder auch mal mit dem Bus fahren könnten, anstatt dass wir für jeden Weg das Auto brauchen."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Dann wird's eben nie was mit dem E-Auto!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will sämtliche Förderungen und Subventionen für E-Autos sowie den Aufbau der Ladeinfrastruktur beenden.",
+      "seite": 13,
+      "zitat": "Eine AfD-geführte Landesregierung wird jegliche Subventionen für E-Autos und deren Ladeinfrastruktur streichen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf ist offen für Elektromobilität, sofern sie bezahlbar wäre. Die komplette Streichung von Subventionen und Ladeinfrastruktur verbaut ihm zukünftig jede Chance auf einen Wechsel.",
+      "begruendung_selbst": "Ich bin ja nicht prinzipiell gegen E-Autos, sie sind nur zu teuer. Aber wenn jetzt auch noch die Ladesäulen auf dem Dorf gestrichen werden, bleibe ich ewig abgehängt."
+    },
+    {
+      "titel_selbst": "Komplett aussteigen ist doch auch keine Lösung!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei fordert den generellen Austritt Deutschlands aus dem internationalen Pariser Klimaabkommen.",
+      "seite": 13,
+      "zitat": "Vom Klimaabkommen von Paris zurücktreten, Europäischen Green Deal aufkündigen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl Toralf die Kosten der aktuellen Klimapolitik ablehnt, ist er nicht prinzipiell gegen Umweltschutz. Ein kompletter Ausstieg aus internationalen Klimavereinbarungen geht ihm als Pragmatiker zu weit in die Extreme.",
+      "begruendung_selbst": "Ich will, dass das Pendeln bezahlbar bleibt, aber gleich alle Klima-Verträge kündigen und so tun, als gäbe es gar keine Probleme? Das ist mir eine Spur zu radikal, ein bisschen müssen wir schon auf die Natur achten."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf bewertet das Programm in weiten Teilen sehr positiv, da es seine akuten finanziellen Sorgen bezüglich Kraftstoffpreisen, CO2-Steuer und des Verbrenner-Aus aufgreift. Die starke Fokussierung auf den Schutz von Autofahrern und Industriearbeitsplätzen deckt sich mit seiner pragmatischen Lebensrealität. Lediglich der komplette Verzicht auf den Ausbau der Ladeinfrastruktur und die gänzliche Verweigerung von Klimaschutzbemühungen gehen dem bodenständigen Familienvater etwas zu weit ins Extreme.",
+    "score": 1
+  }
+}

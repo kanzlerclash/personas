@@ -1,0 +1,95 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kein Sanierungszwang für unser Haus!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei verspricht, das Gebäudeenergiegesetz abzuschaffen und Hausbesitzer von staatlichen Vorgaben sowie Pflichten zur energetischen Sanierung zu befreien.",
+      "seite": 13,
+      "zitat": "für die Abschaffung des Wärmeplanungs- und Gebäudeenergiegesetzes",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dieter und Helga befürchten, gezwungen zu werden, im Alter teure Kredite für eine energetische Sanierung aufzunehmen. Die klare Absage der Partei an das Gebäudeenergiegesetz nimmt ihnen die existenzielle Sorge, ihr mühsam abbezahltes Haus umbauen zu müssen.",
+      "begruendung_selbst": "Wenn wir das alte Haus nicht zwangssanieren müssen, fällt uns ein Stein vom Herzen. Wer soll das denn auch bezahlen mit unserer schmalen Rente?"
+    },
+    {
+      "titel_selbst": "Endlich wieder Ärzte auf dem Dorf!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die ärztliche Versorgung im ländlichen Raum soll gezielt durch Landarztstipendien, Telemedizin und mobile Praxen aufgewertet werden.",
+      "seite": 15,
+      "zitat": "Wir werden mobile Arztpraxen, Telemedizin und verbesserte Klinikstrukturen in den Landkreisen unterstützen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die medizinische Versorgung vor Ort ist eine der größten alltäglichen Sorgen des älteren Ehepaars. Dass ärztliche Strukturen auf dem Land explizit geschützt und ausgebaut werden sollen, vermittelt ihnen dringend benötigte Sicherheit.",
+      "begruendung_selbst": "Wir haben immer Angst, was mit uns passiert, wenn unser Hausarzt mal in Rente geht. Dass wieder mehr für die Ärzte auf dem Land getan wird, beruhigt uns ungemein."
+    },
+    {
+      "titel_selbst": "Zuhause in Ruhe alt werden!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die häusliche Pflege soll gegenüber der stationären Heimunterbringung gefördert werden, unter anderem durch steuerliche Entlastungen und ein neu einzuführendes Landespflegegeld.",
+      "seite": 20,
+      "zitat": "Wir brauchen steuerliche Entlastungen und ein Landespflegegeld.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Rentnerpaar fürchtet die immensen Kosten der stationären Pflege und den Verlust ihrer gewohnten Umgebung. Die finanzielle Stärkung der häuslichen Pflege adressiert ihren sehnlichsten Wunsch, im eigenen Haus bleiben zu können.",
+      "begruendung_selbst": "Wir wollen unbedingt in unseren eigenen vier Wänden bleiben und nicht ins Heim abgeschoben werden. Wenn es da finanzielle Hilfe für die Pflege zuhause gibt, ist das ein echter Segen."
+    },
+    {
+      "titel_selbst": "Das Dorf darf nicht sterben!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die ländliche Infrastruktur soll durch spezielle Sonderprogramme für die Nahversorgung, Dorfläden und Angebote für Senioren aufgewertet und vor dem weiteren Verfall bewahrt werden.",
+      "seite": 15,
+      "zitat": "Sonderprogramme für den Aufbau von Nahversorgung, Dorfläden und Seniorenangeboten im ländlichen Raum werden aufgesetzt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sie fühlen sich durch den allgemeinen städtischen Fokus der Politik oft abgehängt. Die gezielte Förderung von dörflicher Infrastruktur und Seniorenangeboten vermittelt ihnen das Gefühl, von der Politik ernst genommen zu werden.",
+      "begruendung_selbst": "Immer kriegen nur die großen Städte das ganze Geld. Gut, dass endlich auch mal wieder an uns Ältere auf dem Land und unsere kleinen Dörfer gedacht wird."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Unsere Kinder wohnen viel zu weit weg!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei strebt an, soziale Aufgaben wie die Altenpflege primär in die Zuständigkeit der Familie zurückzuverlagern, um den Staat und die Institutionen zu entlasten.",
+      "seite": 4,
+      "zitat": "wollen wir die Familien wieder als Institution sozialer Hilfe stärken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter haben Kinder, die berufsbedingt weiter weg wohnen und eine regelmäßige tägliche Pflege überhaupt nicht übernehmen könnten. Der explizite Rückzug des Staates aus der sozialen Verantwortung schürt ihre Angst, im Pflegefall vollkommen alleingelassen zu werden.",
+      "begruendung_selbst": "Wie sollen sich unsere Kinder um uns kümmern, wenn sie so weit entfernt wohnen und selbst hart arbeiten? Da brauchen wir schon ordentliche staatliche Unterstützung vor Ort."
+    },
+    {
+      "titel_selbst": "Mit der Gesundheit macht man keine Politik!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Corona-Politik soll juristisch aufgearbeitet werden, wobei die damalige Impfung kategorisch abgelehnt und als vollkommen unwirksam sowie lebensgefährlich dargestellt wird.",
+      "seite": 20,
+      "zitat": "der sich im Nachhinein als unwirksam und gefährlich für Leib und Leben erwiesen hat.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als veränderungsskeptische und sicherheitsorientierte ältere Menschen vertrauen die beiden auf etablierte Institutionen und den Rat ihres Hausarztes. Die drastische, ideologisch aufgeladene Ablehnung medizinischer Maßnahmen verunsichert sie zutiefst und stört ihr Bedürfnis nach Verlässlichkeit und Ordnung.",
+      "begruendung_selbst": "Wir haben uns doch damals impfen lassen, weil unser Doktor uns das empfohlen hat. So ein radikales Gerede stört doch nur den Frieden im Land und macht uns bloß unnötig unsicher."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Rentnerpaar Dieter und Helga findet in dem Programm viele Zusicherungen für ihre drängendsten pragmatischen Alltagssorgen, wie den Verzicht auf teure Sanierungspflichten, den Erhalt von Landärzten und die Stärkung dörflicher Infrastruktur. Diese handfesten Versprechen geben ihnen ein Gefühl der Sicherheit in ihrem abgelegenen Heimatort. Gleichzeitig betrachten sie die radikal formulierten ideologischen Vorstöße der Partei, etwa bei der Ablehnung medizinischer Standards in der Corona-Politik, sowie die starke Verlagerung von Pflegeverantwortung auf die Familie als verunsichernd und in ihrer eigenen Lebenslage unrealistisch.",
+    "score": 1
+  }
+}

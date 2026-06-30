@@ -1,0 +1,94 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Kollegen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Landespolizei soll personell deutlich aufgestockt werden, mit dem Ziel von weit über 8.100 Beschäftigten, um die Präsenz vor Ort zu stärken.",
+      "seite": 6,
+      "zitat": "personellen Aufwuchs innerhalb der Landespolizei auf weit mehr als 8. 100 Bedienstete.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet im Streifendienst stark unter Personalmangel und der daraus resultierenden Belastung. Die konkrete Aufstockung der Polizei gibt ihm die Perspektive auf mehr Entlastung und Sicherheit im Dienstalltag.",
+      "begruendung_selbst": "Das ist mal eine Ansage! Wenn wir wirklich mehr Beamte auf der Straße sind, wird der Schichtdienst für uns alle sicherer und leistbarer."
+    },
+    {
+      "titel_selbst": "Besserer Schutz für uns!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Landespolizei soll flächendeckend mit Tasern ausgerüstet werden, um den Selbstschutz der Beamtinnen und Beamten zu erhöhen.",
+      "seite": 7,
+      "zitat": "die Landespolizei flächendeckend mit Distanz - Elektroimpulsgeräten (Taser) ausstatten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco gerät im Einsatz immer wieder in gefährliche, unberechenbare Situationen und fordert deshalb zeitgemäße Ausstattung. Der flächendeckende Einsatz von Tasern ist für ihn ein entscheidendes Mittel zur eigenen Eigensicherung.",
+      "begruendung_selbst": "Der Taser ist eine Lebensversicherung für uns. Dass er jetzt flächendeckend kommen soll, zeigt, dass unsere Sicherheit in der Politik ernst genommen wird."
+    },
+    {
+      "titel_selbst": "Klare Kante gegen Extremisten!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Sicherheitsbehörden und speziell der Verfassungsschutz sollen gestärkt werden, um die zunehmenden extremistischen Bestrebungen effektiver zu bekämpfen.",
+      "seite": 7,
+      "zitat": "müssen die Sicherheitsbehörden insgesamt und damit auch der Verfassungsschutz weiter gestärkt werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als verfassungstreuer Beamter, der die Institutionen schützt, lehnt Marco extremistische Gruppierungen entschieden ab. Die Stärkung des Verfassungsschutzes bestätigt seine Haltung von einer wehrhaften Demokratie.",
+      "begruendung_selbst": "Egal von welcher Seite: Wer unsere Verfassung angreift, ist eine Gefahr. Es ist völlig richtig, dass der Verfassungsschutz hierfür gestärkt wird."
+    },
+    {
+      "titel_selbst": "Null Toleranz bei Straftätern!",
+      "thema": "integration",
+      "programmpunkt": "Gefährdern und ausländischen Straftätern soll konsequent mit Abschiebung und rechtlicher Härte begegnet werden.",
+      "seite": 8,
+      "zitat": "Ausländischen Straftätern und Gefährdern begegnen wir weiterhin mit aller Konsequenz.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco differenziert bei der Migration, ist jedoch extrem frustriert von Mehrfachtätern und mangelnder Konsequenz. Das klare Bekenntnis zu Härte bei Straftätern entspricht seinem Anspruch an die Durchsetzungsfähigkeit des Rechtsstaates.",
+      "begruendung_selbst": "Wer hier straffällig wird, hat sein Gastrecht verwirkt. Es ist gut, dass die Politik da endlich konsequent durchgreifen will und uns den Rücken stärkt."
+    },
+    {
+      "titel_selbst": "Entlastung bei psychischen Fällen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Es sollen spezielle Präventionsambulanzen für psychisch kranke Menschen mit hohem Gewaltpotenzial aufgebaut werden, um die Polizei zu entlasten.",
+      "seite": 9,
+      "zitat": "spezifisches Versorgungsangebot für psychisch Erkrankte mit erhöhtem Gewaltpotenzial schaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Einsätze mit psychisch auffälligen und aggressiven Personen sind für Marco oft unberechenbar, gefährlich und schwer zu lösen. Ein präventives medizinisches Angebot setzt an der Wurzel an und nimmt Druck von den Streifenbeamten.",
+      "begruendung_selbst": "Solche Einsätze sind brandgefährlich und oft überfordern sie uns als Polizei. Wenn es dafür Spezialangebote gibt, müssen wir seltener den Kopf hinhalten."
+    },
+    {
+      "titel_selbst": "Endlich eine schnelle Justiz!",
+      "thema": "demokratie",
+      "programmpunkt": "Justizverfahren sollen beschleunigt und Zielzeiten eingeführt werden, damit begangene Straftaten unmittelbar und zügig geahndet werden.",
+      "seite": 58,
+      "zitat": "Durch beschleunigte Verfahren soll eine unmittelbare Ahndung von Straftaten erfolgen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ärgert sich regelmäßig, wenn seine Ermittlungsarbeit im Sande verläuft oder Verfahren ewig dauern. Eine schnellere Strafjustiz schließt für ihn die Lücke, damit seine Polizeiarbeit am Ende nicht umsonst war.",
+      "begruendung_selbst": "Es frustriert total, wenn wir die Leute festnehmen und die Akten monatelang liegen bleiben. Nur schnelle und direkte Strafen bewirken wirklich etwas!"
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Wahlprogramm der CDU adressiert Marcos Kernanliegen als Streifenpolizist nahezu passgenau. Er findet starke Unterstützung für seine existenziellen Forderungen nach mehr Personal, einer modernen und sicheren Ausstattung wie Tasern sowie politischem Rückhalt und konsequenter Strafverfolgung. Da seine berufsbedingten Sorgen vollumfänglich und lösungsorientiert bedient werden und keine konträren Positionen zu finden sind, fällt seine Bewertung äußerst positiv aus.",
+    "score": 2
+  }
+}

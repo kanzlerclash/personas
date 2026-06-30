@@ -1,0 +1,106 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Die Chemie bleibt im Land!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke fordert Entlastungen bei den Energie- und CO2-Kosten für die Industrie, knüpft diese aber an Garantien für den Standorterhalt und gute Arbeit.",
+      "seite": 92,
+      "zitat": "faire Energiepreise für den Wandel – Energie - und CO₂ - Kosten in Umbauphasen senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe macht sich existenzielle Sorgen um den Fortbestand des Chemiestandorts aufgrund hoher Energiepreise. Dass die Partei gezielte Entlastungen für die Industrie fordert und sie direkt an Standortgarantien bindet, deckt sich exakt mit seinen gewerkschaftlichen Zielen.",
+      "begruendung_selbst": "Ohne bezahlbare Energie gehen hier in der Chemie bald die Lichter aus. Wenn die Politik bei den Preisen hilft und gleichzeitig verlangt, dass die Jobs hierbleiben, dann ist das genau unser Weg."
+    },
+    {
+      "titel_selbst": "Mehr Macht für den Betriebsrat!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Mitbestimmung soll deutlich ausgeweitet werden, sodass Betriebsräte bei Investitions- und Standortfragen entscheidend mitbestimmen können.",
+      "seite": 87,
+      "zitat": "Mitentscheidungsrechte der Betriebsräte bei Investitionen, Standortfragen und Digitalisierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als engagierter Betriebsrat weiß Uwe, wie oft Beschäftigte bei Konzernentscheidungen übergangen werden. Ein gesetzlich verankertes Mitspracherecht bei strategischen Investitionen würde seine Position im Betrieb massiv stärken.",
+      "begruendung_selbst": "Wir an den Anlagen wissen doch am besten, was läuft. Es kann nicht sein, dass irgendwelche Manager von weit weg über unsere Köpfe hinweg entscheiden. Da müssen wir als Betriebsrat endlich richtig mitreden!"
+    },
+    {
+      "titel_selbst": "Tarifverträge müssen wieder greifen!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will Tarifverträge leichter für allgemeinverbindlich erklären und so die Blockaden der Arbeitgeber brechen.",
+      "seite": 86,
+      "zitat": "die Allgemeinverbindlichkeit von Tarifverträgen zu erleichtern – Blockaden der Arbeitgeber zu beenden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe schätzt sein gutes, tarifgebundenes Einkommen sehr, betrachtet aber die sinkende Tarifbindung in der Region mit großer Sorge. Ein politisches Durchgreifen der Landesregierung in dieser Frage entspricht seinen Grundwerten.",
+      "begruendung_selbst": "Gute Arbeit muss anständig bezahlt werden, und das geht nur mit Tarif. Dass sich immer mehr Unternehmen davor drücken, macht unsere Region kaputt. Da muss die Politik den Arbeitgebern klare Kante zeigen."
+    },
+    {
+      "titel_selbst": "Niemand darf zurückbleiben!",
+      "thema": "arbeit",
+      "programmpunkt": "Bei betrieblichen Umbrüchen sollen Überleitungsgesellschaften finanziert werden, die Beschäftigten eine Perspektive und Weiterbildung bieten.",
+      "seite": 91,
+      "zitat": "Überleitungsgesellschaften sichern Beschäftigung, Weiterbildung und neue Perspektiven",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes größte Sorge ist der soziale Absturz seiner Kollegen durch den Strukturwandel in der Industrie. Die konkrete Absicherung durch Überleitungsgesellschaften bietet genau den Schutz, den er von der Politik verlangt.",
+      "begruendung_selbst": "Wenn ein Betrieb im Wandel zumachen muss, darfst du die Leute nicht einfach auf die Straße setzen. Solche Auffanggesellschaften sind absolut überlebenswichtig für uns Beschäftigte!"
+    },
+    {
+      "titel_selbst": "Wasserstoff muss fließen!",
+      "thema": "energie",
+      "programmpunkt": "Es soll eine landesweite, sichere und bezahlbare Infrastruktur für Wasserstoff aufgebaut werden, notfalls durch die öffentliche Hand.",
+      "seite": 92,
+      "zitat": "Aufbau einer landesweiten Wasserstoffinfrastruktur, die verlässlich, bezahlbar und – wenn nötig – in öffentlicher Hand bleibt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für die großen energieintensiven Betriebe in Uwes Branche ist der Wechsel auf Wasserstoff essenziell. Die staatliche Garantie für diese Infrastruktur nimmt ihm die Sorge vor künftigen Engpässen.",
+      "begruendung_selbst": "In ein paar Jahren stehen unsere Anlagen still, wenn wir nicht genug Wasserstoff kriegen. Es beruhigt mich, wenn sich das Land darum kümmern will und das nicht nur dem freien Markt überlässt."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "2035? Das bricht uns das Genick!",
+      "thema": "klima",
+      "programmpunkt": "Das Land soll sich auf einen strikten CO2-Pfad begeben und bereits bis zum Jahr 2035 komplett klimaneutral wirtschaften.",
+      "seite": 121,
+      "zitat": "Pfad zur Klimaneutralität bis 2035 klar beschreibt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl Uwe Klimaschutz nicht generell ablehnt, hat er große Angst vor einem zu hohen Tempo, das die Schwerindustrie völlig überfordert. Ein ambitioniertes Zieldatum wie 2035 schürt seine existenziellen Sorgen vor sofortigen Jobverlusten.",
+      "begruendung_selbst": "Richtiges Ziel, aber viel zu schnell! Bis 2035 kriegen wir unsere gigantischen Anlagen doch niemals komplett umgerüstet, ohne dass die Hälfte der Belegschaft auf der Straße sitzt. Das ist völlig praxisfern!"
+    },
+    {
+      "titel_selbst": "Exportmodelle verteufeln hilft nicht.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei bewertet den Wandel weg von fossilen Energieträgern und den bisher dominierenden Exportmodellen als zwingend notwendig.",
+      "seite": 90,
+      "zitat": "Der Abschied von fossilen Rohstoffen und das Ende überholter Exportmodelle sind unausweichlich.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist stolz auf seine qualifizierte Industriearbeit und weiß, dass der Wohlstand seiner gesamten Branche stark auf dem weltweiten Export beruht. Die pauschale Abwertung dieses Modells als „überholt“ empfindet er als fehlende Wertschätzung.",
+      "begruendung_selbst": "Unsere Chemiebude liefert Top-Produkte in die ganze Welt, davon leben wir hier! Wenn die Politik das jetzt einfach als 'überholt' abstempelt, frage ich mich schon, ob die überhaupt verstanden haben, wo unser Wohlstand eigentlich herkommt."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe bewertet das Wahlprogramm der Linken insgesamt leicht positiv, da es seine zentralen gewerkschaftlichen Forderungen nach starker Mitbestimmung, besserer Tarifbindung und staatlichen Schutzmaßnahmen im Strukturwandel exakt abbildet. Gleichzeitig bereitet ihm der ambitionierte Plan, das Land bereits bis 2035 klimaneutral zu machen, erhebliche Sorgen hinsichtlich der Umsetzung in der Schwerindustrie, weshalb er an der Praxistauglichkeit der klimapolitischen Ziele zweifelt.",
+    "score": 1
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Praxis an Schulen!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke fordert einen praxisnahen Schulunterricht mit Pflichtpraktika, um Jugendlichen das Handwerk näherzubringen.",
+      "seite": 93,
+      "zitat": "damit junge Menschen das Handwerk erleben und erlernen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine findet keine Azubis mehr. Dass Jugendliche früh und verpflichtend mit dem Handwerk in Kontakt kommen sollen, begrüßt sie sehr, da es ihre Nachwuchssorgen lindern könnte.",
+      "begruendung_selbst": "Wenn die Jugendlichen nicht mehr nur studieren wollen, sondern mal in einer Werkstatt stehen und richtig anpacken, dann kriege ich auch wieder motivierte Lehrlinge."
+    },
+    {
+      "titel_selbst": "Der Meisterbrief muss gratis werden!",
+      "thema": "bildung",
+      "programmpunkt": "Die Meisterausbildung sowie die Weiterbildung in Zukunftstechnologien sollen für Handwerker kostenfrei sein.",
+      "seite": 93,
+      "zitat": "Ausbildung stärken – kostenfreie Meisterqualifikation",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine profitiert direkt davon, wenn ihre Gesellen sich kostenfrei weiterbilden können, da die fachliche Qualifikation ihres Betriebs überlebenswichtig ist.",
+      "begruendung_selbst": "Ich brauche top-ausgebildete Leute für die ganzen neuen Heizungen. Wenn der Staat den Meisterbrief endlich bezahlt, wie beim Studium auch, ist das nur gerecht!"
+    },
+    {
+      "titel_selbst": "Aufträge für uns statt für Konzernriesen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Land soll öffentliche Aufträge verstärkt an die regionale Wirtschaft und das heimische Handwerk vergeben.",
+      "seite": 93,
+      "zitat": "regionale Wertschöpfung – öffentliche Aufträge an lokale Betriebe",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Sabine sich gegenüber Großkonzernen mit deren Rechtsabteilungen oft im Nachteil sieht, kommt ihr die Bevorzugung regionaler Handwerksbetriebe bei der Vergabe sehr entgegen.",
+      "begruendung_selbst": "Es ärgert mich schon lange, dass bei Ausschreibungen immer die großen Multis abräumen. Wenn wir Kleinen vor Ort endlich den Vorzug kriegen, sichert das unsere Jobs."
+    },
+    {
+      "titel_selbst": "Gute Idee, wenn es nicht im Chaos endet!",
+      "thema": "energie",
+      "programmpunkt": "Der Heizungstausch und energetische Sanierungen sollen durch soziale Ausgleichsmaßnahmen finanziell unterstützt werden.",
+      "seite": 121,
+      "zitat": "indem Sanierungen und Heizungswechsel sozial gerecht unterstützt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine ist genervt davon, dass verunsicherte Kunden Aufträge stornieren. Wenn der Staat den Heizungswechsel verlässlich und sozial unterstützt, gibt das ihren Kunden Planungssicherheit und ihr volle Auftragsbücher.",
+      "begruendung_selbst": "Meine Kunden sind total verunsichert und halten ihr Geld zusammen. Wenn der Heizungswechsel wirklich gefördert wird und die Regeln mal stabil bleiben, ist das gut für mein Geschäft."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mein Lebenswerk soll nicht besteuert werden!",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei fordert eine Bundesratsinitiative zur Wiedereinführung der Vermögenssteuer.",
+      "seite": 17,
+      "zitat": "Eine Bundesratsinitiative zur Wiedereinführung der Vermögenssteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine macht sich Sorgen um die Betriebsübergabe in absehbarer Zeit. Eine mögliche Vermögenssteuer bedroht aus ihrer Sicht die finanzielle Substanz ihres Handwerksbetriebs.",
+      "begruendung_selbst": "Das Betriebsvermögen ist unsere Werkstatt und der Fuhrpark, kein Luxus! Wenn darauf jetzt noch Vermögenssteuer fällig wird, kann ich den Laden bald dichtmachen."
+    },
+    {
+      "titel_selbst": "Wer soll denn die Arbeit machen?",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei strebt an, die wöchentliche Arbeitszeit auf 35 Stunden zu verkürzen, ohne dabei den Lohn zu senken.",
+      "seite": 86,
+      "zitat": "langfristig die Einführung der 35 - Stunden - Woche",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Unternehmerin leidet stark unter dem Fachkräftemangel. Eine generelle Arbeitszeitverkürzung bei vollem Lohnausgleich würde ihre Lohnkosten in die Höhe treiben und Aufträge blockieren.",
+      "begruendung_selbst": "Ich habe jetzt schon volle Auftragsbücher und finde keine Leute. Eine 35-Stunden-Woche bedeutet für uns einfach nur explodierende Kosten und unzufriedene Kunden, die ewig warten müssen."
+    },
+    {
+      "titel_selbst": "Tarifpflicht für Aufträge grenzt uns aus!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Öffentliche Aufträge sollen nur noch an Unternehmen vergeben werden, die ihre Angestellten nach Tarif bezahlen.",
+      "seite": 88,
+      "zitat": "öffentliche Aufträge nur an Unternehmen gehen, die tarifgebunden zahlen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Inhaberin eines Kleinbetriebs ist sie nicht zwingend tarifgebunden, sondern zahlt, was der Betrieb wirtschaftlich hergibt. Sie empfindet den Zwang zum Tarifvertrag als Bevormundung, die sie von Aufträgen ausschließt.",
+      "begruendung_selbst": "Ich bezahle meine Leute fair, sonst wären sie längst weg. Wenn ich für jeden öffentlichen Auftrag in ein Tarifkorsett gepresst werde, mache ich lieber nur noch Privatkunden."
+    },
+    {
+      "titel_selbst": "Fördern ja, aber wo bleibt das Fordern?",
+      "thema": "gesundheit",
+      "programmpunkt": "Sozialleistungen wie der Unterhaltsvorschuss sollen für alle, die sie benötigen, bedingungslos ausgezahlt werden.",
+      "seite": 21,
+      "zitat": "Unterhaltsvorschuss bedingungslos für alle verfügbar sein muss",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines Leitbild ist von Leistung und Eigenverantwortung geprägt. Forderungslos ausgezahlte staatliche Hilfen lehnt sie ab, da sie das Prinzip des Förderns und Forderns untergraben.",
+      "begruendung_selbst": "Ich arbeite hart für mein Geld. Wer Hilfe braucht, soll sie bekommen, aber 'bedingungslos' für alle? Das ist das völlig falsche Signal für unsere Leistungsgesellschaft."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine (SHK-Meisterin) findet im Programm der Linken ambivalente Ansätze. Einerseits begrüßt sie die Aufwertung der Meisterausbildung und die Bevorzugung lokaler Betriebe, was ihrem Handwerksbetrieb direkt zugutekommt. Andererseits steht sie der Forderung nach Vermögenssteuern, einer 35-Stunden-Woche und der strengen Tarifbindung bei öffentlichen Aufträgen äußerst kritisch gegenüber, da sie diese als praxisferne Eingriffe in ihre unternehmerische Freiheit wahrnimmt.",
+    "score": -1
+  }
+}

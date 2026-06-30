@@ -1,0 +1,128 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T13:07:07+02:00",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Nachwuchs für unsere Praxen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die SPD will dem Ärztemangel auf dem Land begegnen, indem die bestehende Landarztquote fortgesetzt und die Anzahl der Medizinstudienplätze erhöht wird.",
+      "seite": 14,
+      "zitat": "Landarzt-, Amtsarzt- und Landzahnarztquote werden fortgeführt. Studienplätze in Human- und Zahnmedizin wurden erhöht.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Petra ist die ungeklärte Praxisnachfolge eine ihrer größten Sorgen. Sie sieht in der Fortführung der Landarztquote und mehr Studienplätzen einen der wenigen konkreten Hebel, um junge Kolleginnen und Kollegen für die Versorgung auf dem Land zu gewinnen.",
+      "begruendung_selbst": "Endlich ein Lichtblick! Ich arbeite am Anschlag, und wenn ich in Rente gehe, steht hier niemand bereit. Dass die Landarztquote bleibt und es mehr Studienplätze gibt, ist der einzig richtige Weg, um das Praxissterben noch aufzuhalten."
+    },
+    {
+      "titel_selbst": "Mehr Delegation, mehr Zeit!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei plant, ärztliches Personal im Praxisalltag zu entlasten, indem mehr Aufgaben verbindlich an andere Gesundheitsberufe übertragen werden können.",
+      "seite": 12,
+      "zitat": "Gesundheitsberufe künftig mehr Verantwortung u.a. durch Aufgabenverlagerung in der medizinischen Versorgung übernehmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra arbeitet extrem lange Tage und sehnt sich nach pragmatischer Hilfe. Sie begrüßt jeden Ansatz, der ihren Praxisalltag rechtssicher entlastet, solange die Versorgung der Patienten gesichert bleibt.",
+      "begruendung_selbst": "Eine überfällige Einsicht! Meine MFA leisten ohnehin schon Großartiges. Wenn wir rechtlich auf der sicheren Seite sind und Aufgaben delegieren dürfen, gibt mir das endlich wieder mehr Zeit für die echten medizinischen Fälle."
+    },
+    {
+      "titel_selbst": "Gesundheit ist keine Ware!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die SPD bekennt sich zu einer Ausrichtung der Krankenhauslandschaft, die Bedarf, Qualität und Erreichbarkeit in den Mittelpunkt stellt, statt rein auf Profite abzuzielen.",
+      "seite": 12,
+      "zitat": "die sich an den Kriterien Qualität, Erreichbarkeit und Wirtschaftlichkeit orientiert und nicht an Kapitalinteressen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra beobachtet die Ökonomisierung der Medizin mit großer Sorge, da sich gerade im ländlichen Raum viele Leistungen nicht rechnen. Sie teilt die Haltung, dass die medizinische Daseinsvorsorge Vorrang vor Renditeerwartungen haben muss.",
+      "begruendung_selbst": "Genau meine Rede! Gesundheit ist keine Ware, aus der man Profite quetschen sollte. Wenn es nur noch um Fallpauschalen und Rendite geht, fallen meine alten Patienten auf dem Land als erstes hinten runter."
+    },
+    {
+      "titel_selbst": "Meine Patienten bleiben mobil!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei verspricht den verlässlichen Ausbau des öffentlichen Nahverkehrs und formuliert das Ziel einer Mobilitätsgarantie, die alle Regionen einschließt.",
+      "seite": 41,
+      "zitat": "Ziel ist eine Mobilitätsgarantie für alle Regionen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra macht viele Hausbesuche, weil ihre alternden Patientinnen und Patienten nicht mehr selbst mobil sind. Ein besserer, verlässlicher ÖPNV auf dem Land würde ihren Patienten helfen, wieder eigenständiger zu werden.",
+      "begruendung_selbst": "Das wäre ein Segen für meine älteren Patienten! Ohne Auto ist man hier im Dorf oft aufgeschmissen. Wenn Busse verlässlich fahren, kommen die Menschen auch wieder selbst zu mir in die Sprechstunde."
+    },
+    {
+      "titel_selbst": "Endlich weniger Papierkram!",
+      "thema": "demokratie",
+      "programmpunkt": "Zur Entlastung von kleinen Betrieben und Praxen soll es eine Überprüfung und konsequente Abschaffung oder Vereinfachung von bürokratischen Dokumentationspflichten geben.",
+      "seite": 4,
+      "zitat": "Dokumentationspflichten werden vereinfacht oder abgeschafft.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra leidet enorm unter der bürokratischen Last in ihrer Einzelpraxis, die ihr wertvolle Zeit für die Behandlung der Patienten stiehlt. Sie hofft inständig, dass dieses Versprechen in ihrer ärztlichen Realität ankommt.",
+      "begruendung_selbst": "Das ist die wichtigste Ansage überhaupt! Wenn ich nicht mehr jeden Handgriff dreimal abheften und digital gegenzeichnen müsste, hätte ich am Tag viel mehr Zeit für meine Patienten. Da nehme ich die Politik beim Wort!"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Technik ersetzt keine Untersuchung!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die SPD setzt auf die Ausweitung und stärkere Nutzung telemedizinischer Projekte in der Fläche.",
+      "seite": 12,
+      "zitat": "Positive Erfahrungen mit telemedizinischen Projekten werden genutzt und in der Fläche ausgerollt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra steht digitalen Heilsversprechen äußert skeptisch gegenüber, da sie im Alltag oft an der fehleranfälligen Technik verzweifelt. Sie sieht Telemedizin besonders kritisch, wenn sie den akuten Ärztemangel auf dem Land nur kaschieren soll.",
+      "begruendung_selbst": "Schon wieder Telemedizin als Wundermittel! Ich verbringe heute schon halbe Tage mit Technik, die nicht läuft. Eine App oder ein Bildschirm ersetzen doch keine körperliche Untersuchung, erst recht nicht bei meinen alten Patienten hier auf dem Land."
+    },
+    {
+      "titel_selbst": "Zentren lösen unser Problem nicht!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will die Versorgung im ländlichen Raum unter anderem durch den Aufbau von regionalen Versorgungszentren sichern.",
+      "seite": 16,
+      "zitat": "regionale Versorgungszentren, neue Kooperationsformen und digitale Unterstützung sichern Versorgung auch im ländlichen Raum.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Inhaberin einer Einzelpraxis befürchtet Petra, dass solche staatlich geförderten Zentren neue bürokratische Wasserköpfe schaffen, statt pragmatisch die klassisch niedergelassenen Ärzte vor Ort zu unterstützen.",
+      "begruendung_selbst": "Versorgungszentren klingen auf dem Papier gut, bedeuten in der Praxis aber oft nur noch mehr Verwaltung. Statt neue, staatliche Strukturen zu schaffen, sollte die Politik lieber dafür sorgen, dass sich die klassische Einzelpraxis auf dem Land wieder lohnt!"
+    },
+    {
+      "titel_selbst": "Nicht noch eine Strukturreform!",
+      "thema": "demokratie",
+      "programmpunkt": "Die SPD plant eine Neuordnung der Gesundheits- und Sozialverwaltung in der Annahme, dadurch das staatliche Handeln und die Antragsbearbeitung zu vereinfachen.",
+      "seite": 16,
+      "zitat": "Mit der Neuordnung der Gesundheits- und Sozialverwaltung werden wir das Verwaltungshandeln deutlich vereinfachen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra ist nach Jahren völlig desillusioniert von politischen Reformversprechen. Aus ihrer Berufserfahrung führen administrative Neuordnungen im Gesundheitswesen meistens zu einem noch höheren Dokumentationsaufwand für ihre Praxis, statt echte Entlastung zu bringen.",
+      "begruendung_selbst": "Bei dem Wort 'Neuordnung' schrillen bei mir alle Alarmglocken. Jedes Mal, wenn die Politik die Verwaltung umbaut oder 'vereinfachen' will, wächst bei uns in der Praxis nur der Papierberg. Mir fehlt der Glaube, dass das diesmal anders wird."
+    },
+    {
+      "titel_selbst": "Bitte keine neuen Zertifikate!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Zur Förderung von guten Arbeitsbedingungen und Qualifizierungsmaßnahmen in Betrieben setzt die Partei als Steuerungsinstrument auch auf Zertifizierungen.",
+      "seite": 8,
+      "zitat": "Dieses Engagement wollen wir gezielt unterstützen – durch Förderung, Beratung und Zertifizierungen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Landärztin stöhnt bereits jetzt unter den hohen bürokratischen Auflagen und dem Qualitätsmanagement. Der politische Reflex, gute Arbeit an neue Zertifikate zu knüpfen, ist für sie als Einzelkämpferin eine Belastung.",
+      "begruendung_selbst": "Noch mehr Zertifikate? Das ist genau diese realitätsferne Bürokratie, die uns erdrückt. Ich zahle meinen MFA gute Gehälter, weil ich gutes Personal brauche – dafür brauche ich keinen neuen Stempel, für den ich wieder tagelang Formulare ausfüllen muss!"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die Landärztin Petra sieht im Programm der SPD gute Ansätze, um den Ärztemangel durch Ausbildung zu lindern und die Pflege sowie Mobilität ihrer Patienten vor Ort zu stärken. Zudem weckt das Versprechen von Bürokratieabbau Hoffnungen. Gleichzeitig betrachtet sie die Ankündigungen zu Telemedizin, Versorgungszentren und Strukturreformen mit großer Skepsis, da sie aus Erfahrung befürchtet, dass diese die ärztliche Arbeit auf dem Land eher durch neue bürokratische Auflagen belasten. Insgesamt überwiegen für sie jedoch die pragmatischen Ansätze zum Erhalt der Daseinsvorsorge leicht.",
+    "score": 1
+  }
+}

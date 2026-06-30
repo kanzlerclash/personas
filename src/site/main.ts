@@ -2,132 +2,203 @@ import { configFromSeed, renderAvatar, normalizeConfig } from "@retro-antlitz-ka
 import data from "./data.json";
 import "./style.css";
 
+/* ---------------- Typen ---------------- */
 type Highlight = {
-  titel_selbst: string;
-  thema: string;
-  programmpunkt: string;
-  seite: number | null;
-  zitat: string | null;
-  bezug: string;
-  resonanz: string;
-  begruendung: string;
-  begruendung_selbst: string;
-  beleg_ok?: boolean | null;
+  titel_selbst: string; thema: string; programmpunkt: string;
+  seite: number | null; zitat: string | null; bezug: string; resonanz: string;
+  begruendung: string; begruendung_selbst: string; beleg_ok?: boolean | null;
 };
-type Ergebnis = {
-  persona: string;
-  land: string;
-  partei: string;
-  modell: string;
-  modell_slug: string;
-  zeitpunkt: string;
-  programm_stand: string | null;
+type Erg = {
+  persona: string; land: string; partei: string; modell: string; modell_slug: string;
+  zeitpunkt?: string; programm_stand?: string | null; erzeugt_via?: string;
   gesamt: { zusammenfassung: string; score: number };
-  besonders_gut: Highlight[];
-  besonders_schlecht: Highlight[];
+  besonders_gut: Highlight[]; besonders_schlecht: Highlight[];
 };
-type Persona = {
-  slug: string;
-  name: string;
-  einzeiler: string;
-  themen: string[];
-  profil: Record<string, any>;
-  bevoelkerung: any | null;
-};
+type Persona = { slug: string; name: string; einzeiler: string; themen: string[]; profil: Record<string, any>; bevoelkerung: any | null };
+type Modell = { slug: string; name: string; anzahl: number; avgScore: number; kritikQuote: number; avgHighlights: number; avgDivergenz: number; ausrufQuote: number; labels: { haltung: string; kritik: string; ton: string } };
 
 const D = data as any;
-const personas: Persona[] = D.personas;
-const ergebnisse: Ergebnis[] = D.ergebnisse;
+const MODELLE: Modell[] = D.modelle;
+const PERSONAS: Persona[] = D.personas;
+const ERG: Erg[] = D.ergebnisse;
+const DIVERGENZ: { persona: string; partei: string; land: string; scores: Record<string, number>; spanne: number }[] = D.divergenz;
+const LAND = "sachsen-anhalt";
+
+/* ---------------- Helfer ---------------- */
+const el = (t: string, c?: string, txt?: string) => { const e = document.createElement(t); if (c) e.className = c; if (txt != null) e.textContent = txt; return e; };
 const themaName = (id: string) => D.themen.find((t: any) => t.id === id)?.name ?? id;
+const persona = (slug: string) => PERSONAS.find((p) => p.slug === slug);
+const modell = (slug: string) => MODELLE.find((m) => m.slug === slug);
+const kurz = (slug: string) =>
+  slug.replace(/^(claude|anthropic|openai|google|gpt|gemini)[-/]?/i, "").replace(/-/g, " ")
+    .replace(/\b(\d) (\d)\b/g, "$1.$2").replace(/\b\w/g, (c) => c.toUpperCase()) || slug;
+const parteiName = (p: string) => (p === "gruene" ? "Grüne" : p.toUpperCase());
 
-const el = (tag: string, cls?: string, text?: string) => {
-  const e = document.createElement(tag);
-  if (cls) e.className = cls;
-  if (text != null) e.textContent = text;
-  return e;
-};
-const chip = (text: string) => el("span", "chip", text);
+const erg = (m: string, p: string, pa: string) => ERG.find((e) => e.modell_slug === m && e.persona === p && e.partei === pa);
+const ergsMP = (m: string, p: string) => ERG.filter((e) => e.modell_slug === m && e.persona === p);
+const avg = (xs: number[]) => (xs.length ? xs.reduce((a, b) => a + b, 0) / xs.length : 0);
+const parteienMit = (m: string) => [...new Set(ERG.filter((e) => e.modell_slug === m).map((e) => e.partei))]
+  .sort((a, b) => D.parteien.indexOf(a) - D.parteien.indexOf(b));
 
-/** Modelle, für die diese Persona Auswertungen hat. */
-const modelleFuer = (slug: string): string[] => [
-  ...new Set(ergebnisse.filter((e) => e.persona === slug).map((e) => e.modell_slug)),
-];
-/** Hübsches Tab-Label aus dem Modell-Slug (claude-opus-4-8 → Opus 4.8). */
-const modellLabel = (s: string) =>
-  s.replace(/^(claude|anthropic|openai|google|gpt|gemini)[-/]?/i, "").replace(/-/g, " ").replace(/\b(\d) (\d)\b/g, "$1.$2").replace(/\b\w/g, (c) => c.toUpperCase()) || s;
+/** Score (−2..+2) → Farbe rot↔grün. */
+const scoreFarbe = (s: number) => `hsl(${((s + 2) / 4) * 125} 60% 45%)`;
+const scoreTxt = (s: number) => (s >= 0 ? "+" : "") + s;
 
 function avatar(p: Persona, klasse: string): HTMLCanvasElement {
   const cv = el("canvas", klasse) as HTMLCanvasElement;
-  try {
-    const cfg = p.profil?.gesicht?.config ? normalizeConfig(p.profil.gesicht.config) : configFromSeed(p.slug);
-    renderAvatar(cv, cfg);
-  } catch {
-    /* Avatar optional */
-  }
+  try { renderAvatar(cv, p.profil?.gesicht?.config ? normalizeConfig(p.profil.gesicht.config) : configFromSeed(p.slug)); } catch { /* */ }
   return cv;
 }
+const chip = (t: string, cls = "") => el("span", "chip " + cls, t);
 
-// --- Übersicht ------------------------------------------------------------
-function renderListe() {
-  const raster = document.getElementById("personas")!;
-  const detail = document.getElementById("detail")!;
-  detail.hidden = true;
-  raster.hidden = false;
-  raster.innerHTML = "";
-  for (const p of personas) {
-    const karte = el("a", "karte") as HTMLAnchorElement;
-    karte.href = `#/persona/${p.slug}`;
-    karte.append(avatar(p, "avatar"));
-    karte.append(el("h3", "", p.name));
-    if (p.einzeiler) karte.append(el("p", "einzeiler", p.einzeiler));
-    const themen = el("div", "themen");
-    p.themen.forEach((t) => themen.append(chip(themaName(t))));
-    karte.append(themen);
-    if (p.bevoelkerung?.anteil) karte.append(el("p", "anteil", `≈ ${p.bevoelkerung.anteil}`));
-    const n = modelleFuer(p.slug).length;
-    karte.append(el("p", "meta", n ? `${n} Modell-Auswertung(en)` : "noch keine Auswertung"));
-    raster.append(karte);
-  }
-  window.scrollTo(0, 0);
-}
-
-// --- Profil-Rendering -----------------------------------------------------
-function renderWert(key: string, val: any): HTMLElement {
-  const box = el("div", "feld");
-  box.append(el("dt", "", key.replace(/_/g, " ")));
-  const dd = el("dd");
-  if (Array.isArray(val)) {
-    const ul = el("ul");
-    val.forEach((v) => {
-      if (v && typeof v === "object") {
-        const li = el("li");
-        li.append(el("strong", "", String(v.gruppe ?? Object.values(v)[0] ?? "")));
-        const rest = v.haltung ?? Object.values(v)[1];
-        if (rest) li.append(document.createTextNode(` — ${rest}`));
-        ul.append(li);
-      } else ul.append(el("li", "", String(v)));
-    });
-    dd.append(ul);
-  } else if (val && typeof val === "object") {
-    const dl = el("dl", "unterliste");
-    Object.entries(val).forEach(([k, v]) => dl.append(renderWert(k, v)));
-    dd.append(dl);
-  } else {
-    dd.textContent = String(val);
-  }
-  box.append(dd);
-  return box;
-}
-
-function badge(h: Highlight): HTMLElement {
-  const ok = h.beleg_ok;
-  const b = el("span", "beleg " + (ok === true ? "ok" : ok === false ? "fehler" : "offen"));
-  b.title = ok === true ? "Zitat auf Seite verifiziert" : ok === false ? "Zitat nicht auf Seite gefunden" : "nicht geprüft";
-  b.textContent = ok === true ? "✓ belegt" : ok === false ? "⚠ ungeprüft" : "•";
+/** KI-Act-Kennzeichnung für ein einzelnes KI-Urteil. */
+function kiBadge(e: Erg): HTMLElement {
+  const b = el("div", "ki-badge");
+  b.append(el("span", "ki-dot", "● KI-generiert"));
+  const datum = e.zeitpunkt ? new Date(e.zeitpunkt).toLocaleDateString("de-DE") : "";
+  b.append(el("span", "", ` ${kurz(e.modell_slug)}${datum ? " · " + datum : ""} · kann Fehler/Bias enthalten`));
   return b;
 }
 
-function renderHighlight(h: Highlight): HTMLElement {
+/* ---------------- Steuerleiste / Split ---------------- */
+function getQuery(): URLSearchParams { return new URLSearchParams(location.hash.split("?")[1] ?? ""); }
+function setVs(slug: string | null) {
+  const [pfad] = location.hash.split("?");
+  const q = getQuery();
+  if (slug) q.set("vs", slug); else q.delete("vs");
+  const qs = q.toString();
+  location.hash = pfad + (qs ? "?" + qs : "");
+}
+/** „Modell dazuschalten"-Auswahl (max 2). */
+function vergleichLeiste(aktiv: string, vs: string | null): HTMLElement {
+  const bar = el("div", "vsbar");
+  bar.append(el("span", "vslbl", "Vergleichen mit:"));
+  for (const m of MODELLE) {
+    if (m.slug === aktiv) continue;
+    const b = el("button", "vsbtn" + (vs === m.slug ? " an" : ""), kurz(m.slug));
+    b.onclick = () => setVs(vs === m.slug ? null : m.slug);
+    bar.append(b);
+  }
+  if (vs) { const x = el("button", "vsbtn aus", "Vergleich aus ✕"); x.onclick = () => setVs(null); bar.append(x); }
+  return bar;
+}
+
+/* ---------------- Bausteine ---------------- */
+function gutSchlechtBalken(gut: number, schlecht: number): HTMLElement {
+  const w = el("span", "gsbalken");
+  const g = el("span", "gs-gut"); g.style.flex = String(gut); g.title = gut + "× gut";
+  const s = el("span", "gs-schlecht"); s.style.flex = String(schlecht); s.title = schlecht + "× schlecht";
+  if (gut) w.append(g); if (schlecht) w.append(s);
+  w.append(el("span", "gs-zahl", `+${gut}/−${schlecht}`));
+  return w;
+}
+function scorePill(s: number): HTMLElement { const p = el("span", "scorepill", scoreTxt(s)); p.style.background = scoreFarbe(s); return p; }
+
+/* ---------------- Ansicht: Landing ---------------- */
+function landing(root: HTMLElement) {
+  // Datenfluss-Hero
+  const hero = el("section", "hero");
+  const fluss = el("div", "fluss");
+  const q = el("div", "fl-box"); q.innerHTML = `<strong>${PERSONAS.length} Lebenslagen</strong><span>fiktive Personas</span><strong>${D.parteien.length} Wahlprogramme</strong><span>Sachsen-Anhalt</span>`;
+  const pfeil1 = el("div", "fl-pfeil", "→");
+  const m = el("div", "fl-box"); m.innerHTML = `<strong>${MODELLE.length} KI-Modelle</strong><span>${MODELLE.map((x) => kurz(x.slug)).join(" · ")}</span>`;
+  const pfeil2 = el("div", "fl-pfeil", "→");
+  const r = el("div", "fl-box"); r.innerHTML = `<strong>${ERG.length} KI-Urteile</strong><span>je mit Seite + Zitat belegt</span>`;
+  fluss.append(q, pfeil1, m, pfeil2, r);
+  hero.append(el("h2", "", "Wie urteilen KI-Modelle über die Wahlprogramme?"), fluss);
+  root.append(hero);
+
+  // Bias-Erklärbox
+  const ex = el("div", "infobox");
+  ex.innerHTML = `<strong>Was ist Modell-Bias?</strong> Alle Modelle lesen dieselben Programme aus Sicht derselben fiktiven Personas — und urteilen trotzdem unterschiedlich streng und unterschiedlich kritisch. Dieses Urteil hängt vom <em>Modell</em> (und seiner Version) ab. Wähle ein Modell und sieh selbst — oder schalte zwei nebeneinander.`;
+  root.append(ex);
+
+  // Signatur-Karten
+  root.append(el("h3", "abschnitt", "Die Modelle und ihr Bias"));
+  const grid = el("div", "sig-grid");
+  for (const mo of MODELLE) {
+    const k = el("a", "sigkarte") as HTMLAnchorElement;
+    k.href = `#/modell/${mo.slug}`;
+    k.append(el("h4", "", kurz(mo.slug)));
+    k.append(el("div", "sig-modell", mo.name));
+    const z = el("div", "sig-zahlen");
+    z.append(sigZeile("Ø-Urteil", scoreTxt(mo.avgScore), scoreFarbe(mo.avgScore)));
+    z.append(sigZeile("Kritik-Quote", Math.round(mo.kritikQuote * 100) + " %", scoreFarbe(2 - mo.kritikQuote * 4)));
+    z.append(sigZeile("Tonalität", mo.labels.ton));
+    z.append(sigZeile("Ø Punkte/Urteil", String(mo.avgHighlights)));
+    k.append(z);
+    k.append(el("div", "sig-label", `${mo.labels.kritik}, ${mo.labels.ton} · ${mo.anzahl} Urteile`));
+    k.append(el("span", "sig-cta", "→ Personas ansehen"));
+    grid.append(k);
+  }
+  root.append(grid);
+
+  const nav = el("div", "unternav");
+  const v = el("a", "navbtn") as HTMLAnchorElement; v.href = "#/vergleich"; v.textContent = "⚖ Wo sind sich die Modelle uneinig?";
+  const pl = el("a", "navbtn") as HTMLAnchorElement; pl.href = "#/personas"; pl.textContent = "👤 Nach Persona einsteigen";
+  nav.append(v, pl);
+  root.append(nav);
+}
+function sigZeile(label: string, wert: string, farbe?: string): HTMLElement {
+  const z = el("div", "sigzeile"); z.append(el("span", "sz-l", label));
+  const w = el("span", "sz-w", wert); if (farbe) w.style.color = farbe; z.append(w); return z;
+}
+
+/* ---------------- Ansicht: Modell → Personas ---------------- */
+function modellAnsicht(root: HTMLElement, mSlug: string, vs: string | null) {
+  const mo = modell(mSlug); if (!mo) return landing(root);
+  root.append(brotkrume([["#/", "Start"], [null, kurz(mSlug)]]));
+  root.append(el("h2", "", `${kurz(mSlug)}: Sicht auf die ${PERSONAS.length} Lebenslagen`));
+  root.append(signaturBanner(mo));
+  root.append(vergleichLeiste(mSlug, vs));
+
+  const tabelle = el("div", "qtab");
+  for (const p of PERSONAS) {
+    const aErg = ergsMP(mSlug, p.slug);
+    const aScore = avg(aErg.map((e) => e.gesamt.score));
+    const aGut = aErg.reduce((s, e) => s + e.besonders_gut.length, 0);
+    const aSchlecht = aErg.reduce((s, e) => s + e.besonders_schlecht.length, 0);
+    const row = el("a", "qrow") as HTMLAnchorElement;
+    row.href = `#/modell/${mSlug}/persona/${p.slug}` + (vs ? `?vs=${vs}` : "");
+    row.append(avatar(p, "avatar mini"));
+    const name = el("div", "qname"); name.append(el("strong", "", p.name)); name.append(el("span", "fiktiv", "fiktiv"));
+    row.append(name);
+    if (!vs) { row.append(scorePill(aScore)); row.append(gutSchlechtBalken(aGut, aSchlecht)); }
+    else {
+      const bErg = ergsMP(vs, p.slug); const bScore = avg(bErg.map((e) => e.gesamt.score));
+      row.append(splitScores(aScore, bScore));
+    }
+    tabelle.append(row);
+  }
+  root.append(tabelle);
+}
+
+/* ---------------- Ansicht: Modell × Persona → Parteien ---------------- */
+function personaAnsicht(root: HTMLElement, mSlug: string, pSlug: string, vs: string | null) {
+  const mo = modell(mSlug); const p = persona(pSlug); if (!mo || !p) return landing(root);
+  root.append(brotkrume([["#/", "Start"], [`#/modell/${mSlug}`, kurz(mSlug)], [null, p.name]]));
+  const kopf = el("div", "detail-kopf"); kopf.append(avatar(p, "avatar gross"));
+  const ti = el("div"); ti.append(el("h2", "", p.name)); ti.append(el("span", "fiktiv gross", "fiktive Persona – keine reale Person"));
+  if (p.einzeiler) ti.append(el("p", "einzeiler", p.einzeiler));
+  kopf.append(ti); root.append(kopf);
+  root.append(vergleichLeiste(mSlug, vs));
+  root.append(el("h3", "abschnitt", `Wie ${kurz(mSlug)} diese Persona zu den Parteien einordnet`));
+
+  const tab = el("div", "qtab");
+  for (const pa of parteienMit(mSlug)) {
+    const a = erg(mSlug, pSlug, pa); if (!a) continue;
+    const row = el("a", "qrow") as HTMLAnchorElement;
+    row.href = `#/modell/${mSlug}/persona/${pSlug}/partei/${pa}` + (vs ? `?vs=${vs}` : "");
+    row.append(el("strong", "qpartei", parteiName(pa)));
+    if (!vs) { row.append(scorePill(a.gesamt.score)); row.append(gutSchlechtBalken(a.besonders_gut.length, a.besonders_schlecht.length)); }
+    else { const b = erg(vs, pSlug, pa); row.append(splitScores(a.gesamt.score, b ? b.gesamt.score : NaN)); }
+    tab.append(row);
+  }
+  root.append(tab);
+}
+
+/* ---------------- Ansicht: Blatt (Modell × Persona × Partei) ---------------- */
+function highlightKarte(h: Highlight): HTMLElement {
   const box = el("div", "highlight");
   const kopf = el("div", "hl-kopf");
   kopf.append(el("strong", "titel", `„${h.titel_selbst}"`));
@@ -138,129 +209,138 @@ function renderHighlight(h: Highlight): HTMLElement {
   box.append(el("p", "selbst", h.begruendung_selbst));
   box.append(el("p", "analytisch", h.begruendung));
   if (h.zitat) {
-    const beleg = el("p", "belegzeile");
-    beleg.append(badge(h));
-    beleg.append(document.createTextNode(` S. ${h.seite ?? "?"}: „${h.zitat}"`));
-    box.append(beleg);
+    const b = el("p", "belegzeile");
+    const ok = h.beleg_ok; b.append(el("span", "beleg " + (ok === true ? "ok" : ok === false ? "fehler" : "offen"), ok === true ? "✓ belegt" : ok === false ? "⚠ ungeprüft" : "•"));
+    b.append(document.createTextNode(` S. ${h.seite ?? "?"}: „${h.zitat}"`));
+    box.append(b);
   }
   return box;
 }
+function blattSpalte(e: Erg | undefined, titel: string): HTMLElement {
+  const sp = el("div", "blattspalte");
+  const h = el("div", "bs-kopf"); h.append(el("strong", "", titel));
+  if (e) { h.append(scorePill(e.gesamt.score)); }
+  sp.append(h);
+  if (!e) { sp.append(el("p", "meta", "Keine Auswertung.")); return sp; }
+  sp.append(kiBadge(e));
+  sp.append(el("p", "zusammenfassung", e.gesamt.zusammenfassung));
+  if (e.besonders_gut.length) { sp.append(el("h4", "gut", "👍 Besonders gut")); e.besonders_gut.forEach((x) => sp.append(highlightKarte(x))); }
+  if (e.besonders_schlecht.length) { sp.append(el("h4", "schlecht", "👎 Besonders schlecht")); e.besonders_schlecht.forEach((x) => sp.append(highlightKarte(x))); }
+  return sp;
+}
+function blattAnsicht(root: HTMLElement, mSlug: string, pSlug: string, pa: string, vs: string | null) {
+  const p = persona(pSlug); if (!p) return landing(root);
+  root.append(brotkrume([["#/", "Start"], [`#/modell/${mSlug}`, kurz(mSlug)], [`#/modell/${mSlug}/persona/${pSlug}`, p.name], [null, parteiName(pa)]]));
+  const kopf = el("div", "detail-kopf"); kopf.append(avatar(p, "avatar gross"));
+  const ti = el("div"); ti.append(el("h2", "", `${p.name} × ${parteiName(pa)}`)); ti.append(el("span", "fiktiv gross", "fiktive Persona – keine reale Person"));
+  kopf.append(ti); root.append(kopf);
+  root.append(vergleichLeiste(mSlug, vs));
 
-function renderProfilTab(p: Persona): HTMLElement {
-  const wrap = el("div", "tab-inhalt");
-  if (p.bevoelkerung) {
-    const bev = el("section", "bevoelkerung");
-    bev.append(el("h3", "", "Anteil der Bevölkerung"));
-    bev.append(el("p", "", `${p.bevoelkerung.anteil ?? "?"} — ${p.bevoelkerung.bezug ?? ""}`));
-    if (!p.bevoelkerung.verifiziert) bev.append(el("p", "warn", "⚠ Entwurf, noch nicht gegen Primärquelle verifiziert"));
-    const quellen = p.bevoelkerung.quellen ?? [];
-    if (quellen.length) {
-      const ul = el("ul");
-      quellen.forEach((q: any) => {
-        const li = el("li");
-        const a = el("a", "", `${q.herausgeber ?? q.titel}: ${q.wert ?? ""}`) as HTMLAnchorElement;
-        if (q.url) {
-          a.href = q.url;
-          a.target = "_blank";
-          a.rel = "noopener";
-        }
-        li.append(a);
-        ul.append(li);
-      });
-      bev.append(ul);
-    }
-    wrap.append(bev);
+  const a = erg(mSlug, pSlug, pa);
+  if (!vs) { const wrap = el("div", "blatt-einzel"); wrap.append(blattSpalte(a, kurz(mSlug))); root.append(wrap); return; }
+  // Split + Diff
+  const b = erg(vs, pSlug, pa);
+  root.append(diffUebersicht(a, b, mSlug, vs));
+  const split = el("div", "blatt-split"); split.append(blattSpalte(a, kurz(mSlug))); split.append(blattSpalte(b, kurz(vs))); root.append(split);
+}
+
+/** Match-Heuristik: gleiches Thema + nahe Seite (±2). */
+function diffUebersicht(a: Erg | undefined, b: Erg | undefined, mA: string, mB: string): HTMLElement {
+  const box = el("div", "diffbox");
+  if (!a || !b) { box.append(el("p", "meta", "Vergleich nur möglich, wenn beide Modelle eine Auswertung haben.")); return box; }
+  const ha = [...a.besonders_gut, ...a.besonders_schlecht], hb = [...b.besonders_gut, ...b.besonders_schlecht];
+  const match = (x: Highlight, y: Highlight) => x.thema === y.thema && x.seite != null && y.seite != null && Math.abs((x.seite ?? 0) - (y.seite ?? 0)) <= 2;
+  const beide = ha.filter((x) => hb.some((y) => match(x, y))).length;
+  const nurA = ha.length - beide, nurB = hb.filter((y) => !ha.some((x) => match(x, y))).length;
+  box.append(el("strong", "", "Vergleich der Begründungen "));
+  box.append(el("span", "diffstat", `Δ Score ${Math.abs((a.gesamt.score) - (b.gesamt.score))} · gemeinsam ${beide} · nur ${kurz(mA)} ${nurA} · nur ${kurz(mB)} ${nurB}`));
+  box.append(el("p", "mini", "„Gemeinsam“ = beide Modelle nennen einen Punkt zum selben Thema auf naher Seite (±2, approximativ)."));
+  return box;
+}
+
+/* ---------------- Ansicht: Vergleich/Divergenz ---------------- */
+function vergleichAnsicht(root: HTMLElement) {
+  root.append(brotkrume([["#/", "Start"], [null, "Modell-Vergleich"]]));
+  root.append(el("h2", "", "Wo sind sich die Modelle uneinig?"));
+  root.append(infoZeile("Je größer die Spannweite der Urteile über die Modelle, desto stärker hängt die Bewertung vom gewählten Modell ab — der Modell-Bias wird hier am deutlichsten."));
+  const liste = el("div", "qtab");
+  for (const d of DIVERGENZ.slice(0, 60)) {
+    const p = persona(d.persona);
+    const row = el("a", "qrow") as HTMLAnchorElement;
+    const erstes = MODELLE[0]?.slug ?? "";
+    row.href = `#/modell/${erstes}/persona/${d.persona}/partei/${d.partei}`;
+    row.append(el("strong", "qname", `${p?.name ?? d.persona} × ${parteiName(d.partei)}`));
+    const sc = el("span", "divscores");
+    for (const m of MODELLE) { if (d.scores[m.slug] === undefined) continue; const t = el("span", "divscore", `${kurz(m.slug)} ${scoreTxt(d.scores[m.slug])}`); t.style.borderColor = scoreFarbe(d.scores[m.slug]); sc.append(t); }
+    row.append(sc);
+    row.append(el("span", "spanne", d.spanne === 0 ? "Konsens" : "Δ" + d.spanne));
+    liste.append(row);
   }
-  const profil = el("section", "profil");
-  profil.append(el("h3", "", "Profil"));
-  const dl = el("dl");
-  const skip = new Set(["name", "einzeiler", "themen", "gesicht"]);
-  Object.entries(p.profil).forEach(([k, v]) => {
-    if (!skip.has(k)) dl.append(renderWert(k, v));
+  root.append(liste);
+}
+
+/* ---------------- Ansicht: Personas (Zweit-Einstieg) ---------------- */
+function personenliste(root: HTMLElement) {
+  root.append(brotkrume([["#/", "Start"], [null, "Alle Personas"]]));
+  root.append(el("h2", "", "Nach Persona einsteigen"));
+  root.append(infoZeile("Wähle eine Lebenslage; sie wird mit dem ersten Modell geöffnet — Modell danach jederzeit wechselbar."));
+  const grid = el("div", "raster");
+  const erstes = MODELLE[0]?.slug ?? "";
+  for (const p of PERSONAS) {
+    const k = el("a", "karte") as HTMLAnchorElement; k.href = `#/modell/${erstes}/persona/${p.slug}`;
+    k.append(avatar(p, "avatar")); k.append(el("h3", "", p.name));
+    if (p.einzeiler) k.append(el("p", "einzeiler", p.einzeiler));
+    const th = el("div", "themen"); p.themen.forEach((t) => th.append(chip(themaName(t)))); k.append(th);
+    k.append(el("span", "fiktiv", "fiktiv"));
+    grid.append(k);
+  }
+  root.append(grid);
+}
+
+/* ---------------- gemeinsame Bausteine ---------------- */
+function brotkrume(teile: [string | null, string][]): HTMLElement {
+  const bc = el("nav", "brotkrume");
+  teile.forEach(([href, label], i) => {
+    if (i) bc.append(el("span", "bc-sep", "›"));
+    if (href) { const a = el("a", "", label) as HTMLAnchorElement; a.href = href; bc.append(a); } else bc.append(el("span", "bc-akt", label));
   });
-  profil.append(dl);
-  wrap.append(profil);
-  return wrap;
+  return bc;
 }
-
-function renderModellTab(p: Persona, modellSlug: string): HTMLElement {
-  const wrap = el("div", "tab-inhalt");
-  const eigene = ergebnisse
-    .filter((e) => e.persona === p.slug && e.modell_slug === modellSlug)
-    .sort((a, b) => a.land.localeCompare(b.land) || a.partei.localeCompare(b.partei));
-  if (!eigene.length) {
-    wrap.append(el("p", "meta", "Keine Auswertung für dieses Modell."));
-    return wrap;
-  }
-  for (const e of eigene) {
-    const block = el("article", "ergebnis");
-    const h = el("div", "erg-kopf");
-    h.append(el("strong", "", `${e.partei.toUpperCase()} · ${e.land}`));
-    h.append(chip(`Score ${e.gesamt.score >= 0 ? "+" : ""}${e.gesamt.score}`));
-    block.append(h);
-    block.append(el("p", "zusammenfassung", e.gesamt.zusammenfassung));
-    if (e.besonders_gut.length) {
-      block.append(el("h4", "gut", "👍 Besonders gut"));
-      e.besonders_gut.forEach((x) => block.append(renderHighlight(x)));
-    }
-    if (e.besonders_schlecht.length) {
-      block.append(el("h4", "schlecht", "👎 Besonders schlecht"));
-      e.besonders_schlecht.forEach((x) => block.append(renderHighlight(x)));
-    }
-    wrap.append(block);
-  }
-  return wrap;
+function signaturBanner(mo: Modell): HTMLElement {
+  const b = el("div", "sigbanner");
+  b.append(el("span", "", `Ø-Urteil `)); b.append(scorePill(mo.avgScore));
+  b.append(el("span", "sb-sep", `· Kritik-Quote ${Math.round(mo.kritikQuote * 100)} % · ${mo.labels.kritik}, ${mo.labels.ton}`));
+  return b;
 }
+function splitScores(a: number, b: number): HTMLElement {
+  const w = el("span", "splitscore");
+  w.append(scorePill(a));
+  w.append(el("span", "vs", "vs"));
+  w.append(isNaN(b) ? el("span", "meta", "—") : scorePill(b));
+  if (!isNaN(b)) { const d = Math.abs(a - b); const dd = el("span", "delta", d ? "Δ" + d : "="); if (d >= 2) dd.classList.add("hoch"); w.append(dd); }
+  return w;
+}
+function infoZeile(t: string): HTMLElement { return el("p", "infozeile", t); }
 
-function renderDetail(p: Persona, aktiverTab: string) {
-  const raster = document.getElementById("personas")!;
-  const detail = document.getElementById("detail")!;
-  raster.hidden = true;
-  detail.hidden = false;
-  detail.innerHTML = "";
-
-  const zurueck = el("a", "zurueck", "← Alle Personas") as HTMLAnchorElement;
-  zurueck.href = "#/";
-  detail.append(zurueck);
-
-  const kopf = el("div", "detail-kopf");
-  kopf.append(avatar(p, "avatar gross"));
-  const titel = el("div");
-  titel.append(el("h2", "", p.name));
-  if (p.einzeiler) titel.append(el("p", "einzeiler", p.einzeiler));
-  kopf.append(titel);
-  detail.append(kopf);
-
-  // Tab-Leiste: Profil + je Modell ein Tab
-  const tabs = el("nav", "tabs");
-  const mkTab = (label: string, href: string, aktiv: boolean) => {
-    const a = el("a", "tab" + (aktiv ? " aktiv" : ""), label) as HTMLAnchorElement;
-    a.href = href;
-    return a;
-  };
-  tabs.append(mkTab("Profil", `#/persona/${p.slug}`, aktiverTab === "profil"));
-  for (const m of modelleFuer(p.slug)) {
-    tabs.append(mkTab(modellLabel(m), `#/persona/${p.slug}/llm/${m}`, aktiverTab === m));
-  }
-  detail.append(tabs);
-
-  detail.append(aktiverTab === "profil" ? renderProfilTab(p) : renderModellTab(p, aktiverTab));
+/* ---------------- Router ---------------- */
+function route() {
+  const root = document.getElementById("app")!;
+  root.innerHTML = "";
+  const [pfad] = location.hash.replace(/^#\/?/, "").split("?");
+  const teile = pfad.split("/").filter(Boolean);
+  const vs = getQuery().get("vs");
+  // teile: [] | [modell,M] | [modell,M,persona,P] | [modell,M,persona,P,partei,PA] | [vergleich] | [personas]
+  if (teile[0] === "vergleich") vergleichAnsicht(root);
+  else if (teile[0] === "personas") personenliste(root);
+  else if (teile[0] === "modell" && teile[1]) {
+    const M = teile[1];
+    if (teile[2] === "persona" && teile[3] && teile[4] === "partei" && teile[5]) blattAnsicht(root, M, teile[3], teile[5], vs);
+    else if (teile[2] === "persona" && teile[3]) personaAnsicht(root, M, teile[3], vs);
+    else modellAnsicht(root, M, vs);
+  } else landing(root);
   window.scrollTo(0, 0);
 }
 
-// --- Routing (#/, #/persona/:slug, #/persona/:slug/llm/:modell) ----------
-function route() {
-  const parts = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
-  if (parts[0] === "persona" && parts[1]) {
-    const p = personas.find((x) => x.slug === parts[1]);
-    if (!p) return renderListe();
-    const modelle = modelleFuer(p.slug);
-    const tab = parts[2] === "llm" && parts[3] && modelle.includes(parts[3]) ? parts[3] : "profil";
-    return renderDetail(p, tab);
-  }
-  renderListe();
-}
-
-document.getElementById("stand")!.textContent = `Stand: ${new Date(D.erzeugt).toLocaleString("de-DE")}`;
+document.getElementById("stand")!.textContent = `Stand: ${new Date(D.erzeugt).toLocaleString("de-DE")} · ${ERG.length} KI-Urteile`;
 window.addEventListener("hashchange", route);
 route();

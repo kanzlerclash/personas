@@ -1,0 +1,117 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sachlich statt populistisch!",
+      "thema": "integration",
+      "programmpunkt": "Die FDP möchte die Migrationspolitik pragmatisch angehen und grenzt sich explizit davon ab, dabei Ängste oder populistische Stimmungen zu schüren.",
+      "seite": 10,
+      "zitat": "„ohne Ängste und populistische Ressentiments zu schüren.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin fürchtet die zunehmende Polarisierung und ausgrenzende Rhetorik in der Migrationsdebatte. Dass sich eine Partei klar gegen das Schüren von Ressentiments stellt, deckt sich exakt mit ihrem Wunsch nach einer sachlichen Diskussion.",
+      "begruendung_selbst": "Endlich mal eine Partei, die Migration sachlich steuern will, ohne gleich gegen uns zu hetzen oder Panikmache zu betreiben."
+    },
+    {
+      "titel_selbst": "Keine anlasslosen Kontrollen mehr!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP fordert die Abschaffung von Waffenverbotszonen, um damit einhergehende anlasslose Personenkontrollen durch die Polizei zu beenden.",
+      "seite": 52,
+      "zitat": "„die Abschaffung der Möglichkeit der anlasslosen Personenkontrollen in diesen.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin reagiert empfindlich auf Sicherheitsmaßnahmen, die Migranten unter pauschalen Verdacht stellen. Sie verbindet anlasslose Kontrollen mit Alltagsdiskriminierung und Racial Profiling, weshalb sie deren Abschaffung sehr begrüßt.",
+      "begruendung_selbst": "Solche anlasslosen Kontrollen treffen am Ende doch meistens Menschen, die 'anders' aussehen. Gut, dass das abgeschafft werden soll."
+    },
+    {
+      "titel_selbst": "Ausländerbehörden endlich entlasten!",
+      "thema": "demokratie",
+      "programmpunkt": "Zur Beschleunigung sollen Prozesse so optimiert werden, dass berufsbezogene Aufenthaltstitel künftig verlässlich innerhalb von vier Wochen ausgestellt werden können.",
+      "seite": 11,
+      "zitat": "„Aufenthaltstitel, die zur Aufnahme einer Beschäftigung berechtigen, innerhalb von 4 Wochen erteilt werden.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Mitarbeiterin im öffentlichen Dienst weiß Aylin genau, wie sehr Verwaltungshürden die Integration bremsen. Schnelle Prozesse erleichtern sowohl den Behörden als auch den Einwanderern das Leben.",
+      "begruendung_selbst": "Wer arbeiten will, soll arbeiten dürfen. Vier Wochen für einen Titel wären eine echte Entlastung für alle Seiten, auch für uns in der Verwaltung."
+    },
+    {
+      "titel_selbst": "Anerkennung statt unnötiger Hürden!",
+      "thema": "arbeit",
+      "programmpunkt": "Um das wirtschaftliche Potenzial von Zuwanderern besser zu nutzen, sollen deren im Ausland erworbene Qualifikationen deutlich schneller anerkannt werden.",
+      "seite": 10,
+      "zitat": "„ausländische Qualifikationen schneller anerkannt werden, um die wirtschaftliche Produktivität in Sachsen-Anhalt zu steigern.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin ärgert es, wenn Menschen in Deutschland ankommen und durch Bürokratie von der Teilhabe am Arbeitsmarkt abgehalten werden. Eine schnellere Anerkennung stärkt die Integration und belohnt Leistung.",
+      "begruendung_selbst": "Die Leute bringen Fähigkeiten mit, und wir lassen sie monatelang Formulare ausfüllen. Das muss wirklich schneller gehen!"
+    },
+    {
+      "titel_selbst": "Endlich moderner arbeiten im Amt!",
+      "thema": "arbeit",
+      "programmpunkt": "Der öffentliche Dienst, beispielsweise in der Justiz, soll durch flächendeckend flexible Arbeitszeiten und Möglichkeiten für mobiles Arbeiten als Arbeitgeber attraktiver gemacht werden.",
+      "seite": 50,
+      "zitat": "„flächendeckend flexible Arbeitszeiten und mobiles Arbeiten ermöglichen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Aylin selbst im öffentlichen Dienst in einer Stadtverwaltung arbeitet, schätzt sie Bestrebungen, die behördlichen Arbeitsbedingungen an moderne Standards anzupassen.",
+      "begruendung_selbst": "Auch wir im öffentlichen Dienst wollen moderne Arbeitsbedingungen. Mehr Flexibilität und Homeoffice würden unseren Berufsalltag wirklich aufwerten."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Teilhabe darf keine Geldfrage sein!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei plant, Sprachkurse vorrangig für jene Zugewanderten anzubieten, die den Eigenanteil dafür selbst bezahlen können.",
+      "seite": 11,
+      "zitat": "„vorrangig für Selbstzahler oder Teilnehmer, die den üblichen Eigenanteil aus eigener Tasche entrichten wollen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Aylin ist Sprache die unverzichtbare Grundvoraussetzung für Integration und gesellschaftliche Teilhabe. Dass Kurse primär als finanzielle Eigenleistung gefordert werden sollen, steht ihrem Verständnis von Inklusion entgegen.",
+      "begruendung_selbst": "Wer verlangt, dass Menschen sich integrieren, darf Sprachkurse nicht zum Luxus machen. Sprache lernen muss für jeden möglich sein!"
+    },
+    {
+      "titel_selbst": "Fußfesseln wie für Schwerverbrecher?",
+      "thema": "integration",
+      "programmpunkt": "Um Ausreisepflichten besser durchzusetzen, möchte die FDP die gerichtliche Anordnung von elektronischen Fußfesseln für abgelehnte Asylbewerber ermöglichen.",
+      "seite": 11,
+      "zitat": "„gerichtliche Anordnung elektronischer Fußfesseln anstelle einer vollständigen Freiheitsentziehung ermöglichen.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl Aylin eine geregelte Migration befürwortet, ist ihr der Einsatz von Fußfesseln bei reinen Ausreisepflichtigen zu stark kriminalisierend. Sie fürchtet, dass dadurch ein pauschales Bild von Migranten als Kriminellen gefördert wird.",
+      "begruendung_selbst": "Elektronische Fußfesseln bei Leuten, die einfach nur ausreisepflichtig sind? Da kippt die sachliche Steuerung für mich in Kriminalisierung und pauschale Härte."
+    },
+    {
+      "titel_selbst": "Verwaltung schließt Menschen aus!",
+      "thema": "demokratie",
+      "programmpunkt": "Verwaltungsleistungen sollen künftig ausschließlich digital angeboten werden, klassische Kommunikationswege wie E-Mail oder Post sollen entfallen, sobald es ein digitales Tool gibt.",
+      "seite": 49,
+      "zitat": "„ausschließlich digital anbieten können – der Postweg oder die E-Mail entfällt.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Verwaltungsmitarbeiterin weiß Aylin um die Bedeutung eines zugänglichen Staates. Ein rigoroser 'Digital Only'-Ansatz grenzt ihrer Erfahrung nach ältere Menschen und jene mit Sprachbarrieren von der gesellschaftlichen Teilhabe ab.",
+      "begruendung_selbst": "Ich sehe im Amt jeden Tag Menschen, die mit digitalen Anträgen überfordert sind. Wir können doch nicht einfach den Postweg abschaffen und diese Leute abhängen!"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin begrüßt die sachliche und lösungsorientierte Migrations- und Integrationspolitik der FDP, insbesondere die Beschleunigung von Behördenprozessen und die klare Abgrenzung von populistischen Ressentiments. Sie honoriert zudem den Abbau anlassloser Polizeikontrollen, die oft zu Alltagsdiskriminierung führen, sowie geplante Modernisierungen im öffentlichen Dienst. Kritisch sieht sie jedoch restriktive Ansätze wie elektronische Fußfesseln für Ausreisepflichtige sowie die Privatisierung der Kosten für Sprachkurse, da beides aus ihrer Sicht echter Teilhabe und Respekt entgegensteht.",
+    "score": 1
+  }
+}

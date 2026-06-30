@@ -1,0 +1,84 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Respekt fürs Handwerk!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will handwerkliche Berufe aufwerten, Nachwuchs anwerben und sich für einen gebührenfreien Meistertitel einsetzen.",
+      "seite": 85,
+      "zitat": "die Wertschätzung des Handwerks stärken und junge Menschen für handwerkliche Berufe begeistern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine fühlt sich und ihre Branche von der Politik oft stiefmütterlich behandelt. Die gezielte Aufwertung des Handwerks spricht direkt ihr Bedürfnis nach Anerkennung und ihre Sorge um fehlenden Nachwuchs an.",
+      "begruendung_selbst": "Es wird höchste Zeit, dass man unseren Berufsstand wieder wertschätzt. Wenn der Handwerksberuf attraktiver wird, finden wir vielleicht auch endlich wieder motivierte Azubis."
+    },
+    {
+      "titel_selbst": "Hilfe bei der Betriebsübergabe",
+      "thema": "wirtschaft",
+      "programmpunkt": "Es sollen Beratungs- und Förderangebote aufgebaut werden, um kleine und mittlere Betriebe bei der Unternehmensnachfolge zu unterstützen.",
+      "seite": 85,
+      "zitat": "Wir unterstützen Unternehmensnachfolgen im Handwerk und Mittelstand",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die ungeklärte Nachfolge für ihren SHK-Betrieb in rund zehn Jahren bereitet Sabine große Sorgen. Die Aussicht auf praktische Unterstützung bei diesem existenziellen Thema entlastet sie.",
+      "begruendung_selbst": "Die Übergabe in ein paar Jahren ist mein größter Bauchschmerz, schließlich ist der Betrieb auch meine Altersvorsorge. Gute Beratung und Förderung würden mir da wirklich eine riesige Last nehmen."
+    },
+    {
+      "titel_selbst": "Runter mit den Energiekosten!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei plant, die finanzielle Belastung für Unternehmen und Haushalte durch eine Absenkung der Stromsteuer auf das europäische Mindestmaß zu verringern.",
+      "seite": 17,
+      "zitat": "Die Strompreise wollen wir senken durch eine Verringerung der Stromsteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiepreise schmälern den Gewinn ihres energieintensiven Betriebs und verunsichern ihre Kundschaft. Eine Steuersenkung käme ihrer Hoffnung auf bezahlbare Energie direkt entgegen.",
+      "begruendung_selbst": "Meine laufenden Kosten fressen die Gewinne auf, und meine Kunden haben Angst vor der nächsten Stromrechnung. Wenn die Stromsteuer endlich sinkt, hilft uns das allen sofort weiter."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Noch mehr staatliche Gängelung!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei fordert, dass auch in der freien Wirtschaft Tarifverträge und betriebliche Mitbestimmungsstrukturen weiter ausgebaut werden.",
+      "seite": 71,
+      "zitat": "Auch in der Privatwirtschaft sollen Tarifbindung und Mitbestimmung ausgebaut werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Inhaberin eines Kleinbetriebs setzt Sabine auf individuelle Absprachen und Eigenverantwortung. Staatlich forcierte Mitbestimmungs- oder Tarifvorgaben empfindet sie als Misstrauen in ihre Rolle als gute Arbeitgeberin und als zusätzliche Bürokratie.",
+      "begruendung_selbst": "In meinem Kleinbetrieb spreche ich jeden Tag direkt mit meinen Leuten und zahle fair – sonst wären sie längst bei der Konkurrenz. Ich brauche wirklich keine neuen staatlichen Auflagen, wie ich meine Mannschaft zu führen habe!"
+    },
+    {
+      "titel_selbst": "Wie kommt das Werkzeug zum Kunden?",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei möchte den Autoverkehr in Wohnvierteln reduzieren und die Schaffung autofreier Zonen durch verkehrsberuhigende Maßnahmen erleichtern.",
+      "seite": 88,
+      "zitat": "Wir fördern autoarme Quartiere durch Begrenzung des Durchgangsverkehrs",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines Arbeitsalltag erfordert es, Material und schweres Gerät mit dem Firmenwagen direkt bis vor die Haustür ihrer Kundschaft zu transportieren. Sperrungen oder verkehrsberuhigte Zonen bedeuten für sie massiven logistischen Mehraufwand.",
+      "begruendung_selbst": "Autoarme Viertel klingen für Spaziergänger ja ganz toll. Aber ich kann meine Heizkessel und das schwere Werkzeug für den Einbau schließlich nicht mit dem Lastenrad quer durch die Stadt strampeln!"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die handwerkspolitischen Vorstöße der Grünen, insbesondere zur Aufwertung des Berufsstandes, zur Meisterausbildung und bei der Betriebsübergabe, stoßen bei der SHK-Meisterin Sabine auf große Zustimmung. Auch die Pläne zur Senkung der Stromsteuer holen sie bei ihren akuten wirtschaftlichen Sorgen ab. Deutlich kritischer bewertet sie hingegen verkehrspolitische Einschränkungen wie autofreie Quartiere, die ihren Arbeitsalltag erschweren, sowie den Ruf nach mehr Tarifbindung, den sie als staatliche Einmischung in ihre unternehmerische Freiheit ablehnt.",
+    "score": 1
+  }
+}

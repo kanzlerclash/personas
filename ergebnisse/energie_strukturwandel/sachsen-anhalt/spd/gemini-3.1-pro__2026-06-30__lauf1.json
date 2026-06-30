@@ -1,0 +1,106 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Perspektiven für unser Revier!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Gezielte Investitionen in neue Arbeitsplätze und regionale Wirtschaftszentren in ehemaligen Bergbauregionen.",
+      "seite": 6,
+      "zitat": "In neue Arbeitsplätze, Umschulungen und regionale Wirtschaftszentren wird gezielt investiert, insbesondere in ehemaligen Bergbauregionen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fürchtet, dass seine Region nach dem Kohleausstieg wirtschaftlich abgehängt wird. Das Bekenntnis zu konkreten Investitionen und neuen Arbeitsplätzen vor Ort in den ehemaligen Bergbauregionen gibt ihm die erhoffte Sicherheit für seine Heimat.",
+      "begruendung_selbst": "Genau das brauchen wir: Echte Investitionen und neue Jobs bei uns im Revier, statt nur Sonntagsreden über den Wandel, während hier die Lichter ausgehen."
+    },
+    {
+      "titel_selbst": "Pragmatismus statt Technologieverbote!",
+      "thema": "energie",
+      "programmpunkt": "Die Landesenergieagentur soll zur Koordinierungsstelle für den Aufbau von Wasserstoff- und CO2-Infrastrukturen (CCS) ausgebaut werden.",
+      "seite": 6,
+      "zitat": "Sie soll zur Landeskoordinierungsstelle für die künftigen Wasserstoff- und Kohlendioxid-Infrastrukturen werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die aktive Planung von CO2-Infrastrukturen entspricht Ronnys Forderung nach technologieoffenen, realistischen Lösungen. Er sieht in Technologien wie CCS eine wichtige Brücke für den Erhalt der Industrie in seiner Region.",
+      "begruendung_selbst": "Endlich wird nicht nur alles verboten! Eine eigene Stelle für CO2-Netze zeigt mir, dass sie CCS ernst nehmen und der heimischen Industrie eine echte Brücke bauen wollen."
+    },
+    {
+      "titel_selbst": "Wichtig für unsere Industriestandorte!",
+      "thema": "energie",
+      "programmpunkt": "Einsatz für niedrigere Energiepreise durch eine Deckelung der Netzentgelte zur Standortsicherung.",
+      "seite": 5,
+      "zitat": "eine weitgehende Deckelung der Netzentgelte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny weiß als Beschäftigter der Energiewirtschaft, dass die energieintensive Industrie nur mit wettbewerbsfähigen Strompreisen am Standort bleibt. Er begrüßt die konkreten Pläne zur Deckelung der Netzentgelte als klares Bekenntnis zur Wirtschaft.",
+      "begruendung_selbst": "Die Industrieunternehmen bleiben nur hier, wenn die Energie bezahlbar ist. Wenn sie die Netzentgelte deckeln, sichert das unsere Wettbewerbsfähigkeit und damit am Ende meine Branche und unsere Jobs."
+    },
+    {
+      "titel_selbst": "Gute Absicherung beim Wandel.",
+      "thema": "arbeit",
+      "programmpunkt": "Bereitstellung von schnellen und regional passgenauen Unterstützungs- und Qualifizierungsangeboten für Beschäftigte, die im Strukturwandel ihren Job verlieren.",
+      "seite": 8,
+      "zitat": "brauchen schnelle, passgenaue und möglichst regionale Unterstützungsangebote",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der berufliche Umbruch und drohende Perspektivlosigkeit sind Ronnys größte Sorgen. Er schätzt das Vorhaben, Betroffenen direkt in ihrer Region Qualifizierungsmaßnahmen anzubieten, anstatt sie zum Wegzug zu zwingen.",
+      "begruendung_selbst": "Wenn meine Anlage doch früher vom Netz geht, muss klar sein, wie es für mich weitergeht. Regionale Unterstützung und Umschulung ist genau der richtige Ansatz, damit ich hier mit meiner Familie bleiben kann."
+    },
+    {
+      "titel_selbst": "Genau mein Reden!",
+      "thema": "klima",
+      "programmpunkt": "Betonung, dass Klima- und Naturschutz kooperativ und im Dialog mit den Betroffenen umgesetzt werden muss, anstatt gegen sie.",
+      "seite": 23,
+      "zitat": "Naturschutz gelingt dauerhaft nur im Dialog, nicht gegen die Menschen vor Ort.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny kritisiert oft eine aktivistische Klimabewegung, die aus seiner Sicht von oben herab Verbote fordert. Der pragmatische Ansatz der Partei, Naturschutz gemeinsam mit den Menschen vor Ort zu gestalten, spricht ihm voll aus dem Herzen.",
+      "begruendung_selbst": "Manche Klimaaktivisten vergessen, dass hier echte Menschen leben und arbeiten. Ich finde es gut, dass hier klargemacht wird: Wandel geht nur mit uns, nicht gegen uns!"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Strikte Pfade statt Realismus.",
+      "thema": "klima",
+      "programmpunkt": "Einführung eines Klimaschutzgesetzes, in dem starre Reduktionspfade für Treibhausgasemissionen verbindlich festgelegt werden sollen.",
+      "seite": 22,
+      "zitat": "Darin festgelegt werden Reduktionspfade für Treibhausemissionen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny ist äußerst skeptisch gegenüber starren Klimazielen ohne absehbaren technischen Ersatzplan. Er befürchtet, dass gesetzlich festgeschriebene Reduktionspfade den Druck für einen unüberlegten vorzeitigen Kohleausstieg erhöhen.",
+      "begruendung_selbst": "Solche starren Reduktionspfade klingen nach Ausstieg auf dem Papier. Wenn die Ersatzkapazitäten nicht rechtzeitig fertig sind, hilft uns kein Klimaschutzgesetz der Welt, wenn hier der Strom ausfällt."
+    },
+    {
+      "titel_selbst": "Gas ist als Brücke nötig!",
+      "thema": "energie",
+      "programmpunkt": "Fokussierung auf Bioenergie und Speicher als primären Ersatz für konventionelle Kraftwerke, während Gas als teuer abgewertet wird.",
+      "seite": 5,
+      "zitat": "Bioenergie und Speicher haben Vorrang vor teurem Gas.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Techniker in der Energiewirtschaft hält Ronny Gaskraftwerke als Brückentechnologie für unverzichtbar, um die Grundlast zu sichern. Die pauschale Abwertung als zu teuer zugunsten von reinen Speichern erscheint ihm technisch naiv.",
+      "begruendung_selbst": "Speicher allein fangen keine wochenlange Dunkelflaute im Winter ab. Wer Gas als Brückentechnologie so pauschal abwertet, hat die technischen Realitäten unserer Versorgungssicherheit noch nicht ganz verstanden."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet im Programm der SPD viele positive Ansätze, da die Partei stark auf einen industriepolitisch begleiteten, gut finanzierten Strukturwandel setzt. Er begrüßt ausdrücklich die geplante Infrastruktur für CO2 (CCS) und Wasserstoff sowie die regionalen Unterstützungsangebote für Beschäftigte im Wandel. Skeptisch sieht er hingegen verbindliche Emissions-Reduktionspfade und die schnelle Abwertung von Gas, da er hier Gefahren für die Versorgungssicherheit und starre Ausstiegsdaten ohne technischen Ersatz fürchtet.",
+    "score": 1
+  }
+}

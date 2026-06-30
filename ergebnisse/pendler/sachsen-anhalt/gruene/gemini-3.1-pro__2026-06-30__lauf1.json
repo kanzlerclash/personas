@@ -1,0 +1,106 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Gute Arbeit muss sich lohnen!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei setzt sich für gute Löhne, sichere Arbeitsplätze und eine starke Mitbestimmung der Arbeitnehmer ein.",
+      "seite": 76,
+      "zitat": "wie faire Bezahlung, sichere Jobs und starke Mitbestimmung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist Industriemechaniker im Schichtdienst und schätzt die Bedeutung von guten Tarifbedingungen und Mitbestimmung für seine eigene finanzielle und körperliche Absicherung.",
+      "begruendung_selbst": "Als Facharbeiter im Schichtbetrieb weiß ich: Ohne faire Löhne und starke Betriebsräte machst du dich auf Dauer nur kaputt. Dass die das auch so sehen, finde ich richtig."
+    },
+    {
+      "titel_selbst": "Flickt endlich die Straßen!",
+      "thema": "verkehr",
+      "programmpunkt": "Bestehende Straßen und Brücken sollen zuerst saniert werden, bevor Geld in neue Verkehrsprojekte fließen darf.",
+      "seite": 30,
+      "zitat": "wollen wir den Erhalt von Straßen und Brücken konsequent priorisieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist täglich aufs Auto angewiesen und verbringt viel Zeit auf Landstraßen. Eine Instandsetzung bestehender Wege hilft ihm pragmatisch in seinem Alltag mehr als teure Prestigebauten.",
+      "begruendung_selbst": "Ich brauche keine neuen Autobahnen. Mir würde es schon reichen, wenn die Straßen auf dem Weg zur Schicht nicht ständig mein Fahrwerk ruinieren würden. Pragmatisch und sinnvoll."
+    },
+    {
+      "titel_selbst": "Stündlicher Bus? Her damit!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Nahverkehrsangebot soll flächendeckend ausgeweitet werden, sodass jedes Dorf mindestens im Stundentakt von Bussen bedient wird.",
+      "seite": 29,
+      "zitat": "um alle Dörfer mindestens einmal pro Stunde zuverlässig zu erreichen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein besserer ÖPNV auf dem Land mindert Toralfs logistischen Stress in der Familie. Auch wenn er sein Auto für die Schichtarbeit behält, könnten seine Kinder und seine Frau deutlich flexibler unterwegs sein.",
+      "begruendung_selbst": "Wenn wirklich jede Stunde ein Bus bei uns auf dem Dorf fährt, könnten meine Frau oder mein Großer den nutzen. Dann müssten wir nicht jede kleine Strecke mit dem Auto abreißen."
+    },
+    {
+      "titel_selbst": "Endlich Entlastung beim Strom!",
+      "thema": "energie",
+      "programmpunkt": "Die Stromsteuer soll auf das europäische Minimum gesenkt werden, um die Energiepreise für Haushalte zu verringern.",
+      "seite": 22,
+      "zitat": "Die Strompreise wollen wir senken durch eine Verringerung der Stromsteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Hausbesitzer und Verdiener mit festem Budget achtet Toralf stark auf Nebenkosten. Eine steuerliche Senkung der Energiepreise verspricht eine spürbare und unbürokratische finanzielle Entlastung.",
+      "begruendung_selbst": "Strom wird immer teurer, da bleibt am Monatsende weniger übrig. Wenn sie da wirklich die Steuern runternehmen, merke ich das direkt im Geldbeutel. Eine gute, handfeste Lösung."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Für mich völlig realitätsfremd!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Auto als primäres Verkehrsmittel wird sehr kritisch gesehen, da es angeblich an seine systemischen Grenzen bezüglich Kosten und Platzbedarf gekommen ist.",
+      "seite": 30,
+      "zitat": "zeigen, dass das System seine eigenen Grenzen erreicht.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf empfindet diese generelle Kritik am Autofahren als Angriff auf seine Lebensrealität, da er für seine Arbeit im Schichtbetrieb mangels Alternativen zwingend auf den eigenen PKW angewiesen ist.",
+      "begruendung_selbst": "Die da oben in den Städten reden davon, dass das Auto an Grenzen stößt. Für mich gibt es aber keine Grenze, ich muss jeden Morgen pünktlich zur Schicht, und zwar mit dem Auto!"
+    },
+    {
+      "titel_selbst": "Ein E-Auto ist nicht im Budget!",
+      "thema": "energie",
+      "programmpunkt": "Der massive Ausbau und die finanzielle Förderung der Ladeinfrastruktur für E-Autos sollen landesweit, auch in ländlichen Räumen, vorangetrieben werden.",
+      "seite": 30,
+      "zitat": "die Ladeinfrastruktur für Elektrofahrzeuge massiv ausbauen und fördern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Investitionen in Ladesäulen fühlen sich für Toralf wie Geldverschwendung an, da Elektroautos für ihn in der Anschaffung ohnehin viel zu teuer sind und keine Lösung für seine täglichen Pendelfahrten darstellen.",
+      "begruendung_selbst": "Neue Ladesäulen auf dem Dorf sind ja ganz nett. Aber das bringt mir rein gar nichts, wenn ein brauchbarer Stromer so teuer ist, dass ich ihn mir als Normalverdiener gar nicht leisten kann."
+    },
+    {
+      "titel_selbst": "Radwege zur Fabrik? Ein Witz!",
+      "thema": "verkehr",
+      "programmpunkt": "Der Radverkehr soll als schnelles und umweltfreundliches Fortbewegungsmittel gezielt gefördert und flächendeckend in den Alltag integriert werden.",
+      "seite": 27,
+      "zitat": "dass Fahrradfahren attraktiv wird, denn mit dem Fahrrad können",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf sieht in der starken Förderung des Radverkehrs eine Prioritätensetzung, die ausschließlich urbanen Wählern nützt und die Mobilitätsprobleme der Landbevölkerung ignoriert.",
+      "begruendung_selbst": "Die Städter können ja gern auf neuen Radwegen ins Büro rollen. Aber wer wie ich eine Dreiviertelstunde zur Fabrik fahren muss, dem hilft kein Fahrrad der Welt. Wir auf dem Land werden da einfach vergessen."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf (Pendler) sieht das Programm der Grünen mit gemischten Gefühlen. Einerseits begrüßt er konkrete pragmatische Ansätze wie Steuersenkungen beim Strom, den Erhalt von Landstraßen und den Stundentakt beim Nahverkehr sehr, da sie ihn finanziell entlasten könnten. Andererseits fühlt er sich durch die grundsätzliche Kritik am Autoverkehr und den starken Fokus auf urbane Radinfrastruktur sowie Elektromobilität in seiner ländlichen, pendelnden Lebensrealität übergangen und nicht verstanden.",
+    "score": 0
+  }
+}

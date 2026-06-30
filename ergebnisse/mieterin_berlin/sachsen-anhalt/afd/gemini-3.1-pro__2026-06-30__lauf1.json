@@ -1,0 +1,106 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich: Wohnen als Daseinsvorsorge!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei erkennt an, dass die Versorgung mit sozialem Wohnraum ein grundlegender Bestandteil der öffentlichen Daseinsvorsorge ist.",
+      "seite": 15,
+      "zitat": "Die soziale Wohnraumversorgung ist ein Element der Daseinsvorsorge.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Anerkennung von Wohnraum als Teil der öffentlichen Daseinsvorsorge entspricht exakt Carlas Grundwerten. Sie sieht darin eine notwendige Abkehr von der reinen Marktlogik, unter der sie auf dem Berliner Wohnungsmarkt so massiv leidet.",
+      "begruendung_selbst": "Genau das sage ich doch immer: Wohnen ist Daseinsvorsorge und kein Spekulationsobjekt! Gut, dass endlich mal ausgesprochen wird, dass der Staat hier in der Pflicht steht."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Noch mehr Autos im Kiez?!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Verkehrspolitik soll sich weiterhin vorrangig am Automobil orientieren und die Infrastruktur entsprechend autofahrerfreundlich gestaltet werden.",
+      "seite": 16,
+      "zitat": "Wir werden deshalb den Verkehr so autofahrerfreundlich wie möglich gestalten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla wünscht sich eine autoarme Stadt mit starkem ÖPNV und intakter Radinfrastruktur. Die Fokussierung auf Autofreundlichkeit widerspricht diametral ihrem Mobilitätsverhalten und ihrer Vision von einem lebenswerten städtischen Raum.",
+      "begruendung_selbst": "Autofreundlich? Das heißt für meinen Kiez doch nur noch mehr Lärm, Abgase und zugeparkte Radwege. Ich will eine autoarme Stadt, keinen Freifahrtschein für noch mehr Blech!"
+    },
+    {
+      "titel_selbst": "Fahrräder als ideologisches Feindbild?",
+      "thema": "verkehr",
+      "programmpunkt": "Die staatliche Förderung von Lastenrädern wird als ideologisch motivierte Bevorzugung abgelehnt und soll gestoppt werden.",
+      "seite": 16,
+      "zitat": "Diese Bevorzugung von Verkehrsteilnehmern im Zeichen der Ideologie der CO₂-Reduktion lehnen wir entschieden ab",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die pauschale Ablehnung von Förderungen für Lastenräder als pure Ideologie stößt bei ihr auf Unverständnis. Sie sieht das Fahrrad als zentrales, praktisches Verkehrsmittel der Zukunft und nicht als elitäres oder ideologisches Projekt.",
+      "begruendung_selbst": "Ein Lastenrad ist doch kein Ideologie-Projekt, sondern einfach unheimlich praktisch in der Stadt! Dass sie das als Bevorzugung abstempeln und bekämpfen wollen, zeigt, wie rückwärtsgewandt diese Verkehrspolitik ist."
+    },
+    {
+      "titel_selbst": "Das typische Vermieter-Argument!",
+      "thema": "wohnen",
+      "programmpunkt": "Geringe Mieten und hohe Auflagen werden als Gründe genannt, warum sich die Sanierung von Altbauten für Eigentümer oft nicht mehr wirtschaftlich lohne.",
+      "seite": 6,
+      "zitat": "machen bei geringen Mieten die Sanierungen unwirtschaftlich.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla sieht in dieser Formulierung das klassische Argument der Vermieterlobby zur Rechtfertigung von Mietsteigerungen. Sie fürchtet, dass unter dem Vorwand unwirtschaftlicher Sanierungen der Mieterschutz aufgeweicht und die Verdrängung weiter befeuert werden soll.",
+      "begruendung_selbst": "Da haben wir es wieder: Die armen Eigentümer, für die sich Sanierungen angeblich nicht mehr lohnen! Das ist doch genau das Argument, mit dem am Ende unsere Mieten drastisch erhöht und wir aus dem Kiez verdrängt werden."
+    },
+    {
+      "titel_selbst": "Eigentum hilft mir nicht!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Schaffung von selbstgenutztem Wohneigentum wird als zentrales Mittel zur Vorbeugung von Altersarmut propagiert.",
+      "seite": 4,
+      "zitat": "Dabei ist selbstgenutztes Wohneigentum nicht nur ein wichtiger Baustein zur Vorbeugung von Altersarmut",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla lehnt die politische Fixierung auf Wohneigentum ab, da es in Berlin für sie und viele andere völlig unerreichbar ist. Eine Politik, die primär auf Eigentum statt auf starken Mieterschutz setzt, verstärkt ihre existenzielle Angst vor Verdrängung.",
+      "begruendung_selbst": "Eigenheim als Maß aller Dinge? Das ist für mich völlig illusorisch. Wer nur auf Eigentum setzt, vergisst uns Mieter komplett und überlässt uns einfach dem unregulierten Markt."
+    },
+    {
+      "titel_selbst": "Städte brauchen jeden Cent!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Es wird kritisiert, dass Großstädte bei der Vergabe von Fördergeldern unverhältnismäßig bevorzugt würden, was zu Lasten ländlicher Gemeinden gehe.",
+      "seite": 15,
+      "zitat": "Es darf nicht sein, dass Städte auf Kosten der Dörfer profitieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als überzeugte Großstädterin sieht Carla die urbanen Zentren als Motor und als sozialen Brennpunkt, der massive Mittel für Daseinsvorsorge benötigt. Den Vorwurf, Städte würden ungerechtfertigt profitieren, weist sie als frontalen Angriff auf ohnehin angespannte urbane Lebensräume zurück.",
+      "begruendung_selbst": "Großstädte profitieren auf Kosten der Dörfer? Wir platzen hier aus allen Nähten, die Mieten explodieren und die soziale Infrastruktur ist am Limit! Da jetzt Mittel abziehen zu wollen, trifft genau die Falschen."
+    },
+    {
+      "titel_selbst": "Klimaschutz ist keine Ideologie!",
+      "thema": "klima",
+      "programmpunkt": "Die Bemühungen um weltweiten Klimaschutz werden als globalistische Ideologie und wirtschaftsfeindlich diffamiert und grundlegend abgelehnt.",
+      "seite": 13,
+      "zitat": "Die AfD lehnt die globalistische Klimaideologie und die damit einhergehende Wohlstandsvernichtungspolitik grundlegend ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als progressiv eingestellte Städterin nimmt Carla die Klimakrise ernst und betrachtet eine nachhaltige Umweltpolitik als absolut notwendig. Die fundamentale Leugnung von Klimaschutz als bloße Ideologie stößt sie ab.",
+      "begruendung_selbst": "Dass die Klimakrise real ist, spüren wir doch jeden Sommer in der extrem aufgeheizten Stadt. Echten Klimaschutz als globalistische Ideologie abzutun, ist einfach nur verblendet und brandgefährlich für unsere Zukunft."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im Programm bis auf ein allgemeines Bekenntnis zum sozialen Wohnungsbau keine Schnittmengen. Sie sieht ihre progressive Lebensrealität durch die Fixierung auf Autoverkehr, Wohneigentum und die harsche Ablehnung städtischer Klimaschutzmaßnahmen massiv angegriffen. Die Partei steht für sie diametral gegen ihre Vision einer solidarischen und autoarmen Stadt.",
+    "score": -2
+  }
+}

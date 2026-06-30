@@ -1,0 +1,117 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich faire Kaufnebenkosten!",
+      "thema": "steuern",
+      "programmpunkt": "Einführung eines Freibetrags bei der Grunderwerbsteuer für den ersten Erwerb von selbstgenutztem Wohneigentum.",
+      "seite": 12,
+      "zitat": "Grunderwerbsteuer-Freibetrag für den erstmaligen Erwerb selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica scheitern beim Eigenheim-Traum vor allem an den hohen Kaufnebenkosten. Ein Freibetrag bei der Grunderwerbsteuer würde ihr angespartes Eigenkapital massiv entlasten und den Hauskauf für sie wieder realistisch machen.",
+      "begruendung_selbst": "Die Grunderwerbsteuer frisst aktuell unser gesamtes Erspartes auf, bevor wir überhaupt anfangen zu bauen. So ein Freibetrag wäre für uns der entscheidende Hebel, um endlich loslegen zu können!"
+    },
+    {
+      "titel_selbst": "Mehr Rückendeckung für Bauherren!",
+      "thema": "wohnen",
+      "programmpunkt": "Stärkung und Fortführung des bestehenden Förderprogramms für selbstgenutztes Eigentum, unter anderem mit vergünstigten Darlehen.",
+      "seite": 12,
+      "zitat": "stärken das bestehende Förderprogramm für selbstgenutztes Wohneigentum",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die junge Familie leidet stark unter den aktuell hohen Bauzinsen, die eine solide Finanzierung erschweren. Zinsvergünstigte Kredite und familienspezifische Aufstockungen entschärfen exakt diese finanzielle Zwickmühle.",
+      "begruendung_selbst": "Ohne Hilfe von außen sind die Zinsen für uns zwei Normalverdiener ein echter Traumkiller. Wenn das Land uns hier unter die Arme greift, rücken unsere eigenen vier Wände endlich wieder in greifbare Nähe."
+    },
+    {
+      "titel_selbst": "Betreuung passend zu unseren Jobs!",
+      "thema": "familie",
+      "programmpunkt": "Förderung flexibler Betreuungszusammenschlüsse für Arbeitszeiten, die außerhalb der regulären Kita-Öffnungszeiten liegen.",
+      "seite": 26,
+      "zitat": "wenn Arbeitszeiten außerhalb der üblichen Öffnungszeiten von Kindertagesstätten liegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Doppelverdiener-Paar ist beruflich stark eingespannt. Flexible Betreuungsangebote, die sich nach dem tatsächlichen Arbeitsalltag und nicht nach starren Kernzeiten richten, nehmen massiv Druck aus der täglichen familiären Organisation.",
+      "begruendung_selbst": "Wir arbeiten beide voll, da ist pünktliches Abholen um 16 Uhr oft purer Stress. Eine flexiblere Betreuung, auch zu Randzeiten, würde uns im Alltag so unfassbar viel Last von den Schultern nehmen."
+    },
+    {
+      "titel_selbst": "Schluss mit dem Öko-Kosten-Zwang!",
+      "thema": "energie",
+      "programmpunkt": "Erreichung von Energieeffizienz primär über wirtschaftliche Anreize statt über starre Vorschriften oder Dokumentationspflichten.",
+      "seite": 14,
+      "zitat": "Energieeffizienz entsteht vor allem durch wirtschaftliche Anreize.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sehen strenge Umwelt- und Sanierungsvorgaben kritisch, da sie das Bauen unkalkulierbar verteuern. Sie befürworten, dass die FDP hier auf Freiwilligkeit und steuerliche Entlastung statt auf kostentreibende Zwänge setzt.",
+      "begruendung_selbst": "Es ist ja gut gemeint mit dem Klimaschutz, aber die extremen Vorgaben machen das Bauen einfach unbezahlbar. Freiwillige Anreize statt immer neuer Strafen und Auflagen sind genau der richtige Weg für uns."
+    },
+    {
+      "titel_selbst": "Flüssiger zur Arbeit ins Zentrum!",
+      "thema": "verkehr",
+      "programmpunkt": "Klare Priorisierung von Erhalt und grundhafter Sanierung des Landes- und Kreisstraßennetzes.",
+      "seite": 71,
+      "zitat": "Landes- und Kreisstraßen sollten dabei in erster Linie grundhaft saniert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Bewohner des Speckgürtels sind beide auf ein funktionierendes Straßennetz für den täglichen Arbeitsweg angewiesen. Eine verlässliche Sanierung und die Sicherstellung von vertretbaren Pendelzeiten erleichtern ihren Alltag enorm.",
+      "begruendung_selbst": "Wir pendeln beide jeden Tag zur Arbeit. Wenn die Straßen ausgebaut und ordentlich saniert werden, stehen wir weniger im Stau und haben abends mehr Zeit für unser Kind."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bestrafung für ein zweites Kind?",
+      "thema": "familie",
+      "programmpunkt": "Auflösung der sogenannten Fehlanreize in der Beitragsregelung für Geschwisterkinder in der Kita.",
+      "seite": 27,
+      "zitat": "Wir wollen Fehlanreize in der Geschwisterkindregelung auflösen, ohne diese abzuschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar denkt über ein zweites Kind nach, leidet aber jetzt schon unter den Kita-Kosten. Jede Einschränkung der Geschwisterkindregelung schürt die Angst, dass ein weiteres Kind für sie finanziell nicht mehr tragbar wäre.",
+      "begruendung_selbst": "Wir überlegen ernsthaft, noch ein Kind zu bekommen, aber die Kita-Gebühren sind ohnehin schon happig. Wenn man jetzt bei der Geschwisterregelung den Rotstift ansetzt, wird uns die Entscheidung wirklich extrem schwer gemacht."
+    },
+    {
+      "titel_selbst": "Zahlen, obwohl wir Steuern beisteuern!",
+      "thema": "familie",
+      "programmpunkt": "Fokus auf die Qualität der Bildungsinfrastruktur statt auf eine pauschale Beitragsfreiheit.",
+      "seite": 30,
+      "zitat": "Qualität in der Bildung Vorrang hat vor pauschaler Beitragsfreiheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica stehen durch die Sparrate für ihr Eigenkapital und die laufenden Kita-Kosten finanziell unter Druck. Dass eine kostenlose Kinderbetreuung für die FDP keine Priorität hat, frustriert sie als steuerzahlende Mitte.",
+      "begruendung_selbst": "Wir arbeiten beide hart und zahlen kräftig Steuern. Da ist es schon ein Schlag ins Gesicht, wenn bei der Kita immer nur von Qualität geredet wird, aber wir Eltern bei den Beiträgen komplett im Regen stehen gelassen werden."
+    },
+    {
+      "titel_selbst": "Große Worte, wenig Taten!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei sieht ihre in der Regierung angestoßenen Reformen beim Bauen bereits als zentralen Erfolg, der nun weitergeführt werden soll.",
+      "seite": 11,
+      "zitat": "Sachsen-Anhalt hat beim Wohnen und Bauen bereits zentrale Reformen auf den Weg gebracht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Mitregierungspartei preist die FDP ihre bisherigen Reformerfolge an. Tom und Jessica sind jedoch stark enttäuscht, da sie von diesen Maßnahmen in der Realität bisher keine Entlastung bei Baukosten und Bauland gespürt haben.",
+      "begruendung_selbst": "Die klopfen sich für irgendwelche Reformen aus der Vergangenheit auf die Schulter, aber ganz ehrlich: Für uns ist das Bauen in den letzten Jahren trotzdem komplett unbezahlbar geblieben. Davon merkt man an der Basis absolut nichts!"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die FDP trifft mit ihren Positionen zu Wohneigentum und Steuern den Nerv der jungen Familie sehr gut, insbesondere der geplante Freibetrag bei der Grunderwerbsteuer weckt große Hoffnungen. Auch die Ablehnung starrer energetischer Sanierungsvorgaben zugunsten von Anreizen stößt auf volle Zustimmung. Deutlich kritischer bewertet das Paar jedoch die familienpolitischen Pläne: Die klare Absage an eine pauschale Beitragsfreiheit für Kitas und die angedeuteten Einschnitte bei der Geschwisterregelung verschärfen ihre Sorgen vor unkalkulierbaren Betreuungskosten.",
+    "score": 1
+  }
+}

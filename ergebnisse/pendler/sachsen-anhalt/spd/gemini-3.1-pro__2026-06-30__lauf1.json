@@ -1,0 +1,106 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Ohne Energie keine Jobs!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Bedeutung bezahlbarer Energie für den Erhalt von Industrie und Arbeitsplätzen wird klar in den Fokus gerückt.",
+      "seite": 2,
+      "zitat": "Ohne bezahlbare Energie gibt es keine Industrie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf macht sich Sorgen um seinen Industriearbeitsplatz. Die klare Ansage, dass bezahlbare Energie für den Erhalt von Jobs in der Industrie notwendig ist, deckt sich mit seiner pragmatischen Sicht.",
+      "begruendung_selbst": "Wenn der Strom zu teuer wird, machen bei uns die Lichter aus. Politik muss das kapieren!"
+    },
+    {
+      "titel_selbst": "Acht Stunden sind genug!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei bekennt sich deutlich zu Tariflöhnen und dem Schutz klassischer Arbeitnehmerrechte wie dem Acht-Stunden-Tag.",
+      "seite": 4,
+      "zitat": "Dabei stehen wir klar zum Acht-Stunden-Tag",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Facharbeiter im Schichtbetrieb ist Toralf auf geregelte und verlässliche Arbeitszeiten angewiesen. Das Festhalten am Acht-Stunden-Tag schützt ihn vor weiteren körperlichen Belastungen.",
+      "begruendung_selbst": "Nach acht Stunden an der Maschine bin ich fertig. Gut, dass das nicht aufgeweicht werden soll."
+    },
+    {
+      "titel_selbst": "Auto bleibt wichtig!",
+      "thema": "verkehr",
+      "programmpunkt": "Es wird anerkannt, dass der eigene PKW und der Führerschein gerade im ländlichen Raum weiterhin unverzichtbar bleiben.",
+      "seite": 9,
+      "zitat": "Gleichzeitig bleiben Führerschein und Auto insbesondere im ländlichen Raum wichtig.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fühlt sich oft von der urbanen Verkehrspolitik bevormundet. Diese Aussage signalisiert ihm Verständnis für seine reale Situation auf dem Dorf, wo er zwingend ein Auto braucht.",
+      "begruendung_selbst": "Ohne Auto komme ich nicht zur Schicht. Schön, dass auch die Politiker das endlich mal einsehen."
+    },
+    {
+      "titel_selbst": "Steuern runter beim Strom!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert eine spürbare Senkung der Stromsteuer, die auch direkt privaten Haushalten zugutekommen soll.",
+      "seite": 43,
+      "zitat": "Die Senkung der Stromsteuer muss zukünftig auch für private Stromverbraucher gelten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf spürt den Kaufkraftverlust bei Energiepreisen deutlich. Eine niedrigere Stromsteuer entlastet sein Haushaltsbudget direkt und spürbar, was seine finanzielle Anspannung lindert.",
+      "begruendung_selbst": "Endlich mal ein Vorschlag, der mir am Ende des Monats wirklich mehr Geld im Portemonnaie lässt."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ladesäulen helfen mir null!",
+      "thema": "energie",
+      "programmpunkt": "Die Politik forciert den Ausbau von Elektromobilität, ohne alternative Lösungen für aktuelle Pendlerkosten beim Verbrenner anzubieten.",
+      "seite": 43,
+      "zitat": "Der Ausbau der Ladeinfrastruktur für Elektromobilität wird vorangetrieben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf sorgt sich vor dem Verbrenner-Aus und kann sich kein teures E-Auto leisten. Der Fokus auf Ladeinfrastruktur ignoriert sein akutes Problem der hohen Spritkosten für sein jetziges Fahrzeug.",
+      "begruendung_selbst": "Was nützt mir eine Ladesäule im Dorf, wenn ich mir sowieso nie so einen Elektrowagen leisten kann?"
+    },
+    {
+      "titel_selbst": "Geld für Radwege statt Straßen?",
+      "thema": "verkehr",
+      "programmpunkt": "Ein fester, dauerhafter Anteil der Mittel für den Straßenbau soll stattdessen in Fuß- und Radverkehr fließen.",
+      "seite": 42,
+      "zitat": "zehn Prozent der Landesmittel für den Straßenbau werden dauerhaft für Fuß- und Radverkehr eingesetzt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Er pendelt jeden Tag 45 Minuten mit dem Auto und ist auf intakte Straßen angewiesen. Ausgaben für Radwege empfindet er als städtische Privilegien, die ihm auf dem Land nichts nützen.",
+      "begruendung_selbst": "Für die paar Schönwetter-Radler in der Stadt ist Geld da, aber unsere Straßen zerbröseln."
+    },
+    {
+      "titel_selbst": "Wieder nur Geschenke für Städter!",
+      "thema": "verkehr",
+      "programmpunkt": "Staatliche Vergünstigungen wie das Deutschlandticket sollen Mobilität und Teilhabe vereinfachen, setzen aber ein vorhandenes ÖPNV-Angebot voraus.",
+      "seite": 26,
+      "zitat": "Ein Deutschlandticket für alle Schülerinnen und Schüler verbessert die Mobilität im Alltag.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf wohnt in einem Dorf ohne brauchbaren ÖPNV. Er sieht solche Subventionen als Ungleichbehandlung, da Landbewohner das mitfinanzieren, aber mangels Bussen nicht nutzen können.",
+      "begruendung_selbst": "Tolles Ticket! Blöd nur, wenn bei uns sowieso kein Bus fährt. Wir auf dem Dorf zahlen das nur mit."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet im Programm der SPD durchaus Anerkennung für seine Lebensrealität, da Industrieerhalt, gute Tariflöhne und die Bedeutung des Autos auf dem Land klar benannt werden. Dennoch ärgert er sich über verkehrspolitische Prioritäten wie den Fokus auf E-Ladeinfrastruktur, Radwege und ÖPNV-Subventionen, die seiner Meinung nach an den Nöten eines ländlichen Autopendlers vorbeigehen und eher Stadtbewohner bevorzugen.",
+    "score": 0
+  }
+}

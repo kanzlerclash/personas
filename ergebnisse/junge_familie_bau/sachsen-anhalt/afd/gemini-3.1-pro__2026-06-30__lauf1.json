@@ -1,0 +1,110 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": { "input_tokens": null, "output_tokens": null, "cached_tokens": null, "total_tokens": null, "dauer_ms": null, "usd": null },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich faire Kredite für uns!",
+      "thema": "wohnen",
+      "programmpunkt": "Einführung eines zinsvergünstigten Kredits bis 300.000 Euro für Familien zum Erwerb von selbstgenutztem Wohneigentum, mit Teilerlass pro Kind.",
+      "seite": 4,
+      "zitat": "ein zinsvergünstigter Kredit bis zu einer Höhe von 300.000 Euro zum Bau oder Kauf",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica haben zwar gute Einkommen, scheitern aber aktuell an den hohen Zinsen. Ein vom Land geförderter Baukredit mit Nachlass für jedes weitere Kind würde ihren Traum vom Eigenheim sofort finanzierbar machen.",
+      "begruendung_selbst": "Genau das brauchen wir! Wir verdienen beide ordentlich, aber die Zinsen fressen momentan alles auf. Ein vergünstigter Kredit mit Bonus für ein zweites Kind würde uns sofort helfen, endlich zu bauen."
+    },
+    {
+      "titel_selbst": "Kaufnebenkosten runter, super!",
+      "thema": "steuern",
+      "programmpunkt": "Die Grunderwerbsteuer soll von fünf auf zweieinhalb Prozent gesenkt werden, um den Erwerb von Eigentum zu erleichtern.",
+      "seite": 19,
+      "zitat": "die Grunderwerbsteuer von aktuell fünf Prozent auf zweieinhalb Prozent absenken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Reduzierung der Grunderwerbsteuer um die Hälfte senkt den Bedarf an Eigenkapital drastisch. Da mangelndes Eigenkapital für die junge Familie derzeit das größte Hindernis darstellt, trifft dies genau ihren Nerv.",
+      "begruendung_selbst": "Die hohen Kaufnebenkosten brechen uns aktuell das Genick, da reicht unser Erspartes nicht. Wenn die Grunderwerbsteuer halbiert wird, reicht unser Geld endlich als Eigenkapital für die Bank!"
+    },
+    {
+      "titel_selbst": "Weg mit dem teuren Sanierungszwang!",
+      "thema": "energie",
+      "programmpunkt": "Das Wärmeplanungs- und Gebäudeenergiegesetz (GEG) soll im Bundesrat gekippt werden, um Bauherren die freie Wahl der Heizung zu überlassen.",
+      "seite": 13,
+      "zitat": "für die Abschaffung des Wärmeplanungs- und Gebäudeenergiegesetzes sowie deren Folgegesetze",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die strengen energetischen Bauvorgaben sind für die junge Familie ein massiver Preistreiber. Die Abschaffung des GEG entlastet sie von der Sorge um unkalkulierbare Zusatzkosten beim Bauen oder bei der Sanierung eines Altbaus.",
+      "begruendung_selbst": "Gut gemeint, aber völlig preistreibend! Ohne das ganze teure Heizungs- und Dämmungs-Hin-und-Her könnten wir uns ein normales Haus oder einen soliden Altbau viel eher leisten."
+    },
+    {
+      "titel_selbst": "Kostenlose Kita, echte Entlastung!",
+      "thema": "familie",
+      "programmpunkt": "Krippen und Kindergärten sollen ab dem ersten Kind durch das Land komplett kostenfrei gestellt werden.",
+      "seite": 4,
+      "zitat": "gesicherten Finanzierung ab dem ersten Kind kostenlos machen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Übernahme der Kita-Gebühren durch das Land entlastet das Doppelverdiener-Paar finanziell stark. Dies erhöht ihren monatlichen Spielraum und die Sparrate für den Eigenheim-Traum.",
+      "begruendung_selbst": "Wir arbeiten beide voll und die Kita kostet uns echt viel Geld jeden Monat. Wenn das komplett wegfällt, können wir spürbar mehr für unser Haus zurücklegen!"
+    },
+    {
+      "titel_selbst": "Pendeln muss bezahlbar bleiben!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Energiesteuer auf Kraftstoffe soll auf den europarechtlich zulässigen Mindestsatz reduziert werden, um Autofahrer zu entlasten.",
+      "seite": 13,
+      "zitat": "dass die Energiesteuer für Kraftstoffe auf den EU-Mindestsatz abgesenkt wird.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da die Familie plant, in den Speckgürtel zu ziehen und beide beruflich im Umland pendeln, sind sie auf das Auto angewiesen. Niedrigere Spritkosten federn diese fortlaufende finanzielle Belastung deutlich ab.",
+      "begruendung_selbst": "Wir werden vom Speckgürtel jeden Tag zur Arbeit fahren müssen. Deutlich niedrigere Spritpreise an der Zapfsäule würden unseren Alltag und die Pendelei finanziell sehr entspannen."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wir sind nicht die Ausputzer!",
+      "thema": "familie",
+      "programmpunkt": "Familien sollen wieder stärker als Institution sozialer Hilfe agieren, wodurch der Staat von Aufgaben wie Schulsozialarbeit oder Altenpflege entlastet werden soll.",
+      "seite": 4,
+      "zitat": "wollen wir die Familien wieder als Institution sozialer Hilfe stärken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica arbeiten beide Vollzeit und sind darauf angewiesen, dass der Staat soziale Infrastruktur bereitstellt. Das Abwälzen von Betreuungs- und Sozialaufgaben auf die Familien gefährdet ihre Doppelberufstätigkeit.",
+      "begruendung_selbst": "Wie stellen die sich das vor? Wir sind beide voll berufstätig! Wir können nicht auch noch nebenbei den Job von Sozialarbeitern übernehmen und alle Probleme selbst lösen."
+    },
+    {
+      "titel_selbst": "Pflege kostet unsere Jobs!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflege von Angehörigen soll wieder vermehrt innerhalb der Familie statt durch staatliche oder professionelle Institutionen übernommen werden.",
+      "seite": 20,
+      "zitat": "dass die Familie wieder mehr von dem übernimmt, was sie schon immer geleistet hat",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Verlagerung von Pflegeaufgaben zurück ins Private steht in direktem Widerspruch zum Lebensentwurf der Familie, die ihre finanzielle Basis zwingend auf zwei Jobs stützt, um den Hauskredit bedienen zu können.",
+      "begruendung_selbst": "Zwei Jobs, Kindererziehung und den Hauskredit abzahlen und dann sollen wir uns laut Programm auch noch hauptamtlich um die Pflege der Großeltern kümmern? Das funktioniert in der Realität einfach nicht!"
+    },
+    {
+      "titel_selbst": "Lasst doch die Kitas machen!",
+      "thema": "bildung",
+      "programmpunkt": "Die Partei will das offene Konzept in allen Kitas verbieten und stattdessen eine Rückkehr zu festen Gruppen vorschreiben.",
+      "seite": 4,
+      "zitat": "das sogenannte offene Konzept für alle Einrichtungen der Kinderbetreuung in Sachsen-Anhalt untersagen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die pragmatischen Eltern sehen ideologische Vorschriften zur Kita-Pädagogik skeptisch, da es ihnen vor allem um verlässliche Betreuungsangebote geht, statt um staatliche Einmischung und Bevormundung der Erzieher.",
+      "begruendung_selbst": "Ob die Kita nun nach dem offenen Konzept arbeitet oder nicht, sollten doch die Erzieher vor Ort entscheiden dürfen. Solche harten staatlichen Verbote bei der Pädagogik helfen uns Eltern null weiter."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die AfD bietet der jungen Familie mit der Grunderwerbsteuersenkung, zinsvergünstigten Baukrediten und kostenloser Kita exakt die finanziellen Erleichterungen, die sie sich für den Hausbau erhofft. Die strikt konservative Familienpolitik und der geplante Rückzug des Staates aus der sozialen Verantwortung (wie bei der Pflege) gefährden jedoch ihren auf zwei Einkommen angewiesenen Lebensentwurf.",
+    "score": 1
+  }
+}

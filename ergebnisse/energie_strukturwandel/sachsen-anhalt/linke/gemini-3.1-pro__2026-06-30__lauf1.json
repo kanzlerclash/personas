@@ -1,0 +1,95 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine Schließung ohne Plan!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert verbindliche Transformationsverträge mit Beschäftigungsgarantien, sodass keine Industrieanlagen ohne neue Perspektiven geschlossen werden.",
+      "seite": 93,
+      "zitat": "keine Werksschließung ohne Perspektive – Arbeitsplätze, Wissen und Strukturen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fürchtet nichts mehr als den Wegfall von Industriearbeitsplätzen in seiner Region ohne einen tragfähigen Ersatz. Die klare Forderung nach Beschäftigungsgarantien spricht genau diese tiefe Existenzangst an.",
+      "begruendung_selbst": "Genau das fordere ich immer: Erst muss das Neue da sein, bevor man das Alte dichtmacht! Die Leute hier brauchen handfeste Sicherheiten und nicht nur warme Worte."
+    },
+    {
+      "titel_selbst": "Wertschöpfung muss hier bleiben!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Industriepolitik soll sicherstellen, dass die Wertschöpfung im Land verbleibt, anstatt dass Sachsen-Anhalt zur bloßen verlängerten Werkbank wird.",
+      "seite": 91,
+      "zitat": "Industriepolitik soll die Wertschöpfung in Sachsen - Anhalt halten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Facharbeiter in einer Strukturwandelregion will Ronny, dass echte Industrie und Wohlstand vor Ort bleiben und die Region nicht nur Zulieferer für internationale Konzerne bleibt.",
+      "begruendung_selbst": "Wir wollen hier keine verlängerte Werkbank für irgendwelche Konzerne sein, sondern echte Industrie behalten. Das ist die einzige Chance für unsere Heimat."
+    },
+    {
+      "titel_selbst": "Wasserstoff als echter Zukunftsplan!",
+      "thema": "energie",
+      "programmpunkt": "Für die Industrie soll gezielt grüner Wasserstoff gefördert und regionale Wasserstoffnetze sowie Elektrolyseanlagen aufgebaut werden.",
+      "seite": 109,
+      "zitat": "Elektrolyseanlagen mit erneuerbarem Strom ausbauen, regionale Wasserstoffnetze entwickeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "In seinem Berufsalltag weiß Ronny, dass der Wandel nur mit massiven Investitionen in Wasserstoffinfrastruktur klappen kann. Dies bestätigt seinen Ansatz eines planbaren, technologieoffenen Wandels.",
+      "begruendung_selbst": "Ohne moderne Netze und grünen Wasserstoff drehen wir uns im Kreis. Solche Investitionen in die Infrastruktur sichern letztlich unsere Jobs."
+    },
+    {
+      "titel_selbst": "Endlich faire Strompreise!",
+      "thema": "energie",
+      "programmpunkt": "Die Netzentgelte sollen deutlich gesenkt werden, um die regionale Benachteiligung ostdeutscher Länder bei den Strompreisen zu beenden.",
+      "seite": 107,
+      "zitat": "die Netzentgelte deutlich senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny ärgert sich über die hohen Energiepreise trotz des massiven Ausbaus von Erneuerbaren in seiner Region. Eine politische Entlastung bei den Netzentgelten unterstützt er als überfälligen Schritt zur regionalen Gerechtigkeit.",
+      "begruendung_selbst": "Es ist ein Unding, dass wir hier für die ganzen Windräder auch noch mit den höchsten Netzentgelten bestraft werden. Das muss runter!"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "2035 ist viel zu früh!",
+      "thema": "klima",
+      "programmpunkt": "Sachsen-Anhalt soll gesetzlich verankert bereits bis zum Jahr 2035 vollständig klimaneutral werden.",
+      "seite": 121,
+      "zitat": "Pfad zur Klimaneutralität bis 2035 klar beschreibt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Ronny sind so kurzfristige und starre Ausstiegsdaten eine massive Bedrohung. Er befürchtet, dass solch ehrgeizige politische Ziele in der Praxis die Industrie ruinieren, weil der technologische Ersatz nicht schnell genug bereitsteht.",
+      "begruendung_selbst": "Klimaneutral bis 2035? Das ist in nicht mal zehn Jahren! So ein starrer Zeitplan reißt uns die Beine weg, bevor die neuen Anlagen überhaupt laufen."
+    },
+    {
+      "titel_selbst": "Brückentechnologie wird abgewürgt!",
+      "thema": "energie",
+      "programmpunkt": "Gaskraftwerke sollen nur noch stark reglementiert als Brückentechnologie laufen dürfen, unter anderem limitiert auf maximal 1.000 Volllaststunden im Jahr.",
+      "seite": 109,
+      "zitat": "hierbei verbindliche Kriterien wie H2 - ready und maximal 1.000 Volllaststunden festlegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Da Ronny in der konventionellen Energiewirtschaft arbeitet, betrachtet er Gas als zwingende Übergangslösung. Eine derart strikte staatliche Beschränkung der Laufzeiten hält er für unrealistisch und gefährlich für die Versorgungssicherheit.",
+      "begruendung_selbst": "Wenn wir den Gaskraftwerken gesetzlich den Stecker nach ein paar hundert Stunden ziehen, sitzen wir bald im Dunkeln. Eine Brücke muss tragen, bis man drüben ist!"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny schätzt am Programm der Linken die starken Garantien für Beschäftigte, wie den Ausschluss von Werksschließungen ohne Perspektiven und den Fokus auf regionale industrielle Wertschöpfung. Die radikalen klimapolitischen Fristen – wie die Klimaneutralität bis 2035 und die harte Reglementierung von Gaskraftwerken als Brückentechnologie – betrachtet er jedoch als realitätsfern und gefährlich für die Versorgungssicherheit sowie seinen Industriestandort.",
+    "score": 1
+  }
+}

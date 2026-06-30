@@ -1,0 +1,117 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Entlastung beim Papierkram!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will die Dokumentationspflichten in der Pflege drastisch reduzieren und nur noch Abweichungen vom Pflegeplan festhalten lassen.",
+      "seite": 69,
+      "zitat": "Dokumentiert werden soll künftig vor allem dann, wenn von vereinbarten pflegerischen Leistungen abgewichen wird.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin leidet im Schichtdienst stark unter der immensen Arbeitsverdichtung und dem Bürokratieaufwand. Der Abbau von Dokumentationspflichten würde ihr im Alltag spürbar Zeit für die eigentliche Pflege zurückgeben.",
+      "begruendung_selbst": "Wenn ich weniger am Rechner hänge, habe ich wieder mehr Zeit für die Patienten. Das ist genau das, was wir auf Station dringend brauchen."
+    },
+    {
+      "titel_selbst": "Gute Nachricht für unsere ausländischen Kollegen!",
+      "thema": "integration",
+      "programmpunkt": "Ausländische Pflegekräfte sollen künftig schon vorläufig arbeiten dürfen, sobald Sprachkenntnisse und Dokumente vorliegen, ohne auf den Abschluss langwieriger Anerkennungsverfahren warten zu müssen.",
+      "seite": 70,
+      "zitat": "Pflegekräfte sollen vorläufig arbeiten dürfen, sobald alle erforderlichen Unterlagen und nötige Sprachkenntnisse vorliegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Kerstins Station ohne migrantisches Personal nicht mehr funktionieren würde, hofft sie inständig auf pragmatische Lösungen gegen den Personalmangel. Die beschleunigte Arbeitsaufnahme ausländischer Fachkräfte lindert ihre unmittelbare Arbeitslast.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht. Wenn die endlich schneller bei uns anfangen dürfen, ist uns allen enorm geholfen."
+    },
+    {
+      "titel_selbst": "Das lohnt sich auf dem Konto.",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei setzt sich dafür ein, dass die Bezahlung von Überstunden künftig komplett von der Steuer befreit wird.",
+      "seite": 40,
+      "zitat": "Gleichzeitig wollen wir jede Überstunde steuerfrei stellen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aufgrund der chronischen Unterbesetzung muss Kerstin regelmäßig einspringen und Überstunden leisten. Wenn diese steuerfrei gestellt werden, würde sich ihre hohe Belastung zumindest finanziell stärker auszahlen.",
+      "begruendung_selbst": "Ich reiße ständig Überstunden ab, weil wir chronisch unterbesetzt sind. Wenn davon am Ende steuerfrei mehr übrig bleibt, ist das ein echter Lichtblick."
+    },
+    {
+      "titel_selbst": "Faire Zuschläge für harte Schichten!",
+      "thema": "arbeit",
+      "programmpunkt": "Schichtzuschläge sollen auf Basis des Stundenlohns erhalten und ausgebaut werden, um die Pflegeberufe attraktiver zu machen.",
+      "seite": 69,
+      "zitat": "Flexible Arbeitszeitmodelle sowie Schichtzuschläge auf Stundenlohnbasis wollen wir erhalten und gezielt weiterentwickeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Kerstin prägt der Wechselschichtdienst den gesamten Alltag. Dass die FDP finanzielle Zulagen für Schichtarbeit sichern und weiter ausbauen will, wertet ihre anstrengenden Arbeitszeiten auf.",
+      "begruendung_selbst": "Mein ganzer Alltag richtet sich nach dem Dienstplan. Dass unsere Zulagen für diese unchristlichen Zeiten gesichert und ausgebaut werden, zeigt wenigstens etwas Anerkennung."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Die Pflege ist keine Fabrik!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP fordert für die Pflege mehr unternehmerische Freiheit und lehnt die Überführung von Einrichtungen in kommunale Hand strikt ab.",
+      "seite": 71,
+      "zitat": "Pflege braucht verlässliche Rahmenbedingungen, unternehmerische Freiheit und klare Zuständigkeiten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin sieht die zunehmende Ökonomisierung des Gesundheitssystems äußerst kritisch. Die Forderung nach unternehmerischer Freiheit weckt bei ihr die Angst, dass Renditeerwartungen privater Träger noch stärker auf Kosten des Personals gehen.",
+      "begruendung_selbst": "Pflege ist Daseinsvorsorge, kein Business! Wenn hier noch mehr auf unternehmerischen Profit geschaut wird, wird unsere Arbeit auf Station endgültig kaputtgespart."
+    },
+    {
+      "titel_selbst": "Noch mehr Privatisierung? Bloß nicht!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Land soll seine direkten Beteiligungen an Unternehmen abbauen und eine umfassende Privatisierung starten, um die Wirtschaft zu liberalisieren.",
+      "seite": 9,
+      "zitat": "Für uns ist Privatisierung kein Unwort, sondern eine hinreichende Ausweitung wirtschaftlicher Freiheit.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als solidarisch eingestellte Arbeitnehmerin steht Kerstin dem Verkauf von öffentlichem Eigentum und Daseinsvorsorge ablehnend gegenüber, da sie Profitlogik im sozialen Bereich für gefährlich hält.",
+      "begruendung_selbst": "Im Krankenhaus merke ich jeden Tag, was passiert, wenn die Rendite wichtiger ist als der Mensch. Eine Privatisierungsoffensive ist der völlig falsche Weg für unsere Gesellschaft."
+    },
+    {
+      "titel_selbst": "Tarifbindung gibt uns Sicherheit!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP plant, das bestehende Gesetz, das öffentliche Aufträge an Tariftreue knüpft, möglichst schnell wieder abzuschaffen.",
+      "seite": 7,
+      "zitat": "In den kommenden Jahren gilt es, das Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist arbeitnehmerorientiert und vertraut auf Gewerkschaften. Der geplante Abbau von Tariftreuevorgaben widerspricht ihrem Sinn für faire, verlässliche Bezahlung und gerechte Arbeitsbedingungen fundamental.",
+      "begruendung_selbst": "Faire Löhne gibt es nur mit starken Tarifen. Dass der Staat Aufträge auch an Firmen ohne Tarifbindung vergeben soll, ist ein Schlag ins Gesicht für alle hart arbeitenden Menschen."
+    },
+    {
+      "titel_selbst": "Zwangsarbeit hilft niemandem weiter.",
+      "thema": "arbeit",
+      "programmpunkt": "Langzeitarbeitslose sollen verpflichtet werden, im öffentlichen Interesse gemeinnützige Arbeit zu verrichten.",
+      "seite": 40,
+      "zitat": "Wir wollen, dass Langzeitarbeitslose zur Bürgerarbeit verpflichtet werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als fürsorgliche Pflegekraft mit einem solidarischen Menschenbild lehnt Kerstin Sanktionen und Arbeitszwang für Bedürftige ab. Solche Maßnahmen widersprechen ihrer Auffassung von einem respektvollen und stützenden Sozialstaat.",
+      "begruendung_selbst": "Menschen unter Druck zu setzen und zur Arbeit zu zwingen, hat mit Solidarität nichts zu tun. Wir müssen die Leute unterstützen und nicht abstrafen."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die FDP-Forderungen nach Bürokratieabbau, steuerfreien Überstunden und erleichterter Anerkennung ausländischer Fachkräfte treffen bei Kerstin auf breite Zustimmung, da sie konkrete Entlastung im Arbeitsalltag versprechen. Gleichzeitig steht sie der ausgeprägten Ausrichtung auf Privatisierung, unternehmerische Freiheit in der Pflege und dem Abbau von Tariftreue sehr kritisch gegenüber, da sie darin eine Gefahr für gute Arbeitsbedingungen und die Versorgungsqualität sieht.",
+    "score": 0
+  }
+}

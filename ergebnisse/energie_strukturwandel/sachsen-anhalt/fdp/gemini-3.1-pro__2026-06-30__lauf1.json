@@ -1,0 +1,128 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich grünes Licht für CCS!",
+      "thema": "energie",
+      "programmpunkt": "Die Speicherung von CO2 an Land (Onshore-CCS) soll ermöglicht und zügig in Pilotprojekten erprobt werden.",
+      "seite": 23,
+      "zitat": "zügig geeignete Modellregionen zur sicheren CO 2 -Speicherung an Land gesucht",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht in der CCS-Technologie eine unverzichtbare Brücke, um die Industrie in seiner Region zu erhalten. Der pragmatische Ansatz der Partei, diese Technik aktiv zu erproben statt sie zu blockieren, deckt sich exakt mit seinen Hoffnungen.",
+      "begruendung_selbst": "Wir brauchen CCS als Brücke, um unsere Anlagen und Jobs hier zu halten. Wer das pauschal verbietet, dreht uns den Saft ab, bevor das Neue überhaupt steht. Gut, dass man das hier endlich pragmatisch anpackt."
+    },
+    {
+      "titel_selbst": "Unsere Ressourcen weiter nutzen.",
+      "thema": "energie",
+      "programmpunkt": "Heimische Bodenschätze, darunter Schiefergas und Braunkohle, sollen weiter verantwortungsvoll genutzt und unkonventionelles Fracking erlaubt werden.",
+      "seite": 16,
+      "zitat": "pauschale Verbot des unkonventionellen Frackings auf Bundesebene durch ein wissenschaftsbasiertes Genehmigungsregime zu ersetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Energiewirtschaftler lehnt er hastige Ausstiegsdaten ohne sicheren Ersatz ab. Dass das Programm auf heimische Energieträger setzt und Technologieverbote aufheben will, gibt ihm und seinem Sektor das Gefühl von mehr Planungssicherheit.",
+      "begruendung_selbst": "Unsere eigenen Ressourcen pauschal zu verbieten, hilft niemandem, wenn wir dann alles teuer importieren müssen. Wir müssen fördern, was wir haben – das sichert nicht nur die Versorgung, sondern auch unsere Arbeitsplätze."
+    },
+    {
+      "titel_selbst": "Neue Industrie statt nur Ausstieg.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Sachsen-Anhalt soll sich frühzeitig als Ansiedlungsstandort für moderne Kernenergietechnologien positionieren und entsprechende Industrieflächen ausweisen.",
+      "seite": 15,
+      "zitat": "Sachsen-Anhalt frühzeitig zu einem Entwicklungs- und Ansiedlungsstandort für moderne Kernenergietechnologien machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Er fürchtet, dass seine Heimat nach dem Kohleausstieg zur perspektivlosen verlängerten Werkbank verkommt. Der Vorstoß, gezielt hochinnovative Energiewirtschaft im Land anzusiedeln, verspricht die gut bezahlten Industriejobs, die er sich für seine Region wünscht.",
+      "begruendung_selbst": "Einfach nur Kraftwerke abschalten reicht nicht, wir müssen auch was Neues aufbauen! Wenn wir moderne Forschung und Energieanlagen hierherholen, gibt das unserem Revier endlich eine echte wirtschaftliche Perspektive."
+    },
+    {
+      "titel_selbst": "Faire Strompreise für Erzeuger!",
+      "thema": "energie",
+      "programmpunkt": "Die Netzentgelte sollen gerechter verteilt werden, um Regionen wie Sachsen-Anhalt, die viel Erneuerbare produzieren, finanziell spürbar zu entlasten.",
+      "seite": 14,
+      "zitat": "Netzentgelte müssen daher zwischen den Regionen fairer verteilt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Er weiß aus seinem Berufsalltag um die immense Preislast, die der Netzausbau mit sich bringt. Eine finanzielle Entlastung seiner stark an der Stromproduktion beteiligten Heimatregion empfindet er als dringend notwendigen Schritt der Gerechtigkeit.",
+      "begruendung_selbst": "Wir produzieren hier massenhaft Strom für den Rest der Republik und dürfen dafür die höchsten Netzentgelte zahlen. Es ist nur fair, dass das korrigiert wird, damit unsere Industrie wettbewerbsfähig bleibt."
+    },
+    {
+      "titel_selbst": "Tempo beim Netzausbau!",
+      "thema": "energie",
+      "programmpunkt": "Planungs- und Genehmigungsverfahren für den Ausbau der Energieinfrastruktur sollen deutlich vereinfacht und beschleunigt werden.",
+      "seite": 63,
+      "zitat": "Energieinfrastruktur braucht schnellere, einfachere Verfahren.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Netz- und Anlagenbauer leidet er unter der massiven Bürokratie, die Projekte blockiert. Die Forderung nach drastisch verkürzten Verfahren spricht ihm aus der Seele, da so der dringend nötige Umbau realisierbar wird.",
+      "begruendung_selbst": "Wir reden uns seit Jahren den Mund fusselig, aber beim Ausbau der Netze dauert alles ewig. Wenn hier endlich mal jemand die Bremse löst und die Verfahren abkürzt, kommen wir beim Wandel auch wirklich voran."
+    },
+    {
+      "titel_selbst": "Mehr Respekt für Facharbeiter!",
+      "thema": "arbeit",
+      "programmpunkt": "Die duale Berufsausbildung soll als zentrales Aufstiegsmodell gestärkt und gesellschaftlich sichtbarer aufgewertet werden.",
+      "seite": 34,
+      "zitat": "Sachsen-Anhalt braucht mehr Respekt und Sichtbarkeit für berufliche Wege.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Techniker wünscht er sich mehr gesellschaftliche Anerkennung für klassische Handwerks- und Industrieberufe. Die politische Forderung nach mehr Sichtbarkeit und Respekt für den dualen Bildungsweg wertet seine eigene Lebensleistung auf.",
+      "begruendung_selbst": "Es müssen nicht alle studieren gehen. Wir Facharbeiter und Techniker halten den Laden hier draußen am Laufen. Es wird wirklich Zeit, dass unsere berufliche Ausbildung wieder den Respekt bekommt, den sie verdient."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Der Markt macht keinen Strukturwandel.",
+      "thema": "klima",
+      "programmpunkt": "Der Klimaschutz soll ausschließlich über den Emissionshandel gesteuert werden, der alle anderen steuernden Abgaben ersetzen soll.",
+      "seite": 23,
+      "zitat": "Emissionshandel ist dabei das Leitinstrument, es muss andere Steuern und Abgaben ersetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny befürchtet, dass ein rein marktgetriebener Wandel über CO2-Preise zu harten Brüchen führt. Ohne flankierenden politischen Plan sieht er die Gefahr, dass regionale Industriezweige abrupt unrentabel werden, bevor neue Jobs überhaupt entstanden sind.",
+      "begruendung_selbst": "Wenn nur der blinde Markt und der CO2-Preis entscheiden, wann bei uns die Lichter ausgehen, passiert das vielleicht von heute auf morgen. Ein Preis ist noch lange kein Plan – der baut uns keine neuen Fabriken."
+    },
+    {
+      "titel_selbst": "Strukturwandel braucht gezieltes Geld!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Landesregierung soll spezifische Fördermittel abbauen und stattdessen das Geld pauschal an alle Kommunen verteilen.",
+      "seite": 55,
+      "zitat": "Fördermittel sollen, wo immer möglich, ganz oder teilweise in pauschalierte investive Zuweisungen überführt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für den tiefgreifenden Wandel seiner vom Kohleausstieg betroffenen Region sind zielgerichtete, massive Investitionen unabdingbar. Eine pauschale Gießkannen-Förderung an alle Kommunen weckt in ihm die Sorge, dass für entscheidende Großansiedlungen in seinem Revier das Geld fehlen wird.",
+      "begruendung_selbst": "Wenn man jetzt die speziellen Fördertöpfe einkassiert und das Geld einfach pauschal an jeden verteilt, versickert das doch bloß. Wir hier im Strukturwandel brauchen gebündelte Investitionen, sonst wird das nichts mit dem neuen Aufschwung."
+    },
+    {
+      "titel_selbst": "Unsere Netze nicht verschleudern!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Land soll seine Beteiligungen an Unternehmen auf den Prüfstand stellen und massiv privatisieren.",
+      "seite": 9,
+      "zitat": "eine umfassende Privatisierungsoffensive zu starten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "In der Energiewirtschaft haben kommunale und landeseigene Unternehmen oft eine stabilisierende Wirkung für Arbeitsplätze. Er betrachtet eine dogmatische Privatisierungsoffensive kritisch, da er Einsparungen zulasten der regionalen Belegschaften und der sicheren Versorgung befürchtet.",
+      "begruendung_selbst": "Staatsbeteiligungen blind zu privatisieren, halte ich für brandgefährlich. Gerade bei unserer Energieinfrastruktur brauchen wir Verlässlichkeit und sichere Arbeitsplätze vor Ort. Da darf nicht nur die schnelle Rendite für irgendwelche Investoren zählen."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet im Programm viele technologieoffene Ansätze, die seinen Pragmatismus bedienen und seiner Branche neue Perspektiven eröffnen, etwa durch CCS, Kernenergie oder den Weiterbetrieb fossiler Quellen. Er schätzt den Fokus auf Fachkräfte und den zügigen Netzausbau sehr. Skeptisch sieht er jedoch die starke Marktgläubigkeit, die beim reinen Emissionshandel oder der Abschaffung gezielter Fördermittel einen unkontrollierten Strukturwandel ohne soziales Sicherheitsnetz für seine Region riskieren könnte.",
+    "score": 1
+  }
+}

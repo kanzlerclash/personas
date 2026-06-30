@@ -1,0 +1,106 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Tariftreue ist ein Muss!",
+      "thema": "arbeit",
+      "programmpunkt": "Die SPD will die Tarifbindung im Land über ein Tariftreue- und Vergabegesetz festigen und sichern.",
+      "seite": 8,
+      "zitat": "Mit dem Tariftreue- und Vergabegesetz stärken wir die Tarifbindung im Land.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht starke Gewerkschaften und Flächentarife als Fundament seines Wohlstands. Der gesetzliche Schutz dieser Errungenschaften gibt ihm die nötige Rückendeckung.",
+      "begruendung_selbst": "Gute Arbeit muss ordentlich bezahlt werden. Dass die SPD die Tarifbindung gesetzlich absichern will, ist genau der richtige Weg gegen Lohndrückerei."
+    },
+    {
+      "titel_selbst": "Unser Chemiedreieck hat Zukunft!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Chemiedreieck wird als unverzichtbarer industrieller Kern hervorgehoben, der bei der Umstellung auf Klimaneutralität höchste landespolitische Priorität erfahren soll.",
+      "seite": 6,
+      "zitat": "Der industrielle Kern im Chemiedreieck Mitteldeutschland hat für uns eine besondere Bedeutung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe fürchtet die schleichende Deindustrialisierung seiner Heimat. Das klare Bekenntnis zum Erhalt seiner direkten Branche und Region nimmt ihm existenzielle Sorgen.",
+      "begruendung_selbst": "Da steht schwarz auf weiß, dass sie unsere Branche nicht abwickeln, sondern unterstützen wollen. Unser Chemiedreieck ist das Rückgrat des Landes und braucht diese Hilfe."
+    },
+    {
+      "titel_selbst": "Klare Kante für Betriebsräte!",
+      "thema": "arbeit",
+      "programmpunkt": "Unternehmen, die die Arbeit von Betriebsräten und Mitbestimmung systematisch behindern, sollen von staatlichen Fördergeldern ausgeschlossen werden.",
+      "seite": 8,
+      "zitat": "Unternehmen, die Mitbestimmung systematisch behindern, sollen von staatlichen Förderungen ausgeschlossen werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als aktiver Gewerkschafter kämpft Uwe oft gegen arbeitgeberseitige Widerstände. Eine harte staatliche Sanktion gegen Behinderungen der Mitbestimmung stärkt seine tägliche Arbeit.",
+      "begruendung_selbst": "Wer uns im Betrieb knüppeln will, darf keine Steuergelder kriegen. Richtig so, dass die Politik uns Arbeitnehmervertretern hier knallhart den Rücken stärkt."
+    },
+    {
+      "titel_selbst": "Günstiger Strom rettet Jobs!",
+      "thema": "energie",
+      "programmpunkt": "Um Wettbewerbsfähigkeit und Investitionen zu sichern, plant die Partei Maßnahmen zur Senkung der Stromkosten, insbesondere durch eine Deckelung der Netzentgelte.",
+      "seite": 5,
+      "zitat": "Deshalb setzen wir uns für eine weitgehende Deckelung der Netzentgelte [...] ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für die energieintensive Schwerindustrie sind wettbewerbsfähige Strompreise die absolute Überlebensfrage. Uwes Sorge um den Verlust von Anlagen wird hier direkt adressiert.",
+      "begruendung_selbst": "Ohne bezahlbaren Strom können wir unsere Anlagen abschalten. Eine Deckelung der Netzkosten ist zwingend nötig, damit wir international überhaupt noch mithalten können."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Starre Klimaziele gefährden Jobs!",
+      "thema": "klima",
+      "programmpunkt": "Es soll ein Klimaschutzgesetz mit festen Reduktionspfaden für Treibhausgase eingeführt werden, das rechtsverbindliche Ziele formuliert.",
+      "seite": 22,
+      "zitat": "Ein Klimaschutzgesetz schafft Verbindlichkeit und Überprüfbarkeit der Ziele",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe fürchtet, dass rigide gesetzliche CO2-Vorgaben das Tempo der Transformation diktieren, ohne Rücksicht auf die technischen und wirtschaftlichen Möglichkeiten der Industrie zu nehmen.",
+      "begruendung_selbst": "Immer neue Gesetze nützen dem Klima gar nichts, wenn sie unsere Werke in die Knie zwingen. Transformation geht nur mit uns, nicht per Brechstange aus dem Ministerium!"
+    },
+    {
+      "titel_selbst": "Träumerei bei der Grundlast!",
+      "thema": "energie",
+      "programmpunkt": "Das Programm setzt beim Ausgleich von Zeiten ohne Wind und Sonne vor allem auf erneuerbare Speicher und Bioenergie statt auf konventionelle Reserven.",
+      "seite": 5,
+      "zitat": "So können Lastspitzen und „Dunkelflauten“ in einem Stromsystem [...] schnell und effizient ausgeglichen werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Chemieindustrie benötigt rund um die Uhr absolute Versorgungssicherheit. Uwe hält die Fokussierung auf reine Speicherlösungen für den Ausgleich für praxisfern und potenziell gefährlich für die Netzstabilität.",
+      "begruendung_selbst": "Unsere Anlagen laufen 24 Stunden am Tag auf Hochtouren. Von ein paar Speichern und Biogas kann man keine Schwerindustrie am Leben halten, das ist gefährlich realitätsfern."
+    },
+    {
+      "titel_selbst": "Was ist mit der alten Industrie?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Um zukunftsfähige Wirtschaftsbereiche anzulocken, will die Partei neue Start-ups mit einem speziellen Klimagründungsgeld fördern.",
+      "seite": 5,
+      "zitat": "Ein Klimagründungsgeld holt zukunftstaugliche Branchen ins Land.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe stört sich an der politischen Begeisterung für neue Start-ups, wenn gleichzeitig die traditionelle Schwerindustrie, die das Rückgrat der Wirtschaft bildet, unter enormem Anpassungsdruck steht.",
+      "begruendung_selbst": "Schön und gut, dass man Start-ups fördern will. Aber man darf nicht diejenigen vernachlässigen, die heute die dicken Steuern zahlen und tausende Familien ernähren!"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der SPD holt den Industriearbeiter Uwe bei seinen Kernthemen wie Tarifbindung, Mitbestimmung und der Sicherung der energieintensiven Chemieindustrie stark ab. Gleichzeitig wecken schnelle ordnungspolitische Vorgaben beim Klimaschutz und sehr idealistische energiepolitische Vorstellungen bei ihm tiefe Sorgen um die Machbarkeit und die internationale Wettbewerbsfähigkeit seiner Arbeitsplätze.",
+    "score": 1
+  }
+}

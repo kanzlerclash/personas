@@ -1,0 +1,94 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Souveränität durch eigene Rüstungsproduktion!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU will Sachsen-Anhalt als starken Industriestandort etablieren und gezielt strategisch wichtige Produktionen, wie etwa für die Verteidigungschemie, ansiedeln, um Europas Unabhängigkeit zu sichern.",
+      "seite": 12,
+      "zitat": "Nitro - Chemie für die Verteidigungsindustrie",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan erlebt im Dienst regelmäßig, wie gefährlich Materialengpässe und Abhängigkeiten sind. Dass das Land aktiv sicherheitsrelevante Rüstungs- und Chemieproduktion fördern will, zeugt für ihn von ernsthafter strategischer Voraussicht.",
+      "begruendung_selbst": "Endlich denkt mal jemand strategisch. Wenn es hart auf hart kommt, müssen wir unser Material hier in Europa herstellen können, sonst stehen wir nackt da."
+    },
+    {
+      "titel_selbst": "Klare Kante gegen jeden Extremismus!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Sicherheitsbehörden und der Verfassungsschutz sollen personell gestärkt werden, um Extremismus kompromisslos und ohne ideologische Scheuklappen zu bekämpfen.",
+      "seite": 7,
+      "zitat": "jede Form des politisch und islamistisch motivierten Extremismus bekämpfen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soldat ist er auf die Verfassung vereidigt und lehnt alle radikalen Strömungen ab, die die freiheitliche Ordnung gefährden. Die stringente Ausrichtung der Sicherheitsbehörden gibt ihm Vertrauen in die Wehrhaftigkeit des Rechtsstaats.",
+      "begruendung_selbst": "Ich diene der Verfassung, da erwarte ich vom Staat, dass er sie nach allen Seiten hin schützt. Wir dürfen bei keinem Extremismus auf dem rechten Auge blind sein."
+    },
+    {
+      "titel_selbst": "Enge Zusammenarbeit im Krisenfall!",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Land plant, den Bevölkerungsschutz aufzuwerten und dabei die Koordinierungsstellen und Schnittstellen zur Bundeswehr personell gezielt auszubauen.",
+      "seite": 10,
+      "zitat": "Schnittstelle zum Bund, zur Bundeswehr, zu den Ländern, Ressorts und Kommunen personell weiter gestärkt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bei Katastrophen oder Inlandseinsätzen ist die Truppe zwingend auf funktionierende zivile Strukturen angewiesen. Dass das Land hier konkretes Personal für die Abstimmung mit der Bundeswehr aufbaut, wertet er als überaus professionell.",
+      "begruendung_selbst": "Im Einsatzfall muss die Zusammenarbeit zwischen uns und den zivilen Behörden blind funktionieren. Dass hier die Verbindungen zur Truppe aktiv gestärkt werden, ist absolut der richtige Weg."
+    },
+    {
+      "titel_selbst": "Richtiges Material für die Einsatzkräfte!",
+      "thema": "sicherheit",
+      "programmpunkt": "Um gefährliche Einsatzlagen sicherer bewältigen zu können, soll die Landespolizei besser geschützt und flächendeckend mit Distanz-Elektroimpulsgeräten ausgerüstet werden.",
+      "seite": 7,
+      "zitat": "Landespolizei flächendeckend mit Distanz - Elektroimpulsgeräten (Taser) ausstatten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Stefan in der Bundeswehr selbst oft unter Ausrüstungsmängeln leidet, honoriert er es sehr, wenn Einsatzkräfte im Inneren moderne und wirksame Ausstattung erhalten. Für ihn ist eine gute Ausrüstung das wichtigste Zeichen politischer Wertschätzung.",
+      "begruendung_selbst": "Wer in Uniform den Kopf hinhält, braucht Material, das funktioniert. Dass die Polizei jetzt flächendeckend Taser bekommt, zeigt mir, dass man den Schutz der Einsatzkräfte ernst nimmt."
+    },
+    {
+      "titel_selbst": "Klares Bekenntnis zur europäischen Verteidigung!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei fordert eine Rückbesinnung der EU auf ihre Kernaufgaben, zu denen ausdrücklich auch der Ausbau einer starken und gemeinsamen europäischen Verteidigung zählt.",
+      "seite": 89,
+      "zitat": "die gemeinsame Verteidigung stärkt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sein Dienstalltag ist maßgeblich von der Bedrohungslage an der NATO-Ostflanke geprägt. Die explizite Nennung der europäischen Verteidigungsfähigkeit als Priorität gibt ihm beruflichen Rückhalt und beruhigt ihn hinsichtlich der Verlässlichkeit der Politik.",
+      "begruendung_selbst": "Europa muss wehrhaft sein, das ist in der heutigen Lage überlebenswichtig. Dass Verteidigung dort oben auf der politischen Agenda steht, stärkt mir den Rücken für meinen Auftrag."
+    },
+    {
+      "titel_selbst": "Verlässlichkeit für meine Familie!",
+      "thema": "familie",
+      "programmpunkt": "Eine flächendeckende, qualitativ hochwertige und bezahlbare Kinderbetreuung wird als Kernaufgabe definiert, um die Vereinbarkeit von Familie und Beruf zu gewährleisten.",
+      "seite": 31,
+      "zitat": "Die flächendeckende, qualitativ hochwertige und bezahlbare Kinderbetreuung bleibt dabei ein zentrales Anliegen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Versetzungen und Übungen fordern seiner Familie am Standort viel ab. Die Garantie einer verlässlichen Betreuungsinfrastruktur entlastet ihn privat enorm und ist für ihn eine zwingende Voraussetzung, um seinen fordernden Dienst leisten zu können.",
+      "begruendung_selbst": "Wenn ich auf Übung bin, muss zu Hause alles laufen. Eine wirklich verlässliche Kinderbetreuung ist für uns als Soldatenfamilie schlichtweg unverzichtbar."
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Regierungsprogramm der CDU Sachsen-Anhalt trifft bei Stefan in allen für ihn wesentlichen Punkten auf starke Zustimmung. Der klare Fokus auf innere Sicherheit, eine konsequente Ausrüstung der Einsatzkräfte und die direkte personelle Anbindung des Bevölkerungsschutzes an die Bundeswehr decken sich vollständig mit seinem ordnungspolitischen Weltbild. Dass das Programm sich zudem zu einer starken europäischen Verteidigungsfähigkeit, der Ansiedlung von Rüstungsindustrie und einer verlässlichen Familienpolitik bekennt, beantwortet seine Kernsorgen als Berufssoldat hervorragend.",
+    "score": 2
+  }
+}

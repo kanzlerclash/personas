@@ -1,0 +1,128 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mehr Rückhalt für die Polizei!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will 500 neue Polizeistellen schaffen, um die polizeiliche Präsenz zu erhöhen und den Beamt:innen mehr Zeit für Bürgerkontakt zu geben.",
+      "seite": 128,
+      "zitat": "500 neue Polizeistellen bis 2030 bedeuten nicht nur mehr Präsenz",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Sicherheitsbediensteter des Bundes schätzt Stefan einen starken, handlungsfähigen Staat, der innere Sicherheit gewährleistet. Die Aufstockung des Polizeipersonals findet daher seine ausdrückliche Zustimmung.",
+      "begruendung_selbst": "Die Kollegen in Uniform leisten wichtige Arbeit auf der Straße und sind ohnehin chronisch unterbesetzt. Mehr Stellen sind hier absolut der richtige Weg, um Sicherheit zu garantieren."
+    },
+    {
+      "titel_selbst": "Entlastung für Uniformierte!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert bessere Arbeitsbedingungen für Polizeikräfte, insbesondere eine Reduzierung der Wochenarbeitszeit, um die Vereinbarkeit mit der Familie zu verbessern.",
+      "seite": 128,
+      "zitat": "Arbeitszeitreduktion für Polizeikräfte auf 38 Stunden eingeführt werden kann",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soldat mit Familie am Standort kennt Stefan die hohe Belastung und die familienunfreundlichen Zeiten in Sicherheitsberufen sehr gut. Eine spürbare Entlastung bei der Arbeitszeit für Uniformierte sieht er sehr positiv.",
+      "begruendung_selbst": "Dienst, Bereitschaft und Schichten belasten das Familienleben enorm. Es ist gut, wenn Uniformträger bei den Arbeitszeiten endlich entlastet werden sollen, das brauchen wir dringend."
+    },
+    {
+      "titel_selbst": "Krisenvorsorge muss professionell sein!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke plant eine bessere personelle und materielle Ausstattung für Rettungsdienste und das THW im Bereich des Katastrophenschutzes.",
+      "seite": 130,
+      "zitat": "Wir stärken Hilfswerk und Rettungsdienste mit modernem Equipment, ausreichend Personal",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan weiß aus dem militärischen Dienstbetrieb, dass Krisenvorsorge und Katastrophenschutz gut ausgestattete Partner erfordern. Die Stärkung ziviler Hilfskräfte begrüßt er, da sie die staatliche Resilienz insgesamt erhöht.",
+      "begruendung_selbst": "Im Krisenfall müssen alle Rädchen ineinandergreifen, zivil wie militärisch. Eine professionelle Ausstattung für den Katastrophenschutz ist wichtig, auch wenn wir als Truppe Amtshilfe leisten."
+    },
+    {
+      "titel_selbst": "Verfassungsschutz fängt lokal an!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Linke plant den Ausbau lokaler Strukturen, um Kommunen gezielt gegen rechtsextreme Unterwanderung und antidemokratische Umtriebe abzusichern.",
+      "seite": 15,
+      "zitat": "Jede Gemeinde erhält Unterstützung beim Aufbau demokratischer Beteiligungsstrukturen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als verfassungstreuer Staatsdiener ist Stefan eine wehrhafte Demokratie ein Kernanliegen. Er unterstützt Maßnahmen, die radikale, verfassungsfeindliche Kräfte vor Ort eindämmen.",
+      "begruendung_selbst": "Ich diene der Verfassung und diesem Land. Wer unsere demokratische Grundordnung untergräbt, muss frühzeitig gestoppt werden, und dafür braucht es auch die Zivilgesellschaft vor Ort."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ausrüstung ist kein Luxus!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei lehnt höhere Militärausgaben strikt ab und kritisiert diese lediglich als profitgetrieben für Rüstungskonzerne, anstatt sie als sicherheitsfördernd anzuerkennen.",
+      "seite": 13,
+      "zitat": "gegen die Erhöhung der Militärausgaben, die nicht die Sicherheit,",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt täglich Ausrüstungsmängel und hält finanzielle Mittel für eine einsatzfähige Bundeswehr für essenziell. Ihn frustriert die pauschale Gleichsetzung von nötiger Truppenausstattung mit Konzernprofiten zutiefst.",
+      "begruendung_selbst": "Wie sollen wir unseren Auftrag an der NATO-Ostflanke erfüllen, wenn uns das Geld für funktionierendes Material verweigert wird? Das ist eine realitätsferne und gefährliche Träumerei."
+    },
+    {
+      "titel_selbst": "Ohne Personal keine Truppe!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei stellt sich entschieden gegen jegliche Modelle einer Dienst- oder Wehrpflicht, da sie diese als sinnlosen Entzug von Freiheit der Jugend betrachtet.",
+      "seite": 13,
+      "zitat": "gegen die schrittweise Einführung der Wehrpflicht,",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan sorgt sich intensiv um den Nachwuchs und die personelle Einsatzbereitschaft der Streitkräfte. Die kategorische Ablehnung jeglicher Dienstpflichtmodelle sieht er als Bedrohung für die Zukunftsfähigkeit der Bundeswehr.",
+      "begruendung_selbst": "Wir haben in der Truppe massive Personalprobleme. Wer eine Dienstpflicht kategorisch als Freiheitsberaubung abtut, hat den Ernst unserer Sicherheitslage einfach nicht verstanden."
+    },
+    {
+      "titel_selbst": "Standorte sind unsere Basis!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Linke positioniert sich gegen die militärische Nutzung wichtiger regionaler Standorte und deren weitere Infrastrukturentwicklung für die Bundeswehr.",
+      "seite": 13,
+      "zitat": "gegen die militärische Nutzung des Flughafens",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Berufssoldat, dessen Alltag stark durch Standorte und deren Einsatzfähigkeit geprägt ist, lehnt Stefan diese Schwächung ab. Er sieht moderne Stützpunkte als unverzichtbare Basis für die Bündnisverteidigung.",
+      "begruendung_selbst": "Ohne voll ausgestattete Standorte und funktionierende logistische Infrastruktur ist die Truppe nicht verlegbar. Solche Forderungen machen uns als Armee komplett handlungsunfähig."
+    },
+    {
+      "titel_selbst": "Europa muss wehrhaft bleiben!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei wendet sich strikt dagegen, dass die EU in der globalen Sicherheitspolitik militärisch handlungsfähig wird, und fordert einen rein zivilen Fokus.",
+      "seite": 95,
+      "zitat": "Wir wenden uns dagegen, die EU zu einem weiteren militärischen Akteur",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan sieht die Bedrohungslage durch Russland sehr real und hält bündnisorientierte, wehrhafte Strukturen in ganz Europa für unverzichtbar. Die Ablehnung jeglicher europäischer Militärstärke empfindet er als naiv.",
+      "begruendung_selbst": "Man kann den russischen Imperialismus nicht mit guten Wünschen wegdiskutieren. Europa muss militärisch wehrhaft sein, sonst werden wir rasch zum Spielball."
+    },
+    {
+      "titel_selbst": "Kein Material ohne Industrie!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke fordert zivile Produktion statt Rüstung zu priorisieren, was sie als Gegensatz zu Ökologie und Arbeitsplatzsicherheit sieht.",
+      "seite": 122,
+      "zitat": "damit Arbeitsplätze und Wirtschaftskraft nicht an der Rüstungslogik",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan ist besorgt über eine Politik, die Rüstungs- und Verteidigungsfähigkeit pauschal abwertet. Für ihn ist eine verlässliche heimische Verteidigungsindustrie die zwingende Voraussetzung dafür, dass die Bundeswehr überhaupt Material erhält.",
+      "begruendung_selbst": "Wer die Rüstungsproduktion verteufelt und abwickeln will, darf sich nicht wundern, wenn unsere Depots leer bleiben. Wir brauchen diese Industrie zwingend für unsere Sicherheit."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan liest das Programm der Linken mit großem Unmut, da es seiner bündnisorientierten und sicherheitspolitischen Grundhaltung im Kern widerspricht. Zwar begrüßt er soziale Verbesserungen für Uniformträger und die Stärkung von Katastrophenschutz und Polizei, doch die fundamentale Ablehnung von Bundeswehrfinanzierung, NATO-Bündnisfähigkeit und Rüstungsindustrie sieht er als naive Gefährdung der deutschen Sicherheit. Er fühlt sich und seinen Auftrag als Soldat durch die durchweg antimilitaristische Linie der Partei delegitimiert.",
+    "score": -2
+  }
+}

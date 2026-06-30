@@ -1,0 +1,117 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Stoppt den Flächenausverkauf!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will Bodenpreise deckeln und sogenannte Share Deals verbieten, um den Ausverkauf von Flächen an Investoren zu stoppen.",
+      "seite": 111,
+      "zitat": "ein landesweites Verbot von Share Deals beim Erwerb landwirtschaftlicher Betriebe",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank kämpft mit steigenden Pachtpreisen und der Konkurrenz durch Investoren. Dass die Partei hier hart durchgreifen will, sichert langfristig die Existenz seines Familienbetriebs und erleichtert die Hofnachfolge.",
+      "begruendung_selbst": "Endlich schiebt jemand diesen Finanzheuschrecken einen Riegel vor. Wir Bauern brauchen das Land zum Wirtschaften, das darf kein Spekulationsobjekt für Großinvestoren sein."
+    },
+    {
+      "titel_selbst": "Faire Preise statt Preisdiktat!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Linke fordert gesetzliche Maßnahmen, um den Preisdruck durch Supermarktketten zu begrenzen und auskömmliche Preise für landwirtschaftliche Produkte durchzusetzen.",
+      "seite": 111,
+      "zitat": "faire Erzeugerpreise und Transparenz entlang der Lieferketten durchsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die schwankenden und oft niedrigen Erzeugerpreise setzen Franks Betrieb enorm unter Druck. Eine Begrenzung der Marktmacht der Discounter spricht direkt seine Hoffnung auf wirtschaftliche Fairness an.",
+      "begruendung_selbst": "Es kann nicht sein, dass die großen Supermärkte sich die Taschen vollmachen und bei uns Erzeugern bleibt nur eine rote Null. Wenn die Politik da eingreift, haben wir eine echte Chance."
+    },
+    {
+      "titel_selbst": "Endlich weniger Schreibtischarbeit!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei verspricht einen Abbau von Bürokratie und einfachere Förderprogramme mit mehrjährigen Zusagen für bessere Planbarkeit.",
+      "seite": 114,
+      "zitat": "Bürokratiekosten deutlich reduzieren und Förderprogramme vereinfachen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Landwirt leidet Frank massiv unter Dokumentationspflichten und ständig wechselnden Vorgaben. Langfristige und unbürokratische Regeln geben ihm die gewünschte Planungssicherheit zurück.",
+      "begruendung_selbst": "Wann soll ich eigentlich noch aufs Feld, wenn ich nur noch Formulare ausfülle? Wenn die das mit dem Bürokratieabbau ernst meinen, wäre uns schon sehr geholfen."
+    },
+    {
+      "titel_selbst": "Runter mit den Energiekosten!",
+      "thema": "energie",
+      "programmpunkt": "Zur finanziellen Entlastung plant die Partei, die Stromsteuer drastisch zu reduzieren.",
+      "seite": 107,
+      "zitat": "die Stromsteuer auf 0,1 ct/kWh senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Franks Betrieb leidet unter hohen laufenden Kosten, unter anderem für Diesel, Dünger und Energie für Trocknung und Kühlung. Eine spürbare Steuersenkung würde den finanziellen Druck lindern.",
+      "begruendung_selbst": "Strom für Kühlung und Trocknung kostet uns ein Vermögen. Eine echte Senkung der Stromsteuer ist genau das, was unser Betrieb jetzt zum Überleben braucht."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wieder Bevormundung aus dem Büro!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei plant, die Tierhaltung politisch zu begrenzen und strikte Obergrenzen für Tierbestände einzuführen.",
+      "seite": 112,
+      "zitat": "eine Bundesratsinitiative für Bestandsobergrenzen in der Tierhaltung auf den Weg bringen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank fürchtet ständig neue Auflagen und staatliche Eingriffe in seine unternehmerische Freiheit. Staatlich diktierte Obergrenzen bestätigen sein Bild von realitätsfernen Theoretikern, die ihm das Wirtschaften erschweren.",
+      "begruendung_selbst": "Da sitzen Leute am Schreibtisch, die noch nie im Stall standen, und wollen mir vorschreiben, wie viele Kühe ich halten darf. So ruiniert man die heimischen Höfe endgültig."
+    },
+    {
+      "titel_selbst": "Der Wolf ist wichtiger als wir!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Linke lehnt feste Obergrenzen für den Wolfsbestand ab und will weiterhin keine pauschalen Abschussquoten zulassen.",
+      "seite": 112,
+      "zitat": "keine Einführung politisch festgelegter Obergrenzen oder pauschaler Abschussquoten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Frank ist der Wolf eine konkrete Gefahr für Weidetiere und kein abstraktes Naturschutzthema. Dass die Partei eine echte Bestandsregulierung durch Obergrenzen ablehnt, empfindet er als Ignoranz gegenüber der ländlichen Realität.",
+      "begruendung_selbst": "Die in der Stadt finden den Wolf toll, aber wir haben hier die gerissenen Tiere auf der Weide. Ohne echte Obergrenzen und Abschüsse kriegen wir das Problem nie in den Griff."
+    },
+    {
+      "titel_selbst": "Planwirtschaft auf dem Acker!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm sieht vor, den Anteil des Ökolandbaus staatlich gesteuert drastisch zu erhöhen.",
+      "seite": 113,
+      "zitat": "den Anteil ökologisch bewirtschafteter Flächen von derzeit rund 10 auf mindestens 30 Prozent steigern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als konventioneller Ackerbauer lehnt Frank solche festen staatlichen Quoten ab. Er sieht darin eine realitätsferne Umweltpolitik, die nicht auf den Markt, sondern auf Ideologie setzt und konventionelle Betriebe abwertet.",
+      "begruendung_selbst": "Wir konventionellen Bauern arbeiten auch hart und nachhaltig. Wenn die Politik jetzt einfach 30 Prozent Ökolandbau per Gesetz erzwingen will, ist das reine Ideologie und völlig an der Praxis vorbei."
+    },
+    {
+      "titel_selbst": "Das können wir nicht bezahlen!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert, dass ein Mindestlohn ausnahmslos für alle Beschäftigten gilt.",
+      "seite": 86,
+      "zitat": "keine Ausnahmen vom Mindestlohn",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank ist bei seinen knappen Margen oft auf bezahlbare Saisonarbeitskräfte angewiesen. Noch höhere Löhne ohne jegliche Flexibilität oder Ausnahmen bedrohen die ohnehin geringe Rentabilität seines Betriebes unmittelbar.",
+      "begruendung_selbst": "Jeder soll fair bezahlt werden, klar. Aber wenn wir Erntehelfern immer noch höhere Löhne zahlen müssen, während die Erzeugerpreise im Keller sind, dann können wir direkt zumachen."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank, der bodenständige Landwirt, sieht das Programm der Linken zwiespältig. Positiv honoriert er das klare Bekenntnis zum Schutz landwirtschaftlicher Flächen vor Spekulanten und den Kampf gegen die Preisdiktatur der großen Supermärkte, was seinen Wunsch nach Fairness und Existenzsicherung direkt bedient. Auf der anderen Seite weckt die Partei durch Forderungen nach Tierbestands-Obergrenzen, staatlich verordneten Öko-Quoten und einem Festhalten am weitreichenden Wolfsschutz sein tiefes Misstrauen gegenüber realitätsferner Bevormundung.",
+    "score": 0
+  }
+}

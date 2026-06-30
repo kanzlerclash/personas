@@ -1,0 +1,95 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Rüstung im eigenen Land!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die FDP will die wehrtechnische Industrie stärken und die Produktion von Rüstungsgütern in Sachsen-Anhalt gezielt ansiedeln.",
+      "seite": 9,
+      "zitat": "wollen wir die gesetzlichen Rahmenbedingungen verbessern, um einen schnelleren Produktionsaufbau zu ermöglichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan sieht den massiven Ausrüstungsbedarf der Truppe als drängendes Problem. Dass die Rüstungsproduktion vor Ort hochgefahren werden soll, gibt ihm die Hoffnung auf Material, das endlich verlässlich verfügbar ist.",
+      "begruendung_selbst": "Wenn wir die Rüstung hier bei uns hochfahren, kriegen wir vielleicht endlich mal zeitnah das Material auf den Hof gestellt, das wir für unseren Auftrag dringend brauchen!"
+    },
+    {
+      "titel_selbst": "Forschung braucht auch Verteidigung!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei spricht sich klar gegen Zivilklauseln aus und fordert eine engere Vernetzung von Hochschulen und Verteidigungsindustrie.",
+      "seite": 10,
+      "zitat": "Zivilklauseln lehnen wir ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Er ärgert sich über ideologische Vorbehalte gegen die Bundeswehr in Teilen der Gesellschaft. Die Absage an Zivilklauseln empfindet er als klares Bekenntnis zur sicherheitspolitischen Realität.",
+      "begruendung_selbst": "Schluss mit der Ausgrenzung! Wer in Freiheit leben will, muss auch bereit sein, mit der Industrie zusammenzuarbeiten, die unsere Ausrüstung herstellt."
+    },
+    {
+      "titel_selbst": "Mehr Uniform auf der Straße!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizei soll durch den konsequenten Aufbau von Stellen sichtbarer werden und Beamte sollen sich auf Kernaufgaben fokussieren.",
+      "seite": 52,
+      "zitat": "Wir sorgen für sichtbar mehr Polizei in Stadt und Land",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soldat steht Stefan für eine wehrhafte Demokratie ein und wünscht sich auch nach innen einen starken Rechtsstaat, der seine Bürger wirksam schützen kann.",
+      "begruendung_selbst": "Sicherheit gibt es nicht zum Nulltarif. Wenn der Staat wehrhaft sein will, brauchen wir genug Leute auf der Straße, die das Gewaltmonopol durchsetzen."
+    },
+    {
+      "titel_selbst": "Der Staat darf sich nicht verzetteln!",
+      "thema": "demokratie",
+      "programmpunkt": "Die FDP fordert, dass sich der Staat auf seine wesentlichen Aufgaben konzentriert und wieder Handlungsfähigkeit bei der Durchsetzung des Rechts beweist.",
+      "seite": 46,
+      "zitat": "Ein moderner Staat konzentriert sich auf seine Kernaufgaben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihn frustriert institutionelle Schwäche. Dass sich der Staat laut Programm wieder auf Kernaufgaben besinnen und Stärke demonstrieren soll, entspricht seinem Bedürfnis nach Verlässlichkeit.",
+      "begruendung_selbst": "Der Staat muss seine Hausaufgaben machen – und das heißt für mich in erster Linie Sicherheit und Funktionieren der Behörden, statt sich in jedem Detail unseres Lebens einzumischen!"
+    },
+    {
+      "titel_selbst": "Wer bleiben will, muss zum Grundgesetz stehen!",
+      "thema": "demokratie",
+      "programmpunkt": "Ein dauerhaftes Bleiberecht für Migranten soll zwingend an ein klares Bekenntnis zu den Werten der Verfassung gebunden werden.",
+      "seite": 11,
+      "zitat": "und das glaubhafte Bekenntnis zu den Grundwerten unserer Verfassung.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan hat einen Amtseid auf die Verfassung geschworen. Er erwartet diese absolute Grundloyalität zum Staat und seinen demokratischen Prinzipien auch von allen, die hier dauerhaft leben wollen.",
+      "begruendung_selbst": "Ich setze für unsere Werte im Zweifelsfall mein Leben ein – da ist es nur recht und billig, dass jeder, der hier dauerhaft bleiben will, ebenfalls voll hinter dem Grundgesetz steht."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Waffen gehören nicht auf die Straße!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei möchte die bestehenden Waffenverbotszonen in Sachsen-Anhalt sowie die Möglichkeit anlassloser Personenkontrollen dort abschaffen.",
+      "seite": 52,
+      "zitat": "Ebenso fordern wir die Abschaffung aller Waffenverbotszonen im Land",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan ist im professionellen Umgang mit Waffen geschult und kennt deren Gefahren. Die Forderung, Verbotszonen für Waffen wieder abzuschaffen, untergräbt aus seiner Sicht die öffentliche Sicherheit.",
+      "begruendung_selbst": "Sicherheit heißt auch, vermeidbare Gefahren konsequent zu minimieren. Wer meint, dass Messer und andere Waffen in Innenstädten nichts Schlimmes sind, hat den Knall nicht gehört!"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das FDP-Programm punktet bei Stefan mit einem starken Fokus auf staatliche Kernaufgaben, innere Sicherheit und einem klaren Bekenntnis zum Ausbau der Rüstungsindustrie vor Ort. Die Ablehnung von Zivilklauseln und die Bindung eines Bleiberechts an Verfassungstreue entsprechen seinem konservativ-sicherheitsorientierten Wertegerüst sehr gut. Punktuell irritiert ihn jedoch die stark libertäre Haltung bei der geforderten Abschaffung von Waffenverbotszonen, was seinem Bedürfnis nach Ordnung und Sicherheit im öffentlichen Raum widerspricht.",
+    "score": 1
+  }
+}

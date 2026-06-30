@@ -1,0 +1,117 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Unser Chemiedreieck hat Zukunft!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU bekennt sich klar zur Sicherung und zum Ausbau der chemischen Industrie in Sachsen-Anhalt, um das Land als zentralen Wirtschaftsstandort zu erhalten.",
+      "seite": 12,
+      "zitat": "Wir wollen mehr chemische Industrie ansiedeln und vorhandene Unternehmen der Chemie- und Grundstoffindustrie sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht seine berufliche und familiäre Existenz untrennbar mit dem Erhalt der Schwer- und Chemieindustrie verbunden. Die klare Standortgarantie der Partei beruhigt seine Sorge vor einer Deindustrialisierung der Region.",
+      "begruendung_selbst": "Endlich mal ein klares Bekenntnis zu unserer Arbeit! Ohne die Chemie können wir hier im Land doch einpacken, das sichert unsere Arbeitsplätze."
+    },
+    {
+      "titel_selbst": "Bezahlbarer Strom rettet Jobs!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert einen vergünstigten Industriestrompreis, um der heimischen Wirtschaft günstige Energiepreise zu sichern und sie wettbewerbsfähig zu halten.",
+      "seite": 45,
+      "zitat": "benötigen wir u.a. einen Industriestrompreis und begrüßen dessen Einführung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Uwe ist die Energiefrage eine soziale Überlebensfrage seines Wirtschaftszweiges. Ein Industriestrompreis entspricht exakt seiner Hoffnung nach bezahlbarer Energie, um Abwanderungen und Werksschließungen zu verhindern.",
+      "begruendung_selbst": "Wenn die Energiekosten explodieren, sind unsere Anlagen als Erstes dicht. Ein eigener Strompreis für die Industrie ist genau das, was wir jetzt brauchen."
+    },
+    {
+      "titel_selbst": "Kein überstürzter Ausstieg!",
+      "thema": "energie",
+      "programmpunkt": "Das Programm bekennt sich zum bestehenden Kohlekompromiss und will den Ausstieg nicht vor das Jahr 2038 vorziehen, um Planungssicherheit zu garantieren.",
+      "seite": 45,
+      "zitat": "Der vereinbarte Kohleausstieg bis 2038 ist ein politisch und rechtlich verabredeter Konsens.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein verlässlicher, nicht überstürzter Transformationspfad ist Uwes Kernanliegen, da er Angst vor unkontrollierten Brüchen in seiner Region hat. Das Festhalten am Datum 2038 signalisiert ihm einen sozial abgefederten Wandel.",
+      "begruendung_selbst": "Wir haben 2038 abgemacht, und das muss auch stehen. Wer da jetzt wieder dran rüttelt und noch schneller aussteigen will, riskiert doch tausende Jobs in unserer Region."
+    },
+    {
+      "titel_selbst": "Schluss mit grüner Theorie!",
+      "thema": "klima",
+      "programmpunkt": "Die CDU lehnt aus ihrer Sicht zu strenge, ideologisch getriebene Umweltvorgaben ab, da diese eine Deindustrialisierung befördern würden.",
+      "seite": 90,
+      "zitat": "Wir bekämpfen praxisferne und ideologisch getriebene Vorgaben für unsere Industrie.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe teilt die Skepsis gegenüber einer zu schnellen und praxisfernen Transformationspolitik, die er als Bedrohung für Industriearbeitsplätze empfindet. Seine Kritik an der Umweltbewegung findet sich hier wieder.",
+      "begruendung_selbst": "Diese Leute in Brüssel haben doch noch nie einen Blaumann angehabt. Die wollen mit ihren pauschalen Verboten und Auflagen unsere ganze Branche an die Wand fahren."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Gute Löhne fallen nicht vom Himmel!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei macht Lohnsteigerungen primär von der Wettbewerbsfähigkeit der Wirtschaft abhängig und lehnt staatliche Vorgaben zur Lohnfindung ab.",
+      "seite": 12,
+      "zitat": "Dauerhaft steigende und sichere Einkommen entstehen jedoch nicht durch staatliche Vorgaben und Umverteilung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als aktiver Gewerkschafter streitet Uwe täglich für tarifvertragliche Verbesserungen. Die marktliberale Haltung, dass Löhne allein durch Wirtschaftskraft steigen, wertet aus seiner Sicht den Arbeitskampf und die gewerkschaftliche Mitbestimmung ab.",
+      "begruendung_selbst": "Die glauben wohl, die Unternehmen zahlen uns die guten Löhne freiwillig! Ohne uns Gewerkschaften und harte Tarifverhandlungen gäbe es gar nichts, da bringt auch die beste Wirtschaft nichts."
+    },
+    {
+      "titel_selbst": "Hände weg vom Sozialstaat!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert eine Deckelung der Sozialabgaben, um die Arbeitskosten für die Unternehmen gering zu halten.",
+      "seite": 17,
+      "zitat": "Handwerk und Mittelstand von Steuern zu entlasten sowie die Sozialabgaben zu deckeln.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Eine pauschale Deckelung der Sozialabgaben liest Uwe als Angriff auf die Finanzierung der Sicherungssysteme, auf die er als Arbeiter im Alter oder bei Krankheit angewiesen ist.",
+      "begruendung_selbst": "Sozialabgaben deckeln, das heißt doch auf gut Deutsch: Kürzungen bei unserer Rente und Krankenkasse! Wer den Sozialstaat schwächt, um die Wirtschaft zu hätscheln, hat mich als Gegner."
+    },
+    {
+      "titel_selbst": "Wir schuften uns schon kaputt!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei möchte Anreize schaffen, damit Menschen sozialversicherungsfrei mehr arbeiten oder auch im Rentenalter weiter erwerbstätig bleiben.",
+      "seite": 18,
+      "zitat": "bessere Anreize für Mehrarbeit und Arbeit im Rentenalter schaffen – sozialversicherungsfrei und unbürokratisch.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Schichtarbeit und Schwerindustrie fordern körperlich ihren Tribut von Uwe. Die Idee, durch steuerfreie Anreize das Arbeiten bis ins hohe Alter zu forcieren, empfindet er als realitätsfern für Industriearbeiter.",
+      "begruendung_selbst": "Sollen die Politiker mal 40 Jahre in Schicht an der Anlage stehen! Wir brauchen eine sichere Rente, von der man leben kann, und keine Tipps, wie wir als Rentner noch weiter schuften dürfen."
+    },
+    {
+      "titel_selbst": "Das ist billiger Zwangsarbeits-Populismus!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will eine verpflichtende sogenannte Bürgerarbeit für arbeitsfähige Leistungsempfänger einführen, andernfalls drohen Sanktionen.",
+      "seite": 31,
+      "zitat": "Bürgerarbeit einführen und durchsetzen – das ist eine wichtige Aufgabe zur Sicherung der sozialen Gerechtigkeit.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Gewerkschafter Uwe steht für gute Arbeit und tarifliche Standards. Staatlicher Zwang zur gemeinnützigen Arbeit für Erwerbslose widerstrebt seinem Verständnis von Solidarität und baut aus seiner Sicht Druck auf reguläre Löhne auf.",
+      "begruendung_selbst": "Die Leute zu Zwangsarbeit verdonnern, anstatt ordentliche Tarife zu fördern? Das spaltet doch nur die Gesellschaft, drückt die Löhne und untergräbt unsere Standards als Arbeitnehmer!"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die CDU adressiert Uwes größte existenzielle Sorgen sehr punktgenau, indem sie sich stark für den Erhalt der Schwerindustrie, einen Industriestrompreis und ein moderates Transformationstempo einsetzt. Dies gibt ihm das beruhigende Gefühl, dass sein Arbeitsplatz sicher bleibt. Zugleich lehnt er die arbeitsmarkt- und sozialpolitischen Vorstellungen der Partei vehement ab, da er in der Forderung nach Deckelung der Sozialabgaben und der Skepsis gegenüber staatlichen Lohnvorgaben eine gefährliche Schwächung der Gewerkschaften und des Sozialstaats sieht.",
+    "score": 1
+  }
+}

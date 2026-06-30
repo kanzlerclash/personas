@@ -1,0 +1,117 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Bürokratie im Amt!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei fordert ein Ende der Gängelung der Verwaltung und einen generellen Abbau von Bürokratie.",
+      "seite": 3,
+      "zitat": "die Gängelung der Verwaltung untereinander muss aufhören.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Angestellte in der Stadtverwaltung spürt Aylin die bürokratischen Hürden im Alltag, weshalb sie pragmatische Erleichterungen für ihre Behörde grundsätzlich begrüßt.",
+      "begruendung_selbst": "In meinem Job im Amt ertrinken wir oft in Vorschriften. Wenn da wirklich mal Abläufe entstaubt würden, wäre das eine echte Erleichterung für uns alle."
+    },
+    {
+      "titel_selbst": "Stärkung der Kommunen ist richtig!",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei kündigt an, die finanzielle Ausstattung der Kommunen verbessern zu wollen.",
+      "seite": 3,
+      "zitat": "Und schließlich muss die Finanzausstattung der Kommunen verbessert werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Aylin bedeutet eine gute finanzielle Basis der Kommunen direkte Arbeitsplatzsicherheit und mehr Handlungsspielraum in der örtlichen Verwaltung, in der sie tätig ist.",
+      "begruendung_selbst": "Unsere Stadtkassen sind oft klamm. Wenn die Kommunen finanziell besser ausgestattet werden, sichert das nicht nur meinen Job, sondern hilft uns, echte Probleme vor Ort zu lösen."
+    },
+    {
+      "titel_selbst": "Kostenlose Kitas helfen Familien enorm!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei fordert eine dauerhaft kostenlose Kinderbetreuung in Krippen und Kindergärten ab dem ersten Kind.",
+      "seite": 4,
+      "zitat": "ab dem ersten Kind kostenlos machen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da sie an gerechten Chancen und der Vereinbarkeit von Familie und Beruf interessiert ist, befürwortet Aylin den flächendeckend kostenlosen Zugang zu Betreuungseinrichtungen.",
+      "begruendung_selbst": "Kostenlose Kitas sind für arbeitende Eltern eine enorme Entlastung. Es ist nur gerecht und richtig, wenn das flächendeckend und zuverlässig vom Land finanziert wird."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Das greift meine Existenz an!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei will das Geburtsortsprinzip im Staatsangehörigkeitsrecht abschaffen und zum reinen Abstammungsprinzip zurückkehren.",
+      "seite": 5,
+      "zitat": "eine Streichung des Geburtsortsprinzips aus dem Staatsangehörigkeitsrecht",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin ist in Deutschland geboren und eingebürgert; die Forderung nach dem Abstammungsprinzip spricht ihr die fundamentale Zugehörigkeit zum Land, in dem sie aufgewachsen ist, pauschal ab.",
+      "begruendung_selbst": "Ich bin hier geboren und lebe hier. Wenn wieder nur noch die Abstammung zählen soll, wird Menschen wie mir pauschal das Recht abgesprochen, echte Deutsche zu sein."
+    },
+    {
+      "titel_selbst": "Mein Pass ist keine Ramschware!",
+      "thema": "integration",
+      "programmpunkt": "Einbürgerungen sollen extrem restriktiv gehandhabt und deutsche Pässe nicht leichtfertig vergeben werden.",
+      "seite": 5,
+      "zitat": "dass deutsche Pässe in Sachsen-Anhalt nicht mehr wie Ramschware feilgeboten werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die herabwürdigende Wortwahl suggeriert, dass Eingebürgerte wie Aylin ihren Pass nicht verdienen, was ihre Sorge vor Alltagsdiskriminierung und mangelnder Anerkennung massiv schürt.",
+      "begruendung_selbst": "Mein Pass ist keine ‚Ramschware‘, sondern das Ergebnis harter Arbeit und voller Teilhabe. So eine entwürdigende Sprache entwertet meine gesamte Lebensleistung."
+    },
+    {
+      "titel_selbst": "Remigration spaltet unsere Gesellschaft!",
+      "thema": "integration",
+      "programmpunkt": "Integrationsprogramme sollen gestrichen und stattdessen sogenannte Remigrationslotsen eingesetzt werden, die Ausländer zur Rückkehr bewegen.",
+      "seite": 5,
+      "zitat": "alternativ für die Einstellung von Remigrationslotsen verwenden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Befürworterin einer sachlichen Migrationspolitik empfindet Aylin den aktiv geförderten Begriff der Remigration als zutiefst bedrohlich und ausgrenzend gegenüber allen Menschen mit Migrationsgeschichte.",
+      "begruendung_selbst": "Wir brauchen kluge Integration, keine ‚Remigrationslotsen‘. Dieses ständige Gerede vom Rauswerfen vergiftet das Klima für uns alle in diesem Land."
+    },
+    {
+      "titel_selbst": "Sündenböcke statt echter Lösungen!",
+      "thema": "arbeit",
+      "programmpunkt": "Zuwanderer werden als Verursacher des Fachkräftemangels dargestellt, unter anderem weil sie angeblich einen Mehrbedarf in der Verwaltung erzeugen.",
+      "seite": 5,
+      "zitat": "Illegale Zuwanderer sind Fachkräftemangelverursacher!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Mitarbeiterin im öffentlichen Dienst ärgert es Aylin, wenn komplexe Arbeitsmarktprobleme und Personalmangel in den Behörden populistisch allein auf Migranten abgewälzt werden.",
+      "begruendung_selbst": "Als Verwaltungsangestellte weiß ich, dass unser Personalmangel viele Ursachen hat. Das jetzt einfach pauschal den Zuwanderern in die Schuhe zu schieben, ist billig und spaltend."
+    },
+    {
+      "titel_selbst": "Pauschaler Verdacht ist inakzeptabel!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Anwerbung ausländischer Fachkräfte wird als Risiko für die innere Sicherheit dargestellt, da diese als kulturfremd abgewertet werden.",
+      "seite": 5,
+      "zitat": "dass Fachkräfte aus fremden Kulturkreisen zu einem Risiko für die Innere Sicherheit werden können.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin bewertet Menschen nach ihrer Leistung und Teilhabe; die pauschale Verknüpfung von ausländischen Fachkräften mit Sicherheitsrisiken widerspricht ihren Grundwerten fundamental.",
+      "begruendung_selbst": "Wenn jede ausländische Fachkraft pauschal als Sicherheitsrisiko verdächtigt wird, ist das reine Diskriminierung. Leistung sollte zählen, nicht woher jemand kommt."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet pragmatische Ansätze zum Bürokratieabbau und zur finanziellen Stärkung der Kommunen in ihrem Verwaltungsalltag durchaus positiv und befürwortet die Unterstützung von Familien. Allerdings lehnt sie das Programm insgesamt vehement ab, da die radikale Ablehnung von Einwanderung, die geplante Streichung des Geburtsortsprinzips und die pauschal ausgrenzende Sprache ihre eigene Zugehörigkeit zur deutschen Gesellschaft fundamental infrage stellen.",
+    "score": -2
+  }
+}

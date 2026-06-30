@@ -1,0 +1,95 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich zurück auf die Straße!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP plant, den polizeilichen Vollzugsdienst gezielt durch 1.200 zusätzliche Verwaltungsstellen für Büro- und Organisationsaufgaben zu entlasten.",
+      "seite": 52,
+      "zitat": "So wird der Vollzugsdienst konsequent entlastet",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet im Schichtdienst unter zunehmender Bürokratie und Überlastung. Eine spürbare Entlastung durch Verwaltungspersonal gibt ihm die Möglichkeit, sich wieder auf seine eigentlichen polizeilichen Kernaufgaben zu konzentrieren.",
+      "begruendung_selbst": "Ich bin Schutzmann geworden, um draußen für Sicherheit und Ordnung zu sorgen, nicht um am Schreibtisch Formulare auszufüllen. Wenn wir die Aktenarbeit abgeben können, sind wir endlich wieder sichtbar präsent."
+    },
+    {
+      "titel_selbst": "Gute Arbeit muss sich lohnen!",
+      "thema": "arbeit",
+      "programmpunkt": "Ein landesweites Personalentwicklungskonzept für die Polizei soll eingeführt werden, das Beförderungen und Aufstiege transparent und strikt nach objektiven Leistungskriterien regelt.",
+      "seite": 52,
+      "zitat": "Leistung muss sich wieder lohnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Marco ist es zentral, dass sich sein Einsatz und seine Loyalität im harten Polizeialltag auszahlen. Transparente Karrierewege ohne intransparente Blockaden stärken seine Motivation und das Vertrauen in den Dienstherrn.",
+      "begruendung_selbst": "Wenn ich Tag und Nacht im Schichtdienst den Kopf hinhalte, will ich, dass echte Leistung zählt. Es darf bei Beförderungen nicht nach dem Nasenfaktor gehen, sondern nach fachlicher Eignung."
+    },
+    {
+      "titel_selbst": "Geschlossen auf der Straße!",
+      "thema": "sicherheit",
+      "programmpunkt": "Gemeinsame Einsätze von Polizei und kommunalen Ordnungsämtern sollen durch flächendeckende Sicherheitspartnerschaften zum Regelfall werden.",
+      "seite": 52,
+      "zitat": "Wir bauen Sicherheitspartnerschaften zwischen Polizei und Ordnungsämtern flächendeckend aus",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco wünscht sich mehr sichtbare Präsenz und eine Bündelung der staatlichen Kräfte. Klar geregelte Partnerschaften mit dem Ordnungsamt erhöhen die Sicherheit auf der Straße und verhindern ineffektives Kompetenzgerangel.",
+      "begruendung_selbst": "Wir stehen doch alle auf derselben Seite. Wenn wir mit den Kollegen vom Ordnungsamt Schulter an Schulter Streife laufen, zeigen wir gemeinsam klare Kante und der Bürger sieht, dass der Staat funktioniert."
+    },
+    {
+      "titel_selbst": "Konsequenz beim Rechtsstaat!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei will irreguläre Migration strikt bekämpfen, ausreisepflichtige Personen konsequent abschieben und das rechtsstaatliche Verfahren durchsetzen.",
+      "seite": 11,
+      "zitat": "Ausreisepflichtige Ausländer müssen zügig das Land verlassen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ärgert sich, wenn die polizeiliche Arbeit am Ende wirkungslos bleibt, weil Ausreisepflichten nicht konsequent vollzogen werden. Ein hartes Durchgreifen an dieser Stelle stärkt sein Vertrauen in die Handlungsfähigkeit der Institutionen.",
+      "begruendung_selbst": "Es frustriert mich ungemein, wenn wir Leute aufgreifen, die eigentlich längst ausreisepflichtig sind, und nichts passiert. Der Rechtsstaat darf sich nicht an der Nase herumführen lassen, das untergräbt unsere tägliche Arbeit."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nehmt uns nicht die Befugnisse!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP fordert, alle bestehenden Waffenverbotszonen in Sachsen-Anhalt sowie die dortigen anlasslosen Personenkontrollen komplett abzuschaffen.",
+      "seite": 52,
+      "zitat": "Ebenso fordern wir die Abschaffung aller Waffenverbotszonen im Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco betrachtet Waffenverbotszonen und die damit verbundenen niederschwelligen Kontrollrechte als wichtiges Instrument, um präventiv Straftaten zu verhindern. Die Abschaffung schwächt aus seiner Sicht seine ohnehin begrenzten polizeilichen Handlungsspielräume.",
+      "begruendung_selbst": "Waffenverbotszonen sind ein absolut notwendiges Werkzeug, das uns überhaupt erst ermöglicht, Messer und Schlimmeres präventiv von der Straße zu holen. Wenn man uns diese Kontrollmöglichkeit nimmt, macht das unseren ohnehin harten Job nur noch gefährlicher."
+    },
+    {
+      "titel_selbst": "Freibrief für Raser?",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP setzt sich dafür ein, die Nutzung von Blitzer-Warn-Apps im Straßenverkehr künftig rechtlich zu erlauben.",
+      "seite": 52,
+      "zitat": "die Nutzung von sogenannten Blitzer-Warn-Apps neu zu regeln und zu ermöglichen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht die Verkehrsüberwachung als essenziellen Teil der polizeilichen Gefahrenabwehr. Das offizielle Legalisieren von Warn-Apps konterkariert für ihn die polizeiliche Arbeit und verringert die Sicherheit im Straßenverkehr drastisch.",
+      "begruendung_selbst": "Wir blitzen ja nicht aus reiner Schikane, sondern um echte Unfallschwerpunkte zu entschärfen. Wenn jetzt jeder ganz legal eine Blitzer-App nutzen darf, nimmt das unseren Kontrollen völlig den präventiven Sinn."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco begrüßt die klaren Bekenntnisse der FDP zur substanziellen Entlastung des polizeilichen Vollzugsdienstes durch neues Verwaltungspersonal und eine leistungsorientierte Personalentwicklung. Die konsequente Durchsetzung des Rechtsstaates im Bereich der Migration entspricht exakt seinem Bedürfnis nach staatlicher Handlungsfähigkeit. Sehr kritisch sieht er jedoch die geforderte Abschaffung von Waffenverbotszonen und die Freigabe von Blitzer-Apps, da dies seine polizeilichen Befugnisse und die Präventionsarbeit unnötig beschneidet.",
+    "score": 1
+  }
+}

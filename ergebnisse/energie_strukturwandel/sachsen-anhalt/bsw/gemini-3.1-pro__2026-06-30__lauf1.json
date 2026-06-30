@@ -1,0 +1,106 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Pragmatismus bei der Energie!",
+      "thema": "energie",
+      "programmpunkt": "Solange kein ausreichender grüner Wasserstoff verfügbar ist, sollen auch fossile Kraftwerke zur Absicherung der Energieversorgung weiterbetrieben werden.",
+      "seite": 20,
+      "zitat": "müssen auch mit fossilen Brennstoffen betriebene Kraftwerke weiter zur Versorgungssicherheit beitragen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny ist erleichtert, dass keine starren Abschaltdaten ohne Ersatz gefordert werden, sondern fossile Energien als pragmatische Brücke anerkannt bleiben. Das gibt seiner Branche und seiner Region Sicherheit.",
+      "begruendung_selbst": "Das ist genau mein Reden: Erst die neue Brücke bauen, dann die alte abreißen! Wir können die Kohle nicht einfach abschalten, wenn der Wasserstoff fehlt."
+    },
+    {
+      "titel_selbst": "Industrie im Land halten!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm bekennt sich deutlich zum Erhalt und zur Stärkung der industriellen Basis im Land und fordert eine aktive Industriepolitik.",
+      "seite": 19,
+      "zitat": "Wir wollen, dass Industrie in Sachsen-Anhalt bleibt: stark, innovativ und zukunftsfähig.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die klare Bekenntnis zur Industrie deckt sich mit seiner zentralen Forderung nach einer handfesten Zukunftsperspektive, statt die Region zur verlängerten Werkbank verkommen zu lassen.",
+      "begruendung_selbst": "Wenn die Industrie geht, ist hier bei uns endgültig das Licht aus. Wir brauchen genau so ein klares Bekenntnis zum Standort und keine Deindustrialisierung."
+    },
+    {
+      "titel_selbst": "Vernunft beim Netzausbau!",
+      "thema": "energie",
+      "programmpunkt": "Beim Ausbau der Stromnetze sollen Freileitungen den Vorzug vor teureren Erdkabeln erhalten, um die Netzentgelte für Verbraucher und Wirtschaft stabil zu halten.",
+      "seite": 25,
+      "zitat": "die Bevorzugung von Freileitungen gegenüber Erdkabeln und ein optimierter Netzbetrieb stabilisieren die Netzentgelte.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Beschäftigter in der Energiewirtschaft weiß Ronny um die immensen Kosten von Erdkabeln. Die pragmatische Bevorzugung von Freileitungen passt zu seiner wirtschaftlich denkenden, bodenständigen Haltung.",
+      "begruendung_selbst": "Erdkabel sind extrem teuer und der Bau dauert ewig. Wenn wir die Netzentgelte bezahlbar halten wollen, müssen wir eben Freileitungen bauen – das ist einfach vernünftig."
+    },
+    {
+      "titel_selbst": "Weg mit der reinen Ideologie!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei fordert die Aussetzung oder Abschaffung der aktuellen CO2-Bepreisung, da diese insbesondere mittlere und niedrige Einkommen sowie die Wirtschaft einseitig belaste.",
+      "seite": 27,
+      "zitat": "Daher fordern wir, diese ungerechte Steuer auszusetzen oder abzuschaffen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny lehnt eine Klimapolitik ab, die Bürger und Industrie finanziell überfordert, ohne direkt neue Lösungen zu bauen. Die Entlastung von reinen Kostensteigerungen spricht seinen Pragmatismus an.",
+      "begruendung_selbst": "Klimaschutz darf nicht bedeuten, dass uns die Kosten erdrücken, während Alternativen fehlen. Eine Steuer, die alles verteuert, ohne dass die Brücke steht, gehört weg."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ihr nehmt uns das Werkzeug!",
+      "thema": "klima",
+      "programmpunkt": "Das Programm spricht sich strikt gegen die Anwendung der CO2-Speicherung (CCS) in Sachsen-Anhalt aus und betrachtet sie als zu riskant.",
+      "seite": 84,
+      "zitat": "Die unterirdische CO ₂ -Verpressung (CCS) lehnen wir für Sachsen-Anhalt ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Ronny ist CCS eine unverzichtbare Brückentechnologie, um seine Industrieregion klimaneutral zu erhalten. Das Verbot empfindet er als existenzgefährdend und technologiefeindlich.",
+      "begruendung_selbst": "Wenn ihr CCS komplett verbietet, dreht ihr unserer Schwerindustrie den Hahn zu! Wir müssen doch technologieoffen sein, statt uns die besten Brücken für den Strukturwandel selbst einzureißen."
+    },
+    {
+      "titel_selbst": "Wir sind keine überkommene Industrie!",
+      "thema": "wirtschaft",
+      "programmpunkt": "CCS wird als teure Sackgasse betrachtet, die eine überholte und nicht zukunftsfähige Industrie künstlich am Leben halte, statt in echte Alternativen zu investieren.",
+      "seite": 84,
+      "zitat": "Statt diese Subventionsfalle für überkommene Industrien zu finanzieren, setzen wir auf nachhaltige Alternativen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny arbeitet voller Stolz in der Energiewirtschaft und sieht diese als Rückgrat der Gesellschaft. Dass seine Branche hier pauschal als überkommen abgewertet wird, empfindet er als tiefe Respektlosigkeit.",
+      "begruendung_selbst": "Es ist ein Schlag ins Gesicht, wenn unsere harte Arbeit für die Versorgungssicherheit als 'überkommene Industrie' abgestempelt wird. Ohne uns läuft hier gar nichts!"
+    },
+    {
+      "titel_selbst": "Jeder Arbeitsplatz zählt hier!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Notwendigkeit, vom Kohlebergbau wegzukommen, wird auch damit begründet, dass ohnehin nur noch eine verhältnismäßig kleine Anzahl an Menschen in diesem Sektor arbeite.",
+      "seite": 24,
+      "zitat": "In Sachsen-Anhalt arbeiten weniger als 1000 Kumpel im Kohlebergbau.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Programm relativiert die Bedeutung des Kohlebergbaus mit dem Verweis auf die scheinbar geringe Zahl der Beschäftigten. Für Ronny wirkt dies wie eine Verharmlosung der Ängste vor Ort.",
+      "begruendung_selbst": "Weniger als 1000 Kumpel? Das sind 1000 Familien, die ihre Existenz verlieren, und ein Rattenschwanz an Zulieferern! So ein Spruch zeigt, dass man unsere Sorgen nicht ernst nimmt."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet im Programm des BSW viel Zuspruch für seine pragmatische Haltung zur Energiepolitik, insbesondere den Weiterbetrieb fossiler Kraftwerke zur Versorgungssicherheit und das klare Bekenntnis zur Industrie. Scharf kritisiert er jedoch die strikte Ablehnung von CCS und die teils abwertende Sprache gegenüber seiner Branche, was für ihn einen unüberbrückbaren Widerspruch zu einem echten, technologieoffenen Strukturwandel darstellt.",
+    "score": 0
+  }
+}

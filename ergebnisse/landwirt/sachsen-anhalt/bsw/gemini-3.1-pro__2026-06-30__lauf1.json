@@ -1,0 +1,128 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Praxiswissen statt Bürokratie!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Landwirte sollen über Fruchtfolge und Erntezeitpunkte wieder selbstständig und ohne staatliche Gängelei entscheiden können.",
+      "seite": 81,
+      "zitat": "ohne behördliche Zwänge, und nach guter fachlicher Praxis",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hegt tiefes Misstrauen gegenüber der Regulierungswut der Behörden und der EU. Dass die Partei diese bürokratischen Zwänge explizit ablehnt, spricht ihm in Bezug auf seinen Hauptgegner aus der Seele.",
+      "begruendung_selbst": "Endlich kapiert jemand, dass ich als Landwirt am besten weiß, wann mein Acker was braucht, und nicht irgendein Schreibtischhengst aus Brüssel!"
+    },
+    {
+      "titel_selbst": "Endlich Realismus beim Wolf!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Der Wolf soll zügig in das Landesjagdrecht aufgenommen werden, um Bestände besser regulieren zu können.",
+      "seite": 82,
+      "zitat": "Aufnahme des Wolfes in das Jagdrecht soll zügig im Landesjagdgesetz umgesetzt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der strikte Wolfsschutz bedroht Franks Weidehaltung direkt und ist für ihn ein ständiges Ärgernis. Eine Aufnahme ins Jagdrecht bedeutet für ihn handfeste Erleichterung beim Herdenschutz.",
+      "begruendung_selbst": "Wurde auch höchste Zeit! Die Städter romantisieren den Wolf, aber wenn er meine Kälber reißt, darf ich am Ende nur zuschauen."
+    },
+    {
+      "titel_selbst": "Ackerfläche ist zum Anbauen da!",
+      "thema": "energie",
+      "programmpunkt": "Photovoltaikanlagen sollen auf Dächer und versiegelte Flächen konzentriert werden, statt landwirtschaftliche Flächen zu beanspruchen.",
+      "seite": 24,
+      "zitat": "nicht auf Ackerland oder in den Wald.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank macht sich große Sorgen um den Flächenfraß und die Konkurrenz bei Pachtpreisen, die durch Solarparks oft verschärft wird. Der Schutz von Ackerland sichert ihm seine Produktionsgrundlage.",
+      "begruendung_selbst": "Der Acker ist zum Anbauen da, nicht um ihn mit Solarplatten zuzupflastern. Wenn die Pacht so weitersteigt, kann ich einpacken!"
+    },
+    {
+      "titel_selbst": "Heimische Qualität fair bezahlen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei fordert Abnahmegarantien und bevorzugten regionalen Einkauf durch öffentliche Einrichtungen für heimische Agrarprodukte.",
+      "seite": 19,
+      "zitat": "Öffentliche Einrichtungen sollen vorrangig regional einkaufen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Schwankende Weltmarktpreise und Preisdruck sind für Franks Familienbetrieb eine ständige Existenzsorge. Eine bevorzugte regionale Abnahme verspricht ihm die dringend benötigte Planungssicherheit.",
+      "begruendung_selbst": "Wenn das Land unsere Produkte direkt abnimmt, muss ich mich nicht mehr jeden Tag vom Weltmarkt ruinieren lassen."
+    },
+    {
+      "titel_selbst": "Schluss mit der CO2-Abzocke!",
+      "thema": "klima",
+      "programmpunkt": "Die aktuelle CO2-Bepreisung wird abgelehnt und soll ausgesetzt oder komplett abgeschafft werden.",
+      "seite": 27,
+      "zitat": "fordern wir, diese ungerechte Steuer auszusetzen oder abzuschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die CO2-Steuer schlägt bei Frank durch hohe Dieselkosten direkt auf die Bilanz durch. Die Abschaffung dieser Abgabe wäre für seinen Hof eine direkte und spürbare finanzielle Entlastung.",
+      "begruendung_selbst": "Mich kostet dieser realitätsferne Klimaschutz ein Vermögen beim Diesel. Dass diese Abzocke weg soll, rettet mir vielleicht die Existenz."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Praxisferne Pflanzenschutz-Verbote!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm positioniert sich gegen den Einsatz von Glyphosat und will stattdessen alternative Bewirtschaftungsmethoden vorantreiben.",
+      "seite": 81,
+      "zitat": "Glyphosat ablehnen und nachhaltige Alternativen fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Frank als konventionellen Ackerbauern ist ein pauschales Glyphosat-Verbot ein harter Einschnitt. Er befürchtet massive Mehrarbeit und sinkende Margen, da ihm kostengünstige Pflanzenschutzmittel wegfallen.",
+      "begruendung_selbst": "Immer diese Verbote! Wer keine Ahnung von der Praxis hat, weiß auch nicht, wie ich ohne Pflanzenschutz meine Felder wirtschaftlich unkrautfrei halten soll."
+    },
+    {
+      "titel_selbst": "Klimaschutz frisst unsere Flächen!",
+      "thema": "klima",
+      "programmpunkt": "Moore und Auen sollen zur CO2-Speicherung und als Hochwasserschutz großflächig renaturiert werden.",
+      "seite": 82,
+      "zitat": "Renaturierungen von Mooren und Auen stärken den natürlichen Hochwasserschutz",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank befürchtet durch Flächenstilllegungen und Vernässungen den Verlust von bewirtschaftbaren Böden. Er sieht darin genau jene Art von Klimaschutz, die auf dem Rücken der Bauern ausgetragen wird.",
+      "begruendung_selbst": "Moore wieder nass machen klingt für die Städter toll. Für mich heißt das am Ende nur: weniger nutzbare Fläche und weniger Ertrag."
+    },
+    {
+      "titel_selbst": "Unbezahlbare Auflagen für kleine Halter!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Es sollen schärfere Standards in der Tierhaltung durchgesetzt und Eingriffe am Tier stark eingeschränkt werden.",
+      "seite": 86,
+      "zitat": "Schmerzvolle Eingriffe sind konsequent zu reduzieren und nur unter wirksamer Betäubung zulässig.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Landwirt mit Mutterkuhhaltung sieht Frank in solchen Forderungen neue Tierarztkosten und Auflagen auf sich zukommen, die seine kleine Herde schnell unrentabel machen könnten.",
+      "begruendung_selbst": "Noch mehr Auflagen bei der Herde! Wer soll denn den Tierarzt jedes Mal bezahlen? So treibt man die kleinen Halter in den Ruin."
+    },
+    {
+      "titel_selbst": "Schon wieder sind wir die Sündenböcke!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm benennt die Landwirtschaft als Hauptverursacher von Nitratbelastungen und fordert strengere Vorgaben für Gülle und Düngung.",
+      "seite": 83,
+      "zitat": "Hauptursachen sind Überdüngung, intensive landwirtschaftliche Bewirtschaftung sowie unsachgemäße Lagerung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dass die Partei die intensive Landwirtschaft als Umweltsünder anprangert, empfindet Frank als moralische Verurteilung. Er sieht darin das typische, praxisferne Vorurteil der Umweltbewegten bestätigt.",
+      "begruendung_selbst": "Da haben wir es wieder: Der Bauer ist der ewige Sündenbock! Für die am Schreibtisch sind wir immer an allem schuld."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Wahlprogramm des BSW bietet für Landwirt Frank ein sehr gemischtes Bild. Einerseits findet er starke Zustimmung bei der Entlastung von CO2-Steuern, dem Schutz von Ackerland vor Solarparks und der schnellen Regulierung des Wolfes. Andererseits lehnt er die geforderten Restriktionen bei Pflanzenschutzmitteln, schärfere Tierhaltungsauflagen und pauschale Vorwürfe zur Überdüngung als praxisfern ab, da sie seine ohnehin knappen Margen bedrohen.",
+    "score": 0
+  }
+}

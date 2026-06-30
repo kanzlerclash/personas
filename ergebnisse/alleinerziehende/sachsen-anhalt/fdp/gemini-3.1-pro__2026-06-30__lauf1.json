@@ -1,0 +1,106 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Betreuung auch nach Dienstschluss!",
+      "thema": "familie",
+      "programmpunkt": "Die FDP möchte flexible Betreuungsnetzwerke fördern, die einspringen, wenn Eltern außerhalb der normalen Kita-Zeiten arbeiten müssen.",
+      "seite": 26,
+      "zitat": "Aufbau von Betreuungszusammenschlüssen, die kurzfristig und unbürokratisch einspringen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine hat als alleinerziehende Mutter große Probleme, ihre Teilzeitarbeit mit starren Kita-Öffnungszeiten zu vereinbaren. Flexible Betreuungsangebote würden ihren Alltag massiv erleichtern und ihr potenziell erlauben, mehr zu arbeiten.",
+      "begruendung_selbst": "Endlich jemand, der versteht, dass mein Arbeitstag nicht immer um 15 Uhr endet! Wenn es Leute gäbe, die abends mal übernehmen, könnte ich vielleicht sogar meine Stunden aufstocken."
+    },
+    {
+      "titel_selbst": "Lebensmittel müssen bezahlbar sein!",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei fordert, die Mehrwertsteuer auf Lebensmittel und Güter der Grundversorgung vollständig abzuschaffen.",
+      "seite": 9,
+      "zitat": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Nadines Budget extrem knapp ist und sie oft nicht weiß, wie sie ungeplante Ausgaben stemmen soll, würde eine Steuersenkung auf Lebensmittel ihre Haushaltskasse spürbar und direkt entlasten.",
+      "begruendung_selbst": "Wenn Butter, Brot und Nudeln günstiger werden, spüre ich das sofort im Portemonnaie. Das würde mir am Monatsende wirklich ein bisschen Luft zum Atmen geben."
+    },
+    {
+      "titel_selbst": "Mehr Unterstützung an den Schulen!",
+      "thema": "bildung",
+      "programmpunkt": "Lehrkräfte sollen von Verwaltungsaufgaben entlastet werden, indem verstärkt Schulsozialarbeiter und Verwaltungsassistenzen eingesetzt werden.",
+      "seite": 31,
+      "zitat": "unterrichtsfremde Aufgaben auf mehr Schultern verteilen – wie zum Beispiel durch die Schulsozialarbeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine legt großen Wert darauf, dass ihre Kinder gute Chancen durch Bildung erhalten. Mehr pädagogisches und unterstützendes Personal an Schulen sichert den Unterricht und ermöglicht bessere individuelle Förderung.",
+      "begruendung_selbst": "Die Lehrer meiner Kinder sind doch eh schon völlig überlastet. Wenn sie durch Sozialarbeiter unterstützt werden, haben sie vielleicht wieder mehr Zeit, sich wirklich um die Schüler zu kümmern."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ständiger Druck und Misstrauen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP fordert eine konsequente Ausschöpfung von Sanktionen beim Bürgergeld, etwa Leistungskürzungen bei Ablehnung von zumutbarer Arbeit.",
+      "seite": 40,
+      "zitat": "soll der zur Verfügung stehende Sanktionsspielraum konsequent ausgeschöpft werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl Nadine in Teilzeit arbeitet, muss sie mit Bürgergeld aufstocken. Die Rhetorik von harten Sanktionen löst bei ihr Zukunftsängste aus, da sie sich als hart arbeitende Mutter zu Unrecht verdächtigt fühlt.",
+      "begruendung_selbst": "Ich arbeite, ich kümmere mich um meine zwei Kinder, und trotzdem reicht es nicht. Wenn ich dann lese, dass man uns noch härter bestrafen will, fühle ich mich komplett im Stich gelassen und kriminalisiert."
+    },
+    {
+      "titel_selbst": "Kitas dürfen kein Luxus werden!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei spricht sich gegen pauschale Beitragsfreiheit in der Bildung aus und möchte stattdessen primär in die Qualität der Einrichtungen investieren.",
+      "seite": 30,
+      "zitat": "Qualität in der Bildung Vorrang hat vor pauschaler Beitragsfreiheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Nadine ist jeder Euro entscheidend. Auch wenn sie gute Bildung schätzt, bedeutet eine Abkehr von der Beitragsfreiheit für sie eine massive finanzielle Bedrohung, die sie sich schlicht nicht leisten kann.",
+      "begruendung_selbst": "Natürlich will ich eine gute Kita für meine Kinder, aber was nützt mir die beste Betreuung, wenn ich mir die Gebühren nicht mehr leisten kann? Jeder Euro mehr bei den Beiträgen fehlt uns beim Essen."
+    },
+    {
+      "titel_selbst": "Zwangsarbeit statt echter Hilfe?",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will ein Landesprogramm einführen, das Langzeitarbeitslose zur Bürgerarbeit im öffentlichen Interesse verpflichtet, andernfalls drohen Leistungskürzungen.",
+      "seite": 40,
+      "zitat": "Wir wollen, dass Langzeitarbeitslose zur Bürgerarbeit verpflichtet werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine empfindet eine solche 'Fördern und Fordern'-Rhetorik als respektlos. Sie sieht darin einen Generalverdacht gegen Menschen in prekären Lagen, was ihrem Bild von einem verlässlichen Sozialstaat widerspricht.",
+      "begruendung_selbst": "Es gibt tausend Gründe, warum jemand keinen Job findet, oft fehlt einfach die Kinderbetreuung! Die Leute jetzt zu Hilfsarbeiten zu zwingen, statt ihnen echte Perspektiven zu geben, ist einfach nur zynisch."
+    },
+    {
+      "titel_selbst": "Politik nur für Besserverdiener!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm legt beim Thema Wohnen den Fokus stark auf die Förderung von privatem Wohneigentum, etwa durch Freibeträge bei der Grunderwerbsteuer.",
+      "seite": 12,
+      "zitat": "Wir machen die eigenen vier Wände wieder erreichbar",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Mieterin ohne Vermögen und mit aufstockendem Bürgergeld ist Wohneigentum für Nadine völlig unerreichbar. Sie hat den Eindruck, dass hier Politik für wohlhabendere Schichten gemacht wird, während ihre realen Mietprobleme ignoriert werden.",
+      "begruendung_selbst": "Welche alleinerziehende Mutter kann sich denn bitte ein Haus kaufen? Ich kämpfe jeden Monat damit, meine Miete für die Wohnung überhaupt zusammenzukratzen. Da redet die Politik komplett an meinem Leben vorbei."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der FDP bietet für Nadine Licht und Schatten. Auf der einen Seite profitiert sie von pragmatischen Ansätzen wie der Förderung flexibler Kinderbetreuung, mehr Schulsozialarbeit und einer drastischen Entlastung durch den Wegfall der Mehrwertsteuer auf Lebensmittel. Andererseits steht die parteipolitische Linie bei Sozial- und Familienthemen in starkem Kontrast zu ihrer Lebensrealität: Die harte Rhetorik bei Bürgergeld-Sanktionen, die Ablehnung von Kita-Beitragsfreiheit und der starke Fokus auf Wohneigentum lösen bei ihr das Gefühl aus, dass die Politik an den Sorgen von Geringverdienern vorbeigeht.",
+    "score": -1
+  }
+}

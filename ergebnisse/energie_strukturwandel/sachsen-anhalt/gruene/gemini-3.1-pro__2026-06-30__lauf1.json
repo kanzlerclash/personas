@@ -1,0 +1,106 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Das ist die richtige Brücke!",
+      "thema": "energie",
+      "programmpunkt": "Die Grünen befürworten den Bau eines wasserstofffähigen Gaskraftwerks in Schkopau, um den Ausstieg aus der Braunkohle abzufedern.",
+      "seite": 20,
+      "zitat": "setzen wir uns für den Aufbau eines H2-ready-Gaskraftwerks in Schkopau ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht hierin eine konkrete Brückentechnologie für seine Region. Solche Investitionen sichern nicht nur die Energieversorgung, sondern auch Arbeitsplätze im Strukturwandel, was seiner Forderung nach greifbaren Perspektiven entspricht.",
+      "begruendung_selbst": "Endlich mal was Handfestes! Wenn wir wirklich aus der Kohle raus sollen, brauchen wir genau solche Kraftwerke bei uns, damit hier nicht die Lichter ausgehen und wir unsere Jobs behalten."
+    },
+    {
+      "titel_selbst": "Pragmatismus statt Kabel-Ideologie!",
+      "thema": "energie",
+      "programmpunkt": "Zur Beschleunigung des Netzausbaus soll der pauschale gesetzliche Vorrang für Erdkabel aufgehoben und stattdessen verstärkt auf Freileitungen gesetzt werden.",
+      "seite": 20,
+      "zitat": "fordern wir den verstärkten Ausbau von Freileitungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Fachmann in der Energiewirtschaft befürwortet er pragmatische, schnelle und kostengünstige Lösungen beim Ausbau der Infrastruktur. Der Wechsel von zeitraubenden Erdkabeln zu Freileitungen spiegelt seinen faktenorientierten Ansatz wider.",
+      "begruendung_selbst": "Erdkabel dauern ewig und kosten ein Vermögen. Wenn wir die Netze für die Zukunft wirklich zügig brauchen, müssen wir pragmatisch sein und auf Freileitungen setzen."
+    },
+    {
+      "titel_selbst": "Wertschöpfung bleibt bei uns!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Der Windkraftausbau soll direkt mit der Produktion von grünem Wasserstoff verknüpft werden, um die regionale chemische Industrie zu unterstützen und Arbeitsplätze zu schaffen.",
+      "seite": 18,
+      "zitat": "Damit stärkt der Ausbau der Windenergie die chemische Industrie und schafft Arbeitsplätze",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny hofft auf neue Industrie in seiner Region. Die Verknüpfung von erneuerbaren Energien mit der Aufrechterhaltung und Stärkung des traditionellen Chemiestandorts bietet ihm und seinem Umfeld eine klare Zukunftsperspektive.",
+      "begruendung_selbst": "Wenn die Windräder schon bei uns stehen, muss der Strom auch unserer eigenen Industrie zugutekommen. So retten wir den Industriestandort und sichern gute Arbeit vor Ort."
+    },
+    {
+      "titel_selbst": "Industrie braucht bezahlbaren Strom!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Um Unternehmen am Standort zu halten, sollen die Energiepreise für die Wirtschaft sinken, unter anderem durch einen niedrigeren Industriestrompreis.",
+      "seite": 83,
+      "zitat": "arbeiten daran, Energiepreise für Unternehmen zu senken, etwa durch einen niedrigeren Industriestrompreis.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für ihn sind wettbewerbsfähige Strompreise essenziell, damit energieintensive Unternehmen nicht aus der Strukturwandelregion abwandern. Dies schützt indirekt seinen Arbeitsplatz und den regionalen Wohlstand.",
+      "begruendung_selbst": "Ohne bezahlbaren Strom wandert unsere Industrie ab und wir werden zur verlängerten Werkbank. Der Industriestrompreis ist enorm wichtig, damit die ansässigen Betriebe eine echte Chance haben."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht abreißen vor dem Neubau!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei begrüßt es, wenn der Ausstieg aus der Braunkohle marktgetrieben schon vor dem anvisierten Enddatum 2034 erfolgt, und streicht diesbezügliche Vorranggebiete.",
+      "seite": 20,
+      "zitat": "Wir gehen davon aus, dass der Ausstieg bereits früher marktgetrieben erfolgen wird.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ein beschleunigter Ausstieg ist für Ronny ein rotes Tuch, solange die Ersatzkapazitäten noch nicht stehen. Ihn sorgt die Aussicht, dass bewährte Infrastruktur aus wirtschaftlichem Druck abgeschaltet wird und Existenzen vernichtet werden.",
+      "begruendung_selbst": "Schon wieder wird nur über ein früheres Enddatum geredet! Wenn die Kohle eher vom Netz geht, stehen wir vor dem Nichts, solange die Brücke in die neue Zeit noch gar nicht fertig gebaut ist."
+    },
+    {
+      "titel_selbst": "Technologieverbote gefährden uns!",
+      "thema": "klima",
+      "programmpunkt": "Die Abscheidung und Speicherung von CO2 (CCS) wird im Parteiprogramm kategorisch abgelehnt.",
+      "seite": 21,
+      "zitat": "lehnen wir auch die Technologie des Carbon Capture and Storage (CCS)",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für ihn ist CCS eine potenziell rettende Brückentechnologie für die heimische Schwerindustrie. Er empfindet diese strikte ideologische Ablehnung als realitätsfern, da sie seiner Heimat ein wichtiges Werkzeug für den Strukturwandel nimmt.",
+      "begruendung_selbst": "Warum verbieten wir uns von vornherein technische Lösungen? CCS könnte für viele unserer Industrieanlagen die einzige Rettung sein. Da siegt leider Ideologie über unseren Pragmatismus."
+    },
+    {
+      "titel_selbst": "Wunschdenken gefährdet das Netz!",
+      "thema": "energie",
+      "programmpunkt": "Es wird das ambitionierte Ziel formuliert, die Stromversorgung in Sachsen-Anhalt bereits bis zum Jahr 2030 vollständig auf erneuerbare Energien umzustellen.",
+      "seite": 17,
+      "zitat": "Wir wollen unser Bundesland Sachsen-Anhalt bis 2030 im Strombereich 100 Prozent erneuerbar aufstellen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Praktiker bewertet Ronny solch extrem schnelle Ausbauziele als Träumerei. Er fürchtet, dass bei einem blinden Verfolgen dieses Ziels die Versorgungssicherheit geopfert wird.",
+      "begruendung_selbst": "100 Prozent in ein paar Jahren? Wie soll das in der echten Praxis stabil funktionieren? Das ist genau dieses Wunschdenken, bei dem am Ende die Versorgungssicherheit einfach ignoriert wird."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny sieht das Programm der Grünen gespalten. Einerseits begrüßt er stark die pragmatischen Ansätze beim Netzausbau und die klaren Bekenntnisse zu Investitionen in seiner Region, wie dem wasserstofffähigen Gaskraftwerk in Schkopau. Andererseits steht er der aus seiner Sicht ideologisch getriebenen Ablehnung von CCS und dem Bestreben nach einem noch schnelleren Kohleausstieg extrem kritisch gegenüber, da dies seine Forderung nach Planungssicherheit und Technologieoffenheit verletzt.",
+    "score": 0
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Teurer Strom killt unsere Jobs!",
+      "thema": "energie",
+      "programmpunkt": "Die FDP erkennt, dass hohe Energiekosten und das komplexe Abgabensystem die Wettbewerbsfähigkeit der heimischen Betriebe gefährden.",
+      "seite": 13,
+      "zitat": "Hohe Energiepreise und ein unübersichtliches System aus Umlagen, Abgaben und Netzentgelten schwächen die Wettbewerbsfähigkeit.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht hohe Energiepreise als eine der größten Bedrohungen für die Schwer- und Chemieindustrie in Sachsen-Anhalt. Die Fokussierung der Partei auf dieses Problem und auf faire Netzentgelte deckt sich exakt mit seiner Sorge um den eigenen Arbeitsplatz.",
+      "begruendung_selbst": "Wenn der Strompreis weiter durch die Decke geht, können wir in Leuna bald die Lichter ausmachen. Wenigstens hat hier jemand kapiert, dass unsere Industrie ohne bezahlbare Energie nicht überleben kann."
+    },
+    {
+      "titel_selbst": "Investieren statt Formulare wälzen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will Bürokratie für die Industrie abbauen, damit finanzielle Mittel direkt in die Modernisierung der Produktion fließen können.",
+      "seite": 8,
+      "zitat": "Investitionsmittel fließen wieder in moderne, nachhaltige Produktion statt in Papier und Formulare.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für den Industriearbeiter hängt die Jobsicherheit maßgeblich davon ab, dass sein Betrieb in die Zukunftsfähigkeit des Standorts investiert. Er sieht zu viele Auflagen und bürokratische Pflichten als gefährlichen Hemmschuh für notwendige Modernisierungen in der Industrie.",
+      "begruendung_selbst": "Wenn unsere Betriebe jeden Euro dreimal umdrehen müssen für irgendwelche Gutachten, fehlt uns das Geld für neue Anlagen. Wir müssen endlich wieder produzieren und nicht nur Aktenordner für die Behörden füllen."
+    },
+    {
+      "titel_selbst": "Lösungen statt reinem Verzicht!",
+      "thema": "klima",
+      "programmpunkt": "Zur Erreichung von Klimazielen befürwortet das Programm auch technologische Lösungen wie die Speicherung von CO2 an Land (CCS).",
+      "seite": 23,
+      "zitat": "Onshore-CCS endlich als Chance für unsere Wirtschaft ermöglichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Beschäftigter im Chemiedreieck ist Uwe zwar für Klimaschutz, fürchtet aber die Folgen eines ideologisch getriebenen Strukturwandels. Technologische Innovationen wie CCS bieten ihm eine realistische Perspektive, um Emissionen zu senken und seinen Arbeitsplatz gleichzeitig zu erhalten.",
+      "begruendung_selbst": "Wir brauchen handfeste Lösungen, die unsere Industrieanlagen sauberer machen, ohne sie gleich komplett abzureißen. Technologien wie CCS können uns helfen, den Wandel so hinzukriegen, dass meine Kollegen nicht auf der Straße landen."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Frontalangriff auf faire Löhne!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP plant, das Tariftreue- und Vergabegesetz abzuschaffen, welches bislang faire Bezahlung bei öffentlichen Aufträgen sichert.",
+      "seite": 7,
+      "zitat": "In den kommenden Jahren gilt es, das Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als aktiver Gewerkschafter setzt sich Uwe vehement für Tarifbindung ein. Die Abschaffung gesetzlicher Sicherungen für faire Löhne bei öffentlichen Ausschreibungen empfindet er als schweren Schlag gegen die Verhandlungsmacht der Beschäftigten und als staatlich gewolltes Lohndumping.",
+      "begruendung_selbst": "Wer Tarifverträge bei Landesaufträgen aushebeln will, der tritt uns Beschäftigten direkt ins Gesicht. Das hat mit Bürokratieabbau nichts zu tun, das ist eine offene Einladung an Unternehmen, sich auf unsere Kosten zu bereichern!"
+    },
+    {
+      "titel_selbst": "Keine Schikane gegen Erwerbslose!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm fordert Arbeitspflichten für Langzeitarbeitslose; wer zumutbare Arbeit verweigert, dem sollen soziale Leistungen drastisch gekürzt werden.",
+      "seite": 40,
+      "zitat": "Wir wollen, dass Langzeitarbeitslose zur Bürgerarbeit verpflichtet werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist zwar stolz auf seine eigene harte Industriearbeit, lehnt als Gewerkschafter aber Zwangsarbeit und Sozialabbau gegen Schwächere grundlegend ab. Er befürchtet zudem, dass solche verpflichtenden Modelle reguläre, gut bezahlte Jobs in der Region verdrängen.",
+      "begruendung_selbst": "Wer die Schwächsten zu irgendwelchen Pflichtarbeiten zwingt, verdrängt auf Dauer nur reguläre Jobs, die vernünftig bezahlt gehören. Solche Schikanen schwächen unseren hart erkämpften Sozialstaat, und am Ende baden wir alle das aus."
+    },
+    {
+      "titel_selbst": "Kein Ausverkauf von Staatseigentum!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will staatliche Beteiligungen an Unternehmen auf den Prüfstand stellen und massiv privatisieren.",
+      "seite": 9,
+      "zitat": "alle Beteiligungen des Landes kritisch zu evaluieren und eine umfassende Privatisierungsoffensive zu starten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aus seiner gewerkschaftlichen Erfahrung weiß Uwe, dass Privatisierungen oft mit Personalabbau, Ausgliederungen und Tarifflucht einhergehen. Er sieht den Staat in der sozialen Verantwortung für gute Arbeitsplätze, die nicht dem reinen Profitstreben des freien Marktes geopfert werden dürfen.",
+      "begruendung_selbst": "Wir haben doch oft genug miterlebt, was bei Privatisierungen passiert: Die Investoren streichen die Rendite ein, und die Belegschaft blutet durch Leiharbeit und Lohnkürzungen. Da darf sich das Land nicht einfach aus der Verantwortung stehlen."
+    },
+    {
+      "titel_selbst": "Arbeiten bis zum Umfallen?",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP möchte starre Altersgrenzen im Erwerbsleben aufweichen und ältere Beschäftigte motivieren, länger zu arbeiten.",
+      "seite": 38,
+      "zitat": "Starre Altersgrenzen, die den Wunsch nach weiterer Beschäftigung verhindern, wollen wir dort abbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nach Jahrzehnten im fordernden Schichtbetrieb der Schwerindustrie ist Uwes körperliche Belastungsgrenze absehbar. Politische Vorstöße zur Verlängerung der Lebensarbeitszeit empfindet er als existenzielle Bedrohung und versteckte Rentenkürzung für alle hart arbeitenden Menschen in der Produktion.",
+      "begruendung_selbst": "Die feinen Herren im Büro können vielleicht mit über 65 noch locker weitermachen. Aber nach vierzig Jahren Schichtarbeit in der Anlage bist du einfach körperlich durch. Wer an der Altersgrenze rüttelt, hat null Ahnung von unserer Arbeitsrealität!"
+    },
+    {
+      "titel_selbst": "Der Sonntag gehört der Familie!",
+      "thema": "arbeit",
+      "programmpunkt": "Es wird eine komplette Freigabe der Ladenöffnungszeiten angestrebt, was regelmäßige Verkaufsöffnungen an Sonntagen und Feiertagen bedeuten würde.",
+      "seite": 8,
+      "zitat": "eine größtmögliche Ausweitung der Sonntagsöffnungen sowie Öffnungen an Feiertagen ermöglicht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl Uwe in der Industrie selbst von Schicht- und Wochenendarbeit betroffen ist, steht er solidarisch an der Seite der Beschäftigten im Einzelhandel. Er lehnt die Ausweitung der Sonntagsarbeit für reinen Konsum ab, da sie zu Lasten der familiären Erholung und der Arbeitnehmer geht.",
+      "begruendung_selbst": "Dass bei uns die Hochöfen sonntags nicht einfach abgestellt werden können, ist klar. Aber warum muss man bitteschön sonntags einkaufen gehen? Der freie Tag muss für die Kollegen im Handel sicher bleiben, sonst geht das Familienleben komplett vor die Hunde!"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet im FDP-Programm durchaus positive Ansätze, insbesondere beim Fokus auf wettbewerbsfähige Energiepreise und Entbürokratisierung der Industrie, die seine Ängste um den Chemiestandort ernst nehmen. Zugleich schockieren ihn jedoch die weitreichenden Forderungen nach Sozial- und Arbeitsmarktderegulierung. Die Abschaffung des Tariftreuegesetzes, Privatisierungspläne und die Aufweichung von Arbeitszeit- sowie Altersgrenzen empfindet er als massiven Angriff auf Gewerkschaftsrechte und den sozialen Zusammenhalt.",
+    "score": -1
+  }
+}

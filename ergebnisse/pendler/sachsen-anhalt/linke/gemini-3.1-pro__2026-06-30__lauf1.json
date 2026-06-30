@@ -1,0 +1,117 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mein Job muss sicher bleiben!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will aktiv gegen Werksschließungen vorgehen und so wichtige Industriearbeitsplätze und das zugehörige Know-how in der Region absichern.",
+      "seite": 93,
+      "zitat": "keine Werksschließung ohne Perspektive",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs familiäre Existenz baut auf seinem Industriearbeitsplatz auf. Ein klares politisches Bekenntnis zur Sicherung genau dieser Industriestrukturen gibt ihm Halt und Perspektive.",
+      "begruendung_selbst": "Wenn unsere Fabriken zumachen, geht auf dem Dorf das Licht aus. Dass die Linke unsere Jobs mit Zähnen und Klauen verteidigen will, beruhigt mich schon."
+    },
+    {
+      "titel_selbst": "Schichtzuschläge sind heilig!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm spricht sich strikt dagegen aus, bestehende tarifliche Regelungen aufzuweichen, insbesondere was Zuschläge für Schicht- und Nachtarbeit betrifft.",
+      "seite": 86,
+      "zitat": "keine Abwertung unter Tarif von Zuschlägen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Mechaniker im Schichtbetrieb bilden die Zuschläge einen festen Bestandteil seiner Haushaltsrechnung. Der Schutz dieser Einkommensteile ist für ihn existenziell.",
+      "begruendung_selbst": "Ohne meine Nacht- und Schichtzuschläge wüsste ich gar nicht, wie ich alles bezahlen soll. Gut, dass das nicht angerührt wird!"
+    },
+    {
+      "titel_selbst": "Endlich mehr Busse auf'm Dorf!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke plant den Ausbau des öffentlichen Nahverkehrs auch und insbesondere in dünn besiedelten, ländlichen Regionen, um allen Menschen Mobilität zu sichern.",
+      "seite": 101,
+      "zitat": "den ÖPNV ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf wohnt in einem Dorf ohne brauchbare ÖPNV-Anbindung, was das teure Auto zum Zwang macht. Jede echte Verbesserung der Busangebote wäre für ihn eine finanzielle und zeitliche Entlastung.",
+      "begruendung_selbst": "Momentan brauche ich mein Auto für alles. Wenn hier tatsächlich mal mehr als zwei Busse am Tag vorbeikämen, könnte man da drüber nachdenken, das Steuer auch mal stehenzulassen."
+    },
+    {
+      "titel_selbst": "Ladesäulen auch bei uns!",
+      "thema": "energie",
+      "programmpunkt": "Die Ladeinfrastruktur für E-Mobilität soll flächendeckend ausgebaut werden, auch dort, wo es sich für private Betreiber eigentlich nicht rechnet.",
+      "seite": 121,
+      "zitat": "flächendeckende Ladeinfrastruktur",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Sorge bezüglich des Verbrenner-Aus ist unter anderem die fehlende Alltagstauglichkeit von E-Autos auf dem Land. Staatlich garantierte Ladesäulen mildern diese Befürchtung ab.",
+      "begruendung_selbst": "Wenn schon alle irgendwann E-Auto fahren sollen, dann muss ich auch im Dorf laden können. Wenn sich da private Betreiber nicht hintrauen, muss der Staat eben ran."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ohne Auto komme ich nicht zur Arbeit!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei setzt sich dafür ein, den motorisierten Individualverkehr aktiv zu reduzieren und setzt voll auf den Umweltverbund.",
+      "seite": 101,
+      "zitat": "Wir plädieren für eine Verkehrsreduzierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Toralf ist der Pkw das unersetzliche Werkzeug für seine 45-minütige Fahrt zur Fabrik. Pauschale Reduktionspläne beim Autoverkehr empfindet er als Bedrohung seines Alltags.",
+      "begruendung_selbst": "Verkehr reduzieren klingt für Städter super, aber wie soll ich morgens im Dunkeln zur Fabrik kommen? Das Auto ist für mich kein Luxus, sondern mein Werkzeug für die Arbeit."
+    },
+    {
+      "titel_selbst": "Wir brauchen gute Straßen!",
+      "thema": "verkehr",
+      "programmpunkt": "Im Programm wird ein sofortiger Stopp für den Bau neuer Autobahnen und ein Ende des Ausbaus immer neuer Verkehrsadern gefordert.",
+      "seite": 105,
+      "zitat": "Keine neuen Autobahnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als täglicher Langstreckenpendler ist eine intakte und gut ausgebaute Straßeninfrastruktur Toralfs wichtigstes Rückgrat. Einen Baustopp sieht er als Garant für mehr Stau.",
+      "begruendung_selbst": "Ich stehe so schon oft genug im Stau. Wenn wir jetzt aufhören, Straßen zu bauen, geht hier bald verkehrstechnisch gar nichts mehr voran."
+    },
+    {
+      "titel_selbst": "Nicht noch mehr Schikanen!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei strebt ein flächendeckendes, bundesweites Tempolimit auf allen Autobahnen an.",
+      "seite": 104,
+      "zitat": "bundesweites Tempolimit auf den Autobahnen durchsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralfs Zeitbudgets sind wegen Schichtarbeit und weiten Wegen ohnehin knapp bemessen. Eine Zwangsentschleunigung auf freier Strecke bedeutet für ihn schlicht noch weniger Freizeit mit der Familie.",
+      "begruendung_selbst": "Nach einer langen Schicht will ich einfach nur zügig nach Hause zu Frau und Kindern. Mich da künstlich einzubremsen, klaut mir meine Freizeit."
+    },
+    {
+      "titel_selbst": "Radwege helfen mir null!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Land soll massiv in breite und durchgängige Radwege investieren und Straßenbauförderungen strikt an diesen Ausbau koppeln.",
+      "seite": 104,
+      "zitat": "Bau von durchgängigen und ausreichend breiten Radwegen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf blickt kritisch auf Investitionen, die vor allem der urbanen, gut angebundenen Bevölkerung zugutekommen, während sie seine realen Mobilitätsprobleme auf dem Land völlig ignorieren.",
+      "begruendung_selbst": "Sollen die Studenten in der Stadt doch ihre tollen Radwege kriegen. Mir bringt das für meine tägliche Dreiviertelstunde zur Arbeit überhaupt nichts. Da wird das Geld falsch verteilt."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die Linke bietet Toralf durch ihr striktes Eintreten für die Industrie, Schichtzuschläge und den geforderten Ladesäulenausbau im ländlichen Raum gute Argumente. Gleichzeitig empfindet er die starke Fokussierung auf die Reduzierung des Autoverkehrs, den Stopp des Autobahnbaus und das Tempolimit als Politik, die stark an seiner Lebensrealität als ländlicher Pendler vorbeigeht und seine hart erarbeitete Existenzgrundlage erschwert.",
+    "score": -1
+  }
+}
