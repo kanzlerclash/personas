@@ -90,5 +90,19 @@
     "titel_selbst": "Viel Unterstützung für Familien, aber manches klingt nach teurem Luxus.",
     "fazit": "Nadine findet im Programm der Grünen viele konkrete Antworten auf ihre täglichen Sorgen. Kostenfreies Schulessen, verlässlicher Ganztag und kürzere Kita-Wege würden ihren Alltag enorm erleichtern und finanziell entlasten. Allerdings stößt sie sich an Maßnahmen in der Umwelt- und Verkehrspolitik, wie höheren Parkgebühren oder E-Auto-Förderung, da sie befürchtet, als Geringverdienerin die Kosten der Klimawende tragen zu müssen.",
     "fazit_selbst": "Was Kitas und Schulen angeht, spricht mir das Programm total aus der Seele. Kostenloses Mittagessen und bessere Hortbetreuung würden mir so viel Druck nehmen! Nur bei den ganzen Auto- und Umweltthemen bekomme ich Bauchschmerzen. Wenn Parken teurer wird und alle E-Autos fahren sollen, frage ich mich schon, wie ich mir das in meiner Situation leisten soll."
+  },
+  "modell": "Gemini 3.1 Pro (High)",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
   }
 }

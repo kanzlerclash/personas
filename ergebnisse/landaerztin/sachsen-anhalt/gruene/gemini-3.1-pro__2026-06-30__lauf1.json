@@ -75,5 +75,21 @@
   "gesamt": {
     "zusammenfassung": "Die Grünen in Sachsen-Anhalt setzen stark auf Dezentralisierung, Digitalisierung der Verwaltung und kommunale Lösungen im Gesundheitswesen. Während der Ansatz zur Entbürokratisierung, die Stärkung des ÖPNV im ländlichen Raum sowie die zentrale Leitstelle im Bereitschaftsdienst der Landärztin sehr entgegenkommen, sieht sie die Pläne im Bereich der ärztlichen Versorgung kritisch. Insbesondere die geplante Telemedizin-Offensive durch ein Landeszentrum, die Förderung von kommunalen MVZs und die Idee rollender Arztpraxen wirken auf sie wie staatliche Ersatzlösungen, die an der Stärkung der freiberuflichen ärztlichen Niederlassung vorbeigehen.",
     "metrik": null
+  },
+  "modell_slug": "gemini-3.1-pro",
+  "modell": "Gemini 3.1 Pro (High)",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
   }
 }

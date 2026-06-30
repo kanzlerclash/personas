@@ -38,5 +38,13 @@
     "bewertungs_id": "rentnerpaar-cdu-gemini-3.1-pro-2026-06-30",
     "themen_treffer": 3,
     "widersprueche": 1
-  }
+  },
+  "land": "sachsen-anhalt",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)"
 }

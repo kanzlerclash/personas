@@ -108,3 +108,32 @@ pnpm run site:data        # data.json für die Seite neu bauen
 pnpm run build            # statische Seite bauen (optional)
 ```
 Verbleibende `beleg_ok: false` sind transparent als „⚠ ungeprüft" auf der Seite sichtbar.
+
+## So wurde es konkret genutzt (Befehle + Skripte)
+
+**Gemini 3.1 Pro über `agy`** (`MODELL_SLUG=gemini-3.1-pro`):
+```bash
+# Einzelaufruf (eine Persona):
+agy --dangerously-skip-permissions --model "Gemini 3.1 Pro (High)" --print-timeout 6m -p "$PROMPT"
+# Batch je Partei (16 Personas):           bash scripts/agy-lauf.sh <partei>
+# Idempotent nur Lücken füllen (sequenziell): bash scripts/agy-fill.sh
+```
+
+**GPT-5.5 über Codex** (`MODELL_SLUG=gpt-5.5`, ChatGPT-Login):
+```bash
+codex exec --dangerously-bypass-approvals-and-sandbox -m gpt-5.5 "$PROMPT"
+# (oder --full-auto; read-only reicht NICHT zum Schreiben)
+```
+Prompt jeweils aus `prompts/agy-vorlage.md` per Platzhalter-Ersetzung (`__LAND__`, `__PARTEI__`,
+`__PERSONA__`, `__MODELL_SLUG__`, `__MODELL__`); `erzeugt_via` an das Tool anpassen.
+
+Nachbereitung: `node scripts/fix-agy.mjs <partei>` (Score auf −2..2 clampen, Seitenzahl auf die
+belegende Seite korrigieren) → `pnpm run verify --fix` → `pnpm run site:data && pnpm run build`.
+
+## Betriebs-Lektionen (aus dem echten Lauf)
+- **Nicht stark parallel:** 6 gleichzeitige `agy`-Jobs liefen ins Rate-Limit → ~halbe Belegschaft
+  fehlte. Sequenziell ist verlässlich.
+- **Headless ist flaky:** mal Sofort-Abbruch (leere Antwort), mal Hänger trotz `--print-timeout`.
+  Gegenmittel: hartes `timeout` pro Aufruf + `agy-fill.sh` (idempotent) mehrfach laufen lassen.
+- **Abgebrochene Teilschreibungen** (valides JSON ohne `gesamt`) vor dem Verifizieren entfernen.
+- Pro Aufruf liest die CLI das ganze Programm neu — kein geteilter Cache wie über das Gateway.

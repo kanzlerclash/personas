@@ -43,6 +43,10 @@ prompts/
   herkunft-personas-und-avatare.md  Modell + Anweisungen, mit denen Personas/Avatare entstanden
   herkunft-roster.md             Herkunft/Begründung des Persona-Rosters (Spektrum-Balance)
   ausfuehrung-claude-code.md     Runbook: Auswertungen lokal mit Claude Code erzeugen (ohne Gateway)
+  ausfuehrung-cli.md             Runbook: Auswertungen mit fremder Agent-CLI (agy/Gemini, Codex/GPT) erzeugen
+  agy-vorlage.md                 Prompt-Vorlage (Platzhalter __LAND__/__PARTEI__/__PERSONA__/__MODELL__…) für CLI-Läufe
+scripts/              Orchestrierung der CLI-Läufe: agy-lauf.sh (Partei-Batch), agy-fill.sh
+                      (idempotent, sequenziell, selbstheilend), fix-agy.mjs (Score/Seiten-Korrektur)
 cache/                gecachte Programme (PDF/HTML, Text, seiten.json) — GIT-IGNORIERT
 ergebnisse/           generierte LLM-Auswertungen (CC-BY-SA), je Lauf eine JSON
 src/pipeline/         Node/TypeScript-Pipeline (tsx)
@@ -97,6 +101,24 @@ Jede Persona ist eine YAML unter `personas/<slug>.yaml`. Der **Slug ist der Date
 ### Alternative ohne Gateway: Auswertung mit Claude Code
 
 Statt über das AI Gateway lässt sich ein Lauf auch **lokal von einer Claude-Code-Instanz** erzeugen — gleiches Schema, gleiche Belegregeln, gleiche Pfade. Solche Läufe tragen `"erzeugt_via": "claude-code-subagent (ohne Gateway)"` und `metrik: null` (keine Token-/Kostenmessung). Das vollständige Runbook (inkl. der wichtigen Regel **`seite` = Marker-Nummer `===== Seite N =====`**, nicht die gedruckte Kopfzeile) steht in [`prompts/ausfuehrung-claude-code.md`](prompts/ausfuehrung-claude-code.md). So erzeugt: **alle 7 Parteien in `sachsen-anhalt`** (je 16 Personas, `claude-opus-4-8`, lauf1 → 112 Auswertungen, 710/711 Belege automatisch verifiziert). Für `mv`/`berlin` genügt es, diese Datei einer Claude-Code-Instanz zu geben, sobald die Programme im Cache liegen.
+
+### Alternative ohne Gateway: Auswertung mit fremder Agent-CLI (so haben wir die weiteren Modelle erzeugt)
+
+Die Modellspalten **neben Opus** wurden über lokale Agent-CLIs erzeugt — ohne Gateway, jede CLI schreibt die Ergebnis-JSONs selbst ins Repo. Runbook: [`prompts/ausfuehrung-cli.md`](prompts/ausfuehrung-cli.md); Prompt-Vorlage: [`prompts/agy-vorlage.md`](prompts/agy-vorlage.md).
+
+- **Gemini 3.1 Pro über `agy`** (`modell_slug: gemini-3.1-pro`):
+  `agy --dangerously-skip-permissions --model "Gemini 3.1 Pro (High)" --print-timeout 6m -p "$PROMPT"`.
+  Orchestriert über `scripts/agy-lauf.sh <partei>` (16 Personas je Partei) bzw. das idempotente, selbstheilende `scripts/agy-fill.sh` (füllt nur fehlende/kaputte Kombinationen sequenziell nach).
+- **GPT-5.5 über Codex** (`modell_slug: gpt-5.5`, ChatGPT-Login):
+  `codex exec --dangerously-bypass-approvals-and-sandbox -m gpt-5.5 "$PROMPT"`.
+
+Diese Läufe tragen `"erzeugt_via": "agy (…)"` bzw. `"codex/gpt-5.5 (…)"` und `metrik: null`. Danach: `node scripts/fix-agy.mjs <partei>` (Score auf −2..2 clampen, Seitenzahl auf die belegende Seite korrigieren) und global `pnpm run verify --fix`.
+
+**Betriebs-Lektionen (wichtig):**
+- **Nicht stark parallelisieren.** 6 gleichzeitige `agy`-Läufe liefen ins Rate-Limit → rund die Hälfte der Personas fehlte. Sequenziell (ein Lauf nach dem anderen) ist verlässlich.
+- **Headless ist flaky** (mal Sofort-Abbruch mit leerer Antwort, mal Hänger trotz `--print-timeout`). Deshalb pro Aufruf ein hartes `timeout` und den **idempotenten** `agy-fill.sh` mehrfach laufen lassen, bis die Lücken zu sind.
+- **Abgebrochene Teilschreibungen** (valides JSON ohne `gesamt`) entstehen bei Timeouts → vor dem Verifizieren entfernen (sonst zählt es als „fehlt").
+- Codex braucht zum Schreiben `--full-auto` **oder** `--dangerously-bypass-approvals-and-sandbox` (read-only reicht nicht).
 
 ### Beleg-Prüfung
 

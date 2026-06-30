@@ -69,5 +69,21 @@
       "beleg_ok": true
     }
   ],
-  "gesamt": 1
+  "gesamt": 1,
+  "modell_slug": "gemini-3.1-pro",
+  "modell": "Gemini 3.1 Pro (High)",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  }
 }

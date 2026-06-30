@@ -1,0 +1,172 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (ChatGPT-Login, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkram!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die CDU will verlässliche Rahmenbedingungen, weniger Bürokratie und mehr unternehmerische Freiheit für Investitionen in landwirtschaftlichen Betrieben.",
+      "seite": 38,
+      "zitat": "Weniger Bürokratie, mehr Freiheit für Investitionen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich von ständig neuen Auflagen und Nachweispflichten ausgebremst. Die Zusage zu weniger Bürokratie trifft seinen Kernkonflikt als selbstständiger Hofinhaber unmittelbar.",
+      "begruendung_selbst": "Wenn ich weniger Formulare und mehr Entscheidungsspielraum habe, kann ich endlich wieder mehr Landwirtschaft machen statt Akten sortieren."
+    },
+    {
+      "titel_selbst": "Acker bleibt Acker!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Landwirtschaftliche Nutzflächen sollen vor Versiegelung, Industrieansiedlungen auf der grünen Wiese, Zersiedelung und Ausgleichsmaßnahmen stärker geschützt werden.",
+      "seite": 39,
+      "zitat": "Landwirtschaftliche Nutzflächen wirksam schützen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sorgt sich um Flächenfraß, Pachtkonkurrenz und den Verlust guter Böden. Ein Vorrang für landwirtschaftliche Nutzflächen schützt die Grundlage seines Betriebs.",
+      "begruendung_selbst": "Ohne Boden gibt es keinen Hof. Wenn gute Äcker nicht mehr für jeden Ausgleich und jedes Gewerbegebiet herhalten sollen, ist das genau richtig."
+    },
+    {
+      "titel_selbst": "Beim Wolf wird es praktisch!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die CDU will wirksame Regeln zur Regulierung des Wolfsbestands, damit Menschen und Weidetiere in der Kulturlandschaft geschützt werden.",
+      "seite": 40,
+      "zitat": "Regelungen zur Regulierung des Wolfsbestandes",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit seiner Mutterkuhherde erlebt Frank den Wolf nicht als abstraktes Naturschutzthema, sondern als Risiko für Weidetiere und Betriebsalltag. Die Forderung nach Regulierung bestätigt seine Sicht auf den Konflikt.",
+      "begruendung_selbst": "Ich will keinen Streit um Prinzipien, ich will meine Tiere sicher auf der Weide haben. Regulieren heißt: endlich Realität anerkennen."
+    },
+    {
+      "titel_selbst": "CO2 darf nicht alles auffressen!",
+      "thema": "klima",
+      "programmpunkt": "Die Land- und Forstwirtschaft soll von weiteren Erhöhungen der CO2-Kosten ausgenommen und der energieintensiven Industrie gleichgestellt werden.",
+      "seite": 42,
+      "zitat": "von einem weiteren Anstieg der CO2 - Kosten ausgenommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank ist nicht gegen Klimaschutz, aber er misst ihn an den konkreten Kosten für Diesel, Trocknung, Kühlung und Maschinen. Eine Ausnahme von steigenden CO2-Kosten würde seinen engen Liquiditätsspielraum direkt entlasten.",
+      "begruendung_selbst": "Ich kann die Ernte nicht mit guten Worten einfahren. Wenn CO2-Kosten weiter steigen, bleibt am Ende wieder weniger auf dem Hof."
+    },
+    {
+      "titel_selbst": "Rote Gebiete fair prüfen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die CDU will rote Gebiete beim Düngerecht verursachergerecht neu definieren und den Vollzug beim Düngerecht in einer Behörde bündeln.",
+      "seite": 42,
+      "zitat": "roten Gebiete verursachergerecht neu definieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Düngevorgaben gehören zu Franks wichtigsten Belastungen, weil sie Ertrag, Planung und Dokumentation gleichzeitig betreffen. Eine verursachergerechte Definition spricht seinen Wunsch nach fairer, betriebsnaher Regulierung an.",
+      "begruendung_selbst": "Wenn ich sauber arbeite, will ich nicht für Messstellen und Pauschalregeln mitbestraft werden. Prüft ordentlich, dann kann ich damit umgehen."
+    },
+    {
+      "titel_selbst": "Tierhaltung braucht Planung!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die CDU will Tierhaltung im Land erhalten, zusätzliche Verschärfungen ablehnen und Weidetierhaltung je Großvieheinheit wirtschaftlich unterstützen.",
+      "seite": 41,
+      "zitat": "lehnen zusätzliche Verschärfungen ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Franks kleine Mutterkuhherde reagiert empfindlich auf neue technische Standards, Stallauflagen und laufende Mehrkosten. Das Versprechen, zusätzliche Verschärfungen abzulehnen, gibt ihm die gewünschte Planungssicherheit.",
+      "begruendung_selbst": "Ich halte die Tiere ordentlich. Aber wenn jedes Jahr neue Standards kommen, lohnt sich am Ende keine Kuh mehr auf der Weide."
+    },
+    {
+      "titel_selbst": "Meine Tochter hätte eine Chance!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Für Hof- und Unternehmensnachfolgen in der Landwirtschaft setzt die CDU auf das Junglandwirteprogramm und will grüne Bildungsstandorte erhalten.",
+      "seite": 43,
+      "zitat": "Förderung von Unternehmensnachfolgen auf das Junglandwirteprogramm",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hofft, dass seine Tochter den Hof übernehmen kann, zweifelt aber an den Bedingungen. Förderung für Unternehmensnachfolgen adressiert genau diese familiäre und wirtschaftliche Zukunftsfrage.",
+      "begruendung_selbst": "Wenn meine Tochter den Hof übernehmen soll, braucht sie nicht Sonntagsreden, sondern echte Starthilfe und verlässliche Bedingungen."
+    },
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU will regionale Strompreiszonen erreichen, damit günstiger Windstrom Unternehmen und Haushalten in Sachsen-Anhalt zugutekommt.",
+      "seite": 44,
+      "zitat": "Wir brauchen einen niedrigeren Strompreis",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Franks Betrieb hat steigende Energiebedarfe für Bewässerung, Trocknung, Kühlung und Technik. Niedrigere regionale Strompreise würden seine laufenden Kosten direkt berühren.",
+      "begruendung_selbst": "Wenn hier der Windstrom produziert wird, soll mein Betrieb auch etwas davon haben. Hohe Strompreise machen jede Investition schwerer."
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Industrie darf keinen Acker fressen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm will Sachsen-Anhalt zu einer Top-Region für Unternehmensansiedlungen machen und verweist dabei auf ausreichend verfügbare Industrieflächen.",
+      "seite": 11,
+      "zitat": "ausreichend verfügbare Industrieflächen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank sieht neue Industrieansiedlungen durch die Brille von Flächenkonkurrenz, steigenden Pachten und Druck auf Ackerland. Auch wenn das Programm später landwirtschaftliche Flächen schützen will, bleibt die Ansiedlungsoffensive für ihn ein möglicher Konflikt um Boden.",
+      "begruendung_selbst": "Neue Firmen sind schön und gut, aber wenn am Ende wieder Fläche gesucht wird, schaut man zuerst aufs Feld neben dem Dorf."
+    },
+    {
+      "titel_selbst": "Neue Straßen kosten Fläche!",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will den Ausbau großer Verkehrsprojekte wie A14 und A143 fortsetzen und zusätzliche Fernverbindungen sowie Querungen vorantreiben.",
+      "seite": 61,
+      "zitat": "sechsspurigen Ausbau der A14",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank profitiert grundsätzlich von Erreichbarkeit, aber neue und verbreiterte Trassen bedeuten aus seiner Sicht oft Flächenverlust, Zerschneidung und langwierige Entschädigungsfragen. Sein Flächenproblem wird dadurch nicht kleiner.",
+      "begruendung_selbst": "Ich brauche Straßen, klar. Aber wenn aus Ausbau wieder Ackerverlust wird, zahlt der Betrieb den Preis."
+    },
+    {
+      "titel_selbst": "Biotop klingt nach neuer Auflage!",
+      "thema": "klima",
+      "programmpunkt": "Die CDU will Rückzugsgebiete für Tiere und Pflanzen über bessere Biotopvernetzung sichern und die Biodiversitätsstrategie überarbeiten.",
+      "seite": 68,
+      "zitat": "durch bessere Biotopvernetzung sichern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Frank misstraut Naturschutzprogrammen, wenn sie am Ende als Nutzungsauflagen auf seinen Flächen landen. Der Punkt ist moderat formuliert, trifft aber seine Sorge, dass Umweltziele wieder über die Köpfe der Bewirtschafter hinweg konkret werden.",
+      "begruendung_selbst": "Bei Biotopvernetzung höre ich schon die nächste Karte, die mir sagt, was ich auf welchem Schlag noch darf."
+    },
+    {
+      "titel_selbst": "Deich zurück heißt Fläche weg!",
+      "thema": "klima",
+      "programmpunkt": "Beim Wassermanagement will die CDU dort, wo es sinnvoll erscheint, Deiche zurückverlegen und die Wasserrahmenrichtlinie weiter umsetzen.",
+      "seite": 68,
+      "zitat": "Deiche zurückverlegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank kann Wasserrückhalt fachlich nachvollziehen, reagiert aber empfindlich, wenn Hochwasser- und Gewässerpolitik auf bewirtschaftete Flächen zugreift. Der angekündigte Einbezug der Eigentümer mildert den Konflikt, nimmt ihm aber nicht die Sorge um nutzbare Fläche.",
+      "begruendung_selbst": "Wasser muss gemanagt werden, keine Frage. Aber wenn ein Deich wandert, wandert für mich oft auch Ertragsfläche aus dem Betrieb."
+    },
+    {
+      "titel_selbst": "Agri-PV treibt Pachten!",
+      "thema": "energie",
+      "programmpunkt": "Freiflächen-Photovoltaik soll auf Brach- und Konversionsflächen, ertragsschwachen Böden und mit Agri-PV-Doppelnutzung ausgebaut werden.",
+      "seite": 47,
+      "zitat": "ertragsschwache Böden sowie die kluge Doppelnutzung durch Agri - PV",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank begrüßt, dass hochwertige Ackerböden geschützt werden, sieht aber auch auf schwächeren Böden Pachtkonkurrenz durch Energieprojekte. Für einen Betrieb mit knappen Flächen und Krediten kann Agri-PV als zusätzlicher Preisdruck erscheinen.",
+      "begruendung_selbst": "Auch ein schwächerer Acker ist für mich Betriebsgrundlage. Wenn Solar mehr Pacht zahlt als Landwirtschaft, wird es für Höfe enger."
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank würde das CDU-Programm überwiegend sehr positiv lesen, weil es seine wichtigsten Anliegen direkt anspricht: weniger Bürokratie, Flächenschutz, Entlastung bei CO2-Kosten, faireres Düngerecht, Wolf-Regulierung und Unterstützung für Hofnachfolge. Besonders stark wirkt auf ihn, dass Landwirtschaft als eigenständiger wirtschaftlicher Kern des ländlichen Raums behandelt wird. Kritisch bleiben für ihn Ansiedlungs-, Infrastruktur-, Naturschutz- und Agri-PV-Punkte, die trotz Schutzklauseln neuen Druck auf Flächen und Pachten auslösen können.",
+    "score": 2
+  }
+}

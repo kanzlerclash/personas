@@ -122,5 +122,11 @@
       "begruendung": "Sabine ist politisch pragmatisch und sucht nach praktischen Lösungen für ihren Betrieb. Zwar sprechen sie handwerkspolitische Forderungen wie der Bürokratieabbau sehr an, jedoch schreckt sie die radikale Rhetorik und die fehlende Planungssicherheit bei abrupten politischen Kehrtwenden ab.",
       "begruendung_selbst": "Die haben in einigen Punkten wie dem Bürokratieabbau und der Förderung vom Handwerk echt Recht. Aber dieses ständige Draufhauen und das komplette Zurückdrehen von allem, was bisher gemacht wurde, bringt uns Unternehmern auch keine Stabilität. Ich brauche Lösungen, keinen ständigen Streit."
     }
-  ]
+  ],
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)"
 }

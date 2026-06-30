@@ -65,5 +65,13 @@
   "gesamt": {
     "zusammenfassung": "Toralf findet im Programm des BSW extrem hohe Übereinstimmung mit seiner Lebensrealität. Die klare Absage an das Verbrenner-Verbot, die geforderte Deckelung der Spritpreise auf 1,50 Euro und die Ablehnung der CO2-Abgabe adressieren direkt seine größten finanziellen Sorgen als Pendler. Auch die deutliche Positionierung für den Erhalt von Industriearbeitsplätzen und die Kritik an einer als elitär empfundenen Klimapolitik spiegeln genau sein pragmatisches, arbeitnehmerorientiertes Weltbild wider. Das Programm greift seine Sorgen fast passgenau auf.",
     "score": 2
+  },
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
   }
 }
