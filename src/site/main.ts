@@ -364,16 +364,28 @@ function profilAnsicht(root: HTMLElement, pSlug: string) {
   const th = el("div", "themen"); p.themen.forEach((t) => th.append(chip(themaName(t)))); ti.append(th);
   kopf.append(ti); root.append(kopf);
 
-  // Einschätzungen der Modelle (Sprung in die jeweilige Modell-Ansicht dieser Persona)
-  const nav = el("div", "unternav");
-  for (const m of MODELLE) {
-    if (!ergsMP(m.slug, pSlug).length) continue;
-    const a = el("a", "navbtn") as HTMLAnchorElement;
-    a.href = `#/modell/${m.slug}/persona/${pSlug}`;
-    a.textContent = `Wie urteilt ${kurz(m.slug)}? →`;
-    nav.append(a);
+  // Einschätzungen der Modelle als Karten (wie die Modell-Auswahl auf der Startseite),
+  // jede ein Deeplink in #/modell/<m>/persona/<slug>.
+  const modelleMit = MODELLE.filter((m) => ergsMP(m.slug, pSlug).length);
+  if (modelleMit.length) {
+    root.append(el("h3", "abschnitt", "Wie die Modelle diese Persona einordnen"));
+    const grid = el("div", "sig-grid");
+    for (const m of modelleMit) {
+      const es = ergsMP(m.slug, pSlug);
+      const score = avg(es.map((e) => e.gesamt.score));
+      const k = el("a", "sigkarte") as HTMLAnchorElement;
+      k.href = `#/modell/${m.slug}/persona/${pSlug}`;
+      k.append(el("h4", "", kurz(m.slug)));
+      k.append(el("div", "sig-modell", `${es.length} Parteien bewertet`));
+      const z = el("div", "sig-zahlen");
+      z.append(sigZeile("Ø-Urteil", scoreTxt(score), scoreFarbe(score)));
+      z.append(sigZeile("Punkte +/−", `+${es.reduce((s, e) => s + e.besonders_gut.length, 0)} / −${es.reduce((s, e) => s + e.besonders_schlecht.length, 0)}`));
+      k.append(z);
+      k.append(el("span", "sig-cta", "→ Einschätzung ansehen"));
+      grid.append(k);
+    }
+    root.append(grid);
   }
-  if (nav.childElementCount) { root.append(el("h3", "abschnitt", "Einschätzungen der Modelle")); root.append(nav); }
 
   root.append(renderProfilTab(p)); // enthält Bevölkerung + Profilfelder (inkl. eigener Überschriften)
 }
