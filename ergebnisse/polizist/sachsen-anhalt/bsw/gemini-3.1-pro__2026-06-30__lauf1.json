@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marco leidet in seinem Dienstalltag enorm unter Schichtdruck und Personalmangel. Die konkrete Zusage, spürbar mehr Personal einzustellen, trifft exakt seine zentrale Forderung nach besseren Arbeitsbedingungen.",
-      "begruendung_selbst": "Genau das sage ich seit Jahren! Wir pfeifen personell aus dem letzten Loch. Wenn wir wirklich mehr Kollegen bekommen, können wir endlich wieder richtig für Sicherheit sorgen, ohne selbst kaputtzugehen."
+      "begruendung_selbst": "Genau das sage ich seit Jahren! Wir pfeifen personell aus dem letzten Loch. Wenn wir wirklich mehr Kollegen bekommen, können wir endlich wieder richtig für Sicherheit sorgen, ohne selbst kaputtzugehen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Leistung muss anerkannt werden.",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Streifenpolizist mit familiärer Verantwortung ärgert sich Marco über blockierte Beförderungen. Die Aussicht auf verlässliche finanzielle Aufstiege empfindet er als dringend nötige Wertschätzung seiner anstrengenden Arbeit.",
-      "begruendung_selbst": "Es frustriert extrem, wenn man sich im Dienst aufreibt, aber wegen fehlender Planstellen jahrelang festhängt. Regelbeförderungen würden uns endlich die finanzielle Sicherheit und den Respekt geben, den wir verdienen."
+      "begruendung_selbst": "Es frustriert extrem, wenn man sich im Dienst aufreibt, aber wegen fehlender Planstellen jahrelang festhängt. Regelbeförderungen würden uns endlich die finanzielle Sicherheit und den Respekt geben, den wir verdienen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Die Justiz muss wieder funktionieren.",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Marco ist in der Praxis oft frustriert, wenn polizeiliche Ermittlungserfolge in überlasteten Staatsanwaltschaften und Gerichten versanden. Eine funktionierende und gut ausgestattete Justiz ist für ihn die unverzichtbare Ergänzung zur Polizeiarbeit.",
-      "begruendung_selbst": "Es nützt nichts, wenn wir auf der Straße die Täter schnappen, und am Ende passiert monatelang nichts. Eine handlungsfähige Justiz ist der einzige Weg, wie unsere Ermittlungsarbeit überhaupt Sinn ergibt."
+      "begruendung_selbst": "Es nützt nichts, wenn wir auf der Straße die Täter schnappen, und am Ende passiert monatelang nichts. Eine handlungsfähige Justiz ist der einzige Weg, wie unsere Ermittlungsarbeit überhaupt Sinn ergibt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sicherheit bleibt in staatlicher Hand!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marcos Grundwert ist die unbedingte Loyalität zur Institution und zum Rechtsstaat. Er sieht die hoheitliche Aufgabe der Polizei durch private Sicherheitsdienste entwertet und begrüßt das klare Bekenntnis zum staatlichen Gewaltmonopol.",
-      "begruendung_selbst": "Sicherheit darf nie vom Kontostand abhängen. Es ist unsere verfassungsgemäße Pflicht als Polizei, die Bürger zu schützen – das darf man nicht an private Firmen auslagern, denen es am Ende nur um Profit geht."
+      "begruendung_selbst": "Sicherheit darf nie vom Kontostand abhängen. Es ist unsere verfassungsgemäße Pflicht als Polizei, die Bürger zu schützen – das darf man nicht an private Firmen auslagern, denen es am Ende nur um Profit geht.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wer straffällig wird, muss gehen.",
@@ -72,7 +76,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Marco pflegt ein differenziertes Bild von Migration, befürwortet aber ein hartes Durchgreifen des Rechtsstaates bei Kriminalität. Diese klare Trennung von Schutzbedürftigen und Straftätern entspricht exakt seiner beruflichen Haltung.",
-      "begruendung_selbst": "Ich habe wirklich nichts gegen Zuwanderer, die hier friedlich leben wollen. Aber wer unsere Gesetze bricht und Straftaten begeht, verwirkt seinen Schutzanspruch – da darf der Rechtsstaat nicht wegschauen."
+      "begruendung_selbst": "Ich habe wirklich nichts gegen Zuwanderer, die hier friedlich leben wollen. Aber wer unsere Gesetze bricht und Straftaten begeht, verwirkt seinen Schutzanspruch – da darf der Rechtsstaat nicht wegschauen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als verfassungstreuer Beamter, der die staatlichen Institutionen schützt, sieht Marco gezielte Kampagnen gegen den Staat mit Sorge. Den Verfassungsschutz in diesem Bereich blind zu machen, empfindet er als naiv und fahrlässig.",
-      "begruendung_selbst": "Ich riskiere jeden Tag meinen Kopf für unseren Rechtsstaat. Wenn radikale Gruppen ganz gezielt unsere demokratischen Institutionen zersetzen wollen, muss der Verfassungsschutz da genau hinschauen dürfen – so etwas darf man nicht verharmlosen."
+      "begruendung_selbst": "Ich riskiere jeden Tag meinen Kopf für unseren Rechtsstaat. Wenn radikale Gruppen ganz gezielt unsere demokratischen Institutionen zersetzen wollen, muss der Verfassungsschutz da genau hinschauen dürfen – so etwas darf man nicht verharmlosen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Nehmt uns nicht unsere Ermittlungswerkzeuge!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Marco fordert eine zeitgemäße Ausstattung für die Polizei, um mit Kriminellen mithalten zu können. Das pauschale Verbot moderner Analysesoftware aus Datenschutzgründen sieht er als praxisferne Einschränkung seiner polizeilichen Handlungsfähigkeit.",
-      "begruendung_selbst": "Die organisierte Kriminalität ist bestens vernetzt und nutzt die neueste Technik, und wir sollen weiter Aktenordner wälzen? Wenn man uns Software wie Palantir wegnimmt, bindet man uns im Kampf gegen Schwerverbrechen doch mutwillig die Hände."
+      "begruendung_selbst": "Die organisierte Kriminalität ist bestens vernetzt und nutzt die neueste Technik, und wir sollen weiter Aktenordner wälzen? Wenn man uns Software wie Palantir wegnimmt, bindet man uns im Kampf gegen Schwerverbrechen doch mutwillig die Hände.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Ein Schlag ins Gesicht für uns Beamte.",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Marco musste während der Pandemie unpopuläre staatliche Auflagen auf der Straße durchsetzen und ertrug dafür viel Unmut. Eine pauschale Amnestie für damalige Regelbrecher empfindet er als nachträglichen Vertrauensbruch und mangelnde Rückendeckung der Politik.",
-      "begruendung_selbst": "Wir standen damals auf der Straße und mussten die Corona-Regeln durchsetzen, wofür wir oft genug angefeindet wurden. Wenn die Politik jetzt pauschal alle Regelbrecher amnestiert, fällt sie uns Beamten nachträglich komplett in den Rücken."
+      "begruendung_selbst": "Wir standen damals auf der Straße und mussten die Corona-Regeln durchsetzen, wofür wir oft genug angefeindet wurden. Wenn die Politik jetzt pauschal alle Regelbrecher amnestiert, fällt sie uns Beamten nachträglich komplett in den Rücken.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

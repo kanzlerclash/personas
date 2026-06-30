@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny fürchtet starre Ausstiegsdaten, für die noch kein wirtschaftlicher Ersatz existiert. Das klare Bekenntnis zum ursprünglichen Kompromiss nimmt ihm die Sorge vor einem überstürzten Ende seiner Branche.",
-      "begruendung_selbst": "Endlich jemand, der uns die nötige Zeit gibt! Erst muss der Ersatz für unsere Arbeitsplätze stehen, bevor man uns den Stecker zieht."
+      "begruendung_selbst": "Endlich jemand, der uns die nötige Zeit gibt! Erst muss der Ersatz für unsere Arbeitsplätze stehen, bevor man uns den Stecker zieht.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wichtige Brückentechnologie",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die pauschale Ablehnung von CCS in Teilen der Klimabewegung ist für Ronny praxisfern. Die Förderung von CCS im Wahlprogramm deckt sich mit seiner Hoffnung auf einen technologieoffenen Strukturwandel.",
-      "begruendung_selbst": "Ohne CCS können wir unsere Industriegebiete gleich dichtmachen. Diese Technologie ist genau das Werkzeug, das unsere Region im Wandel retten kann."
+      "begruendung_selbst": "Ohne CCS können wir unsere Industriegebiete gleich dichtmachen. Diese Technologie ist genau das Werkzeug, das unsere Region im Wandel retten kann.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Rohstoff statt nur Brennstoff",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny ist an Wegen interessiert, die bestehende Rohstoffbasis und die Arbeitsplätze in seiner Heimat jenseits der Stromerzeugung zu erhalten.",
-      "begruendung_selbst": "Unsere Braunkohle ist viel zu wertvoll, um sie nur als klimaschädlich abzustempeln. Wenn wir sie stofflich nutzen, geben wir der Region eine echte neue Perspektive."
+      "begruendung_selbst": "Unsere Braunkohle ist viel zu wertvoll, um sie nur als klimaschädlich abzustempeln. Wenn wir sie stofflich nutzen, geben wir der Region eine echte neue Perspektive.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Fairer Preis für uns",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Energiefachmann weiß Ronny um die Belastung der Industrie durch hohe Stromkosten. Niedrigere regionale Preise sieht er als fairen Vorteil, der Industriearbeitsplätze in seiner Region sichert.",
-      "begruendung_selbst": "Wenn wir hier schon den ganzen Windstrom erzeugen, muss unsere Industrie auch davon profitieren. Das stärkt unseren Standort massiv und sichert Jobs."
+      "begruendung_selbst": "Wenn wir hier schon den ganzen Windstrom erzeugen, muss unsere Industrie auch davon profitieren. Das stärkt unseren Standort massiv und sichert Jobs.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Realismus statt Ideologie",
@@ -72,7 +76,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny kritisiert die Klimabewegung oft für ihre aus seiner Sicht praxisfernen Forderungen. Der pragmatische Ansatz der Partei spiegelt exakt seinen Wunsch nach machbaren Lösungen wider.",
-      "begruendung_selbst": "Genau das werfe ich radikalen Klimaschützern vor: Ihnen fehlt der Realismus. Wir brauchen Lösungen, die technisch funktionieren und nicht nur moralisch gut klingen."
+      "begruendung_selbst": "Genau das werfe ich radikalen Klimaschützern vor: Ihnen fehlt der Realismus. Wir brauchen Lösungen, die technisch funktionieren und nicht nur moralisch gut klingen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [],

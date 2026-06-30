@@ -10,29 +10,38 @@
   "programm_stand": null,
   "prompt_version": "vergleich.v1",
   "erzeugt_via": "antigravity-cli",
-  "metrik": { "input_tokens": null, "output_tokens": null, "cached_tokens": null, "total_tokens": null, "dauer_ms": null, "usd": null },
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
   "besonders_gut": [
     {
       "titel_selbst": "Kostenfreie Kita ab dem ersten Kind!",
       "thema": "familie",
       "programmpunkt": "Die Partei plant, Krippen und Kindergärten ab dem ersten Kind kostenfrei zu machen und die Mittagsverpflegung gebührenfrei anzubieten.",
-      "seite": 14,
+      "seite": 4,
       "zitat": "Die Mittagsverpflegung muss für alle Kinder, von der Krippe bis zur Schule, ebenfalls kostenfrei",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine profitiert unmittelbar finanziell von der kompletten Abschaffung der Kitagebühren und der Kostenfreiheit des Schulessens, da dies ihre größten monatlichen Belastungen sind.",
-      "begruendung_selbst": "Endlich eine echte Entlastung! Dass ich für Mia keine Kitagebühren und nichts fürs Essen mehr zahlen muss, hilft mir am Monatsende enorm."
+      "begruendung_selbst": "Endlich eine echte Entlastung! Dass ich für Mia keine Kitagebühren und nichts fürs Essen mehr zahlen muss, hilft mir am Monatsende enorm.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Familiengeld für mich und Mia!",
       "thema": "familie",
       "programmpunkt": "Die Partei will ein landeseigenes Kindergeld einführen, bei dem Eltern für das erstgeborene Kind monatlich 50 Euro erhalten.",
-      "seite": 14,
+      "seite": 4,
       "zitat": "Ab Geburt erhalten Eltern für ihr erstgeborenes Kind monatlich 50 Euro",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Alleinerziehende, die ohnehin finanziell zu kämpfen hat, würde Nadine durch das zusätzliche monatliche Familiengeld von 50 Euro direkt entlastet werden.",
-      "begruendung_selbst": "Die 50 Euro extra im Monat für mein erstes Kind nehme ich gerne mit, jeder Euro zählt für uns."
+      "begruendung_selbst": "Die 50 Euro extra im Monat für mein erstes Kind nehme ich gerne mit, jeder Euro zählt für uns.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich wieder mehr bezahlbare Wohnungen!",
@@ -43,18 +52,20 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Nadine als Alleinerziehende dringend auf bezahlbaren Wohnraum angewiesen ist, unterstützt sie die geplante gezielte Förderung des sozialen Wohnungsbaus.",
-      "begruendung_selbst": "Die Mieten fressen einen Großteil meines Geldes auf. Dass endlich wieder mehr sozialer Wohnraum geschaffen werden soll, gibt mir Hoffnung."
+      "begruendung_selbst": "Die Mieten fressen einen Großteil meines Geldes auf. Dass endlich wieder mehr sozialer Wohnraum geschaffen werden soll, gibt mir Hoffnung.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich Fairness beim Bürgergeld!",
       "thema": "integration",
       "programmpunkt": "Die Partei fordert, ukrainischen Flüchtlingen den direkten Zugang zum Bürgergeld zu streichen und sie in das Asylbewerberleistungsgesetz zurückzuführen.",
-      "seite": 18,
+      "seite": 5,
       "zitat": "Rückkehranreiz setzen, Bürgergeld für Ukrainer streichen!",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine ärgert sich oft darüber, dass Flüchtlinge vermeintlich mehr staatliche Unterstützung erhalten. Die Forderung der Partei spricht ihr Gerechtigkeitsempfinden an.",
-      "begruendung_selbst": "Es ist nur gerecht, dass Flüchtlinge nicht sofort volles Bürgergeld kassieren. Ich muss hart arbeiten und bekomme als Alleinerziehende kaum mehr."
+      "begruendung_selbst": "Es ist nur gerecht, dass Flüchtlinge nicht sofort volles Bürgergeld kassieren. Ich muss hart arbeiten und bekomme als Alleinerziehende kaum mehr.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -62,12 +73,13 @@
       "titel_selbst": "Alleinerziehende sind nicht normal?!",
       "thema": "familie",
       "programmpunkt": "Die Partei lehnt die gesellschaftliche Anerkennung und Propagierung von Einelternfamilien als normalen oder fortschrittlichen Lebensentwurf entschieden ab.",
-      "seite": 14,
+      "seite": 4,
       "zitat": "sogenannte „Einelternfamilien“ als normalen, fortschrittlichen oder gar erstrebenswerten Lebensentwurf zu propagieren",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Nadine fühlt sich durch die klare Ablehnung von Alleinerziehenden als normaler Lebensform durch die Partei persönlich abgewertet und gesellschaftlich ausgegrenzt.",
-      "begruendung_selbst": "Dass meine kleine Familie aus Mia und mir als nicht normal angesehen wird, macht mich richtig wütend. Wir sind eine vollwertige Familie!"
+      "begruendung_selbst": "Dass meine kleine Familie aus Mia und mir als nicht normal angesehen wird, macht mich richtig wütend. Wir sind eine vollwertige Familie!",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

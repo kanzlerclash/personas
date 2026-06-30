@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marco leidet unter der chronischen Überlastung und dem Personalmangel im Streifendienst. Die konkrete Zusage von mehr Stellen bei der Polizei spricht sein drängendstes berufliches Problem direkt an.",
-      "begruendung_selbst": "Wenn wir wirklich 500 Leute mehr bekommen, können wir auf der Straße endlich wieder präsent sein, statt nur noch von Einsatz zu Einsatz zu hetzen. Das ist genau das, was wir brauchen!"
+      "begruendung_selbst": "Wenn wir wirklich 500 Leute mehr bekommen, können wir auf der Straße endlich wieder präsent sein, statt nur noch von Einsatz zu Einsatz zu hetzen. Das ist genau das, was wir brauchen!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Zeit für die Familie!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die hohe Belastung durch den Schichtdienst und die fehlende planbare Freizeit machen Marco sehr zu schaffen. Eine spürbare Reduzierung der Arbeitszeit sieht er als überfälligen Schritt zur Entlastung.",
-      "begruendung_selbst": "Nach den ganzen Schichten bin ich oft völlig erledigt. Eine 38-Stunden-Woche würde mir endlich wieder ein bisschen mehr Luft geben, um richtig für meine Frau und mein Kind da zu sein."
+      "begruendung_selbst": "Nach den ganzen Schichten bin ich oft völlig erledigt. Eine 38-Stunden-Woche würde mir endlich wieder ein bisschen mehr Luft geben, um richtig für meine Frau und mein Kind da zu sein.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Dann versandet unsere Arbeit nicht!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Marco ist zunehmend frustriert, wenn von ihm ermittelte Verdächtige aufgrund überlasteter Gerichte nicht oder erst sehr spät verurteilt werden. Die Ankündigung, die Justiz personell aufzustocken, gibt ihm Hoffnung auf eine reibungslose Strafverfolgung.",
-      "begruendung_selbst": "Es macht mich wahnsinnig, wenn wir Leute festnehmen und die Akten dann monatelang bei der Staatsanwaltschaft liegenbleiben. Wenn dort aufgestockt wird, hat unsere Arbeit auf der Straße wieder mehr Sinn."
+      "begruendung_selbst": "Es macht mich wahnsinnig, wenn wir Leute festnehmen und die Akten dann monatelang bei der Staatsanwaltschaft liegenbleiben. Wenn dort aufgestockt wird, hat unsere Arbeit auf der Straße wieder mehr Sinn.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Technisch endlich auf Augenhöhe!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marco fordert eine zeitgemäße Ausstattung für die Polizei, um im Kampf gegen moderne Kriminalitätsformen nicht ins Hintertreffen zu geraten. Den gezielten Aufbau von technischem Spezialwissen in den eigenen Reihen befürwortet er sehr.",
-      "begruendung_selbst": "Die organisierte Kriminalität schläft nicht und rüstet auf. Es ist absolut richtig, dass wir Spezialisten aufbauen, die technisch endlich wieder vor die Lage kommen und nicht nur reagieren."
+      "begruendung_selbst": "Die organisierte Kriminalität schläft nicht und rüstet auf. Es ist absolut richtig, dass wir Spezialisten aufbauen, die technisch endlich wieder vor die Lage kommen und nicht nur reagieren.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als verfassungstreuer und staatsorientierter Polizist ist Marco ein funktionierender Staatsschutz enorm wichtig. Die Forderung, den Inlandsgeheimdienst faktisch abzuwickeln, widerspricht fundamental seinem Verständnis einer wehrhaften Demokratie.",
-      "begruendung_selbst": "Den Verfassungsschutz als völlig 'überflüssig' abzutun, halte ich für gefährlich naiv! Wir brauchen schlagkräftige Institutionen, um Extremisten auf dem Schirm zu haben – das dürfen wir auf keinen Fall aufweichen."
+      "begruendung_selbst": "Den Verfassungsschutz als völlig 'überflüssig' abzutun, halte ich für gefährlich naiv! Wir brauchen schlagkräftige Institutionen, um Extremisten auf dem Schirm zu haben – das dürfen wir auf keinen Fall aufweichen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Künstlich blind und taub gemacht!",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Marco wünscht sich mehr Rückhalt und vor allem weitreichende polizeiliche Befugnisse. Dass der Polizei aus Prinzip hocheffektive digitale Ermittlungswerkzeuge verwehrt werden sollen, empfindet er als politisch motivierte Schwächung der Beamten.",
-      "begruendung_selbst": "Die Schwerkriminellen nutzen die modernste Technik, die es gibt, und uns will man aus ideologischen Gründen die besten Ermittlungswerkzeuge verbieten? So bindet man uns doch völlig ohne Not die Hände auf dem Rücken."
+      "begruendung_selbst": "Die Schwerkriminellen nutzen die modernste Technik, die es gibt, und uns will man aus ideologischen Gründen die besten Ermittlungswerkzeuge verbieten? So bindet man uns doch völlig ohne Not die Hände auf dem Rücken.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schon wieder dieser Pauschalverdacht!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Marco leidet stark unter pauschaler Polizeikritik und fühlt sich durch solche Narrative ungerecht behandelt. Die Unterstellung, es gäbe eine weitverbreitete Duldung von Extremismus in seinen Reihen, empfindet er als tiefe Respektlosigkeit gegenüber seiner täglichen Arbeit.",
-      "begruendung_selbst": "Es ist dieser ständige, misstrauische Unterton, der mich rasend macht. Wir reißen uns jeden Tag den Hintern auf, um diesen Rechtsstaat zu verteidigen, und als Dank wird uns pauschal eine 'Kultur des Wegschauens' um die Ohren gehauen."
+      "begruendung_selbst": "Es ist dieser ständige, misstrauische Unterton, der mich rasend macht. Wir reißen uns jeden Tag den Hintern auf, um diesen Rechtsstaat zu verteidigen, und als Dank wird uns pauschal eine 'Kultur des Wegschauens' um die Ohren gehauen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

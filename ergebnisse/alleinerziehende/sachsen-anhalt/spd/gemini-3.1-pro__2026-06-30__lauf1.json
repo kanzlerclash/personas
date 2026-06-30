@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine ist wegen der Betreuung ihrer zwei Kinder auf Teilzeitarbeit angewiesen. Dass die Partei dieses Arbeitsmodell als legitimen Anspruch und nicht als Defizit formuliert, gibt ihr Sicherheit und Anerkennung.",
-      "begruendung_selbst": "Ich kann nicht Vollzeit arbeiten, solange die Kinder klein sind. Gut, dass das als mein Anspruch gesehen wird und nicht als Faulheit."
+      "begruendung_selbst": "Ich kann nicht Vollzeit arbeiten, solange die Kinder klein sind. Gut, dass das als mein Anspruch gesehen wird und nicht als Faulheit.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Betreuung, wenn ich arbeite!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Alleinerziehende im flexiblen Dienst kämpft Nadine oft damit, Bring- und Abholzeiten mit ihren Arbeitszeiten in Einklang zu bringen. Flexiblere Öffnungszeiten sind für sie eine zwingende Voraussetzung.",
-      "begruendung_selbst": "Endlich denkt mal jemand daran, dass mein Chef mich auch nachmittags braucht. Wenn die Kita länger offen ist, fällt mir ein riesiger Stein vom Herzen."
+      "begruendung_selbst": "Endlich denkt mal jemand daran, dass mein Chef mich auch nachmittags braucht. Wenn die Kita länger offen ist, fällt mir ein riesiger Stein vom Herzen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kostenloses Essen nimmt echten Druck.",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Das Essensgeld für zwei Kinder reißt jeden Monat ein erhebliches Loch in Nadines knappe Haushaltskasse. Der Wegfall dieser Kosten wäre für sie eine direkte und spürbare finanzielle Entlastung im Alltag.",
-      "begruendung_selbst": "Das Schulessen wird gefühlt ständig teurer. Wenn das umsonst wäre, hätte ich am Monatsende endlich etwas mehr Luft für unvorhergesehene Dinge."
+      "begruendung_selbst": "Das Schulessen wird gefühlt ständig teurer. Wenn das umsonst wäre, hätte ich am Monatsende endlich etwas mehr Luft für unvorhergesehene Dinge.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Weniger Antrags-Chaos für Familien!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine ist als Aufstockerin ständig damit beschäftigt, verschiedene Sozialleistungen und Zuschüsse einzeln zu beantragen. Eine Bündelung in einer existenzsichernden Leistung würde ihr viel Stress und finanzielle Unsicherheit abnehmen.",
-      "begruendung_selbst": "Ich verbringe so viel Zeit damit, für jeden Zuschuss ein neues Formular auszufüllen. Eine einfache, gebündelte Leistung würde mir enorm helfen."
+      "begruendung_selbst": "Ich verbringe so viel Zeit damit, für jeden Zuschuss ein neues Formular auszufüllen. Eine einfache, gebündelte Leistung würde mir enorm helfen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Netto vom Lohn!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine arbeitet in Teilzeit, hat am Ende aber kaum mehr Geld zur Verfügung, weil ein Teil ihres Verdienstes auf die Grundsicherung angerechnet wird oder für Abgaben draufgeht. Eine Entlastung bei den Sozialabgaben käme ihr direkt zugute.",
-      "begruendung_selbst": "Ich strenge mich an, aber am Ende bleibt kaum was übrig. Wenn ich weniger Abgaben zahlen muss, lohnt sich meine Arbeit endlich wieder mehr."
+      "begruendung_selbst": "Ich strenge mich an, aber am Ende bleibt kaum was übrig. Wenn ich weniger Abgaben zahlen muss, lohnt sich meine Arbeit endlich wieder mehr.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wir sind auch eine Familie!",
@@ -83,7 +88,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine ist genervt von konservativen Narrativen, die ihr Lebensmodell als defizitär darstellen. Die selbstverständliche und wertschätzende Nennung von Alleinerziehenden gibt ihr politische Sichtbarkeit und Respekt.",
-      "begruendung_selbst": "Ich ziehe zwei Kinder groß, das ist genauso viel wert wie bei verheirateten Paaren. Schön, dass wir hier als völlig normal anerkannt werden."
+      "begruendung_selbst": "Ich ziehe zwei Kinder groß, das ist genauso viel wert wie bei verheirateten Paaren. Schön, dass wir hier als völlig normal anerkannt werden.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Da Nadine bereits arbeitet und sich zusätzlich um zwei Kinder kümmert, reagiert sie allergisch auf den Begriff „Aktivierung“. Solche Formulierungen geben ihr das Gefühl, vom Jobcenter als unwillig verdächtigt und bevormundet zu werden.",
-      "begruendung_selbst": "Wieso muss ich „aktiviert“ werden? Ich arbeite Teilzeit, mache den Haushalt und erziehe zwei Kinder. Mich stresst diese Behörden-Sprache einfach nur."
+      "begruendung_selbst": "Wieso muss ich „aktiviert“ werden? Ich arbeite Teilzeit, mache den Haushalt und erziehe zwei Kinder. Mich stresst diese Behörden-Sprache einfach nur.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Was ist mit den Erwachsenen?",
@@ -107,7 +114,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Zwar befürwortet Nadine die Bekämpfung von Kinderarmut, doch sie vermisst einen klaren Fokus auf die Erhöhung der Grundsicherung für Erwachsene im erwerbsfähigen Alter. Sie fühlt sich mit ihren eigenen finanziellen Sorgen in diesem Punkt nicht vollständig gesehen.",
-      "begruendung_selbst": "Dass für Kinder und Rentner etwas getan wird, finde ich richtig. Aber was ist mit mir? Mein Bürgergeld als Mutter reicht hinten und vorne nicht."
+      "begruendung_selbst": "Dass für Kinder und Rentner etwas getan wird, finde ich richtig. Aber was ist mit mir? Mein Bürgergeld als Mutter reicht hinten und vorne nicht.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

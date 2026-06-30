@@ -10,7 +10,14 @@
   "programm_stand": null,
   "prompt_version": "vergleich.v1",
   "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
-  "metrik": { "input_tokens": null, "output_tokens": null, "cached_tokens": null, "total_tokens": null, "dauer_ms": null, "usd": null },
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
   "besonders_gut": [
     {
       "titel_selbst": "Endlich echte finanzielle Sicherheit!",
@@ -21,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine jongliert täglich Arbeit und Familie. Eine Ausweitung des Elterngelds und ein bedingungsloser Unterhaltsvorschuss würden ihr finanziell massiv den Rücken stärken und den Alltag entspannen.",
-      "begruendung_selbst": "Wenn der Unterhalt sicher ist und nicht ständig mit anderen Leistungen verrechnet wird, fällt mir ein riesiger Stein vom Herzen. Das bringt echte Planungssicherheit für uns."
+      "begruendung_selbst": "Wenn der Unterhalt sicher ist und nicht ständig mit anderen Leistungen verrechnet wird, fällt mir ein riesiger Stein vom Herzen. Das bringt echte Planungssicherheit für uns.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Betreuung rettet meinen Job!",
@@ -32,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Eine verlässliche, kostenfreie und zehnstündige Betreuung ist für Nadine essenziell, um ihre Arbeitszeiten in Teilzeit überhaupt abdecken und Beruf und Kinder vereinbaren zu können.",
-      "begruendung_selbst": "Ohne verlässliche Kita kann ich nicht arbeiten. Wenn sie länger offen hat und kostenlos ist, kann ich aufatmen und muss nicht ständig Angst haben, meinen Job zu verlieren."
+      "begruendung_selbst": "Ohne verlässliche Kita kann ich nicht arbeiten. Wenn sie länger offen hat und kostenlos ist, kann ich aufatmen und muss nicht ständig Angst haben, meinen Job zu verlieren.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Vollzeitgehalt trotz Teilzeitstunden!",
@@ -43,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Mutter in Teilzeit würden sich Nadines Arbeitszeiten so einer normalen Vollzeitstelle annähern, ohne dass sie weniger verdient. Das lindert ihren finanziellen Druck enorm und belohnt ihre Arbeitsleistung.",
-      "begruendung_selbst": "Weniger Stunden arbeiten, aber volles Gehalt? Das wäre ein Traum. Endlich würde sich meine harte Arbeit wieder lohnen und ich hätte mehr Zeit für die Kinder."
+      "begruendung_selbst": "Weniger Stunden arbeiten, aber volles Gehalt? Das wäre ein Traum. Endlich würde sich meine harte Arbeit wieder lohnen und ich hätte mehr Zeit für die Kinder.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Geld direkt für die Kinder!",
@@ -54,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine stockt derzeit mit Bürgergeld auf und fürchtet Sanktionen. Eine eigenständige, hohe Kindergrundsicherung würde ihre Abhängigkeit von Ämtern verringern und die Haushaltskasse spürbar aufbessern.",
-      "begruendung_selbst": "Das ist Geld, das direkt bei meinen Kindern ankommt und uns vor ständiger Existenzangst schützt. Keine Demütigungen mehr beim Amt!"
+      "begruendung_selbst": "Das ist Geld, das direkt bei meinen Kindern ankommt und uns vor ständiger Existenzangst schützt. Keine Demütigungen mehr beim Amt!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Stoppt die unfairen Mieterhöhungen!",
@@ -65,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Steigende Mieten sind eine von Nadines größten Sorgen, da die Wohnkosten ihr weniges Geld auffressen. Die Abschaffung dieser Umlage schützt sie vor plötzlichen und untragbaren Mietsteigerungen.",
-      "begruendung_selbst": "Die Miete frisst uns auf. Wenn Sanierungen nicht mehr pauschal auf uns Mieter abgewälzt werden, bleibt am Ende des Monats vielleicht mal Geld für neue Kinderschuhe übrig."
+      "begruendung_selbst": "Die Miete frisst uns auf. Wenn Sanierungen nicht mehr pauschal auf uns Mieter abgewälzt werden, bleibt am Ende des Monats vielleicht mal Geld für neue Kinderschuhe übrig.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -78,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Nadine ist durch Arbeit und zwei Kinder extrem eingespannt. Solche Mitmach-Gremien empfindet sie als realitätsferne Politik, für die sie im anstrengenden Alltag schlicht keine Kapazitäten hat.",
-      "begruendung_selbst": "Ein Runder Tisch? Wann soll ich mich da noch hinsetzen? Macht einfach eure Arbeit und sorgt für gute Kitas, statt ewig zu diskutieren!"
+      "begruendung_selbst": "Ein Runder Tisch? Wann soll ich mich da noch hinsetzen? Macht einfach eure Arbeit und sorgt für gute Kitas, statt ewig zu diskutieren!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Handeln statt Reden und Ausschüsse!",
@@ -89,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Nadine bewertet Politik pragmatisch an konkreten Verbesserungen wie Betreuungsplätzen. Strukturdebatten und Kommissionen wirken auf sie wie abgehobene Symbolpolitik ohne messbaren Alltagsnutzen.",
-      "begruendung_selbst": "Das klingt ja nett, hilft mir aber überhaupt nicht, wenn nachmittags der Hort kurzfristig schließt. Wir brauchen echte Lösungen vor Ort, keine Kommissionen im Landtag."
+      "begruendung_selbst": "Das klingt ja nett, hilft mir aber überhaupt nicht, wenn nachmittags der Hort kurzfristig schließt. Wir brauchen echte Lösungen vor Ort, keine Kommissionen im Landtag.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

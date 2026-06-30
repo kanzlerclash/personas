@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf leidet massiv unter den hohen Kosten für seinen täglichen Arbeitsweg. Die Abschaffung dieser Doppelbesteuerung beim Tanken würde ihn finanziell direkt und spürbar entlasten.",
-      "begruendung_selbst": "Es ist doch ein Witz, dass ich auf die Steuern beim Tanken noch mal Steuern zahle. Wenn das wegfällt, bleibt am Monatsende endlich etwas mehr in der Haushaltskasse."
+      "begruendung_selbst": "Es ist doch ein Witz, dass ich auf die Steuern beim Tanken noch mal Steuern zahle. Wenn das wegfällt, bleibt am Monatsende endlich etwas mehr in der Haushaltskasse.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Die Realität auf dem Dorf erkannt.",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf fühlt sich oft von städtischer Verkehrspolitik bevormundet. Die ehrliche politische Anerkennung, dass das Auto auf dem Land unverzichtbar ist, validiert seine Lebensrealität.",
-      "begruendung_selbst": "Hier draußen fährt nun mal kein Bus zur Schicht. Gut, dass das mal jemand laut sagt und uns Autofahrer nicht nur als Umweltsünder hinstellt."
+      "begruendung_selbst": "Hier draußen fährt nun mal kein Bus zur Schicht. Gut, dass das mal jemand laut sagt und uns Autofahrer nicht nur als Umweltsünder hinstellt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schluss mit der Schlagloch-Piste!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Toralf, der täglich weite Strecken pendelt, ist die Qualität der Straßen entscheidend. Ordentliche Fahrbahnen ersparen ihm Stress, Zeitverlust und teure Autoreparaturen.",
-      "begruendung_selbst": "Jeden Tag ruiniere ich mir auf dem Weg zur Schicht fast die Stoßdämpfer. Wenn die Straßen endlich mal richtig gemacht werden, hilft mir das wirklich."
+      "begruendung_selbst": "Jeden Tag ruiniere ich mir auf dem Weg zur Schicht fast die Stoßdämpfer. Wenn die Straßen endlich mal richtig gemacht werden, hilft mir das wirklich.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Bloß kein Verbrenner-Verbot!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ein drohendes Verbrenner-Aus ist eine von Toralfs größten Sorgen, da E-Autos für ihn kaum bezahlbar sind. Die Offenheit bei den Motoren nimmt ihm diese finanzielle Zukunftsangst.",
-      "begruendung_selbst": "Ein neues E-Auto kann ich mir sowieso nicht leisten. Wenn die Politik uns nicht vorschreibt, welchen Motor wir fahren müssen, ist das die einzig vernünftige Lösung für normale Leute."
+      "begruendung_selbst": "Ein neues E-Auto kann ich mir sowieso nicht leisten. Wenn die Politik uns nicht vorschreibt, welchen Motor wir fahren müssen, ist das die einzig vernünftige Lösung für normale Leute.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sicherheit für unsere Jobs!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Industriemechaniker hängt Toralfs Existenzgrundlage an einem starken Industriestandort. Das klare Bekenntnis zum wirtschaftlichen Wachstum gibt ihm Vertrauen in die Sicherheit seines Einkommens.",
-      "begruendung_selbst": "Ohne die Industrie und solide Betriebe können wir hier im Land einpacken. Wenn die Politik der Wirtschaft den Rücken stärkt, sichert das auch meinen Job."
+      "begruendung_selbst": "Ohne die Industrie und solide Betriebe können wir hier im Land einpacken. Wenn die Politik der Wirtschaft den Rücken stärkt, sichert das auch meinen Job.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Toralf befürchtet zu Recht, dass ein strikter Emissionshandel die Kraftstoffpreise unberechenbar in die Höhe treiben wird, was sein hart erarbeitetes Familienbudget massiv belastet.",
-      "begruendung_selbst": "Wenn der Markt den CO2-Preis regelt, klettern die Preise an der Zapfsäule doch ins Bodenlose. Ich muss zur Arbeit pendeln und kann das einfach nicht mehr zahlen."
+      "begruendung_selbst": "Wenn der Markt den CO2-Preis regelt, klettern die Preise an der Zapfsäule doch ins Bodenlose. Ich muss zur Arbeit pendeln und kann das einfach nicht mehr zahlen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schon wieder Geld für Radwege?",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Toralf betrachtet solche Verkehrskonzepte kritisch. Er hat das Gefühl, dass knappe Mittel für urbane Radfahrer ausgegeben werden, während ländliche Autopendler finanziell ausbluten.",
-      "begruendung_selbst": "Die in der Stadt kriegen ihre schicken Radwege finanziert, und ich zahle mich beim Tanken dumm und dämlich. Für meinen Arbeitsweg nützt mir das alles rein gar nichts."
+      "begruendung_selbst": "Die in der Stadt kriegen ihre schicken Radwege finanziert, und ich zahle mich beim Tanken dumm und dämlich. Für meinen Arbeitsweg nützt mir das alles rein gar nichts.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Steuergeld für Stadt-Schnösel!",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Toralf profitiert kaum vom Deutschlandticket, da in seinem Dorf der ÖPNV mangelhaft ist. Er sieht darin eine ungerechte staatliche Subventionierung von Großstädtern.",
-      "begruendung_selbst": "Das ist doch wieder typisch: Die in der Stadt fahren für nen Appel und ein Ei mit der Bahn, und bei uns hält nicht mal ein Bus. Bezahlen dürfen wir es trotzdem."
+      "begruendung_selbst": "Das ist doch wieder typisch: Die in der Stadt fahren für nen Appel und ein Ei mit der Bahn, und bei uns hält nicht mal ein Bus. Bezahlen dürfen wir es trotzdem.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

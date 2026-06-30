@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marco wünscht sich als Streifenbeamter genau diese Wertschätzung und den Rückhalt aus der Politik, da er im Schichtdienst oft unter Personalmangel und Überlastung leidet.",
-      "begruendung_selbst": "Endlich sagt mal einer ganz klar, dass wir politische Rückendeckung brauchen. Wenn wir unsere Arbeit vernünftig machen sollen, dann braucht es Leute, Respekt und anständige Bedingungen."
+      "begruendung_selbst": "Endlich sagt mal einer ganz klar, dass wir politische Rückendeckung brauchen. Wenn wir unsere Arbeit vernünftig machen sollen, dann braucht es Leute, Respekt und anständige Bedingungen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gute Ausrüstung, planbare Schichten!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marco leidet im Alltag unter Überlastung und teils veralteter Ausstattung; funktionierende Technik und Schichten, die sich mit seinem Familienleben vereinbaren lassen, sind für ihn existenziell.",
-      "begruendung_selbst": "Wir brauchen Ausrüstung, die auch funktioniert, und Schichten, mit denen man ein halbwegs normales Familienleben planen kann. Dass das ernst genommen wird, ist extrem wichtig."
+      "begruendung_selbst": "Wir brauchen Ausrüstung, die auch funktioniert, und Schichten, mit denen man ein halbwegs normales Familienleben planen kann. Dass das ernst genommen wird, ist extrem wichtig.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Unsere Arbeit darf nicht versanden!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Für Marco ist es extrem frustrierend, wenn er als Polizist die Vorarbeit leistet und Ermittlungsergebnisse bei einer überlasteten Justiz ins Leere laufen; eine schnellere Justiz stärkt sein Vertrauen.",
-      "begruendung_selbst": "Es bringt mir im Streifendienst rein gar nichts, wenn ich jemanden festnehme und die Akte dann monatelang bei der Staatsanwaltschaft Staub ansetzt. Die Justiz muss genauso schlagkräftig sein wie wir."
+      "begruendung_selbst": "Es bringt mir im Streifendienst rein gar nichts, wenn ich jemanden festnehme und die Akte dann monatelang bei der Staatsanwaltschaft Staub ansetzt. Die Justiz muss genauso schlagkräftig sein wie wir.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Der Staat muss Zähne zeigen!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Marco ist als Polizist ein Verfassungsschützer in Uniform. Er lehnt radikale Kräfte ab, da sie aus seiner Sicht den Staat schwächen, Respekt zerstören und seinen Job gefährlicher machen.",
-      "begruendung_selbst": "Leute, die unseren Rechtsstaat von innen aushöhlen wollen, machen unseren Dienst nur noch gefährlicher. Da erwarte ich, dass der Staat hart durchgreift und klare Kante zeigt."
+      "begruendung_selbst": "Leute, die unseren Rechtsstaat von innen aushöhlen wollen, machen unseren Dienst nur noch gefährlicher. Da erwarte ich, dass der Staat hart durchgreift und klare Kante zeigt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gleicher Lohn für harte Arbeit!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als verbeamteter Familienvater mit einem zwar sicheren, aber nicht üppigen Einkommen ist Marco auf eine faire Besoldungsentwicklung angewiesen, die mit Tarifabschlüssen mithält.",
-      "begruendung_selbst": "Das ist eine Frage des Respekts. Wir können nicht streiken und geben jeden Tag alles auf der Straße. Da ist es nur fair, dass unsere Gehälter auch automatisch angepasst werden, wenn es Tarifsteigerungen gibt."
+      "begruendung_selbst": "Das ist eine Frage des Respekts. Wir können nicht streiken und geben jeden Tag alles auf der Straße. Da ist es nur fair, dass unsere Gehälter auch automatisch angepasst werden, wenn es Tarifsteigerungen gibt.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Marco fühlt sich durch einen starken Fokus auf externe Kontrolle und Fehlerkultur oftmals unter Generalverdacht gestellt, statt die gewünschte Wertschätzung für seine Arbeit auf der Straße zu erfahren.",
-      "begruendung_selbst": "Anstatt uns für die harte Arbeit auf der Straße mal den Rücken zu stärken, geht es schon wieder nur um noch mehr Kontrolle. Wir reißen uns den Hintern auf und sollen uns dann vor immer neuen Beauftragten rechtfertigen."
+      "begruendung_selbst": "Anstatt uns für die harte Arbeit auf der Straße mal den Rücken zu stärken, geht es schon wieder nur um noch mehr Kontrolle. Wir reißen uns den Hintern auf und sollen uns dann vor immer neuen Beauftragten rechtfertigen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Dem Staat fehlt die Konsequenz.",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Marco wünscht sich einen wehrhaften Staat, der bei fehlendem Bleiberecht und Kriminalität konsequent Regeln durchsetzt; die starke politische Zurückhaltung bei Abschiebungen empfindet er als falsches Signal.",
-      "begruendung_selbst": "Wenn Leute sich nicht an unsere Regeln halten und kein Aufenthaltsrecht haben, muss der Staat durchgreifen. Wenn Abschiebungen aber immer nur das allerletzte Mittel sind, nimmt uns auf der Straße doch keiner mehr ernst."
+      "begruendung_selbst": "Wenn Leute sich nicht an unsere Regeln halten und kein Aufenthaltsrecht haben, muss der Staat durchgreifen. Wenn Abschiebungen aber immer nur das allerletzte Mittel sind, nimmt uns auf der Straße doch keiner mehr ernst.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

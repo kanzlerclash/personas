@@ -14,7 +14,8 @@
       "resonanz": "bestaetigt",
       "titel_selbst": "Endlich mehr Zeit für die Kinder!",
       "begruendung": "Nadine ist auf verlässliche Betreuungszeiten angewiesen. Eine bessere personelle Ausstattung in Kitas bedeutet weniger Ausfälle und mehr Verlässlichkeit in ihrem durchgetakteten Alltag.",
-      "begruendung_selbst": "Wenn in der Kita Personal fehlt, muss ich früher von der Arbeit weg. Mehr Erzieherinnen heißt für mich: Ich kann mich darauf verlassen, dass meine Kinder gut aufgehoben sind."
+      "begruendung_selbst": "Wenn in der Kita Personal fehlt, muss ich früher von der Arbeit weg. Mehr Erzieherinnen heißt für mich: Ich kann mich darauf verlassen, dass meine Kinder gut aufgehoben sind.",
+      "beleg_ok": true
     },
     {
       "thema": "bildung",
@@ -25,7 +26,9 @@
       "resonanz": "bestaetigt",
       "titel_selbst": "Eine echte finanzielle Entlastung!",
       "begruendung": "Als Aufstockerin zählt für Nadine jeder Euro. Die Übernahme der Kosten für Schulessen und Lernmaterialien entlastet ihr knappes Budget jeden Monat direkt und spürbar.",
-      "begruendung_selbst": "Ich muss jeden Cent umdrehen, gerade am Monatsende. Wenn das Schulessen und die Bücher nichts mehr kosten, nimmt mir das eine riesige Sorge ab."
+      "begruendung_selbst": "Ich muss jeden Cent umdrehen, gerade am Monatsende. Wenn das Schulessen und die Bücher nichts mehr kosten, nimmt mir das eine riesige Sorge ab.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "thema": "bildung",
@@ -36,7 +39,9 @@
       "resonanz": "bestaetigt",
       "titel_selbst": "Die Rettung für meine Arbeitszeiten.",
       "begruendung": "Eine verlässliche Ganztagsbetreuung in der Schule ist die Grundvoraussetzung dafür, dass Nadine ihre Teilzeitstelle überhaupt ausüben kann, ohne in ständige Terminkonflikte zu geraten.",
-      "begruendung_selbst": "Ohne Hort und Ganztagsschule könnte ich meinen Job an den Nagel hängen. Ein garantierter Platz hilft mir enorm, Arbeit und Kinder unter einen Hut zu kriegen."
+      "begruendung_selbst": "Ohne Hort und Ganztagsschule könnte ich meinen Job an den Nagel hängen. Ein garantierter Platz hilft mir enorm, Arbeit und Kinder unter einen Hut zu kriegen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "thema": "arbeit",
@@ -47,7 +52,9 @@
       "resonanz": "bestaetigt",
       "titel_selbst": "Arbeit muss sich wieder lohnen.",
       "begruendung": "Obwohl Nadine arbeitet, muss sie mit Bürgergeld aufstocken. Der Fokus auf existenzsichernde Löhne für Alleinerziehende adressiert exakt ihr Kernproblem der Erwerbsarmut.",
-      "begruendung_selbst": "Es ist deprimierend, dass mein Gehalt trotz Arbeit nicht für uns drei reicht. Dass gezielt auf Alleinerziehende und Teilzeitkräfte geachtet werden soll, gibt mir Hoffnung."
+      "begruendung_selbst": "Es ist deprimierend, dass mein Gehalt trotz Arbeit nicht für uns drei reicht. Dass gezielt auf Alleinerziehende und Teilzeitkräfte geachtet werden soll, gibt mir Hoffnung.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     }
   ],
   "besonders_schlecht": [
@@ -60,7 +67,9 @@
       "resonanz": "kontraer",
       "titel_selbst": "Wer soll das bezahlen?",
       "begruendung": "Nadine fühlt sich von Anti-Auto-Maßnahmen hart getroffen. Sie kann sich kein modernes Elektroauto leisten und höhere Parkgebühren für ihren alten Wagen sprengen ihr Budget.",
-      "begruendung_selbst": "Ich brauche ein Auto, um Job und Alltag überhaupt zu schaffen. Ein teures E-Auto ist für mich reiner Luxus und höhere Parkgebühren machen mich nur noch ärmer."
+      "begruendung_selbst": "Ich brauche ein Auto, um Job und Alltag überhaupt zu schaffen. Ein teures E-Auto ist für mich reiner Luxus und höhere Parkgebühren machen mich nur noch ärmer.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "thema": "verkehr",
@@ -71,7 +80,8 @@
       "resonanz": "kontraer",
       "titel_selbst": "Völlig an der Realität vorbei!",
       "begruendung": "Für Nadine wirken solche Maßnahmen weltfremd und als Politik für Besserverdienende. Während sie um Geld für Klassenfahrten kämpft, werden teure Autoumbauten subventioniert.",
-      "begruendung_selbst": "Da fragt man sich wirklich, ob die wissen, wie man als Aufstockerin lebt. Ich mache mir Sorgen um Kita-Gebühren und dort redet man von teuren Auto-Umbauten."
+      "begruendung_selbst": "Da fragt man sich wirklich, ob die wissen, wie man als Aufstockerin lebt. Ich mache mir Sorgen um Kita-Gebühren und dort redet man von teuren Auto-Umbauten.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

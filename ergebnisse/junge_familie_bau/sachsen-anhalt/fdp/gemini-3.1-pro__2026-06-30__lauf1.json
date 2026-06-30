@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Tom und Jessica scheitern beim Eigenheim-Traum vor allem an den hohen Kaufnebenkosten. Ein Freibetrag bei der Grunderwerbsteuer würde ihr angespartes Eigenkapital massiv entlasten und den Hauskauf für sie wieder realistisch machen.",
-      "begruendung_selbst": "Die Grunderwerbsteuer frisst aktuell unser gesamtes Erspartes auf, bevor wir überhaupt anfangen zu bauen. So ein Freibetrag wäre für uns der entscheidende Hebel, um endlich loslegen zu können!"
+      "begruendung_selbst": "Die Grunderwerbsteuer frisst aktuell unser gesamtes Erspartes auf, bevor wir überhaupt anfangen zu bauen. So ein Freibetrag wäre für uns der entscheidende Hebel, um endlich loslegen zu können!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Rückendeckung für Bauherren!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die junge Familie leidet stark unter den aktuell hohen Bauzinsen, die eine solide Finanzierung erschweren. Zinsvergünstigte Kredite und familienspezifische Aufstockungen entschärfen exakt diese finanzielle Zwickmühle.",
-      "begruendung_selbst": "Ohne Hilfe von außen sind die Zinsen für uns zwei Normalverdiener ein echter Traumkiller. Wenn das Land uns hier unter die Arme greift, rücken unsere eigenen vier Wände endlich wieder in greifbare Nähe."
+      "begruendung_selbst": "Ohne Hilfe von außen sind die Zinsen für uns zwei Normalverdiener ein echter Traumkiller. Wenn das Land uns hier unter die Arme greift, rücken unsere eigenen vier Wände endlich wieder in greifbare Nähe.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Betreuung passend zu unseren Jobs!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Das Doppelverdiener-Paar ist beruflich stark eingespannt. Flexible Betreuungsangebote, die sich nach dem tatsächlichen Arbeitsalltag und nicht nach starren Kernzeiten richten, nehmen massiv Druck aus der täglichen familiären Organisation.",
-      "begruendung_selbst": "Wir arbeiten beide voll, da ist pünktliches Abholen um 16 Uhr oft purer Stress. Eine flexiblere Betreuung, auch zu Randzeiten, würde uns im Alltag so unfassbar viel Last von den Schultern nehmen."
+      "begruendung_selbst": "Wir arbeiten beide voll, da ist pünktliches Abholen um 16 Uhr oft purer Stress. Eine flexiblere Betreuung, auch zu Randzeiten, würde uns im Alltag so unfassbar viel Last von den Schultern nehmen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schluss mit dem Öko-Kosten-Zwang!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Tom und Jessica sehen strenge Umwelt- und Sanierungsvorgaben kritisch, da sie das Bauen unkalkulierbar verteuern. Sie befürworten, dass die FDP hier auf Freiwilligkeit und steuerliche Entlastung statt auf kostentreibende Zwänge setzt.",
-      "begruendung_selbst": "Es ist ja gut gemeint mit dem Klimaschutz, aber die extremen Vorgaben machen das Bauen einfach unbezahlbar. Freiwillige Anreize statt immer neuer Strafen und Auflagen sind genau der richtige Weg für uns."
+      "begruendung_selbst": "Es ist ja gut gemeint mit dem Klimaschutz, aber die extremen Vorgaben machen das Bauen einfach unbezahlbar. Freiwillige Anreize statt immer neuer Strafen und Auflagen sind genau der richtige Weg für uns.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Flüssiger zur Arbeit ins Zentrum!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Bewohner des Speckgürtels sind beide auf ein funktionierendes Straßennetz für den täglichen Arbeitsweg angewiesen. Eine verlässliche Sanierung und die Sicherstellung von vertretbaren Pendelzeiten erleichtern ihren Alltag enorm.",
-      "begruendung_selbst": "Wir pendeln beide jeden Tag zur Arbeit. Wenn die Straßen ausgebaut und ordentlich saniert werden, stehen wir weniger im Stau und haben abends mehr Zeit für unser Kind."
+      "begruendung_selbst": "Wir pendeln beide jeden Tag zur Arbeit. Wenn die Straßen ausgebaut und ordentlich saniert werden, stehen wir weniger im Stau und haben abends mehr Zeit für unser Kind.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Das Paar denkt über ein zweites Kind nach, leidet aber jetzt schon unter den Kita-Kosten. Jede Einschränkung der Geschwisterkindregelung schürt die Angst, dass ein weiteres Kind für sie finanziell nicht mehr tragbar wäre.",
-      "begruendung_selbst": "Wir überlegen ernsthaft, noch ein Kind zu bekommen, aber die Kita-Gebühren sind ohnehin schon happig. Wenn man jetzt bei der Geschwisterregelung den Rotstift ansetzt, wird uns die Entscheidung wirklich extrem schwer gemacht."
+      "begruendung_selbst": "Wir überlegen ernsthaft, noch ein Kind zu bekommen, aber die Kita-Gebühren sind ohnehin schon happig. Wenn man jetzt bei der Geschwisterregelung den Rotstift ansetzt, wird uns die Entscheidung wirklich extrem schwer gemacht.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Zahlen, obwohl wir Steuern beisteuern!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Tom und Jessica stehen durch die Sparrate für ihr Eigenkapital und die laufenden Kita-Kosten finanziell unter Druck. Dass eine kostenlose Kinderbetreuung für die FDP keine Priorität hat, frustriert sie als steuerzahlende Mitte.",
-      "begruendung_selbst": "Wir arbeiten beide hart und zahlen kräftig Steuern. Da ist es schon ein Schlag ins Gesicht, wenn bei der Kita immer nur von Qualität geredet wird, aber wir Eltern bei den Beiträgen komplett im Regen stehen gelassen werden."
+      "begruendung_selbst": "Wir arbeiten beide hart und zahlen kräftig Steuern. Da ist es schon ein Schlag ins Gesicht, wenn bei der Kita immer nur von Qualität geredet wird, aber wir Eltern bei den Beiträgen komplett im Regen stehen gelassen werden.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Große Worte, wenig Taten!",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Mitregierungspartei preist die FDP ihre bisherigen Reformerfolge an. Tom und Jessica sind jedoch stark enttäuscht, da sie von diesen Maßnahmen in der Realität bisher keine Entlastung bei Baukosten und Bauland gespürt haben.",
-      "begruendung_selbst": "Die klopfen sich für irgendwelche Reformen aus der Vergangenheit auf die Schulter, aber ganz ehrlich: Für uns ist das Bauen in den letzten Jahren trotzdem komplett unbezahlbar geblieben. Davon merkt man an der Basis absolut nichts!"
+      "begruendung_selbst": "Die klopfen sich für irgendwelche Reformen aus der Vergangenheit auf die Schulter, aber ganz ehrlich: Für uns ist das Bauen in den letzten Jahren trotzdem komplett unbezahlbar geblieben. Davon merkt man an der Basis absolut nichts!",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

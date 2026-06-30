@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Nadine in Teilzeit arbeitet und ihr Gehalt mit Bürgergeld aufstocken muss, bedeutet ein deutlich höherer Mindestlohn für sie eine direkte Existenzsicherung und die Chance, finanziell auf eigenen Beinen zu stehen.",
-      "begruendung_selbst": "Wenn der Mindestlohn steigt, bleibt am Monatsende vielleicht endlich mal genug übrig, ohne dass ich wegen jedem Euro zum Amt rennen muss."
+      "begruendung_selbst": "Wenn der Mindestlohn steigt, bleibt am Monatsende vielleicht endlich mal genug übrig, ohne dass ich wegen jedem Euro zum Amt rennen muss.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Betreuung, null Kosten!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als alleinerziehende Mutter ist Nadine zwingend auf zuverlässige Kinderbetreuung angewiesen, um arbeiten zu können. Kostenfreie Kitas würden sie finanziell enorm entlasten und ihre Sorgen lindern.",
-      "begruendung_selbst": "Ohne verlässlichen Ganztagsplatz kann ich gar nicht mehr arbeiten. Wenn der noch kostenfrei wird, nimmt mir das eine meiner größten Sorgen."
+      "begruendung_selbst": "Ohne verlässlichen Ganztagsplatz kann ich gar nicht mehr arbeiten. Wenn der noch kostenfrei wird, nimmt mir das eine meiner größten Sorgen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich die Mieten deckeln!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da die Miete für ihre Stadtwohnung den Löwenanteil ihres knappen Budgets verschlingt, würde Nadine von einem gesetzlichen Mietendeckel direkt profitieren.",
-      "begruendung_selbst": "Die Miete frisst uns fast komplett auf. Ein Mietendeckel ist genau das, was ich brauche, um mir das Leben in der Stadt überhaupt noch leisten zu können."
+      "begruendung_selbst": "Die Miete frisst uns fast komplett auf. Ein Mietendeckel ist genau das, was ich brauche, um mir das Leben in der Stadt überhaupt noch leisten zu können.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Familie ohne finanziellen Druck!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine fühlt sich oft zwischen ihrer Berufstätigkeit und den Bedürfnissen ihrer Kinder zerrissen. Die Forderung nach einer unbelasteten Wahlfreiheit erkennt ihre tägliche Überlastung an.",
-      "begruendung_selbst": "Es zerreißt mich jeden Tag zwischen der Arbeit und den Kindern. Es tut gut zu hören, dass eine Partei diesen wahnsinnigen Druck auf uns Mütter sieht."
+      "begruendung_selbst": "Es zerreißt mich jeden Tag zwischen der Arbeit und den Kindern. Es tut gut zu hören, dass eine Partei diesen wahnsinnigen Druck auf uns Mütter sieht.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich keine Schulgebühren mehr!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Nadine ist jede zusätzliche Ausgabe für Schulmaterial eine große finanzielle Belastung. Sie wünscht sich gleiche Chancen für ihre Kinder, ohne dass sie bei Lernmitteln knapsen muss.",
-      "begruendung_selbst": "Wenn die Schule wieder Arbeitshefte verlangt, weiß ich oft nicht, wovon ich das bezahlen soll. Dass sich da endlich was ändern soll, ist überfällig."
+      "begruendung_selbst": "Wenn die Schule wieder Arbeitshefte verlangt, weiß ich oft nicht, wovon ich das bezahlen soll. Dass sich da endlich was ändern soll, ist überfällig.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Keine Ticketkosten für Schulkinder!",
@@ -83,7 +88,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da jeder unerwartete Posten in ihrem Alltag ein Problem ist, wäre der kostenfreie Nahverkehr für ihre Schulkinder eine spürbare Entlastung im knappen Monatsbudget.",
-      "begruendung_selbst": "Das ist eine echte Hilfe. Meine Kinder müssen Bus fahren können, ohne dass ich direkt überlegen muss, ob wir uns das diesen Monat überhaupt leisten können."
+      "begruendung_selbst": "Das ist eine echte Hilfe. Meine Kinder müssen Bus fahren können, ohne dass ich direkt überlegen muss, ob wir uns das diesen Monat überhaupt leisten können.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Nadine arbeitet in Teilzeit und erzieht allein zwei Kinder, muss aber aufstocken. Solche 'Jeder muss seinen Beitrag leisten'-Forderungen empfindet sie schnell als ungerechtfertigte Verdächtigung gegen Menschen, die auf Sozialleistungen angewiesen sind.",
-      "begruendung_selbst": "Ich reiße mir jeden Tag ein Bein aus, arbeite und erziehe zwei Kinder. Und dann soll ich mir von der Politik anhören, dass jeder seinen Beitrag leisten soll?"
+      "begruendung_selbst": "Ich reiße mir jeden Tag ein Bein aus, arbeite und erziehe zwei Kinder. Und dann soll ich mir von der Politik anhören, dass jeder seinen Beitrag leisten soll?",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Und was nützt das uns Mietern?",
@@ -107,7 +114,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Nadine lebt als Alleinerziehende in einer Mietwohnung ohne Vermögen oder Rücklagen. Steuergeschenke, die sich nur an Eigenheimbesitzer richten, gehen komplett an ihrer prekären Lebensrealität vorbei.",
-      "begruendung_selbst": "Schön für Familien mit eigenem Haus. Aber als alleinerziehende Mieterin, die jeden Cent umdrehen muss, bringt mir das gar nichts – das ist Politik für andere Leute."
+      "begruendung_selbst": "Schön für Familien mit eigenem Haus. Aber als alleinerziehende Mieterin, die jeden Cent umdrehen muss, bringt mir das gar nichts – das ist Politik für andere Leute.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

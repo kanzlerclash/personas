@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Dr. Petra sucht dringend einen Nachfolger für ihre Landpraxis und sieht in der Bürokratie das Haupthindernis für junge Ärztinnen und Ärzte. Eine gezielte Entbürokratisierung der Übernahme hilft ihr direkt bei der Praxisübergabe.",
-      "begruendung_selbst": "Endlich wird erkannt, dass junge Kollegen Starthilfe brauchen, statt von Anträgen erschlagen zu werden, wenn sie meine Praxis übernehmen wollen."
+      "begruendung_selbst": "Endlich wird erkannt, dass junge Kollegen Starthilfe brauchen, statt von Anträgen erschlagen zu werden, wenn sie meine Praxis übernehmen wollen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schluss mit dem Zettelwahnsinn!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die ausufernde Dokumentation und Berichtspflicht frisst Dr. Petras kostbare Zeit, die sie dringend für die Patientenversorgung bräuchte. Ein verbindlicher Stopp neuer administrativer Auflagen entlastet ihren Arbeitsalltag spürbar.",
-      "begruendung_selbst": "Wenn nicht noch mehr Formulare auf meinem Schreibtisch landen, kann ich endlich wieder mehr Zeit für meine Patienten aufbringen statt für die Akten."
+      "begruendung_selbst": "Wenn nicht noch mehr Formulare auf meinem Schreibtisch landen, kann ich endlich wieder mehr Zeit für meine Patienten aufbringen statt für die Akten.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Nachwuchs aufs Land!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Als Landärztin ohne Nachfolge befürwortet sie alle strukturellen Instrumente, die junge Mediziner gezielt in die ländliche Fläche bringen und dort binden.",
-      "begruendung_selbst": "Es ist absolut richtig, Medizinstudenten schon früh für die Arbeit auf dem Land zu verpflichten – wir brauchen hier draußen jeden Kopf."
+      "begruendung_selbst": "Es ist absolut richtig, Medizinstudenten schon früh für die Arbeit auf dem Land zu verpflichten – wir brauchen hier draußen jeden Kopf.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Apotheken vor Ort erhalten!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Für Dr. Petra sind die lokalen Apotheken unverzichtbare Partner in der ländlichen Grundversorgung. Deren Erhalt sichert die zuverlässige Medikamentenversorgung ihrer älteren Patienten.",
-      "begruendung_selbst": "Ohne die Apotheke im nächsten Dorf bringt mein bestes Rezept nichts. Es ist wichtig, dass diese Ankerpunkte im ländlichen Raum geschützt werden."
+      "begruendung_selbst": "Ohne die Apotheke im nächsten Dorf bringt mein bestes Rezept nichts. Es ist wichtig, dass diese Ankerpunkte im ländlichen Raum geschützt werden.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mobilität für Oma Erna!",
@@ -72,7 +76,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Sie erlebt täglich, wie schwer ihre nicht mehr mobilen Patienten die Praxis erreichen. Ein nutzbarer, bezahlbarer ÖPNV auf dem Land würde die Erreichbarkeit ihrer Sprechstunde massiv verbessern.",
-      "begruendung_selbst": "Meine älteren Patienten sind ohne Auto aufgeschmissen. Wenn der Nahverkehr hier draußen endlich besser wird, kommen sie auch wieder leichter in meine Praxis."
+      "begruendung_selbst": "Meine älteren Patienten sind ohne Auto aufgeschmissen. Wenn der Nahverkehr hier draußen endlich besser wird, kommen sie auch wieder leichter in meine Praxis.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Dr. Petra lehnt die fortschreitende Ökonomisierung der Medizin strikt ab. Renditeorientierte, private Träger passen in ihren Augen nicht zum bedarfsorientierten Auftrag der ländlichen Daseinsvorsorge.",
-      "begruendung_selbst": "Krankenhäuser sollen Patienten heilen und nicht die Taschen von Aktionären füllen. Wer Profit sucht, ist in der ländlichen Grundversorgung völlig fehl am Platz."
+      "begruendung_selbst": "Krankenhäuser sollen Patienten heilen und nicht die Taschen von Aktionären füllen. Wer Profit sucht, ist in der ländlichen Grundversorgung völlig fehl am Platz.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Meine Praxis ist kein Auslaufmodell!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als Inhaberin einer inhabergeführten Einzelpraxis empfindet sie diese Fokussierung auf große Zentrenstrukturen als Abwertung ihres Modells und fürchtet eine anonymere Medizin.",
-      "begruendung_selbst": "Die klassische Einzelpraxis, in der ich meine Patienten noch beim Namen kenne, soll ausgedient haben? Diese riesigen Zentren bedeuten am Ende nur Fließbandmedizin und noch mehr Verwaltung."
+      "begruendung_selbst": "Die klassische Einzelpraxis, in der ich meine Patienten noch beim Namen kenne, soll ausgedient haben? Diese riesigen Zentren bedeuten am Ende nur Fließbandmedizin und noch mehr Verwaltung.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Drohnen statt funktionierender eAU?",
@@ -107,7 +114,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Während Dr. Petra im Praxisalltag mit einer oft blockierten Telematikinfrastruktur und abstürzenden E-Rezept-Systemen kämpft, wirken Zukunftsfantasien wie Drohnen für sie deplatziert und als völlig falsche Prioritätensetzung.",
-      "begruendung_selbst": "Bevor wir ernsthaft anfangen, irgendwelche Drohnen über unsere Dörfer fliegen zu lassen, sollte vielleicht erst einmal die schnöde elektronische Krankschreibung fehlerfrei funktionieren!"
+      "begruendung_selbst": "Bevor wir ernsthaft anfangen, irgendwelche Drohnen über unsere Dörfer fliegen zu lassen, sollte vielleicht erst einmal die schnöde elektronische Krankschreibung fehlerfrei funktionieren!",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

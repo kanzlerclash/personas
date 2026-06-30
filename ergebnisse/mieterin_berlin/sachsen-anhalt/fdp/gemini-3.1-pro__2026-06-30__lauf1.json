@@ -28,7 +28,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Carla befürwortet gemeinwohlorientierten Wohnraum stark. Dass die FDP kommunale Wohnungsunternehmen und Genossenschaften durch den Schuldenabbau stärken will, begrüßt sie als sinnvollen Schritt, um bezahlbaren Wohnraum zu sichern.",
-      "begruendung_selbst": "Genossenschaften und landeseigene Wohnungen sind unsere letzte Bastion gegen Immobilien-Haie. Wenn diese durch einen Fonds entschuldet werden, ist das genau der richtige Ansatz."
+      "begruendung_selbst": "Genossenschaften und landeseigene Wohnungen sind unsere letzte Bastion gegen Immobilien-Haie. Wenn diese durch einen Fonds entschuldet werden, ist das genau der richtige Ansatz.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich sichere Radwege für alle!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Carla ist im städtischen Alltag fast ausschließlich auf das Fahrrad angewiesen. Der geplante Ausbau der Radinfrastruktur und das Schließen von Lücken im Netz verbessern ihre umweltfreundliche Mobilität direkt.",
-      "begruendung_selbst": "Ich habe kein Auto und fahre fast alles mit dem Rad. Wenn Lücken im Netz geschlossen werden, komme ich endlich sicherer und entspannter durch den Verkehr."
+      "begruendung_selbst": "Ich habe kein Auto und fahre fast alles mit dem Rad. Wenn Lücken im Netz geschlossen werden, komme ich endlich sicherer und entspannter durch den Verkehr.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mein Deutschlandticket muss bleiben!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Carla als überzeugte ÖPNV-Nutzerin ist das Deutschlandticket eine entscheidende finanzielle Erleichterung. Das Bekenntnis der FDP zum Erhalt des Tickets sichert ihre bezahlbare Fortbewegung.",
-      "begruendung_selbst": "Ohne Auto ist das Deutschlandticket meine absolute Lebensader. Gut, dass es laut dem Programm erhalten bleiben soll, denn das spart mir jeden Monat bares Geld."
+      "begruendung_selbst": "Ohne Auto ist das Deutschlandticket meine absolute Lebensader. Gut, dass es laut dem Programm erhalten bleiben soll, denn das spart mir jeden Monat bares Geld.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -63,7 +66,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Carla wünscht sich eine starke Mietregulierung als notwendigen Schutz vor Spekulation. Die marktliberale Absage der FDP an Regulierungen weckt in ihr tiefe Ängste vor unkontrollierten Mietsteigerungen.",
-      "begruendung_selbst": "Wenn ich lese, dass Wohnen nicht 'wegreguliert' werden soll, läuten bei mir alle Alarmglocken. Der freie Markt hat in meinem Kiez noch nie bezahlbaren Wohnraum geschaffen, sondern immer nur für Verdrängung gesorgt."
+      "begruendung_selbst": "Wenn ich lese, dass Wohnen nicht 'wegreguliert' werden soll, läuten bei mir alle Alarmglocken. Der freie Markt hat in meinem Kiez noch nie bezahlbaren Wohnraum geschaffen, sondern immer nur für Verdrängung gesorgt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Modernisierung ist mein Kündigungsgrund!",
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Steuerliche Anreize für Modernisierungen führen in Carlas Lebensrealität fast immer zu unbezahlbaren Mieterhöhungen. Sie fürchtet, dass diese Maßnahmen primär Investoren nützen, die Altbauten luxussanieren.",
-      "begruendung_selbst": "Ich habe panische Angst vor dem Tag, an dem die Modernisierungsankündigung im Briefkasten liegt. Solche Steuergeschenke für Vermieter finanzieren am Ende meine direkte Verdrängung aus der Wohnung."
+      "begruendung_selbst": "Ich habe panische Angst vor dem Tag, an dem die Modernisierungsankündigung im Briefkasten liegt. Solche Steuergeschenke für Vermieter finanzieren am Ende meine direkte Verdrängung aus der Wohnung.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Daseinsvorsorge gehört nicht an die Börse!",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Carla betrachtet essenzielle Bereiche wie das Wohnen als Daseinsvorsorge, die dem Gemeinwohl dienen muss. Die pauschale privatisierungsorientierte Haltung der FDP widerspricht ihrem Misstrauen gegenüber Profitinteressen.",
-      "begruendung_selbst": "Dass der Staat sich als schlechter Unternehmer aus allem heraushalten soll, ist brandgefährlich. Wenn man Grundbedürfnisse dem privaten Profitstreben überlässt, bleiben normale Menschen wie ich komplett auf der Strecke."
+      "begruendung_selbst": "Dass der Staat sich als schlechter Unternehmer aus allem heraushalten soll, ist brandgefährlich. Wenn man Grundbedürfnisse dem privaten Profitstreben überlässt, bleiben normale Menschen wie ich komplett auf der Strecke.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Eigentum ist für mich völlig utopisch!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Politik, die primär auf den Erwerb von Wohneigentum abzielt, geht an Carlas finanzieller Realität vorbei. Für sie als Mieterin ohne Vermögen löst diese Priorisierung kein einziges drängendes Problem.",
-      "begruendung_selbst": "Wohneigentum in Berlin? Wer soll das denn bezahlen? Mir helfen keine Freibeträge für Eigenheimkäufer, sondern strenge Gesetze, die meine aktuelle Miete bezahlbar halten und mich als Mieterin schützen."
+      "begruendung_selbst": "Wohneigentum in Berlin? Wer soll das denn bezahlen? Mir helfen keine Freibeträge für Eigenheimkäufer, sondern strenge Gesetze, die meine aktuelle Miete bezahlbar halten und mich als Mieterin schützen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

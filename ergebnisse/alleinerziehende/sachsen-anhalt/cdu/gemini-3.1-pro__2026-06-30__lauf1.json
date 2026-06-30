@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine fühlt sich mit ihren spezifischen Belastungen als Alleinerziehende wahrgenommen. Steuerliche Entlastungen oder ein leichterer Zugang zu Hilfen würden ihren chronisch knappen Geldbeutel und den stressigen Alltag direkt entspannen.",
-      "begruendung_selbst": "Als Alleinerziehende brenne ich oft an beiden Enden. Wenn da endlich mal mehr Hilfe und etwas finanzielle Entlastung kommt, wäre das wirklich ein Segen."
+      "begruendung_selbst": "Als Alleinerziehende brenne ich oft an beiden Enden. Wenn da endlich mal mehr Hilfe und etwas finanzielle Entlastung kommt, wäre das wirklich ein Segen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Hortplätze sichern meinen Job!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Nadine hängt alles von einer verlässlichen Kinderbetreuung ab, um überhaupt arbeiten zu können. Ein garantierter Hortplatz gibt ihr die absolute Grundlage und Planungssicherheit für den Alltag.",
-      "begruendung_selbst": "Ohne einen festen Hortplatz für meinen Großen kann ich meine Schichten vergessen. Wenn dieser Rechtsanspruch wirklich eingelöst wird, fällt mir ein riesiger Stein vom Herzen."
+      "begruendung_selbst": "Ohne einen festen Hortplatz für meinen Großen kann ich meine Schichten vergessen. Wenn dieser Rechtsanspruch wirklich eingelöst wird, fällt mir ein riesiger Stein vom Herzen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Ein guter Start für die Kids",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine legt großen Wert darauf, dass ihre Kinder durch Bildung gute Chancen erhalten. Eine frühe Förderung in der Kita beruhigt sie, da ihre Kinder so einen besseren Schulstart haben.",
-      "begruendung_selbst": "Mir ist extrem wichtig, dass meine Kinder in der Schule mitkommen. Wenn die Kita sie vorher testet und richtig vorbereitet, beruhigt mich das sehr."
+      "begruendung_selbst": "Mir ist extrem wichtig, dass meine Kinder in der Schule mitkommen. Wenn die Kita sie vorher testet und richtig vorbereitet, beruhigt mich das sehr.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -63,7 +66,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Nadine arbeitet Teilzeit, erzieht zwei Kinder und muss trotzdem aufstocken. Solche Pauschalforderungen nach Pflichtarbeit empfindet sie als Misstrauen, das an ihrer doppelten Belastung völlig vorbeigeht.",
-      "begruendung_selbst": "Ich arbeite und kümmere mich um zwei Kinder, und trotzdem reicht es hinten und vorne nicht. Wenn man mir jetzt noch mit „Pflichtarbeit“ droht, platzt mir der Kragen."
+      "begruendung_selbst": "Ich arbeite und kümmere mich um zwei Kinder, und trotzdem reicht es hinten und vorne nicht. Wenn man mir jetzt noch mit „Pflichtarbeit“ droht, platzt mir der Kragen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Baukindergeld zahlt nicht meine Miete!",
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Nadines größtes finanzielles Problem ist die hohe Miete. Dass ein politischer Deckel abgelehnt und stattdessen Eigenheime gefördert werden, bietet ihr in ihrer akuten finanziellen Notlage überhaupt keine Perspektive.",
-      "begruendung_selbst": "Von wegen Eigentum fördern – ich weiß nicht mal, wie ich nächsten Monat die Nebenkosten bezahlen soll! Dass sie einen Mietendeckel blockieren, hilft mir null weiter."
+      "begruendung_selbst": "Von wegen Eigentum fördern – ich weiß nicht mal, wie ich nächsten Monat die Nebenkosten bezahlen soll! Dass sie einen Mietendeckel blockieren, hilft mir null weiter.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

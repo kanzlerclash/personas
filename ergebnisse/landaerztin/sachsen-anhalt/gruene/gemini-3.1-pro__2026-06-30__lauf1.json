@@ -11,39 +11,43 @@
       "resonanz": "bestaetigt",
       "begruendung": "Die Hausärztin leidet massiv unter Zettelwirtschaft und dysfunktionalen IT-Strukturen, die sie viel Zeit nach Feierabend kosten. Die explizite Forderung nach praxistauglichen und medienbruchfreien Systemen verspricht ihr mehr echte Behandlungszeit.",
       "begruendung_selbst": "Endlich versteht mal jemand, dass wir funktionierende Systeme brauchen und nicht noch mehr fehlerhaften Zettelkram!",
-      "titel_selbst": "Medienbruchfreie Prozesse, endlich!"
+      "titel_selbst": "Medienbruchfreie Prozesse, endlich!",
+      "beleg_ok": true
     },
     {
       "thema": "verkehr",
-      "seite": 24,
+      "seite": 29,
       "zitat": "alle Dörfer mindestens einmal pro Stunde zuverlässig zu erreichen.",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Die mangelnde Mobilität vieler älterer Patientinnen und Patienten im ländlichen Raum ist eine ständige Sorge für die Ärztin. Eine verlässliche ÖPNV-Anbindung entlastet sie auch bei der Frage nach notwendigen, aber zeitaufwendigen Hausbesuchen.",
       "begruendung_selbst": "Wenn der Bus öfter fährt, kommen meine älteren Patienten endlich wieder eigenständig und sicher in die Praxis.",
-      "titel_selbst": "Ein Bus für meine Patienten!"
+      "titel_selbst": "Ein Bus für meine Patienten!",
+      "beleg_ok": true
     },
     {
       "thema": "gesundheit",
-      "seite": 75,
+      "seite": 80,
       "zitat": "durch entsprechend geschultes Personal in der zentralen Leitstelle erfolgen.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Landärztin ist sie in den ärztlichen Bereitschaftsdienst eingebunden und leidet unter den häufigen Fehlsteuerungen von Notfällen. Eine professionelle Triage entlastet die Hausärzte und sorgt für gezieltere Einsätze.",
       "begruendung_selbst": "Eine professionelle Vorab-Einschätzung nimmt uns im Bereitschaftsdienst enorm viel Druck aus dem Kessel.",
-      "titel_selbst": "Gute Steuerung im Bereitschaftsdienst!"
+      "titel_selbst": "Gute Steuerung im Bereitschaftsdienst!",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
     {
       "thema": "gesundheit",
-      "seite": 75,
+      "seite": 80,
       "zitat": "Förderung kommunaler Medizinischer Versorgungszentren (MVZ) ein, um die flächendeckende medizinische Versorgung",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als selbstständige Landärztin sieht sie kommunale MVZs als staatlich gelenkte Konkurrenz, die das Problem fehlender ärztlicher Praxisnachfolger nicht ursächlich löst, sondern die ärztliche Freiberuflichkeit untergräbt.",
       "begruendung_selbst": "Statt noch mehr staatliche MVZs zu fördern, solltet ihr lieber die freie Niederlassung auf dem Land attraktiver machen!",
-      "titel_selbst": "Ein Amt ersetzt keinen Hausarzt!"
+      "titel_selbst": "Ein Amt ersetzt keinen Hausarzt!",
+      "beleg_ok": true
     },
     {
       "thema": "digitalisierung",
@@ -53,7 +57,8 @@
       "resonanz": "kontaer",
       "begruendung": "Sie hat bereits täglich mit schlecht funktionierender Telematikinfrastruktur und eAU-Problemen zu kämpfen. Ein neues staatliches Zentrum für Telemedizin wirkt auf sie wie ein weiterer bürokratischer Wasserkopf, der die akuten Praxisprobleme ignoriert.",
       "begruendung_selbst": "Nicht noch ein Zentrum! Bringt erstmal die grundlegende Basis in den Praxen zum Laufen, bevor ihr neue Leuchtturmprojekte startet.",
-      "titel_selbst": "Bürokratie statt Basis-IT!"
+      "titel_selbst": "Bürokratie statt Basis-IT!",
+      "beleg_ok": true
     },
     {
       "thema": "gesundheit",
@@ -63,7 +68,8 @@
       "resonanz": "kontaer",
       "begruendung": "Für die engagierte Ärztin sind rollende Arztpraxen lediglich ein unzureichendes Pflaster auf einer strukturellen Wunde. Sie wünscht sich echte, stationäre Arztpraxen in den Dörfern und empfindet mobile Praxen als Notlösung, die eine feste Bindung zwischen Arzt und Patient verhindert.",
       "begruendung_selbst": "Ein Arztbus ersetzt doch keine vollausgestattete, vertraute Hausarztpraxis vor Ort!",
-      "titel_selbst": "Ein Bus macht noch keine Praxis!"
+      "titel_selbst": "Ein Bus macht noch keine Praxis!",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

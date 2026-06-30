@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine hat als alleinerziehende Mutter große Probleme, ihre Teilzeitarbeit mit starren Kita-Öffnungszeiten zu vereinbaren. Flexible Betreuungsangebote würden ihren Alltag massiv erleichtern und ihr potenziell erlauben, mehr zu arbeiten.",
-      "begruendung_selbst": "Endlich jemand, der versteht, dass mein Arbeitstag nicht immer um 15 Uhr endet! Wenn es Leute gäbe, die abends mal übernehmen, könnte ich vielleicht sogar meine Stunden aufstocken."
+      "begruendung_selbst": "Endlich jemand, der versteht, dass mein Arbeitstag nicht immer um 15 Uhr endet! Wenn es Leute gäbe, die abends mal übernehmen, könnte ich vielleicht sogar meine Stunden aufstocken.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Lebensmittel müssen bezahlbar sein!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Nadines Budget extrem knapp ist und sie oft nicht weiß, wie sie ungeplante Ausgaben stemmen soll, würde eine Steuersenkung auf Lebensmittel ihre Haushaltskasse spürbar und direkt entlasten.",
-      "begruendung_selbst": "Wenn Butter, Brot und Nudeln günstiger werden, spüre ich das sofort im Portemonnaie. Das würde mir am Monatsende wirklich ein bisschen Luft zum Atmen geben."
+      "begruendung_selbst": "Wenn Butter, Brot und Nudeln günstiger werden, spüre ich das sofort im Portemonnaie. Das würde mir am Monatsende wirklich ein bisschen Luft zum Atmen geben.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Unterstützung an den Schulen!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine legt großen Wert darauf, dass ihre Kinder gute Chancen durch Bildung erhalten. Mehr pädagogisches und unterstützendes Personal an Schulen sichert den Unterricht und ermöglicht bessere individuelle Förderung.",
-      "begruendung_selbst": "Die Lehrer meiner Kinder sind doch eh schon völlig überlastet. Wenn sie durch Sozialarbeiter unterstützt werden, haben sie vielleicht wieder mehr Zeit, sich wirklich um die Schüler zu kümmern."
+      "begruendung_selbst": "Die Lehrer meiner Kinder sind doch eh schon völlig überlastet. Wenn sie durch Sozialarbeiter unterstützt werden, haben sie vielleicht wieder mehr Zeit, sich wirklich um die Schüler zu kümmern.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -63,7 +66,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Obwohl Nadine in Teilzeit arbeitet, muss sie mit Bürgergeld aufstocken. Die Rhetorik von harten Sanktionen löst bei ihr Zukunftsängste aus, da sie sich als hart arbeitende Mutter zu Unrecht verdächtigt fühlt.",
-      "begruendung_selbst": "Ich arbeite, ich kümmere mich um meine zwei Kinder, und trotzdem reicht es nicht. Wenn ich dann lese, dass man uns noch härter bestrafen will, fühle ich mich komplett im Stich gelassen und kriminalisiert."
+      "begruendung_selbst": "Ich arbeite, ich kümmere mich um meine zwei Kinder, und trotzdem reicht es nicht. Wenn ich dann lese, dass man uns noch härter bestrafen will, fühle ich mich komplett im Stich gelassen und kriminalisiert.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kitas dürfen kein Luxus werden!",
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Für Nadine ist jeder Euro entscheidend. Auch wenn sie gute Bildung schätzt, bedeutet eine Abkehr von der Beitragsfreiheit für sie eine massive finanzielle Bedrohung, die sie sich schlicht nicht leisten kann.",
-      "begruendung_selbst": "Natürlich will ich eine gute Kita für meine Kinder, aber was nützt mir die beste Betreuung, wenn ich mir die Gebühren nicht mehr leisten kann? Jeder Euro mehr bei den Beiträgen fehlt uns beim Essen."
+      "begruendung_selbst": "Natürlich will ich eine gute Kita für meine Kinder, aber was nützt mir die beste Betreuung, wenn ich mir die Gebühren nicht mehr leisten kann? Jeder Euro mehr bei den Beiträgen fehlt uns beim Essen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Zwangsarbeit statt echter Hilfe?",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Nadine empfindet eine solche 'Fördern und Fordern'-Rhetorik als respektlos. Sie sieht darin einen Generalverdacht gegen Menschen in prekären Lagen, was ihrem Bild von einem verlässlichen Sozialstaat widerspricht.",
-      "begruendung_selbst": "Es gibt tausend Gründe, warum jemand keinen Job findet, oft fehlt einfach die Kinderbetreuung! Die Leute jetzt zu Hilfsarbeiten zu zwingen, statt ihnen echte Perspektiven zu geben, ist einfach nur zynisch."
+      "begruendung_selbst": "Es gibt tausend Gründe, warum jemand keinen Job findet, oft fehlt einfach die Kinderbetreuung! Die Leute jetzt zu Hilfsarbeiten zu zwingen, statt ihnen echte Perspektiven zu geben, ist einfach nur zynisch.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Politik nur für Besserverdiener!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Mieterin ohne Vermögen und mit aufstockendem Bürgergeld ist Wohneigentum für Nadine völlig unerreichbar. Sie hat den Eindruck, dass hier Politik für wohlhabendere Schichten gemacht wird, während ihre realen Mietprobleme ignoriert werden.",
-      "begruendung_selbst": "Welche alleinerziehende Mutter kann sich denn bitte ein Haus kaufen? Ich kämpfe jeden Monat damit, meine Miete für die Wohnung überhaupt zusammenzukratzen. Da redet die Politik komplett an meinem Leben vorbei."
+      "begruendung_selbst": "Welche alleinerziehende Mutter kann sich denn bitte ein Haus kaufen? Ich kämpfe jeden Monat damit, meine Miete für die Wohnung überhaupt zusammenzukratzen. Da redet die Politik komplett an meinem Leben vorbei.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

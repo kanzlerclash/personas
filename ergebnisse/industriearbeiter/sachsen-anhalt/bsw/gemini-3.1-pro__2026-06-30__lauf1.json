@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe sieht starke Gewerkschaften und Tarifbindung als Grundpfeiler für den Erhalt seines Lebensstandards. Die Forderung deckt sich exakt mit seinem Wunsch, dass der Staat prekäre Arbeit nicht subventioniert.",
-      "begruendung_selbst": "Als Gewerkschafter sage ich schon immer: Wer unsere Steuern als Förderung einstreicht, muss seine Leute auch ordentlich nach Tarif bezahlen."
+      "begruendung_selbst": "Als Gewerkschafter sage ich schon immer: Wer unsere Steuern als Förderung einstreicht, muss seine Leute auch ordentlich nach Tarif bezahlen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wir reden beim Wandel mit!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als aktiver Betriebsrat ist Uwe darauf angewiesen, dass Veränderungen im Betrieb nicht diktiert werden. Das BSW erkennt seine gewerkschaftliche Arbeit als notwendig für einen sozial abgesicherten Wandel an.",
-      "begruendung_selbst": "Wenn die Bosse die Transformation planen, dürfen wir nicht nur zuschauen. Gut, dass unsere Mitsprache als Stärke und nicht als Problem gesehen wird."
+      "begruendung_selbst": "Wenn die Bosse die Transformation planen, dürfen wir nicht nur zuschauen. Gut, dass unsere Mitsprache als Stärke und nicht als Problem gesehen wird.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Industrie hält das Land am Laufen!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Sein gesamter Wohlstand hängt an der Chemie- und Schwerindustrie in der Region. Er fühlt sich in seinem Stolz als Industriearbeiter bestätigt und in seiner Hoffnung auf den Erhalt der Arbeitsplätze unterstützt.",
-      "begruendung_selbst": "Wir erwirtschaften hier die Werte. Ohne die Industriegebiete geht in Sachsen-Anhalt das Licht aus. Wer sich klar zu unseren Standorten bekennt, hat das kapiert."
+      "begruendung_selbst": "Wir erwirtschaften hier die Werte. Ohne die Industriegebiete geht in Sachsen-Anhalt das Licht aus. Wer sich klar zu unseren Standorten bekennt, hat das kapiert.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Unser Chemiedreieck muss bleiben!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Facharbeiter im Chemiedreieck ist dies sein direkter Arbeitsplatz. Ein politisches Konzept zum gezielten Schutz und zur Weiterentwicklung genau dieses Sektors adressiert seine größte Sorge um Deindustrialisierung.",
-      "begruendung_selbst": "Das ist genau mein Betrieb! Wenn die Politik sagt, dass unsere Chemieparks eine Zukunft haben und Priorität genießen, dann gibt mir das die Sicherheit, die wir hier im Revier dringend brauchen."
+      "begruendung_selbst": "Das ist genau mein Betrieb! Wenn die Politik sagt, dass unsere Chemieparks eine Zukunft haben und Priorität genießen, dann gibt mir das die Sicherheit, die wir hier im Revier dringend brauchen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Erst Alternativen, dann Ausstieg!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe sorgt sich, dass ein zu schneller Kohleausstieg die Energiepreise hochtreibt und seinen Standort gefährdet. Die Garantie für eine durchgehende Grundlast nimmt ihm diese existenzielle Angst.",
-      "begruendung_selbst": "Ich bin für Klimaschutz, aber man kann nicht das alte Kraftwerk abschalten, wenn der neue Wasserstoff noch gar nicht da ist. Die Industrie braucht rund um die Uhr verlässlichen Strom."
+      "begruendung_selbst": "Ich bin für Klimaschutz, aber man kann nicht das alte Kraftwerk abschalten, wenn der neue Wasserstoff noch gar nicht da ist. Die Industrie braucht rund um die Uhr verlässlichen Strom.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Vernunft statt Traumtänzerei!",
@@ -83,7 +88,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe teilt zwar die Ziele der Umweltbewegung, wirft ihr aber oft Praxis- und Arbeitsferne vor. Die Forderung des BSW nach einer vernunftgeleiteten und weniger ideologischen Politik bestätigt exakt sein Urteil.",
-      "begruendung_selbst": "Genau das sage ich immer: Klimaschutz ist wichtig, aber ihr habt oft keinen Plan, wie das in der Praxis laufen soll. Es muss funktionieren, ohne dass wir pleitegehen."
+      "begruendung_selbst": "Genau das sage ich immer: Klimaschutz ist wichtig, aber ihr habt oft keinen Plan, wie das in der Praxis laufen soll. Es muss funktionieren, ohne dass wir pleitegehen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klimaschutz nicht auf unsere Kosten!",
@@ -94,7 +100,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe befürchtet, dass die Kosten der Klimatransformation auf die arbeitende Bevölkerung abgewälzt werden. Ein Stopp des CO2-Preises entlastet seinen Geldbeutel und verbilligt gleichzeitig die Energie für seine Branche.",
-      "begruendung_selbst": "Es kann nicht sein, dass normale Leute durch immer neue Abgaben bluten müssen. So eine unsoziale Abzocke gehört weg, das hilft uns und unseren Betrieben."
+      "begruendung_selbst": "Es kann nicht sein, dass normale Leute durch immer neue Abgaben bluten müssen. So eine unsoziale Abzocke gehört weg, das hilft uns und unseren Betrieben.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [],

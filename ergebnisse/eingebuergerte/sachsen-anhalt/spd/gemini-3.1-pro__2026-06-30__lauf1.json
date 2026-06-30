@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin wünscht sich einen sachlichen Diskurs, der Menschen mit Migrationsgeschichte nicht als Problemfall, sondern als wichtigen Teil der Gesellschaft sieht. Der Fokus auf Chancen deckt sich exakt mit ihrer Haltung.",
-      "begruendung_selbst": "Genau das meine ich: Wir sind hier, wir arbeiten mit, wir sind Teil der Lösung. Steuert es gerne vernünftig, aber seht doch endlich mal den Nutzen, statt immer nur Gefahren herbeizureden."
+      "begruendung_selbst": "Genau das meine ich: Wir sind hier, wir arbeiten mit, wir sind Teil der Lösung. Steuert es gerne vernünftig, aber seht doch endlich mal den Nutzen, statt immer nur Gefahren herbeizureden.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Leistung zählt, nicht Herkunft.",
@@ -39,7 +40,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Diese Position entspricht Aylins Grundwert, dass Zugehörigkeit sich an Teilhabe und Leistung bemisst. Sie schätzt es, dass Eigeninitiative durch sichere Aufenthaltsperspektiven belohnt wird.",
-      "begruendung_selbst": "Wenn jemand hier anpackt und seinen Lebensunterhalt verdient, dann gehört er auch zu uns. Leistung muss belohnt werden und Sicherheit geben."
+      "begruendung_selbst": "Wenn jemand hier anpackt und seinen Lebensunterhalt verdient, dann gehört er auch zu uns. Leistung muss belohnt werden und Sicherheit geben.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gemeinsam lernen, nicht absondern!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin sieht Zugehörigkeit als einen Prozess, der im gemeinsamen Alltag stattfinden muss. Separierung in Bildungseinrichtungen widerspricht ihrem Wunsch nach tiefgreifendem gesellschaftlichem Zusammenhalt.",
-      "begruendung_selbst": "Integration funktioniert nur im Miteinander. Wer Kinder von Anfang an in separate Gruppen steckt, verhindert doch genau das Ankommen in der Mehrheitsgesellschaft, das immer gefordert wird."
+      "begruendung_selbst": "Integration funktioniert nur im Miteinander. Wer Kinder von Anfang an in separate Gruppen steckt, verhindert doch genau das Ankommen in der Mehrheitsgesellschaft, das immer gefordert wird.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schutz vor Alltagsdiskriminierung!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Aylin selbst wiederkehrende Diskriminierungserfahrungen macht, ist ein klarer rechtlicher Diskriminierungsschutz eines ihrer Kernanliegen. Das geplante Gesetz gibt ihr ein Gefühl von rechtlicher Sicherheit.",
-      "begruendung_selbst": "Es reicht nicht, in Sonntagsreden von Vielfalt zu sprechen. Wenn ich im Alltag benachteiligt werde, brauche ich eine handfeste rechtliche Grundlage, auf die ich mich berufen kann."
+      "begruendung_selbst": "Es reicht nicht, in Sonntagsreden von Vielfalt zu sprechen. Wenn ich im Alltag benachteiligt werde, brauche ich eine handfeste rechtliche Grundlage, auf die ich mich berufen kann.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Meine Lebensrealität in Behörden!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Angestellte im öffentlichen Dienst weiß Aylin aus eigener Erfahrung, wie wichtig Sensibilität in Behörden ist. Dies stärkt ihr Vertrauen in den Staat als gerechten Arbeitgeber und Dienstleister.",
-      "begruendung_selbst": "Ich arbeite selbst in der Verwaltung und merke, dass da oft noch Unsicherheit herrscht. Solche Schulungen helfen enorm, um strukturelle Vorurteile abzubauen und den Kontakt mit Bürgern zu verbessern."
+      "begruendung_selbst": "Ich arbeite selbst in der Verwaltung und merke, dass da oft noch Unsicherheit herrscht. Solche Schulungen helfen enorm, um strukturelle Vorurteile abzubauen und den Kontakt mit Bürgern zu verbessern.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Rechtsstaat ja, aber mit Herz.",
@@ -83,7 +88,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin ist eine Befürworterin von geregelter Migration, fürchtet aber unverhältnismäßige Härte. Dieser Ansatz einer maßvollen Durchsetzung des Rechtsrahmens holt sie genau in ihrer differenzierten Haltung ab.",
-      "begruendung_selbst": "Wir brauchen Regeln, das ist als Verwaltungsangestellte für mich völlig klar. Aber es ist beruhigend, dass hier Augenmaß und Menschlichkeit gewahrt bleiben und nicht einfach pauschal durchgegriffen wird."
+      "begruendung_selbst": "Wir brauchen Regeln, das ist als Verwaltungsangestellte für mich völlig klar. Aber es ist beruhigend, dass hier Augenmaß und Menschlichkeit gewahrt bleiben und nicht einfach pauschal durchgegriffen wird.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [],

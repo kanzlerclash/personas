@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Sabine findet keine Azubis mehr. Dass Jugendliche früh und verpflichtend mit dem Handwerk in Kontakt kommen sollen, begrüßt sie sehr, da es ihre Nachwuchssorgen lindern könnte.",
-      "begruendung_selbst": "Wenn die Jugendlichen nicht mehr nur studieren wollen, sondern mal in einer Werkstatt stehen und richtig anpacken, dann kriege ich auch wieder motivierte Lehrlinge."
+      "begruendung_selbst": "Wenn die Jugendlichen nicht mehr nur studieren wollen, sondern mal in einer Werkstatt stehen und richtig anpacken, dann kriege ich auch wieder motivierte Lehrlinge.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Der Meisterbrief muss gratis werden!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Sabine profitiert direkt davon, wenn ihre Gesellen sich kostenfrei weiterbilden können, da die fachliche Qualifikation ihres Betriebs überlebenswichtig ist.",
-      "begruendung_selbst": "Ich brauche top-ausgebildete Leute für die ganzen neuen Heizungen. Wenn der Staat den Meisterbrief endlich bezahlt, wie beim Studium auch, ist das nur gerecht!"
+      "begruendung_selbst": "Ich brauche top-ausgebildete Leute für die ganzen neuen Heizungen. Wenn der Staat den Meisterbrief endlich bezahlt, wie beim Studium auch, ist das nur gerecht!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Aufträge für uns statt für Konzernriesen!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Sabine sich gegenüber Großkonzernen mit deren Rechtsabteilungen oft im Nachteil sieht, kommt ihr die Bevorzugung regionaler Handwerksbetriebe bei der Vergabe sehr entgegen.",
-      "begruendung_selbst": "Es ärgert mich schon lange, dass bei Ausschreibungen immer die großen Multis abräumen. Wenn wir Kleinen vor Ort endlich den Vorzug kriegen, sichert das unsere Jobs."
+      "begruendung_selbst": "Es ärgert mich schon lange, dass bei Ausschreibungen immer die großen Multis abräumen. Wenn wir Kleinen vor Ort endlich den Vorzug kriegen, sichert das unsere Jobs.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gute Idee, wenn es nicht im Chaos endet!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Sabine ist genervt davon, dass verunsicherte Kunden Aufträge stornieren. Wenn der Staat den Heizungswechsel verlässlich und sozial unterstützt, gibt das ihren Kunden Planungssicherheit und ihr volle Auftragsbücher.",
-      "begruendung_selbst": "Meine Kunden sind total verunsichert und halten ihr Geld zusammen. Wenn der Heizungswechsel wirklich gefördert wird und die Regeln mal stabil bleiben, ist das gut für mein Geschäft."
+      "begruendung_selbst": "Meine Kunden sind total verunsichert und halten ihr Geld zusammen. Wenn der Heizungswechsel wirklich gefördert wird und die Regeln mal stabil bleiben, ist das gut für mein Geschäft.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Sabine macht sich Sorgen um die Betriebsübergabe in absehbarer Zeit. Eine mögliche Vermögenssteuer bedroht aus ihrer Sicht die finanzielle Substanz ihres Handwerksbetriebs.",
-      "begruendung_selbst": "Das Betriebsvermögen ist unsere Werkstatt und der Fuhrpark, kein Luxus! Wenn darauf jetzt noch Vermögenssteuer fällig wird, kann ich den Laden bald dichtmachen."
+      "begruendung_selbst": "Das Betriebsvermögen ist unsere Werkstatt und der Fuhrpark, kein Luxus! Wenn darauf jetzt noch Vermögenssteuer fällig wird, kann ich den Laden bald dichtmachen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wer soll denn die Arbeit machen?",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Die Unternehmerin leidet stark unter dem Fachkräftemangel. Eine generelle Arbeitszeitverkürzung bei vollem Lohnausgleich würde ihre Lohnkosten in die Höhe treiben und Aufträge blockieren.",
-      "begruendung_selbst": "Ich habe jetzt schon volle Auftragsbücher und finde keine Leute. Eine 35-Stunden-Woche bedeutet für uns einfach nur explodierende Kosten und unzufriedene Kunden, die ewig warten müssen."
+      "begruendung_selbst": "Ich habe jetzt schon volle Auftragsbücher und finde keine Leute. Eine 35-Stunden-Woche bedeutet für uns einfach nur explodierende Kosten und unzufriedene Kunden, die ewig warten müssen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Tarifpflicht für Aufträge grenzt uns aus!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als Inhaberin eines Kleinbetriebs ist sie nicht zwingend tarifgebunden, sondern zahlt, was der Betrieb wirtschaftlich hergibt. Sie empfindet den Zwang zum Tarifvertrag als Bevormundung, die sie von Aufträgen ausschließt.",
-      "begruendung_selbst": "Ich bezahle meine Leute fair, sonst wären sie längst weg. Wenn ich für jeden öffentlichen Auftrag in ein Tarifkorsett gepresst werde, mache ich lieber nur noch Privatkunden."
+      "begruendung_selbst": "Ich bezahle meine Leute fair, sonst wären sie längst weg. Wenn ich für jeden öffentlichen Auftrag in ein Tarifkorsett gepresst werde, mache ich lieber nur noch Privatkunden.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Fördern ja, aber wo bleibt das Fordern?",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Sabines Leitbild ist von Leistung und Eigenverantwortung geprägt. Forderungslos ausgezahlte staatliche Hilfen lehnt sie ab, da sie das Prinzip des Förderns und Forderns untergraben.",
-      "begruendung_selbst": "Ich arbeite hart für mein Geld. Wer Hilfe braucht, soll sie bekommen, aber 'bedingungslos' für alle? Das ist das völlig falsche Signal für unsere Leistungsgesellschaft."
+      "begruendung_selbst": "Ich arbeite hart für mein Geld. Wer Hilfe braucht, soll sie bekommen, aber 'bedingungslos' für alle? Das ist das völlig falsche Signal für unsere Leistungsgesellschaft.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

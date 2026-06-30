@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny fürchtet, dass seine Region nach dem Kohleausstieg wirtschaftlich abgehängt wird. Das Bekenntnis zu konkreten Investitionen und neuen Arbeitsplätzen vor Ort in den ehemaligen Bergbauregionen gibt ihm die erhoffte Sicherheit für seine Heimat.",
-      "begruendung_selbst": "Genau das brauchen wir: Echte Investitionen und neue Jobs bei uns im Revier, statt nur Sonntagsreden über den Wandel, während hier die Lichter ausgehen."
+      "begruendung_selbst": "Genau das brauchen wir: Echte Investitionen und neue Jobs bei uns im Revier, statt nur Sonntagsreden über den Wandel, während hier die Lichter ausgehen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Pragmatismus statt Technologieverbote!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die aktive Planung von CO2-Infrastrukturen entspricht Ronnys Forderung nach technologieoffenen, realistischen Lösungen. Er sieht in Technologien wie CCS eine wichtige Brücke für den Erhalt der Industrie in seiner Region.",
-      "begruendung_selbst": "Endlich wird nicht nur alles verboten! Eine eigene Stelle für CO2-Netze zeigt mir, dass sie CCS ernst nehmen und der heimischen Industrie eine echte Brücke bauen wollen."
+      "begruendung_selbst": "Endlich wird nicht nur alles verboten! Eine eigene Stelle für CO2-Netze zeigt mir, dass sie CCS ernst nehmen und der heimischen Industrie eine echte Brücke bauen wollen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wichtig für unsere Industriestandorte!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny weiß als Beschäftigter der Energiewirtschaft, dass die energieintensive Industrie nur mit wettbewerbsfähigen Strompreisen am Standort bleibt. Er begrüßt die konkreten Pläne zur Deckelung der Netzentgelte als klares Bekenntnis zur Wirtschaft.",
-      "begruendung_selbst": "Die Industrieunternehmen bleiben nur hier, wenn die Energie bezahlbar ist. Wenn sie die Netzentgelte deckeln, sichert das unsere Wettbewerbsfähigkeit und damit am Ende meine Branche und unsere Jobs."
+      "begruendung_selbst": "Die Industrieunternehmen bleiben nur hier, wenn die Energie bezahlbar ist. Wenn sie die Netzentgelte deckeln, sichert das unsere Wettbewerbsfähigkeit und damit am Ende meine Branche und unsere Jobs.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gute Absicherung beim Wandel.",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Der berufliche Umbruch und drohende Perspektivlosigkeit sind Ronnys größte Sorgen. Er schätzt das Vorhaben, Betroffenen direkt in ihrer Region Qualifizierungsmaßnahmen anzubieten, anstatt sie zum Wegzug zu zwingen.",
-      "begruendung_selbst": "Wenn meine Anlage doch früher vom Netz geht, muss klar sein, wie es für mich weitergeht. Regionale Unterstützung und Umschulung ist genau der richtige Ansatz, damit ich hier mit meiner Familie bleiben kann."
+      "begruendung_selbst": "Wenn meine Anlage doch früher vom Netz geht, muss klar sein, wie es für mich weitergeht. Regionale Unterstützung und Umschulung ist genau der richtige Ansatz, damit ich hier mit meiner Familie bleiben kann.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Genau mein Reden!",
@@ -72,7 +76,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny kritisiert oft eine aktivistische Klimabewegung, die aus seiner Sicht von oben herab Verbote fordert. Der pragmatische Ansatz der Partei, Naturschutz gemeinsam mit den Menschen vor Ort zu gestalten, spricht ihm voll aus dem Herzen.",
-      "begruendung_selbst": "Manche Klimaaktivisten vergessen, dass hier echte Menschen leben und arbeiten. Ich finde es gut, dass hier klargemacht wird: Wandel geht nur mit uns, nicht gegen uns!"
+      "begruendung_selbst": "Manche Klimaaktivisten vergessen, dass hier echte Menschen leben und arbeiten. Ich finde es gut, dass hier klargemacht wird: Wandel geht nur mit uns, nicht gegen uns!",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Ronny ist äußerst skeptisch gegenüber starren Klimazielen ohne absehbaren technischen Ersatzplan. Er befürchtet, dass gesetzlich festgeschriebene Reduktionspfade den Druck für einen unüberlegten vorzeitigen Kohleausstieg erhöhen.",
-      "begruendung_selbst": "Solche starren Reduktionspfade klingen nach Ausstieg auf dem Papier. Wenn die Ersatzkapazitäten nicht rechtzeitig fertig sind, hilft uns kein Klimaschutzgesetz der Welt, wenn hier der Strom ausfällt."
+      "begruendung_selbst": "Solche starren Reduktionspfade klingen nach Ausstieg auf dem Papier. Wenn die Ersatzkapazitäten nicht rechtzeitig fertig sind, hilft uns kein Klimaschutzgesetz der Welt, wenn hier der Strom ausfällt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gas ist als Brücke nötig!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als Techniker in der Energiewirtschaft hält Ronny Gaskraftwerke als Brückentechnologie für unverzichtbar, um die Grundlast zu sichern. Die pauschale Abwertung als zu teuer zugunsten von reinen Speichern erscheint ihm technisch naiv.",
-      "begruendung_selbst": "Speicher allein fangen keine wochenlange Dunkelflaute im Winter ab. Wer Gas als Brückentechnologie so pauschal abwertet, hat die technischen Realitäten unserer Versorgungssicherheit noch nicht ganz verstanden."
+      "begruendung_selbst": "Speicher allein fangen keine wochenlange Dunkelflaute im Winter ab. Wer Gas als Brückentechnologie so pauschal abwertet, hat die technischen Realitäten unserer Versorgungssicherheit noch nicht ganz verstanden.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

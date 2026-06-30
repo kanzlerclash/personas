@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin erlebt täglich die negative Seite der Ökonomisierung im Gesundheitssystem. Die Forderung, Pflegeeinrichtungen dem Renditedruck zu entziehen, deckt sich exakt mit ihrer Überzeugung, dass Pflege keine Ware sein darf.",
-      "begruendung_selbst": "Endlich sagt mal jemand klipp und klar, dass unsere Heime und Kliniken keine Geldanlagen sind! Wenn die Investoren ihre Gewinne rausziehen, fehlt uns auf Station das Geld für Personal und Ausstattung."
+      "begruendung_selbst": "Endlich sagt mal jemand klipp und klar, dass unsere Heime und Kliniken keine Geldanlagen sind! Wenn die Investoren ihre Gewinne rausziehen, fehlt uns auf Station das Geld für Personal und Ausstattung.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Die Politik macht sich ehrlich!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin ist frustriert von politischen Lippenbekenntnissen ohne echte Taten. Dass die Partei die Ursachen der Pflegekrise klar beim systematischen Sparen verortet, gibt ihr das Gefühl, mit ihrer harschen Realität gesehen zu werden.",
-      "begruendung_selbst": "Wenigstens mal keine Sonntagsreden! Dieses ewige Kaputtsparen hat uns doch erst in diese Notlage gebracht. Klatschen hilft mir im Dienst nicht, wir brauchen endlich Politiker, die ihre eigenen Fehler einsehen und korrigieren."
+      "begruendung_selbst": "Wenigstens mal keine Sonntagsreden! Dieses ewige Kaputtsparen hat uns doch erst in diese Notlage gebracht. Klatschen hilft mir im Dienst nicht, wir brauchen endlich Politiker, die ihre eigenen Fehler einsehen und korrigieren.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Tariflohn statt Ausbeutung!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Pflegekraft in Wechselschicht ist Kerstin für ein anständiges Einkommen direkt auf gerechte Zuschläge angewiesen. Die tarifliche Absicherung honoriert die hohe körperliche und zeitliche Belastung in ihrem Arbeitsalltag.",
-      "begruendung_selbst": "Die Nacht- und Wochenendschichten rauben mir oft die letzte Kraft und Zeit mit meiner Familie. Es ist nur fair und absolut notwendig, dass diese Knochenarbeit auch durch ordentliche Zuschläge verlässlich belohnt wird."
+      "begruendung_selbst": "Die Nacht- und Wochenendschichten rauben mir oft die letzte Kraft und Zeit mit meiner Familie. Es ist nur fair und absolut notwendig, dass diese Knochenarbeit auch durch ordentliche Zuschläge verlässlich belohnt wird.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Zeit zum Durchatmen!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Durch die ständige Unterbesetzung kommt die Erholung bei Kerstin im Alltag massiv zu kurz. Mehr verlässliche Urlaubszeit ist für sie essenziell, um gesund zu bleiben und ihren belastenden Job langfristig durchhalten zu können.",
-      "begruendung_selbst": "Bei dem ständigen Einspringen und der Hetze auf Station brauche ich dringend mehr längere Erholungsphasen. Sechs Wochen garantierter Urlaub wären ein echter Segen, um nicht irgendwann völlig auszubrennen."
+      "begruendung_selbst": "Bei dem ständigen Einspringen und der Hetze auf Station brauche ich dringend mehr längere Erholungsphasen. Sechs Wochen garantierter Urlaub wären ein echter Segen, um nicht irgendwann völlig auszubrennen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schnellere Anerkennung für meine Kolleginnen!",
@@ -72,7 +76,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Da Kerstins Station stark auf migrantische Kolleginnen angewiesen ist, würde ein schnelleres Anerkennungsverfahren die Personalsituation zügig entspannen und dem gesamten Team die dringend benötigte Entlastung bringen.",
-      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland könnten wir unsere Station längst dichtmachen. Es ist höchste Zeit, dass man ihnen keine Steine mehr in den Weg legt und sie nicht monatelang in der Bürokratie festhängen lässt!"
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland könnten wir unsere Station längst dichtmachen. Es ist höchste Zeit, dass man ihnen keine Steine mehr in den Weg legt und sie nicht monatelang in der Bürokratie festhängen lässt!",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Obwohl sich Kerstin Entlastung wünscht, betrachtet sie Forderungen nach Arbeitszeitverkürzungen angesichts fehlender Fachkräfte als kontraproduktiv. Sie befürchtet, dass dadurch die verbleibende Arbeit von noch weniger Personal in kürzerer Zeit bewältigt werden müsste.",
-      "begruendung_selbst": "35 Stunden klingen auf dem Papier ja toll, aber wer lagert und wäscht in der restlichen Zeit die Patienten? Wir kriegen die Dienstpläne heute schon nicht voll. Weniger Stunden bei gleichem Personal heißt für mich nur noch mehr Rennen."
+      "begruendung_selbst": "35 Stunden klingen auf dem Papier ja toll, aber wer lagert und wäscht in der restlichen Zeit die Patienten? Wir kriegen die Dienstpläne heute schon nicht voll. Weniger Stunden bei gleichem Personal heißt für mich nur noch mehr Rennen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wir brauchen Leute am Bett, nicht im Hörsaal!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als praktisch ausgebildete Fachkraft blickt Kerstin skeptisch auf den Trend, den Pflegeberuf an die Hochschulen zu verlagern. Sie befürchtet eine Entwertung der praktischen Handgriffe und noch größere personelle Engpässe durch akademische Einstiegshürden.",
-      "begruendung_selbst": "Noch mehr Akademisierung bringt uns auf der Station überhaupt nichts. Wir brauchen zupackende, handwerklich gut ausgebildete Kolleginnen für die Basisversorgung und keine studierten Theoretiker, die sich für die echte Arbeit am Patienten zu schade sind."
+      "begruendung_selbst": "Noch mehr Akademisierung bringt uns auf der Station überhaupt nichts. Wir brauchen zupackende, handwerklich gut ausgebildete Kolleginnen für die Basisversorgung und keine studierten Theoretiker, die sich für die echte Arbeit am Patienten zu schade sind.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

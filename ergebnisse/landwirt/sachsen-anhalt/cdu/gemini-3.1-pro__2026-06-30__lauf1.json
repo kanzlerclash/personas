@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank sieht in der Neudefinition der roten Gebiete eine Chance, dass seine Flächen nicht mehr pauschal abgestraft werden und der bürokratische Schaden sinkt.",
-      "begruendung_selbst": "Wenn die endlich anfangen, da zu messen, wo es wirklich hakt, anstatt uns alle über einen Kamm zu scheren, kann ich vielleicht wieder vernünftig planen!"
+      "begruendung_selbst": "Wenn die endlich anfangen, da zu messen, wo es wirklich hakt, anstatt uns alle über einen Kamm zu scheren, kann ich vielleicht wieder vernünftig planen!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schluss mit der Wolfsromantik!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Der Landwirt hat konkrete Konflikte mit dem Wolfsschutz wegen seiner Mutterkuhherde und befürwortet eine Regulierung, die seine Weidetiere vor Rissen schützt.",
-      "begruendung_selbst": "Meine Kälber sind kein Futter für die Wölfe! Es wird höchste Zeit, dass die Politik kapiert, dass wir unsere Weidetiere schützen müssen."
+      "begruendung_selbst": "Meine Kälber sind kein Futter für die Wölfe! Es wird höchste Zeit, dass die Politik kapiert, dass wir unsere Weidetiere schützen müssen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Weg mit dem Brüsseler Diktat!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Er empfindet EU-Umweltvorgaben oft als bevormundend und existenzbedrohend; die Ablehnung von zusätzlichen Naturflächen schützt sein Eigentum und sein Einkommen.",
-      "begruendung_selbst": "Von Brüssel aus kann man leicht sagen, legt mal Flächen still! Gut, dass das Land da nicht mitmacht und wir unsere Äcker behalten können."
+      "begruendung_selbst": "Von Brüssel aus kann man leicht sagen, legt mal Flächen still! Gut, dass das Land da nicht mitmacht und wir unsere Äcker behalten können.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich Perspektive für den Nachwuchs!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da er sich große Sorgen macht, ob seine Tochter den Hof künftig übernehmen will, freut ihn die konkrete politische Unterstützung für Junglandwirte sehr.",
-      "begruendung_selbst": "Wenn die Bedingungen besser werden, überlegt sich meine Tochter das mit der Übernahme vielleicht doch noch. Solche Start-Programme sind da absolut Gold wert."
+      "begruendung_selbst": "Wenn die Bedingungen besser werden, überlegt sich meine Tochter das mit der Übernahme vielleicht doch noch. Solche Start-Programme sind da absolut Gold wert.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Stoppt den Flächenfraß!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für ihn ist Land sein wichtigstes Kapital. Die Absage an weitere Naturschutzgebiete gibt ihm Planungssicherheit und schützt ihn vor weiteren Auflagen.",
-      "begruendung_selbst": "Ich hab nichts gegen Naturschutz, aber wir müssen auch noch wirtschaften können. Gut, dass unsere Äcker nicht auch noch unter Käseglocken gestellt werden sollen."
+      "begruendung_selbst": "Ich hab nichts gegen Naturschutz, aber wir müssen auch noch wirtschaften können. Gut, dass unsere Äcker nicht auch noch unter Käseglocken gestellt werden sollen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Während die Politik von High-Tech träumt, kämpft Frank mit den handfesten Grundkosten für Diesel und Dünger. Er empfindet diesen Fokus als realitätsfern.",
-      "begruendung_selbst": "Autonome Drohnen? Bevor ich mir so ein Spielzeug leisten kann, brauche ich erstmal faire Erzeugerpreise und weniger Papierkram auf dem Schreibtisch!"
+      "begruendung_selbst": "Autonome Drohnen? Bevor ich mir so ein Spielzeug leisten kann, brauche ich erstmal faire Erzeugerpreise und weniger Papierkram auf dem Schreibtisch!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Geld für hippe Stadt-Träumer!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Er ärgert sich, dass knappe staatliche Fördermittel für trendige Start-ups eingeplant werden, während Traditionsbetriebe wie seiner mit den Fixkosten ums Überleben kämpfen.",
-      "begruendung_selbst": "Da wirft man das Geld lieber irgendwelchen Start-ups hinterher, die noch nie im Stall standen. Wir echten Traditionsbetriebe dürfen derweil zusehen, wie wir unsere Rechnungen bezahlen!"
+      "begruendung_selbst": "Da wirft man das Geld lieber irgendwelchen Start-ups hinterher, die noch nie im Stall standen. Wir echten Traditionsbetriebe dürfen derweil zusehen, wie wir unsere Rechnungen bezahlen!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Das wird doch wieder teurer!",
@@ -107,7 +114,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als Landwirt mit ohnehin hoher Kostenbelastung sieht er in der geplanten Neuordnung der Wasserbeiträge unweigerlich das Risiko, am Ende doch wieder stärker zur Kasse gebeten zu werden.",
-      "begruendung_selbst": "Wenn die Politik von 'neuer Beitragsbemessung' redet, heißt das für uns Bauern am Ende doch immer nur eines: Wir dürfen wieder tiefer in die Tasche greifen."
+      "begruendung_selbst": "Wenn die Politik von 'neuer Beitragsbemessung' redet, heißt das für uns Bauern am Ende doch immer nur eines: Wir dürfen wieder tiefer in die Tasche greifen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

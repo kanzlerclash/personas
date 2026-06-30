@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marco leidet im Streifendienst stark unter Personalmangel und der daraus resultierenden Belastung. Die konkrete Aufstockung der Polizei gibt ihm die Perspektive auf mehr Entlastung und Sicherheit im Dienstalltag.",
-      "begruendung_selbst": "Das ist mal eine Ansage! Wenn wir wirklich mehr Beamte auf der Straße sind, wird der Schichtdienst für uns alle sicherer und leistbarer."
+      "begruendung_selbst": "Das ist mal eine Ansage! Wenn wir wirklich mehr Beamte auf der Straße sind, wird der Schichtdienst für uns alle sicherer und leistbarer.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Besserer Schutz für uns!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marco gerät im Einsatz immer wieder in gefährliche, unberechenbare Situationen und fordert deshalb zeitgemäße Ausstattung. Der flächendeckende Einsatz von Tasern ist für ihn ein entscheidendes Mittel zur eigenen Eigensicherung.",
-      "begruendung_selbst": "Der Taser ist eine Lebensversicherung für uns. Dass er jetzt flächendeckend kommen soll, zeigt, dass unsere Sicherheit in der Politik ernst genommen wird."
+      "begruendung_selbst": "Der Taser ist eine Lebensversicherung für uns. Dass er jetzt flächendeckend kommen soll, zeigt, dass unsere Sicherheit in der Politik ernst genommen wird.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klare Kante gegen Extremisten!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Als verfassungstreuer Beamter, der die Institutionen schützt, lehnt Marco extremistische Gruppierungen entschieden ab. Die Stärkung des Verfassungsschutzes bestätigt seine Haltung von einer wehrhaften Demokratie.",
-      "begruendung_selbst": "Egal von welcher Seite: Wer unsere Verfassung angreift, ist eine Gefahr. Es ist völlig richtig, dass der Verfassungsschutz hierfür gestärkt wird."
+      "begruendung_selbst": "Egal von welcher Seite: Wer unsere Verfassung angreift, ist eine Gefahr. Es ist völlig richtig, dass der Verfassungsschutz hierfür gestärkt wird.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Null Toleranz bei Straftätern!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Marco differenziert bei der Migration, ist jedoch extrem frustriert von Mehrfachtätern und mangelnder Konsequenz. Das klare Bekenntnis zu Härte bei Straftätern entspricht seinem Anspruch an die Durchsetzungsfähigkeit des Rechtsstaates.",
-      "begruendung_selbst": "Wer hier straffällig wird, hat sein Gastrecht verwirkt. Es ist gut, dass die Politik da endlich konsequent durchgreifen will und uns den Rücken stärkt."
+      "begruendung_selbst": "Wer hier straffällig wird, hat sein Gastrecht verwirkt. Es ist gut, dass die Politik da endlich konsequent durchgreifen will und uns den Rücken stärkt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Entlastung bei psychischen Fällen!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Einsätze mit psychisch auffälligen und aggressiven Personen sind für Marco oft unberechenbar, gefährlich und schwer zu lösen. Ein präventives medizinisches Angebot setzt an der Wurzel an und nimmt Druck von den Streifenbeamten.",
-      "begruendung_selbst": "Solche Einsätze sind brandgefährlich und oft überfordern sie uns als Polizei. Wenn es dafür Spezialangebote gibt, müssen wir seltener den Kopf hinhalten."
+      "begruendung_selbst": "Solche Einsätze sind brandgefährlich und oft überfordern sie uns als Polizei. Wenn es dafür Spezialangebote gibt, müssen wir seltener den Kopf hinhalten.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich eine schnelle Justiz!",
@@ -83,7 +88,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Marco ärgert sich regelmäßig, wenn seine Ermittlungsarbeit im Sande verläuft oder Verfahren ewig dauern. Eine schnellere Strafjustiz schließt für ihn die Lücke, damit seine Polizeiarbeit am Ende nicht umsonst war.",
-      "begruendung_selbst": "Es frustriert total, wenn wir die Leute festnehmen und die Akten monatelang liegen bleiben. Nur schnelle und direkte Strafen bewirken wirklich etwas!"
+      "begruendung_selbst": "Es frustriert total, wenn wir die Leute festnehmen und die Akten monatelang liegen bleiben. Nur schnelle und direkte Strafen bewirken wirklich etwas!",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [],

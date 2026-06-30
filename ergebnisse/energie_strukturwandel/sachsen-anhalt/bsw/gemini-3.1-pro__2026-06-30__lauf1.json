@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny ist erleichtert, dass keine starren Abschaltdaten ohne Ersatz gefordert werden, sondern fossile Energien als pragmatische Brücke anerkannt bleiben. Das gibt seiner Branche und seiner Region Sicherheit.",
-      "begruendung_selbst": "Das ist genau mein Reden: Erst die neue Brücke bauen, dann die alte abreißen! Wir können die Kohle nicht einfach abschalten, wenn der Wasserstoff fehlt."
+      "begruendung_selbst": "Das ist genau mein Reden: Erst die neue Brücke bauen, dann die alte abreißen! Wir können die Kohle nicht einfach abschalten, wenn der Wasserstoff fehlt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Industrie im Land halten!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die klare Bekenntnis zur Industrie deckt sich mit seiner zentralen Forderung nach einer handfesten Zukunftsperspektive, statt die Region zur verlängerten Werkbank verkommen zu lassen.",
-      "begruendung_selbst": "Wenn die Industrie geht, ist hier bei uns endgültig das Licht aus. Wir brauchen genau so ein klares Bekenntnis zum Standort und keine Deindustrialisierung."
+      "begruendung_selbst": "Wenn die Industrie geht, ist hier bei uns endgültig das Licht aus. Wir brauchen genau so ein klares Bekenntnis zum Standort und keine Deindustrialisierung.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Vernunft beim Netzausbau!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Beschäftigter in der Energiewirtschaft weiß Ronny um die immensen Kosten von Erdkabeln. Die pragmatische Bevorzugung von Freileitungen passt zu seiner wirtschaftlich denkenden, bodenständigen Haltung.",
-      "begruendung_selbst": "Erdkabel sind extrem teuer und der Bau dauert ewig. Wenn wir die Netzentgelte bezahlbar halten wollen, müssen wir eben Freileitungen bauen – das ist einfach vernünftig."
+      "begruendung_selbst": "Erdkabel sind extrem teuer und der Bau dauert ewig. Wenn wir die Netzentgelte bezahlbar halten wollen, müssen wir eben Freileitungen bauen – das ist einfach vernünftig.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Weg mit der reinen Ideologie!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny lehnt eine Klimapolitik ab, die Bürger und Industrie finanziell überfordert, ohne direkt neue Lösungen zu bauen. Die Entlastung von reinen Kostensteigerungen spricht seinen Pragmatismus an.",
-      "begruendung_selbst": "Klimaschutz darf nicht bedeuten, dass uns die Kosten erdrücken, während Alternativen fehlen. Eine Steuer, die alles verteuert, ohne dass die Brücke steht, gehört weg."
+      "begruendung_selbst": "Klimaschutz darf nicht bedeuten, dass uns die Kosten erdrücken, während Alternativen fehlen. Eine Steuer, die alles verteuert, ohne dass die Brücke steht, gehört weg.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -69,23 +73,25 @@
       "titel_selbst": "Ihr nehmt uns das Werkzeug!",
       "thema": "klima",
       "programmpunkt": "Das Programm spricht sich strikt gegen die Anwendung der CO2-Speicherung (CCS) in Sachsen-Anhalt aus und betrachtet sie als zu riskant.",
-      "seite": 84,
+      "seite": 85,
       "zitat": "Die unterirdische CO ₂ -Verpressung (CCS) lehnen wir für Sachsen-Anhalt ab.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Für Ronny ist CCS eine unverzichtbare Brückentechnologie, um seine Industrieregion klimaneutral zu erhalten. Das Verbot empfindet er als existenzgefährdend und technologiefeindlich.",
-      "begruendung_selbst": "Wenn ihr CCS komplett verbietet, dreht ihr unserer Schwerindustrie den Hahn zu! Wir müssen doch technologieoffen sein, statt uns die besten Brücken für den Strukturwandel selbst einzureißen."
+      "begruendung_selbst": "Wenn ihr CCS komplett verbietet, dreht ihr unserer Schwerindustrie den Hahn zu! Wir müssen doch technologieoffen sein, statt uns die besten Brücken für den Strukturwandel selbst einzureißen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wir sind keine überkommene Industrie!",
       "thema": "wirtschaft",
       "programmpunkt": "CCS wird als teure Sackgasse betrachtet, die eine überholte und nicht zukunftsfähige Industrie künstlich am Leben halte, statt in echte Alternativen zu investieren.",
-      "seite": 84,
+      "seite": 85,
       "zitat": "Statt diese Subventionsfalle für überkommene Industrien zu finanzieren, setzen wir auf nachhaltige Alternativen.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Ronny arbeitet voller Stolz in der Energiewirtschaft und sieht diese als Rückgrat der Gesellschaft. Dass seine Branche hier pauschal als überkommen abgewertet wird, empfindet er als tiefe Respektlosigkeit.",
-      "begruendung_selbst": "Es ist ein Schlag ins Gesicht, wenn unsere harte Arbeit für die Versorgungssicherheit als 'überkommene Industrie' abgestempelt wird. Ohne uns läuft hier gar nichts!"
+      "begruendung_selbst": "Es ist ein Schlag ins Gesicht, wenn unsere harte Arbeit für die Versorgungssicherheit als 'überkommene Industrie' abgestempelt wird. Ohne uns läuft hier gar nichts!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Jeder Arbeitsplatz zählt hier!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Das Programm relativiert die Bedeutung des Kohlebergbaus mit dem Verweis auf die scheinbar geringe Zahl der Beschäftigten. Für Ronny wirkt dies wie eine Verharmlosung der Ängste vor Ort.",
-      "begruendung_selbst": "Weniger als 1000 Kumpel? Das sind 1000 Familien, die ihre Existenz verlieren, und ein Rattenschwanz an Zulieferern! So ein Spruch zeigt, dass man unsere Sorgen nicht ernst nimmt."
+      "begruendung_selbst": "Weniger als 1000 Kumpel? Das sind 1000 Familien, die ihre Existenz verlieren, und ein Rattenschwanz an Zulieferern! So ein Spruch zeigt, dass man unsere Sorgen nicht ernst nimmt.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

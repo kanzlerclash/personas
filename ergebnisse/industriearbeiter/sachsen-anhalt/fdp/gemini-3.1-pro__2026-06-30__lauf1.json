@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe sieht hohe Energiepreise als eine der größten Bedrohungen für die Schwer- und Chemieindustrie in Sachsen-Anhalt. Die Fokussierung der Partei auf dieses Problem und auf faire Netzentgelte deckt sich exakt mit seiner Sorge um den eigenen Arbeitsplatz.",
-      "begruendung_selbst": "Wenn der Strompreis weiter durch die Decke geht, können wir in Leuna bald die Lichter ausmachen. Wenigstens hat hier jemand kapiert, dass unsere Industrie ohne bezahlbare Energie nicht überleben kann."
+      "begruendung_selbst": "Wenn der Strompreis weiter durch die Decke geht, können wir in Leuna bald die Lichter ausmachen. Wenigstens hat hier jemand kapiert, dass unsere Industrie ohne bezahlbare Energie nicht überleben kann.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Investieren statt Formulare wälzen!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für den Industriearbeiter hängt die Jobsicherheit maßgeblich davon ab, dass sein Betrieb in die Zukunftsfähigkeit des Standorts investiert. Er sieht zu viele Auflagen und bürokratische Pflichten als gefährlichen Hemmschuh für notwendige Modernisierungen in der Industrie.",
-      "begruendung_selbst": "Wenn unsere Betriebe jeden Euro dreimal umdrehen müssen für irgendwelche Gutachten, fehlt uns das Geld für neue Anlagen. Wir müssen endlich wieder produzieren und nicht nur Aktenordner für die Behörden füllen."
+      "begruendung_selbst": "Wenn unsere Betriebe jeden Euro dreimal umdrehen müssen für irgendwelche Gutachten, fehlt uns das Geld für neue Anlagen. Wir müssen endlich wieder produzieren und nicht nur Aktenordner für die Behörden füllen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Lösungen statt reinem Verzicht!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Beschäftigter im Chemiedreieck ist Uwe zwar für Klimaschutz, fürchtet aber die Folgen eines ideologisch getriebenen Strukturwandels. Technologische Innovationen wie CCS bieten ihm eine realistische Perspektive, um Emissionen zu senken und seinen Arbeitsplatz gleichzeitig zu erhalten.",
-      "begruendung_selbst": "Wir brauchen handfeste Lösungen, die unsere Industrieanlagen sauberer machen, ohne sie gleich komplett abzureißen. Technologien wie CCS können uns helfen, den Wandel so hinzukriegen, dass meine Kollegen nicht auf der Straße landen."
+      "begruendung_selbst": "Wir brauchen handfeste Lösungen, die unsere Industrieanlagen sauberer machen, ohne sie gleich komplett abzureißen. Technologien wie CCS können uns helfen, den Wandel so hinzukriegen, dass meine Kollegen nicht auf der Straße landen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -63,7 +66,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als aktiver Gewerkschafter setzt sich Uwe vehement für Tarifbindung ein. Die Abschaffung gesetzlicher Sicherungen für faire Löhne bei öffentlichen Ausschreibungen empfindet er als schweren Schlag gegen die Verhandlungsmacht der Beschäftigten und als staatlich gewolltes Lohndumping.",
-      "begruendung_selbst": "Wer Tarifverträge bei Landesaufträgen aushebeln will, der tritt uns Beschäftigten direkt ins Gesicht. Das hat mit Bürokratieabbau nichts zu tun, das ist eine offene Einladung an Unternehmen, sich auf unsere Kosten zu bereichern!"
+      "begruendung_selbst": "Wer Tarifverträge bei Landesaufträgen aushebeln will, der tritt uns Beschäftigten direkt ins Gesicht. Das hat mit Bürokratieabbau nichts zu tun, das ist eine offene Einladung an Unternehmen, sich auf unsere Kosten zu bereichern!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Keine Schikane gegen Erwerbslose!",
@@ -74,7 +78,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Uwe ist zwar stolz auf seine eigene harte Industriearbeit, lehnt als Gewerkschafter aber Zwangsarbeit und Sozialabbau gegen Schwächere grundlegend ab. Er befürchtet zudem, dass solche verpflichtenden Modelle reguläre, gut bezahlte Jobs in der Region verdrängen.",
-      "begruendung_selbst": "Wer die Schwächsten zu irgendwelchen Pflichtarbeiten zwingt, verdrängt auf Dauer nur reguläre Jobs, die vernünftig bezahlt gehören. Solche Schikanen schwächen unseren hart erkämpften Sozialstaat, und am Ende baden wir alle das aus."
+      "begruendung_selbst": "Wer die Schwächsten zu irgendwelchen Pflichtarbeiten zwingt, verdrängt auf Dauer nur reguläre Jobs, die vernünftig bezahlt gehören. Solche Schikanen schwächen unseren hart erkämpften Sozialstaat, und am Ende baden wir alle das aus.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kein Ausverkauf von Staatseigentum!",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Aus seiner gewerkschaftlichen Erfahrung weiß Uwe, dass Privatisierungen oft mit Personalabbau, Ausgliederungen und Tarifflucht einhergehen. Er sieht den Staat in der sozialen Verantwortung für gute Arbeitsplätze, die nicht dem reinen Profitstreben des freien Marktes geopfert werden dürfen.",
-      "begruendung_selbst": "Wir haben doch oft genug miterlebt, was bei Privatisierungen passiert: Die Investoren streichen die Rendite ein, und die Belegschaft blutet durch Leiharbeit und Lohnkürzungen. Da darf sich das Land nicht einfach aus der Verantwortung stehlen."
+      "begruendung_selbst": "Wir haben doch oft genug miterlebt, was bei Privatisierungen passiert: Die Investoren streichen die Rendite ein, und die Belegschaft blutet durch Leiharbeit und Lohnkürzungen. Da darf sich das Land nicht einfach aus der Verantwortung stehlen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Arbeiten bis zum Umfallen?",
@@ -96,7 +102,9 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Nach Jahrzehnten im fordernden Schichtbetrieb der Schwerindustrie ist Uwes körperliche Belastungsgrenze absehbar. Politische Vorstöße zur Verlängerung der Lebensarbeitszeit empfindet er als existenzielle Bedrohung und versteckte Rentenkürzung für alle hart arbeitenden Menschen in der Produktion.",
-      "begruendung_selbst": "Die feinen Herren im Büro können vielleicht mit über 65 noch locker weitermachen. Aber nach vierzig Jahren Schichtarbeit in der Anlage bist du einfach körperlich durch. Wer an der Altersgrenze rüttelt, hat null Ahnung von unserer Arbeitsrealität!"
+      "begruendung_selbst": "Die feinen Herren im Büro können vielleicht mit über 65 noch locker weitermachen. Aber nach vierzig Jahren Schichtarbeit in der Anlage bist du einfach körperlich durch. Wer an der Altersgrenze rüttelt, hat null Ahnung von unserer Arbeitsrealität!",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "titel_selbst": "Der Sonntag gehört der Familie!",
@@ -107,7 +115,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Obwohl Uwe in der Industrie selbst von Schicht- und Wochenendarbeit betroffen ist, steht er solidarisch an der Seite der Beschäftigten im Einzelhandel. Er lehnt die Ausweitung der Sonntagsarbeit für reinen Konsum ab, da sie zu Lasten der familiären Erholung und der Arbeitnehmer geht.",
-      "begruendung_selbst": "Dass bei uns die Hochöfen sonntags nicht einfach abgestellt werden können, ist klar. Aber warum muss man bitteschön sonntags einkaufen gehen? Der freie Tag muss für die Kollegen im Handel sicher bleiben, sonst geht das Familienleben komplett vor die Hunde!"
+      "begruendung_selbst": "Dass bei uns die Hochöfen sonntags nicht einfach abgestellt werden können, ist klar. Aber warum muss man bitteschön sonntags einkaufen gehen? Der freie Tag muss für die Kollegen im Handel sicher bleiben, sonst geht das Familienleben komplett vor die Hunde!",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

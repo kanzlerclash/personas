@@ -21,7 +21,8 @@
       "resonanz": "bestaetigt",
       "begruendung": "Toralf leidet massiv unter steigenden Spritkosten, da er auf das Auto angewiesen ist. Ein garantierter Höchstpreis und das Ende der CO2-Bepreisung würden ihn finanziell direkt entlasten.",
       "begruendung_selbst": "Die CO2-Steuer ist für mich reine Schikane, weil ich ohnehin keine Alternative zum Auto habe. Ein fester Spritpreis von 1,50 Euro – das wäre mal eine Politik, die bei mir im Portemonnaie ankommt!",
-      "beleg_ok": true
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "titel_selbst": "Das Auto bleibt mein Werkzeug!",

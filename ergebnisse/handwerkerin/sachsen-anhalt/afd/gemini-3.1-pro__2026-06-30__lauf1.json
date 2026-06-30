@@ -20,7 +20,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Sabine fühlt sich durch ständige Nachweis- und Dokumentationspflichten erdrückt, die sie nach Feierabend erledigen muss. Eine radikale Reduzierung von Vorgaben würde ihr direkt mehr Zeit für ihr Kerngeschäft verschaffen.",
-      "begruendung_selbst": "Ich sitze jeden Abend über Formularen statt bei meiner Familie. Wenn wirklich mal zwei alte Regeln für eine neue wegfallen, könnte ich endlich wieder mehr auf der Baustelle sein statt am Schreibtisch."
+      "begruendung_selbst": "Ich sitze jeden Abend über Formularen statt bei meiner Familie. Wenn wirklich mal zwei alte Regeln für eine neue wegfallen, könnte ich endlich wieder mehr auf der Baustelle sein statt am Schreibtisch.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wir Kleinen halten den Laden am Laufen!",
@@ -31,7 +32,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Sabine ist frustriert, dass Großkonzerne alle Förderungen abgreifen, während ihr Familienbetrieb die Hauptlast trägt. Der Fokus auf den Mittelstand entspricht exakt ihrem Gerechtigkeitsempfinden.",
-      "begruendung_selbst": "Immer kriegen die Großen die Milliarden in den Rachen geworfen, während wir Mittelständler jeden Cent zweimal umdrehen müssen. Es wird höchste Zeit, dass die Politik kapiert, wer hier wirklich die Steuern zahlt."
+      "begruendung_selbst": "Immer kriegen die Großen die Milliarden in den Rachen geworfen, während wir Mittelständler jeden Cent zweimal umdrehen müssen. Es wird höchste Zeit, dass die Politik kapiert, wer hier wirklich die Steuern zahlt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Handwerk braucht wieder Wertschätzung!",
@@ -42,7 +44,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Unternehmerin, die händeringend Auszubildende sucht, leidet Sabine akut unter dem Mangel an Fachkräften. Maßnahmen, die junge Leute früh ans Handwerk heranführen, geben ihr Hoffnung auf dringend benötigten Nachwuchs.",
-      "begruendung_selbst": "Ich finde einfach keine vernünftigen Azubis mehr, weil alle nur noch studieren wollen! So ein Handwerksjahr ist eine super Idee, damit die jungen Leute mal sehen, was man mit den eigenen Händen schaffen kann."
+      "begruendung_selbst": "Ich finde einfach keine vernünftigen Azubis mehr, weil alle nur noch studieren wollen! So ein Handwerksjahr ist eine super Idee, damit die jungen Leute mal sehen, was man mit den eigenen Händen schaffen kann.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Der Meisterbrief muss gefördert werden!",
@@ -53,7 +56,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Sabine, die ihren Betrieb bald übergeben möchte, ist es existenziell, qualifizierte Meister als potenzielle Nachfolger zu finden. Eine finanzielle Entlastung der Meisterausbildung erleichtert diesen Prozess enorm.",
-      "begruendung_selbst": "Wie soll ich meinen Betrieb mal übergeben, wenn sich kaum noch jemand den Meistertitel leisten kann? Wenn die Ausbildung kostenlos wird, trauen sich vielleicht mehr von meinen Gesellen diesen Schritt zu."
+      "begruendung_selbst": "Wie soll ich meinen Betrieb mal übergeben, wenn sich kaum noch jemand den Meistertitel leisten kann? Wenn die Ausbildung kostenlos wird, trauen sich vielleicht mehr von meinen Gesellen diesen Schritt zu.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wer Hilfe kriegt, kann auch anpacken!",
@@ -64,7 +68,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Sabine vertritt das Prinzip Fördern und Fordern und hat wenig Verständnis für leistungslose Einkommen. Der Ansatz, Transferempfänger zu Gegenleistungen zu verpflichten, entspricht ihrer handfesten Arbeitsethik.",
-      "begruendung_selbst": "Wir arbeiten hart für unser Geld und zahlen ordentlich Steuern. Da ist es nur fair, dass diejenigen, die vom Staat leben, auch ihren Teil beitragen und mit anpacken, wo es geht."
+      "begruendung_selbst": "Wir arbeiten hart für unser Geld und zahlen ordentlich Steuern. Da ist es nur fair, dass diejenigen, die vom Staat leben, auch ihren Teil beitragen und mit anpacken, wo es geht.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -77,7 +82,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als SHK-Meisterin ist der Einbau von Heizungen ihr Kerngeschäft. Ein abruptes Ende aller Förderungen würde ihre Kunden massiv verunsichern, Aufträge stornieren lassen und genau die Unplanbarkeit erzeugen, die sie verabscheut.",
-      "begruendung_selbst": "Das darf doch nicht wahr sein! Wenn die auf einen Schlag alle Förderungen für Wärmepumpen streichen, springen mir reihenweise die Kunden ab. Ich brauche Verlässlichkeit und kein ständiges politisches Hin und Her!"
+      "begruendung_selbst": "Das darf doch nicht wahr sein! Wenn die auf einen Schlag alle Förderungen für Wärmepumpen streichen, springen mir reihenweise die Kunden ab. Ich brauche Verlässlichkeit und kein ständiges politisches Hin und Her!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wir leben doch nicht im Mittelalter!",
@@ -88,7 +94,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Sabine treibt in ihrem Betrieb die Digitalisierung voran und braucht Auszubildende, die mit Tablets für Disposition und Baudokumentation umgehen können. Eine Rückwärtsgewandtheit bei der schulischen IT-Ausstattung hält sie für realitätsfern.",
-      "begruendung_selbst": "Die Kids von heute sollen unsere digitalen Baupläne und Auftrags-Apps auf der Baustelle bedienen können! Wenn die Schulen sich komplett gegen Tablets sperren, müssen wir im Betrieb wieder ganz von vorn anfangen."
+      "begruendung_selbst": "Die Kids von heute sollen unsere digitalen Baupläne und Auftrags-Apps auf der Baustelle bedienen können! Wenn die Schulen sich komplett gegen Tablets sperren, müssen wir im Betrieb wieder ganz von vorn anfangen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klimaschutz darf nicht komplett zurückgedreht werden!",
@@ -99,7 +106,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Sabine ist zwar genervt von praxisfremden Heizungsgesetzen, aber sie ist nicht grundsätzlich gegen Klimaschutz. Eine komplette Abschaffung aller Planungen zerstört die Geschäftsgrundlage für energetische Sanierungen, auf die sich ihr Betrieb längst eingestellt hat.",
-      "begruendung_selbst": "Klar hat uns das Heizungsgesetz geärgert, aber wir haben uns darauf eingestellt und Schulungen gemacht! Wenn jetzt wieder alles komplett gekippt wird, war die ganze Mühe umsonst und das Chaos geht von vorn los."
+      "begruendung_selbst": "Klar hat uns das Heizungsgesetz geärgert, aber wir haben uns darauf eingestellt und Schulungen gemacht! Wenn jetzt wieder alles komplett gekippt wird, war die ganze Mühe umsonst und das Chaos geht von vorn los.",
+      "beleg_ok": true
     }
   ],
   "gesamt": [

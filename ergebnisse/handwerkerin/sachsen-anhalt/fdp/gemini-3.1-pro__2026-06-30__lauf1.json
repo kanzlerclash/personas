@@ -28,7 +28,9 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Sabine sieht darin eine direkte Antwort auf ihr Hauptärgernis, da sie durch den Abbau von Formularen wieder mehr Zeit für das eigentliche Handwerk und die Betriebsführung hätte.",
-      "begruendung_selbst": "Ich brauche meine Zeit für Kunden und Angebote, nicht für Aktenordner. Wenn das wirklich kommt, kann ich abends endlich mal wieder durchatmen."
+      "begruendung_selbst": "Ich brauche meine Zeit für Kunden und Angebote, nicht für Aktenordner. Wenn das wirklich kommt, kann ich abends endlich mal wieder durchatmen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "titel_selbst": "Fachkräfte aus dem Ausland!",
@@ -39,7 +41,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Sabine händeringend Personal sucht, unterstützt sie den pragmatischen Ansatz, arbeitswilligen Migranten schneller den Weg in ihren Betrieb zu ebnen.",
-      "begruendung_selbst": "Wer anpacken kann und will, soll bei mir anfangen dürfen. Da interessieren mich keine perfekten Sprachzertifikate, sondern ob derjenige den Schraubenschlüssel halten kann."
+      "begruendung_selbst": "Wer anpacken kann und will, soll bei mir anfangen dürfen. Da interessieren mich keine perfekten Sprachzertifikate, sondern ob derjenige den Schraubenschlüssel halten kann.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klimaschutz mit Verstand, nicht Verboten!",
@@ -50,7 +53,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Sabines Frust über praxisferne Regulierung wie das Heizungsgesetz wird hier aufgegriffen; sie begrüßt die klare Absage an dirigistische Klimapolitik, die ihre Kunden verunsichert.",
-      "begruendung_selbst": "Endlich sagt mal jemand, dass wir mit ständigen neuen Verboten nicht weiterkommen. Meine Kunden wollen Planungssicherheit und keine grünen Ideologie-Experimente im Heizungskeller."
+      "begruendung_selbst": "Endlich sagt mal jemand, dass wir mit ständigen neuen Verboten nicht weiterkommen. Meine Kunden wollen Planungssicherheit und keine grünen Ideologie-Experimente im Heizungskeller.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Überstunden ohne Steuerabzug!",
@@ -61,7 +65,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Sabine befürwortet diese Forderung stark, weil es ihr helfen würde, ihre Mitarbeiter bei voller Auftragslage zu Mehrarbeit zu motivieren, da sich die zusätzliche Leistung wieder finanziell bemerkbar machen würde.",
-      "begruendung_selbst": "Wenn meine Jungs für einen dringenden Heizungstausch länger bleiben, darf der Staat nicht die Hälfte kassieren. Das motiviert endlich wieder zur Arbeit!"
+      "begruendung_selbst": "Wenn meine Jungs für einen dringenden Heizungstausch länger bleiben, darf der Staat nicht die Hälfte kassieren. Das motiviert endlich wieder zur Arbeit!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wer bleiben will, muss arbeiten!",
@@ -72,7 +77,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Sabines Prinzip von Leistung und Gegenleistung findet sich in dieser harten Konditionierung wieder, da sie erwartet, dass sich Arbeit lohnen muss und Transferleistungen nicht der Regelfall sein dürfen.",
-      "begruendung_selbst": "Ganz einfach: Wer hier dauerhaft leben will, muss seinen eigenen Beitrag leisten. Ohne Fleiß kein Preis, so funktioniert das bei mir im Betrieb schließlich auch."
+      "begruendung_selbst": "Ganz einfach: Wer hier dauerhaft leben will, muss seinen eigenen Beitrag leisten. Ohne Fleiß kein Preis, so funktioniert das bei mir im Betrieb schließlich auch.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Jugend ab in die Betriebe!",
@@ -83,7 +89,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Für Sabine ist diese Maßnahme ein wichtiger Schritt gegen den Fachkräftemangel, da so frühzeitig Nachwuchs für Handwerksberufe abseits der reinen Akademisierung begeistert werden kann.",
-      "begruendung_selbst": "Wir müssen die jungen Leute rechtzeitig aus den Klassenzimmern holen und ihnen zeigen, was wir Handwerker leisten. Nur so kriege ich irgendwann wieder Auszubildende."
+      "begruendung_selbst": "Wir müssen die jungen Leute rechtzeitig aus den Klassenzimmern holen und ihnen zeigen, was wir Handwerker leisten. Nur so kriege ich irgendwann wieder Auszubildende.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -96,7 +103,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Sabine fühlt sich durch solche Pläne in ihrer Sorge bestätigt, dass der Staat einseitig große Konzerne bevorzugt, während der heimische Mittelstand die reguläre Steuerlast schultern muss.",
-      "begruendung_selbst": "Die großen Fische wie Intel zahlen keinen Cent Steuern und kriegen den roten Teppich ausgerollt, und wir kleinen Familienbetriebe dürfen den ganzen Laden am Laufen halten. Das ist einfach nur unfair!"
+      "begruendung_selbst": "Die großen Fische wie Intel zahlen keinen Cent Steuern und kriegen den roten Teppich ausgerollt, und wir kleinen Familienbetriebe dürfen den ganzen Laden am Laufen halten. Das ist einfach nur unfair!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Nur Geschenke für Start-ups?",
@@ -107,7 +115,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Sabine sieht es kritisch, dass Entlastungen gezielt nur Neugründungen zugutekommen sollen, während sie als etablierte Unternehmerin weiterhin alle Auflagen und Kammerbeiträge voll erfüllen muss.",
-      "begruendung_selbst": "Warum sollen nur die hippen Start-ups Privilegien kriegen? Wir bilden aus, zahlen seit Jahrzehnten Steuern und Beiträge, und für uns Alt-Eingesessene gibt es keinen Rabatt bei der Bürokratie."
+      "begruendung_selbst": "Warum sollen nur die hippen Start-ups Privilegien kriegen? Wir bilden aus, zahlen seit Jahrzehnten Steuern und Beiträge, und für uns Alt-Eingesessene gibt es keinen Rabatt bei der Bürokratie.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

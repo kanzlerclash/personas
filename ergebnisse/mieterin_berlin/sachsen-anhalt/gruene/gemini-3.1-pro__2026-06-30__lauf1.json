@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Carla ist extrem erfreut über die Forderung nach einem Mietendeckel. Für sie ist dies das einzig wirksame politische Instrument, um ihre drängendste Sorge – den unaufhaltsamen Anstieg ihrer Altbaumiete – in den Griff zu bekommen.",
-      "begruendung_selbst": "Genau das brauche ich! Wenn der Deckel kommt, muss ich nicht jeden Monat Angst vor der nächsten, existenzbedrohenden Mieterhöhung haben. Ein starkes Zeichen gegen die explodierenden Preise!"
+      "begruendung_selbst": "Genau das brauche ich! Wenn der Deckel kommt, muss ich nicht jeden Monat Angst vor der nächsten, existenzbedrohenden Mieterhöhung haben. Ein starkes Zeichen gegen die explodierenden Preise!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Die Stadt kauft den Kiez zurück!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Carla ist das kommunale Vorkaufsrecht ein entscheidendes Mittel gegen die Verdrängung in begehrten Innenstadtlagen. Sie sieht darin einen wirksamen Hebel, um ihre Wohnung und ihre Nachbarschaft vor renditeorientierten Investoren zu schützen.",
-      "begruendung_selbst": "Wenn die Stadt Wohnungen vorkaufen kann, bevor die Spekulanten zuschlagen, schützt das mein Zuhause. So bleibt unser Kiez endlich in unserer Hand und wird nicht weiter an die Meistbietenden verramscht."
+      "begruendung_selbst": "Wenn die Stadt Wohnungen vorkaufen kann, bevor die Spekulanten zuschlagen, schützt das mein Zuhause. So bleibt unser Kiez endlich in unserer Hand und wird nicht weiter an die Meistbietenden verramscht.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wohnen für Menschen, nicht Profite!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Carla befürwortet eine Abkehr von der reinen Marktlogik im Wohnungswesen. Die gezielte Unterstützung von gemeinwohlorientierten Modellen wie Genossenschaften entspricht exakt ihrer Vorstellung von Wohnen als Daseinsvorsorge.",
-      "begruendung_selbst": "Miethausprojekte und Genossenschaften sind die Zukunft. Wohnen ist für Menschen da, nicht für Aktionäre, und solche Modelle beweisen, dass es auch ohne ständige Profitgier und Verdrängung funktioniert."
+      "begruendung_selbst": "Miethausprojekte und Genossenschaften sind die Zukunft. Wohnen ist für Menschen da, nicht für Aktionäre, und solche Modelle beweisen, dass es auch ohne ständige Profitgier und Verdrängung funktioniert.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wohnen ist ein Menschenrecht!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Carla ist solidarisch mit anderen Mieterinnen und Mietern in prekären Lagen. Der geforderte Räumungsstopp bestätigt ihre Überzeugung, dass der Staat eine soziale Schutzfunktion erfüllen muss und niemand sein Dach über dem Kopf verlieren darf.",
-      "begruendung_selbst": "Es darf einfach nicht sein, dass Menschen auf die Straße gesetzt werden, nur weil sie mal in Rückstand geraten. Wohnen ist absolute Daseinsvorsorge, da muss die öffentliche Hand als Vermieterin soziale Verantwortung übernehmen."
+      "begruendung_selbst": "Es darf einfach nicht sein, dass Menschen auf die Straße gesetzt werden, nur weil sie mal in Rückstand geraten. Wohnen ist absolute Daseinsvorsorge, da muss die öffentliche Hand als Vermieterin soziale Verantwortung übernehmen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Platz für uns im Kiez!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Carla kein eigenes Auto besitzt und sich hauptsächlich zu Fuß, mit dem Rad oder ÖPNV fortbewegt, unterstützt sie Pläne für autoarme Innenstädte voll und ganz. Sie erhofft sich dadurch mehr Lebensqualität in ihrem Wohnumfeld.",
-      "begruendung_selbst": "Autos nehmen in unserer Stadt viel zu viel wertvollen Raum weg. Ein autofreier Kiez bedeutet, dass wir endlich wieder durchatmen und uns auf der Straße sicher bewegen können, ohne ständigen Lärm und Abgase."
+      "begruendung_selbst": "Autos nehmen in unserer Stadt viel zu viel wertvollen Raum weg. Ein autofreier Kiez bedeutet, dass wir endlich wieder durchatmen und uns auf der Straße sicher bewegen können, ohne ständigen Lärm und Abgase.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Carla ist tief in ihrem Berliner Kiez verwurzelt und kämpft gegen Verdrängung. Sie empfindet den Vorstoß, die Wohnungskrise durch einen Wegzug aufs Land lösen zu wollen, als Ablenkung von echten Schutzmaßnahmen und als Zumutung.",
-      "begruendung_selbst": "Das ist doch wohl ein Witz! Statt die Spekulanten hier bei uns in die Schranken zu weisen, wollt ihr uns einfach aufs Land abschieben? Ich bin tief in meinem Kiez verwurzelt und lasse mich sicher nicht von einer Werbekampagne vertreiben!"
+      "begruendung_selbst": "Das ist doch wohl ein Witz! Statt die Spekulanten hier bei uns in die Schranken zu weisen, wollt ihr uns einfach aufs Land abschieben? Ich bin tief in meinem Kiez verwurzelt und lasse mich sicher nicht von einer Werbekampagne vertreiben!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Prüfen reicht nicht mehr aus!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Carla ist frustriert von politischen Versprechungen, die in der Praxis oft wirkungslos bleiben. Dass ein wichtiges Transparenzinstrument wie das Mietenkataster nur geprüft werden soll, ist ihr angesichts der akuten Mietenkrise viel zu mutlos.",
-      "begruendung_selbst": "„Ergebnisoffen prüfen“? Wir haben keine Zeit mehr für ewige Prüfschleifen! Die Mieten explodieren jetzt, wir brauchen endlich harte Fakten auf dem Tisch und klare Kante gegen Vermieter – keine wachsweichen Absichtserklärungen, die am Ende wieder im Sande verlaufen."
+      "begruendung_selbst": "„Ergebnisoffen prüfen“? Wir haben keine Zeit mehr für ewige Prüfschleifen! Die Mieten explodieren jetzt, wir brauchen endlich harte Fakten auf dem Tisch und klare Kante gegen Vermieter – keine wachsweichen Absichtserklärungen, die am Ende wieder im Sande verlaufen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

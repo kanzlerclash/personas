@@ -9,7 +9,8 @@
       "zitat": "Die kleinen und mittleren Unternehmen (KMU) bilden das Rückgrat unserer Wirtschaft.",
       "seite": 20,
       "erklaerung": "Als mittelständische Unternehmerin fühlt sie sich und ihren Beitrag zur Gesellschaft vom BSW anerkannt und wertgeschätzt.",
-      "resonanz": "bestaetigt"
+      "resonanz": "bestaetigt",
+      "beleg_ok": true
     },
     {
       "thema": "arbeit",
@@ -17,7 +18,8 @@
       "zitat": "Berufliche Bildung, Handwerk und Meisterqualifikation aufwerten und unterstützen",
       "seite": 23,
       "erklaerung": "Als stolze Meisterin, die selbst ausbildet, befürwortet sie die Aufwertung der Meisterqualifikation und der beruflichen Bildung sehr.",
-      "resonanz": "bestaetigt"
+      "resonanz": "bestaetigt",
+      "beleg_ok": true
     },
     {
       "thema": "energie",
@@ -25,7 +27,8 @@
       "zitat": "Daher fordern wir, diese ungerechte Steuer auszusetzen oder abzuschaffen.",
       "seite": 27,
       "erklaerung": "Die Abschaffung der CO2-Abgabe würde ihren energieintensiven Betrieb und ihre Kunden finanziell entlasten.",
-      "resonanz": "bestaetigt"
+      "resonanz": "bestaetigt",
+      "beleg_ok": true
     },
     {
       "thema": "wohnen",
@@ -33,7 +36,8 @@
       "zitat": "Ein Moratorium für immer neue Bauvorschriften und eine Entschlackung der Normen",
       "seite": 31,
       "erklaerung": "Weniger bürokratische Bauvorgaben sind ganz in ihrem Sinne, da die Überregulierung ihre Aufträge und Kunden lähmt.",
-      "resonanz": "bestaetigt"
+      "resonanz": "bestaetigt",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -43,7 +47,8 @@
       "zitat": "die Meisterbindung nicht zwingend erforderlich ist",
       "seite": 23,
       "erklaerung": "Eine mögliche Aufweichung der Meisterpflicht sieht sie als massiven Qualitätsverlust und Bedrohung für ihr professionelles Handwerk.",
-      "resonanz": "konträr"
+      "resonanz": "konträr",
+      "beleg_ok": true
     },
     {
       "thema": "arbeit",
@@ -51,7 +56,8 @@
       "zitat": "Mindestlohn von 15,00 Euro ohne Ausnahmen",
       "seite": 36,
       "erklaerung": "Ein staatlich diktierter, stark erhöhter Mindestlohn setzt das bestehende Lohngefüge unter Druck und verteuert Handwerksleistungen erheblich.",
-      "resonanz": "konträr"
+      "resonanz": "konträr",
+      "beleg_ok": true
     },
     {
       "thema": "steuern",
@@ -59,7 +65,8 @@
       "zitat": "Novellierung der Erbschaft- und Schenkungssteuer",
       "seite": 36,
       "erklaerung": "Die geplante Streichung von Ausnahmeregelungen könnte die anstehende Übergabe ihres Betriebes an den Sohn massiv verteuern.",
-      "resonanz": "konträr"
+      "resonanz": "konträr",
+      "beleg_ok": true
     }
   ],
   "gesamt": 1

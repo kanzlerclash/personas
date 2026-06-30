@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin leidet im Schichtdienst stark unter der immensen Arbeitsverdichtung und dem Bürokratieaufwand. Der Abbau von Dokumentationspflichten würde ihr im Alltag spürbar Zeit für die eigentliche Pflege zurückgeben.",
-      "begruendung_selbst": "Wenn ich weniger am Rechner hänge, habe ich wieder mehr Zeit für die Patienten. Das ist genau das, was wir auf Station dringend brauchen."
+      "begruendung_selbst": "Wenn ich weniger am Rechner hänge, habe ich wieder mehr Zeit für die Patienten. Das ist genau das, was wir auf Station dringend brauchen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gute Nachricht für unsere ausländischen Kollegen!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Kerstins Station ohne migrantisches Personal nicht mehr funktionieren würde, hofft sie inständig auf pragmatische Lösungen gegen den Personalmangel. Die beschleunigte Arbeitsaufnahme ausländischer Fachkräfte lindert ihre unmittelbare Arbeitslast.",
-      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht. Wenn die endlich schneller bei uns anfangen dürfen, ist uns allen enorm geholfen."
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht. Wenn die endlich schneller bei uns anfangen dürfen, ist uns allen enorm geholfen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Das lohnt sich auf dem Konto.",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Aufgrund der chronischen Unterbesetzung muss Kerstin regelmäßig einspringen und Überstunden leisten. Wenn diese steuerfrei gestellt werden, würde sich ihre hohe Belastung zumindest finanziell stärker auszahlen.",
-      "begruendung_selbst": "Ich reiße ständig Überstunden ab, weil wir chronisch unterbesetzt sind. Wenn davon am Ende steuerfrei mehr übrig bleibt, ist das ein echter Lichtblick."
+      "begruendung_selbst": "Ich reiße ständig Überstunden ab, weil wir chronisch unterbesetzt sind. Wenn davon am Ende steuerfrei mehr übrig bleibt, ist das ein echter Lichtblick.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Faire Zuschläge für harte Schichten!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Kerstin prägt der Wechselschichtdienst den gesamten Alltag. Dass die FDP finanzielle Zulagen für Schichtarbeit sichern und weiter ausbauen will, wertet ihre anstrengenden Arbeitszeiten auf.",
-      "begruendung_selbst": "Mein ganzer Alltag richtet sich nach dem Dienstplan. Dass unsere Zulagen für diese unchristlichen Zeiten gesichert und ausgebaut werden, zeigt wenigstens etwas Anerkennung."
+      "begruendung_selbst": "Mein ganzer Alltag richtet sich nach dem Dienstplan. Dass unsere Zulagen für diese unchristlichen Zeiten gesichert und ausgebaut werden, zeigt wenigstens etwas Anerkennung.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Kerstin sieht die zunehmende Ökonomisierung des Gesundheitssystems äußerst kritisch. Die Forderung nach unternehmerischer Freiheit weckt bei ihr die Angst, dass Renditeerwartungen privater Träger noch stärker auf Kosten des Personals gehen.",
-      "begruendung_selbst": "Pflege ist Daseinsvorsorge, kein Business! Wenn hier noch mehr auf unternehmerischen Profit geschaut wird, wird unsere Arbeit auf Station endgültig kaputtgespart."
+      "begruendung_selbst": "Pflege ist Daseinsvorsorge, kein Business! Wenn hier noch mehr auf unternehmerischen Profit geschaut wird, wird unsere Arbeit auf Station endgültig kaputtgespart.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Noch mehr Privatisierung? Bloß nicht!",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als solidarisch eingestellte Arbeitnehmerin steht Kerstin dem Verkauf von öffentlichem Eigentum und Daseinsvorsorge ablehnend gegenüber, da sie Profitlogik im sozialen Bereich für gefährlich hält.",
-      "begruendung_selbst": "Im Krankenhaus merke ich jeden Tag, was passiert, wenn die Rendite wichtiger ist als der Mensch. Eine Privatisierungsoffensive ist der völlig falsche Weg für unsere Gesellschaft."
+      "begruendung_selbst": "Im Krankenhaus merke ich jeden Tag, was passiert, wenn die Rendite wichtiger ist als der Mensch. Eine Privatisierungsoffensive ist der völlig falsche Weg für unsere Gesellschaft.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Tarifbindung gibt uns Sicherheit!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Kerstin ist arbeitnehmerorientiert und vertraut auf Gewerkschaften. Der geplante Abbau von Tariftreuevorgaben widerspricht ihrem Sinn für faire, verlässliche Bezahlung und gerechte Arbeitsbedingungen fundamental.",
-      "begruendung_selbst": "Faire Löhne gibt es nur mit starken Tarifen. Dass der Staat Aufträge auch an Firmen ohne Tarifbindung vergeben soll, ist ein Schlag ins Gesicht für alle hart arbeitenden Menschen."
+      "begruendung_selbst": "Faire Löhne gibt es nur mit starken Tarifen. Dass der Staat Aufträge auch an Firmen ohne Tarifbindung vergeben soll, ist ein Schlag ins Gesicht für alle hart arbeitenden Menschen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Zwangsarbeit hilft niemandem weiter.",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als fürsorgliche Pflegekraft mit einem solidarischen Menschenbild lehnt Kerstin Sanktionen und Arbeitszwang für Bedürftige ab. Solche Maßnahmen widersprechen ihrer Auffassung von einem respektvollen und stützenden Sozialstaat.",
-      "begruendung_selbst": "Menschen unter Druck zu setzen und zur Arbeit zu zwingen, hat mit Solidarität nichts zu tun. Wir müssen die Leute unterstützen und nicht abstrafen."
+      "begruendung_selbst": "Menschen unter Druck zu setzen und zur Arbeit zu zwingen, hat mit Solidarität nichts zu tun. Wir müssen die Leute unterstützen und nicht abstrafen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

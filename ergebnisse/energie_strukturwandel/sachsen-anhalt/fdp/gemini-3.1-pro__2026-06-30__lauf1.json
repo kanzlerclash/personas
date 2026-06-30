@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny sieht in der CCS-Technologie eine unverzichtbare Brücke, um die Industrie in seiner Region zu erhalten. Der pragmatische Ansatz der Partei, diese Technik aktiv zu erproben statt sie zu blockieren, deckt sich exakt mit seinen Hoffnungen.",
-      "begruendung_selbst": "Wir brauchen CCS als Brücke, um unsere Anlagen und Jobs hier zu halten. Wer das pauschal verbietet, dreht uns den Saft ab, bevor das Neue überhaupt steht. Gut, dass man das hier endlich pragmatisch anpackt."
+      "begruendung_selbst": "Wir brauchen CCS als Brücke, um unsere Anlagen und Jobs hier zu halten. Wer das pauschal verbietet, dreht uns den Saft ab, bevor das Neue überhaupt steht. Gut, dass man das hier endlich pragmatisch anpackt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Unsere Ressourcen weiter nutzen.",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Energiewirtschaftler lehnt er hastige Ausstiegsdaten ohne sicheren Ersatz ab. Dass das Programm auf heimische Energieträger setzt und Technologieverbote aufheben will, gibt ihm und seinem Sektor das Gefühl von mehr Planungssicherheit.",
-      "begruendung_selbst": "Unsere eigenen Ressourcen pauschal zu verbieten, hilft niemandem, wenn wir dann alles teuer importieren müssen. Wir müssen fördern, was wir haben – das sichert nicht nur die Versorgung, sondern auch unsere Arbeitsplätze."
+      "begruendung_selbst": "Unsere eigenen Ressourcen pauschal zu verbieten, hilft niemandem, wenn wir dann alles teuer importieren müssen. Wir müssen fördern, was wir haben – das sichert nicht nur die Versorgung, sondern auch unsere Arbeitsplätze.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Neue Industrie statt nur Ausstieg.",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Er fürchtet, dass seine Heimat nach dem Kohleausstieg zur perspektivlosen verlängerten Werkbank verkommt. Der Vorstoß, gezielt hochinnovative Energiewirtschaft im Land anzusiedeln, verspricht die gut bezahlten Industriejobs, die er sich für seine Region wünscht.",
-      "begruendung_selbst": "Einfach nur Kraftwerke abschalten reicht nicht, wir müssen auch was Neues aufbauen! Wenn wir moderne Forschung und Energieanlagen hierherholen, gibt das unserem Revier endlich eine echte wirtschaftliche Perspektive."
+      "begruendung_selbst": "Einfach nur Kraftwerke abschalten reicht nicht, wir müssen auch was Neues aufbauen! Wenn wir moderne Forschung und Energieanlagen hierherholen, gibt das unserem Revier endlich eine echte wirtschaftliche Perspektive.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Faire Strompreise für Erzeuger!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Er weiß aus seinem Berufsalltag um die immense Preislast, die der Netzausbau mit sich bringt. Eine finanzielle Entlastung seiner stark an der Stromproduktion beteiligten Heimatregion empfindet er als dringend notwendigen Schritt der Gerechtigkeit.",
-      "begruendung_selbst": "Wir produzieren hier massenhaft Strom für den Rest der Republik und dürfen dafür die höchsten Netzentgelte zahlen. Es ist nur fair, dass das korrigiert wird, damit unsere Industrie wettbewerbsfähig bleibt."
+      "begruendung_selbst": "Wir produzieren hier massenhaft Strom für den Rest der Republik und dürfen dafür die höchsten Netzentgelte zahlen. Es ist nur fair, dass das korrigiert wird, damit unsere Industrie wettbewerbsfähig bleibt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Tempo beim Netzausbau!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Netz- und Anlagenbauer leidet er unter der massiven Bürokratie, die Projekte blockiert. Die Forderung nach drastisch verkürzten Verfahren spricht ihm aus der Seele, da so der dringend nötige Umbau realisierbar wird.",
-      "begruendung_selbst": "Wir reden uns seit Jahren den Mund fusselig, aber beim Ausbau der Netze dauert alles ewig. Wenn hier endlich mal jemand die Bremse löst und die Verfahren abkürzt, kommen wir beim Wandel auch wirklich voran."
+      "begruendung_selbst": "Wir reden uns seit Jahren den Mund fusselig, aber beim Ausbau der Netze dauert alles ewig. Wenn hier endlich mal jemand die Bremse löst und die Verfahren abkürzt, kommen wir beim Wandel auch wirklich voran.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Respekt für Facharbeiter!",
@@ -83,7 +88,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Als Techniker wünscht er sich mehr gesellschaftliche Anerkennung für klassische Handwerks- und Industrieberufe. Die politische Forderung nach mehr Sichtbarkeit und Respekt für den dualen Bildungsweg wertet seine eigene Lebensleistung auf.",
-      "begruendung_selbst": "Es müssen nicht alle studieren gehen. Wir Facharbeiter und Techniker halten den Laden hier draußen am Laufen. Es wird wirklich Zeit, dass unsere berufliche Ausbildung wieder den Respekt bekommt, den sie verdient."
+      "begruendung_selbst": "Es müssen nicht alle studieren gehen. Wir Facharbeiter und Techniker halten den Laden hier draußen am Laufen. Es wird wirklich Zeit, dass unsere berufliche Ausbildung wieder den Respekt bekommt, den sie verdient.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Ronny befürchtet, dass ein rein marktgetriebener Wandel über CO2-Preise zu harten Brüchen führt. Ohne flankierenden politischen Plan sieht er die Gefahr, dass regionale Industriezweige abrupt unrentabel werden, bevor neue Jobs überhaupt entstanden sind.",
-      "begruendung_selbst": "Wenn nur der blinde Markt und der CO2-Preis entscheiden, wann bei uns die Lichter ausgehen, passiert das vielleicht von heute auf morgen. Ein Preis ist noch lange kein Plan – der baut uns keine neuen Fabriken."
+      "begruendung_selbst": "Wenn nur der blinde Markt und der CO2-Preis entscheiden, wann bei uns die Lichter ausgehen, passiert das vielleicht von heute auf morgen. Ein Preis ist noch lange kein Plan – der baut uns keine neuen Fabriken.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Strukturwandel braucht gezieltes Geld!",
@@ -107,7 +114,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Für den tiefgreifenden Wandel seiner vom Kohleausstieg betroffenen Region sind zielgerichtete, massive Investitionen unabdingbar. Eine pauschale Gießkannen-Förderung an alle Kommunen weckt in ihm die Sorge, dass für entscheidende Großansiedlungen in seinem Revier das Geld fehlen wird.",
-      "begruendung_selbst": "Wenn man jetzt die speziellen Fördertöpfe einkassiert und das Geld einfach pauschal an jeden verteilt, versickert das doch bloß. Wir hier im Strukturwandel brauchen gebündelte Investitionen, sonst wird das nichts mit dem neuen Aufschwung."
+      "begruendung_selbst": "Wenn man jetzt die speziellen Fördertöpfe einkassiert und das Geld einfach pauschal an jeden verteilt, versickert das doch bloß. Wir hier im Strukturwandel brauchen gebündelte Investitionen, sonst wird das nichts mit dem neuen Aufschwung.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Unsere Netze nicht verschleudern!",
@@ -118,7 +126,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "In der Energiewirtschaft haben kommunale und landeseigene Unternehmen oft eine stabilisierende Wirkung für Arbeitsplätze. Er betrachtet eine dogmatische Privatisierungsoffensive kritisch, da er Einsparungen zulasten der regionalen Belegschaften und der sicheren Versorgung befürchtet.",
-      "begruendung_selbst": "Staatsbeteiligungen blind zu privatisieren, halte ich für brandgefährlich. Gerade bei unserer Energieinfrastruktur brauchen wir Verlässlichkeit und sichere Arbeitsplätze vor Ort. Da darf nicht nur die schnelle Rendite für irgendwelche Investoren zählen."
+      "begruendung_selbst": "Staatsbeteiligungen blind zu privatisieren, halte ich für brandgefährlich. Gerade bei unserer Energieinfrastruktur brauchen wir Verlässlichkeit und sichere Arbeitsplätze vor Ort. Da darf nicht nur die schnelle Rendite für irgendwelche Investoren zählen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

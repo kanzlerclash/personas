@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Angestellte in der Stadtverwaltung spürt Aylin die bürokratischen Hürden im Alltag, weshalb sie pragmatische Erleichterungen für ihre Behörde grundsätzlich begrüßt.",
-      "begruendung_selbst": "In meinem Job im Amt ertrinken wir oft in Vorschriften. Wenn da wirklich mal Abläufe entstaubt würden, wäre das eine echte Erleichterung für uns alle."
+      "begruendung_selbst": "In meinem Job im Amt ertrinken wir oft in Vorschriften. Wenn da wirklich mal Abläufe entstaubt würden, wäre das eine echte Erleichterung für uns alle.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Stärkung der Kommunen ist richtig!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Aylin bedeutet eine gute finanzielle Basis der Kommunen direkte Arbeitsplatzsicherheit und mehr Handlungsspielraum in der örtlichen Verwaltung, in der sie tätig ist.",
-      "begruendung_selbst": "Unsere Stadtkassen sind oft klamm. Wenn die Kommunen finanziell besser ausgestattet werden, sichert das nicht nur meinen Job, sondern hilft uns, echte Probleme vor Ort zu lösen."
+      "begruendung_selbst": "Unsere Stadtkassen sind oft klamm. Wenn die Kommunen finanziell besser ausgestattet werden, sichert das nicht nur meinen Job, sondern hilft uns, echte Probleme vor Ort zu lösen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kostenlose Kitas helfen Familien enorm!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Da sie an gerechten Chancen und der Vereinbarkeit von Familie und Beruf interessiert ist, befürwortet Aylin den flächendeckend kostenlosen Zugang zu Betreuungseinrichtungen.",
-      "begruendung_selbst": "Kostenlose Kitas sind für arbeitende Eltern eine enorme Entlastung. Es ist nur gerecht und richtig, wenn das flächendeckend und zuverlässig vom Land finanziert wird."
+      "begruendung_selbst": "Kostenlose Kitas sind für arbeitende Eltern eine enorme Entlastung. Es ist nur gerecht und richtig, wenn das flächendeckend und zuverlässig vom Land finanziert wird.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -63,7 +66,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Aylin ist in Deutschland geboren und eingebürgert; die Forderung nach dem Abstammungsprinzip spricht ihr die fundamentale Zugehörigkeit zum Land, in dem sie aufgewachsen ist, pauschal ab.",
-      "begruendung_selbst": "Ich bin hier geboren und lebe hier. Wenn wieder nur noch die Abstammung zählen soll, wird Menschen wie mir pauschal das Recht abgesprochen, echte Deutsche zu sein."
+      "begruendung_selbst": "Ich bin hier geboren und lebe hier. Wenn wieder nur noch die Abstammung zählen soll, wird Menschen wie mir pauschal das Recht abgesprochen, echte Deutsche zu sein.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mein Pass ist keine Ramschware!",
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Die herabwürdigende Wortwahl suggeriert, dass Eingebürgerte wie Aylin ihren Pass nicht verdienen, was ihre Sorge vor Alltagsdiskriminierung und mangelnder Anerkennung massiv schürt.",
-      "begruendung_selbst": "Mein Pass ist keine ‚Ramschware‘, sondern das Ergebnis harter Arbeit und voller Teilhabe. So eine entwürdigende Sprache entwertet meine gesamte Lebensleistung."
+      "begruendung_selbst": "Mein Pass ist keine ‚Ramschware‘, sondern das Ergebnis harter Arbeit und voller Teilhabe. So eine entwürdigende Sprache entwertet meine gesamte Lebensleistung.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Remigration spaltet unsere Gesellschaft!",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Befürworterin einer sachlichen Migrationspolitik empfindet Aylin den aktiv geförderten Begriff der Remigration als zutiefst bedrohlich und ausgrenzend gegenüber allen Menschen mit Migrationsgeschichte.",
-      "begruendung_selbst": "Wir brauchen kluge Integration, keine ‚Remigrationslotsen‘. Dieses ständige Gerede vom Rauswerfen vergiftet das Klima für uns alle in diesem Land."
+      "begruendung_selbst": "Wir brauchen kluge Integration, keine ‚Remigrationslotsen‘. Dieses ständige Gerede vom Rauswerfen vergiftet das Klima für uns alle in diesem Land.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sündenböcke statt echter Lösungen!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Mitarbeiterin im öffentlichen Dienst ärgert es Aylin, wenn komplexe Arbeitsmarktprobleme und Personalmangel in den Behörden populistisch allein auf Migranten abgewälzt werden.",
-      "begruendung_selbst": "Als Verwaltungsangestellte weiß ich, dass unser Personalmangel viele Ursachen hat. Das jetzt einfach pauschal den Zuwanderern in die Schuhe zu schieben, ist billig und spaltend."
+      "begruendung_selbst": "Als Verwaltungsangestellte weiß ich, dass unser Personalmangel viele Ursachen hat. Das jetzt einfach pauschal den Zuwanderern in die Schuhe zu schieben, ist billig und spaltend.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Pauschaler Verdacht ist inakzeptabel!",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Aylin bewertet Menschen nach ihrer Leistung und Teilhabe; die pauschale Verknüpfung von ausländischen Fachkräften mit Sicherheitsrisiken widerspricht ihren Grundwerten fundamental.",
-      "begruendung_selbst": "Wenn jede ausländische Fachkraft pauschal als Sicherheitsrisiko verdächtigt wird, ist das reine Diskriminierung. Leistung sollte zählen, nicht woher jemand kommt."
+      "begruendung_selbst": "Wenn jede ausländische Fachkraft pauschal als Sicherheitsrisiko verdächtigt wird, ist das reine Diskriminierung. Leistung sollte zählen, nicht woher jemand kommt.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

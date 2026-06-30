@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank stöhnt unter dem ständigen bürokratischen Dokumentations- und Kontrollaufwand. Eine Verringerung der Vor-Ort-Kontrollen entlastet seinen Familienbetrieb direkt und signalisiert das von ihm geforderte Vertrauen.",
-      "begruendung_selbst": "Jedes Mal, wenn der Prüfer auf dem Hof steht, verliere ich wertvolle Stunden. Dass diese Kontroll-Wut endlich spürbar runtergeschraubt werden soll, ist überfällig!"
+      "begruendung_selbst": "Jedes Mal, wenn der Prüfer auf dem Hof steht, verliere ich wertvolle Stunden. Dass diese Kontroll-Wut endlich spürbar runtergeschraubt werden soll, ist überfällig!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Faire Regeln, kein EU-Gold-Plating!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank ist tief skeptisch gegenüber Vorgaben aus Brüssel, leidet aber besonders darunter, wenn die deutsche Politik diese noch strenger auslegt. Der Verzicht auf Verschärfungen stärkt seine Wettbewerbsfähigkeit.",
-      "begruendung_selbst": "Es kann nicht sein, dass wir deutschen Bauern immer den Musterschüler spielen und die strengsten Auflagen Europas kriegen. Endlich gleiches Recht für alle im Binnenmarkt!"
+      "begruendung_selbst": "Es kann nicht sein, dass wir deutschen Bauern immer den Musterschüler spielen und die strengsten Auflagen Europas kriegen. Endlich gleiches Recht für alle im Binnenmarkt!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schutz vor doppelter Steuer!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Landwirt spürt Frank den Druck durch Flächenfraß und Pacht-Konkurrenz massiv. Eine Senkung der Kaufnebenkosten schützt seinen Zugang zu Eigentum, was ihm als Grundwert heilig ist.",
-      "begruendung_selbst": "Boden ist unser wichtigstes Betriebsmittel! Wenn diese ungerechte Doppel-Steuer wegfällt, können wir Familienbetriebe beim Flächenkauf vielleicht wieder mit Investoren mithalten."
+      "begruendung_selbst": "Boden ist unser wichtigstes Betriebsmittel! Wenn diese ungerechte Doppel-Steuer wegfällt, können wir Familienbetriebe beim Flächenkauf vielleicht wieder mit Investoren mithalten.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schluss mit dem Wolf-Wahnsinn!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Frank eine Mutterkuhherde hält, sieht er den absoluten Wolfsschutz nicht als abstraktes Naturschutzthema, sondern als direkte Bedrohung seiner Existenz.",
-      "begruendung_selbst": "Die Städter finden den Wolf ja romantisch, aber ich muss um meine Kälber bangen. Dass hier endlich eingegriffen wird, ist für unsere Weidehaltung überlebenswichtig!"
+      "begruendung_selbst": "Die Städter finden den Wolf ja romantisch, aber ich muss um meine Kälber bangen. Dass hier endlich eingegriffen wird, ist für unsere Weidehaltung überlebenswichtig!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Spielraum beim Agrarantrag!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die ständige Angst vor Sanktionen bei minimalen Abweichungen im Agrarantrag ist für Frank ein enormes Stressrisiko. Eine höhere Toleranz gibt ihm die ersehnte Planungssicherheit.",
-      "begruendung_selbst": "Wegen ein paar Zentimetern Abweichung auf dem Satellitenbild gleich gekürzt zu werden, ist Schikane. Mit fünf Prozent Toleranz kann ich nachts endlich wieder ruhiger schlafen!"
+      "begruendung_selbst": "Wegen ein paar Zentimetern Abweichung auf dem Satellitenbild gleich gekürzt zu werden, ist Schikane. Mit fünf Prozent Toleranz kann ich nachts endlich wieder ruhiger schlafen!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kooperation statt grüner Verbote!",
@@ -83,7 +88,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Frank ärgert sich über die Umweltbewegung, die seiner Meinung nach Naturschutz auf dem Rücken der Bauern austrägt. Die Idee, Naturschutz als Partnerschaft mit Anreizen zu organisieren, trifft exakt seine Vorstellung.",
-      "begruendung_selbst": "Ich hab nichts gegen Naturschutz – wir leben schließlich mit der Natur! Aber man muss uns Landwirte als Partner bezahlen und nicht ständig mit neuen Verboten überziehen."
+      "begruendung_selbst": "Ich hab nichts gegen Naturschutz – wir leben schließlich mit der Natur! Aber man muss uns Landwirte als Partner bezahlen und nicht ständig mit neuen Verboten überziehen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Frank klagt bereits über hohe Diesel- und Energiekosten. Er befürchtet, dass ein alles dominierender Emissionshandel die Betriebskosten für seine Traktoren massiv verteuert, ohne dass er eine technische Alternative hat.",
-      "begruendung_selbst": "Klimaschutz über den Markt regeln klingt ja gut, aber was heißt das für mich? Dass mein Agrardiesel noch teurer wird! Mein Traktor fährt schließlich nicht mit Batterie."
+      "begruendung_selbst": "Klimaschutz über den Markt regeln klingt ja gut, aber was heißt das für mich? Dass mein Agrardiesel noch teurer wird! Mein Traktor fährt schließlich nicht mit Batterie.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

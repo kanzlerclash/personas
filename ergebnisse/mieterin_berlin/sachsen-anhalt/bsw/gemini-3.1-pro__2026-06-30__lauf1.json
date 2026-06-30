@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Carla spürt in ihrem Alltag den Druck des Wohnungsmarktes. Das Bekenntnis, Wohnen dem spekulativen Kapitalmarkt zu entziehen, trifft den Kern ihrer Existenzängste.",
-      "begruendung_selbst": "Genau das sage ich immer! Mein Zuhause ist doch kein Aktienpaket für irgendwelche Investoren."
+      "begruendung_selbst": "Genau das sage ich immer! Mein Zuhause ist doch kein Aktienpaket für irgendwelche Investoren.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich ein Mietendeckel!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Altbau-Mieterin profitiert Carla direkt von staatlichen Eingriffen in die Mietpreisbildung. Ein bundesweiter Deckel würde ihr die ständige Angst vor unbezahlbaren Mieterhöhungen nehmen.",
-      "begruendung_selbst": "Das ist die einzig wirksame Lösung! Nur ein harter Deckel schützt uns Mieter vor der Verdrängung aus dem Kiez."
+      "begruendung_selbst": "Das ist die einzig wirksame Lösung! Nur ein harter Deckel schützt uns Mieter vor der Verdrängung aus dem Kiez.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Stopp dem Ausverkauf!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Carla steht der marktliberalen Politik sehr kritisch gegenüber. Der Stopp von Privatisierungen bestätigt ihre linksprogressive Überzeugung, dass der Staat mehr Verantwortung übernehmen muss.",
-      "begruendung_selbst": "Der Ausverkauf unserer Städte war der größte Fehler! Die öffentliche Hand muss das Ruder endlich wieder übernehmen."
+      "begruendung_selbst": "Der Ausverkauf unserer Städte war der größte Fehler! Die öffentliche Hand muss das Ruder endlich wieder übernehmen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Platz für Radfahrer!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Carla ohne Auto lebt und ihre Wege hauptsächlich mit dem Fahrrad und dem ÖPNV zurücklegt, profitiert sie unmittelbar von sicheren Radwegen.",
-      "begruendung_selbst": "Ich fahre jeden Tag mit dem Rad durch die Stadt. Wir brauchen dringend eine sichere Infrastruktur!"
+      "begruendung_selbst": "Ich fahre jeden Tag mit dem Rad durch die Stadt. Wir brauchen dringend eine sichere Infrastruktur!",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Carla hat kein Vermögen und kann sich Eigentum in Berlin ohnehin nicht leisten. Sie fürchtet im Gegenteil, dass die Förderung von Wohneigentum zur Umwandlung von Mietwohnungen und damit zu ihrer Verdrängung führt.",
-      "begruendung_selbst": "Eigentum? Das ist doch ein Witz für Leute wie mich! Jeder Kaufanreiz bedeutet nur noch mehr Umwandlung und Verdrängung für uns Mieter."
+      "begruendung_selbst": "Eigentum? Das ist doch ein Witz für Leute wie mich! Jeder Kaufanreiz bedeutet nur noch mehr Umwandlung und Verdrängung für uns Mieter.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wer bremst beim Auto?",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Carla befürwortet eine autoarme Stadt und wünscht sich durchgreifende politische Maßnahmen zugunsten des Umweltverbunds. Das Bekenntnis gegen eine entschlossene Verkehrswende enttäuscht sie.",
-      "begruendung_selbst": "Wenn wir die Verkehrswende nicht klar anpacken, ändert sich gar nichts. Die Autos müssen endlich raus aus unseren Vierteln!"
+      "begruendung_selbst": "Wenn wir die Verkehrswende nicht klar anpacken, ändert sich gar nichts. Die Autos müssen endlich raus aus unseren Vierteln!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gegen Ausgrenzung im Kiez!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Carla schätzt eine lebendige und diverse Gesellschaft. Staatliche Eingriffe in die Zusammensetzung von Nachbarschaften nach Herkunftskriterien widersprechen ihrem progressiven und offenen Weltbild stark.",
-      "begruendung_selbst": "Eine bunte Mischung macht unsere Kieze doch erst lebenswert. Staatliche Zuweisungen nach Herkunft klingen für mich nach Ausgrenzung."
+      "begruendung_selbst": "Eine bunte Mischung macht unsere Kieze doch erst lebenswert. Staatliche Zuweisungen nach Herkunft klingen für mich nach Ausgrenzung.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

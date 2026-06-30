@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Sabine fühlt sich durch die Aussicht auf den Abbau von Bürokratie und Dokumentationspflichten entlastet, da dies ihr mehr Zeit für das eigentliche Handwerk gibt.",
-      "begruendung_selbst": "Wenn die das wirklich machen und ich weniger Formulare ausfüllen muss, kann ich endlich wieder auf die Baustelle statt abends im Büro zu sitzen."
+      "begruendung_selbst": "Wenn die das wirklich machen und ich weniger Formulare ausfüllen muss, kann ich endlich wieder auf die Baustelle statt abends im Büro zu sitzen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Der Meisterbrief zählt noch was!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Sie freut sich über die Wertschätzung des Meistertitels und der handwerklichen Betriebsübernahme, was ihre eigene Nachfolgeplanung psychologisch unterstützt.",
-      "begruendung_selbst": "Das höre ich gern! Unser Meisterbrief ist die Grundlage für Qualität, und wir brauchen dringend Nachwuchs, der die Betriebe auch übernimmt."
+      "begruendung_selbst": "Das höre ich gern! Unser Meisterbrief ist die Grundlage für Qualität, und wir brauchen dringend Nachwuchs, der die Betriebe auch übernimmt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Brauche dringend Leute auf der Baustelle!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Sabine sieht in der beschleunigten Anerkennung eine echte Chance, schneller an dringend benötigte Fachkräfte für ihren Handwerksbetrieb zu kommen.",
-      "begruendung_selbst": "Mir ist doch egal, wo jemand herkommt. Wenn er anpacken kann und Heizungen versteht, will ich ihn einstellen – und zwar ohne monatelanges Warten auf die Papiere."
+      "begruendung_selbst": "Mir ist doch egal, wo jemand herkommt. Wenn er anpacken kann und Heizungen versteht, will ich ihn einstellen – und zwar ohne monatelanges Warten auf die Papiere.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich digital statt Aktenordner!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Sie begrüßt die durchgängige Digitalisierung, weil sie sich dadurch eine spürbare Beschleunigung bei Anträgen, Genehmigungen und Fördergeldern erhofft.",
-      "begruendung_selbst": "Es kann nicht sein, dass ich heute noch alles dreifach ausdrucken muss. Wenn ich Anträge vom Tablet aus stellen kann, spart mir das Nerven und Zeit."
+      "begruendung_selbst": "Es kann nicht sein, dass ich heute noch alles dreifach ausdrucken muss. Wenn ich Anträge vom Tablet aus stellen kann, spart mir das Nerven und Zeit.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als mittelständische Unternehmerin fürchtet Sabine durch starre Tariftreuevorgaben bei öffentlichen Aufträgen noch mehr Bürokratie und den Verlust unternehmerischer Flexibilität.",
-      "begruendung_selbst": "Ich zahle meinen Leuten gutes Geld, sonst wären sie längst weg. Aber diese ganzen starren Vergaberegeln machen öffentliche Aufträge für uns kleine Betriebe doch total unattraktiv."
+      "begruendung_selbst": "Ich zahle meinen Leuten gutes Geld, sonst wären sie längst weg. Aber diese ganzen starren Vergaberegeln machen öffentliche Aufträge für uns kleine Betriebe doch total unattraktiv.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Die machen mir die Betriebsübergabe kaputt!",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Sabine fürchtet um ihr Lebenswerk, da die geplante Streichung von Steuerprivilegien bei der Erbschaftsteuer ihre anstehende Betriebsübergabe in wenigen Jahren massiv belasten könnte.",
-      "begruendung_selbst": "Mein Betrieb ist meine Altersvorsorge! Wenn mein Nachfolger oder meine Familie jetzt auch noch massiv Erbschaftsteuer zahlen muss, kann ich den Laden gleich dichtmachen."
+      "begruendung_selbst": "Mein Betrieb ist meine Altersvorsorge! Wenn mein Nachfolger oder meine Familie jetzt auch noch massiv Erbschaftsteuer zahlen muss, kann ich den Laden gleich dichtmachen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Teilzeit hilft mir nicht auf dem Bau!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Aus Sicht der Arbeitgeberin sieht Sabine den pauschalen Fokus auf Teilzeitansprüche kritisch, da in ihrem Handwerksbetrieb Flexibilität und Anwesenheit auf der Baustelle zählen.",
-      "begruendung_selbst": "Ein Rohrleitungsbruch wartet nicht, bis jemand aus der Teilzeit zurück ist. Wir brauchen Leute, die voll mitziehen, sonst können wir unsere Kunden nicht verlässlich bedienen."
+      "begruendung_selbst": "Ein Rohrleitungsbruch wartet nicht, bis jemand aus der Teilzeit zurück ist. Wir brauchen Leute, die voll mitziehen, sonst können wir unsere Kunden nicht verlässlich bedienen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wo bleibt das Fordern?",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Sabine stört sich an der einseitigen Betonung von unbürokratischer Unterstützung, da sie bei Sozialleistungen eine klare Erwartungshaltung an die Gegenleistung der Empfänger hat.",
-      "begruendung_selbst": "Ich stehe jeden Morgen früh auf und halte den Betrieb am Laufen. Wer Hilfe braucht, soll sie kriegen, aber es muss sich auch lohnen, arbeiten zu gehen."
+      "begruendung_selbst": "Ich stehe jeden Morgen früh auf und halte den Betrieb am Laufen. Wer Hilfe braucht, soll sie kriegen, aber es muss sich auch lohnen, arbeiten zu gehen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

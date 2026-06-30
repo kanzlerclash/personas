@@ -37,12 +37,14 @@ const parteiName = (p: string) => (p === "gruene" ? "Grüne" : p.toUpperCase());
 const erg = (m: string, p: string, pa: string) => ERG.find((e) => e.modell_slug === m && e.persona === p && e.partei === pa);
 const ergsMP = (m: string, p: string) => ERG.filter((e) => e.modell_slug === m && e.persona === p);
 const avg = (xs: number[]) => (xs.length ? xs.reduce((a, b) => a + b, 0) / xs.length : 0);
+const ergsMPa = (m: string, pa: string) => ERG.filter((e) => e.modell_slug === m && e.partei === pa);
 const parteienMit = (m: string) => [...new Set(ERG.filter((e) => e.modell_slug === m).map((e) => e.partei))]
   .sort((a, b) => D.parteien.indexOf(a) - D.parteien.indexOf(b));
+const personenMit = (m: string) => [...new Set(ERG.filter((e) => e.modell_slug === m).map((e) => e.persona))];
 
 /** Score (−2..+2) → Farbe rot↔grün. */
 const scoreFarbe = (s: number) => `hsl(${((s + 2) / 4) * 125} 60% 45%)`;
-const scoreTxt = (s: number) => (s >= 0 ? "+" : "") + s;
+const scoreTxt = (s: number) => { const r = Math.round(s * 10) / 10; return (r >= 0 ? "+" : "") + r; };
 
 function avatar(p: Persona, klasse: string): HTMLCanvasElement {
   const cv = el("canvas", klasse) as HTMLCanvasElement;
@@ -147,9 +149,10 @@ function sigZeile(label: string, wert: string, farbe?: string): HTMLElement {
 /* ---------------- Ansicht: Modell → Personas ---------------- */
 function modellAnsicht(root: HTMLElement, mSlug: string, vs: string | null) {
   const mo = modell(mSlug); if (!mo) return landing(root);
-  root.append(brotkrume([["#/", "Start"], [null, kurz(mSlug)]]));
+  root.append(brotkrume([bcStart(), bcKat("Modell"), bcCur(kurz(mSlug))]));
   root.append(el("h2", "", `${kurz(mSlug)}: Sicht auf die ${PERSONAS.length} Lebenslagen`));
   root.append(signaturBanner(mo));
+  root.append(ebenenToggle(mSlug, "persona", vs));
   root.append(vergleichLeiste(mSlug, vs));
 
   const tabelle = el("div", "qtab");
@@ -173,10 +176,64 @@ function modellAnsicht(root: HTMLElement, mSlug: string, vs: string | null) {
   root.append(tabelle);
 }
 
+/** Umschalter „nach Persona / nach Partei" auf der Modell-Ebene. */
+function ebenenToggle(mSlug: string, aktiv: "persona" | "partei", vs: string | null): HTMLElement {
+  const t = el("div", "ebtoggle");
+  const q = vs ? `?vs=${vs}` : "";
+  const a = el("a", "ebt" + (aktiv === "persona" ? " an" : ""), "nach Persona") as HTMLAnchorElement;
+  a.href = `#/modell/${mSlug}${q}`;
+  const b = el("a", "ebt" + (aktiv === "partei" ? " an" : ""), "nach Partei") as HTMLAnchorElement;
+  b.href = `#/modell/${mSlug}/parteien${q}`;
+  t.append(el("span", "ebt-l", "Querschnitt:"), a, b);
+  return t;
+}
+
+/* ---------------- Ansicht: Modell → Parteien (Querschnitt) ---------------- */
+function modellParteienAnsicht(root: HTMLElement, mSlug: string, vs: string | null) {
+  const mo = modell(mSlug); if (!mo) return landing(root);
+  root.append(brotkrume([bcStart(), bcKat("Modell"), bcLink(kurz(mSlug), `#/modell/${mSlug}`), bcCur("Partei")]));
+  root.append(el("h2", "", `${kurz(mSlug)}: Sicht auf die Parteien`));
+  root.append(signaturBanner(mo));
+  root.append(ebenenToggle(mSlug, "partei", vs));
+  root.append(vergleichLeiste(mSlug, vs));
+
+  const tab = el("div", "qtab");
+  for (const pa of parteienMit(mSlug)) {
+    const aErg = ergsMPa(mSlug, pa);
+    const row = el("a", "qrow") as HTMLAnchorElement;
+    row.href = `#/modell/${mSlug}/partei/${pa}` + (vs ? `?vs=${vs}` : "");
+    row.append(el("strong", "qpartei", parteiName(pa)));
+    if (!vs) { row.append(scorePill(avg(aErg.map((e) => e.gesamt.score)))); row.append(gutSchlechtBalken(aErg.reduce((s, e) => s + e.besonders_gut.length, 0), aErg.reduce((s, e) => s + e.besonders_schlecht.length, 0))); }
+    else { row.append(splitScores(avg(aErg.map((e) => e.gesamt.score)), avg(ergsMPa(vs, pa).map((e) => e.gesamt.score)))); }
+    tab.append(row);
+  }
+  root.append(tab);
+}
+
+/* ---------------- Ansicht: Modell × Partei → Personas ---------------- */
+function parteiAnsicht(root: HTMLElement, mSlug: string, pa: string, vs: string | null) {
+  const mo = modell(mSlug); if (!mo) return landing(root);
+  root.append(brotkrume([bcStart(), bcKat("Modell"), bcLink(kurz(mSlug), `#/modell/${mSlug}`), bcKat("Partei"), bcCur(parteiName(pa))]));
+  root.append(el("h2", "", `${kurz(mSlug)}: ${parteiName(pa)} aus Sicht der ${PERSONAS.length} Lebenslagen`));
+  root.append(vergleichLeiste(mSlug, vs));
+  const tab = el("div", "qtab");
+  for (const p of PERSONAS) {
+    const a = erg(mSlug, p.slug, pa); if (!a) continue;
+    const row = el("a", "qrow") as HTMLAnchorElement;
+    row.href = `#/modell/${mSlug}/partei/${pa}/persona/${p.slug}` + (vs ? `?vs=${vs}` : "");
+    row.append(avatar(p, "avatar mini"));
+    const name = el("div", "qname"); name.append(el("strong", "", p.name)); name.append(el("span", "fiktiv", "fiktiv")); row.append(name);
+    if (!vs) { row.append(scorePill(a.gesamt.score)); row.append(gutSchlechtBalken(a.besonders_gut.length, a.besonders_schlecht.length)); }
+    else { const b = erg(vs, p.slug, pa); row.append(splitScores(a.gesamt.score, b ? b.gesamt.score : NaN)); }
+    tab.append(row);
+  }
+  root.append(tab);
+}
+
 /* ---------------- Ansicht: Modell × Persona → Parteien ---------------- */
 function personaAnsicht(root: HTMLElement, mSlug: string, pSlug: string, vs: string | null) {
   const mo = modell(mSlug); const p = persona(pSlug); if (!mo || !p) return landing(root);
-  root.append(brotkrume([["#/", "Start"], [`#/modell/${mSlug}`, kurz(mSlug)], [null, p.name]]));
+  root.append(brotkrume([bcStart(), bcKat("Modell"), bcLink(kurz(mSlug), `#/modell/${mSlug}`), bcKat("Persona"), bcCur(p.name)]));
   const kopf = el("div", "detail-kopf"); kopf.append(avatar(p, "avatar gross"));
   const ti = el("div"); ti.append(el("h2", "", p.name)); ti.append(el("span", "fiktiv gross", "fiktive Persona – keine reale Person"));
   if (p.einzeiler) ti.append(el("p", "einzeiler", p.einzeiler));
@@ -228,9 +285,13 @@ function blattSpalte(e: Erg | undefined, titel: string): HTMLElement {
   if (e.besonders_schlecht.length) { sp.append(el("h4", "schlecht", "👎 Besonders schlecht")); e.besonders_schlecht.forEach((x) => sp.append(highlightKarte(x))); }
   return sp;
 }
-function blattAnsicht(root: HTMLElement, mSlug: string, pSlug: string, pa: string, vs: string | null) {
+function blattAnsicht(root: HTMLElement, mSlug: string, pSlug: string, pa: string, vs: string | null, via: "persona" | "partei" = "persona") {
   const p = persona(pSlug); if (!p) return landing(root);
-  root.append(brotkrume([["#/", "Start"], [`#/modell/${mSlug}`, kurz(mSlug)], [`#/modell/${mSlug}/persona/${pSlug}`, p.name], [null, parteiName(pa)]]));
+  const q = vs ? `?vs=${vs}` : "";
+  const krume: Seg[] = via === "partei"
+    ? [bcStart(), bcKat("Modell"), bcLink(kurz(mSlug), `#/modell/${mSlug}`), bcKat("Partei"), bcLink(parteiName(pa), `#/modell/${mSlug}/partei/${pa}${q}`), bcKat("Persona"), bcCur(p.name)]
+    : [bcStart(), bcKat("Modell"), bcLink(kurz(mSlug), `#/modell/${mSlug}`), bcKat("Persona"), bcLink(p.name, `#/modell/${mSlug}/persona/${pSlug}${q}`), bcKat("Partei"), bcCur(parteiName(pa))];
+  root.append(brotkrume(krume));
   const kopf = el("div", "detail-kopf"); kopf.append(avatar(p, "avatar gross"));
   const ti = el("div"); ti.append(el("h2", "", `${p.name} × ${parteiName(pa)}`)); ti.append(el("span", "fiktiv gross", "fiktive Persona – keine reale Person"));
   kopf.append(ti); root.append(kopf);
@@ -260,7 +321,7 @@ function diffUebersicht(a: Erg | undefined, b: Erg | undefined, mA: string, mB: 
 
 /* ---------------- Ansicht: Vergleich/Divergenz ---------------- */
 function vergleichAnsicht(root: HTMLElement) {
-  root.append(brotkrume([["#/", "Start"], [null, "Modell-Vergleich"]]));
+  root.append(brotkrume([bcStart(), bcCur("Modell-Vergleich")]));
   root.append(el("h2", "", "Wo sind sich die Modelle uneinig?"));
   root.append(infoZeile("Je größer die Spannweite der Urteile über die Modelle, desto stärker hängt die Bewertung vom gewählten Modell ab — der Modell-Bias wird hier am deutlichsten."));
   const liste = el("div", "qtab");
@@ -281,7 +342,7 @@ function vergleichAnsicht(root: HTMLElement) {
 
 /* ---------------- Ansicht: Personas (Zweit-Einstieg) ---------------- */
 function personenliste(root: HTMLElement) {
-  root.append(brotkrume([["#/", "Start"], [null, "Alle Personas"]]));
+  root.append(brotkrume([bcStart(), bcCur("Alle Personas")]));
   root.append(el("h2", "", "Nach Persona einsteigen"));
   root.append(infoZeile("Wähle eine Lebenslage; sie wird mit dem ersten Modell geöffnet — Modell danach jederzeit wechselbar."));
   const grid = el("div", "raster");
@@ -298,11 +359,17 @@ function personenliste(root: HTMLElement) {
 }
 
 /* ---------------- gemeinsame Bausteine ---------------- */
-function brotkrume(teile: [string | null, string][]): HTMLElement {
+type Seg = { k: "link" | "kat" | "cur"; label: string; href?: string };
+const bcStart = (): Seg => ({ k: "link", label: "Start", href: "#/" });
+const bcKat = (label: string): Seg => ({ k: "kat", label });
+const bcLink = (label: string, href: string): Seg => ({ k: "link", label, href });
+const bcCur = (label: string): Seg => ({ k: "cur", label });
+function brotkrume(segs: Seg[]): HTMLElement {
   const bc = el("nav", "brotkrume");
-  teile.forEach(([href, label], i) => {
+  segs.forEach((s, i) => {
     if (i) bc.append(el("span", "bc-sep", "›"));
-    if (href) { const a = el("a", "", label) as HTMLAnchorElement; a.href = href; bc.append(a); } else bc.append(el("span", "bc-akt", label));
+    if (s.href) { const a = el("a", "", s.label) as HTMLAnchorElement; a.href = s.href; bc.append(a); }
+    else bc.append(el("span", s.k === "kat" ? "bc-kat" : "bc-akt", s.label));
   });
   return bc;
 }
@@ -317,7 +384,7 @@ function splitScores(a: number, b: number): HTMLElement {
   w.append(scorePill(a));
   w.append(el("span", "vs", "vs"));
   w.append(isNaN(b) ? el("span", "meta", "—") : scorePill(b));
-  if (!isNaN(b)) { const d = Math.abs(a - b); const dd = el("span", "delta", d ? "Δ" + d : "="); if (d >= 2) dd.classList.add("hoch"); w.append(dd); }
+  if (!isNaN(b)) { const d = Math.round(Math.abs(a - b) * 10) / 10; const dd = el("span", "delta", d ? "Δ" + d : "="); if (d >= 2) dd.classList.add("hoch"); w.append(dd); }
   return w;
 }
 function infoZeile(t: string): HTMLElement { return el("p", "infozeile", t); }
@@ -334,8 +401,11 @@ function route() {
   else if (teile[0] === "personas") personenliste(root);
   else if (teile[0] === "modell" && teile[1]) {
     const M = teile[1];
-    if (teile[2] === "persona" && teile[3] && teile[4] === "partei" && teile[5]) blattAnsicht(root, M, teile[3], teile[5], vs);
+    if (teile[2] === "persona" && teile[3] && teile[4] === "partei" && teile[5]) blattAnsicht(root, M, teile[3], teile[5], vs, "persona");
+    else if (teile[2] === "partei" && teile[3] && teile[4] === "persona" && teile[5]) blattAnsicht(root, M, teile[5], teile[3], vs, "partei");
     else if (teile[2] === "persona" && teile[3]) personaAnsicht(root, M, teile[3], vs);
+    else if (teile[2] === "partei" && teile[3]) parteiAnsicht(root, M, teile[3], vs);
+    else if (teile[2] === "parteien") modellParteienAnsicht(root, M, vs);
     else modellAnsicht(root, M, vs);
   } else landing(root);
   window.scrollTo(0, 0);

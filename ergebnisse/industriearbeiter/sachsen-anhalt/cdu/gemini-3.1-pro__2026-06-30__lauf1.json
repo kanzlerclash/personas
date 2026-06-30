@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe sieht seine berufliche und familiäre Existenz untrennbar mit dem Erhalt der Schwer- und Chemieindustrie verbunden. Die klare Standortgarantie der Partei beruhigt seine Sorge vor einer Deindustrialisierung der Region.",
-      "begruendung_selbst": "Endlich mal ein klares Bekenntnis zu unserer Arbeit! Ohne die Chemie können wir hier im Land doch einpacken, das sichert unsere Arbeitsplätze."
+      "begruendung_selbst": "Endlich mal ein klares Bekenntnis zu unserer Arbeit! Ohne die Chemie können wir hier im Land doch einpacken, das sichert unsere Arbeitsplätze.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Bezahlbarer Strom rettet Jobs!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Uwe ist die Energiefrage eine soziale Überlebensfrage seines Wirtschaftszweiges. Ein Industriestrompreis entspricht exakt seiner Hoffnung nach bezahlbarer Energie, um Abwanderungen und Werksschließungen zu verhindern.",
-      "begruendung_selbst": "Wenn die Energiekosten explodieren, sind unsere Anlagen als Erstes dicht. Ein eigener Strompreis für die Industrie ist genau das, was wir jetzt brauchen."
+      "begruendung_selbst": "Wenn die Energiekosten explodieren, sind unsere Anlagen als Erstes dicht. Ein eigener Strompreis für die Industrie ist genau das, was wir jetzt brauchen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kein überstürzter Ausstieg!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ein verlässlicher, nicht überstürzter Transformationspfad ist Uwes Kernanliegen, da er Angst vor unkontrollierten Brüchen in seiner Region hat. Das Festhalten am Datum 2038 signalisiert ihm einen sozial abgefederten Wandel.",
-      "begruendung_selbst": "Wir haben 2038 abgemacht, und das muss auch stehen. Wer da jetzt wieder dran rüttelt und noch schneller aussteigen will, riskiert doch tausende Jobs in unserer Region."
+      "begruendung_selbst": "Wir haben 2038 abgemacht, und das muss auch stehen. Wer da jetzt wieder dran rüttelt und noch schneller aussteigen will, riskiert doch tausende Jobs in unserer Region.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schluss mit grüner Theorie!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe teilt die Skepsis gegenüber einer zu schnellen und praxisfernen Transformationspolitik, die er als Bedrohung für Industriearbeitsplätze empfindet. Seine Kritik an der Umweltbewegung findet sich hier wieder.",
-      "begruendung_selbst": "Diese Leute in Brüssel haben doch noch nie einen Blaumann angehabt. Die wollen mit ihren pauschalen Verboten und Auflagen unsere ganze Branche an die Wand fahren."
+      "begruendung_selbst": "Diese Leute in Brüssel haben doch noch nie einen Blaumann angehabt. Die wollen mit ihren pauschalen Verboten und Auflagen unsere ganze Branche an die Wand fahren.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als aktiver Gewerkschafter streitet Uwe täglich für tarifvertragliche Verbesserungen. Die marktliberale Haltung, dass Löhne allein durch Wirtschaftskraft steigen, wertet aus seiner Sicht den Arbeitskampf und die gewerkschaftliche Mitbestimmung ab.",
-      "begruendung_selbst": "Die glauben wohl, die Unternehmen zahlen uns die guten Löhne freiwillig! Ohne uns Gewerkschaften und harte Tarifverhandlungen gäbe es gar nichts, da bringt auch die beste Wirtschaft nichts."
+      "begruendung_selbst": "Die glauben wohl, die Unternehmen zahlen uns die guten Löhne freiwillig! Ohne uns Gewerkschaften und harte Tarifverhandlungen gäbe es gar nichts, da bringt auch die beste Wirtschaft nichts.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Hände weg vom Sozialstaat!",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Eine pauschale Deckelung der Sozialabgaben liest Uwe als Angriff auf die Finanzierung der Sicherungssysteme, auf die er als Arbeiter im Alter oder bei Krankheit angewiesen ist.",
-      "begruendung_selbst": "Sozialabgaben deckeln, das heißt doch auf gut Deutsch: Kürzungen bei unserer Rente und Krankenkasse! Wer den Sozialstaat schwächt, um die Wirtschaft zu hätscheln, hat mich als Gegner."
+      "begruendung_selbst": "Sozialabgaben deckeln, das heißt doch auf gut Deutsch: Kürzungen bei unserer Rente und Krankenkasse! Wer den Sozialstaat schwächt, um die Wirtschaft zu hätscheln, hat mich als Gegner.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wir schuften uns schon kaputt!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Schichtarbeit und Schwerindustrie fordern körperlich ihren Tribut von Uwe. Die Idee, durch steuerfreie Anreize das Arbeiten bis ins hohe Alter zu forcieren, empfindet er als realitätsfern für Industriearbeiter.",
-      "begruendung_selbst": "Sollen die Politiker mal 40 Jahre in Schicht an der Anlage stehen! Wir brauchen eine sichere Rente, von der man leben kann, und keine Tipps, wie wir als Rentner noch weiter schuften dürfen."
+      "begruendung_selbst": "Sollen die Politiker mal 40 Jahre in Schicht an der Anlage stehen! Wir brauchen eine sichere Rente, von der man leben kann, und keine Tipps, wie wir als Rentner noch weiter schuften dürfen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Das ist billiger Zwangsarbeits-Populismus!",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Gewerkschafter Uwe steht für gute Arbeit und tarifliche Standards. Staatlicher Zwang zur gemeinnützigen Arbeit für Erwerbslose widerstrebt seinem Verständnis von Solidarität und baut aus seiner Sicht Druck auf reguläre Löhne auf.",
-      "begruendung_selbst": "Die Leute zu Zwangsarbeit verdonnern, anstatt ordentliche Tarife zu fördern? Das spaltet doch nur die Gesellschaft, drückt die Löhne und untergräbt unsere Standards als Arbeitnehmer!"
+      "begruendung_selbst": "Die Leute zu Zwangsarbeit verdonnern, anstatt ordentliche Tarife zu fördern? Das spaltet doch nur die Gesellschaft, drückt die Löhne und untergräbt unsere Standards als Arbeitnehmer!",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin sehnt sich nach unhinterfragter Anerkennung. Das klare Bekenntnis der Partei zu Menschen mit Einwanderungsgeschichte gibt ihr das Gefühl, als wertvoller Teil der Gesellschaft wahrgenommen zu werden.",
-      "begruendung_selbst": "Es tut gut zu lesen, dass wir als selbstverständlicher Teil dieses Landes gesehen werden. Genau diese Sachlichkeit brauchen wir in der hitzigen Debatte."
+      "begruendung_selbst": "Es tut gut zu lesen, dass wir als selbstverständlicher Teil dieses Landes gesehen werden. Genau diese Sachlichkeit brauchen wir in der hitzigen Debatte.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gleiche Chancen für alle Kinder.",
@@ -39,7 +40,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Da für Aylin Leistung und nicht Herkunft zählt, befürwortet sie staatliche Maßnahmen, die Kindern durch frühzeitige Sprachförderung echte Aufstiegschancen und gesellschaftliche Teilhabe ermöglichen.",
-      "begruendung_selbst": "Die Sprache ist der Schlüssel zur Teilhabe. Wenn wir Kinder früh fördern, statt sie später abzustempeln, ist das der richtige Weg für echte Chancengerechtigkeit."
+      "begruendung_selbst": "Die Sprache ist der Schlüssel zur Teilhabe. Wenn wir Kinder früh fördern, statt sie später abzustempeln, ist das der richtige Weg für echte Chancengerechtigkeit.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klare Kante gegen jeden Extremismus!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin fürchtet sich vor Polarisierung und rechten Ausgrenzungsfantasien. Ein wehrhafter Rechtsstaat, der alle extremistischen Ränder gleichermaßen im Blick behält, vermittelt ihr ein Gefühl der Sicherheit.",
-      "begruendung_selbst": "Mir macht die politische Polarisierung große Sorgen. Es beruhigt mich, wenn der Staat verspricht, radikale Kräfte, die unsere Demokratie bedrohen, scharf im Auge zu behalten."
+      "begruendung_selbst": "Mir macht die politische Polarisierung große Sorgen. Es beruhigt mich, wenn der Staat verspricht, radikale Kräfte, die unsere Demokratie bedrohen, scharf im Auge zu behalten.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich digitaler arbeiten!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Verwaltungsangestellte begrüßt Aylin das Vorhaben, ihren eigenen Arbeitsalltag und den Service für die Bürger durch digitale und vereinfachte Strukturen zeitgemäß aufzustellen.",
-      "begruendung_selbst": "In meinem Büroalltag in der Stadtverwaltung sehe ich ständig, wie wir durch alte Prozesse ausgebremst werden. Die volle Digitalisierung würde uns die Arbeit enorm erleichtern."
+      "begruendung_selbst": "In meinem Büroalltag in der Stadtverwaltung sehe ich ständig, wie wir durch alte Prozesse ausgebremst werden. Die volle Digitalisierung würde uns die Arbeit enorm erleichtern.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Aylin empfindet die Forderung nach einer über das Gesetz hinausgehenden Leitkultur als ausgrenzend, da für sie Zugehörigkeit auf Recht und demokratischer Teilhabe basiert, nicht auf kultureller Abstammung.",
-      "begruendung_selbst": "Ich arbeite hart, zahle Steuern und halte mich an alle Gesetze. Warum reicht das nicht? Solche Begriffe geben mir das Gefühl, dass ich als Eingebürgerte immer neue Hürden nehmen muss."
+      "begruendung_selbst": "Ich arbeite hart, zahle Steuern und halte mich an alle Gesetze. Warum reicht das nicht? Solche Begriffe geben mir das Gefühl, dass ich als Eingebürgerte immer neue Hürden nehmen muss.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Generalverdacht per Hautfarbe!",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Aufgrund ihrer Erfahrungen mit Alltagsdiskriminierung ist Aylin alarmiert, dass Fahndungen nach äußeren Merkmalen Menschen mit Migrationsgeschichte im Alltag pauschal verdächtig machen könnten.",
-      "begruendung_selbst": "Wenn die Polizei bald ganz offiziell nach Hautfarbe fahndet, geraten Menschen wie ich auf der Straße noch schneller grundlos ins Visier. Das schürt nur Misstrauen gegen uns."
+      "begruendung_selbst": "Wenn die Polizei bald ganz offiziell nach Hautfarbe fahndet, geraten Menschen wie ich auf der Straße noch schneller grundlos ins Visier. Das schürt nur Misstrauen gegen uns.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Menschen sind kein reines Problem!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Auch wenn Aylin für eine geordnete Migration eintritt, lehnt sie die harte Rhetorik ab, die Einwanderung primär als Gefahr rahmt und schutzbedürftigen Familien den Nachzug verweigert.",
-      "begruendung_selbst": "Geregelte Einwanderung ist richtig, aber man darf die Menschlichkeit nicht vergessen. Wenn selbst geflüchtete Familien für immer getrennt bleiben sollen, ist mir diese Politik viel zu kalt."
+      "begruendung_selbst": "Geregelte Einwanderung ist richtig, aber man darf die Menschlichkeit nicht vergessen. Wenn selbst geflüchtete Familien für immer getrennt bleiben sollen, ist mir diese Politik viel zu kalt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schon wieder dieses Misstrauen.",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Aylin stört sich am wiederkehrenden Framing, das Migration pauschal mit Kriminalität oder Sozialbetrug in Verbindung bringt, da dies Vorurteile in der Mehrheitsgesellschaft verfestigt.",
-      "begruendung_selbst": "Selbst bei einem Sachthema wie der Verwaltungsdigitalisierung muss der Asylmissbrauch als Beispiel herhalten. Es ist dieses ständige negative Framing, das uns Migranten das Leben schwer macht."
+      "begruendung_selbst": "Selbst bei einem Sachthema wie der Verwaltungsdigitalisierung muss der Asylmissbrauch als Beispiel herhalten. Es ist dieses ständige negative Framing, das uns Migranten das Leben schwer macht.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

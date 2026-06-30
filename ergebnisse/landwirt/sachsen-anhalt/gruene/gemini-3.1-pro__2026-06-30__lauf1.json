@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank sorgt sich stark um zunehmende Pacht-Konkurrenz durch Fremdkapital; Maßnahmen zum Schutz familiengeführter Betriebe vor Spekulanten treffen genau seine wirtschaftlichen Interessen.",
-      "begruendung_selbst": "Es wird höchste Zeit, dass da jemand durchgreift! Wir normalen Bauern können bei den Pachtpreisen von irgendwelchen Großinvestoren doch schon lange nicht mehr mithalten."
+      "begruendung_selbst": "Es wird höchste Zeit, dass da jemand durchgreift! Wir normalen Bauern können bei den Pachtpreisen von irgendwelchen Großinvestoren doch schon lange nicht mehr mithalten.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Faire Preise, faire Arbeit!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Stark schwankende Erzeugerpreise sind eine Hauptbelastung für Franks Betrieb; eine politische Absicherung stabiler Lieferbedingungen gibt ihm die ersehnte Planungssicherheit.",
-      "begruendung_selbst": "Das ist mal was Handfestes! Wenn wir vorher wissen, was wir für unsere Milch bekommen, kann ich auf dem Hof endlich wieder verlässlich planen und rechnen."
+      "begruendung_selbst": "Das ist mal was Handfestes! Wenn wir vorher wissen, was wir für unsere Milch bekommen, kann ich auf dem Hof endlich wieder verlässlich planen und rechnen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gute Nachrichten für meine Tochter!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Franks Tochter den Einstieg in den Familienbetrieb überlegt, begrüßt er jegliche Unterstützung, die den Generationswechsel auf dem Hof bürokratisch und finanziell vereinfacht.",
-      "begruendung_selbst": "Das macht mir wirklich Mut. Ich will den Hof an meine Tochter weitergeben, aber ohne Unterstützung ist das heutzutage für die Jungen doch ein reines Risiko."
+      "begruendung_selbst": "Das macht mir wirklich Mut. Ich will den Hof an meine Tochter weitergeben, aber ohne Unterstützung ist das heutzutage für die Jungen doch ein reines Risiko.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schluss mit dem Flächenfraß!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Der ungebremste Flächenfraß ist eine von Franks zentralen Sorgen; den Schutz wertvoller Böden vor neuer Bebauung sieht er als elementar für seine Berufsgruppe an.",
-      "begruendung_selbst": "Boden ist unser wichtigstes Kapital, der wächst nicht nach! Wenn die es schaffen, dass nicht überall Logistikhallen auf bestem Ackerboden hochgezogen werden, bin ich voll dabei."
+      "begruendung_selbst": "Boden ist unser wichtigstes Kapital, der wächst nicht nach! Wenn die es schaffen, dass nicht überall Logistikhallen auf bestem Ackerboden hochgezogen werden, bin ich voll dabei.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Ein pauschales Verbot von Pflanzenschutzmitteln empfindet Frank als ideologisch getriebenen Eingriff in seine Fachkompetenz, der seine Erträge und damit seine Existenz direkt gefährdet.",
-      "begruendung_selbst": "Ich fahre doch nicht aus Spaß mit der Spritze raus! Ohne Pflanzenschutz können wir die Ernten vergessen, das ist pure grüne Theorie vom Schreibtisch aus."
+      "begruendung_selbst": "Ich fahre doch nicht aus Spaß mit der Spritze raus! Ohne Pflanzenschutz können wir die Ernten vergessen, das ist pure grüne Theorie vom Schreibtisch aus.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Noch mehr Schnüffelei auf dem Hof!",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Frank leidet ohnehin unter massiver Bürokratie und ständigen Auflagen; die Ankündigung noch strengerer Kontrollen empfindet er als tiefes Misstrauen gegenüber seiner Arbeit.",
-      "begruendung_selbst": "Ich sitze jetzt schon halbe Nächte an irgendwelchen Dokumentationen. Die sollen uns Bauern endlich arbeiten lassen und nicht ständig kontrollieren, als wären wir Verbrecher!"
+      "begruendung_selbst": "Ich sitze jetzt schon halbe Nächte an irgendwelchen Dokumentationen. Die sollen uns Bauern endlich arbeiten lassen und nicht ständig kontrollieren, als wären wir Verbrecher!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Der Wolf lacht, ich zahle!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Frank sieht in der unregulierten Ausbreitung des Wolfes eine ständige Bedrohung für seine Mutterkuhherde und fühlt seine praktischen Probleme von der Politik ignoriert.",
-      "begruendung_selbst": "Da merkt man sofort, dass die aus der Stadt kommen! Wer schützt eigentlich meine Kälber auf der Weide? Mit langwierigen Ausnahmegenehmigungen rette ich meine Tiere nicht."
+      "begruendung_selbst": "Da merkt man sofort, dass die aus der Stadt kommen! Wer schützt eigentlich meine Kälber auf der Weide? Mit langwierigen Ausnahmegenehmigungen rette ich meine Tiere nicht.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gute Böden einfach absaufen lassen?",
@@ -107,7 +114,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Frank befürchtet durch solche Renaturierungsprojekte den direkten Verlust von wertvoller landwirtschaftlicher Nutzfläche und empfindet dies als Klimaschutz auf Kosten der Landwirte.",
-      "begruendung_selbst": "Wenn die jetzt überall Flächen vernässen wollen, wo soll ich dann noch mein Futter anbauen? Der Klimaschutz darf uns nicht einfach unsere Produktionsgrundlage wegnehmen."
+      "begruendung_selbst": "Wenn die jetzt überall Flächen vernässen wollen, wo soll ich dann noch mein Futter anbauen? Der Klimaschutz darf uns nicht einfach unsere Produktionsgrundlage wegnehmen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

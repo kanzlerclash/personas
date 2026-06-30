@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Petra ist die ungeklärte Praxisnachfolge eine ihrer größten Sorgen. Sie sieht in der Fortführung der Landarztquote und mehr Studienplätzen einen der wenigen konkreten Hebel, um junge Kolleginnen und Kollegen für die Versorgung auf dem Land zu gewinnen.",
-      "begruendung_selbst": "Endlich ein Lichtblick! Ich arbeite am Anschlag, und wenn ich in Rente gehe, steht hier niemand bereit. Dass die Landarztquote bleibt und es mehr Studienplätze gibt, ist der einzig richtige Weg, um das Praxissterben noch aufzuhalten."
+      "begruendung_selbst": "Endlich ein Lichtblick! Ich arbeite am Anschlag, und wenn ich in Rente gehe, steht hier niemand bereit. Dass die Landarztquote bleibt und es mehr Studienplätze gibt, ist der einzig richtige Weg, um das Praxissterben noch aufzuhalten.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Delegation, mehr Zeit!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Petra arbeitet extrem lange Tage und sehnt sich nach pragmatischer Hilfe. Sie begrüßt jeden Ansatz, der ihren Praxisalltag rechtssicher entlastet, solange die Versorgung der Patienten gesichert bleibt.",
-      "begruendung_selbst": "Eine überfällige Einsicht! Meine MFA leisten ohnehin schon Großartiges. Wenn wir rechtlich auf der sicheren Seite sind und Aufgaben delegieren dürfen, gibt mir das endlich wieder mehr Zeit für die echten medizinischen Fälle."
+      "begruendung_selbst": "Eine überfällige Einsicht! Meine MFA leisten ohnehin schon Großartiges. Wenn wir rechtlich auf der sicheren Seite sind und Aufgaben delegieren dürfen, gibt mir das endlich wieder mehr Zeit für die echten medizinischen Fälle.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gesundheit ist keine Ware!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Petra beobachtet die Ökonomisierung der Medizin mit großer Sorge, da sich gerade im ländlichen Raum viele Leistungen nicht rechnen. Sie teilt die Haltung, dass die medizinische Daseinsvorsorge Vorrang vor Renditeerwartungen haben muss.",
-      "begruendung_selbst": "Genau meine Rede! Gesundheit ist keine Ware, aus der man Profite quetschen sollte. Wenn es nur noch um Fallpauschalen und Rendite geht, fallen meine alten Patienten auf dem Land als erstes hinten runter."
+      "begruendung_selbst": "Genau meine Rede! Gesundheit ist keine Ware, aus der man Profite quetschen sollte. Wenn es nur noch um Fallpauschalen und Rendite geht, fallen meine alten Patienten auf dem Land als erstes hinten runter.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Meine Patienten bleiben mobil!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Petra macht viele Hausbesuche, weil ihre alternden Patientinnen und Patienten nicht mehr selbst mobil sind. Ein besserer, verlässlicher ÖPNV auf dem Land würde ihren Patienten helfen, wieder eigenständiger zu werden.",
-      "begruendung_selbst": "Das wäre ein Segen für meine älteren Patienten! Ohne Auto ist man hier im Dorf oft aufgeschmissen. Wenn Busse verlässlich fahren, kommen die Menschen auch wieder selbst zu mir in die Sprechstunde."
+      "begruendung_selbst": "Das wäre ein Segen für meine älteren Patienten! Ohne Auto ist man hier im Dorf oft aufgeschmissen. Wenn Busse verlässlich fahren, kommen die Menschen auch wieder selbst zu mir in die Sprechstunde.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich weniger Papierkram!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Petra leidet enorm unter der bürokratischen Last in ihrer Einzelpraxis, die ihr wertvolle Zeit für die Behandlung der Patienten stiehlt. Sie hofft inständig, dass dieses Versprechen in ihrer ärztlichen Realität ankommt.",
-      "begruendung_selbst": "Das ist die wichtigste Ansage überhaupt! Wenn ich nicht mehr jeden Handgriff dreimal abheften und digital gegenzeichnen müsste, hätte ich am Tag viel mehr Zeit für meine Patienten. Da nehme ich die Politik beim Wort!"
+      "begruendung_selbst": "Das ist die wichtigste Ansage überhaupt! Wenn ich nicht mehr jeden Handgriff dreimal abheften und digital gegenzeichnen müsste, hätte ich am Tag viel mehr Zeit für meine Patienten. Da nehme ich die Politik beim Wort!",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Petra steht digitalen Heilsversprechen äußert skeptisch gegenüber, da sie im Alltag oft an der fehleranfälligen Technik verzweifelt. Sie sieht Telemedizin besonders kritisch, wenn sie den akuten Ärztemangel auf dem Land nur kaschieren soll.",
-      "begruendung_selbst": "Schon wieder Telemedizin als Wundermittel! Ich verbringe heute schon halbe Tage mit Technik, die nicht läuft. Eine App oder ein Bildschirm ersetzen doch keine körperliche Untersuchung, erst recht nicht bei meinen alten Patienten hier auf dem Land."
+      "begruendung_selbst": "Schon wieder Telemedizin als Wundermittel! Ich verbringe heute schon halbe Tage mit Technik, die nicht läuft. Eine App oder ein Bildschirm ersetzen doch keine körperliche Untersuchung, erst recht nicht bei meinen alten Patienten hier auf dem Land.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Zentren lösen unser Problem nicht!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als Inhaberin einer Einzelpraxis befürchtet Petra, dass solche staatlich geförderten Zentren neue bürokratische Wasserköpfe schaffen, statt pragmatisch die klassisch niedergelassenen Ärzte vor Ort zu unterstützen.",
-      "begruendung_selbst": "Versorgungszentren klingen auf dem Papier gut, bedeuten in der Praxis aber oft nur noch mehr Verwaltung. Statt neue, staatliche Strukturen zu schaffen, sollte die Politik lieber dafür sorgen, dass sich die klassische Einzelpraxis auf dem Land wieder lohnt!"
+      "begruendung_selbst": "Versorgungszentren klingen auf dem Papier gut, bedeuten in der Praxis aber oft nur noch mehr Verwaltung. Statt neue, staatliche Strukturen zu schaffen, sollte die Politik lieber dafür sorgen, dass sich die klassische Einzelpraxis auf dem Land wieder lohnt!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Nicht noch eine Strukturreform!",
@@ -107,7 +114,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Petra ist nach Jahren völlig desillusioniert von politischen Reformversprechen. Aus ihrer Berufserfahrung führen administrative Neuordnungen im Gesundheitswesen meistens zu einem noch höheren Dokumentationsaufwand für ihre Praxis, statt echte Entlastung zu bringen.",
-      "begruendung_selbst": "Bei dem Wort 'Neuordnung' schrillen bei mir alle Alarmglocken. Jedes Mal, wenn die Politik die Verwaltung umbaut oder 'vereinfachen' will, wächst bei uns in der Praxis nur der Papierberg. Mir fehlt der Glaube, dass das diesmal anders wird."
+      "begruendung_selbst": "Bei dem Wort 'Neuordnung' schrillen bei mir alle Alarmglocken. Jedes Mal, wenn die Politik die Verwaltung umbaut oder 'vereinfachen' will, wächst bei uns in der Praxis nur der Papierberg. Mir fehlt der Glaube, dass das diesmal anders wird.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Bitte keine neuen Zertifikate!",
@@ -118,7 +126,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Die Landärztin stöhnt bereits jetzt unter den hohen bürokratischen Auflagen und dem Qualitätsmanagement. Der politische Reflex, gute Arbeit an neue Zertifikate zu knüpfen, ist für sie als Einzelkämpferin eine Belastung.",
-      "begruendung_selbst": "Noch mehr Zertifikate? Das ist genau diese realitätsferne Bürokratie, die uns erdrückt. Ich zahle meinen MFA gute Gehälter, weil ich gutes Personal brauche – dafür brauche ich keinen neuen Stempel, für den ich wieder tagelang Formulare ausfüllen muss!"
+      "begruendung_selbst": "Noch mehr Zertifikate? Das ist genau diese realitätsferne Bürokratie, die uns erdrückt. Ich zahle meinen MFA gute Gehälter, weil ich gutes Personal brauche – dafür brauche ich keinen neuen Stempel, für den ich wieder tagelang Formulare ausfüllen muss!",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

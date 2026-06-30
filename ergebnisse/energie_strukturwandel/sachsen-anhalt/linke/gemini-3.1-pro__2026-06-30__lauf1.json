@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny fürchtet nichts mehr als den Wegfall von Industriearbeitsplätzen in seiner Region ohne einen tragfähigen Ersatz. Die klare Forderung nach Beschäftigungsgarantien spricht genau diese tiefe Existenzangst an.",
-      "begruendung_selbst": "Genau das fordere ich immer: Erst muss das Neue da sein, bevor man das Alte dichtmacht! Die Leute hier brauchen handfeste Sicherheiten und nicht nur warme Worte."
+      "begruendung_selbst": "Genau das fordere ich immer: Erst muss das Neue da sein, bevor man das Alte dichtmacht! Die Leute hier brauchen handfeste Sicherheiten und nicht nur warme Worte.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wertschöpfung muss hier bleiben!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Facharbeiter in einer Strukturwandelregion will Ronny, dass echte Industrie und Wohlstand vor Ort bleiben und die Region nicht nur Zulieferer für internationale Konzerne bleibt.",
-      "begruendung_selbst": "Wir wollen hier keine verlängerte Werkbank für irgendwelche Konzerne sein, sondern echte Industrie behalten. Das ist die einzige Chance für unsere Heimat."
+      "begruendung_selbst": "Wir wollen hier keine verlängerte Werkbank für irgendwelche Konzerne sein, sondern echte Industrie behalten. Das ist die einzige Chance für unsere Heimat.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wasserstoff als echter Zukunftsplan!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "In seinem Berufsalltag weiß Ronny, dass der Wandel nur mit massiven Investitionen in Wasserstoffinfrastruktur klappen kann. Dies bestätigt seinen Ansatz eines planbaren, technologieoffenen Wandels.",
-      "begruendung_selbst": "Ohne moderne Netze und grünen Wasserstoff drehen wir uns im Kreis. Solche Investitionen in die Infrastruktur sichern letztlich unsere Jobs."
+      "begruendung_selbst": "Ohne moderne Netze und grünen Wasserstoff drehen wir uns im Kreis. Solche Investitionen in die Infrastruktur sichern letztlich unsere Jobs.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich faire Strompreise!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny ärgert sich über die hohen Energiepreise trotz des massiven Ausbaus von Erneuerbaren in seiner Region. Eine politische Entlastung bei den Netzentgelten unterstützt er als überfälligen Schritt zur regionalen Gerechtigkeit.",
-      "begruendung_selbst": "Es ist ein Unding, dass wir hier für die ganzen Windräder auch noch mit den höchsten Netzentgelten bestraft werden. Das muss runter!"
+      "begruendung_selbst": "Es ist ein Unding, dass wir hier für die ganzen Windräder auch noch mit den höchsten Netzentgelten bestraft werden. Das muss runter!",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Für Ronny sind so kurzfristige und starre Ausstiegsdaten eine massive Bedrohung. Er befürchtet, dass solch ehrgeizige politische Ziele in der Praxis die Industrie ruinieren, weil der technologische Ersatz nicht schnell genug bereitsteht.",
-      "begruendung_selbst": "Klimaneutral bis 2035? Das ist in nicht mal zehn Jahren! So ein starrer Zeitplan reißt uns die Beine weg, bevor die neuen Anlagen überhaupt laufen."
+      "begruendung_selbst": "Klimaneutral bis 2035? Das ist in nicht mal zehn Jahren! So ein starrer Zeitplan reißt uns die Beine weg, bevor die neuen Anlagen überhaupt laufen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Brückentechnologie wird abgewürgt!",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Da Ronny in der konventionellen Energiewirtschaft arbeitet, betrachtet er Gas als zwingende Übergangslösung. Eine derart strikte staatliche Beschränkung der Laufzeiten hält er für unrealistisch und gefährlich für die Versorgungssicherheit.",
-      "begruendung_selbst": "Wenn wir den Gaskraftwerken gesetzlich den Stecker nach ein paar hundert Stunden ziehen, sitzen wir bald im Dunkeln. Eine Brücke muss tragen, bis man drüben ist!"
+      "begruendung_selbst": "Wenn wir den Gaskraftwerken gesetzlich den Stecker nach ein paar hundert Stunden ziehen, sitzen wir bald im Dunkeln. Eine Brücke muss tragen, bis man drüben ist!",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

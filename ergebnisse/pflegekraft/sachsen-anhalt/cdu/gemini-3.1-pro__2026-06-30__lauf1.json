@@ -28,7 +28,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin weiß aus dem täglichen Stationsalltag, dass die Pflege ohne Migrantinnen und Migranten sofort kollabieren würde. Das offene Eingeständnis der Partei, dass Krankenhäuser auf diese Arbeitskräfte angewiesen sind, bestätigt ihre Erfahrung und weckt bei ihr ein Gefühl von seltener politischer Ehrlichkeit.",
-      "begruendung_selbst": "Endlich sagt mal einer die Wahrheit! Ohne meine ausländischen Kolleginnen und Kollegen könnten wir unsere Station morgen früh direkt abschließen."
+      "begruendung_selbst": "Endlich sagt mal einer die Wahrheit! Ohne meine ausländischen Kolleginnen und Kollegen könnten wir unsere Station morgen früh direkt abschließen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Personalmangel endlich erkannt!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als chronisch überlastete Pflegekraft leidet Kerstin massiv unter der dünnen Personaldecke. Dass das Problem der Fachkräftebindung und -gewinnung im Programm so klar priorisiert wird, spricht ihr direkt aus dem Herzen und weckt die Hoffnung auf Entlastung.",
-      "begruendung_selbst": "Immerhin habt ihr verstanden, dass uns die Leute weglaufen. Wenn das Personal nicht gehalten wird, nützt das schönste Krankenhaus nichts."
+      "begruendung_selbst": "Immerhin habt ihr verstanden, dass uns die Leute weglaufen. Wenn das Personal nicht gehalten wird, nützt das schönste Krankenhaus nichts.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Verantwortung, aber auch Geld?",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin ist gut ausgebildet und ärgert sich oft, wenn pflegerische Expertise nicht ausreichend genutzt wird. Sie begrüßt strukturelle Aufwertungen ihres Berufs, verbindet dies jedoch gedanklich sofort mit der Erwartung auf eine angemessenere Bezahlung für die höhere Verantwortung.",
-      "begruendung_selbst": "Wir haben eine anspruchsvolle Ausbildung und können viel mehr, als man uns oft lässt. Wenn man uns mehr entscheiden lässt, ist das super, aber das muss sich dann bitte auch auf dem Gehaltszettel zeigen."
+      "begruendung_selbst": "Wir haben eine anspruchsvolle Ausbildung und können viel mehr, als man uns oft lässt. Wenn man uns mehr entscheiden lässt, ist das super, aber das muss sich dann bitte auch auf dem Gehaltszettel zeigen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -63,7 +66,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Nachdem zuvor von Gesundheitsberufen im Allgemeinen die Rede war, empfindet Kerstin die sofortige Verengung auf akademische Berufe als Affront. Es verstärkt ihr Gefühl mangelnder Wertschätzung, da konkrete Maßnahmen für ihre Berufsgruppe fehlen.",
-      "begruendung_selbst": "Erst redet ihr groß von allen Gesundheitsberufen und dann wollt ihr wieder nur mehr Ärzte ausbilden! Uns Pflegende auf Station vergesst ihr im nächsten Satz schon wieder."
+      "begruendung_selbst": "Erst redet ihr groß von allen Gesundheitsberufen und dann wollt ihr wieder nur mehr Ärzte ausbilden! Uns Pflegende auf Station vergesst ihr im nächsten Satz schon wieder.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kliniken sind keine Aktiengesellschaften!",
@@ -74,7 +78,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Kerstin steht der Ökonomisierung im Gesundheitswesen extrem kritisch gegenüber, da sie den Profitdruck oft als Ursache für Personalmangel erlebt. Das Festhalten an gewinnorientierten Kliniken widerspricht ihrem Prinzip, dass in der Pflege der Mensch und nicht die Rendite im Fokus stehen muss.",
-      "begruendung_selbst": "Privatwirtschaftlich bedeutet Rendite vor Versorgung. Da wird auf dem Rücken von uns Pflegekräften gespart, damit die Kasse stimmt, und wir baden das dann in der Schicht aus!"
+      "begruendung_selbst": "Privatwirtschaftlich bedeutet Rendite vor Versorgung. Da wird auf dem Rücken von uns Pflegekräften gespart, damit die Kasse stimmt, und wir baden das dann in der Schicht aus!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wer zahlt dann unser System?",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als sozial orientierte Angestellte im Gesundheitssektor sieht Kerstin in der Deckelung der Sozialabgaben eine Gefahr für die Finanzierung von Krankenkassen und Pflegeversicherung. Sie fürchtet, dass am Ende Gelder für besseres Personal fehlen oder Löhne nicht steigen können.",
-      "begruendung_selbst": "Wenn ihr die Sozialabgaben einfach deckelt, wo soll denn das Geld für gute Pflege und unsere Löhne herkommen? Dann wird doch am Ende wieder bei uns auf der Station gespart."
+      "begruendung_selbst": "Wenn ihr die Sozialabgaben einfach deckelt, wo soll denn das Geld für gute Pflege und unsere Löhne herkommen? Dann wird doch am Ende wieder bei uns auf der Station gespart.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "So vergrault ihr unsere Leute!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Auch wenn es explizit um irreguläre Migration geht, empfindet Kerstin die pauschale Härte und das strenge politische Klima als bedrohlich für ausländische Arbeitskräfte. Sie sorgt sich, dass diese Rhetorik ihre internationalen Kolleginnen und Kollegen verunsichert und letztlich vertreibt.",
-      "begruendung_selbst": "Mit dieser ganzen harten Rhetorik schreckt ihr genau die Leute ab, die wir hier so dringend brauchen. Wer will denn in ein Land kommen, in dem immer nur über Ausweisung geredet wird?"
+      "begruendung_selbst": "Mit dieser ganzen harten Rhetorik schreckt ihr genau die Leute ab, die wir hier so dringend brauchen. Wer will denn in ein Land kommen, in dem immer nur über Ausweisung geredet wird?",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

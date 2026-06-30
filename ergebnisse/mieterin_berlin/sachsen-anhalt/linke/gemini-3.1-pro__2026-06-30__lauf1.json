@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Carla, deren größter finanzieller Stressfaktor die steigenden Mieten sind, ist eine strenge staatliche Mietregulierung die absolute Kernforderung an die Politik.",
-      "begruendung_selbst": "Der Markt regelt hier schon lange nichts mehr, er verdrängt uns nur aus unseren Kiezen. Wir brauchen dringend eine echte Mietpreisbremse, sonst ist die Stadt bald unbezahlbar."
+      "begruendung_selbst": "Der Markt regelt hier schon lange nichts mehr, er verdrängt uns nur aus unseren Kiezen. Wir brauchen dringend eine echte Mietpreisbremse, sonst ist die Stadt bald unbezahlbar.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schluss mit der Sanierungsfalle!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Modernisierungen oft als Vorwand zur Mieterhöhung und Verdrängung genutzt werden, nimmt die Forderung nach der Abschaffung der Umlage Carla ihre größte Existenzangst.",
-      "begruendung_selbst": "Das ist genau das, was mir schlaflose Nächte bereitet. Energetisch sanieren ist ja schön und gut, aber nicht, wenn man uns danach mit Luxusmodernisierungen aus der Wohnung schmeißt!"
+      "begruendung_selbst": "Das ist genau das, was mir schlaflose Nächte bereitet. Energetisch sanieren ist ja schön und gut, aber nicht, wenn man uns danach mit Luxusmodernisierungen aus der Wohnung schmeißt!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wohnen gehört uns allen!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Carla sieht profitorientierte Investoren als Gegner einer lebenswerten Stadt. Die Rekommunalisierung stärkt ihre Vorstellung von Wohnen als grundlegende öffentliche Daseinsvorsorge.",
-      "begruendung_selbst": "Es war ein historischer Fehler, unsere Straßen an Aktiengesellschaften zu verscherbeln. Wir müssen uns die Immobilien zurückholen, damit sie wieder dem Gemeinwohl dienen."
+      "begruendung_selbst": "Es war ein historischer Fehler, unsere Straßen an Aktiengesellschaften zu verscherbeln. Wir müssen uns die Immobilien zurückholen, damit sie wieder dem Gemeinwohl dienen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Freie Fahrt für alle!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als reine Nutzerin des Umweltverbundes profitiert Carla enorm von einem gut ausgebauten und kostenfreien ÖPNV, was auch ihre Forderung nach autoarmen Städten stützt.",
-      "begruendung_selbst": "Ich fahre meine ganzen Wege mit der Bahn. Wenn wir ernsthaft wollen, dass die Leute ihre Autos stehenlassen, dann ist ein kostenloser Nahverkehr der einzig richtige Hebel!"
+      "begruendung_selbst": "Ich fahre meine ganzen Wege mit der Bahn. Wenn wir ernsthaft wollen, dass die Leute ihre Autos stehenlassen, dann ist ein kostenloser Nahverkehr der einzig richtige Hebel!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gesundheit ist keine Ware!",
@@ -72,7 +76,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Für Carla ist Daseinsvorsorge eine staatliche Pflicht. Die Profitmaximierung im Gesundheitswesen lehnt sie als Ausverkauf gesellschaftlicher Güter strikt ab.",
-      "begruendung_selbst": "Es macht mich so wütend, dass Krankenhäuser heute wie Fabriken gemanagt werden. Wenn ich krank bin, will ich medizinisch optimal versorgt werden und nicht als reine Einnahmequelle für Aktionäre dienen."
+      "begruendung_selbst": "Es macht mich so wütend, dass Krankenhäuser heute wie Fabriken gemanagt werden. Wenn ich krank bin, will ich medizinisch optimal versorgt werden und nicht als reine Einnahmequelle für Aktionäre dienen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Platz fürs Rad!",
@@ -83,7 +88,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da sie als Städterin alle Wege im Umweltverbund zurücklegt, begrüßt Carla jede Initiative, die Fahrradfahrern mehr Platz und Sicherheit im Straßenverkehr einräumt.",
-      "begruendung_selbst": "Wenn wir endlich sichere Radwege bauen und dem Radverkehr Priorität einräumen, brauchen wir in der Stadt gar keine privaten PKW mehr. Genau da müssen unsere Gelder hin!"
+      "begruendung_selbst": "Wenn wir endlich sichere Radwege bauen und dem Radverkehr Priorität einräumen, brauchen wir in der Stadt gar keine privaten PKW mehr. Genau da müssen unsere Gelder hin!",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Carla sieht staatliche Unterstützung für privates Wohneigentum kritisch, da sie befürchtet, dass dieses Geld beim dringend benötigten sozialen Mietwohnungsbau fehlen wird.",
-      "begruendung_selbst": "Warum sollen wir mit Steuergeldern die neuen Heizungen von Leuten mit Eigenheim subventionieren? Jeder Euro, der da reinfließt, fehlt am Ende beim Bau von günstigen Mietwohnungen, die wir wirklich dringend brauchen."
+      "begruendung_selbst": "Warum sollen wir mit Steuergeldern die neuen Heizungen von Leuten mit Eigenheim subventionieren? Jeder Euro, der da reinfließt, fehlt am Ende beim Bau von günstigen Mietwohnungen, die wir wirklich dringend brauchen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Warum noch Autos fördern?",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Verfechterin einer konsequent autoarmen Stadt hat Carla wenig Verständnis dafür, dass ausgerechnet die Automobilindustrie durch staatliche Maßnahmen geschützt und gestärkt werden soll.",
-      "begruendung_selbst": "Wir reden andauernd von Verkehrswende und dass die Autos aus den Städten verschwinden müssen. Da ist es doch ein völlig falsches Signal, wenn wir die Autobauer weiterhin mit Samthandschuhen anfassen und retten wollen."
+      "begruendung_selbst": "Wir reden andauernd von Verkehrswende und dass die Autos aus den Städten verschwinden müssen. Da ist es doch ein völlig falsches Signal, wenn wir die Autobauer weiterhin mit Samthandschuhen anfassen und retten wollen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

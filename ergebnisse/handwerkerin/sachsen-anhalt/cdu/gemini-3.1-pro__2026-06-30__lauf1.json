@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Sabine leidet unter den hohen finanziellen Belastungen durch Steuern und Lohnnebenkosten. Eine spürbare Entlastung würde ihr dringend benötigten Spielraum für Investitionen und finanzielle Sicherheit geben.",
-      "begruendung_selbst": "Wenn die Abgaben endlich sinken, kann ich meinen Gesellen mehr zahlen und muss nicht mehr jede Nacht wegen der Liquidität wachliegen."
+      "begruendung_selbst": "Wenn die Abgaben endlich sinken, kann ich meinen Gesellen mehr zahlen und muss nicht mehr jede Nacht wegen der Liquidität wachliegen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wichtig für mein Lebenswerk!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Sabine ihren Familienbetrieb in etwa zehn Jahren übergeben möchte, trifft die geplante Förderung der Betriebsnachfolge exakt ihre langfristige Lebensplanung und nimmt ihr große Sorgen.",
-      "begruendung_selbst": "Mein Betrieb ist auch meine Altersvorsorge. Wenn die Politik mir bei der Übergabe hilft, statt mir mit Bürokratie Steine in den Weg zu legen, wäre das eine riesige Erleichterung."
+      "begruendung_selbst": "Mein Betrieb ist auch meine Altersvorsorge. Wenn die Politik mir bei der Übergabe hilft, statt mir mit Bürokratie Steine in den Weg zu legen, wäre das eine riesige Erleichterung.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Die Jugend muss die Praxis kennenlernen!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Sabine fast keine Azubis mehr findet, erhofft sie sich von einer stärkeren praktischen Berufsorientierung, dass wieder mehr junge Menschen den Weg ins Handwerk finden.",
-      "begruendung_selbst": "Wenn die Jugendlichen einmal pro Woche bei mir auf der Baustelle stehen, merken sie vielleicht wieder, wie schön es ist, am Ende des Tages mit den eigenen Händen was geschafft zu haben!"
+      "begruendung_selbst": "Wenn die Jugendlichen einmal pro Woche bei mir auf der Baustelle stehen, merken sie vielleicht wieder, wie schön es ist, am Ende des Tages mit den eigenen Händen was geschafft zu haben!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wer anpackt, ist hier willkommen!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Als Unternehmerin mit akutem Personalmangel weiß Sabine, dass sie auf arbeitswillige Zuwanderer angewiesen ist. Sie teilt die leistungsbezogene Willkommenskultur der Partei voll und ganz.",
-      "begruendung_selbst": "Mir ist völlig egal, wo einer herkommt. Wer pünktlich auf der Matte steht, mit anpackt und unsere Regeln respektiert, ist in meinem Betrieb jederzeit willkommen!"
+      "begruendung_selbst": "Mir ist völlig egal, wo einer herkommt. Wer pünktlich auf der Matte steht, mit anpackt und unsere Regeln respektiert, ist in meinem Betrieb jederzeit willkommen!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wer kann, muss auch mit anpacken!",
@@ -72,7 +76,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Sabine ärgert sich, wenn sie hart arbeitet und Steuern zahlt, während andere aus ihrer Sicht das Sozialsystem ausnutzen. Die Forderung nach dem Prinzip 'Fördern und Fordern' entspricht exakt ihrem Gerechtigkeitsempfinden.",
-      "begruendung_selbst": "Es kann einfach nicht sein, dass meine Leute jeden Morgen um sechs auf der Matte stehen und andere auf Kosten der Allgemeinheit ausschlafen. Wer Hilfe bekommt, muss auch was dafür tun!"
+      "begruendung_selbst": "Es kann einfach nicht sein, dass meine Leute jeden Morgen um sechs auf der Matte stehen und andere auf Kosten der Allgemeinheit ausschlafen. Wer Hilfe bekommt, muss auch was dafür tun!",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Sabine fühlt sich als Mittelständlerin bei solchen Initiativen benachteiligt. Sie befürchtet, dass hochsubventionierte Großkonzerne mit Gehältern locken, bei denen sie nicht mithalten kann, und den Fachkräftemarkt komplett leerfegen.",
-      "begruendung_selbst": "Immer rollt ihr den Milliardenkonzernen den roten Teppich aus. Und wo bleibe ich als Familienbetrieb? Die werben mir mit ihren Subventionen die letzten guten Monteure ab!"
+      "begruendung_selbst": "Immer rollt ihr den Milliardenkonzernen den roten Teppich aus. Und wo bleibe ich als Familienbetrieb? Die werben mir mit ihren Subventionen die letzten guten Monteure ab!",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

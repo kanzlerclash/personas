@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin beobachtet täglich, wie das Streben nach Rendite den Klinikalltag verschärft; die Abkehr von privaten Klinikkonzernen entspricht ihrer Hoffnung auf eine bessere Versorgung.",
-      "begruendung_selbst": "Wenn die Klinik nicht mehr jedem Cent hinterherjagen muss, um Aktionäre glücklich zu machen, haben wir vielleicht endlich wieder den Kopf frei für unsere Patienten."
+      "begruendung_selbst": "Wenn die Klinik nicht mehr jedem Cent hinterherjagen muss, um Aktionäre glücklich zu machen, haben wir vielleicht endlich wieder den Kopf frei für unsere Patienten.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Weg mit den Fallpauschalen!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die Ökonomisierung zwingt Kerstin und ihr Team oft dazu, Patienten zu früh zu entlassen, weshalb sie die Abschaffung dieses rein wirtschaftlichen Anreizes unterstützt.",
-      "begruendung_selbst": "Dieses ständige Rechnen, wie schnell ein Bett wieder frei wird, macht uns kaputt. Kranke Menschen sind keine Fließbandware, die nach Pauschale abgefertigt wird!"
+      "begruendung_selbst": "Dieses ständige Rechnen, wie schnell ein Bett wieder frei wird, macht uns kaputt. Kranke Menschen sind keine Fließbandware, die nach Pauschale abgefertigt wird!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich verbindliche Personalvorgaben!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Unter der chronischen Unterbesetzung und Arbeitsverdichtung leidet sie massiv; verbindliche Grenzen und weniger Bürokratie versprechen die dringend nötige Entlastung.",
-      "begruendung_selbst": "Ich kann mich nicht zerteilen. Verbindliche Personalschlüssel – das ist genau das, was wir brauchen, um im Schichtdienst nicht völlig auszubrennen."
+      "begruendung_selbst": "Ich kann mich nicht zerteilen. Verbindliche Personalschlüssel – das ist genau das, was wir brauchen, um im Schichtdienst nicht völlig auszubrennen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -63,7 +66,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Kerstins Arbeitsalltag ist ohne ihre migrantischen Kollegen nicht mehr zu bewältigen; deren pauschale Herabwürdigung empört sie zutiefst.",
-      "begruendung_selbst": "Solche Sätze sind ein Schlag ins Gesicht meiner internationalen Kollegen. Ohne sie könnten wir die Station längst dichtmachen!"
+      "begruendung_selbst": "Solche Sätze sind ein Schlag ins Gesicht meiner internationalen Kollegen. Ohne sie könnten wir die Station längst dichtmachen!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Pflege ist ein harter Beruf, keine Romantik!",
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als examinierte Fachkraft wertet Kerstin diese Sichtweise als massive Herabwürdigung ihrer hart erlernten und hochprofessionellen Tätigkeit.",
-      "begruendung_selbst": "Das klingt ja nett, aber mein Beruf besteht aus Knochenarbeit, medizinischem Fachwissen und Schichtdienst – das ist keine romantische Nächstenliebe, sondern ein harter Job!"
+      "begruendung_selbst": "Das klingt ja nett, aber mein Beruf besteht aus Knochenarbeit, medizinischem Fachwissen und Schichtdienst – das ist keine romantische Nächstenliebe, sondern ein harter Job!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Technik ersetzt keine Pflegekraft!",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Kerstin weiß aus der Praxis, dass Pflege intensive menschliche Zuwendung erfordert und Maschinen das fehlende Personal am Krankenbett nicht kompensieren können.",
-      "begruendung_selbst": "Soll jetzt etwa ein Roboter die Patienten waschen und trösten? Dieser naive Technik-Glaube geht völlig an der Realität auf unserer Station vorbei."
+      "begruendung_selbst": "Soll jetzt etwa ein Roboter die Patienten waschen und trösten? Dieser naive Technik-Glaube geht völlig an der Realität auf unserer Station vorbei.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

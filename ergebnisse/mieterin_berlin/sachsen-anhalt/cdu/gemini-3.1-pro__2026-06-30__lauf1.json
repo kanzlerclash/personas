@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Carla begrüßt das Bekenntnis zum Deutschlandticket, da sie als städtische Mieterin ohne Auto stark auf den öffentlichen Nahverkehr angewiesen ist.",
-      "begruendung_selbst": "Das Deutschlandticket ist für mich im Alltag unverzichtbar. Gut, dass das nicht auch noch zur Disposition steht."
+      "begruendung_selbst": "Das Deutschlandticket ist für mich im Alltag unverzichtbar. Gut, dass das nicht auch noch zur Disposition steht.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Platz fürs Rad!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Carla bewertet den Ausbau der Radverkehrsinfrastruktur positiv, weil sie sich für ihre täglichen Wege eine fahrradfreundlichere und sicherere Stadt wünscht.",
-      "begruendung_selbst": "Endlich mal was Positives für den Alltag! Ich fahre jeden Tag Rad, mehr und sichere Wege sind genau das, was wir brauchen."
+      "begruendung_selbst": "Endlich mal was Positives für den Alltag! Ich fahre jeden Tag Rad, mehr und sichere Wege sind genau das, was wir brauchen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wenigstens sozialer Wohnungsbau.",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Carla findet Unterstützung für die Förderung des sozialen Wohnungsbaus, da sie dringend mehr gemeinwohlorientierten und bezahlbaren Wohnraum jenseits des freien Marktes fordert.",
-      "begruendung_selbst": "Es ist ein Minimum, aber immerhin wird der soziale Wohnungsbau gefördert. Wir brauchen dringend Wohnungen, die nicht nur auf Profit ausgelegt sind."
+      "begruendung_selbst": "Es ist ein Minimum, aber immerhin wird der soziale Wohnungsbau gefördert. Wir brauchen dringend Wohnungen, die nicht nur auf Profit ausgelegt sind.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -63,7 +66,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Carla ist empört über die pauschale Ablehnung eines Mietendeckels, da sie sich durch staatliche Eingriffe vor Verdrängung und unbezahlbaren Mieten schützen möchte.",
-      "begruendung_selbst": "Mietpreisdeckel als 'ideologisch' abzutun, ist ein Schlag ins Gesicht. Für mich ist das keine Ideologie, sondern die nackte Angst, mein Zuhause zu verlieren!"
+      "begruendung_selbst": "Mietpreisdeckel als 'ideologisch' abzutun, ist ein Schlag ins Gesicht. Für mich ist das keine Ideologie, sondern die nackte Angst, mein Zuhause zu verlieren!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Eigentum ist purer Luxus!",
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Carla fühlt sich von der starken Fokussierung auf Eigentumsförderung ausgeschlossen, da der Erwerb von Wohneigentum für sie aufgrund fehlenden Kapitals ohnehin unrealistisch ist.",
-      "begruendung_selbst": "Was nützt mir diese Förderung? Ich werde mir in Berlin ohnehin nie eine Wohnung kaufen können. Das ist Politik für Reiche, nicht für uns Mieter."
+      "begruendung_selbst": "Was nützt mir diese Förderung? Ich werde mir in Berlin ohnehin nie eine Wohnung kaufen können. Das ist Politik für Reiche, nicht für uns Mieter.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Freie Fahrt für Abgase?",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Carla lehnt die geplante Abschaffung von städtischen Umweltzonen strikt ab, da dies ihrer Forderung nach einer lebenswerten, autoarmen Stadt widerspricht.",
-      "begruendung_selbst": "Umweltzonen aufzuheben, ist ein völlig falsches Signal. Wir brauchen weniger Autos und bessere Luft im Kiez, nicht noch mehr Abgase vor der Haustür."
+      "begruendung_selbst": "Umweltzonen aufzuheben, ist ein völlig falsches Signal. Wir brauchen weniger Autos und bessere Luft im Kiez, nicht noch mehr Abgase vor der Haustür.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Der Markt regelt eben nicht!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Carla kritisiert die stark marktliberale Haltung der Partei, da sie eine starke staatliche Regulierung in der Daseinsvorsorge für unabdingbar hält.",
-      "begruendung_selbst": "Die Mär vom freien Markt, der Wohlstand für alle bringt, glaube ich schon lange nicht mehr. Ohne staatliche Umverteilung bleiben Leute wie ich auf der Strecke."
+      "begruendung_selbst": "Die Mär vom freien Markt, der Wohlstand für alle bringt, glaube ich schon lange nicht mehr. Ohne staatliche Umverteilung bleiben Leute wie ich auf der Strecke.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

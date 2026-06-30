@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe sieht starke Gewerkschaften und Flächentarife als Fundament seines Wohlstands. Der gesetzliche Schutz dieser Errungenschaften gibt ihm die nötige Rückendeckung.",
-      "begruendung_selbst": "Gute Arbeit muss ordentlich bezahlt werden. Dass die SPD die Tarifbindung gesetzlich absichern will, ist genau der richtige Weg gegen Lohndrückerei."
+      "begruendung_selbst": "Gute Arbeit muss ordentlich bezahlt werden. Dass die SPD die Tarifbindung gesetzlich absichern will, ist genau der richtige Weg gegen Lohndrückerei.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Unser Chemiedreieck hat Zukunft!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe fürchtet die schleichende Deindustrialisierung seiner Heimat. Das klare Bekenntnis zum Erhalt seiner direkten Branche und Region nimmt ihm existenzielle Sorgen.",
-      "begruendung_selbst": "Da steht schwarz auf weiß, dass sie unsere Branche nicht abwickeln, sondern unterstützen wollen. Unser Chemiedreieck ist das Rückgrat des Landes und braucht diese Hilfe."
+      "begruendung_selbst": "Da steht schwarz auf weiß, dass sie unsere Branche nicht abwickeln, sondern unterstützen wollen. Unser Chemiedreieck ist das Rückgrat des Landes und braucht diese Hilfe.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klare Kante für Betriebsräte!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als aktiver Gewerkschafter kämpft Uwe oft gegen arbeitgeberseitige Widerstände. Eine harte staatliche Sanktion gegen Behinderungen der Mitbestimmung stärkt seine tägliche Arbeit.",
-      "begruendung_selbst": "Wer uns im Betrieb knüppeln will, darf keine Steuergelder kriegen. Richtig so, dass die Politik uns Arbeitnehmervertretern hier knallhart den Rücken stärkt."
+      "begruendung_selbst": "Wer uns im Betrieb knüppeln will, darf keine Steuergelder kriegen. Richtig so, dass die Politik uns Arbeitnehmervertretern hier knallhart den Rücken stärkt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Günstiger Strom rettet Jobs!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für die energieintensive Schwerindustrie sind wettbewerbsfähige Strompreise die absolute Überlebensfrage. Uwes Sorge um den Verlust von Anlagen wird hier direkt adressiert.",
-      "begruendung_selbst": "Ohne bezahlbaren Strom können wir unsere Anlagen abschalten. Eine Deckelung der Netzkosten ist zwingend nötig, damit wir international überhaupt noch mithalten können."
+      "begruendung_selbst": "Ohne bezahlbaren Strom können wir unsere Anlagen abschalten. Eine Deckelung der Netzkosten ist zwingend nötig, damit wir international überhaupt noch mithalten können.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Uwe fürchtet, dass rigide gesetzliche CO2-Vorgaben das Tempo der Transformation diktieren, ohne Rücksicht auf die technischen und wirtschaftlichen Möglichkeiten der Industrie zu nehmen.",
-      "begruendung_selbst": "Immer neue Gesetze nützen dem Klima gar nichts, wenn sie unsere Werke in die Knie zwingen. Transformation geht nur mit uns, nicht per Brechstange aus dem Ministerium!"
+      "begruendung_selbst": "Immer neue Gesetze nützen dem Klima gar nichts, wenn sie unsere Werke in die Knie zwingen. Transformation geht nur mit uns, nicht per Brechstange aus dem Ministerium!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Träumerei bei der Grundlast!",
@@ -85,7 +90,9 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Die Chemieindustrie benötigt rund um die Uhr absolute Versorgungssicherheit. Uwe hält die Fokussierung auf reine Speicherlösungen für den Ausgleich für praxisfern und potenziell gefährlich für die Netzstabilität.",
-      "begruendung_selbst": "Unsere Anlagen laufen 24 Stunden am Tag auf Hochtouren. Von ein paar Speichern und Biogas kann man keine Schwerindustrie am Leben halten, das ist gefährlich realitätsfern."
+      "begruendung_selbst": "Unsere Anlagen laufen 24 Stunden am Tag auf Hochtouren. Von ein paar Speichern und Biogas kann man keine Schwerindustrie am Leben halten, das ist gefährlich realitätsfern.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "titel_selbst": "Was ist mit der alten Industrie?",
@@ -96,7 +103,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Uwe stört sich an der politischen Begeisterung für neue Start-ups, wenn gleichzeitig die traditionelle Schwerindustrie, die das Rückgrat der Wirtschaft bildet, unter enormem Anpassungsdruck steht.",
-      "begruendung_selbst": "Schön und gut, dass man Start-ups fördern will. Aber man darf nicht diejenigen vernachlässigen, die heute die dicken Steuern zahlen und tausende Familien ernähren!"
+      "begruendung_selbst": "Schön und gut, dass man Start-ups fördern will. Aber man darf nicht diejenigen vernachlässigen, die heute die dicken Steuern zahlen und tausende Familien ernähren!",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

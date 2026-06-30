@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marco leidet stark unter dem aktuellen Personalmangel und der daraus resultierenden Arbeitsbelastung im Schichtdienst. Die konkrete Zielmarke für mehr Einstellungen bei der Polizei trifft exakt seine Kernforderung nach personeller Entlastung.",
-      "begruendung_selbst": "Wir pfeifen auf dem letzten Loch. Wenn die wirklich die 7.000 Stellen vollmachen, wäre das die Entlastung, die wir auf der Straße so dringend brauchen."
+      "begruendung_selbst": "Wir pfeifen auf dem letzten Loch. Wenn die wirklich die 7.000 Stellen vollmachen, wäre das die Entlastung, die wir auf der Straße so dringend brauchen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kein Platz für Verfassungsfeinde!",
@@ -39,7 +40,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Als ordnungstreuer Beamter identifiziert sich Marco stark mit dem Schutz staatlicher Institutionen. Er teilt die harte Linie gegen Extremisten im öffentlichen Dienst, da diese aus seiner Sicht die Integrität der Polizei und des Rechtsstaats beschädigen.",
-      "begruendung_selbst": "Wer unseren Staat ablehnt, hat in Uniform nichts verloren. Das untergräbt das Vertrauen in unsere Arbeit und macht den Job für uns alle nur noch schwerer."
+      "begruendung_selbst": "Wer unseren Staat ablehnt, hat in Uniform nichts verloren. Das untergräbt das Vertrauen in unsere Arbeit und macht den Job für uns alle nur noch schwerer.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Damit unsere Arbeit nicht versandet!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Marco ist häufig frustriert, wenn von ihm ermittelte Fälle vor Gericht nur schleppend bearbeitet werden oder im Sande verlaufen. Eine effizientere Justiz sorgt dafür, dass seine polizeiliche Arbeit auf der Straße auch spürbare juristische Konsequenzen hat.",
-      "begruendung_selbst": "Es gibt nichts Frustrierenderes, als wenn wir jemanden schnappen und es ewig dauert, bis es ein Urteil gibt. Wenn die Justiz endlich schneller wird, hat unsere Arbeit wieder mehr Sinn."
+      "begruendung_selbst": "Es gibt nichts Frustrierenderes, als wenn wir jemanden schnappen und es ewig dauert, bis es ein Urteil gibt. Wenn die Justiz endlich schneller wird, hat unsere Arbeit wieder mehr Sinn.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -63,7 +66,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Marco fühlt sich durch pauschale Polizeikritik ohnehin schon stark belastet. Eine externe Kontrollstelle empfindet er als institutionalisiertes Misstrauen gegenüber seiner täglichen Arbeit und als mangelnde Rückendeckung durch die Politik.",
-      "begruendung_selbst": "Wir halten jeden Tag den Kopf hin und als Dankeschön kriegen wir noch eine Aufsichtsstelle vorgesetzt. Das fühlt sich so an, als ob man uns grundsätzlich nicht vertraut."
+      "begruendung_selbst": "Wir halten jeden Tag den Kopf hin und als Dankeschön kriegen wir noch eine Aufsichtsstelle vorgesetzt. Das fühlt sich so an, als ob man uns grundsätzlich nicht vertraut.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Ihr nehmt uns wichtige Werkzeuge!",
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Marco wünscht sich weitreichende Befugnisse und moderne technische Ausstattung, um Straftaten effektiv verfolgen zu können. Der Verzicht auf technologische Überwachungsmittel an Kriminalitätsschwerpunkten oder bei Großereignissen schränkt seinen polizeilichen Handlungsspielraum ein.",
-      "begruendung_selbst": "Wir sollen für Sicherheit sorgen, dürfen aber moderne Technik nicht nutzen? Gerade bei Großlagen oder schweren Straftaten brauchen wir solche Instrumente, um Täter überhaupt noch rechtssicher ermitteln zu können."
+      "begruendung_selbst": "Wir sollen für Sicherheit sorgen, dürfen aber moderne Technik nicht nutzen? Gerade bei Großlagen oder schweren Straftaten brauchen wir solche Instrumente, um Täter überhaupt noch rechtssicher ermitteln zu können.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Das weicht unseren Rechtsstaat auf!",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Marco plädiert für eine konsequente Strafverfolgung und klare Konsequenzen für Gesetzesverstöße. Wenn verhängte Geldstrafen letztlich nicht vollstreckt werden, sieht er die abschreckende Wirkung des Rechtsstaats und die Verbindlichkeit von Strafurteilen gefährdet.",
-      "begruendung_selbst": "Gesetz ist Gesetz. Wenn am Ende keine echte Strafe mehr droht, weil man es als soziales Problem verbucht, dann nimmt uns auf der Straße doch überhaupt niemand mehr ernst."
+      "begruendung_selbst": "Gesetz ist Gesetz. Wenn am Ende keine echte Strafe mehr droht, weil man es als soziales Problem verbucht, dann nimmt uns auf der Straße doch überhaupt niemand mehr ernst.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

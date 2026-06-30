@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf macht sich Sorgen um seinen Industriearbeitsplatz. Die klare Ansage, dass bezahlbare Energie für den Erhalt von Jobs in der Industrie notwendig ist, deckt sich mit seiner pragmatischen Sicht.",
-      "begruendung_selbst": "Wenn der Strom zu teuer wird, machen bei uns die Lichter aus. Politik muss das kapieren!"
+      "begruendung_selbst": "Wenn der Strom zu teuer wird, machen bei uns die Lichter aus. Politik muss das kapieren!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Acht Stunden sind genug!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Facharbeiter im Schichtbetrieb ist Toralf auf geregelte und verlässliche Arbeitszeiten angewiesen. Das Festhalten am Acht-Stunden-Tag schützt ihn vor weiteren körperlichen Belastungen.",
-      "begruendung_selbst": "Nach acht Stunden an der Maschine bin ich fertig. Gut, dass das nicht aufgeweicht werden soll."
+      "begruendung_selbst": "Nach acht Stunden an der Maschine bin ich fertig. Gut, dass das nicht aufgeweicht werden soll.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Auto bleibt wichtig!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf fühlt sich oft von der urbanen Verkehrspolitik bevormundet. Diese Aussage signalisiert ihm Verständnis für seine reale Situation auf dem Dorf, wo er zwingend ein Auto braucht.",
-      "begruendung_selbst": "Ohne Auto komme ich nicht zur Schicht. Schön, dass auch die Politiker das endlich mal einsehen."
+      "begruendung_selbst": "Ohne Auto komme ich nicht zur Schicht. Schön, dass auch die Politiker das endlich mal einsehen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Steuern runter beim Strom!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf spürt den Kaufkraftverlust bei Energiepreisen deutlich. Eine niedrigere Stromsteuer entlastet sein Haushaltsbudget direkt und spürbar, was seine finanzielle Anspannung lindert.",
-      "begruendung_selbst": "Endlich mal ein Vorschlag, der mir am Ende des Monats wirklich mehr Geld im Portemonnaie lässt."
+      "begruendung_selbst": "Endlich mal ein Vorschlag, der mir am Ende des Monats wirklich mehr Geld im Portemonnaie lässt.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Toralf sorgt sich vor dem Verbrenner-Aus und kann sich kein teures E-Auto leisten. Der Fokus auf Ladeinfrastruktur ignoriert sein akutes Problem der hohen Spritkosten für sein jetziges Fahrzeug.",
-      "begruendung_selbst": "Was nützt mir eine Ladesäule im Dorf, wenn ich mir sowieso nie so einen Elektrowagen leisten kann?"
+      "begruendung_selbst": "Was nützt mir eine Ladesäule im Dorf, wenn ich mir sowieso nie so einen Elektrowagen leisten kann?",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Geld für Radwege statt Straßen?",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Er pendelt jeden Tag 45 Minuten mit dem Auto und ist auf intakte Straßen angewiesen. Ausgaben für Radwege empfindet er als städtische Privilegien, die ihm auf dem Land nichts nützen.",
-      "begruendung_selbst": "Für die paar Schönwetter-Radler in der Stadt ist Geld da, aber unsere Straßen zerbröseln."
+      "begruendung_selbst": "Für die paar Schönwetter-Radler in der Stadt ist Geld da, aber unsere Straßen zerbröseln.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wieder nur Geschenke für Städter!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Toralf wohnt in einem Dorf ohne brauchbaren ÖPNV. Er sieht solche Subventionen als Ungleichbehandlung, da Landbewohner das mitfinanzieren, aber mangels Bussen nicht nutzen können.",
-      "begruendung_selbst": "Tolles Ticket! Blöd nur, wenn bei uns sowieso kein Bus fährt. Wir auf dem Dorf zahlen das nur mit."
+      "begruendung_selbst": "Tolles Ticket! Blöd nur, wenn bei uns sowieso kein Bus fährt. Wir auf dem Dorf zahlen das nur mit.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

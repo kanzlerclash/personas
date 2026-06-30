@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf ist Industriemechaniker im Schichtdienst und schätzt die Bedeutung von guten Tarifbedingungen und Mitbestimmung für seine eigene finanzielle und körperliche Absicherung.",
-      "begruendung_selbst": "Als Facharbeiter im Schichtbetrieb weiß ich: Ohne faire Löhne und starke Betriebsräte machst du dich auf Dauer nur kaputt. Dass die das auch so sehen, finde ich richtig."
+      "begruendung_selbst": "Als Facharbeiter im Schichtbetrieb weiß ich: Ohne faire Löhne und starke Betriebsräte machst du dich auf Dauer nur kaputt. Dass die das auch so sehen, finde ich richtig.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Flickt endlich die Straßen!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf ist täglich aufs Auto angewiesen und verbringt viel Zeit auf Landstraßen. Eine Instandsetzung bestehender Wege hilft ihm pragmatisch in seinem Alltag mehr als teure Prestigebauten.",
-      "begruendung_selbst": "Ich brauche keine neuen Autobahnen. Mir würde es schon reichen, wenn die Straßen auf dem Weg zur Schicht nicht ständig mein Fahrwerk ruinieren würden. Pragmatisch und sinnvoll."
+      "begruendung_selbst": "Ich brauche keine neuen Autobahnen. Mir würde es schon reichen, wenn die Straßen auf dem Weg zur Schicht nicht ständig mein Fahrwerk ruinieren würden. Pragmatisch und sinnvoll.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Stündlicher Bus? Her damit!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ein besserer ÖPNV auf dem Land mindert Toralfs logistischen Stress in der Familie. Auch wenn er sein Auto für die Schichtarbeit behält, könnten seine Kinder und seine Frau deutlich flexibler unterwegs sein.",
-      "begruendung_selbst": "Wenn wirklich jede Stunde ein Bus bei uns auf dem Dorf fährt, könnten meine Frau oder mein Großer den nutzen. Dann müssten wir nicht jede kleine Strecke mit dem Auto abreißen."
+      "begruendung_selbst": "Wenn wirklich jede Stunde ein Bus bei uns auf dem Dorf fährt, könnten meine Frau oder mein Großer den nutzen. Dann müssten wir nicht jede kleine Strecke mit dem Auto abreißen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich Entlastung beim Strom!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Hausbesitzer und Verdiener mit festem Budget achtet Toralf stark auf Nebenkosten. Eine steuerliche Senkung der Energiepreise verspricht eine spürbare und unbürokratische finanzielle Entlastung.",
-      "begruendung_selbst": "Strom wird immer teurer, da bleibt am Monatsende weniger übrig. Wenn sie da wirklich die Steuern runternehmen, merke ich das direkt im Geldbeutel. Eine gute, handfeste Lösung."
+      "begruendung_selbst": "Strom wird immer teurer, da bleibt am Monatsende weniger übrig. Wenn sie da wirklich die Steuern runternehmen, merke ich das direkt im Geldbeutel. Eine gute, handfeste Lösung.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Toralf empfindet diese generelle Kritik am Autofahren als Angriff auf seine Lebensrealität, da er für seine Arbeit im Schichtbetrieb mangels Alternativen zwingend auf den eigenen PKW angewiesen ist.",
-      "begruendung_selbst": "Die da oben in den Städten reden davon, dass das Auto an Grenzen stößt. Für mich gibt es aber keine Grenze, ich muss jeden Morgen pünktlich zur Schicht, und zwar mit dem Auto!"
+      "begruendung_selbst": "Die da oben in den Städten reden davon, dass das Auto an Grenzen stößt. Für mich gibt es aber keine Grenze, ich muss jeden Morgen pünktlich zur Schicht, und zwar mit dem Auto!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Ein E-Auto ist nicht im Budget!",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Investitionen in Ladesäulen fühlen sich für Toralf wie Geldverschwendung an, da Elektroautos für ihn in der Anschaffung ohnehin viel zu teuer sind und keine Lösung für seine täglichen Pendelfahrten darstellen.",
-      "begruendung_selbst": "Neue Ladesäulen auf dem Dorf sind ja ganz nett. Aber das bringt mir rein gar nichts, wenn ein brauchbarer Stromer so teuer ist, dass ich ihn mir als Normalverdiener gar nicht leisten kann."
+      "begruendung_selbst": "Neue Ladesäulen auf dem Dorf sind ja ganz nett. Aber das bringt mir rein gar nichts, wenn ein brauchbarer Stromer so teuer ist, dass ich ihn mir als Normalverdiener gar nicht leisten kann.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Radwege zur Fabrik? Ein Witz!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Toralf sieht in der starken Förderung des Radverkehrs eine Prioritätensetzung, die ausschließlich urbanen Wählern nützt und die Mobilitätsprobleme der Landbevölkerung ignoriert.",
-      "begruendung_selbst": "Die Städter können ja gern auf neuen Radwegen ins Büro rollen. Aber wer wie ich eine Dreiviertelstunde zur Fabrik fahren muss, dem hilft kein Fahrrad der Welt. Wir auf dem Land werden da einfach vergessen."
+      "begruendung_selbst": "Die Städter können ja gern auf neuen Radwegen ins Büro rollen. Aber wer wie ich eine Dreiviertelstunde zur Fabrik fahren muss, dem hilft kein Fahrrad der Welt. Wir auf dem Land werden da einfach vergessen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

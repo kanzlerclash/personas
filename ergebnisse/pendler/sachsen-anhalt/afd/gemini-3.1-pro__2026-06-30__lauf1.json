@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf ist auf sein Auto angewiesen und sieht keine finanzielle Möglichkeit für ein E-Auto. Der Erhalt des Verbrenners sichert seine Mobilität und seinen Arbeitsweg.",
-      "begruendung_selbst": "Endlich jemand, der versteht, dass wir auf dem Land nicht einfach aufs Fahrrad umsteigen können! Ich brauche meinen Verbrenner, um auf Schicht zu kommen."
+      "begruendung_selbst": "Endlich jemand, der versteht, dass wir auf dem Land nicht einfach aufs Fahrrad umsteigen können! Ich brauche meinen Verbrenner, um auf Schicht zu kommen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich Entlastung an der Zapfsäule!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die hohen Spritkosten belasten Toralfs Haushaltsbudget stark. Eine Steuersenkung bei Kraftstoffen würde ihm direkt finanziell helfen.",
-      "begruendung_selbst": "Das ist genau mein Reden! Die Spritpreise fressen mein Gehalt auf, bevor der Monat richtig angefangen hat. Eine Steuersenkung ist längst überfällig."
+      "begruendung_selbst": "Das ist genau mein Reden! Die Spritpreise fressen mein Gehalt auf, bevor der Monat richtig angefangen hat. Eine Steuersenkung ist längst überfällig.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schluss mit der Klima-Strafsteuer!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf empfindet die CO2-Bepreisung als direkten Angriff auf seinen Geldbeutel, da er weder beim Heizen noch beim Pendeln einfache Alternativen hat.",
-      "begruendung_selbst": "Ich zahle mich dumm und dämlich für diese sogenannte Klima-Abgabe. Es ist gut, dass das weg soll, davon haben wir kleinen Leute sowieso nichts."
+      "begruendung_selbst": "Ich zahle mich dumm und dämlich für diese sogenannte Klima-Abgabe. Es ist gut, dass das weg soll, davon haben wir kleinen Leute sowieso nichts.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sicherheit für meinen Arbeitsplatz!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Facharbeiter in der Industrie macht sich Toralf Sorgen um die Zukunft seines Jobs. Er teilt die Befürchtung, dass Klimapolitik die Industrie und damit seine Existenzgrundlage gefährdet.",
-      "begruendung_selbst": "Wenn die Industrie abwandert, weil Energie und CO2 zu teuer werden, stehe ich auf der Straße. Jemand muss endlich die Wirtschaft schützen, anstatt sie kaputtzumachen."
+      "begruendung_selbst": "Wenn die Industrie abwandert, weil Energie und CO2 zu teuer werden, stehe ich auf der Straße. Jemand muss endlich die Wirtschaft schützen, anstatt sie kaputtzumachen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Vielleicht fährt hier doch mal ein Bus!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Auch wenn Toralf aktuell auf das Auto angewiesen ist, würde ein besserer ÖPNV auf dem Dorf seine Situation langfristig entlasten, insbesondere für seine Familie.",
-      "begruendung_selbst": "Es wäre ein Traum, wenn meine Frau oder die Kinder auch mal mit dem Bus fahren könnten, anstatt dass wir für jeden Weg das Auto brauchen."
+      "begruendung_selbst": "Es wäre ein Traum, wenn meine Frau oder die Kinder auch mal mit dem Bus fahren könnten, anstatt dass wir für jeden Weg das Auto brauchen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Toralf ist offen für Elektromobilität, sofern sie bezahlbar wäre. Die komplette Streichung von Subventionen und Ladeinfrastruktur verbaut ihm zukünftig jede Chance auf einen Wechsel.",
-      "begruendung_selbst": "Ich bin ja nicht prinzipiell gegen E-Autos, sie sind nur zu teuer. Aber wenn jetzt auch noch die Ladesäulen auf dem Dorf gestrichen werden, bleibe ich ewig abgehängt."
+      "begruendung_selbst": "Ich bin ja nicht prinzipiell gegen E-Autos, sie sind nur zu teuer. Aber wenn jetzt auch noch die Ladesäulen auf dem Dorf gestrichen werden, bleibe ich ewig abgehängt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Komplett aussteigen ist doch auch keine Lösung!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Obwohl Toralf die Kosten der aktuellen Klimapolitik ablehnt, ist er nicht prinzipiell gegen Umweltschutz. Ein kompletter Ausstieg aus internationalen Klimavereinbarungen geht ihm als Pragmatiker zu weit in die Extreme.",
-      "begruendung_selbst": "Ich will, dass das Pendeln bezahlbar bleibt, aber gleich alle Klima-Verträge kündigen und so tun, als gäbe es gar keine Probleme? Das ist mir eine Spur zu radikal, ein bisschen müssen wir schon auf die Natur achten."
+      "begruendung_selbst": "Ich will, dass das Pendeln bezahlbar bleibt, aber gleich alle Klima-Verträge kündigen und so tun, als gäbe es gar keine Probleme? Das ist mir eine Spur zu radikal, ein bisschen müssen wir schon auf die Natur achten.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

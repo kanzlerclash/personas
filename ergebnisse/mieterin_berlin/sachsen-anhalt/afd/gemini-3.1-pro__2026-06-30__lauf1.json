@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die Anerkennung von Wohnraum als Teil der öffentlichen Daseinsvorsorge entspricht exakt Carlas Grundwerten. Sie sieht darin eine notwendige Abkehr von der reinen Marktlogik, unter der sie auf dem Berliner Wohnungsmarkt so massiv leidet.",
-      "begruendung_selbst": "Genau das sage ich doch immer: Wohnen ist Daseinsvorsorge und kein Spekulationsobjekt! Gut, dass endlich mal ausgesprochen wird, dass der Staat hier in der Pflicht steht."
+      "begruendung_selbst": "Genau das sage ich doch immer: Wohnen ist Daseinsvorsorge und kein Spekulationsobjekt! Gut, dass endlich mal ausgesprochen wird, dass der Staat hier in der Pflicht steht.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -41,7 +42,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Carla wünscht sich eine autoarme Stadt mit starkem ÖPNV und intakter Radinfrastruktur. Die Fokussierung auf Autofreundlichkeit widerspricht diametral ihrem Mobilitätsverhalten und ihrer Vision von einem lebenswerten städtischen Raum.",
-      "begruendung_selbst": "Autofreundlich? Das heißt für meinen Kiez doch nur noch mehr Lärm, Abgase und zugeparkte Radwege. Ich will eine autoarme Stadt, keinen Freifahrtschein für noch mehr Blech!"
+      "begruendung_selbst": "Autofreundlich? Das heißt für meinen Kiez doch nur noch mehr Lärm, Abgase und zugeparkte Radwege. Ich will eine autoarme Stadt, keinen Freifahrtschein für noch mehr Blech!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Fahrräder als ideologisches Feindbild?",
@@ -52,7 +54,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Die pauschale Ablehnung von Förderungen für Lastenräder als pure Ideologie stößt bei ihr auf Unverständnis. Sie sieht das Fahrrad als zentrales, praktisches Verkehrsmittel der Zukunft und nicht als elitäres oder ideologisches Projekt.",
-      "begruendung_selbst": "Ein Lastenrad ist doch kein Ideologie-Projekt, sondern einfach unheimlich praktisch in der Stadt! Dass sie das als Bevorzugung abstempeln und bekämpfen wollen, zeigt, wie rückwärtsgewandt diese Verkehrspolitik ist."
+      "begruendung_selbst": "Ein Lastenrad ist doch kein Ideologie-Projekt, sondern einfach unheimlich praktisch in der Stadt! Dass sie das als Bevorzugung abstempeln und bekämpfen wollen, zeigt, wie rückwärtsgewandt diese Verkehrspolitik ist.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Das typische Vermieter-Argument!",
@@ -63,7 +66,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Carla sieht in dieser Formulierung das klassische Argument der Vermieterlobby zur Rechtfertigung von Mietsteigerungen. Sie fürchtet, dass unter dem Vorwand unwirtschaftlicher Sanierungen der Mieterschutz aufgeweicht und die Verdrängung weiter befeuert werden soll.",
-      "begruendung_selbst": "Da haben wir es wieder: Die armen Eigentümer, für die sich Sanierungen angeblich nicht mehr lohnen! Das ist doch genau das Argument, mit dem am Ende unsere Mieten drastisch erhöht und wir aus dem Kiez verdrängt werden."
+      "begruendung_selbst": "Da haben wir es wieder: Die armen Eigentümer, für die sich Sanierungen angeblich nicht mehr lohnen! Das ist doch genau das Argument, mit dem am Ende unsere Mieten drastisch erhöht und wir aus dem Kiez verdrängt werden.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Eigentum hilft mir nicht!",
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Carla lehnt die politische Fixierung auf Wohneigentum ab, da es in Berlin für sie und viele andere völlig unerreichbar ist. Eine Politik, die primär auf Eigentum statt auf starken Mieterschutz setzt, verstärkt ihre existenzielle Angst vor Verdrängung.",
-      "begruendung_selbst": "Eigenheim als Maß aller Dinge? Das ist für mich völlig illusorisch. Wer nur auf Eigentum setzt, vergisst uns Mieter komplett und überlässt uns einfach dem unregulierten Markt."
+      "begruendung_selbst": "Eigenheim als Maß aller Dinge? Das ist für mich völlig illusorisch. Wer nur auf Eigentum setzt, vergisst uns Mieter komplett und überlässt uns einfach dem unregulierten Markt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Städte brauchen jeden Cent!",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als überzeugte Großstädterin sieht Carla die urbanen Zentren als Motor und als sozialen Brennpunkt, der massive Mittel für Daseinsvorsorge benötigt. Den Vorwurf, Städte würden ungerechtfertigt profitieren, weist sie als frontalen Angriff auf ohnehin angespannte urbane Lebensräume zurück.",
-      "begruendung_selbst": "Großstädte profitieren auf Kosten der Dörfer? Wir platzen hier aus allen Nähten, die Mieten explodieren und die soziale Infrastruktur ist am Limit! Da jetzt Mittel abziehen zu wollen, trifft genau die Falschen."
+      "begruendung_selbst": "Großstädte profitieren auf Kosten der Dörfer? Wir platzen hier aus allen Nähten, die Mieten explodieren und die soziale Infrastruktur ist am Limit! Da jetzt Mittel abziehen zu wollen, trifft genau die Falschen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klimaschutz ist keine Ideologie!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als progressiv eingestellte Städterin nimmt Carla die Klimakrise ernst und betrachtet eine nachhaltige Umweltpolitik als absolut notwendig. Die fundamentale Leugnung von Klimaschutz als bloße Ideologie stößt sie ab.",
-      "begruendung_selbst": "Dass die Klimakrise real ist, spüren wir doch jeden Sommer in der extrem aufgeheizten Stadt. Echten Klimaschutz als globalistische Ideologie abzutun, ist einfach nur verblendet und brandgefährlich für unsere Zukunft."
+      "begruendung_selbst": "Dass die Klimakrise real ist, spüren wir doch jeden Sommer in der extrem aufgeheizten Stadt. Echten Klimaschutz als globalistische Ideologie abzutun, ist einfach nur verblendet und brandgefährlich für unsere Zukunft.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

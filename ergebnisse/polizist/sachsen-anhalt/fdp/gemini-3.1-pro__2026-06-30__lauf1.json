@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marco leidet im Schichtdienst unter zunehmender Bürokratie und Überlastung. Eine spürbare Entlastung durch Verwaltungspersonal gibt ihm die Möglichkeit, sich wieder auf seine eigentlichen polizeilichen Kernaufgaben zu konzentrieren.",
-      "begruendung_selbst": "Ich bin Schutzmann geworden, um draußen für Sicherheit und Ordnung zu sorgen, nicht um am Schreibtisch Formulare auszufüllen. Wenn wir die Aktenarbeit abgeben können, sind wir endlich wieder sichtbar präsent."
+      "begruendung_selbst": "Ich bin Schutzmann geworden, um draußen für Sicherheit und Ordnung zu sorgen, nicht um am Schreibtisch Formulare auszufüllen. Wenn wir die Aktenarbeit abgeben können, sind wir endlich wieder sichtbar präsent.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gute Arbeit muss sich lohnen!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Marco ist es zentral, dass sich sein Einsatz und seine Loyalität im harten Polizeialltag auszahlen. Transparente Karrierewege ohne intransparente Blockaden stärken seine Motivation und das Vertrauen in den Dienstherrn.",
-      "begruendung_selbst": "Wenn ich Tag und Nacht im Schichtdienst den Kopf hinhalte, will ich, dass echte Leistung zählt. Es darf bei Beförderungen nicht nach dem Nasenfaktor gehen, sondern nach fachlicher Eignung."
+      "begruendung_selbst": "Wenn ich Tag und Nacht im Schichtdienst den Kopf hinhalte, will ich, dass echte Leistung zählt. Es darf bei Beförderungen nicht nach dem Nasenfaktor gehen, sondern nach fachlicher Eignung.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Geschlossen auf der Straße!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marco wünscht sich mehr sichtbare Präsenz und eine Bündelung der staatlichen Kräfte. Klar geregelte Partnerschaften mit dem Ordnungsamt erhöhen die Sicherheit auf der Straße und verhindern ineffektives Kompetenzgerangel.",
-      "begruendung_selbst": "Wir stehen doch alle auf derselben Seite. Wenn wir mit den Kollegen vom Ordnungsamt Schulter an Schulter Streife laufen, zeigen wir gemeinsam klare Kante und der Bürger sieht, dass der Staat funktioniert."
+      "begruendung_selbst": "Wir stehen doch alle auf derselben Seite. Wenn wir mit den Kollegen vom Ordnungsamt Schulter an Schulter Streife laufen, zeigen wir gemeinsam klare Kante und der Bürger sieht, dass der Staat funktioniert.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Konsequenz beim Rechtsstaat!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Marco ärgert sich, wenn die polizeiliche Arbeit am Ende wirkungslos bleibt, weil Ausreisepflichten nicht konsequent vollzogen werden. Ein hartes Durchgreifen an dieser Stelle stärkt sein Vertrauen in die Handlungsfähigkeit der Institutionen.",
-      "begruendung_selbst": "Es frustriert mich ungemein, wenn wir Leute aufgreifen, die eigentlich längst ausreisepflichtig sind, und nichts passiert. Der Rechtsstaat darf sich nicht an der Nase herumführen lassen, das untergräbt unsere tägliche Arbeit."
+      "begruendung_selbst": "Es frustriert mich ungemein, wenn wir Leute aufgreifen, die eigentlich längst ausreisepflichtig sind, und nichts passiert. Der Rechtsstaat darf sich nicht an der Nase herumführen lassen, das untergräbt unsere tägliche Arbeit.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Marco betrachtet Waffenverbotszonen und die damit verbundenen niederschwelligen Kontrollrechte als wichtiges Instrument, um präventiv Straftaten zu verhindern. Die Abschaffung schwächt aus seiner Sicht seine ohnehin begrenzten polizeilichen Handlungsspielräume.",
-      "begruendung_selbst": "Waffenverbotszonen sind ein absolut notwendiges Werkzeug, das uns überhaupt erst ermöglicht, Messer und Schlimmeres präventiv von der Straße zu holen. Wenn man uns diese Kontrollmöglichkeit nimmt, macht das unseren ohnehin harten Job nur noch gefährlicher."
+      "begruendung_selbst": "Waffenverbotszonen sind ein absolut notwendiges Werkzeug, das uns überhaupt erst ermöglicht, Messer und Schlimmeres präventiv von der Straße zu holen. Wenn man uns diese Kontrollmöglichkeit nimmt, macht das unseren ohnehin harten Job nur noch gefährlicher.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Freibrief für Raser?",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Marco sieht die Verkehrsüberwachung als essenziellen Teil der polizeilichen Gefahrenabwehr. Das offizielle Legalisieren von Warn-Apps konterkariert für ihn die polizeiliche Arbeit und verringert die Sicherheit im Straßenverkehr drastisch.",
-      "begruendung_selbst": "Wir blitzen ja nicht aus reiner Schikane, sondern um echte Unfallschwerpunkte zu entschärfen. Wenn jetzt jeder ganz legal eine Blitzer-App nutzen darf, nimmt das unseren Kontrollen völlig den präventiven Sinn."
+      "begruendung_selbst": "Wir blitzen ja nicht aus reiner Schikane, sondern um echte Unfallschwerpunkte zu entschärfen. Wenn jetzt jeder ganz legal eine Blitzer-App nutzen darf, nimmt das unseren Kontrollen völlig den präventiven Sinn.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

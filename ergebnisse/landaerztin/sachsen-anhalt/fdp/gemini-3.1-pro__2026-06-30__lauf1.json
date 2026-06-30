@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Petra ärgert sich täglich über die fehleranfällige IT in ihrer Praxis. Dass die Partei genau dieses Problem benennt und eine funktionierende Lösung fordert, spricht ihr aus der Seele.",
-      "begruendung_selbst": "Das ist genau mein Reden! Die TI raubt mir jeden Tag Nerven und wertvolle Behandlungszeit. Endlich sieht eine Partei, dass Digitalisierung im Alltag auch funktionieren muss, statt uns nur zu belasten."
+      "begruendung_selbst": "Das ist genau mein Reden! Die TI raubt mir jeden Tag Nerven und wertvolle Behandlungszeit. Endlich sieht eine Partei, dass Digitalisierung im Alltag auch funktionieren muss, statt uns nur zu belasten.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Echte Entlastung für die Praxis",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Angesichts des massiven Ärztemangels und ihrer übervollen Sprechstunden sieht sie in gut ausgebildeten Assistenten eine konkrete und pragmatische Hilfe, die sie dringend braucht.",
-      "begruendung_selbst": "Ohne kluge Arbeitsteilung brechen wir Hausärzte bald zusammen. Gut ausgebildete Assistenten können mir wirklich den Rücken freihalten, das ist viel besser als irgendwelche hohlen Phrasen über den ländlichen Raum."
+      "begruendung_selbst": "Ohne kluge Arbeitsteilung brechen wir Hausärzte bald zusammen. Gut ausgebildete Assistenten können mir wirklich den Rücken freihalten, das ist viel besser als irgendwelche hohlen Phrasen über den ländlichen Raum.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Pragmatische Hilfe im Notfall",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Als Landärztin kennt Petra die langen Wege und die Gefahr von Versorgungslücken bei Notfällen. Den Einsatz von Telenotärzten begrüßt sie als sinnvolle digitale Ergänzung zur Rettung vor Ort.",
-      "begruendung_selbst": "Wenn der Notarzt auf dem Land wieder ewig braucht, rettet so ein Telenotarzt im Zweifel Leben. Das ist mal ein pragmatischer Ansatz, der uns in der Fläche wirklich weiterhelfen kann."
+      "begruendung_selbst": "Wenn der Notarzt auf dem Land wieder ewig braucht, rettet so ein Telenotarzt im Zweifel Leben. Das ist mal ein pragmatischer Ansatz, der uns in der Fläche wirklich weiterhelfen kann.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Meine Realität wird gesehen",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Petra treibt die fehlende Praxisnachfolge um, und sie spürt den Druck weiterzumachen. Dass die Politik diese enorme Lebensleistung und Belastung älterer Ärzte offen anerkennt, tut ihr gut.",
-      "begruendung_selbst": "Ich mache mir ja ständig Sorgen, wer später mal meine Patienten übernimmt. Es ist schön zu lesen, dass zumindest anerkannt wird, dass wir hier auf dem Land sprichwörtlich bis zum Umfallen arbeiten."
+      "begruendung_selbst": "Ich mache mir ja ständig Sorgen, wer später mal meine Patienten übernimmt. Es ist schön zu lesen, dass zumindest anerkannt wird, dass wir hier auf dem Land sprichwörtlich bis zum Umfallen arbeiten.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Für Petra sind Arztbusse ein Eingeständnis des Scheiterns echter Daseinsvorsorge. Sie wünscht sich nachhaltige Anreize für feste Niederlassungen, keine fahrenden Notlösungen, die das vertrauensvolle Arzt-Patienten-Verhältnis nicht ersetzen können.",
-      "begruendung_selbst": "Ein Bus ist doch keine echte Hausarztpraxis! Meine Patienten brauchen Verlässlichkeit und Vertrauen, keine fahrende Notlösung, die einmal die Woche auf dem Marktplatz hält. Das ist eine Bankrotterklärung für den ländlichen Raum."
+      "begruendung_selbst": "Ein Bus ist doch keine echte Hausarztpraxis! Meine Patienten brauchen Verlässlichkeit und Vertrauen, keine fahrende Notlösung, die einmal die Woche auf dem Marktplatz hält. Das ist eine Bankrotterklärung für den ländlichen Raum.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Vorsicht vor reiner Renditelogik!",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Verfechterin einer verlässlichen staatlichen Daseinsvorsorge sieht Petra umfassende Privatisierungen sehr skeptisch. Sie fürchtet, dass Ökonomisierung in Bereichen wie der Infrastruktur auf Kosten der ländlichen Versorgung geht.",
-      "begruendung_selbst": "Wenn der Staat alles privatisiert, was bleibt dann für uns auf dem Land übrig? Gerade bei der Daseinsvorsorge darf nicht nur die Rendite zählen, sonst fallen die unwirtschaftlichen Regionen komplett hinten runter."
+      "begruendung_selbst": "Wenn der Staat alles privatisiert, was bleibt dann für uns auf dem Land übrig? Gerade bei der Daseinsvorsorge darf nicht nur die Rendite zählen, sonst fallen die unwirtschaftlichen Regionen komplett hinten runter.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Pflege ist kein Aktiendepot",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Petra erlebt bei ihren älteren, oft weniger wohlhabenden Patienten täglich, wie teuer Pflege ist. Eine stärkere Ausrichtung auf den Kapitalmarkt hält sie für unsolidarisch und in ihrer strukturschwachen Region für realitätsfern.",
-      "begruendung_selbst": "Meine Leute hier auf dem Land haben oft nur eine kleine Rente, wie sollen die noch privat für die Pflege vorsorgen? Die Pflegeversicherung muss solide finanziert sein, das darf man nicht dem Kapitalmarkt überlassen."
+      "begruendung_selbst": "Meine Leute hier auf dem Land haben oft nur eine kleine Rente, wie sollen die noch privat für die Pflege vorsorgen? Die Pflegeversicherung muss solide finanziert sein, das darf man nicht dem Kapitalmarkt überlassen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Noch ein digitales Spielzeug?",
@@ -107,7 +114,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Obwohl sie vehementen Bürokratieabbau fordert, wirkt die Idee, diesen durch eine zusätzliche App dokumentieren zu lassen, auf Petra weltfremd. Sie braucht spürbare Entlastung am Schreibtisch, keine weiteren digitalen Spielereien.",
-      "begruendung_selbst": "Ist das ein Scherz? Um zu beweisen, dass wir weniger Bürokratie haben, sollen wir uns eine App aufs Handy laden? Ich brauche am Ende des Tages einfach weniger Formulare und Statistiken, keine PR-Instrumente aus dem Ministerium."
+      "begruendung_selbst": "Ist das ein Scherz? Um zu beweisen, dass wir weniger Bürokratie haben, sollen wir uns eine App aufs Handy laden? Ich brauche am Ende des Tages einfach weniger Formulare und Statistiken, keine PR-Instrumente aus dem Ministerium.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

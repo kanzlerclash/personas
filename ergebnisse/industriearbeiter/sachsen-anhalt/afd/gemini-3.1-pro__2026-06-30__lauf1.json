@@ -10,7 +10,14 @@
   "programm_stand": null,
   "prompt_version": "vergleich.v1",
   "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
-  "metrik": { "input_tokens": null, "output_tokens": null, "cached_tokens": null, "total_tokens": null, "dauer_ms": null, "usd": null },
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
   "besonders_gut": [
     {
       "titel_selbst": "Weg mit der Stromsteuer!",
@@ -21,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe fürchtet die steigenden Energiepreise, die sein Haushaltsbudget, vor allem aber seinen energieintensiven Arbeitgeber belasten. Eine radikale Senkung der Stromsteuer würde hier direkte Entlastung für seinen Geldbeutel und seinen Industriestandort bringen.",
-      "begruendung_selbst": "Endlich sagt mal jemand, dass wir uns diesen teuren Strom nicht mehr leisten können. Wenn die Steuern runtergehen, rettet das meinen Job und mein Portemonnaie."
+      "begruendung_selbst": "Endlich sagt mal jemand, dass wir uns diesen teuren Strom nicht mehr leisten können. Wenn die Steuern runtergehen, rettet das meinen Job und mein Portemonnaie.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Braunkohle sichert unsere Jobs!",
@@ -32,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Uwe ist die Versorgungssicherheit der Schwerindustrie existenziell. Er sieht im vorschnellen Kohleausstieg eine akute Gefahr für die Wettbewerbsfähigkeit seines Standorts und unterstützt daher Forderungen, die heimische Energieerzeugung länger laufen zu lassen.",
-      "begruendung_selbst": "Wir brauchen verlässliche Grundlast für die Chemie, sonst gehen hier bald die Lichter aus. Die Braunkohle darf erst weg, wenn echter Ersatz da ist."
+      "begruendung_selbst": "Wir brauchen verlässliche Grundlast für die Chemie, sonst gehen hier bald die Lichter aus. Die Braunkohle darf erst weg, wenn echter Ersatz da ist.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Stoppt die Deindustrialisierung!",
@@ -43,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe teilt die fundamentale Angst vor einer Deindustrialisierung seiner Heimatregion. Das Versprechen, den industriellen Arbeitsplatzabbau aufzuhalten, spricht direkt seine tiefste Existenzsorge an.",
-      "begruendung_selbst": "Wenn die Industrie abwandert, wird aus dem Chemiedreieck ein Armenhaus. Gut, dass das Problem der Abwanderung mal beim Namen genannt wird."
+      "begruendung_selbst": "Wenn die Industrie abwandert, wird aus dem Chemiedreieck ein Armenhaus. Gut, dass das Problem der Abwanderung mal beim Namen genannt wird.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kernkraft für billigen Strom!",
@@ -54,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Pragmatiker aus der Schwerindustrie sucht Uwe nach verlässlichen und günstigen Energiequellen. Die Nutzung von Kernkraft zur Sicherung grundlastfähiger Stromversorgung deckt sich mit seinem Wunsch nach Standortsicherheit.",
-      "begruendung_selbst": "Woher soll der ganze Strom für unsere Anlagen denn kommen? Kernkraft liefert wenigstens verlässlich und bezahlbar Energie für die Produktion."
+      "begruendung_selbst": "Woher soll der ganze Strom für unsere Anlagen denn kommen? Kernkraft liefert wenigstens verlässlich und bezahlbar Energie für die Produktion.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -67,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Uwe arbeitet in der tarifgebundenen Schwerindustrie, die auf aktive staatliche Standortpolitik und Ansiedlungsförderung angewiesen ist. Dass die AfD Subventionen für Großkonzerne pauschal ablehnt, empfindet er als existenzbedrohend.",
-      "begruendung_selbst": "Was glauben die denn, wo die guten Tariflöhne herkommen? Wenn wir keine Großindustrie mehr ins Land holen, ist hier bald Schicht im Schacht!"
+      "begruendung_selbst": "Was glauben die denn, wo die guten Tariflöhne herkommen? Wenn wir keine Großindustrie mehr ins Land holen, ist hier bald Schicht im Schacht!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wer ansiedeln will, braucht Leute!",
@@ -78,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Verfechter einer aktiven Strukturpolitik weiß Uwe, wie wichtig professionelle staatliche Institutionen für die Anwerbung neuer Industrieunternehmen sind. Die Abschaffung dieser landeseigenen Gesellschaften hält er für wirtschaftspolitischen Selbstmord.",
-      "begruendung_selbst": "Strukturwandel funktioniert nicht von alleine. Wer die Fachleute feuert, die neue Fabriken ins Land holen sollen, opfert unsere Zukunft."
+      "begruendung_selbst": "Strukturwandel funktioniert nicht von alleine. Wer die Fachleute feuert, die neue Fabriken ins Land holen sollen, opfert unsere Zukunft.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wasserstoff ist unsere Zukunft!",
@@ -89,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Die Chemieindustrie in Sachsen-Anhalt ist für ihre Zukunftstransformation massiv auf Wasserstofftechnologien und staatliche Förderung angewiesen. Die völlige Streichung dieser Subventionen bedeutet für Uwe den potenziellen Untergang seiner Branche.",
-      "begruendung_selbst": "Grüner Wasserstoff ist für die Chemiebranche die einzige Chance, auf Dauer hier zu überleben. Wer uns diese Fördergelder streicht, macht den Chemiestandort platt."
+      "begruendung_selbst": "Grüner Wasserstoff ist für die Chemiebranche die einzige Chance, auf Dauer hier zu überleben. Wer uns diese Fördergelder streicht, macht den Chemiestandort platt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klimawandel ignorieren ist Wahnsinn!",
@@ -100,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Obwohl Uwe die Geschwindigkeit der Transformation kritisiert, weiß er als Industriearbeiter, dass die globalen Märkte grüne Produkte fordern. Die völlige Leugnung des Klimawandels hält er für realitätsfremd und isolationistisch.",
-      "begruendung_selbst": "Ich will ein langsameres Tempo, ja. Aber den Klimawandel einfach zu leugnen, ist blind. Wer die Zukunft verschläft, den bestraft der Weltmarkt."
+      "begruendung_selbst": "Ich will ein langsameres Tempo, ja. Aber den Klimawandel einfach zu leugnen, ist blind. Wer die Zukunft verschläft, den bestraft der Weltmarkt.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

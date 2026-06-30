@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe macht sich existenzielle Sorgen um den Fortbestand des Chemiestandorts aufgrund hoher Energiepreise. Dass die Partei gezielte Entlastungen für die Industrie fordert und sie direkt an Standortgarantien bindet, deckt sich exakt mit seinen gewerkschaftlichen Zielen.",
-      "begruendung_selbst": "Ohne bezahlbare Energie gehen hier in der Chemie bald die Lichter aus. Wenn die Politik bei den Preisen hilft und gleichzeitig verlangt, dass die Jobs hierbleiben, dann ist das genau unser Weg."
+      "begruendung_selbst": "Ohne bezahlbare Energie gehen hier in der Chemie bald die Lichter aus. Wenn die Politik bei den Preisen hilft und gleichzeitig verlangt, dass die Jobs hierbleiben, dann ist das genau unser Weg.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Macht für den Betriebsrat!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als engagierter Betriebsrat weiß Uwe, wie oft Beschäftigte bei Konzernentscheidungen übergangen werden. Ein gesetzlich verankertes Mitspracherecht bei strategischen Investitionen würde seine Position im Betrieb massiv stärken.",
-      "begruendung_selbst": "Wir an den Anlagen wissen doch am besten, was läuft. Es kann nicht sein, dass irgendwelche Manager von weit weg über unsere Köpfe hinweg entscheiden. Da müssen wir als Betriebsrat endlich richtig mitreden!"
+      "begruendung_selbst": "Wir an den Anlagen wissen doch am besten, was läuft. Es kann nicht sein, dass irgendwelche Manager von weit weg über unsere Köpfe hinweg entscheiden. Da müssen wir als Betriebsrat endlich richtig mitreden!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Tarifverträge müssen wieder greifen!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe schätzt sein gutes, tarifgebundenes Einkommen sehr, betrachtet aber die sinkende Tarifbindung in der Region mit großer Sorge. Ein politisches Durchgreifen der Landesregierung in dieser Frage entspricht seinen Grundwerten.",
-      "begruendung_selbst": "Gute Arbeit muss anständig bezahlt werden, und das geht nur mit Tarif. Dass sich immer mehr Unternehmen davor drücken, macht unsere Region kaputt. Da muss die Politik den Arbeitgebern klare Kante zeigen."
+      "begruendung_selbst": "Gute Arbeit muss anständig bezahlt werden, und das geht nur mit Tarif. Dass sich immer mehr Unternehmen davor drücken, macht unsere Region kaputt. Da muss die Politik den Arbeitgebern klare Kante zeigen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Niemand darf zurückbleiben!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwes größte Sorge ist der soziale Absturz seiner Kollegen durch den Strukturwandel in der Industrie. Die konkrete Absicherung durch Überleitungsgesellschaften bietet genau den Schutz, den er von der Politik verlangt.",
-      "begruendung_selbst": "Wenn ein Betrieb im Wandel zumachen muss, darfst du die Leute nicht einfach auf die Straße setzen. Solche Auffanggesellschaften sind absolut überlebenswichtig für uns Beschäftigte!"
+      "begruendung_selbst": "Wenn ein Betrieb im Wandel zumachen muss, darfst du die Leute nicht einfach auf die Straße setzen. Solche Auffanggesellschaften sind absolut überlebenswichtig für uns Beschäftigte!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wasserstoff muss fließen!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für die großen energieintensiven Betriebe in Uwes Branche ist der Wechsel auf Wasserstoff essenziell. Die staatliche Garantie für diese Infrastruktur nimmt ihm die Sorge vor künftigen Engpässen.",
-      "begruendung_selbst": "In ein paar Jahren stehen unsere Anlagen still, wenn wir nicht genug Wasserstoff kriegen. Es beruhigt mich, wenn sich das Land darum kümmern will und das nicht nur dem freien Markt überlässt."
+      "begruendung_selbst": "In ein paar Jahren stehen unsere Anlagen still, wenn wir nicht genug Wasserstoff kriegen. Es beruhigt mich, wenn sich das Land darum kümmern will und das nicht nur dem freien Markt überlässt.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Obwohl Uwe Klimaschutz nicht generell ablehnt, hat er große Angst vor einem zu hohen Tempo, das die Schwerindustrie völlig überfordert. Ein ambitioniertes Zieldatum wie 2035 schürt seine existenziellen Sorgen vor sofortigen Jobverlusten.",
-      "begruendung_selbst": "Richtiges Ziel, aber viel zu schnell! Bis 2035 kriegen wir unsere gigantischen Anlagen doch niemals komplett umgerüstet, ohne dass die Hälfte der Belegschaft auf der Straße sitzt. Das ist völlig praxisfern!"
+      "begruendung_selbst": "Richtiges Ziel, aber viel zu schnell! Bis 2035 kriegen wir unsere gigantischen Anlagen doch niemals komplett umgerüstet, ohne dass die Hälfte der Belegschaft auf der Straße sitzt. Das ist völlig praxisfern!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Exportmodelle verteufeln hilft nicht.",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Uwe ist stolz auf seine qualifizierte Industriearbeit und weiß, dass der Wohlstand seiner gesamten Branche stark auf dem weltweiten Export beruht. Die pauschale Abwertung dieses Modells als „überholt“ empfindet er als fehlende Wertschätzung.",
-      "begruendung_selbst": "Unsere Chemiebude liefert Top-Produkte in die ganze Welt, davon leben wir hier! Wenn die Politik das jetzt einfach als 'überholt' abstempelt, frage ich mich schon, ob die überhaupt verstanden haben, wo unser Wohlstand eigentlich herkommt."
+      "begruendung_selbst": "Unsere Chemiebude liefert Top-Produkte in die ganze Welt, davon leben wir hier! Wenn die Politik das jetzt einfach als 'überholt' abstempelt, frage ich mich schon, ob die überhaupt verstanden haben, wo unser Wohlstand eigentlich herkommt.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

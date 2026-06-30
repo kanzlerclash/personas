@@ -28,7 +28,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin fürchtet die zunehmende Polarisierung und ausgrenzende Rhetorik in der Migrationsdebatte. Dass sich eine Partei klar gegen das Schüren von Ressentiments stellt, deckt sich exakt mit ihrem Wunsch nach einer sachlichen Diskussion.",
-      "begruendung_selbst": "Endlich mal eine Partei, die Migration sachlich steuern will, ohne gleich gegen uns zu hetzen oder Panikmache zu betreiben."
+      "begruendung_selbst": "Endlich mal eine Partei, die Migration sachlich steuern will, ohne gleich gegen uns zu hetzen oder Panikmache zu betreiben.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Keine anlasslosen Kontrollen mehr!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin reagiert empfindlich auf Sicherheitsmaßnahmen, die Migranten unter pauschalen Verdacht stellen. Sie verbindet anlasslose Kontrollen mit Alltagsdiskriminierung und Racial Profiling, weshalb sie deren Abschaffung sehr begrüßt.",
-      "begruendung_selbst": "Solche anlasslosen Kontrollen treffen am Ende doch meistens Menschen, die 'anders' aussehen. Gut, dass das abgeschafft werden soll."
+      "begruendung_selbst": "Solche anlasslosen Kontrollen treffen am Ende doch meistens Menschen, die 'anders' aussehen. Gut, dass das abgeschafft werden soll.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Ausländerbehörden endlich entlasten!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Mitarbeiterin im öffentlichen Dienst weiß Aylin genau, wie sehr Verwaltungshürden die Integration bremsen. Schnelle Prozesse erleichtern sowohl den Behörden als auch den Einwanderern das Leben.",
-      "begruendung_selbst": "Wer arbeiten will, soll arbeiten dürfen. Vier Wochen für einen Titel wären eine echte Entlastung für alle Seiten, auch für uns in der Verwaltung."
+      "begruendung_selbst": "Wer arbeiten will, soll arbeiten dürfen. Vier Wochen für einen Titel wären eine echte Entlastung für alle Seiten, auch für uns in der Verwaltung.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Anerkennung statt unnötiger Hürden!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin ärgert es, wenn Menschen in Deutschland ankommen und durch Bürokratie von der Teilhabe am Arbeitsmarkt abgehalten werden. Eine schnellere Anerkennung stärkt die Integration und belohnt Leistung.",
-      "begruendung_selbst": "Die Leute bringen Fähigkeiten mit, und wir lassen sie monatelang Formulare ausfüllen. Das muss wirklich schneller gehen!"
+      "begruendung_selbst": "Die Leute bringen Fähigkeiten mit, und wir lassen sie monatelang Formulare ausfüllen. Das muss wirklich schneller gehen!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich moderner arbeiten im Amt!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da Aylin selbst im öffentlichen Dienst in einer Stadtverwaltung arbeitet, schätzt sie Bestrebungen, die behördlichen Arbeitsbedingungen an moderne Standards anzupassen.",
-      "begruendung_selbst": "Auch wir im öffentlichen Dienst wollen moderne Arbeitsbedingungen. Mehr Flexibilität und Homeoffice würden unseren Berufsalltag wirklich aufwerten."
+      "begruendung_selbst": "Auch wir im öffentlichen Dienst wollen moderne Arbeitsbedingungen. Mehr Flexibilität und Homeoffice würden unseren Berufsalltag wirklich aufwerten.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Für Aylin ist Sprache die unverzichtbare Grundvoraussetzung für Integration und gesellschaftliche Teilhabe. Dass Kurse primär als finanzielle Eigenleistung gefordert werden sollen, steht ihrem Verständnis von Inklusion entgegen.",
-      "begruendung_selbst": "Wer verlangt, dass Menschen sich integrieren, darf Sprachkurse nicht zum Luxus machen. Sprache lernen muss für jeden möglich sein!"
+      "begruendung_selbst": "Wer verlangt, dass Menschen sich integrieren, darf Sprachkurse nicht zum Luxus machen. Sprache lernen muss für jeden möglich sein!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Fußfesseln wie für Schwerverbrecher?",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Obwohl Aylin eine geregelte Migration befürwortet, ist ihr der Einsatz von Fußfesseln bei reinen Ausreisepflichtigen zu stark kriminalisierend. Sie fürchtet, dass dadurch ein pauschales Bild von Migranten als Kriminellen gefördert wird.",
-      "begruendung_selbst": "Elektronische Fußfesseln bei Leuten, die einfach nur ausreisepflichtig sind? Da kippt die sachliche Steuerung für mich in Kriminalisierung und pauschale Härte."
+      "begruendung_selbst": "Elektronische Fußfesseln bei Leuten, die einfach nur ausreisepflichtig sind? Da kippt die sachliche Steuerung für mich in Kriminalisierung und pauschale Härte.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Verwaltung schließt Menschen aus!",
@@ -107,7 +114,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als Verwaltungsmitarbeiterin weiß Aylin um die Bedeutung eines zugänglichen Staates. Ein rigoroser 'Digital Only'-Ansatz grenzt ihrer Erfahrung nach ältere Menschen und jene mit Sprachbarrieren von der gesellschaftlichen Teilhabe ab.",
-      "begruendung_selbst": "Ich sehe im Amt jeden Tag Menschen, die mit digitalen Anträgen überfordert sind. Wir können doch nicht einfach den Postweg abschaffen und diese Leute abhängen!"
+      "begruendung_selbst": "Ich sehe im Amt jeden Tag Menschen, die mit digitalen Anträgen überfordert sind. Wir können doch nicht einfach den Postweg abschaffen und diese Leute abhängen!",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

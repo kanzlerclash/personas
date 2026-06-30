@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin arbeitet selbst in der Stadtverwaltung und erlebt oft, dass sie eine der Wenigen mit Migrationsgeschichte ist. Eine gezielte Förderung empfindet sie als wichtige institutionelle Anerkennung.",
-      "begruendung_selbst": "Ich arbeite in der Verwaltung und bin oft die Einzige mit Migrationsgeschichte. Wenn das Land uns gezielt einstellen will, zeigt das endlich, dass wir in den Behörden gebraucht werden."
+      "begruendung_selbst": "Ich arbeite in der Verwaltung und bin oft die Einzige mit Migrationsgeschichte. Wenn das Land uns gezielt einstellen will, zeigt das endlich, dass wir in den Behörden gebraucht werden.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wir sind kein Problem!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin ist die ständige Problematisierung von Einwanderung leid. Dieses positive Framing entlastet sie und bestärkt sie in ihrem Zugehörigkeitsgefühl zur Gesellschaft.",
-      "begruendung_selbst": "Ich kann es nicht mehr hören, dass Leute wie wir ständig als Problem diskutiert werden. Dass hier Migration klar als Chance benannt wird, ist genau der Respekt, den wir verdienen."
+      "begruendung_selbst": "Ich kann es nicht mehr hören, dass Leute wie wir ständig als Problem diskutiert werden. Dass hier Migration klar als Chance benannt wird, ist genau der Respekt, den wir verdienen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Unsere Arbeit hält alles zusammen!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da sie als Beamtin ihren Teil zum Funktionieren des Staates beiträgt, trifft die explizite Würdigung migrantischer Arbeitsleistung genau ihren Wunsch nach leistungsgerechter Anerkennung.",
-      "begruendung_selbst": "Genau so ist es! Wir arbeiten in Ämtern, Kitas und Krankenhäusern und halten den Laden am Laufen. Es ist gut, dass anerkannt wird, was wir jeden Tag für dieses Land leisten."
+      "begruendung_selbst": "Genau so ist es! Wir arbeiten in Ämtern, Kitas und Krankenhäusern und halten den Laden am Laufen. Es ist gut, dass anerkannt wird, was wir jeden Tag für dieses Land leisten.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Polizei ohne rechten blinden Fleck!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Ihre Angst vor institutioneller Diskriminierung und mangelndem Schutz wird hier ernst genommen. Ein hartes Vorgehen gegen rechte Strukturen in der Polizei stärkt ihr Vertrauen in den Rechtsstaat.",
-      "begruendung_selbst": "Rassismus bei der Polizei macht mir als Frau mit ausländischen Wurzeln große Angst. Wenn da endlich nicht mehr weggeschaut, sondern hart durchgegriffen wird, fühle ich mich deutlich sicherer."
+      "begruendung_selbst": "Rassismus bei der Polizei macht mir als Frau mit ausländischen Wurzeln große Angst. Wenn da endlich nicht mehr weggeschaut, sondern hart durchgegriffen wird, fühle ich mich deutlich sicherer.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gleiche Rechte an der Kasse!",
@@ -72,7 +76,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin lehnt Symbolpolitik auf dem Rücken von Minderheiten ab. Die Forderung nach einem normalen Konto entspricht ihrem starken inneren Kompass für Gleichbehandlung und Würde.",
-      "begruendung_selbst": "Diese Bezahlkarte schürt doch nur Misstrauen und stigmatisiert Menschen beim Einkaufen. Ein normales Konto für alle ist der einzig anständige Weg in einer Gesellschaft, die Gleichbehandlung ernst nimmt."
+      "begruendung_selbst": "Diese Bezahlkarte schürt doch nur Misstrauen und stigmatisiert Menschen beim Einkaufen. Ein normales Konto für alle ist der einzig anständige Weg in einer Gesellschaft, die Gleichbehandlung ernst nimmt.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Verwaltungsangestellte steht Aylin für geregelte Verfahren und Rechtsstaatlichkeit. Die pauschale Ablehnung des Grenzschutzes wirkt auf sie naiv und widerspricht ihrem Wunsch nach einer pragmatischen Migrationssteuerung.",
-      "begruendung_selbst": "Ich bin absolut gegen ausgrenzende Hetze, aber als Beamtin weiß ich: Wir brauchen geregelte Verfahren und Kontrolle an den Grenzen. Frontex einfach abzuschaffen, ist doch keine seriöse Politik."
+      "begruendung_selbst": "Ich bin absolut gegen ausgrenzende Hetze, aber als Beamtin weiß ich: Wir brauchen geregelte Verfahren und Kontrolle an den Grenzen. Frontex einfach abzuschaffen, ist doch keine seriöse Politik.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wer schützt uns dann vor Rechts?",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Aylin fürchtet das Erstarken von rechtsextremen Netzwerken und Remigrations-Fantasien. Die Forderung, den Inlandsgeheimdienst abzuschaffen, hält sie für hochgefährlich, da dies den wehrhaften Staat schwächt.",
-      "begruendung_selbst": "Wenn die Rechten immer radikaler werden und rassistische Umstürze planen, brauchen wir einen starken Staat, der das aufklärt. Den Verfassungsschutz jetzt abzuschaffen, nimmt uns einen ganz wichtigen Schutzschild."
+      "begruendung_selbst": "Wenn die Rechten immer radikaler werden und rassistische Umstürze planen, brauchen wir einen starken Staat, der das aufklärt. Den Verfassungsschutz jetzt abzuschaffen, nimmt uns einen ganz wichtigen Schutzschild.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Regeln gelten für alle!",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Aylins Weltbild basiert auf einem fairen Leistungsprinzip und der Einhaltung gemeinsamer Regeln. Die Entkriminalisierung von Schwarzfahren empfindet sie als ungerecht gegenüber der rechtstreuen Bevölkerungsmehrheit.",
-      "begruendung_selbst": "Ich gehe jeden Tag hart arbeiten und bezahle selbstverständlich mein Ticket. Wenn Schwarzfahren nicht mehr bestraft wird, frage ich mich schon, warum ich mich eigentlich an die Regeln halte."
+      "begruendung_selbst": "Ich gehe jeden Tag hart arbeiten und bezahle selbstverständlich mein Ticket. Wenn Schwarzfahren nicht mehr bestraft wird, frage ich mich schon, warum ich mich eigentlich an die Regeln halte.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

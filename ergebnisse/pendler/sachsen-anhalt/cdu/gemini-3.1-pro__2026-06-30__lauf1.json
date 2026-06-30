@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf ist für seinen 45-minütigen Arbeitsweg zwingend auf ein Auto angewiesen, ein E-Auto ist für ihn finanziell und praktisch keine Option. Das klare Bekenntnis zum Verbrenner und zum Diesel nimmt ihm die akute Sorge vor unbezahlbarer Mobilität.",
-      "begruendung_selbst": "Endlich mal jemand, der kapiert, dass wir auf dem Dorf nicht einfach aufs Lastenrad umsteigen können. Mein Diesel muss laufen, sonst komme ich nicht zur Schicht."
+      "begruendung_selbst": "Endlich mal jemand, der kapiert, dass wir auf dem Dorf nicht einfach aufs Lastenrad umsteigen können. Mein Diesel muss laufen, sonst komme ich nicht zur Schicht.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sichere Industrie, sicherer Job.",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Facharbeiter im Schichtbetrieb profitiert Toralf direkt von einer starken Industrie. Der Fokus auf den Erhalt dieser Kernbranchen gibt ihm Hoffnung auf einen langfristig sicheren Arbeitsplatz und verlässliche Löhne.",
-      "begruendung_selbst": "Ich stehe jeden Morgen an der Maschine und arbeite hart für mein Geld. Es ist gut zu hören, dass unsere Jobs in der Industrie nicht für grüne Träumereien geopfert werden sollen."
+      "begruendung_selbst": "Ich stehe jeden Morgen an der Maschine und arbeite hart für mein Geld. Es ist gut zu hören, dass unsere Jobs in der Industrie nicht für grüne Träumereien geopfert werden sollen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Autofahren ist kein Luxus!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf ärgert sich oft über Politik, die das Auto als Problem darstellt. Die Formulierung „Familien-Diesel“ spricht ihn direkt an und bestätigt sein Weltbild, dass Autofahren für Menschen wie ihn eine schiere Notwendigkeit ist.",
-      "begruendung_selbst": "Für mich ist das Auto kein Spaß, sondern mein Arbeitsgerät. Wer morgens um fünf zur Frühschicht muss, weiß, dass man da keinen Bus nehmen kann."
+      "begruendung_selbst": "Für mich ist das Auto kein Spaß, sondern mein Arbeitsgerät. Wer morgens um fünf zur Frühschicht muss, weiß, dass man da keinen Bus nehmen kann.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Günstiger Strom muss her!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die hohen Energiepreise belasten Toralfs Haushaltskasse stark. Der Vorstoß, regional produzierten Strom direkt in günstigere Tarife vor Ort umzumünzen, adressiert seinen Wunsch nach finanzieller Entlastung.",
-      "begruendung_selbst": "Wir haben hier überall Windräder stehen, aber zahlen uns beim Strom dumm und dusselig. Wenn der Strom endlich billiger wird, bleibt am Ende des Monats wieder mehr für die Familie."
+      "begruendung_selbst": "Wir haben hier überall Windräder stehen, aber zahlen uns beim Strom dumm und dusselig. Wenn der Strom endlich billiger wird, bleibt am Ende des Monats wieder mehr für die Familie.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Toralf beobachtet Maßnahmen für Radfahrer mit Argwohn, da sie aus seiner Sicht vor allem urbanen Gruppen zugutekommen, während er für seine zwingend notwendige Auto-Pendelei kaum vergleichbare Entlastungen spürt.",
-      "begruendung_selbst": "Sichere Ladestationen für E-Bikes? Schön für die feinen Herren in der Stadt, die fünf Minuten ins Büro radeln. Aber wer zahlt mir den teuren Sprit für meine Überlandfahrt?"
+      "begruendung_selbst": "Sichere Ladestationen für E-Bikes? Schön für die feinen Herren in der Stadt, die fünf Minuten ins Büro radeln. Aber wer zahlt mir den teuren Sprit für meine Überlandfahrt?",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Vom Deutschlandticket hab ich nichts.",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Ein pauschales Ticket für den ÖPNV nützt Toralf überhaupt nichts, da sein Wohnort nicht adäquat angebunden ist. Er nimmt das Ticket als steuerfinanzierte Subvention wahr, die vor allem Stadtbewohnern zugutekommt.",
-      "begruendung_selbst": "Toll, dass es das Deutschlandticket weiter gibt. Bei mir im Dorf fährt nur leider kein Bus! Das zahlen wir Pendler mit unseren Steuern, damit die Städter billig Bahn fahren können."
+      "begruendung_selbst": "Toll, dass es das Deutschlandticket weiter gibt. Bei mir im Dorf fährt nur leider kein Bus! Das zahlen wir Pendler mit unseren Steuern, damit die Städter billig Bahn fahren können.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Keine Zeit für Experimente!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Toralf steht unter unmittelbarem finanziellem Druck durch hohe Spritkosten. Das Versprechen, in Zukunft intelligente Lösungen im Rahmen eines Modellprojekts zu erproben, empfindet er als politische Hinhaltetaktik, die ihm kurzfristig nicht hilft.",
-      "begruendung_selbst": "Ein Modellprojekt? Wenn ich an der Zapfsäule stehe, brauche ich keine intelligenten Pilotprojekte für die Zukunft, sondern bezahlbaren Sprit, und zwar heute. Davon wird mein Tank nicht voll!"
+      "begruendung_selbst": "Ein Modellprojekt? Wenn ich an der Zapfsäule stehe, brauche ich keine intelligenten Pilotprojekte für die Zukunft, sondern bezahlbaren Sprit, und zwar heute. Davon wird mein Tank nicht voll!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Was heißt hier zusätzliche Abgaben?",
@@ -107,7 +114,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Toralf leidet bereits akut unter dem aktuellen CO2-Preis, der Benzin und Heizung verteuert. Dass sich das Programm nur gegen zusätzliche Abgaben positioniert, geht ihm nicht weit genug; er erhofft sich eine spürbare Rücknahme der bestehenden Belastungen.",
-      "begruendung_selbst": "Dass noch mehr CO2-Abgaben Jobs kosten, ist ja wohl klar. Aber mir reicht schon das, was wir jetzt haben! Der CO2-Preis frisst jetzt schon mein Schichtgeld auf, der muss ganz weg!"
+      "begruendung_selbst": "Dass noch mehr CO2-Abgaben Jobs kosten, ist ja wohl klar. Aber mir reicht schon das, was wir jetzt haben! Der CO2-Preis frisst jetzt schon mein Schichtgeld auf, der muss ganz weg!",
+      "beleg_ok": true
     }
   ],
   "gesamt": {
