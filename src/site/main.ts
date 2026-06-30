@@ -29,9 +29,15 @@ const el = (t: string, c?: string, txt?: string) => { const e = document.createE
 const themaName = (id: string) => D.themen.find((t: any) => t.id === id)?.name ?? id;
 const persona = (slug: string) => PERSONAS.find((p) => p.slug === slug);
 const modell = (slug: string) => MODELLE.find((m) => m.slug === slug);
+const MODELL_LABELS: Record<string, string> = {
+  "claude-opus-4-8": "Claude Opus 4.8",
+  "claude-sonnet-4-6": "Claude Sonnet 4.6",
+  "gemini-3.1-pro": "Gemini 3.1 Pro",
+  "gpt-5.5": "GPT 5.5",
+};
 const kurz = (slug: string) =>
-  slug.replace(/^(claude|anthropic|openai|google|gpt|gemini)[-/]?/i, "").replace(/-/g, " ")
-    .replace(/\b(\d) (\d)\b/g, "$1.$2").replace(/\b\w/g, (c) => c.toUpperCase()) || slug;
+  MODELL_LABELS[slug] ??
+  (slug.replace(/-/g, " ").replace(/\b(\d) (\d)\b/g, "$1.$2").replace(/\b\w/g, (c) => c.toUpperCase()) || slug);
 const parteiName = (p: string) => (p === "gruene" ? "Grüne" : p.toUpperCase());
 
 const erg = (m: string, p: string, pa: string) => ERG.find((e) => e.modell_slug === m && e.persona === p && e.partei === pa);
@@ -238,6 +244,7 @@ function personaAnsicht(root: HTMLElement, mSlug: string, pSlug: string, vs: str
   const ti = el("div"); ti.append(el("h2", "", p.name)); ti.append(el("span", "fiktiv gross", "fiktive Persona – keine reale Person"));
   if (p.einzeiler) ti.append(el("p", "einzeiler", p.einzeiler));
   kopf.append(ti); root.append(kopf);
+  root.append(profilLink(p));
   root.append(vergleichLeiste(mSlug, vs));
   root.append(el("h3", "abschnitt", `Wie ${kurz(mSlug)} diese Persona zu den Parteien einordnet`));
 
@@ -340,15 +347,45 @@ function vergleichAnsicht(root: HTMLElement) {
   root.append(liste);
 }
 
+/* ---------------- Ansicht: Persona-Profil (modellunabhängig) ---------------- */
+function profilLink(p: Persona): HTMLElement {
+  const a = el("a", "navbtn profil-link", `📋 Vollständiges Profil von ${p.name} →`) as HTMLAnchorElement;
+  a.href = `#/persona/${p.slug}`;
+  return a;
+}
+function profilAnsicht(root: HTMLElement, pSlug: string) {
+  const p = persona(pSlug); if (!p) return landing(root);
+  root.append(brotkrume([bcStart(), bcKat("Persona"), bcCur(p.name)]));
+  const kopf = el("div", "detail-kopf"); kopf.append(avatar(p, "avatar gross"));
+  const ti = el("div");
+  ti.append(el("h2", "", p.name));
+  ti.append(el("span", "fiktiv gross", "fiktive Persona – keine reale Person"));
+  if (p.einzeiler) ti.append(el("p", "einzeiler", p.einzeiler));
+  const th = el("div", "themen"); p.themen.forEach((t) => th.append(chip(themaName(t)))); ti.append(th);
+  kopf.append(ti); root.append(kopf);
+
+  // Einschätzungen der Modelle (Sprung in die jeweilige Modell-Ansicht dieser Persona)
+  const nav = el("div", "unternav");
+  for (const m of MODELLE) {
+    if (!ergsMP(m.slug, pSlug).length) continue;
+    const a = el("a", "navbtn") as HTMLAnchorElement;
+    a.href = `#/modell/${m.slug}/persona/${pSlug}`;
+    a.textContent = `Wie urteilt ${kurz(m.slug)}? →`;
+    nav.append(a);
+  }
+  if (nav.childElementCount) { root.append(el("h3", "abschnitt", "Einschätzungen der Modelle")); root.append(nav); }
+
+  root.append(renderProfilTab(p)); // enthält Bevölkerung + Profilfelder (inkl. eigener Überschriften)
+}
+
 /* ---------------- Ansicht: Personas (Zweit-Einstieg) ---------------- */
 function personenliste(root: HTMLElement) {
   root.append(brotkrume([bcStart(), bcCur("Alle Personas")]));
   root.append(el("h2", "", "Nach Persona einsteigen"));
-  root.append(infoZeile("Wähle eine Lebenslage; sie wird mit dem ersten Modell geöffnet — Modell danach jederzeit wechselbar."));
+  root.append(infoZeile("Wähle eine Lebenslage — du landest auf ihrer Profilseite und kannst von dort die Einschätzungen der Modelle öffnen."));
   const grid = el("div", "raster");
-  const erstes = MODELLE[0]?.slug ?? "";
   for (const p of PERSONAS) {
-    const k = el("a", "karte") as HTMLAnchorElement; k.href = `#/modell/${erstes}/persona/${p.slug}`;
+    const k = el("a", "karte") as HTMLAnchorElement; k.href = `#/persona/${p.slug}`;
     k.append(avatar(p, "avatar")); k.append(el("h3", "", p.name));
     if (p.einzeiler) k.append(el("p", "einzeiler", p.einzeiler));
     const th = el("div", "themen"); p.themen.forEach((t) => th.append(chip(themaName(t)))); k.append(th);
@@ -399,6 +436,7 @@ function route() {
   // teile: [] | [modell,M] | [modell,M,persona,P] | [modell,M,persona,P,partei,PA] | [vergleich] | [personas]
   if (teile[0] === "vergleich") vergleichAnsicht(root);
   else if (teile[0] === "personas") personenliste(root);
+  else if (teile[0] === "persona" && teile[1]) profilAnsicht(root, teile[1]);
   else if (teile[0] === "modell" && teile[1]) {
     const M = teile[1];
     if (teile[2] === "persona" && teile[3] && teile[4] === "partei" && teile[5]) blattAnsicht(root, M, teile[3], teile[5], vs, "persona");
