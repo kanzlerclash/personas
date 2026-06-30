@@ -127,4 +127,7 @@ h4.gut { color: var(--gut); margin: .8rem 0 .3rem; } h4.schlecht { color: var(--
 .fuss { max-width: 1100px; margin: 2rem auto; padding: 1.25rem; border-top: 1px solid var(--rand); color: var(--dim); font-size: .82rem; }
 .fuss a { color: var(--akzent); }
 
-@media (max-width: 640px) { .blatt-split { grid-template-columns: 1fr; } .gsbalken { width: 110px; } }
+.vergleich-grid { display: grid; gap: 1rem; margin-top: 1rem; }
+.profil-link { display: inline-block; margin: .6rem 0; }
+
+@media (max-width: 760px) { .blatt-split, .vergleich-grid { grid-template-columns: 1fr !important; } .gsbalken { width: 110px; } }

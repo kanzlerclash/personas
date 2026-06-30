@@ -15,9 +15,8 @@
     "verify": "tsx src/pipeline/verify-belege.ts",
     "bevoelkerung": "tsx src/pipeline/bevoelkerung.ts",
     "site:data": "tsx src/site/build-data.ts",
-    "dev": "pnpm run site:data && vite",
-    "build": "pnpm run site:data && vite build",
-    "preview": "vite preview",
+    "build": "tsx src/ssg/build.ts",
+    "preview": "PAGES_BASE=/ tsx src/ssg/build.ts && python3 -m http.server --directory dist 4173",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
@@ -28,6 +27,7 @@
   },
   "devDependencies": {
     "@types/node": "^26.0.1",
+    "canvas": "^3.2.3",
     "pdfjs-dist": "^4.7.76",
     "tsx": "^4.19.0",
     "typescript": "^5.6.0",
