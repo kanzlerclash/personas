@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Mareike ist der bürokratische Aufwand im Verhältnis zu ihrer Betriebsgröße oft extrem belastend. Eine konkrete, niedrigschwellige Unterstützungshilfe im Behördendschungel spricht ihr direkt aus der Seele.",
-      "begruendung_selbst": "Wenn es da draußen wirklich Leute geben soll, die mir durch den Behörden-Dschungel helfen, wäre das ein Traum. Ich verzweifle regelmäßig an den Formularen!"
+      "begruendung_selbst": "Wenn es da draußen wirklich Leute geben soll, die mir durch den Behörden-Dschungel helfen, wäre das ein Traum. Ich verzweifle regelmäßig an den Formularen!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Faire Bezahlung für Kreative!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mareike leidet unter stark schwankenden Einkommen und geringen Honoraren in der Kreativbranche. Verbindliche Basishonorare in der geförderten Kultur würden ihr Netz deutlich stabiler machen.",
-      "begruendung_selbst": "Endlich wird verstanden, dass auch wir Solo-Kreativen von etwas leben müssen! Verbindliche Honoraruntergrenzen nehmen mir wenigstens ein bisschen die ständige Existenzangst."
+      "begruendung_selbst": "Endlich wird verstanden, dass auch wir Solo-Kreativen von etwas leben müssen! Verbindliche Honoraruntergrenzen nehmen mir wenigstens ein bisschen die ständige Existenzangst.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wir zählen auch als Arbeiter!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Auch wenn Mareike selbst nicht ehrenamtlich in der Feuerwehr aktiv ist, wertschätzt sie die explizite Berücksichtigung von Selbstständigen, da diese bei staatlichen Ausfallregelungen sonst oft durchs Raster fallen.",
-      "begruendung_selbst": "Das finde ich richtig gut! Oft wird vergessen, dass wir auch Ausfall haben, wenn wir nicht arbeiten können. Schön, dass hier jemand mal unsere Lebensrealität mitdenkt."
+      "begruendung_selbst": "Das finde ich richtig gut! Oft wird vergessen, dass wir auch Ausfall haben, wenn wir nicht arbeiten können. Schön, dass hier jemand mal unsere Lebensrealität mitdenkt.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -63,7 +66,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Mareike ist als Solo-Kreative höchstwahrscheinlich freiberuflich tätig und damit bisher gewerbesteuerbefreit. Trotz geplantem Freibetrag empfindet sie die drohende Erfassung als zusätzliche Bürokratie- und Abgabenbelastung.",
-      "begruendung_selbst": "Ich fasse es nicht! Da kämpfe ich jeden Monat ums Überleben und dann will man ausgerechnet uns Freiberufler, die bisher verschont blieben, auch noch in eine neue Wirtschaftssteuer zwingen!"
+      "begruendung_selbst": "Ich fasse es nicht! Da kämpfe ich jeden Monat ums Überleben und dann will man ausgerechnet uns Freiberufler, die bisher verschont blieben, auch noch in eine neue Wirtschaftssteuer zwingen!",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

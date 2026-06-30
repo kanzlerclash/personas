@@ -1,0 +1,185 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Chemie bleibt Chefsache",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU will Sachsen-Anhalt als Chemie- und Pharma-Hub ausbauen, bestehende Chemie- und Grundstoffunternehmen sichern und weitere strategische Produktion ansiedeln.",
+      "seite": 12,
+      "zitat": "„vorhandene Unternehmen der Chemie - und Grundstoffindustrie sichern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe arbeitet im Chemiedreieck und bindet seinen Wohlstand direkt an den Bestand der Branche. Dass die CDU nicht nur neue Ansiedlungen, sondern ausdrücklich vorhandene Chemie- und Grundstoffunternehmen sichern will, trifft seinen Kernpunkt Standorterhalt.",
+      "begruendung_selbst": "Wenn die Chemie hier gehalten und ausgebaut wird, geht es um meine Halle, meine Schicht und die Jobs meiner Kollegen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Übergang mit Rückendeckung",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU will den Strukturwandel im Mitteldeutschen Revier und in der chemischen Industrie aktiv begleiten und die Branche beim Übergang zu Zukunftstechnologien unterstützen.",
+      "seite": 15,
+      "zitat": "„die chemische Industrie in Sachsen - Anhalt halten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe ist nicht grundsätzlich gegen Wandel, aber er verlangt Absicherung für Beschäftigte und Regionen. Die Passage verspricht genau für seine Industrie eine aktive Begleitung statt bloßer Abwicklung.",
+      "begruendung_selbst": "Wandel meinetwegen, aber dann mit Plan und mit Rückhalt für die Werke im Süden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gewerkschaften mit am Tisch",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU beschreibt Wirtschaftspolitik als langfristig und will bestehende Initiativen im kontinuierlichen Dialog mit Unternehmen, Kammern, Verbänden und Gewerkschaften fortführen.",
+      "seite": 17,
+      "zitat": "„im engen und kontinuierlichen Dialog mit Unternehmen, Kammern, Verbänden und Gewerkschaften“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Betriebsrat und Gewerkschafter achtet Uwe darauf, ob Beschäftigtenvertretungen politisch ernst genommen werden. Die ausdrückliche Nennung von Gewerkschaften bestätigt seinen Anspruch auf Mitbestimmung im Wandel.",
+      "begruendung_selbst": "Über uns darf nicht ohne uns geredet werden; Gewerkschaften gehören an den Tisch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom darf Jobs nicht killen",
+      "thema": "energie",
+      "programmpunkt": "Die CDU will regionale Strompreiszonen, damit günstiger Windstrom Haushalten und Unternehmen in Sachsen-Anhalt zugutekommt.",
+      "seite": 44,
+      "zitat": "„einen niedrigeren Strompreis für die Industrie“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiepreise sind für Uwe eine unmittelbare Jobgefahr in der energieintensiven Chemie. Ein niedrigerer Industriestrompreis adressiert seine Sorge um Wettbewerbsfähigkeit und Standorterhalt direkt.",
+      "begruendung_selbst": "Unsere Anlagen laufen nicht mit Sonntagsreden, sondern mit bezahlbarem Strom.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erst Ersatz, dann Abschalten",
+      "thema": "energie",
+      "programmpunkt": "Die CDU stellt Versorgungssicherheit und Bezahlbarkeit vor den Rückbau grundlastfähiger Kraftwerke und verlangt Speicher, Netze und Ersatzkraftwerke.",
+      "seite": 44,
+      "zitat": "„Vor dem Rückbau grundlastfähiger Kraftwerke braucht es konkrete Lösungen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe fürchtet ein Transformationstempo, das die Industrie ohne sichere Energieversorgung zurücklässt. Diese Reihenfolge entspricht seiner pragmatischen Haltung: Klimaschutz ja, aber nicht ohne belastbare Ersatzsysteme.",
+      "begruendung_selbst": "Erst muss die Versorgung stehen, sonst bezahlt die Belegschaft die Rechnung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohleausstieg nicht vorziehen",
+      "thema": "energie",
+      "programmpunkt": "Die CDU bekennt sich zum Kohlekompromiss mit Ausstieg bis 2038 und will Fördermittel für neue Perspektiven in betroffenen Regionen einsetzen.",
+      "seite": 45,
+      "zitat": "„Der vereinbarte Kohleausstieg bis 2038“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe schaut solidarisch auf andere Industrieregionen und Beschäftigte im Strukturwandel. Das Festhalten am vereinbarten Zeitplan gibt aus seiner Sicht Verlässlichkeit statt zusätzlichem Transformationsdruck.",
+      "begruendung_selbst": "Man kann Regionen nicht ständig neue Fristen vor die Füße werfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff an die Werke",
+      "thema": "energie",
+      "programmpunkt": "Die CDU will Erdgas- und Wasserstoffkraftwerke, eigene Erzeugung, Forschung und den Anschluss der Industrie- und Chemieparks an das nationale Wasserstoffnetz vorantreiben.",
+      "seite": 46,
+      "zitat": "„Anschluss unserer Industrie - und Chemieparks an das nationale Wasserstoffnetz“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Uwe ist Wasserstoff nur dann überzeugend, wenn er real bei den Chemieparks ankommt und Arbeitsplätze sichert. Die Passage verbindet Klimaziele ausdrücklich mit industrieller Entwicklung und Arbeitssicherung.",
+      "begruendung_selbst": "Wasserstoff bringt nur was, wenn die Leitung bis zum Werkstor geht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Praxis statt Papierlast",
+      "thema": "klima",
+      "programmpunkt": "Die CDU will aus ihrer Sicht praxisferne EU-Klima- und Umweltvorgaben zurücknehmen und eine technologieoffene Umweltpolitik im Interesse von Standort und Beschäftigung vertreten.",
+      "seite": 90,
+      "zitat": "„gefährden Arbeitsplätze, Investitionen und Innovation“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe ist gegenüber schneller Transformationspolitik skeptisch, wenn sie Arbeitsplätze bedroht. Die CDU formuliert hier genau diese Sorge industriepolitisch und stellt Beschäftigung neben Klimaziele.",
+      "begruendung_selbst": "Klimapolitik muss praxistauglich sein, sonst macht sie bei uns die Tore dicht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Löhne brauchen Druck",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU begründet gute Löhne vor allem mit starker Wirtschaft und lehnt staatliche Vorgaben und Umverteilung als Weg zu sicheren Einkommen ab.",
+      "seite": 12,
+      "zitat": "„nicht durch staatliche Vorgaben und Umverteilung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe teilt das Ziel guter Löhne, aber als Gewerkschafter sieht er Löhne nicht nur als Ergebnis erfolgreicher Unternehmen. Ihm fehlt hier der Stellenwert von Tarifbindung, Mitbestimmung und politischem Druck gegen Lohndumping.",
+      "begruendung_selbst": "Gute Löhne fallen nicht vom Himmel; dafür braucht es Tarifmacht und klare Regeln.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arbeitskosten sind nicht alles",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU fordert, Arbeitskosten international konkurrenzfähig zu halten, und verbindet das mit Entlastungen sowie Reformen bei Sozialabgaben und Sicherungssystemen.",
+      "seite": 17,
+      "zitat": "„Die Arbeitskosten müssen international konkurrenzfähig bleiben“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe weiß, dass Standorte wettbewerbsfähig bleiben müssen, aber als Gewerkschafter hört er bei Arbeitskosten schnell Lohndruck mit. Ihm fehlt eine gleich starke Zusage, dass Konkurrenzfähigkeit nicht auf dem Rücken von Beschäftigten erkauft wird.",
+      "begruendung_selbst": "Wenn nur über Arbeitskosten geredet wird, landen am Ende oft unsere Löhne auf dem Prüfstand.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht am Sozialstaat sparen",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU fordert vom Bund Sozialabgaben zu deckeln und Reformbedarf in den Sozialsystemen anzugehen.",
+      "seite": 17,
+      "zitat": "„die Sozialabgaben zu deckeln“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist gegen Sozialabbau und achtet darauf, ob Entlastung der Arbeitskosten zulasten von Sicherungssystemen gehen könnte. Ohne klare Zusage zur Leistungsstärke des Sozialstaats wirkt diese Passage auf ihn riskant.",
+      "begruendung_selbst": "Wenn gedeckelt wird, will ich wissen, wer am Ende die Lücke bezahlt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erwerbslose nicht vorführen",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU will Bürgerarbeit für arbeitsfähige Leistungsbeziehende als erweiterte Verpflichtung zu gemeinnütziger Arbeit erneut vorantreiben.",
+      "seite": 31,
+      "zitat": "„erweiterte Verpflichtung zu gemeinnütziger Arbeit“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe legt Wert auf Arbeit, aber auch auf Solidarität mit Menschen, die nach Strukturbrüchen abrutschen können. Eine Pflichtlogik gegenüber Leistungsbeziehenden kann für ihn nach Druck statt nach Qualifizierung und guter Arbeit klingen.",
+      "begruendung_selbst": "Wenn Kollegen ihren Job verlieren, brauchen sie Perspektive, keine öffentliche Vorführung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Personalabbau macht misstrauisch",
+      "thema": "demokratie",
+      "programmpunkt": "Die CDU verbindet moderne Verwaltung mit weniger Bürokratie, weniger Personal und schnelleren Verfahren.",
+      "seite": 78,
+      "zitat": "„Weniger Bürokratie, weniger Personal, schnellere Verfahren“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe kann Bürokratieabbau nachvollziehen, reagiert aber empfindlich auf pauschale Personalabbau-Signale. Als Gewerkschafter denkt er dabei an Beschäftigte im öffentlichen Dienst und an funktionierende Leistungen vor Ort.",
+      "begruendung_selbst": "Effizienter Staat ja, aber weniger Personal heißt oft mehr Druck für die Leute.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet im CDU-Programm viele direkte Zusagen für seine industrielle Lebenslage: Chemie sichern, Energie bezahlbar halten, Wasserstoffnetze anschließen und Transformationsdruck bremsen. Besonders stark resonieren die Passagen zu Chemie- und Grundstoffindustrie, Industriestrompreis und Versorgungssicherheit. Skeptisch bleibt er, weil gute Löhne stark über Wettbewerbsfähigkeit statt Tarifmacht gedacht werden und sozialstaatliche sowie arbeitsmarktpolitische Passagen nach Druck und Kürzungslogik klingen können.",
+    "score": 1
+  }
+}

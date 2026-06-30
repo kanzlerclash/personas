@@ -1,0 +1,173 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Ausstattung statt warmer Worte",
+      "thema": "sicherheit",
+      "programmpunkt": "Die CDU will Polizei, Feuerwehr und Rettungsdienste besser ausstatten und den Schutz der Einsatzkräfte ausdrücklich stärken.",
+      "seite": 6,
+      "zitat": "Beste Ausstattung für Polizei, Feuerwehren und Rettungsdienste",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan überträgt seine eigene Erfahrung mit Materialmängeln auf andere Einsatzkräfte. Dass Ausstattung und Eigenschutz ausdrücklich als Voraussetzung für Einsatzfähigkeit genannt werden, entspricht seinem Maßstab an verlässliche Sicherheitspolitik.",
+      "begruendung_selbst": "Wenn Menschen rausgehen und andere schützen sollen, muss das Material stimmen. Das gilt bei uns in der Truppe genauso wie bei Polizei und Rettung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Extremismus klar im Blick",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will Sicherheitsbehörden und Verfassungsschutz stärken und Extremismus aus allen Richtungen bekämpfen.",
+      "seite": 7,
+      "zitat": "jede Form des politisch und islamistisch motivierten Extremismus bekämpfen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan ist verfassungstreu und lehnt politische Strömungen ab, die Bündnis, Institutionen oder Auftrag untergraben. Ein breiter Blick auf Extremismus stärkt aus seiner Sicht die wehrhafte Demokratie.",
+      "begruendung_selbst": "Wer diesen Staat von innen angreift, darf nicht durchrutschen. Da brauche ich einen klaren Blick, egal aus welcher Ecke es kommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Drohnenabwehr gehört dazu",
+      "thema": "sicherheit",
+      "programmpunkt": "Die CDU will moderne Technik für Polizei und Gefahrenabwehr ausbauen, einschließlich Investitionen in Drohnendetektion und Drohnenabwehr.",
+      "seite": 7,
+      "zitat": "in moderne Technik zur Detektion und zur Abwehr von Drohnen investieren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Drohnen sind für Stefan kein abstraktes Technikthema, sondern Teil moderner Bedrohungslagen. Die angekündigte technische Aufrüstung signalisiert ihm, dass Sicherheitsbehörden neue Einsatzrealitäten ernst nehmen.",
+      "begruendung_selbst": "Drohnen sind längst Realität. Wer Sicherheit organisieren will, muss sie erkennen und abwehren können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bundeswehr mit am Tisch",
+      "thema": "verteidigung",
+      "programmpunkt": "Im Bevölkerungsschutz soll die Koordinierung zwischen Land, Bund, Bundeswehr, Ressorts und Kommunen personell gestärkt werden.",
+      "seite": 10,
+      "zitat": "Schnittstelle zum Bund, zur Bundeswehr, zu den Ländern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das ist einer der wenigen direkten Bundeswehr-Bezüge im Landesprogramm. Stefan sieht darin ein positives Signal, weil zivile Krisenfähigkeit und militärische Unterstützung in einer veränderten geopolitischen Lage besser verzahnt werden sollen.",
+      "begruendung_selbst": "Im Krisenfall darf niemand erst Telefonnummern suchen. Wenn Bundeswehr, Land und Kommunen eingespielt sind, spart das Zeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Cyberabwehr ist Sicherheit",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die CDU will ein leistungsfähiges CERT für Sachsen-Anhalt aufbauen, um Unternehmen bei der Verteidigung gegen Cyberangriffe zu unterstützen.",
+      "seite": 52,
+      "zitat": "bei der Verteidigung vor Cyberangriffen unterstützt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan denkt Sicherheit nicht nur physisch, sondern auch als Resilienz kritischer Strukturen. Ein professioneller Umgang mit Cyberangriffen passt zu seiner Erwartung, Bedrohungen nüchtern und technisch belastbar zu begegnen.",
+      "begruendung_selbst": "Cyberangriffe legen heute Infrastruktur lahm. Das ist kein Nebenthema, das gehört zur Sicherheitsvorsorge.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsstaat muss liefern",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will schnelle, faire und rechtsstaatlich saubere Verfahren sowie eine handlungsfähige Justiz.",
+      "seite": 58,
+      "zitat": "zügig, fair und rechtsstaatlich einwandfrei geführt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan legt Wert auf Ordnung, aber nicht auf Willkür. Eine schnelle und zugleich rechtsstaatliche Justiz bestätigt seine Vorstellung eines Staates, der Regeln verlässlich durchsetzt.",
+      "begruendung_selbst": "Härte ohne Rechtsstaat bringt nichts. Verfahren müssen sauber sein und trotzdem nicht ewig dauern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Europa bleibt Sicherheitsraum",
+      "thema": "verteidigung",
+      "programmpunkt": "Die CDU bekennt sich zu einer EU, die Freiheit, Demokratie und Rechtsstaatlichkeit schützt und auch gemeinsame Verteidigung stärken soll.",
+      "seite": 89,
+      "zitat": "die gemeinsame Verteidigung stärkt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Stefan ist Bündnisfähigkeit ein Kernkriterium politischer Verlässlichkeit. Das Bekenntnis zu gemeinsamer Verteidigung in Europa geht in die Richtung, die er angesichts der Ostflanke erwartet.",
+      "begruendung_selbst": "Allein geht Sicherheit in Europa nicht. Wenn Europa Verteidigung ernst nimmt, ist das für meinen Auftrag wichtig.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wo bleibt die NATO?",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm spricht bei Europa von gemeinsamer Verteidigung, bleibt aber ohne konkretes Bekenntnis zu NATO, Bundeswehr-Ausrüstung, Ukraine oder Ostflanke.",
+      "seite": 89,
+      "zitat": "die gemeinsame Verteidigung stärkt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan wertet Sicherheitsprogramme an konkreter Bündnistreue und Einsatzfähigkeit. Die Formulierung ist für ihn positiv, aber zu dünn, weil seine zentralen Referenzpunkte NATO, Ausrüstung und Bedrohung durch Russland nicht greifbar werden.",
+      "begruendung_selbst": "Gemeinsame Verteidigung klingt gut, aber ich will wissen: NATO, Ostflanke, Material, Ukraine. Ohne das bleibt es ein Satz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Null ist kein Plan",
+      "thema": "integration",
+      "programmpunkt": "Die CDU formuliert als Ziel, irreguläre Migration vollständig auf null zu reduzieren.",
+      "seite": 8,
+      "zitat": "die irreguläre Migration auf null zu reduzieren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan ist ordnungs- und sicherheitsorientiert, reagiert aber skeptisch auf politische Maximalformeln. Aus seiner Sicht ersetzt ein absoluter Zielwert keine belastbare Lagebewertung und keine umsetzbare Einsatzplanung.",
+      "begruendung_selbst": "Ordnung ja. Aber wenn jemand null sagt, will ich den realistischen Plan dahinter sehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sicherheit braucht Maß",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will die biogeographische Analyse im Polizeirecht ermöglichen, um äußere Merkmale in Ermittlungen präziser bewerten zu können.",
+      "seite": 7,
+      "zitat": "präzisere Bewertungen der Haar - , Haut - und Augenfarbe",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan unterstützt handlungsfähige Sicherheitsbehörden, aber sein Rechtsstaatsverständnis verlangt Verhältnismäßigkeit und Vertrauen in Institutionen. Ermittlungsinstrumente, die stark über Herkunftsmerkmale laufen, können aus seiner Sicht gesellschaftliches Vertrauen beschädigen, wenn sie nicht eng begrenzt werden.",
+      "begruendung_selbst": "Ich bin für wirksame Mittel. Aber bei solchen Merkmalen muss der Rechtsrahmen glasklar sein, sonst verliert der Staat Vertrauen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nachrichten nicht ausdünnen",
+      "thema": "demokratie",
+      "programmpunkt": "Die CDU will ARD- und ZDF-Angebote perspektivisch zusammenführen und nationale Nachrichtendoppelungen reduzieren.",
+      "seite": 34,
+      "zitat": "Niemand braucht mehrere nationale Nachrichtensendungen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan nutzt Nachrichten und Fachöffentlichkeit, um Sicherheitslagen einzuordnen. Reformen kann er nachvollziehen, aber eine abwertende Haltung gegenüber mehreren Nachrichtensendungen wirkt auf ihn riskant, weil Vielfalt gegen Desinformation hilft.",
+      "begruendung_selbst": "Ich brauche verlässliche Lagebilder aus mehreren Quellen. Gerade bei Krieg, Desinformation und Krisen ist Vielfalt kein Luxus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klagen nicht pauschal kappen",
+      "thema": "demokratie",
+      "programmpunkt": "Für schnellere Planung will die CDU auf Bundesebene das Verbandsklagerecht abschaffen.",
+      "seite": 55,
+      "zitat": "das diesbezügliche Verbandsklagerecht abschaffen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan mag klare Verfahren und Tempo, aber er ist institutionell und rechtsstaatlich geprägt. Eine komplette Abschaffung von Klagemöglichkeiten wirkt auf ihn zu grob, wenn der Staat Vertrauen durch nachvollziehbare Verfahren sichern soll.",
+      "begruendung_selbst": "Tempo ist wichtig, aber Rechte komplett wegzunehmen ist ein schwerer Eingriff. Der Rechtsstaat muss auch Widerspruch aushalten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet im CDU-Programm viele anschlussfähige Punkte zu innerer Sicherheit, Bevölkerungsschutz, Cyberabwehr und handlungsfähigem Rechtsstaat. Besonders positiv bewertet er konkrete Ausstattungs- und Koordinierungszusagen sowie den direkten Bezug zur Bundeswehr im Bevölkerungsschutz. Kritisch bleibt für ihn, dass die eigentlichen Bundeswehr- und NATO-Fragen nur sehr dünn vorkommen und einzelne sicherheits- oder verwaltungspolitische Forderungen rechtsstaatlich zu pauschal wirken.",
+    "score": 1
+  }
+}

@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mareike fühlt sich durch hohe bürokratische Auflagen oft überfordert und sieht hier eine direkte Erleichterung. Der Abbau von Dokumentationspflichten gibt Soloselbstständigen mehr Zeit für ihre eigentliche Arbeit.",
-      "begruendung_selbst": "Bürokratie frisst bei mir unendlich viel Zeit. Wenn ich mir den Papierkram und Zwangsbeiträge sparen könnte, hätte ich viel mehr Luft für echte Aufträge."
+      "begruendung_selbst": "Bürokratie frisst bei mir unendlich viel Zeit. Wenn ich mir den Papierkram und Zwangsbeiträge sparen könnte, hätte ich viel mehr Luft für echte Aufträge.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Bitte macht das endlich!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die durchgängig digitale Abwicklung von Verwaltungsprozessen passt perfekt zur Arbeitsweise einer digitalaffinen Kreativen. Mareike sieht darin eine wichtige Ersparnis von Zeit und Nerven im Umgang mit Ämtern.",
-      "begruendung_selbst": "Ich arbeite komplett digital – es nervt tierisch, wenn ich fürs Amt noch Briefe ausdrucken muss. Alles online einreichen zu können, wäre eine absolute Erlösung."
+      "begruendung_selbst": "Ich arbeite komplett digital – es nervt tierisch, wenn ich fürs Amt noch Briefe ausdrucken muss. Alles online einreichen zu können, wäre eine absolute Erlösung.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wir werden mitgedacht!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mareike macht sich große Sorgen um ihre Altersvorsorge. Dass Selbstständige bei neuen Zuverdienstmöglichkeiten im Alter mit Angestellten gleichgestellt werden sollen, gibt ihr ein Gefühl von Fairness.",
-      "begruendung_selbst": "Meine Rente wird sowieso winzig ausfallen. Wenn ich im Alter dazuverdienen muss, will ich wenigstens steuerlich fair behandelt werden – genau wie Festangestellte."
+      "begruendung_selbst": "Meine Rente wird sowieso winzig ausfallen. Wenn ich im Alter dazuverdienen muss, will ich wenigstens steuerlich fair behandelt werden – genau wie Festangestellte.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Meine Branche wird wertgeschätzt!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mareike freut sich, dass die Kreativwirtschaft nicht als Liebhaberei abgetan, sondern als relevanter Wirtschaftsfaktor anerkannt wird. Eine stärkere Vernetzung verspricht ihr neue berufliche Chancen.",
-      "begruendung_selbst": "Kreativarbeit ist knallharte Wirtschaft! Es ist gut, dass das gesehen wird und wir stärker mit der Eventbranche vernetzt werden sollen – das bringt mir neue Kunden."
+      "begruendung_selbst": "Kreativarbeit ist knallharte Wirtschaft! Es ist gut, dass das gesehen wird und wir stärker mit der Eventbranche vernetzt werden sollen – das bringt mir neue Kunden.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Mareike hat ein stark schwankendes Einkommen. Eine Sozialpolitik, die auf schnellen Zwang in den Angestellten-Arbeitsmarkt setzt, ignoriert den Schutzbedarf von Soloselbstständigen, die in Krisenzeiten eine verlässliche Überbrückung brauchen.",
-      "begruendung_selbst": "Dieses strenge 'Fördern und Fordern' klingt, als müsste ich bei einer Auftragsflaute sofort einen normalen Job annehmen. Wo bleibt das Netz für uns Selbstständige, wenn es mal schlecht läuft?"
+      "begruendung_selbst": "Dieses strenge 'Fördern und Fordern' klingt, als müsste ich bei einer Auftragsflaute sofort einen normalen Job annehmen. Wo bleibt das Netz für uns Selbstständige, wenn es mal schlecht läuft?",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kultur ist kein reines Business!",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Für Mareike ist staatliche Kulturförderung oft indirekt essenziell für ihre eigenen Aufträge. Den strikten Fokus auf wirtschaftliches Handeln im Kulturbereich lehnt sie ab, da so kleine, unkommerzielle Projekte schnell verschwinden.",
-      "begruendung_selbst": "Wenn Kultureinrichtungen nur noch nach reiner Marktlogik und Profit funktionieren müssen, brechen meine Auftraggeber weg. Man kann Kultur nicht behandeln wie eine Fabrik."
+      "begruendung_selbst": "Wenn Kultureinrichtungen nur noch nach reiner Marktlogik und Profit funktionieren müssen, brechen meine Auftraggeber weg. Man kann Kultur nicht behandeln wie eine Fabrik.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Und was hab ich davon?",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Soloselbstständige wie Mareike arbeiten oft extrem viel, haben aber systembedingt keine formellen Überstunden. Diese Art der Steuererleichterung bevorteilt ausschließlich Angestellte und lässt Kleinunternehmer mit schwankendem Einkommen komplett außen vor.",
-      "begruendung_selbst": "Steuerfreie Überstunden? Schön für Festangestellte. Ich arbeite an Projekten auch oft bis in die Nacht, aber bei mir heißt das einfach nur Selbstausbeutung ohne jeden Steuervorteil."
+      "begruendung_selbst": "Steuerfreie Überstunden? Schön für Festangestellte. Ich arbeite an Projekten auch oft bis in die Nacht, aber bei mir heißt das einfach nur Selbstausbeutung ohne jeden Steuervorteil.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

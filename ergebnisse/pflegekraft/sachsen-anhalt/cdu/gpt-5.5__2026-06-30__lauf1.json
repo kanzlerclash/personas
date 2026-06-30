@@ -1,0 +1,186 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Pflege im Mittelpunkt",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU beschreibt Gesundheit und Pflege als landesweite Daseinsvorsorge und will eine moderne, vernetzte und menschliche Versorgung aufbauen.",
+      "seite": 26,
+      "zitat": "„gute Pflege und begleitet Menschen würdevoll bis an das Lebensende“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht darin, dass professionelle Pflege nicht nur als Kostenblock, sondern als Kern eines solidarischen Versorgungssystems benannt wird. Das trifft ihr Bedürfnis nach Anerkennung ihres Berufs und nach verlässlichen Strukturen.",
+      "begruendung_selbst": "Ich will nicht nur hören, dass Krankenhäuser wichtig sind. Gut ist, wenn Pflege als eigene Aufgabe gesehen wird und Menschen bis zum Schluss würdevoll versorgt werden sollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Personal entscheidet alles",
+      "thema": "gesundheit",
+      "programmpunkt": "Für die flächendeckende Versorgung erklärt die CDU die Gewinnung und Bindung von Fachkräften in allen Gesundheitsberufen zum entscheidenden Faktor.",
+      "seite": 27,
+      "zitat": "„Gewinnung und Bindung von Fachkräften aller Gesundheitsberufe ist dabei entscheidend“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin bewertet Politik zuerst danach, ob sie die Personallücke ernst nimmt. Die Formulierung passt zu ihrer Alltagserfahrung, dass Versorgung ohne genug Fachkräfte nicht stabil bleibt.",
+      "begruendung_selbst": "Genau darum geht es: Wir brauchen Leute auf Station, nicht noch mehr Durchhalteparolen für die, die schon am Limit sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Verantwortung für uns",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will Pflege neu aufstellen und Pflegefachkräften mehr Kompetenzen und Verantwortung geben, um die Versorgung zu stabilisieren.",
+      "seite": 28,
+      "zitat": "„Pflegefachkräfte erhalten mehr Kompetenze n und Verantwortung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin fühlt sich fachlich oft unterschätzt, obwohl Pflegekräfte die Versorgung praktisch tragen. Mehr sinnvoll genutzte Kompetenzen würden ihre Professionalität anerkennen und Abläufe auf Station verbessern.",
+      "begruendung_selbst": "Wir sehen jeden Tag, was Patientinnen brauchen. Wenn unsere Kompetenz endlich richtig genutzt wird, hilft das allen auf Station.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege darf nicht ruinieren",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU setzt sich auf Bundesebene für eine Reform der Pflegeversicherung mit gedeckelten Eigenanteilen und fairer Finanzierung ein.",
+      "seite": 29,
+      "zitat": "„mit gedeckelten Eigenanteilen, fairer Finanzierung“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt Pflegebedürftige und Angehörige nicht als abstrakte Fälle, sondern als Menschen unter Druck. Bezahlbare Pflege passt zu ihrem solidarischen Menschenbild und zur Sorge um Familien.",
+      "begruendung_selbst": "Ich sehe Angehörige, die neben der Sorge auch noch Angst vor den Kosten haben. Pflege darf Familien nicht finanziell kaputtmachen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papier, mehr Pflege",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die CDU will Telemedizin, digitale Pflegeanwendungen und vernetzte Dokumentation ausbauen und damit Bürokratie in Praxen, Kliniken und Pflegeeinrichtungen reduzieren.",
+      "seite": 29,
+      "zitat": "„Bürokrat ie wird abgebaut“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin kennt Dokumentationslast als Teil der Arbeitsverdichtung. Wenn digitale Systeme tatsächlich Zeit am Bett zurückbringen, berührt das ihren Alltag direkt positiv.",
+      "begruendung_selbst": "Wenn Digitalisierung heißt, dass ich weniger doppelt dokumentiere und mehr Zeit bei den Patientinnen habe, dann ist das ein echter Fortschritt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unsere Kolleginnen gehören dazu",
+      "thema": "integration",
+      "programmpunkt": "Die CDU betont, dass integrierte, arbeitende Menschen mit Migrationshintergrund willkommen sind und viele Krankenhäuser ohne sie nicht funktionieren würden.",
+      "seite": 9,
+      "zitat": "„Ohne sie würden viele Krankenhäuser“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin arbeitet in einem Team, das ohne migrantische Kolleginnen und Kollegen nicht tragfähig wäre. Die ausdrückliche Anerkennung dieser Realität bestätigt ihre Sicht auf Kollegschaft und Versorgung.",
+      "begruendung_selbst": "Das ist die Wahrheit auf meiner Station: Ohne die Kolleginnen aus dem Ausland könnten wir den Dienstplan nicht halten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte sollen leichter kommen",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU will qualifizierte Fachkräftezuwanderung unbürokratischer und klar geregelt erleichtern.",
+      "seite": 18,
+      "zitat": "„unbürokratische und klar geregelte Zuwanderung qualifizierter Fachkräfte“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Kerstin ist Fachkräftezuwanderung kein Randthema, sondern eine Bedingung dafür, dass Stationen arbeitsfähig bleiben. Weniger Hürden bei qualifizierter Zuwanderung passt direkt zu ihrem Interesse an Entlastung.",
+      "begruendung_selbst": "Wenn eine ausgebildete Pflegekraft hier arbeiten will, darf sie nicht monatelang in Papieren und Behörden hängen bleiben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Migrationswende macht mir Sorgen",
+      "thema": "integration",
+      "programmpunkt": "Die CDU will Migration stärker begrenzen, irreguläre Migration auf null reduzieren und Rückführungen deutlich forcieren.",
+      "seite": 8,
+      "zitat": "„Migration muss dauerhaft gesteuert, begrenzt“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin lehnt einen Ton ab, der Migration vor allem als Problem rahmt, weil er auf ihre Kolleginnen und Kollegen ausstrahlen kann. Für sie gefährdet ein harter Migrationskurs auch die Stabilität von Teams und Versorgung.",
+      "begruendung_selbst": "Wenn dauernd nur von Begrenzen und Abschieben geredet wird, hören meine Kolleginnen das auch. So gewinnt man keine Menschen für die Pflege.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Familien trennen hilft niemandem",
+      "thema": "integration",
+      "programmpunkt": "Die CDU will den Familiennachzug für subsidiär Schutzberechtigte weiter aussetzen.",
+      "seite": 8,
+      "zitat": "„Familiennachzug für subsidiär Schutzberechtigte weiterhin ausgesetzt“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin bewertet Integration auch danach, ob Menschen hier stabil leben und arbeiten können. Eine fortgesetzte Trennung von Familien steht ihrer solidarischen Sicht auf migrantische Kolleginnen und Kollegen entgegen.",
+      "begruendung_selbst": "Wer hier arbeiten und ankommen soll, braucht doch auch Familie und Halt. Dauernde Unsicherheit macht Menschen nicht stärker.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bitte keine Renditepflege",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU hält öffentlich-rechtliche, gemeinnützige und privatwirtschaftliche Krankenhäuser für gleichberechtigte Säulen der Versorgung.",
+      "seite": 28,
+      "zitat": "„privatwirtschaftliche Häuser sind gleichberechtigte und tragende Säulen unserer Versorgung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin steht Privatisierung und Ökonomisierung im Gesundheitswesen skeptisch gegenüber. Gleichrangige Aufwertung privatwirtschaftlicher Träger löst bei ihr die Sorge aus, dass Renditeinteressen weiter auf Personal und Pflegequalität drücken.",
+      "begruendung_selbst": "Ich habe genug davon, wenn Pflege nach Zahlenkolonnen organisiert wird. Versorgung darf nicht davon abhängen, ob sich Personal gerade rechnet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Löhne brauchen mehr als Wachstum",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU erklärt höhere Löhne vor allem als Ergebnis einer starken Wirtschaft und lehnt staatliche Vorgaben und Umverteilung als Weg dorthin ab.",
+      "seite": 12,
+      "zitat": "„nicht durch staatliche Vorgaben und Umverteilung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin empfindet ihre Bezahlung gemessen an Belastung als zu niedrig und erwartet konkrete Stärkung von Beschäftigten. Eine Lohnlogik, die primär auf Wirtschaftskraft statt auf verbindliche arbeits- oder tarifpolitische Hebel setzt, wirkt aus ihrer Sicht zu indirekt.",
+      "begruendung_selbst": "Von allgemeinem Wachstum wird meine Nachtschicht nicht leichter bezahlt. Gute Pflege braucht klare Verbesserungen bei Lohn und Bedingungen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mindestlohn nicht kleinreden",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU will auf Bundesebene Sozialabgaben deckeln und Mindestlöhne nicht zum Wahlversprechen machen.",
+      "seite": 18,
+      "zitat": "„Mindestlöhne nicht für Wahlversprechen instrumentalisieren lassen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist arbeitnehmerorientiert und solidarisch mit Beschäftigten in schlecht bezahlten Dienstleistungs- und Pflegeumfeldern. Die Formulierung klingt für sie eher bremsend gegenüber politischer Lohnunterstützung.",
+      "begruendung_selbst": "Viele arbeiten hart und kommen trotzdem kaum hin. Da will ich nicht hören, dass Mindestlöhne vor allem ein Wahlkampfthema seien.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Zu wenig Dienstplan-Realität",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU verspricht attraktive Arbeitsbedingungen für Pflegekräfte, bleibt aber im Programm an dieser Stelle ohne konkrete Zusagen zu Personalschlüsseln, Dienstplänen oder Bezahlung.",
+      "seite": 27,
+      "zitat": "„attraktive Arbeitsbedingungen, verlässliche Entwicklungsperspektiven“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist ernüchtert von warmen Worten ohne strukturelle Verbesserung. Der Punkt berührt sie negativ, weil ausgerechnet ihre Kernprobleme Unterbesetzung, Dienstplanstress und Entlohnung nicht konkret gelöst werden.",
+      "begruendung_selbst": "Attraktiv klingt gut, aber ich brauche mehr Hände im Dienst, planbare Frei-Tage und eine Bezahlung, die zur Belastung passt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet im CDU-Programm mehrere direkte Anknüpfungspunkte: Pflege wird sichtbar benannt, Fachkräftegewinnung, mehr Kompetenzen, bezahlbare Pflege und weniger Dokumentation sprechen ihren Alltag an. Gleichzeitig stören sie der harte Migrationskurs, die gleichrangige Rolle privatwirtschaftlicher Kliniken und die aus ihrer Sicht zu unverbindlichen Aussagen zu Löhnen, Dienstplänen und Personalschlüsseln. Insgesamt erkennt sie ernsthafte Pflegepolitik im Programm, bleibt aber wegen Migration, Ökonomisierung und fehlender konkreter Entlastung skeptisch.",
+    "score": 0
+  }
+}

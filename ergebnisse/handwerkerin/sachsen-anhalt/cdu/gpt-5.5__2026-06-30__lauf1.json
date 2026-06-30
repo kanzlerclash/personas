@@ -1,0 +1,161 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Aktenordner",
+      "thema": "demokratie",
+      "programmpunkt": "Das Land will neue Auflagen und zusätzliche Berichtspflichten vermeiden und für neue Belastungen mindestens eine bestehende Regel streichen.",
+      "seite": 13,
+      "zitat": "„keine neuen Auflagen und keine unnötigen zusätzlichen Berichtspflichten zulassen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine erlebt Dokumentations- und Nachweispflichten als direkte Belastung ihres Betriebsalltags. Ein Belastungsmoratorium und One-in-One-out treffen ihren Wunsch nach weniger Papierkram und verlässlicheren Regeln sehr genau.",
+      "begruendung_selbst": "Ich brauche abends keine neuen Formulare, sondern Zeit für Angebote, Rechnungen und meine Leute.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerk zählt wieder",
+      "thema": "arbeit",
+      "programmpunkt": "Berufliche Bildung, Meisterausbildung und überbetriebliche Lehrunterweisung im Handwerk sollen gezielt gestärkt werden.",
+      "seite": 14,
+      "zitat": "„Die berufliche Bildung und das Handwerk gezielt aufwerten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als SHK-Meisterin mit Nachwuchssorgen liest Sabine hier konkrete Anerkennung ihres Berufswegs. Die Verbindung von Meisterförderung, Berufsschulen und Praxisorientierung berührt ihren Fachkräftemangel unmittelbar.",
+      "begruendung_selbst": "Wenn Meisterbrief und Ausbildung endlich mehr gelten, finde ich vielleicht auch wieder gute Azubis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nachfolge nicht vergessen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Unternehmensnachfolgen sollen gezielt unterstützt werden, damit altersbedingte Betriebsaufgaben vermieden werden.",
+      "seite": 14,
+      "zitat": "„unterstützen wir Unternehmensnachfolgen gezielt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine denkt bereits an die Betriebsübergabe in etwa zehn Jahren. Dass die CDU Nachfolge als Mittelstandsthema ausdrücklich benennt, gibt ihrer Sorge um Lebenswerk, Altersvorsorge und Beschäftigte politisches Gewicht.",
+      "begruendung_selbst": "Mein Betrieb ist nicht irgendeine Nummer, der muss sauber in die nächste Hand kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auch Kleine kriegen Aufträge",
+      "thema": "wirtschaft",
+      "programmpunkt": "Vergabeverfahren sollen vereinfacht, digitalisiert und für kleine und mittlere Unternehmen leichter zugänglich gemacht werden.",
+      "seite": 17,
+      "zitat": "„kleine und mittlere Unternehmen sollen einen erleichterten Zugang“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine fühlt sich bei öffentlichen Aufträgen gegenüber großen Unternehmen oft im Nachteil. Leichtere Vergaben und weniger Verwaltungsaufwand passen zu ihrem Wunsch nach fairen Chancen für regionale Betriebe.",
+      "begruendung_selbst": "Ich kann gute Arbeit liefern, aber ich habe keine eigene Rechtsabteilung für jedes Vergabeformular.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energie muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die CDU stellt Versorgungssicherheit und bezahlbare Energie in den Mittelpunkt und will regionale Strompreise sowie gedämpfte Netzentgelte erreichen.",
+      "seite": 44,
+      "zitat": "„Versorgungssicherheit und Bezahlbarkeit haben für uns oberste Priorität“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energiepreise treffen Sabines Werkstatt, Fuhrpark und Kundschaft zugleich. Der Fokus auf Bezahlbarkeit und Planungssicherheit entspricht ihrem pragmatischen Blick auf Energiewende und Betriebskosten.",
+      "begruendung_selbst": "Meine Kunden rechnen jeden Euro, und ich kann die Werkstatt auch nicht mit Wunschdenken heizen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wärme ohne Zickzack",
+      "thema": "energie",
+      "programmpunkt": "Kommunale Wärmeplanung soll rechtssicher, technisch machbar und für Bürger, Unternehmen und Kommunen bezahlbar gestaltet werden.",
+      "seite": 46,
+      "zitat": "„rechtssichere und umsetzbare Vorgaben“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines SHK-Betrieb hängt an verlässlichen Regeln beim Heizungstausch. Realistische Wärmeplanung reduziert die Verunsicherung ihrer Kundschaft und erleichtert ihre Beratung und Auftragsplanung.",
+      "begruendung_selbst": "Sag mir eine klare Regel, dann kann ich Kunden beraten und Monteure einplanen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Einmal Daten, fertig",
+      "thema": "digitalisierung",
+      "programmpunkt": "Behördengänge sollen digital integriert werden, sodass Bürger und Unternehmen weniger Formulare ausfüllen müssen.",
+      "seite": 52,
+      "zitat": "„im Alltag weniger Formulare ausfüllen zu müssen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Digitale, einmalige Datenerfassung würde Sabines Büroarbeit direkt reduzieren. Für eine kleine Firma ohne Verwaltungsabteilung ist jeder vermiedene Medienbruch echte Entlastung.",
+      "begruendung_selbst": "Wenn die Verwaltung meine Daten schon hat, soll sie mich nicht dreimal dasselbe fragen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arbeit muss sich lohnen",
+      "thema": "gesundheit",
+      "programmpunkt": "Arbeitsfähige Leistungsempfänger, die Beschäftigung verweigern, sollen verbindliche Arbeitsangebote erhalten; Bürgerarbeit soll als gemeinnützige Verpflichtung gestärkt werden.",
+      "seite": 31,
+      "zitat": "„ein verbindliches Angebot zur Arbeitsaufnahme macht“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine ist nicht grundsätzlich gegen Hilfe, erwartet aber Fördern und Fordern, wenn jemand arbeiten kann. Die Bürgerarbeitsidee bestätigt ihre Leistungsethik und ihre Sorge, dass Arbeit gegenüber Transferbezug zu wenig zählt.",
+      "begruendung_selbst": "Wer arbeiten kann, soll auch etwas beitragen; meine Leute stehen morgens auch auf.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht nur die Großen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm hebt wiederholt Großansiedlungen, High-Tech-Parks und Industrieprojekte als wirtschaftliche Leuchttürme hervor.",
+      "seite": 15,
+      "zitat": "„Ansiedlung von Großunternehmen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine begrüßt Wachstum, achtet aber darauf, ob der Mittelstand hinter Großprojekten zurücksteht. Die starke Leuchtturm- und Konzernsprache triggert ihre Sorge, dass kleine Handwerksbetriebe im Alltag weniger politische Aufmerksamkeit bekommen.",
+      "begruendung_selbst": "Schön, wenn Konzerne kommen, aber meine acht Leute brauchen auch verlässliche Bedingungen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stromhilfe auch fürs Handwerk",
+      "thema": "energie",
+      "programmpunkt": "Beim Umgang mit hohen Energiekosten wird besonders ein Industriestrompreis betont.",
+      "seite": 45,
+      "zitat": "„benötigen wir u.a. einen Industriestrompreis“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine leidet ebenfalls unter hohen Strom- und Energiekosten, auch wenn sie kein Industriekonzern ist. Sie könnte befürchten, dass Entlastung vor allem bei großen Verbrauchern ankommt, während kleine Werkstätten weiter volle Kosten tragen.",
+      "begruendung_selbst": "Meine Maschinen, Lager und Fahrzeuge kosten auch Energie; Entlastung darf nicht am Werkstor der Industrie enden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte nicht abschrecken",
+      "thema": "arbeit",
+      "programmpunkt": "Ausländische Studierende aus Nicht-EU-Staaten sollen über Studiengebühren stärker zur Hochschulfinanzierung beitragen.",
+      "seite": 76,
+      "zitat": "„zur Mitfinanzierung unserer Hochschullandschaft beitragen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine will qualifizierte Fachkräfte gewinnen und hält internationale Zuwanderung für sinnvoll, wenn Menschen arbeiten und sich integrieren. Zusätzliche Gebühren können aus ihrer Sicht Talente abschrecken, die Sachsen-Anhalt später in Betrieben und technischen Berufen brauchen könnte.",
+      "begruendung_selbst": "Wenn wir Fachkräfte wollen, sollten wir gute Leute nicht schon am Anfang mit Extra-Hürden wegschicken.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet im CDU-Programm viele Punkte, die direkt zu ihrem Betriebsalltag passen: weniger Bürokratie, stärkere berufliche Bildung, leichtere Vergaben, bezahlbare Energie und digitale Verwaltung. Besonders wichtig ist ihr, dass Handwerk und Nachfolge ausdrücklich vorkommen und Wärmeplanung technisch machbar bleiben soll. Kritisch sieht sie, dass Industrie- und Großansiedlungspolitik stellenweise stärker glänzt als konkrete Entlastung kleiner Betriebe und dass mögliche Hürden für internationale Talente dem Fachkräftebedarf widersprechen können.",
+    "score": 2
+  }
+}

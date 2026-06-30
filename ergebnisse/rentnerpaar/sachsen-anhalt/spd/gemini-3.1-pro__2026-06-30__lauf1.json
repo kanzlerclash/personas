@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Helga und Dieter sorgen sich um ihre medizinische Versorgung, falls ihr Hausarzt in Rente geht. Die feste Zusage für eine Landarztquote lindert ihre größte Alltagsangst spürbar.",
-      "begruendung_selbst": "Wenn unser Doktor aufhört, stehen wir auf dem Dorf komplett alleine da. Dass die Politik gezielt junge Ärzte zu uns aufs Land schicken will, ist die beste Nachricht."
+      "begruendung_selbst": "Wenn unser Doktor aufhört, stehen wir auf dem Dorf komplett alleine da. Dass die Politik gezielt junge Ärzte zu uns aufs Land schicken will, ist die beste Nachricht.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Zu Hause alt werden dürfen!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da ihr abbezahltes Haus ihr wichtigster Rückzugsort ist, begrüßen sie Initiativen, die Pflege und Unterstützung direkt vor Ort organisieren und ihnen so das gefürchtete Pflegeheim ersparen.",
-      "begruendung_selbst": "Wir haben unser Leben lang für dieses Haus geschuftet und wollen hier auch unseren Lebensabend verbringen. Es beruhigt uns sehr, dass es mehr Hilfen für die Pflege daheim geben soll."
+      "begruendung_selbst": "Wir haben unser Leben lang für dieses Haus geschuftet und wollen hier auch unseren Lebensabend verbringen. Es beruhigt uns sehr, dass es mehr Hilfen für die Pflege daheim geben soll.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Heizen muss bezahlbar bleiben!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Rentner mit sehr engem Budget sind steigende Heizkosten und mögliche Sanierungspflichten eine massive Bedrohung. Das Versprechen, diese Kosten zu dämpfen, ist für sie existenziell wichtig.",
-      "begruendung_selbst": "Wir zählen bei der Rente jeden Euro. Wenn uns der Staat jetzt teure Wärmepumpen vorschreibt, gehen wir pleite. Gott sei Dank wird hier versprochen, dass uns die Heizkosten nicht in den Ruin treiben."
+      "begruendung_selbst": "Wir zählen bei der Rente jeden Euro. Wenn uns der Staat jetzt teure Wärmepumpen vorschreibt, gehen wir pleite. Gott sei Dank wird hier versprochen, dass uns die Heizkosten nicht in den Ruin treiben.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mobil auch ohne eigenes Auto.",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mit schwindender Fahrtüchtigkeit im Alter sind sie auf den Bus angewiesen. Ein bezahlbares Ticket ermöglicht ihnen weiterhin Arztbesuche und Einkäufe, ohne auf fremde Hilfe angewiesen zu sein.",
-      "begruendung_selbst": "Irgendwann können wir unseren alten Wagen nicht mehr fahren. Dass wir Rentner dann für wenig Geld mit dem Bus in die Stadt kommen, hilft uns ganz handfest im Alltag."
+      "begruendung_selbst": "Irgendwann können wir unseren alten Wagen nicht mehr fahren. Dass wir Rentner dann für wenig Geld mit dem Bus in die Stadt kommen, hilft uns ganz handfest im Alltag.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Sicherheit auf dem Dorf.",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Das sicherheitsorientierte Paar fürchtet sich vor Kriminalität auf dem Land. Ein klares Bekenntnis zu einer starken Polizei gibt ihnen das Gefühl von Schutz und staatlicher Verlässlichkeit.",
-      "begruendung_selbst": "Manchmal wird uns abends schon mulmig, wenn wir hier draußen ganz alleine sind. Eine gut aufgestellte Polizei ist wichtig, damit hier Recht und Ordnung nicht den Bach runtergehen."
+      "begruendung_selbst": "Manchmal wird uns abends schon mulmig, wenn wir hier draußen ganz alleine sind. Eine gut aufgestellte Polizei ist wichtig, damit hier Recht und Ordnung nicht den Bach runtergehen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Dem traditionsbewussten Paar sind identitätspolitische Debatten völlig fremd. Solche Maßnahmen verstärken ihr Gefühl, dass sich die Politik um städtische Nischen statt um die hart arbeitende Mitte kümmert.",
-      "begruendung_selbst": "Wir wissen nicht, wie wir Strom und Heizung bezahlen sollen, und in den Ämtern lernen sie jetzt Gendersprache. Da fragt man sich wirklich, ob die Politik völlig den Bezug zu uns normalen Leuten verloren hat."
+      "begruendung_selbst": "Wir wissen nicht, wie wir Strom und Heizung bezahlen sollen, und in den Ämtern lernen sie jetzt Gendersprache. Da fragt man sich wirklich, ob die Politik völlig den Bezug zu uns normalen Leuten verloren hat.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mit 16 hat man Flausen im Kopf!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Aus ihrer lebensälteren und ordnungsliebenden Perspektive fehlt Jugendlichen in diesem Alter noch die nötige Reife. Sie befürchten, dass dadurch die Anliegen der Älteren in der Politik weniger Gewicht bekommen.",
-      "begruendung_selbst": "In dem Alter haben die jungen Leute doch noch gar keine Lebenserfahrung und oft nicht mal einen Beruf gelernt. Wenn die schon mitbestimmen, haben wir Alten bald gar nichts mehr zu sagen."
+      "begruendung_selbst": "In dem Alter haben die jungen Leute doch noch gar keine Lebenserfahrung und oft nicht mal einen Beruf gelernt. Wenn die schon mitbestimmen, haben wir Alten bald gar nichts mehr zu sagen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wer denkt an unsere Enkel?",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Obwohl sie selbst Ärztemangel erleben, betrachten sie spezielle Anwerbezentren für Zuwanderer kritisch. Sie wünschen sich eher, dass die eigenen Kinder und Enkel durch gute Arbeitsbedingungen auf dem Land gehalten werden.",
-      "begruendung_selbst": "Überall fehlen uns die eigenen Fachleute und unsere Jugend muss in den Westen ziehen, weil es hier nichts gibt. Da sollten wir das Geld lieber in unsere Enkel stecken, statt teure Agenturen für Zuwanderer aufzubauen."
+      "begruendung_selbst": "Überall fehlen uns die eigenen Fachleute und unsere Jugend muss in den Westen ziehen, weil es hier nichts gibt. Da sollten wir das Geld lieber in unsere Enkel stecken, statt teure Agenturen für Zuwanderer aufzubauen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

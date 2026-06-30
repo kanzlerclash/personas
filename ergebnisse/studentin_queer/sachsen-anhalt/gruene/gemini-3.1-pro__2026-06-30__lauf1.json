@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule sorgt sich massiv um ihre Zukunft aufgrund der Klimakrise. Eine verfassungsrechtliche Verankerung gibt ihr das Gefühl, dass ihre Lebensgrundlage verbindlich geschützt wird.",
-      "begruendung_selbst": "Klimaschutz darf kein nice-to-have sein, er muss ins Grundgesetz, damit unsere Zukunft nicht ständig zur Verhandlungsmasse wird!"
+      "begruendung_selbst": "Klimaschutz darf kein nice-to-have sein, er muss ins Grundgesetz, damit unsere Zukunft nicht ständig zur Verhandlungsmasse wird!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Studieren ohne Existenzangst!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da sie mit knappem Budget lebt und wenig Unterstützung erhält, würde ein elternunabhängiges BAföG ihren finanziellen Druck enorm lindern.",
-      "begruendung_selbst": "Ich jobbe mich durchs Studium und am Monatsende wird's trotzdem eng – ein elternunabhängiges BAföG würde mich endlich aufatmen lassen."
+      "begruendung_selbst": "Ich jobbe mich durchs Studium und am Monatsende wird's trotzdem eng – ein elternunabhängiges BAföG würde mich endlich aufatmen lassen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Stoppt den Mietenwahnsinn!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule wohnt in einer WG zur Miete und leidet unter steigenden Lebenshaltungskosten. Günstiger Wohnraum und Preisbremsen sind für sie existenziell.",
-      "begruendung_selbst": "Die Miete frisst mein halbes Budget auf; ein Mietendeckel und mehr Wohnheime sind genau das, was wir jetzt brauchen."
+      "begruendung_selbst": "Die Miete frisst mein halbes Budget auf; ein Mietendeckel und mehr Wohnheime sind genau das, was wir jetzt brauchen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Queeres Leben schützen!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als queere junge Frau treibt sie die Sorge um den Abbau von Minderheitenrechten um. Sie schätzt es, wenn Vielfalt und Antidiskriminierung aktiv gefördert werden.",
-      "begruendung_selbst": "Queerfeindlichkeit nimmt leider wieder zu, deshalb ist es extrem wichtig, dass schon in der Schule klar gegengehalten wird."
+      "begruendung_selbst": "Queerfeindlichkeit nimmt leider wieder zu, deshalb ist es extrem wichtig, dass schon in der Schule klar gegengehalten wird.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Keine Kompromisse bei Feminismus!",
@@ -72,7 +76,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Jule ist gesellschaftspolitisch links-liberal und sieht in konservativen und rechten Rollenbildern eine Bedrohung für queere und feministische Errungenschaften.",
-      "begruendung_selbst": "Rechte Hetze tarnt sich oft als 'Besorgnis', ist aber purer Antifeminismus – gut, dass das hier klar als Gefahr benannt wird."
+      "begruendung_selbst": "Rechte Hetze tarnt sich oft als 'Besorgnis', ist aber purer Antifeminismus – gut, dass das hier klar als Gefahr benannt wird.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als kompromisslose Klimaaktivistin hat der schnelle Ausbau der erneuerbaren Energien für sie oberste Priorität. Pauschale Verbote für Windräder lehnt sie ab.",
-      "begruendung_selbst": "Wir stecken mitten in der Klimakrise! Da können wir nicht einfach pauschal Windräder im Wald verbieten, der Ausbau muss Vorrang haben."
+      "begruendung_selbst": "Wir stecken mitten in der Klimakrise! Da können wir nicht einfach pauschal Windräder im Wald verbieten, der Ausbau muss Vorrang haben.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Polizei löst keine Probleme!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Klimaaktivistin ist sie polizeikritisch und sieht staatliche Aufrüstung skeptisch. Sie würde diese Gelder lieber in Sozialprogramme oder Klimaschutz investiert sehen.",
-      "begruendung_selbst": "Noch mehr Cops bedeuten für uns Aktivisti meist nur mehr Stress auf Demos. Investiert das Geld lieber in soziale Projekte!"
+      "begruendung_selbst": "Noch mehr Cops bedeuten für uns Aktivisti meist nur mehr Stress auf Demos. Investiert das Geld lieber in soziale Projekte!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Taser sind lebensgefährlich!",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Für sie steht die körperliche Unversehrtheit von Bürger*innen im Vordergrund. Taser als Deeskalationsmittel zu verharmlosen, widerspricht ihrer Haltung zutiefst.",
-      "begruendung_selbst": "Eine Waffe, die Menschen potenziell töten kann, darf man niemals beschönigend als 'Deeskalation' bezeichnen."
+      "begruendung_selbst": "Eine Waffe, die Menschen potenziell töten kann, darf man niemals beschönigend als 'Deeskalation' bezeichnen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

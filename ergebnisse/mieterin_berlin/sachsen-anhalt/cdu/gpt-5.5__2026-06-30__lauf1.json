@@ -1,0 +1,149 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mehr Wohnungen, bitte konkret!",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU benennt bezahlbaren Wohnraum als Ziel und will sozialen Wohnungsbau sowie energetische und barrierefreie Sanierungen fördern.",
+      "seite": 65,
+      "zitat": "„Wohnraum muss verfügbar, bezahlbar und nachhaltig sein“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla reagiert positiv darauf, dass bezahlbares Wohnen überhaupt ausdrücklich als Ziel vorkommt. Für sie zählt aber, ob daraus tatsächlich mieterschützender und gemeinwohlorientierter Wohnraum entsteht.",
+      "begruendung_selbst": "Wenn Wohnraum bezahlbar bleiben soll, ist das genau mein Thema. Ich will nur nicht wieder eine Überschrift ohne harte Wirkung im Mietvertrag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozialbau ist kein Luxus",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will den sozialen Wohnungsbau fördern und Wohnraumförderprogramme des Bundes weiter kofinanzieren.",
+      "seite": 65,
+      "zitat": "„fördern den sozialen Wohnungsbau“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht sozialen Wohnungsbau als Gegenmittel zu Verdrängung und reiner Marktlogik. Der Punkt passt zu ihrem Wunsch nach mehr dauerhaft bezahlbarem Wohnraum, auch wenn das Programm keine starken Mieterschutzinstrumente nennt.",
+      "begruendung_selbst": "Sozialwohnungen fehlen überall. Wenn der Staat hier baut und fördert, hilft das mehr als jedes Gerede vom entspannten Markt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leerstand endlich nutzen",
+      "thema": "wohnen",
+      "programmpunkt": "Brachflächen, alte Industrieanlagen und Baulücken sollen aktiviert und für Stadt- und Dorfentwicklung nutzbar gemacht werden.",
+      "seite": 66,
+      "zitat": "„Brachflächen, alte Industrieanlagen und Baulücken“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla befürwortet Wohnraumschaffung, wenn dafür vorhandene Flächen genutzt werden statt neue Verdrängungs- oder Flächenkonflikte zu erzeugen. Das entspricht ihrer Vorstellung einer lebendigen, sinnvoll verdichteten Stadt.",
+      "begruendung_selbst": "Bevor irgendwo neu versiegelt wird oder Mieten weiter explodieren, sollen leere Flächen und Lücken endlich sinnvoll genutzt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Ticket muss bleiben",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will das Deutschlandticket erhalten und den Schienenpersonennahverkehr stärken.",
+      "seite": 62,
+      "zitat": "„Das Deutschlandticket wollen wir erhalten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt ohne Auto und bewertet bezahlbaren ÖPNV als Teil eines alltagstauglichen urbanen Lebens. Die Zusage zum Deutschlandticket bestätigt ihre Priorität für öffentliche Mobilität.",
+      "begruendung_selbst": "Ich brauche kein Auto, ich brauche Bus und Bahn, die bezahlbar bleiben. Das Deutschlandticket ist für meinen Alltag wichtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radwege statt Autopflicht",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will Radverkehr und Alltagsradeln fördern, mehr Radwege bauen und sichere Abstellanlagen schaffen.",
+      "seite": 63,
+      "zitat": "„Radverkehr stärken und Alltagsradeln fördern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla nutzt im Alltag ÖPNV und Rad und wünscht eine Stadt, die nicht vom Auto dominiert wird. Mehr Radwege und sichere Abstellanlagen treffen deshalb einen praktischen Teil ihrer Mobilitätsinteressen.",
+      "begruendung_selbst": "Mehr Radwege machen meinen Alltag leichter und sicherer. Ich will nicht, dass Stadtplanung immer zuerst vom Auto her gedacht wird.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mietende bleiben ungeschützt",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU lehnt Mietpreisdeckel und weitere Eigentumseingriffe ab und setzt stattdessen auf Bauen, Eigentumsförderung und soziale Wohnungsbauförderung.",
+      "seite": 65,
+      "zitat": "„Mietpreisdeckel, willkürliche Enteignungen und weitere Eingriffe“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Carla ist wirksame Mietregulierung ein Kerninteresse, weil eine Mieterhöhung oder Modernisierung existenziell werden kann. Die deutliche Ablehnung von Mietpreisdeckeln und Eigentumseingriffen wirkt aus ihrer Sicht wie eine Absage an starke Instrumente gegen Verdrängung.",
+      "begruendung_selbst": "Genau da brauche ich Schutz, und genau da kommt die Absage. Ohne harte Mietregeln gewinnt am Ende wieder der Eigentümer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentum löst meine Angst nicht",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm stellt Wohneigentum als Schutz vor Mietsteigerungen und Altersvorsorge heraus und will die Wohneigentumsquote erhöhen.",
+      "seite": 65,
+      "zitat": "„Eigentum schafft Heimatverbundenheit, schützt vor Mietsteigerungen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla hat kaum Vermögen und erlebt Eigentum in Berlin als unerreichbar. Wenn das Programm vor allem Eigentum als Schutz vor Mietsteigerungen beschreibt, fühlt sie sich als Mieterin mit konkreter Verdrängungsangst nicht adressiert.",
+      "begruendung_selbst": "Ich kann mich nicht aus meiner Mietangst herauskaufen. Eine Eigentumsquote hilft mir nicht, wenn mein Vermieter modernisiert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Markt regelt mich raus",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU betont unternehmerische Freiheit, Wachstum und eine wirtschaftsfreundliche Politik als Leitmotiv.",
+      "seite": 12,
+      "zitat": "„unternehmerische Freiheit“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla ist marktliberaler Wohnungspolitik gegenüber skeptisch, weil sie darin die Logik von Verdrängung und Rendite sieht. Eine allgemeine Priorität für unternehmerfreundliche Politik ist nicht automatisch Wohnungspolitik, verstärkt aber ihre Sorge, dass soziale Daseinsvorsorge hinter Marktinteressen zurücktritt.",
+      "begruendung_selbst": "Bei Wohnungen heißt unternehmerische Freiheit für mich oft: höhere Miete, mehr Rendite, weniger Sicherheit im Kiez.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klagerechte sind kein Ballast",
+      "thema": "verkehr",
+      "programmpunkt": "Für schnellere Infrastrukturplanung will die CDU Klagerechte stärker an Mitwirkung binden und die Verbandsklage vollständig abschaffen.",
+      "seite": 62,
+      "zitat": "„komplette Abschaffung der Verbandsklage“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla ist stadtpolitisch engagiert und bewertet Beteiligungs- und Klagerechte als wichtige Schutzinstrumente gegen Projekte, die Quartiere, Umwelt oder Lebensqualität verschlechtern. Die Abschaffung der Verbandsklage steht ihrer aktivistischen Perspektive klar entgegen.",
+      "begruendung_selbst": "Wenn Initiativen und Verbände weniger klagen können, werden Betroffene leichter überrollt. Beteiligung ist kein Störgeräusch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auto bleibt König",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU stellt sich gegen Fahrverbote, Umweltzonen und eine Ausweitung von Tempo 30 auf innerörtlichen Durchgangsstraßen.",
+      "seite": 62,
+      "zitat": "„Überholte Umweltzonen in Innenstädten wollen wir aufheben“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla wünscht eine gute ÖPNV- und Radstadt und steht autoarmer Stadtpolitik nahe. Die Ablehnung von Umweltzonen und Tempo-30-Ausweitungen signalisiert ihr, dass Autointeressen im Stadtraum stark geschützt werden.",
+      "begruendung_selbst": "Ich will saubere, sichere Straßen im Kiez. Wenn Umweltzonen und Tempo 30 sofort als ideologisch gelten, bleibt das Auto wieder Maßstab.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet einzelne brauchbare Ansätze: sozialen Wohnungsbau, Flächenaktivierung, Deutschlandticket und Radverkehr sprechen ihre Lage an. Der entscheidende Wohnkonflikt bleibt für sie aber negativ, weil das Programm Mietpreisdeckel und stärkere Eingriffe in Eigentumsrechte klar ablehnt und Eigentumsförderung betont. Insgesamt sieht sie eher eine bau- und eigentumsorientierte Politik als verlässlichen Schutz vor Verdrängung.",
+    "score": -1
+  }
+}

@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule sieht in verbindlichen Klimagesetzen die einzige Möglichkeit, um echten Druck aufzubauen. Es gibt ihr Hoffnung, dass der Schutz ihrer Lebensgrundlagen rechtlich verankert wird.",
-      "begruendung_selbst": "Es reicht einfach nicht mehr, nur an die Vernunft zu appellieren. Wenn wir feste Ziele im Gesetz haben, können wir die Politik auch endlich darauf festnageln, wenn sie nicht liefert!"
+      "begruendung_selbst": "Es reicht einfach nicht mehr, nur an die Vernunft zu appellieren. Wenn wir feste Ziele im Gesetz haben, können wir die Politik auch endlich darauf festnageln, wenn sie nicht liefert!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Safe Spaces für uns!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als queere junge Frau weiß Jule, wie wichtig geschützte Räume und finanzielle Mittel für die Community sind. Die dauerhafte Absicherung dieser Projekte nimmt ihr die Sorge vor einem Rollback.",
-      "begruendung_selbst": "Es ist ein riesiges Signal, dass unsere Projekte nicht nur geduldet, sondern fest finanziert werden. Gerade in Zeiten, wo so viel Hass von rechts kommt, brauchen wir diese Safe Spaces."
+      "begruendung_selbst": "Es ist ein riesiges Signal, dass unsere Projekte nicht nur geduldet, sondern fest finanziert werden. Gerade in Zeiten, wo so viel Hass von rechts kommt, brauchen wir diese Safe Spaces.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Günstiges Wohnen im Studium!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule lebt mit einem knappen BAföG-Budget und spürt die Inflation stark. Die Stärkung der Studierendenwerke trifft genau ihren größten finanziellen Schmerzpunkt im Alltag.",
-      "begruendung_selbst": "Meine Miete frisst fast mein ganzes Geld auf. Dass die Studierendenwerke mehr Unterstützung bekommen sollen, um Wohnheime bezahlbar zu halten, rettet mich vielleicht vor dem finanziellen Ruin."
+      "begruendung_selbst": "Meine Miete frisst fast mein ganzes Geld auf. Dass die Studierendenwerke mehr Unterstützung bekommen sollen, um Wohnheime bezahlbar zu halten, rettet mich vielleicht vor dem finanziellen Ruin.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sichtbarkeit und echte Hilfe!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Jule ist der Kampf gegen Diskriminierung zentral. Der Ausbau von echten Beratungsstellen zeigt ihr, dass die Politik queere Lebensrealitäten ernst nimmt und professionell unterstützt.",
-      "begruendung_selbst": "Dass endlich mehr Geld in richtige Versorgungszentren fließt, zeigt, dass wir gehört werden. Das ist so wichtig für viele Freund:innen von mir, die professionelle queersensible Beratung brauchen."
+      "begruendung_selbst": "Dass endlich mehr Geld in richtige Versorgungszentren fließt, zeigt, dass wir gehört werden. Das ist so wichtig für viele Freund:innen von mir, die professionelle queersensible Beratung brauchen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Jule ist auf den ÖPNV angewiesen und muss ihr Semesterticket von ihrem knappen Budget abknapsen. Sie fühlt sich von dieser Entlastung unverständlicherweise ausgeschlossen.",
-      "begruendung_selbst": "Schüler und Azubis umsonst fahren zu lassen, ist super. Aber wieso fallen wir Studis da schon wieder hinten runter? Mein Konto ist Ende des Monats genauso leer!"
+      "begruendung_selbst": "Schüler und Azubis umsonst fahren zu lassen, ist super. Aber wieso fallen wir Studis da schon wieder hinten runter? Mein Konto ist Ende des Monats genauso leer!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Technologie-Märchen statt Klimaschutz!",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Klimaaktivistin betrachtet Jule technologische Ansätze zur CO2-Speicherung extrem kritisch. Sie sieht darin ein Schlupfloch für die Industrie, um fossile Geschäftsmodelle zu verlängern.",
-      "begruendung_selbst": "Carbon-Management heißt am Ende doch nur, dass die Großindustrie weiter CO2 in die Luft blasen darf und wir auf magische Filtertechnologien hoffen. Das ist Greenwashing pur!"
+      "begruendung_selbst": "Carbon-Management heißt am Ende doch nur, dass die Großindustrie weiter CO2 in die Luft blasen darf und wir auf magische Filtertechnologien hoffen. Das ist Greenwashing pur!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Einknicken vor Traktoren!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Jule beobachtet mit Sorge, wie die Politik auf den Druck der Landwirtschaftsverbände reagiert. Sie befürchtet, dass dadurch wichtige ökologische Reformen aufgeweicht werden.",
-      "begruendung_selbst": "Wenn die Klimabewegung auf die Straße geht, werden wir ignoriert oder kriminalisiert. Aber wenn die Bauern mit Traktoren drohen, rollt man ihnen den roten Teppich aus und verwässert die Umweltauflagen."
+      "begruendung_selbst": "Wenn die Klimabewegung auf die Straße geht, werden wir ignoriert oder kriminalisiert. Aber wenn die Bauern mit Traktoren drohen, rollt man ihnen den roten Teppich aus und verwässert die Umweltauflagen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Noch mehr Macht für den Geheimdienst?",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Jule ist aktivistisch geprägt und blickt misstrauisch auf Sicherheitsbehörden. Sie lehnt eine Ausweitung geheimdienstlicher Überwachung aus Angst vor politischem Missbrauch ab.",
-      "begruendung_selbst": "Als ob der Verfassungsschutz in der Vergangenheit eine große Hilfe gegen rechts war. Denen jetzt noch mehr Befugnisse geben zu wollen, finde ich als linke Aktivistin extrem gefährlich und völlig den falschen Weg."
+      "begruendung_selbst": "Als ob der Verfassungsschutz in der Vergangenheit eine große Hilfe gegen rechts war. Denen jetzt noch mehr Befugnisse geben zu wollen, finde ich als linke Aktivistin extrem gefährlich und völlig den falschen Weg.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

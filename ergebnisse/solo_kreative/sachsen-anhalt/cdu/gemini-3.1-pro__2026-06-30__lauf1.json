@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mareike freut sich, dass ihre Branche nicht als brotlose Kunst abgetan, sondern als relevanter Wirtschaftsfaktor und Innovationstreiber anerkannt und gefördert werden soll.",
-      "begruendung_selbst": "Design und Content-Kreation sind harte Arbeit, die echten Mehrwert schafft. Dass hier Startförderungen fließen sollen und wir als Zukunftsbranche gelten, gibt mir endlich eine echte Perspektive."
+      "begruendung_selbst": "Design und Content-Kreation sind harte Arbeit, die echten Mehrwert schafft. Dass hier Startförderungen fließen sollen und wir als Zukunftsbranche gelten, gibt mir endlich eine echte Perspektive.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schutz für meine kreative Arbeit!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Solo-Kreative, deren Geschäftsmodell auf geistigem Eigentum basiert, fürchtet Mareike die ungebremste Ausbeutung ihrer Werke durch KI-Modelle. Diese Schutzmaßnahme trifft genau ihren Nerv.",
-      "begruendung_selbst": "KI-Unternehmen bedienen sich ungefragt an unseren Texten und Designs. Dass die Politik hier endlich unsere Urheberrechte verteidigen und für faire Vergütung sorgen will, ist absolut überlebenswichtig für mich."
+      "begruendung_selbst": "KI-Unternehmen bedienen sich ungefragt an unseren Texten und Designs. Dass die Politik hier endlich unsere Urheberrechte verteidigen und für faire Vergütung sorgen will, ist absolut überlebenswichtig für mich.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Förderanträge ohne Kopfschmerzen!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die Überforderung durch bürokratische Prozesse bei kleinsten Betriebsgrößen ist eine ihrer Hauptsorgen. Einfachere Antragswege würden ihr wertvolle Zeit für die eigentliche kreative Arbeit zurückgeben.",
-      "begruendung_selbst": "Es bringt mir gar nichts, wenn Fördertöpfe da sind, ich aber Tage für komplizierte Formulare opfern muss. Wenn das digitaler und einfacher wird, kann ich solche Hilfen realistisch nutzen."
+      "begruendung_selbst": "Es bringt mir gar nichts, wenn Fördertöpfe da sind, ich aber Tage für komplizierte Formulare opfern muss. Wenn das digitaler und einfacher wird, kann ich solche Hilfen realistisch nutzen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Stopp dem Papierkram-Wahnsinn!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mareike leidet als Einzelunternehmerin enorm unter der Steuer- und Bürokratielast, die sie komplett alleine bewältigen muss. Die Zusage, keine neuen Berichtspflichten einzuführen, verspricht ihr Linderung.",
-      "begruendung_selbst": "Ich verbringe oft halbe Nächte mit Buchhaltung und Formularen, statt Geld zu verdienen. Wenn die mir wirklich keine neuen Berichtspflichten mehr aufdrücken, kann ich vielleicht endlich mal durchatmen."
+      "begruendung_selbst": "Ich verbringe oft halbe Nächte mit Buchhaltung und Formularen, statt Geld zu verdienen. Wenn die mir wirklich keine neuen Berichtspflichten mehr aufdrücken, kann ich vielleicht endlich mal durchatmen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Selbstständige, die in Flauten selbst schnell auf ein soziales Netz angewiesen sein könnte, empfindet Mareike diesen verpflichtenden Ansatz als entwürdigend und unsolidarisch.",
-      "begruendung_selbst": "Wenn mir die Aufträge wegbrechen und ich Hilfe brauche, will ich nicht zum Laubharken gezwungen werden. Das ist reine Schikane für Menschen, die ohnehin schon in existenziellen Nöten stecken."
+      "begruendung_selbst": "Wenn mir die Aufträge wegbrechen und ich Hilfe brauche, will ich nicht zum Laubharken gezwungen werden. Das ist reine Schikane für Menschen, die ohnehin schon in existenziellen Nöten stecken.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Reine Marktlogik rettet mich nicht!",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Mareike vermisst das Bewusstsein für die systematische Unsicherheit von Soloselbstständigen. Die bloße Stärkung des Wirtschaftsstandorts ohne soziale Leitplanken hilft ihr bei Krankheit oder im Alter nicht.",
-      "begruendung_selbst": "Das ist die klassische 'Jeder ist seines Glückes Schmied'-Rhetorik. Dass der ach so tolle freie Markt uns Soloselbstständige bei Krankheit oder Flaute gnadenlos durchs Raster fallen lässt, wird hier einfach ignoriert."
+      "begruendung_selbst": "Das ist die klassische 'Jeder ist seines Glückes Schmied'-Rhetorik. Dass der ach so tolle freie Markt uns Soloselbstständige bei Krankheit oder Flaute gnadenlos durchs Raster fallen lässt, wird hier einfach ignoriert.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Billiger Kulturkampf gegen Diversität!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Mareikes Arbeits- und Lebensumfeld in der Berliner Kreativszene ist von Inklusivität geprägt. Eine explizit ablehnende Haltung gegenüber Gendersprache empfindet sie als rückwärtsgewandten Kulturkampf.",
-      "begruendung_selbst": "Dass man sich im Jahr 2026 noch politisch so verbissen an inklusiver Sprache abarbeitet, ist doch absurd. Solche konservativen Symboldebatten zeigen mir, dass die Partei von meiner Lebensrealität meilenweit entfernt ist."
+      "begruendung_selbst": "Dass man sich im Jahr 2026 noch politisch so verbissen an inklusiver Sprache abarbeitet, ist doch absurd. Solche konservativen Symboldebatten zeigen mir, dass die Partei von meiner Lebensrealität meilenweit entfernt ist.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Stigmatisierung statt Weltoffenheit!",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Die restriktive Asylpolitik und insbesondere die Bezahlkarte widersprechen Mareikes liberal-progressiven Werten und ihrem klaren Wunsch nach einer offenen, toleranten Gesellschaft.",
-      "begruendung_selbst": "Leuten das ohnehin knappe Bargeld zu streichen und sie mit einer Bezahlkarte zu gängeln, ist für mich blanke Schikane. Mit Weltoffenheit und Toleranz hat so eine Politik jedenfalls nichts zu tun."
+      "begruendung_selbst": "Leuten das ohnehin knappe Bargeld zu streichen und sie mit einer Bezahlkarte zu gängeln, ist für mich blanke Schikane. Mit Weltoffenheit und Toleranz hat so eine Politik jedenfalls nichts zu tun.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

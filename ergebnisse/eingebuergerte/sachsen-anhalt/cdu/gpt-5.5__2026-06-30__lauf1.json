@@ -1,0 +1,197 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich kein Generalverdacht",
+      "thema": "integration",
+      "programmpunkt": "Die CDU erklärt integrierte, arbeitende und werteorientierte Ausländerinnen und Ausländer für willkommen und weist Ausländerfeindlichkeit, Hass, Hetze und pauschale Verdächtigungen zurück.",
+      "seite": 9,
+      "zitat": "Ausländerfeindlichkeit, Hass, Hetze und pauschale Verdächtigungen lehnen wir entschieden ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin achtet besonders darauf, ob Menschen mit Migrationsgeschichte als selbstverständlicher Teil der Gesellschaft anerkannt werden. Diese Passage spricht ihre Sorge vor pauschaler Abwertung direkt an und setzt eine klare Grenze gegen ausgrenzende Sprache.",
+      "begruendung_selbst": "Genau das will ich hören: klare Regeln ja, aber kein Ton, der Menschen wie mich unter Verdacht stellt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wir gehören dazu",
+      "thema": "integration",
+      "programmpunkt": "Das Programm beschreibt Menschen mit Migrationshintergrund ausdrücklich als festen Bestandteil der Gesellschaft und betont ihre Bedeutung für Krankenhäuser, Handwerk, Unternehmen und Gastronomie.",
+      "seite": 9,
+      "zitat": "Menschen mit Migra tionshintergrund sind ein fester Bestandteil unserer Gesellschaft.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Aylin ist Zugehörigkeit ein Kernthema, weil sie trotz Geburt in Deutschland immer wieder ihre Selbstverständlichkeit verteidigen muss. Die Formulierung gibt ihr zumindest programmatisch die Anerkennung, die sie erwartet.",
+      "begruendung_selbst": "Ich bin nicht Gast in diesem Land. Meine Familie, meine Arbeit und mein Alltag gehören hierher.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kommunen sind Demokratie",
+      "thema": "demokratie",
+      "programmpunkt": "Die CDU will kommunale Selbstverwaltung stärken, Förderverfahren vereinfachen und mehr Pauschalzahlungen sowie Experimentierklauseln für Kommunen ermöglichen.",
+      "seite": 10,
+      "zitat": "Unsere Kommunen als Herzkammern der Demokratie stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin arbeitet in einer Stadtverwaltung und erlebt demokratische Teilhabe im Kontakt zwischen Bürgerinnen, Bürgern und Behörden. Eine Stärkung der kommunalen Ebene passt zu ihrem Vertrauen in handlungsfähige demokratische Institutionen.",
+      "begruendung_selbst": "Demokratie passiert nicht nur im Landtag. Sie passiert jeden Tag am Schalter, im Amt und im Stadtrat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verwaltung für Menschen",
+      "thema": "demokratie",
+      "programmpunkt": "Die Verwaltung soll verständlicher, erreichbarer und serviceorientierter werden, mit klaren Zuständigkeiten und transparenten Verfahren.",
+      "seite": 55,
+      "zitat": "Leistungen werden aus Sicht der Bürgerinnen und Bürger gedacht",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte kann Aylin mit dem Ziel einer bürgernahen, nachvollziehbaren Verwaltung viel anfangen. Es bestätigt ihre berufliche Haltung, dass staatliche Stellen Vertrauen schaffen sollen, statt Menschen durch Verfahren auszuschließen.",
+      "begruendung_selbst": "Wenn Verwaltung fair und verständlich ist, merken die Leute: Der Staat ist auch für sie da.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digital, aber zugänglich",
+      "thema": "demokratie",
+      "programmpunkt": "Digitale Verwaltungsangebote sollen barrierefrei sein und Beteiligungsformate schaffen, die allen Bürgerinnen und Bürgern eine Stimme geben.",
+      "seite": 56,
+      "zitat": "digitale Beteiligungsformate, die allen Bürgern eine Stimme geben",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin denkt Teilhabe nicht nur für sich, sondern auch für Menschen, die durch Sprache, Alter, Wohnort oder Einschränkungen leichter aus Verfahren fallen. Der Punkt passt zu ihrem Anspruch, dass demokratische Verwaltung zugänglich bleiben muss.",
+      "begruendung_selbst": "Digitalisierung darf niemanden aussortieren. Eine Stimme haben heißt auch: Zugang haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Glauben ohne Druck",
+      "thema": "demokratie",
+      "programmpunkt": "Die CDU will Religionsfreiheit sichern, Dialog fördern und religiöse Vielfalt respektvoll gestalten, solange nicht zu Hass oder Unterdrückung aufgerufen wird.",
+      "seite": 73,
+      "zitat": "Wir stehen für die uneingeschränkte Glaubensfreiheit",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin legt Wert auf Minderheitenrechte und auf einen Rechtsstaat, der religiöse Vielfalt schützt. Diese Zusage entspricht ihrer Erwartung, dass Zugehörigkeit nicht von Abstammung oder religiöser Prägung abhängt.",
+      "begruendung_selbst": "Respekt heißt für mich: niemand muss sich verstecken, solange alle die Rechte der anderen achten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Talente wirklich halten",
+      "thema": "arbeit",
+      "programmpunkt": "Internationale Absolventinnen und Absolventen sollen durch Integrationsinstrumente und bessere Übergänge in den regionalen Arbeitsmarkt im Land gehalten werden.",
+      "seite": 76,
+      "zitat": "Internationalisierung der Hochschulen vorantreiben",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin befürwortet sachliche, geregelte Zuwanderung und Teilhabe durch Leistung. Wenn internationale Studierende Bindung, Integration und einen realistischen Weg in Arbeit bekommen, entspricht das ihrem Bild von fairer Zugehörigkeit.",
+      "begruendung_selbst": "Wer hier lernt, arbeitet und ankommt, sollte eine echte Perspektive bekommen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Hautfarbe als Polizeimerkmal?",
+      "thema": "sicherheit",
+      "programmpunkt": "Die CDU will gesetzliche Grundlagen für biogeographische Analysen schaffen, um Haar-, Haut- und Augenfarbe sowie Alter präziser bewerten zu können.",
+      "seite": 7,
+      "zitat": "Bewertungen der Haar - , Haut - und Augenfarbe sowie des Alters",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin ist besonders empfindlich gegenüber staatlichen Praktiken, die äußerliche Herkunftsmerkmale stärker in den Fokus rücken. Auch wenn der Programmpunkt kriminaltechnisch begründet wird, berührt er ihre Sorge vor Verdacht entlang von Aussehen und Herkunft.",
+      "begruendung_selbst": "Wenn Hautfarbe wieder ein Ermittlungsmerkmal wird, frage ich mich sofort, wen das im Alltag trifft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Migrationswende klingt hart",
+      "thema": "integration",
+      "programmpunkt": "Das Programm stellt Migration unter das Leitmotiv einer fortzusetzenden Migrationswende und will Migration dauerhaft begrenzen und konsequent zurückführen.",
+      "seite": 8,
+      "zitat": "Migration muss dauerhaft gesteuert, begrenzt und rechtsstaatlich durchgesetzt werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin akzeptiert geregelte Migrationspolitik, achtet aber genau darauf, ob Steuerung in Härte und Pauschalisierung kippt. Die Verdichtung auf Begrenzung und Rückführung wirkt auf sie deutlich stärker abschreckend als sachlich integrierend.",
+      "begruendung_selbst": "Ich habe nichts gegen klare Regeln. Aber wenn fast nur Begrenzen und Rückführen kommt, wird mir mulmig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Familien trennt man nicht leicht",
+      "thema": "integration",
+      "programmpunkt": "Die CDU will freiwillige Aufnahmeprogramme beenden und den Familiennachzug für subsidiär Schutzberechtigte weiter aussetzen.",
+      "seite": 8,
+      "zitat": "der Familiennachzug für subsidiär Schutzberechtigte weiterhin ausgesetzt bleiben",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin hat selbst Familie im Ausland und versteht familiäre Bindungen über Grenzen hinweg nicht als Randthema. Die pauschale Fortsetzung der Aussetzung trifft ihren Sinn für Würde und Teilhabe besonders bei Menschen, die bereits Schutz erhalten haben.",
+      "begruendung_selbst": "Familie ist kein Luxus. Gerade wer Schutz braucht, braucht doch Halt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nur fünfzig Euro Bargeld",
+      "thema": "integration",
+      "programmpunkt": "Sachsen-Anhalt soll die Bezahlkarte für Flüchtlinge mit einer Bargeldobergrenze von 50 Euro dauerhaft absichern und weiterentwickeln.",
+      "seite": 8,
+      "zitat": "verbunden mit einer Bargeldobergrenze von 50 Euro",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin sieht in solchen Instrumenten schnell eine symbolische Sonderbehandlung, die Menschen mit Fluchterfahrung im Alltag als Problemgruppe markiert. Das widerspricht ihrem Wunsch nach sachlicher Steuerung ohne entwürdigende Signale.",
+      "begruendung_selbst": "Das fühlt sich nicht nach Verwaltung an, sondern nach Misstrauen als Alltagssystem.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rückführung in Krisenländer",
+      "thema": "integration",
+      "programmpunkt": "Die CDU will Abschiebungen nach Afghanistan, Syrien und in den Irak ermöglichen und Syrien sowie den Irak als sichere Herkunftsstaaten einstufen.",
+      "seite": 8,
+      "zitat": "Abschiebungen nach Afghanistan, Syrien und in den Irak ermöglicht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin erwartet vom Rechtsstaat nicht nur Durchsetzung, sondern auch sorgfältige Würde- und Sicherheitsabwägung. Die Forderung nach Abschiebungen in diese Länder erscheint ihr als besonders harte Migrationspolitik gegenüber vulnerablen Gruppen.",
+      "begruendung_selbst": "Rechtsstaat heißt für mich auch: genau hinschauen, wohin man Menschen schickt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leitkultur bleibt ein Signal",
+      "thema": "integration",
+      "programmpunkt": "Im Kapitel Religionsfreiheit verbindet die CDU religiöse Vielfalt mit dem Bekenntnis zu einer Leitkultur und fordert von Zugewanderten die Achtung der darauf beruhenden Rechts- und Werteordnung.",
+      "seite": 72,
+      "zitat": "Wir bekennen uns zu unserer Leitkultur.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin teilt die Erwartung, dass alle die Rechtsordnung achten, reagiert aber sensibel auf kulturelle Zugehörigkeitsformeln. Das Wort Leitkultur kann für sie wie eine zusätzliche Bewährungsprobe klingen, obwohl ihre Zugehörigkeit rechtlich und biografisch längst geklärt ist.",
+      "begruendung_selbst": "Rechtsstaat ja. Aber Leitkultur klingt schnell danach, dass ich trotzdem noch beweisen soll, dazuzugehören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Studierende extra belasten",
+      "thema": "bildung",
+      "programmpunkt": "Ausländische Studierende aus Nicht-EU-Staaten sollen über Studiengebühren zur Finanzierung der Hochschullandschaft beitragen.",
+      "seite": 76,
+      "zitat": "Studiengebühren für ausländische Studentinnen und Studenten aus N icht - EU - Staaten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin sieht Bildung und Leistung als faire Wege in Zugehörigkeit. Zusätzliche Gebühren für Nicht-EU-Studierende wirken auf sie wie eine Hürde gerade für jene, die das Land zugleich als Fachkräfte gewinnen will.",
+      "begruendung_selbst": "Man kann nicht Talente holen wollen und ihnen gleichzeitig den Einstieg teurer machen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet im CDU-Programm wichtige Anerkennung: Menschen mit Migrationshintergrund werden als Teil der Gesellschaft bezeichnet, Ausländerfeindlichkeit wird zurückgewiesen und Verwaltung sowie kommunale Demokratie sollen bürgernäher werden. Gleichzeitig stößt sie sich stark an der Dominanz von Migrationswende, Rückführung, Bezahlkarte, Familiennachzugsstopp und Herkunftsmarkern in der Polizeiarbeit. Für sie bleibt das Programm deshalb ambivalent, aber wegen der Härte in migrationspolitischen Fragen eher belastend.",
+    "score": -1
+  }
+}

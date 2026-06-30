@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule studiert mit einem knappen BAföG-Budget und Nebenjob. Jede Preissteigerung im Alltag trifft sie hart, weshalb eine steuerliche Entlastung bei Grundnahrungsmitteln ihre angespannte finanzielle Situation direkt verbessern würde.",
-      "begruendung_selbst": "Am Monatsende muss ich jeden Cent umdrehen. Wenn die Steuer auf Lebensmittel wirklich wegfällt, bleibt mir endlich ein bisschen mehr Luft zum Atmen."
+      "begruendung_selbst": "Am Monatsende muss ich jeden Cent umdrehen. Wenn die Steuer auf Lebensmittel wirklich wegfällt, bleibt mir endlich ein bisschen mehr Luft zum Atmen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Verlass auf die Bahn!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Studentin ohne Auto ist Jule im Alltag vollständig auf den öffentlichen Nahverkehr angewiesen. Ein verlässlicherer Bahnverkehr erleichtert ihr Leben zwischen Uni, Nebenjob und politischem Engagement erheblich.",
-      "begruendung_selbst": "Ich sitze andauernd in verspäteten oder ausfallenden Zügen fest. Dass das Land das Problem mit konkreten Zielen angehen will, ist überfällig und richtig."
+      "begruendung_selbst": "Ich sitze andauernd in verspäteten oder ausfallenden Zügen fest. Dass das Land das Problem mit konkreten Zielen angehen will, ist überfällig und richtig.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Offenheit für queere Familien!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule ist queer und fürchtet sich vor dem Abbau von Minderheitenrechten durch konservative gesellschaftliche Strömungen. Das explizite Bekenntnis zu vielfältigen Familienformen mindert diese Sorge etwas.",
-      "begruendung_selbst": "Es ist mir sehr wichtig, wenn eine Partei schwarz auf weiß anerkennt, dass eine Familie heutzutage weit mehr sein kann als nur Mutter, Vater, Kind."
+      "begruendung_selbst": "Es ist mir sehr wichtig, wenn eine Partei schwarz auf weiß anerkennt, dass eine Familie heutzutage weit mehr sein kann als nur Mutter, Vater, Kind.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -63,7 +66,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Für die klimaengagierte Studentin ist die Erschließung neuer fossiler Gasquellen durch Fracking ein massiver Rückschritt, der ihrer Kernforderung nach einer konsequenten Energiewende komplett widerspricht.",
-      "begruendung_selbst": "Statt in die Erneuerbaren zu investieren, wollen die ernsthaft Fracking in Deutschland erlauben. Das zerstört unsere Umwelt und treibt die Klimakrise auf die Spitze!"
+      "begruendung_selbst": "Statt in die Erneuerbaren zu investieren, wollen die ernsthaft Fracking in Deutschland erlauben. Das zerstört unsere Umwelt und treibt die Klimakrise auf die Spitze!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Atomkraft ist keine Lösung!",
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Jules ökologisches Grundverständnis steht der Nutzung von Atomkraft diametral entgegen; sie empfindet diesen Ansatz als gefährlich und als bewusste Verzögerung der Transformation hin zu erneuerbaren Energien.",
-      "begruendung_selbst": "Wir müssen endgültig weg von fossiler und nuklearer Energie. Den Wiedereinstieg in die Atomkraft zu fordern, zeigt mir, dass die Partei die Dringlichkeit der Klimakrise nicht versteht."
+      "begruendung_selbst": "Wir müssen endgültig weg von fossiler und nuklearer Energie. Den Wiedereinstieg in die Atomkraft zu fordern, zeigt mir, dass die Partei die Dringlichkeit der Klimakrise nicht versteht.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Naturschutz wird dem Profit geopfert!",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Aus Jules Sicht ist der bedingungslose Schutz von Ökosystemen essenziell für den Erhalt der Artenvielfalt. Den Fokus auf forstwirtschaftliche Nutzung lehnt sie als ökonomisch motivierte Naturzerstörung ab.",
-      "begruendung_selbst": "Unberührte Wälder sind unsere wichtigsten Verbündeten gegen den Klimawandel. Wenn man Naturschutzgebiete streicht, um mehr Holz zu fällen, verliert unsere Natur."
+      "begruendung_selbst": "Unberührte Wälder sind unsere wichtigsten Verbündeten gegen den Klimawandel. Wenn man Naturschutzgebiete streicht, um mehr Holz zu fällen, verliert unsere Natur.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klimaschutz ist mehr als Markt!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Jule betrachtet weitreichende staatliche Eingriffe als notwendig, um die Klimakrise abzuwenden. Die Ablehnung von strengeren Vorgaben empfindet sie als gefährliches Ausbremsen des Klimaschutzes.",
-      "begruendung_selbst": "Die diffamieren echten Klimaschutz als Bevormundung und verlassen sich allein auf den freien Markt. So werden wir meine Zukunft niemals sichern."
+      "begruendung_selbst": "Die diffamieren echten Klimaschutz als Bevormundung und verlassen sich allein auf den freien Markt. So werden wir meine Zukunft niemals sichern.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Quoten sind wichtig, nicht starr!",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Jule setzt sich für Gleichstellung und Antidiskriminierung ein. Die Ablehnung von Quoten und der Verweis auf reine Leistungsprinzipien blenden für sie die systematische, strukturelle Benachteiligung von Frauen aus.",
-      "begruendung_selbst": "Zu glauben, dass Gleichstellung nur durch Leistung entsteht, ignoriert alle strukturellen Hürden. Quoten abzulehnen heißt, dass sich in den Führungsetagen im Zweifel gar nichts ändert."
+      "begruendung_selbst": "Zu glauben, dass Gleichstellung nur durch Leistung entsteht, ignoriert alle strukturellen Hürden. Quoten abzulehnen heißt, dass sich in den Führungsetagen im Zweifel gar nichts ändert.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

@@ -1,0 +1,138 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Erst Ersatz, dann Rückbau",
+      "thema": "energie",
+      "programmpunkt": "Grundlastfähige Kraftwerke sollen erst zurückgebaut werden, wenn Speicher, Netze und Ersatzkraftwerke konkret gelöst sind.",
+      "seite": 44,
+      "zitat": "„Vor dem Rückbau grundlastfähiger Kraftwerke braucht es konkrete Lösungen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny bewertet Energiepolitik zuerst daran, ob Versorgungssicherheit und Planbarkeit vor symbolischen Ausstiegsdaten stehen. Diese Passage trifft seine Kernforderung, alte Kapazitäten nicht abzubauen, bevor tragfähiger Ersatz steht.",
+      "begruendung_selbst": "Genau so muss man es machen: nicht erst abschalten und dann hoffen, dass Speicher, Netze und neue Kraftwerke schon irgendwie kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unser Strom muss helfen",
+      "thema": "energie",
+      "programmpunkt": "Die CDU will regionale Strompreiszonen, damit günstiger Windstrom Unternehmen und Haushalten in Sachsen-Anhalt zugutekommt.",
+      "seite": 44,
+      "zitat": "„Wir wollen regionale Strompreiszonen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht hohe Strompreise als Gefahr für Industriearbeitsplätze und Standortentscheidungen in seiner Region. Dass regional erzeugter günstiger Strom vor Ort preislich wirksam werden soll, bestätigt sein Interesse an Wertschöpfung und Entlastung im Land.",
+      "begruendung_selbst": "Wenn wir hier den Windstrom liefern, dann sollen unsere Betriebe und Familien auch etwas davon haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriestrom sichert Jobs",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei begrüßt einen Industriestrompreis und will prüfen, ob er ausreicht, um Wettbewerbsfähigkeit und Arbeitsplätze zu sichern.",
+      "seite": 45,
+      "zitat": "„benötigen wir u.a. einen Industriestrompreis“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Ronny hängen Strukturwandel und Arbeitsplatzsicherheit unmittelbar an energieintensiver Industrie. Ein Industriestrompreis adressiert genau die Sorge, dass hohe Energiekosten Chemie, Grundstoffe und Energiewirtschaft aus der Region drücken.",
+      "begruendung_selbst": "Ohne bezahlbaren Industriestrom reden wir über Strukturwandel, während die Werke nebenan dichtmachen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CCS gehört in den Werkzeugkasten",
+      "thema": "energie",
+      "programmpunkt": "CCS/CCU, Speicher, Batterien und synthetische Kraftstoffe werden als zukunftsfeste Energietechnologien genannt.",
+      "seite": 46,
+      "zitat": "„Forschung und Nutzung von CCS/CCU“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny lehnt pauschale Technologieverbote ab, weil sie seiner Region Brücken in neue Industriepfade nehmen können. Die ausdrückliche Aufnahme von CCS/CCU bestätigt seine technologieoffene Haltung.",
+      "begruendung_selbst": "CCS ist kein Zauberwort, aber ein Werkzeug. Wer es von vornherein verbietet, nimmt uns Chancen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff braucht Anschluss",
+      "thema": "energie",
+      "programmpunkt": "Die CDU will Erdgas- und Wasserstoffkraftwerke, eigene Erzeugung und den Anschluss von Industrie- und Chemieparks ans Wasserstoffnetz vorantreiben.",
+      "seite": 46,
+      "zitat": "„der Industrie - und Chemieparks an das nationale Wasserstoffnetz“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sucht eine belastbare Brücke zwischen heutiger Energiewirtschaft und künftiger Industrie. Der Fokus auf Wasserstoffinfrastruktur für Chemieparks verbindet Klimaziele mit Standortvorteilen und Arbeitssicherung.",
+      "begruendung_selbst": "Wasserstoff nützt uns nur, wenn unsere Parks wirklich angeschlossen werden und daraus Arbeit entsteht.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Strukturwandel aktiv begleiten",
+      "thema": "wirtschaft",
+      "programmpunkt": "Der Strukturwandel im Mitteldeutschen Braunkohlerevier und der Wandel der chemischen Industrie sollen mit Bundes- und EU-Mitteln aktiv begleitet werden.",
+      "seite": 15,
+      "zitat": "„den Strukturwandel im Mitteldeutschen Braunkohlerevier“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronnys Lebensplanung hängt an einer Region, die vom Braunkohle- und Industriewandel betroffen ist. Die Passage signalisiert, dass Revier, Chemie und Fördermittel gemeinsam gedacht werden sollen, statt die Region sich selbst zu überlassen.",
+      "begruendung_selbst": "Das Revier darf nicht nur in Sonntagsreden vorkommen. Wir brauchen Begleitung, Fördermittel und neue Industrie vor Ort.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "2038 bleibt trotzdem starr",
+      "thema": "energie",
+      "programmpunkt": "Die CDU hält am Kohleausstieg bis 2038 fest, auch wenn Ronny Ausstiegsdaten ohne gesicherte Ersatzstruktur skeptisch sieht.",
+      "seite": 45,
+      "zitat": "„Daran halten wir fest“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl das Programm Verlässlichkeit und Ersatzlösungen betont, bleibt für Ronny ein festes Enddatum ein Risiko, solange neue Kapazitäten, Netze und Industrieperspektiven nicht garantiert sind. Er hört darin die alte Gefahr: Datum zuerst, Umsetzung später.",
+      "begruendung_selbst": "2038 mag verabredet sein, aber ein Datum ersetzt keine Kraftwerke, keine Netze und keine Arbeitsplätze.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beim Wind nicht bremsen",
+      "thema": "klima",
+      "programmpunkt": "Starre Flächenziele für Windkraft nach 2027 werden abgelehnt, was aus Ronnys Sicht den notwendigen Ersatzaufbau verlangsamen kann.",
+      "seite": 45,
+      "zitat": "„Starre Flächenbeitragswerte für den Windkraftausbau“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny teilt das Ziel des Umbaus, auch wenn er praxisnahe Umsetzung und Akzeptanz verlangt. Eine pauschale Abwehr weiterer Flächenziele kann für ihn wie ein Bremsklotz wirken, wenn gleichzeitig Kohleleistung ersetzt werden muss.",
+      "begruendung_selbst": "Akzeptanz vor Ort ist wichtig, aber ohne genug neue Leistung wird aus dem Ausstieg kein Plan.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CCS braucht Leitungen",
+      "thema": "energie",
+      "programmpunkt": "Beim Kohlendioxid-Speicherungsgesetz begrüßt die CDU die Regeln, will die Transportinfrastruktur aber nur beobachten.",
+      "seite": 46,
+      "zitat": "„Transportinfrastruktur genau beobachten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny findet es positiv, dass CCS genannt wird, aber für seine Region entscheidet die konkrete Infrastruktur. Nur Beobachtung reicht ihm nicht, wenn CCS/CCU tatsächlich eine industrielle Brücke für Chemie, Grundstoffe und Energie werden soll.",
+      "begruendung_selbst": "CCS auf dem Papier hilft keinem Werk. Ohne Leitungen und Standorte bleibt das eine Überschrift.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny würde im CDU-Programm viele Punkte finden, die seine berufliche und regionale Lage direkt treffen: Versorgungssicherheit vor Rückbau, bezahlbare Industrieenergie, Wasserstoff, CCS/CCU und aktive Strukturpolitik. Besonders stark ist für ihn die Verbindung von Industrie, Energiepreisen und Arbeitsplätzen. Kritisch bliebe er dort, wo trotz Ersatzfrage am festen Kohleausstieg festgehalten wird oder neue Energie- und CCS-Infrastruktur nicht verbindlich genug erscheint.",
+    "score": 2
+  }
+}

@@ -28,7 +28,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Als Sicherheitsbediensteter des Bundes schätzt Stefan einen starken, handlungsfähigen Staat, der innere Sicherheit gewährleistet. Die Aufstockung des Polizeipersonals findet daher seine ausdrückliche Zustimmung.",
-      "begruendung_selbst": "Die Kollegen in Uniform leisten wichtige Arbeit auf der Straße und sind ohnehin chronisch unterbesetzt. Mehr Stellen sind hier absolut der richtige Weg, um Sicherheit zu garantieren."
+      "begruendung_selbst": "Die Kollegen in Uniform leisten wichtige Arbeit auf der Straße und sind ohnehin chronisch unterbesetzt. Mehr Stellen sind hier absolut der richtige Weg, um Sicherheit zu garantieren.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Entlastung für Uniformierte!",
@@ -39,7 +40,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Als Soldat mit Familie am Standort kennt Stefan die hohe Belastung und die familienunfreundlichen Zeiten in Sicherheitsberufen sehr gut. Eine spürbare Entlastung bei der Arbeitszeit für Uniformierte sieht er sehr positiv.",
-      "begruendung_selbst": "Dienst, Bereitschaft und Schichten belasten das Familienleben enorm. Es ist gut, wenn Uniformträger bei den Arbeitszeiten endlich entlastet werden sollen, das brauchen wir dringend."
+      "begruendung_selbst": "Dienst, Bereitschaft und Schichten belasten das Familienleben enorm. Es ist gut, wenn Uniformträger bei den Arbeitszeiten endlich entlastet werden sollen, das brauchen wir dringend.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Krisenvorsorge muss professionell sein!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Stefan weiß aus dem militärischen Dienstbetrieb, dass Krisenvorsorge und Katastrophenschutz gut ausgestattete Partner erfordern. Die Stärkung ziviler Hilfskräfte begrüßt er, da sie die staatliche Resilienz insgesamt erhöht.",
-      "begruendung_selbst": "Im Krisenfall müssen alle Rädchen ineinandergreifen, zivil wie militärisch. Eine professionelle Ausstattung für den Katastrophenschutz ist wichtig, auch wenn wir als Truppe Amtshilfe leisten."
+      "begruendung_selbst": "Im Krisenfall müssen alle Rädchen ineinandergreifen, zivil wie militärisch. Eine professionelle Ausstattung für den Katastrophenschutz ist wichtig, auch wenn wir als Truppe Amtshilfe leisten.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Verfassungsschutz fängt lokal an!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Als verfassungstreuer Staatsdiener ist Stefan eine wehrhafte Demokratie ein Kernanliegen. Er unterstützt Maßnahmen, die radikale, verfassungsfeindliche Kräfte vor Ort eindämmen.",
-      "begruendung_selbst": "Ich diene der Verfassung und diesem Land. Wer unsere demokratische Grundordnung untergräbt, muss frühzeitig gestoppt werden, und dafür braucht es auch die Zivilgesellschaft vor Ort."
+      "begruendung_selbst": "Ich diene der Verfassung und diesem Land. Wer unsere demokratische Grundordnung untergräbt, muss frühzeitig gestoppt werden, und dafür braucht es auch die Zivilgesellschaft vor Ort.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Stefan erlebt täglich Ausrüstungsmängel und hält finanzielle Mittel für eine einsatzfähige Bundeswehr für essenziell. Ihn frustriert die pauschale Gleichsetzung von nötiger Truppenausstattung mit Konzernprofiten zutiefst.",
-      "begruendung_selbst": "Wie sollen wir unseren Auftrag an der NATO-Ostflanke erfüllen, wenn uns das Geld für funktionierendes Material verweigert wird? Das ist eine realitätsferne und gefährliche Träumerei."
+      "begruendung_selbst": "Wie sollen wir unseren Auftrag an der NATO-Ostflanke erfüllen, wenn uns das Geld für funktionierendes Material verweigert wird? Das ist eine realitätsferne und gefährliche Träumerei.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Ohne Personal keine Truppe!",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Stefan sorgt sich intensiv um den Nachwuchs und die personelle Einsatzbereitschaft der Streitkräfte. Die kategorische Ablehnung jeglicher Dienstpflichtmodelle sieht er als Bedrohung für die Zukunftsfähigkeit der Bundeswehr.",
-      "begruendung_selbst": "Wir haben in der Truppe massive Personalprobleme. Wer eine Dienstpflicht kategorisch als Freiheitsberaubung abtut, hat den Ernst unserer Sicherheitslage einfach nicht verstanden."
+      "begruendung_selbst": "Wir haben in der Truppe massive Personalprobleme. Wer eine Dienstpflicht kategorisch als Freiheitsberaubung abtut, hat den Ernst unserer Sicherheitslage einfach nicht verstanden.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Standorte sind unsere Basis!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als Berufssoldat, dessen Alltag stark durch Standorte und deren Einsatzfähigkeit geprägt ist, lehnt Stefan diese Schwächung ab. Er sieht moderne Stützpunkte als unverzichtbare Basis für die Bündnisverteidigung.",
-      "begruendung_selbst": "Ohne voll ausgestattete Standorte und funktionierende logistische Infrastruktur ist die Truppe nicht verlegbar. Solche Forderungen machen uns als Armee komplett handlungsunfähig."
+      "begruendung_selbst": "Ohne voll ausgestattete Standorte und funktionierende logistische Infrastruktur ist die Truppe nicht verlegbar. Solche Forderungen machen uns als Armee komplett handlungsunfähig.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Europa muss wehrhaft bleiben!",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Stefan sieht die Bedrohungslage durch Russland sehr real und hält bündnisorientierte, wehrhafte Strukturen in ganz Europa für unverzichtbar. Die Ablehnung jeglicher europäischer Militärstärke empfindet er als naiv.",
-      "begruendung_selbst": "Man kann den russischen Imperialismus nicht mit guten Wünschen wegdiskutieren. Europa muss militärisch wehrhaft sein, sonst werden wir rasch zum Spielball."
+      "begruendung_selbst": "Man kann den russischen Imperialismus nicht mit guten Wünschen wegdiskutieren. Europa muss militärisch wehrhaft sein, sonst werden wir rasch zum Spielball.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kein Material ohne Industrie!",
@@ -118,7 +126,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Stefan ist besorgt über eine Politik, die Rüstungs- und Verteidigungsfähigkeit pauschal abwertet. Für ihn ist eine verlässliche heimische Verteidigungsindustrie die zwingende Voraussetzung dafür, dass die Bundeswehr überhaupt Material erhält.",
-      "begruendung_selbst": "Wer die Rüstungsproduktion verteufelt und abwickeln will, darf sich nicht wundern, wenn unsere Depots leer bleiben. Wir brauchen diese Industrie zwingend für unsere Sicherheit."
+      "begruendung_selbst": "Wer die Rüstungsproduktion verteufelt und abwickeln will, darf sich nicht wundern, wenn unsere Depots leer bleiben. Wir brauchen diese Industrie zwingend für unsere Sicherheit.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

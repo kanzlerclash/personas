@@ -95,7 +95,7 @@ const gsBalken = (g: number, s: number) => `<span class="gsbalken">${g ? `<span 
 const fiktiv = (gross = false) => `<span class="fiktiv${gross ? " gross" : ""}">${gross ? "fiktive Persona – keine reale Person" : "fiktiv"}</span>`;
 
 function krume(segs: { kat?: boolean; label: string; href?: string }[]): string {
-  return `<nav class="brotkrume">${segs.map((s, i) => (i ? `<span class="bc-sep">›</span>` : "") + (s.href ? `<a href="${u(s.href)}">${e(s.label)}</a>` : `<span class="${s.kat ? "bc-kat" : "bc-akt"}">${e(s.label)}</span>`)).join("")}</nav>`;
+  return `<nav class="brotkrume">${segs.map((s, i) => (i ? `<span class="bc-sep">›</span>` : "") + (s.href !== undefined ? `<a href="${u(s.href)}">${e(s.label)}</a>` : `<span class="${s.kat ? "bc-kat" : "bc-akt"}">${e(s.label)}</span>`)).join("")}</nav>`;
 }
 
 function layout(titel: string, beschreibung: string, body: string): string {
@@ -112,6 +112,13 @@ function layout(titel: string, beschreibung: string, body: string): string {
 }
 
 const sigZeile = (l: string, w: string, farbe?: string) => `<div class="sigzeile"><span class="sz-l">${e(l)}</span><span class="sz-w"${farbe ? ` style="color:${farbe}"` : ""}>${e(w)}</span></div>`;
+
+/** Links zu denselben Ansicht bei den anderen Modellen (Modell-Vergleich/Wechsel). */
+function modellWechsler(curr: string, slugs: string[], hrefFor: (s: string) => string): string {
+  const others = slugs.filter((s) => s !== curr);
+  if (!others.length) return "";
+  return `<div class="vsbar"><span class="vslbl">Bei anderem Modell ansehen:</span>${others.map((s) => `<a class="vsbtn" href="${u(hrefFor(s))}">${e(kurz(s))}</a>`).join("")}</div>`;
+}
 
 function highlightHtml(h: any): string {
   const beleg = h.zitat ? `<p class="belegzeile"><span class="beleg ${h.beleg_ok === true ? "ok" : h.beleg_ok === false ? "fehler" : "offen"}">${h.beleg_ok === true ? "✓ belegt" : h.beleg_ok === false ? "⚠ ungeprüft" : "•"}</span> S. ${e(h.seite ?? "?")}: „${e(h.zitat)}"</p>` : "";
@@ -174,31 +181,29 @@ ${profilBlock(p)}`;
 // Modell → Personas & Modell → Parteien & tiefer
 for (const m of SIG) {
   const sigBanner = `<div class="sigbanner"><span>Ø-Urteil </span>${scorePill(m.avgScore)}<span class="sb-sep">· Kritik-Quote ${Math.round(m.kritikQuote * 100)} % · ${e(m.labels.kritik)}, ${e(m.labels.ton)}</span></div>`;
-  const toggle = (akt: "persona" | "partei") => `<div class="ebtoggle"><span class="ebt-l">Querschnitt:</span><a class="ebt${akt === "persona" ? " an" : ""}" href="${u(`modell/${m.slug}/`)}">nach Persona</a><a class="ebt${akt === "partei" ? " an" : ""}" href="${u(`modell/${m.slug}/parteien/`)}">nach Partei</a></div>`;
-
-  // Personas-Querschnitt
+  // Modell-Übersicht: Parteien + Personas auf einer Seite
   {
-    const rows = PERSONAS.map((p) => { const es = ergsMP(m.slug, p.slug); if (!es.length) return ""; const sc = avg(es.map((x) => x.gesamt.score)); return `<a class="qrow" href="${u(`modell/${m.slug}/persona/${p.slug}/`)}">${avatarImg(p, "avatar mini")}<div class="qname"><strong>${e(p.name)}</strong>${fiktiv()}</div>${scorePill(sc)}${gsBalken(es.reduce((s, x) => s + x.besonders_gut.length, 0), es.reduce((s, x) => s + x.besonders_schlecht.length, 0))}</a>`; }).join("");
-    add(`modell/${m.slug}/`, `${kurz(m.slug)}: Sicht auf die Lebenslagen · #LTW26`, `Wie ${kurz(m.slug)} die 16 fiktiven Lebenslagen zu den Wahlprogrammen einordnet.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug) }])}<h2>${e(kurz(m.slug))}: Sicht auf die ${PERSONAS.length} Lebenslagen</h2>${sigBanner}${toggle("persona")}<div class="qtab">${rows}</div>`);
-  }
-  // Parteien-Querschnitt
-  {
-    const rows = parteienMit(m.slug).map((pa) => { const es = ergsMPa(m.slug, pa); return `<a class="qrow" href="${u(`modell/${m.slug}/partei/${pa}/`)}"><strong class="qpartei">${e(parteiName(pa))}</strong>${scorePill(avg(es.map((x) => x.gesamt.score)))}${gsBalken(es.reduce((s, x) => s + x.besonders_gut.length, 0), es.reduce((s, x) => s + x.besonders_schlecht.length, 0))}</a>`; }).join("");
-    add(`modell/${m.slug}/parteien/`, `${kurz(m.slug)}: Sicht auf die Parteien · #LTW26`, `Wie ${kurz(m.slug)} die Parteien über alle Lebenslagen einordnet.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug), href: `modell/${m.slug}/` }, { label: "Partei" }])}<h2>${e(kurz(m.slug))}: Sicht auf die Parteien</h2>${sigBanner}${toggle("partei")}<div class="qtab">${rows}</div>`);
+    const wechsel = modellWechsler(m.slug, SIG.map((x) => x.slug), (s) => `modell/${s}/`);
+    const pRows = parteienMit(m.slug).map((pa) => { const es = ergsMPa(m.slug, pa); return `<a class="qrow" href="${u(`modell/${m.slug}/partei/${pa}/`)}"><strong class="qpartei">${e(parteiName(pa))}</strong>${scorePill(avg(es.map((x) => x.gesamt.score)))}${gsBalken(es.reduce((s, x) => s + x.besonders_gut.length, 0), es.reduce((s, x) => s + x.besonders_schlecht.length, 0))}</a>`; }).join("");
+    const persRows = PERSONAS.map((p) => { const es = ergsMP(m.slug, p.slug); if (!es.length) return ""; const sc = avg(es.map((x) => x.gesamt.score)); return `<a class="qrow" href="${u(`modell/${m.slug}/persona/${p.slug}/`)}">${avatarImg(p, "avatar mini")}<div class="qname"><strong>${e(p.name)}</strong>${fiktiv()}</div>${scorePill(sc)}${gsBalken(es.reduce((s, x) => s + x.besonders_gut.length, 0), es.reduce((s, x) => s + x.besonders_schlecht.length, 0))}</a>`; }).join("");
+    add(`modell/${m.slug}/`, `${kurz(m.slug)}: Sicht auf Parteien & Lebenslagen · #LTW26`, `Wie ${kurz(m.slug)} die Parteien und die 16 fiktiven Lebenslagen zu den Wahlprogrammen einordnet.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug) }])}<h2>${e(kurz(m.slug))}: Sicht auf Parteien &amp; Lebenslagen</h2>${sigBanner}${wechsel}<h3 class="sektion">Parteien</h3><div class="qtab">${pRows}</div><h3 class="sektion">Personas</h3><div class="qtab">${persRows}</div>`);
   }
   // Modell × Persona → Parteien
   for (const p of PERSONAS) {
     const es = ergsMP(m.slug, p.slug); if (!es.length) continue;
+    const wechsel = modellWechsler(m.slug, SIG.filter((x) => ergsMP(x.slug, p.slug).length).map((x) => x.slug), (s) => `modell/${s}/persona/${p.slug}/`);
     const rows = parteienMit(m.slug).map((pa) => { const a = erg(m.slug, p.slug, pa); if (!a) return ""; return `<a class="qrow" href="${u(`modell/${m.slug}/persona/${p.slug}/partei/${pa}/`)}"><strong class="qpartei">${e(parteiName(pa))}</strong>${scorePill(a.gesamt.score)}${gsBalken(a.besonders_gut.length, a.besonders_schlecht.length)}</a>`; }).join("");
     add(`modell/${m.slug}/persona/${p.slug}/`, `${p.name} × ${kurz(m.slug)} · #LTW26`, `Wie ${kurz(m.slug)} die Persona ${p.name} zu den Parteien einordnet.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug), href: `modell/${m.slug}/` }, { kat: true, label: "Persona" }, { label: p.name }])}
 <div class="detail-kopf">${avatarImg(p, "avatar gross")}<div><h2>${e(p.name)} × ${e(kurz(m.slug))}</h2>${fiktiv(true)}</div></div>
 <a class="navbtn profil-link" href="${u(`persona/${p.slug}/`)}">📋 Vollständiges Profil von ${e(p.name)} →</a>
+${wechsel}
 <h3 class="abschnitt">Einordnung zu den Parteien</h3><div class="qtab">${rows}</div>`);
   }
   // Modell × Partei → Personas
   for (const pa of parteienMit(m.slug)) {
+    const wechsel = modellWechsler(m.slug, SIG.filter((x) => ergsMPa(x.slug, pa).length).map((x) => x.slug), (s) => `modell/${s}/partei/${pa}/`);
     const rows = PERSONAS.map((p) => { const a = erg(m.slug, p.slug, pa); if (!a) return ""; return `<a class="qrow" href="${u(`modell/${m.slug}/persona/${p.slug}/partei/${pa}/`)}">${avatarImg(p, "avatar mini")}<div class="qname"><strong>${e(p.name)}</strong>${fiktiv()}</div>${scorePill(a.gesamt.score)}${gsBalken(a.besonders_gut.length, a.besonders_schlecht.length)}</a>`; }).join("");
-    add(`modell/${m.slug}/partei/${pa}/`, `${parteiName(pa)} × ${kurz(m.slug)} · #LTW26`, `Wie ${kurz(m.slug)} die Lebenslagen zur ${parteiName(pa)} einordnet.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug), href: `modell/${m.slug}/` }, { kat: true, label: "Partei" }, { label: parteiName(pa) }])}<h2>${e(kurz(m.slug))}: ${e(parteiName(pa))} aus Sicht der Lebenslagen</h2><div class="qtab">${rows}</div>`);
+    add(`modell/${m.slug}/partei/${pa}/`, `${parteiName(pa)} × ${kurz(m.slug)} · #LTW26`, `Wie ${kurz(m.slug)} die Lebenslagen zur ${parteiName(pa)} einordnet.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug), href: `modell/${m.slug}/` }, { kat: true, label: "Partei" }, { label: parteiName(pa) }])}<h2>${e(kurz(m.slug))}: ${e(parteiName(pa))} aus Sicht der Lebenslagen</h2>${wechsel}<div class="qtab">${rows}</div>`);
   }
   // Blatt
   for (const p of PERSONAS) for (const pa of parteienMit(m.slug)) {
@@ -235,11 +240,21 @@ for (const [k, arr] of gruppen) {
 async function avatare() {
   const gen = await import("@retro-antlitz-kartei/generator");
   const dir = join(OUT, "assets", "avatare"); mkdirSync(dir, { recursive: true });
+  const S = 4;
   for (const p of PERSONAS) {
     const cfg = p.profil?.gesicht?.config ? gen.normalizeConfig(p.profil.gesicht.config) : gen.configFromSeed(p.slug);
     const small = createCanvas(32, 40); gen.renderAvatar(small, cfg);
-    const big = createCanvas(128, 160); const ctx = big.getContext("2d"); (ctx as any).imageSmoothingEnabled = false;
-    const img = await loadImage(small.toBuffer("image/png")); ctx.drawImage(img, 0, 0, 128, 160);
+    // Figur vertikal zentrieren: Bounding-Box gegen die Hintergrundfarbe bestimmen.
+    const { data } = small.getContext("2d").getImageData(0, 0, 32, 40);
+    const bg = [data[0], data[1], data[2]];
+    const isBg = (x: number, y: number) => { const i = (y * 32 + x) * 4; return Math.abs(data[i] - bg[0]) < 8 && Math.abs(data[i + 1] - bg[1]) < 8 && Math.abs(data[i + 2] - bg[2]) < 8; };
+    let minY = 40, maxY = -1;
+    for (let y = 0; y < 40; y++) for (let x = 0; x < 32; x++) if (!isBg(x, y)) { if (y < minY) minY = y; if (y > maxY) maxY = y; }
+    const shift = maxY >= 0 ? Math.round(20 - (minY + maxY) / 2) : 0;
+    const big = createCanvas(32 * S, 40 * S); const ctx = big.getContext("2d"); (ctx as any).imageSmoothingEnabled = false;
+    ctx.fillStyle = `rgb(${bg[0]},${bg[1]},${bg[2]})`; ctx.fillRect(0, 0, 32 * S, 40 * S);
+    const img = await loadImage(small.toBuffer("image/png"));
+    ctx.drawImage(img, 0, 0, 32, 40, 0, shift * S, 32 * S, 40 * S);
     writeFileSync(join(dir, `${p.slug}.png`), big.toBuffer("image/png"));
   }
 }

@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Helga und Dieter machen sich große Sorgen um die zukünftige ärztliche Versorgung in ihrem Dorf. Das Konzept von mobilen Fachärzten lindert diese Zukunftsangst enorm und verspricht Verlässlichkeit.",
-      "begruendung_selbst": "Unser Hausarzt ist auch nicht mehr der Jüngste. Wenn in Zukunft ein Facharzt-Bus direkt zu uns aufs Dorf kommt, fällt die beschwerliche Fahrerei in die Stadt weg – das wäre ein Segen!"
+      "begruendung_selbst": "Unser Hausarzt ist auch nicht mehr der Jüngste. Wenn in Zukunft ein Facharzt-Bus direkt zu uns aufs Dorf kommt, fällt die beschwerliche Fahrerei in die Stadt weg – das wäre ein Segen!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich wieder Polizei auf Streife!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Das Paar legt großen Wert auf Sicherheit und Ordnung. Das Versprechen, wieder mehr sichtbare Polizisten auch in ländlichen Gebieten einzusetzen, trifft genau ihr Bedürfnis nach Schutz und staatlicher Präsenz.",
-      "begruendung_selbst": "Man sieht hier draußen ja heute kaum noch einen Streifenwagen. Wenn sich wieder mehr Polizisten bei uns blicken lassen und nach dem Rechten sehen, fühlen wir uns abends in unserem Haus gleich viel sicherer."
+      "begruendung_selbst": "Man sieht hier draußen ja heute kaum noch einen Streifenwagen. Wenn sich wieder mehr Polizisten bei uns blicken lassen und nach dem Rechten sehen, fühlen wir uns abends in unserem Haus gleich viel sicherer.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Das Leben billiger machen!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die beiden Ruheständler müssen mit ihren kleinen gesetzlichen Renten gut wirtschaften und spüren Preissteigerungen sofort. Die Streichung der Mehrwertsteuer auf Lebensmittel würde ihre angespannte Haushaltskasse spürbar entlasten.",
-      "begruendung_selbst": "Die Preise im Supermarkt sind ja kaum noch zu bezahlen, da müssen wir jeden Cent zweimal umdrehen. Wenn die Steuer aufs Essen wegfällt, bleibt am Monatsende wenigstens etwas mehr von unserer Rente übrig."
+      "begruendung_selbst": "Die Preise im Supermarkt sind ja kaum noch zu bezahlen, da müssen wir jeden Cent zweimal umdrehen. Wenn die Steuer aufs Essen wegfällt, bleibt am Monatsende wenigstens etwas mehr von unserer Rente übrig.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Hilfe beim altersgerechten Umbau!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ihr größtes Kapital und ihr Lebensmittelpunkt ist ihr Eigenheim aus dem Jahr 1981. Die Erleichterung beim barrierefreien Umbau unterstützt ihren zentralen Wunsch, so lange wie möglich selbstbestimmt im eigenen Haus zu leben.",
-      "begruendung_selbst": "Unser Haus haben wir damals selbst hochgezogen, aber fürs Alter ist das Bad natürlich nicht gemacht. Wenn man uns beim Umbau unter die Arme greift, müssen wir später nicht ins Pflegeheim und können hier bleiben."
+      "begruendung_selbst": "Unser Haus haben wir damals selbst hochgezogen, aber fürs Alter ist das Bad natürlich nicht gemacht. Wenn man uns beim Umbau unter die Arme greift, müssen wir später nicht ins Pflegeheim und können hier bleiben.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Zusammenhalt im Dorf stärken!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da ihre Kinder nicht mehr in der Nähe wohnen, sind sie auf eine funktionierende Dorfgemeinschaft angewiesen. Die Förderung solcher Treffpunkte und Nachbarschaftshilfen gibt ihnen sozialen Halt und beugt der gefürchteten Vereinsamung vor.",
-      "begruendung_selbst": "Die Kinder sind weit weg, da ist man froh um jeden Kontakt hier im Ort. Wenn das Dorfleben und unsere Nachbarschaftshilfe unterstützt werden, fühlt man sich nicht so alleingelassen und abgehängt."
+      "begruendung_selbst": "Die Kinder sind weit weg, da ist man froh um jeden Kontakt hier im Ort. Wenn das Dorfleben und unsere Nachbarschaftshilfe unterstützt werden, fühlt man sich nicht so alleingelassen und abgehängt.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Das Paar hat panische Angst vor teuren energetischen Sanierungspflichten für ihr altes Haus. Der Ansatz der FDP, Investitionen über Steuervorteile anzureizen, geht an ihrer Realität völlig vorbei, da sie mit ihren geringen Renten keine nennenswerten Steuern zahlen.",
-      "begruendung_selbst": "Wir zahlen doch mit unserer kleinen Rente so gut wie gar keine Einkommenssteuer mehr. Was hilft es uns da, wenn wir eine neue Heizung oder ein neues Dach von der Steuer absetzen können? Ohne direkte Zuschüsse bricht uns das finanziell das Genick."
+      "begruendung_selbst": "Wir zahlen doch mit unserer kleinen Rente so gut wie gar keine Einkommenssteuer mehr. Was hilft es uns da, wenn wir eine neue Heizung oder ein neues Dach von der Steuer absetzen können? Ohne direkte Zuschüsse bricht uns das finanziell das Genick.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kein Brief mehr ans Amt?",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Dieter und Helga sind nicht sehr digitalaffin und erledigen behördliche Dinge lieber auf dem gewohnten Papierweg. Dass der Briefverkehr mit Ämtern gestrichen werden soll, empfinden sie als überfordernden Zwang, auch wenn es Alternativen vor Ort geben soll.",
-      "begruendung_selbst": "Wir haben uns an die Formulare aus Papier gewöhnt und schicken das immer ordentlich per Post. Wenn wir das jetzt am Computer machen sollen, womit wir uns gar nicht auskennen, oder jedes Mal extra ins Rathaus fahren müssen, ist das eine reine Zumutung."
+      "begruendung_selbst": "Wir haben uns an die Formulare aus Papier gewöhnt und schicken das immer ordentlich per Post. Wenn wir das jetzt am Computer machen sollen, womit wir uns gar nicht auskennen, oder jedes Mal extra ins Rathaus fahren müssen, ist das eine reine Zumutung.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schon wieder Börsenspiele!",
@@ -107,7 +114,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Das Paar fürchtet unkalkulierbare Pflegekosten, die sie sich nicht leisten können. Der Verweis auf Kapitaldeckung und private Vorsorge schreckt sie ab, da sie keine Rücklagen haben und dem Finanzmarkt aufgrund ihres Sicherheitsbedürfnisses zutiefst misstrauen.",
-      "begruendung_selbst": "Wir haben ein Leben lang gearbeitet und keine Ersparnisse, um jetzt noch privat für die Pflege vorzusorgen. Kapitalgedeckt, das heißt doch wieder nur, dass unsere Absicherung von irgendwelchen Börsen abhängt – das wollen wir auf keinen Fall."
+      "begruendung_selbst": "Wir haben ein Leben lang gearbeitet und keine Ersparnisse, um jetzt noch privat für die Pflege vorzusorgen. Kapitalgedeckt, das heißt doch wieder nur, dass unsere Absicherung von irgendwelchen Börsen abhängt – das wollen wir auf keinen Fall.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

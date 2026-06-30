@@ -7,19 +7,24 @@
       "thema": "pflege",
       "seite": 27,
       "zitat": "Auf Bundesebene setzen wir uns für eine grundlegende Reform der Pflegeversicherung ein, mit gedeckelten Eigenanteilen, fairer Finanzierung und Schutz des selbstgenutzten Wohneigentums.",
-      "begruendung": "Das greift genau die größte finanzielle Angst von Helga und Dieter auf. Sie fürchten nichts mehr, als ihr abbezahltes Haus wegen möglicher Pflegekosten verkaufen zu müssen."
+      "begruendung": "Das greift genau die größte finanzielle Angst von Helga und Dieter auf. Sie fürchten nichts mehr, als ihr abbezahltes Haus wegen möglicher Pflegekosten verkaufen zu müssen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "thema": "verkehr",
       "seite": 62,
       "zitat": "Wir stehen einer ideologisch motivierten und grundlosen Ausweitung von Geschwindigkeitsbeschränkungen auf Autobahnen und auf innerörtlichen Durchgangsstraßen auf Tempo 30 entschlossen entgegen. Ebenfalls stehen wir für einen ideologiefreien motorisierten Individualverkehr.",
-      "begruendung": "Für das Rentnerpaar auf dem Land ist das Auto unverzichtbar („Ohne Auto geht hier nichts“). Die klare Positionierung der CDU für das Auto und gegen staatliche Einschränkungen spricht sie als veränderungsskeptische Wähler stark an."
+      "begruendung": "Für das Rentnerpaar auf dem Land ist das Auto unverzichtbar („Ohne Auto geht hier nichts“). Die klare Positionierung der CDU für das Auto und gegen staatliche Einschränkungen spricht sie als veränderungsskeptische Wähler stark an.",
+      "beleg_ok": true
     },
     {
       "thema": "sicherheit",
       "seite": 20,
       "zitat": "Die Sicherheit der Bürgerinnen und Bürger sowie der Schutz des Eigentums und die Prävention vor Einbrüchen in Wohnungen und Unternehmen genießt für uns höchsten Stellenwert.",
-      "begruendung": "Helga und Dieter machen sich große Sorgen um steigende Kriminalität, insbesondere Einbrüche auf dem Land. Das starke Bekenntnis der CDU zu Sicherheit und Ordnung sowie zur Prävention gibt ihnen das gewünschte Sicherheitsgefühl."
+      "begruendung": "Helga und Dieter machen sich große Sorgen um steigende Kriminalität, insbesondere Einbrüche auf dem Land. Das starke Bekenntnis der CDU zu Sicherheit und Ordnung sowie zur Prävention gibt ihnen das gewünschte Sicherheitsgefühl.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     }
   ],
   "besonders_schlecht": [
@@ -27,7 +32,8 @@
       "thema": "digitalisierung",
       "seite": 51,
       "zitat": "Digitalisierung entscheidet heute über Leistungsfähigkeit, Standortattraktivität und Lebensqualität.",
-      "begruendung": "Dem Rentnerpaar ist diese starke Fokussierung auf Digitalisierung suspekt („Dieser ganze App-Quatsch“). Sie befürchten bei solchen Aussagen, dass sie als weniger digital affine Menschen künftig von der Gesellschaft und der Daseinsvorsorge abgehängt werden."
+      "begruendung": "Dem Rentnerpaar ist diese starke Fokussierung auf Digitalisierung suspekt („Dieser ganze App-Quatsch“). Sie befürchten bei solchen Aussagen, dass sie als weniger digital affine Menschen künftig von der Gesellschaft und der Daseinsvorsorge abgehängt werden.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

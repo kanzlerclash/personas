@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Dieter und Helga machen sich große Sorgen um die möglichen finanziellen Belastungen im Pflegefall. Ein garantiertes Landespflegegeld würde ihnen eine konkrete existentielle Sorge nehmen.",
-      "begruendung_selbst": "Wer ein Leben lang gearbeitet hat, darf am Ende nicht als Bittsteller dastehen. Diese kleine Finanzspritze für die Pflege ist genau das, was wir brauchen."
+      "begruendung_selbst": "Wer ein Leben lang gearbeitet hat, darf am Ende nicht als Bittsteller dastehen. Diese kleine Finanzspritze für die Pflege ist genau das, was wir brauchen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Der Arzt muss zum Patienten!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Das Rentnerpaar fürchtet den baldigen Wegfall des Hausarztes im Dorf und den Verlust der ärztlichen Versorgung. Mobile medizinische Angebote wären eine direkte Lösung für sie, wenn sie selbst nicht mehr Auto fahren können.",
-      "begruendung_selbst": "Unser Arzt hört bestimmt bald auf, da wäre so ein medizinisches Mobil eine gute Lösung für unser Dorf. Hauptsache, es kommt überhaupt jemand vorbei, der nach dem Rechten sieht."
+      "begruendung_selbst": "Unser Arzt hört bestimmt bald auf, da wäre so ein medizinisches Mobil eine gute Lösung für unser Dorf. Hauptsache, es kommt überhaupt jemand vorbei, der nach dem Rechten sieht.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Hilfe statt Zwang beim Haus!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ihre größte finanzielle Sorge ist eine unbezahlbare energetische Sanierungspflicht für ihr altes Haus. Eine Förderung, die auf ihre kleinen Renten Rücksicht nimmt, sichert den Verbleib in den eigenen vier Wänden.",
-      "begruendung_selbst": "Wenn der Staat uns zwingt, eine neue Heizung einzubauen, dann muss er uns Kleingeld-Rentnern auch helfen. Sonst müssen wir am Ende noch aus unserem mühsam abbezahlten Haus ausziehen!"
+      "begruendung_selbst": "Wenn der Staat uns zwingt, eine neue Heizung einzubauen, dann muss er uns Kleingeld-Rentnern auch helfen. Sonst müssen wir am Ende noch aus unserem mühsam abbezahlten Haus ausziehen!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Heizen darf kein Luxus sein!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die Rentner müssen mit ihrem Haushaltsgeld streng wirtschaften und fürchten steigende Heizkosten. Ein gesetzlich garantierter, günstiger Basistarif gibt ihnen die nötige finanzielle Planungssicherheit für den Winter.",
-      "begruendung_selbst": "Wir drehen die Heizung ohnehin schon oft runter, um sparsam zu sein. Ein bezahlbarer Grundtarif wäre eine riesige Erleichterung für unsere Haushaltskasse und nimmt uns die Angst vorm Frieren."
+      "begruendung_selbst": "Wir drehen die Heizung ohnehin schon oft runter, um sparsam zu sein. Ein bezahlbarer Grundtarif wäre eine riesige Erleichterung für unsere Haushaltskasse und nimmt uns die Angst vorm Frieren.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Hilfe im Papierkram-Dschungel!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Dieter und Helga sind schnell überfordert von zunehmend komplexen oder digitalen Formularen. Eine persönliche Hilfe vor Ort entspricht ihrem starken Bedürfnis nach Verlässlichkeit und konkreter Unterstützung im Alltag.",
-      "begruendung_selbst": "Diese ganzen digitalen Anträge versteht doch heute kein Mensch mehr! Wenn da jemand direkt ins Dorf kommt und uns beim Papierkram hilft, wäre das wirklich ein Segen."
+      "begruendung_selbst": "Diese ganzen digitalen Anträge versteht doch heute kein Mensch mehr! Wenn da jemand direkt ins Dorf kommt und uns beim Papierkram hilft, wäre das wirklich ein Segen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich wieder Polizei im Dorf!",
@@ -83,7 +88,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Das Paar legt großen Wert auf Sicherheit und bedauert den Rückzug staatlicher Institutionen aus der Fläche. Mehr direkte Polizeipräsenz gibt ihnen das gewünschte Sicherheits- und Ordnungsgefühl zurück.",
-      "begruendung_selbst": "Man sieht ja kaum noch einen Schutzmann bei uns auf dem Land. Wenn die öfter hier wären und ansprechbar sind, könnten wir nachts wieder ruhiger schlafen."
+      "begruendung_selbst": "Man sieht ja kaum noch einen Schutzmann bei uns auf dem Land. Wenn die öfter hier wären und ansprechbar sind, könnten wir nachts wieder ruhiger schlafen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als ordnungsliebende Rentner, die sich nach Sicherheit sehnen, empfinden sie die linke Kriminalpolitik oft als zu nachsichtig. Sie wünschen sich stattdessen eine harte Durchsetzung von Gesetzen gegenüber Straftätern.",
-      "begruendung_selbst": "Wer Mist baut, der muss auch ordentlich dafür geradestehen. Wenn kriminelle Jugendliche nur in Jugendtreffs bespaßt werden, lernen die doch überhaupt keinen Respekt vor dem Gesetz."
+      "begruendung_selbst": "Wer Mist baut, der muss auch ordentlich dafür geradestehen. Wenn kriminelle Jugendliche nur in Jugendtreffs bespaßt werden, lernen die doch überhaupt keinen Respekt vor dem Gesetz.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sicherheit geht vor Datenschutz!",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Für die sicherheitsorientierten Senioren, die sich vor Kriminalität fürchten, ist Datenschutz bei der Polizeiarbeit zweitrangig. Sie werten den Verzicht auf Überwachungstechnik als falsche Prioritätensetzung zugunsten der Täter.",
-      "begruendung_selbst": "Wenn man nichts verbrochen hat, braucht man doch auch keine Angst vor Kameras zu haben! Hauptsache, die Polizei hat alle Mittel, um die Einbrecher zu schnappen."
+      "begruendung_selbst": "Wenn man nichts verbrochen hat, braucht man doch auch keine Angst vor Kameras zu haben! Hauptsache, die Polizei hat alle Mittel, um die Einbrecher zu schnappen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Eigenheim ist auch Vorsorge!",
@@ -118,7 +126,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als stolze Eigenheimbesitzer, die ihr Leben lang für ihr Haus gespart haben, lehnen sie den Ausschluss von Eigentumsförderung ab. Sie empfinden privates Eigentum als die verlässlichste Form der Altersvorsorge.",
-      "begruendung_selbst": "Unser Haus ist unsere Lebensleistung und Altersvorsorge. Wenn der Staat nur noch Mietwohnungen bezuschusst, verbaut er jungen Leuten genau diese Sicherheit, die wir uns mühsam erarbeitet haben."
+      "begruendung_selbst": "Unser Haus ist unsere Lebensleistung und Altersvorsorge. Wenn der Staat nur noch Mietwohnungen bezuschusst, verbaut er jungen Leuten genau diese Sicherheit, die wir uns mühsam erarbeitet haben.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

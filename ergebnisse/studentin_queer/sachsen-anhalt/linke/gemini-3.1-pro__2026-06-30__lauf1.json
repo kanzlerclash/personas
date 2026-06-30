@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule fürchtet um erkämpfte Minderheitenrechte und sieht in der aktiven Förderung queerer Infrastruktur und Kulturorte einen wichtigen Schutzraum für ihre eigene Community.",
-      "begruendung_selbst": "Als queere Person habe ich oft Angst vor Anfeindungen. Dass unsere Szene-Orte nicht nur geduldet, sondern aktiv gefördert werden sollen, gibt mir das Gefühl, hier sicher und gewollt zu sein."
+      "begruendung_selbst": "Als queere Person habe ich oft Angst vor Anfeindungen. Dass unsere Szene-Orte nicht nur geduldet, sondern aktiv gefördert werden sollen, gibt mir das Gefühl, hier sicher und gewollt zu sein.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Studieren ohne Geldsorgen!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Studentin mit BAföG-Teilförderung und knappem Budget kämpft Jule monatlich mit ihren Finanzen; eine elternunabhängige Förderung würde ihren finanziellen Druck enorm lindern.",
-      "begruendung_selbst": "Ich drehe am Monatsende jeden Euro zweimal um. Ein BAföG, das nicht vom Gehalt meiner Eltern abhängt und endlich zum Leben reicht, würde mir eine riesige Last von den Schultern nehmen."
+      "begruendung_selbst": "Ich drehe am Monatsende jeden Euro zweimal um. Ein BAföG, das nicht vom Gehalt meiner Eltern abhängt und endlich zum Leben reicht, würde mir eine riesige Last von den Schultern nehmen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Bezahlbares WG-Zimmer!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die hohen Mietkosten in der Universitätsstadt sind eine der Hauptsorgen der Studentin; gezielte Programme für günstiges studentisches Wohnen entschärfen ihre prekäre finanzielle Lage.",
-      "begruendung_selbst": "Meine WG-Miete frisst fast mein ganzes Geld auf. Wenn das Land aktiv für günstige Mieten für uns Studis sorgt, habe ich vielleicht am Monatsende mal wieder etwas Luft zum Atmen."
+      "begruendung_selbst": "Meine WG-Miete frisst fast mein ganzes Geld auf. Wenn das Land aktiv für günstige Mieten für uns Studis sorgt, habe ich vielleicht am Monatsende mal wieder etwas Luft zum Atmen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Nulltarif ist die Lösung!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule ist in ihrem Alltag stark auf den Nahverkehr angewiesen und spürt jede Preissteigerung; ein Nulltarif würde ihre Lebenshaltungskosten spürbar senken und ihren ökologischen Werten entsprechen.",
-      "begruendung_selbst": "Ich bin sowieso nur mit Rad und Bahn unterwegs. Wenn das Semesterticket stabil bleibt oder der Nahverkehr sogar ganz kostenlos wird, ist das nicht nur gut für meinen leeren Geldbeutel, sondern auch ein echter Gewinn fürs Klima."
+      "begruendung_selbst": "Ich bin sowieso nur mit Rad und Bahn unterwegs. Wenn das Semesterticket stabil bleibt oder der Nahverkehr sogar ganz kostenlos wird, ist das nicht nur gut für meinen leeren Geldbeutel, sondern auch ein echter Gewinn fürs Klima.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Konsequenter Klimaschutz per Gesetz!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule ist klimaaktivistisch geprägt und macht sich große Sorgen um ihre Zukunft; verbindliche und ambitionierte Ziele geben ihr die Hoffnung auf eine ernsthafte Energiewende.",
-      "begruendung_selbst": "Klimaschutz darf keine leere Floskel sein. Dass hier ein hartes CO2-Budget und Klimaneutralität bis 2035 gefordert werden, zeigt mir, dass meine Existenzängste endlich politisch ernst genommen werden."
+      "begruendung_selbst": "Klimaschutz darf keine leere Floskel sein. Dass hier ein hartes CO2-Budget und Klimaneutralität bis 2035 gefordert werden, zeigt mir, dass meine Existenzängste endlich politisch ernst genommen werden.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Obwohl die Partei auf Transformation setzt, sieht Jule in der Stützung der Autoindustrie den falschen Fokus, da sie eine konsequente Verkehrswende weg vom Individualverkehr für zwingend erforderlich hält.",
-      "begruendung_selbst": "Ich verstehe ja, dass Arbeitsplätze dranhängen. Aber wir können doch nicht ernsthaft weiter die Autoindustrie päppeln, auch wenn es E-Autos sind – wir brauchen eine radikale Verkehrswende hin zu Bahn und Bus!"
+      "begruendung_selbst": "Ich verstehe ja, dass Arbeitsplätze dranhängen. Aber wir können doch nicht ernsthaft weiter die Autoindustrie päppeln, auch wenn es E-Autos sind – wir brauchen eine radikale Verkehrswende hin zu Bahn und Bus!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Falsches Signal fürs Klima!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Jule hat zwar Verständnis für ländliche Räume, sieht aber die Forderung nach bezahlbarem Autofahren kritisch, da dies ihrer Ansicht nach nötige Anreize für einen klimafreundlichen Umstieg ausbremst.",
-      "begruendung_selbst": "Klar ist es auf dem Dorf ohne Auto aktuell schwer. Aber wenn wir das Autofahren künstlich billig halten, fehlt am Ende doch wieder der Druck, den Nahverkehr auf dem Land wirklich flächendeckend auszubauen."
+      "begruendung_selbst": "Klar ist es auf dem Dorf ohne Auto aktuell schwer. Aber wenn wir das Autofahren künstlich billig halten, fehlt am Ende doch wieder der Druck, den Nahverkehr auf dem Land wirklich flächendeckend auszubauen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

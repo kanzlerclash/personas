@@ -1,0 +1,173 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Unser Haus bleibt geschützt",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will sich im Bund für eine Pflegeversicherungsreform mit gedeckelten Eigenanteilen und Schutz des selbstgenutzten Wohneigentums einsetzen.",
+      "seite": 29,
+      "zitat": "Schutz des selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten Pflegekosten, weil ihr Haus ihr wichtigstes Vermögen ist. Der angekündigte Schutz des selbstgenutzten Wohneigentums trifft genau ihre Sorge, im Pflegefall die eigene Sicherheit zu verlieren.",
+      "begruendung_selbst": "Wenn einer von uns ins Heim muss, darf nicht gleich unser Haus weg sein. Das ist doch alles, was wir uns aufgebaut haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Arzt kommt näher",
+      "thema": "gesundheit",
+      "programmpunkt": "Für unterversorgte ländliche Regionen soll ein Medi-Bus als mobile Praxis mit Arzt und medizinischer Fachangestellter eingeführt und bei Erfolg fachärztlich erweitert werden.",
+      "seite": 29,
+      "zitat": "Als rollende Praxis hat der Medi - Bus einen Arzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Rentnerpaar lebt im Dorf und sorgt sich, was passiert, wenn der Hausarzt aufhört. Ein fester Medi-Bus-Fahrplan wäre für sie eine konkrete Antwort auf die ländliche Versorgungslücke.",
+      "begruendung_selbst": "Wenn wir nicht mehr so gut fahren können, ist eine rollende Praxis im Ort Gold wert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege darf nicht unbezahlbar werden",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflegende Angehörige sollen durch Beratung, Kurzzeit- und Verhinderungspflege sowie flexible Entlastungsangebote unterstützt werden.",
+      "seite": 28,
+      "zitat": "Pflegende Angehörige sind das Rückgrat der Pflege",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die beiden rechnen damit, im Alter zuerst aufeinander und dann auf Kinder oder Nachbarn angewiesen zu sein. Entlastung für Angehörige und bezahlbare Pflege passen zu ihrem Wunsch, möglichst lange würdig und planbar versorgt zu werden.",
+      "begruendung_selbst": "Wir wollen niemandem zur Last fallen, aber wenn es kommt, brauchen Familien echte Hilfe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Solarpflicht aufs Dach",
+      "thema": "energie",
+      "programmpunkt": "Beim Ausbau von Photovoltaik setzt die CDU auf Eigenverantwortung und lehnt eine Solarpflicht bei Neubauten und Dachsanierungen ab.",
+      "seite": 46,
+      "zitat": "lehnen jegliche Form der Solarpflicht",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona hat Angst vor unbezahlbaren Sanierungs- und Energiepflichten am Eigenheim. Die klare Absage an eine Solarpflicht bestätigt ihren Wunsch nach Förderung und Freiwilligkeit statt Zwang.",
+      "begruendung_selbst": "Unser Dach ist alt genug. Wenn Solar sinnvoll ist, gern, aber bitte nicht als Pflicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will niedrigere regionale Strompreise und gedämpfte Netzentgelte, damit Haushalte in Sachsen-Anhalt von günstigem Windstrom profitieren.",
+      "seite": 44,
+      "zitat": "niedrigeren Strompreis für die Industrie und auch die Haushalte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Steigende Energiepreise gehören zu den größten finanziellen Sorgen des Rentnerpaars. Dass ausdrücklich Haushalte in der Region entlastet werden sollen, spricht ihre knappen Renten und planbaren Monatskosten direkt an.",
+      "begruendung_selbst": "Wir merken jede Nachzahlung. Wenn hier Strom erzeugt wird, soll er für uns auch günstiger werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Polizei muss sichtbar sein",
+      "thema": "sicherheit",
+      "programmpunkt": "Die CDU will die Landespolizei personell ausbauen und ihre Sichtbarkeit in den Revieren vor Ort erhöhen.",
+      "seite": 6,
+      "zitat": "Sichtbarkeit der Landespolizei in den Revieren vor Ort",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter wünschen Ordnung und ein Sicherheitsgefühl im Dorf. Sichtbare, bürgernahe Polizei bestätigt ihre Erwartung, dass der Staat auch außerhalb der Städte präsent bleibt.",
+      "begruendung_selbst": "Uns beruhigt es, wenn man die Polizei im Revier auch wirklich sieht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht alles nur digital",
+      "thema": "familie",
+      "programmpunkt": "Für Seniorinnen und Senioren sollen digitale Angebote altersgerecht verbessert werden, gleichzeitig sollen analoge Kontaktmöglichkeiten erhalten bleiben.",
+      "seite": 32,
+      "zitat": "Auch analoge Kontaktmöglichkeiten müssen weiterhin vorgehalten werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar nutzt eher Zeitung, Telefon und persönliche Kontakte als digitale Kanäle. Der Erhalt analoger Wege nimmt ihre Sorge ernst, bei Verwaltung, Beratung oder Teilhabe durch Digitalisierung abgehängt zu werden.",
+      "begruendung_selbst": "Wir können nicht alles am Handy machen. Ein Mensch am Schalter oder Telefon muss bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umbauen fürs Alter hilft",
+      "thema": "wohnen",
+      "programmpunkt": "Städtebau- und Wohnraumförderung soll weiter kofinanziert werden, besonders für altersgerechten, barrierefreien und energieeffizienten Umbau.",
+      "seite": 66,
+      "zitat": "altersgerechten, barrierefreien und energieeffizienten Umbau",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das eigene Haus ist für Helga und Dieter Altersvorsorge und Lebensmittelpunkt. Förderung für altersgerechten und barrierefreien Umbau passt zu ihrem Wunsch, im eigenen Haus alt werden zu können.",
+      "begruendung_selbst": "Wenn die Treppe und das Bad irgendwann zu schwer werden, brauchen wir Hilfe beim Umbau.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bitte keine Klinikwege verlängern",
+      "thema": "gesundheit",
+      "programmpunkt": "Komplexe medizinische Leistungen sollen gebündelt werden, um Expertise und Ressourcen besser einzusetzen.",
+      "seite": 28,
+      "zitat": "Expertise und Ressourcen optimal zu nutzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn Bündelung medizinisch sinnvoll sein kann, hört das Rentnerpaar darin das Risiko längerer Wege zu spezialisierten Standorten. Für zwei Ältere auf dem Dorf zählt Erreichbarkeit fast so stark wie Qualität.",
+      "begruendung_selbst": "Wenn etwas Ernstes ist, nützt uns die beste Spezialklinik wenig, wenn sie weit weg liegt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht nur Bildschirmmedizin",
+      "thema": "gesundheit",
+      "programmpunkt": "Telemedizin, digitale Pflegeanwendungen und vernetzte Dokumentation sollen Versorgung schneller und effizienter machen.",
+      "seite": 29,
+      "zitat": "Telemedizin, digitale Pflegeanwendungen und vernetzte Dokumentationssysteme",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona vertraut persönlicher ärztlicher Nähe stärker als digitalen Versprechen. Digitale Medizin kann helfen, wirkt auf sie aber dann bedrohlich, wenn sie den Hausarztbesuch oder menschliche Pflege ersetzen könnte.",
+      "begruendung_selbst": "Für Befunde mag das gehen, aber wenn es uns schlecht geht, wollen wir jemanden vor uns sitzen haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rente ist kein Nebenjob",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU will auf Bundesebene bessere, sozialversicherungsfreie und unbürokratische Anreize für Arbeit im Rentenalter schaffen.",
+      "seite": 18,
+      "zitat": "Wer kann und will, soll auch dürfen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter wollen keine Experimente und keinen Druck rund um die Altersversorgung. Obwohl der Punkt freiwillig formuliert ist, klingt er für sie nach dem falschen Schwerpunkt: Wer ein Leben lang gearbeitet hat, soll von der Rente leben können.",
+      "begruendung_selbst": "Wer noch arbeiten will, bitte. Aber die Politik soll erst dafür sorgen, dass die Rente reicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digital darf niemanden abhängen",
+      "thema": "digitalisierung",
+      "programmpunkt": "Viele Verfahren sollen in naher Zukunft ausschließlich digital sein, auch wenn das Programm Barrierefreiheit und Zugangshilfen vorsieht.",
+      "seite": 56,
+      "zitat": "ausschließlich digitaler Natur sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Der Satz trifft genau ihre Sorge, dass Ältere auf dem Land bei Behördenwegen abgehängt werden. Die angekündigten Hilfen mildern das, aber der Begriff ausschließlich digital wirkt auf diese Persona verunsichernd.",
+      "begruendung_selbst": "Wenn etwas nur noch digital geht, stehen wir schnell da und brauchen wieder jemanden, der hilft.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter würden im CDU-Programm viele direkte Antworten auf ihre wichtigsten Sorgen finden: Pflegekosten, Schutz des Eigenheims, Hausarztversorgung auf dem Land, bezahlbare Energie, Polizei und analoge Zugänge für Ältere. Kritisch bleiben für sie Punkte, die nach längeren Klinikwegen, Bildschirmmedizin, Arbeit im Rentenalter oder digitalem Zwang klingen. Insgesamt überwiegt aus ihrer Perspektive deutlich das Gefühl von Verlässlichkeit und praktischer Absicherung.",
+    "score": 2
+  }
+}

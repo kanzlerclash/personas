@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die beiden sorgen sich stark um die medizinische Versorgung in ihrer ländlichen Region. Das klare Bekenntnis zum Erhalt der Krankenhäuser nimmt ihnen die Angst, im Notfall nicht rechtzeitig versorgt zu werden.",
-      "begruendung_selbst": "In unserem Alter weiß man nie, wann man schnell ärztliche Hilfe braucht. Es ist wirklich beruhigend, dass unser Krankenhaus in der Nähe nicht einfach weggespart werden soll."
+      "begruendung_selbst": "In unserem Alter weiß man nie, wann man schnell ärztliche Hilfe braucht. Es ist wirklich beruhigend, dass unser Krankenhaus in der Nähe nicht einfach weggespart werden soll.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich wieder Ärzte auf dem Land!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Das Paar macht sich Sorgen, was passiert, wenn ihr jetziger Hausarzt in Rente geht. Die Initiative, medizinisches Personal gezielt in die Fläche zu holen, trifft ihre größte Lebensangst.",
-      "begruendung_selbst": "Wir können doch nicht für jeden Facharztbesuch eine halbe Weltreise machen! Es wird allerhöchste Zeit, dass die Politik endlich dafür sorgt, dass sich hier auf dem Land wieder junge Ärzte niederlassen."
+      "begruendung_selbst": "Wir können doch nicht für jeden Facharztbesuch eine halbe Weltreise machen! Es wird allerhöchste Zeit, dass die Politik endlich dafür sorgt, dass sich hier auf dem Land wieder junge Ärzte niederlassen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Polizei auf die Straßen!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Das Paar ist sicherheitsorientiert und fürchtet einen Anstieg der Kriminalität. Das Versprechen, die Polizei personell spürbar aufzustocken, adressiert ihr Bedürfnis nach Ordnung und einem sicheren Umfeld im Ort.",
-      "begruendung_selbst": "Früher kannte man noch den Dorfpolizisten, heute sieht man hier oft weit und breit keinen mehr. Es ist absolut richtig, dass wieder mehr Personal eingestellt werden soll, damit Recht und Ordnung herrschen."
+      "begruendung_selbst": "Früher kannte man noch den Dorfpolizisten, heute sieht man hier oft weit und breit keinen mehr. Es ist absolut richtig, dass wieder mehr Personal eingestellt werden soll, damit Recht und Ordnung herrschen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Politiker sollen in unsere Kasse zahlen!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Helga und Dieter leben von kleinen Renten und reagieren empfindlich auf vermeintliche Politikerprivilegien. Die Forderung, Abgeordnete in die gesetzliche Kasse einzubeziehen, bedient ihr tiefes Bedürfnis nach Gerechtigkeit.",
-      "begruendung_selbst": "Wir haben jahrzehntelang unsere Beiträge gezahlt und müssen heute jeden Cent umdrehen. Es ist nur fair und richtig, wenn die Damen und Herren Politiker mal in exakt dieselbe Kasse einzahlen wie wir normalen Leute!"
+      "begruendung_selbst": "Wir haben jahrzehntelang unsere Beiträge gezahlt und müssen heute jeden Cent umdrehen. Es ist nur fair und richtig, wenn die Damen und Herren Politiker mal in exakt dieselbe Kasse einzahlen wie wir normalen Leute!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Eine Entlastung im Portemonnaie!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Das Paar leidet unter den steigenden Lebenshaltungskosten und muss sparsam wirtschaften. Ein Klimageld als direkte Auszahlung würde ihren stark belasteten Haushaltsplan entlasten.",
-      "begruendung_selbst": "Alles wird immer teurer, vom Heizen bis zum Wocheneinkauf. Wenn dieses Geld aus der Steuer wirklich mal direkt auf unserem eigenen Konto landen würde, wäre das eine echte finanzielle Hilfe für uns."
+      "begruendung_selbst": "Alles wird immer teurer, vom Heizen bis zum Wocheneinkauf. Wenn dieses Geld aus der Steuer wirklich mal direkt auf unserem eigenen Konto landen würde, wäre das eine echte finanzielle Hilfe für uns.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Helga und Dieter haben ihr Eigenheim mühsam abbezahlt und keine Rücklagen. Die Aussicht, für neue Heiztechnik im Alter Leasingverträge abschließen zu müssen, löst bei ihnen große finanzielle Existenzängste aus.",
-      "begruendung_selbst": "Wir haben unser Leben lang hart gearbeitet, damit das Haus endlich uns gehört und abbezahlt ist. Und jetzt sollen wir im Alter für eine teure neue Heizung noch Leasingverträge abschließen? Wir haben doch gar nicht mehr die Zeit, sowas abzustottern!"
+      "begruendung_selbst": "Wir haben unser Leben lang hart gearbeitet, damit das Haus endlich uns gehört und abbezahlt ist. Und jetzt sollen wir im Alter für eine teure neue Heizung noch Leasingverträge abschließen? Wir haben doch gar nicht mehr die Zeit, sowas abzustottern!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Lasst uns doch vernünftig Autofahren!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Da das Ehepaar im ländlichen Raum auf das Auto angewiesen ist, sehen sie ein flächendeckendes Tempolimit in Orten als unnötige Einschränkung und Gängelung, die ihren ohnehin beschwerlichen Alltag weiter verlangsamt.",
-      "begruendung_selbst": "Wir müssen vom Dorf aus für jeden Arztbesuch und jeden Einkauf ewig mit dem Auto fahren. Wenn wir jetzt überall nur noch mit Tempo 30 schleichen dürfen, dauert das ja alles noch länger. Ohne Auto geht es hier einfach nicht!"
+      "begruendung_selbst": "Wir müssen vom Dorf aus für jeden Arztbesuch und jeden Einkauf ewig mit dem Auto fahren. Wenn wir jetzt überall nur noch mit Tempo 30 schleichen dürfen, dauert das ja alles noch länger. Ohne Auto geht es hier einfach nicht!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Die Kommunen sind doch jetzt schon voll!",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als veränderungsskeptische Bürger, die sich politisch oft vergessen fühlen, betrachten sie die weitere Aufnahme von Geflüchteten mit Sorge. Sie befürchten eine Überlastung der schwindenden lokalen Infrastruktur.",
-      "begruendung_selbst": "Es ist ja richtig, dass man in der Not helfen muss. Aber unsere eigenen Gemeinden sind pleite, es fehlt an Ärzten und Infrastruktur. Wir können doch nicht ewig immer noch mehr Leute bei uns aufnehmen, wenn hier selbst vieles im Argen liegt."
+      "begruendung_selbst": "Es ist ja richtig, dass man in der Not helfen muss. Aber unsere eigenen Gemeinden sind pleite, es fehlt an Ärzten und Infrastruktur. Wir können doch nicht ewig immer noch mehr Leute bei uns aufnehmen, wenn hier selbst vieles im Argen liegt.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

@@ -1,0 +1,209 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Brennpunkte brauchen Support",
+      "thema": "bildung",
+      "programmpunkt": "Schulen in sozial schwierigen Lagen sollen mehr Personal, Förderangebote und bessere Ausstattung bekommen.",
+      "seite": 22,
+      "zitat": "„Schulen in sozial herausfordernden Lagen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule bewertet Bildung stark nach sozialer Teilhabe. Zusätzliche Ressourcen für benachteiligte Schulen passen zu ihrer Erwartung, dass Herkunft nicht über Chancen entscheidet.",
+      "begruendung_selbst": "Wenn Schulen mit richtig harten Startbedingungen mehr Leute und Mittel bekommen, ist das wenigstens mal ein Schritt gegen dieses Herkunfts-Ding.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "BAföG ohne Papierkrieg",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die CDU verweist auf BAföG-Digital und will Verwaltungsvorgänge so bündeln, dass nur noch ein Behördengang nötig ist.",
+      "seite": 51,
+      "zitat": "„BAföG - Digital“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Studentin mit BAföG-Teilförderung ist Jule direkt von komplizierten Anträgen und langen Verwaltungswegen betroffen. Digitale, einfachere Abläufe würden ihr knappes Zeit- und Stressbudget entlasten.",
+      "begruendung_selbst": "Ich will studieren und arbeiten, nicht dauernd Formularen hinterherrennen, nur damit mein BAföG halbwegs pünktlich kommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom darf nicht auffressen",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will Verbraucherinnen und Verbraucher bei hohen Energiekosten entlasten und sich auf Bundes- und EU-Ebene für bezahlbare Energie einsetzen.",
+      "seite": 45,
+      "zitat": "„Kosten hart getroffen werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jules Budget ist knapp; steigende Strom- und Nebenkosten treffen sie unmittelbar in der WG. Der Fokus auf Bezahlbarkeit spricht ihre materielle Lage an, auch wenn sie die energiepolitische Richtung nicht durchgehend teilt.",
+      "begruendung_selbst": "Wenn die Stromrechnung hochgeht, fehlt mir das Geld direkt beim Essen oder beim Semesterticket.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Speicher statt Stillstand",
+      "thema": "energie",
+      "programmpunkt": "Dezentrale Stromerzeugung und Speicher sollen attraktiver werden, damit erneuerbare Energie besser genutzt werden kann.",
+      "seite": 45,
+      "zitat": "„Stromspeicher sind essentiell“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule will eine funktionierende Energiewende, nicht nur symbolische Klimapolitik. Speicher und dezentrale Modelle wirken für sie wie notwendige Infrastruktur für erneuerbare Energie.",
+      "begruendung_selbst": "Ja, genau: Erneuerbare brauchen Speicher und lokale Lösungen, sonst bleibt das alles halb gebaut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutschlandticket bleibt wichtig",
+      "thema": "verkehr",
+      "programmpunkt": "Das Deutschlandticket soll erhalten bleiben und der Schienenpersonennahverkehr in Sachsen-Anhalt gestärkt werden.",
+      "seite": 62,
+      "zitat": "„Das Deutschlandticket wollen wir erhalten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule ist im Alltag auf ÖPNV angewiesen und hat wenig finanziellen Spielraum. Der Erhalt eines günstigen, einfachen Tickets passt zu ihrem Bedürfnis nach bezahlbarer Mobilität.",
+      "begruendung_selbst": "Ohne bezahlbaren ÖPNV wird mein Alltag sofort teurer und enger, gerade zwischen Uni, Job und Freundinnen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Platz fürs Rad",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will mehr Radwege bauen, regionale Radwegekonzepte unterstützen und sichere Abstellanlagen für Pendelnde fördern.",
+      "seite": 63,
+      "zitat": "„Radverkehr stärken und Alltagsradeln fördern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Radfahren gehört zu Jules klimabewusstem, günstigen Alltag in der Stadt. Mehr sichere Infrastruktur unterstützt sowohl ihre Mobilität als auch ihre Vorstellung von Verkehrswende.",
+      "begruendung_selbst": "Ich will nicht für jeden Weg ein Auto brauchen müssen; sichere Radwege sind einfach Alltagspolitik.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Clubs sind auch Kultur",
+      "thema": "familie",
+      "programmpunkt": "Die Kultur- und Kreativwirtschaft soll weiterentwickelt werden, inklusive gezielter Startförderung für Clubs und kreative Orte.",
+      "seite": 82,
+      "zitat": "„Startförderungen, insbesondere für Clubs“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Jule sind Clubs und kreative Orte Teil junger, queerer Stadtkultur. Die Anerkennung solcher Räume als förderwürdig spricht ihre Lebenswelt direkter an als klassische Heimat- und Traditionskultur.",
+      "begruendung_selbst": "Clubs sind nicht irgendein Luxus, das sind Räume, wo junge und queere Leute überhaupt sichtbar werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Null Migration ist hart",
+      "thema": "integration",
+      "programmpunkt": "Die CDU will irreguläre Migration auf null reduzieren, freiwillige Aufnahmeprogramme beenden und Rückführungen deutlich ausweiten.",
+      "seite": 8,
+      "zitat": "„irreguläre Migration auf null zu reduzieren“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule denkt solidarisch und achtet auf die Würde marginalisierter Gruppen. Die harte Begrenzungs- und Rückführungslogik wirkt auf sie nicht wie Teilhabe, sondern wie Abschottung.",
+      "begruendung_selbst": "Dieses Null-Ziel klingt für mich nicht nach Ordnung, sondern nach Abschreckung gegen Menschen in richtig verletzlichen Situationen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gefährliches Profiling",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will biogeographische Analysen ermöglichen, um Haar-, Haut- und Augenfarbe sowie Alter für Ermittlungen präziser bewerten zu können.",
+      "seite": 7,
+      "zitat": "„Haar - , Haut - und Augenfarbe“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule ist sensibel für Diskriminierungsrisiken durch staatliche Sicherheitsinstrumente. Solche Merkmalsanalysen berühren ihre Sorge vor racial profiling und pauschaler Verdächtigung.",
+      "begruendung_selbst": "Wenn Polizei über Hautfarbe und Herkunftsmarker arbeitet, schrillen bei mir alle Antidiskriminierungs-Alarmglocken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gender wird weggewischt",
+      "thema": "familie",
+      "programmpunkt": "Die CDU lehnt ein Genderverständnis ab, das Gleichwertigkeit durch Sprachregelungen ausdrücken will.",
+      "seite": 33,
+      "zitat": "„Wir wenden uns gegen ein Genderverständnis“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als queere Studentin liest Jule diese Passage als Abwehr gegen symbolische Sichtbarkeit und inklusive Sprache. Das trifft ihre Sorge, dass Vielfaltspolitik als bloße Symbolpolitik abgewertet wird.",
+      "begruendung_selbst": "Wenn meine Sichtbarkeit als Symbolpolitik abgetan wird, fühle ich mich nicht mitgemeint, sondern wegmoderiert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohle bis 2038?",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will am Kohlekompromiss und damit am Kohleausstieg bis 2038 festhalten.",
+      "seite": 45,
+      "zitat": "„Kohleausstieg bis 2038“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Klimaschutz ist für Jule ein zentrales Zukunftsthema. Ein Festhalten an 2038 wirkt aus ihrer Perspektive zu langsam und zu stark an fossiler Verlässlichkeit orientiert.",
+      "begruendung_selbst": "2038 ist für meine Zukunft einfach viel zu spät; das ist kein Plan, der die Klimakrise ernst genug nimmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wind wird ausgebremst",
+      "thema": "energie",
+      "programmpunkt": "Die CDU lehnt starre Flächenziele für den Windkraftausbau nach 2027 ab und macht Windanlagen stark von kommunaler Zustimmung abhängig.",
+      "seite": 45,
+      "zitat": "„Starre Flächenbeitragswerte für den Windkraftausbau“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht den schnellen Ausbau erneuerbarer Energien als Kern der Klimapolitik. Zusätzliche Vorbehalte gegen Flächenziele wirken für sie wie ein Bremsmechanismus.",
+      "begruendung_selbst": "Wenn beim Wind immer neue Hürden aufgebaut werden, kommt die Energiewende wieder nur im Schneckentempo.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Solar ohne Pflicht bleibt lahm",
+      "thema": "energie",
+      "programmpunkt": "Die Partei setzt bei Photovoltaik auf Eigenverantwortung und lehnt Solarpflichten bei Neubauten und Dachsanierungen ab.",
+      "seite": 46,
+      "zitat": "„lehnen jegliche Form der Solarpflicht“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule erwartet verbindliches Tempo beim Ausbau erneuerbarer Energien. Die Ablehnung einer Solarpflicht erscheint ihr als freiwillige Politik, obwohl Dachflächen aus ihrer Sicht dringend genutzt werden müssten.",
+      "begruendung_selbst": "Freiwilligkeit reicht doch nicht, wenn jedes neue Dach eine verpasste Klimachance sein kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaregeln zurückdrehen?",
+      "thema": "klima",
+      "programmpunkt": "Die CDU will EU-Klima- und Umweltvorgaben zurücknehmen, wenn sie diese als praxisfern oder industriebelastend bewertet.",
+      "seite": 90,
+      "zitat": "„ideologisch getriebene Vorgaben für unsere Industrie“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule bewertet Klimapolitik danach, ob sie verbindlich und zukunftssicher ist. Die Wortwahl gegen Klima- und Umweltvorgaben trifft ihre zentrale Sorge, dass Klimaschutz wirtschaftlichen Interessen untergeordnet wird.",
+      "begruendung_selbst": "Wenn Klimaschutz sofort als ideologisch geframed wird, weiß ich, dass meine Zukunft im Zweifel hinten runterfällt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klagen sollen weg",
+      "thema": "demokratie",
+      "programmpunkt": "Die CDU will das Verbandsklagerecht auf Bundesebene abschaffen, um Investitionsblockaden auszuschließen.",
+      "seite": 55,
+      "zitat": "„das diesbezügliche Verbandsklagerecht abschaffen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule legt Wert auf Zivilgesellschaft und demokratische Mitbestimmung, gerade bei Umweltfragen. Die Abschaffung von Verbandsklagen schwächt aus ihrer Sicht Kontrollrechte von Initiativen und Umweltverbänden.",
+      "begruendung_selbst": "Wenn Verbände nicht mehr klagen können, wird Beteiligung zur Deko, sobald es um große Projekte geht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule findet einzelne alltagsnahe Punkte hilfreich: BAföG-Digital, bezahlbare Energie, Deutschlandticket, Radwege und Förderung von Clubs berühren ihre Lage positiv. Gleichzeitig kollidiert das Programm in ihren Kernthemen stark mit ihrer Haltung, vor allem bei Klimaschutz, Kohleausstieg, Wind- und Solarausbau, Gender/Vielfalt, Migrationspolitik und zivilgesellschaftlichen Klagerechten. Insgesamt erlebt sie das Programm daher als praktisch punktuell brauchbar, politisch aber deutlich gegen ihre Zukunfts- und Teilhabevorstellungen gerichtet.",
+    "score": -1
+  }
+}

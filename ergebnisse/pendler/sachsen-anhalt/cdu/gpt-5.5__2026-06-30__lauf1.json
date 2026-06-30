@@ -1,0 +1,173 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mein Diesel bleibt erlaubt",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU lehnt ein pauschales Verbrennerverbot ab und will Technologieoffenheit auch bei Kraftstoffen erhalten.",
+      "seite": 17,
+      "zitat": "„sprechen uns gegen ein pauschales Verbrenner - Verbot aus“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist für seinen Schichtdienst auf ein bezahlbares Auto angewiesen. Die Absage an ein pauschales Verbrennerverbot nimmt eine seiner zentralen Sorgen ernst, weil er weder eine brauchbare Busverbindung noch ein bezahlbares E-Auto sieht.",
+      "begruendung_selbst": "Ich brauche den Wagen nicht zum Spaß, sondern um zur Schicht zu kommen. Solange hier kein Bus fährt und ein E-Auto zu teuer ist, darf mir keiner den Diesel wegplanen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Finger weg vom Dieselprivileg",
+      "thema": "energie",
+      "programmpunkt": "Die CDU spricht sich dafür aus, den steuerlichen Vorteil für Diesel nicht anzutasten und CO2-mindernde Kraftstoffe zu fördern.",
+      "seite": 17,
+      "zitat": "„Hände weg vom sogenannten Dieselprivileg“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Spritkosten gehören für Toralf zu den schmerzhaftesten Fixkosten seines Arbeitswegs. Wenn der Diesel nicht zusätzlich verteuert wird, passt das zu seinem Wunsch, dass Arbeit nicht durch Mobilitätskosten entwertet wird.",
+      "begruendung_selbst": "Der Tank ist schon teuer genug. Wenn ich jeden Monat zur Arbeit fahre und am Ende kaum mehr übrig bleibt, läuft doch etwas falsch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auto ist kein Luxus",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU beschreibt Mobilität ausdrücklich technologieoffen vom Bürgerbus bis zum Familien-Diesel und lehnt diskriminierende Fahrverbote ab.",
+      "seite": 61,
+      "zitat": "„vom Bürgerbus bis zum Familien - Diesel“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fühlt sich oft von städtischer Verkehrspolitik übergangen. Die Formulierung anerkennt, dass ein Familienauto auf dem Land Teil der Daseinsvorsorge sein kann und nicht bloß Bequemlichkeit ist.",
+      "begruendung_selbst": "Genau so ist es: Bei uns ist das Auto Familienorganisation und Arbeitsweg in einem. Wer das versteht, kennt wenigstens ein Stück von meinem Alltag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schneller über die Straße",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will den Ausbau wichtiger Straßenprojekte wie A14 und A143 fortsetzen und stark belastete Abschnitte ausbauen.",
+      "seite": 61,
+      "zitat": "„schnellstmögliche Fertigstellung der A14 und A143“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein verlässliches Straßennetz ist für Toralf unmittelbar relevant, weil sein Arbeitsweg täglich Zeit und Geld kostet. Ausbau und Sanierung von Straßen wirken für ihn greifbarer als abstrakte Mobilitätsversprechen.",
+      "begruendung_selbst": "Wenn die Straßen besser sind und Baustellen schneller fertig werden, merke ich das jeden Morgen. Eine Viertelstunde weniger Stau ist für mich echte Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss runter",
+      "thema": "energie",
+      "programmpunkt": "Die CDU will regionale Strompreiszonen erreichen, damit günstiger Windstrom in Sachsen-Anhalt Industrie und Haushalten zugutekommt.",
+      "seite": 44,
+      "zitat": "„niedrigeren Strompreis für die Industrie und auch die Haushalte“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf spürt hohe Strompreise direkt im Familienbudget und indirekt am Industriestandort. Eine Entlastung für Haushalte und Betriebe passt zu seiner Sorge um Kaufkraft und Arbeitsplatzsicherheit.",
+      "begruendung_selbst": "Überall stehen Windräder, aber die Rechnung bleibt hoch. Wenn hier Strom erzeugt wird, soll meine Familie auch etwas davon haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriejobs sichern",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU will energieintensive Industrie, Chemie- und Grundstoffstandorte halten und durch wettbewerbsfähige Energiepreise absichern.",
+      "seite": 16,
+      "zitat": "„Chemie - und Grundstoffindustrie ist für Sachsen - Anhalt von zentraler Bedeutung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Facharbeiter im Schichtbetrieb hängt Toralfs Lebensplanung an stabilen Industriearbeitsplätzen. Das Bekenntnis zu Grundstoffindustrie und Wettbewerbsfähigkeit trifft seinen Wunsch nach sicherem Lohn und planbarer Zukunft.",
+      "begruendung_selbst": "Ich will nicht hören, dass unser Werk irgendwann zu teuer ist und dichtmacht. Gute Politik hält die Industrie hier, damit wir weiter arbeiten können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energie erst bezahlbar machen",
+      "thema": "energie",
+      "programmpunkt": "Die CDU stellt Versorgungssicherheit und Bezahlbarkeit vor den Rückbau grundlastfähiger Kraftwerke und verlangt konkrete Ersatzlösungen.",
+      "seite": 44,
+      "zitat": "„Versorgungssicherheit und Bezahlbarkeit haben für uns oberste Priorität“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist nicht grundsätzlich gegen Klimaschutz, misstraut aber Umbauten, die zuerst Kosten erhöhen und erst später Alternativen liefern. Die Reihenfolge aus bezahlbarer Versorgung, Speichern und Ersatzkraftwerken entspricht seinem Pragmatismus.",
+      "begruendung_selbst": "Erst muss klar sein, dass Strom bezahlbar bleibt und die Fabrik läuft. Danach kann man über den nächsten Umbau reden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ticket ohne Bus bringt nichts",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will das Deutschlandticket erhalten, sagt aber nur allgemein, dass Menschen im ländlichen Raum stärker profitieren sollen.",
+      "seite": 62,
+      "zitat": "„Das Deutschlandticket wollen wir erhalten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf hat ohne brauchbare Verbindung zur Schicht wenig Nutzen von einem günstigen Nahverkehrsticket. Er sieht darin eher Hilfe für Menschen mit vorhandener Anbindung, solange keine konkrete Linie zu seinem Arbeitsalltag entsteht.",
+      "begruendung_selbst": "Ein billiges Ticket ist schön, wenn überhaupt ein Bus fährt. Bei mir löst das keinen Arbeitsweg und keinen vollen Tank.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Modellprojekt tankt mein Auto nicht",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will für ländliche Mobilität zunächst ein Modellprojekt mit vernetzten Angeboten wie Rufverkehr, Bürgerbus, Sharing und E-Rollern anstoßen.",
+      "seite": 63,
+      "zitat": "„ein Modellprojekt anstoßen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf braucht jeden Tag eine funktionierende Lösung für Schichtzeiten, nicht erst ein übertragbares Zukunftsmodell. Die Liste innovativer Angebote wirkt für ihn weniger belastbar als eine konkrete Entlastung bei Sprit oder eine verlässliche Pendlerverbindung.",
+      "begruendung_selbst": "Ich kann morgens um fünf nicht auf ein Modellprojekt warten. Rufbus und App klingen gut, aber meine Schicht beginnt trotzdem pünktlich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radpendler kriegen Extras",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will Radwege ausbauen und Fahrradpendler durch sichere Abstellanlagen mit Lademöglichkeiten unterstützen.",
+      "seite": 63,
+      "zitat": "„Fahrradpendler unterstützen wir durch sichere Abstellanlagen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf gönnt anderen Mobilität, empfindet die Priorität aber als schief, wenn für Fahrradpendler konkrete Infrastruktur genannt wird und für seine Autoabhängigkeit keine ähnlich direkte Kostenhilfe. Das bestätigt seine Skepsis gegenüber Politik, die urbane oder stadtnähere Lebenslagen leichter bedient.",
+      "begruendung_selbst": "Für Leute, die radeln können, gibt es Abstellanlagen und Lademöglichkeiten. Ich fahre 45 Minuten über Land und soll die Spritrechnung allein schlucken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Busse ja, aber wohin?",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will umweltfreundliche Busse und Haltestelleninfrastruktur fördern, ohne für Toralfs konkrete Dorf-Schicht-Verbindung eine greifbare Zusage zu machen.",
+      "seite": 62,
+      "zitat": "„Anschaffung umweltfreundlicher Busse“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Toralf zählt nicht, ob ein Bus umweltfreundlich ist, sondern ob er zu seinen Schichtzeiten fährt. Die Maßnahme kann ihm missfallen, wenn sie als technische Modernisierung erscheint, während die Grundfrage der Erreichbarkeit offen bleibt.",
+      "begruendung_selbst": "Ein sauberer Bus hilft mir nur, wenn er auch in meinem Dorf hält und zur Schicht passt. Sonst bleibt mein Auto die einzige Möglichkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO2-Preis bleibt mein Problem",
+      "thema": "klima",
+      "programmpunkt": "Die CDU kritisiert zusätzliche CO2-Abgaben als Gefahr für Arbeitsplätze, fordert aber an dieser Stelle keine direkte Entlastung von bestehenden CO2-Kosten für Pendler.",
+      "seite": 90,
+      "zitat": "„zusätzliche CO₂ - Abgaben“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf wird bereits heute durch CO2-bedingte Spritkosten getroffen. Dass das Programm vor allem zusätzliche Abgaben problematisiert, reicht aus seiner Sicht nicht, weil seine bestehende Belastung an der Zapfsäule weiterläuft.",
+      "begruendung_selbst": "Zusätzliche Abgaben will ich auch nicht. Aber mir geht es um das, was ich jetzt schon beim Tanken bezahle.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf würde das CDU-Programm überwiegend positiv aufnehmen, weil es Autoabhängigkeit auf dem Land anerkennt, ein Verbrennerverbot ablehnt, das Dieselprivileg schützen will und Industriearbeitsplätze mit bezahlbarer Energie verbindet. Gleichzeitig bliebe er skeptisch, weil manche ländliche Mobilitätsversprechen als Modellprojekt, Ticket- oder Busmodernisierung formuliert sind und seine akute Spritkostenlage nur indirekt adressieren. Insgesamt sieht er deutlich mehr Bestätigung als Widerspruch, aber keine vollständige Lösung seines Pendlerproblems.",
+    "score": 1
+  }
+}

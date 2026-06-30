@@ -1,0 +1,161 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Leute!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die CDU will den Personalaufwuchs in der Landespolizei fortsetzen und deutlich mehr Vollzugsbeamte sowie Polizeiverwaltungsbeschäftigte erreichen.",
+      "seite": 6,
+      "zitat": "den Personalaufwuchs im Polizeivollzugsdienst weiter fortsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt Personalmangel als Kernproblem seines Dienstalltags. Die Zusage zu mehr Personal trifft direkt seinen Wunsch nach realistisch leistbarer Polizeiarbeit.",
+      "begruendung_selbst": "Wir sollen überall sichtbar sein, aber das geht nur, wenn die Wache auch voll besetzt ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gute Ausrüstung schützt.",
+      "thema": "sicherheit",
+      "programmpunkt": "Die CDU verspricht bessere Ausstattung für Polizei, Feuerwehr und Rettungsdienste, darunter Taser und den konsequenten Einsatz von Bodycams.",
+      "seite": 6,
+      "zitat": "Beste Ausstattung für Polizei, Feuerwehren und Rettungsdienste",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco fühlt sich im Einsatz oft mit steigenden Risiken konfrontiert. Moderne Einsatzmittel bedeuten für ihn nicht Härte um der Härte willen, sondern Eigenschutz und professionelles Handeln.",
+      "begruendung_selbst": "Wenn es kippt, brauche ich ein Mittel zwischen gut zureden und Schusswaffe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Extremisten klar im Blick.",
+      "thema": "demokratie",
+      "programmpunkt": "Die CDU will Sicherheitsbehörden und Verfassungsschutz stärken und politisch wie islamistisch motivierten Extremismus bekämpfen.",
+      "seite": 7,
+      "zitat": "jede Form des politisch und islamistisch motivierten Extremismus bekämpfen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist institutionentreu und lehnt Akteure ab, die den Rechtsstaat schwächen. Der 360-Grad-Blick entspricht seiner Haltung, Extremismus unabhängig vom Lager ernst zu nehmen.",
+      "begruendung_selbst": "Mir ist egal, von welcher Ecke es kommt: Wer den Staat angreift, muss auf dem Schirm sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Daten müssen laufen.",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die CDU will die polizeiliche IT-Infrastruktur weiterentwickeln, damit Länderpolizeien und Bund relevante Informationen besser nutzen können.",
+      "seite": 7,
+      "zitat": "Zugriff auf Informationen haben, die sie für ihre tägliche Arbeit benötigen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco bewertet Politik stark nach Praxistauglichkeit. Besserer Informationszugriff kann Doppelarbeit senken und Entscheidungen im Einsatz wie in der Sachbearbeitung verlässlicher machen.",
+      "begruendung_selbst": "Ich will nicht im Einsatz raten müssen, nur weil Systeme nicht miteinander sprechen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Konsequenz nach der Anzeige.",
+      "thema": "sicherheit",
+      "programmpunkt": "Die CDU will Strafverfahren beschleunigen und durch Zielzeiten sowie digitale Infrastruktur schnellere Ahndung ermöglichen.",
+      "seite": 58,
+      "zitat": "Durch beschleunigte Verfahren soll eine unmittelbare Ahndung von Straftaten erfolgen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist frustriert, wenn Polizeiarbeit in der Justizkette folgenlos wirkt. Schnellere, rechtsstaatlich saubere Verfahren stärken für ihn Respekt vor Recht und Einsatzkräften.",
+      "begruendung_selbst": "Wenn wir jemanden immer wieder aufnehmen und hinten passiert nichts, glaubt keiner mehr an den Rechtsstaat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sachlich statt pauschal.",
+      "thema": "integration",
+      "programmpunkt": "Die CDU verbindet Begrenzung und Rückführung mit der Aussage, integrierte und arbeitende Ausländer seien willkommen und pauschale Verdächtigungen würden abgelehnt.",
+      "seite": 9,
+      "zitat": "pauschale Verdächtigungen lehnen wir entschieden ab",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco will konsequente Strafverfolgung, lehnt aber Pauschalurteile über Menschen mit Migrationsgeschichte ab. Diese Differenzierung passt zu seiner verfassungsorientierten Sicht.",
+      "begruendung_selbst": "Ich kontrolliere Verhalten und Straftaten, nicht Herkunft als Generalverdacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gewalt früher abfangen.",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will Präventionsambulanzen für psychisch erkrankte Menschen mit erhöhter Gewaltbereitschaft schaffen, um Risiken vor Eskalationen zu senken.",
+      "seite": 9,
+      "zitat": "spezifisches Versorgungsangebot für psychisch Erkrankte mit erhöhtem Gewaltpotenzial",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco begegnet solchen Lagen im Streifendienst oft erst, wenn sie eskaliert sind. Ein vorgelagertes Hilfs- und Präventionsangebot entlastet Polizei und Rettungsdienst praktisch.",
+      "begruendung_selbst": "Nicht jeder schwierige Fall darf erst bei uns landen, wenn es schon gefährlich ist.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Null klingt nach Parole.",
+      "thema": "integration",
+      "programmpunkt": "Die CDU formuliert das Ziel, irreguläre Migration auf null zu reduzieren.",
+      "seite": 8,
+      "zitat": "die irreguläre Migration auf null zu reduzieren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco unterstützt Steuerung und konsequente Rückführung, aber ein Nullziel wirkt aus seiner Praxissicht überzogen. Er befürchtet Erwartungen, die Einsatzkräfte und Ausländerbehörden später ausbaden müssen.",
+      "begruendung_selbst": "Klare Regeln ja, aber Versprechen, die keiner vollziehen kann, landen am Ende bei uns auf der Straße.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hautfarbe ist heikel.",
+      "thema": "sicherheit",
+      "programmpunkt": "Die CDU will gesetzliche Grundlagen für biogeographische Analyse schaffen, um äußere Merkmale wie Haar-, Haut- und Augenfarbe präziser zu bewerten.",
+      "seite": 7,
+      "zitat": "Haar - , Haut - und Augenfarbe sowie des Alters",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht den Ermittlungsnutzen moderner Technik, ist aber sensibel für Vertrauen und Verhältnismäßigkeit. Gerade weil er Pauschalurteile ablehnt, wäre ihm bei Merkmalen wie Hautfarbe eine sehr enge rechtsstaatliche Absicherung wichtig.",
+      "begruendung_selbst": "Wenn so etwas schlampig erklärt oder genutzt wird, heißt es wieder: Polizei arbeitet nach Herkunft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht am Personal sparen.",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU stellt einen effizienteren Staat auch mit weniger Personal in Aussicht.",
+      "seite": 78,
+      "zitat": "Weniger Bürokratie, weniger Personal, schnellere Verfahren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco kennt die Folgen dünner Besetzung in staatlichen Strukturen. Auch wenn die Polizei separat aufgestockt werden soll, klingt Personalabbau in der Verwaltung für ihn riskant, wenn Ausländerbehörden, Justiz oder Kommunen dadurch langsamer werden.",
+      "begruendung_selbst": "Digitalisierung hilft, aber wenn die Behördenkette leerläuft, hängt die Arbeit wieder bei uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtswege nicht wegdrücken.",
+      "thema": "demokratie",
+      "programmpunkt": "Die CDU will Klagerechte bei Planungen einschränken und langfristig die Verbandsklage vollständig abschaffen.",
+      "seite": 62,
+      "zitat": "Unser Ziel bleibt die komplette Abschaffung der Verbandsklage",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco steht für einen handlungsfähigen Staat, aber auch für rechtsstaatliche Kontrolle. Die pauschale Abschaffung eines Rechtswegs wirkt auf ihn zu grob, weil Institutionen gerade durch überprüfbare Verfahren Vertrauen behalten.",
+      "begruendung_selbst": "Tempo ist gut, aber der Staat muss sich auch kontrollieren lassen können.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco würde das CDU-Programm überwiegend positiv aufnehmen, weil es Polizei, Ausstattung, Sicherheitsbehörden und schnelle Justiz sehr direkt adressiert. Besonders stark resonieren Personalaufwuchs, moderne Einsatzmittel, Verfassungsschutz und eine konsequentere Justizkette. Vorbehalte hätte er dort, wo Forderungen überzogen wirken oder rechtsstaatliche Kontrolle und Vertrauen in eine faire Polizeipraxis berühren.",
+    "score": 2
+  }
+}

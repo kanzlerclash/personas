@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Stefan spürt hier ein klares Verständnis für die militärische Realität. Die Anerkennung der logistischen Anforderungen im Bündnisfall deckt sich genau mit seiner sicherheitspolitischen Haltung.",
-      "begruendung_selbst": "Endlich wird die Lage realistisch betrachtet. Wenn der Bündnisfall eintritt, muss die Logistik im Hinterland reibungslos laufen."
+      "begruendung_selbst": "Endlich wird die Lage realistisch betrachtet. Wenn der Bündnisfall eintritt, muss die Logistik im Hinterland reibungslos laufen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Verteidigung braucht starken Zivilschutz!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Soldat weiß Stefan, dass die militärische Landesverteidigung ohne eine resiliente zivile Infrastruktur nicht funktioniert. Diese Forderung stärkt seinen Rückhalt.",
-      "begruendung_selbst": "Landesverteidigung geht nicht ohne Zivilschutz. Gut, dass das hier endlich mal Hand in Hand gedacht wird."
+      "begruendung_selbst": "Landesverteidigung geht nicht ohne Zivilschutz. Gut, dass das hier endlich mal Hand in Hand gedacht wird.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Material und Planbarkeit für alle!",
@@ -50,7 +52,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Stefan zieht klare Parallelen zu den Herausforderungen in der Bundeswehr. Die Wertschätzung für Sicherheitskräfte und der Fokus auf Planbarkeit entsprechen seinen eigenen Forderungen für die Truppe.",
-      "begruendung_selbst": "Genau das brauchen wir in Uniform alle – egal ob bei der Polizei oder in der Truppe. Ohne vernünftiges Material und Planbarkeit geht man kaputt."
+      "begruendung_selbst": "Genau das brauchen wir in Uniform alle – egal ob bei der Polizei oder in der Truppe. Ohne vernünftiges Material und Planbarkeit geht man kaputt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Bündnisse sichern unseren Frieden!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Stefans sicherheitspolitisches Weltbild basiert auf Bündnistreue. Ein deutliches Bekenntnis zu europäischen Institutionen stärkt aus seiner Sicht die kollektive Sicherheit, für die er an der Ostflanke einsteht.",
-      "begruendung_selbst": "Ohne unsere starken Bündnisse in Europa und in der NATO wären wir sicherheitspolitisch völlig aufgeschmissen."
+      "begruendung_selbst": "Ohne unsere starken Bündnisse in Europa und in der NATO wären wir sicherheitspolitisch völlig aufgeschmissen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "In der aktuellen Bedrohungslage an der Ostflanke empfindet Stefan den Ruf nach Abrüstung als geradezu naiv. Er befürchtet, dass solche Positionen die ohnehin schleppende Ausrüstung der Bundeswehr weiter untergraben.",
-      "begruendung_selbst": "Abrüstung? In der jetzigen Lage? Das ist völlig an der Realität vorbei und kostet am Ende unsere Sicherheit."
+      "begruendung_selbst": "Abrüstung? In der jetzigen Lage? Das ist völlig an der Realität vorbei und kostet am Ende unsere Sicherheit.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klingt nach billigen Ausflüchten!",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Stefan vermutet hinter solchen Formulierungen eine Ausrede, um dringend notwendige Investitionen in die Truppe zu rechtfertigen oder zu vermeiden. Er sieht militärische Abschreckung als das absolute Fundament.",
-      "begruendung_selbst": "Das klingt für mich schon wieder nach einer Ausrede, um uns am Ende doch nicht vernünftig mit Material auszustatten."
+      "begruendung_selbst": "Das klingt für mich schon wieder nach einer Ausrede, um uns am Ende doch nicht vernünftig mit Material auszustatten.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

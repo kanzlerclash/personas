@@ -28,7 +28,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Stefan erlebt im Dienst regelmäßig, wie gefährlich Materialengpässe und Abhängigkeiten sind. Dass das Land aktiv sicherheitsrelevante Rüstungs- und Chemieproduktion fördern will, zeugt für ihn von ernsthafter strategischer Voraussicht.",
-      "begruendung_selbst": "Endlich denkt mal jemand strategisch. Wenn es hart auf hart kommt, müssen wir unser Material hier in Europa herstellen können, sonst stehen wir nackt da."
+      "begruendung_selbst": "Endlich denkt mal jemand strategisch. Wenn es hart auf hart kommt, müssen wir unser Material hier in Europa herstellen können, sonst stehen wir nackt da.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klare Kante gegen jeden Extremismus!",
@@ -39,7 +40,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Als Soldat ist er auf die Verfassung vereidigt und lehnt alle radikalen Strömungen ab, die die freiheitliche Ordnung gefährden. Die stringente Ausrichtung der Sicherheitsbehörden gibt ihm Vertrauen in die Wehrhaftigkeit des Rechtsstaats.",
-      "begruendung_selbst": "Ich diene der Verfassung, da erwarte ich vom Staat, dass er sie nach allen Seiten hin schützt. Wir dürfen bei keinem Extremismus auf dem rechten Auge blind sein."
+      "begruendung_selbst": "Ich diene der Verfassung, da erwarte ich vom Staat, dass er sie nach allen Seiten hin schützt. Wir dürfen bei keinem Extremismus auf dem rechten Auge blind sein.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Enge Zusammenarbeit im Krisenfall!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Bei Katastrophen oder Inlandseinsätzen ist die Truppe zwingend auf funktionierende zivile Strukturen angewiesen. Dass das Land hier konkretes Personal für die Abstimmung mit der Bundeswehr aufbaut, wertet er als überaus professionell.",
-      "begruendung_selbst": "Im Einsatzfall muss die Zusammenarbeit zwischen uns und den zivilen Behörden blind funktionieren. Dass hier die Verbindungen zur Truppe aktiv gestärkt werden, ist absolut der richtige Weg."
+      "begruendung_selbst": "Im Einsatzfall muss die Zusammenarbeit zwischen uns und den zivilen Behörden blind funktionieren. Dass hier die Verbindungen zur Truppe aktiv gestärkt werden, ist absolut der richtige Weg.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Richtiges Material für die Einsatzkräfte!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Da Stefan in der Bundeswehr selbst oft unter Ausrüstungsmängeln leidet, honoriert er es sehr, wenn Einsatzkräfte im Inneren moderne und wirksame Ausstattung erhalten. Für ihn ist eine gute Ausrüstung das wichtigste Zeichen politischer Wertschätzung.",
-      "begruendung_selbst": "Wer in Uniform den Kopf hinhält, braucht Material, das funktioniert. Dass die Polizei jetzt flächendeckend Taser bekommt, zeigt mir, dass man den Schutz der Einsatzkräfte ernst nimmt."
+      "begruendung_selbst": "Wer in Uniform den Kopf hinhält, braucht Material, das funktioniert. Dass die Polizei jetzt flächendeckend Taser bekommt, zeigt mir, dass man den Schutz der Einsatzkräfte ernst nimmt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klares Bekenntnis zur europäischen Verteidigung!",
@@ -72,7 +76,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Sein Dienstalltag ist maßgeblich von der Bedrohungslage an der NATO-Ostflanke geprägt. Die explizite Nennung der europäischen Verteidigungsfähigkeit als Priorität gibt ihm beruflichen Rückhalt und beruhigt ihn hinsichtlich der Verlässlichkeit der Politik.",
-      "begruendung_selbst": "Europa muss wehrhaft sein, das ist in der heutigen Lage überlebenswichtig. Dass Verteidigung dort oben auf der politischen Agenda steht, stärkt mir den Rücken für meinen Auftrag."
+      "begruendung_selbst": "Europa muss wehrhaft sein, das ist in der heutigen Lage überlebenswichtig. Dass Verteidigung dort oben auf der politischen Agenda steht, stärkt mir den Rücken für meinen Auftrag.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Verlässlichkeit für meine Familie!",
@@ -83,7 +88,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Versetzungen und Übungen fordern seiner Familie am Standort viel ab. Die Garantie einer verlässlichen Betreuungsinfrastruktur entlastet ihn privat enorm und ist für ihn eine zwingende Voraussetzung, um seinen fordernden Dienst leisten zu können.",
-      "begruendung_selbst": "Wenn ich auf Übung bin, muss zu Hause alles laufen. Eine wirklich verlässliche Kinderbetreuung ist für uns als Soldatenfamilie schlichtweg unverzichtbar."
+      "begruendung_selbst": "Wenn ich auf Übung bin, muss zu Hause alles laufen. Eine wirklich verlässliche Kinderbetreuung ist für uns als Soldatenfamilie schlichtweg unverzichtbar.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [],

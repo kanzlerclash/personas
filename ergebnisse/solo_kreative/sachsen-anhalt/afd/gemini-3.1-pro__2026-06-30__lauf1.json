@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mareike leidet stark unter administrativen Hürden, da diese für Soloselbstständige ohne große Kapazitäten kaum zu bewältigen sind. Jede Form von Entlastung verschafft ihr mehr Zeit für kreative Aufträge.",
-      "begruendung_selbst": "Endlich jemand, der sieht, wie sehr uns Kleinste dieser ständige Papierkram erdrückt. Ich will kreativ arbeiten, nicht ständig Formulare ausfüllen."
+      "begruendung_selbst": "Endlich jemand, der sieht, wie sehr uns Kleinste dieser ständige Papierkram erdrückt. Ich will kreativ arbeiten, nicht ständig Formulare ausfüllen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Spürbare Entlastung statt Dauerdruck!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Selbstständige mit schwankendem und eher niedrigem Einkommen belasten Steuern und Abgaben Mareike enorm. Sie hofft auf mehr Netto vom Brutto, um Rücklagen für Flauten bilden zu können.",
-      "begruendung_selbst": "Wenn am Ende des Monats weniger an das Finanzamt abfließt, hätte ich endlich mal die Chance, ein kleines finanzielles Polster aufzubauen."
+      "begruendung_selbst": "Wenn am Ende des Monats weniger an das Finanzamt abfließt, hätte ich endlich mal die Chance, ein kleines finanzielles Polster aufzubauen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schluss mit dem Kleinkram!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mareike empfindet jegliche zusätzliche Steuerpflicht als unverhältnismäßig im Vergleich zur Größe ihres Ein-Personen-Betriebs. Die Abschaffung komplexer Kleinsteuern kommt ihr direkt entgegen.",
-      "begruendung_selbst": "Jede Steuer weniger ist ein Segen. Der bürokratische Aufwand frisst bei uns Solos einfach unverhältnismäßig viel Lebenszeit."
+      "begruendung_selbst": "Jede Steuer weniger ist ein Segen. Der bürokratische Aufwand frisst bei uns Solos einfach unverhältnismäßig viel Lebenszeit.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich digital statt Zettelchaos!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Mareike bedeutet jede Behördenangelegenheit verlorene Arbeitszeit. Eine bürgernahe und digitale Verwaltung wäre eine enorme Erleichterung in ihrem oft stressigen Arbeitsalltag.",
-      "begruendung_selbst": "Bitte macht das endlich! Ich will meine Behördengänge nachts am Laptop erledigen können, anstatt Stunden auf irgendwelchen Ämtern zu verschwenden."
+      "begruendung_selbst": "Bitte macht das endlich! Ich will meine Behördengänge nachts am Laptop erledigen können, anstatt Stunden auf irgendwelchen Ämtern zu verschwenden.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Für Mareike ist freie und grenzenlose Kreativität eine Berufsgrundlage. Die Idee, Kunst staatlich zu lenken oder Förderung nach ideologischen Vorgaben zu verteilen, empfindet sie als existenzbedrohend.",
-      "begruendung_selbst": "Kunst muss frei sein und darf auch anecken. Wenn die Politik entscheidet, was „deutsch“ genug für eine Förderung ist, stirbt unsere freie Kreativszene."
+      "begruendung_selbst": "Kunst muss frei sein und darf auch anecken. Wenn die Politik entscheidet, was „deutsch“ genug für eine Förderung ist, stirbt unsere freie Kreativszene.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Böller sind keine Kunst!",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Kultur- und Medienschaffende ärgert sich Mareike über ein Kulturverständnis, das laute Böller als schützenswerte Tradition überhöht, während echte Kunstförderung ideologisch reglementiert werden soll.",
-      "begruendung_selbst": "Feuerwerk ist jetzt „Kultur“, aber unbequeme Kunst soll gestrichen werden? Das zeigt doch, wie oberflächlich das Kulturverständnis hier ist."
+      "begruendung_selbst": "Feuerwerk ist jetzt „Kultur“, aber unbequeme Kunst soll gestrichen werden? Das zeigt doch, wie oberflächlich das Kulturverständnis hier ist.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Vielfalt lässt sich nicht streichen!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Mareike vertritt liberale und diverse Lebensentwürfe, die nicht in klassische Raster passen. Die gezielte finanzielle Austrocknung progressiver Gruppen widerspricht ihren Werten von Offenheit und Vielfalt massiv.",
-      "begruendung_selbst": "Unsere Gesellschaft ist so viel bunter als dieses starre Schema. Die Streichung von Mitteln für progressive Projekte ist ein fataler Rückschritt."
+      "begruendung_selbst": "Unsere Gesellschaft ist so viel bunter als dieses starre Schema. Die Streichung von Mitteln für progressive Projekte ist ein fataler Rückschritt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Ein Schlag ins Gesicht!",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Solo-Selbstständige weiß Mareike um die strukturellen Nachteile für Frauen in der Arbeitswelt. Die generelle Abschaffung solcher Förderungen empfindet sie als ignorant gegenüber realen Ungleichheiten.",
-      "begruendung_selbst": "Als ob Frauen es im Job ohnehin schon so leicht hätten. Solche Programme ersatzlos zu streichen, ignoriert völlig die Realität, mit der wir kämpfen."
+      "begruendung_selbst": "Als ob Frauen es im Job ohnehin schon so leicht hätten. Solche Programme ersatzlos zu streichen, ignoriert völlig die Realität, mit der wir kämpfen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

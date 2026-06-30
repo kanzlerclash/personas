@@ -1,0 +1,185 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Der Arzt muss bleiben",
+      "thema": "gesundheit",
+      "programmpunkt": "Die SPD will medizinische Versorgung flächendeckend, erreichbar und verzahnt sichern und Krankenhäuser nicht an Kapitalinteressen ausrichten.",
+      "seite": 12,
+      "zitat": "„Eine flächendeckende, gut erreichbare und qualitativ hochwertige medizinische Versorgung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter leben auf dem Dorf und hängen stark daran, dass Arzt, Krankenhaus und Rettung erreichbar bleiben. Der Punkt bestätigt ihre wichtigste Alltagssorge: nicht im Alter medizinisch abgehängt zu werden.",
+      "begruendung_selbst": "Wenn einer von uns krank wird, brauchen wir Hilfe in erreichbarer Nähe. Wir können nicht erst lange Wege organisieren, nur weil wir auf dem Dorf wohnen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege nicht allein schultern",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflege soll so organisiert werden, dass Pflegebedürftige und Angehörige nicht überfordert werden; lokale Versorgungsnetzwerke und Nachbarschaftshilfe sollen gestärkt werden.",
+      "seite": 13,
+      "zitat": "„Sie darf nicht zur Überforderung für Pflegebedürftige und Angehörige werden.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Rentnerpaar fürchtet Pflegekosten und den Moment, in dem die Kinder aus der Ferne nicht alles auffangen können. Die Zusage spricht genau ihre Angst vor organisatorischer und finanzieller Überforderung an.",
+      "begruendung_selbst": "Wir wollen niemandem zur Last fallen, aber allein schafft man Pflege irgendwann nicht mehr. Gut, wenn das nicht nur Privatproblem der Familie bleibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zuhause alt werden",
+      "thema": "gesundheit",
+      "programmpunkt": "Die SPD will Quartiersansätze, wohnortnahe Unterstützung und organisierte Nachbarschaftshilfe ausbauen, damit Menschen länger selbstständig im eigenen Wohnumfeld leben können.",
+      "seite": 14,
+      "zitat": "„ein möglichst langes Leben in Selbstständigkeit und im eigenen Wohnumfeld“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das eigene Haus ist für Helga und Dieter ihr Hauptvermögen und ihr Lebensort. Alles, was selbstständiges Wohnen im Alter vor Ort stärkt, passt zu ihrem Wunsch nach Verlässlichkeit und Würde.",
+      "begruendung_selbst": "Unser Haus ist abbezahlt und hier kennen wir jeden Weg. Wenn Hilfe ins Wohnumfeld kommt, können wir länger bleiben, wo wir hingehören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Landärzte wirklich binden",
+      "thema": "gesundheit",
+      "programmpunkt": "Landarzt-, Amtsarzt- und Landzahnarztquote sollen fortgeführt und mehr Studienplätze sowie Auswahlverfahren für medizinische Berufe unterstützt werden.",
+      "seite": 14,
+      "zitat": "„Landarzt - , Amtsarzt - und Landzahnarztquote werden fortgeführt.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona sorgt sich ausdrücklich, was passiert, wenn der letzte Hausarzt aufhört. Eine fortgesetzte Landarztquote ist für sie ein konkreter Ansatz gegen genau diese Versorgungslücke.",
+      "begruendung_selbst": "Wenn unser Hausarzt in Rente geht, darf hier nicht Schluss sein. Es muss jemand nachkommen, sonst sind wir aufgeschmissen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom darf nicht auffressen",
+      "thema": "energie",
+      "programmpunkt": "Die SPD setzt auf bezahlbare Energiepreise für private Haushalte, eine Deckelung der Netzentgelte und eine Reduzierung der Stromsteuer.",
+      "seite": 5,
+      "zitat": "„bezahlbar en Energiepreisen für Unternehmen und private Haushalte“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bei kleinen Renten sind Strom- und Heizkosten für Helga und Dieter keine abstrakte Standortfrage, sondern Monatsbudget. Die angekündigten Entlastungen bestätigen ihren Wunsch nach planbaren Energiekosten.",
+      "begruendung_selbst": "Wir rechnen jede Nachzahlung durch. Wenn Stromsteuer und Netzentgelte runter sollen, ist das für uns handfest.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine zweite Miete",
+      "thema": "wohnen",
+      "programmpunkt": "Bei kommunaler Wärmeplanung und klimafreundlicher Wärmeversorgung sollen Kommunen unterstützt werden; Wärme darf für Haushalte nicht zu einer Zusatzbelastung wie eine zweite Miete werden.",
+      "seite": 43,
+      "zitat": "„Die klimafreundliche Wärmeversorgung darf keine zweite Miete werden.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Formulierung trifft den Kern ihrer Angst vor unbezahlbarer Wärmewende und steigenden Heizkosten. Sie signalisiert, dass Klimapolitik nicht einfach auf Haushalte mit wenig Rücklagen abgewälzt werden soll.",
+      "begruendung_selbst": "Genau davor haben wir Angst: Heizung umbauen und dann jeden Monat noch mehr zahlen. Wärme darf uns nicht das Haus unbezahlbar machen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus und Bahn bezahlbar",
+      "thema": "verkehr",
+      "programmpunkt": "Sachsen-Anhalt soll das Senioren-Abo des Deutschlandtickets mit etwa 20 Euro monatlich fördern und Mobilität im ganzen Land sichern.",
+      "seite": 42,
+      "zitat": "„das Abonnement des Deutschlandtickets für Senioren mit ca. 20 Euro/Monat fördern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Solange sie Auto fahren können, bleiben sie mobil; im Alter wird bezahlbarer ÖPNV aber wichtiger. Ein günstiger Seniorentarif nimmt ihnen etwas Sorge vor Abhängigkeit im ländlichen Raum.",
+      "begruendung_selbst": "Noch fahren wir Auto, aber ewig geht das nicht. Ein bezahlbares Ticket für Ältere wäre eine echte Reserve.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sicherheit beginnt vorm Haus",
+      "thema": "sicherheit",
+      "programmpunkt": "Kommunale Prävention, bessere Beleuchtung, sichere Wege und erreichbare Ansprechpersonen sollen das Sicherheitsgefühl vor Ort stärken.",
+      "seite": 30,
+      "zitat": "„gute Beleuchtung, sichere Verkehrswege und erreichbare Ansprechpersonen erhöhen das Sicherheitsgefühl“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter wünschen Ordnung und ein sicheres Gefühl im Ort, nicht nur abstrakte Sicherheitsdebatten. Lokale Präsenz und konkrete Maßnahmen im öffentlichen Raum passen zu dieser Erwartung.",
+      "begruendung_selbst": "Uns geht es nicht um große Sprüche. Wir wollen abends ordentlich Licht, sichere Wege und jemanden, den man ansprechen kann.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bitte keine Sanierungspflicht",
+      "thema": "klima",
+      "programmpunkt": "Die SPD will ein Klimaschutzgesetz mit verbindlichen Reduktionspfaden; aus Sicht des Rentnerpaars klingt das nach möglichem Druck auf Eigentümer alter Häuser.",
+      "seite": 22,
+      "zitat": "„Ein Klimaschutzgesetz schafft Verbindlichkeit und Überprüfbarkeit der Ziele“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter sind nicht gegen Umweltschutz, aber verbindliche Klimapfade lösen bei ihnen sofort die Sorge vor unbezahlbaren Pflichten am Eigenheim aus. Das Programm betont soziale Gerechtigkeit, bleibt hier aber für ihre konkrete Sanierungsangst zu abstrakt.",
+      "begruendung_selbst": "Wenn da Verbindlichkeit steht, fragen wir sofort: Wer muss am Ende zahlen? Unser Dach und die Heizung können nicht einfach per Gesetz neu werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Haushalte sind keine Betriebe",
+      "thema": "energie",
+      "programmpunkt": "Die SPD will Energieeffizienzpotenziale auch in privaten Haushalten heben; für das Rentnerpaar kann das wie weiterer Modernisierungsdruck auf ihr altes Haus wirken.",
+      "seite": 5,
+      "zitat": "„auch in Kommunen und privaten Haushalten weiter erfolgreich gehoben werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ihre größte Energiesorge ist nicht fehlender Wille zur Effizienz, sondern fehlendes Geld für große Maßnahmen. Ohne klare Zusage Förderung statt Pflicht klingt dieser Punkt für sie nach zusätzlichen Erwartungen an private Eigentümer.",
+      "begruendung_selbst": "Wir sparen schon, wo es geht. Aber wenn wieder Potenziale im privaten Haushalt gesucht werden, landet die Rechnung schnell bei uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rente bleibt zu vage",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm nennt Altersarmut als Aufgabe, bietet dem Rentnerpaar aber keine konkrete Zusage zu Rentenniveau oder Rentensicherheit.",
+      "seite": 15,
+      "zitat": "„Armutsbekämpfung bleibt eine zentrale Aufgabe“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Helga und Dieter ist die sichere gesetzliche Rente ein Kernanliegen. Eine allgemeine Armutsbekämpfung ist ihnen sympathisch, ersetzt aber aus ihrer Sicht keine klare Aussage, dass ihre Rente stabil bleibt und nicht zum Experiment wird.",
+      "begruendung_selbst": "Altersarmut bekämpfen ist richtig, aber wir wollen wissen, ob unsere Rente sicher bleibt. Nach einem Arbeitsleben braucht man da klare Worte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht nur digital bitte",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungsverfahren sollen konsequent digitalisiert werden; für ein älteres Paar mit analoger Mediennutzung bleibt das trotz persönlicher Erreichbarkeit ein Unsicherheitsfaktor.",
+      "seite": 56,
+      "zitat": "„Genehmigungs - und Verwaltungs verfahren werden deshalb konsequent Ende - zu - Ende digitalisiert“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter nutzen eher Zeitung, Telefon und persönliche Kontakte. Wenn Anträge zunehmend digital laufen, fürchten sie, bei komplizierten Leistungen oder Pflegefragen den Zugang zu verlieren.",
+      "begruendung_selbst": "Am Computer machen wir das nicht gern. Wenn alles digital läuft, brauchen wir trotzdem jemanden am Schalter oder am Telefon.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Junge zählen noch mehr",
+      "thema": "demokratie",
+      "programmpunkt": "Die SPD will das Wahlalter auf 16 senken; aus Sicht des Rentnerpaars verstärkt das die Sorge, dass Politik stärker auf Jüngere und Städte schaut.",
+      "seite": 25,
+      "zitat": "„Die Absenkung des Wahlalters auf 16 stärkt politische Teilhabe“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona sorgt sich, dass Ältere und ländliche Räume übersehen werden. Mehr Beteiligung Jugendlicher ist nicht grundsätzlich gegen sie gerichtet, kann aber ihr Gefühl verstärken, dass ihre eigenen Sorgen politisch weniger Gewicht bekommen.",
+      "begruendung_selbst": "Junge Leute sollen mitreden, ja. Aber manchmal haben wir den Eindruck, dass die Alten auf dem Dorf sowieso zuletzt gefragt werden.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter würden im SPD-Programm viele konkrete Entlastungs- und Versorgungssignale finden: medizinische Erreichbarkeit, Pflege im Wohnumfeld, bezahlbare Energie, Seniorenmobilität und Sicherheit vor Ort. Skeptisch bleiben sie dort, wo Klimaschutz, Energieeffizienz und Digitalisierung nach neuen Pflichten oder Zugangshürden klingen. Insgesamt überwiegt für dieses Rentnerpaar die Verlässlichkeit im Alltag, auch wenn die Rente selbst zu wenig konkret abgesichert wirkt.",
+    "score": 1
+  }
+}

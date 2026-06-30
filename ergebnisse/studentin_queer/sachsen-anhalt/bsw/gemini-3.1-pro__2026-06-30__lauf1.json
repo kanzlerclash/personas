@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule lebt von BAföG und einem Nebenjob. Die Forderung nach einer Ausweitung nimmt ihr die direkte Existenzangst im Studium und verschafft ihr mehr zeitlichen Freiraum.",
-      "begruendung_selbst": "Am Monatsende ist bei mir oft Ebbe. Wenn das BAföG wirklich ausgeweitet wird, müsste ich nicht mehr ganz so viel kellnern und hätte den Kopf freier fürs Studium."
+      "begruendung_selbst": "Am Monatsende ist bei mir oft Ebbe. Wenn das BAföG wirklich ausgeweitet wird, müsste ich nicht mehr ganz so viel kellnern und hätte den Kopf freier fürs Studium.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Stoppt den Mietenwahnsinn!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Studentin trifft sie jede Mietsteigerung sofort und unmittelbar. Die strikte Begrenzung von Mieten lindert den immensen finanziellen Druck in ihrem Alltag.",
-      "begruendung_selbst": "Die Miete für mein WG-Zimmer frisst fast mein ganzes Budget auf. Ein echter Mietendeckel wäre für mich die Rettung, bevor ich irgendwann ausziehen muss."
+      "begruendung_selbst": "Die Miete für mein WG-Zimmer frisst fast mein ganzes Budget auf. Ein echter Mietendeckel wäre für mich die Rettung, bevor ich irgendwann ausziehen muss.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Günstigerer Nahverkehr, ja bitte!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da sie auf den Nahverkehr angewiesen ist und kein eigenes Auto besitzt, bedeutet eine finanzielle Entlastung beim Ticket eine spürbare Verbesserung ihrer Mobilität.",
-      "begruendung_selbst": "Ich habe kein Auto und bin ständig mit der Bahn unterwegs. Dass das Ticket gesichert und noch billiger werden soll, hilft mir ungemein."
+      "begruendung_selbst": "Ich habe kein Auto und bin ständig mit der Bahn unterwegs. Dass das Ticket gesichert und noch billiger werden soll, hilft mir ungemein.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -63,7 +66,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als klimaengagierte junge Frau sieht sie in der weiteren Kohlenutzung eine direkte Bedrohung ihrer Lebensgrundlagen und einen klimapolitischen Rückschritt.",
-      "begruendung_selbst": "Wie können wir 2026 immer noch davon reden, dass Braunkohle Teil der Lösung ist? Das ist ein Schlag ins Gesicht für alle, die für Klimagerechtigkeit kämpfen."
+      "begruendung_selbst": "Wie können wir 2026 immer noch davon reden, dass Braunkohle Teil der Lösung ist? Das ist ein Schlag ins Gesicht für alle, die für Klimagerechtigkeit kämpfen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klimaschutz darf nicht gratis sein!",
@@ -74,7 +78,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Sie empfindet die Abschaffung der CO2-Abgabe als Blockade der Energiewende, da umweltschädliches Verhalten ohne einen solchen Preis nicht sanktioniert wird.",
-      "begruendung_selbst": "Ohne einen echten CO2-Preis wird sich nie etwas ändern. Den jetzt streichen zu wollen, blockiert genau den Wandel, den wir so dringend brauchen."
+      "begruendung_selbst": "Ohne einen echten CO2-Preis wird sich nie etwas ändern. Den jetzt streichen zu wollen, blockiert genau den Wandel, den wir so dringend brauchen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Meine Identität ist keine Ideologie!",
@@ -85,7 +90,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Sie fühlt sich durch die Herabwürdigung von Vielfalt als ,Ideologie‘ in ihrer eigenen queeren Identität angegriffen und befürchtet gesellschaftliche Ausgrenzung.",
-      "begruendung_selbst": "Wenn die Aufklärung über sexuelle Vielfalt an Schulen als ideologisch abgestempelt wird, schürt das nur Hass. Das verhindert echte Akzeptanz für Menschen wie mich."
+      "begruendung_selbst": "Wenn die Aufklärung über sexuelle Vielfalt an Schulen als ideologisch abgestempelt wird, schürt das nur Hass. Das verhindert echte Akzeptanz für Menschen wie mich.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Transfeindlichkeit pur!",
@@ -96,7 +102,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Jule steht solidarisch zur gesamten LGBT-Community und sieht im Pochen auf rein biologische Kategorien eine massive Gefahr für die Rechte von trans und nicht-binären Personen.",
-      "begruendung_selbst": "Das ist doch ein Rückfall ins letzte Jahrhundert! Wenn sie Rechte starr an die Biologie knüpfen, werden trans und nicht-binäre Menschen aktiv ausgegrenzt."
+      "begruendung_selbst": "Das ist doch ein Rückfall ins letzte Jahrhundert! Wenn sie Rechte starr an die Biologie knüpfen, werden trans und nicht-binäre Menschen aktiv ausgegrenzt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Aktivismus unter Generalverdacht!",
@@ -107,7 +114,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Für sie ist linker und umweltpolitischer Aktivismus oft von starken Protestformen geprägt. Sie befürchtet, dass unbequeme Kritik systematisch definanziert werden soll.",
-      "begruendung_selbst": "Wenn man berechtigten Protest sofort als 'Cancel Culture' abtut und die Fördergelder streicht, dann will man unsere zivilgesellschaftlichen Netzwerke doch bloß mundtot machen."
+      "begruendung_selbst": "Wenn man berechtigten Protest sofort als 'Cancel Culture' abtut und die Fördergelder streicht, dann will man unsere zivilgesellschaftlichen Netzwerke doch bloß mundtot machen.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

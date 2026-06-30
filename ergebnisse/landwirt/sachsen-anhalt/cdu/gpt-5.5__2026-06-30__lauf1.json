@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank fühlt sich von ständig neuen Auflagen und Nachweispflichten ausgebremst. Die Zusage zu weniger Bürokratie trifft seinen Kernkonflikt als selbstständiger Hofinhaber unmittelbar.",
-      "begruendung_selbst": "Wenn ich weniger Formulare und mehr Entscheidungsspielraum habe, kann ich endlich wieder mehr Landwirtschaft machen statt Akten sortieren."
+      "begruendung_selbst": "Wenn ich weniger Formulare und mehr Entscheidungsspielraum habe, kann ich endlich wieder mehr Landwirtschaft machen statt Akten sortieren.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Acker bleibt Acker!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank sorgt sich um Flächenfraß, Pachtkonkurrenz und den Verlust guter Böden. Ein Vorrang für landwirtschaftliche Nutzflächen schützt die Grundlage seines Betriebs.",
-      "begruendung_selbst": "Ohne Boden gibt es keinen Hof. Wenn gute Äcker nicht mehr für jeden Ausgleich und jedes Gewerbegebiet herhalten sollen, ist das genau richtig."
+      "begruendung_selbst": "Ohne Boden gibt es keinen Hof. Wenn gute Äcker nicht mehr für jeden Ausgleich und jedes Gewerbegebiet herhalten sollen, ist das genau richtig.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Beim Wolf wird es praktisch!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mit seiner Mutterkuhherde erlebt Frank den Wolf nicht als abstraktes Naturschutzthema, sondern als Risiko für Weidetiere und Betriebsalltag. Die Forderung nach Regulierung bestätigt seine Sicht auf den Konflikt.",
-      "begruendung_selbst": "Ich will keinen Streit um Prinzipien, ich will meine Tiere sicher auf der Weide haben. Regulieren heißt: endlich Realität anerkennen."
+      "begruendung_selbst": "Ich will keinen Streit um Prinzipien, ich will meine Tiere sicher auf der Weide haben. Regulieren heißt: endlich Realität anerkennen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "CO2 darf nicht alles auffressen!",
@@ -61,7 +64,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank ist nicht gegen Klimaschutz, aber er misst ihn an den konkreten Kosten für Diesel, Trocknung, Kühlung und Maschinen. Eine Ausnahme von steigenden CO2-Kosten würde seinen engen Liquiditätsspielraum direkt entlasten.",
-      "begruendung_selbst": "Ich kann die Ernte nicht mit guten Worten einfahren. Wenn CO2-Kosten weiter steigen, bleibt am Ende wieder weniger auf dem Hof."
+      "begruendung_selbst": "Ich kann die Ernte nicht mit guten Worten einfahren. Wenn CO2-Kosten weiter steigen, bleibt am Ende wieder weniger auf dem Hof.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Rote Gebiete fair prüfen!",
@@ -72,7 +76,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Düngevorgaben gehören zu Franks wichtigsten Belastungen, weil sie Ertrag, Planung und Dokumentation gleichzeitig betreffen. Eine verursachergerechte Definition spricht seinen Wunsch nach fairer, betriebsnaher Regulierung an.",
-      "begruendung_selbst": "Wenn ich sauber arbeite, will ich nicht für Messstellen und Pauschalregeln mitbestraft werden. Prüft ordentlich, dann kann ich damit umgehen."
+      "begruendung_selbst": "Wenn ich sauber arbeite, will ich nicht für Messstellen und Pauschalregeln mitbestraft werden. Prüft ordentlich, dann kann ich damit umgehen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Tierhaltung braucht Planung!",
@@ -83,7 +88,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Franks kleine Mutterkuhherde reagiert empfindlich auf neue technische Standards, Stallauflagen und laufende Mehrkosten. Das Versprechen, zusätzliche Verschärfungen abzulehnen, gibt ihm die gewünschte Planungssicherheit.",
-      "begruendung_selbst": "Ich halte die Tiere ordentlich. Aber wenn jedes Jahr neue Standards kommen, lohnt sich am Ende keine Kuh mehr auf der Weide."
+      "begruendung_selbst": "Ich halte die Tiere ordentlich. Aber wenn jedes Jahr neue Standards kommen, lohnt sich am Ende keine Kuh mehr auf der Weide.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Meine Tochter hätte eine Chance!",
@@ -94,7 +100,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank hofft, dass seine Tochter den Hof übernehmen kann, zweifelt aber an den Bedingungen. Förderung für Unternehmensnachfolgen adressiert genau diese familiäre und wirtschaftliche Zukunftsfrage.",
-      "begruendung_selbst": "Wenn meine Tochter den Hof übernehmen soll, braucht sie nicht Sonntagsreden, sondern echte Starthilfe und verlässliche Bedingungen."
+      "begruendung_selbst": "Wenn meine Tochter den Hof übernehmen soll, braucht sie nicht Sonntagsreden, sondern echte Starthilfe und verlässliche Bedingungen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Strom muss bezahlbar bleiben!",
@@ -105,7 +112,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Franks Betrieb hat steigende Energiebedarfe für Bewässerung, Trocknung, Kühlung und Technik. Niedrigere regionale Strompreise würden seine laufenden Kosten direkt berühren.",
-      "begruendung_selbst": "Wenn hier der Windstrom produziert wird, soll mein Betrieb auch etwas davon haben. Hohe Strompreise machen jede Investition schwerer."
+      "begruendung_selbst": "Wenn hier der Windstrom produziert wird, soll mein Betrieb auch etwas davon haben. Hohe Strompreise machen jede Investition schwerer.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -118,7 +126,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Frank sieht neue Industrieansiedlungen durch die Brille von Flächenkonkurrenz, steigenden Pachten und Druck auf Ackerland. Auch wenn das Programm später landwirtschaftliche Flächen schützen will, bleibt die Ansiedlungsoffensive für ihn ein möglicher Konflikt um Boden.",
-      "begruendung_selbst": "Neue Firmen sind schön und gut, aber wenn am Ende wieder Fläche gesucht wird, schaut man zuerst aufs Feld neben dem Dorf."
+      "begruendung_selbst": "Neue Firmen sind schön und gut, aber wenn am Ende wieder Fläche gesucht wird, schaut man zuerst aufs Feld neben dem Dorf.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Neue Straßen kosten Fläche!",
@@ -129,7 +138,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Frank profitiert grundsätzlich von Erreichbarkeit, aber neue und verbreiterte Trassen bedeuten aus seiner Sicht oft Flächenverlust, Zerschneidung und langwierige Entschädigungsfragen. Sein Flächenproblem wird dadurch nicht kleiner.",
-      "begruendung_selbst": "Ich brauche Straßen, klar. Aber wenn aus Ausbau wieder Ackerverlust wird, zahlt der Betrieb den Preis."
+      "begruendung_selbst": "Ich brauche Straßen, klar. Aber wenn aus Ausbau wieder Ackerverlust wird, zahlt der Betrieb den Preis.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Biotop klingt nach neuer Auflage!",
@@ -140,7 +150,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Frank misstraut Naturschutzprogrammen, wenn sie am Ende als Nutzungsauflagen auf seinen Flächen landen. Der Punkt ist moderat formuliert, trifft aber seine Sorge, dass Umweltziele wieder über die Köpfe der Bewirtschafter hinweg konkret werden.",
-      "begruendung_selbst": "Bei Biotopvernetzung höre ich schon die nächste Karte, die mir sagt, was ich auf welchem Schlag noch darf."
+      "begruendung_selbst": "Bei Biotopvernetzung höre ich schon die nächste Karte, die mir sagt, was ich auf welchem Schlag noch darf.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Deich zurück heißt Fläche weg!",
@@ -151,7 +162,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Frank kann Wasserrückhalt fachlich nachvollziehen, reagiert aber empfindlich, wenn Hochwasser- und Gewässerpolitik auf bewirtschaftete Flächen zugreift. Der angekündigte Einbezug der Eigentümer mildert den Konflikt, nimmt ihm aber nicht die Sorge um nutzbare Fläche.",
-      "begruendung_selbst": "Wasser muss gemanagt werden, keine Frage. Aber wenn ein Deich wandert, wandert für mich oft auch Ertragsfläche aus dem Betrieb."
+      "begruendung_selbst": "Wasser muss gemanagt werden, keine Frage. Aber wenn ein Deich wandert, wandert für mich oft auch Ertragsfläche aus dem Betrieb.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Agri-PV treibt Pachten!",
@@ -162,7 +174,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Frank begrüßt, dass hochwertige Ackerböden geschützt werden, sieht aber auch auf schwächeren Böden Pachtkonkurrenz durch Energieprojekte. Für einen Betrieb mit knappen Flächen und Krediten kann Agri-PV als zusätzlicher Preisdruck erscheinen.",
-      "begruendung_selbst": "Auch ein schwächerer Acker ist für mich Betriebsgrundlage. Wenn Solar mehr Pacht zahlt als Landwirtschaft, wird es für Höfe enger."
+      "begruendung_selbst": "Auch ein schwächerer Acker ist für mich Betriebsgrundlage. Wenn Solar mehr Pacht zahlt als Landwirtschaft, wird es für Höfe enger.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

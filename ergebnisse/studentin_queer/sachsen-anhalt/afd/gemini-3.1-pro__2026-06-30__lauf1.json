@@ -29,7 +29,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Jule sieht ihre eigene hart erkämpfte Identität und die Freiheiten queerer Jugendlicher durch diese aggressive Ablehnung von Transitionen direkt bedroht.",
-      "begruendung_selbst": "Wenn sie Trans-Jugendlichen die nötige medizinische Hilfe verbieten wollen, greifen sie unsere grundlegendsten Rechte auf Selbstbestimmung an. Das macht mir wirklich Angst!"
+      "begruendung_selbst": "Wenn sie Trans-Jugendlichen die nötige medizinische Hilfe verbieten wollen, greifen sie unsere grundlegendsten Rechte auf Selbstbestimmung an. Das macht mir wirklich Angst!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wissenschaftsfreiheit wird hier abgeschafft!",
@@ -40,7 +41,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Für Jule als Sozialwissenschafts-Studentin ist die geforderte Abschaffung kritischer und emanzipatorischer Lehrstühle ein direkter Eingriff in die akademische Freiheit und ihre Werte.",
-      "begruendung_selbst": "Das ist ein absoluter Angriff auf meine Wissenschaftsfreiheit! Die wollen einfach alle kritischen Perspektiven auf Gesellschaft und Geschlecht von der Uni verbannen."
+      "begruendung_selbst": "Das ist ein absoluter Angriff auf meine Wissenschaftsfreiheit! Die wollen einfach alle kritischen Perspektiven auf Gesellschaft und Geschlecht von der Uni verbannen.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Meine Zukunft wird einfach verkauft!",
@@ -51,7 +53,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Jule empfindet die Ablehnung der Energiewende als direkte Gefährdung ihrer eigenen Zukunft und einen Verrat an den Zielen der Klimagerechtigkeit.",
-      "begruendung_selbst": "Erneuerbare Energien als Umweltzerstörung zu bezeichnen, ist blanker Hohn. Die ignorieren die Klimakrise komplett und verspielen damit rücksichtslos meine Zukunft."
+      "begruendung_selbst": "Erneuerbare Energien als Umweltzerstörung zu bezeichnen, ist blanker Hohn. Die ignorieren die Klimakrise komplett und verspielen damit rücksichtslos meine Zukunft.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Studium nur noch für Reiche!",
@@ -62,7 +65,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als BAföG-Empfängerin mit ohnehin knappem Budget wäre Jule von dieser Umstellung existenziell bedroht, da soziale Bedürftigkeit keine Rolle mehr spielen soll.",
-      "begruendung_selbst": "Ich komme nur dank BAföG finanziell überhaupt über die Runden. Wenn sie das durch ein reines Leistungsstipendium ersetzen, kann ich mein Studium direkt abbrechen!"
+      "begruendung_selbst": "Ich komme nur dank BAföG finanziell überhaupt über die Runden. Wenn sie das durch ein reines Leistungsstipendium ersetzen, kann ich mein Studium direkt abbrechen!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Ausgrenzung pur!",
@@ -73,7 +77,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Jule sieht in der Herabwürdigung von Alleinerziehenden und anderen Familienmodellen ein massiv ausgrenzendes Gesellschaftsbild, das Minderheiten systematisch diskriminiert.",
-      "begruendung_selbst": "Dass sie Alleinerziehenden und queeren Paaren absprechen, eine 'richtige' Familie zu sein, ist einfach nur diskriminierend und weltfremd."
+      "begruendung_selbst": "Dass sie Alleinerziehenden und queeren Paaren absprechen, eine 'richtige' Familie zu sein, ist einfach nur diskriminierend und weltfremd.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Demokratie an der Uni abschaffen?",
@@ -84,7 +89,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Als engagierte Studentin sieht Jule die geplante Entmachtung studentischer Gremien als massiven Abbau demokratischer Mitbestimmung an der Hochschule.",
-      "begruendung_selbst": "Studentenräte setzen sich für unsere sozialen Belange ein! Wenn die AfD uns diese demokratische Stimme nimmt, sind wir den Strukturen an der Uni komplett ausgeliefert."
+      "begruendung_selbst": "Studentenräte setzen sich für unsere sozialen Belange ein! Wenn die AfD uns diese demokratische Stimme nimmt, sind wir den Strukturen an der Uni komplett ausgeliefert.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

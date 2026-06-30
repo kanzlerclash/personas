@@ -1,0 +1,185 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkram",
+      "thema": "demokratie",
+      "programmpunkt": "Die SPD will Berichtspflichten prüfen, Doppelbelastungen reduzieren und Dokumentationspflichten vereinfachen oder abschaffen.",
+      "seite": 4,
+      "zitat": "„Dokumentationspflichten werden vereinfacht oder abgeschafft.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank erlebt Dokumentation und Förderanträge als dauernden Eingriff in seine Arbeitszeit. Der angekündigte Bürokratieabbau trifft deshalb einen Kern seiner wirtschaftlichen und persönlichen Frustration.",
+      "begruendung_selbst": "Wenn die wirklich was an den Formularen und Nachweisen drehen, ist das für mich mehr wert als die nächste Sonntagsrede.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die SPD setzt auf gedeckelte Netzentgelte, digitalisierte Netze und eine Senkung der Stromsteuer.",
+      "seite": 5,
+      "zitat": "„eine Reduzierung der Stromsteuer“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Frank schlagen Strom- und Energiekosten bei Lagerung, Trocknung, Kühlung und allgemeinem Betrieb direkt auf die Marge durch. Niedrigere Stromsteuer und Netzentgelte passen zu seinem Wunsch nach Entlastung statt neuer Kosten.",
+      "begruendung_selbst": "Bei mir laufen Maschinen, Kühlung und Trocknung nicht mit guten Worten. Wenn Strom billiger wird, merke ich das sofort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hofnachfolge braucht Boden",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die SPD will aktive Betriebe, Neugründungen und Hofnachfolgen beim Zugang zu Flächen unterstützen.",
+      "seite": 45,
+      "zitat": "„Hofnachfolgen bereitzustellen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sorgt sich, ob seine Tochter den Hof unter Flächendruck und Pachtkonkurrenz übernehmen kann. Eine Flächenpolitik zugunsten aktiver Betriebe und Nachfolge berührt seine Zukunftsfrage unmittelbar.",
+      "begruendung_selbst": "Wenn meine Tochter weitermachen soll, braucht sie Zugriff auf Fläche und nicht nur die großen Bieter im Nacken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht gegen uns entscheiden",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die SPD will ein agrarpolitisches Leitbild im Dialog mit Betroffenen entwickeln und die besonderen Strukturen Sachsen-Anhalts berücksichtigen.",
+      "seite": 45,
+      "zitat": "„gemeinsam mit den Betroffenen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich häufig von städtischer Politik und Behörden übergangen. Die Zusage, Betroffene einzubeziehen, bestätigt seinen Anspruch, dass Praktiker bei Agrarregeln mit am Tisch sitzen müssen.",
+      "begruendung_selbst": "Über Landwirtschaft sollen nicht nur Leute reden, die den Acker aus dem Zugfenster kennen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erträge sichern, nicht träumen",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die SPD will integrierten Pflanzenschutz, Präzisionslandwirtschaft sowie Forschung und Beratung gegen neue Schaderreger stärken.",
+      "seite": 46,
+      "zitat": "„reduzieren Risiken und sichern Erträge“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank ist nicht gegen Umweltziele, will aber praxistaugliche Mittel gegen Trockenheit, Schädlinge und Ertragsausfälle. Der Fokus auf Pflanzenschutz, Präzision und pragmatische Lösungen spricht seinen betrieblichen Alltag an.",
+      "begruendung_selbst": "Ich brauche keine Belehrung, ich brauche Sorten, Beratung und Technik, damit am Ende auch was vom Feld kommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Regional verkaufen hilft",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die SPD will Direktvermarktung, Hofläden, Wochenmärkte und regionale Absatzinitiativen fördern und Kontrollpflichten angemessen reduzieren.",
+      "seite": 47,
+      "zitat": "„reduzieren die Kontrollpflichten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Faire Erzeugerpreise und regionale Wertschöpfung gehören zu Franks Hoffnungen. Erleichterungen für Direktvermarkter und weniger Kontrollen nach Betriebsumfang würden kleinen Angeboten vor Ort Luft verschaffen.",
+      "begruendung_selbst": "Wenn ich regional verkaufen soll, darf mich der Papierkram nicht auffressen, bevor der erste Kunde kommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Acker bleibt fürs Essen",
+      "thema": "energie",
+      "programmpunkt": "Die SPD betont den Vorrang der Lebensmittelproduktion auf landwirtschaftlichen Flächen und will Energieanlagen nur bei vermiedenen Nutzungskonflikten.",
+      "seite": 47,
+      "zitat": "„Landwirtschaftliche Flächen dienen vorrangig der Lebensmittelproduktion.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fürchtet Flächenfraß und Konkurrenz um Pachtflächen. Die Priorisierung von Lebensmittelproduktion vor Energieprojekten nimmt diesen Konflikt ernst.",
+      "begruendung_selbst": "Solar und Biogas ja, aber der Acker ist zuerst dafür da, dass etwas wächst und gegessen wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Internet bis zum Hof",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die SPD will leistungsfähiges Internet für jeden landwirtschaftlichen Betrieb sichern.",
+      "seite": 48,
+      "zitat": "„Jeder landwirtschaftliche Betrieb muss Zugang zu leistungsfähigem Internet haben.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Moderne Maschinen, Anträge, Wetterdaten und Präzisionslandwirtschaft hängen auch auf Franks Hof an verlässlicher Verbindung. Breitband bis zum Betrieb passt zu seinem Wunsch nach praktischer Infrastruktur im ländlichen Raum.",
+      "begruendung_selbst": "Ohne vernünftiges Netz kann ich heute weder sauber wirtschaften noch die ganzen digitalen Nachweise erledigen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimagesetz heißt neue Vorgaben",
+      "thema": "klima",
+      "programmpunkt": "Die SPD will ein verbindliches Klimaschutzgesetz mit Reduktionspfaden für Treibhausgasemissionen.",
+      "seite": 22,
+      "zitat": "„Ein Klimaschutzgesetz schafft Verbindlichkeit“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank leugnet Klimawandel nicht, misstraut aber verbindlichen Klimarahmen, weil sie für ihn oft in neue Auflagen und Kosten übersetzt werden. Die angekündigten Reduktionspfade wirken aus seiner Sicht wie weitere Planung von oben.",
+      "begruendung_selbst": "Verbindlichkeit klingt im Ministerium gut, bei mir heißt das am Ende meistens neue Auflagen und neue Kosten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Standards bleiben die Fessel",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die SPD will Genehmigungs- und Dokumentationspflichten vereinfachen, dabei aber bestehende Standards nicht absenken.",
+      "seite": 45,
+      "zitat": "„ohne bestehende Standards abzusenken“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank begrüßt weniger Dokumentation, sieht aber viele Standards selbst als Teil des Problems. Wenn die Standards unangetastet bleiben, klingt die Entlastung für ihn nur halbherzig.",
+      "begruendung_selbst": "Wenn alles gleich streng bleibt, nur digitaler, dann sitze ich trotzdem abends am Schreibtisch statt im Betrieb.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Brüssel bleibt im Nacken",
+      "thema": "klima",
+      "programmpunkt": "Die SPD stellt die Umsetzung europäischer Naturschutzvorgaben, insbesondere der EU-Wiederherstellungsverordnung, in den Mittelpunkt.",
+      "seite": 23,
+      "zitat": "„EU - Wiederherst ellungsverordnung im Fokus“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank hat ein tiefes Misstrauen gegenüber EU-Regeln, die Bewirtschaftung und Flächennutzung verändern können. Auch wenn Kooperation versprochen wird, löst der Fokus auf EU-Wiederherstellung bei ihm Sorge vor neuen Vorgaben aus.",
+      "begruendung_selbst": "Sobald Brüssel im Fokus steht, frage ich mich, welche Fläche oder Nutzung als Nächstes dran ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch ein Pflichtfonds",
+      "thema": "arbeit",
+      "programmpunkt": "Die SPD will einen Ausbildungsfonds, in den alle Unternehmen einzahlen.",
+      "seite": 9,
+      "zitat": "„in das alle Unternehmen einzahlen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank trägt schon hohe laufende Kosten und schwankende Einnahmen. Eine zusätzliche verpflichtende Zahlung für alle Unternehmen wirkt auf ihn wie eine weitere Abgabe, auch wenn sie Ausbildung stärken soll.",
+      "begruendung_selbst": "Ich bilde gern aus, aber ein neuer Topf, in den alle zahlen müssen, ist wieder eine Pflicht mehr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hofübergabe wird riskant",
+      "thema": "steuern",
+      "programmpunkt": "Die SPD fordert die Streichung bisheriger Erbschaftsteuerprivilegien und einen Freibetrag von 5 Millionen Euro für kleine und mittlere Unternehmen.",
+      "seite": 54,
+      "zitat": "„Privilegien für Vermögende in den §§ 13a, 13b und 28a ErbStG“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Franks Vermögen steckt in Boden, Maschinen und Betrieb, nicht in frei verfügbarem Geld. Bei der möglichen Hofübergabe an seine Tochter sieht er jede Verschärfung der Erbschaftsteuer als Gefahr für Liquidität und Nachfolge.",
+      "begruendung_selbst": "Auf dem Papier bin ich vermögend, aber davon bezahle ich keine Erbschaftsteuer, ohne dem Hof Substanz zu nehmen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank würde im SPD-Programm überraschend viele konkrete Anerkennungspunkte für Landwirtschaft, Bürokratieabbau, Hofnachfolge, Energiepreise und ländliche Infrastruktur finden. Zugleich blieben seine Grundskepsis gegenüber Klimagesetzen, EU-Naturschutzvorgaben, neuen Pflichtabgaben und Eingriffen in Betriebsübergaben deutlich bestehen. Insgesamt überwiegen für ihn die direkt belegbaren Entlastungs- und Anerkennungsangebote knapp gegenüber den ordnungspolitischen Bauchschmerzen.",
+    "score": 1
+  }
+}

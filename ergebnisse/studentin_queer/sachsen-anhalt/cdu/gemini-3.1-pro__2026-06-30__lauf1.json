@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule hat ein sehr knappes Budget und ist im Alltag stark auf den Nahverkehr angewiesen. Der Erhalt des günstigen Tickets nimmt ihr eine finanzielle Sorge.",
-      "begruendung_selbst": "Ohne bezahlbaren ÖPNV wäre ich aufgeschmissen, jeder Euro mehr für Tickets tut am Monatsende weh. Gut, dass das Ticket bleiben soll."
+      "begruendung_selbst": "Ohne bezahlbaren ÖPNV wäre ich aufgeschmissen, jeder Euro mehr für Tickets tut am Monatsende weh. Gut, dass das Ticket bleiben soll.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Fahrrad-Infrastruktur ist überfällig!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Da sie umweltbewusst lebt und viel mit dem Fahrrad fährt, profitiert Jule direkt von einer sichereren und besser ausgebauten Radinfrastruktur.",
-      "begruendung_selbst": "Endlich mal was für uns Radfahrer. Ich bin jeden Tag in der Stadt auf zwei Rädern unterwegs und brauche sichere Wege."
+      "begruendung_selbst": "Endlich mal was für uns Radfahrer. Ich bin jeden Tag in der Stadt auf zwei Rädern unterwegs und brauche sichere Wege.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Städte müssen Hitzesommer aushalten!",
@@ -50,7 +52,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule erlebt die Sommer in ihrer Großstadt-WG als belastend heiß. Investitionen in Klimaresilienz und Kühlung entsprechen ihrem Bedürfnis nach lebenswerten Städten.",
-      "begruendung_selbst": "Im Sommer steht die Luft in meinem WG-Zimmer oft wochenlang. Wenn die Stadt nicht endlich hitzefest wird, können wir hier bald nicht mehr leben."
+      "begruendung_selbst": "Im Sommer steht die Luft in meinem WG-Zimmer oft wochenlang. Wenn die Stadt nicht endlich hitzefest wird, können wir hier bald nicht mehr leben.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gegen jeden Hass!",
@@ -61,7 +64,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Als queere Aktivistin, die sich für Minderheitenrechte einsetzt, teilt Jule das unbedingte Anliegen, Hass und Extremismus konsequent zu bekämpfen.",
-      "begruendung_selbst": "Minderheitenschutz ist für mich nicht verhandelbar. Wer Hass sät und andere ausgrenzt, muss von der Gesellschaft eine klare Grenze aufgezeigt bekommen."
+      "begruendung_selbst": "Minderheitenschutz ist für mich nicht verhandelbar. Wer Hass sät und andere ausgrenzt, muss von der Gesellschaft eine klare Grenze aufgezeigt bekommen.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -74,7 +78,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Für die klimabewegte Studentin ist das Festhalten an fossilen Energieträgern eine direkte Bedrohung ihrer Zukunft. Der langsame Ausstieg bis 2038 ist für sie inakzeptabel.",
-      "begruendung_selbst": "Das ist ein Schlag ins Gesicht meiner Generation! Wir haben absolut keine Zeit bis 2038, hier geht es um meine zukünftige Lebensgrundlage."
+      "begruendung_selbst": "Das ist ein Schlag ins Gesicht meiner Generation! Wir haben absolut keine Zeit bis 2038, hier geht es um meine zukünftige Lebensgrundlage.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Fossile Privilegien bleiben unangetastet!",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Jule sieht in der Verteidigung von Verbrennungsmotoren eine verfehlte Prioritätensetzung der Automobil-Lobby zulasten einer echten und nachhaltigen Verkehrswende.",
-      "begruendung_selbst": "Statt die Verkehrswende mutig anzugehen, wird hier nur die fossile Lobby bedient. So wird das nichts mit dem Klimaschutz!"
+      "begruendung_selbst": "Statt die Verkehrswende mutig anzugehen, wird hier nur die fossile Lobby bedient. So wird das nichts mit dem Klimaschutz!",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mietendeckel-Verbot ist unsozial!",
@@ -96,7 +102,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Aufgrund ihres knappen Budgets ist Jule dringend auf bezahlbaren Wohnraum angewiesen. Den kategorischen Verzicht auf Mietregulierungen sieht sie als große Gefahr für Mieterinnen wie sie.",
-      "begruendung_selbst": "Wie soll ich mir mein WG-Zimmer bald noch leisten können? Den freien Markt einfach machen zu lassen, hilft uns Studierenden überhaupt nicht."
+      "begruendung_selbst": "Wie soll ich mir mein WG-Zimmer bald noch leisten können? Den freien Markt einfach machen zu lassen, hilft uns Studierenden überhaupt nicht.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Meine Identität ist keine 'Symbolpolitik'!",
@@ -107,7 +114,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Für Jule als queere Person ist gendergerechte Sprache ein Ausdruck von Respekt und gesellschaftlicher Sichtbarkeit. Die konsequente Ablehnung empfindet sie als ausgrenzend.",
-      "begruendung_selbst": "Es geht hier um meine Existenz und einfachen Respekt, nicht um angebliche 'Symbolpolitik'. Solche Sätze zeigen mir ganz klar, dass meine Lebensrealität hier abgewertet wird."
+      "begruendung_selbst": "Es geht hier um meine Existenz und einfachen Respekt, nicht um angebliche 'Symbolpolitik'. Solche Sätze zeigen mir ganz klar, dass meine Lebensrealität hier abgewertet wird.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Spaltung statt Solidarität!",
@@ -118,7 +126,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Jules Menschenbild ist solidarisch. Den Zwang zur Arbeit für Transferleistungsempfänger empfindet sie als neoliberalen Druck und als Ausspielen von gesellschaftlich schwachen Gruppen.",
-      "begruendung_selbst": "Das ist genau diese wirtschaftsliberale Härte, die soziale Notlagen völlig ignoriert und Menschen unter Generalverdacht stellt. Wahre Solidarität sieht für mich ganz anders aus."
+      "begruendung_selbst": "Das ist genau diese wirtschaftsliberale Härte, die soziale Notlagen völlig ignoriert und Menschen unter Generalverdacht stellt. Wahre Solidarität sieht für mich ganz anders aus.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Bildung darf kein Privileg sein!",
@@ -129,7 +138,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Jule steht für soziale Teilhabe und gleiche Rechte für alle. Studiengebühren empfindet sie als Barriere, die Menschen aus ärmeren Ländern oder dem globalen Süden diskriminiert.",
-      "begruendung_selbst": "Bildung muss gebührenfrei bleiben – und zwar für alle! Das ist eine extrem ausgrenzende Hürde, die internationale Kommilitonen aufgrund ihrer Herkunft benachteiligt."
+      "begruendung_selbst": "Bildung muss gebührenfrei bleiben – und zwar für alle! Das ist eine extrem ausgrenzende Hürde, die internationale Kommilitonen aufgrund ihrer Herkunft benachteiligt.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

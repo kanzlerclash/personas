@@ -16,7 +16,7 @@
     "bevoelkerung": "tsx src/pipeline/bevoelkerung.ts",
     "site:data": "tsx src/site/build-data.ts",
     "build": "tsx src/ssg/build.ts",
-    "preview": "PAGES_BASE=/ tsx src/ssg/build.ts && python3 -m http.server --directory dist 4173",
+    "preview": "PAGES_BASE=/personas/ tsx src/ssg/build.ts && python3 -m http.server --directory dist 4173",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {

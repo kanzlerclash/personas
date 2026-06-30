@@ -1,0 +1,161 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Grunderwerbsteuer runter",
+      "thema": "steuern",
+      "programmpunkt": "Die CDU will beim erstmaligen Kauf selbstgenutzten Wohneigentums im ländlichen Raum von der Grunderwerbsteuer befreien.",
+      "seite": 31,
+      "zitat": "„Grunderwerbsteuerbefreiung beim erstmaligen Erwerb selbstgenutzten Wohneigentums“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Tom und Jessica ist die Grunderwerbsteuer ein konkreter Eigenkapitalfresser beim ersten Hauskauf. Diese Entlastung trifft ihren Wunsch nach eigenen vier Wänden direkt.",
+      "begruendung_selbst": "Genau an solchen Nebenkosten scheitert bei uns die Finanzierung. Wenn der Staat da wirklich runtergeht, kommen wir dem Haus ein Stück näher.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Baukindergeld hilft Familien",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU will auf Bundesebene das Baukindergeld wieder einführen und Eigentum besonders für Familien und Erwerbstätige erleichtern.",
+      "seite": 65,
+      "zitat": "„Wiedereinführung des Baukindergeldes“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona sucht eine reale Förderung, die die Finanzierungslücke junger Familien verkleinert. Baukindergeld passt zu ihrem Aufstiegsbild: Arbeit, Kinder und Eigentum sollen zusammen möglich sein.",
+      "begruendung_selbst": "Wir arbeiten beide und ziehen ein Kind groß. Wenn Familien beim Eigenheim wieder extra unterstützt werden, fühlt sich das fair an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauanträge ohne Warteschleife",
+      "thema": "demokratie",
+      "programmpunkt": "Baugenehmigungen sollen einfacher, schneller und digitaler werden; Kommunen sollen ein durchgängig digitales Bauamt bekommen.",
+      "seite": 65,
+      "zitat": "„Bauen einfacher, schneller und digitaler machen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica rechnen eng und brauchen Planbarkeit. Schnellere Genehmigungen senken das Risiko, dass Baukosten während langer Verfahren weiter steigen.",
+      "begruendung_selbst": "Wenn wir irgendwann bauen, darf der Antrag nicht monatelang alles verteuern. Tempo im Bauamt ist für uns bares Geld.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine teure Solarpflicht",
+      "thema": "energie",
+      "programmpunkt": "Beim Photovoltaikausbau setzt die CDU auf Freiwilligkeit und lehnt eine Solarpflicht für Neubauten und Dachsanierungen ab.",
+      "seite": 46,
+      "zitat": "„lehnen jegliche Form der Solarpflicht bei Neubauten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona ist nicht gegen moderne Energie, fürchtet aber zusätzliche Baupflichten. Die Ablehnung einer Solarpflicht bestätigt ihre Sorge vor Auflagen, die den Einstieg ins Eigenheim verteuern.",
+      "begruendung_selbst": "Solar kann sinnvoll sein, aber bitte nicht als Pflicht obendrauf, wenn die Finanzierung sowieso schon am Limit ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die CDU will niedrigere regionale Strompreise und Entlastung bei Netzentgelten, damit Haushalte in Sachsen-Anhalt vom Windstrom profitieren.",
+      "seite": 44,
+      "zitat": "„den Unternehmen und Haushalten in Sachsen - Anhalt zugutekomm e n“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiepreise belasten das Monatsbudget und jede spätere Heizungs- oder Modernisierungsrechnung. Der Fokus auf Haushalte und Netzentgelte passt zu ihrem Wunsch nach kalkulierbaren laufenden Kosten.",
+      "begruendung_selbst": "Wir brauchen nicht noch höhere Stromrechnungen. Wenn hier Windstrom produziert wird, sollen Familien hier auch etwas davon haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita muss verlässlich sein",
+      "thema": "familie",
+      "programmpunkt": "Die CDU will Kinderbetreuung stabil finanzieren, den Personalschlüssel verbessern und wohnortnahe Betreuung erhalten.",
+      "seite": 49,
+      "zitat": "„Verlässlichkeit, Qualität, individuelle Förderung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Zwei Einkommen funktionieren für Tom und Jessica nur mit verlässlicher Betreuung. Verbesserter Personalschlüssel und stabile Finanzierung berühren ihre Alltagsorganisation unmittelbar.",
+      "begruendung_selbst": "Ohne Kita können wir nicht beide arbeiten. Verlässliche Betreuung ist für uns keine Kür, sondern die Grundlage unseres Alltags.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pendeln braucht echte Optionen",
+      "thema": "verkehr",
+      "programmpunkt": "Im ländlichen Raum sollen Individualverkehr, ÖPNV, Straße und Schiene besser vernetzt werden, unter anderem mit Rufverkehren, Bürgerbussen und Sharing-Angeboten.",
+      "seite": 63,
+      "zitat": "„das Mobilitätsangebot deutlich verbessern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Familie im Speckgürtel ist die Persona auf verlässliche Pendelwege angewiesen. Eine bessere Mischung aus Auto, ÖPNV und flexiblen Angeboten entspricht ihrem pragmatischen Mobilitätsbedarf.",
+      "begruendung_selbst": "Wir brauchen morgens echte Wege zur Arbeit und zur Kita, nicht nur Sonntagsreden über Mobilität.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nur Land reicht nicht",
+      "thema": "steuern",
+      "programmpunkt": "Die Grunderwerbsteuerbefreiung wird ausdrücklich auf das erste Eigenheim im ländlichen Raum bezogen.",
+      "seite": 31,
+      "zitat": "„im ländlichen Raum“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica wohnen im Speckgürtel und suchen nicht zwingend tief im ländlichen Raum. Aus ihrer Sicht lässt die Einschränkung offen, ob junge Familien am Stadtrand wirklich profitieren.",
+      "begruendung_selbst": "Wir suchen da, wo Arbeit, Kita und Pendeln zusammenpassen. Wenn die Entlastung nur auf dem Land gilt, fallen wir am Ende wieder durchs Raster.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wo bleibt das Bauland?",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU will landwirtschaftliche Nutzflächen stärker vor Versiegelung, Zersiedelung und anderen Nutzungen schützen.",
+      "seite": 39,
+      "zitat": "„Zersiedelung oder Ausgleichsmaßnahmen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona braucht bezahlbare Baugrundstücke im Umland. Strenger Flächenschutz kann nachvollziehbar sein, wirkt aus ihrer Lage aber wie ein weiterer Engpass beim ohnehin knappen Bauland.",
+      "begruendung_selbst": "Alle sagen, wir sollen Eigentum bilden, aber irgendwo muss ein normales Baugrundstück auch herkommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zu viel Bundesebene",
+      "thema": "wohnen",
+      "programmpunkt": "Beim Baukindergeld verweist die CDU auf eine Initiative auf Bundesebene statt auf ein konkretes Landesinstrument.",
+      "seite": 65,
+      "zitat": "„setzen wir uns auf Bundesebene“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica prüfen Politik an greifbarer Entlastung. Ein Bundesvorstoß klingt für sie unsicherer als ein landeseigenes Programm mit klarer Summe und Anspruch.",
+      "begruendung_selbst": "Bundesebene heißt für uns oft: vielleicht irgendwann. Wir brauchen eine Förderung, mit der wir konkret rechnen können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita erst am runden Tisch",
+      "thema": "familie",
+      "programmpunkt": "Für Finanzierung, Personalgewinnung und Strukturentwicklung in der Kinderbetreuung soll zunächst ein Runder Tisch Vorschläge erarbeiten.",
+      "seite": 49,
+      "zitat": "„einen Runden Tisch mit allen Beteiligten einrichten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona braucht jetzt verlässliche Plätze und Öffnungszeiten, damit beide arbeiten können. Ein Runder Tisch kann sinnvoll sein, wirkt aber weniger verbindlich als ein sofortiger Ausbauplan.",
+      "begruendung_selbst": "Wenn unser Kita-Platz wackelt, hilft uns kein Gesprächskreis. Wir brauchen Zusagen, Personal und Öffnungszeiten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica finden im CDU-Programm viele direkte Anknüpfungspunkte: Eigentumsförderung, Grunderwerbsteuerentlastung, schnellere Bauverfahren, bezahlbare Energie, Kita-Verlässlichkeit und Pendelmobilität. Besonders stark resoniert die eigentumsfreundliche Grundlinie, weil sie ihren Wunsch nach Aufstieg durch Arbeit bestätigt. Kritisch bleibt für sie, dass zentrale Entlastungen teils eingeschränkt, bundespolitisch oder noch konzeptionell formuliert sind und dass Bauland im Speckgürtel nicht ausdrücklich günstiger oder verfügbarer wird.",
+    "score": 1
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich geht es um Nachfolge",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will Praxisgründungen und Praxisübernahmen ausbauen, Hürden abbauen und junge Ärztinnen und Ärzte früh an Niederlassung und Praxisführung heranführen.",
+      "seite": 27,
+      "zitat": "bürokratische Hürden bauen wir ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra sieht darin einen direkten Treffer für ihre größte Sorge: die fehlende Nachfolge in ihrer Landarztpraxis. Besonders wichtig ist ihr, dass nicht nur über Studienplätze gesprochen wird, sondern über Übernahmen, Selbstständigkeit und weniger Hürden.",
+      "begruendung_selbst": "Wenn jemand meine Praxis übernehmen soll, muss der Weg planbar sein. Junge Kolleginnen schreckt nicht die Medizin ab, sondern das Risiko, die Bürokratie und die ganze Betriebsführung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung gehört in die Fläche",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm erklärt flächendeckende medizinische Versorgung zur Daseinsvorsorge und will Fachkräfte im Gesundheitswesen gewinnen und binden, besonders im ländlichen Raum.",
+      "seite": 27,
+      "zitat": "flächendeckende medizinische Versorgung als Kern der Daseinsvorsorge",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Landärztin bewertet positiv, dass Versorgung nicht nur als Marktleistung, sondern als öffentliche Pflicht beschrieben wird. Das entspricht ihrer Erfahrung, dass ländliche Grundversorgung politisch abgesichert werden muss, weil sie sich nicht überall von allein trägt.",
+      "begruendung_selbst": "Genau darum geht es: Meine Patientinnen und Patienten dürfen nicht abgehängt werden, nur weil sie im Dorf wohnen und alt sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sektoren endlich aufbrechen",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will ambulante und stationäre Versorgung stärker verzahnen, integrierte Versorgungszentren fördern und ein zukunftsfähiges Primärversorgungsmodell unterstützen.",
+      "seite": 28,
+      "zitat": "Wir beenden das Denken in starren Sektoren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra kennt die Reibungsverluste zwischen Praxis, Klinik, Pflege und Rettungsdienst aus dem Alltag. Vernetzte Primärversorgung und Gesundheitszentren passen zu ihrem Wunsch nach verlässlichen Strukturen, in denen nicht jede Einzelpraxis allein gelassen wird.",
+      "begruendung_selbst": "Ich brauche keine Zuständigkeitskämpfe, sondern kurze Wege zwischen Praxis, Klinik, Pflege und Rettungsdienst. Sonst bleibt alles an uns Hausärzten hängen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digital, aber bitte nützlich",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Partei verspricht Telemedizin, digitale Pflegeanwendungen, vernetzte Dokumentation und digitale Infrastruktur in Praxen, Kliniken und Pflegeeinrichtungen.",
+      "seite": 29,
+      "zitat": "Daten sicher und sinnvoll genutzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Aussage trifft ihre Hoffnung auf Digitalisierung, die Arbeit erleichtert statt neue Fehlerquellen zu schaffen. Entscheidend ist aus ihrer Sicht der praktische Nutzen in Praxen und Pflege, nicht nur ein abstraktes Digitalisierungsversprechen.",
+      "begruendung_selbst": "Wenn digitale Dokumentation wirklich weniger Doppelarbeit bedeutet, bin ich sofort dabei. Ich will Technik, die läuft und mir Zeit für Patienten zurückgibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Notfallhilfe muss nah sein",
+      "thema": "gesundheit",
+      "programmpunkt": "Für Rettung und Notfallversorgung setzt die CDU auf Telenotarzt, Gemeindenotfallsanitäter, moderne Leitstellen und digitale Systeme.",
+      "seite": 28,
+      "zitat": "flächendeckende Einsatz des Telenotarztes",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "In dünn besiedelten Regionen zählt schnelle, gut koordinierte Notfallversorgung besonders. Dr. Petra begrüßt Ansätze, die Rettungsdienst und ärztliche Expertise auch dort verfügbar machen, wo Wege lang und Personal knapp sind.",
+      "begruendung_selbst": "Bei uns entscheiden Minuten und Kilometer. Telenotarzt und Gemeindenotfallsanitäter können helfen, wenn sie sauber in die Versorgung eingebunden sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Formulare, mehr Praxis",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm will Berichtspflichten begrenzen, Verwaltung verschlanken und neue Berichtspflichten künftig befristen und begründen.",
+      "seite": 56,
+      "zitat": "Jede Berichtspflicht wird zukünftig einer erneuten Begründung bedürfen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre Frustration richtet sich stark gegen Dokumentations- und Nachweispflichten. Auch wenn die Passage allgemein zur Verwaltung formuliert ist, bestätigt sie ihre Grundforderung nach weniger Papierlast und mehr Zeit für Versorgung.",
+      "begruendung_selbst": "Ich unterschreibe jeden ernsthaften Bürokratieabbau. Wenn eine Pflicht keinen Nutzen hat, soll sie mir nicht den Abend nach der Sprechstunde stehlen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Patienten brauchen Wege",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will Bus und Bahn im ländlichen Raum verbessern, den Sachsen-Anhalt-Takt ausbauen und neue Mobilitätsangebote wie Rufverkehre, Bürgerbusse und Carsharing erproben.",
+      "seite": 63,
+      "zitat": "Die Mobilität im ländlichen Raum stärken",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Viele ihrer älteren Patientinnen und Patienten scheitern nicht an fehlendem Willen, sondern an Wegen zur Praxis, Apotheke oder Fachärztin. Ein vernetztes Mobilitätsangebot im ländlichen Raum passt daher zu ihrer Versorgungsperspektive.",
+      "begruendung_selbst": "Ein Termin hilft nichts, wenn die 82-jährige Patientin nicht hinkommt. Mobilität ist bei uns Teil der Gesundheitsversorgung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte sind längst hier",
+      "thema": "integration",
+      "programmpunkt": "Das Programm betont, dass integrierte und arbeitende Menschen mit Migrationshintergrund Teil der Gesellschaft sind und für Krankenhäuser und andere Bereiche gebraucht werden.",
+      "seite": 9,
+      "zitat": "Ohne sie würden viele Krankenhäuser",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra erlebt im Gesundheitswesen, dass Versorgung ohne zugewanderte Kolleginnen und Kollegen kaum funktioniert. Die ausdrückliche Anerkennung dieser Realität bestätigt ihre pragmatische Sicht auf Fachkräftesicherung.",
+      "begruendung_selbst": "In Klinik, Pflege und Praxis arbeiten längst Kolleginnen und Kollegen mit Migrationsgeschichte. Ohne sie würden Dienste ausfallen, das weiß jeder im Alltag.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ein Bus ersetzt keine Praxis",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will einen Medi-Bus als rollende Praxis mit festem Fahrplan in Regionen einsetzen, die besonders unter Ärztemangel leiden.",
+      "seite": 29,
+      "zitat": "Als rollende Praxis hat der Medi - Bus einen Arzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra erkennt den Nutzen für akute Lücken, aber als Antwort auf den Landarztmangel wirkt der Medi-Bus für sie wie eine Notlösung. Ihre zentrale Sorge ist eine kontinuierliche hausärztliche Beziehung vor Ort, nicht eine fahrplanabhängige Ersatzstruktur.",
+      "begruendung_selbst": "Ein Medi-Bus kann Löcher stopfen, aber er kennt meine Patienten nicht über Jahre. Das ist keine echte Nachfolge für eine Hausarztpraxis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rendite passt nicht ans Krankenbett",
+      "thema": "gesundheit",
+      "programmpunkt": "Bei der Krankenhausstruktur hält die CDU öffentlich-rechtliche, frei-gemeinnützige und privatwirtschaftliche Häuser gleichberechtigt für tragende Säulen.",
+      "seite": 28,
+      "zitat": "privatwirtschaftliche Häuser sind gleichberechtigte und tragende Säulen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ihre Haltung ist kritisch gegenüber Ökonomisierung im Gesundheitswesen. Wenn privatwirtschaftliche Häuser ohne erkennbare Schutzplanken gleichrangig gesetzt werden, befürchtet sie, dass Renditeinteressen die ländliche Grundversorgung weiter unter Druck setzen.",
+      "begruendung_selbst": "Ich habe nichts gegen gute Träger, aber Krankenhausversorgung darf nicht zuerst eine Renditerechnung sein. Auf dem Land merkt man Kürzungen sofort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wo bleiben Budget und Regress?",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm setzt bei Praxisgründungen auf Förderung, Mentoring und betriebswirtschaftliche Qualifizierung, benennt aber die für niedergelassene Ärztinnen belastenden Budget- und Regressrisiken nicht.",
+      "seite": 27,
+      "zitat": "praxisnahe betriebswirtschaftliche Qualifizierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Dr. Petra ist Praxiswirtschaftlichkeit nicht nur eine Frage von Qualifizierung. Sie vermisst bei der Niederlassungspolitik die harte Ebene von Budgetierung, Regressangst und laufenden Personalkosten, die junge Hausärztinnen tatsächlich abschrecken.",
+      "begruendung_selbst": "BWL-Kurse sind nett, aber meine Sorge heißt Regress, Budget und Personalkosten. Wer Nachfolge will, muss an diese Risiken ran.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht nur digitale Versprechen",
+      "thema": "digitalisierung",
+      "programmpunkt": "Bis 2030 will die CDU eine leistungsfähige digitale Infrastruktur in Praxen, Kliniken und Pflegeeinrichtungen schaffen.",
+      "seite": 29,
+      "zitat": "Bis 2030 schaffen wir eine leistungsfähige digitale Infrastruktur",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra ist nicht gegen Digitalisierung, aber aus ihrer Erfahrung sind ferne Zieljahre und Infrastrukturversprechen noch keine funktionierende Telematik im Praxisalltag. Sie vermisst konkrete Zusagen, wie fehleranfällige Systeme, Ausfälle und Zusatzaufwand in den Praxen tatsächlich gelöst werden.",
+      "begruendung_selbst": "Bis 2030 klingt weit weg. Ich brauche heute eine TI, die morgens funktioniert und nicht meine MFA eine Stunde lang blockiert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Personalabbau macht mich misstrauisch",
+      "thema": "demokratie",
+      "programmpunkt": "Im Kapitel Finanzpolitik verbindet die CDU einen modernen Staat mit weniger Bürokratie, schnelleren Verfahren und weniger Personal.",
+      "seite": 78,
+      "zitat": "Weniger Bürokratie, weniger Personal, schnellere Verfahren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra will eine handlungsfähige Verwaltung, nicht nur schlankere Strukturen auf dem Papier. Gerade im ländlichen Raum kann weniger Personal bedeuten, dass Genehmigungen, Gesundheitsämter oder Sozialverwaltung noch schwerer erreichbar sind.",
+      "begruendung_selbst": "Weniger Bürokratie ja, aber weniger Personal allein löst nichts. Wenn niemand erreichbar ist, landet der Ärger wieder bei uns vor Ort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte brauchen offene Türen",
+      "thema": "integration",
+      "programmpunkt": "Die CDU will Migration dauerhaft begrenzen, freiwillige Aufnahmeprogramme beenden und die irreguläre Migration auf null reduzieren.",
+      "seite": 8,
+      "zitat": "Es ist unser Ziel, die irreguläre Migration auf null zu reduzieren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona urteilt hier nicht migrationspolitisch allgemein, sondern aus der Versorgungslage. In einem Gesundheitswesen mit Fachkräftemangel reagiert sie skeptisch auf eine stark verengende Tonlage, solange nicht ebenso konkret erklärt wird, wie internationale Gesundheitsfachkräfte gewonnen und gehalten werden.",
+      "begruendung_selbst": "Ich brauche klare Regeln, aber auch offene Wege für Pflegekräfte und Ärzte. Ohne Menschen von außen bekommen wir die Dienste nicht besetzt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra würde im CDU-Programm viele konkrete Anknüpfungspunkte für ihre Lage als Landärztin finden: Niederlassungsförderung, flächendeckende Versorgung, vernetzte Primärversorgung, digitale Entlastung und bessere Mobilität auf dem Land. Kritisch bliebe sie dort, wo Maßnahmen wie der Medi-Bus nach Ersatzlösung klingen, wo private Renditelogik im Krankenhausbereich nicht begrenzt wird und wo Budgetierung, Regressangst sowie reale IT-Probleme nur indirekt berührt werden. Insgesamt überwiegt für sie der Eindruck, dass ihre Probleme gesehen werden, auch wenn einige Kernrisiken der Einzelpraxis ungelöst bleiben.",
+    "score": 1
+  }
+}

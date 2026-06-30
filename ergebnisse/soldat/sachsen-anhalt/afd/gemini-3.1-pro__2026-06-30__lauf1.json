@@ -28,7 +28,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Stefan sieht die Truppe als schützenswert an und fühlt sich durch extremistische Anfeindungen und Gewalt im Dienst bedroht. Er begrüßt es, wenn staatliche Stellen sich hinter die Soldaten stellen und konsequent gegen Verfassungsfeinde vorgehen, die seine Kameraden attackieren.",
-      "begruendung_selbst": "Es ist unerträglich, wenn wir unseren Dienst für die Gesellschaft leisten und dafür von Linksextremen angegriffen werden. Da erwarte ich, dass der Staat hart durchgreift und uns schützt."
+      "begruendung_selbst": "Es ist unerträglich, wenn wir unseren Dienst für die Gesellschaft leisten und dafür von Linksextremen angegriffen werden. Da erwarte ich, dass der Staat hart durchgreift und uns schützt.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich Respekt für Soldaten!",
@@ -39,7 +40,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Berufssoldat wünscht sich Stefan mehr gesellschaftliche Wertschätzung für seinen Berufsstand und die damit verbundenen Opfer, auch wenn es hier primär um historische Erinnerungskultur geht. Das offene Bekenntnis zum militärischen Dienst am Land bestärkt ihn in seinem beruflichen Ethos.",
-      "begruendung_selbst": "Wer Uniform trägt, hält im Ernstfall den Kopf für dieses Land hin. Diese Opferbereitschaft verdient Respekt und ein klares politisches Bekenntnis, das in unserer Gesellschaft leider oft zu kurz kommt."
+      "begruendung_selbst": "Wer Uniform trägt, hält im Ernstfall den Kopf für dieses Land hin. Diese Opferbereitschaft verdient Respekt und ein klares politisches Bekenntnis, das in unserer Gesellschaft leider oft zu kurz kommt.",
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -52,7 +54,8 @@
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Stefan ist an der NATO-Ostflanke stationiert und erlebt die russische Bedrohung in seinem Dienstalltag unmittelbar. Eine Politik, die Russland als Partner hofiert, untergräbt seinen gesamten militärischen Auftrag und die gemeinsame europäische Verteidigungsstrategie.",
-      "begruendung_selbst": "Ich stehe an der Ostflanke, um unsere Verbündeten vor einer echten Bedrohung zu schützen. Wenn eine Partei die Gefahr verkennt und mit Russland kuscheln will, fällt sie unserer Truppe in den Rücken."
+      "begruendung_selbst": "Ich stehe an der Ostflanke, um unsere Verbündeten vor einer echten Bedrohung zu schützen. Wenn eine Partei die Gefahr verkennt und mit Russland kuscheln will, fällt sie unserer Truppe in den Rücken.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sanktionen aufheben? Niemals!",
@@ -63,7 +66,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Für Stefan hat die sicherheitspolitische Solidarität innerhalb des Bündnisses absolute Priorität vor regionalen wirtschaftlichen Interessen. Ein einseitiges Ende der Sanktionen wäre aus seiner Sicht ein eklatanter Verrat an den internationalen Partnern und ein falsches Signal an den Aggressor.",
-      "begruendung_selbst": "Wir können doch nicht aus wirtschaftlichem Eigennutz unsere Bündnispartner im Stich lassen und den Aggressor belohnen. Verlässliche Bündnistreue ist für unsere eigene Sicherheit unverzichtbar."
+      "begruendung_selbst": "Wir können doch nicht aus wirtschaftlichem Eigennutz unsere Bündnispartner im Stich lassen und den Aggressor belohnen. Verlässliche Bündnistreue ist für unsere eigene Sicherheit unverzichtbar.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Vertrauen in Institutionen zerstören!",
@@ -74,7 +78,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Als Soldat hat Stefan einen Eid auf die Verfassung geschworen und vertraut den staatlichen Institutionen einer wehrhaften Demokratie. Der pauschale Versuch, zentrale Sicherheitsbehörden politisch zu delegitimieren, widerspricht seinem tiefen, unparteiischen Staatsverständnis vollkommen.",
-      "begruendung_selbst": "Als Soldat habe ich geschworen, die freiheitlich-demokratische Grundordnung tapfer zu verteidigen. Wenn eine Partei unsere eigenen Sicherheitsbehörden gezielt untergräbt, stellt sie den Staat selbst infrage."
+      "begruendung_selbst": "Als Soldat habe ich geschworen, die freiheitlich-demokratische Grundordnung tapfer zu verteidigen. Wenn eine Partei unsere eigenen Sicherheitsbehörden gezielt untergräbt, stellt sie den Staat selbst infrage.",
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Ukraine-Hilfe ist kein Verschenken!",
@@ -85,7 +90,8 @@
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Stefan beurteilt die europäische Sicherheitsarchitektur strategisch und sieht die Unterstützung der Ukraine als existenziellen Beitrag zur Bündnisverteidigung. Die populistische Gegenrechnung von Sicherheitspolitik mit Schlaglochreparaturen empfindet er als extrem kurzsichtig und sicherheitspolitisch gefährlich.",
-      "begruendung_selbst": "Wer internationale Unterstützung für Angegriffene als ‚Verschenken‘ abtut, versteht die aktuelle Sicherheitslage in Europa nicht. Jeder investierte Euro dort schützt indirekt unsere eigene Ostflanke."
+      "begruendung_selbst": "Wer internationale Unterstützung für Angegriffene als ‚Verschenken‘ abtut, versteht die aktuelle Sicherheitslage in Europa nicht. Jeder investierte Euro dort schützt indirekt unsere eigene Ostflanke.",
+      "beleg_ok": true
     }
   ],
   "gesamt": {

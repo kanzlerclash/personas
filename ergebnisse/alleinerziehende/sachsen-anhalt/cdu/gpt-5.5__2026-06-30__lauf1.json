@@ -1,0 +1,173 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich sehen sie mich",
+      "thema": "familie",
+      "programmpunkt": "Die CDU will Alleinerziehende steuerlich entlasten, Beratungs-, Unterstützungs- und Vernetzungsangebote ausbauen und den Zugang zu Hilfen vereinfachen.",
+      "seite": 31,
+      "zitat": "„Alleinerziehende gezielt entlasten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine wird als alleinerziehende Mutter direkt angesprochen. Besonders wichtig ist für sie, dass Hilfen einfacher zugänglich werden und nicht nur abstrakt über Familien gesprochen wird.",
+      "begruendung_selbst": "Ich brauche keine Sonntagsrede, ich brauche Hilfe, die ich im Alltag wirklich erreiche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Betreuung, die funktioniert",
+      "thema": "familie",
+      "programmpunkt": "Das Programm erklärt flächendeckende, hochwertige und bezahlbare Kinderbetreuung zum zentralen Anliegen für Vereinbarkeit von Familie und Beruf.",
+      "seite": 31,
+      "zitat": "„bezahlbare Kinderbetreuung bleibt dabei ein zentrales Anliegen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines Erwerbsumfang hängt unmittelbar an Kita- und Hortzeiten. Eine bezahlbare und verlässliche Betreuung trifft einen ihrer wichtigsten praktischen Engpässe.",
+      "begruendung_selbst": "Wenn die Betreuung steht und bezahlbar ist, kann ich auch verlässlicher arbeiten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hort entlastet Eltern",
+      "thema": "bildung",
+      "programmpunkt": "Kita, Grundschule und Hort sollen besser kooperieren, damit Kinder umfassend gebildet und Eltern entlastet werden.",
+      "seite": 21,
+      "zitat": "„zur Entlastung der Eltern wirksam miteinander“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Nadine ist der Übergang zwischen Schule, Hort und Betreuung organisatorisch entscheidend. Wenn diese Stellen zusammenarbeiten, reduziert das ihren täglichen Planungsdruck.",
+      "begruendung_selbst": "Ich jongliere jeden Tag Zeiten. Wenn Schule und Hort zusammenpassen, fällt mir ein Stein vom Herzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Hilfe an schwierigen Schulen",
+      "thema": "bildung",
+      "programmpunkt": "Schulen in sozial herausfordernden Lagen sollen zusätzliches Personal, Förderangebote und bessere Ausstattung erhalten.",
+      "seite": 22,
+      "zitat": "„mit zusätzlichem Personal, erweiterten Förderangeboten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine will, dass ihre Kinder trotz knapper Familienressourcen gute Chancen haben. Zusätzliche Förderung an belasteten Schulen entspricht ihrem Wunsch nach Bildungschancen unabhängig vom Elternhaus.",
+      "begruendung_selbst": "Meine Kinder sollen nicht schlechter starten, nur weil bei uns Geld und Zeit knapp sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hilfe ohne Papierkrieg",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU verspricht Sozialleistungen und Beratung unkomplizierter, verständlicher und ohne unnötige Bürokratie zugänglich zu machen.",
+      "seite": 33,
+      "zitat": "„unkompliziert, verständlich und ohne unnötige Bürokratie“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Aufstockerin ist Nadine auf funktionierende Behörden und Beratung angewiesen. Weniger Bürokratie würde ihren Alltag mit Arbeit, Kindern und Anträgen spürbar entlasten.",
+      "begruendung_selbst": "Ich habe keine freien Vormittage für Formulare, Nachweise und Warteschleifen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ärzte müssen erreichbar sein",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm will eine flächendeckende medizinische Versorgung sichern und Gesundheitsberufe durch Studienplätze und bessere Rahmenbedingungen stärken.",
+      "seite": 27,
+      "zitat": "„flächendeckende medizinische Versorgung als Kern der Daseinsvorsorge“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Nadine zählt, dass sie mit zwei Kindern schnell zu Ärztinnen, Ärzten und Apotheken kommt. Verlässliche Versorgung mindert ein reales Alltagsrisiko, besonders wenn Krankheit Arbeit und Betreuung durcheinanderbringt.",
+      "begruendung_selbst": "Wenn eins der Kinder krank ist, brauche ich Termine und Hilfe, nicht noch eine halbe Weltreise.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Ticket muss bleiben",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will das Deutschlandticket erhalten und Busse sowie Bahnen verlässlicher und attraktiver machen.",
+      "seite": 62,
+      "zitat": "„Das Deutschlandticket wollen wir erhalten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Mobilität nicht Nadines Hauptthema ist, trifft bezahlbarer Nahverkehr ihren knappen Haushalt. Ein erhaltenes Deutschlandticket kann Wege zu Arbeit, Schule, Behörden und Terminen planbarer machen.",
+      "begruendung_selbst": "Ich rechne jeden Monat. Ein bezahlbares Ticket macht Wege wenigstens planbar.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ich bin keine Drückebergerin",
+      "thema": "gesundheit",
+      "programmpunkt": "Arbeitsfähige Leistungsbezieher sollen bei Landesprogrammen zur Arbeitsmarktförderung nicht mehr freiwillig teilnehmen, sondern stärker verpflichtet werden.",
+      "seite": 31,
+      "zitat": "„nicht länger vom Prinzip der Freiwilligkeit abhängig“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine arbeitet bereits und stockt ergänzend auf. Eine stärker verpflichtende Logik bei Leistungsbezug berührt ihre Angst, trotz Sorgearbeit und Teilzeit unter Generalverdacht zu geraten.",
+      "begruendung_selbst": "Ich arbeite und kümmere mich. Ich will nicht behandelt werden, als würde ich mich drücken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dieses Misstrauen tut weh",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU formuliert Sozialpolitik ausdrücklich nach dem Grundsatz „Fordern und Fördern“.",
+      "seite": 33,
+      "zitat": "„Fordern und Fördern“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine reagiert empfindlich auf eine Rhetorik, die Leistungsbeziehende zuerst als zu aktivierende oder zu kontrollierende Gruppe markiert. Auch wenn Hilfe versprochen wird, klingt der Rahmen für sie nach Misstrauen gegenüber Menschen in knapper Lage.",
+      "begruendung_selbst": "Bei solchen Worten höre ich sofort: Beweis erst mal, dass du Hilfe verdienst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Miete fehlt im Mittelpunkt",
+      "thema": "wohnen",
+      "programmpunkt": "Beim Wohnen setzt die CDU stark auf Eigentumserwerb, Baukindergeld, sozialen Wohnungsbau sowie energetische und barrierefreie Sanierungen.",
+      "seite": 65,
+      "zitat": "„Eigentum schafft Heimatverbundenheit“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine lebt zur Miete, hat keine Rücklagen und kann vom Eigenheim kaum profitieren. Die starke Eigentumsorientierung spricht an ihrer drängendsten Wohnsorge, der monatlichen Mietbelastung, teilweise vorbei.",
+      "begruendung_selbst": "Ein Eigenheim ist für andere. Ich muss wissen, wie ich nächsten Monat die Miete schaffe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Schutz vor Mietdruck",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU lehnt Mietpreisdeckel, Enteignungen und weitere Eingriffe in Eigentumsrechte entschieden ab.",
+      "seite": 65,
+      "zitat": "„Mietpreisdeckel, willkürliche Enteignungen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Nadine ist steigende Miete eine unmittelbare Existenzfrage. Die klare Absage an starke Markteingriffe nimmt aus ihrer Perspektive mögliche Schutzinstrumente vom Tisch, ohne eine ebenso konkrete Mietentlastung zu benennen.",
+      "begruendung_selbst": "Wenn die Miete steigt, hilft mir kein Grundsatz über Eigentumsrechte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arbeit allein reicht nicht",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm erklärt dauerhaft steigende Einkommen vor allem durch erfolgreiche Unternehmen, nicht durch staatliche Vorgaben oder Umverteilung.",
+      "seite": 12,
+      "zitat": "„nicht durch staatliche Vorgaben und Umverteilung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine hofft, dass sich Arbeit für sie persönlich lohnt, ist aber wegen Betreuung nur eingeschränkt erwerbsfähig. Eine Linie, die Lohn- und Einkommensverbesserungen primär an Unternehmensstärke bindet, beantwortet ihre akute Aufstockungsrealität nur indirekt.",
+      "begruendung_selbst": "Ich warte nicht auf Wachstum irgendwann. Ich muss jetzt mit meinem Lohn und den Kindern klarkommen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet im CDU-Programm mehrere konkrete Anknüpfungspunkte für ihren Alltag: Alleinerziehende, Kinderbetreuung, Hort, Schulen, Verwaltung und Gesundheitsversorgung werden sichtbar angesprochen. Gleichzeitig stößt sie sich deutlich an der Bürgerarbeits- und Fordern-Rhetorik gegenüber Leistungsbeziehenden sowie an einer Wohnpolitik, die stark auf Eigentum setzt und Mietdruck nur begrenzt direkt adressiert. Insgesamt überwiegt für sie eine vorsichtig positive, aber misstrauische Bewertung.",
+    "score": 1
+  }
+}
