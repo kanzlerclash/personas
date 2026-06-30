@@ -1,0 +1,162 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 56182,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Ohne Energie keine Industrie",
+      "thema": "energie",
+      "programmpunkt": "Die SPD stellt bezahlbare Energie ausdrücklich als Voraussetzung für Industrie, Arbeitsplätze und sozialen Zusammenhalt dar.",
+      "seite": 2,
+      "zitat": "Ohne bezahlbare Energie gibt es keine Industrie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fühlt sich in seinem Grundsatz bestätigt, dass Energiepolitik keine Nebensache ist, sondern über industrielle Beschäftigung in seiner Region entscheidet. Die Aussage verbindet genau die Punkte, an denen seine eigene Lebensplanung hängt: Energie, Industrie und gute Arbeit.",
+      "begruendung_selbst": "Genau darum geht es: Wenn der Strom nicht bezahlbar und sicher ist, reden wir hier nicht mehr über Zukunft, sondern über Werksschließungen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Plan statt Bauchgefühl",
+      "thema": "wirtschaft",
+      "programmpunkt": "Der wirtschaftliche und energetische Wandel soll politisch geplant, gesteuert und mit Investitionen begleitet werden, statt ihn dem Markt oder Zufall zu überlassen.",
+      "seite": 4,
+      "zitat": "Er braucht Planung , Steuerung , Investitionen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona verlangt einen verlässlichen Umbau mit nachvollziehbarem Fahrplan. Dass die SPD Planung, Steuerung und Investitionen betont, trifft seine Sorge, dass Strukturwandel ohne tragfähigen Ersatzplan über die Köpfe der Standorte hinweg passiert.",
+      "begruendung_selbst": "Mit so einer Ansage kann ich arbeiten: erst Plan, Investitionen und Zuständigkeiten, dann der Umbau im Betrieb.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netzentgelte runter, bitte",
+      "thema": "energie",
+      "programmpunkt": "Die SPD will Netzentgelte weitgehend deckeln, Netze digitalisieren und die Stromsteuer senken, damit Energiepreise für Unternehmen und Haushalte sinken.",
+      "seite": 5,
+      "zitat": "eine weitgehende Deckelung der Netzentgelte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Ronny sind Energiepreise ein unmittelbarer Standortfaktor, weil sie Investitionen und Beschäftigung in energieintensiven Betrieben beeinflussen. Die vorgeschlagene Entlastung bei Netzentgelten passt zu seiner Priorität, industrielle Wettbewerbsfähigkeit praktisch abzusichern.",
+      "begruendung_selbst": "Das ist nicht abstrakt: Netzentgelte entscheiden mit darüber, ob bei uns noch produziert und investiert wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff gehört hierher",
+      "thema": "energie",
+      "programmpunkt": "Investitionen in Infrastruktur, Forschung und beschleunigte Verfahren sollen Zukunftsindustrien wie Windkraft, Wasserstoff, Batterietechnologien und digitale Wirtschaft stärken.",
+      "seite": 5,
+      "zitat": "über Wasserstoff und Batterietechnologien",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Nennung von Wasserstoff und Infrastruktur gibt seiner Region eine technische Brücke in neue Wertschöpfung. Ronny bewertet das positiv, weil es nicht nur Ausstieg, sondern industrielle Anschlussfähigkeit verspricht.",
+      "begruendung_selbst": "Wenn Wasserstoff, Netze und Forschung hier aufgebaut werden, dann bleibt das Know-how nicht nur auf dem Papier.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO2-Infrastruktur mitdenken",
+      "thema": "energie",
+      "programmpunkt": "Die Landesenergieagentur soll zu einer Koordinierungsstelle für künftige Wasserstoff- und Kohlendioxid-Infrastrukturen ausgebaut werden.",
+      "seite": 6,
+      "zitat": "Wasserstoff - und Kohlendioxid - Infrastrukturen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny ist kritisch gegenüber pauschaler Ablehnung von CCS und verwandten Technologien. Die ausdrückliche Vorbereitung von Kohlendioxid-Infrastruktur signalisiert Technologieoffenheit und nimmt seiner Region nicht vorschnell eine mögliche industrielle Brücke.",
+      "begruendung_selbst": "Endlich wird CO2-Infrastruktur nicht reflexartig weggedrückt. Für manche Industrieprozesse brauchen wir genau solche Werkzeuge.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemie ist Lohn und Brot",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die SPD erklärt die Chemieindustrie im mitteldeutschen Chemiedreieck zur Schlüsselindustrie und will ihre Transformation landespolitisch mit hoher Priorität begleiten.",
+      "seite": 6,
+      "zitat": "Lohn und Brot für tausende Menschen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Ronny selbst in der Energiewirtschaft arbeitet, sieht er Chemieparks als eng verwandte industrielle Kerne, die von Energiepreisen und Infrastruktur abhängen. Die Anerkennung dieser Arbeitsplätze passt zu seiner Sicht, dass Strukturwandel die Beschäftigten vor Ort ernst nehmen muss.",
+      "begruendung_selbst": "Wer das Chemiedreieck stark hält, hält auch Netze, Energiebedarf und Facharbeit in der Region stark.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umschulung vor Abwanderung",
+      "thema": "arbeit",
+      "programmpunkt": "In ehemaligen Bergbauregionen sollen gezielt neue Arbeitsplätze, Umschulungen und regionale Wirtschaftszentren gefördert werden.",
+      "seite": 6,
+      "zitat": "In neue Arbeitsplätze, Umschulungen und regionale Wirtschaftszentren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona fürchtet, dass Strukturwandel ohne regionale Beschäftigungsperspektive Abwanderung auslöst. Regionale Umschulung und neue Wirtschaftszentren sprechen direkt seine Sorge an, dass Fachkräfte sonst ihre Heimat verlassen müssen.",
+      "begruendung_selbst": "Wenn ein Arbeitsplatz wegfällt, muss die nächste Perspektive hier in der Region liegen, nicht dreihundert Kilometer weiter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohleförderung nicht abreißen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Sachsen-Anhalt soll sich für ein Anschlussprogramm an den Just Transition Fund ab 2028 für Kohleregionen einsetzen.",
+      "seite": 53,
+      "zitat": "Anschlussprogramm an den Just Transition Fund ab 2028",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny braucht langfristige Strukturförderung, weil der Wandel nicht mit einer einzelnen Förderperiode erledigt ist. Ein Anschlussprogramm für Kohleregionen entspricht seiner Forderung nach Planbarkeit über mehrere Jahre.",
+      "begruendung_selbst": "Strukturwandel endet nicht 2028. Wenn die Förderung abreißt, reißt auch Vertrauen in den ganzen Plan.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Gas nicht vorschnell raus",
+      "thema": "energie",
+      "programmpunkt": "Die SPD setzt Bioenergie und Speicher ausdrücklich vor teures Gas und beschreibt Gas damit eher als nachrangige Option im Energiesystem.",
+      "seite": 5,
+      "zitat": "Bioenergie und Speicher haben Vorrang vor teurem Gas.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Beschäftigter in Kohle, Gas oder Netzen sieht Ronny Gas nicht nur als Kostenfaktor, sondern als mögliche Brücke für Versorgungssicherheit und Industrie. Die pauschale Nachordnung von Gas irritiert ihn, weil sie aus seiner Sicht technische Übergänge verkürzt.",
+      "begruendung_selbst": "Speicher sind wichtig, aber Gas einfach als teuer nach hinten zu schieben, ist mir zu dünn für Versorgungssicherheit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Billig ist nicht alles",
+      "thema": "energie",
+      "programmpunkt": "Die SPD bezeichnet erneuerbare Energien als günstigste Form der Energieerzeugung und leitet daraus einen schnellen Nutzen für Kundinnen und Kunden ab.",
+      "seite": 5,
+      "zitat": "Erneuerbare Energien sind die günstigste Form der Energieerzeugung.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny teilt das Ziel erneuerbarer Energien, achtet aber auf Systemintegration, Netze, Speicher und Reserveleistung. Die reine Kostenaussage wirkt auf ihn zu glatt, weil sie die praktischen Zusatzbedingungen eines stabilen Industriestromsystems kaum sichtbar macht.",
+      "begruendung_selbst": "Erzeugungspreis allein hält kein Werk am Laufen. Entscheidend ist, ob das Gesamtsystem stabil und bezahlbar bleibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Reduktionspfade können klemmen",
+      "thema": "klima",
+      "programmpunkt": "Ein Klimaschutzgesetz soll verbindliche Reduktionspfade für Treibhausgasemissionen festlegen und Zuständigkeiten überprüfbar machen.",
+      "seite": 22,
+      "zitat": "Reduktionspfade für Treibhausemissionen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny wünscht Verlässlichkeit, aber keine starren Enddaten oder Pfade ohne gesicherten Ersatz für Industrie und Energieversorgung. Verbindliche Reduktionspfade können ihm zu wenig nach technologischer Reife, Netzausbau und regionaler Beschäftigungsperspektive differenzieren.",
+      "begruendung_selbst": "Verbindlichkeit ist gut, aber Pfade dürfen uns nicht überholen, bevor Ersatz, Netze und Jobs wirklich stehen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny würde das SPD-Programm überwiegend positiv lesen, weil es Energiepreise, Industrie, Chemie, Wasserstoff, Kohlendioxid-Infrastruktur und Strukturförderung konkret miteinander verbindet. Besonders stark wirkt auf ihn, dass Strukturwandel als langfristiger, regionaler Prozess mit Arbeitsplätzen, Umschulung und Investitionen beschrieben wird. Skeptisch bleibt er dort, wo Gas zu schnell nachrangig behandelt wird und Klimapfade aus seiner Sicht starrer wirken könnten als die technische Realität in Industrie- und Energieregionen.",
+    "score": 1
+  }
+}

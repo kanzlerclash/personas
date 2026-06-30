@@ -1,0 +1,175 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 87870,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich zählt unsere Arbeit",
+      "thema": "arbeit",
+      "programmpunkt": "Die Grünen wollen Tarifbindung, faire Löhne und Mitbestimmung stärken und öffentliche Aufträge an faire Löhne koppeln.",
+      "seite": 76,
+      "zitat": "„faire Löhne, anständige Arbeitsbedingungen und echte Mitbestimmung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin bewertet Politik stark danach, ob sie belastete Beschäftigte ernst nimmt. Tarifbindung und Mitbestimmung passen zu ihrem Wunsch nach verlässlicher Anerkennung statt bloßer Dankesworte.",
+      "begruendung_selbst": "Ich brauche keinen Applaus, ich brauche Lohn, Dienstpläne und eine Stimme im Betrieb.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Leute auf Station",
+      "thema": "gesundheit",
+      "programmpunkt": "Soziale Berufe sollen durch bessere Personalschlüssel und die Refinanzierung von Tariflöhnen aufgewertet werden, ausdrücklich auch in der Pflege.",
+      "seite": 77,
+      "zitat": "„hohem Druck und mit begrenzten Ressourcen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das trifft Kerstins zentrale Sorge: Unterbesetzung und Arbeitsverdichtung. Dass Tariflöhne in der Pflege refinanziert werden sollen, spricht direkt ihre Erfahrung an, dass gute Bezahlung ohne Finanzierung leere Formel bleibt.",
+      "begruendung_selbst": "Wenn der Schlüssel besser wird, muss ich nicht ständig drei Leute gleichzeitig ersetzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Willkommen heißt Versorgung sichern",
+      "thema": "integration",
+      "programmpunkt": "Zuwanderung wird als notwendig beschrieben, um Fachkräfte zu gewinnen und Sachsen-Anhalt sozial und wirtschaftlich zu stabilisieren.",
+      "seite": 77,
+      "zitat": "„Zuwanderung ist für unser Land schlicht eine Notwendigkeit“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt auf ihrer Station, dass migrantische Kolleginnen und Kollegen die Versorgung mittragen. Eine Politik, die Zuwanderung als Fachkräftefrage und Bereicherung behandelt, bestätigt ihre Ablehnung eines harten Migrationskurses.",
+      "begruendung_selbst": "Ohne die Kolleginnen aus dem Ausland wäre bei uns längst eine Station zu.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschlüsse schneller anerkennen",
+      "thema": "integration",
+      "programmpunkt": "Ausländische Berufsabschlüsse sollen schneller und digitaler anerkannt werden, mit weniger Bürokratie und klaren Bearbeitungsmaßstäben.",
+      "seite": 78,
+      "zitat": "„schneller und digitaler gestaltet werden“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Kerstin ist das besonders relevant, weil qualifizierte Pflegekräfte oft in Verfahren hängen, während Stationen unterbesetzt bleiben. Schnellere Anerkennung hilft ihren Kolleginnen und Patienten zugleich.",
+      "begruendung_selbst": "Lasst ausgebildete Leute endlich arbeiten, statt sie in Aktenordnern zu parken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krankenhäuser gehören zur Daseinsvorsorge",
+      "thema": "gesundheit",
+      "programmpunkt": "Krankenhausstandorte sollen erhalten werden; das Land unterstützt Sicherstellungszuschläge und auch die Rekommunalisierung von Krankenhäusern.",
+      "seite": 79,
+      "zitat": "„Rekommunalisierung von Krankenhäusern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin steht Privatisierung und Renditedruck im Gesundheitswesen skeptisch gegenüber. Rekommunalisierung und Sicherung von Standorten entsprechen ihrem Wunsch, Versorgung vor Gewinnlogik zu stellen.",
+      "begruendung_selbst": "Krankenhäuser dürfen nicht wie Renditebuden geführt werden, da liegen Menschen drin.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Ausbildung darf nichts kosten",
+      "thema": "gesundheit",
+      "programmpunkt": "In Gesundheits- und Pflegeberufen sollen Schulgeldfreiheit und Ausbildungsvergütung garantiert werden, um mehr Fachkräfte zu gewinnen.",
+      "seite": 80,
+      "zitat": "„ausreichend Fachkräfte zu gewinnen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin will, dass mehr Menschen in die Pflege kommen und bleiben. Kostenfreie, vergütete Ausbildung senkt Hürden und passt zu ihrer arbeitnehmerorientierten Haltung.",
+      "begruendung_selbst": "Wer Pflege lernt, soll nicht noch dafür zahlen müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege braucht eine Stimme",
+      "thema": "gesundheit",
+      "programmpunkt": "Eine gesetzliche professionelle Pflegeselbstvertretung soll Pflegekräften eine sichtbare Stimme in Politik und Selbstverwaltung geben.",
+      "seite": 87,
+      "zitat": "„auf Augenhöhe mit der Ärzteschaft bringen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin kennt das Gefühl, dass über Pflege entschieden wird, ohne Pflegekräfte ausreichend einzubeziehen. Eine Selbstvertretung auf Augenhöhe mit der Ärzteschaft trifft ihr Bedürfnis nach professioneller Anerkennung.",
+      "begruendung_selbst": "Es reicht, dass andere über unseren Alltag reden. Wir müssen selbst mit an den Tisch.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wo bleibt die Sofortentlastung?",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Gesundheitsversorgung soll neu organisiert werden und setzt auf neue Versorgungsmodelle, benennt aber an dieser Stelle keinen konkreten Sofortplan für belastete Krankenhausstationen.",
+      "seite": 79,
+      "zitat": "„wollen wir einiges anpacken und neu organisieren“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin sucht nach unmittelbar spürbarer Entlastung im Schichtdienst. Eine breite Neuorganisation klingt für sie weniger greifbar als verbindliche Personaluntergrenzen, Ausfallkonzepte oder bessere Dienstplanung.",
+      "begruendung_selbst": "Neu organisieren klingt schön, aber heute Nacht fehlen mir wieder zwei Leute.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Aufgaben ohne mehr Hände?",
+      "thema": "gesundheit",
+      "programmpunkt": "Ärztliche Leistungen sollen stärker an nichtärztliche Gesundheits- und Pflegeprofessionen delegiert oder substituiert werden.",
+      "seite": 81,
+      "zitat": "„Delegation und Substitution von bisher ärztlichen Leistungen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin kann Professionalisierung grundsätzlich schätzen, reagiert aber empfindlich auf zusätzliche Verantwortung ohne klar benannten Personal- und Lohnausgleich. Aus ihrer Alltagserfahrung droht sonst mehr Druck auf ohnehin unterbesetzte Teams.",
+      "begruendung_selbst": "Ich übernehme gern Verantwortung, aber nicht noch mehr oben drauf ohne Zeit und Geld.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Apps pflegen niemanden",
+      "thema": "gesundheit",
+      "programmpunkt": "Eine Heimfinder-App soll freie Pflegeplätze tagesaktuell anzeigen; Einrichtungen müssten dafür entsprechende Meldungen liefern.",
+      "seite": 86,
+      "zitat": "„tagesaktuell per App einsehbar sein“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin erlebt Dokumentation bereits als Zeitfresser. Eine App kann Angehörigen helfen, wirkt aus ihrer Perspektive aber schnell wie zusätzliche Meldepflicht statt mehr Pflegepersonal am Bett.",
+      "begruendung_selbst": "Noch eine Meldung macht kein Bett sauber und keinen Verband schneller.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ehrenamt ersetzt keine Pflege",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflege soll als Mix aus Familie, Nachbarschaft, Ehrenamt, ambulanten Diensten und stationären Einrichtungen organisiert werden.",
+      "seite": 86,
+      "zitat": "„Nachbarschaft und Ehrenamt“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin achtet darauf, dass professionelle Pflege nicht durch private Hilfsnetze schöngerechnet wird. Der Pflege-Mix kann ergänzen, ersetzt für sie aber keine verbindlich finanzierte Fachpflege.",
+      "begruendung_selbst": "Nachbarn können helfen, aber Pflege ist ein Beruf und kein Lückenfüller.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Runden drehen",
+      "thema": "gesundheit",
+      "programmpunkt": "Kommunale Gesundheitskonferenzen sollen regional Lösungen für Prävention, Pflege und medizinische Versorgung entwickeln.",
+      "seite": 81,
+      "zitat": "„gemeinsam Lösungen für die regionale Gesundheitslandschaft“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist ernüchtert von Politik mit warmen Worten ohne Personal. Beteiligung kann sinnvoll sein, aber Konferenzen überzeugen sie nur, wenn daraus verbindliche Entlastung auf Station folgt.",
+      "begruendung_selbst": "Ich habe nichts gegen Gespräche, aber am Ende muss jemand im Dienstplan stehen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet im Programm viele Punkte, die ihre Kerninteressen treffen: bessere Personalschlüssel, Tariflöhne, Fachkräftegewinnung, Anerkennung ausländischer Abschlüsse und eine stärkere Stimme der Pflege. Besonders positiv bewertet sie auch den migrationsfreundlichen Kurs und die Skepsis gegenüber privaten Investoren im Gesundheitswesen. Skeptisch bleibt sie dort, wo Programme nach zusätzlicher Organisation, Apps, Gremien oder Aufgabenverlagerung klingen, ohne sofort mehr Personal auf Station zu garantieren.",
+    "score": 1
+  }
+}

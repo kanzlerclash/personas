@@ -1,0 +1,186 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 158920,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Der Arzt muss erreichbar bleiben",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Grünen wollen die Gesundheitsversorgung besonders in ländlichen Regionen sichern und dafür neue Versorgungsmodelle einsetzen.",
+      "seite": 79,
+      "zitat": "„insbesondere die Versorgung in den ländlichen Regionen zu sichern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Helga und Dieter ist die Frage, ob Hausarzt und medizinische Hilfe im Dorf erreichbar bleiben, zentral. Der Programmpunkt trifft ihre Sorge vor dem Wegbrechen der Versorgung im Alter direkt.",
+      "begruendung_selbst": "Wenn unser Hausarzt irgendwann aufhört, brauchen wir hier auf dem Land eine echte Lösung und nicht nur gute Worte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krankenhäuser nicht wegfallen lassen",
+      "thema": "gesundheit",
+      "programmpunkt": "Krankenhäuser sollen als Standorte der Gesundheits- und Notfallversorgung erhalten werden.",
+      "seite": 79,
+      "zitat": "„Die Krankenhäuser im Land müssen als Orte der Gesundheits- und Notfallversorgung erhalten werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Rentnerpaar ist auf erreichbare Notfallversorgung angewiesen, weil lange Wege im Alter schnell riskant werden. Der Erhalt von Krankenhausstandorten wirkt für sie verlässlich und konkret.",
+      "begruendung_selbst": "Im Notfall darf es nicht heißen, wir müssten erst ewig weit fahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege darf nicht arm machen",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Land soll Pflegekosten senken, indem Investitions- und Ausbildungskosten aus dem Eigenanteil übernommen werden; zusätzlich wird eine Pflegevollversicherung unterstützt.",
+      "seite": 86,
+      "zitat": "„ein akutes Armutsrisiko“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Angst vor Pflegekosten gehört zu den größten finanziellen Sorgen der Persona. Dass das Programm Eigenanteile ausdrücklich als Armutsrisiko beschreibt und senken will, bestätigt ihr Sicherheitsbedürfnis.",
+      "begruendung_selbst": "Wir haben nicht gespart, damit am Ende die Pflege alles auffrisst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heizen bezahlbar modernisieren",
+      "thema": "energie",
+      "programmpunkt": "Bei der Wärmewende sollen Sanierungen, Mieterschutz und faire Heizkosten zusammen gedacht und Haushalte mit wenig Geld besonders unterstützt werden.",
+      "seite": 25,
+      "zitat": "„energetische Sanierungen, Mieterschutz und faire Heizkosten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten hohe Heizkosten und unbezahlbare Sanierungen. Der Fokus auf faire Heizkosten und Förderung nimmt ihre Lage im alten Eigenheim ernst, auch wenn sie bei Pflichten skeptisch bleiben.",
+      "begruendung_selbst": "Wenn schon umgebaut werden soll, dann muss es für kleine Renten bezahlbar bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Jede Stunde ein Bus",
+      "thema": "verkehr",
+      "programmpunkt": "Der Busverkehr soll so ausgebaut werden, dass alle Dörfer mindestens stündlich erreichbar sind, ergänzt durch Rufbusse oder On-Demand-Verkehre.",
+      "seite": 29,
+      "zitat": "„alle Dörfer mindestens einmal pro Stunde zuverlässig zu erreichen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Solange sie Auto fahren können, ist Mobilität gesichert; danach droht Abhängigkeit. Ein verlässlicher Dorfbus passt zu ihrem Wunsch, im eigenen Haus alt zu werden.",
+      "begruendung_selbst": "Wenn wir nicht mehr fahren können, darf das Dorf nicht abgeschnitten sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei beruhigt",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Personalausbau der Polizei soll bis 7.000 Vollzugsstellen fortgesetzt und Polizeireviere mit verlässlichen Budgets ausgestattet werden.",
+      "seite": 41,
+      "zitat": "„Zielgröße von 7.000 Stellen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar legt großen Wert auf Ordnung und sichtbare staatliche Verlässlichkeit. Mehr Polizeipersonal und Revierbudgets sprechen ihr Sicherheitsgefühl im Ort direkt an.",
+      "begruendung_selbst": "Wir wollen wissen, dass im Ernstfall auch jemand kommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht nur alles online",
+      "thema": "demokratie",
+      "programmpunkt": "Digitale Verwaltung soll den Zugang erleichtern, aber nicht zu neuen Ausschlüssen führen; analoge Alternativen sollen gleichgestellt bleiben.",
+      "seite": 50,
+      "zitat": "„Digitalisierung darf nicht zu neuen Ausschlüssen führen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter nutzen eher Zeitung, Telefon und persönliche Wege als digitale Portale. Der Schutz vor digitaler Überforderung entspricht ihrem Bedürfnis nach verständlicher Verwaltung.",
+      "begruendung_selbst": "Wir machen manches am Telefon oder auf Papier, und das muss weiter gehen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht noch mehr Pflichten",
+      "thema": "energie",
+      "programmpunkt": "Für Wohngebäude soll bei Neubauten eine Pflicht zur Nutzung von Solarenergie in der Landesbauordnung verankert werden.",
+      "seite": 23,
+      "zitat": "„eine Pflicht zur Nutzung von Solarenergie“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn ihr eigenes Haus nicht als Neubau betroffen ist, klingt eine neue Gebäudepflicht für das veränderungsskeptische Rentnerpaar nach zusätzlichem Druck auf Eigentümer. Ihre Grundhaltung bevorzugt Förderung und Freiwilligkeit statt Vorgaben.",
+      "begruendung_selbst": "Bei Häusern sollte man den Leuten helfen und ihnen nicht gleich wieder etwas vorschreiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Auto bleibt nötig",
+      "thema": "verkehr",
+      "programmpunkt": "Innerorts soll Tempo 30 zur Regelgeschwindigkeit werden, mit kommunalen Ausnahmen.",
+      "seite": 31,
+      "zitat": "„Tempo 30 als innerörtliche Regelgeschwindigkeit“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar ist im ländlichen Alltag noch stark auf das Auto angewiesen. Eine generelle Verlangsamung wirkt auf sie wie ein weiterer Eingriff in praktische Mobilität, auch wenn Sicherheitsgründe nachvollziehbar sind.",
+      "begruendung_selbst": "Wir fahren nicht zum Spaß Auto, sondern weil wir sonst vieles gar nicht schaffen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Parken wird wieder teurer",
+      "thema": "verkehr",
+      "programmpunkt": "Der Spielraum für Parkgebühren und Anwohnerparken soll erweitert werden, während kleine und klimaneutrale Fahrzeuge bevorzugt werden.",
+      "seite": 31,
+      "zitat": "„Spielraum für Parkgebühren sowie das Anwohnerparken erweitern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Rentner mit knappen Mitteln und notwendigen Autofahrten können zusätzliche Parkkosten als unnötige Belastung erscheinen. Sie lesen solche Maßnahmen weniger als Steuerung, sondern als Verteuerung ihres Alltags.",
+      "begruendung_selbst": "Wenn wir zum Arzt oder Amt müssen, soll nicht jedes Mal noch das Parken teurer werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Finger weg vom Eigentum",
+      "thema": "wohnen",
+      "programmpunkt": "Kommunen sollen bei langfristigem Leerstand Instrumente wie Sanierungsfristen, höhere Abgaben oder verpflichtende Zwischennutzung erhalten.",
+      "seite": 98,
+      "zitat": "„Sanierungsfristen, höhere Abgaben oder verpflichtende Zwischennutzung“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ihr abbezahltes Haus ist das Hauptvermögen der Persona. Auch wenn Leerstand gemeint ist, verstärken Fristen und Abgaben ihre Sorge, dass Eigentümer mit wenig Rücklagen durch neue Vorschriften unter Druck geraten.",
+      "begruendung_selbst": "Ein Haus ist oft das Einzige, was man sich aufgebaut hat; da muss der Staat vorsichtig sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Cannabis nicht verharmlosen",
+      "thema": "gesundheit",
+      "programmpunkt": "Cannabisclubs sollen ohne unnötige bürokratische Hürden gegründet werden können, begleitet von Prävention.",
+      "seite": 85,
+      "zitat": "„ohne unnötige bürokratische Hürden gegründet werden können“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Das sicherheits- und ordnungsorientierte Paar dürfte bei erleichterten Cannabisclubs skeptisch reagieren. Es nimmt vor allem das Signal der Lockerung wahr, nicht die parallel genannte Prävention.",
+      "begruendung_selbst": "Bei Drogen sollte man nicht den Eindruck machen, als sei das alles ganz normal.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strafen müssen spürbar bleiben",
+      "thema": "sicherheit",
+      "programmpunkt": "Ersatzfreiheitsstrafen sollen abgeschafft und durch Alternativen wie Ratenzahlungen, Pfändungen, gemeinnützige Arbeit und soziale Unterstützung ersetzt werden.",
+      "seite": 47,
+      "zitat": "„Wir lehnen die Kriminalisierung von Armut ab“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aus ihrer Ordnungsperspektive kann die Abschaffung einer Strafe wie Nachgiebigkeit wirken, obwohl das Programm Alternativen vorsieht. Helga und Dieter wollen Verlässlichkeit des Rechtsstaats und reagieren empfindlich auf alles, was zu weich klingt.",
+      "begruendung_selbst": "Wer etwas falsch macht, muss merken, dass Regeln gelten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter finden im Programm mehrere konkrete Zusagen zu Pflegekosten, ärztlicher Versorgung, Dorfmobilität und Polizeipersonal, die ihre zentralen Alters- und Sicherheitsängste direkt berühren. Gleichzeitig stoßen Gebäudepflichten, Eingriffe in Eigentum, höhere Autokosten und liberale Drogen- oder Strafrechtspositionen auf deutliche Skepsis. Insgesamt überwiegt für sie knapp der praktische Nutzen bei Gesundheit, Pflege und Daseinsvorsorge, aber ohne großes Vertrauen in den grünen Veränderungsdruck.",
+    "score": 1
+  }
+}

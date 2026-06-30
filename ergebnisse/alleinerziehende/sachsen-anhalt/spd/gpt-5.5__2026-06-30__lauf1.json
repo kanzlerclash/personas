@@ -1,0 +1,174 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 86693,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine Demuetigung beim Amt",
+      "thema": "gesundheit",
+      "programmpunkt": "Die SPD beschreibt soziale Sicherheit als Hilfe ohne Misstrauen und Demuetigung.",
+      "seite": 2,
+      "zitat": "„ohne Misst rauen, ohne Demütigung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine ist als aufstockende Arbeitnehmerin empfindlich gegen eine Politik, die Hilfebeduerftige pauschal verdaechtigt. Diese Formulierung bestaetigt ihren Wunsch nach Respekt und verlaesslicher Absicherung.",
+      "begruendung_selbst": "Ich will nicht betteln und mich rechtfertigen muessen. Ich arbeite und kuemmere mich, Hilfe darf mich nicht kleinmachen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Alleinerziehende werden gesehen",
+      "thema": "arbeit",
+      "programmpunkt": "Alleinerziehende sollen durch individuelle Qualifizierungs- und Beschaeftigungsangebote besser erreicht werden.",
+      "seite": 7,
+      "zitat": "„Alleinerziehende“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines Erwerbschancen haengen an Betreuung, Zeit und passender Unterstuetzung. Dass Alleinerziehende ausdruecklich als Erwerbspotenzial mit eigenem Bedarf genannt werden, spricht ihre Lage direkt an.",
+      "begruendung_selbst": "Endlich steht da nicht nur allgemein Familie. Alleinerziehend ist nochmal etwas anderes, und genau da brauche ich passende Hilfe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Lohn, mehr Sicherheit",
+      "thema": "arbeit",
+      "programmpunkt": "Die SPD will Tarifbindung, sichere Beschaeftigung, Mitbestimmung und familienfreundliche Arbeitszeiten staerken.",
+      "seite": 8,
+      "zitat": "„faire Löhne, sichere Beschäftigung und Mitbestimmung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine arbeitet Teilzeit und stockt auf; bessere Loehne und planbare Arbeitsbedingungen koennen ihre finanzielle Luecke unmittelbar verkleinern. Familienfreundliche Arbeitszeiten passen zu ihrer Sorge, Job und Betreuung ueberhaupt vereinbaren zu koennen.",
+      "begruendung_selbst": "Wenn die Arbeit besser bezahlt ist und die Zeiten passen, muss ich nicht jeden Monat neu rechnen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kinderarmut wirklich angehen",
+      "thema": "familie",
+      "programmpunkt": "Die SPD nennt Kinderarmut als zentrale Gefahr und will eine bedarfsgerechte Kindergrundsicherung auf Bundesebene voranbringen.",
+      "seite": 27,
+      "zitat": "„Kinderarmut bleibt die größte Gefahr“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines knappes Budget trifft ihre Kinder direkt bei Essen, Kleidung, Klassenfahrten und Teilhabe. Eine Kindergrundsicherung, die buendelt und existenzsichernd wirken soll, passt zu ihrem Wunsch nach verlaesslicher Unterstuetzung.",
+      "begruendung_selbst": "Meine Kinder sollen nicht merken muessen, dass immer zu wenig da ist. Eine Leistung, die wirklich reicht, waere eine riesige Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita muss zur Arbeit passen",
+      "thema": "familie",
+      "programmpunkt": "Die SPD will das Kita-Netz sichern, den Rechtsanspruch bis 14 Jahre verteidigen und flexible Oeffnungszeiten auch in Randzeiten ausbauen.",
+      "seite": 27,
+      "zitat": "„Berufstätige Eltern brauchen bedarfsgerechte Öffnungszeiten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das ist einer der zentralen Punkte fuer Nadine: Ohne verlässliche Kita- und Hortzeiten kann sie ihre Arbeitszeit kaum ausweiten. Der Bezug auf Randzeiten trifft ihren Alltag besonders genau.",
+      "begruendung_selbst": "Gebt mir Zeiten, die zu meiner Schicht passen. Dann kann ich arbeiten, ohne jeden Tag Panik vor der Abholung zu haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Warm essen ohne Drama",
+      "thema": "bildung",
+      "programmpunkt": "Die SPD setzt sich fuer ein kostenloses, gesundes und warmes Mittagessen in Kita und Schule ein.",
+      "seite": 27,
+      "zitat": "„kostenloses, gesundes und warmes Mittagessen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kosten fuer Verpflegung treffen Nadines Monatsbudget direkt. Ein kostenloses Mittagessen wuerde ihre Kinder absichern und zugleich den dauernden Kleinstkosten-Druck senken.",
+      "begruendung_selbst": "Wenn das Essen in Kita und Schule bezahlt ist, faellt ein Posten weg, der bei zwei Kindern richtig weh tut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schule darf nichts kosten",
+      "thema": "bildung",
+      "programmpunkt": "Lernmittelfreiheit soll auch digitale Endgeraete umfassen, damit Bildungschancen nicht vom Einkommen der Eltern abhaengen.",
+      "seite": 19,
+      "zitat": "„Bildungserfolg darf nicht vom Geldbeutel“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine hat keine Ruecklagen fuer Tablets, Lernmaterial oder Sonderanschaffungen. Lernmittelfreiheit entspricht ihrem Wunsch, dass ihre Kinder trotz knapper Kasse faire Chancen bekommen.",
+      "begruendung_selbst": "Ich will nicht, dass meine Kinder schlechter dastehen, nur weil ich kein Tablet aus dem Aermel schuetteln kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Miete darf nicht auffressen",
+      "thema": "wohnen",
+      "programmpunkt": "Die SPD will sozialen Wohnungsbau staerken, Familienwohnraum in Oberzentren foerdern und verhindern, dass Waerme zur zweiten Miete wird.",
+      "seite": 43,
+      "zitat": "„Wohnraum für Familien in Oberzentren“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine lebt in einer Mietwohnung in der Stadt, und die Miete frisst einen grossen Teil ihres Einkommens. Mehr bezahlbarer Familienwohnraum und bezahlbare Waerme sprechen ihre groesste finanzielle Sorge direkt an.",
+      "begruendung_selbst": "Eine Wohnung fuer mich und die Kinder muss bezahlbar bleiben. Ich kann nicht jeden Monat noch mehr an Miete und Nebenkosten verlieren.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kita-Gebuehren bleiben erstmal",
+      "thema": "familie",
+      "programmpunkt": "Die SPD haelt Beitragsfreiheit fuer Kitas als Ziel fest, verspricht kurzfristig aber nur die Entlastung von Eltern mit mehreren Kindern.",
+      "seite": 28,
+      "zitat": "„Beitragsfreiheit bleibt unser Ziel“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine braucht Entlastung jetzt, nicht nur als Zielperspektive. Auch wenn sie mit zwei Kindern von Mehrkind-Entlastung profitieren koennte, bleibt die zentrale Kostenfrage fuer sie zu wenig verbindlich geloest.",
+      "begruendung_selbst": "Ziel klingt nett, aber meine Rechnung kommt diesen Monat. Betreuung darf nicht weiter ein Kostenrisiko sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Antraege irgendwann digital",
+      "thema": "familie",
+      "programmpunkt": "Eine digitale Plattform fuer zentrale Familien- und Sozialleistungen wird nur perspektivisch angekuendigt.",
+      "seite": 26,
+      "zitat": "„Perspektivisch gehört dazu“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine verbringt viel Zeit mit Behoerdenwegen und Antraegen; eine nur perspektivische Plattform nimmt den aktuellen Druck nicht weg. Aus ihrer Sicht fehlt hier eine klare, kurzfristige Umsetzung.",
+      "begruendung_selbst": "Ich brauche weniger Papierkram jetzt. Zwischen Arbeit, Kita und Haushalt kann ich nicht noch ewig jedem Antrag hinterherrennen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schuelerticket nur als Ziel",
+      "thema": "verkehr",
+      "programmpunkt": "Kostenlose Beförderung fuer Schuelerinnen und Schueler bleibt nur perspektivisches Ziel, waehrend das Deutschlandticket fuer Senioren konkret gefoerdert werden soll.",
+      "seite": 42,
+      "zitat": "„Perspektivisch bleibt die kostenlose Beförderung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mobilitaetskosten und sichere Wege betreffen Nadines achtjaehriges Kind unmittelbar. Sie wuerde eine klare Zusage fuer Schulkinder staerker gewichten als eine nur perspektivische Formulierung.",
+      "begruendung_selbst": "Fahrkarten fuer Kinder sind kein Vielleicht-Thema. Wenn Schule Pflicht ist, muss der Weg dahin bezahlbar sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnen bleibt zu vage",
+      "thema": "wohnen",
+      "programmpunkt": "Die SPD beschreibt bezahlbaren Wohnraum als Herausforderung und setzt vor allem auf sozialen Wohnungsbau, Waermeplanung und Bauprogramme.",
+      "seite": 43,
+      "zitat": "„Bezahlbarer Wohnraum bleibt auch in Sachsen - Anhalt eine Herausforderung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine braucht als aktuelle Mieterin konkrete Entlastung bei Miete und Nebenkosten. Der Programmpunkt geht in ihre Richtung, wirkt aus ihrer Lage aber indirekt und laesst unmittelbare Mietentlastung offen.",
+      "begruendung_selbst": "Mehr bauen ist gut, aber meine Miete ist jetzt zu hoch. Ich will wissen, was mir als Mieterin konkret hilft.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine wuerde das SPD-Programm ueberwiegend positiv aufnehmen, weil es ihre Kernprobleme bei Kita, Ganztag, Kinderarmut, Arbeit, Lernkosten und bezahlbarem Wohnen mehrfach direkt adressiert. Besonders stark wirken die Anerkennung von Alleinerziehenden, der respektvolle Ton bei Sozialleistungen und konkrete Entlastungen wie kostenloses Mittagessen. Kritisch sieht sie vor allem, dass einzelne fuer sie teure Alltagspunkte nur als Ziel oder perspektivisch formuliert sind.",
+    "score": 2
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 110191,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kinderarmut endlich ernst nehmen",
+      "thema": "familie",
+      "programmpunkt": "Die Partei will Kinder- und Jugendarmut priorisieren und dafür landeseigene Ergänzungsprogramme sowie einen Landesaktionsplan mit Finanzierung für Kita- und Schulsozialarbeit, Jugendfreizeiten und Familienurlaube auflegen.",
+      "seite": 54,
+      "zitat": "„die Bekämpfung von Kinderarmut konsequent zu priorisieren“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine lebt mit zwei Kindern in einer dauerhaft knappen Haushaltslage. Ein armutssensibler Ansatz, der Teilhabe nicht vom Geldbeutel der Eltern abhängig macht, trifft ihre zentrale Sorge sehr direkt.",
+      "begruendung_selbst": "Ich will nicht jedes Mal rechnen müssen, ob meine Kinder bei etwas mitmachen dürfen. Wenn Kinderarmut wirklich angegangen wird, fühlt sich das nach Respekt für unseren Alltag an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita muss verlässlich sein",
+      "thema": "familie",
+      "programmpunkt": "Die Partei will die Personalsituation in Kitas strukturell verbessern, den Mindestpersonalschlüssel anheben, Sonderförderung ausbauen und Kitasozialarbeit fördern.",
+      "seite": 57,
+      "zitat": "„den Mindestpersonalschlüssel anheben“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Nadine entscheidet verlässliche Betreuung darüber, ob sie arbeiten kann und ob ihr vierjähriges Kind gut gefördert wird. Mehr Personal und weniger Ausfälle entsprechen genau ihrem Bedarf nach planbarer Vereinbarkeit.",
+      "begruendung_selbst": "Wenn in der Kita genug Leute da sind, fällt nicht ständig etwas aus. Ich brauche Betreuung, auf die ich mich verlassen kann, sonst wackelt sofort meine Arbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht ewig zur Kita fahren",
+      "thema": "familie",
+      "programmpunkt": "Mit einem Programm „HeimatKita“ soll die nächste Kindertagesbetreuung im selben Ort oder höchstens 15 Minuten entfernt erreichbar sein.",
+      "seite": 57,
+      "zitat": "„maximal 15 Minuten entfernt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines Alltag ist von Bring- und Abholzeiten geprägt. Kurze Wege zur Betreuung entlasten sie praktisch und geben ihr mehr Spielraum für Arbeit, Haushalt und Behördengänge.",
+      "begruendung_selbst": "Jede zusätzliche Fahrt kostet Zeit, Nerven und Geld. Eine Kita in Reichweite wäre für mich keine Kleinigkeit, sondern Alltagserleichterung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ganztag hilft beim Arbeiten",
+      "thema": "bildung",
+      "programmpunkt": "Alle allgemeinbildenden Schulen sollen zu Schulen mit Ganztagsangeboten weiterentwickelt werden, mit möglichst kostenfreien oder günstigen Kultur-, Sport- und Bildungsangeboten.",
+      "seite": 59,
+      "zitat": "„alle allgemeinbildenden Schulen in Sachsen-Anhalt zu Schulen mit Ganztagsangebot“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Nadine ist Ganztag nicht nur Bildungspolitik, sondern eine Voraussetzung für verlässliche Arbeitszeiten. Zugleich könnten ihre Kinder Angebote nutzen, die sie privat kaum bezahlen kann.",
+      "begruendung_selbst": "Ganztag heißt für mich: Ich kann meine Schicht besser planen, und meine Kinder bekommen trotzdem Musik, Sport oder Hilfe, ohne dass ich extra zahlen muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schule darf nichts kosten",
+      "thema": "bildung",
+      "programmpunkt": "Lernmittel, gesundes Mittagessen und Menstruationsprodukte sollen in der Schule kostenfrei sein; bei Klassenfahrten sollen Schulen Familien aktiv beim Zugang zu Unterstützung helfen.",
+      "seite": 59,
+      "zitat": "„Der Zugang zu Lernmitteln ebenso wie zu gesundem Mittagessen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Unerwartete Schul- und Klassenfahrtkosten sind für Nadine typische Budgetkrisen. Kostenfreie Grundangebote und aktive Hilfe bei Anträgen nehmen Druck aus genau den Situationen, in denen sie sonst allein kämpfen muss.",
+      "begruendung_selbst": "Hefte, Essen, Ausflug, Klassenfahrt - das läppert sich alles. Wenn die Schule da mitdenkt, müssen meine Kinder nicht merken, wie knapp es ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arbeit muss sich lohnen",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will faire Löhne, Tarifbindung, bessere Vereinbarkeit und gezielte Verbesserungen für Alleinerziehende, Teilzeitbeschäftigte und Menschen beim Wiedereinstieg.",
+      "seite": 76,
+      "zitat": "„faire Löhne, anständige Arbeitsbedingungen und echte Mitbestimmung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine arbeitet bereits, stockt aber auf und erlebt, dass Teilzeit wegen Betreuung finanziell nicht reicht. Existenzsichernde Beschäftigung und bessere Kinderbetreuung für Alleinerziehende treffen ihren Kernwunsch, durch Arbeit stabiler zu werden.",
+      "begruendung_selbst": "Ich arbeite ja. Ich will nur, dass am Ende wirklich etwas übrig bleibt und ich nicht für Teilzeit und Kinderbetreuung bestraft werde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Miete frisst alles auf",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will bezahlbaren Wohnraum sichern, Mietendeckel einsetzen, sozialen Wohnungsbau nutzbar machen und Mietspiegel unterstützen.",
+      "seite": 91,
+      "zitat": "„Insbesondere in den großen Städten fehlt bezahlbarer Wohnraum“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine lebt zur Miete in einer Stadt und beschreibt Miete als größten finanziellen Druck. Eine soziale Miet- und Baupolitik mit Mietendeckel und sozialem Wohnungsbau berührt ihre Wohnsicherheit unmittelbar.",
+      "begruendung_selbst": "Bei mir geht so viel Geld für die Wohnung weg, dass jeder Restposten weh tut. Bezahlbare Mieten sind für mich keine Theorie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gesundheit für meine Kinder",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will Krankenhausstandorte erhalten und ausdrücklich die geburtshilfliche Versorgung sowie Kinderheilkunde sichern.",
+      "seite": 80,
+      "zitat": "„medizinische Grundversorgung junger Familien gefährdet“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit zwei Kindern ist Nadine auf erreichbare medizinische Versorgung angewiesen, besonders wenn im Alltag wenig Puffer für lange Wege bleibt. Gesicherte Kinderheilkunde und wohnortnahe Versorgung geben ihr praktische Sicherheit.",
+      "begruendung_selbst": "Wenn eins meiner Kinder krank ist, kann ich nicht erst stundenlang irgendwohin fahren. Kinderärzte und Kliniken müssen erreichbar bleiben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bitte keine Schulbaustelle",
+      "thema": "bildung",
+      "programmpunkt": "Die Partei will Sekundarschulen abschaffen und stattdessen vor allem Gemeinschaftsschulen etablieren.",
+      "seite": 60,
+      "zitat": "„Sekundarschulen wollen wir als Schulform abschaffen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine wünscht sich für ihr achtjähriges Kind vor allem verlässliche Schulen, gute Betreuung und wenig organisatorisches Chaos. Eine große Strukturreform kann aus ihrer pragmatischen Sicht verunsichern, weil sie im Alltag schon genug Übergänge und Behördenaufwand stemmen muss.",
+      "begruendung_selbst": "Ich brauche keine neue Unsicherheit im Schulsystem. Mir ist wichtiger, dass die Schule funktioniert, die Lehrkräfte da sind und mein Kind gut durchkommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimacheck nicht vor Kindern",
+      "thema": "steuern",
+      "programmpunkt": "Alle Haushaltsausgaben sollen einem Klimacheck unterzogen werden; Ausgaben ohne nachweisbare Klimaverträglichkeit müssten begründet werden.",
+      "seite": 96,
+      "zitat": "„Ein Klimavorbehalt im Landeshaushalt stellt sicher“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine bewertet Politik zuerst daran, ob Betreuung, Schule, Miete und Sozialleistungen verlässlich funktionieren. Ein pauschaler Klimavorbehalt für alle Ausgaben wirkt auf sie riskant, wenn dadurch soziale Alltagsbedarfe zusätzliche Begründungsschleifen bekommen.",
+      "begruendung_selbst": "Klimaschutz ist okay, aber meine Kinder brauchen jetzt Kita, Schule und eine bezahlbare Wohnung. Da darf nicht noch ein Filter davorstehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht wieder Druck auf Arme",
+      "thema": "integration",
+      "programmpunkt": "Sprachunterricht für Zugewanderte soll verpflichtend sein und bei Bedarf durchgesetzt werden.",
+      "seite": 78,
+      "zitat": "„nötigenfalls auch durchgesetzt werden“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine reagiert empfindlich auf politische Sprache, die nach Kontrolle und Durchsetzung klingt, weil sie selbst als aufstockende Mutter Misstrauen kennt. Obwohl sie Sprachkurse sinnvoll findet, stößt ihr der verpflichtende Ton gegenüber anderen unterstützungsbedürftigen Gruppen auf.",
+      "begruendung_selbst": "Hilfe ja, Sprache lernen auch. Aber dieses Durchsetzen klingt schnell wieder so, als müssten Leute erst beweisen, dass sie brav genug sind.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine würde in dem Programm viele konkrete Entlastungen für ihren Alltag erkennen: bessere Kita-Personalschlüssel, kurze Betreuungswege, sozial gestaffelte Beiträge, Ganztag, kostenfreie Schulangebote, faire Arbeit und bezahlbares Wohnen. Besonders stark wirkt, dass Alleinerziehende, Kinderarmut und einkommensschwache Familien mehrfach direkt adressiert werden. Kritisch sieht sie große Schulstrukturreformen, pauschale Klimaprüfungen im Haushalt und einen verpflichtenden Ton bei Integration, weil sie im Alltag vor allem Verlässlichkeit und respektvolle Unterstützung braucht.",
+    "score": 2
+  }
+}

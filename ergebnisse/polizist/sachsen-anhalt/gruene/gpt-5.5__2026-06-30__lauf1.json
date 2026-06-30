@@ -1,0 +1,162 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 71587,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Leute",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Grünen wollen den Ausbau der Vollzugspolizei bis auf 7.000 Stellen fortsetzen und zugleich die Polizeiverwaltung stärken.",
+      "seite": 41,
+      "zitat": "„Mehr Personal für unsere Polizei“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt Personalmangel und Überlastung im Streifendienst als Kernproblem. Eine konkrete Zielgröße für mehr Vollzugsbeamt*innen trifft deshalb direkt seine berufliche Lage.",
+      "begruendung_selbst": "Wir sollen draußen Präsenz zeigen und Einsätze sauber abarbeiten. Dafür braucht es schlicht genug Kolleginnen und Kollegen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Reviere brauchen Spielraum",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will Beförderungsstaus abbauen, IT-Spielräume schaffen und verlässliche eigene Budgets für Polizeireviere einführen.",
+      "seite": 41,
+      "zitat": "„Beförderungsstaus aufgelöst“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco fühlt sich bei Ausstattung und Anerkennung im Dienst oft im Stich gelassen. Revierbudgets und Beförderungsperspektiven wirken aus seiner Sicht praktischer als bloße Wertschätzungsrhetorik.",
+      "begruendung_selbst": "Wenn im Revier etwas fehlt, darf das nicht monatelang durch Haushaltswege hängen. Wir brauchen vor Ort handlungsfähige Dienststellen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Drohnen sind echte Lage",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Grünen wollen die Polizei mit klaren Rechtsgrundlagen, Ausbildung und Einsatzkonzepten zur Drohnenabwehr befähigen.",
+      "seite": 42,
+      "zitat": "„Polizei gezielt zur Drohnenabwehr befähigen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hybride Bedrohungen und technische Einsatzlagen passen zu Marcos Wunsch nach moderner Ausstattung. Dass Ausbildung und abgestufte Konzepte mitgedacht werden, stärkt für ihn die professionelle Einsatzfähigkeit.",
+      "begruendung_selbst": "Drohnen über Veranstaltungen oder Infrastruktur sind keine Theorie mehr. Wenn wir zuständig sein sollen, brauchen wir Technik, Training und klare Regeln.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Justiz darf nicht versanden",
+      "thema": "sicherheit",
+      "programmpunkt": "Gerichte und Staatsanwaltschaften sollen personell besser ausgestattet werden, damit Verfahren effizienter und schneller laufen.",
+      "seite": 46,
+      "zitat": "„Verfahrenslaufzeiten verkürzt werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist frustriert, wenn polizeiliche Arbeit später in der Justizkette liegen bleibt. Mehr Personal bei Gerichten und Staatsanwaltschaften bestätigt seinen Wunsch nach einem funktionierenden Rechtsstaat.",
+      "begruendung_selbst": "Wenn wir sauber ermitteln und dann passiert ewig nichts, verliert der Staat Glaubwürdigkeit. Die Justiz muss Verfahren zügig schaffen können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Verfassungsfeinde im Dienst",
+      "thema": "demokratie",
+      "programmpunkt": "Verfassungsfeindliche Beschäftigte im öffentlichen Dienst sollen rechtsicher und schneller aus dem Dienst entfernt werden.",
+      "seite": 40,
+      "zitat": "„Wer für den Staat arbeitet“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist institutionentreu und lehnt Kräfte ab, die den Rechtsstaat untergraben. Der harte Fokus auf Verfassungstreue im Staatsdienst entspricht seinem Selbstverständnis als Beamter.",
+      "begruendung_selbst": "Wer Uniform oder Amt trägt, muss fest auf dem Boden der Verfassung stehen. Alles andere beschädigt uns alle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Cyberkriminalität ernst nehmen",
+      "thema": "sicherheit",
+      "programmpunkt": "Für Cyber- und Onlinekriminalität sollen Staatsanwaltschaften, Gerichte, Polizei und Fachstellen mit spezialisiertem Personal und Schulungen gestärkt werden.",
+      "seite": 46,
+      "zitat": "„Cyber- und Onlinekriminalität nehmen rasant zu“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco sieht moderne Kriminalität nicht nur auf der Straße, sondern auch digital. Spezialisierung und praxisnahe Schulungen wirken auf ihn wie notwendige Professionalisierung der gesamten Sicherheitskette.",
+      "begruendung_selbst": "Online-Betrug, Hass und Bedrohungen landen am Ende auch bei uns. Dafür müssen Polizei und Justiz technisch mithalten.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht jede Kontrolle blockieren",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Grünen lehnen Massenüberwachung, Gesichtserkennung in öffentlichen Räumen und entsprechende Einsätze bei Veranstaltungen grundsätzlich ab.",
+      "seite": 41,
+      "zitat": "„Gesichtserkennung wird es mit uns nicht geben“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco versteht Bürgerrechte, ärgert sich aber über pauschale Begrenzungen von Einsatzmitteln in schwierigen Lagen. Aus seiner Perspektive klingt das schnell so, als werde der Polizei vor allem Missbrauch unterstellt.",
+      "begruendung_selbst": "Bei Risikospielen und Großlagen brauchen wir wirksame Mittel. Kontrolle ja, aber nicht so, dass uns jedes Werkzeug von vornherein genommen wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Werkzeuge fehlen dann",
+      "thema": "sicherheit",
+      "programmpunkt": "Eine Einführung von Palantir oder vergleichbarer Analyse-Software in Sachsen-Anhalt wird ausdrücklich abgelehnt.",
+      "seite": 42,
+      "zitat": "„Eine Einführung von Palantir“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco will, dass die Polizei technisch mit komplexer Kriminalität Schritt hält. Die kategorische Ablehnung bestimmter Analysewerkzeuge wirkt auf ihn wie eine Einschränkung, bevor praktische Sicherheitsbedarfe geprüft sind.",
+      "begruendung_selbst": "Wenn Täter digital arbeiten, können wir nicht mit Papierordnern hinterherlaufen. Solche Systeme muss man streng regeln, aber nicht reflexhaft ausschließen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schon wieder Kontrollinstanz",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Grünen wollen eine unabhängige Stelle mit umfassenden Rechten schaffen, die Beschwerden und Fehlverhalten in der Polizei untersucht.",
+      "seite": 43,
+      "zitat": "„Beschwerden, Hinweise und Fehlverhalten in der Polizei untersucht“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco wünscht Rückhalt und reagiert empfindlich auf Signale pauschaler Polizeikritik. Eine zusätzliche Polizeibeauftragtenstelle kann bei ihm den Eindruck verstärken, seine Institution werde vor allem als Problem betrachtet.",
+      "begruendung_selbst": "Fehler müssen aufgearbeitet werden, klar. Aber wir brauchen auch Rückendeckung und nicht immer neue Stellen, die zuerst Misstrauen ausstrahlen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strafe muss spürbar bleiben",
+      "thema": "sicherheit",
+      "programmpunkt": "Ersatzfreiheitsstrafen sollen abgeschafft und durch Ratenzahlungen, Pfändungen, gemeinnützige Arbeit und soziale Unterstützung ersetzt werden.",
+      "seite": 47,
+      "zitat": "„Ersatzfreiheitsstrafe abschaffen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco bewertet Politik stark danach, ob Strafverfolgung am Ende konsequent wirkt. Auch wenn Alternativen sinnvoll sein können, klingt die Abschaffung für ihn nach einer weiteren Abschwächung der Justizkette.",
+      "begruendung_selbst": "Ich sehe jeden Tag, wie wichtig klare Konsequenzen sind. Wenn Sanktionen immer weiter entschärft werden, nimmt das draußen keiner ernst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Drogenpolitik zu locker",
+      "thema": "gesundheit",
+      "programmpunkt": "Cannabisclubs sollen leichter gegründet werden können; zusätzlich will die Partei Drug-Checking und Drogenkonsumräume ermöglichen.",
+      "seite": 85,
+      "zitat": "„Cannabisclubs sollen in Sachsen-Anhalt“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco denkt Drogenpolitik auch aus Einsatz- und Ordnungsperspektive. Niedrigere Hürden für Cannabisclubs und Konsumräume wirken auf ihn weniger wie Entlastung als wie zusätzliche Konflikt- und Kontrolllagen.",
+      "begruendung_selbst": "Prävention ist wichtig, aber vor Ort landen die Begleitprobleme bei Polizei und Ordnungsamt. Mir ist das zu sehr auf Lockerung gebaut.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco sieht im Programm mehrere Punkte, die seine berufliche Lage direkt ernst nehmen: mehr Polizeipersonal, Revierbudgets, Drohnenabwehr, Cyberkompetenz und eine besser ausgestattete Justiz. Gleichzeitig stößt er sich an Bürgerrechts- und Kontrollakzenten, die bei ihm als Misstrauen gegenüber der Polizei ankommen, sowie an aus seiner Sicht zu weichen Signalen bei Strafen und Drogenpolitik. Insgesamt überwiegt wegen der konkreten Personal- und Ausstattungszusagen leicht die Zustimmung, bleibt aber deutlich quergespannt.",
+    "score": 1
+  }
+}

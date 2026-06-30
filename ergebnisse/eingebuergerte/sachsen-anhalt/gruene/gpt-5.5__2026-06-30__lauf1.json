@@ -1,0 +1,138 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 104441,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich gehöre ich dazu",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will kommunales Wahlrecht für dauerhaft hier lebende Menschen unabhängig von der Staatsangehörigkeit und verbindet politische Teilhabe ausdrücklich mit Zugehörigkeit.",
+      "seite": 35,
+      "zitat": "„unabhängig von der Staatsangehörigkeit“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt Zugehörigkeit als rechtliche und soziale Frage, nicht als Frage der Abstammung. Dass dauerhaft hier lebende Menschen politisch mitentscheiden sollen, bestätigt ihre Vorstellung von Teilhabe und Anerkennung.",
+      "begruendung_selbst": "Ich kenne dieses Gefühl, dass man hier lebt und trotzdem nicht ganz zählt. Wer hier arbeitet, Kinder großzieht und Verantwortung übernimmt, sollte auch mitbestimmen dürfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Politik muss mich erreichen",
+      "thema": "demokratie",
+      "programmpunkt": "Politische Beteiligung soll mehrsprachig, niedrigschwellig und aktiv auf Menschen mit Migrationserfahrung sowie andere unterrepräsentierte Gruppen ausgerichtet werden.",
+      "seite": 37,
+      "zitat": "„unterrepräsentiert sind“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin achtet darauf, ob Menschen mit Migrationsgeschichte nur mitgemeint sind oder wirklich angesprochen werden. Die aktive Ansprache und mehrsprachige Information passen zu ihrem Wunsch nach selbstverständlicher demokratischer Zugehörigkeit.",
+      "begruendung_selbst": "Ich will nicht immer nur am Rand mitgemeint sein. Wenn Politik Menschen wie mich aktiv anspricht, fühlt sich Demokratie nicht wie ein geschlossener Raum an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Nazis im Amt",
+      "thema": "demokratie",
+      "programmpunkt": "Rechtsextreme sollen rechtsstaatlich und zügig aus dem öffentlichen Dienst entfernt werden, wenn sie die freiheitlich-demokratische Grundordnung nicht tragen.",
+      "seite": 40,
+      "zitat": "„Rechtsextreme in den Reihen des öffentlichen Dienstes“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte braucht Aylin Vertrauen in einen öffentlichen Dienst, der allen Bürgerinnen und Bürgern fair begegnet. Die klare Abgrenzung gegen Rechtsextreme in staatlichen Institutionen schützt genau dieses Vertrauen.",
+      "begruendung_selbst": "Ich arbeite selbst für den Staat. Da darf niemand sitzen, der Menschen wie mich innerlich aussortiert und trotzdem über unsere Anliegen entscheidet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Polizei ohne Generalverdacht",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizeiausbildung soll Menschenrechte, Antidiskriminierung, interkulturelle Kompetenz und den aktiven Schutz vor Racial Profiling verankern.",
+      "seite": 43,
+      "zitat": "„Racial Pro fi ling aktiv entgegenwirkt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin will innere Sicherheit, aber nicht um den Preis pauschaler Verdächtigung von Menschen mit sichtbarer Migrationsgeschichte. Die Verbindung von Sicherheit, Ausbildung und Antidiskriminierung trifft ihren rechtsstaatlichen Maßstab.",
+      "begruendung_selbst": "Sicherheit ja, aber bitte ohne diesen Blick: Du passt nicht hierher. Eine Polizei, die Racial Profiling ernst nimmt, macht mich eher sicherer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Diskriminierung bekommt Grenzen",
+      "thema": "demokratie",
+      "programmpunkt": "Ein Antidiskriminierungsgesetz soll Chancengleichheit gegenüber öffentlichen Stellen einforderbar machen und öffentliche Einrichtungen zu Vielfalt und Gewaltschutz verpflichten.",
+      "seite": 44,
+      "zitat": "„einen einheitlichen Rahmen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin sorgt sich vor Alltagsdiskriminierung und davor, ihre Zugehörigkeit ständig beweisen zu müssen. Ein klarer Rechtsrahmen gegenüber öffentlichen Stellen entspricht ihrem Wunsch nach Würde, Gleichbehandlung und einklagbarer Fairness.",
+      "begruendung_selbst": "Ich will nicht bitten müssen, fair behandelt zu werden. Wenn eine Behörde diskriminiert, brauche ich Regeln, auf die ich mich wirklich berufen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Migrantische Stimmen zählen",
+      "thema": "integration",
+      "programmpunkt": "Migrantische Vereine und Initiativen sollen strukturell unterstützt und als demokratische Akteurinnen anerkannt werden.",
+      "seite": 74,
+      "zitat": "„Migrantische Vereine und Initiativen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin bewegt sich zwischen Mehrheitsgesellschaft und Herkunftscommunity und kennt die Bedeutung solcher Netzwerke. Die Anerkennung migrantischer Selbstorganisationen als Teil der Demokratie stärkt genau die Räume, in denen Teilhabe praktisch wird.",
+      "begruendung_selbst": "Unsere Vereine sind nicht irgendein Integrationsdekor. Dort wird beraten, übersetzt, organisiert und Demokratie im Alltag gemacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ankommen ohne Behördenchaos",
+      "thema": "integration",
+      "programmpunkt": "Kommunale Ankommenszentren sollen Beratung, Ausländerbehörde, Jobcenter, Sprachkursberatung, psychosoziale Unterstützung, Kinderbetreuung und Rechtsberatung bündeln.",
+      "seite": 77,
+      "zitat": "„Kommunale Ankommenszentren als zentrale Unterstützungsorte“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin befürwortet geregelte und sachliche Migrationspolitik, solange Menschen nicht zum Problem erklärt werden. Gebündelte Anlaufstellen versprechen Ordnung, Orientierung und Würde statt zermürbender Behördenwege.",
+      "begruendung_selbst": "Klare Verfahren sind gut, aber Menschen dürfen darin nicht verloren gehen. Ein Ort, an dem wirklich geholfen wird, ist genau der richtige Ansatz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschlüsse schneller anerkennen",
+      "thema": "arbeit",
+      "programmpunkt": "Anerkennungsverfahren für ausländische Berufsabschlüsse sollen schneller, digitaler und mit weniger bürokratischen Hürden organisiert werden.",
+      "seite": 78,
+      "zitat": "„bürokratische Hürden abbauen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin bewertet Zugehörigkeit auch danach, ob Leistung zählt und nicht Herkunft. Schnellere Anerkennung ausländischer Qualifikationen passt zu ihrem Anspruch, dass Menschen fair nach Können und Beitrag beurteilt werden.",
+      "begruendung_selbst": "Wenn jemand etwas kann, soll nicht der Aktenstapel entscheiden. Leistung muss zählen, egal wo ein Abschluss zuerst gemacht wurde.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht gleich mit Zwang",
+      "thema": "integration",
+      "programmpunkt": "Sprachkurse sollen ab dem ersten Tag zugänglich sein, zugleich aber verpflichtend sein und bei Bedarf durchgesetzt werden.",
+      "seite": 78,
+      "zitat": "„nötigenfalls auch durchgesetzt werden“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin hält Sprache für zentral und akzeptiert klare Regeln, reagiert aber sensibel auf einen Ton, der Zugewanderte schnell als zu disziplinierende Gruppe behandelt. Der Durchsetzungsakzent kann für sie trotz guter Unterstützungsangebote in Richtung Misstrauen kippen.",
+      "begruendung_selbst": "Natürlich ist Sprache wichtig. Aber wenn sofort von Durchsetzen die Rede ist, klingt es wieder so, als müsse man Menschen erst einmal antreiben statt ihnen faire Bedingungen zu geben.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin würde das Programm überwiegend sehr positiv bewerten, weil es Zugehörigkeit, Antidiskriminierung, wehrhafte Demokratie und faire Teilhabe von Menschen mit Migrationsgeschichte ausdrücklich stärkt. Besonders wichtig wären ihr der Schutz vor Rechtsextremismus im öffentlichen Dienst, Maßnahmen gegen Racial Profiling und ein verbindlicher Antidiskriminierungsrahmen. Kritisch bliebe für sie nur dort ein Restunbehagen, wo Integrationspolitik bei Sprachkursen in einen verpflichtenden Durchsetzungston kippt.",
+    "score": 2
+  }
+}

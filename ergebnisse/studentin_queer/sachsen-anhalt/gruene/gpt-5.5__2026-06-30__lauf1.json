@@ -1,0 +1,138 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 98302,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "2035 ist endlich ernst",
+      "thema": "klima",
+      "programmpunkt": "Die Grünen wollen ein klimaneutrales Sachsen-Anhalt bis 2035, ein ambitioniertes Klimaschutzgesetz, klare Minderungsziele und Klimaschutz als Staatsziel in der Landesverfassung.",
+      "seite": 10,
+      "zitat": "„ambitioniertes Klimaschutzgesetz mit klaren Minderungszielen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule bewertet Politik stark danach, ob sie die Klimakrise als Zukunftsfrage ernst nimmt. Ein früher Klimaneutralitätspfad mit rechtlicher Verankerung gibt ihr das Gefühl, dass ihre Lebensperspektive nicht aufgeschoben wird.",
+      "begruendung_selbst": "Genau darum geht es: nicht irgendwann ein bisschen Klimaschutz, sondern ein Datum, ein Gesetz und Verantwortung für meine Zukunft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimageld entlastet mich",
+      "thema": "klima",
+      "programmpunkt": "Die Partei setzt sich auf Bundesebene für ein Klimageld ein, bei dem Einnahmen aus der CO2-Steuer an Bürger*innen zurückfließen und Menschen mit geringem Emissionsanteil profitieren.",
+      "seite": 11,
+      "zitat": "„insbesondere denjenigen zugutekommt, die wenig zu den CO ₂ - Emissionen beitragen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit knappem BAföG, Nebenjob und steigenden Lebenshaltungskosten ist soziale Abfederung für Jule zentral. Das Klimageld verbindet ihre Klimapriorität mit der Sorge, dass ökologische Politik Menschen mit wenig Geld überfordert.",
+      "begruendung_selbst": "Ich will Klimaschutz, aber ich kann Preissteigerungen nicht einfach wegatmen. Klimageld wäre fair.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erneuerbar bis 2030",
+      "thema": "energie",
+      "programmpunkt": "Sachsen-Anhalt soll im Strombereich bis 2030 vollständig erneuerbar werden; dafür sollen Wind, Sonne, Biomasse, Wasser und Erdwärme dezentral ausgebaut werden.",
+      "seite": 22,
+      "zitat": "„Wind, Sonne, Biomasse, Wasser und Erdwärme“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona wünscht eine konsequente Energiewende und weniger Abhängigkeit von fossilen Energien. Das Ziel berührt direkt ihr Zukunftsgefühl und ihre Erwartung, dass Energiepolitik Klimaschutz und Versorgung zusammen denkt.",
+      "begruendung_selbst": "Wenn Strom wirklich erneuerbar wird, ist das nicht Symbolpolitik, sondern der Kern der Transformation.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Ticket muss bezahlbar bleiben",
+      "thema": "verkehr",
+      "programmpunkt": "Die Grünen wollen vergünstigte Deutschlandtickets für Auszubildende, Freiwilligendienstleistende und Menschen mit geringen Einkommen sowie Preisstabilität beim Deutschlandsemesterticket.",
+      "seite": 29,
+      "zitat": "„Menschen mit geringen Einkommen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule ist im Alltag auf ÖPNV und Rad angewiesen, während ihr Budget eng ist. Günstigere Tickets und stabile Preise treffen ihre materielle Lage unmittelbar und passen zu ihrer Verkehrswende-Haltung.",
+      "begruendung_selbst": "Ich fahre nicht aus Lifestyle ÖPNV, ich brauche ihn. Wenn das Ticket teurer wird, fehlt mir das Geld woanders.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queere Rechte sind Schutz",
+      "thema": "familie",
+      "programmpunkt": "Das Programm will Antidiskriminierung, Gewaltschutz und Vielfalt dauerhaft in Landesinstitutionen verankern und besonders vor queer-, frauen- und behindertenfeindlicher Gewalt schützen.",
+      "seite": 44,
+      "zitat": "„alle Menschen die gleichen Chancen und Rechte im Alltag“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als queere Studentin fürchtet Jule den Abbau von Gleichstellungs- und Antidiskriminierungsstrukturen. Der Punkt spricht ihre eigene Sicherheit und Würde direkt an.",
+      "begruendung_selbst": "Meine Rechte sind kein Extra. Ich will, dass der Staat mich schützt, wenn Queerfeindlichkeit real wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queerpolitik braucht Struktur",
+      "thema": "familie",
+      "programmpunkt": "Die Grünen wollen institutionelle Strukturen für Queer-Politik ausbauen, das LGBTIQ*-Aktionsprogramm weiterentwickeln und Fachzentren sowie Peer-to-Peer-Angebote für geschlechtliche Vielfalt finanzieren.",
+      "seite": 45,
+      "zitat": "„Sichtbarkeit und Gleichstellung von queeren Menschen gestärkt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule reagiert stark auf die Frage, ob queere Rechte dauerhaft abgesichert oder nur symbolisch erwähnt werden. Verbindliche Strukturen und finanzierte Beratung entsprechen ihrem Wunsch nach Schutz und Sichtbarkeit.",
+      "begruendung_selbst": "Sichtbarkeit allein reicht nicht. Ohne Stellen, Beratung und Geld bleiben queere Rechte viel zu oft nur ein Plakat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Studieren darf nicht scheitern",
+      "thema": "bildung",
+      "programmpunkt": "Das Programm lehnt Studiengebühren ab, will Zweitstudiengebühren abschaffen, ein elternunabhängiges BAföG unterstützen und Studierendenwerke, Wohnheime, Mensen sowie psychosoziale Beratung bezahlbar absichern.",
+      "seite": 67,
+      "zitat": "„Chance auf Bildung unabhängig von der fi nanziellen Situation“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jules Studium hängt an knappen, unregelmäßigen Mitteln und wenig familiärer Unterstützung. Gebührenfreiheit, BAföG-Reform und bezahlbare Studierendenwerke adressieren ihre finanzielle Unsicherheit sehr direkt.",
+      "begruendung_selbst": "Ich studiere nicht mit Sicherheitsnetz. Gebühren oder Wohnungsnot können bei mir wirklich das Studium kippen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mieten runter, Wohnheime rauf",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will bezahlbaren Wohnraum sichern, Mietendeckel einsetzen, Wohnheimbau für Studierende und Auszubildende ausbauen und sozialen Wohnungsbau nutzbar machen.",
+      "seite": 91,
+      "zitat": "„Wohnungen sind kein Spekulationsobjekt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt in einer WG zur Miete und spürt steigende Wohnkosten sofort. Mehr Wohnheime und Mietschutz treffen ihre konkrete Lebenslage und reduzieren den Druck am Monatsende.",
+      "begruendung_selbst": "Bezahlbares Wohnen ist für mich kein abstraktes Recht, sondern die Frage, ob mein Konto bis Monatsende reicht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Gas bleibt ein Risiko",
+      "thema": "energie",
+      "programmpunkt": "Zur Beschleunigung des Braunkohleausstiegs wollen die Grünen ein H2-ready-Gaskraftwerk in Schkopau aufbauen.",
+      "seite": 25,
+      "zitat": "„Aufbau eines H2-ready-Gaskraftwerks in Schkopau“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule begrüßt den schnelleren Kohleausstieg, ist aber gegenüber fossilen Brückentechnologien misstrauisch. Ein neues Gaskraftwerk kann für sie wie ein Lock-in wirken, solange nicht garantiert ist, dass es tatsächlich erneuerbar betrieben wird.",
+      "begruendung_selbst": "Kohleausstieg ja, aber bitte nicht mit der nächsten fossilen Abhängigkeit als Übergang, der dann ewig bleibt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule würde das Programm überwiegend als sehr nah an ihren Prioritäten lesen: Klimaneutralität, erneuerbarer Strom, bezahlbare Mobilität, queerer Schutz und bessere Studienbedingungen werden klar adressiert. Besonders stark resonieren die verbindlichen Klima- und Antidiskriminierungsstrukturen sowie konkrete Entlastungen bei Ticket, BAföG, Wohnen und Hochschulen. Ein Restvorbehalt bleibt dort, wo ein H2-ready-Gaskraftwerk als Brücke aus der Kohle geplant wird.",
+    "score": 2
+  }
+}

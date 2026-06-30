@@ -1,0 +1,198 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 107997,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Energiepreise runter, bitte",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will Energiepreise für Unternehmen senken, unter anderem über einen niedrigeren Industriestrompreis.",
+      "seite": 88,
+      "zitat": "„Energiepreise für Unternehmen zu senken“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine spürt hohe Energiepreise direkt in Werkstatt, Lager und Kalkulation. Dass Unternehmenspreise ausdrücklich adressiert werden, trifft ihre Sorge um laufende Betriebskosten, auch wenn die konkrete Entlastung stark auf Industrie zielt.",
+      "begruendung_selbst": "Wenn Energie unbezahlbar wird, kann ich Angebote nicht sauber kalkulieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papierkram zählt",
+      "thema": "demokratie",
+      "programmpunkt": "Dokumentations- und Berichtspflichten sollen sinken, Zuständigkeiten klarer und Verfahren digital sowie medienbruchfrei schneller werden.",
+      "seite": 89,
+      "zitat": "„Wir wollen Bürokratie abbauen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bürokratie ist für Sabine eines der größten Alltagsprobleme, weil sie nach Baustelle und Personalführung im Büro landet. Die Kombination aus weniger Berichten, klaren Zuständigkeiten und digitalen Prozessen passt sehr direkt zu ihrem Wunsch nach Entlastung.",
+      "begruendung_selbst": "Ich hätte gern mehr Zeit für Kunden und Azubis statt für Nachweise.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Regionale Betriebe mitdenken",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Vergaberecht soll regionale Kriterien stärker berücksichtigen und zugleich Bürokratie abbauen.",
+      "seite": 89,
+      "zitat": "„mehr regionale Kriterien berücksichtigt und Bürokratie abbaut“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine fühlt sich bei öffentlichen Aufträgen gegenüber größeren Firmen schnell benachteiligt. Mehr regionale Kriterien und weniger Vergabeaufwand würden ihrem Handwerksbetrieb bessere Chancen eröffnen.",
+      "begruendung_selbst": "Ich brauche faire Ausschreibungen, keine Formulare, die nur große Büros stemmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerk steht im Mittelpunkt",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Handwerk wird als regionales Rückgrat beschrieben und soll durch verlässliche Rahmenbedingungen, Anerkennung und politische Unterstützung gestärkt werden.",
+      "seite": 90,
+      "zitat": "„Das Handwerk ist das Rückgrat unserer regionalen Wirtschaft“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine will, dass ihr Gewerk nicht nur als Ausführer politischer Vorgaben behandelt wird. Die ausdrückliche Anerkennung des Handwerks und der Bedarf an verlässlichen Rahmenbedingungen entsprechen ihrem Selbstbild als Unternehmerin.",
+      "begruendung_selbst": "Wir halten die Region am Laufen, das darf Politik ruhig ernst nehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich mehr Fachkräfte",
+      "thema": "arbeit",
+      "programmpunkt": "Berufsorientierung, Ausbildungsbedingungen, überbetriebliche Lehrunterweisung, Meistertitel und Weiterbildung in Mangelberufen sollen gestärkt werden.",
+      "seite": 90,
+      "zitat": "„um dem Fachkräftemangel zu begegnen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Fachkräftemangel trifft Sabine unmittelbar, weil ihr Gesellen und Azubis fehlen. Maßnahmen für Ausbildung, Meisterqualifikation und Mangelberufe passen zu ihrem Wunsch nach mehr Nachwuchs im SHK-Handwerk.",
+      "begruendung_selbst": "Ohne gute Azubis und Gesellen kann ich volle Auftragsbücher nicht abarbeiten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nachfolge und Digitalisierung",
+      "thema": "digitalisierung",
+      "programmpunkt": "Unternehmensnachfolgen im Handwerk und Mittelstand sollen unterstützt werden; kleine und mittlere Betriebe sollen Förderung für Digitalisierung, IT-Sicherheit und Investitionen erhalten.",
+      "seite": 91,
+      "zitat": "„Kleine und mittlere Betriebe fördern wir“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine denkt bereits an die Betriebsübergabe und muss zugleich digitaler arbeiten. Beratung, Förderung und digitale Unterstützung für KMU berühren Betrieb, Altersvorsorge und Zukunftsfähigkeit ihres Unternehmens direkt.",
+      "begruendung_selbst": "Mein Betrieb muss in zehn Jahren übergabefähig und technisch auf der Höhe sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte ohne Ämterlauf",
+      "thema": "arbeit",
+      "programmpunkt": "Eine One-Stop-Agency soll internationale Fachkräfte, Personal in Mangelberufen und Gründer durch gebündelte Verfahren, Orientierung und Zugang zu Arbeit unterstützen.",
+      "seite": 91,
+      "zitat": "„One-Stop-Agency für internationale Fachkräfte“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine ist pragmatisch offen für Fachkräftezuwanderung, wenn Menschen qualifiziert sind und arbeiten wollen. Gebündelte Prozesse können für kleine Betriebe hilfreich sein, die keine Personalabteilung für Anerkennung, Sprache und Behördenwege haben.",
+      "begruendung_selbst": "Wenn jemand gut arbeiten will, darf er nicht monatelang zwischen Ämtern hängen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Behördengänge digital machen",
+      "thema": "digitalisierung",
+      "programmpunkt": "Bis 2030 sollen nahezu alle Behördengänge digital, barrierefrei und nutzerorientiert nach dem Once-Only-Prinzip möglich sein.",
+      "seite": 97,
+      "zitat": "„nahezu alle Behördengänge vollständig digital“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Sabine zählt digitale Verwaltung vor allem, wenn sie reale Wege und doppelte Eingaben spart. Das Once-Only-Prinzip verspricht genau die Entlastung, die sie im Umgang mit Gewerbe-, Förder- und Nachweispflichten sucht.",
+      "begruendung_selbst": "Wenn ich Daten einmal abgebe, muss die Verwaltung damit arbeiten können.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaziele nicht als Korsett",
+      "thema": "wirtschaft",
+      "programmpunkt": "Wirtschaftsförderung aus GRW-Mitteln soll zusätzlich daran gekoppelt werden, welchen Beitrag ein Vorhaben zur kohlenstoffarmen Transformation leistet.",
+      "seite": 88,
+      "zitat": "„Wirtschaftsförderung mit dem Klimaschutz koppeln“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine ist nicht gegen Klimaschutz, reagiert aber empfindlich auf zusätzliche Förderbedingungen, die Planung und Investitionen komplizierter machen. Wenn Förderzugang stärker an Klimakriterien hängt, befürchtet sie neue Nachweise statt einfacher Mittelstandshilfe.",
+      "begruendung_selbst": "Förderung hilft mir nur, wenn sie nicht wieder einen neuen Aktenordner aufmacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht noch mehr Standards",
+      "thema": "energie",
+      "programmpunkt": "Für Neubauten sowie umfassende Dachsanierungen in Industrie, Gewerbe und Infrastruktur soll eine Pflicht zur Nutzung von Solarenergie gelten.",
+      "seite": 23,
+      "zitat": "„Pflicht zur Nutzung von Solarenergie auf Neubauten“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aus Sabines Sicht sind starre Pflichten genau die Art von Klimapolitik, die Kunden und Betriebe verunsichert. Auch wenn Solartechnik sinnvoll sein kann, stört sie der automatische Zwang bei Bau- und Sanierungsentscheidungen.",
+      "begruendung_selbst": "Technik muss zum Gebäude und zum Geldbeutel passen, nicht nur zur Vorschrift.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarifdruck trifft Kleine",
+      "thema": "arbeit",
+      "programmpunkt": "Tarifbindung und Mitbestimmung sollen auch in der Privatwirtschaft ausgebaut und besonders in kleinen und mittleren Unternehmen gefördert werden.",
+      "seite": 76,
+      "zitat": "„Tarifbindung und Mitbestimmung ausgebaut werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine zahlt ordentliche Löhne, will aber in einem kleinen Betrieb flexibel auf Auftragslage und Liquidität reagieren können. Politischer Druck auf Tarifbindung und Mitbestimmung kann sie als zusätzliche Regulierung und Kostenbindung empfinden.",
+      "begruendung_selbst": "Ich kenne meine Leute persönlich, aber ich muss den Betrieb auch beweglich halten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitmachprojekte kosten Geld",
+      "thema": "energie",
+      "programmpunkt": "Heimspeicher und bidirektionales Laden sollen als großes Mitmachprojekt der Energiewende ausgebaut werden; Hürden und Anschaffungskosten sollen adressiert werden.",
+      "seite": 25,
+      "zitat": "„nächsten großen Mitmachprojekt der Energiewende“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine kennt Kundinnen und Kunden, die schon beim Heizungstausch wegen Kosten und Unsicherheit zögern. Weitere Energiewende-Investitionen klingen für sie trotz Förderung nach zusätzlicher finanzieller und technischer Komplexität.",
+      "begruendung_selbst": "Meine Kunden fragen erst: Was kostet das, wer baut es ein, und bleibt die Regel?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimacheck bremst Aufträge",
+      "thema": "steuern",
+      "programmpunkt": "Alle Haushaltsausgaben sollen einem Klimacheck unterzogen werden, mit Begründungspflicht für nicht nachweisbar klimaverträgliche Ausgaben.",
+      "seite": 96,
+      "zitat": "„Alle Haushaltsausgaben sollen einem Klimacheck unterzogen werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine erwartet von öffentlicher Finanzierung vor allem Verlässlichkeit und zügige Entscheidungen. Ein zusätzlicher Klimacheck kann aus ihrer Sicht kommunale Investitionen, Förderbescheide und öffentliche Aufträge weiter verlangsamen.",
+      "begruendung_selbst": "Wenn jede Ausgabe noch durch eine Extraschleife muss, wartet am Ende wieder der Betrieb.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leerstand nicht per Zwang",
+      "thema": "wohnen",
+      "programmpunkt": "Kommunen sollen gegen langfristigen Leerstand abgestufte Instrumente wie Sanierungsfristen, höhere Abgaben, Pflicht-Zwischennutzung und im letzten Schritt Übernahme erleichtern können.",
+      "seite": 98,
+      "zitat": "„höhere Abgaben oder verpflichtende Zwischennutzung“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine ist eigentums- und mittelstandsorientiert und misstraut Eingriffen, die Pflichten und Kosten für Eigentümer erhöhen. Bei leerstehenden Gebäuden sieht sie zwar Handlungsbedarf, aber Zwangsinstrumente passen schlecht zu ihrem Freiheits- und Verantwortungsideal.",
+      "begruendung_selbst": "Eigentum verpflichtet, ja, aber am Ende muss man Leute nicht gleich mit Abgaben treiben.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine würde im Grünen-Programm überraschend viele direkte Anknüpfungspunkte finden: Bürokratieabbau, regionale Vergabe, Handwerksanerkennung, Ausbildung, Nachfolge, digitale Verwaltung und Fachkräftezuwanderung sind für ihren SHK-Betrieb relevant. Gleichzeitig bleiben ihr mehrere Punkte zu dirigistisch, vor allem Förderbindungen an Klimaziele, Solar- und Energiewende-Pflichten, Tarifdruck sowie zusätzliche Klimachecks. Insgesamt überwiegt für sie die praktische Mittelstands- und Handwerksansprache knapp, aber ihr Misstrauen gegenüber neuen Vorgaben bleibt deutlich.",
+    "score": 1
+  }
+}

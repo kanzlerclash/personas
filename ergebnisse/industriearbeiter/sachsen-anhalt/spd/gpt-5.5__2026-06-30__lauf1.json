@@ -1,0 +1,162 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 67205,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Ohne Industrie keine Zukunft",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die SPD stellt Industrie, Wertschöpfung und Beschäftigung ins Zentrum und will Sachsen-Anhalt als starkes Industrieland erhalten.",
+      "seite": 4,
+      "zitat": "„Sachsen - Anhalt ist ein Industrieland.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe lebt davon, dass der industrielle Kern im Land politisch nicht abgeschrieben wird. Dass die SPD den Industriestandort ausdrücklich als Grundlage von Beschäftigung und Perspektive beschreibt, trifft seinen zentralen Maßstab.",
+      "begruendung_selbst": "Ich will nicht hören, dass wir ein Auslaufmodell sind. Wenn Sachsen-Anhalt Industrieland bleiben soll, dann ist das erstmal die richtige Ansage.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarif muss zählen",
+      "thema": "arbeit",
+      "programmpunkt": "Die SPD will Tarifbindung, Betriebsräte, Arbeitnehmerrechte und Sanktionen gegen Behinderung von Mitbestimmung stärken.",
+      "seite": 8,
+      "zitat": "„Tarifbindung und betriebliche Mitbestimmung sind entscheidend“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Gewerkschafter und Betriebsrat bewertet Uwe Politik stark danach, ob sie Tarifverträge und Mitbestimmung schützt. Die klare Absage an Schwächung des Tariftreuegesetzes und die Unterstützung von Betriebsräten entsprechen seiner Haltung direkt.",
+      "begruendung_selbst": "Ohne Tarif und Betriebsrat bist du im Betrieb schnell allein. Dass die da klare Kante zeigen, gefällt mir.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemie bleibt Chefsache",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die SPD hebt die Chemieindustrie im Chemiedreieck als Schlüsselindustrie hervor und will sie mit hoher Priorität politisch begleiten.",
+      "seite": 6,
+      "zitat": "„Lohn und Brot für tausende Menschen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes Arbeitsplatz und sozialer Status hängen unmittelbar am Chemiedreieck. Dass das Programm genau diese Branche als Lohn- und Brot-Frage behandelt, bestätigt seine Wahrnehmung der regionalen Abhängigkeit.",
+      "begruendung_selbst": "Das ist mein Revier, meine Kollegen, unsere Familien. Wenn die Chemie fällt, fällt hier mehr als eine Fabrik.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strompreis entscheidet Jobs",
+      "thema": "energie",
+      "programmpunkt": "Die SPD will bezahlbare Energie, gedeckelte Netzentgelte und eine niedrigere Stromsteuer, um Wettbewerbsfähigkeit und Investitionen zu sichern.",
+      "seite": 5,
+      "zitat": "„Reduzierung der Stromsteuer“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für energieintensive Industriearbeit ist der Strompreis eine Standortfrage. Uwe dürfte die vorgeschlagenen Entlastungen als konkreten Hebel sehen, damit Anlagen nicht wegen Energiekosten stillstehen.",
+      "begruendung_selbst": "Wenn der Strom zu teuer ist, wandert die Produktion ab. Da geht es nicht um Theorie, da geht es um Schichten und Lohntüten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wandel nur mit Schutz",
+      "thema": "arbeit",
+      "programmpunkt": "Die SPD verspricht regionale Unterstützung, Qualifizierung und schnelle Hilfe für Beschäftigte, die durch Strukturwandel ihren Arbeitsplatz verlieren.",
+      "seite": 8,
+      "zitat": "„möglichst regionale Unterstützungsangebote“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe ist nicht grundsätzlich gegen Wandel, aber er will Absicherung statt Absturz. Regionale Angebote und Qualifizierung sprechen seine Sorge an, dass Beschäftigte bei Transformation allein gelassen werden.",
+      "begruendung_selbst": "Wenn einer rausfällt, muss es vor Ort weitergehen. Nicht mit schönen Worten, sondern mit echter Hilfe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gewerkschaften an den Tisch",
+      "thema": "arbeit",
+      "programmpunkt": "Beim Strukturwandel sollen Unternehmen, Gewerkschaften, Wissenschaft und Zivilgesellschaft früh eingebunden werden.",
+      "seite": 6,
+      "zitat": "„Unternehmen, Gewerkschaften, Wissenschaft und Zivilgesellschaft werden frü hzeitig eingebunden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe vertraut Gewerkschaften und Betriebsräten mehr als abstrakten Transformationsplänen. Die frühe Einbindung der Gewerkschaften gibt ihm das Signal, dass Beschäftigteninteressen nicht erst nachträglich angehört werden.",
+      "begruendung_selbst": "Über unsere Zukunft darf keiner nur im Ministerium reden. Die Gewerkschaft muss von Anfang an mit am Tisch sitzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie raus aus Betrieben",
+      "thema": "demokratie",
+      "programmpunkt": "Die SPD will Berichtspflichten, Doppelbelastungen und Dokumentationspflichten für Betriebe reduzieren und Förderprogramme leichter zugänglich machen.",
+      "seite": 4,
+      "zitat": "„Dokumentationspflichten werden vereinfacht oder abgeschafft.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe ist zwar Industriearbeiter, erlebt aber im Betrieb, dass komplizierte Verfahren Investitionen und Umbauten ausbremsen können. Der Bürokratieabbau passt zu seinem Wunsch nach praktischer Industriepolitik statt Papierlast.",
+      "begruendung_selbst": "Wenn wir umbauen und investieren sollen, darf uns der Papierkram nicht die Luft nehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Europa hilft der Chemie",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die SPD will Sachsen-Anhalt wieder im Netzwerk der Europäischen Chemieregionen aktiv beteiligen und europäische Kooperationen für Industrie und Strukturwandel nutzen.",
+      "seite": 52,
+      "zitat": "„Netzwerk der Europäischen Chemieregionen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Uwe ist die Chemieindustrie nicht nur ein lokaler Betrieb, sondern Teil europäischer Wertschöpfung. Kooperationen mit anderen Chemieregionen können aus seiner Sicht helfen, Standortinteressen stärker zu vertreten.",
+      "begruendung_selbst": "Unsere Chemie hängt an Europa. Wenn das Netzwerk dem Standort hilft, sollen sie da nicht abseitsstehen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaziel mit Bauchschmerzen",
+      "thema": "klima",
+      "programmpunkt": "Die SPD beschreibt die Umstellung der Chemieproduktion auf Klimaneutralität als größte Transformation der Branche.",
+      "seite": 6,
+      "zitat": "„Produktion auf Klimaneutralität umzustellen ist“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe akzeptiert Klimaschutz, aber die komplette Umstellung der Chemieproduktion berührt seine größte Existenzsorge. Auch wenn die SPD Unterstützung verspricht, klingt das Ziel für ihn nach hohem Risiko für Anlagen, Schichten und Standorte.",
+      "begruendung_selbst": "Klimaneutral klingt gut, aber ich frage sofort: Wer bezahlt das, und bleiben unsere Jobs dabei wirklich da?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht zu schnell drehen",
+      "thema": "energie",
+      "programmpunkt": "Die SPD bekennt sich zu einer konsequenten Energiewende und setzt stark auf erneuerbare Energien, Speicher und neue Energietechnologien.",
+      "seite": 5,
+      "zitat": "„konsequente Energiewende“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist beim Tempo der Transformation skeptisch, weil sein Betrieb Versorgungssicherheit und verlässliche Preise braucht. Das Wort konsequent kann bei ihm die Sorge auslösen, dass politische Ziele schneller laufen als industrielle Realität.",
+      "begruendung_selbst": "Ich bin nicht gegen neue Energie. Aber wenn es zu schnell geht und die Versorgung wackelt, zahlen wir im Werk die Rechnung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Reduktionspfade machen Druck",
+      "thema": "klima",
+      "programmpunkt": "Die SPD will ein Klimaschutzgesetz mit verbindlichen Reduktionspfaden für Treibhausgasemissionen einführen.",
+      "seite": 22,
+      "zitat": "„Reduktionspfade für Treibhausemissionen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe sieht verbindliche Klimapfade ambivalent: Planungssicherheit ist gut, aber starre Vorgaben können für energieintensive Betriebe Druck erzeugen. Aus seiner Perspektive fehlt an dieser Stelle der konkrete Jobschutz stärker als in den industriepolitischen Passagen.",
+      "begruendung_selbst": "Planung ist in Ordnung, aber starre Pfade dürfen nicht heißen: Betrieb dicht, Leute raus.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet im SPD-Programm viele Punkte, die seine Lage direkt bestätigen: Industriepolitik, Chemiedreieck, bezahlbare Energie, Tarifbindung und Mitbestimmung werden sichtbar priorisiert. Kritisch bleibt er dort, wo Klimaneutralität, konsequente Energiewende und verbindliche Reduktionspfade nach Transformationsdruck klingen. Insgesamt überwiegt für ihn klar der Eindruck, dass die SPD Wandel mit Industrieerhalt und Beschäftigtenschutz verbinden will.",
+    "score": 2
+  }
+}

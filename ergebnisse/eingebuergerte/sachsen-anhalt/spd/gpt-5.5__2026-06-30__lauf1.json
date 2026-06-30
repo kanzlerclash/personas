@@ -1,0 +1,174 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 78859,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Ich gehöre hier dazu.",
+      "thema": "integration",
+      "programmpunkt": "Die SPD beschreibt Integration, Inklusion und Teilhabe als Standortfaktor und fordert eine tragfähige Willkommenskultur in Betrieben, Schulen, Ehrenamt und Kommunen.",
+      "seite": 3,
+      "zitat": "„Sachsen - Anhalt braucht eine Willkommenskultur, die trägt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt Zugehörigkeit als zentrale politische Frage. Dass das Programm Menschen nicht als Problem, sondern als Teil der Gesellschaft beschreibt, bestätigt ihren Wunsch nach selbstverständlicher Anerkennung.",
+      "begruendung_selbst": "Ich will nicht ständig beweisen müssen, dass ich dazugehöre. Wenn Politik von Willkommenskultur spricht, klingt das nach einem Land, in dem meine Familie und ich selbstverständlich mitgemeint sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bleiben darf nicht Glückssache sein.",
+      "thema": "integration",
+      "programmpunkt": "Das Programm will Ausländerbehörden stärker beratend ausrichten und Menschen in Ausbildung oder existenzsichernder Beschäftigung eine Bleibeperspektive eröffnen.",
+      "seite": 11,
+      "zitat": "„soll bleiben können“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin befürwortet geregelte Migration, aber sie achtet darauf, ob Menschen fair und sachlich behandelt werden. Eine Bleibeperspektive für Menschen, die hier lernen oder arbeiten, passt zu ihrer rechtsstaatsorientierten Vorstellung von Integration.",
+      "begruendung_selbst": "Wenn jemand hier eine Ausbildung macht oder arbeitet, sollte das nicht jedes Jahr wieder in Unsicherheit enden. Regeln ja, aber bitte mit Perspektive.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Sonderklassen für Kinder.",
+      "thema": "bildung",
+      "programmpunkt": "Die SPD lehnt das Absondern zugewanderter Schülerinnen und Schüler ab und will auch Kindern in Erstaufnahmeeinrichtungen von Beginn an gleichwertige Bildung ermöglichen.",
+      "seite": 11,
+      "zitat": "„Das Absondern zugewanderter Schülerinnen und Schüler lehnen wir ab.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aus Aylins Sicht beginnt Zugehörigkeit früh, gerade in Schule und Kita. Die Ablehnung von Absonderung trifft ihren Wert, Teilhabe nicht über Herkunft zu begrenzen.",
+      "begruendung_selbst": "Kinder merken sofort, ob sie dazugehören oder aussortiert werden. Gemeinsame Bildung ist genau der richtige Anfang.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rassismus muss Folgen haben.",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm will Vielfalt schützen, Diskriminierung bekämpfen und mit einem Landes-Antidiskriminierungsgesetz die Rechte Betroffener stärken.",
+      "seite": 36,
+      "zitat": "„Mit einem La ndes - Antidiskriminierungsgesetz stärken wir die Rechte der Betroffenen.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin kennt Alltagsdiskriminierung als reale Verletzung, nicht als abstraktes Thema. Ein landesrechtlicher Schutzansatz spricht ihre Sorge an, dass Betroffene mehr brauchen als bloße Appelle.",
+      "begruendung_selbst": "Respekt ist schön, aber Rechte sind besser. Wenn ich diskriminiert werde, brauche ich eine Stelle, ein Verfahren und echte Konsequenzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auch Ämter müssen lernen.",
+      "thema": "demokratie",
+      "programmpunkt": "Rassismuskritische Bildungsarbeit soll in Verwaltung, Schulen und Polizei ausgebaut werden.",
+      "seite": 36,
+      "zitat": "„Rassismuskritische Bildungsarbeit wird in Verwaltung, Schulen und Polizei ausgebaut.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte achtet Aylin besonders darauf, ob staatliche Institutionen diskriminierungssensibel arbeiten. Der Punkt verbindet ihre berufliche Realität mit ihrem Wunsch nach gleicher Behandlung.",
+      "begruendung_selbst": "Gerade im Amt entscheidet der Ton oft darüber, ob Menschen Vertrauen haben. Verwaltung muss professionell sein, auch beim Thema Rassismus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Demokratie braucht klare Kante.",
+      "thema": "sicherheit",
+      "programmpunkt": "Die SPD benennt Rechtsextremismus, Rassismus und gruppenbezogene Menschenfeindlichkeit als Gefahr und setzt auf Prävention, Bildung und Strafverfolgung.",
+      "seite": 32,
+      "zitat": "„Rechtsextremismus, Antisemitismus, Rassismus und andere Formen gruppenbezogener Menschenfeindlichkeit“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin bewertet Parteien stark danach, ob sie ausgrenzende Milieus klar benennen. Der Programmpunkt trifft ihre Sorge vor Remigrations- und Ausgrenzungsrhetorik, auch wenn dieses Wort nicht verwendet wird.",
+      "begruendung_selbst": "Ich will nicht, dass man bei Rassismus drumherum redet. Wer Menschen ausgrenzt oder bedroht, muss klare Grenzen spüren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Dienst zählt auch.",
+      "thema": "arbeit",
+      "programmpunkt": "Der öffentliche Dienst soll attraktiv, modern und tarifgebunden sein; gute Arbeitsbedingungen und verlässliche Personalentwicklung werden zugesagt.",
+      "seite": 57,
+      "zitat": "„ein attraktiver, moderner und tarifgebundener Arbeitgeber“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin arbeitet in der Stadtverwaltung und verbindet Anerkennung auch mit professionellen Strukturen und fairen Bedingungen. Die Zusage stärkt ihren Wunsch, dass öffentlicher Dienst nicht nur funktionieren, sondern Beschäftigte halten und entwickeln soll.",
+      "begruendung_selbst": "Ich mache meinen Job gern, aber Verwaltung braucht gute Leute und gute Bedingungen. Sonst verliert der Staat genau da Vertrauen, wo Menschen ihn erleben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Religion gehört dazu.",
+      "thema": "familie",
+      "programmpunkt": "Das Programm unterstützt islamische Gemeinden auf dem Weg zu gleichberechtigtem religionsverfassungsrechtlichem Miteinander und stellt sich gegen Islamfeindlichkeit.",
+      "seite": 38,
+      "zitat": "„Wir treten auch in schwierigen Zeiten engagiert gegen Islamfeindlichkeit ein.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Aylins eigene Religiosität nicht festgelegt ist, berührt Islamfeindlichkeit viele Menschen mit Migrationsgeschichte und Herkunftscommunitys. Die ausdrückliche Anerkennung religiöser Gleichberechtigung wirkt ihrer Sorge entgegen, dass Zugehörigkeit an kulturelle Herkunft geknüpft wird.",
+      "begruendung_selbst": "Ob jemand muslimisch ist oder nicht, darf nicht darüber entscheiden, ob er als Teil dieses Landes gilt. Gegen Islamfeindlichkeit muss man klar sein.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bin ich nur Fachkraft?",
+      "thema": "integration",
+      "programmpunkt": "Zuwanderung wird stark über Arbeits- und Fachkräftemangel begründet; Menschen sollen Bildung, Ausbildung und Arbeitsperspektiven finden und ihren Lebensunterhalt sichern.",
+      "seite": 10,
+      "zitat": "„Sachsen - Anhalt ist auf Zuwanderung angewiesen.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin begrüßt geordnete Fachkräftepolitik, aber sie reagiert empfindlich darauf, wenn Zugehörigkeit vor allem über ökonomischen Nutzen erzählt wird. Für sie zählt Teilhabe als Recht und Würde, nicht nur als Antwort auf Arbeitskräftemangel.",
+      "begruendung_selbst": "Ja, Fachkräfte werden gebraucht. Aber Menschen mit Einwanderungsgeschichte sind nicht nur Lückenfüller für den Arbeitsmarkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Humanität bleibt zu knapp.",
+      "thema": "integration",
+      "programmpunkt": "Im Abschnitt zu Migration betont die SPD Rechtsdurchsetzung im Aufenthaltsrecht, freiwillige Rückkehr und Abschiebungen als letztes Mittel.",
+      "seite": 33,
+      "zitat": "„Abschiebungen bleiben die ultima ratio.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin erkennt an, dass das Programm Abschiebungen begrenzt und rechtsstaatlich rahmt. Trotzdem stößt sie sich daran, dass Integration im Sicherheitskapitel auch über Rückkehr und Abschiebung verhandelt wird, weil diese Sprache für Menschen in unsicheren Aufenthaltslagen bedrohlich wirkt.",
+      "begruendung_selbst": "Ich sehe, dass da ultima ratio steht. Aber sobald Integration zwischen Rückkehr und Abschiebung steht, klingt das für viele nicht nach Ankommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Befugnisse bitte eng begrenzen.",
+      "thema": "sicherheit",
+      "programmpunkt": "Die SPD will prüfen, ob Befugnisse und Instrumente des Verfassungsschutzes angesichts Spionage und Sabotage angepasst werden müssen.",
+      "seite": 33,
+      "zitat": "„ob Befugnisse und Instrumentarium des Verfassungsschutzes“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin will einen wehrhaften Rechtsstaat gegen Rechtsextremismus, aber sie ist sensibel für staatliche Eingriffe und mögliche Fehladressierungen. Die im Text genannte Verhältnismäßigkeit mildert den Konflikt, beseitigt ihre Wachsamkeit aber nicht.",
+      "begruendung_selbst": "Rechtsextremismus muss bekämpft werden, klar. Aber mehr Befugnisse müssen sehr eng kontrolliert werden, sonst trifft Misstrauen wieder die Falschen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Parität ist nicht alles.",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm fordert mehr Repräsentation in Parlamenten vor allem über ein Paritätsgesetz für Frauen und Männer.",
+      "seite": 35,
+      "zitat": "„gleiche Teilhabe von Frauen und Männern in den Parlamenten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin teilt das Ziel der Gleichstellung, vermisst aber bei Repräsentation eine ebenso klare Perspektive auf Menschen mit Migrationsgeschichte. Gerade weil sie Zugehörigkeit und Sichtbarkeit politisch wichtig findet, wirkt dieser Zugang für sie unvollständig.",
+      "begruendung_selbst": "Frauen gehören in die Parlamente, keine Frage. Aber wenn es um Repräsentation geht, fehlen Menschen mit Migrationsgeschichte viel zu oft im selben Satz.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin würde das SPD-Programm insgesamt deutlich positiv aufnehmen, weil es Willkommenskultur, Antidiskriminierung, rassismuskritische Bildung, demokratische Abwehr von Rechtsextremismus und einen modernen öffentlichen Dienst konkret anspricht. Besonders stark resonieren die Abschnitte zu Teilhabe in Schule, Verwaltung und Gesellschaft. Kritisch bleibt sie dort, wo Migration vor allem als Fachkräftefrage erscheint oder im Sicherheitsrahmen mit Rückkehr und Abschiebung verknüpft wird.",
+    "score": 2
+  }
+}

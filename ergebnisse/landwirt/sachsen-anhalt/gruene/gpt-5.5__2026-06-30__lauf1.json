@@ -1,0 +1,186 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 108395,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Acker bleibt Acker",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Grünen wollen Versiegelung begrenzen, landwirtschaftlich wertvolle Flächen erhalten und Agrarland vor Verlust schützen.",
+      "seite": 9,
+      "zitat": "„Verlust von Agrarland“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sieht Flächenfraß und Pachtkonkurrenz als direkte Gefahr für seinen Familienbetrieb. Dass wertvolle Agrarflächen ausdrücklich geschützt werden sollen, trifft einen seiner zentralen materiellen Punkte.",
+      "begruendung_selbst": "Wenn die guten Böden zugebaut werden, ist der Hof irgendwann nichts mehr wert. Dass Agrarland geschützt werden soll, ist für mich handfest.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich faire Milchpreise",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm fordert auskömmliche Erzeugerpreise, verbindlichere Lieferbeziehungen und Kriseninstrumente für Milchbetriebe.",
+      "seite": 16,
+      "zitat": "„Faire Erzeugerpreise für Milch“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Frank vor allem Ackerbau betreibt, denkt er als Landwirt stark in Erzeugerpreisen und Verhandlungsmacht gegenüber Abnehmern. Die Position bestätigt seine Sorge, dass Betriebe ohne faire Preise trotz Arbeit und Risiko nicht planen können.",
+      "begruendung_selbst": "Ohne faire Preise nützt mir die beste Ernte nichts. Wir brauchen Verträge, bei denen nicht nur die Molkerei oder der Handel bestimmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beraten statt gängeln",
+      "thema": "demokratie",
+      "programmpunkt": "Bei Vorschriften in der Landwirtschaft soll stärker auf Beratung und Hilfestellung statt auf unnötige Bürokratie gesetzt werden.",
+      "seite": 16,
+      "zitat": "„mehr Beratung und Hilfestellung statt übermäßiger Bürokratie“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich von Dokumentationspflichten und wechselnden Vorgaben gegängelt. Diese Passage spricht genau sein Bedürfnis nach praktischer Unterstützung und weniger Verwaltungslast an.",
+      "begruendung_selbst": "Ich will keine Sonderrechte, ich will verständliche Regeln und Hilfe bei der Umsetzung. Dann kann ich auch wieder mehr Zeit auf dem Feld verbringen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasser halten, Hürden runter",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Für Wasserrückhalt in der Agrarlandschaft sollen Eigeninitiative und Stauanlagen in landwirtschaftlichen Entwässerungsgräben erleichtert werden.",
+      "seite": 13,
+      "zitat": "„Eigeninitiative unbedingt honoriert und nicht behindert“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dürre und Wasserverfügbarkeit sind für Franks Ackerbau konkrete Produktionsrisiken. Positiv ist für ihn, dass die Maßnahme praktische Eigeninitiative auf Betrieben anerkennt und Bürokratie beim Wasserrückhalt abbauen will.",
+      "begruendung_selbst": "Wenn ich Wasser in der Fläche halten kann, hilft das dem Boden und der Ernte. Dafür brauche ich keine neuen Aktenordner, sondern einfache Genehmigungen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dachflächen bringen Geld",
+      "thema": "energie",
+      "programmpunkt": "Landwirtschaftliche Betriebe sollen durch PV auf Stalldächern, Lagerhallen und geeigneten Flächen zusätzliche Einnahmen erzielen können; Genehmigungen sollen bürokratieärmer werden.",
+      "seite": 24,
+      "zitat": "„Landwirt*innen sind auch Energiewirt*innen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bei schwankenden Ernten und hohen Krediten sind zusätzliche, planbare Einnahmen für Frank attraktiv. Dass rechtliche Klarheit und weniger Bürokratie genannt werden, passt zu seinem Wunsch nach Planungssicherheit.",
+      "begruendung_selbst": "Wenn die Halle Strom bringt und die Genehmigung nicht ewig dauert, ist das ein zweites Standbein. So etwas kann ein Hof gebrauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Glasfaser bis zum Hof",
+      "thema": "digitalisierung",
+      "programmpunkt": "Das Programm fordert flächendeckende Glasfaser auch für abgelegene Betriebe und ländliche Räume.",
+      "seite": 89,
+      "zitat": "„bis zur letzten Milchkanne“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank lebt in einer dünn besiedelten Region und braucht digitale Anträge, Wetterdaten, Maschinen- und Betriebssoftware. Der ausdrücklich ländliche Glasfaserausbau bestätigt seinen Anspruch, nicht von Infrastruktur abgehängt zu werden.",
+      "begruendung_selbst": "Digital reden alle, aber auf dem Hof bricht die Leitung ab. Wenn Glasfaser wirklich bis raus kommt, ist das mal keine Stadtpolitik.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Der Wolf bleibt Problem",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Grünen wollen den Wolf wieder stärker im Naturschutzrecht verankern und Abschüsse nur eng begrenzt zulassen.",
+      "seite": 7,
+      "zitat": "„Abschüsse nur in eng begrenzten Ausnahmefällen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank hält Mutterkühe und sieht strikten Wolfsschutz als praktisches Risiko für Weidehaltung. Die enge Begrenzung von Abschüssen steht konträr zu seinem Wunsch nach wirksamer, schneller Entnahme problematischer Tiere.",
+      "begruendung_selbst": "Wenn ein Wolf am Zaun steht, hilft mir kein Grundsatzpapier. Für Weidehalter muss der Schutz der Tiere vor Ort zählen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ökozwang auf meinen Flächen",
+      "thema": "landwirtschaft",
+      "programmpunkt": "In Wasserschutzgebieten soll die Bewirtschaftung von Flächen ausschließlich ökologisch erfolgen dürfen.",
+      "seite": 12,
+      "zitat": "„ausschließlich ökologisch erfolgen darf“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank ist nicht grundsätzlich gegen Gewässerschutz, lehnt aber pauschale Vorgaben ab, die seine Bewirtschaftungsfreiheit und Kalkulation beschneiden. Eine verpflichtende ökologische Bewirtschaftung liest er als Eingriff in Eigentum und Betriebsführung.",
+      "begruendung_selbst": "Wenn eine Fläche plötzlich nur noch ökologisch bewirtschaftet werden darf, zahle ich die Umstellung. So etwas entscheidet nicht einfach jemand am Schreibtisch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bio als Endziel",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm beschreibt eine langfristige Vision flächendeckend ökologischer Bewirtschaftung von Ackerflächen, Wiesen und Weiden.",
+      "seite": 15,
+      "zitat": "„ökologische Bewirtschaftung von Acker“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank will selbst entscheiden, welche Wirtschaftsweise zu Böden, Markt und Betrieb passt. Die Vision flächendeckender Ökologisierung wirkt auf ihn wie ein politischer Zielkorridor, der konventionelle Betriebe moralisch und wirtschaftlich unter Druck setzt.",
+      "begruendung_selbst": "Ich lasse mir nicht erklären, dass nur Bio gute Landwirtschaft ist. Mein Betrieb muss zu unseren Böden, Maschinen und Märkten passen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflanzenschutz wird abgewürgt",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Chemisch-synthetische Pflanzenschutzmittel sollen schrittweise bis 2035 beendet und Kontrollen landwirtschaftlicher Betriebe ausgeweitet werden.",
+      "seite": 17,
+      "zitat": "„Umweltbelastung zu reduzieren“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Pflanzenschutz-Zulassungen gehören zu Franks zentralen Sorgen. Ein Ausstiegspfad plus ausgeweitete Kontrollen bedroht aus seiner Sicht Ertragssicherheit und erhöht den Druck durch Auflagen.",
+      "begruendung_selbst": "Wenn mir die Mittel fehlen, trage ich das Ertragsrisiko allein. Mehr Kontrollen machen aus schlechtem Wetter auch keine bessere Ernte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Tierauflagen",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Tierzahlen sollen stärker an Fläche gebunden und die Tierhaltung in Richtung artgerechter, flächengebundener Systeme umgebaut werden.",
+      "seite": 18,
+      "zitat": "„Tierhaltung voranbringen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank betreibt zwar nur eine kleine Mutterkuhherde, nimmt Tierhaltungsauflagen aber als ständig wachsenden Kosten- und Nachweisdruck wahr. Die zusätzliche Flächenbindung bestätigt seine Sorge, dass politische Vorgaben Betriebsentscheidungen immer enger festlegen.",
+      "begruendung_selbst": "Meine Herde ist kein Industriebetrieb. Trotzdem kommen wieder Regeln, Nachweise und Umbauten, die am Ende ich bezahlen muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Jeder Haushalt unter Klimacheck",
+      "thema": "klima",
+      "programmpunkt": "Alle Haushaltsausgaben sollen unter Klimavorbehalt gestellt werden; Ausgaben ohne Klimaverträglichkeit müssen begründet werden.",
+      "seite": 96,
+      "zitat": "„ohne nachweisbare Klimaverträglichkeit“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Frank ist nicht klimaleugnend, misstraut aber einer Politik, die Klimaschutz als übergeordnetes Prüfkriterium in alle Entscheidungen schreibt. Er erwartet, dass solche Maßstäbe am Ende wieder als Förderbedingungen und Auflagen bei Betrieben und Kommunen landen.",
+      "begruendung_selbst": "Wenn alles erst durch den Klimacheck muss, wird wieder eine neue Schicht Bürokratie daraus. Am Ende trifft es die, die arbeiten und investieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit Agrardiesel?",
+      "thema": "steuern",
+      "programmpunkt": "Um Natur- und Klimaschutz zu finanzieren, sollen umwelt- und klimaschädliche Subventionen konsequent abgebaut werden.",
+      "seite": 96,
+      "zitat": "„Investitionen in Schutzmaßnahmen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Programm nennt Agrardiesel nicht ausdrücklich, aber Frank würde diese Formulierung wegen seiner hohen Diesel- und Maschinenkosten als Risiko für steuerliche Entlastungen lesen. Für ihn verschärft ein Subventionsabbau die Kostenlage eines ohnehin margenschwachen Betriebs.",
+      "begruendung_selbst": "Wenn die Dieselentlastung als klimaschädlich gilt, zahle ich wieder drauf. Der Schlepper läuft nicht mit guten Worten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet im grünen Programm einige konkrete Punkte, die seiner Lage nutzen: Flächenschutz, faire Erzeugerpreise, Glasfaser, Wasserrückhalt und weniger Bürokratie bei bestimmten Verfahren. Gleichzeitig überwiegt für ihn der Eindruck, dass Ökologisierung, Pflanzenschutz-Ausstieg, strikter Wolfsschutz, Tierauflagen und Klimavorbehalte seinen Betrieb weiter einengen würden. Er würde das Programm deshalb als teilweise praxisnah in Einzelfragen, insgesamt aber zu stark regulierend und von Naturschutzlogik geprägt bewerten.",
+    "score": -1
+  }
+}

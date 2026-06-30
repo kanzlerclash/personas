@@ -1,0 +1,174 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 85065,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich sehe ich mich",
+      "thema": "arbeit",
+      "programmpunkt": "Die SPD benennt Solo-Selbstständige ausdrücklich als Teil der Wertschöpfung und will ihre besonderen Rahmenbedingungen berücksichtigen.",
+      "seite": 4,
+      "zitat": "viele Solo - Selbstständige sichern Wertschöpfung im Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike fällt oft zwischen klassische Arbeitnehmer- und Unternehmenslogiken. Dass Solo-Selbstständige ausdrücklich vorkommen, bestätigt ihr Bedürfnis nach politischer Sichtbarkeit.",
+      "begruendung_selbst": "Ich will nicht immer nur als Randfall mitlaufen. Wenn Solo-Selbstständige im Programm stehen, ist das für mich ein Anfang.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Absicherung statt Durchrutschen",
+      "thema": "gesundheit",
+      "programmpunkt": "Für Kleinbetriebe und Solo-Selbstständige sollen soziale Absicherung und Vorsorge gestärkt werden.",
+      "seite": 4,
+      "zitat": "stärkt soziale Absicherung und Vorsorge",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre größte Sorge ist, bei Krankheit, Auftragsflauten und Alter ohne Netz dazustehen. Die Formulierung trifft ihren Kernbedarf, auch wenn sie noch keine konkrete KSK- oder Beitragslösung nennt.",
+      "begruendung_selbst": "Genau das ist mein Punkt: Ich arbeite, aber wenn etwas kippt, ist da kaum Schutz. Absicherung muss auch für Leute wie mich gelten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bezahlt mich fair",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will für Solo-Selbstständige fairere Vergabe- und Zahlungsbedingungen schaffen.",
+      "seite": 4,
+      "zitat": "faire Vergabe - und Zahlungsbedingungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike lebt von Aufträgen, Zahlungsfristen und Honoraren, nicht von festen Gehältern. Faire Zahlungsbedingungen würden direkt an einer typischen Schwachstelle ihrer Erwerbsform ansetzen.",
+      "begruendung_selbst": "Ich kann keine Miete mit Sichtbarkeit bezahlen. Wenn Auftraggeber fair und pünktlich zahlen müssen, hilft mir das sofort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Antragsakrobatik",
+      "thema": "demokratie",
+      "programmpunkt": "Förderprogramme sollen mit geringeren Anforderungen und digitalen Nachweisen leichter zugänglich werden.",
+      "seite": 4,
+      "zitat": "geringere Antragsanforderungen und digitale Nachweisverfahren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kleine Selbstständige haben keine eigene Verwaltung für Förderanträge. Vereinfachte und digitale Nachweise passen zu Mareikes Wunsch nach weniger Bürokratie für Kleinststrukturen.",
+      "begruendung_selbst": "Ich habe keine Fördermittelabteilung, ich bin die Abteilung. Wenn Anträge einfacher werden, kann ich mich wieder auf Arbeit konzentrieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Formulare sind keine Gründung",
+      "thema": "wirtschaft",
+      "programmpunkt": "Gründungen sollen durch vereinfachte Förderangebote, einen Gründungsbonus und ein unbürokratisches Programm für Berufserfahrene erleichtert werden.",
+      "seite": 7,
+      "zitat": "Gründungen dürfen nicht an Formularen scheitern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Mareike schon selbstständig ist, berührt sie die Logik unmittelbar: kleine berufliche Neustarts und Projektphasen dürfen nicht an Formularlast scheitern. Das entspricht ihrer Erfahrung mit bürokratischen Hürden.",
+      "begruendung_selbst": "Ich kenne dieses Gefühl: Die Idee ist da, aber der Papierkram frisst dich vorher auf. Das muss einfacher gehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr netto wäre real",
+      "thema": "steuern",
+      "programmpunkt": "Auf Bundesebene sollen Abgaben für geringe Einkommen sinken, damit Selbstständige und Arbeitnehmer mehr Netto behalten.",
+      "seite": 54,
+      "zitat": "Selbständig e und Arbeitnehmer „mehr netto vom brutto“ erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareikes Jahreseinkommen ist im Mittel eher niedrig und stark schwankend. Eine Entlastung geringer Einkommen spricht ihre Steuer- und Beitragslast direkt an.",
+      "begruendung_selbst": "In guten Monaten sieht es okay aus, aber nach Steuer, Beiträgen und Vorauszahlungen bleibt oft erschreckend wenig. Mehr netto wäre keine Luxusfrage.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bitte einmal digital, komplett",
+      "thema": "digitalisierung",
+      "programmpunkt": "Genehmigungs- und Verwaltungsverfahren sollen durchgehend digital vom Antrag bis zum Bescheid laufen.",
+      "seite": 56,
+      "zitat": "vom Antrag bis zum Bescheid",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist digital-affin und bürokratiemüde. Ende-zu-Ende-Digitalisierung würde ihre wiederkehrenden Kontakte mit Verwaltung, Förderung und Nachweisen erleichtern.",
+      "begruendung_selbst": "Ich will nicht drei PDFs ausdrucken, unterschreiben und wieder einscannen. Digital heißt für mich: einmal sauber durchkommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Selbstausbeutung fördern",
+      "thema": "wirtschaft",
+      "programmpunkt": "Öffentliche Kulturförderung soll soziale Mindeststandards und Honoraruntergrenzen voraussetzen.",
+      "seite": 39,
+      "zitat": "Soziale Mindeststandards und Honoraruntergrenzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für eine Kreativ-Selbstständige ist das besonders wichtig, weil Kultur- und Kreativarbeit oft über schlecht bezahlte Projektlogik läuft. Honoraruntergrenzen stärken ihre Verhandlungsposition.",
+      "begruendung_selbst": "Wenn öffentliche Projekte mich buchen, darf das nicht auf Gratismentalität hinauslaufen. Kreative Arbeit ist Arbeit.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht noch ein Topf",
+      "thema": "steuern",
+      "programmpunkt": "Ein Ausbildungsfonds soll solidarisch finanziert werden, indem alle Unternehmen einzahlen.",
+      "seite": 9,
+      "zitat": "in das alle Unternehmen einzahlen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist keine klassische ausbildende Firma mit planbaren Umsätzen. Eine pauschale Einzahlungspflicht für alle Unternehmen könnte aus ihrer Sicht wieder Kleinstselbstständige treffen, die selbst kaum Absicherung haben.",
+      "begruendung_selbst": "Solidarisch klingt gut, aber ich bin kein Betrieb mit Personalabteilung. Wenn wieder alle zahlen sollen, landet es am Ende auch bei den Kleinsten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Finanzamt im Nacken",
+      "thema": "steuern",
+      "programmpunkt": "Die SPD will Kapazitäten in Steuerfahndung und Betriebsprüfung konzentrieren.",
+      "seite": 57,
+      "zitat": "Steuerfahndung und Betriebsprüfung werden wir Kapazitäten konzentrieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike empfindet Finanzamt und Nachweispflichten ohnehin als überfordernd. Mehr Prüfkapazität kann bei ihr Sorge auslösen, dass auch kleine Selbstständige stärker unter Druck geraten.",
+      "begruendung_selbst": "Ich will Steuern korrekt zahlen, aber schon jetzt kostet mich das Nerven und Zeit. Mehr Betriebsprüfung klingt für mich nicht nach Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Rücklage ist klein",
+      "thema": "steuern",
+      "programmpunkt": "Kapitalerträge aus Aktien, Zinsen, Kryptowährungen oder Mietimmobilien sollen wie andere Einkommen besteuert werden.",
+      "seite": 54,
+      "zitat": "Erträge aus Mietimmobilien, Aktien, Kryptowährungen oder Zinsen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike hat kaum betriebliche Absicherung und müsste private Vorsorge aufbauen. Ohne klare Schonung kleiner Rücklagen kann sie diese Linie als Risiko für ihre ohnehin dünne Altersvorsorge lesen.",
+      "begruendung_selbst": "Ich bin keine Millionärin, ich versuche nur irgendwie privat vorzusorgen. Wenn kleine ETF-Erträge genauso hart laufen, fühlt sich das nicht fair an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industrie steht wieder vorn",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Transformation der Chemieindustrie wird zur höchsten Priorität der Landespolitik erklärt.",
+      "seite": 6,
+      "zitat": "mit höchster Priorität annehmen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist nicht gegen Industriepolitik, aber sie achtet darauf, ob Kultur- und Kreativwirtschaft mehr ist als ein Zusatz. Die starke Priorisierung klassischer Industrie kann bei ihr den Eindruck verstärken, dass kleine kreative Erwerbsformen nachgeordnet bleiben.",
+      "begruendung_selbst": "Klar braucht Industrie Unterstützung. Aber ich frage mich sofort, ob für Kreative wieder nur der Rest vom Tisch übrig bleibt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike würde im SPD-Programm viele ungewöhnlich direkte Anknüpfungspunkte für Solo-Selbstständige, faire Honorare, Kulturförderung, Bürokratieabbau und digitale Verwaltung finden. Besonders stark wirken die explizite soziale Absicherung von Solo-Selbstständigen und Honoraruntergrenzen in der Kulturförderung. Kritisch blieben aus ihrer Sicht mögliche Zusatzlasten durch allgemeine Fonds, Steuerprüfungen und eine starke Priorisierung klassischer Industrie.",
+    "score": 2
+  }
+}

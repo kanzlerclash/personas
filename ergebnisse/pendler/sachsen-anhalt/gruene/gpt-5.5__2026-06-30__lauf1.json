@@ -1,0 +1,174 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 179124,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die Partei nennt bezahlbare Energiepreise fuer Buerger und Wirtschaft als Hauptziel und will Stromsteuer, Netzentgelte und Strompreiszonen nutzen, um Stromkosten zu senken.",
+      "seite": 22,
+      "zitat": "„bezahlbare Energiepreise für Bürger*innen und Wirtschaft“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf prueft Politik stark am Geldbeutel. Dass sinkende Strompreise ausdruecklich auch fuer Haushalte und Wirtschaft adressiert werden, trifft seine Sorge vor steigenden Fixkosten direkt.",
+      "begruendung_selbst": "Wenn der Strom fuer Familie und Betrieb runter soll, hoere ich hin. Bei uns zaehlt am Monatsende, was wirklich auf der Rechnung steht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Auto wird gesehen",
+      "thema": "verkehr",
+      "programmpunkt": "Im Mobilitaetskapitel wird anerkannt, dass das Auto auf dem Land weiter gebraucht wird; die Partei will gemeinschaftliche Fahrzeugnutzung und Ladeinfrastruktur verbessern.",
+      "seite": 27,
+      "zitat": "„das Auto in ländlichen Räumen für viele Menschen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fuehlt sich oft von urbaner Verkehrspolitik uebergangen. Die explizite Anerkennung der Autoabhaengigkeit im laendlichen Raum nimmt seine Grundrealitaet ernst, auch wenn die vorgeschlagenen Alternativen nicht alle seine Probleme loesen.",
+      "begruendung_selbst": "Endlich steht da mal, dass das Auto hier draussen kein Spielzeug ist. Ohne Wagen komme ich nicht zur Schicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stuendlich ein Bus waere was",
+      "thema": "verkehr",
+      "programmpunkt": "Der Busverkehr soll flaechendeckend ausgebaut werden, sodass alle Doerfer mindestens einmal pro Stunde erreichbar sind; Rufbusse oder On-Demand-Angebote sollen Luecken schliessen.",
+      "seite": 29,
+      "zitat": "„alle Dörfer mindestens einmal pro Stunde zuverlässig zu erreichen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf hat derzeit keine brauchbare OePNV-Alternative. Ein verlaesslicher Dorfbus waere fuer Familie, Kinderwege und gelegentliche Fahrten eine echte Entlastung, auch wenn Schichtzeiten weiter schwierig bleiben koennen.",
+      "begruendung_selbst": "Wenn hier wirklich stuendlich ein Bus faehrt, dann ist das mal eine Alternative. Aber er muss auch abends und am Wochenende kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ladesaeulen gehoeren ins Dorf",
+      "thema": "verkehr",
+      "programmpunkt": "Die Gruenen wollen Ladeinfrastruktur fuer Elektroautos massiv ausbauen und dafuer Programme fuer Kommunen, Wohnungsunternehmen und Doerfer schaffen.",
+      "seite": 30,
+      "zitat": "„Ladeinfrastruktur für Elektrofahrzeuge massiv ausbauen und fördern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist skeptisch gegenueber dem Umstieg aufs E-Auto, weil Alltagstauglichkeit und Infrastruktur fehlen. Mehr Ladepunkte im laendlichen Raum wuerden zumindest eine zentrale praktische Huerde senken.",
+      "begruendung_selbst": "Ein E-Auto kann ich mir nicht einfach herzaubern. Aber wenn es irgendwann kommt, brauche ich die Ladesaeule nicht nur in der Stadt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Loehne zaehlen",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will Tarifbindung und Mitbestimmung staerken und oeffentliche Auftraege an faire Loehne koppeln.",
+      "seite": 76,
+      "zitat": "„faire Löhne, anständige Arbeitsbedingungen und echte Mitbestimmung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Facharbeiter im Schichtbetrieb legt Toralf Wert auf Respekt fuer Arbeit und verlaessliche Bedingungen. Tarifbindung, faire Loehne und Mitbestimmung passen zu seiner arbeitnehmerorientierten Grundhaltung.",
+      "begruendung_selbst": "Wer Schicht macht und den Laden am Laufen haelt, soll ordentlich bezahlt werden. Mitbestimmung ist kein Luxus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industrie nicht haengen lassen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Transformation der Chemie- und Automobilzulieferindustrie soll aktiv unterstuetzt werden; zugleich werden Zukunftsbranchen und ein niedrigerer Industriestrompreis genannt.",
+      "seite": 89,
+      "zitat": "„aktiv unterstützen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf braucht sichere Industriearbeitsplaetze in der Region. Dass die Partei Industriebranchen im Wandel nicht nur regulieren, sondern unterstuetzen will, passt zu seiner Sorge um Arbeitsplatzsicherheit.",
+      "begruendung_selbst": "Umbau hin oder her, die Arbeitsplaetze muessen bleiben. Wenn die Industrie Hilfe bekommt, ist das fuer Leute wie mich wichtig.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Erst Bus, dann Vorrang",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei fordert einen grundsaetzlichen Vorrang fuer Bus, Bahn, Rad- und Fussverkehr sowie Carsharing gegenueber dem Autoverkehr.",
+      "seite": 28,
+      "zitat": "„grundsätzlichen Vorrang“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf ist auf sein Auto angewiesen, weil seine Schichtwege real nicht durch Bus oder Rad ersetzt werden. Ein pauschaler Vorrang fuer den Umweltverbund klingt fuer ihn nach Politik, die seine vorhandene Mobilitaet zuerst zurueckstellt.",
+      "begruendung_selbst": "Gebt mir erst einen Bus, der zur Fruehschicht passt. Vorher will ich nicht hoeren, dass mein Auto hinten ansteht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Parken wird wieder teurer",
+      "thema": "verkehr",
+      "programmpunkt": "Parkraumbewirtschaftung soll digitalisiert werden; zugleich sollen Spielraeume fuer Parkgebuehren und Anwohnerparken erweitert werden, mit Vorteilen fuer kleine und klimaneutrale Fahrzeuge.",
+      "seite": 31,
+      "zitat": "„Spielraum für Parkgebühren sowie das Anwohnerparken erweitern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf erlebt Autokosten bereits als schmerzhaften Fixposten. Mehr Parkgebuehren und bevorzugte Behandlung klimaneutraler Fahrzeuge wirken auf ihn wie ein weiterer Kostendruck auf Menschen, die noch keinen bezahlbaren Umstieg haben.",
+      "begruendung_selbst": "Sprit, Werkstatt, Versicherung, und dann noch mehr Parkgebuehren. Das trifft wieder die, die fahren muessen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tempo 130 trifft Pendler",
+      "thema": "verkehr",
+      "programmpunkt": "Auf Autobahnen soll Tempo 130 als Regelgeschwindigkeit gelten; innerorts wird Tempo 30 als Regelgeschwindigkeit angestrebt.",
+      "seite": 31,
+      "zitat": "„Tempo 130 als Regelgeschwindigkeit auf allen Autobahnen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf misst Mobilitaet an verlaesslicher und schneller Erreichbarkeit des Arbeitsplatzes. Tempolimits wirken fuer ihn wie ein weiterer Eingriff in seinen Arbeitsweg, besonders wenn seine Alternativen fehlen.",
+      "begruendung_selbst": "Ich fahre nicht zum Spass frueh los. Wenn ich Strecke machen muss, soll mir die Politik nicht noch Zeit wegnehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Autofrei ist Stadtdenken",
+      "thema": "verkehr",
+      "programmpunkt": "In der Stadtentwicklung sollen autoarme Quartiere gefoerdert und autofreie Zonen erleichtert werden.",
+      "seite": 93,
+      "zitat": "„Wir fördern autoarme Quartiere“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dieser Punkt betrifft Toralf nicht unmittelbar im Dorf, bestaetigt aber seine Skepsis gegen urbane Verkehrspolitik. Er sieht darin ein Stadtmodell, das fuer gut angebundene Menschen funktionieren mag, aber seinen Alltag nicht abbildet.",
+      "begruendung_selbst": "In der Stadt koennen sie autofrei planen. Bei uns waere das einfach nur: Du kommst nicht mehr weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht alles klimafiltern",
+      "thema": "steuern",
+      "programmpunkt": "Alle Haushaltsausgaben sollen einem Klimacheck unterzogen werden; Ausgaben ohne nachweisbare Klimavertraeglichkeit muessten begruendet werden.",
+      "seite": 96,
+      "zitat": "„Ein Klimavorbehalt im Landeshaushalt stellt sicher“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf ist nicht gegen Klimaschutz, misstraut aber Politik, die Klimakriterien ueber praktische Alltagsfolgen stellt. Ein allgemeiner Klimavorbehalt bei Ausgaben klingt fuer ihn nach mehr Filter und Rechtfertigung, bevor Strassen, Pendleralltag oder Industriebedarf zaehlen.",
+      "begruendung_selbst": "Klimaschutz ja, aber nicht bei jeder Ausgabe als erstes Stoppschild. Manchmal muss einfach eine Bruecke, Strasse oder Werkhalle funktionieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industrie braucht alle Werkzeuge",
+      "thema": "wirtschaft",
+      "programmpunkt": "CCS zur Abscheidung, zum Transport oder zur unterirdischen Speicherung von CO2 wird abgelehnt; stattdessen setzt die Partei auf Emissionsminimierung, Kreislaufwirtschaft und Suffizienz.",
+      "seite": 26,
+      "zitat": "„lehnen wir auch die Technologie des Carbon Capture and Storage“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf sorgt sich um wettbewerbsfaehige Industriearbeitsplaetze. Die kategorische Ablehnung einer Technologieoption kann fuer ihn so wirken, als wuerden praktische Bruecken fuer energieintensive Betriebe zu frueh ausgeschlossen.",
+      "begruendung_selbst": "Wenn meine Branche umbauen soll, dann lasst doch alle brauchbaren Werkzeuge auf dem Tisch. Am Ende haengen Jobs daran.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet im Programm mehrere Punkte, die seine Lage ernst nehmen: bezahlbare Energie, Anerkennung der Autoabhaengigkeit im laendlichen Raum, Dorf-OePNV, Ladeinfrastruktur und faire Arbeit. Gleichzeitig stoeren ihn Vorranglogik fuer den Umweltverbund, hoehere Parkgebuehren, Tempolimits und ein stark klimatisch gefilterter Politikansatz, solange sein Schichtweg praktisch am Auto haengt. Insgesamt ueberwiegt fuer ihn knapp die Skepsis, weil die Entlastungsversprechen zwar real sind, aber die Eingriffe in den Autoalltag sehr konkret wirken.",
+    "score": -1
+  }
+}

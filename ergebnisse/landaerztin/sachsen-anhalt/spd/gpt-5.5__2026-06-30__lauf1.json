@@ -1,0 +1,186 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 122653,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Landmedizin im Zentrum",
+      "thema": "gesundheit",
+      "programmpunkt": "Die SPD beschreibt lange Wege, Alterung und Fachkräftemangel im ländlichen Raum ausdrücklich als zentrale Herausforderung der Gesundheitsversorgung.",
+      "seite": 12,
+      "zitat": "„Fachkräfte fehlen, Wege sind lang“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra erkennt ihre tägliche Realität wieder: alte Patientinnen und Patienten, volle Sprechstunden und weite Wege bis zur nächsten Versorgung. Dass das Programm diese Lage nicht als Randproblem, sondern als Gestaltungsauftrag benennt, bestätigt ihre Landarzt-Perspektive.",
+      "begruendung_selbst": "Genau das ist mein Alltag: Die Leute werden älter, Wege sind lang, und Fachkräfte wachsen nicht auf den Bäumen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sektoren endlich zusammendenken",
+      "thema": "gesundheit",
+      "programmpunkt": "Ambulante und stationäre Versorgung, Rettungsdienst und Pflege sollen stärker verzahnt werden, damit keine Versorgungslücken entstehen.",
+      "seite": 12,
+      "zitat": "„Sektorengrenzen dürfen nicht zu Versorgungslücken führen.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Petra ist die Trennung zwischen Praxis, Krankenhaus, Pflege und Rettungsdienst ein praktisches Problem, das Zeit und Versorgung kostet. Die angekündigte Verzahnung passt zu ihrem pragmatischen Blick auf funktionierende Abläufe vor Ort.",
+      "begruendung_selbst": "Ich brauche keine Zuständigkeitskämpfe, sondern Übergaben, die funktionieren, wenn ein alter Mensch wirklich Hilfe braucht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Telemedizin nur als Ergänzung",
+      "thema": "digitalisierung",
+      "programmpunkt": "Telemedizinische Angebote wie TeleSAN, IVENA, Telenotarzt und Gemeindenotfallsanitäter sollen die Versorgung ergänzen und in der Fläche genutzt werden.",
+      "seite": 12,
+      "zitat": "„Digitale Instrumente wie Telemedizin“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra ist nicht gegen Digitalisierung, sondern gegen Technik, die im Praxisalltag nicht trägt. Positiv ist für sie, dass digitale Instrumente als Ergänzung zur Versorgung und mit Flächenbezug beschrieben werden.",
+      "begruendung_selbst": "Wenn Telemedizin meine Hausbesuche sinnvoll ergänzt und nicht wieder eine kaputte Zusatzplattform wird, hilft das wirklich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege entbürokratisieren, bitte!",
+      "thema": "gesundheit",
+      "programmpunkt": "Bei der Pflege will die SPD Doppelprüfungen abbauen, Dokumentation standardisieren und Schnittstellen zwischen Einrichtungen, Arzt- und Therapiepraxen ausbauen.",
+      "seite": 14,
+      "zitat": "„Doppelprüfungen durch MDK und Heimaufsicht sind abzuschaffen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra arbeitet eng mit Pflegeeinrichtungen, Angehörigen und Therapiepraxen zusammen; Reibungsverluste landen oft auch bei ihr. Weniger Doppelprüfungen und bessere Schnittstellen entsprechen ihrem Wunsch nach Versorgung statt Papierarbeit.",
+      "begruendung_selbst": "Wenn Pflege, Praxis und Therapie nicht alles dreimal nachweisen müssen, bleibt mehr Zeit am Menschen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nachwuchs braucht mehr Zugänge",
+      "thema": "gesundheit",
+      "programmpunkt": "Landarzt-, Amtsarzt- und Landzahnarztquote sollen fortgeführt werden; bei der Studienplatzvergabe sollen auch Berufserfahrung und soziale Kompetenz zählen.",
+      "seite": 14,
+      "zitat": "„Landarzt - , Amtsarzt - und Landzahnarztquote werden fortgeführt.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sucht keine abstrakte Reform, sondern Menschen, die später tatsächlich in die Fläche gehen. Auswahlkriterien jenseits der Abiturnote passen zu ihrer Erfahrung, dass gute Landmedizin auch Reife, Bindung und soziale Kompetenz braucht.",
+      "begruendung_selbst": "Ich brauche hier nicht nur Einser-Abis, sondern Ärztinnen und Ärzte, die mit Menschen können und bleiben wollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung muss vor Ort bleiben",
+      "thema": "gesundheit",
+      "programmpunkt": "Mobile Angebote, regionale Versorgungszentren, Kooperationen und digitale Unterstützung sollen die Versorgung im ländlichen Raum sichern.",
+      "seite": 16,
+      "zitat": "„sichern Versorgung auch im ländlichen Raum“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Punkt trifft Petras Kernanliegen: Daseinsvorsorge darf nicht an der Stadtgrenze enden. Regionale Zentren und mobile Angebote können ihren Patientinnen und Patienten Wege ersparen und Versorgung stabilisieren.",
+      "begruendung_selbst": "Meine Patienten brauchen erreichbare Hilfe im Umkreis, nicht schöne Konzepte irgendwo in Magdeburg oder Halle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus und Bahn entscheiden mit",
+      "thema": "verkehr",
+      "programmpunkt": "Die SPD strebt eine Mobilitätsgarantie mit bezahlbarem und verlässlichem Bus- und Bahnangebot in allen Regionen an.",
+      "seite": 41,
+      "zitat": "„Mobilität darf nicht vom Wohnort abhängen.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Viele von Petras älteren Patientinnen und Patienten können nicht selbstverständlich Auto fahren. Verlässliche Mobilität ist für sie deshalb auch Gesundheitspolitik, weil sie Arztbesuche, Apotheken und Pflege erreichbar macht.",
+      "begruendung_selbst": "Wenn der Bus nicht fährt, ist der Facharzttermin für manche meiner Patienten praktisch unerreichbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verwaltung muss endlich dienen",
+      "thema": "demokratie",
+      "programmpunkt": "Verwaltungsleistungen sollen nutzerfreundlich, digital dort wo sinnvoll und persönlich dort wo Beratung nötig ist angeboten werden.",
+      "seite": 56,
+      "zitat": "„persönlich erreichbar bleiben, wo Beratung notwendig ist“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra will funktionierende Digitalisierung, aber keine Verwaltung, die ältere oder überforderte Menschen allein vor Portale stellt. Die Verbindung aus digitalem Angebot und persönlicher Erreichbarkeit entspricht ihrem pragmatischen Maßstab.",
+      "begruendung_selbst": "Digital ist gut, wenn es funktioniert; aber meine 82-jährige Patientin braucht manchmal einen Menschen am Schalter.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Quote allein reicht nicht",
+      "thema": "gesundheit",
+      "programmpunkt": "Die SPD will die Landarztquote fortführen, bleibt bei konkreten zusätzlichen Niederlassungsanreizen und Praxisnachfolge-Lösungen aber vage.",
+      "seite": 14,
+      "zitat": "„Landarzt - , Amtsarzt - und Landzahnarztquote werden fortgeführt.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra sieht seit Jahren, dass der Nachwuchs trotzdem nicht verlässlich vor ihrer Praxistür steht. Eine bloße Fortführung vorhandener Quoten beantwortet ihre akute Nachfolgefrage nur langfristig und unvollständig.",
+      "begruendung_selbst": "Schön, dass es Quoten gibt, aber ich brauche eine Nachfolgerin in absehbarer Zeit, nicht nur irgendwann neue Studierende.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bitte nicht nur umverteilen",
+      "thema": "gesundheit",
+      "programmpunkt": "Gesundheitsberufe sollen durch Aufgabenverlagerung mehr Verantwortung in der medizinischen Versorgung übernehmen, auch zur Entlastung von Ärztinnen und Ärzten.",
+      "seite": 12,
+      "zitat": "„mehr Verantwortung u.a. durch Aufgabenverlagerung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra begrüßt Entlastung, ist aber skeptisch, wenn Aufgabenverlagerung den Ärztemangel kaschiert, ohne klare Ressourcen, Haftung und funktionierende Teamstrukturen zu regeln. Aus ihrer Sicht darf Entlastung nicht heißen, Verantwortung nur anders zu verteilen.",
+      "begruendung_selbst": "Delegation kann helfen, aber sie ersetzt keine Ärztin und darf am Ende nicht neue Abstimmungsarbeit auf meinen Schreibtisch legen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krankenhauslogik dominiert wieder",
+      "thema": "gesundheit",
+      "programmpunkt": "Bei der Krankenhauslandschaft nennt die SPD Qualität, Erreichbarkeit und Wirtschaftlichkeit als Kriterien und setzt stark auf stationäre Strukturen.",
+      "seite": 12,
+      "zitat": "„Qualität, Erreichbarkeit und Wirtschaftlichkeit“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra ist wachsam, wenn Wirtschaftlichkeit im Gesundheitswesen als gleichrangiges Kriterium auftaucht. Sie fürchtet, dass ländliche Grundversorgung und ambulante Praxen wieder hinter Struktur- und Klinikdebatten zurückstehen.",
+      "begruendung_selbst": "Sobald Wirtschaftlichkeit mit am Tisch sitzt, muss jemand laut sagen: Die Versorgung auf dem Land rechnet sich nicht immer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Konzepte, mehr Papier",
+      "thema": "demokratie",
+      "programmpunkt": "Einrichtungen unter anderem im Gesundheits- und Pflegebereich sollen verpflichtend Schutzkonzepte entwickeln und Fachkräfte regelmäßig schulen.",
+      "seite": 32,
+      "zitat": "„verpflichtend Schutzkonzepte entwickeln und umsetzen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra teilt den Schutzgedanken, reagiert aber empfindlich auf neue Pflichtkonzepte ohne sichtbare Entlastung an anderer Stelle. Für eine Einzelpraxis klingt das nach zusätzlicher Dokumentation und Fortbildungsorganisation nach Feierabend.",
+      "begruendung_selbst": "Schutz ist wichtig, aber wenn wieder ein Konzeptordner ohne Personal dahinterkommt, schreibe ich nachts statt zu behandeln.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rekommunalisierung ist kein Rezept",
+      "thema": "gesundheit",
+      "programmpunkt": "Bei Rückzug privater Träger will die SPD erforderliche Rekommunalisierungen stationärer Versorgung finanziell unterstützen.",
+      "seite": 12,
+      "zitat": "„bei erforderlichen Rekommunalisierungen finanzielle Unterstützung leisten“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra ist kritisch gegenüber Renditelogik, aber ebenso skeptisch gegenüber Verstaatlichungs- und Trägerdebatten, wenn sie Versorgung nicht unmittelbar verbessern. Aus ihrer Sicht braucht die Fläche belastbare Abläufe und Personal, nicht zuerst neue Eigentümerstrukturen.",
+      "begruendung_selbst": "Mir ist egal, welches Schild am Krankenhaus hängt, wenn am Ende die Notaufnahme voll ist und die Entlassbriefe zu spät kommen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra würde im SPD-Programm viele ihrer Kernprobleme wiederfinden: ländliche Erreichbarkeit, sektorenübergreifende Versorgung, Pflege-Schnittstellen, Landarztquote und eine nutzerorientierte Verwaltung. Zugleich bliebe sie skeptisch, weil die akute Praxisnachfolge, Budgetierungsdruck und die konkrete Entlastung niedergelassener Hausärztinnen nur begrenzt greifbar werden. Insgesamt überwiegt für sie ein vorsichtig positives Bild, aber mit deutlichem Praxisvorbehalt.",
+    "score": 1
+  }
+}
