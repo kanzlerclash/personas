@@ -18,7 +18,9 @@ const { createCanvas, loadImage } = require("canvas");
 
 const BASE = process.env.PAGES_BASE ?? "/personas/";
 const OUT = join(ROOT, "dist");
-const u = (p: string) => BASE + p.replace(/^\//, "");
+// Relative Pfade (ohne führenden Slash); aufgelöst über <base href> im Head.
+// So tragfähig sowohl unter /personas/ (Pages) als auch unter / (lokal).
+const u = (p: string) => p.replace(/^\//, "") || "./";
 const e = (s: unknown) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
 /* ---------- Daten laden ---------- */
@@ -98,6 +100,7 @@ function krume(segs: { kat?: boolean; label: string; href?: string }[]): string 
 
 function layout(titel: string, beschreibung: string, body: string): string {
   return `<!doctype html><html lang="de"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<base href="${e(BASE)}">
 <title>${e(titel)}</title><meta name="description" content="${e(beschreibung)}">
 <meta property="og:title" content="${e(titel)}"><meta property="og:description" content="${e(beschreibung)}">
 <link rel="stylesheet" href="${u("assets/style.css")}"></head><body>
