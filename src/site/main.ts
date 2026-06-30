@@ -347,6 +347,63 @@ function vergleichAnsicht(root: HTMLElement) {
   root.append(liste);
 }
 
+/* ---------------- Profil-Rendering ---------------- */
+function renderWert(key: string, val: any): HTMLElement {
+  const box = el("div", "feld");
+  box.append(el("dt", "", key.replace(/_/g, " ")));
+  const dd = el("dd");
+  if (Array.isArray(val)) {
+    const ul = el("ul");
+    val.forEach((v) => {
+      if (v && typeof v === "object") {
+        const li = el("li");
+        li.append(el("strong", "", String(v.gruppe ?? Object.values(v)[0] ?? "")));
+        const rest = (v as any).haltung ?? Object.values(v)[1];
+        if (rest) li.append(document.createTextNode(` — ${rest}`));
+        ul.append(li);
+      } else ul.append(el("li", "", String(v)));
+    });
+    dd.append(ul);
+  } else if (val && typeof val === "object") {
+    const dl = el("dl", "unterliste");
+    Object.entries(val).forEach(([k, v]) => dl.append(renderWert(k, v)));
+    dd.append(dl);
+  } else {
+    dd.textContent = String(val);
+  }
+  box.append(dd);
+  return box;
+}
+function renderProfilTab(p: Persona): HTMLElement {
+  const wrap = el("div", "tab-inhalt");
+  if (p.bevoelkerung) {
+    const bev = el("section", "bevoelkerung");
+    bev.append(el("h3", "abschnitt", "Anteil der Bevölkerung"));
+    bev.append(el("p", "", `${p.bevoelkerung.anteil ?? "?"} — ${p.bevoelkerung.bezug ?? ""}`));
+    if (!p.bevoelkerung.verifiziert) bev.append(el("p", "warn", "⚠ Entwurf, noch nicht gegen Primärquelle verifiziert"));
+    const quellen = p.bevoelkerung.quellen ?? [];
+    if (quellen.length) {
+      const ul = el("ul");
+      quellen.forEach((q: any) => {
+        const li = el("li");
+        const a = el("a", "", `${q.herausgeber ?? q.titel}: ${q.wert ?? ""}`) as HTMLAnchorElement;
+        if (q.url) { a.href = q.url; a.target = "_blank"; a.rel = "noopener"; }
+        li.append(a); ul.append(li);
+      });
+      bev.append(ul);
+    }
+    wrap.append(bev);
+  }
+  const profil = el("section", "profil");
+  profil.append(el("h3", "abschnitt", "Profil"));
+  const dl = el("dl");
+  const skip = new Set(["name", "einzeiler", "themen", "gesicht"]);
+  Object.entries(p.profil).forEach(([k, v]) => { if (!skip.has(k)) dl.append(renderWert(k, v)); });
+  profil.append(dl);
+  wrap.append(profil);
+  return wrap;
+}
+
 /* ---------------- Ansicht: Persona-Profil (modellunabhängig) ---------------- */
 function profilLink(p: Persona): HTMLElement {
   const a = el("a", "navbtn profil-link", `📋 Vollständiges Profil von ${p.name} →`) as HTMLAnchorElement;
