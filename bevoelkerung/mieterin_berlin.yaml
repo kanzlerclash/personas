@@ -1,0 +1,21 @@
+verifiziert: false
+anteil: "ca. 87 % der Berliner Haushalte sind Mieter"
+bezug: >
+  Berlin ist die Mieterstadt schlechthin: rund 87 % der Haushalte wohnen zur Miete
+  (nur ~13 % im selbstgenutzten Eigentum). Carla als Altbau-Mieterin mit Verdrängungsangst
+  ist damit die klare Mehrheitslage der Stadt.
+quellen:
+  - titel: "Ergebnisse des Mikrozensus in Berlin und Brandenburg – Wohnsituation"
+    herausgeber: "Amt für Statistik Berlin-Brandenburg"
+    jahr: 2023
+    wert: "rund 13 % der Berliner Privathaushalte im selbstgenutzten Wohneigentum → ~87 % Mieterhaushalte"
+    url: "https://www.statistik-berlin-brandenburg.de/f-i-2-4j/"
+  - titel: "Wohnen in der Hauptstadt: Fast 85 Prozent der Berliner sind Mieter"
+    herausgeber: "Der Tagesspiegel"
+    jahr: 2023
+    wert: "bezogen auf Personen ~80 %, auf Haushalte ~87 % Mieter; Berlin bundesweit niedrigste Eigentumsquote"
+    url: "https://www.tagesspiegel.de/berlin/wohnen-in-der-hauptstadt-studie-wohneigentumer-bleiben-in-berlin-die-minderheit-13009429.html"
+unsicherheit: >
+  Quote je nach Bezug (Haushalte ~87 %, Personen ~80 %). Carlas engere Lage (Altbau,
+  akute Modernisierungs-/Verdrängungsangst) ist eine Teilgruppe der Mieterhaushalte,
+  konzentriert in nachgefragten Innenstadtlagen.

@@ -1,0 +1,27 @@
+verifiziert: false
+anteil: "unter 1 % der Erwerbstätigen (SHK-Handwerk bundesweit)"
+bezug: >
+  Beschäftigte im Sanitär-, Heizung- und Klima-Handwerk (SHK) bundesweit: rund
+  280.000–390.000 Personen — deutlich unter 1 % der ~46 Mio. Erwerbstätigen. Sabine als
+  Betriebsinhaberin/Meisterin ist eine kleine Teilgruppe davon (zum Vergleich: das
+  gesamte Handwerk stellt rund 12 % der Erwerbstätigen).
+quellen:
+  - titel: "Sanitär-Heizung-Klima-Handwerk: Beschäftigte bis 2023"
+    herausgeber: "Statista"
+    jahr: 2023
+    wert: "rund 391.900 Beschäftigte im SHK-Handwerk (Prognose 2023)"
+    url: "https://de.statista.com/statistik/daten/studie/154694/umfrage/beschaeftigte-im-sanitaer-heizung-klima-handwerk/"
+  - titel: "Sanitär- und Heizungsbau: Zahl der Erwerbstätigen binnen zehn Jahren um 9 % zurückgegangen (PM)"
+    herausgeber: "Statistisches Bundesamt (Destatis)"
+    jahr: 2022
+    wert: "rund 275.000 Erwerbstätige in Sanitär-/Heizungsberufen 2021 (−9,4 % ggü. 2012)"
+    url: "https://www.destatis.de/DE/Presse/Pressemitteilungen/2022/07/PD22_N047_13_61.html"
+  - titel: "Kennzahlen im Handwerk (Betriebe/Beschäftigte/Umsätze)"
+    herausgeber: "Zentralverband des Deutschen Handwerks (ZDH)"
+    jahr: 2024
+    wert: "Handwerk insgesamt: rund 5,6 Mio. Beschäftigte (~12 % der Erwerbstätigen)"
+    url: "https://www.zdh.de/daten-und-fakten/betriebe/beschaeftigte/umsaetze/"
+unsicherheit: >
+  Zahlen sind bundesweit (kein sauberer SA-Wert gefunden). Sabines Lage
+  (Meisterin + alleinige Betriebsinhaberin mit 8 Beschäftigten) ist deutlich enger als
+  „alle SHK-Beschäftigten"; der genannte Anteil ist die Branchen-Obergrenze.

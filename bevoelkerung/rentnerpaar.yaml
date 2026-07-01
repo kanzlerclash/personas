@@ -1,0 +1,26 @@
+verifiziert: false
+anteil: "ca. 29 % (Bevölkerung 65+)"
+bezug: >
+  Anteil der Bevölkerung ab 65 Jahren in Sachsen-Anhalt (Rentenalter). Das Paar
+  Mitte 70 im abbezahlten Eigenheim gehört zu dieser Gruppe; Sachsen-Anhalt hat
+  die älteste Bevölkerung Deutschlands.
+quellen:
+  - titel: "Altersstruktur der Bevölkerung in Sachsen-Anhalt"
+    herausgeber: "Demografieportal (BiB/BMI, Datenbasis Destatis)"
+    jahr: 2024
+    wert: "Anteil 65+ von 18 % (2000) auf rund 28 % (2024) gestiegen"
+    url: "https://www.demografie-portal.de/DE/Fakten/bevoelkerung-altersstruktur-sachsen-anhalt.html"
+  - titel: "Anteil der Bevölkerung ab 65 Jahren in Sachsen-Anhalt"
+    herausgeber: "Statista"
+    jahr: 2024
+    wert: "28,9 % (höchster Wert aller Bundesländer)"
+    url: "https://de.statista.com/statistik/daten/studie/548290/umfrage/anteil-der-bevoelkerung-ab-65-jahren-und-aelter-in-sachsen-anhalt/"
+  - titel: "Statistischer Bericht Bevölkerungsstand 2024 (6A119)"
+    herausgeber: "Statistisches Landesamt Sachsen-Anhalt"
+    jahr: 2024
+    wert: "Durchschnittsalter 48,3 Jahre — älteste Bevölkerung Deutschlands"
+    url: "https://statistik.sachsen-anhalt.de/fileadmin/Bibliothek/Landesaemter/StaLa/startseite/Themen/Bevoelkerung/Berichte/Bevoelkerungsstand/6A119_2024-A.pdf"
+unsicherheit: >
+  „65+" ist eine Näherung für die Lebenslage „Rentnerpaar im Eigenheim mit kleiner
+  Rente". Eigentümerquote und niedriges Renteneinkommen sind darin nicht gesondert
+  erfasst und würden die Teilgruppe verkleinern.

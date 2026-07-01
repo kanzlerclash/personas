@@ -1,0 +1,21 @@
+verifiziert: false
+anteil: "ca. 12 % queer (Bevölkerung); bei 14–29-Jährigen ~11 %"
+bezug: >
+  Jule vereint zwei Merkmale: queer und studierend. Der queere Anteil liegt bundesweit
+  bei rund 12 % (bei jungen Erwachsenen etwas höher); Studierende sind zusätzlich eine
+  eigene, kleinere Gruppe. Die Schnittmenge (jung, studierend, queer) ist deutlich kleiner.
+quellen:
+  - titel: "Ipsos LGBT+ Pride Report 2024 – „12 Prozent der Deutschen sind queer""
+    herausgeber: "Ipsos (via maenner.media)"
+    jahr: 2024
+    wert: "12 % queer (5 % gleichgeschlechtlich, 4 % bisexuell, je 1 % pan/asexuell, 1 % trans/nichtbinär)"
+    url: "https://maenner.media/gesellschaft/community/ipsos-lgbtiq-monitor-2024-12-prozent-der-deutschen-queer/"
+  - titel: "Wer sich in Deutschland als LGBTQA+ identifiziert (Infografik)"
+    herausgeber: "Statista"
+    jahr: 2024
+    wert: "11,2 % der 14- bis 29-Jährigen identifizieren sich als lesbisch/schwul/bi/asexuell/transgeschlechtlich"
+    url: "https://de.statista.com/infografik/27440/anteil-der-befragten-die-ihre-sexuelle-orientierung-wie-folgt-angeben-nach-geburtsjahr/"
+unsicherheit: >
+  Zwei überlagerte Merkmale — die konkrete Lage (BAföG-Studentin + queer + klimaaktiv) ist
+  eine kleine Schnittmenge. Zahl der Studierenden (~2,9 Mio. bundesweit) ist hier noch mit
+  amtlicher Quelle (Destatis Hochschulstatistik) zu belegen. Selbstauskunft-Umfragen unterschätzen queere Anteile eher.

@@ -1,0 +1,26 @@
+verifiziert: false
+anteil: "ca. 2 % der Erwerbstätigen"
+bezug: >
+  Erwerbstätige in Land- und Forstwirtschaft/Fischerei in Sachsen-Anhalt. Bundesweit
+  1,3 % (2019); Sachsen-Anhalt ist agrarisch geprägt und liegt etwas darüber. Frank als
+  Inhaber eines Familienbetriebs ist eine Teilmenge davon.
+quellen:
+  - titel: "Erwerbstätige nach Wirtschaftssektoren"
+    herausgeber: "Bundeszentrale für politische Bildung (bpb)"
+    jahr: 2019
+    wert: "Anteil Land-/Forstwirtschaft/Fischerei bundesweit 1,3 % (1970: 8,4 %)"
+    url: "https://www.bpb.de/kurz-knapp/zahlen-und-fakten/soziale-situation-in-deutschland/61698/erwerbstaetige-nach-wirtschaftssektoren/"
+  - titel: "Erwerbstätigenrechnung (Tabellen 13311/13312, GENESIS-Online)"
+    herausgeber: "Statistisches Landesamt Sachsen-Anhalt"
+    jahr: 2024
+    wert: "Erwerbstätige nach Wirtschaftsbereichen (SA-Anteil hier zu verifizieren)"
+    url: "https://statistik.sachsen-anhalt.de/themen/gesamtrechnungen-und-erwerbstaetigenrechnung/erwerbstaetigenrechnung"
+  - titel: "Landwirtschaftszählung 2020 / Pressemitteilung"
+    herausgeber: "Statistisches Landesamt Sachsen-Anhalt"
+    jahr: 2020
+    wert: "rund 5.100 landwirtschaftliche Betriebe in Sachsen-Anhalt"
+    url: "https://statistik.sachsen-anhalt.de/themen/wirtschaftsbereiche/land-und-forstwirtschaft-fischerei/tabellen-landwirtschaftszaehlung"
+unsicherheit: >
+  Exakter Sachsen-Anhalt-Anteil ist aus GENESIS 13311/13312 zu bestätigen (hier als
+  ~2 % über dem Bundeswert angesetzt). „Familienbetrieb-Inhaber" ist zudem enger als
+  „alle Erwerbstätigen der Branche" (inkl. Angestellte/Saisonkräfte).

@@ -1,0 +1,21 @@
+verifiziert: false
+anteil: "ca. 65 % der Berufspendler pendeln mit dem Auto (Ø-Weg 17,2 km)"
+bezug: >
+  Rund 20,8 Mio. Berufspendler in Deutschland; 65 % nutzen das Auto. Toralf gehört zur
+  Gruppe der Auto-Pendler mit überdurchschnittlich langem, ländlichem Arbeitsweg ohne
+  brauchbaren ÖPNV (15 % pendeln 25–50 km, 5 % über 50 km).
+quellen:
+  - titel: "Berufspendeln – im Fokus / Pressemitteilung"
+    herausgeber: "Statistisches Bundesamt (Destatis)"
+    jahr: 2024
+    wert: "rund 20,8 Mio. Berufspendler; Mehrheit nutzt das Auto (auch auf kurzen Wegen)"
+    url: "https://www.destatis.de/DE/Themen/Arbeit/Arbeitsmarkt/Erwerbstaetigkeit/im-Fokus-Pendler.html"
+  - titel: "Pendeln 2024/25: Auto 65 %, ÖPNV 16 %"
+    herausgeber: "statistiken-aktuell.de (Datenbasis Destatis/Statista)"
+    jahr: 2024
+    wert: "65 % Auto (−3 Pp. ggü. 2020), ÖPNV 16 %; Ø einfacher Arbeitsweg 17,2 km; 15 % 25–50 km, 5 % 50+ km"
+    url: "https://statistiken-aktuell.de/pendeln-deutschland-statistik/"
+unsicherheit: >
+  „Auto-Pendler" ist bundesweit sehr breit; Toralfs engere Lage (Schichtarbeit, Dorf ohne
+  ÖPNV, 45 min pro Weg) ist eine Teilgruppe der langen Landpendler. Ländliche Räume liegen
+  bei Auto-Anteil und Distanz über dem Schnitt.

@@ -1,0 +1,21 @@
+verifiziert: false
+anteil: "ca. 5 % der Erwerbstätigen (Pflege gesamt, Sachsen-Anhalt)"
+bezug: >
+  Beschäftigte in der Pflege in Sachsen-Anhalt (ambulant + stationär + Krankenhaus),
+  rund 54.000 Personen bei ~1 Mio. Erwerbstätigen. Kerstin als Krankenhaus-Pflegekraft
+  ist die Teilgruppe „Pflegedienst im Krankenhaus" (~13.400).
+quellen:
+  - titel: "Pflegestatistik 2023 (Pflegeeinrichtungen)"
+    herausgeber: "Statistisches Landesamt Sachsen-Anhalt"
+    jahr: 2023
+    wert: "40.436 Beschäftigte in ambulanten Diensten + Pflegeheimen; zusätzlich 13.449 im Pflegedienst der Krankenhäuser (Ende 2023)"
+    url: "https://statistik.sachsen-anhalt.de/themen/bildung-sozialleistungen-gesundheit/gesundheitswesen/pflege"
+  - titel: "Sachsen-Anhalt: Pflegepersonal – überwiegend weiblich, teilzeitbeschäftigt und gefragt"
+    herausgeber: "Bundesagentur für Arbeit (RD Sachsen-Anhalt-Thüringen)"
+    jahr: 2025
+    wert: "Frauenanteil rund 85 %, über die Hälfte in Teilzeit"
+    url: "https://www.arbeitsagentur.de/vor-ort/rd-sat/presse/2025-33-sachsen-anhalt-pflegepersonal-uberwiegend-weiblich-teilzeitbeschaftigt-und-gefragt"
+unsicherheit: >
+  Die ~5 % beziehen sich auf Pflege insgesamt; Kerstins engere Lage (examiniert,
+  Krankenhaus-Schichtdienst) entspricht eher den ~13.400 Krankenhaus-Pflegekräften
+  (gut 1 % der Erwerbstätigen). Denominator „~1 Mio. Erwerbstätige SA" ist gerundet.

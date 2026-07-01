@@ -1,0 +1,22 @@
+verifiziert: false
+anteil: "rund 192.600 KSK-Versicherte bundesweit (Ø-Einkommen ~17.000 €/Jahr)"
+bezug: >
+  Über die Künstlersozialkasse (KSK) sind bundesweit rund 192.600 selbstständige
+  Künstler:innen/Publizist:innen versichert — Mareikes Absicherungsweg. Ihr Merkmal
+  „soloselbstständig im Kreativ-/Digitalbereich mit schwankendem, niedrigem Einkommen"
+  spiegelt sich im niedrigen KSK-Durchschnittseinkommen.
+quellen:
+  - titel: "Künstlersozialkasse: Versicherte bis 2023"
+    herausgeber: "Statista"
+    jahr: 2023
+    wert: "rund 192.600 KSK-Versicherte (Stand 31.12.2023)"
+    url: "https://de.statista.com/statistik/daten/studie/38156/umfrage/versicherte-in-der-kuenstlersozialkasse-seit-2003/"
+  - titel: "KSK in Zahlen"
+    herausgeber: "Künstlersozialkasse"
+    jahr: 2024
+    wert: "kontinuierlich steigende Versichertenzahl; prognostiziertes Ø-Jahreseinkommen ~17.130 € (2018)"
+    url: "https://www.kuenstlersozialkasse.de/service-und-medien/ksk-in-zahlen"
+unsicherheit: >
+  KSK-Versicherte sind nur ein Teil aller Soloselbstständigen (BMAS-Bericht zur
+  selbstständigen Erwerbstätigkeit weiter gefasst). Regionale (Berlin-)Aufschlüsselung
+  nicht enthalten; Mareikes Lage ist als KSK-typisch, aber individuell zu verstehen.

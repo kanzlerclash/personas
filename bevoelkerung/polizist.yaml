@@ -1,0 +1,21 @@
+verifiziert: false
+anteil: "ca. 0,7 % der Erwerbstätigen (311 Landespolizist:innen je 100.000 Einw.)"
+bezug: >
+  Beschäftigte im Aufgabenbereich Polizei in Deutschland; Marco ist Landespolizist im
+  Streifendienst. Bundesweit rund 333.600 Beschäftigte, Dichte 311 Landespolizist:innen
+  je 100.000 Einwohner.
+quellen:
+  - titel: "Wie viele Polizistinnen und Polizisten gibt es in Deutschland? (FAQ)"
+    herausgeber: "Statistisches Bundesamt (Destatis)"
+    jahr: 2023
+    wert: "333.600 Beschäftigte im Aufgabenbereich Polizei; 311 Landes- + 68 Bundespolizist:innen je 100.000 Einwohner"
+    url: "https://www.destatis.de/DE/Themen/Staat/Oeffentlicher-Dienst/FAQ/polizisten-deutschland.html"
+  - titel: "Polizeibestand in Deutschland nach Bundesländern 2024"
+    herausgeber: "Statista (Datenbasis Destatis)"
+    jahr: 2024
+    wert: "Beschäftigte im Aufgabenbereich Polizei je Bundesland (Landespolizeien)"
+    url: "https://de.statista.com/statistik/daten/studie/1246507/umfrage/beschaeftigte-im-aufgabenbereich-polizei-nach-bundeslaendern/"
+unsicherheit: >
+  Der %-Wert ist grob (333.600 bezogen auf ~46 Mio. Erwerbstätige bundesweit). „Aufgabenbereich
+  Polizei" enthält auch Verwaltung/Tarifkräfte; Marcos engere Lage (Vollzug, Streifendienst)
+  ist kleiner. Sachsen-Anhalt-spezifischer Bestand über die Statista-Tabelle abrufbar.

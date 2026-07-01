@@ -1,0 +1,26 @@
+verifiziert: false
+anteil: "Wohneigentumsquote DE ~47 %, Sachsen-Anhalt ~42–45 % (bei jungen Haushalten rückläufig)"
+bezug: >
+  Tom & Jessica träumen vom Eigenheim. Bundesweit lebt knapp die Hälfte der Haushalte im
+  Wohneigentum, in Sachsen-Anhalt etwas weniger. Gerade unter jüngeren Haushalten ist die
+  Eigentumsbildung zuletzt gesunken — genau ihre Lage (Zinsen/Baukosten rücken den Traum weg).
+quellen:
+  - titel: "Eigentumsquote (Wohnen)"
+    herausgeber: "Statistisches Bundesamt (Destatis)"
+    jahr: 2024
+    wert: "47,3 % der Haushalte in Deutschland leben im Wohneigentum (2024)"
+    url: "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Wohnen/Tabellen/tabelle-eigentumsquote.html"
+  - titel: "Wohneigentumsdynamik in Deutschland (Policy Paper)"
+    herausgeber: "Institut der deutschen Wirtschaft (IW Köln)"
+    jahr: 2024
+    wert: "Wohneigentum unter jüngeren Haushalten seit Zensus 2011 rückläufig (spätere Familiengründung, Kosten)"
+    url: "https://www.iwkoeln.de/fileadmin/user_upload/Studien/policy_papers/PDF/2024/IW-Policy-Paper_2024-Wohneigentumsdynamik.pdf"
+  - titel: "Wohneigentumsquote in Sachsen-Anhalt"
+    herausgeber: "Statista"
+    jahr: 2024
+    wert: "Sachsen-Anhalt im Mittelfeld (Eigentumsquote ~42–45 %)"
+    url: "https://de.statista.com/statistik/daten/studie/270662/umfrage/wohneigentumsquote-in-sachsen-anhalt/"
+unsicherheit: >
+  „Eigentumsquote" beschreibt Bestand, nicht den Wunsch/den Erwerbsversuch. Tom & Jessicas
+  Lage (Doppelverdiener, Speckgürtel, Eigenheim vorerst unerreichbar) ist eine Teilgruppe
+  der jungen, noch mietenden Familien mit Kaufabsicht.

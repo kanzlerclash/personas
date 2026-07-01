@@ -1,0 +1,21 @@
+verifiziert: false
+anteil: "rund 34.500 Hausärzt:innen bundesweit (1 je ~1.264 Einw.); 67,5 % Einzelpraxen"
+bezug: >
+  Hausärztinnen/Hausärzte sind eine sehr kleine Berufsgruppe (~34.500 bundesweit);
+  Dr. Petra führt eine Einzelpraxis (67,5 % aller Hausarztpraxen) im ländlichen Raum,
+  wo der Versorgungsdruck (Einwohner je Hausarzt) am höchsten ist.
+quellen:
+  - titel: "Zahlen und Fakten / Bundesarztregister"
+    herausgeber: "Kassenärztliche Bundesvereinigung (KBV)"
+    jahr: 2023
+    wert: "rund 34.500 Ärzt:innen der Allgemeinmedizin; Einzelpraxis-Anteil 67,5 % aller Hausarztpraxen"
+    url: "https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/praxen-und-aerzte-nach-praxisform"
+  - titel: "Auf eine:n Hausärzt:in kommen im Schnitt 1.264 Einwohner:innen (PM)"
+    herausgeber: "Statistisches Bundesamt (Destatis)"
+    jahr: 2025
+    wert: "1 Hausarzt/Hausärztin je 1.264 Einwohner (2024); in Brandenburg 1.436 (Landarztmangel)"
+    url: "https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_N046_231.html"
+unsicherheit: >
+  „Bevölkerungsanteil" ist hier wenig aussagekräftig (Beruf ist sehr klein); die
+  belegten Kennzahlen (Versorgungsdichte, Einzelpraxis-Quote, Landarztmangel) bilden
+  Petras Lage besser ab. Sachsen-Anhalt-Versorgungsgrad über KV/Deutschlandatlas ergänzbar.

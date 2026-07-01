@@ -1,0 +1,21 @@
+verifiziert: false
+anteil: "ca. 10 % mit Migrationshintergrund (SA); davon ~34 % eingebürgert"
+bezug: >
+  In Sachsen-Anhalt haben rund 10 % der Bevölkerung einen Migrationshintergrund
+  (217.000). Davon sind ~34 % (73.000) eingebürgerte Deutsche — Aylins Gruppe
+  (eingebürgert, hier geboren, 2. Generation).
+quellen:
+  - titel: "Pressemitteilung 101/2023: Bevölkerung mit Migrationshintergrund 2022"
+    herausgeber: "Statistisches Landesamt Sachsen-Anhalt"
+    jahr: 2023
+    wert: "217.000 Menschen mit Migrationshintergrund = 10 %; davon 34 % (73.000) eingebürgerte Deutsche, 7 % (15.000) mit doppelter Staatsangehörigkeit"
+    url: "https://statistik.sachsen-anhalt.de/fileadmin/Bibliothek/Landesaemter/StaLa/startseite/Daten_und_Veroeffentlichungen/Pressemitteilungen/2023/d_April/101-Migrationshintergrund_ErstVOE_2022.pdf"
+  - titel: "Bevölkerung in Privathaushalten nach Migrationshintergrund und Bundesländern"
+    herausgeber: "Statistisches Bundesamt (Destatis), Mikrozensus"
+    jahr: 2023
+    wert: "Ländervergleich Migrationshintergrund; Ostdeutschland deutlich unter Bundesschnitt (~29 %)"
+    url: "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/Tabellen/migrationshintergrund-laender.html"
+unsicherheit: >
+  Der belegte Wert ist „eingebürgerte Deutsche mit Migrationshintergrund". Aylins engere
+  Lage (in Deutschland geboren, 2. Generation) ist eine Teilmenge davon. Basisjahr 2022;
+  neuere Mikrozensus-Definition („Einwanderungsgeschichte") weicht leicht ab.

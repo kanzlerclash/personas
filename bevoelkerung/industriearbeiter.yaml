@@ -1,0 +1,21 @@
+verifiziert: false
+anteil: "ca. 10 % der Erwerbstätigen (Industrie/verarb. Gewerbe, Sachsen-Anhalt)"
+bezug: >
+  Beschäftigte im Bergbau/Verarbeitenden Gewerbe in Sachsen-Anhalt: rund 103.000
+  (Betriebe ab 20 Beschäftigten) bei ~1 Mio. Erwerbstätigen. Uwe ist Chemie-Facharbeiter
+  im Chemiedreieck — die Chemie ist eine Teilbranche davon.
+quellen:
+  - titel: "Industrie / Verarbeitendes Gewerbe (Berichte & Tabellen)"
+    herausgeber: "Statistisches Landesamt Sachsen-Anhalt"
+    jahr: 2025
+    wert: "103.414 Beschäftigte in Bergbau + Verarbeitendem Gewerbe (Betriebe ≥20), −2,5 % ggü. Vorjahr"
+    url: "https://statistik.sachsen-anhalt.de/themen/wirtschaftsbereiche/industrie-verarbeitendes-gewerbe/tabellen-verarbeitendes-gewerbe"
+  - titel: "Beschäftigte und Umsatz der Betriebe im Verarbeitenden Gewerbe (Ländervergleich)"
+    herausgeber: "Statistikportal.de (Statistische Ämter des Bundes und der Länder)"
+    jahr: 2024
+    wert: "Beschäftigte im Verarbeitenden Gewerbe je Bundesland"
+    url: "https://www.statistikportal.de/de/industrie/verarbeitendes-gewerbe-bergbau-und-gewinnung-von-steinen-und-erden-unternehmen"
+unsicherheit: >
+  Erfasst sind Betriebe ab 20 Beschäftigten (kleinere fehlen); Denominator „~1 Mio.
+  Erwerbstätige SA" gerundet. Uwes engere Lage (Chemie-Facharbeiter, gewerkschaftlich)
+  ist eine Teilmenge der Industriebeschäftigten.

@@ -1,0 +1,25 @@
+verifiziert: false
+anteil: "ca. 25 % der Familien mit Kindern (Sachsen-Anhalt)"
+bezug: >
+  Anteil alleinerziehender Familien an allen Familien mit Kindern in Sachsen-Anhalt.
+  Bundesweit rund 20 % (jede fünfte Familie), in Sachsen-Anhalt höher (etwa jede vierte).
+quellen:
+  - titel: "Factsheet Alleinerziehende in Deutschland 2024"
+    herausgeber: "Bertelsmann Stiftung"
+    jahr: 2024
+    wert: "Bundesweit ist rund jede fünfte Familie alleinerziehend (~20 %)"
+    url: "https://www.bertelsmann-stiftung.de/fileadmin/files/user_upload/Factsheet_Alleinerziehende_2024.pdf"
+  - titel: "Tag der Familie: Anteil der Alleinerziehenden in Sachsen-Anhalt steigt"
+    herausgeber: "dubisthalle.de (Datenbasis Statistisches Landesamt / ZSH)"
+    jahr: 2024
+    wert: "Sachsen-Anhalt: etwa jede vierte Familie (rund 25 %) alleinerziehend"
+    url: "https://dubisthalle.de/tag-der-familie-anteil-der-alleinerziehenden-in-sachsen-anhalt-steigt/"
+  - titel: "Haushalte und Familien (Mikrozensus 2024)"
+    herausgeber: "Statistisches Bundesamt (Destatis)"
+    jahr: 2024
+    wert: "2,8 Mio. Alleinerziehende von 11,8 Mio. Familien (~24 % bundesweit)"
+    url: "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/_inhalt.html"
+unsicherheit: >
+  SA-Angaben schwanken je Erhebungsjahr/Definition zwischen ~25 und 29 %. Nadines
+  engere Lage (Teilzeit + aufstockendes Bürgergeld) ist eine Teilmenge der
+  Alleinerziehenden und damit kleiner.

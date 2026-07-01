@@ -1,0 +1,22 @@
+verifiziert: false
+anteil: "rund 1.800 Braunkohle-Beschäftigte im Mitteldeutschen Revier (2023)"
+bezug: >
+  Ronny arbeitet in der Energiewirtschaft einer Strukturwandelregion. Die Braunkohle im
+  Mitteldeutschen Revier (u. a. Sachsen-Anhalt) beschäftigt direkt nur noch rund 1.800
+  Personen (0,2 % der regionalen Beschäftigung) — kleine Gruppe, aber regional zentral,
+  plus Zuliefer- und induzierte Jobs.
+quellen:
+  - titel: "Kohleindustrie Deutschland (Bioökonomieatlas)"
+    herausgeber: "Deutsches Biomasseforschungszentrum (DBFZ)"
+    jahr: 2023
+    wert: "Braunkohle direkt: Lausitz ~7.700 (1,8 %), Rheinland ~7.700 (0,9 %), Mitteldeutsches Revier ~1.800 (0,2 %)"
+    url: "https://www.dbfz.de/biooekonomieatlas/kohle-strukturwandel/kohleindustrie-deutschland"
+  - titel: "Braunkohlenbergbau: Beschäftigte bis 2023"
+    herausgeber: "Statista"
+    jahr: 2023
+    wert: "bundesweiter Rückgang von ~158.000 (1988) über ~20.000 (2020) weiter sinkend"
+    url: "https://de.statista.com/statistik/daten/studie/161209/umfrage/braunkohlenbergbau-beschaeftigte-in-deutschland-seit-1950/"
+unsicherheit: >
+  Nur direkte Braunkohle-Beschäftigung; Ronnys weiter gefasste Lage (Energiewirtschaft
+  inkl. Gas/Netz/CCS-Debatte) ist größer. „Mitteldeutsches Revier" umfasst auch Sachsen;
+  der reine Sachsen-Anhalt-Anteil ist gesondert zu ermitteln.
