@@ -1,0 +1,174 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 56570,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich zählt die Scholle",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die FDP will verhindern, dass beim Bodenerwerb über die Landgesellschaft zweimal Grunderwerbsteuer anfällt, und damit Eigentumserwerb für Landwirte erleichtern.",
+      "seite": 16,
+      "zitat": "„Landwirte beim Grunderwerb doppelt zu besteuern, finden wir nicht fair.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank misst Hofsicherheit stark am Eigentum an Boden. Eine Entlastung beim Grunderwerb würde seine Sorge vor Pachtkonkurrenz und unsicherer Betriebsnachfolge direkt berühren.",
+      "begruendung_selbst": "Wenn ich Boden kaufen kann, bleibt der Hof in der Familie. Da brauche ich keinen Staat, der zweimal kassiert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ämter sollen helfen",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Kontrollen im Düngerecht und bei Agrarförderung sollen stärker gebündelt, Gebühren vermieden und Behörden eher als beratende Partner der Betriebe verstanden werden.",
+      "seite": 17,
+      "zitat": "„Auf Gebührenbescheide bei Kontrollen soll verzichtet werden.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich durch Düngeverordnung, Kontrollen und Dokumentationspflichten gegängelt. Der Ansatz, Kontrolle zu bündeln und ohne zusätzliche Gebühren zu organisieren, trifft einen seiner zentralen Alltagskonflikte.",
+      "begruendung_selbst": "Ich hab nichts gegen Kontrolle, aber nicht noch Gebühren und Papierberge obendrauf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein IT-Bauer werden",
+      "thema": "digitalisierung",
+      "programmpunkt": "Der Agrarantrag und die zugehörigen digitalen Systeme sollen einheitlicher, übersichtlicher und praxistauglicher werden.",
+      "seite": 17,
+      "zitat": "„keine IT-Spezialisten werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank akzeptiert digitale Verfahren nur, wenn sie Arbeit sparen statt neue Hürden schaffen. Die Forderung nach praxistauglichen Agraranträgen entspricht seiner Abneigung gegen Förderwirrwarr.",
+      "begruendung_selbst": "Ich will Felder bestellen und Tiere versorgen, nicht abends noch Software lernen müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Brüssel nicht verschärfen",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Bei Agrar-, Pflanzenschutz- und Förderregeln will die FDP keine nationale Verschärfung über EU-Vorgaben hinaus und mehr europäische Harmonisierung.",
+      "seite": 18,
+      "zitat": "„Keine einzige EU- Anforderung darf bei der Umsetzung in nationales Recht verschärft werden.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sieht deutsche Übererfüllung europäischer Vorgaben als Wettbewerbsnachteil. Die Absage an nationale Sonderwege bestätigt seine Sicht, dass Landwirtschaft nicht zusätzlich belastet werden darf.",
+      "begruendung_selbst": "Wenn Europa etwas vorgibt, muss Deutschland nicht noch eine Schippe Bürokratie drauflegen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Düngen nach Verursacherprinzip",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Nitrat- und Düngeregeln sollen sich stärker am Verursacherprinzip orientieren und mit Praktikern abgestimmt werden, statt pauschal Flächen zu belasten.",
+      "seite": 18,
+      "zitat": "„Grundlage der Düngeverordnung muss alleinig das Verursacherprinzip sein.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Pauschale Auflagen bei Düngung gehören zu Franks größten Sorgen. Eine verursachergerechte Regelung würde für ihn mehr Planungssicherheit und weniger Kollektivhaftung bedeuten.",
+      "begruendung_selbst": "Wer ein Problem verursacht, soll ran. Aber nicht alle Betriebe pauschal unter Verdacht stellen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Naturschutz ohne Flächenfraß",
+      "thema": "klima",
+      "programmpunkt": "Die FDP will Naturschutz stärker über Qualität, Vernetzung und Anreize erreichen, statt immer mehr Produktionsfläche aus der Nutzung zu nehmen.",
+      "seite": 20,
+      "zitat": "„statt pauschal immer mehr Fläche aus der Produktion zu nehmen.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank ist nicht gegen Naturschutz, fürchtet aber Bewirtschaftungseinschränkungen und Flächenstilllegung. Der Fokus auf Anreize und weniger Produktionsentzug passt zu seiner Haltung.",
+      "begruendung_selbst": "Naturschutz geht mit uns, aber nicht, wenn wieder Acker aus der Produktion fällt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beim Wolf wird es konkret",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Der Wolf soll gemanagt werden, Rissbegutachtungen sollen Vertrauen schaffen und Schäden durch Wolfsangriffe konsequent entschädigt werden.",
+      "seite": 22,
+      "zitat": "„Wolfsangriffe und die daraus entstehenden Schäden sind konsequent zu entschädigen.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit seiner Mutterkuhherde erlebt Frank Wolfsschutz als konkretes Weidehaltungsrisiko. Management und Entschädigung sprechen genau diesen Konflikt zwischen Artenschutz und Nutztierhaltung an.",
+      "begruendung_selbst": "Wer Weidetiere hält, darf mit dem Wolf nicht allein gelassen werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Netzentgelte, Umlagen und Abgaben sollen fairer verteilt, vereinfacht und für Sachsen-Anhalt spürbar gesenkt werden.",
+      "seite": 14,
+      "zitat": "„für die Menschen in Sachsen-Anhalt spürbar gesenkt werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hat hohe Stromkosten für Bewässerung, Trocknung und Kühlung im Blick. Niedrigere und einfachere Energiekosten würden seine schwankenden Margen direkt entlasten.",
+      "begruendung_selbst": "Bei Trocknung und Kühlung zählt jede Kilowattstunde. Wenn Strom günstiger wird, hilft das sofort.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht alles nur digital",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Verwaltung soll Leistungen, die digital verfügbar sind, künftig ausschließlich digital anbieten können; Postweg und E-Mail könnten entfallen.",
+      "seite": 49,
+      "zitat": "„der Postweg oder die E-Mail entfällt.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank will weniger Papier, aber keinen neuen Zwangskanal, der ihn bei Anträgen abhängig von Tools und Portalen macht. Gerade nach seinen Erfahrungen mit Agrar-IT wirkt ein Digital-only-Ansatz auf ihn riskant.",
+      "begruendung_selbst": "Digital ist gut, wenn es funktioniert. Aber wenn nur noch ein Portal geht, hänge ich wieder am Rechner fest.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fracking neben meinen Flächen?",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will heimisches Schiefergas nutzen und das pauschale Verbot von unkonventionellem Fracking durch ein Genehmigungsregime ersetzen.",
+      "seite": 15,
+      "zitat": "„Nutzung von heimischem Schiefergas“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank wünscht bezahlbare Energie, achtet aber auf Boden, Wasser und Akzeptanz in der Fläche. Fracking kann bei ihm die Sorge auslösen, dass Energiepolitik wieder konkrete Risiken im ländlichen Raum ablädt.",
+      "begruendung_selbst": "Billige Energie klingt gut. Aber wenn dafür an Boden und Wasser gerührt wird, will ich genau wissen, wer haftet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO2 nicht unter meinen Acker",
+      "thema": "klima",
+      "programmpunkt": "Sachsen-Anhalt soll Onshore-CCS ermöglichen und Modellregionen für CO2-Speicherung an Land suchen.",
+      "seite": 23,
+      "zitat": "„CO 2 -Speicherung an Land (Onshore-CCS) ermöglichen.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank ist skeptisch, wenn Klimaschutzprojekte räumlich auf dem Land umgesetzt werden und mögliche Lasten bei Eigentümern oder Gemeinden landen. Onshore-CCS berührt seine Sorge, dass abstrakte Klimapolitik am Ende in seiner Region konkret wird.",
+      "begruendung_selbst": "Erst heißt es Klimaschutz, dann wird bei uns gesucht, wo man es verbuddelt. Da werde ich hellhörig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leitstellen nicht wegrationalisieren",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will die Leitstellenstruktur verschlanken und landesweit nur noch maximal drei bis vier Leitstellen betreiben.",
+      "seite": 68,
+      "zitat": "„sondern maximal 3-4 Leitstellen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank lebt in einem dünn besiedelten Dorf und ist in der Feuerwehr-Dorfgemeinschaft verankert. Zentralisierung bei Notfallstrukturen kann bei ihm die Sorge wecken, dass Ortskenntnis und schnelle Abstimmung im ländlichen Raum verloren gehen.",
+      "begruendung_selbst": "Bei uns auf dem Dorf zählt Ortskenntnis. Wenn alles weiter weg gebündelt wird, frage ich mich, ob das im Ernstfall hilft.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank würde im FDP-Programm viele seiner Kernanliegen wiederfinden: weniger Bürokratie, praxistauglichere Agrarverwaltung, Schutz des Bodeneigentums, verursachergerechte Düngeregeln, Wolfmanagement und niedrigere Energiekosten. Kritisch bliebe er bei technik- und klimapolitischen Projekten wie Fracking und Onshore-CCS sowie bei Digitalzwang oder zentralisierten Strukturen, wenn sie neue Risiken im ländlichen Raum schaffen. Insgesamt überwiegt für ihn deutlich der Eindruck, dass die FDP Landwirtschaft als unternehmerische Praxis ernst nimmt.",
+    "score": 2
+  }
+}

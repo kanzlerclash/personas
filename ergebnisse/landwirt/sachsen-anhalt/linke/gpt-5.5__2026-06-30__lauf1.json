@@ -1,0 +1,198 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 58042,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Land den Bauern!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Linke will Landkonzentration begrenzen, Share Deals verbieten und Flächen vorrangig denen sichern, die sie tatsächlich bewirtschaften.",
+      "seite": 111,
+      "zitat": "„Bodenpreise begrenzt und Landkonzentration verhindert“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank leidet unter Pachtkonkurrenz und Flächendruck. Ein Agrarstrukturgesetz gegen Bodenpreisspiralen und Investorenkäufe bestätigt seinen Wunsch, dass bäuerliche Betriebe statt Kapitalanleger Zugriff auf Land haben.",
+      "begruendung_selbst": "Wenn die Fläche bei denen bleibt, die sie bearbeiten, kann ein Hof wie meiner überhaupt weiterplanen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Preise, endlich!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm will faire Erzeugerpreise, mehr Transparenz in Lieferketten und Begrenzung des Preisdrucks großer Supermarktketten.",
+      "seite": 111,
+      "zitat": "„Landwirtschaft braucht faire Preise“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sieht niedrige Erzeugerpreise als Kernproblem seines Betriebs. Die Kritik an Supermarktketten und unfairen Handelspraktiken trifft seine Erfahrung, dass Risiken und Auflagen bei ihm landen, die Marktmacht aber anderswo liegt.",
+      "begruendung_selbst": "Ich kann nicht immer mehr erfüllen, wenn der Handel am Ende den Preis diktiert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papierkrieg!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Linke verspricht einfachere Förderprogramme, weniger Bürokratiekosten, digitale Anträge und mehrjährige Förderzusagen für Betriebe.",
+      "seite": 114,
+      "zitat": "„mehrjährige Förderzusagen einführen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich von wechselnden Vorgaben und Förderwirrwarr gegängelt. Mehrjährige Zusagen und einfachere Verfahren würden ihm Planungssicherheit geben und den von ihm verhassten Verwaltungsdruck senken.",
+      "begruendung_selbst": "Wenn ich ein paar Jahre verlässlich planen kann, sitze ich weniger am Schreibtisch und mehr auf dem Feld.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beim Wolf wird es konkret",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Für Weidetierhalter sollen Herdenschutz, Beratung, vollständige Entschädigung bei Rissen und gezielte Entnahmen auffälliger Wölfe möglich sein.",
+      "seite": 112,
+      "zitat": "„schnelle und vollständige Entschädigung der Weidetierhalter:innen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit seiner Mutterkuhherde ist Frank vom Konflikt um Weidetierhaltung und Wolf direkt berührt. Die zugesagte Entschädigung und die Möglichkeit gezielter Entnahmen gehen in seine Richtung, auch wenn ihm die Ablehnung pauschaler Quoten weniger gefallen dürfte.",
+      "begruendung_selbst": "Wenn schon Wolfsschutz, dann muss ein Riss sofort ersetzt werden und Problemtiere müssen raus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dürre darf nicht ruinieren",
+      "thema": "klima",
+      "programmpunkt": "Die Linke will einen Mehrgefahrenfonds anstoßen, der Betrieben bei klimabedingten Schäden schnell und unbürokratisch hilft.",
+      "seite": 113,
+      "zitat": "„bei klimabedingten Schäden schnell und unbürokratisch hilft“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank ist wetter- und ernteabhängig und erlebt rote Nullen nach schlechten Jahren unmittelbar. Ein unbürokratischer Fonds für Dürre, Starkregen oder Frost adressiert sein konkretes Betriebsrisiko statt nur abstrakt über Klimaschutz zu sprechen.",
+      "begruendung_selbst": "Nach einer Dürre brauche ich Hilfe ohne Aktenordner, sonst ist der Schaden längst da.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss runter",
+      "thema": "energie",
+      "programmpunkt": "Das Programm will Netzentgelte und Stromsteuer senken sowie Strompreiszonen prüfen, damit Regionen mit viel erneuerbarer Energie profitieren.",
+      "seite": 107,
+      "zitat": "„die Netzentgelte deutlich senken“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energiekosten treffen Franks Betrieb bei Trocknung, Kühlung und Bewässerung. Niedrigere Netzentgelte und Stromsteuer passen zu seinem Interesse an bezahlbarer Energie, auch wenn er die stärkere öffentliche Steuerung skeptisch sehen dürfte.",
+      "begruendung_selbst": "Wenn der Strompreis sinkt, merke ich das direkt auf dem Hofkonto.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mein Hof ist kein Reichtum",
+      "thema": "steuern",
+      "programmpunkt": "Die Linke fordert per Bundesratsinitiative eine Vermögenssteuer von einem Prozent auf Vermögen über einer Million Euro.",
+      "seite": 17,
+      "zitat": "„Vermögen über einer Million Euro“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank hat viel Vermögen in Boden und Maschinen gebunden, aber wenig Liquidität und hohe laufende Kredite. Eine Vermögenssteuer oberhalb einer Million Euro würde er nicht als Beitrag der Reichen, sondern als Belastung seines Familienbetriebs verstehen.",
+      "begruendung_selbst": "Auf dem Papier bin ich Millionär, aber davon bezahle ich keine Kreditrate.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Finger weg vom Hofübergang",
+      "thema": "steuern",
+      "programmpunkt": "Die Linke will die Erbschafts- und Schenkungssteuer reformieren, um Vermögenskonzentration abzubauen.",
+      "seite": 17,
+      "zitat": "„Die Reform der Erbschafts - und Schenkungssteuer“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die mögliche Hofnachfolge durch seine Tochter ist für Frank ein zentrales Thema. Jede Reform der Erbschafts- und Schenkungssteuer liest er durch die Sorge, dass der Betriebsübergang zusätzlich belastet oder unsicherer wird.",
+      "begruendung_selbst": "Wenn meine Tochter übernimmt, darf der Staat nicht erst die Substanz aus dem Hof ziehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch eine Steuer für Selbstständige",
+      "thema": "steuern",
+      "programmpunkt": "Selbstständig erwirtschaftete Einkommen sollen über eine Gemeindewirtschaftssteuer breiter einbezogen werden, mit Freibetrag für kleine Existenzen.",
+      "seite": 18,
+      "zitat": "„diese Lücke schließen und das System fairer machen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank ist selbstständiger Betriebsinhaber mit schwankendem Einkommen. Auch mit Freibetrag wirkt die Ausweitung einer Gemeindewirtschaftssteuer auf ihn wie ein weiteres Instrument, das unternehmerisches Risiko nachträglich abschöpft.",
+      "begruendung_selbst": "Ich trage das Risiko selber, und am Ende kommt wieder ein neuer Zugriff.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erntehelfer werden teurer",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm fordert einen Vergabemindestlohn von 16,50 Euro, stärkere Tarifbindung und strengere Kontrollen in Landwirtschaft, Bau und Logistik.",
+      "seite": 86,
+      "zitat": "„einen Vergabemindestlohn von 16,50 Euro pro Stunde“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank ist kostenempfindlich und arbeitet in einer Branche mit Saison- und Hilfsarbeit. Höhere Lohnstandards und zusätzliche Kontrollen können aus seiner Sicht die Marge weiter drücken, auch wenn sie Beschäftigte schützen sollen.",
+      "begruendung_selbst": "Ordentliche Bezahlung ja, aber die Preise auf dem Markt steigen deshalb nicht automatisch mit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimacheck für alles?",
+      "thema": "klima",
+      "programmpunkt": "Sachsen-Anhalt soll bis 2035 klimaneutral werden; alle politischen Entscheidungen sollen einer Klimawirkungsprüfung unterzogen werden.",
+      "seite": 121,
+      "zitat": "„Klimaneutralität bis 2035“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank ist nicht gegen Klimaschutz, fürchtet aber praxisferne Pflichten und Kosten. Ein sehr frühes Klimaneutralitätsziel plus verpflichtende Klimaprüfung klingt für ihn nach weiteren Vorgaben, die am Ende auf Betriebe durchschlagen.",
+      "begruendung_selbst": "Klimaschutz schön und gut, aber 2035 heißt für mich wieder neue Auflagen ohne Ende.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bioquote von oben",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Linke will den Anteil ökologisch bewirtschafteter Flächen auf mindestens 30 Prozent steigern und Umstellung sowie Vermarktung fördern.",
+      "seite": 113,
+      "zitat": "„mindestens 30 Prozent steigern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank wirtschaftet konventionell und misst Politik daran, ob sie seinen Betrieb planbar lässt. Eine politische Zielquote für Ökolandbau weckt bei ihm die Sorge, dass Förderung, Flächenzugang und Anerkennung künftig stärker gegen seine bisherige Wirtschaftsweise laufen.",
+      "begruendung_selbst": "Ich will nicht, dass mir jemand am Schreibtisch vorschreibt, welches Betriebsmodell richtig ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tierhaltung unter Deckel",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm will öffentliche Gelder an Umwelt-, Sozial- und Tierhaltungsstandards koppeln und Bestandsobergrenzen in der Tierhaltung anstoßen.",
+      "seite": 112,
+      "zitat": "„Bestandsobergrenzen in der Tierhaltung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank hält zwar nur eine kleine Mutterkuhherde, reagiert aber empfindlich auf neue Tierhaltungsauflagen. Bestandsobergrenzen und konditionierte Gelder klingen für ihn nach mehr Regulierung statt nach Vertrauen in Praktiker.",
+      "begruendung_selbst": "Tiere gut halten will ich selber, aber ich brauche keinen neuen Deckel aus der Politik.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Gewässerauflagen",
+      "thema": "klima",
+      "programmpunkt": "Die Linke will Stickstoff- und Phosphorbelastungen mit klaren Regeln, Gewässerrandstreifen und staatlichen Kontrollen reduzieren.",
+      "seite": 125,
+      "zitat": "„Gewässerrandstreifen und staatlichen Kontrollen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Düngung und Gewässerschutz gehören zu Franks empfindlichsten Konfliktfeldern. Auch wenn sauberes Wasser wichtig ist, hört er bei zusätzlichen Randstreifen und Kontrollen vor allem Flächenverlust, Dokumentation und Misstrauen.",
+      "begruendung_selbst": "Bei Wasser heißt es wieder: mehr Randstreifen, mehr Kontrolle, weniger nutzbare Fläche.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet im Programm der Linken überraschend viele direkt passende Punkte: Schutz vor Bodenspekulation, faire Erzeugerpreise, weniger Förderbürokratie, Hilfe bei Klimaschäden und Entlastung bei Energiepreisen. Zugleich stehen zentrale linke Steuer-, Klima-, Arbeits- und Umweltvorhaben quer zu seinem Selbstbild als eigentumsorientierter, kostenbelasteter Hofinhaber. Insgesamt überwiegt für ihn die Skepsis, weil er die guten Agrarpassagen durch neue Abgaben und Auflagen gefährdet sieht.",
+    "score": -1
+  }
+}

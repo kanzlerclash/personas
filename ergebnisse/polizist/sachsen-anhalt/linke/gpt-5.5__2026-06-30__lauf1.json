@@ -1,0 +1,162 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 90647,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Kollegen",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke will bis 2030 zusätzliche Polizeistellen schaffen und damit mehr Präsenz sowie mehr Zeit für Bürgernähe ermöglichen.",
+      "seite": 128,
+      "zitat": "„500 neue Polizeistellen bis 2030“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt Personalmangel als Kernproblem im Streifendienst. Zusätzliche Stellen greifen seine wichtigste berufliche Sorge direkt auf und versprechen Entlastung im Alltag.",
+      "begruendung_selbst": "Wenn wirklich 500 Stellen kommen, ist das nicht nur Papier. Dann stehen nachts mehr Leute auf der Straße und wir laufen nicht ständig am Limit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schichtdienst braucht Luft",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will sich für eine Reform einsetzen, damit Polizeikräfte auf 38 Stunden Arbeitszeit reduziert werden können.",
+      "seite": 128,
+      "zitat": "„Arbeitszeitreduktion für Polizeikräfte auf 38 Stunden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco hat ein planbares Einkommen, aber wenig planbare Erholung durch Schichten und Belastung. Eine kürzere Arbeitszeit adressiert seine Familie und seine Regeneration unmittelbar.",
+      "begruendung_selbst": "Ich brauche keinen Applaus, ich brauche Dienstpläne, nach denen ich noch Vater und Ehemann sein kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Technik statt Hinterherlaufen",
+      "thema": "sicherheit",
+      "programmpunkt": "Für Cybercrime, Wirtschaftskriminalität und KI-gestützte Manipulation sollen spezialisierte, technisch gut aufgestellte Einheiten geschaffen werden.",
+      "seite": 127,
+      "zitat": "„spezialisierte Einheiten, die technisch auf der Höhe sind“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco will, dass Polizei und Justiz praktisch arbeitsfähig sind und moderner Kriminalität nicht hinterherlaufen. Spezialisierung und Technik passen zu seinem Wunsch nach wirksamer Ausstattung.",
+      "begruendung_selbst": "Kriminelle arbeiten längst digital. Dann darf der Staat nicht mit veralteten Werkzeugen und zu wenig Spezialisten antreten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Justiz darf nicht versanden",
+      "thema": "sicherheit",
+      "programmpunkt": "Bei komplexer Wirtschaftskriminalität fordert Die Linke mehr Personal bei Staatsanwaltschaften und Schwerpunktstaatsanwaltschaften.",
+      "seite": 127,
+      "zitat": "„mehr Personal bei Staatsanwaltschaften“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist frustriert, wenn Polizeiarbeit in der Justizkette hängen bleibt. Mehr Personal bei Staatsanwaltschaften stärkt aus seiner Sicht den Rechtsstaat hinter seiner Arbeit.",
+      "begruendung_selbst": "Wir können noch so sauber ermitteln: Wenn hinten keiner Zeit hat, verliert der Rechtsstaat an Wirkung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechte Gewalt ernst nehmen",
+      "thema": "demokratie",
+      "programmpunkt": "Rechtsextrem motivierte Straftaten sollen überregional in Schwerpunktstaatsanwaltschaften gebündelt und wirksamer verfolgt werden.",
+      "seite": 138,
+      "zitat": "„rechtsextrem motivierte Straftaten überregional bündeln“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist verfassungsorientiert und lehnt Kräfte ab, die demokratische Institutionen untergraben. Eine spezialisierte Strafverfolgung rechtsextremer Taten bestätigt seine Vorstellung von wehrhafter Demokratie.",
+      "begruendung_selbst": "Wer Menschen bedroht und den Staat verächtlich macht, muss konsequent verfolgt werden. Das ist kein Nebenthema.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Stellen wegdigitalisieren",
+      "thema": "arbeit",
+      "programmpunkt": "Bei Verwaltungsdigitalisierung verspricht Die Linke eine Personalgarantie und will freiwerdende Kapazitäten in direkten Bürgerservice umschichten.",
+      "seite": 145,
+      "zitat": "„Wir verbinden Digitalisierung mit einer Personalgarantie“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco sieht den öffentlichen Dienst als Rückgrat eines handlungsfähigen Staates. Dass Digitalisierung nicht als Vorwand für Personalabbau dienen soll, passt zu seiner institutionentreuen Haltung.",
+      "begruendung_selbst": "Der Staat wird nicht besser, wenn man überall Stellen streicht. Technik soll entlasten, nicht die Leute ersetzen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Schon wieder Generalverdacht",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke will eine unabhängige Polizeibeschwerdestelle mit eigenen Ermittlungsbefugnissen schaffen.",
+      "seite": 128,
+      "zitat": "„unabhängige Polizeibeschwerdestelle mit eigenen Ermittlungsbefugnissen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco akzeptiert Kontrolle im Rechtsstaat, reagiert aber empfindlich auf pauschale Polizeikritik. Eine Beschwerdestelle mit eigenen Ermittlungsbefugnissen kann er als Misstrauenssignal gegenüber seiner Kollegschaft lesen.",
+      "begruendung_selbst": "Kontrolle ja, aber der Ton macht die Musik. Ich will nicht arbeiten, als stünde ich grundsätzlich unter Verdacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kennzeichnung trifft uns",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei verbindet demokratische Polizei mit individueller Kennzeichnungspflicht und automatischem Bodycam-Einsatz bei Schusswaffen- oder Tasereinsatz.",
+      "seite": 129,
+      "zitat": "„Eine demokratische Polizei hat nichts zu verbergen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco will Rückhalt und Schutz für Einsatzkräfte, besonders bei aggressiven Lagen. Die Formulierung legt aus seiner Sicht nahe, dass Transparenz vor allem durch Misstrauen gegenüber Polizisten begründet wird.",
+      "begruendung_selbst": "Ich habe nichts zu verbergen, aber ich will im Einsatz nicht zusätzlich persönlich angreifbar gemacht werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht jedes Werkzeug verbieten",
+      "thema": "sicherheit",
+      "programmpunkt": "Automatisierte Datenanalysesoftware wie Palantir lehnt Die Linke als rote Linie beim Grundrechtsschutz ab.",
+      "seite": 129,
+      "zitat": "„Palantir lehnen wir konsequent ab“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco bewertet Sicherheitspolitik stark nach praktischer Einsatzfähigkeit. Eine kategorische Ablehnung bestimmter Analysewerkzeuge kann ihm wie eine Einschränkung moderner Ermittlungsarbeit erscheinen.",
+      "begruendung_selbst": "Wenn ein Werkzeug Ermittlungen schneller und sauberer macht, will ich nicht zuerst ein politisches Tabu hören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz nicht schleifen",
+      "thema": "demokratie",
+      "programmpunkt": "Die Linke hält den Verfassungsschutz in seiner jetzigen Form für überflüssig und will langfristig eine Agentur für Demokratie und Menschenrechte.",
+      "seite": 129,
+      "zitat": "„Ein Verfassungsschutz in seiner jetzigen Form ist überflüssig“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco ist zwar sensibel gegenüber extremistischen Parteien, aber er sieht Sicherheitsbehörden als notwendige Säulen des Rechtsstaats. Den Verfassungsschutz grundsätzlich infrage zu stellen, schwächt aus seiner Sicht eine wichtige Institution.",
+      "begruendung_selbst": "Wer Extremisten beobachten will, braucht dafür auch eine Behörde mit echten Möglichkeiten. Bildung allein ersetzt keine Sicherheitsarbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zu weich bei Strafen",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke will unter anderem Ersatzfreiheitsstrafen abschaffen und stärker auf gemeinnützige Arbeit, Täter-Opfer-Ausgleich und Resozialisierung setzen.",
+      "seite": 140,
+      "zitat": "„die Abschaffung von Ersatzfreiheitsstrafen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco erkennt Prävention an, will aber eine funktionierende Justizkette mit spürbaren Konsequenzen. Die Abschaffung von Ersatzfreiheitsstrafen kann ihm als weiterer Schritt erscheinen, bei dem seine Arbeit am Ende zu wenig Durchsetzungskraft hat.",
+      "begruendung_selbst": "Resozialisierung ist wichtig, aber irgendwann muss ein Urteil auch Konsequenz haben. Sonst erklären wir den Leuten draußen gar nichts mehr.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco findet im Programm mehrere Punkte, die seinen Berufsalltag direkt verbessern würden: mehr Polizeistellen, weniger Arbeitszeitdruck, bessere Technik und mehr Personal in der Justiz. Gleichzeitig stören ihn deutlich polizeikritische Kontrollinstrumente, die kategorische Ablehnung bestimmter Ermittlungssoftware und der geplante Umbau des Verfassungsschutzes. Insgesamt sieht er ernst gemeinte Entlastungsangebote, aber auch ein Sicherheitsverständnis, das ihm zu misstrauisch gegenüber seiner Institution wirkt.",
+    "score": 1
+  }
+}

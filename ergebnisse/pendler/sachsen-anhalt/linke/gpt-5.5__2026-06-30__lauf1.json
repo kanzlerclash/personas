@@ -1,0 +1,198 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 82749,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich wird mein Auto gesehen",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke erkennt ausdrücklich an, dass der Pkw für Menschen in nicht angebundenen Dörfern wichtig bleiben und bezahlbar sein muss.",
+      "seite": 101,
+      "zitat": "der PKW für Menschen in Dörfern ohne Anbindung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fühlt sich mit seiner Alltagsrealität ernst genommen, weil sein Auto nicht als Luxus, sondern als notwendiges Arbeitsmittel beschrieben wird. Das passt zu seiner Sorge, dass Verkehrspolitik oft an Dorfpendlern vorbeigeht.",
+      "begruendung_selbst": "Ich brauche den Wagen für die Schicht, Punkt. Wenn eine Partei wenigstens sagt, dass das bezahlbar bleiben muss, höre ich genauer hin.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Busse wären was",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will gerade in dünn besiedelten Regionen den ÖPNV ausbauen und Mobilität ohne eigenes Auto ermöglichen.",
+      "seite": 101,
+      "zitat": "besonders aber in den dünn besiedelten Regionen den ÖPNV ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist nicht grundsätzlich gegen Bus und Bahn, er misstraut nur leeren Versprechen ohne reale Verbindung. Ein Ausbau speziell in dünn besiedelten Regionen berührt seine Lage direkt, weil sein Dorf bisher keine brauchbare Alternative bietet.",
+      "begruendung_selbst": "Wenn hier wirklich ein Bus fährt, der zu Schichtzeiten passt, dann rede ich gern übers Umsteigen. Bisher fährt hier nur die Theorie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auch kleine Orte zählen",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke fordert zwischen kleinen Orten im ländlichen Raum mehr Busse, unabhängig vom Schülerverkehr.",
+      "seite": 103,
+      "zitat": "zwischen kleinen Orten im ländlich geprägten Raum",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Toralf ist wichtig, dass Mobilität auf dem Land nicht nur als Schulbusproblem behandelt wird. Mehr Busse zwischen kleinen Orten könnten seiner Familie im Alltag helfen, auch wenn sein eigener Arbeitsweg weiter vom Auto abhängt.",
+      "begruendung_selbst": "Meine Frau, die Kinder, Termine im Nachbarort: Das ist nicht alles Schulbus. Auf dem Dorf braucht man Verbindungen, nicht nur Fahrpläne fürs Plakat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss runter",
+      "thema": "energie",
+      "programmpunkt": "Die Linke will Energiepreise sozial gestalten, Netzentgelte deutlich senken und die regionale Mehrbelastung Sachsen-Anhalts abbauen.",
+      "seite": 107,
+      "zitat": "die Netzentgelte deutlich senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf spürt Stromkosten im Familienhaushalt direkt und sieht wenig finanziellen Puffer. Die Senkung von Netzentgelten spricht seine Kaufkraftsorge an, ohne ihm eine sofortige Verhaltensänderung abzuverlangen.",
+      "begruendung_selbst": "Bei uns frisst jede Stromrechnung was vom Monatsende weg. Wenn die Netzentgelte runtergehen, ist das mal eine Entlastung, die ankommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriejobs nicht verspielen",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke verbindet industrielle Transformation mit Standortgarantien, Mitbestimmung, Weiterbildung und sozialer Sicherheit für Beschäftigte.",
+      "seite": 90,
+      "zitat": "Wenn Betriebe in die Krise geraten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Industriemechaniker achtet Toralf darauf, ob Klimapolitik seinen Arbeitsplatz gefährdet oder absichert. Die Kopplung von Umbau, Qualifizierung und Beschäftigtenschutz passt zu seinem Wunsch nach sicherer Industriearbeit.",
+      "begruendung_selbst": "Umbau meinetwegen, aber nicht so, dass am Ende die Werkhalle leer ist. Ich will Arbeit behalten und wissen, wohin die Reise geht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schichtarbeit verdient Respekt",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke fordert planbare Arbeit, familienfreundliche Schichtmodelle und den Schutz von Zuschlägen für Nacht-, Schicht-, Feiertags- und Überstundenarbeit.",
+      "seite": 86,
+      "zitat": "familienfreundliche Schichtmodelle",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf arbeitet im Schichtbetrieb und hält seine Schichtzulagen für einen wichtigen Teil des Familieneinkommens. Die Forderung trifft seine Lebensrealität unmittelbar und stärkt sein Gefühl, dass Arbeitende entlastet statt belehrt werden sollen.",
+      "begruendung_selbst": "Schicht ist nicht nur ein Wort im Vertrag, das merkt die ganze Familie. Wenn Zuschläge und planbare Zeiten geschützt werden, ist das fair.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Laden auch auf dem Land",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will Ladeinfrastruktur für E-Autos flächendeckend schaffen, auch an Orten, die sich für private Anbieter nicht rechnen.",
+      "seite": 121,
+      "zitat": "flächendeckende Ladeinfrastruktur",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fürchtet ein Verbrenner-Aus ohne bezahlbare, alltagstaugliche Alternative. Ladepunkte auch abseits profitabler Standorte lösen nicht das Kostenproblem, zeigen aber, dass die ländliche Nutzbarkeit von E-Autos mitgedacht wird.",
+      "begruendung_selbst": "Ein E-Auto hilft mir nur, wenn ich es hier auch laden kann. Nicht jeder wohnt neben einer Säule in der Stadt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Erst kommt wieder Verzicht",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke plädiert für weniger motorisierten Individualverkehr und eine Verlagerung auf Schienenwege und Wasserstraßen.",
+      "seite": 101,
+      "zitat": "Verkehrsverlagerung auf Schienenwege und Wasserstraßen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf reagiert empfindlich auf Politik, die sein Auto primär als zu reduzierendes Problem behandelt. Obwohl das Programm den Pkw auf dem Dorf anerkennt, klingt diese Priorität für ihn nach Druck auf genau die Mobilität, die seinen Job ermöglicht.",
+      "begruendung_selbst": "Bei mir ist das Auto kein Wochenendspaß. Wenn zuerst von Reduzierung die Rede ist, frage ich mich sofort, wer am Ende zahlt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus und Bahn zuerst?",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke setzt verkehrspolitisch hauptsächlich auf Busse und Bahnen und will den ÖPNV gegenüber dem Auto aufwerten.",
+      "seite": 101,
+      "zitat": "Wir setzen hauptsächlich auf Bahnen und Busse",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf sieht darin eine urbane Logik, solange sein Schichtweg nicht verlässlich mit dem ÖPNV funktioniert. Seine Sorge ist, dass das Auto politisch abgewertet wird, bevor eine echte Alternative im Dorf existiert.",
+      "begruendung_selbst": "Hauptsächlich Bus und Bahn klingt gut in der Stadt. Bei mir muss ich um fünf Uhr morgens trotzdem loskommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tempo runter, Alltag länger",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke unterstützt mehr Tempo-30-Abschnitte in Städten und Dörfern sowie ein bundesweites Tempolimit auf Autobahnen.",
+      "seite": 104,
+      "zitat": "ein bundesweites Tempolimit auf den Autobahnen durchsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf bewertet Verkehrsregeln vor allem danach, ob sie seinen ohnehin langen Arbeitsweg weiter erschweren. Sicherheitsargumente sind für ihn nachvollziehbar, aber zusätzliche Tempobegrenzungen wirken wie ein weiterer Eingriff in seine knappe Zeit.",
+      "begruendung_selbst": "Ich sitze schon anderthalb Stunden am Tag im Auto. Noch mehr Bremsen auf dem Arbeitsweg fühlt sich nicht nach Entlastung an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Straßen, aber Pflichten",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke setzt bei neuen Verkehrswegen andere Prioritäten und fordert keine neuen Autobahnen.",
+      "seite": 105,
+      "zitat": "Keine neuen Autobahnen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf schaut auf Straßeninfrastruktur pragmatisch: Er will funktionierende Wege für Arbeit, Lieferverkehr und Regionen. Ein pauschal wirkender Verzicht auf neue Autobahnen passt schlecht zu seiner Haltung, dass Mobilität für Arbeitende zuverlässig bleiben muss.",
+      "begruendung_selbst": "Nicht jede neue Straße ist böse. Manchmal brauchen Betriebe und Pendler einfach ordentliche Verbindungen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "2035 ist verdammt knapp",
+      "thema": "klima",
+      "programmpunkt": "Die Linke will ein verbindliches CO2-Budget und einen Pfad zur Klimaneutralität bis 2035 festlegen.",
+      "seite": 121,
+      "zitat": "Klimaneutralität bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf ist nicht gegen Klimaschutz, aber das Tempo berührt seine Angst vor steigenden Kosten, neuen Auflagen und unsicheren Industriearbeitsplätzen. 2035 wirkt aus seiner Perspektive sehr ambitioniert, solange Auto, Strom und Arbeitsplatz noch nicht alltagstauglich abgesichert sind.",
+      "begruendung_selbst": "Klimaschutz ja, aber 2035 klingt nach Druck auf alles gleichzeitig. Ich will wissen, wer mir Auto, Strom und Arbeit bezahlbar hält.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Jedes Gesetz durch Klima",
+      "thema": "klima",
+      "programmpunkt": "Die Linke will alle politischen Entscheidungen einer verpflichtenden Klimawirkungsprüfung unterziehen.",
+      "seite": 121,
+      "zitat": "alle politischen Entscheidungen einer verpflichtenden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf misstraut Politik, die für ihn nach zusätzlicher Bürokratie und Vorrang abstrakter Ziele klingt. Er befürchtet, dass praktische Fragen von Arbeit, Pendeln und Kosten hinter Prüfverfahren zurückstehen.",
+      "begruendung_selbst": "Ich brauche Lösungen, keine neue Prüfschleife für alles. Am Ende zählt, ob ich zur Arbeit komme und die Rechnung zahlen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Solardach als Vorschrift",
+      "thema": "energie",
+      "programmpunkt": "Die Linke will Photovoltaik auf Dächern priorisieren und eine Solarpflicht für Neubauten einführen.",
+      "seite": 107,
+      "zitat": "mit Solarpflicht für Neubauten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Eigenheimbesitzer mit begrenztem Puffer reagiert Toralf skeptisch auf neue Bau- und Sanierungspflichten, auch wenn sie Neubauten betreffen. In seiner Sicht summieren sich solche Vorgaben schnell zu Kosten, die normale Familien tragen müssen.",
+      "begruendung_selbst": "Solar kann sinnvoll sein, aber Pflicht heißt am Ende meistens: irgendwer muss zahlen. Bei normalen Familien ist der Spielraum nicht endlos.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet im Programm mehrere konkrete Entlastungs- und Anerkennungspunkte: bezahlbarer Pkw auf dem Dorf, mehr ÖPNV im ländlichen Raum, niedrigere Energiepreise und Schutz von Industriearbeit. Gleichzeitig stößt ihn die Grundrichtung einer schnellen Klima- und Verkehrswende ab, weil sie für ihn nach mehr Vorgaben, längeren Wegen und Kostendruck klingt. Insgesamt überwiegt knapp die Zustimmung, weil das Programm seine Lage ungewöhnlich direkt benennt, aber sein Misstrauen gegenüber Verboten und Tempo der Transformation bleibt deutlich.",
+    "score": 1
+  }
+}

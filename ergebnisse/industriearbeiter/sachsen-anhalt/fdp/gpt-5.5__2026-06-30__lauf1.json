@@ -1,0 +1,186 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 69075,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Energie muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die FDP stellt wettbewerbsfähige Energiekosten als zentrale Voraussetzung für den Wirtschaftsstandort Sachsen-Anhalt heraus.",
+      "seite": 5,
+      "zitat": "„mit wettbewerbsfähigen Energiekosten, gut ausgebildeten Fachkräften“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe hängt mit seinem Arbeitsplatz direkt an energieintensiver Chemie- und Schwerindustrie. Dass Energiekosten ausdrücklich als Standortfrage behandelt werden, trifft eine seiner größten Sorgen.",
+      "begruendung_selbst": "Wenn Strom und Wärme für die Anlagen unbezahlbar werden, ist mein Tariflohn auch nichts mehr wert. Erst muss der Standort halten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leuna wird nicht vergessen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP schlägt den Chemiestandort Leuna als Sonderwirtschaftszone mit gebündelten und befristeten Genehmigungen vor.",
+      "seite": 7,
+      "zitat": "„sowie den Chemiestandort Leuna vor“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Uwe zählt, ob die Politik die Industrie im Chemiedreieck konkret im Blick hat. Ein expliziter Vorschlag für Leuna signalisiert ihm Standorterhalt und neue Investitionschancen.",
+      "begruendung_selbst": "Das ist mein Revier. Wenn Leuna als Industriestandort schneller investieren kann, dann reden wir über echte Jobs, nicht nur Sonntagsreden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papier, mehr Produktion",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP will zusätzliche Pflichten für Schlüsselindustrien wie das Chemiedreieck auf das europäische Mindestmaß begrenzen.",
+      "seite": 8,
+      "zitat": "„Gerade für Schlüsselindustrien wie das Chemiedreieck gilt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe ist transformationsskeptisch, wenn neue Vorgaben den Standort schwächen. Eine Entlastung gerade für das Chemiedreieck passt zu seinem Wunsch, Investitionen in Produktion statt in Verwaltung zu lenken.",
+      "begruendung_selbst": "Ich habe nichts gegen Regeln, aber wenn jeder zusätzliche Ordner die Investition frisst, verliert am Ende die Schicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netzentgelte runter, bitte",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will Netzentgelte fairer verteilen und in Sachsen-Anhalt spürbar senken.",
+      "seite": 14,
+      "zitat": "„spürbar gesenkt werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Senkungen bei Netzentgelten berühren Uwes Haushalt und vor allem die Kostenbasis seines Betriebs. Für ihn ist das ein praktischer Beitrag gegen Deindustrialisierung.",
+      "begruendung_selbst": "Wir erzeugen hier Windstrom und zahlen trotzdem drauf. Wenn die Netzkosten sinken, hilft das zu Hause und im Werk.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industrie braucht Prozesswärme",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will Sachsen-Anhalt als Standort moderner Kernenergietechnologien entwickeln, auch für Prozesswärme, Wasserstoff und industrielle Nutzung.",
+      "seite": 15,
+      "zitat": "„Prozesswärme, Wasserstoffanwendungen und industrieller Nutzung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe bewertet Energiepolitik daran, ob sie für energieintensive Anlagen realistisch ist. Technologieoffene Optionen für Prozesswärme und Wasserstoff sprechen seine Sorge an, dass Transformation ohne tragfähige Energiegrundlage Jobs kostet.",
+      "begruendung_selbst": "Für unsere Anlagen reicht kein schönes Plakat. Wir brauchen verlässliche Energie und Wärme, sonst steht die Produktion.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Facharbeiter zählen auch",
+      "thema": "bildung",
+      "programmpunkt": "Die FDP will berufliche Bildung und duale Ausbildung aufwerten und ausdrücklich gut ausgebildete Facharbeiter im Land halten.",
+      "seite": 34,
+      "zitat": "„gut ausgebildete Facharbeiter“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Facharbeiter und Betriebsrat reagiert Uwe positiv auf Anerkennung beruflicher Wege. Die Passage stützt seinen Stolz auf Industriearbeit und den Bedarf an Nachwuchs in Betrieben.",
+      "begruendung_selbst": "Nicht jeder muss studieren. Ohne Facharbeiter läuft im Werk kein Ventil, keine Anlage und keine Nachtschicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO2 weg, Werk bleibt",
+      "thema": "klima",
+      "programmpunkt": "Die FDP will Onshore-CCS ermöglichen und Modellregionen für sichere CO2-Speicherung gemeinsam mit Industrie und Kommunen entwickeln.",
+      "seite": 23,
+      "zitat": "„Onshore-CCS endlich als Chance für unsere Wirtschaft ermöglichen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe ist nicht gegen Klimaschutz, fürchtet aber Jobverluste durch unrealistische Pfade. CCS erscheint ihm als industrietauglicher Klimaschutz, der Emissionen mindern kann, ohne Produktion pauschal abzuwürgen.",
+      "begruendung_selbst": "Wenn CO2 runter muss, dann bitte mit Technik, die unsere Werke weiterlaufen lässt. Genau so kann Wandel funktionieren.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Finger weg von Tariftreue",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will das Tariftreue- und Vergabegesetz schnellstmöglich abschaffen.",
+      "seite": 7,
+      "zitat": "„Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe verteidigt Tarifbindung und gute Löhne als Kern seiner gewerkschaftlichen Identität. Die Abschaffung von Tariftreue-Regeln wirkt auf ihn wie ein Angriff auf faire Standards bei öffentlicher Auftragsvergabe.",
+      "begruendung_selbst": "Tariftreue ist kein Papierkram, das ist Schutz vor Lohndrückerei. Wer daran sägt, sägt an meinem Maßstab für gute Arbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sonntag ist kein Spielball",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will Ladenöffnungszeiten vollständig liberalisieren, einschließlich deutlich mehr Sonntags- und Feiertagsöffnungen.",
+      "seite": 8,
+      "zitat": "„größtmögliche Ausweitung der Sonntagsöffnungen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe arbeitet selbst in Schichten und weiß, was Arbeit zu unsozialen Zeiten bedeutet. Aus solidarischer Sicht sieht er die Ausweitung von Sonn- und Feiertagsarbeit kritisch, wenn Beschäftigtenschutz nicht im Vordergrund steht.",
+      "begruendung_selbst": "Ich kenne Schichtarbeit. Man darf den Sonntag nicht einfach zur Verfügungsmasse machen, nur weil es dem Markt passt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Privatisierung macht mich misstrauisch",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP fordert eine umfassende Privatisierungsoffensive bei Beteiligungen des Landes.",
+      "seite": 9,
+      "zitat": "„eine umfassende Privatisierungsoffensive zu starten“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist skeptisch gegenüber marktliberaler Politik, wenn sie öffentliche Steuerung und Beschäftigtensicherheit schwächt. Eine breit angelegte Privatisierung klingt für ihn nach Renditedruck statt langfristiger Verantwortung.",
+      "begruendung_selbst": "Privatisierung heißt oft: erst versprechen sie Effizienz, dann sparen sie beim Personal. Da werde ich hellhörig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Workfare ersetzt keine Tarifjobs",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will Langzeitarbeitslose zur Bürgerarbeit verpflichten und bei Verweigerung Leistungskürzungen ermöglichen.",
+      "seite": 40,
+      "zitat": "„Langzeitarbeitslose zur Bürgerarbeit verpflichtet werden“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe glaubt an Arbeit und Leistung, aber auch an solidarische Sicherungssysteme. Verpflichtende Bürgerarbeit wirkt auf ihn riskant, weil sie reguläre, ordentlich bezahlte Arbeit entwerten kann.",
+      "begruendung_selbst": "Arbeit muss anständig bezahlt und abgesichert sein. Billige Pflichtarbeit darf keine normalen Stellen verdrängen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozialabbau ist keine Zukunft",
+      "thema": "steuern",
+      "programmpunkt": "Die FDP will Haushaltsprioritäten weg von steigenden Sozialausgaben und hin zu Infrastrukturinvestitionen verschieben.",
+      "seite": 60,
+      "zitat": "„weg von steigenden Sozialausgaben“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe unterstützt Investitionen, lehnt aber Sozialabbau als Grundrichtung ab. Die Formulierung trifft genau seine Sorge, dass marktliberale Haushaltspolitik Sicherungssysteme gegen Infrastruktur ausspielt.",
+      "begruendung_selbst": "Straßen und Schulen brauchen Geld, klar. Aber wenn dafür der Sozialstaat ausgedünnt wird, trifft es am Ende Beschäftigte und Familien.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege nicht privatisieren",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will die Pflegeversicherung reformieren und unter anderem kapitalgedeckte Elemente sowie private und betriebliche Vorsorge stärken.",
+      "seite": 70,
+      "zitat": "„Anreize für private sowie betriebliche Vorsorge gestärkt werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist 54 und Pflege- sowie Alterssicherung werden für ihn greifbarer. Mehr private Vorsorgeanteile klingen für ihn nach Verlagerung kollektiver Risiken auf den Einzelnen.",
+      "begruendung_selbst": "Ich habe jahrzehntelang eingezahlt. Pflege darf nicht davon abhängen, wer privat noch genug zurücklegen konnte.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet im FDP-Programm starke Anknüpfungspunkte bei Industrie, Energiepreisen, Leuna, Facharbeit und technologieoffenem Klimaschutz. Gleichzeitig stößt ihn der arbeits- und sozialpolitische Kurs ab, besonders die Abschaffung von Tariftreue, Privatisierung, Bürgerarbeit und die Verschiebung weg von Sozialausgaben. Aus seiner Perspektive ist das Programm standortpolitisch nützlich, aber gewerkschaftlich und sozialstaatlich deutlich riskant.",
+    "score": 0
+  }
+}

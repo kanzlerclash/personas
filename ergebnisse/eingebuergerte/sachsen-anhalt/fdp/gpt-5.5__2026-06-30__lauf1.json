@@ -1,0 +1,186 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 75502,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sachlich statt Stimmungsmache",
+      "thema": "integration",
+      "programmpunkt": "Die FDP beschreibt Migration als Thema, das pragmatisch geregelt werden soll, ohne Ängste und Ressentiments politisch zu schüren.",
+      "seite": 10,
+      "zitat": "„ohne Ängste und populistische Ressentiments zu schüren“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin bewertet politische Sprache über Migration sehr genau. Eine Formulierung, die ausdrücklich auf Sachlichkeit statt Ressentiments setzt, bestätigt ihr Bedürfnis nach Zugehörigkeit ohne pauschalen Verdacht.",
+      "begruendung_selbst": "Ich kann mit klaren Regeln leben. Wichtig ist mir, dass nicht wieder Menschen mit Migrationsgeschichte als Projektionsfläche benutzt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arbeit zählt, nicht Herkunft",
+      "thema": "integration",
+      "programmpunkt": "Die FDP will reguläre Einwanderung in den Arbeitsmarkt erleichtern und Hürden abbauen, auch bei überzogenen Sprachprüfungen.",
+      "seite": 10,
+      "zitat": "„überzogene Sprachprüfungen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin unterstützt geregelte Migration, wenn Menschen real arbeiten und teilhaben können. Der Abbau unnötiger Sprachhürden wirkt auf sie wie eine sachliche Integrationspolitik, die Leistung und Potenzial ernst nimmt.",
+      "begruendung_selbst": "Wenn jemand hier arbeiten will, soll die Bürokratie nicht so tun, als müsse erst jedes Hindernis perfekt bestanden sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verwaltung kann einladen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Für Gründungen und internationale Talente soll eine digitale One-Stop-Agency Verfahren bündeln und auch auf Englisch begleiten.",
+      "seite": 8,
+      "zitat": "„auch in englischer Sprache“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte weiß Aylin, wie stark Behördenzugänge über Teilhabe entscheiden. Englischsprachige Begleitung signalisiert ihr, dass internationale Menschen nicht als Störfall, sondern als erwünschte Beteiligte gesehen werden.",
+      "begruendung_selbst": "Genau so muss Verwaltung funktionieren: verständlich, erreichbar und nicht abschreckend für Menschen, die neu dazukommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Null Toleranz, endlich klar",
+      "thema": "demokratie",
+      "programmpunkt": "Die FDP formuliert eine Null-Toleranz-Haltung gegen Diskriminierung wegen Herkunft, Religion, sexueller Orientierung, Lebensentwurf oder Geschlechtsidentität.",
+      "seite": 40,
+      "zitat": "„Null Toleranz gegen diejenigen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylins zentrale Sorge ist Alltagsdiskriminierung und das dauernde Infragestellen ihrer Zugehörigkeit. Eine explizite Antidiskriminierungslinie wegen Herkunft und Religion trifft ihren wichtigsten Schutzbedarf direkt.",
+      "begruendung_selbst": "Ich will nicht Sonderbehandlung. Ich will, dass der Staat klar sagt: Diskriminierung ist keine Meinung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ansprechpersonen in der Polizei",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP unterstützt feste Ansprechpersonen für Antidiskriminierung in der Polizei und nachhaltige Fortbildungen.",
+      "seite": 40,
+      "zitat": "„festen Ansprechpersonen für die Antidiskriminierung in der Polizei“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin will Sicherheit ohne pauschalen Verdacht gegen Menschen mit Migrationsgeschichte. Antidiskriminierungsstrukturen innerhalb der Polizei geben ihr das Gefühl, dass Schutz und Selbstkritik zusammen gedacht werden.",
+      "begruendung_selbst": "Polizei soll mich schützen können, ohne dass ich Angst haben muss, erst meine Zugehörigkeit beweisen zu müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Kontrollen ohne Anlass",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP will Waffenverbotszonen und damit die Möglichkeit anlassloser Personenkontrollen in diesen Zonen abschaffen.",
+      "seite": 52,
+      "zitat": "„anlasslosen Personenkontrollen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Aylin ist innere Sicherheit wichtig, aber nicht um den Preis eines diffusen Generalverdachts. Die Ablehnung anlassloser Kontrollen passt zu ihrer Sorge vor rassifizierter Kontrolle im Alltag.",
+      "begruendung_selbst": "Sicherheit ja, aber nicht so, dass bestimmte Leute ständig herausgezogen werden, weil sie anders aussehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Aufstieg nach Leistung",
+      "thema": "arbeit",
+      "programmpunkt": "Im Justizvollzug sollen Aufstieg und Beförderung transparent und nach objektiven Kriterien wie Eignung, Befähigung und Leistung organisiert werden.",
+      "seite": 51,
+      "zitat": "„objektiven Kriterien der Eignung, Befähigung und fachlichen Leistung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin arbeitet im öffentlichen Dienst und wünscht faire Aufstiegschancen statt informeller Barrieren. Objektive, transparente Kriterien bestätigen ihr Leistungsverständnis, auch wenn der Programmpunkt konkret den Justizvollzug betrifft.",
+      "begruendung_selbst": "Im öffentlichen Dienst soll zählen, was man kann und leistet, nicht welcher Name auf dem Türschild steht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschlüsse schneller anerkennen",
+      "thema": "arbeit",
+      "programmpunkt": "In der Pflege will die FDP Anerkennungsverfahren für ausländische Berufsabschlüsse beschleunigen und vorläufiges Arbeiten ermöglichen.",
+      "seite": 70,
+      "zitat": "„Anerkennung ausländischer Berufsabschlüsse beschleunigen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin schaut auch auf Menschen mit ausländischen Qualifikationen, die oft lange in Warteschleifen hängen. Schnellere Anerkennung verbindet aus ihrer Sicht Teilhabe, Fachkräftesicherung und Respekt vor Lebensleistung.",
+      "begruendung_selbst": "Viele bringen Können mit. Es ist fair, das ordentlich zu prüfen, aber nicht jahrelang liegen zu lassen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kulturell kompatibel klingt schief",
+      "thema": "integration",
+      "programmpunkt": "Die FDP fordert bei Zuwanderung eine kulturell und sozial kompatible Eingliederung.",
+      "seite": 11,
+      "zitat": "„kulturell und sozial kompatible Eingliederung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin befürwortet Grundwerte und Rechtsstaat, reagiert aber sensibel auf kulturelle Passungsformeln. Diese Sprache kann für sie so klingen, als müsse Zugehörigkeit über kulturelle Anpassung statt über Recht und Teilhabe bewiesen werden.",
+      "begruendung_selbst": "Ich achte die Verfassung. Aber kulturell kompatibel klingt schnell danach, dass Menschen wie ich nie ganz dazugehören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht nur Sozialfall sehen",
+      "thema": "integration",
+      "programmpunkt": "Die FDP will Zuwanderung in überlastete Sozialsysteme konsequent unterbinden.",
+      "seite": 11,
+      "zitat": "„Zuwanderung in die überlasteten Sozialsysteme“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin versteht die Unterscheidung zwischen Arbeitsmigration und Sozialleistungen, aber das Framing berührt ihre Sorge vor pauschaler Abwertung. Für sie droht hier das Bild, Migrantinnen und Migranten seien zuerst eine Last.",
+      "begruendung_selbst": "Steuert Migration klar, ja. Aber fangt nicht immer mit dem Bild an, Menschen kämen nur, um das System auszunutzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sprachkurse nicht zur Hürde",
+      "thema": "integration",
+      "programmpunkt": "Sprachkurse sollen vorrangig für Selbstzahler oder Menschen angeboten werden, die den Eigenanteil selbst tragen wollen.",
+      "seite": 11,
+      "zitat": "„vorrangig für Selbstzahler“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin hält Sprache für Teilhabe zentral. Wenn Sprachkurse vorrangig an Eigenzahlung hängen, sieht sie die Gefahr, dass gerade integrationswillige Menschen mit wenig Geld später ankommen.",
+      "begruendung_selbst": "Deutsch lernen ist wichtig. Dann darf der Zugang nicht davon abhängen, ob jemand sofort zahlen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schutz nicht kleinreden",
+      "thema": "demokratie",
+      "programmpunkt": "Die FDP lehnt Forderungen nach besonderem Ehrschutz für bestimmte Personengruppen ab und verweist auf das geltende Strafrecht.",
+      "seite": 50,
+      "zitat": "„besonderen Ehrschutz für bestimmte Personengruppen lehnen wir“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin verteidigt Meinungsfreiheit, erwartet aber wirksamen Schutz vor Entwürdigung und gezielter Hetze gegen Minderheiten. Die pauschale Ablehnung besonderen Schutzes kann bei ihr den Eindruck auslösen, verletzliche Gruppen würden nicht ernst genug gesehen.",
+      "begruendung_selbst": "Meinungsfreiheit ist wichtig. Aber wenn Gruppen gezielt entwürdigt werden, reicht ein Schulterzucken nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Anerkennung nicht durch Examen ersetzen",
+      "thema": "arbeit",
+      "programmpunkt": "Für Ärztinnen und Ärzte aus Nicht-EU-Ländern will die FDP Gleichwertigkeits- und Kenntnisprüfungen abschaffen und stattdessen deutsche Examina verlangen.",
+      "seite": 66,
+      "zitat": "„das Ablegen der in Deutschland notwendigen Examina“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin sieht Qualitätssicherung als legitim, aber vollständige deutsche Examina können für qualifizierte Zugewanderte wie eine zusätzliche Integrationsbarriere wirken. Das steht quer zu ihrer Hoffnung, ausländische Lebensleistungen fair und zügig anzuerkennen.",
+      "begruendung_selbst": "Qualität muss stimmen. Aber wer schon Ärztin ist, darf nicht so behandelt werden, als fange alles bei null an.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet im FDP-Programm viele Signale, die zu ihrer liberal-rechtsstaatlichen Haltung passen: sachliche Migrationspolitik, Antidiskriminierung, faire Verwaltungszugänge und Kritik an anlasslosen Kontrollen. Gleichzeitig stößt sie sich an Formulierungen, die kulturelle Passung, Sozialstaatsbelastung oder zusätzliche Hürden für Zugewanderte betonen. Insgesamt überwiegt für sie knapp der positive Eindruck, weil das Programm Ausgrenzungsrhetorik ausdrücklich meidet und mehrere konkrete Schutz- und Teilhabepunkte enthält.",
+    "score": 1
+  }
+}

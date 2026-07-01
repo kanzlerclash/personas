@@ -1,0 +1,186 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 91457,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Landärzte sichern",
+      "thema": "gesundheit",
+      "programmpunkt": "Die AfD will ein Landarztstipendium einführen, bei dem Medizinstudierende gefördert werden und sich anschließend für zehn Jahre als Landärzte in Sachsen-Anhalt verpflichten.",
+      "seite": 20,
+      "zitat": "Wir werden deshalb ein spezielles Landarztstipendienprogramm auflegen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sieht ihre größte berufliche Sorge direkt angesprochen: Wenn sie ohne Nachfolge aufhört, bricht vor Ort hausärztliche Versorgung weg. Ein verbindliches Landarztstipendium passt zu ihrem pragmatischen Wunsch nach konkreten Niederlassungsanreizen.",
+      "begruendung_selbst": "Wenn das ernsthaft junge Ärztinnen und Ärzte aufs Land bringt, ist das genau der Hebel, den wir seit Jahren brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung ist keine Ware",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm stellt Patientenwohl vor Profitinteressen und fordert eine Abkehr von Privatisierung um jeden Preis im Gesundheitswesen.",
+      "seite": 20,
+      "zitat": "Gesundheit aber ist keine Ware",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra ist gegenüber Ökonomisierung im Gesundheitswesen kritisch, weil Renditelogik aus ihrer Sicht nicht zur ländlichen Grundversorgung passt. Die Betonung öffentlicher Verantwortung und des Patientenwohls bestätigt diese Haltung deutlich.",
+      "begruendung_selbst": "Meine Patienten sind keine Fallzahlen für Bilanzen; Versorgung muss vor Rendite kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kleine Kliniken nicht ausdünnen",
+      "thema": "gesundheit",
+      "programmpunkt": "Die AfD will Leistungsgruppen an die dünne Besiedlung und große Entfernungen in Sachsen-Anhalt anpassen, damit Grund- und Regelversorgung regional erhalten bleibt.",
+      "seite": 20,
+      "zitat": "Grund- und Regelversorgung müssen in allen Regionen Sachsen-Anhalts erhalten bleiben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Petra sind wohnortnahe Kliniken und Basisversorgung Teil derselben Versorgungskette wie ihre Hausarztpraxis. Der Schutz kleinerer ländlicher Strukturen passt zu ihrer Sorge vor langen Wegen und Versorgungslücken.",
+      "begruendung_selbst": "Wenn Innere Medizin oder Notfallversorgung verschwinden, lande ich mit den Folgen in der Praxis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gesundheitszentren können helfen",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm begrüßt regionale Gesundheitszentren als ergänzende Versorgungsform neben niedergelassenen Ärztinnen und Ärzten und bewertet Klinikkonzern-Führung kritisch.",
+      "seite": 20,
+      "zitat": "Gesundheitszentren für eine flächendeckende Versorgung!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra ist nicht dogmatisch auf die Einzelpraxis fixiert, sondern sucht tragfähige Modelle für Versorgung im ländlichen Raum. Gesundheitszentren mit mehreren Fachrichtungen und besseren Arbeitszeitmodellen könnten Nachfolgeprobleme abfedern.",
+      "begruendung_selbst": "Wenn eine Einzelpraxis niemand mehr übernimmt, brauchen wir Modelle, die trotzdem verlässlich versorgen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Notfallnähe zählt",
+      "thema": "gesundheit",
+      "programmpunkt": "Die AfD will kleinere Notaufnahmen nicht durch integrierte Notfallzentren verdrängen lassen und wohnortnahe Akutversorgung sichern.",
+      "seite": 20,
+      "zitat": "Der Zugang zu einer wohnortnahen Akut- und Notfallversorgung muss",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra denkt an ältere und weniger mobile Patientinnen und Patienten, für die zusätzliche Fahrzeiten im Notfall real gefährlich werden. Die Forderung nach wohnortnaher Akutversorgung trifft ihren Daseinsvorsorge-Kompass.",
+      "begruendung_selbst": "Bei Brustschmerz oder Schlaganfall hilft keine schöne Strukturreform, wenn der Weg zu weit ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papier, mehr Pflege",
+      "thema": "gesundheit",
+      "programmpunkt": "Im Pflegebereich fordert das Programm weniger Dokumentationspflichten und mehr Zeit für die direkte Arbeit am Menschen.",
+      "seite": 20,
+      "zitat": "Weniger Dokumentationspflichten, mehr Zeit für die Pflege am Menschen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra überträgt ihre eigene Bürokratieerfahrung auf Pflegekräfte, mit denen sie im Alltag eng zu tun hat. Weniger Dokumentationslast zugunsten direkter Versorgung entspricht ihrer praktischen Sicht auf Gesundheitsarbeit.",
+      "begruendung_selbst": "Pflegekräfte und Ärzte sollen Menschen versorgen, nicht abends noch Aktenberge abarbeiten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digital, aber mit Mensch",
+      "thema": "demokratie",
+      "programmpunkt": "Die Verwaltung soll digitalisiert werden, gleichzeitig soll ein menschlicher Ansprechpartner erhalten bleiben.",
+      "seite": 17,
+      "zitat": "E-Verwaltung ist kein Selbstzweck",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra hofft auf funktionierende Digitalisierung, lehnt aber technische Scheinlösungen ab, die Arbeit nur verlagern. Der Gedanke von Effizienz plus menschlichem Ansprechpartner passt zu ihrer Erfahrung mit hakeligen digitalen Pflichtsystemen.",
+      "begruendung_selbst": "Digitalisierung darf mir Arbeit abnehmen, nicht mich mit Portalen und Hotlines alleinlassen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Patienten müssen hinkommen",
+      "thema": "verkehr",
+      "programmpunkt": "Die AfD fordert flächendeckenden öffentlichen Nahverkehr, Bürgerbus-Projekte und bessere ländliche Infrastruktur, damit Orte angebunden bleiben.",
+      "seite": 15,
+      "zitat": "damit auch Rentner den Arzt oder die Kirche besuchen können.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra erlebt täglich, dass ältere Patientinnen und Patienten ohne Auto Termine schwer erreichen. Bürgerbusse und Nahverkehr sind für sie keine Nebensache, sondern Voraussetzung für medizinische Versorgung auf dem Land.",
+      "begruendung_selbst": "Eine Praxis hilft wenig, wenn meine älteren Patienten gar nicht mehr zuverlässig hinkommen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "So geht Fachkräftepolitik nicht",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm pauschalisiert ausländische Ärztinnen und Ärzte als wegen Sprache, Kultur und Abschlüssen kaum geeignet und will Abhängigkeit von ihnen beenden.",
+      "seite": 20,
+      "zitat": "Ausländische Ärzte aber sind wegen der Sprachbarriere und kultureller Differenzen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra will den Ärztemangel lösen und achtet auf Qualifikation, Sprache und Patientensicherheit, aber eine pauschale Abwertung ausländischer Kolleginnen und Kollegen widerspricht ihrem pragmatischen Versorgungsdenken. In einer Mangellage braucht sie faire Anerkennung, Einarbeitung und Standards statt Generalverdacht.",
+      "begruendung_selbst": "Ich brauche gute Kolleginnen und Kollegen; Herkunft ersetzt keine saubere Prüfung der Qualifikation.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gefährliche Corona-Sätze",
+      "thema": "gesundheit",
+      "programmpunkt": "Die AfD beschreibt mRNA-Impfstoffe pauschal als kaum getestet, unwirksam und gefährlich und stellt Corona-Maßnahmen insgesamt als Unrecht dar.",
+      "seite": 20,
+      "zitat": "unwirksam und gefährlich für Leib und Leben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Ärztin orientiert sich Petra an belastbarer Evidenz und an differenzierter Risikoabwägung. Pauschale Aussagen über Impfstoffe beschädigen aus ihrer Sicht Vertrauen in medizinische Beratung und erschweren die Arbeit in der Praxis.",
+      "begruendung_selbst": "Ich habe mit verunsicherten Patienten gesprochen; solche Pauschalurteile machen gute Aufklärung schwerer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege nicht romantisieren",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm stellt Pflege wesentlich als Aufgabe liebender Angehöriger dar und will Familien stärker in diese Funktion bringen.",
+      "seite": 20,
+      "zitat": "Pflege ist ihrem Wesen nach Ausdruck der Fürsorge liebender Angehöriger.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra kennt die Überlastung pflegender Familien und den professionellen Bedarf alter, multimorbider Menschen. Unterstützung zu Hause findet sie sinnvoll, aber eine romantisierende Familienlogik greift ihr zu kurz und kann professionelle Pflege entwerten.",
+      "begruendung_selbst": "Angehörige leisten viel, aber Pflege ist oft harte Facharbeit und braucht echte Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zu viel Kulturkampf im Dorf",
+      "thema": "demokratie",
+      "programmpunkt": "Bei Förderpolitik und kommunalen Aufgaben setzt das Programm auf Abgrenzung gegen Gleichstellung, Diversity und sogenannte Regenbogen-Anforderungen.",
+      "seite": 15,
+      "zitat": "Kommunale Schulen, Vereine und Kindergärten werden unterstützt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra prüft Politik daran, ob Daseinsvorsorge funktioniert, nicht ob kommunale Förderung Kulturkampf führt. Für sie droht hier Energie von Versorgung, Vereinen, Schulen und Verwaltung in ideologische Sortierung abzuwandern.",
+      "begruendung_selbst": "Im Dorf zählen Arzttermine, Busse und funktionierende Ämter; Fördergeld sollte nicht zum Kulturkampf werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mobilität nicht nur Auto",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm stellt das Auto mit Verbrennungsmotor als Grundlage der Mobilität heraus und will Verkehr besonders autofahrerfreundlich ausrichten.",
+      "seite": 16,
+      "zitat": "Wir werden deshalb den Verkehr so autofahrerfreundlich wie möglich gestalten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra weiß, dass viele ländliche Haushalte auf das Auto angewiesen sind. Gleichzeitig denkt sie an alte, kranke oder arme Patientinnen und Patienten, die nicht selbst fahren können; eine zu starke Auto-Fixierung reicht für deren Versorgung nicht aus.",
+      "begruendung_selbst": "Viele brauchen das Auto, ja. Aber meine hochbetagten Patienten brauchen Bus, Fahrdienst und erreichbare Praxen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra findet im AfD-Programm viele konkrete Anknüpfungspunkte für ihre Lage als Landärztin: Landarztstipendien, ländliche Gesundheitszentren, Erhalt von Grundversorgung, Bürokratieabbau und bessere Erreichbarkeit sprechen ihre Kernprobleme an. Gleichzeitig stören sie pauschale Aussagen über ausländische Ärzte, medizinisch zugespitzte Corona-Behauptungen und eine teils kulturkämpferische Rahmung, weil diese Vertrauen und pragmatische Versorgungspolitik gefährden. Insgesamt überwiegt für ihre unmittelbare berufliche Lage der Nutzen, aber mit deutlichen fachlichen und menschenbildlichen Vorbehalten.",
+    "score": 1
+  }
+}

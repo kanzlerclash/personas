@@ -1,0 +1,198 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 98840,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Rente muss reichen",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke fordert eine armutsfeste Mindestrente und ein höheres Rentenniveau, damit Altersarmut abgefedert wird.",
+      "seite": 42,
+      "zitat": "„einer armutsfesten Mindestrente in Höhe von 1.400 Euro“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter leben von kleinen gesetzlichen Renten und wollen Verlässlichkeit statt Experimente. Eine ausdrücklich armutsfeste Rente trifft ihren Kernwunsch nach Sicherheit im Alter.",
+      "begruendung_selbst": "Wir haben lange gearbeitet; da muss am Ende genug zum Leben bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ärzte müssen erreichbar bleiben",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm will wohnortnahe Versorgung mit Arztpraxen, Apotheken und täglichem Bedarf auch auf dem Land sichern.",
+      "seite": 44,
+      "zitat": "„wohnortnahen Versorgung für den täglichen Bedarf, Apotheken und Arztpraxen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar lebt im Dorf und sorgt sich, was passiert, wenn der Hausarzt wegfällt. Die Verbindung von Alltagsversorgung, Apotheken und Praxen spricht ihre Angst vor dem Abgehängtwerden direkt an.",
+      "begruendung_selbst": "Wenn der Arzt und die Apotheke verschwinden, nützt uns das schönste Haus nichts.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hilfe bei Formularen",
+      "thema": "familie",
+      "programmpunkt": "Mobile Bürokratie-Lotsen sollen ältere Menschen im ländlichen Raum bei Anträgen und Leistungen unterstützen.",
+      "seite": 57,
+      "zitat": "„älteren Menschen auch vor Ort“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter sind veränderungsskeptisch und wollen keine komplizierten Wege durch Ämter. Persönliche Hilfe vor Ort würde ihnen Sicherheit geben, besonders wenn Ansprüche oder Pflegeleistungen beantragt werden müssen.",
+      "begruendung_selbst": "Wir brauchen jemanden, der uns das erklärt, ohne dass wir dreimal in die Stadt fahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege darf nicht ruinieren",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will pflegebedingte Eigenanteile abschaffen und Pflege als öffentliche Verantwortung absichern.",
+      "seite": 56,
+      "zitat": "„weil die Rente nicht reicht“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Pflegekosten gehören zu den größten Ängsten des Rentnerpaars. Die Abschaffung der Eigenanteile würde genau das Risiko mindern, im Pflegefall trotz Lebensleistung arm zu werden.",
+      "begruendung_selbst": "Wenn einer von uns Pflege braucht, darf das nicht unser ganzes Erspartes auffressen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Etwas Luft für Pflege",
+      "thema": "gesundheit",
+      "programmpunkt": "Zusätzlich soll Pflege durch Landesgeld und öffentliche Verantwortung finanziell abgefedert werden.",
+      "seite": 56,
+      "zitat": "„starke Schultern mehr tragen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für einen Haushalt mit wenig liquiden Rücklagen zählt jede planbare Entlastung. Das Pflegegeld wäre kein kompletter Schutz, aber ein konkret greifbarer Puffer.",
+      "begruendung_selbst": "Das wäre wenigstens ein Betrag, mit dem man im Pflegefall rechnen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zu Hause alt werden",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm will altersgerechten Umbau von Wohnungen fördern und betreute Wohnformen im ländlichen Raum unterstützen.",
+      "seite": 58,
+      "zitat": "„Förderung des altersgerechten Umbaus von Wohnungen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das eigene Haus ist ihr Hauptvermögen und der Ort, an dem sie alt werden wollen. Förderung für altersgerechten Umbau passt zu ihrem Wunsch nach Selbstständigkeit ohne unbezahlbare Eingriffe.",
+      "begruendung_selbst": "Wir wollen nicht weg aus unserem Haus, nur weil Treppen und Bad schwieriger werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rufbusse fürs Dorf",
+      "thema": "verkehr",
+      "programmpunkt": "Für ältere Menschen sollen ÖPNV, barrierefreie Haltestellen, Seniorentickets und Rufbusse auf dem Land ausgebaut werden.",
+      "seite": 58,
+      "zitat": "„Ausbau Rufbusse im ländlichen Raum“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Solange sie können, fahren Helga und Dieter Auto; zugleich wissen sie, dass das nicht selbstverständlich bleibt. Rufbusse und barrierefreie Angebote würden Arztbesuche und Einkäufe länger möglich machen.",
+      "begruendung_selbst": "Wenn wir irgendwann nicht mehr fahren können, brauchen wir trotzdem einen Weg zum Arzt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wärme muss bezahlbar sein",
+      "thema": "energie",
+      "programmpunkt": "Die Linke fordert Sockeltarife, ein Verbot von Strom- und Gassperren sowie Hilfen bei Energieschulden.",
+      "seite": 106,
+      "zitat": "„Strom - und Gassperren gesetzlich verbieten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Heizkosten sind eine zentrale Sorge des Paars. Bezahlbare Grundversorgung und Schutz vor Sperren bestätigen ihr Bedürfnis nach Verlässlichkeit und einer warmen Wohnung.",
+      "begruendung_selbst": "Eine warme Stube darf im Alter keine Frage des Glücks sein.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht wieder neue Pflichten",
+      "thema": "klima",
+      "programmpunkt": "Das Programm will mit einem verbindlichen CO2-Budget den Weg zur Klimaneutralität bis 2035 festlegen.",
+      "seite": 121,
+      "zitat": "„ein verbindliches CO₂ - Budget für Sachsen - Anhalt festlegen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter sind nicht grundsätzlich gegen Klimaschutz, fürchten aber neue Vorgaben, die am Ende bei Hausbesitzern mit kleiner Rente landen. Verpflichtende Prüfungen klingen für sie nach zusätzlichem Regelwerk statt nach sofortiger Entlastung.",
+      "begruendung_selbst": "Bei solchen Pflichten fragen wir uns sofort, was davon am Ende wieder bei uns hängen bleibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanierung macht uns Angst",
+      "thema": "wohnen",
+      "programmpunkt": "Im Denkmalschutz soll eine Klimaklausel energetische Sanierung rechtlich gleichstellen und damit Sanierungserfordernisse stärker gewichten.",
+      "seite": 127,
+      "zitat": "„eine Klimaklausel im Denkmalschutzgesetz verankern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn das Programm an anderer Stelle Förderungen vorsieht, triggert jede Aufwertung energetischer Sanierung ihre Angst vor unbezahlbaren Arbeiten am Eigenheim. Ihr Haus von 1981 ist Vermögen, aber kein frei verfügbares Geldpolster.",
+      "begruendung_selbst": "Wenn Sanierung rechtlich immer wichtiger wird, fragen wir: Von welchem Geld denn?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unser Auto bleibt nötig",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will motorisierten Individualverkehr und LKW-Verkehr reduzieren und Verkehr auf Schiene und Wasserstraße verlagern.",
+      "seite": 101,
+      "zitat": "„Wir setzen hauptsächlich auf Bahnen und Busse“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar ist auf dem Dorf weiter stark auf das Auto angewiesen. Obwohl das Programm die Bedeutung des PKW auf dem Land anerkennt, klingt die Reduzierung des Individualverkehrs für sie nach Einschränkung ihres letzten verlässlichen Mobilitätsmittels.",
+      "begruendung_selbst": "Ohne Auto kommen wir hier nicht weit; weniger Autoverkehr klingt in der Stadt leichter als bei uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Straßen nicht vergessen",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm setzt andere Prioritäten als neue Autobahnen und lehnt weiteren Ausbau entsprechender Verkehrsadern ab.",
+      "seite": 105,
+      "zitat": "„Keine neuen Autobahnen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter denken bei Infrastruktur zuerst an Erreichbarkeit, Handwerker, Rettungswege und Verbindungen für die Region. Ein pauschal wirkender Stopp neuer Autobahnen passt nicht zu ihrem Gefühl, dass ländliche Räume ohnehin zu oft vergessen werden.",
+      "begruendung_selbst": "Wir wollen nicht, dass das Land bei Straßen noch weiter abgehängt wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zu weich bei Strafen",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm will Ersatzfreiheitsstrafen abschaffen und gemeinnützige Arbeit statt Haft ausbauen.",
+      "seite": 140,
+      "zitat": "„die Abschaffung von Ersatzfreiheitsstrafen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Das Rentnerpaar legt Wert auf Ordnung und sichtbare Konsequenzen. Resozialisierung kann es nachvollziehen, aber die Abschaffung von Haftfolgen bei nicht gezahlten Strafen wirkt aus seiner Perspektive zu nachgiebig.",
+      "begruendung_selbst": "Wer Regeln bricht, muss auch merken, dass es Folgen hat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sicherheit braucht Kontrolle",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke stellt Sicherheit stark auf Teilhabe und Solidarität statt auf Kontrolle und Abschreckung.",
+      "seite": 134,
+      "zitat": "„Sicherheit entsteht nicht durch Kontrolle“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter wünschen Ruhe, Ordnung und spürbare Präsenz im Ort. Eine Sicherheitspolitik, die Kontrolle sprachlich zurückstellt, kann ihnen zu abstrakt erscheinen, auch wenn das Programm zugleich Polizeistellen und Bürgernähe vorsieht.",
+      "begruendung_selbst": "Zusammenhalt ist gut, aber wir wollen auch sehen, dass jemand aufpasst.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter würden im Programm viele konkrete Entlastungen für ihre eigene Lage finden: Rente, Pflegekosten, Arztversorgung, altersgerechtes Wohnen, Rufbusse und bezahlbare Energie werden ausführlich adressiert. Skeptisch bleiben sie dort, wo Klima- und Verkehrspolitik nach neuen Vorgaben oder Einschränkungen klingt und wo Sicherheit stärker über Prävention als über klare Kontrolle erzählt wird. Insgesamt überwiegen aus ihrer Lebenslage die direkt nützlichen Zusagen deutlich.",
+    "score": 2
+  }
+}

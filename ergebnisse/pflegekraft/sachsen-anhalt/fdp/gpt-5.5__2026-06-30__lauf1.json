@@ -1,0 +1,198 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 54575,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Pflege endlich im Mittelpunkt",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP stellt Pflege als zentrales Feld ihrer Gesundheitspolitik dar und will den Beruf attraktiver machen, um erfahrene Kräfte zu halten und neue zu gewinnen.",
+      "seite": 69,
+      "zitat": "Pflege konsequent in den Mittelpunkt unserer Gesundheitspolitik",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sucht Anerkennung für systemrelevante Arbeit und konkrete Aufmerksamkeit für den Pflegealltag. Dass Pflege ausdrücklich ins Zentrum gerückt wird, trifft ihr Bedürfnis nach Wertschätzung.",
+      "begruendung_selbst": "Wenn Pflege nicht nur nebenbei vorkommt, höre ich wenigstens: Unser Alltag zählt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schicht muss planbar werden",
+      "thema": "arbeit",
+      "programmpunkt": "Flexible Arbeitszeitmodelle und Schichtzuschläge auf Stundenlohnbasis sollen erhalten und weiterentwickelt werden.",
+      "seite": 69,
+      "zitat": "Flexible Arbeitszeitmodelle sowie Schichtzuschläge auf Stundenlohnbasis",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Alltag wird durch Schichtdienst und Familienpflichten geprägt. Zuschläge und flexiblere Modelle sprechen ihre Belastung und den Wunsch nach verlässlicher Vereinbarkeit direkt an.",
+      "begruendung_selbst": "Schichtarbeit frisst genug Kraft; Zuschläge und bessere Modelle sind kein Luxus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papier, mehr Pflege",
+      "thema": "gesundheit",
+      "programmpunkt": "Mehrfachdokumentationen und Doppelstrukturen in Pflegeeinrichtungen sollen abgeschafft werden.",
+      "seite": 69,
+      "zitat": "Doppelstrukturen und Mehrfachdokumentationen schaffen wir ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt Dokumentation als Teil der Arbeitsverdichtung. Weniger doppelte Erfassung würde aus ihrer Sicht Zeit für Patientinnen und Patienten zurückgeben.",
+      "begruendung_selbst": "Ich brauche Zeit am Bett, nicht noch ein Formular mit denselben Daten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausbildung muss halten",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflegeausbildung soll praxisnäher und durchlässiger werden, um Abbrüche zu senken und Auszubildende im Beruf zu halten.",
+      "seite": 70,
+      "zitat": "um Abbruchquoten zu senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Kerstin ist Nachwuchs eine Überlebensfrage der Station. Praxisnahe Ausbildung und weniger Abbrüche passen zu ihrem Interesse an mehr Personal im System.",
+      "begruendung_selbst": "Jede Auszubildende, die bleibt, fehlt später nicht auf Station.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lasst Kolleginnen schneller ran",
+      "thema": "integration",
+      "programmpunkt": "Die Anerkennung ausländischer Pflegeabschlüsse soll beschleunigt werden; Pflegekräfte sollen unter Voraussetzungen vorläufig arbeiten dürfen.",
+      "seite": 70,
+      "zitat": "Anerkennung ausländischer Berufsabschlüsse beschleunigen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station ist auf migrantische Kolleginnen und Kollegen angewiesen. Schnellere Anerkennung stärkt genau jene Belegschaft, ohne die Versorgung aus ihrer Sicht nicht mehr funktioniert.",
+      "begruendung_selbst": "Meine Kolleginnen können was; sie sollen nicht monatelang in Akten hängen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krankenhäuser nicht kaputtsparen",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will tragfähige Krankenhausstandorte erhalten und in moderne, digitale und bedarfsgerechte Infrastruktur investieren.",
+      "seite": 66,
+      "zitat": "Erhalt tragfähiger Krankenhausstandorte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin arbeitet im Krankenhaus und bewertet Strukturpolitik daran, ob Versorgung und Arbeitsfähigkeit erhalten bleiben. Der Erhalt tragfähiger Standorte und Investitionen wirken für sie grundsätzlich stabilisierend.",
+      "begruendung_selbst": "Reformen sind okay, solange am Ende noch echte Versorgung vor Ort steht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflegende Angehörige mitdenken",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflegende Angehörige sollen durch bessere Information, Beratung, flexible Alltagshilfen und Bürokratieabbau entlastet werden.",
+      "seite": 71,
+      "zitat": "verdienen mehr Entlastung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht täglich, wie Versorgung auch an Familien hängt. Mehr Unterstützung für Angehörige entspricht ihrem Fürsorgebild und kann Druck aus Einrichtungen nehmen.",
+      "begruendung_selbst": "Angehörige stemmen so viel unsichtbar; die dürfen nicht allein gelassen werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Tarifbindung nicht schleifen",
+      "thema": "arbeit",
+      "programmpunkt": "Das Tariftreue- und Vergabegesetz soll schnellstmöglich abgeschafft werden.",
+      "seite": 7,
+      "zitat": "Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist arbeitnehmerorientiert und misst Politik auch an Bezahlung und Anerkennung. Ein Signal gegen Tariftreue passt schlecht zu ihrer Erwartung, dass gute Arbeit verbindlich fair bezahlt wird.",
+      "begruendung_selbst": "Wer Tariftreue abbaut, soll mir nicht erzählen, Arbeit werde mehr wertgeschätzt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sonntag ist nicht beliebig",
+      "thema": "arbeit",
+      "programmpunkt": "Die Ladenöffnungszeiten sollen vollständig liberalisiert werden, einschließlich einer deutlichen Ausweitung von Sonntags- und Feiertagsöffnungen.",
+      "seite": 8,
+      "zitat": "Ausweitung der Sonntagsöffnungen sowie Öffnungen an Feiertagen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin kennt Wochenend- und Feiertagsarbeit aus eigener Erfahrung. Sie dürfte skeptisch sein, wenn Schutzzeiten für weitere Beschäftigte ausgeweitet zur Verhandlungsmasse werden.",
+      "begruendung_selbst": "Ich weiß, was Arbeiten an Feiertagen heißt; das sollte man nicht leichtfertig ausweiten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Privatisierung macht mich nervös",
+      "thema": "wirtschaft",
+      "programmpunkt": "Landesbeteiligungen sollen kritisch geprüft und im Rahmen einer umfassenden Privatisierungsoffensive veräußert werden.",
+      "seite": 9,
+      "zitat": "eine umfassende Privatisierungsoffensive zu starten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin steht Ökonomisierung und Privatisierung im Gesundheitswesen skeptisch gegenüber. Auch wenn die Aussage allgemein formuliert ist, triggert die breite Privatisierungslogik ihre Sorge, dass öffentliche Daseinsvorsorge weiter unter Renditedruck gerät.",
+      "begruendung_selbst": "Bei Privatisierung höre ich sofort: mehr Druck, weniger Personal, Hauptsache Zahlen stimmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bleiben darf nicht wackeln",
+      "thema": "integration",
+      "programmpunkt": "Dauerhaftes Bleiberecht soll an Lebensunterhalt durch Eigenleistung und ein glaubhaftes Bekenntnis zu Verfassungsgrundwerten geknüpft werden.",
+      "seite": 11,
+      "zitat": "dauerhafte Bleiberecht wollen wir Freie Demokraten daher an zwei wesentliche Bedingungen knüpfen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin lehnt einen harten Migrationskurs ab, weil er Kolleginnen verunsichern kann. Bedingungen für Bleiberecht wirken auf sie problematisch, wenn dadurch arbeitende oder angehende Fachkräfte zusätzliche Unsicherheit spüren.",
+      "begruendung_selbst": "Meine Kolleginnen brauchen Perspektive, nicht ständig das Gefühl, beweisen zu müssen, ob sie bleiben dürfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sprachkurse dürfen nicht kosten",
+      "thema": "integration",
+      "programmpunkt": "Sprachkurse sollen vorrangig für Selbstzahler oder Menschen angeboten werden, die den Eigenanteil selbst tragen.",
+      "seite": 11,
+      "zitat": "Sprachkurse sollen vorrangig für Selbstzahler",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin will, dass ausländische Pflegekräfte gut ankommen und bleiben. Wenn Sprachförderung stärker von privater Zahlungsfähigkeit abhängt, sieht sie eine Hürde für Integration und Versorgung.",
+      "begruendung_selbst": "Sprache ist im Krankenhaus wichtig; dann darf der Kurs nicht am Geld scheitern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Private Vorsorge hilft Stationen nicht",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflegeversicherung soll reformiert werden, indem versicherungsfremde Leistungen gestrichen, Kapitaldeckung ergänzt und private sowie betriebliche Vorsorge gestärkt werden.",
+      "seite": 70,
+      "zitat": "Anreize für private sowie betriebliche Vorsorge gestärkt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin hofft auf stabile solidarische Finanzierung der Pflege. Eine stärkere Verschiebung in private Vorsorge beantwortet aus ihrer Sicht nicht die akute Personal- und Versorgungsfrage.",
+      "begruendung_selbst": "Meine Station wird nicht voller, nur weil jemand privat vorsorgen soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unternehmerfreiheit pflegt nicht",
+      "thema": "gesundheit",
+      "programmpunkt": "Eine Kommunalisierung der Pflege wird abgelehnt; Pflege brauche unternehmerische Freiheit und klare Zuständigkeiten.",
+      "seite": 71,
+      "zitat": "Pflege braucht verlässliche Rahmenbedingungen, unternehmerische Freiheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist skeptisch gegenüber einer Pflegepolitik, die unternehmerische Freiheit stark betont. Ihr Maßstab sind Personal, Belastung und Versorgung, nicht größere Spielräume für Träger.",
+      "begruendung_selbst": "Ich brauche Kolleginnen im Dienstplan, nicht noch mehr Freiheit für Geschäftsführungen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet im FDP-Programm mehrere direkte Anknüpfungspunkte: Pflege wird sichtbar priorisiert, Bürokratieabbau, Schichtzuschläge, Ausbildung und die Anerkennung ausländischer Abschlüsse sprechen ihren Alltag deutlich an. Gleichzeitig stören sie marktliberale Linien wie Tariftreueabbau, Privatisierungsoffensive, private Vorsorge und unternehmerische Freiheit in der Pflege, weil sie darin keinen verlässlichen Schutz vor Arbeitsverdichtung erkennt. Insgesamt überwiegt für sie ein gemischter Eindruck mit starken Pflege-Einzelpunkten, aber begrenztem Vertrauen in die wirtschafts- und sozialpolitische Grundrichtung.",
+    "score": 0
+  }
+}

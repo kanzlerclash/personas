@@ -1,0 +1,198 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 70469,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich kommt Versorgung raus",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will mit einem landesweiten Förderprogramm mobile Arztpraxen und Facharzt-Busse in schwer erreichbaren Regionen etablieren.",
+      "seite": 64,
+      "zitat": "„rollende Arztpraxen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra sieht darin eine direkte Antwort auf lange Wege und fehlende Facharztangebote im ländlichen Raum. Mobile Versorgung kann ihre älteren Patientinnen und Patienten entlasten, auch wenn sie keine vollständige Praxisnachfolge ersetzt.",
+      "begruendung_selbst": "Wenn die Menschen nicht mehr überall in die Praxis oder zum Facharzt kommen, muss Versorgung eben zu ihnen kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Niederlassung braucht Rückenwind",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will Niederlassungen stärker unterstützen, bürokratische Hürden abbauen und Nachwuchsnetzwerke in der ambulanten Medizin ausweiten.",
+      "seite": 65,
+      "zitat": "„reduzieren dafür gezielt bürokratische Hürden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre zentrale Sorge ist die fehlende Praxisnachfolge. Der Fokus auf ambulante Versorgung, Niederlassung und Nachwuchs trifft genau ihre berufliche Lage als Landärztin.",
+      "begruendung_selbst": "Ich brauche nicht noch eine Kampagne, ich brauche echte Gründe, warum junge Ärztinnen hier eine Praxis übernehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "TI muss endlich funktionieren",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die FDP will die Telematik-Infrastruktur praxistauglich machen, damit Digitalisierung in Praxen einen echten Mehrwert bringt.",
+      "seite": 65,
+      "zitat": "„Telematik-Infrastruktur praxistauglich gestalten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra ist nicht gegen Digitalisierung, sondern gegen Systeme, die Zeit fressen und nicht laufen. Diese Formulierung greift ihre Erfahrung mit eAU, TI und Praxisabläufen direkt auf.",
+      "begruendung_selbst": "Digitalisierung ist gut, wenn sie mir zehn Minuten spart und nicht den halben Vormittag lahmlegt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Hände in der Praxis",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will Physician Assistants als festen Bestandteil der ambulanten Versorgung ausbauen, besonders im ländlichen Raum.",
+      "seite": 65,
+      "zitat": "„besonders im ländlichen Raum“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Zusätzliche qualifizierte Berufsbilder könnten ihre Einzelpraxis entlasten und einfache Versorgungsaufgaben besser verteilen. Das passt zu ihrem pragmatischen Wunsch nach mehr Zeit für Patientinnen und Patienten.",
+      "begruendung_selbst": "Wenn gute Leute Aufgaben übernehmen können, bleibt mir mehr Zeit für die Fälle, für die wirklich eine Ärztin gebraucht wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Daten statt Wegducken",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will Versorgungslücken datenbasiert erkennen und mit Praxisnähe, Digitalisierung und neuen Berufsbildern gezielt bearbeiten.",
+      "seite": 67,
+      "zitat": "„Versorgungsdefizite nicht hinnehmen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sie ärgert sich über jahrelanges Verschieben des Landarztproblems. Ein lernfähiger, datenbasierter Blick auf Versorgungslücken entspricht ihrem Wunsch nach konkreter Steuerung statt Symbolpolitik.",
+      "begruendung_selbst": "Man sieht doch längst, wo Praxen fehlen. Dann muss man diese Lücken auch ehrlich messen und schließen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hilfe muss schnell ankommen",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will Telenotarzt-Strukturen landesweit etablieren und moderne Technik für bessere Notfallversorgung nutzen.",
+      "seite": 68,
+      "zitat": "„flächendeckende fernärztliche Notfallbegleitung“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für ihre Patientinnen und Patienten auf dem Land zählt im Notfall schnelle qualifizierte Unterstützung. Fernärztliche Begleitung kann ländliche Distanzen medizinisch abfedern.",
+      "begruendung_selbst": "Wenn der Notarzt weit weg ist, darf die Qualität nicht erst am Stadtrand anfangen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus und Bahn zählen auch",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP will das Landes-Bus-Netz ausbauen und ländliche Angebote mit On-Demand-Shuttles, Rufbussen und autonomen Kleinbussen modernisieren.",
+      "seite": 73,
+      "zitat": "„modernisieren Angebote im ländlichen Raum“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Viele ihrer älteren Patientinnen und Patienten sind auf erreichbare Mobilität angewiesen. Bessere ländliche ÖPNV-Angebote berühren unmittelbar die Frage, ob sie Arzttermine, Apotheken und soziale Teilhabe erreichen.",
+      "begruendung_selbst": "Wer nicht mehr selbst fahren kann, braucht trotzdem einen Weg zur Praxis, zur Apotheke und zum Leben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papier, mehr Staat",
+      "thema": "demokratie",
+      "programmpunkt": "Die FDP will Daten nicht doppelt abfragen und Verwaltungsverfahren beschleunigen, um Fehler, Kosten und Aufwand zu reduzieren.",
+      "seite": 47,
+      "zitat": "„Der Staat fragt Daten nicht mehrfach ab“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre Praxis leidet unter Mehrfachdokumentation und Zuständigkeitswirrwarr. Ein Staat, der Daten nur einmal erhebt und Verfahren schneller macht, passt zu ihrer Forderung nach handlungsfähiger Verwaltung.",
+      "begruendung_selbst": "Ich trage dieselben Angaben viel zu oft irgendwo ein. Ein Staat mit funktionierenden Daten wäre schon eine Entlastung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Keine neuen Arzthürden",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will Gleichwertigkeits- und Kenntnisprüfungen für Nicht-EU-Ärztinnen und -Ärzte abschaffen und stattdessen deutsche Examina verlangen.",
+      "seite": 66,
+      "zitat": "„Abschaffung der Gleichwertigkeits- und Kenntnisprüfungen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra versteht den Qualitätsanspruch, sieht aber im ländlichen Raum vor allem den akuten Ärztemangel. Wenn ausländische Ärztinnen und Ärzte faktisch länger bis zur Berufsausübung brauchen, verschärft das ihre Nachfolge- und Versorgungsangst.",
+      "begruendung_selbst": "Qualität muss sein, aber ich kann mir keine Verfahren leisten, die gute Ärztinnen noch länger draußen halten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Notfall-Lücken nicht riskieren",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP lehnt die landesweite Etablierung des Gemeindenotfallsanitäters ab und bewertet ihn als Doppelstruktur ohne eigenen Kompetenzbereich.",
+      "seite": 68,
+      "zitat": "„lehnen wir ab“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aus ihrer Versorgungsperspektive sind zusätzliche niedrigschwellige Notfallstrukturen auf dem Land zumindest prüfenswert. Eine klare Ablehnung kann bei ihr Sorge auslösen, dass Lücken zwischen Hausarztpraxis, Rettungsdienst und Klinik bestehen bleiben.",
+      "begruendung_selbst": "Auf dem Papier mag das doppelt aussehen, aber draußen im Dorf zählt, wer überhaupt schnell helfen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege ist kein Markt allein",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP lehnt eine Kommunalisierung der Pflege ab und betont unternehmerische Freiheit sowie private und betriebliche Vorsorge.",
+      "seite": 70,
+      "zitat": "„Eine Kommunalisierung der Pflege lehnen wir ab“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra ist skeptisch gegenüber Rendite-Logik in der Daseinsvorsorge. Bei Pflege im ländlichen Raum erwartet sie verlässliche öffentliche Verantwortung, wenn Marktangebote nicht reichen.",
+      "begruendung_selbst": "Meine alten Patienten brauchen Pflege, auch wenn sich die Tour betriebswirtschaftlich nicht lohnt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Privatisierung macht mich wachsam",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP fordert, Landesbeteiligungen umfassend zu prüfen und eine Privatisierungsoffensive zu starten.",
+      "seite": 9,
+      "zitat": "„Für uns ist Privatisierung kein Unwort“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Aussage betrifft nicht direkt ihre Praxis, widerspricht aber ihrer Grundhaltung, dass Daseinsvorsorge dort staatlich gesichert werden muss, wo sie sich nicht rechnet. Sie würde bei öffentlichen Strukturen mit Versorgungsbezug sehr genau hinschauen.",
+      "begruendung_selbst": "Bei allem Respekt vor Effizienz: Versorgung darf nicht nur nach Rendite sortiert werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Prävention ohne scharfe Werkzeuge",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP lehnt neue erzieherische Verbrauchssteuern, etwa eine Zuckersteuer, ab.",
+      "seite": 9,
+      "zitat": "„gegen die Einführung neuer, erzieherischer Verbrauchssteuern“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Hausärztin in einem Land mit hoher Krankheitslast sieht sie Adipositas und Folgeerkrankungen täglich. Sie muss nicht jede Steuer befürworten, aber die pauschale Absage an solche Präventionsinstrumente wirkt aus ihrer Sicht zu eng.",
+      "begruendung_selbst": "Ich rede jeden Tag über Diabetes und Gewicht. Prävention darf nicht nur aus Broschüren bestehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digital darf nicht zwingen",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die FDP will medienbruchfreie, vollständig digitale Verwaltungsverfahren nach dem Prinzip Digital Only durchsetzen.",
+      "seite": 62,
+      "zitat": "„Digital Only“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra will funktionierende Digitalisierung, kennt aber viele ältere und kranke Menschen mit geringer digitaler Routine. Ein reines Digital-Only-Prinzip kann aus ihrer Sicht neue Hürden schaffen, wenn analoge Hilfe nicht gesichert bleibt.",
+      "begruendung_selbst": "Digital ist gut, aber meine 82-jährige Patientin darf daran nicht scheitern.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra findet im FDP-Programm viele Punkte, die ihre Lage direkt treffen: ambulante Versorgung, weniger Bürokratie, praxistaugliche Telematik, Physician Assistants und bessere ländliche Mobilität. Kritisch bleibt sie dort, wo Marktlogik, Privatisierung oder ein zu hartes Digital-Only-Verständnis die Daseinsvorsorge für ältere und ländliche Patientinnen und Patienten gefährden könnten. Insgesamt überwiegt für sie der praktische Nutzen, weil das Programm den Landarztmangel und die Belastung niedergelassener Praxen ausdrücklich adressiert.",
+    "score": 1
+  }
+}

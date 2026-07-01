@@ -1,0 +1,186 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 67668,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkrieg",
+      "thema": "demokratie",
+      "programmpunkt": "Die FDP will Bürokratielasten für Bürger und Unternehmen deutlich senken, Berichtspflichten vereinfachen oder abschaffen und überflüssige Regeln streichen.",
+      "seite": 7,
+      "zitat": "„Bürokratielasten für Bürger und Unternehmen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike erlebt Buchhaltung, Nachweise und Behördenwege als unverhältnismäßig für eine sehr kleine Selbstständigkeit. Die angekündigte Entlastung trifft einen ihrer stärksten Alltagsnerven.",
+      "begruendung_selbst": "Ich will nicht jede freie Stunde in Formulare kippen, nur damit ich überhaupt arbeiten darf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gründen ohne Zuständigkeitslotto",
+      "thema": "wirtschaft",
+      "programmpunkt": "Gründungen sollen über eine digitale One-Stop-Agency gebündelt und aktiv begleitet werden; junge Unternehmen sollen in den ersten Jahren von Befragungen, Dokumentationspflichten und Zwangsmitgliedschaften entlastet werden.",
+      "seite": 8,
+      "zitat": "„mit einer digitalen One-Stop-Agency“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Solo-Kreative ist sie zwar nicht auf klassische Wachstums-Start-ups festgelegt, aber einfache digitale Gründungs- und Unternehmensprozesse passen zu ihrer Arbeitsrealität. Besonders entlastend wirkt, dass junge kleine Unternehmen weniger Pflichten schultern sollen.",
+      "begruendung_selbst": "Wenn es eine echte Anlaufstelle gibt, verliere ich nicht schon vor dem ersten Auftrag die Nerven.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Steuern bitte einfacher",
+      "thema": "steuern",
+      "programmpunkt": "Die FDP setzt sich für eine Vereinfachung des Steuerrechts ein und will bestimmte Doppelbesteuerungen sowie kleinere Verbrauchsteuern abbauen.",
+      "seite": 9,
+      "zitat": "„für eine Vereinfachung des Steuerrechts“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike hat schwankende Einnahmen und wenig Puffer; komplexe Steuerregeln und Vorausplanungen belasten sie stärker als größere Betriebe mit Steuerabteilungen. Vereinfachung entspricht ihrem Wunsch nach Regeln, die Kleinste nicht überfordern.",
+      "begruendung_selbst": "Ich brauche kein Steuersystem, das sich anfühlt wie ein Nebenjob.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Freie nicht vergessen",
+      "thema": "arbeit",
+      "programmpunkt": "Bei der Aktivrente fordert die FDP ausdrücklich die Gleichbehandlung von Selbstständigen und Freiberuflern beim steuerfreien Zuverdienst.",
+      "seite": 39,
+      "zitat": "„Gleichbehandlung Selbstständiger und Freiberufler“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike reagiert sensibel darauf, wenn Selbstständige in Sozial- und Steuerfragen nur nachrangig mitgedacht werden. Die explizite Gleichbehandlung von Freiberuflern signalisiert ihr, dass ihre Erwerbsform nicht unsichtbar bleibt.",
+      "begruendung_selbst": "Genau darum geht es: Ich bin nicht weniger erwerbstätig, nur weil ich keine Personalabteilung habe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kreativwirtschaft zählt",
+      "thema": "wirtschaft",
+      "programmpunkt": "Kultur wird als wirtschaftlicher Faktor beschrieben; die FDP will Kultur, Kreativwirtschaft sowie Veranstaltungs- und Eventbranche stärker vernetzen.",
+      "seite": 45,
+      "zitat": "„stärkere Vernetzung von Kultur, Kreativwirtschaft“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre Branche wird nicht nur als Freizeitdeko, sondern als Arbeit, Standortfaktor und Auftragsfeld anerkannt. Das passt zu ihrem Bedürfnis, Kreativität als ernsthaften Beruf und wirtschaftliche Leistung verstanden zu sehen.",
+      "begruendung_selbst": "Kreative Arbeit ist Arbeit, nicht nur hübsches Beiwerk für Sonntagsreden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Anträge digital, bitte",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungsleistungen sollen durchgängig digital vom Antrag bis zum Bescheid nutzbar werden, ohne Medienbrüche und Papier.",
+      "seite": 48,
+      "zitat": "„vom Antrag bis zum Bescheid“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike arbeitet digital und ortsunabhängig; Behördenpost, Medienbrüche und Papierwege kosten ihr unmittelbar Arbeitszeit. Durchgängige digitale Verfahren würden ihre Selbstständigkeit praktischer und planbarer machen.",
+      "begruendung_selbst": "Wenn ich Kundenprojekte komplett online steuere, muss ein Antrag nicht am Papier scheitern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung ohne Formularwüste",
+      "thema": "demokratie",
+      "programmpunkt": "Bei Förderungen sollen Prüfungen von Verwendungsnachweisen stärker über Stichproben laufen, statt alle Antragsteller umfassend mit Nachweisen zu belasten.",
+      "seite": 48,
+      "zitat": "„nur noch durch Stichprobenkontrollen abgesichert“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für freie Projekte und kleine Kulturakteure sind Nachweispflichten oft ein Zugangshindernis. Mareike würde eine Förderlogik begrüßen, die Vertrauen und klare Sanktionen bei echten Verstößen verbindet.",
+      "begruendung_selbst": "Kleine Projekte brauchen Luft zum Arbeiten, nicht erst einen Aktenordner zum Atmen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Absicherung ist keine Bevormundung",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP beschreibt den Versuch, Leben möglichst abzusichern, als Treiber von Unfreiheit durch staatliche und verbandliche Vorgaben.",
+      "seite": 46,
+      "zitat": "„so abgesichert wie möglich“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes Kernproblem ist nicht zu viel Schutz, sondern zu wenig Absicherung bei Krankheit, Auftragsflaute und Alter. Wenn Absicherung primär als Unfreiheit gerahmt wird, fühlt sie sich in ihrer Lebenslage missverstanden.",
+      "begruendung_selbst": "Ich will keinen Käfig, ich will nicht abstürzen, wenn ich krank werde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigenverantwortung zahlt keine Miete",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm betont den Weg weg von staatlicher Fürsorge und Bevormundung hin zu mehr Eigenverantwortung und Freiheit.",
+      "seite": 4,
+      "zitat": "„hin zu mehr Eigenverantwortung und Freiheit“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike lebt bereits eigenverantwortlich, trägt aber Risiken ohne betriebliche Sicherung fast allein. Die Formel klingt für sie nach weiterer Risikoübertragung auf Menschen, die ohnehin durch jedes Raster fallen.",
+      "begruendung_selbst": "Ich bin schon eigenverantwortlich genug, ich brauche ein Netz, nicht noch mehr Risiko.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Flaute ist kein Fehlanreiz",
+      "thema": "arbeit",
+      "programmpunkt": "Sozialleistungen sollen stärker nach Fördern und Fordern reformiert werden; bei Pflichtverstößen sollen Sanktionen und Leistungskürzungen konsequent genutzt werden.",
+      "seite": 40,
+      "zitat": "„muss mit Leistungskürzungen rechnen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist nicht gegen Mitwirkung, aber ihre eigene Erfahrung mit unsicheren Aufträgen macht sie empfindlich gegenüber pauschal harter Sanktionslogik. Sie sieht darin die Gefahr, prekäre Lebenslagen als mangelnden Willen zu behandeln.",
+      "begruendung_selbst": "Nicht jede Lücke im Lebenslauf ist Faulheit; manchmal bricht einfach der Markt weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kultur nicht nur effizient machen",
+      "thema": "familie",
+      "programmpunkt": "Öffentliche Kulturförderung wird bejaht, aber ausdrücklich mit Eigeninitiative, Eigeneinnahmen, effizienten Strukturen und Evaluation verbunden.",
+      "seite": 45,
+      "zitat": "„Eigeneinnahmen und effiziente Strukturen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike begrüßt zwar Kulturförderung, hört in der Betonung von Eigeneinnahmen und Effizienz aber die Marktlogik, die kleine freie Szenen oft unter Druck setzt. Für sie fehlt ein klarer Schutz für prekäre Solo-Kreative und KSK-nahe Erwerbsformen.",
+      "begruendung_selbst": "Wenn freie Kultur nur noch Kennzahlen liefern soll, verschwinden die kleinen Experimente zuerst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Private Vorsorge wovon?",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflegeversicherung soll reformiert werden, unter anderem mit kapitalgedecktem Element und stärkeren Anreizen für private sowie betriebliche Vorsorge.",
+      "seite": 70,
+      "zitat": "„Anreize für private sowie betriebliche Vorsorge“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike hat kaum Rücklagen und keine betriebliche Absicherung. Ein stärkerer Fokus auf private oder betriebliche Vorsorge trifft ihre Lücke nicht, sondern macht sichtbar, dass ihre Erwerbsform in solchen Modellen schlecht abgesichert ist.",
+      "begruendung_selbst": "Betriebliche Vorsorge klingt gut, wenn man einen Betrieb hinter sich hat; ich habe nur mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Soziales nicht wegsparen",
+      "thema": "steuern",
+      "programmpunkt": "Für Investitionen aus dem Kernhaushalt fordert die FDP Prioritäten weg von steigenden Sozialausgaben und hin zu Infrastruktur.",
+      "seite": 60,
+      "zitat": "„weg von steigenden Sozialausgaben“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike will weniger Bürokratie, aber keine Politik, die soziale Sicherung grundsätzlich als nachrangige Ausgabenmasse behandelt. Aus ihrer Perspektive brauchen gerade unstete Erwerbsbiografien verlässliche Schutzsysteme, nicht nur Infrastrukturprioritäten.",
+      "begruendung_selbst": "Investitionen sind wichtig, aber soziale Netze sind keine verzichtbare Deko im Haushalt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet im FDP-Programm viele sehr passende Entlastungsversprechen bei Bürokratie, digitaler Verwaltung, Gründung, Steuern und der Anerkennung von Kreativwirtschaft. Gleichzeitig stößt sie sich daran, dass soziale Absicherung häufig als Unfreiheit, Kostenblock oder private Eigenvorsorge gerahmt wird. Für eine Solo-Kreative mit schwankenden Einnahmen bleibt deshalb ein spürbarer Widerspruch: viel Freiheit im Verfahren, aber wenig belastbare Sicherheit im Risiko.",
+    "score": 1
+  }
+}

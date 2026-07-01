@@ -1,0 +1,150 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 80077,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sprit darf nicht doppelt kosten",
+      "thema": "steuern",
+      "programmpunkt": "Die FDP will die Mehrwertsteuer auf Kraftstoffe nur noch auf den Nettopreis vor Energiesteuer und CO2-Abgabe erheben.",
+      "seite": 9,
+      "zitat": "„Mehrwertsteuer auf Kraftstoffe lediglich auf den Nettopreis“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist täglich auf das Auto angewiesen und spürt jede zusätzliche Belastung an der Zapfsäule. Eine Entlastung bei der Besteuerung von Kraftstoffen trifft einen seiner zentralen Kostenpunkte direkt.",
+      "begruendung_selbst": "Ich muss jeden Tag fahren. Wenn der Staat beim Sprit nicht noch Steuer auf Steuer legt, bleibt bei uns zu Hause endlich etwas mehr Luft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will Netzentgelte fairer verteilen und die Belastung der Menschen in Sachsen-Anhalt bei den Stromkosten spürbar senken.",
+      "seite": 14,
+      "zitat": "„für die Menschen in Sachsen-Anhalt spürbar gesenkt werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf hat wenig finanziellen Puffer und achtet neben Sprit auch auf Strom- und Lebenshaltungskosten. Sinkende Netzentgelte passen zu seinem Wunsch nach bezahlbarer Energie statt weiterer Belastung.",
+      "begruendung_selbst": "Bei uns zählt jede Rechnung. Wenn Sachsen-Anhalt Windstrom liefert, will ich nicht auch noch die höheren Netzkosten dafür tragen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industrie braucht günstige Energie",
+      "thema": "energie",
+      "programmpunkt": "Die FDP fordert eine bezahlbare, sichere und klimafreundliche Energieversorgung, damit Deutschland und Sachsen-Anhalt als Industriestandorte wettbewerbsfähig bleiben.",
+      "seite": 14,
+      "zitat": "„Industriestandort Deutschland und Sachsen-Anhalt dauerhaft wettbewerbsfähig hält“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Industriemechaniker verbindet Toralf Energiepreise nicht nur mit der Haushaltsrechnung, sondern auch mit der Sicherheit seines Arbeitsplatzes. Der Fokus auf wettbewerbsfähige Energie für Industrie spricht seine Sorge vor Deindustrialisierung an.",
+      "begruendung_selbst": "Mein Job hängt daran, dass hier noch produziert wird. Ohne bezahlbare Energie macht die Firma irgendwann dicht oder verlagert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz ohne Bevormundung",
+      "thema": "klima",
+      "programmpunkt": "Die FDP stellt Klimapolitik marktwirtschaftlich und technologieoffen dar und warnt vor Verboten und teuren Symbolmaßnahmen.",
+      "seite": 23,
+      "zitat": "„nicht in Bevormundung, Verboten und teuren Symbolmaßnahmen abgleiten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist nicht grundsätzlich gegen Umweltschutz, lehnt aber Politik ab, die seine Autoabhängigkeit verteuert, ohne Alternativen zu bieten. Die Formulierung trifft sein Bedürfnis nach Realismus und Fairness in der Verkehrswende.",
+      "begruendung_selbst": "Ich habe nichts gegen Klimaschutz. Aber ich will nicht bestraft werden, weil hier kein brauchbarer Bus fährt und ich trotzdem zur Schicht muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Straßen statt Flickwerk",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP will Landes- und Kreisstraßen grundhaft sanieren, weiter neu bauen, wenn es Nutzen bringt, und wichtige Autobahnprojekte vorantreiben.",
+      "seite": 71,
+      "zitat": "„Landes- und Kreisstraßen sollten dabei in erster Linie grundhaft saniert“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf verbringt täglich viel Zeit auf Straßen und braucht verlässliche Infrastruktur. Grundhafte Sanierung und erreichbare Autobahnen sprechen direkt seinen Arbeitsweg und seine Abhängigkeit vom Auto an.",
+      "begruendung_selbst": "Ich fahre die Straßen jeden Tag, nicht nur am Wochenende. Ordentlich sanieren hilft mir mehr als das nächste Provisorium.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich ehrlich zum Auto",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP erkennt ausdrücklich an, dass außerhalb der Städte für viele Menschen das Auto das wichtigste Verkehrsmittel bleibt.",
+      "seite": 72,
+      "zitat": "„das Auto die Mobilität der Wahl“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fühlt sich von städtisch geprägter Verkehrspolitik oft übergangen. Die Aussage bestätigt seine Lebensrealität im Dorf und wertet sein Auto nicht als Luxus, sondern als notwendiges Arbeitsmittel.",
+      "begruendung_selbst": "Genau darum geht es: Für mich ist das Auto keine Spielerei, sondern der Weg zur Arbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Busse, die wirklich fahren",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP will das Landes-Bus-Netz ausbauen und im ländlichen Raum flexible Angebote wie On-Demand-Shuttles, Rufbusse und autonome Kleinbusse modernisieren.",
+      "seite": 73,
+      "zitat": "„modernisieren Angebote im ländlichen Raum“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf kann aktuell nicht zuverlässig auf den ÖPNV umsteigen. Bessere ländliche Angebote würden seine Familie entlasten und könnten langfristig echte Alternativen schaffen, wenn sie zu Schichtzeiten passen.",
+      "begruendung_selbst": "Wenn ein Bus wirklich fährt, wenn man ihn braucht, bin ich der Letzte, der nein sagt. Aber er muss hier draußen auch ankommen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht am Lohn sparen",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will das Tariftreue- und Vergabegesetz schnellstmöglich abschaffen.",
+      "seite": 7,
+      "zitat": "„Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf denkt arbeitnehmerorientiert und erwartet Fairness gegenüber Menschen, die anpacken. Eine Abschaffung von Tariftreue bei öffentlichen Aufträgen kann er als Signal verstehen, dass am Ende Beschäftigte über niedrigere Standards den Preis zahlen.",
+      "begruendung_selbst": "Bürokratie weg, ja. Aber bei Leuten, die ordentlich arbeiten, darf man nicht zuerst am Lohn und an fairen Regeln kürzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sonntag gehört der Familie",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will Ladenöffnungszeiten vollständig liberalisieren und Sonntags- sowie Feiertagsöffnungen größtmöglich ausweiten.",
+      "seite": 8,
+      "zitat": "„Ausweitung der Sonntagsöffnungen sowie Öffnungen an Feiertagen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf kennt Schichtarbeit und weiß, wie wertvoll gemeinsame freie Zeit mit Familie und Kindern ist. Eine starke Ausweitung von Sonn- und Feiertagsarbeit wirkt für ihn nicht wie Entlastung arbeitender Familien.",
+      "begruendung_selbst": "Ich arbeite selbst Schicht und weiß, was das mit der Familie macht. Noch mehr Wochenendarbeit ist für viele kein Fortschritt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erst der tägliche Weg",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP will öffentliche Mittel auf eine schnelle und attraktive Schienenanbindung zum Flughafen Leipzig/Halle konzentrieren.",
+      "seite": 75,
+      "zitat": "„zum Flughafenbahnhof Leipzig/Halle ermöglichen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf bewertet Verkehrspolitik zuerst nach seinem täglichen Arbeitsweg im ländlichen Raum. Eine Flughafenanbindung für Geschäftsreisende und Touristen kann bei ihm den Eindruck verstärken, dass entfernte Mobilitätsprojekte schneller Priorität bekommen als Dorfpendler.",
+      "begruendung_selbst": "Schön für Geschäftsreisende, aber ich muss jeden Morgen zur Schicht. Erst sollen die Wege funktionieren, die wir jeden Tag brauchen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet im FDP-Programm viele Punkte, die seine Lage als autoabhängiger Pendler und Industriearbeiter direkt treffen: niedrigere Kraftstoff- und Strombelastungen, technologieoffene Klimapolitik, bessere Straßen und ein realistischer Blick auf das Auto im ländlichen Raum. Auch der Ausbau ländlicher ÖPNV-Angebote spricht ihn an, solange daraus echte Alternativen entstehen. Kritisch sieht er einzelne arbeitsmarktpolitische Liberalisierungen und Prioritäten, die aus seiner Sicht Familien- und Pendleralltag weniger ernst nehmen.",
+    "score": 2
+  }
+}

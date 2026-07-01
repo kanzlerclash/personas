@@ -1,0 +1,174 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 56603,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Stromkosten",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will Netzentgelte fairer zwischen Regionen verteilen und die Belastung in Sachsen-Anhalt spürbar senken.",
+      "seite": 14,
+      "zitat": "„Netzentgelte müssen daher zwischen den Regionen fairer verteilt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny arbeitet in einer Region, die viel Windstrom erzeugt und dennoch hohe Netzkosten trägt. Eine Senkung und fairere Verteilung passt zu seinem Interesse an bezahlbarer Energie und wettbewerbsfähiger Industrie vor Ort.",
+      "begruendung_selbst": "Wenn wir hier den Strom liefern, darf die Region nicht auch noch die Zeche allein zahlen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Technologieoffen, so muss das",
+      "thema": "energie",
+      "programmpunkt": "Die FDP fordert einen breiten Energiemix, Speicher, Netzausbau, SMR-Prüfung und heimisches Fracking-Gas statt Festlegung auf einzelne Technologien.",
+      "seite": 14,
+      "zitat": "„fordern wir echte Technologieoffenheit“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny bewertet Energiepolitik danach, ob sie Versorgungssicherheit und realistische Brücken schafft. Die ausdrücklich technologieoffene Linie bestätigt seine Ablehnung pauschaler Verbote.",
+      "begruendung_selbst": "Ich will keine Scheuklappen. Speicher, Netze, Gas, neue Technik: Hauptsache, es trägt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CCS ist eine Brücke",
+      "thema": "klima",
+      "programmpunkt": "Die FDP will Onshore-CCS in Sachsen-Anhalt ermöglichen und Modellregionen mit Forschung, Industrie und Kommunen entwickeln.",
+      "seite": 23,
+      "zitat": "„Onshore-CCS endlich als Chance für unsere Wirtschaft ermöglichen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "CCS ist für Ronny kein abstraktes Klimathema, sondern ein mögliches Werkzeug für Industriearbeitsplätze in einer Strukturwandelregion. Die Pilotregionen mit Industrie- und Kommunalbezug sprechen seine Hoffnung auf planbaren Wandel direkt an.",
+      "begruendung_selbst": "Genau das meine ich: CO2 runter, aber die Industrie nicht einfach abschalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leuna als Zukunftsort",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP schlägt Sonderwirtschaftszonen unter anderem am Chemiestandort Leuna vor, um Neuansiedlungen schneller zu ermöglichen.",
+      "seite": 7,
+      "zitat": "„sowie den Chemiestandort Leuna vor“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny will, dass Strukturwandelregionen nicht zur verlängerten Werkbank werden, sondern neue Industrie anziehen. Ein beschleunigter Ansiedlungsraum an einem starken Industriestandort wirkt aus seiner Sicht wie ein konkreter Hebel.",
+      "begruendung_selbst": "Wenn Leuna Tempo bekommt, reden wir endlich über echte Jobs statt nur über Förderbescheide.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wertschöpfung bleibt hier",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP will Rohstoffe wie Lithium, Schiefergas und Braunkohle in Sachsen-Anhalt verantwortungsvoll nutzbar machen.",
+      "seite": 10,
+      "zitat": "„Braunkohle verantwortungsvoll nutzbar machen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Ronny zählt, ob vorhandene Stärken seiner Region in neue Wertschöpfung übersetzt werden. Die Verbindung von heimischen Rohstoffen, Verarbeitung und Kreislaufwirtschaft entspricht seinem Wunsch nach industrieller Perspektive vor Ort.",
+      "begruendung_selbst": "Wir haben hier Ressourcen und Leute mit Erfahrung. Daraus muss Zukunft werden, nicht Abwicklung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Facharbeiter zählen endlich",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will berufliche Bildung, duale Ausbildung und gut ausgebildete Facharbeiter stärken, die im Land bleiben.",
+      "seite": 34,
+      "zitat": "„gut ausgebildete Facharbeiter, die hier im Land bleiben“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny kommt aus einer technischen Arbeitswelt und misst Strukturwandel an qualifizierter Beschäftigung. Die Betonung von Facharbeitern und dualer Ausbildung trifft seinen Respekt vor praktischer Industriekompetenz.",
+      "begruendung_selbst": "Nicht jeder muss wegstudieren. Wir brauchen Leute, die Anlagen bauen, fahren und warten können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Forschung an die Industrie",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP will Forschungsschwerpunkte mit regional starken Industriezweigen verknüpfen und den Wissens- und Technologietransfer stärken.",
+      "seite": 36,
+      "zitat": "„Verknüpfung zu regional starken Industriezweigen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny hofft auf neue Industrie statt reiner Abwanderungsverwaltung. Hochschul- und Forschungspolitik, die regionale Industriezweige stärkt, passt zu seinem Wunsch nach Innovation mit Bodenhaftung.",
+      "begruendung_selbst": "Forschung bringt mir was, wenn daraus Anlagen, Aufträge und Jobs in der Region werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nahverkehr hält Regionen",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP will das Landes-Bus-Netz und moderne Angebote im ländlichen Raum ausbauen.",
+      "seite": 73,
+      "zitat": "„modernisieren Angebote im ländlichen Raum“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny ist mit Familie an eine strukturschwache Region gebunden. Bessere Erreichbarkeit stärkt Standortqualität und hilft, Fachkräfte und junge Menschen in der Region zu halten.",
+      "begruendung_selbst": "Wenn Bus und Bahn verlässlich sind, bleibt ein Ort für Familien und Betriebe lebbar.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Gute Arbeit nicht schleifen",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will das Tariftreue- und Vergabegesetz abschaffen.",
+      "seite": 7,
+      "zitat": "„Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny will neue Arbeitsplätze, aber nicht um den Preis unsicherer oder schlechter bezahlter Arbeit. Die Abschaffung von Tariftreue-Sicherung wirkt für ihn wie ein Risiko, dass Strukturwandel zwar Jobs bringt, aber weniger verlässliche Qualität.",
+      "begruendung_selbst": "Neue Jobs sind gut. Aber sie müssen Familien tragen und nicht nur billig ausgeschrieben sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Steuerung nicht verkaufen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP fordert eine umfassende Privatisierungsoffensive für Landesbeteiligungen.",
+      "seite": 9,
+      "zitat": "„eine umfassende Privatisierungsoffensive zu starten“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny ist nicht staatsgläubig, aber in Strukturwandelregionen zählt für ihn verlässliche regionale Steuerung. Eine breite Privatisierung kann aus seiner Sicht die Handlungsfähigkeit des Landes schwächen, wenn Infrastruktur, Standortpolitik oder Beschäftigung betroffen sind.",
+      "begruendung_selbst": "Bei Zukunftsfragen darf das Land nicht alles aus der Hand geben und später nur zuschauen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht nur Kernkraft-Träume",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will ein deutsches Neubauprogramm für moderne Kernenergieanlagen inklusive SMR und Hochtemperaturreaktoren.",
+      "seite": 15,
+      "zitat": "„ein deutsches Neubauprogramm für moderne Kernenergieanlagen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny ist technologieoffen, aber er braucht planbare Brücken für die nächsten Jahre in Kohle-, Gas- und Netzregionen. Ein großer Fokus auf neue Kernenergie kann für ihn nach einem sehr langfristigen Projekt klingen, während konkrete Übergänge für bestehende Belegschaften weniger klar werden.",
+      "begruendung_selbst": "Prüfen ja. Aber meine Region braucht jetzt Ersatzpfade, nicht nur Reaktoren auf dem Papier.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Billigzone macht Bauchweh",
+      "thema": "wirtschaft",
+      "programmpunkt": "In Sonderwirtschaftszonen sollen für Produktionsbetriebe viele Berichtspflichten und Vorschriften wegfallen sowie Steuern stark sinken.",
+      "seite": 7,
+      "zitat": "„Steuern werden vollständig erlassen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny begrüßt Tempo bei Ansiedlungen, aber eine sehr weitgehende Sonderzone kann für ihn nach Standortwettbewerb über Kosten statt über Qualität klingen. Für eine Strukturwandelregion ist entscheidend, dass neue Industrie dauerhaft trägt und öffentliche Infrastruktur mitfinanziert.",
+      "begruendung_selbst": "Tempo gern. Aber eine Zukunftsregion darf nicht nur mit Null-Steuern und Sonderregeln locken.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet im FDP-Programm viele Punkte, die seine Lage direkt bestätigen: Technologieoffenheit, niedrigere Netzentgelte, CCS, heimische Energiequellen, Industrieansiedlung und Fachkräftepolitik. Besonders stark ist für ihn, dass Strukturwandel als wirtschaftliche und technische Aufgabe beschrieben wird, nicht nur als Ausstieg. Kritisch sieht er, dass Tariftreue, breite Privatisierung und sehr weitgehende Sonderzonen die Qualität und Steuerbarkeit des Wandels schwächen könnten.",
+    "score": 2
+  }
+}

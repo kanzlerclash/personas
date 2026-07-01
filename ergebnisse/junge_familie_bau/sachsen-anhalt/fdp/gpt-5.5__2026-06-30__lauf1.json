@@ -1,0 +1,162 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 51032,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Kaufnebenkosten",
+      "thema": "steuern",
+      "programmpunkt": "Die FDP will sich fuer einen Grunderwerbsteuer-Freibetrag beim erstmaligen Erwerb selbstgenutzten Wohneigentums einsetzen.",
+      "seite": 12,
+      "zitat": "Grunderwerbsteuer-Freibetrag für den erstmaligen Erwerb selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica scheitern beim Hauskauf vor allem am Eigenkapitalbedarf. Ein Freibetrag bei der Grunderwerbsteuer trifft genau die Kaufnebenkosten, die fuer junge Familien den Einstieg erschweren.",
+      "begruendung_selbst": "Wenn bei der Grunderwerbsteuer endlich Luft reinkommt, bleibt unser Erspartes nicht komplett bei den Nebenkosten haengen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Darlehen, die Familien sehen",
+      "thema": "wohnen",
+      "programmpunkt": "Das bestehende Eigentumsfoerderprogramm soll mit zinsverguenstigten Darlehen und familienbezogenen Aufstockungen verbunden werden.",
+      "seite": 12,
+      "zitat": "zinsvergünstigte Darlehen und familienbezogene Aufstockungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona rechnet konkret mit Zinsen, Monatsrate und Eigenkapital. Zinsguenstige Darlehen plus Familienaufschlag wuerden ihren Finanzierungsspielraum unmittelbar verbessern.",
+      "begruendung_selbst": "Wir brauchen keine Sonntagsrede, sondern eine Rate, die mit zwei Gehaeltern und Kind wirklich tragbar ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauantrag ohne Papierkrieg",
+      "thema": "wohnen",
+      "programmpunkt": "Bauantraege und Genehmigungen sollen digital, durchgaengig und verlaesslich schneller abgewickelt werden.",
+      "seite": 13,
+      "zitat": "durchgängige, verlässliche digitale Genehmigungskette",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Beim Bauen zaehlen fuer Tom und Jessica Zeit, Planbarkeit und weniger Zusatzkosten. Schnellere digitale Verfahren passen zu ihrer Enttaeuschung ueber langsame Bau- und Verwaltungspolitik.",
+      "begruendung_selbst": "Wenn wir bauen, wollen wir nicht monatelang wegen Formularen in der Luft haengen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Betreuung passend zum Job",
+      "thema": "familie",
+      "programmpunkt": "Die FDP will Gemeinschaftsbueros mit Kinderbetreuung und mobile Betreuungsreserven erproben, um Beruf und Familie flexibler zu verbinden.",
+      "seite": 26,
+      "zitat": "Gemeinschaftsbüros mit Kinderbetreuung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener mit Kleinkind brauchen Tom und Jessica verlaessliche Betreuung, auch wenn Arbeitszeiten nicht perfekt zu Kita-Zeiten passen. Der Ansatz adressiert ihre Vereinbarkeitsfrage direkt.",
+      "begruendung_selbst": "Wir arbeiten beide; Betreuung muss zu unserem Alltag passen, nicht nur umgekehrt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Erzieher, weniger Akten",
+      "thema": "familie",
+      "programmpunkt": "Erzieher sollen entlastet, der Betreuungsschluessel weiter angepasst und auch unterstuetzendes Personal eingesetzt werden.",
+      "seite": 27,
+      "zitat": "weitere Anpassung des Betreuungsschlüssels",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein Kita-Platz hilft der Familie nur, wenn Betreuung verlaesslich und qualitativ gut ist. Bessere Schluessel und Entlastung der Fachkraefte staerken genau diese Alltagssicherheit.",
+      "begruendung_selbst": "Ein Platz allein reicht nicht, wenn die Kita staendig am Limit laeuft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom darf nicht alles fressen",
+      "thema": "energie",
+      "programmpunkt": "Netzentgelte und Energieabgaben sollen fuer Sachsen-Anhalt fairer verteilt, einfacher gestaltet und spuerbar gesenkt werden.",
+      "seite": 14,
+      "zitat": "für die Menschen in Sachsen-Anhalt spürbar gesenkt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiepreise belasten die Mietwohnung heute und ein spaeteres Eigenheim noch staerker. Eine spuerbare Senkung passt zu ihrer Sorge, dass laufende Kosten die Finanzierung auffressen.",
+      "begruendung_selbst": "Bei Strom und Heizung merken wir jeden Euro, vor allem wenn irgendwann ein Haus dazukommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigenheim bleibt erlaubt",
+      "thema": "wohnen",
+      "programmpunkt": "Bei der Landesentwicklung betont die FDP Innenentwicklung, will den Eigenheimbau aber nicht blockieren.",
+      "seite": 63,
+      "zitat": "wenn Menschen ihren Traum vom Eigenheimbau leben wollen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona reagiert allergisch auf eigentumsskeptische Politik. Die ausdrueckliche Offenheit fuer den Eigenheimbau bestaetigt ihren Wunsch nach eigenen vier Waenden.",
+      "begruendung_selbst": "Gut, dass unser Hauswunsch nicht gleich als Problem behandelt wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umland braucht Anschluss",
+      "thema": "verkehr",
+      "programmpunkt": "Strassen, Kreisstadt- und Autobahnerreichbarkeit sowie der OePNV im laendlichen Raum sollen ausgebaut werden.",
+      "seite": 71,
+      "zitat": "Niemand soll länger als 30 Minuten bis zur Kreisstadt brauchen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica leben im Speckguertel und pendeln. Bessere Erreichbarkeit zu Stadt, Autobahn und Versorgung macht Wohnen ausserhalb der Stadt praktikabler.",
+      "begruendung_selbst": "Wenn wir rausziehen, duerfen Kita, Arbeit und Arzt nicht zur Tagesreise werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bitte nicht wieder Bauland bremsen",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP gibt der Innenentwicklung Vorrang vor zusaetzlichem Flaechenverbrauch.",
+      "seite": 63,
+      "zitat": "Innenentwicklung hat für uns Vorrang vor zusätzlichem Flächenverbrauch",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl das Programm Eigenheimbau nicht blockieren will, kann der Vorrang fuer Innenentwicklung bei Tom und Jessica Sorge ausloesen. Ihre Lage ist davon gepraegt, dass knappes Bauland im Umland die Preise treibt.",
+      "begruendung_selbst": "Innenentwicklung klingt vernuenftig, aber wenn dadurch wieder kaum Bauplaetze kommen, hilft uns das nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita-Gebuehren bleiben offen",
+      "thema": "familie",
+      "programmpunkt": "Die FDP nennt Beitragsstabilitaet als Ziel, stellt aber Qualitaet ausdruecklich vor niedrigere oder stabile Beitraege.",
+      "seite": 25,
+      "zitat": "Beitragsstabilität bleibt ein Ziel",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Familie spuert Kita-Kosten direkt in der Sparrate fuers Eigenkapital. Dass Beitragsstabilitaet nur als Ziel formuliert wird, bietet ihr weniger konkrete Entlastung als bei Eigentum und Verkehr.",
+      "begruendung_selbst": "Qualitaet ist wichtig, aber unsere Kita-Rechnung verschwindet dadurch nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Finger weg vom Geschwisterrabatt",
+      "thema": "familie",
+      "programmpunkt": "Die FDP will Fehlanreize in der Geschwisterkindregelung aufloesen, ohne die Regelung abzuschaffen.",
+      "seite": 27,
+      "zitat": "Fehlanreize in der Geschwisterkindregelung auflösen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Fuer ein Paar mit Kleinkind und denkbarem zweitem Kind klingt jede Aenderung an der Geschwisterkindregelung finanziell sensibel. Auch wenn keine Abschaffung geplant ist, bleibt unklar, ob Familien mit mehreren Kindern am Ende weniger entlastet werden.",
+      "begruendung_selbst": "Wenn wir ein zweites Kind bekommen, darf die Entlastung nicht durch die Hintertuer kleiner werden.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica wuerden im FDP-Programm viele direkte Anknuepfungspunkte fuer ihren Eigenheimtraum finden: Grunderwerbsteuer-Freibetrag, zinsguenstige Darlehen, digitale Bauverfahren und eine eigentumsfreundliche Sprache. Auch flexible Kinderbetreuung, niedrigere Energiekosten und bessere Pendelanbindung passen gut zu ihrer Lebenslage. Kritisch blieben fuer sie vor allem unklare Entlastung bei Kita-Beitraegen, moegliche Aenderungen an der Geschwisterkindregelung und der Vorrang der Innenentwicklung, falls dadurch Bauland knapp bleibt.",
+    "score": 2
+  }
+}

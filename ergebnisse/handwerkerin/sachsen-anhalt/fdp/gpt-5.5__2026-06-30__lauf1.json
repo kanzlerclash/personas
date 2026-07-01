@@ -1,0 +1,198 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 79488,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Aktenordner",
+      "thema": "demokratie",
+      "programmpunkt": "Die FDP will Bürokratielasten für Bürger und Unternehmen senken, Berichtspflichten vereinfachen oder abschaffen und Genehmigungen beschleunigen.",
+      "seite": 7,
+      "zitat": "Bürokratielasten für Bürger und Unternehmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt nach Feierabend viel Zeit mit Formularen und Nachweisen. Ein Bürokratieabbau, der ausdrücklich Handwerksmeister und kleine Unternehmen nennt, trifft ihren wichtigsten Alltagsärger direkt.",
+      "begruendung_selbst": "Ich will Angebote schreiben und Leute einteilen, nicht abends am Küchentisch Formulare sortieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verlässliche Bescheide, bitte",
+      "thema": "demokratie",
+      "programmpunkt": "Zentrale Genehmigungen sollen feste Entscheidungsfristen bekommen und online nachvollziehbar sein; Fristüberschreitungen sollen Investitionen nicht blockieren.",
+      "seite": 48,
+      "zitat": "Für zentrale Genehmigungen gelten verbindliche Entscheidungsfristen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Sabines Betrieb zählen planbare Bau- und Förderverfahren, weil Aufträge, Material und Personal vorfinanziert werden müssen. Verbindliche Fristen passen zu ihrem Wunsch nach Regeln, auf die sie sich verlassen kann.",
+      "begruendung_selbst": "Sag mir, wann entschieden wird, dann kann ich auch meine Baustellen vernünftig planen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom darf nicht fressen",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will Netzentgelte fairer verteilen und für Sachsen-Anhalt senken sowie Umlagen und Abgaben bündeln.",
+      "seite": 14,
+      "zitat": "Netzentgelte müssen daher zwischen den Regionen fairer verteilt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiekosten belasten Sabines Werkstatt, Fuhrpark und Kalkulation. Eine Entlastung bei Netzentgelten und Abgaben entspricht ihrem Interesse an bezahlbarer Energie für den Betrieb.",
+      "begruendung_selbst": "Wenn Strom und Abgaben ständig steigen, kann ich das nicht einfach wegzaubern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Azubis statt Akademikerwahn",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will berufliche Bildung sichtbarer machen, duale Ausbildung modernisieren und Berufsorientierung stärker auf Handwerk, Industrie und Mittelstand richten.",
+      "seite": 34,
+      "zitat": "Chancen in Handwerk, Industrie und Mittelstand offensiv zeigt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine sucht Nachwuchs und fühlt sich mit dem Handwerk oft weniger wertgeschätzt als akademische Laufbahnen. Mehr Berufsorientierung und Respekt für duale Ausbildung sprechen ihren Fachkräftebedarf direkt an.",
+      "begruendung_selbst": "Ich brauche junge Leute, die sehen: Mit einer Ausbildung kann man richtig was werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte schneller rein",
+      "thema": "integration",
+      "programmpunkt": "Arbeitsmarktzuwanderung soll regulär, kontrolliert und unbürokratischer werden; ausländische Qualifikationen sollen schneller anerkannt werden.",
+      "seite": 10,
+      "zitat": "ausländische Qualifikationen schneller anerkannt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihr Betrieb findet schwer Gesellen und Azubis. Schnellere Anerkennung und ein leichterer Arbeitsmarktzugang können für sie praktisch helfen, solange Arbeit und Integration im Vordergrund stehen.",
+      "begruendung_selbst": "Wenn jemand arbeiten kann und will, soll er nicht monatelang in Behörden hängen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digital bis zum Bescheid",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungsleistungen sollen durchgängig digital vom Antrag bis zum Bescheid funktionieren, ohne Medienbrüche und Papier.",
+      "seite": 48,
+      "zitat": "vom Antrag bis zum Bescheid, ohne Medienbrüche und ohne Papier",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine will Anträge und Nachweise schneller erledigen, ohne zwischen Papier, E-Mail und Portalen zu springen. Eine durchgängige digitale Verwaltung würde ihre Büroarbeit spürbar reduzieren.",
+      "begruendung_selbst": "Wenn digital, dann bitte richtig: einmal eingeben und fertig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanieren muss sich rechnen",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP will eine dauerhafte Modernisierungs-Abschreibung für energetische Sanierungen und barrierereduzierende Maßnahmen im Bestand anstoßen.",
+      "seite": 13,
+      "zitat": "steuerliche Investitionsanreize statt auf Förderbürokratie",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als SHK-Meisterin lebt Sabine von planbaren Modernisierungsaufträgen im Gebäudebestand. Steuerliche Anreize statt schwer durchschaubarer Förderprogramme passen zu ihrem Wunsch nach stabileren Aufträgen und weniger Förderchaos.",
+      "begruendung_selbst": "Wenn Kunden rechnen können, ob sich Modernisierung lohnt, kommen auch die Aufträge wieder.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arbeit muss sich lohnen",
+      "thema": "steuern",
+      "programmpunkt": "Die FDP will Einkommensteuer senken und Überstunden steuerfrei stellen.",
+      "seite": 40,
+      "zitat": "jede Überstunde steuerfrei stellen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine sieht Leistung und Einsatz als zentrale Werte, auch bei ihren Beschäftigten. Steuerfreie Überstunden bestätigen ihre Haltung, dass Mehrarbeit spürbar belohnt werden sollte.",
+      "begruendung_selbst": "Wer nach Feierabend noch anpackt, soll davon auch was im Portemonnaie sehen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Vergabe darf nicht verramschen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP will das Tariftreue- und Vergabegesetz schnellstmöglich abschaffen.",
+      "seite": 7,
+      "zitat": "Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine will weniger Vergabebürokratie, aber auch faire Ausschreibungen, bei denen Betriebe mit ordentlich bezahlten Beschäftigten nicht gegen Dumpingangebote verlieren. Eine pauschale Abschaffung kann bei ihr Sorge auslösen, dass Qualität und faire Löhne in öffentlichen Aufträgen zu wenig zählen.",
+      "begruendung_selbst": "Weniger Papier ja, aber öffentliche Aufträge dürfen nicht nur an den Billigsten gehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Große kriegen Sonderwege",
+      "thema": "wirtschaft",
+      "programmpunkt": "In Sonderwirtschaftszonen sollen für bestimmte Ansiedlungen Genehmigungen gebündelt, Berichtspflichten gestrichen und Steuern erlassen oder abgesenkt werden.",
+      "seite": 7,
+      "zitat": "Steuern werden vollständig erlassen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine fühlt sich gegenüber großen Unternehmen benachteiligt, die ohnehin mehr Lobby und Verwaltungskapazität haben. Sonderzonen für Intel-Flächen oder Leuna wirken aus ihrer Sicht wie ein Extratarif für Große, während ihr Handwerksbetrieb normale Pflichten trägt.",
+      "begruendung_selbst": "Warum bekommen die Großen Sonderregeln, während ich jede Abgabe pünktlich zahlen muss?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sonntag ist kein Puffer",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will das Ladenöffnungszeitengesetz vollständig liberalisieren und Sonntags- sowie Feiertagsöffnungen stark ausweiten.",
+      "seite": 8,
+      "zitat": "größtmögliche Ausweitung der Sonntagsöffnungen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine arbeitet selbst viel und kennt den Druck kleiner Betriebe, immer verfügbar zu sein. Für Beschäftigte und kleine Händler kann eine starke Ausweitung der Sonntagsöffnung zusätzlichen Personal- und Wettbewerbsdruck bedeuten.",
+      "begruendung_selbst": "Irgendwann muss auch im kleinen Betrieb mal Schluss sein, sonst brennen die Leute aus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht noch ein Pflichtportal",
+      "thema": "digitalisierung",
+      "programmpunkt": "Digital verfügbare Verwaltungsleistungen sollen künftig ausschließlich digital angeboten werden können; Postweg oder E-Mail würden entfallen.",
+      "seite": 49,
+      "zitat": "der Postweg oder die E-Mail entfällt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine will digitale Verwaltung, aber keine starren Toolpflichten, die bei schlechten Portalen nur neue Reibung erzeugen. Wenn E-Mail und Post wegfallen, muss das System zuverlässig sein; sonst wird Digitalisierung zur nächsten Vorschrift.",
+      "begruendung_selbst": "Digital ist gut, aber ich will nicht im dritten Portal hängen, wenn die Baustelle wartet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sprachkurse nicht ausbremsen",
+      "thema": "integration",
+      "programmpunkt": "Sprachkurse sollen vorrangig für Selbstzahler oder Personen mit eigenem Eigenanteil angeboten werden.",
+      "seite": 11,
+      "zitat": "Sprachkurse sollen vorrangig für Selbstzahler",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine braucht Fachkräfte, die schnell arbeitsfähig werden und Kundinnen sowie Kunden verstehen. Wenn Sprachkurse vor allem an Selbstzahlung hängen, kann das gerade arbeitswillige Zuwanderer bremsen, die ihr Betrieb gebrauchen könnte.",
+      "begruendung_selbst": "Deutsch auf der Baustelle ist wichtig, also darf der Kurs nicht am Geldbeutel scheitern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energie braucht Alltagstempo",
+      "thema": "energie",
+      "programmpunkt": "Die FDP setzt stark auf neue Kernenergieprojekte und will Mittel auch für vorbereitende Infrastruktur solcher Projekte nutzbar machen.",
+      "seite": 14,
+      "zitat": "vorbereitende Infrastruktur neuer Kernenergieprojekte nutzbar machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine braucht kurzfristig bezahlbare Energie und verlässliche Regeln für konkrete Heizungsentscheidungen ihrer Kundschaft. Langfristige Kernenergieprojekte können ihr zu weit weg vom praktischen Tagesgeschäft erscheinen, wenn akute Preis- und Regelprobleme ungelöst bleiben.",
+      "begruendung_selbst": "Meine Kunden entscheiden jetzt über Heizungen, nicht irgendwann nach einem Großprojekt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet im FDP-Programm sehr viele Punkte, die ihre Lage als mittelständische Handwerksmeisterin direkt treffen: Bürokratieabbau, planbare Genehmigungen, digitale Verwaltung, Fachkräftegewinnung und Wertschätzung der dualen Ausbildung. Kritisch sieht sie Stellen, an denen faire Vergabe, Gleichbehandlung kleiner Betriebe oder praxistaugliche Umsetzung aus ihrer Sicht zu kurz kommen. Insgesamt überwiegt für sie klar die Resonanz, weil das Programm ihre Kernfrustrationen ausdrücklich adressiert.",
+    "score": 2
+  }
+}

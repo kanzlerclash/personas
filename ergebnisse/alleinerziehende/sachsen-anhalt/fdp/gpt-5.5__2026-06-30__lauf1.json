@@ -1,0 +1,198 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 74464,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Betreuung, die zum Job passt",
+      "thema": "familie",
+      "programmpunkt": "Die FDP will flexible Kita-Öffnungszeiten nach tatsächlichem Bedarf und damit Betreuung stärker am Alltag von Familien ausrichten.",
+      "seite": 25,
+      "zitat": "flexiblen Öffnungszeiten nach tatsächlichem Bedarf",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine ist auf verlässliche Betreuungszeiten angewiesen, weil ihre Erwerbsarbeit sonst dauerhaft in Teilzeit und Aufstockung festhängt. Der Punkt trifft ihren zentralen Wunsch, arbeiten zu können, ohne ständig an Kita- und Hortzeiten zu scheitern.",
+      "begruendung_selbst": "Genau das brauche ich: Betreuung, die zu echten Arbeitszeiten passt, nicht nur zu einem perfekten Stundenplan auf Papier.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht allein, wenn’s klemmt",
+      "thema": "familie",
+      "programmpunkt": "Ein Modellprojekt soll Gemeinschaftsbüros mit Kinderbetreuung sowie mobile Betreuungsreserven fördern, die kurzfristig bei Arbeitszeiten außerhalb normaler Kita-Zeiten helfen.",
+      "seite": 26,
+      "zitat": "Gemeinschaftsbüros mit Kinderbetreuung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für eine Alleinerziehende ohne viel Unterstützung ist kurzfristige Betreuung oft der Unterschied zwischen Arbeit schaffen und ausfallen müssen. Nadine würde daran schätzen, dass das Programm nicht nur abstrakt Vereinbarkeit fordert, sondern einen konkreten Notfallpuffer beschreibt.",
+      "begruendung_selbst": "Wenn mal eine Schicht länger geht oder die Kita zu ist, brauche ich nicht Sprüche, sondern jemanden, der wirklich einspringt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Hände für meine Kinder",
+      "thema": "familie",
+      "programmpunkt": "Die FDP fordert einen besseren Betreuungsschlüssel und will zusätzlich unterstützendes Personal in Kitas einsetzen.",
+      "seite": 27,
+      "zitat": "weitere Anpassung des Betreuungsschlüssels",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine bewertet Kitas nicht nur als Aufbewahrung, sondern als frühe Förderung für ihre Kinder. Ein besserer Schlüssel und unterstützendes Personal sprechen ihre Sorge an, dass überlastete Einrichtungen ihren Kindern nicht gerecht werden.",
+      "begruendung_selbst": "Meine Kinder sollen nicht einfach irgendwie mitlaufen. Wenn mehr Personal da ist, sieht auch jemand, was sie brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schulen brauchen echte Hilfe",
+      "thema": "bildung",
+      "programmpunkt": "Lehrkräfte sollen durch Schulsozialarbeit, Schulpsychologie, Verwaltungskräfte und IT-Unterstützung entlastet werden, damit verlässlicher Unterricht und Förderung möglich werden.",
+      "seite": 31,
+      "zitat": "mehr verlässlichen Unterricht erleben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines achtjähriges Kind ist auf stabile Schule und Förderung angewiesen, weil sie zu Hause wenig Zeit und Geld für Ausgleich hat. Weniger Unterrichtsausfall und mehr Unterstützung an Schulen passt zu ihrer Hoffnung auf bessere Chancen durch Bildung.",
+      "begruendung_selbst": "Wenn Unterricht ausfällt, fällt das bei uns zu Hause auf meine Schultern. Ich will, dass die Schule verlässlich läuft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ganztag darf nicht wackeln",
+      "thema": "bildung",
+      "programmpunkt": "In strukturschwachen Kommunen sollen kleinere Schulen, moderne Fachräume, digitale Infrastruktur und Ganztagsangebote über PPP-Lösungen gesichert werden.",
+      "seite": 32,
+      "zitat": "Ganztagsangebote sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ganztagsangebote sind für Nadine Bildungs- und Betreuungsinfrastruktur zugleich. Wenn solche Angebote verlässlich erhalten bleiben, entlastet das ihren Alltag und gibt ihrem Schulkind mehr Teilhabe.",
+      "begruendung_selbst": "Ganztag ist für uns kein Extra. Das ist die Zeit, in der mein Kind betreut ist und ich arbeiten kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lebensmittel endlich günstiger",
+      "thema": "steuern",
+      "programmpunkt": "Die FDP will die Mehrwertsteuer auf Lebensmittel und Grundversorgungsgüter streichen.",
+      "seite": 9,
+      "zitat": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bei Nadine schlagen Lebensmittelpreise unmittelbar auf das Monatsbudget durch. Eine Entlastung bei Grundversorgungsgütern würde ihre knappe Haushaltskasse direkt berühren.",
+      "begruendung_selbst": "Beim Einkaufen merke ich jeden Euro. Wenn Grundsachen günstiger werden, hilft mir das sofort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kinderärzte näher ran",
+      "thema": "gesundheit",
+      "programmpunkt": "Mobile Arztpraxen und Facharzt-Busse sollen besonders in der Kinder- und Jugendmedizin sowie psychiatrischen Versorgung wohnortnahe Behandlung ermöglichen.",
+      "seite": 64,
+      "zitat": "Kinder- und Jugendmedizin sowie der psychiatrischen Versorgung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit zwei Kindern und wenig Zeit sind lange Wege zu Fachärzten für Nadine ein praktisches Problem. Wohnortnahe Kinder- und Jugendversorgung trifft ihren Alltag direkt.",
+      "begruendung_selbst": "Wenn eins meiner Kinder einen Termin braucht, kann ich nicht jedes Mal einen halben Tag organisieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Ticket muss bleiben",
+      "thema": "verkehr",
+      "programmpunkt": "Das Deutschlandticket soll Teil des ÖPNV-Angebots bleiben, während Qualität und Stabilität der Verkehre gesichert werden sollen.",
+      "seite": 73,
+      "zitat": "Das Deutschlandticket bleibt Teil des Angebots",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für eine einkommensschwache Mutter kann ein berechenbares Ticket Mobilität zu Arbeit, Schule, Terminen und Freizeit erleichtern. Nadine würde den Erhalt positiv sehen, auch wenn ihr zusätzlich Verlässlichkeit wichtig bleibt.",
+      "begruendung_selbst": "Ich brauche planbare Fahrtkosten. Ohne bezahlbaren Nahverkehr wird jeder Termin gleich wieder Stress.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Schon wieder unter Verdacht",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP beschreibt Sozialleistungen vor allem als vorübergehende Hilfe nach dem Prinzip Fördern und Fordern statt als dauerhafte Absicherung.",
+      "seite": 39,
+      "zitat": "Sozialleistungen Menschen nicht dauerhaft versorgen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine arbeitet bereits und stockt trotzdem auf; sie erlebt solche Rhetorik schnell als Misstrauen gegenüber Menschen in knappen Lebenslagen. Ihr geht es um tragfähige Absicherung, nicht darum, dauerhaft versorgt zu werden.",
+      "begruendung_selbst": "Ich sitze nicht faul zu Hause. Ich arbeite, ich erziehe zwei Kinder und brauche trotzdem Unterstützung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kürzen trifft meine Kinder",
+      "thema": "gesundheit",
+      "programmpunkt": "Bei fehlender Mitwirkung sollen Sanktionen im Bürgergeld konsequent ausgeschöpft werden, etwa bei Ablehnung zumutbarer Arbeit.",
+      "seite": 40,
+      "zitat": "Sanktionsspielraum konsequent ausgeschöpft",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine fürchtet Sanktionen, weil in ihrem Haushalt kaum Puffer vorhanden ist und Kürzungen unmittelbar die Kinder treffen können. Gerade bei Alleinerziehenden können Betreuungsprobleme und Zumutbarkeit im Alltag komplizierter sein als die Formulierung im Programm vermuten lässt.",
+      "begruendung_selbst": "Wenn Geld gekürzt wird, fehlt es nicht abstrakt. Dann fehlen Schuhe, Essen oder die Klassenfahrt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Pflichtarbeit obendrauf",
+      "thema": "arbeit",
+      "programmpunkt": "Langzeitarbeitslose sollen zu Bürgerarbeit verpflichtet werden; Verweigerung soll Leistungskürzungen nach sich ziehen.",
+      "seite": 40,
+      "zitat": "Langzeitarbeitslose zur Bürgerarbeit verpflichtet",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine reagiert empfindlich auf pauschale Arbeitszwang-Rhetorik, weil sie selbst weiß, wie schnell Betreuung, Krankheit oder Bürokratie Menschen blockieren können. Sie würde darin wenig Respekt vor komplexen Lebenslagen sehen.",
+      "begruendung_selbst": "Man muss erst schauen, warum jemand feststeckt. Einfach Pflichtarbeit draufpacken löst keine Betreuung und keine Sorgen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sonntag ist kein Lückenfüller",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will Ladenöffnungszeiten vollständig liberalisieren und Sonntags- sowie Feiertagsöffnungen stark ausweiten.",
+      "seite": 8,
+      "zitat": "größtmögliche Ausweitung der Sonntagsöffnungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Wenn Arbeitszeiten stärker in Sonn- und Feiertage wandern, verschärft das für Nadine die Betreuungsfrage. Ohne passende Kita- und Hortangebote kann mehr Flexibilität für Betriebe bei ihr zu mehr Alltagsdruck werden.",
+      "begruendung_selbst": "Wer betreut denn meine Kinder am Sonntag? Für mich heißt das nicht Freiheit, sondern noch mehr Organisieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Miete bleibt mein Problem",
+      "thema": "wohnen",
+      "programmpunkt": "Im Wohnkapitel legt die FDP einen Schwerpunkt auf Wohneigentum, Grunderwerbsteuer-Freibeträge und Finanzierungshilfen für den Ersterwerb.",
+      "seite": 12,
+      "zitat": "Wohneigentum Vermögensaufbau, Altersvorsorge und Stabilität",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine lebt zur Miete, hat keine Rücklagen und kämpft mit laufenden Wohnkosten; Eigentumsförderung erreicht ihre akute Lage kaum. Aus ihrer Perspektive fehlt hier der direkte Hebel für bezahlbare Mieten und sichere Mietwohnungen.",
+      "begruendung_selbst": "Eigentum klingt schön, aber ich spare gerade nicht für ein Haus. Ich muss jeden Monat die Miete schaffen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beitragsfreiheit nicht kleinreden",
+      "thema": "bildung",
+      "programmpunkt": "Öffentliche Mittel sollen nach FDP-Vorstellung Qualität in der Bildung vor pauschaler Beitragsfreiheit ohne Standards priorisieren.",
+      "seite": 30,
+      "zitat": "Vorrang hat vor pauschaler Beitragsfreiheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine will gute Qualität, aber Gebührenfreiheit ist für einen Haushalt ohne Rücklagen ebenfalls existenziell. Sie würde eine Gegenüberstellung von Qualität und Beitragsfreiheit skeptisch sehen, weil beides für echte Chancengerechtigkeit wichtig ist.",
+      "begruendung_selbst": "Natürlich soll die Qualität stimmen. Aber wenn Beiträge steigen, trifft das Familien wie meine sofort.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet im FDP-Programm mehrere alltagsnahe Zusagen zu flexibler Kinderbetreuung, besserer Kita- und Schulqualität, günstigeren Grundversorgungsgütern und wohnortnaher Gesundheitsversorgung. Gleichzeitig stößt sie sich stark an der sozialpolitischen Sprache zu Bürgergeld, Sanktionen und Arbeitspflichten, weil sie als arbeitende Aufstockerin Respekt und Sicherheit statt Verdacht braucht. Beim Wohnen bleibt das Programm aus ihrer Sicht zu stark auf Eigentum ausgerichtet und zu wenig auf ihre akute Mietrealität.",
+    "score": 0
+  }
+}

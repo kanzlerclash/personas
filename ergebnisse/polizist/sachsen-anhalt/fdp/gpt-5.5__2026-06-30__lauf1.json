@@ -1,0 +1,163 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 51992,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Rechtsstaat zuerst",
+      "thema": "demokratie",
+      "programmpunkt": "Die FDP stellt starke Demokratie und Rechtsstaatlichkeit ins Zentrum eines modernen Staates und benennt Angriffe auf Institutionen als Problem.",
+      "seite": 46,
+      "zitat": "„eine starke Demokratie und Rechtsstaatlichkeit“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erkennt darin institutionellen Rückhalt für genau den Staat, den er im Dienst schützt. Die klare Abgrenzung gegen Vertrauensverlust und populistische Untergrabung passt zu seiner verfassungsorientierten Haltung.",
+      "begruendung_selbst": "Ich will nicht jeden Tag den Kopf hinhalten, während der Staat sich selbst kleinredet. Wenn Rechtsstaat und Demokratie vorne stehen, ist das meine Grundlage.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Kernaufgaben ernst nehmen",
+      "thema": "demokratie",
+      "programmpunkt": "Behörden sollen sich stärker auf hoheitliche Kernbereiche wie Polizei, Justiz und Finanzverwaltung konzentrieren.",
+      "seite": 47,
+      "zitat": "„für Polizei, Justiz und Finanzverwaltung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco fühlt sich angesprochen, weil sein Berufsalltag davon abhängt, ob Polizei und Justiz als Kernaufgaben behandelt werden. Das Signal gegen Zuständigkeitspingpong und für funktionierende Behörden stärkt sein Bedürfnis nach verlässlicher staatlicher Struktur.",
+      "begruendung_selbst": "Genau darum geht es: Polizei und Justiz sind kein Beiwerk. Wenn der Staat da nicht funktioniert, merken es die Leute sofort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Zeit fürs Recht",
+      "thema": "digitalisierung",
+      "programmpunkt": "Digitalisierte Verwaltungsprozesse sollen Personal für Beratung, echte Risikokontrollen und Rechtsdurchsetzung freimachen.",
+      "seite": 48,
+      "zitat": "„bei der Durchsetzung des Rechts“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco sieht darin eine praktische Entlastungslogik: weniger Papier und mehr Personalwirkung dort, wo hoheitlich gehandelt werden muss. Für einen überlasteten Streifenbeamten zählt, ob Verwaltung die Einsatz- und Kontrollfähigkeit stärkt.",
+      "begruendung_selbst": "Wenn Digitalisierung am Ende Leute für echte Kontrollen und Rechtsdurchsetzung frei macht, dann bringt sie mir auch im Dienst etwas.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Justiz ohne Papierstau",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Justiz soll vollständig digital arbeiten, mit elektronischer Akte, moderner Technik und Verfahren ohne Medienbrüche.",
+      "seite": 50,
+      "zitat": "„kein Medienbruch mehr erfolgen muss“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist frustriert, wenn polizeiliche Arbeit in der Justizkette langsam wird. Eine modernere Justiz verspricht schnellere, verlässlichere Abläufe nach dem Einsatz und passt zu seinem Wunsch nach wirksamer Strafverfolgung.",
+      "begruendung_selbst": "Wir schreiben Anzeigen nicht für die Ablage. Wenn Akten und Verfahren schneller laufen, fühlt sich unsere Arbeit nicht so oft versandet an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "7000 bleiben Ziel",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP will an 7.000 Stellen im Polizeivollzugsdienst festhalten, damit Beamte Schutz, Gefahrenabwehr und Strafverfolgung leisten können.",
+      "seite": 52,
+      "zitat": "„7.000 Stellen im Polizeivollzugsdienst“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das trifft Marcos stärksten Stake direkt: Personalmangel im Vollzugsdienst. Die Zielzahl und die Benennung der Kernaufgaben geben ihm das Gefühl, dass seine tägliche Überlastung politisch verstanden wird.",
+      "begruendung_selbst": "Ohne genug Leute bleibt Sicherheit eine Überschrift. 7.000 Stellen heißt für mich: weniger Notbesetzung, mehr echte Polizeiarbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schreibtische raus aus der Streife",
+      "thema": "arbeit",
+      "programmpunkt": "Verwaltungsmitarbeiter und eine Laufbahn für Polizeiverwaltungsassistenten sollen Organisationsaufgaben übernehmen und den Vollzugsdienst entlasten.",
+      "seite": 52,
+      "zitat": "„auf 1.200 Stellen aus“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco will, dass ausgebildete Vollzugsbeamte nicht in Verwaltungstätigkeiten gebunden werden. Zusätzliche Verwaltungsstellen sind für ihn ein konkreter Hebel gegen Überlastung und für mehr Präsenz auf der Straße.",
+      "begruendung_selbst": "Ich bin Polizist, kein Aktenumlagerer. Wenn Verwaltungskräfte uns den Rücken freihalten, kommen wir wieder zu unseren Kernaufgaben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Geschlossen auftreten",
+      "thema": "sicherheit",
+      "programmpunkt": "Polizei und Ordnungsämter sollen flächendeckend in Sicherheitspartnerschaften zusammenarbeiten, mit gemeinsamen Einsätzen als Regelfall.",
+      "seite": 52,
+      "zitat": "„gemeinsame Einsätze zum Regelfall“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco legt Wert auf klare Zuständigkeiten und sichtbare staatliche Autorität. Gemeinsames Handeln mit Ordnungsämtern kann Kompetenzgerangel verringern und seine Arbeit im öffentlichen Raum stützen.",
+      "begruendung_selbst": "Vor Ort hilft kein Behörden-Pingpong. Wenn Polizei und Ordnungsamt geschlossen auftreten, ist das für Bürger und Störer klar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leistung zählt wieder",
+      "thema": "arbeit",
+      "programmpunkt": "Für den Polizeivollzugsdienst soll ein landesweit einheitliches Personalentwicklungskonzept mit transparenten Beförderungs- und Aufstiegschancen eingeführt werden.",
+      "seite": 52,
+      "zitat": "„Leistung muss sich wieder lohnen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erwartet Wertschätzung nicht nur in Sonntagsreden, sondern in planbaren Perspektiven. Transparente Entwicklung nach Leistung, Eignung und Befähigung passt zu seinem Pflichtbewusstsein und seiner Frustration über mangelnden Rückhalt.",
+      "begruendung_selbst": "Ich will keine Sonderbehandlung. Aber wer im Schichtdienst liefert, soll fair sehen können, wohin der Weg geht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Blitzerwarnung schwächt Kontrolle",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP will sich dafür einsetzen, Blitzer-Warn-Apps neu zu regeln und zu ermöglichen.",
+      "seite": 52,
+      "zitat": "„neu zu regeln und zu ermöglichen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht Verkehrsüberwachung als Teil von Sicherheit und Regelgeltung. Wenn Warn-Apps erleichtert werden, wirkt das für ihn wie ein politisches Signal, Kontrolldruck eher zu umgehen als konsequent durchzusetzen.",
+      "begruendung_selbst": "Wir sollen Regeln durchsetzen, und gleichzeitig sollen Leute leichter vor Kontrollen gewarnt werden. Das passt für mich nicht zusammen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Werkzeuge im Einsatz",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP fordert die Abschaffung aller Waffenverbotszonen und damit auch der anlasslosen Personenkontrollen in diesen Bereichen.",
+      "seite": 52,
+      "zitat": "„Abschaffung aller Waffenverbotszonen im Land“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco bewertet Befugnisse danach, ob sie in schwierigen Lagen handhabbar sind. Eine pauschale Abschaffung nimmt der Polizei aus seiner Sicht ein präventives Werkzeug, gerade dort, wo Präsenz und Kontrolle Gefahren senken können.",
+      "begruendung_selbst": "Ich verstehe Grundrechte. Aber in Problemzonen brauchen wir auch brauchbare Werkzeuge, bevor etwas passiert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rückhalt klingt anders",
+      "thema": "demokratie",
+      "programmpunkt": "Die FDP lehnt einen besonderen Ehrschutz für bestimmte Personengruppen ab und verweist auf das geltende Strafrecht.",
+      "seite": 50,
+      "zitat": "„besonderen Ehrschutz für bestimmte Personengruppen lehnen wir deshalb ab“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco hört hier zu wenig besonderes Schutzsignal für Amtsträger und Einsatzkräfte, die im Dienst häufig Respektverlust erleben. Auch wenn es um Meinungsfreiheit geht, berührt ihn die Ablehnung, weil seine Sorge vor fehlendem öffentlichen Rückhalt zentral ist.",
+      "begruendung_selbst": "Ich verlange keinen Maulkorb für Kritik. Aber wer im Dienst angegangen wird, braucht spürbar Rückendeckung, nicht nur den Hinweis aufs normale Strafrecht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco würde im FDP-Programm viele direkte Treffer für seinen Berufsalltag sehen: mehr Polizeistellen, Entlastung durch Verwaltungspersonal, bessere Entwicklungschancen, modernere Justiz und ein klares Bekenntnis zu Rechtsstaat und staatlichen Kernaufgaben. Kritisch blieben für ihn einzelne liberale Begrenzungen von Kontroll- und Schutzinstrumenten, besonders bei Waffenverbotszonen und Blitzer-Warn-Apps. Insgesamt überwiegt aus seiner Perspektive deutlich der Eindruck, dass Polizei und funktionierende Institutionen ernst genommen werden.",
+    "score": 2
+  }
+}

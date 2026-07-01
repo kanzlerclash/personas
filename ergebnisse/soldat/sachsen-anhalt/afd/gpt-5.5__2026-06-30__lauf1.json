@@ -1,0 +1,174 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 84054,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sicherheit ist Staatsauftrag",
+      "thema": "sicherheit",
+      "programmpunkt": "Die AfD stellt innere Sicherheit als Kernaufgabe des Staates dar und fordert einen starken Staat für Recht und Ordnung.",
+      "seite": 9,
+      "zitat": "Wir bekennen uns zu einem starken Staat",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan bewertet Politik stark danach, ob sie Sicherheit als ernsthaften Auftrag versteht. Die klare Priorisierung von Ordnung und staatlicher Sicherheitsverantwortung passt zu seinem Berufsbild und seinem Vertrauen in verlässliche Institutionen.",
+      "begruendung_selbst": "Ich will keinen Staat, der Sicherheit nebenbei behandelt. Wer Verantwortung trägt, muss Ordnung und Schutz klar als Auftrag begreifen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Kräfte auf die Straße",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Landespolizei soll personell auf mindestens 7.500 Vollzugsbeamte aufgestockt werden.",
+      "seite": 9,
+      "zitat": "die Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Stefan selbst Soldat ist, erkennt er aus dem Dienstalltag den Wert einsatzfähiger Strukturen. Mehr Personal bei Sicherheitsbehörden wirkt auf ihn wie ein konkreter Schritt statt bloßer Symbolpolitik.",
+      "begruendung_selbst": "Personal ersetzt keine Strategie, aber ohne Leute bleibt jeder Einsatzplan Papier. Sicherheit braucht verfügbare Kräfte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beamte sollen dienen können",
+      "thema": "arbeit",
+      "programmpunkt": "Polizeivollzugsbeamte sollen von zeitaufwendigen Verwaltungstätigkeiten entlastet und stärker für Vollzugsaufgaben freigehalten werden.",
+      "seite": 9,
+      "zitat": "Polizeivollzugsbeamte sind keine Verwaltungsbeamte.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan kennt das Problem, dass operative Arbeit unter Bürokratie leidet. Eine Entlastung uniformierter Kräfte von Verwaltung passt zu seiner Vorstellung von einsatzorientierten Arbeitsbedingungen.",
+      "begruendung_selbst": "Ich kenne das: Wer für den Einsatz ausgebildet ist, darf nicht in Formularen versinken. Kräfte gehören dahin, wo sie wirken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Angriffe auf Truppe ernstnehmen",
+      "thema": "verteidigung",
+      "programmpunkt": "Die AfD beschreibt linksextreme Gewalt auch als Gefahr für Polizei, Infrastruktur, Bundeswehr und Bürger und will den Verfolgungsdruck erhöhen.",
+      "seite": 9,
+      "zitat": "schwerste Straftaten gegen die Polizei, unsere Infrastruktur, die Bundeswehr",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der direkte Bezug auf Straftaten gegen die Bundeswehr berührt Stefans Beruf unmittelbar. Er fühlt sich bestätigt, wenn Gewalt gegen Truppe und Infrastruktur als Sicherheitsproblem und nicht als Randphänomen behandelt wird.",
+      "begruendung_selbst": "Wenn die Bundeswehr angegriffen wird, ist das kein Nebenthema. Wer unsere Einsatzfähigkeit beschädigt, muss konsequent verfolgt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Katastrophenschutz gehört gestärkt",
+      "thema": "sicherheit",
+      "programmpunkt": "Rettungsdienst, Brand- und Katastrophenschutz sollen in einem modernen Gesetz gebündelt und stärker in den Fokus der Landespolitik gerückt werden.",
+      "seite": 9,
+      "zitat": "Rettungsdienst, Brand- und Katastrophenschutz müssen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan denkt Sicherheit gesamtstaatlich, nicht nur militärisch. Ein besser organisierter Bevölkerungsschutz passt zu seinem Verständnis von Krisenfestigkeit und verlässlichen Strukturen.",
+      "begruendung_selbst": "Im Ernstfall zählen klare Zuständigkeiten und funktionierende Strukturen. Bevölkerungsschutz ist Teil der Sicherheitsvorsorge.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Apparat, mehr Auftrag",
+      "thema": "demokratie",
+      "programmpunkt": "Die Verwaltung soll auf Kernaufgaben, Bürgerdienst und effizientere Abläufe ausgerichtet werden.",
+      "seite": 17,
+      "zitat": "Der Staat muss den Menschen dienen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan schätzt Institutionen, wenn sie auftragstreu und funktionsfähig sind. Die Kritik an Selbstbeschäftigung und der Fokus auf Dienstleistung sprechen seine Erwartung an verlässliche staatliche Abläufe an.",
+      "begruendung_selbst": "Ein Apparat ist kein Selbstzweck. Behörden müssen ihren Auftrag erfüllen, schnell, klar und verlässlich.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ukraine ist kein Geschenk",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm stellt Ausgaben für die Ukraine als vergeudetes Steuergeld dar.",
+      "seite": 3,
+      "zitat": "an die Ukraine verschenkt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan sieht die Unterstützung der Ukraine im Kontext der Bedrohungslage an der NATO-Ostflanke. Die Abwertung dieser Hilfe als bloßes Verschenken wirkt auf ihn bündnispolitisch leichtfertig.",
+      "begruendung_selbst": "Die Ukraine-Hilfe ist für mich nicht irgendein Geschenk. Sie betrifft Abschreckung, Ostflanke und unsere eigene Sicherheit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Russland-Rhetorik macht nervös",
+      "thema": "verteidigung",
+      "programmpunkt": "Die AfD rahmt den Wunsch nach Frieden als Gegenposition zu einem angeblich drohenden Krieg mit Russland, ohne zugleich Bündnistreue oder Abschreckung zu betonen.",
+      "seite": 3,
+      "zitat": "keinen Krieg mit Russland und Frieden in Europa",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan ist nicht für Krieg, aber er lehnt Russland-nahe oder NATO-skeptische Signale ab. Ihm fehlt hier das klare Bekenntnis zu Abschreckung, Bündnisfähigkeit und Schutz der Ostflanke.",
+      "begruendung_selbst": "Frieden sagt jeder. Für mich zählt, ob man Russland abschreckt und im Bündnis verlässlich bleibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bündnisse nicht wegwischen",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm grenzt den politischen Maßstab ausdrücklich von Ukraine und EU ab und stellt Landesinteressen dagegen.",
+      "seite": 3,
+      "zitat": "was die Brüsseler EU, was die Ukraine",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan bewertet Sicherheitspolitik bündnisorientiert. Wenn EU und Ukraine pauschal als fremder Maßstab abgesetzt werden, klingt das für ihn nach Abkehr von verlässlicher europäischer Sicherheitskooperation.",
+      "begruendung_selbst": "Ich brauche Politik, die Partner ernst nimmt. Sicherheit funktioniert nicht, wenn jeder nur noch auf sich selbst zeigt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz nicht entkernen",
+      "thema": "demokratie",
+      "programmpunkt": "Der Verfassungsschutz soll stark umgebaut werden und sich bei verfassungsfeindlichen Bestrebungen nur noch auf harte Kriterien wie Gewaltbereitschaft oder Gesetzesbruch stützen.",
+      "seite": 11,
+      "zitat": "nur noch auf harte, objektiv feststellbare Kriterien stützen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan ist verfassungstreu und erwartet, dass Institutionen extremistische Risiken früh erkennen. Eine Einengung auf bereits harte Schwellen kann aus seiner Sicht die wehrhafte Demokratie schwächen.",
+      "begruendung_selbst": "Ich will keinen politischen Missbrauch von Behörden. Aber die wehrhafte Demokratie darf Bedrohungen nicht erst erkennen, wenn es knallt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Gesinnungsblindheit bei Waffen",
+      "thema": "sicherheit",
+      "programmpunkt": "Waffenbehörden sollen bei Erlaubnissen politische Gesinnung nicht mehr berücksichtigen, sondern nur die Zuverlässigkeit prüfen.",
+      "seite": 11,
+      "zitat": "nicht mehr die politische Gesinnung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan akzeptiert ein strenges und sachliches Waffenrecht, weil Sicherheit und Verantwortlichkeit zusammengehören. Wenn extremistische politische Bindungen als irrelevant behandelt werden, wirkt das auf ihn riskant.",
+      "begruendung_selbst": "Wer Waffen führen will, muss zuverlässig sein. Extremistische Bindungen einfach auszublenden, halte ich sicherheitspolitisch für falsch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgerwacht ist kein Ersatz",
+      "thema": "sicherheit",
+      "programmpunkt": "Die AfD will freiwillige Bürgerwachten als dritte Säule der lokalen Sicherheitsarchitektur aufbauen.",
+      "seite": 9,
+      "zitat": "eine freiwillige Bürgerwacht aufbauen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan vertraut auf professionell ausgebildete Sicherheitskräfte und klare Befehlsketten. Bürgerwachten können ihm trotz begrenzter Hilfsaufgaben wie eine Vermischung von staatlichem Gewaltmonopol und Laienstrukturen erscheinen.",
+      "begruendung_selbst": "Sicherheit gehört in professionelle Hände. Hilfen ja, aber keine unklare dritte Säule neben Polizei und Ordnungsamt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet im Programm mehrere Punkte, die seine Sicherheitsorientierung bestätigen: starker Staat, mehr Polizei, Entlastung operativer Kräfte, Schutz der Bundeswehr vor politischer Gewalt und besserer Katastrophenschutz. Gleichzeitig fehlt ihm eine seriöse verteidigungspolitische Linie zu Bundeswehr, NATO und Ostflanke. Besonders die abwertende Ukraine- und Russland-Rhetorik sowie Schwächungen bei Verfassungsschutz und Waffenprüfung stehen quer zu seiner bündnistreuen, verfassungstreuen Grundhaltung.",
+    "score": -1
+  }
+}

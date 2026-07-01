@@ -1,0 +1,211 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 68313,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Meine Existenz wird benannt",
+      "thema": "familie",
+      "programmpunkt": "Die FDP kündigt eine Null-Toleranz-Linie gegen Diskriminierung unter anderem wegen sexueller Orientierung, Lebensentwurf und geschlechtlicher Identität an.",
+      "seite": 40,
+      "zitat": "„sexuellen Orientierung, ihres individuellen Lebensentwurfs oder geschlechtlichen Identität“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule ist queer und fürchtet den Abbau von Antidiskriminierungs- und Vielfaltsprogrammen. Dass das Programm diese Schutzgründe ausdrücklich nennt, trifft einen Kern ihrer Sicherheits- und Anerkennungsbedürfnisse.",
+      "begruendung_selbst": "Ich will nicht nur geduldet werden. Wenn meine sexuelle Orientierung und geschlechtliche Identität ausdrücklich geschützt werden, ist das für mich real.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Selbstbestimmung statt Gutachten",
+      "thema": "demokratie",
+      "programmpunkt": "Verwaltung soll Geschlechtsidentitäten selbstbestimmt berücksichtigen und die Geschlechtsangabe nur erfassen, wo sie wirklich nötig ist.",
+      "seite": 41,
+      "zitat": "„Die freie Entfaltung der Persönlichkeit“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Jule ist es wichtig, dass queere und nichtbinäre Lebensrealitäten nicht durch Verwaltungshürden pathologisiert werden. Die Absage an externe Gutachten passt zu ihrem Verständnis von Selbstbestimmung.",
+      "begruendung_selbst": "Ich will nicht, dass Behörden über Identität wie über einen Antrag auf Sondergenehmigung reden. Weniger Zwangsdaten und mehr Selbstbestimmung sind genau richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Studierenden-Wohnraum",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP will bezahlbaren Wohnraum in Kooperation mit Studentenwerken sichern und studentische Lebenslagen am Campus mitdenken.",
+      "seite": 36,
+      "zitat": "„eine angemessene Versorgung mit studentischem Wohnraum sichern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt mit knappem Budget in einer WG; Miete ist einer ihrer direkten finanziellen Druckpunkte. Ein konkreter Bezug auf studentischen Wohnraum spricht ihre Lage unmittelbarer an als allgemeine Eigentumsförderung.",
+      "begruendung_selbst": "Meine Miete frisst jeden Monat zu viel weg. Wenn studentischer Wohnraum wirklich gesichert wird, macht das mein Studium weniger prekär.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Campus darf nicht krank machen",
+      "thema": "bildung",
+      "programmpunkt": "Das Programm stellt psychische Gesundheit, Wohlbefinden und Unterstützung für Studierende als Teil eines attraktiven Studienstandorts heraus.",
+      "seite": 35,
+      "zitat": "„Psychische Gesundheit und Wohlbefinden stehen dabei im Fokus“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule studiert, arbeitet nebenbei und engagiert sich politisch; Belastung und finanzielle Unsicherheit gehören zu ihrem Alltag. Dass Hochschulpolitik nicht nur Leistung, sondern auch Wohlbefinden adressiert, passt zu ihrem Bedürfnis nach realer Teilhabe.",
+      "begruendung_selbst": "Studieren ist nicht nur Credits sammeln, wenn man nebenbei arbeitet und ständig rechnen muss. Psychische Gesundheit gehört an die Uni-Agenda.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mit 16 mitentscheiden",
+      "thema": "demokratie",
+      "programmpunkt": "Die FDP setzt sich für ein aktives Wahlalter ab 16 Jahren bei Landtagswahlen ein.",
+      "seite": 47,
+      "zitat": "„aktive Wahlalters ab 16 Jahren“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als aktivistisch geprägte Studentin legt Jule Wert auf demokratische Mitbestimmung junger Menschen. Mehr Wahlbeteiligung für Jugendliche bestätigt ihre Haltung, dass Zukunftsfragen nicht ohne die Betroffenen entschieden werden sollten.",
+      "begruendung_selbst": "Klimakrise, Schule, ÖPNV: Junge Leute leben mit den Folgen. Dann sollen sie auch wählen dürfen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "ÖPNV bleibt drin",
+      "thema": "verkehr",
+      "programmpunkt": "Das Deutschlandticket soll Teil des Angebots bleiben, ergänzt durch bessere Pünktlichkeit, weniger Ausfälle und landesweite Mobilitätsangebote.",
+      "seite": 73,
+      "zitat": "„Das Deutschlandticket bleibt Teil des Angebots“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule nutzt ÖPNV im Alltag und hat wenig finanziellen Spielraum. Ein fortbestehendes Deutschlandticket und Qualitätsziele im Nahverkehr berühren direkt ihre Mobilitätskosten und ihre Teilhabe.",
+      "begruendung_selbst": "Ohne bezahlbaren ÖPNV wird mein Alltag sofort enger. Das Ticket muss bleiben, aber die Bahn muss auch verlässlich kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Platz fürs Rad",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP will Alltagsradnetze ausbauen, Lücken schließen sowie sichere Abstellanlagen und Ladepunkte an Bahnhöfen und ÖPNV-Knoten schaffen.",
+      "seite": 71,
+      "zitat": "„Menschen wollen mit dem Rad mobil sein“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule bewegt sich viel mit Rad und ÖPNV und bewertet Mobilität auch klimapolitisch. Sicherere Radinfrastruktur passt zu ihrem Alltag und zu ihrer Vorstellung einer Verkehrswende.",
+      "begruendung_selbst": "Radfahren ist für mich Alltag, nicht Freizeitdeko. Sichere Wege und gute Abstellplätze machen wirklich einen Unterschied.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Atomkraft ist kein Zukunftsplan",
+      "thema": "energie",
+      "programmpunkt": "Die FDP befürwortet einen Wiedereinstieg in Kernenergie, inklusive Reaktivierung und Neubau moderner Kernkraftwerke.",
+      "seite": 14,
+      "zitat": "„Wiedereinstieg in die Nutzung der Kernenergie“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule hofft auf eine konsequente Energiewende und bewertet Energiepolitik stark aus Klima- und Zukunftsperspektive. Der Fokus auf Kernenergie wirkt auf sie wie ein teurer Umweg statt schneller Ausbau erneuerbarer Energien.",
+      "begruendung_selbst": "Ich will keine Debatte zurückdrehen, während wir Erneuerbare schneller brauchen. Atomkraft klingt für mich nach Ablenkung vom eigentlichen Umbau.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fracking? Ernsthaft?",
+      "thema": "energie",
+      "programmpunkt": "Das Programm will heimisches Schiefergas nutzen und das pauschale Verbot unkonventionellen Frackings durch ein Genehmigungsregime ersetzen.",
+      "seite": 15,
+      "zitat": "„Nutzung von heimischem Schiefergas“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht fossile Politik als direkte Bedrohung ihrer Lebensgrundlage. Die Öffnung für Schiefergas widerspricht ihrem Wunsch nach konsequenter Dekarbonisierung.",
+      "begruendung_selbst": "Fossiles Gas bleibt fossiles Gas, auch wenn es aus der Region kommt. Das ist nicht die Zukunft, für die ich demonstriere.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Braunkohle bleibt Braunkohle",
+      "thema": "klima",
+      "programmpunkt": "Die FDP will heimische Bodenschätze einschließlich Braunkohle schnell und unbürokratisch nutzbar machen.",
+      "seite": 10,
+      "zitat": "„Braunkohle verantwortungsvoll nutzbar machen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule ist der Kohleausstieg zentral für ihr Zukunftsgefühl. Eine positive Rohstoffnutzungsperspektive auf Braunkohle steht quer zu ihrer Erwartung, fossile Pfade klar zu beenden.",
+      "begruendung_selbst": "Bei Braunkohle höre ich nicht Verantwortung, sondern Rückwärtsgang. Wir brauchen Ausstieg, nicht neue Genehmigungsfantasien.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umwelt nur Mindestmaß?",
+      "thema": "klima",
+      "programmpunkt": "Die FDP will nationale Verschärfungen von EU-Anforderungen in Landwirtschaft und Umweltregulierung konsequent zurücknehmen.",
+      "seite": 18,
+      "zitat": "„Europäisches Mindestmaß statt deutscher Übererfüllung“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule misst Politik daran, ob sie Klima- und Umweltschutz ernst nimmt. Eine systematische Orientierung am Mindestmaß klingt für sie nach Absenkung von Schutzstandards zugunsten wirtschaftlicher Interessen.",
+      "begruendung_selbst": "Beim Klima reicht Mindestmaß nicht. Genau diese Logik hat uns doch in die Krise gebracht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klagen schützen Zukunft",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm will das Verbandsklagerecht reformieren und auf ein rechtlich notwendiges Mindestmaß reduzieren.",
+      "seite": 72,
+      "zitat": "„Klagemöglichkeiten auf ein sinnvolles Maß begrenzen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule vertraut auf Zivilgesellschaft und Umweltverbände als Korrektiv bei Klima- und Infrastrukturpolitik. Eine Begrenzung von Klagemöglichkeiten wirkt auf sie wie eine Schwächung demokratischer Kontrolle.",
+      "begruendung_selbst": "Wenn Verbände weniger klagen können, werden Natur und Klima leiser gemacht. Beteiligung ist kein Störfaktor.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Autobahnlogik",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP will neben Sanierungen auch Straßenneubau, Autobahnprojekte und weitere Elbquerungen vorantreiben.",
+      "seite": 71,
+      "zitat": "„Wir werden aber auch weiter neu bauen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule hat Verständnis für ländliche Mobilität, priorisiert aber Klima- und Verkehrswende. Neue Straßen- und Autobahnprojekte erscheinen ihr als falscher Schwerpunkt neben ÖPNV, Rad und Emissionsminderung.",
+      "begruendung_selbst": "Sanieren ja, aber immer weiter neu bauen ist genau die alte Verkehrspolitik. Das passt nicht zur Klimakrise.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Uni fürs Militär",
+      "thema": "bildung",
+      "programmpunkt": "Die FDP lehnt Zivilklauseln ab und will Hochschulen stärker mit Unternehmen der Verteidigungsindustrie vernetzen.",
+      "seite": 10,
+      "zitat": "„Zivilklauseln lehnen wir ab“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule studiert in einem politisierten Hochschulumfeld und legt Wert auf demokratische Debatten über Forschungsethik. Die klare Ablehnung von Zivilklauseln und die Nähe zur Verteidigungsindustrie würden bei ihr Widerstand auslösen.",
+      "begruendung_selbst": "Meine Uni soll nicht einfach Standortpolitik für Rüstung werden. Über Forschungsethik müssen Studierende und Beschäftigte mitreden können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "AStA ist kein Zwangsproblem",
+      "thema": "bildung",
+      "programmpunkt": "Die FDP will keinen Zwang zur Mitgliedschaft in der Studierendenschaft.",
+      "seite": 37,
+      "zitat": "„keinen Zwang zur Mitgliedschaft in der Studierendenschaft“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule ist hochschulpolitisch und aktivistisch geprägt; für sie sind verfasste Studierendenschaften wichtige Strukturen für Mitbestimmung, Beratung und Interessenvertretung. Die Formulierung als Zwang trifft ihre Sorge, dass studentische Selbstorganisation geschwächt wird.",
+      "begruendung_selbst": "Ohne Studierendenschaft wird Mitbestimmung schnell zur Privatsache für Leute mit Zeit und Geld. Das ist keine Freiheit für alle.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule würde im FDP-Programm einige ernsthafte Anerkennungspunkte finden: queere Antidiskriminierung, geschlechtliche Selbstbestimmung, studentischer Wohnraum, Hochschulthemen und besserer ÖPNV sprechen sie direkt an. Gleichzeitig stehen zentrale Energie-, Klima- und Infrastrukturpositionen ihrem Zukunftsbild deutlich entgegen, besonders Kernenergie, Fracking, Braunkohle, Umwelt-Mindestmaß und eingeschränkte Verbandsklagen. Insgesamt wirkt das Programm auf sie gesellschaftspolitisch teils offen, aber klima- und bewegungspolitisch zu marktliberal und fossil-offen.",
+    "score": -1
+  }
+}

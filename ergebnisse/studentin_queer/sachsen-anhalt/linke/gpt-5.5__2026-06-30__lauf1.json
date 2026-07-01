@@ -1,0 +1,162 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 117252,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Meine Rechte sind gemeint",
+      "thema": "familie",
+      "programmpunkt": "Die Linke will queeres Leben ausdrücklich anerkennen, LSBTI+-Akzeptanzprogramme finanzieren und sexuelle sowie geschlechtliche Identität im Grundgesetz absichern.",
+      "seite": 24,
+      "zitat": "„Queeres Leben ist in Sachsen - Anhalt eine Selbstverständlichkeit.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule liest hier eine direkte Anerkennung ihrer Lebensrealität als queere Studentin. Besonders wichtig ist ihr, dass die Partei Rechte nicht nur symbolisch benennt, sondern institutionell und finanziell absichern will.",
+      "begruendung_selbst": "Ich will nicht jedes Mal erklären müssen, dass ich dazugehöre. Wenn das Programm queeres Leben als selbstverständlich behandelt, fühlt sich das nach Schutz statt Duldung an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CSDs brauchen Schutz",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will CSDs besser schützen, queere Gewalt sichtbar machen und Beratungsangebote für trans, inter, nichtbinäre, aspec und geflüchtete queere Menschen institutionell sichern.",
+      "seite": 25,
+      "zitat": "„die CSDs stärker schützen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als queere junge Frau fürchtet Jule den Abbau von Schutzräumen und die Normalisierung von Hass. Die geplanten Schutz- und Beratungsstrukturen treffen ihre Sorge vor Gewalt und Unsichtbarkeit unmittelbar.",
+      "begruendung_selbst": "Pride ist für mich kein Party-Extra, sondern Sichtbarkeit. Wenn CSDs und Beratungsstellen geschützt werden, heißt das: Wir sollen nicht wieder verschwinden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Studieren darf nicht arm machen",
+      "thema": "bildung",
+      "programmpunkt": "Die Linke will Hochschulen besser finanzieren und den Studienalltag durch günstige Mieten, stabile Mensapreise, Lernmittelfreiheit, psychosoziale Beratung und weniger BAföG-Bürokratie absichern.",
+      "seite": 36,
+      "zitat": "„unabhängig vom Geldbeutel der Eltern studieren können“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jules Budget ist knapp, unregelmäßig und abhängig von BAföG und Nebenjob. Maßnahmen gegen Studienkosten und für verlässliche Hochschulfinanzierung berühren ihren Alltag direkt.",
+      "begruendung_selbst": "Ich will studieren, nicht ständig rechnen, ob Mensa, Miete oder Lernmaterial diesen Monat noch drin sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "BAföG endlich realistisch",
+      "thema": "bildung",
+      "programmpunkt": "Das Programm fordert eine Bundesinitiative für ein elternunabhängiges BAföG, das reale Lebenshaltungskosten abbildet und regelmäßig an die Inflation angepasst wird.",
+      "seite": 37,
+      "zitat": "„eine Initiative für ein elternunabhängiges BAföG starten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule wird von ihren Eltern nur wenig unterstützt und erlebt Preissteigerungen sofort. Ein elternunabhängiges, inflationsfestes BAföG passt sehr genau zu ihrer ökonomischen Lage.",
+      "begruendung_selbst": "Meine Eltern sind nicht reich, aber das System tut oft so, als könnten sie alles auffangen. Ich brauche BAföG, das mein echtes Leben bezahlt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV statt Ticketstress",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will zunächst günstige Tickets für Schüler:innen, Azubis, Freiwilligendienstleistende, Studierende und Menschen mit wenig Geld und langfristig kostenlosen ÖPNV für alle.",
+      "seite": 102,
+      "zitat": "„Attraktiver ÖPNV zum Nulltarif“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule nutzt ÖPNV und Rad im Alltag und spürt Mobilitätskosten direkt. Günstige Studierenden- und Sozialtickets sowie kostenloser ÖPNV verbinden ihre Geldsorgen mit ihrer Verkehrswende-Haltung.",
+      "begruendung_selbst": "Ich will nicht für jeden Weg überlegen, ob mein Konto das noch packt. Kostenloser ÖPNV wäre sozial und klimamäßig genau richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaziel ohne Wischiwaschi",
+      "thema": "klima",
+      "programmpunkt": "Die Partei will ein verbindliches CO2-Budget, eine Klimawirkungsprüfung für politische Entscheidungen und Klimaneutralität bis 2035 festlegen.",
+      "seite": 121,
+      "zitat": "„Klimaneutral bis 2035“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Klimapolitik ist für Jule zentral, weil sie daran ihre Zukunftssicherheit misst. Ein verbindliches Budget und Prüfpflichten wirken für sie deutlich ernster als bloße Zielrhetorik.",
+      "begruendung_selbst": "Genau so muss Klimapolitik aussehen: Ziele, Budget, Prüfung. Nicht wieder schöne Worte und dann doch weiter wie vorher.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erneuerbar und bezahlbar",
+      "thema": "energie",
+      "programmpunkt": "Die Linke verbindet Ausbau erneuerbarer Energien mit sozialen Strom- und Wärmepreisen, öffentlicher Verantwortung und einer Absage an Atomkraft.",
+      "seite": 106,
+      "zitat": "„erneuerbare Energien konsequent und naturverträglich ausbauen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule will eine schnelle Energiewende, hat aber zugleich wenig finanziellen Spielraum bei Strom- und Heizkosten. Die Kombination aus erneuerbarem Ausbau und sozialen Sockeltarifen entspricht beiden Stakes.",
+      "begruendung_selbst": "Ich will nicht zwischen Klimaschutz und bezahlbarer Wärme wählen müssen. Erneuerbare müssen kommen, aber so, dass Leute mit wenig Geld mitkommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "WG-Miete runter, bitte",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm will Mietpreisbremse, sozialen Wohnungsbau, Schutz vor Sperren und mehr unbefristet gebundenen Wohnraum; beim Jungen Wohnen sollen Studierende und Azubis profitieren.",
+      "seite": 84,
+      "zitat": "„weniger als 10 Prozent der Studierenden bekommen einen Wohnheimplatz“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt in einer WG zur Miete und nennt steigende Mieten als konkrete Sorge. Dass das Programm Studierendenwohnen eigens adressiert, trifft ihre Lage besonders direkt.",
+      "begruendung_selbst": "Meine Miete frisst jeden Monat so viel weg. Wenn Studierendenwohnen endlich ernst genommen wird, wäre das für mich sofort spürbar.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Gas bleibt Gas",
+      "thema": "energie",
+      "programmpunkt": "Die Linke lässt Gaskraftwerke als Brückentechnologie zu, wenn sie H2-ready sind und nur begrenzt laufen.",
+      "seite": 109,
+      "zitat": "„Gaskraftwerke nur als Brücke zulassen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule bewertet fossile Restpfade skeptisch, selbst wenn sie begrenzt und reguliert werden. Aus ihrer klimapolitischen Perspektive bleibt der Punkt ein Kompromiss mit fossiler Infrastruktur.",
+      "begruendung_selbst": "Ich sehe die Einschränkungen, aber Gas ist trotzdem fossil. Bei Klimakrise will ich keine Brücken, die am Ende wieder Jahre stehen bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Autoland bleibt Autoland",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm will die Automobilbranche absichern, unter anderem mit Förderung, Transformationsnetzwerken und einem Rettungsschirm für kritische Zulieferbetriebe.",
+      "seite": 92,
+      "zitat": "„regionale Wertschöpfung durch kurze Lieferketten“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl die Vorschläge auf E-Mobilität, Schiene und nachhaltige Produktion ausgerichtet sind, stört Jule der starke Fokus auf die Rettung der Autozulieferindustrie. Ihre Priorität liegt auf Verkehrsvermeidung, ÖPNV und Rad statt auf einer modernisierten Autowirtschaft.",
+      "begruendung_selbst": "Transformation ja, aber warum hängt so viel wieder an Autozulieferern? Ich will, dass Geld zuerst in Bahn, Bus, Rad und echte Mobilitätswende fließt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Straßen-Neubau bleibt offen",
+      "thema": "verkehr",
+      "programmpunkt": "Beim Rad- und Fußverkehr will die Partei zwar den Umweltverbund stärken, lässt aber Neubau dort zu, wo Verkehrssicherheit, Ortsentlastung oder ländliche Anbindung verbessert werden sollen.",
+      "seite": 104,
+      "zitat": "„Neubau dort realisieren“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule hat Verständnis für ländliche Mobilität, bleibt aber bei neuer Verkehrsinfrastruktur klimasensibel. Die Öffnung für Neubau wirkt für sie wie ein mögliches Einfallstor für zusätzliche Flächenversiegelung und Autoverkehr.",
+      "begruendung_selbst": "Ich verstehe Dorf-Anbindung und Sicherheit. Aber Neubau ist schnell wieder Asphaltlogik, und die passt nicht zu echter Verkehrswende.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aus Jules Perspektive trifft das Programm sehr viele ihrer zentralen Anliegen: queere Rechte, Antidiskriminierung, bezahlbares Studieren, Mietentlastung, ÖPNV und verbindliche Klimapolitik. Die wenigen Gegenpunkte liegen vor allem dort, wo fossile Brücken, Autoindustrie und mögliche Straßenneubauten nicht konsequent genug mit ihrer Klima- und Verkehrswende-Haltung brechen. Insgesamt würde sie das Programm als stark solidarisch, queerfreundlich und klimapolitisch ernsthaft wahrnehmen.",
+    "score": 2
+  }
+}

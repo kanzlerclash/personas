@@ -1,0 +1,186 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 136293,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkram",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD will den Fördermittelbereich vereinfachen und kleinteilige Programme durch wenige transparente Kriterien ersetzen.",
+      "seite": 17,
+      "zitat": "„wenige transparente Förderkriterien geben“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist als Solo-Selbstständige besonders empfindlich gegenüber komplexen Antrags- und Förderlogiken. Weniger Formulare und klarere Kriterien würden ihr den Zugang zu Unterstützung erleichtern, sofern Kreativ- und Digitalprojekte nicht politisch aussortiert werden.",
+      "begruendung_selbst": "Ich habe keine Verwaltungsabteilung. Wenn Förderung endlich verständlich und mit wenigen Kriterien läuft, kann ich überhaupt erst realistisch einen Antrag stellen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kleine zählen auch",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei stellt kleine und mittelständische Unternehmen ins Zentrum ihrer Wirtschaftspolitik statt große Konzerne zu bevorzugen.",
+      "seite": 12,
+      "zitat": "„kleine und mittelständische Unternehmen als Rückgrat“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Mareike kein klassischer Mittelstandsbetrieb ist, erkennt sie darin eine Abkehr von einer Politik, die vor allem Großunternehmen adressiert. Ihre Lage als Kleinstunternehmerin wird dadurch zumindest indirekt ernst genommen.",
+      "begruendung_selbst": "Ich bin kein Konzern und kein Start-up mit Investor. Wenn Politik endlich die Kleinen sieht, betrifft mich das direkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie frisst Zeit",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die AfD beschreibt Bürokratie als Wachstumsbremse und will bürokratische Landesregeln abbauen.",
+      "seite": 12,
+      "zitat": "„beträchtliche Kosten und blockieren personelle Ressourcen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareikes Arbeitszeit ist unmittelbar ihr Einkommen; jeder Buchhaltungs- oder Nachweistermin konkurriert mit Akquise und bezahlter Projektarbeit. Der Punkt trifft ihren Ärger über Aufwand, der für Kleinstbetriebe unverhältnismäßig ist.",
+      "begruendung_selbst": "Jede Stunde Formularlogik ist eine Stunde, die ich nicht abrechnen kann. Genau daran gehen Solo-Leute kaputt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine neuen Abgaben",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei verspricht, im Land keine neuen Abgaben oder Steuererhöhungen einzuführen und auf Bundesebene für Entlastung einzutreten.",
+      "seite": 19,
+      "zitat": "„keine neuen Abgaben oder Steuererhöhungen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bei schwankenden Einnahmen sind zusätzliche Abgaben für Mareike schwer planbar. Das Entlastungsversprechen spricht ihre Sorge an, dass kleine Selbstständige jede neue Pflicht selbst vorfinanzieren müssen.",
+      "begruendung_selbst": "Meine Monate sind nicht gleichmäßig. Noch eine Abgabe heißt bei mir nicht weniger Gewinn, sondern manchmal gar kein Puffer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitalisierung mit Geld",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die AfD will KMU bei Technisierung, Digitalisierung und KI beraten, fördern und mit günstigen Krediten unterstützen.",
+      "seite": 5,
+      "zitat": "„Finanzielle Förderung der Technisierung, Digitalisierung und KI-Nutzung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als digitale Kreative kann Mareike von zugänglicher Beratung und Förderung für KI- und Digitalprozesse profitieren. Die Zielgruppe ist zwar eher KMU als Solo-Selbstständige, aber der materielle Bezug zu ihrer Arbeitswelt ist deutlich.",
+      "begruendung_selbst": "Wenn es echte Hilfe für KI-Tools und digitale Prozesse gibt, ist das für mein Ein-Frau-Büro nicht Luxus, sondern Überleben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "GEZ tut weh",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will die Rundfunkgebühr abschaffen und den öffentlich-rechtlichen Rundfunk auf ein Grundangebot umstellen.",
+      "seite": 18,
+      "zitat": "„Die Zwangsgebühr ist daher abzuschaffen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Mareike sind pauschale Pflichtkosten spürbar, gerade in Monaten mit Flaute. Die Abschaffung einer einkommensunabhängigen Gebühr passt zu ihrem Wunsch nach geringeren Fixlasten.",
+      "begruendung_selbst": "220 Euro im Jahr sind für manche wenig. Für mich ist das ein Tool-Abo, eine Rechnung oder ein halber schlechter Monat.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kultur wird sortiert",
+      "thema": "familie",
+      "programmpunkt": "Die AfD will öffentliche Kunstförderung vor allem auf Beiträge zur deutschen Identitätsfindung ausrichten.",
+      "seite": 6,
+      "zitat": "„vorwiegend solche Kunst fördern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike lebt beruflich von offener Kultur- und Kreativarbeit, nicht von politisch eng gesetzten Identitätskriterien. Eine solche Förderlogik bedroht aus ihrer Sicht Vielfalt, Auftragspotenziale und künstlerische Freiheit.",
+      "begruendung_selbst": "Wenn Kultur erst beweisen muss, dass sie in ein Identitätsraster passt, ist das keine Förderung, sondern ein Filter gegen Leute wie mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung nur für Normfamilie",
+      "thema": "familie",
+      "programmpunkt": "Die Partei lehnt staatliche Bewerbung und Förderung alternativer Lebensentwürfe ab und stellt Vater-Mutter-Kind als gesellschaftliches Ziel heraus.",
+      "seite": 4,
+      "zitat": "„gegen die staatliche Bewerbung und Förderung alternativer Lebensentwürfe“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike lebt selbstbestimmt ohne klassische Familienstruktur und legt Wert auf Offenheit. Die Abwertung alternativer Lebensentwürfe widerspricht ihrer Vorstellung, dass unterschiedliche Lebensmodelle respektiert und nicht aus Förderlogiken verdrängt werden sollen.",
+      "begruendung_selbst": "Ich will nicht, dass Politik entscheidet, welches Leben ordentlich genug ist. Nicht jede Biografie ist Vater-Mutter-Kind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Diversität wird gestrichen",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD will Sonderbeauftragte für Gleichstellung, Integration und Diversity abschaffen.",
+      "seite": 17,
+      "zitat": "„für Gleichstellung, Integration, Diversity“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes progressive Offenheit umfasst auch Gruppen, die in Behörden und Förderstrukturen Sichtbarkeit und Ansprechpartner brauchen. Die pauschale Abwertung dieser Funktionen als Symbolpolitik wirkt für sie wie ein Rückbau von Schutz- und Teilhabestrukturen.",
+      "begruendung_selbst": "Diversity ist für mich kein Deko-Wort. Es geht darum, wer überhaupt mitgedacht wird, wenn Geld und Chancen verteilt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Freie Radios austrocknen",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will die Förderung von Radio Corax einstellen und freie Radios überprüfen lassen.",
+      "seite": 18,
+      "zitat": "„die Bezuschussung einzustellen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Mareike sind freie Medien Teil eines offenen Kultur- und Kreativökosystems, auch wenn sie nicht jeden Inhalt teilt. Förderentzug aus weltanschaulichen Gründen wirkt auf sie wie ein Eingriff in kulturelle Infrastruktur.",
+      "begruendung_selbst": "Freie Radios sind genau die Orte, an denen Nischen, Kultur und Gegenstimmen Platz haben. Den Geldhahn politisch zuzudrehen, macht mir Bauchschmerzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Offenheit wird verdächtig",
+      "thema": "integration",
+      "programmpunkt": "Die AfD will eine Willkommens- und Anerkennungskultur für Zugewanderte beenden und stattdessen eine Verabschiedungskultur etablieren.",
+      "seite": 5,
+      "zitat": "„keine Willkommens- und Anerkennungskultur für illegale Zuwanderer“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes Grundwert Offenheit steht im Konflikt mit einer Politik, die Anerkennungskultur pauschal als Propaganda rahmt. Das betrifft weniger ihre eigene Erwerbslage als ihre Haltung zu Menschen, die Schutz, Integration oder faire Beratung brauchen.",
+      "begruendung_selbst": "Ich will nicht in einem Land arbeiten und leben, in dem Willkommen schon als Fehler gilt. Offenheit ist kein Luxusprojekt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Genderverbot statt Freiheit",
+      "thema": "familie",
+      "programmpunkt": "Die Partei will Gendersprache im amtlichen Gebrauch untersagen und Richtlinien gegen gender- oder feminismusmotivierte Formen erlassen.",
+      "seite": 6,
+      "zitat": "„Gendersprache im gesamten amtlichen Sprachgebrauch untersagen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Texterin und Kreative arbeitet Mareike mit Sprache als professionellem Werkzeug. Ein staatliches Sprachverbot widerspricht ihrem Verständnis von Selbstbestimmung und kann ihre Aufträge im öffentlichen Umfeld direkt berühren.",
+      "begruendung_selbst": "Ich schreibe beruflich. Wenn der Staat mir Sprachformen politisch verbietet, ist das nicht Vereinfachung, sondern Bevormundung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krankenkasse bleibt ungelöst",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm betont öffentliche Gesundheitsversorgung, nennt aber keine spezifische Entlastung bei Kranken-, Pflege- oder Altersabsicherung für Solo-Selbstständige.",
+      "seite": 20,
+      "zitat": "„Alle Bürger sollen Zugang“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes zentrales Risiko sind Beiträge und fehlende Absicherung bei Krankheit, Flaute und Alter. Die allgemeine Patientenperspektive hilft ihr nur begrenzt, solange die spezifische Beitrags- und Schutzlücke für Selbstständige nicht adressiert wird.",
+      "begruendung_selbst": "Schöne Worte zur Versorgung lösen mein Problem nicht. Wenn ich krank bin, zahlt niemand meine Miete oder meine KSK-Lücke.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet im Programm einige entlastende Signale: weniger Bürokratie, niedrigere Abgaben, einfachere Förderverfahren und Digitalisierungsförderung sprechen ihre Lage als kleine Solo-Selbstständige an. Schwerer wiegen für sie jedoch die kulturpolitische Engführung, der Angriff auf Diversität und alternative Lebensentwürfe sowie fehlende konkrete Antworten auf KSK-, Krankenversicherungs- und Altersabsicherungsrisiken. Aus ihrer Perspektive enthält das Programm praktische Entlastungsversprechen, aber es gefährdet genau die offene Kultur- und Kreativlandschaft, in der sie arbeitet.",
+    "score": -1
+  }
+}

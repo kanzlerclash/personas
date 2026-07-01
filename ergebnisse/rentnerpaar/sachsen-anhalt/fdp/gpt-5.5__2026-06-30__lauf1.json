@@ -1,0 +1,186 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 88088,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will Netzentgelte fairer verteilen und die Kosten für Menschen in Sachsen-Anhalt spürbar senken.",
+      "seite": 14,
+      "zitat": "„für die Menschen in Sachsen-Anhalt spürbar gesenkt werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter planen jeden größeren Posten aus kleinen Renten. Eine konkrete Entlastung bei Energiepreisen trifft ihre Sorge vor steigenden Heiz- und Lebenshaltungskosten direkt.",
+      "begruendung_selbst": "Wenn bei Strom und Energie endlich etwas runtergeht, merken wir das sofort im Haushaltsbuch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umbauen statt rausmüssen",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei setzt auf steuerliche Anreize für energetische Sanierung und barrierereduzierende Maßnahmen im Bestand statt auf neue Förderbürokratie.",
+      "seite": 13,
+      "zitat": "„energetische Sanierungen und barrierereduzierende Maßnahmen im Bestand“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar fürchtet unbezahlbare Sanierungspflichten am eigenen Haus. Anreize und Barriereabbau passen eher zu ihrem Wunsch, im Haus bleiben zu können, auch wenn steuerliche Abschreibungen bei kleinen Renten nur begrenzt helfen.",
+      "begruendung_selbst": "Wenn schon modernisiert werden soll, dann bitte so, dass wir es stemmen können und hier alt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arzt soll zu uns kommen",
+      "thema": "gesundheit",
+      "programmpunkt": "Ein landesweites Förderprogramm soll rollende Arztpraxen und Facharztbusse in schlecht versorgte Regionen bringen.",
+      "seite": 64,
+      "zitat": "„rollende Arztpraxen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre größte konkrete Angst ist, dass der Hausarzt aufhört und Wege zu Ärzten beschwerlich werden. Mobile Versorgung adressiert genau diese ländliche Alterssituation.",
+      "begruendung_selbst": "Wenn wir nicht mehr so gut fahren können, ist eine Arztpraxis auf Rädern Gold wert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Praxen im Dorf entlasten",
+      "thema": "gesundheit",
+      "programmpunkt": "Physician Assistants sollen besonders im ländlichen Raum Teil der ambulanten Versorgung werden und Praxen entlasten.",
+      "seite": 65,
+      "zitat": "„besonders im ländlichen Raum“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter brauchen verlässliche, wohnortnahe ambulante Versorgung. Zusätzliche Berufsbilder können ihre Sorge mindern, dass Praxen auf dem Land ausdünnen.",
+      "begruendung_selbst": "Hauptsache, in der Praxis ist jemand da, der helfen kann, wenn der Arzt überlastet ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zu Hause gepflegt werden",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP befürwortet ambulante vor stationärer Pflege und will Unterstützungsangebote für pflegende Angehörige verbessern.",
+      "seite": 70,
+      "zitat": "„Ambulant vor stationär“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar möchte im eigenen Haus alt werden und fürchtet Pflegekosten. Der Vorrang häuslicher Pflege bestätigt ihren Wunsch nach Selbstständigkeit im vertrauten Umfeld.",
+      "begruendung_selbst": "Ins Heim wollen wir nur, wenn es gar nicht anders geht; zu Hause ist unser Leben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei im Ort",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP will sichtbar mehr Polizei in Stadt und Land und Sicherheitspartnerschaften mit Ordnungsämtern ausbauen.",
+      "seite": 52,
+      "zitat": "„sichtbar mehr Polizei in Stadt und Land“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihr Sicherheitsgefühl im Dorf ist ein zentraler Wert. Sichtbare Präsenz und klare Zusammenarbeit zwischen Polizei und Ordnungsamt passen zu ihrem Wunsch nach Ordnung und Verlässlichkeit.",
+      "begruendung_selbst": "Wir wollen sehen, dass der Staat da ist, nicht erst, wenn etwas passiert ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Apotheke darf nicht verschwinden",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will Apotheken wirtschaftlich stärken und neue Auslieferungstechnologien nutzen, damit die Versorgung im ländlichen Raum erhalten bleibt.",
+      "seite": 69,
+      "zitat": "„auch im ländlichen Raum die Versorgung zu sichern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für ältere Menschen mit regelmäßigen Medikamenten ist eine erreichbare Apotheke Teil der Daseinsvorsorge. Der Punkt berührt ihre Alltagssicherheit direkt.",
+      "begruendung_selbst": "Unsere Medikamente müssen erreichbar bleiben, auch wenn die nächste Stadt nicht gleich um die Ecke ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus und Stadt in Reichweite",
+      "thema": "verkehr",
+      "programmpunkt": "Im ÖPNV soll es landesweit eine 30-Minuten-Erreichbarkeit zur nächsten größeren Stadt sowie moderne Angebote im ländlichen Raum geben.",
+      "seite": 73,
+      "zitat": "„30-Minuten-Erreichbarkeit zur nächsten größeren Stadt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Solange sie Auto fahren können, kommen Helga und Dieter zurecht; im Alter wird Mobilität aber unsicherer. Bessere ländliche Anbindung stützt ihre soziale Teilhabe und Versorgung.",
+      "begruendung_selbst": "Wenn das Auto irgendwann nicht mehr geht, dürfen wir hier nicht festsitzen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Keine Börse bei Pflege",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Pflegeversicherung soll um ein kapitalgedecktes Element ergänzt und private sowie betriebliche Vorsorge stärker angereizt werden.",
+      "seite": 70,
+      "zitat": "„ein kapitalgedecktes Element muss wie bei der Krankenversicherung ergänzt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona ist misstrauisch gegenüber Risiken in der Altersvorsorge und hat kaum liquide Rücklagen. Kapitaldeckung und mehr private Vorsorge klingen für sie nach zusätzlicher Unsicherheit statt verlässlicher Absicherung.",
+      "begruendung_selbst": "Wir brauchen Pflege, auf die man sich verlassen kann, nicht noch ein Vorsorge-Experiment.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schaden bleibt an uns hängen",
+      "thema": "wohnen",
+      "programmpunkt": "Eine Pflichtversicherung gegen Elementarschäden lehnt die FDP ab; wer nicht versichert ist, soll im Schadensfall nicht auf staatliche Hilfe warten.",
+      "seite": 53,
+      "zitat": "„darf im Schadensfall nicht auf Hilfe von „Vater Staat“ warten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ihr Haus ist das Hauptvermögen, Rücklagen sind gering. Die klare Absage an Hilfe für Unversicherte kann bei ihnen die Angst verstärken, im Schadensfall allein dazustehen.",
+      "begruendung_selbst": "Wenn am Haus etwas Großes passiert, können wir das nicht einfach aus der Rente bezahlen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fracking macht uns unruhig",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will das pauschale Verbot unkonventionellen Frackings durch ein wissenschaftsbasiertes Genehmigungsregime ersetzen.",
+      "seite": 16,
+      "zitat": "„Verbot des unkonventionellen Frackings“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter wünschen Ruhe, Sicherheit und verlässliche Lebensbedingungen im ländlichen Raum. Fracking in der Region wirkt für sie wie ein zusätzliches technisches Risiko, auch wenn es mit Genehmigungen verknüpft wird.",
+      "begruendung_selbst": "Wir wollen bezahlbare Energie, aber bitte keine neuen Experimente unter unseren Füßen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Atomtechnik vor der Haustür?",
+      "thema": "energie",
+      "programmpunkt": "Sachsen-Anhalt soll frühzeitig Entwicklungs- und Ansiedlungsstandort für moderne Kernenergietechnologien werden.",
+      "seite": 15,
+      "zitat": "„Ansiedlungsstandort für moderne Kernenergietechnologien“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona ist veränderungsskeptisch und sucht Verlässlichkeit, nicht große technische Zukunftsversprechen. Moderne Kernenergie kann zwar niedrigere Preise versprechen, klingt für sie aber nach einem schwer kalkulierbaren Standort- und Sicherheitsrisiko.",
+      "begruendung_selbst": "Bei so etwas Großem will ich nicht Versuchsort sein, nur weil es modern klingt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht alles nur digital",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungen sollen digital verfügbare Leistungen künftig ausschließlich digital anbieten können; vor Ort soll es für Menschen ohne Internet aber weiter Erfassung geben.",
+      "seite": 49,
+      "zitat": "„ausschließlich digital anbieten können“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter nutzen eher Zeitung, Fernsehen, Telefon und Nachbarschaft als digitale Verwaltung. Auch mit Vor-Ort-Ausnahme kann ein Digital-only-Kurs für sie nach zusätzlicher Hürde klingen.",
+      "begruendung_selbst": "Wir wollen einen Menschen im Amt erreichen können, nicht nur irgendein Formular im Internet.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Helga und Dieter enthält das FDP-Programm viele konkrete Zusagen zu genau ihren Sorgen: bezahlbarere Energie, mobile und ländliche Gesundheitsversorgung, Pflege zu Hause, Polizei vor Ort und bessere Erreichbarkeit. Kritisch bleiben Punkte, die nach privatisiertem Risiko oder großen technischen Experimenten klingen, besonders kapitalgedeckte Pflegevorsorge, Elementarschäden ohne staatliche Rückendeckung, Fracking, Kernenergieansiedlung und Digital-only-Verwaltung. Insgesamt überwiegt für dieses sicherheitsorientierte Rentnerpaar der praktische Nutzen, auch wenn mehrere liberale Risikoverlagerungen Misstrauen auslösen.",
+    "score": 1
+  }
+}

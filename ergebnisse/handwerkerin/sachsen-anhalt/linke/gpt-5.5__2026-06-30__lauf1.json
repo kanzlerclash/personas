@@ -1,0 +1,174 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 68195,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich redet jemand vom Handwerk",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke benennt das Handwerk als zentralen Träger von Wirtschaft und Transformation und will ein Landesprogramm mit Investitionen in klimaneutrale Produktion, Energieeffizienz und digitale Werkzeuge.",
+      "seite": 93,
+      "zitat": "„Handwerk ist das Rückgrat unserer Wirtschaft“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine fühlt sich als SHK-Meisterin direkt gesehen, weil das Programm ihr Gewerk nicht nur als Randthema behandelt. Investitionen in Energieeffizienz und digitale Werkzeuge passen zu ihrem Bedarf an moderner Ausstattung und handwerklicher Wertschätzung.",
+      "begruendung_selbst": "Ich will nicht immer nur hören, was ich alles erfüllen muss. Wenn das Handwerk als Rückgrat gilt, dann muss es auch Unterstützung für Werkstatt, Fahrzeuge, Software und neue Technik geben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausbildung muss praktisch bleiben",
+      "thema": "bildung",
+      "programmpunkt": "Die Linke will die berufliche Bildung stärken, Kosten für Ausbildungsgänge senken, Berufsschulwege begrenzen und die technische Ausstattung der Berufsbildenden Schulen modernisieren.",
+      "seite": 31,
+      "zitat": "„Beste Ausbildung für gute berufliche Perspektiven“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine sucht Azubis und braucht Berufsschulen, die zum Handwerk passen. Kostenfreie Ausbildung, bessere Ausstattung und kürzere Wege können die Ausbildung attraktiver machen und Ausbildungsabbrüche senken.",
+      "begruendung_selbst": "Ich brauche junge Leute, die mit Werkzeug, Tablet und Plan umgehen können. Wenn Berufsschule moderner wird und die Wege nicht ewig sind, hilft mir das im Betrieb.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte schneller anerkennen",
+      "thema": "integration",
+      "programmpunkt": "Die Linke will ausländische Berufsabschlüsse schneller anerkennen und Brückenqualifizierungen für ausländische Fachkräfte, auch im Handwerk, anbieten.",
+      "seite": 100,
+      "zitat": "„Brückenqualifizierung: zwölfmonatige Programme für ausländische Fachkräfte“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine leidet unter Fachkräftemangel und ist pragmatisch, wenn qualifizierte Menschen schnell in Arbeit kommen. Anerkennung und Anpassungsqualifizierung berühren ihren Betrieb direkt, solange Standards im Handwerk gesichert bleiben.",
+      "begruendung_selbst": "Mir ist egal, wo jemand herkommt, wenn er sauber arbeitet und die Regeln kennt. Aber die Anerkennung darf nicht drei Jahre im Amt hängen bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strompreise müssen runter",
+      "thema": "energie",
+      "programmpunkt": "Die Linke will Energiepreise senken, Netzentgelte reduzieren, die Stromsteuer senken und Betriebe bei hohen Energiepreisen mitdenken.",
+      "seite": 106,
+      "zitat": "„Hohe Energiepreise treffen vor allem Menschen mit kleinen Einkommen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine hat in Werkstatt, Lager und Büro laufende Energiekosten und erlebt bei Kundinnen und Kunden Verunsicherung durch Wärmekosten. Dass das Programm Betriebe ausdrücklich bei Energiepreisen erwähnt, trifft einen ihrer Kernpunkte.",
+      "begruendung_selbst": "Ich merke jede Stromrechnung im Betrieb und jeder Kunde fragt zuerst nach den laufenden Kosten. Bezahlbare Energie ist keine Nebensache, das entscheidet über Aufträge.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitalisieren, aber vorher aufräumen",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Linke will Verwaltungsprozesse vor der Digitalisierung prüfen, überflüssige Aufgaben streichen und widersprüchliche oder doppelte Verfahren vereinfachen.",
+      "seite": 143,
+      "zitat": "„Überflüssige Aufgaben werden gestrichen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt viele Abende mit Nachweisen, Anträgen und wechselnden Vorgaben. Der Ansatz, analoge Bürokratie nicht einfach digital nachzubauen, passt genau zu ihrem Wunsch nach verlässlichen, einfachen Abläufen.",
+      "begruendung_selbst": "Ein Onlineformular hilft mir nicht, wenn dieselben drei Nachweise doppelt hochgeladen werden müssen. Erst den Unsinn raus, dann digital machen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung ohne Formularkrieg",
+      "thema": "demokratie",
+      "programmpunkt": "Die Linke kritisiert starre Förderprogramme und will kommunale Pauschalförderung, mehr Vertrauen und weniger Antragsaufwand.",
+      "seite": 79,
+      "zitat": "„ohne endlose Anträge, Formulare und Gänge durch Behörden“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn dieser Punkt Kommunen betrifft, bestätigt er Sabines Grundärger über Bürokratie. Sie überträgt die Logik auf Betriebe und Vereine: Wer vor Ort Verantwortung trägt, braucht handhabbare Förderung statt Förderlabyrinthe.",
+      "begruendung_selbst": "Genau so ist es doch überall: Erst passt kein Topf, dann fehlt ein Nachweis. Mehr Vertrauen vor Ort wäre auch für Betriebe ein Segen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Vorsicht bei der Betriebsnachfolge",
+      "thema": "steuern",
+      "programmpunkt": "Die Linke will eine Reform der Erbschafts- und Schenkungssteuer sowie eine stärkere Besteuerung großer Vermögen.",
+      "seite": 17,
+      "zitat": "„Die Reform der Erbschafts - und Schenkungssteuer“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines Betrieb ist Lebenswerk und Altersvorsorge; sie denkt bereits an die Übergabe in etwa zehn Jahren. Eine allgemein formulierte Reform der Erbschaftsteuer löst bei ihr Sorge aus, dass Betriebsvermögen und Nachfolge stärker belastet werden könnten.",
+      "begruendung_selbst": "Mein Betrieb ist kein Geldspeicher, sondern Werkstatt, Fuhrpark und Kredite. Wenn die Nachfolge steuerlich schwerer wird, trifft das nicht Millionäre, sondern Familienbetriebe wie meinen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch eine Steuer für Selbstständige",
+      "thema": "steuern",
+      "programmpunkt": "Die Linke will die Gewerbesteuer zu einer Gemeindewirtschaftssteuer weiterentwickeln und alle selbstständig erwirtschafteten Einkommen einbeziehen.",
+      "seite": 18,
+      "zitat": "„Alle selbstständig erwirtschafteten Einkommen werden einbezogen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine ist selbstständig und ohnehin mit Liquidität, Lohnkosten und Vorfinanzierung belastet. Auch mit Freibetrag klingt die Ausweitung für sie nach zusätzlicher steuerlicher Komplexität und einem weiteren Zugriff auf unternehmerische Einkommen.",
+      "begruendung_selbst": "Ich zahle schon genug und muss Material oft vorfinanzieren. Noch ein neues Steuermodell macht mir keine Planung leichter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "16,50 Euro trifft kleine Betriebe",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke fordert einen Vergabemindestlohn von 16,50 Euro pro Stunde und ein konsequentes Vergabegesetz.",
+      "seite": 86,
+      "zitat": "„einen Vergabemindestlohn von 16,50 Euro pro Stunde“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine zahlt gute Löhne, kalkuliert aber jeden Auftrag gegen Materialpreise, Energie und Konkurrenz. Ein hoher Vergabemindestlohn kann öffentliche Aufträge für kleine Betriebe verteuern und ihre Kalkulation weiter unter Druck setzen.",
+      "begruendung_selbst": "Ich will ordentliche Löhne zahlen, aber ich muss Angebote auch noch gewinnen können. Wenn die Politik die Untergrenze hochsetzt, muss sie sagen, wer die Mehrkosten bezahlt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "35 Stunden gehen nicht auf",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke nennt langfristig die 35-Stunden-Woche bei vollem Lohn als Ziel.",
+      "seite": 86,
+      "zitat": "„35 - Stunden - Woche bei vollem Lohn“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Bei vollen Auftragsbüchern und Fachkräftemangel wirkt dieses Ziel auf Sabine praxisfern. Im SHK-Handwerk würden weniger Stunden bei vollem Lohn ihre Terminplanung, Baustellenlogistik und Lohnkosten spürbar belasten.",
+      "begruendung_selbst": "Ich finde planbare Arbeit wichtig, aber meine Kunden warten jetzt schon auf Termine. 35 Stunden bei gleichem Lohn klingt auf der Baustelle nach noch mehr Druck.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitbestimmen ja, blockieren nein",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke will Mitentscheidungsrechte der Betriebsräte bei Investitionen, Standortfragen und Digitalisierung ausbauen.",
+      "seite": 87,
+      "zitat": "„Mitentscheidungsrechte der Betriebsräte bei Investitionen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine führt einen kleinen Betrieb mit acht Beschäftigten und entscheidet oft kurzfristig über Fahrzeuge, Software oder Werkzeuge. Zusätzliche formale Mitentscheidungsrechte klingen für sie nach verlangsamten Investitionen und mehr Abstimmungsaufwand.",
+      "begruendung_selbst": "Ich rede mit meinen Leuten, klar. Aber wenn ich jeden neuen Transporter oder jedes Programm erst formal durchverhandeln muss, verliere ich Zeit, die ich nicht habe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimapflicht statt Praxisplan",
+      "thema": "klima",
+      "programmpunkt": "Die Linke will ein verbindliches CO2-Budget, Klimawirkungsprüfungen und Klimaschutz als kommunale Pflichtaufgabe.",
+      "seite": 121,
+      "zitat": "„Klimaschutz zur Pflichtaufgabe der Kommunen machen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine ist nicht gegen Klimaschutz, reagiert aber empfindlich auf neue Pflichtsysteme, die unklare Regeln und zusätzliche Nachweise erzeugen. Aus ihrer Heizungsgesetz-Erfahrung liest sie verbindliche Klimaprüfungen als Risiko für neue Auflagen, Verzögerungen und verunsicherte Kundschaft.",
+      "begruendung_selbst": "Klimaschutz ja, aber bitte mit klaren Regeln, die auf der Baustelle funktionieren. Noch mehr Pflichtprüfungen bringen mir keine verlässlichen Aufträge.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine sieht im Programm der Linken einige sehr konkrete Anknüpfungspunkte für ihren Alltag: Handwerk, Ausbildung, Fachkräfteintegration, Energiepreise und aufgeräumte digitale Verwaltung werden ernst genommen. Gleichzeitig stößt sie sich an steuerlichen Umverteilungsplänen, arbeitsrechtlichen Kostentreibern und zusätzlichen Klimapflichten, weil sie diese als Risiko für Nachfolge, Liquidität und Planungssicherheit ihres kleinen Betriebs liest. Insgesamt bleibt ihr Eindruck gemischt: viel Anerkennung für das Handwerk, aber zu wenig Vertrauen in unternehmerische Eigenverantwortung.",
+    "score": 0
+  }
+}
