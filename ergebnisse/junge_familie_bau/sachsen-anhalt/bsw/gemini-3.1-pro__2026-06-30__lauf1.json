@@ -2,84 +2,112 @@
   "persona": "junge_familie_bau",
   "land": "sachsen-anhalt",
   "partei": "bsw",
-  "metrik": {
-    "uebereinstimmung": 9,
-    "betroffenheit": 10
-  },
-  "besonders_gut": [
-    {
-      "thema": "wohnen",
-      "programmpunkt": "Einführung von Freibeträgen bei der Grunderwerbsteuer sowie zinsgünstigen Krediten und Bürgschaften, um den Erwerb von Wohneigentum zu erleichtern.",
-      "seite": 31,
-      "zitat": "Freibeträge bei der Grunderwerbsteuer sowie zinsgünstige KfW-Programme und Bürgschaften",
-      "resonanz": "bestaetigt",
-      "bezug": "betrifft_mich",
-      "titel_selbst": "„Endlich Entlastung beim Hausbau!“",
-      "begruendung": "Tom und Jessica wollen ein Haus bauen, scheitern aber aktuell an den hohen Zinsen und Baunebenkosten. Die Forderung nach Freibeträgen bei der Grunderwerbsteuer und günstigen Krediten spricht direkt ihr größtes finanzielles Problem an.",
-      "begruendung_selbst": "„Genau das brauchen wir! Die Grunderwerbsteuer frisst unser ganzes Eigenkapital auf. Wenn das kommt, rückt unser Traum vom eigenen Haus endlich wieder in greifbare Nähe.“",
-      "beleg_ok": true
-    },
-    {
-      "thema": "steuern",
-      "programmpunkt": "Vollständige Abschaffung oder dauerhafter Erlass der Grundsteuer auf selbstgenutztes Wohneigentum speziell für junge Familien.",
-      "seite": 31,
-      "zitat": "die Grundsteuer auf selbstgenutztes Wohneigentum vollständig abschaffen bzw. dauerhaft erlassen",
-      "resonanz": "bestaetigt",
-      "bezug": "betrifft_mich",
-      "titel_selbst": "„Keine Strafe für Wohneigentum!“",
-      "begruendung": "Zusätzlich zu den Baukosten fürchtet die Familie die laufenden Kosten für ihr Eigenheim. Die Abschaffung der Grundsteuer für junge Familien wäre eine direkte und langfristige finanzielle Entlastung für ihr geplantes Haus.",
-      "begruendung_selbst": "„Dass junge Familien bei der Grundsteuer verschont werden sollen, ist nur fair! Wer sich mühsam etwas Eigenes aufbaut, sollte nicht Jahr für Jahr vom Staat dafür abkassiert werden.“",
-      "beleg_ok": true
-    },
-    {
-      "thema": "klima",
-      "programmpunkt": "Ablehnung von strengen energetischen Bauvorgaben und Zertifizierungen, da diese das Bauen unnötig verteuern.",
-      "seite": 31,
-      "zitat": "verpflichtende QNG-Standards oder vergleichbare Zertifizierungen lehnen wir ab",
-      "resonanz": "bestaetigt",
-      "bezug": "betrifft_mich",
-      "titel_selbst": "„Weg mit dem Sanierungs-Irrsinn!“",
-      "begruendung": "Die Persona sieht strenge Umweltauflagen wie das GEG als massive Hürde für den Traum vom Eigenheim. Dass die Partei zusätzliche energetische Standards ablehnt, weil sie Bauen verteuern, deckt sich exakt mit der Haltung der jungen Familie.",
-      "begruendung_selbst": "„Das ganze Energie-Chaos hat uns schon gereicht. Wir wollen klimafreundlich bauen, aber es muss bezahlbar bleiben! Dass diese ganzen irren Vorgaben wegfallen sollen, ist Musik in meinen Ohren.“",
-      "beleg_ok": true
-    },
-    {
-      "thema": "familie",
-      "programmpunkt": "Forderung nach flächendeckenden und beitragsfreien Kitas zur finanziellen und organisatorischen Entlastung von Familien.",
-      "seite": 46,
-      "zitat": "Wir setzen uns deshalb für beitragsfreie Kitas in Sachsen-Anhalt ein.",
-      "resonanz": "bestaetigt",
-      "bezug": "betrifft_mich",
-      "titel_selbst": "„Endlich verlässliche Betreuung!“",
-      "begruendung": "Als Doppelverdiener mit Kleinkind und Kinderwunsch sind Tom und Jessica zwingend auf zuverlässige Kinderbetreuung angewiesen. Beitragsfreiheit sichert ihre Erwerbstätigkeit und entlastet sie finanziell enorm.",
-      "begruendung_selbst": "„Wenn wir noch ein Kind wollen, brauchen wir verlässliche Betreuung. Und beitragsfreie Kitas wären eine riesige Erleichterung für unser Familienbudget. Aktuell zahlen wir uns ja dumm und dämlich.“",
-      "beleg_ok": true
-    },
-    {
-      "thema": "energie",
-      "programmpunkt": "Abschaffung der CO2-Abgabe und Senkung der Energiesteuern zur finanziellen Entlastung der Bürger.",
-      "seite": 6,
-      "zitat": "Die Energiesteuern müssen runter. Die CO2-Abgabe gehört abgeschafft.",
-      "resonanz": "bestaetigt",
-      "bezug": "betrifft_mich",
-      "titel_selbst": "„Spritkosten müssen runter!“",
-      "begruendung": "Da die Familie im Speckgürtel lebt, pendeln beide täglich mit dem Auto zur Arbeit. Die hohen Kosten für Benzin und Heizen belasten das Haushaltsbudget stark, weshalb die Abschaffung der CO2-Abgabe sie direkt entlasten würde.",
-      "begruendung_selbst": "„Wir sind auf unsere Autos angewiesen, um zur Arbeit zu pendeln. Die ständigen Erhöhungen beim Sprit und Heizen durch den CO2-Preis machen uns fertig. Da muss dringend gegengesteuert werden!“",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
-    }
-  ],
-  "besonders_schlecht": [],
-  "gesamt": {
-    "fazit_selbst": "„Ich bin echt überrascht. Die Partei spricht genau unsere größten Sorgen an: Bauen soll wieder bezahlbar werden, die verrückten Energieauflagen sollen weg und die Kitas gratis. Das klingt fast zu schön, um wahr zu sein!“",
-    "begruendung_selbst": "„Wir stehen als Familie in der Mitte der Gesellschaft massiv unter Druck. Alles wird teurer: Bauen, Heizen, Tanken. Die Forderungen nach Freibeträgen bei der Grunderwerbsteuer, der Abschaffung der CO2-Abgabe und günstigeren Krediten treffen genau den Kern unserer Probleme. Dass sie außerdem den ganzen Sanierungszwang beim Hausbau stoppen wollen, nimmt uns eine riesige Last von den Schultern. Ob sie das alles so umsetzen können, steht natürlich auf einem anderen Blatt, aber inhaltlich holt uns das Programm wirklich zu hundert Prozent ab.“"
-  },
-  "modell_slug": "gemini-3.1-pro",
   "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
   "zeitpunkt": "2026-06-30T00:00:00Z",
   "temperatur": 0,
   "lauf": 1,
   "programm_stand": null,
   "prompt_version": "vergleich.v1",
-  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)"
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Eigenheim-Förderung für uns!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will gezielt zusätzliches Bauland ausweisen und Wohneigentum für Familien fördern.",
+      "seite": 31,
+      "zitat": "Ausweisung zusätzlicher Bauflächen ein, insbesondere für den Bau von Eigenheimen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica fühlen sich mit ihrem Traum vom Hausbau direkt angesprochen, da die Partei die Schaffung von neuem Bauland für Familien priorisiert.",
+      "begruendung_selbst": "Wir wollen endlich bauen und nicht ewig Miete zahlen. Dass hier explizit von zusätzlichen Bauflächen für Familien die Rede ist, macht uns wirklich Hoffnung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weg mit der Grunderwerbsteuer!",
+      "thema": "steuern",
+      "programmpunkt": "Einführung von Freibeträgen bei der Grunderwerbsteuer, um Normalverdiener beim Immobilienkauf zu entlasten.",
+      "seite": 31,
+      "zitat": "steuerliche Sonderabschreibungen und Freibeträge bei der Grunderwerbsteuer sowie zinsgünstige KfW-Programme",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Baunebenkosten sind für das Paar eine enorme finanzielle Hürde. Die geforderten steuerlichen Freibeträge würden ihr knapp kalkuliertes Eigenkapital sofort schonen.",
+      "begruendung_selbst": "Wir verdienen beide ordentlich, aber die Kaufnebenkosten fressen unsere ganzen Ersparnisse auf! Steuerfreibeträge sind genau der Hebel, den wir jetzt beim Bauen brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz darf Bauen nicht verteuern!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei lehnt teure energetische Zertifizierungen und strenge Standards beim Hausbau ab.",
+      "seite": 31,
+      "zitat": "verpflichtende QNG-Standards oder vergleichbare Zertifizierungen lehnen wir ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar ist sehr skeptisch gegenüber strengen Energieauflagen, da diese das Bauen weiter verteuern. Die Ablehnung solcher Vorgaben passt perfekt zu ihrer pragmatischen Haltung.",
+      "begruendung_selbst": "Gegen Klimaschutz haben wir nichts, aber diese ganzen strengen Vorgaben machen den Hausbau unbezahlbar. Gut, dass endlich jemand sagt, dass Bauen erschwinglich bleiben muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenlose Kitas entlasten enorm!",
+      "thema": "familie",
+      "programmpunkt": "Die Kinderbetreuung in Kitas soll für alle Familien vollständig beitragsfrei werden.",
+      "seite": 46,
+      "zitat": "Wir setzen uns deshalb für beitragsfreie Kitas in Sachsen-Anhalt ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener mit Kleinkind ist das Paar auf eine verlässliche und bezahlbare Betreuung angewiesen. Der Wegfall der Kita-Gebühren lindert ihren finanziellen Druck spürbar.",
+      "begruendung_selbst": "Damit wir beide arbeiten können, brauchen wir die Kita. Wenn die Beiträge wegfallen, haben wir jeden Monat viel mehr Geld auf dem Konto für unsere Haus-Finanzierung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bezahlbar zur Arbeit pendeln!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Energiesteuern sowie die CO2-Abgabe sollen gestrichen werden, um Kraftstoffe deutlich günstiger zu machen.",
+      "seite": 7,
+      "zitat": "Die Energiesteuern müssen runter. Die CO₂-Abgabe gehört abgeschafft.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für die tägliche Fahrt aus dem Speckgürtel zur Arbeit sind Tom und Jessica auf das Auto angewiesen. Sinkende Spritkosten durch weniger Steuern kommen ihnen direkt zugute.",
+      "begruendung_selbst": "Wir wohnen im Umland und kommen ohne Auto gar nicht zur Arbeit. Wenn die Benzinpreise gedeckelt und die CO2-Steuern gestrichen werden, hilft uns das im Alltag wirklich weiter.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sanierung vor Neubau bremst uns!",
+      "thema": "wohnen",
+      "programmpunkt": "Um Flächen zu schonen, soll primär auf Nachverdichtung und Altbausanierung statt auf die Ausweisung von Neubaugebieten gesetzt werden.",
+      "seite": 31,
+      "zitat": "Grundsatz „Sanierung vor Neubau“ sollen den Flächenverbrauch begrenzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dieses Prinzip schränkt die Ausweisung von neuem Bauland ein und steht im direkten Widerspruch zu ihrem Wunsch, auf der grünen Wiese im Speckgürtel ein neues Eigenheim zu bauen.",
+      "begruendung_selbst": "Wenn jetzt überall Sanierung vor Neubau gilt, wo sollen dann unsere neuen Baugrundstücke herkommen? Alte Häuser sanieren ist für uns oft teurer und unberechenbarer als neu zu bauen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht nur Sozialwohnungen fördern!",
+      "thema": "wohnen",
+      "programmpunkt": "Es sollen massive Mittel in den Ausbau von sozialem und gemeinnützigem Wohnungsbau fließen.",
+      "seite": 31,
+      "zitat": "Sozialen und gemeinnützigen Wohnungsbau ausweiten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als leistungsorientiertes Mittelschichtspaar befürchten sie, dass staatliche Förderungen vor allem in Sozialwohnungen fließen und die arbeitende Mitte bei der Wohneigentumsförderung letztlich hinten ansteht.",
+      "begruendung_selbst": "Es ist ja richtig, dass es günstige Mietwohnungen geben muss. Aber wir arbeiten beide Vollzeit und wollen etwas Eigenes aufbauen – die Politik darf die arbeitende Mitte nicht aus dem Blick verlieren!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica finden im Programm des BSW überraschend viele Überschneidungen mit ihren Zielen, da die Partei den Bau von Eigenheimen durch die Ausweisung von Flächen und Freibeträge bei der Grunderwerbsteuer gezielt fördern will. Auch die Forderungen nach beitragsfreien Kitas, dem Abbau teurer energetischer Bauauflagen und sinkenden Benzinpreisen entlasten die arbeitende junge Familie finanziell enorm. Kritisch sehen sie lediglich den restriktiven Ansatz „Sanierung vor Neubau“, da dieser potenzielles Bauland im Speckgürtel verknappt, sowie die starke Fokussierung öffentlicher Mittel auf den sozialen Mietwohnungsbau.",
+    "score": 1
+  }
 }

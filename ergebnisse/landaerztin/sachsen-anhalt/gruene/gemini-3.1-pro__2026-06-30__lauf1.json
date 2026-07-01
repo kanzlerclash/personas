@@ -1,83 +1,9 @@
 {
   "persona": "landaerztin",
-  "partei": "gruene",
   "land": "sachsen-anhalt",
-  "besonders_gut": [
-    {
-      "thema": "digitalisierung",
-      "seite": 89,
-      "zitat": "Verfahren durch klare Zuständigkeiten sowie digitale, medienbruchfreie Prozesse deutlich beschleunigt werden.",
-      "bezug": "betrifft_mich",
-      "resonanz": "bestaetigt",
-      "begruendung": "Die Hausärztin leidet massiv unter Zettelwirtschaft und dysfunktionalen IT-Strukturen, die sie viel Zeit nach Feierabend kosten. Die explizite Forderung nach praxistauglichen und medienbruchfreien Systemen verspricht ihr mehr echte Behandlungszeit.",
-      "begruendung_selbst": "Endlich versteht mal jemand, dass wir funktionierende Systeme brauchen und nicht noch mehr fehlerhaften Zettelkram!",
-      "titel_selbst": "Medienbruchfreie Prozesse, endlich!",
-      "beleg_ok": true
-    },
-    {
-      "thema": "verkehr",
-      "seite": 29,
-      "zitat": "alle Dörfer mindestens einmal pro Stunde zuverlässig zu erreichen.",
-      "bezug": "meine_sicht_auf_andere",
-      "resonanz": "bestaetigt",
-      "begruendung": "Die mangelnde Mobilität vieler älterer Patientinnen und Patienten im ländlichen Raum ist eine ständige Sorge für die Ärztin. Eine verlässliche ÖPNV-Anbindung entlastet sie auch bei der Frage nach notwendigen, aber zeitaufwendigen Hausbesuchen.",
-      "begruendung_selbst": "Wenn der Bus öfter fährt, kommen meine älteren Patienten endlich wieder eigenständig und sicher in die Praxis.",
-      "titel_selbst": "Ein Bus für meine Patienten!",
-      "beleg_ok": true
-    },
-    {
-      "thema": "gesundheit",
-      "seite": 80,
-      "zitat": "durch entsprechend geschultes Personal in der zentralen Leitstelle erfolgen.",
-      "bezug": "betrifft_mich",
-      "resonanz": "bestaetigt",
-      "begruendung": "Als Landärztin ist sie in den ärztlichen Bereitschaftsdienst eingebunden und leidet unter den häufigen Fehlsteuerungen von Notfällen. Eine professionelle Triage entlastet die Hausärzte und sorgt für gezieltere Einsätze.",
-      "begruendung_selbst": "Eine professionelle Vorab-Einschätzung nimmt uns im Bereitschaftsdienst enorm viel Druck aus dem Kessel.",
-      "titel_selbst": "Gute Steuerung im Bereitschaftsdienst!",
-      "beleg_ok": true
-    }
-  ],
-  "besonders_schlecht": [
-    {
-      "thema": "gesundheit",
-      "seite": 80,
-      "zitat": "Förderung kommunaler Medizinischer Versorgungszentren (MVZ) ein, um die flächendeckende medizinische Versorgung",
-      "bezug": "betrifft_mich",
-      "resonanz": "kontaer",
-      "begruendung": "Als selbstständige Landärztin sieht sie kommunale MVZs als staatlich gelenkte Konkurrenz, die das Problem fehlender ärztlicher Praxisnachfolger nicht ursächlich löst, sondern die ärztliche Freiberuflichkeit untergräbt.",
-      "begruendung_selbst": "Statt noch mehr staatliche MVZs zu fördern, solltet ihr lieber die freie Niederlassung auf dem Land attraktiver machen!",
-      "titel_selbst": "Ein Amt ersetzt keinen Hausarzt!",
-      "beleg_ok": true
-    },
-    {
-      "thema": "digitalisierung",
-      "seite": 84,
-      "zitat": "ein Landeszentrum für angewandte Telemedizin und -pflege zu gründen",
-      "bezug": "betrifft_mich",
-      "resonanz": "kontaer",
-      "begruendung": "Sie hat bereits täglich mit schlecht funktionierender Telematikinfrastruktur und eAU-Problemen zu kämpfen. Ein neues staatliches Zentrum für Telemedizin wirkt auf sie wie ein weiterer bürokratischer Wasserkopf, der die akuten Praxisprobleme ignoriert.",
-      "begruendung_selbst": "Nicht noch ein Zentrum! Bringt erstmal die grundlegende Basis in den Praxen zum Laufen, bevor ihr neue Leuchtturmprojekte startet.",
-      "titel_selbst": "Bürokratie statt Basis-IT!",
-      "beleg_ok": true
-    },
-    {
-      "thema": "gesundheit",
-      "seite": 89,
-      "zitat": "Konzepten für mobile Arztpraxen kann so die Grundversorgung vor Ort gesichert werden.",
-      "bezug": "betrifft_mich",
-      "resonanz": "kontaer",
-      "begruendung": "Für die engagierte Ärztin sind rollende Arztpraxen lediglich ein unzureichendes Pflaster auf einer strukturellen Wunde. Sie wünscht sich echte, stationäre Arztpraxen in den Dörfern und empfindet mobile Praxen als Notlösung, die eine feste Bindung zwischen Arzt und Patient verhindert.",
-      "begruendung_selbst": "Ein Arztbus ersetzt doch keine vollausgestattete, vertraute Hausarztpraxis vor Ort!",
-      "titel_selbst": "Ein Bus macht noch keine Praxis!",
-      "beleg_ok": true
-    }
-  ],
-  "gesamt": {
-    "zusammenfassung": "Die Grünen in Sachsen-Anhalt setzen stark auf Dezentralisierung, Digitalisierung der Verwaltung und kommunale Lösungen im Gesundheitswesen. Während der Ansatz zur Entbürokratisierung, die Stärkung des ÖPNV im ländlichen Raum sowie die zentrale Leitstelle im Bereitschaftsdienst der Landärztin sehr entgegenkommen, sieht sie die Pläne im Bereich der ärztlichen Versorgung kritisch. Insbesondere die geplante Telemedizin-Offensive durch ein Landeszentrum, die Förderung von kommunalen MVZs und die Idee rollender Arztpraxen wirken auf sie wie staatliche Ersatzlösungen, die an der Stärkung der freiberuflichen ärztlichen Niederlassung vorbeigehen.",
-    "metrik": null
-  },
-  "modell_slug": "gemini-3.1-pro",
+  "partei": "gruene",
   "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
   "zeitpunkt": "2026-06-30T00:00:00Z",
   "temperatur": 0,
   "lauf": 1,
@@ -91,5 +17,97 @@
     "total_tokens": null,
     "dauer_ms": null,
     "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich MVZs ohne Profit-Gier!",
+      "thema": "gesundheit",
+      "programmpunkt": "Förderung von kommunalen Medizinischen Versorgungszentren, um Gesundheitsversorgung unabhängig von privaten Investoren zu sichern.",
+      "seite": 80,
+      "zitat": "flächendeckende medizinische Versorgung unabhängig von privaten Investoren sicherzustellen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sieht die zunehmende Ökonomisierung des Gesundheitswesens kritisch und befürwortet Modelle, die nicht auf Rendite, sondern auf Grundversorgung ausgerichtet sind.",
+      "begruendung_selbst": "Rendite-Logik hat in der ländlichen Grundversorgung nichts zu suchen. Es ist gut, dass Kommunen unterstützt werden sollen, Medizinische Versorgungszentren in Eigenregie und ohne private Heuschrecken aufzubauen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bessere Notfall-Koordination!",
+      "thema": "gesundheit",
+      "programmpunkt": "Zusammenlegung der Leitzentralen von 112 und 116 117 für eine zielgerichtete Patientennavigation.",
+      "seite": 80,
+      "zitat": "gebündelte Leitzentrale für den Rettungsdienst (112) und den ärztlichen Bereitschaftsdienst (116 117) schaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Hausärztin mit vollen Sprechstunden weiß Petra um die Überlastung des Notdienstes und erhofft sich durch eine zentrale Steuerung eine Entlastung der Strukturen.",
+      "begruendung_selbst": "Der Bereitschaftsdienst ist oft völlig überlastet, weil Patienten nicht wissen, wohin sie gehören. Eine zentrale Stelle, die das vernünftig steuert, würde uns Ärzten enorm den Rücken freihalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Glasfaser für meine Praxis!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Flächendeckender Breitbandausbau im ländlichen Raum als Teil der öffentlichen Daseinsvorsorge.",
+      "seite": 89,
+      "zitat": "Ausbau von Glasfaserinfrastruktur auch in der Fläche, bis zur letzten Milchkanne",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Petra ist eine funktionierende IT-Infrastruktur entscheidend, da sie sich regelmäßig über eine belastende und schlecht funktionierende Telematikinfrastruktur in ihrer Praxis ärgert.",
+      "begruendung_selbst": "Ohne stabiles Internet bringt mir die ganze erzwungene Digitalisierung mit eAU und ePA gar nichts. Dass das Land Glasfaser als echte Daseinsvorsorge auch auf dem Dorf sichern will, ist dringend nötig!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie-Check für den Alltag!",
+      "thema": "demokratie",
+      "programmpunkt": "Abbau von Dokumentationspflichten und Einführung von Praxischecks für Verwaltungsabläufe.",
+      "seite": 89,
+      "zitat": "Mit verpflichtenden Praxischecks sollen Verwaltungsvorgänge im Alltag auf mögliche Vereinfachungen überprüft werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra leidet massiv unter der überbordenden Bürokratie, die sie nach Feierabend bewältigen muss, und wünscht sich dringend pragmatische Erleichterungen.",
+      "begruendung_selbst": "Ich sitze halbe Nächte an Formularen statt bei meinen Patienten. Wenn die Politik endlich mal in der Praxis prüft, was diese ganzen Berichtspflichten für einen Aufwand bedeuten, wäre uns sehr geholfen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Und was wird aus meiner Praxis?",
+      "thema": "gesundheit",
+      "programmpunkt": "Schaffung attraktiver Anstellungsverhältnisse in kommunalen Gesundheitszentren für junge Mediziner.",
+      "seite": 80,
+      "zitat": "Damit schaffen wir überdies attraktive Beschäftigungsverhältnisse für junge Ärzt*innen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra sucht händeringend eine Nachfolge für ihre eigene Landarztpraxis und fürchtet, dass der Fokus auf kommunale Anstellungsverhältnisse Einzelpraxen wie ihre ausblutet.",
+      "begruendung_selbst": "Es ist ja schön, wenn junge Kollegen angestellt arbeiten wollen. Aber wenn die Politik nur noch kommunale Zentren fördert, finde ich nie jemanden, der meine Einzelpraxis übernimmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch ein Landeszentrum?",
+      "thema": "digitalisierung",
+      "programmpunkt": "Gründung eines neuen Landeszentrums für angewandte Telemedizin und Pflege.",
+      "seite": 84,
+      "zitat": "ein Landeszentrum für angewandte Telemedizin und -pflege zu gründen:",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Praktikerin steht Petra neuen staatlichen Zentren kritisch gegenüber, wenn diese aus ihrer Sicht Ressourcen binden, anstatt die konkrete Versorgung vor Ort zu verbessern.",
+      "begruendung_selbst": "Noch ein neues Landeszentrum? Wir brauchen junge Kollegen, die sich hier auf dem Land niederlassen, und keine weiteren staatlichen Leuchtturmprojekte für Telemedizin, die in der Praxis ohnehin nur ruckelt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch länger zu den Hausbesuchen!",
+      "thema": "verkehr",
+      "programmpunkt": "Einführung von Tempo 30 als generelle Regelgeschwindigkeit innerhalb von Ortschaften.",
+      "seite": 31,
+      "zitat": "mit Tempo 30 als innerörtliche Regelgeschwindigkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra ist für ihre zahlreichen Hausbesuche im ländlichen Raum auf das Auto angewiesen und befürchtet durch generelle Geschwindigkeitsreduzierungen noch längere Arbeitswege.",
+      "begruendung_selbst": "Meine Patienten wohnen weit verstreut auf den Dörfern. Wenn ich jetzt überall nur noch Tempo 30 fahren darf, verbringe ich noch mehr Zeit im Auto statt bei den Kranken.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra begrüßt den geplanten Bürokratieabbau sowie die Bemühungen um den Ausbau der digitalen und medizinischen Infrastruktur. Gleichzeitig steht sie einer zu starken Fokussierung auf kommunale Anstellungen und neuen staatlichen Zentren skeptisch gegenüber, da sie diese als Konkurrenz zu ihrer eigenen Praxisnachfolge oder als praxisferne Verwaltungsprojekte wahrnimmt.",
+    "score": 1
   }
 }

@@ -1,56 +1,114 @@
 {
   "persona": "rentnerpaar",
-  "partei": "cdu",
-  "modell": "gemini-3.1-pro",
-  "besonders_gut": [
-    {
-      "thema": "pflege",
-      "seite": 27,
-      "zitat": "Auf Bundesebene setzen wir uns für eine grundlegende Reform der Pflegeversicherung ein, mit gedeckelten Eigenanteilen, fairer Finanzierung und Schutz des selbstgenutzten Wohneigentums.",
-      "begruendung": "Das greift genau die größte finanzielle Angst von Helga und Dieter auf. Sie fürchten nichts mehr, als ihr abbezahltes Haus wegen möglicher Pflegekosten verkaufen zu müssen.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
-    },
-    {
-      "thema": "verkehr",
-      "seite": 62,
-      "zitat": "Wir stehen einer ideologisch motivierten und grundlosen Ausweitung von Geschwindigkeitsbeschränkungen auf Autobahnen und auf innerörtlichen Durchgangsstraßen auf Tempo 30 entschlossen entgegen. Ebenfalls stehen wir für einen ideologiefreien motorisierten Individualverkehr.",
-      "begruendung": "Für das Rentnerpaar auf dem Land ist das Auto unverzichtbar („Ohne Auto geht hier nichts“). Die klare Positionierung der CDU für das Auto und gegen staatliche Einschränkungen spricht sie als veränderungsskeptische Wähler stark an.",
-      "beleg_ok": true
-    },
-    {
-      "thema": "sicherheit",
-      "seite": 20,
-      "zitat": "Die Sicherheit der Bürgerinnen und Bürger sowie der Schutz des Eigentums und die Prävention vor Einbrüchen in Wohnungen und Unternehmen genießt für uns höchsten Stellenwert.",
-      "begruendung": "Helga und Dieter machen sich große Sorgen um steigende Kriminalität, insbesondere Einbrüche auf dem Land. Das starke Bekenntnis der CDU zu Sicherheit und Ordnung sowie zur Prävention gibt ihnen das gewünschte Sicherheitsgefühl.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
-    }
-  ],
-  "besonders_schlecht": [
-    {
-      "thema": "digitalisierung",
-      "seite": 51,
-      "zitat": "Digitalisierung entscheidet heute über Leistungsfähigkeit, Standortattraktivität und Lebensqualität.",
-      "begruendung": "Dem Rentnerpaar ist diese starke Fokussierung auf Digitalisierung suspekt („Dieser ganze App-Quatsch“). Sie befürchten bei solchen Aussagen, dass sie als weniger digital affine Menschen künftig von der Gesellschaft und der Daseinsvorsorge abgehängt werden.",
-      "beleg_ok": true
-    }
-  ],
-  "gesamt": {
-    "zusammenfassung": "Das CDU-Programm spricht Helga und Dieter inhaltlich extrem stark an, da es passgenau ihre Kernanliegen und existenziellen Ängste adressiert. Der Schutz des mühsam erarbeiteten Eigenheims vor Pflegekosten, die Ablehnung von Fahrverboten und das klare Bekenntnis zum Auto auf dem Land geben dem sicherheitsorientierten Rentnerpaar das gewünschte Gefühl von Verlässlichkeit. Die harte Linie in der Sicherheitspolitik und beim Schutz vor Einbrüchen entspricht exakt ihrem ordnungspolitischen Kompass. Einzig der starke, als modern empfundene Fokus auf eine umfassende Digitalisierung der Gesellschaft stößt bei ihnen auf Skepsis, fällt aber angesichts der ansonsten stark auf ihre Bedürfnisse zugeschnittenen Versprechen kaum ins Gewicht.",
-    "score": 2
-  },
-  "metrik": {
-    "bewertungs_id": "rentnerpaar-cdu-gemini-3.1-pro-2026-06-30",
-    "themen_treffer": 3,
-    "widersprueche": 1
-  },
   "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
   "modell_slug": "gemini-3.1-pro",
   "zeitpunkt": "2026-06-30T00:00:00Z",
   "temperatur": 0,
   "lauf": 1,
   "programm_stand": null,
   "prompt_version": "vergleich.v1",
-  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)"
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "„Endlich wieder sicherer schlafen!“",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will die Polizeipräsenz vor Ort stärken und legt einen klaren Schwerpunkt auf den Schutz vor Einbrüchen in Wohnungen.",
+      "seite": 6,
+      "zitat": "„Der Schutz des Eigentums und die Prävention vor Einbrüchen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fühlen sich in ihrem Dorf zunehmend unsicher und fürchten Einbrüche in ihr Eigenheim. Das Versprechen von mehr sichtbarer Polizei und einem klaren Fokus auf Einbruchschutz gibt ihnen das erhoffte Gefühl von Verlässlichkeit und Ordnung zurück.",
+      "begruendung_selbst": "„Wenn man abends die Rollläden runtermacht, ist einem manchmal schon mulmig. Wir brauchen einfach wieder mehr Polizei, die im Ort Streife fährt und nach dem Rechten sieht – da hat die CDU völlig recht!“",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "„Gott sei Dank kein Solar-Zwang!“",
+      "thema": "energie",
+      "programmpunkt": "Die CDU lehnt verpflichtende Vorgaben für Solaranlagen bei Neubauten oder Dachsanierungen entschieden ab und setzt auf Freiwilligkeit.",
+      "seite": 46,
+      "zitat": "„lehnen jegliche Form der Solarpflicht bei Neubauten und Dachsanierungen konsequent ab.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dem Rentnerpaar bereitet die Sorge vor teuren und verpflichtenden energetischen Sanierungsmaßnahmen schlaflose Nächte. Die strikte Ablehnung einer Solarpflicht nimmt ihnen die konkrete Angst vor einer finanziellen Überforderung durch ihr älteres Haus.",
+      "begruendung_selbst": "„Wir hatten schon solche Angst, dass wir einen Kredit für eine neue Anlage aufnehmen müssen, den uns doch gar keine Bank mehr gibt. Wenn wir das Dach in Ruhe lassen können, fällt uns ein riesiger Stein vom Herzen.“",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "„Unser Häuschen bleibt uns sicher!“",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert eine Reform der Pflegeversicherung auf Bundesebene, die eine Deckelung der Eigenanteile und den Schutz des eigenen Hauses garantiert.",
+      "seite": 29,
+      "zitat": "„mit gedeckelten Eigenanteilen, fairer Finanzierung und Schutz des selbstgenutzten Wohneigentums.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dieter und Helga fürchten nichts mehr, als im Pflegefall ihr mühsam abbezahltes Haus verkaufen zu müssen. Der explizite Schutz des Wohneigentums trifft genau ihren Wunsch nach finanzieller Sicherheit am Lebensende.",
+      "begruendung_selbst": "„Wir haben unser ganzes Leben für dieses Haus gespart und auf vieles verzichtet. Es wäre ein Albtraum, wenn wir das für die Pflege hergeben müssten – gut, dass unser Eigentum geschützt werden soll!“",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "„Nicht jeder hat ein Smartphone!“",
+      "thema": "familie",
+      "programmpunkt": "Die CDU will sicherstellen, dass bei Behörden oder Dienstleistungen weiterhin analoge Kontaktmöglichkeiten ohne digitale Hürden angeboten werden.",
+      "seite": 32,
+      "zitat": "„Auch analoge Kontaktmöglichkeiten müssen weiterhin vorgehalten werden.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Beide Rentner fühlen sich von der rasanten Digitalisierung im Alltag oft überfordert und abgehängt. Dass weiterhin analoge Anlaufstellen und Kontaktwege erhalten bleiben sollen, gibt ihnen das Gefühl, in der Gesellschaft berücksichtigt zu werden.",
+      "begruendung_selbst": "„Immer heißt es nur noch 'Laden Sie die App herunter' oder 'Gehen Sie ins Internet'. Wir wollen aber mit echten Menschen reden, wenn wir ein Formular brauchen! Endlich sieht jemand, dass man die Älteren da nicht vergessen darf.“",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "„Richtig so, wer kann, muss arbeiten!“",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert eine verbindliche Bürgerarbeit für arbeitsfähige Sozialleistungsempfänger, die als Gegenleistung für staatliche Unterstützung gemeinnützige Arbeit verrichten sollen.",
+      "seite": 30,
+      "zitat": "„Wer eine staatliche Leistung bekommt und arbeitsfähig ist, der muss auch etwas zurückgeben.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter haben ihr ganzes Leben lang gearbeitet und Steuern gezahlt. Die Forderung nach strengeren Gegenleistungen für Sozialleistungen entspricht ihrem traditionellen Leistungsethos und ihrem Gerechtigkeitsempfinden.",
+      "begruendung_selbst": "„Wir sind jeden Morgen früh aufgestanden und haben geschuftet, auch wenn es schwer war. Da kann es doch nicht sein, dass sich junge, gesunde Leute auf Staatskosten ausruhen. Das muss endlich wieder strenger geregelt werden!“",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "„Ein Bus ist keine Hausarztpraxis!“",
+      "thema": "gesundheit",
+      "programmpunkt": "Um dem Ärztemangel auf dem Land zu begegnen, plant die Partei den Einsatz von medizinischen Versorgungsbussen als fahrbare Arztpraxen mit Fahrplan.",
+      "seite": 29,
+      "zitat": "„streben wir die Einführung eines sogenannten Medi-Busses an.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dieter und Helga machen sich große Sorgen um ihre lokale Gesundheitsversorgung, falls ihr Hausarzt in Rente geht. Die Idee eines Busses, der nur zeitweise vorbeikommt, empfinden sie als unzureichenden Notnagel.",
+      "begruendung_selbst": "„Wir brauchen einen echten Hausarzt im Dorf, den wir kennen und dem wir vertrauen! Was nützt uns ein Arzt auf Rädern, der nur alle paar Wochen hier hält und dann wieder weg ist, wenn man akut krank wird?“",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "„Wir haben unseren Ruhestand verdient!“",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei möchte gezielt Anreize setzen, damit Menschen auch nach Renteneintritt weiter arbeiten, indem dies sozialversicherungsfrei und unbürokratisch gestaltet wird.",
+      "seite": 18,
+      "zitat": "„bessere Anreize für Mehrarbeit und Arbeit im Rentenalter schaffen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mit ihren kleinen Renten spüren sie finanziellen Druck, lehnen es aber kategorisch ab, die Versorgungslücke durch Arbeit im Alter schließen zu müssen. Die politische Betonung auf Arbeit im Rentenalter empfinden sie als unpassend gegenüber ihrer lebenslangen Arbeitsleistung.",
+      "begruendung_selbst": "„Wir haben Jahrzehnte gebuckelt und unsere Knochen hingehalten. Statt ordentliche, sichere Renten zu garantieren, wollen die jetzt, dass wir als alte Menschen noch Regale einräumen oder putzen gehen. Das ist doch kein würdevoller Lebensabend!“",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Rentnerpaar findet im Programm der CDU viele beruhigende Antworten auf seine zentralen Sorgen, insbesondere beim Schutz des Eigenheims vor Sanierungszwängen und beim Fokus auf innere Sicherheit. Auch die Bewahrung analoger Kontaktwege und der Schutz von Wohneigentum bei Pflegekosten stärken ihr Vertrauen. Irritiert und besorgt reagieren sie jedoch auf die Idee eines medizinischen Versorgungsbusses anstelle fester Hausärzte sowie auf politische Anreize zu mehr Erwerbsarbeit im Rentenalter.",
+    "score": 1
+  }
 }

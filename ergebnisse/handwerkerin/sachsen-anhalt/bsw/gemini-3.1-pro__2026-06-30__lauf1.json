@@ -1,77 +1,9 @@
 {
   "persona": "handwerkerin",
-  "partei": "bsw",
   "land": "sachsen-anhalt",
-  "besonders_gut": [
-    {
-      "thema": "wirtschaft",
-      "bezug": "betrifft_mich",
-      "zitat": "Die kleinen und mittleren Unternehmen (KMU) bilden das Rückgrat unserer Wirtschaft.",
-      "seite": 20,
-      "erklaerung": "Als mittelständische Unternehmerin fühlt sie sich und ihren Beitrag zur Gesellschaft vom BSW anerkannt und wertgeschätzt.",
-      "resonanz": "bestaetigt",
-      "beleg_ok": true
-    },
-    {
-      "thema": "arbeit",
-      "bezug": "betrifft_mich",
-      "zitat": "Berufliche Bildung, Handwerk und Meisterqualifikation aufwerten und unterstützen",
-      "seite": 23,
-      "erklaerung": "Als stolze Meisterin, die selbst ausbildet, befürwortet sie die Aufwertung der Meisterqualifikation und der beruflichen Bildung sehr.",
-      "resonanz": "bestaetigt",
-      "beleg_ok": true
-    },
-    {
-      "thema": "energie",
-      "bezug": "betrifft_mich",
-      "zitat": "Daher fordern wir, diese ungerechte Steuer auszusetzen oder abzuschaffen.",
-      "seite": 27,
-      "erklaerung": "Die Abschaffung der CO2-Abgabe würde ihren energieintensiven Betrieb und ihre Kunden finanziell entlasten.",
-      "resonanz": "bestaetigt",
-      "beleg_ok": true
-    },
-    {
-      "thema": "wohnen",
-      "bezug": "betrifft_mich",
-      "zitat": "Ein Moratorium für immer neue Bauvorschriften und eine Entschlackung der Normen",
-      "seite": 31,
-      "erklaerung": "Weniger bürokratische Bauvorgaben sind ganz in ihrem Sinne, da die Überregulierung ihre Aufträge und Kunden lähmt.",
-      "resonanz": "bestaetigt",
-      "beleg_ok": true
-    }
-  ],
-  "besonders_schlecht": [
-    {
-      "thema": "arbeit",
-      "bezug": "betrifft_mich",
-      "zitat": "die Meisterbindung nicht zwingend erforderlich ist",
-      "seite": 23,
-      "erklaerung": "Eine mögliche Aufweichung der Meisterpflicht sieht sie als massiven Qualitätsverlust und Bedrohung für ihr professionelles Handwerk.",
-      "resonanz": "konträr",
-      "beleg_ok": true
-    },
-    {
-      "thema": "arbeit",
-      "bezug": "betrifft_mich",
-      "zitat": "Mindestlohn von 15,00 Euro ohne Ausnahmen",
-      "seite": 36,
-      "erklaerung": "Ein staatlich diktierter, stark erhöhter Mindestlohn setzt das bestehende Lohngefüge unter Druck und verteuert Handwerksleistungen erheblich.",
-      "resonanz": "konträr",
-      "beleg_ok": true
-    },
-    {
-      "thema": "steuern",
-      "bezug": "betrifft_mich",
-      "zitat": "Novellierung der Erbschaft- und Schenkungssteuer",
-      "seite": 36,
-      "erklaerung": "Die geplante Streichung von Ausnahmeregelungen könnte die anstehende Übergabe ihres Betriebes an den Sohn massiv verteuern.",
-      "resonanz": "konträr",
-      "beleg_ok": true
-    }
-  ],
-  "gesamt": 1,
-  "modell_slug": "gemini-3.1-pro",
+  "partei": "bsw",
   "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
   "zeitpunkt": "2026-06-30T00:00:00Z",
   "temperatur": 0,
   "lauf": 1,
@@ -85,5 +17,97 @@
     "total_tokens": null,
     "dauer_ms": null,
     "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weg mit der Energiesteuer!",
+      "thema": "energie",
+      "programmpunkt": "Das Programm fordert die Senkung der Energiesteuer sowie die Abschaffung der CO2-Abgabe, um Bürger und Betriebe finanziell zu entlasten.",
+      "seite": 7,
+      "zitat": "„Die Energiesteuern müssen runter. Die CO ₂ -Abgabe gehört abgeschafft.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine profitiert direkt von sinkenden Energiepreisen für ihren SHK-Betrieb. Der Wegfall der CO2-Abgabe nimmt zudem den Kunden die Verunsicherung und könnte die Auftragslage im Heizungsbau stabilisieren.",
+      "begruendung_selbst": "Meine Kunden stornieren Aufträge, weil alles teurer wird. Wenn die CO2-Abgabe und die Energiesteuer wegfallen, atmen wir im Betrieb und bei den Kunden endlich wieder auf!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Vernunft beim Heizungstausch!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei setzt sich für eine realistische, flexible und planbare Wärmewende ohne starre und kostenintensive Vorgaben ein.",
+      "seite": 26,
+      "zitat": "„Wir brauchen deshalb eine Wärmewende mit Augenmaß.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine leidet beruflich stark unter den ständigen Regeländerungen beim Heizungstausch, die ihre Kunden abschrecken. Die Forderung nach Flexibilität und Planungssicherheit entspricht exakt ihren beruflichen Bedürfnissen und Hoffnungen.",
+      "begruendung_selbst": "Meine Kunden sind total verunsichert und verschieben Aufträge. Wenn endlich wieder verlässliche und realistische Regeln gelten, können wir vernünftig planen und arbeiten!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papierkrieg, mehr echte Arbeit!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Es soll ein zentrales, medienbruchfreies digitales Unternehmensportal für alle Verwaltungsangelegenheiten, Anträge und Genehmigungen aufgebaut werden.",
+      "seite": 21,
+      "zitat": "„Unternehmen können dort Anträge stellen, Unterlagen hochladen und mit Behörden kommunizieren.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Digitalisierung von Verwaltungsprozessen und ein zentrales Portal kommen Sabines größtem Schmerzpunkt, der ausufernden Bürokratie, direkt entgegen. Das spart ihr Zeit, die sie aktuell abends am Schreibtisch verbringt.",
+      "begruendung_selbst": "Ich sitze jeden Abend über Aktenordnern statt mich um Aufträge zu kümmern. Ein digitales Portal für alle Anträge ist genau das, was ich seit Jahren fordere.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wertschätzung für unseren Meisterbrief!",
+      "thema": "arbeit",
+      "programmpunkt": "Zur Sicherung der Unternehmensnachfolge und zur Aufwertung des Handwerks soll die Meisterausbildung gezielt gefördert werden.",
+      "seite": 23,
+      "zitat": "„um handwerkliche Berufe aufzuwerten, Unternehmensnachfolge zu sichern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als stolze SHK-Meisterin begrüßt Sabine die gezielte Förderung der Meisterausbildung. Dies wertet ihr Gewerk auf und hilft ihr langfristig bei der Lösung ihres Fachkräfteproblems sowie der späteren Betriebsübergabe.",
+      "begruendung_selbst": "Wir brauchen wieder mehr junge Leute, die den Meister machen wollen. Eine Förderung hilft uns enorm, Fachkräfte für die Zukunft aufzubauen und den Betrieb später in gute Hände zu geben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Finger weg vom Betriebsvermögen!",
+      "thema": "steuern",
+      "programmpunkt": "Ausnahmeregelungen bei der Erbschaft- und Schenkungsteuer, die zur Schonung großer Vermögen beitragen, sollen abgebaut und reformiert werden.",
+      "seite": 36,
+      "zitat": "„Dringenden Reformbedarf sehen wir auch bei der Erbschaft- und Schenkungsteuer.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine steht vor der Betriebsübergabe und fürchtet, dass eine Verschärfung der Erbschaftsteuer, die auf den Abbau von Ausnahmeregelungen zielt, ihr Betriebsvermögen belasten und den Fortbestand des Familienbetriebs gefährden könnte.",
+      "begruendung_selbst": "Wenn die Ausnahmen bei der Erbschaftsteuer gestrichen werden, kann mein Nachfolger den Laden direkt dichtmachen. Das Geld steckt in Maschinen und Autos, nicht auf dem Sparkonto!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Meisterbrief darf nicht fallen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will prüfen, ob die Meisterpflicht in bestimmten Handwerksberufen abgeschafft werden kann, um Betriebsgründungen zu erleichtern.",
+      "seite": 23,
+      "zitat": "„die Meisterbindung nicht zwingend erforderlich ist“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl das BSW die Gründung erleichtern will, sieht Sabine in der Aufweichung der Meisterpflicht einen Angriff auf die Qualität und den Wert ihrer eigenen Ausbildung. Sie befürchtet Schmutzkonkurrenz durch unqualifizierte Betriebe.",
+      "begruendung_selbst": "Ich habe nicht umsonst meinen Meister gemacht, um Qualität und Sicherheit zu garantieren. Wenn jetzt jeder ohne Qualifikation einen Betrieb aufmachen darf, macht das unser Handwerk kaputt!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wo bleibt das Fordern?",
+      "thema": "gesundheit",
+      "programmpunkt": "Beim Zugang zu Sozialleistungen fokussiert sich die Partei auf einen schnelleren, entbürokratisierten und leichteren Zugang ohne Hürden.",
+      "seite": 78,
+      "zitat": "„Sozialleistungen schnell, unbürokratisch und verlässlich zugänglich machen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Das BSW fokussiert sich beim Thema Sozialleistungen stark auf einen schnelleren und leichteren Zugang ohne bürokratische Hürden. Sabine vermisst hier ihren Grundsatz des „Forderns“ und befürchtet, dass sich Arbeit für Geringverdiener dadurch noch weniger lohnt.",
+      "begruendung_selbst": "Immer wird nur davon gesprochen, wie man noch schneller an Sozialleistungen kommt. Wenn wir nur fördern und nicht mehr fordern, lohnt sich das Arbeiten für meine Gesellen bald gar nicht mehr!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet im BSW-Programm starke Übereinstimmungen bei der Entlastung von Energiepreisen und dem Abbau von Bürokratie. Diese Punkte adressieren ihre dringendsten betrieblichen Sorgen direkt. Sehr kritisch sieht sie jedoch Tendenzen, die Meisterpflicht aufzuweichen, fehlende Forderungen an Sozialleistungsempfänger sowie Pläne zur Erbschaftsteuer, die ihre geplante Betriebsübergabe gefährden könnten.",
+    "score": 1
   }
 }
