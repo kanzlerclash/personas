@@ -4,7 +4,7 @@
  * Avatare werden serverseitig als PNG vorgerendert (node-canvas + OffscreenCanvas-Polyfill).
  */
 import { createRequire } from "node:module";
-import { existsSync, readFileSync, mkdirSync, writeFileSync, cpSync } from "node:fs";
+import { existsSync, readFileSync, mkdirSync, writeFileSync, cpSync, rmSync } from "node:fs";
 import { join } from "node:path";
 import YAML from "yaml";
 import {
@@ -230,16 +230,28 @@ ${wechsel}
       }).join("");
       add(`modell/${m.slug}/vs/${o.slug}/`, `${kurz(m.slug)} vs ${kurz(o.slug)} · #LTW26`, `Modellvergleich ${kurz(m.slug)} gegen ${kurz(o.slug)}: Urteile über die Lebenslagen im direkten Δ-Vergleich.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug), href: `modell/${m.slug}/` }, { kat: true, label: "Vergleich" }, { label: `${kurz(m.slug)} vs ${kurz(o.slug)}` }])}${kopfVs("")}${wechselVs}<h3 class="sektion">Personas (Ø über Parteien)</h3><div class="qtab">${rows}</div>`);
     }
-    // A vs B je Persona → Parteien
+    // A vs B je Persona → Parteien (Zeile → paarweises Blatt)
     for (const p of PERSONAS) {
       if (!ergsMP(m.slug, p.slug).length && !ergsMP(o.slug, p.slug).length) continue;
-      const rows = parteienMit(m.slug).map((pa) => { const a = erg(m.slug, p.slug, pa), b = erg(o.slug, p.slug, pa); return `<a class="qrow" href="${u(`vergleich/${p.slug}/${pa}/`)}"><strong class="qpartei">${e(parteiName(pa))}</strong>${vsScores(a ? a.gesamt.score : NaN, b ? b.gesamt.score : NaN)}</a>`; }).join("");
-      add(`modell/${m.slug}/vs/${o.slug}/persona/${p.slug}/`, `${p.name}: ${kurz(m.slug)} vs ${kurz(o.slug)} · #LTW26`, `${p.name} im Modellvergleich ${kurz(m.slug)} gegen ${kurz(o.slug)} über die Parteien.`, `${bcVs([{ kat: true, label: "Persona" }, { label: p.name }])}<div class="detail-kopf">${avatarImg(p, "avatar gross")}<div>${kopfVs(` — ${e(p.name)}`)}${fiktiv(true)}</div></div><p class="mini">Klick auf eine Zeile → alle Modelle für diese Persona × Partei.</p><div class="qtab">${rows}</div>`);
+      const rows = parteienMit(m.slug).map((pa) => { const a = erg(m.slug, p.slug, pa), b = erg(o.slug, p.slug, pa); return `<a class="qrow" href="${u(`modell/${m.slug}/vs/${o.slug}/persona/${p.slug}/partei/${pa}/`)}"><strong class="qpartei">${e(parteiName(pa))}</strong>${vsScores(a ? a.gesamt.score : NaN, b ? b.gesamt.score : NaN)}</a>`; }).join("");
+      add(`modell/${m.slug}/vs/${o.slug}/persona/${p.slug}/`, `${p.name}: ${kurz(m.slug)} vs ${kurz(o.slug)} · #LTW26`, `${p.name} im Modellvergleich ${kurz(m.slug)} gegen ${kurz(o.slug)} über die Parteien.`, `${bcVs([{ kat: true, label: "Persona" }, { label: p.name }])}<div class="detail-kopf">${avatarImg(p, "avatar gross")}<div>${kopfVs(` — ${e(p.name)}`)}${fiktiv(true)}</div></div><a class="navbtn profil-link" href="${u(`persona/${p.slug}/`)}">📋 Vollständiges Profil von ${e(p.name)} →</a><p class="mini">Klick auf eine Zeile → beide Modelle für diese Persona × Partei im Detail.</p><div class="qtab">${rows}</div>`);
     }
-    // A vs B je Partei → Personas
+    // A vs B je Partei → Personas (Zeile → paarweises Blatt)
     for (const pa of parteienMit(m.slug)) {
-      const rows = PERSONAS.map((p) => { const a = erg(m.slug, p.slug, pa), b = erg(o.slug, p.slug, pa); if (!a && !b) return ""; return `<a class="qrow" href="${u(`vergleich/${p.slug}/${pa}/`)}">${avatarImg(p, "avatar mini")}<div class="qname"><strong>${e(p.name)}</strong>${fiktiv()}</div>${vsScores(a ? a.gesamt.score : NaN, b ? b.gesamt.score : NaN)}</a>`; }).join("");
+      const rows = PERSONAS.map((p) => { const a = erg(m.slug, p.slug, pa), b = erg(o.slug, p.slug, pa); if (!a && !b) return ""; return `<a class="qrow" href="${u(`modell/${m.slug}/vs/${o.slug}/persona/${p.slug}/partei/${pa}/`)}">${avatarImg(p, "avatar mini")}<div class="qname"><strong>${e(p.name)}</strong>${fiktiv()}</div>${vsScores(a ? a.gesamt.score : NaN, b ? b.gesamt.score : NaN)}</a>`; }).join("");
       add(`modell/${m.slug}/vs/${o.slug}/partei/${pa}/`, `${parteiName(pa)}: ${kurz(m.slug)} vs ${kurz(o.slug)} · #LTW26`, `${parteiName(pa)} im Modellvergleich ${kurz(m.slug)} gegen ${kurz(o.slug)} über die Lebenslagen.`, `${bcVs([{ kat: true, label: "Partei" }, { label: parteiName(pa) }])}${kopfVs(` — ${e(parteiName(pa))}`)}<div class="qtab">${rows}</div>`);
+    }
+    // Paarweises Blatt A vs B (Persona × Partei, zwei Spalten mit Belegen)
+    for (const p of PERSONAS) for (const pa of parteienMit(m.slug)) {
+      const a = erg(m.slug, p.slug, pa), b = erg(o.slug, p.slug, pa);
+      if (!a && !b) continue;
+      const liste = (arr: any[], cls: string, lab: string) => arr.length ? `<h4 class="${cls}">${lab}</h4>${arr.map(highlightHtml).join("")}` : "";
+      const spalte = (x: Erg | undefined, name: string) => x ? `<div class="blattspalte"><div class="bs-kopf"><strong>${e(name)}</strong>${scorePill(x.gesamt.score)}</div>${kiBadge(x)}<p class="zusammenfassung">${e(x.gesamt.zusammenfassung)}</p>${liste(x.besonders_gut, "gut", "👍 Besonders gut")}${liste(x.besonders_schlecht, "schlecht", "👎 Besonders schlecht")}</div>` : `<div class="blattspalte"><div class="bs-kopf"><strong>${e(name)}</strong></div><p class="meta">Keine Auswertung.</p></div>`;
+      const dScore = a && b ? Math.abs(a.gesamt.score - b.gesamt.score) : NaN;
+      add(`modell/${m.slug}/vs/${o.slug}/persona/${p.slug}/partei/${pa}/`, `${p.name} × ${parteiName(pa)}: ${kurz(m.slug)} vs ${kurz(o.slug)} · #LTW26`, `${p.name} × ${parteiName(pa)} im direkten Modellvergleich ${kurz(m.slug)} gegen ${kurz(o.slug)} — belegte Urteile nebeneinander.`, `${bcVs([{ kat: true, label: "Persona" }, { label: p.name, href: `modell/${m.slug}/vs/${o.slug}/persona/${p.slug}/` }, { kat: true, label: "Partei" }, { label: parteiName(pa) }])}
+<div class="detail-kopf">${avatarImg(p, "avatar gross")}<div>${kopfVs(` — ${e(p.name)} × ${e(parteiName(pa))}`)}${fiktiv(true)}${isNaN(dScore) ? "" : `<p class="einzeiler">Δ Gesamt-Score: ${dScore}</p>`}</div></div>
+<a class="navbtn profil-link" href="${u(`persona/${p.slug}/`)}">📋 Vollständiges Profil von ${e(p.name)} →</a>
+<div class="vergleich-grid" style="grid-template-columns:1fr 1fr">${spalte(a, kurz(m.slug))}${spalte(b, kurz(o.slug))}</div>`);
     }
   }
   // Blatt
@@ -248,30 +260,22 @@ ${wechsel}
     const liste = (arr: any[], cls: string, label: string) => arr.length ? `<h4 class="${cls}">${label}</h4>${arr.map(highlightHtml).join("")}` : "";
     add(`modell/${m.slug}/persona/${p.slug}/partei/${pa}/`, `${p.name} × ${parteiName(pa)} × ${kurz(m.slug)} · #LTW26`, `KI-Urteil (${kurz(m.slug)}): Wie die Persona ${p.name} das ${parteiName(pa)}-Wahlprogramm sieht — belegt mit Seite und Zitat.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug), href: `modell/${m.slug}/` }, { kat: true, label: "Persona" }, { label: p.name, href: `modell/${m.slug}/persona/${p.slug}/` }, { kat: true, label: "Partei" }, { label: parteiName(pa) }])}
 <div class="detail-kopf">${avatarImg(p, "avatar gross")}<div><h2>${e(p.name)} × ${e(parteiName(pa))}</h2>${fiktiv(true)}</div></div>
+<a class="navbtn profil-link" href="${u(`persona/${p.slug}/`)}">📋 Vollständiges Profil von ${e(p.name)} →</a>
+${modellWechsler(m.slug, SIG.filter((x) => erg(x.slug, p.slug, pa)).map((x) => x.slug), (s) => `modell/${m.slug}/vs/${s}/persona/${p.slug}/partei/${pa}/`)}
 <div class="bs-kopf"><strong>${e(kurz(m.slug))}</strong>${scorePill(a.gesamt.score)}</div>${kiBadge(a)}
 <p class="zusammenfassung">${e(a.gesamt.zusammenfassung)}</p>
-${liste(a.besonders_gut, "gut", "👍 Besonders gut")}${liste(a.besonders_schlecht, "schlecht", "👎 Besonders schlecht")}
-<p><a class="navbtn" href="${u(`vergleich/${p.slug}/${pa}/`)}">⚖ Alle Modelle für ${e(p.name)} × ${e(parteiName(pa))} vergleichen →</a></p>`);
+${liste(a.besonders_gut, "gut", "👍 Besonders gut")}${liste(a.besonders_schlecht, "schlecht", "👎 Besonders schlecht")}`);
   }
 }
 
 // Divergenz-Übersicht
 {
-  const rows = DIVERGENZ.slice(0, 80).map((d) => { const p = persona(d.persona); const sc = SIG.filter((m) => d.scores[m.slug] !== undefined).map((m) => `<span class="divscore" style="border-color:${scoreFarbe(d.scores[m.slug])}">${e(kurz(m.slug))} ${e(scoreTxt(d.scores[m.slug]))}</span>`).join(""); return `<a class="qrow" href="${u(`vergleich/${d.persona}/${d.partei}/`)}"><strong class="qname">${e(p?.name ?? d.persona)} × ${e(parteiName(d.partei))}</strong><span class="divscores">${sc}</span><span class="spanne">${d.spanne === 0 ? "Konsens" : "Δ" + d.spanne}</span></a>`; }).join("");
+  const rows = DIVERGENZ.slice(0, 80).map((d) => { const p = persona(d.persona); const sc = SIG.filter((m) => d.scores[m.slug] !== undefined).map((m) => `<span class="divscore" style="border-color:${scoreFarbe(d.scores[m.slug])}">${e(kurz(m.slug))} ${e(scoreTxt(d.scores[m.slug]))}</span>`).join(""); return `<a class="qrow" href="${u(`modell/${SIG[0].slug}/persona/${d.persona}/partei/${d.partei}/`)}"><strong class="qname">${e(p?.name ?? d.persona)} × ${e(parteiName(d.partei))}</strong><span class="divscores">${sc}</span><span class="spanne">${d.spanne === 0 ? "Konsens" : "Δ" + d.spanne}</span></a>`; }).join("");
   add("vergleich/", "Wo sich die Modelle uneinig sind · #LTW26", "Wo hängt das KI-Urteil am stärksten vom gewählten Modell ab? Divergenz der Modelle über alle Personas und Parteien.", `${krume([{ label: "Start", href: "" }, { label: "Modell-Vergleich" }])}<h2>Wo sind sich die Modelle uneinig?</h2><p class="infozeile">Je größer die Spannweite der Urteile über die Modelle, desto stärker hängt die Bewertung vom gewählten Modell ab — hier wird der Modell-Bias am deutlichsten.</p><div class="qtab">${rows}</div>`);
 }
 
-// Alle-Modelle-Vergleich je Persona × Partei (statischer „Split")
-for (const [k, arr] of gruppen) {
-  const [pslug, , pa] = k.split("|"); const p = persona(pslug);
-  const spalten = arr.sort((a, b) => SLUGS.indexOf(a.modell_slug) - SLUGS.indexOf(b.modell_slug)).map((x) => {
-    const liste = (a: any[], cls: string, lab: string) => a.length ? `<h4 class="${cls}">${lab}</h4>${a.map(highlightHtml).join("")}` : "";
-    return `<div class="blattspalte"><div class="bs-kopf"><strong>${e(kurz(x.modell_slug))}</strong>${scorePill(x.gesamt.score)}</div>${kiBadge(x)}<p class="zusammenfassung">${e(x.gesamt.zusammenfassung)}</p>${liste(x.besonders_gut, "gut", "👍 Besonders gut")}${liste(x.besonders_schlecht, "schlecht", "👎 Besonders schlecht")}</div>`;
-  }).join("");
-  add(`vergleich/${pslug}/${pa}/`, `${p.name} × ${parteiName(pa)}: Modelle im Vergleich · #LTW26`, `Alle KI-Modelle nebeneinander: Wie sehen sie ${p.name} × ${parteiName(pa)}? Modell-Bias direkt vergleichbar.`, `${krume([{ label: "Start", href: "" }, { label: "Modell-Vergleich", href: "vergleich/" }, { label: `${p.name} × ${parteiName(pa)}` }])}
-<div class="detail-kopf">${avatarImg(p, "avatar gross")}<div><h2>${e(p.name)} × ${e(parteiName(pa))}</h2>${fiktiv(true)}<p class="einzeiler">Alle Modelle im direkten Vergleich</p></div></div>
-<div class="vergleich-grid" style="grid-template-columns:repeat(${arr.length},1fr)">${spalten}</div>`);
-}
+// (Die frühere „alle Modelle nebeneinander"-Seite wurde entfernt — Vergleiche laufen
+//  paarweise A vs B innerhalb der Modell-Struktur, siehe modell/A/vs/B/… )
 
 /* ---------- Avatare als PNG ---------- */
 async function avatare() {
@@ -298,6 +302,7 @@ async function avatare() {
 
 /* ---------- Schreiben ---------- */
 async function main() {
+  rmSync(OUT, { recursive: true, force: true }); // alte Seiten entfernen (keine Karteileichen)
   mkdirSync(OUT, { recursive: true });
   for (const s of seiten) {
     const dir = join(OUT, s.pfad); mkdirSync(dir, { recursive: true });
