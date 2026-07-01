@@ -36,11 +36,17 @@ const MODELL_LABELS: Record<string, string> = {
 };
 const kurz = (s: string) => MODELL_LABELS[s] ?? s;
 
+function ladeBev(slug: string): any | null {
+  const f = join(BEVOELKERUNG_DIR, `${slug}.yaml`);
+  if (!existsSync(f)) return null;
+  try { return YAML.parse(readFileSync(f, "utf8")); }
+  catch (err) { console.warn(`⚠ bevoelkerung/${slug}.yaml übersprungen: ${(err as Error).message.split("\n")[0]}`); return null; }
+}
 interface Persona { slug: string; name: string; themen: string[]; profil: Record<string, any>; bevoelkerung: any | null; einzeiler: string; }
 const PERSONAS: Persona[] = ladePersonas().map((p) => ({
   slug: p.slug, name: p.name, themen: p.themen, profil: p.roh,
   einzeiler: (p.roh.einzeiler as string) ?? "",
-  bevoelkerung: existsSync(join(BEVOELKERUNG_DIR, `${p.slug}.yaml`)) ? YAML.parse(readFileSync(join(BEVOELKERUNG_DIR, `${p.slug}.yaml`), "utf8")) : null,
+  bevoelkerung: ladeBev(p.slug),
 }));
 const persona = (slug: string) => PERSONAS.find((p) => p.slug === slug)!;
 
