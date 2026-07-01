@@ -80,6 +80,7 @@ h3.sektion { color: var(--akzent); font-size: 1.3rem; margin: 1.8rem 0 .6rem; }
 .gs-gut { background: var(--gut); height: 100%; } .gs-schlecht { background: var(--schlecht); height: 100%; }
 .gs-zahl { position: absolute; right: 6px; font-size: .72rem; color: #fff; mix-blend-mode: difference; }
 .splitscore { display: flex; align-items: center; gap: .4rem; } .splitscore .vs { color: var(--dim); font-size: .75rem; }
+.vsx { color: var(--akzent); font-weight: 700; }
 .delta { color: var(--dim); font-size: .8rem; } .delta.hoch { color: #ffd98a; font-weight: 700; }
 
 /* fiktiv-Marker */

@@ -98,6 +98,10 @@ const avatarImg = (p: Persona, cls = "avatar") => `<img class="${cls}" src="${u(
 const chip = (t: string) => `<span class="chip">${e(t)}</span>`;
 const scorePill = (s: number) => `<span class="scorepill" style="background:${scoreFarbe(s)}">${e(scoreTxt(s))}</span>`;
 const gsBalken = (g: number, s: number) => `<span class="gsbalken">${g ? `<span class="gs-gut" style="flex:${g}"></span>` : ""}${s ? `<span class="gs-schlecht" style="flex:${s}"></span>` : ""}<span class="gs-zahl">+${g}/−${s}</span></span>`;
+const vsScores = (a: number, b: number) => {
+  const d = !isNaN(a) && !isNaN(b) ? Math.round(Math.abs(a - b) * 10) / 10 : NaN;
+  return `<span class="splitscore">${isNaN(a) ? '<span class="meta">—</span>' : scorePill(a)}<span class="vs">vs</span>${isNaN(b) ? '<span class="meta">—</span>' : scorePill(b)}${isNaN(d) ? "" : `<span class="delta${d >= 2 ? " hoch" : ""}">${d ? "Δ" + d : "="}</span>`}</span>`;
+};
 const fiktiv = (gross = false) => `<span class="fiktiv${gross ? " gross" : ""}">${gross ? "fiktive Persona – keine reale Person" : "fiktiv"}</span>`;
 
 function krume(segs: { kat?: boolean; label: string; href?: string }[]): string {
@@ -123,7 +127,7 @@ const sigZeile = (l: string, w: string, farbe?: string) => `<div class="sigzeile
 function modellWechsler(curr: string, slugs: string[], hrefFor: (s: string) => string): string {
   const others = slugs.filter((s) => s !== curr);
   if (!others.length) return "";
-  return `<div class="vsbar"><span class="vslbl">Bei anderem Modell ansehen:</span>${others.map((s) => `<a class="vsbtn" href="${u(hrefFor(s))}">${e(kurz(s))}</a>`).join("")}</div>`;
+  return `<div class="vsbar"><span class="vslbl">Vergleichen mit:</span>${others.map((s) => `<a class="vsbtn" href="${u(hrefFor(s))}">${e(kurz(s))}</a>`).join("")}</div>`;
 }
 
 function highlightHtml(h: any): string {
@@ -189,7 +193,7 @@ for (const m of SIG) {
   const sigBanner = `<div class="sigbanner"><span>Ø-Urteil </span>${scorePill(m.avgScore)}<span class="sb-sep">· Kritik-Quote ${Math.round(m.kritikQuote * 100)} % · ${e(m.labels.kritik)}, ${e(m.labels.ton)}</span></div>`;
   // Modell-Übersicht: Parteien + Personas auf einer Seite
   {
-    const wechsel = modellWechsler(m.slug, SIG.map((x) => x.slug), (s) => `modell/${s}/`);
+    const wechsel = modellWechsler(m.slug, SIG.map((x) => x.slug), (s) => `modell/${m.slug}/vs/${s}/`);
     const pRows = parteienMit(m.slug).map((pa) => { const es = ergsMPa(m.slug, pa); return `<a class="qrow" href="${u(`modell/${m.slug}/partei/${pa}/`)}"><strong class="qpartei">${e(parteiName(pa))}</strong>${scorePill(avg(es.map((x) => x.gesamt.score)))}${gsBalken(es.reduce((s, x) => s + x.besonders_gut.length, 0), es.reduce((s, x) => s + x.besonders_schlecht.length, 0))}</a>`; }).join("");
     const persRows = PERSONAS.map((p) => { const es = ergsMP(m.slug, p.slug); if (!es.length) return ""; const sc = avg(es.map((x) => x.gesamt.score)); return `<a class="qrow" href="${u(`modell/${m.slug}/persona/${p.slug}/`)}">${avatarImg(p, "avatar mini")}<div class="qname"><strong>${e(p.name)}</strong>${fiktiv()}</div>${scorePill(sc)}${gsBalken(es.reduce((s, x) => s + x.besonders_gut.length, 0), es.reduce((s, x) => s + x.besonders_schlecht.length, 0))}</a>`; }).join("");
     add(`modell/${m.slug}/`, `${kurz(m.slug)}: Sicht auf Parteien & Lebenslagen · #LTW26`, `Wie ${kurz(m.slug)} die Parteien und die 16 fiktiven Lebenslagen zu den Wahlprogrammen einordnet.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug) }])}<h2>${e(kurz(m.slug))}: Sicht auf Parteien &amp; Lebenslagen</h2>${sigBanner}${wechsel}<h3 class="sektion">Parteien</h3><div class="qtab">${pRows}</div><h3 class="sektion">Personas</h3><div class="qtab">${persRows}</div>`);
@@ -197,7 +201,7 @@ for (const m of SIG) {
   // Modell × Persona → Parteien
   for (const p of PERSONAS) {
     const es = ergsMP(m.slug, p.slug); if (!es.length) continue;
-    const wechsel = modellWechsler(m.slug, SIG.filter((x) => ergsMP(x.slug, p.slug).length).map((x) => x.slug), (s) => `modell/${s}/persona/${p.slug}/`);
+    const wechsel = modellWechsler(m.slug, SIG.filter((x) => ergsMP(x.slug, p.slug).length).map((x) => x.slug), (s) => `modell/${m.slug}/vs/${s}/persona/${p.slug}/`);
     const rows = parteienMit(m.slug).map((pa) => { const a = erg(m.slug, p.slug, pa); if (!a) return ""; return `<a class="qrow" href="${u(`modell/${m.slug}/persona/${p.slug}/partei/${pa}/`)}"><strong class="qpartei">${e(parteiName(pa))}</strong>${scorePill(a.gesamt.score)}${gsBalken(a.besonders_gut.length, a.besonders_schlecht.length)}</a>`; }).join("");
     add(`modell/${m.slug}/persona/${p.slug}/`, `${p.name} × ${kurz(m.slug)} · #LTW26`, `Wie ${kurz(m.slug)} die Persona ${p.name} zu den Parteien einordnet.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug), href: `modell/${m.slug}/` }, { kat: true, label: "Persona" }, { label: p.name }])}
 <div class="detail-kopf">${avatarImg(p, "avatar gross")}<div><h2>${e(p.name)} × ${e(kurz(m.slug))}</h2>${fiktiv(true)}</div></div>
@@ -207,9 +211,36 @@ ${wechsel}
   }
   // Modell × Partei → Personas
   for (const pa of parteienMit(m.slug)) {
-    const wechsel = modellWechsler(m.slug, SIG.filter((x) => ergsMPa(x.slug, pa).length).map((x) => x.slug), (s) => `modell/${s}/partei/${pa}/`);
+    const wechsel = modellWechsler(m.slug, SIG.filter((x) => ergsMPa(x.slug, pa).length).map((x) => x.slug), (s) => `modell/${m.slug}/vs/${s}/partei/${pa}/`);
     const rows = PERSONAS.map((p) => { const a = erg(m.slug, p.slug, pa); if (!a) return ""; return `<a class="qrow" href="${u(`modell/${m.slug}/persona/${p.slug}/partei/${pa}/`)}">${avatarImg(p, "avatar mini")}<div class="qname"><strong>${e(p.name)}</strong>${fiktiv()}</div>${scorePill(a.gesamt.score)}${gsBalken(a.besonders_gut.length, a.besonders_schlecht.length)}</a>`; }).join("");
     add(`modell/${m.slug}/partei/${pa}/`, `${parteiName(pa)} × ${kurz(m.slug)} · #LTW26`, `Wie ${kurz(m.slug)} die Lebenslagen zur ${parteiName(pa)} einordnet.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug), href: `modell/${m.slug}/` }, { kat: true, label: "Partei" }, { label: parteiName(pa) }])}<h2>${e(kurz(m.slug))}: ${e(parteiName(pa))} aus Sicht der Lebenslagen</h2>${wechsel}<div class="qtab">${rows}</div>`);
+  }
+  // Paarweise Modell-Vergleiche (Split A vs B)
+  for (const o of SIG) {
+    if (o.slug === m.slug) continue;
+    const wechselVs = modellWechsler(o.slug, SIG.map((x) => x.slug).filter((s) => s !== m.slug), (s) => `modell/${m.slug}/vs/${s}/`);
+    const kopfVs = (unter: string) => `<h2>${e(kurz(m.slug))} <span class="vsx">vs</span> ${e(kurz(o.slug))}${unter}</h2><p class="infozeile">Zwei Modelle direkt nebeneinander — Δ zeigt, wie stark das Urteil vom Modell abhängt.</p>`;
+    const bcVs = (last: { kat?: boolean; label: string; href?: string }[]) => krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug), href: `modell/${m.slug}/` }, { kat: true, label: "Vergleich" }, { label: `${kurz(m.slug)} vs ${kurz(o.slug)}`, href: `modell/${m.slug}/vs/${o.slug}/` }, ...last]);
+    // Personas-Querschnitt A vs B
+    {
+      const rows = PERSONAS.map((p) => {
+        const a = ergsMP(m.slug, p.slug), b = ergsMP(o.slug, p.slug);
+        if (!a.length && !b.length) return "";
+        return `<a class="qrow" href="${u(`modell/${m.slug}/vs/${o.slug}/persona/${p.slug}/`)}">${avatarImg(p, "avatar mini")}<div class="qname"><strong>${e(p.name)}</strong>${fiktiv()}</div>${vsScores(a.length ? avg(a.map((x) => x.gesamt.score)) : NaN, b.length ? avg(b.map((x) => x.gesamt.score)) : NaN)}</a>`;
+      }).join("");
+      add(`modell/${m.slug}/vs/${o.slug}/`, `${kurz(m.slug)} vs ${kurz(o.slug)} · #LTW26`, `Modellvergleich ${kurz(m.slug)} gegen ${kurz(o.slug)}: Urteile über die Lebenslagen im direkten Δ-Vergleich.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug), href: `modell/${m.slug}/` }, { kat: true, label: "Vergleich" }, { label: `${kurz(m.slug)} vs ${kurz(o.slug)}` }])}${kopfVs("")}${wechselVs}<h3 class="sektion">Personas (Ø über Parteien)</h3><div class="qtab">${rows}</div>`);
+    }
+    // A vs B je Persona → Parteien
+    for (const p of PERSONAS) {
+      if (!ergsMP(m.slug, p.slug).length && !ergsMP(o.slug, p.slug).length) continue;
+      const rows = parteienMit(m.slug).map((pa) => { const a = erg(m.slug, p.slug, pa), b = erg(o.slug, p.slug, pa); return `<a class="qrow" href="${u(`vergleich/${p.slug}/${pa}/`)}"><strong class="qpartei">${e(parteiName(pa))}</strong>${vsScores(a ? a.gesamt.score : NaN, b ? b.gesamt.score : NaN)}</a>`; }).join("");
+      add(`modell/${m.slug}/vs/${o.slug}/persona/${p.slug}/`, `${p.name}: ${kurz(m.slug)} vs ${kurz(o.slug)} · #LTW26`, `${p.name} im Modellvergleich ${kurz(m.slug)} gegen ${kurz(o.slug)} über die Parteien.`, `${bcVs([{ kat: true, label: "Persona" }, { label: p.name }])}<div class="detail-kopf">${avatarImg(p, "avatar gross")}<div>${kopfVs(` — ${e(p.name)}`)}${fiktiv(true)}</div></div><p class="mini">Klick auf eine Zeile → alle Modelle für diese Persona × Partei.</p><div class="qtab">${rows}</div>`);
+    }
+    // A vs B je Partei → Personas
+    for (const pa of parteienMit(m.slug)) {
+      const rows = PERSONAS.map((p) => { const a = erg(m.slug, p.slug, pa), b = erg(o.slug, p.slug, pa); if (!a && !b) return ""; return `<a class="qrow" href="${u(`vergleich/${p.slug}/${pa}/`)}">${avatarImg(p, "avatar mini")}<div class="qname"><strong>${e(p.name)}</strong>${fiktiv()}</div>${vsScores(a ? a.gesamt.score : NaN, b ? b.gesamt.score : NaN)}</a>`; }).join("");
+      add(`modell/${m.slug}/vs/${o.slug}/partei/${pa}/`, `${parteiName(pa)}: ${kurz(m.slug)} vs ${kurz(o.slug)} · #LTW26`, `${parteiName(pa)} im Modellvergleich ${kurz(m.slug)} gegen ${kurz(o.slug)} über die Lebenslagen.`, `${bcVs([{ kat: true, label: "Partei" }, { label: parteiName(pa) }])}${kopfVs(` — ${e(parteiName(pa))}`)}<div class="qtab">${rows}</div>`);
+    }
   }
   // Blatt
   for (const p of PERSONAS) for (const pa of parteienMit(m.slug)) {
