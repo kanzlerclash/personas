@@ -1,0 +1,101 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Absicherung für uns!",
+      "thema": "arbeit",
+      "programmpunkt": "Das BSW fordert eine Reform der Künstlersozialkasse sowie einen besseren Schutz vor Altersarmut für Kulturschaffende.",
+      "seite": 40,
+      "zitat": "durch eine Reform der Künstlersozialkasse, besseren Schutz vor Altersarmut",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareikes größte Sorge ist die fehlende soziale Absicherung bei Krankheit oder im Alter. Die explizite Forderung nach einer Reform der KSK beruhigt diese Existenzangst direkt.",
+      "begruendung_selbst": "Wenn die Aufträge wegbrechen, fange ich keinen Schutz auf. Dass endlich mal jemand an unsere KSK und Altersvorsorge denkt, ist ein riesiger Stein, der mir vom Herzen fällt!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Verwaltung aus einem Guss!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Das Programm verspricht ein einheitliches, medienbruchfreies Unternehmensportal, um alle relevanten Verwaltungsleistungen für Unternehmen digital abzuwickeln.",
+      "seite": 21,
+      "zitat": "ein landesweites Unternehmensportal mit einem einheitlichen Zugang",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soloselbstständige ohne Backoffice ist sie von Bürokratie oft überfordert. Eine zentrale, digitale Lösung für alle Verwaltungsfragen würde ihren Alltag massiv erleichtern.",
+      "begruendung_selbst": "Ich bin zu klein für den ganzen Bürokratie-Wahnsinn. Ein einziges Portal für den ganzen Verwaltungskram würde mir so viel unbezahlte Zeit und Nerven sparen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Perspektive für die freie Szene!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das BSW will die freie Kulturszene durch Modelle wie Kulturstiftungen langfristig absichern und das Kulturfördergesetz verabschieden.",
+      "seite": 40,
+      "zitat": "Die freie Szene braucht langfristige Perspektiven, etwa durch Kulturstiftungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareikes berufliche Existenzgrundlage hängt oft an Fördergeldern und Aufträgen im Kulturbereich. Eine Abkehr von kurzfristigen Projekten hin zu langfristiger Sicherheit trifft ihren Kernbedarf.",
+      "begruendung_selbst": "Dieses ständige Zittern von Projekt zu Projekt macht einen mürbe. Langfristige Perspektiven und eine feste Förderung sind genau das, was die Branche zum Atmen braucht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kulturkampf statt echter Probleme!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei sieht Debatten über geschlechtergerechte Sprache oder das Hissen von Flaggen als unwichtig an und will sie aus dem Landtag heraushalten.",
+      "seite": 39,
+      "zitat": "Debatten über Pronomen oder das Hissen von Flaggen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike vertritt liberal-progressive, offene Werte. Die explizite Ablehnung von Sichtbarkeit für Minderheiten durch Pronomen oder Flaggen empfindet sie als rückwärtsgewandt und intolerant.",
+      "begruendung_selbst": "Wir leben im 21. Jahrhundert. Wer sich an Pronomen und Regenbogenflaggen abarbeitet, hat den Schuss nicht gehört – das ist für mich genau die Art von Ausgrenzung, die ich ablehne.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Analoges Leben bremst uns aus",
+      "thema": "digitalisierung",
+      "programmpunkt": "Das BSW warnt vor einem „Digitalzwang“ und pocht auf ein Recht auf ein analoges Leben, sodass Behördengänge auch ohne digitale Instrumente möglich bleiben müssen.",
+      "seite": 74,
+      "zitat": "Niemand darf durch Digitalzwang von gesellschaftlicher Teilhabe ausgeschlossen werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für die digital-affine Solo-Kreative ist konsequente Digitalisierung der einzige Weg, effizient zu arbeiten. Ein Beharren auf analogen Parallelstrukturen sieht sie als Bremse für echten Fortschritt.",
+      "begruendung_selbst": "Recht auf analoges Leben? Das heißt am Ende doch nur, dass die Behörden wieder ewig brauchen, weil alles doppelt auf Papier gemacht wird. So kommen wir nie voran!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verkehrswende? Fehlanzeige!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei lehnt ein pauschales Verbot von Verbrennungsmotoren ab und spricht sich gegen eine erzwungene Verkehrswende aus.",
+      "seite": 32,
+      "zitat": "Ein pauschales Verbrennerverbot lehnen wir ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als urbane, progressive Bürgerin, die Wert auf Umwelt und zukunftsfähige Konzepte legt, stößt die Festhalten-am-Verbrenner-Rhetorik des BSW bei ihr auf Unverständnis.",
+      "begruendung_selbst": "Die Welt brennt und wir klammern uns an den Verbrenner. Eine Politik, die moderne Verkehrskonzepte ausbremst, ist einfach nicht mehr zeitgemäß.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike ist hin- und hergerissen: Ökonomisch liefert das BSW genau das, was sie als Solo-Selbstständige braucht – von Reformen der Künstlersozialkasse bis hin zu mehr Kulturförderung und weniger Bürokratie. Gesellschaftspolitisch stößt sie sich jedoch massiv an der rückwärtsgewandten Haltung zu Digitalisierung, Verkehrswende und Minderheitenrechten.",
+    "score": 0
+  }
+}

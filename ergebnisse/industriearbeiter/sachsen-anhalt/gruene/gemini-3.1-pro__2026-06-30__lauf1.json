@@ -1,0 +1,77 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": 120000,
+    "output_tokens": 800,
+    "cached_tokens": 0,
+    "total_tokens": 120800,
+    "dauer_ms": 15000,
+    "usd": 0.05
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mehr Mitbestimmung für uns!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei plant, Tarifbindung und Arbeitnehmermitbestimmung auch bei privaten Unternehmen zu stärken.",
+      "seite": 76,
+      "zitat": "Auch in der Privatwirtschaft sollen Tarifbindung und Mitbestimmung ausgebaut werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Stärkung der betrieblichen Mitbestimmung trifft genau den Kern von Uwes gewerkschaftlichem Engagement und sichert den Beschäftigten Einfluss.",
+      "begruendung_selbst": "Das ist genau unsere Linie als Gewerkschaft. Starke Betriebsräte und echte Tarifbindung sind das Rückgrat der Belegschaft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausbau sichert Jobs",
+      "thema": "wirtschaft",
+      "programmpunkt": "Der Ausbau von erneuerbaren Energien wie Windkraft soll gezielt die regionale chemische Industrie stärken.",
+      "seite": 23,
+      "zitat": "Damit stärkt der Ausbau der Windenergie die chemische Industrie und schafft Arbeitsplätze in Sachsen-Anhalt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe findet es positiv, dass umweltpolitische Maßnahmen konkret an den Erhalt von Industriearbeitsplätzen gekoppelt werden und somit Beschäftigung sichern.",
+      "begruendung_selbst": "Wenn die neuen Windräder unsere Jobs in der Chemie absichern, dann bin ich dafür. Hauptsache, die Produktion läuft weiter.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Viel zu schnell und unsicher!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei rechnet damit, dass der Kohleausstieg durch Marktkräfte noch vor dem anvisierten Enddatum 2034 erfolgt.",
+      "seite": 25,
+      "zitat": "Wir gehen davon aus, dass der Ausstieg bereits früher marktgetrieben erfolgen wird.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe fürchtet, dass ein überstürzter Kohleausstieg zu massiven Jobverlusten im Industrierevier führt, bevor tragfähige Ersatzstrukturen bereitstehen.",
+      "begruendung_selbst": "Das macht die Kollegen im Revier doch verrückt. Erst feste Pläne machen, und jetzt soll alles noch schneller gehen, ohne Sicherheit für unsere Jobs.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Investitionsbremse durch Naturschutz?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Um den Boden als Ressource zu schützen, fordert die Partei, großflächige Flächenversiegelungen künftig konsequent zu vermeiden.",
+      "seite": 9,
+      "zitat": "Wir fordern die Vermeidung von Versiegelung, um den Erhalt dieser wertvollen Böden sicherzustellen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe befürchtet, dass pauschale Bauverbote zur Flächenschonung den industriellen Strukturwandel abwürgen und die Ansiedlung neuer Anlagen verhindern.",
+      "begruendung_selbst": "Naturschutz ist ja schön und gut, aber wenn man für neue Industrieanlagen gar keine Flächen mehr versiegeln darf, kommt hier doch kein Investor mehr her!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der Grünen löst bei Uwe gemischte Gefühle aus. Einerseits begrüßt er als Gewerkschafter ausdrücklich die Vorhaben zur Stärkung der Tarifbindung und die Idee, den Ausbau der erneuerbaren Energien zur Sicherung der chemischen Industrie zu nutzen. Andererseits betrachtet er die ambitionierten Umweltziele, wie einen vorgezogenen Kohleausstieg und strikte Bauverbote gegen Flächenversiegelung, mit großer Sorge um den Erhalt von Industriearbeitsplätzen und die regionale Wettbewerbsfähigkeit.",
+    "score": -1
+  }
+}

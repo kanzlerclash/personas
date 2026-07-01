@@ -1,0 +1,85 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "metrik": {
+    "uebereinstimmung": 9,
+    "betroffenheit": 10
+  },
+  "besonders_gut": [
+    {
+      "thema": "wohnen",
+      "programmpunkt": "Einführung von Freibeträgen bei der Grunderwerbsteuer sowie zinsgünstigen Krediten und Bürgschaften, um den Erwerb von Wohneigentum zu erleichtern.",
+      "seite": 31,
+      "zitat": "Freibeträge bei der Grunderwerbsteuer sowie zinsgünstige KfW-Programme und Bürgschaften",
+      "resonanz": "bestaetigt",
+      "bezug": "betrifft_mich",
+      "titel_selbst": "„Endlich Entlastung beim Hausbau!“",
+      "begruendung": "Tom und Jessica wollen ein Haus bauen, scheitern aber aktuell an den hohen Zinsen und Baunebenkosten. Die Forderung nach Freibeträgen bei der Grunderwerbsteuer und günstigen Krediten spricht direkt ihr größtes finanzielles Problem an.",
+      "begruendung_selbst": "„Genau das brauchen wir! Die Grunderwerbsteuer frisst unser ganzes Eigenkapital auf. Wenn das kommt, rückt unser Traum vom eigenen Haus endlich wieder in greifbare Nähe.“",
+      "beleg_ok": true
+    },
+    {
+      "thema": "steuern",
+      "programmpunkt": "Vollständige Abschaffung oder dauerhafter Erlass der Grundsteuer auf selbstgenutztes Wohneigentum speziell für junge Familien.",
+      "seite": 31,
+      "zitat": "die Grundsteuer auf selbstgenutztes Wohneigentum vollständig abschaffen bzw. dauerhaft erlassen",
+      "resonanz": "bestaetigt",
+      "bezug": "betrifft_mich",
+      "titel_selbst": "„Keine Strafe für Wohneigentum!“",
+      "begruendung": "Zusätzlich zu den Baukosten fürchtet die Familie die laufenden Kosten für ihr Eigenheim. Die Abschaffung der Grundsteuer für junge Familien wäre eine direkte und langfristige finanzielle Entlastung für ihr geplantes Haus.",
+      "begruendung_selbst": "„Dass junge Familien bei der Grundsteuer verschont werden sollen, ist nur fair! Wer sich mühsam etwas Eigenes aufbaut, sollte nicht Jahr für Jahr vom Staat dafür abkassiert werden.“",
+      "beleg_ok": true
+    },
+    {
+      "thema": "klima",
+      "programmpunkt": "Ablehnung von strengen energetischen Bauvorgaben und Zertifizierungen, da diese das Bauen unnötig verteuern.",
+      "seite": 31,
+      "zitat": "verpflichtende QNG-Standards oder vergleichbare Zertifizierungen lehnen wir ab",
+      "resonanz": "bestaetigt",
+      "bezug": "betrifft_mich",
+      "titel_selbst": "„Weg mit dem Sanierungs-Irrsinn!“",
+      "begruendung": "Die Persona sieht strenge Umweltauflagen wie das GEG als massive Hürde für den Traum vom Eigenheim. Dass die Partei zusätzliche energetische Standards ablehnt, weil sie Bauen verteuern, deckt sich exakt mit der Haltung der jungen Familie.",
+      "begruendung_selbst": "„Das ganze Energie-Chaos hat uns schon gereicht. Wir wollen klimafreundlich bauen, aber es muss bezahlbar bleiben! Dass diese ganzen irren Vorgaben wegfallen sollen, ist Musik in meinen Ohren.“",
+      "beleg_ok": true
+    },
+    {
+      "thema": "familie",
+      "programmpunkt": "Forderung nach flächendeckenden und beitragsfreien Kitas zur finanziellen und organisatorischen Entlastung von Familien.",
+      "seite": 46,
+      "zitat": "Wir setzen uns deshalb für beitragsfreie Kitas in Sachsen-Anhalt ein.",
+      "resonanz": "bestaetigt",
+      "bezug": "betrifft_mich",
+      "titel_selbst": "„Endlich verlässliche Betreuung!“",
+      "begruendung": "Als Doppelverdiener mit Kleinkind und Kinderwunsch sind Tom und Jessica zwingend auf zuverlässige Kinderbetreuung angewiesen. Beitragsfreiheit sichert ihre Erwerbstätigkeit und entlastet sie finanziell enorm.",
+      "begruendung_selbst": "„Wenn wir noch ein Kind wollen, brauchen wir verlässliche Betreuung. Und beitragsfreie Kitas wären eine riesige Erleichterung für unser Familienbudget. Aktuell zahlen wir uns ja dumm und dämlich.“",
+      "beleg_ok": true
+    },
+    {
+      "thema": "energie",
+      "programmpunkt": "Abschaffung der CO2-Abgabe und Senkung der Energiesteuern zur finanziellen Entlastung der Bürger.",
+      "seite": 6,
+      "zitat": "Die Energiesteuern müssen runter. Die CO2-Abgabe gehört abgeschafft.",
+      "resonanz": "bestaetigt",
+      "bezug": "betrifft_mich",
+      "titel_selbst": "„Spritkosten müssen runter!“",
+      "begruendung": "Da die Familie im Speckgürtel lebt, pendeln beide täglich mit dem Auto zur Arbeit. Die hohen Kosten für Benzin und Heizen belasten das Haushaltsbudget stark, weshalb die Abschaffung der CO2-Abgabe sie direkt entlasten würde.",
+      "begruendung_selbst": "„Wir sind auf unsere Autos angewiesen, um zur Arbeit zu pendeln. Die ständigen Erhöhungen beim Sprit und Heizen durch den CO2-Preis machen uns fertig. Da muss dringend gegengesteuert werden!“",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "fazit_selbst": "„Ich bin echt überrascht. Die Partei spricht genau unsere größten Sorgen an: Bauen soll wieder bezahlbar werden, die verrückten Energieauflagen sollen weg und die Kitas gratis. Das klingt fast zu schön, um wahr zu sein!“",
+    "begruendung_selbst": "„Wir stehen als Familie in der Mitte der Gesellschaft massiv unter Druck. Alles wird teurer: Bauen, Heizen, Tanken. Die Forderungen nach Freibeträgen bei der Grunderwerbsteuer, der Abschaffung der CO2-Abgabe und günstigeren Krediten treffen genau den Kern unserer Probleme. Dass sie außerdem den ganzen Sanierungszwang beim Hausbau stoppen wollen, nimmt uns eine riesige Last von den Schultern. Ob sie das alles so umsetzen können, steht natürlich auf einem anderen Blatt, aber inhaltlich holt uns das Programm wirklich zu hundert Prozent ab.“"
+  },
+  "modell_slug": "gemini-3.1-pro",
+  "modell": "Gemini 3.1 Pro (High)",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)"
+}

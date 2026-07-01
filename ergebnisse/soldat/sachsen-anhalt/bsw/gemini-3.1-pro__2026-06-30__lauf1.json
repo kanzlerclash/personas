@@ -1,0 +1,113 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Genau unser Auftrag!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das BSW bekennt sich formal dazu, dass die Kernaufgabe der Truppe in der Landes- und Bündnisverteidigung liegt.",
+      "seite": 9,
+      "zitat": "Die Bundeswehr muss der Landes- und Bündnisverteidigung dienen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Stefan ist die Fokussierung auf die Landes- und Bündnisverteidigung essenziell, insbesondere angesichts seiner Stationierung an der Ostflanke. Diesem theoretischen Kernauftrag stimmt er voll zu, auch wenn er die praktischen Forderungen der Partei als absolut widersprüchlich dazu empfindet.",
+      "begruendung_selbst": "Da haben sie absolut Recht: Landes- und Bündnisverteidigung ist unser elementarster Job. Nur frage ich mich, wie wir den ganz ohne NATO-Manöver und ohne frisches Geld für vernünftiges Material jemals erfüllen sollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sicherheit braucht Ausrüstung!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei fordert, die personelle und technische Ausstattung der Landespolizei massiv zu verbessern.",
+      "seite": 67,
+      "zitat": "Polizei personell, technisch und fachlich handlungsfähig ausstatten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan kennt die Konsequenzen von chronischem Kaputtsparen bei Sicherheitsorganen aus seinem eigenen Dienstalltag nur zu gut. Er schätzt es sehr, dass wenigstens bei der Polizei die absolute Notwendigkeit von ausreichenden Ressourcen erkannt wird.",
+      "begruendung_selbst": "Ich kämpfe jeden Tag mit unserem Materialmangel und weiß, wie das die Moral in der Truppe frisst. Dass wenigstens unsere Polizisten auf der Straße vernünftig ausgestattet und personell aufgestockt werden sollen, ist absolut der richtige Ansatz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leistung muss anerkannt werden!",
+      "thema": "arbeit",
+      "programmpunkt": "Beförderungen von Beamten sollen nicht mehr primär von freien Planstellen abhängen, sondern transparent und leistungsgerecht erfolgen.",
+      "seite": 68,
+      "zitat": "Beförderungsstaus müssen aufgelöst werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Berufssoldat ist Stefan selbst Teil des Systems und kennt die Frustration starrer Laufbahnen im öffentlichen Dienst. Die Forderung nach verlässlichen, leistungsbezogenen Beförderungsperspektiven trifft sein Grundverständnis von Fairness.",
+      "begruendung_selbst": "Auch wenn es hier 'nur' um die Landespolizei geht: Dieses ewige Warten auf eine freie Planstelle, obwohl man vollen Einsatz bringt, nervt kolossal. Wer für den Staat den Kopf hinhält, sollte auch pünktlich und fair befördert werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wer das Geld streicht, gefährdet uns alle!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das BSW positioniert sich strikt gegen jede Form der Aufrüstung der Bundeswehr und lehnt die notwendigen Investitionen in die Einsatzfähigkeit entschieden ab.",
+      "seite": 9,
+      "zitat": "Eine Stimme für das BSW ist eine Stimme gegen Krieg und Aufrüstung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan leidet in seinem Dienstalltag akut unter gravierenden Ausrüstungsmängeln. Die pauschale Ablehnung von Verteidigungsausgaben empfindet er als direkten Angriff auf die Einsatzfähigkeit und die physische Sicherheit seiner Kameraden.",
+      "begruendung_selbst": "Wenn die uns das Geld für Ausrüstung verweigern, schicken die uns im Ernstfall völlig wehrlos an die Front. Wer so über unsere Verteidigung redet, hat noch nie mit kaputtem Material eine Übung fahren müssen!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wir brauchen ein starkes Bündnis!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm fordert ein Verbot von NATO-Manövern und lehnt strikt ab, dass die Infrastruktur im Inland für militärische Logistik des Bündnisses genutzt wird.",
+      "seite": 9,
+      "zitat": "Keine NATO-Manöver und militärische Nutzung ziviler Infrastruktur",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Soldat an der NATO-Ostflanke ist Stefan zwingend auf ein funktionierendes Bündnis und verlässliche logistische Unterstützung aus dem Inland angewiesen. Die Forderung, NATO-Aktivitäten im Inland zu blockieren, sabotiert aus seiner Sicht seinen Auftrag.",
+      "begruendung_selbst": "Ich stehe an der Flanke für unsere Sicherheit ein, und im Hinterland wollen sie uns die logistische Basis verweigern? Ohne funktionierende Nachschubwege und gemeinsame Übungen ist das gesamte NATO-Bündnis doch ein reiner Papiertiger.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Völlig blind für die Bedrohung!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert die Wiederaufnahme von Gaslieferungen aus Russland und will die Nord-Stream-Pipeline wieder in Betrieb nehmen.",
+      "seite": 17,
+      "zitat": "Eine Nutzung der Nordstream-Gaspipeline ist daher unerlässlich!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Angesichts der massiven militärischen Bedrohungslage durch Russland, die Stefan bei seinem Dienst an der NATO-Ostflanke täglich vor Augen hat, ist die Forderung nach neuen strategischen und energetischen Abhängigkeiten für ihn ein sicherheitspolitischer Offenbarungseid.",
+      "begruendung_selbst": "Ich sichere jeden Tag die Flanke gegen eine ganz reale Bedrohung ab, und diese Partei will uns sehenden Auges wirtschaftlich wieder direkt von Putin abhängig machen. Das ist naiv und höchst gefährlich für unser Land.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wir haben Wertschätzung verdient!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das BSW will die Bundeswehr aus dem zivilen Raum verdrängen und fordert unter anderem ein Ende der Auftritte von Jugendoffizieren an Schulen.",
+      "seite": 10,
+      "zitat": "Friedenserziehung statt Bundeswehrwerbung – Schluss mit Auftritten von Jugendoffizieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan wünscht sich gesellschaftlichen Rückhalt und Respekt für seinen belastenden Beruf. Den Vorstoß, Jugendoffiziere aus Bildungseinrichtungen auszuschließen, empfindet er als tiefe Respektlosigkeit gegenüber seinem Dienst für die Demokratie.",
+      "begruendung_selbst": "Wir stehen jeden Tag für dieses Land ein, aber in den Schulen sollen wir uns nicht mehr blicken lassen? Wir sind Staatsbürger in Uniform, leisten einen unverzichtbaren Dienst und haben unseren festen Platz in der Mitte der Gesellschaft.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aus Sicht des Soldaten Stefan ist das Programm des BSW stark von einer realitätsfremden und in Teilen bedrohlichen Sicherheitspolitik geprägt. Zwar unterstützt er vereinzelte Forderungen nach besserer Ausstattung der Polizei und fairen Beamtenlaufbahnen, jedoch empfindet er die strikte Ablehnung von Verteidigungsausgaben und NATO-Manövern als direkte Gefahr für die Einsatzfähigkeit seiner Truppe. Die geforderte strategische Annäherung an Russland konterkariert seinen täglichen Auftrag an der Bündnisflanke vollends, was zu einem stark negativen Gesamteindruck führt.",
+    "score": -2
+  }
+}

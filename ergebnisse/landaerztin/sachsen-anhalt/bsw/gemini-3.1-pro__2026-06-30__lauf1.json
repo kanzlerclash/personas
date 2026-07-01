@@ -1,0 +1,113 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Hilfe gegen den Papierkram!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will Praxen finanziell dabei unterstützen, Praxismanager einzustellen und die Verwaltung praxisnah zu digitalisieren.",
+      "seite": 60,
+      "zitat": "Zusätzlich brauchen Arztpraxen finanzielle Unterstützung, etwa für die Einstellung von Praxismanagern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra fühlt sich verstanden, da ihre größte Belastung im Alltag die überbordende Verwaltung ist, die ihr kostbare Zeit für die Patientenbehandlung raubt.",
+      "begruendung_selbst": "Ich behandle gern Menschen, aber ersticke in Formularen. Wenn man uns bei der Verwaltung personell den Rücken freihält, haben wir wieder Zeit für das Wesentliche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Genau so bekommen wir Nachwuchs!",
+      "thema": "gesundheit",
+      "programmpunkt": "Es sollen Stipendien für Medizinstudierende vergeben werden, wenn diese sich verpflichten, nach dem Abschluss in unterversorgten Regionen zu arbeiten.",
+      "seite": 60,
+      "zitat": "eigene Stipendienprogramme auflegen für Medizinstudierende, die sich im Gegenzug verpflichten, nach Abschluss",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sie macht sich große Sorgen um ihre ungelöste Praxisnachfolge und hält finanzielle Anreize für einen pragmatischen und wirksamen Hebel gegen den Ärztemangel auf dem Land.",
+      "begruendung_selbst": "Wenn ich in Rente gehe, steht hier niemand bereit. Solche gezielten Stipendien sind ein echter Anreiz, um junge Kollegen endlich aufs Land zu holen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rendite heilt keine Kranken!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Übernahme von Arztpraxen durch Finanzinvestoren und die Ausbreitung renditeorientierter Versorgungszentren wird als Gefahr für eine bedarfsgerechte Versorgung kritisiert.",
+      "seite": 56,
+      "zitat": "Finanzinvestoren übernehmen Arztpraxen und bauen renditeorientierte Versorgungszentren auf",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Landärztin verachtet sie die Profitlogik im Gesundheitswesen, da sich die Grundversorgung auf dem Land ohnehin wirtschaftlich oft nicht rechnet und Patienten dort das Nachsehen haben.",
+      "begruendung_selbst": "Rendite-Logik passt einfach nicht zur ländlichen Grundversorgung. Medizin darf kein reines Geschäftsmodell von Finanzinvestoren sein, bei dem meine Patienten auf der Strecke bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Daseinsvorsorge darf sich nicht rechnen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Krankenhäuser, die für private Betreiber unrentabel geworden sind, sollen wieder in die öffentliche Hand überführt und als Teil der Daseinsvorsorge gesichert werden.",
+      "seite": 57,
+      "zitat": "als Teil der öffentlichen Daseinsvorsorge unverzüglich in die öffentliche Hand zurückgeführt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sie ist fest davon überzeugt, dass der Staat genau dort einspringen muss, wo die medizinische Versorgung für den freien Markt unrentabel ist.",
+      "begruendung_selbst": "Gesundheit ist keine Ware. Wo private Träger wegen fehlender Gewinne abspringen, ist es die absolute Pflicht des Staates, die medizinische Versorgung aufrechtzuerhalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gut für meine älteren Patienten!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Es soll ein Recht auf ein analoges Leben geben, sodass öffentliche Leistungen auch ohne Smartphone und digitalen Zwang nutzbar bleiben.",
+      "seite": 74,
+      "zitat": "Niemand darf durch Digitalzwang von gesellschaftlicher Teilhabe ausgeschlossen werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sie kennt die Realität ihrer oft älteren Patientenschaft, die mit Apps und digitalem Zwang überfordert ist, und schätzt diese rücksichtsvolle Haltung sehr.",
+      "begruendung_selbst": "Meine älteren Patienten sind mit dem ständigen Digitalzwang völlig überfordert. Es ist eine Erleichterung, wenn sie nicht für jeden Antrag zwingend ein Smartphone brauchen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mehr Staat löst den Arztmangel nicht!",
+      "thema": "gesundheit",
+      "programmpunkt": "Wenn sich keine freien Ärzte niederlassen, sollen stattdessen kommunal betriebene Gesundheitszentren mit angestellten Medizinern die Versorgung übernehmen.",
+      "seite": 60,
+      "zitat": "Dazu zählen kommunal betriebene Gesundheitszentren mit angestellten Ärzten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sie sieht Verstaatlichungstendenzen kritisch und befürchtet, dass kommunale Zentren noch mehr ineffiziente Verwaltung bringen, anstatt die Arbeitsbedingungen für freiberufliche Hausärzte zu verbessern.",
+      "begruendung_selbst": "Ich bin extrem skeptisch bei solchen staatlichen Zentren. Wenn wir stattdessen die Hausärzte von der überbordenden Bürokratie befreien würden, fänden wir auch wieder Nachfolger für unsere Praxen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das ist ein Schlag ins Gesicht!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei zweifelt den medizinischen Nutzen der Corona-Impfstoffe an, behauptet, dass Risiken verharmlost wurden, und verlangt Rehabilitierungen.",
+      "seite": 16,
+      "zitat": "Mittlerweile mehren sich Hinweise darauf, dass der Nutzen der Impfstoffe überschätzt wird",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Hausärztin, die ihre Patienten während der Pandemie nach wissenschaftlichen Standards versorgt und geimpft hat, empfindet sie die pauschale Abwertung der Impfkampagne als gefährlich und respektlos.",
+      "begruendung_selbst": "Ich stehe zu meiner ärztlichen Verantwortung. Es macht mich wütend, wenn wissenschaftliche Fakten politisiert werden und unsere harte Arbeit während der Pandemie im Nachhinein derart diskreditiert wird.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra findet in den Plänen des BSW viele ihrer Kernforderungen wieder, insbesondere die klare Absage an die Ökonomisierung der Medizin und pragmatische Ansätze zur Entlastung von Bürokratie. Die geförderten Praxismanager und Stipendien für künftige Landärzte sieht sie als echte und überfällige Hilfen für den ländlichen Raum. Große Vorbehalte hegt sie jedoch gegen potenziell bürokratische kommunale Gesundheitszentren und die unwissenschaftliche Haltung zur Corona-Impfung, die ihrer ärztlichen Grundüberzeugung massiv widerspricht.",
+    "score": 1
+  }
+}

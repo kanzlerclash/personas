@@ -1,0 +1,113 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich sichere und kostenlose Betreuung!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei fordert einen uneingeschränkten Rechtsanspruch auf zehn Stunden ganztägige Kita-Betreuung, die für alle Eltern komplett gebührenfrei ist.",
+      "seite": 29,
+      "zitat": "Bildung in Kindertageseinrichtungen für alle Eltern beitragsfrei wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica haben im Alltag oft mit den Kosten und der begrenzten Verfügbarkeit von Kita-Plätzen zu kämpfen, was die Vereinbarkeit von zwei Vollzeitjobs erschwert. Ein garantierter, kostenloser Zehn-Stunden-Platz würde ihr Familienbudget und ihre zeitliche Organisation massiv entlasten.",
+      "begruendung_selbst": "Wenn die Kita uns keinen Cent mehr kostet und wir uns auf zehn Stunden verlassen können, fällt uns ein riesiger Stein vom Herzen. Das bringt uns endlich mehr Luft zum Sparen fürs Haus!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vier Tage arbeiten beim vollen Lohn!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei plant, eine 4-Tage-Woche bei vollem Lohnausgleich einzuführen, um Familien zeitlich zu entlasten und Einkommenseinbußen zu verhindern.",
+      "seite": 46,
+      "zitat": "eine Anpassung der Vollzeitarbeitszeitregelung zu einer 4-Tage-Woche bei gleichbleibendem Lohn",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener-Paar mit einem Kleinkind stoßen beide beruflich wie privat an ihre zeitlichen Grenzen, können aber aus finanziellen Gründen nicht auf Teilzeit gehen. Eine reduzierte Arbeitszeit ohne Gehaltsverlust käme ihrer Lebensrealität enorm entgegen.",
+      "begruendung_selbst": "Vier Tage arbeiten und trotzdem das volle Gehalt? Das wäre der absolute Traum! Dann hätten wir endlich mehr Zeit fürs Kind, ohne uns finanziell noch weiter einschränken zu müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Besser pendeln, vielleicht ohne Zweitwagen!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm sieht vor, auch zwischen kleinen Orten im ländlichen Raum unabhängig vom reinen Schülerverkehr mehr Busse einzusetzen.",
+      "seite": 103,
+      "zitat": "zwischen kleinen Orten im ländlich geprägten Raum unabhängig von der Schüler:innenbeförderung mehr Busse einsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Familie wohnt im Speckgürtel und pendelt zur Arbeit, weshalb ein gut ausgebauter Nahverkehr für sie sehr relevant ist. Bessere Taktungen auf dem Land bieten eine echte Alternative zum teuren Zweitwagen, der Kapital für den Hauskauf bindet.",
+      "begruendung_selbst": "Wenn hier auf dem Dorf auch außerhalb der Schulzeiten verlässlich Busse fahren, könnten wir glatt den Zweitwagen abschaffen. Das Geld könnten wir viel besser für unser Baukonto gebrauchen!",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Der Traum vom Haus wird beerdigt!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will Fördermittel für den Wohnungsbau ausschließlich in soziale Mietwohnungen stecken und jede Förderung von privatem Wohneigentum einstellen.",
+      "seite": 83,
+      "zitat": "nicht für die Förderung von Eigentum",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Tom und Jessica ist der Bau eines Eigenheims das zentrale Lebensziel, an dem sie durch Zinsen und Baulandpreise ohnehin fast scheitern. Die bewusste politische Entscheidung gegen jede Eigentumsförderung torpediert ihre Hoffnungen auf eine eigene Immobilie völlig.",
+      "begruendung_selbst": "Wir reißen uns ein Bein aus, um irgendwie bauen zu können, und jetzt soll Eigentum gar nicht mehr gefördert werden? Das ist doch ein harter Schlag für alle, die für etwas Eigenes arbeiten!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch eine teure Vorgabe beim Bauen!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert eine verbindliche Pflicht, bei jedem Neubau auch eine Photovoltaikanlage auf dem Dach zu errichten.",
+      "seite": 107,
+      "zitat": "Photovoltaik auf Dächern priorisieren, mit Solarpflicht für Neubauten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Budget der jungen Familie ist für einen Hausbau bereits extrem knapp kalkuliert. Verpflichtende Zusatzinvestitionen für Solaranlagen empfinden sie als überzogene, staatlich verordnete Preistreiberei, die ihnen den Weg ins Eigenheim verbaut.",
+      "begruendung_selbst": "Wir sind wirklich für Ökostrom, aber wenn wir beim Bauen auch noch gesetzlich zu einer teuren Solaranlage gezwungen werden, können wir das Projekt Hausbau gleich ganz an den Nagel hängen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Passivhauspflicht macht Bauen zum Luxus!",
+      "thema": "energie",
+      "programmpunkt": "Es soll festgelegt werden, dass sämtliche Neubauten verbindlich den extrem hohen Passivhausstandard erfüllen müssen.",
+      "seite": 108,
+      "zitat": "für Neubauten Passivhausstandards festlegen und nachhaltige Baustoffe wie Holz, Hanf oder Stroh fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die strengen energetischen Auflagen bereiten dem Paar ohnehin Sorgen vor explodierenden Kosten. Die Festlegung auf einen kostspieligen Passivhausstandard bestätigt ihre größte Kritik an einer in ihren Augen wirklichkeitsfremden Baupolitik.",
+      "begruendung_selbst": "Passivhausstandard als Pflicht? Haben die mal gerechnet, was das kostet? Wir wollen ein normales Haus für unsere Familie bauen und keinen prämierten Luxus-Ökotempel, den sich ohnehin keiner leisten kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Jeden Tag noch länger im Stau!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei positioniert sich strikt gegen den Neubau jeglicher Autobahnen.",
+      "seite": 105,
+      "zitat": "Keine neuen Autobahnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Pendler, die im Umland wohnen und täglich mit dem Auto zur Arbeit fahren müssen, leiden sie unter dem bestehenden Verkehrsaufkommen. Eine komplette Absage an neue Fernstraßen bedeutet für sie einen weiteren Verlust von kostbarer Lebenszeit im Stau.",
+      "begruendung_selbst": "Wir quälen uns jeden Morgen über volle Straßen in die Stadt. Wenn wichtige Verkehrsadern jetzt gar nicht mehr gebaut werden sollen, verbringen wir bald mehr Zeit im Auto als mit unserem Kind.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica sehen im Wahlprogramm der Linken Licht und viel Schatten. Während die Versprechen von kostenfreien Kita-Plätzen, einer Viertagewoche und besserem ÖPNV im Umland als willkommene Entlastung für ihren vollen Familienalltag wahrgenommen werden, ist die wohnungs- und baupolitische Agenda für sie ein Schock. Die klare Absage an jede Eigentumsförderung, gepaart mit extrem teuren Solarpflichten und Passivhaus-Vorgaben, beerdigt ihren Traum vom Eigenheim faktisch vollständig.",
+    "score": -1
+  }
+}

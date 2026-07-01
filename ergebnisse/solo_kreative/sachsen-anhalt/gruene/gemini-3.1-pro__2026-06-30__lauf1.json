@@ -1,0 +1,102 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkram!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Verwaltung soll digitalisiert und Bürokratie sowie Berichtspflichten sollen spürbar abgebaut werden.",
+      "seite": 89,
+      "zitat": "Wir wollen Bürokratie abbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Soloselbstständige wie Mareike ist administrativer Aufwand ein massiver Zeitfresser. Der Abbau von Bürokratie entlastet sie direkt in ihrem unplanbaren Projektalltag.",
+      "begruendung_selbst": "Als Ein-Frau-Unternehmen verbringe ich viel zu viel Zeit mit nervigem Papierkram statt mit meiner Arbeit. Jedes Formular weniger hilft mir!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Planungssicherheit für die Kultur!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Freie Szene soll deutlich mehr Fördermittel erhalten, und zwar verlässlich in Form von mehrjährigen Verträgen.",
+      "seite": 70,
+      "zitat": "Fördermittel für die Freie Szene erheblich erhöhen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das stark schwankende Einkommen und die fehlende Planungssicherheit sind Mareikes größte Sorgen. Mehrjährige Förderungen in der Freien Szene würden ihr genau die Stabilität geben, die ihr oft fehlt.",
+      "begruendung_selbst": "Ich hangle mich oft von Projekt zu Projekt. Wenn Förderungen endlich über mehrere Jahre laufen, kann ich mal richtig planen und durchatmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stipendien direkt vor der Tür!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Es sollen Arbeits- und Aufenthaltsstipendien für Künstlerinnen und Künstler in Sachsen-Anhalt eingeführt werden.",
+      "seite": 70,
+      "zitat": "Arbeits- und Aufenthaltsstipendien für nationale und internationale Künstler*innen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Kreative profitiert Mareike von einer starken lokalen Förderlandschaft. Arbeitsstipendien bieten ihr eine Chance auf direkte finanzielle Unterstützung für eigene Projekte, ohne den Wohnort wechseln zu müssen.",
+      "begruendung_selbst": "Oft muss man für gute Stipendien weit weg gehen. Dass es hier vor Ort mehr Arbeitsstipendien geben soll, wäre eine Riesenchance für mich!",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mutterschutz nur für bestimmte Branchen!",
+      "thema": "arbeit",
+      "programmpunkt": "Mutterschutz für Selbstständige wird zwar gefordert, aber im Programm explizit nur als Maßnahme für Frauen im Handwerk benannt.",
+      "seite": 91,
+      "zitat": "Förderung selbstständiger Frauen im Handwerk, Mutterschutz auch für Selbstständige",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die fehlende soziale Absicherung ist Mareikes Hauptsorge. Dass ein wichtiger Schutzmechanismus wie der Mutterschutz nur im Kontext klassischer Branchen gefordert wird, gibt ihr das Gefühl, als Solo-Kreative vergessen zu werden.",
+      "begruendung_selbst": "Schön, dass Handwerkerinnen Mutterschutz bekommen sollen. Aber was ist mit uns Solo-Kreativen? Wir fallen beim sozialen Netz mal wieder komplett durchs Raster.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wieder keine Steuervereinfachung für mich!",
+      "thema": "steuern",
+      "programmpunkt": "Die Befreiung von der Steuererklärungspflicht ist ausschließlich für Arbeitnehmerinnen und Arbeitnehmer sowie Rentnerinnen und Rentner vorgesehen.",
+      "seite": 96,
+      "zitat": "Steuerp fl ichtige, die ausschließlich Einkünfte aus nichtselbstständiger Arbeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist genervt von der Steuerlast und Bürokratie. Dass die radikale Vereinfachung der Steuererklärung explizit nur Festangestellten zugutekommen soll, ignoriert ihre Bedürfnisse als kleine Selbstständige völlig.",
+      "begruendung_selbst": "Klar, Angestellte kriegen es bequem gemacht und müssen keine Erklärung mehr abgeben. Und ich darf mich weiter mit dem Finanzamt rumschlagen und Formulare wälzen!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nur Start-ups zählen als Wirtschaft!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Der Fokus der Innovations- und Gründungsförderung liegt sehr stark auf Technologiebranchen wie Biotech, Bioökonomie und Chemie.",
+      "seite": 90,
+      "zitat": "Die Schwerpunkte liegen in den Bereichen Biotech, Bioökonomie, Chemie, Life Sciences",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike sieht, dass Wirtschaftsförderung fast ausschließlich auf Technologie-Start-ups oder Industrie abzielt. Sie fühlt sich mit ihrer wertschöpfenden Tätigkeit in der Kreativwirtschaft nicht ernst genommen.",
+      "begruendung_selbst": "Wenn es um Wirtschaftsförderung geht, redet die Politik immer nur über Biotech oder KI. Dass auch wir Solo-Kreativen echte Wirtschaftskraft sind, sieht niemand.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet im Programm der Grünen vielversprechende Ansätze zur Förderung der Freien Szene und einen starken Fokus auf Kunst und Kultur, was ihre existenzielle Lage als Kreative stark verbessern würde. Auch der Wille zum allgemeinen Bürokratieabbau stößt bei ihr auf große Zustimmung. Gleichzeitig fühlt sie sich bei zentralen sozial- und wirtschaftspolitischen Themen wie Mutterschutz, Steuervereinfachung und genereller Wirtschaftsförderung übergangen, da diese im Programm stark auf Angestellte, das Handwerk oder klassische Industriezweige ausgerichtet sind.",
+    "score": 1
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Sicherheit für unsere Jobs!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert, den vorzeitigen Kohleausstieg zu stoppen und die Braunkohleverstromung zur Sicherung von Industriearbeitsplätzen und Netzstabilität auch über das Jahr 2038 hinaus zu erhalten.",
+      "seite": 13,
+      "zitat": "„dass der Kohleausstieg in Deutschland gestoppt wird.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronnys größte Sorge ist ein abrupter Kohleausstieg ohne tragfähige wirtschaftliche Alternativen. Der Erhalt des Kohlestandorts gibt ihm und seiner Familie die geforderte Planbarkeit und Jobsicherheit.",
+      "begruendung_selbst": "Genau das sage ich immer: Erst die Brücke bauen, dann die alte abreißen! Es tut gut, dass mal jemand anerkennt, dass wir unsere Braunkohle noch brauchen, bis wir wirklich einen funktionierenden Ersatz haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgungssicherheit statt Dunkelflaute!",
+      "thema": "energie",
+      "programmpunkt": "Um bei fehlendem Wind und Sonnenlicht die Stromversorgung abzusichern, will die Partei moderne Gaskraftwerke errichten und eine Strategie gegen landesweite Stromausfälle erarbeiten.",
+      "seite": 13,
+      "zitat": "„nur durch das Hochfahren von Kohle- und Gaskraftwerken aufrechterhalten werden.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Fachkraft in der Energiewirtschaft legt Ronny enormen Wert auf eine verlässliche und stabile Energieversorgung. Ein Konzept zur Absicherung der Grundlast deckt sich voll mit seinem fachlichen Pragmatismus.",
+      "begruendung_selbst": "Wir Techniker wissen doch, wie knapp es im Netz manchmal zugeht. Ohne verlässliche Gaskraftwerke im Hintergrund stehen wir im Dunkeln. Das ist endlich mal eine ehrliche Bestandsaufnahme der Realität.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gesunder Menschenverstand statt Klebeproteste!",
+      "thema": "klima",
+      "programmpunkt": "Die AfD prangert den Klimaextremismus an und verlangt, dass die Behörden mit aller Härte des Rechtsstaats gegen radikale Klimaaktivisten vorgehen.",
+      "seite": 13,
+      "zitat": "„dass die Behörden mit aller Härte des Rechtsstaats gegen Klimaextremisten vorgehen.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny ärgert sich über radikale und aus seiner Sicht praxisferne Teile der Klimabewegung, die die harten Realitäten von Industrieregionen ignorieren. Er begrüßt es, wenn der Staat hier klare Grenzen aufzeigt.",
+      "begruendung_selbst": "Für diese Leute ist der Strom aus der Steckdose eine Selbstverständlichkeit, aber wir reißen uns hier den Hintern auf! Es ist richtig, dass man sich nicht von radikalen Träumern auf der Straße auf der Nase herumtanzen lässt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kein Wasserstoff, keine Zukunft!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei hält Wasserstoff für unwirtschaftlich, will die Landesbeteiligung an entsprechenden Initiativen sofort beenden und jede staatliche Förderung von grünem Wasserstoff streichen.",
+      "seite": 13,
+      "zitat": "„auf klimaideologischen und planwirtschaftlichen Grundsätzen basierende Wasserstoffstrategie umgehend beenden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Ronnys Region ist der Aufbau neuer Technologien wie Wasserstoff existenziell für den Strukturwandel. Ein sofortiger Förderstopp würde geplante Investitionen und neue Industriearbeitsplätze in seiner Heimat vernichten.",
+      "begruendung_selbst": "Wenn man uns jetzt den Wasserstoff wegnimmt, woher soll dann die neue Industrie kommen? Technologieoffenheit heißt doch nicht, alles Neue plattzumachen. Damit degradieren sie unsere Region endgültig zur verlängerten Werkbank ohne eigene Perspektive!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausländische Kohle sichert nicht unsere Heimat!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die AfD strebt an, die Kohlekraftwerke nach Erschöpfung der heimischen Kohlevorkommen dauerhaft weiterlaufen zu lassen, indem einfach Braunkohle aus dem Ausland importiert wird.",
+      "seite": 13,
+      "zitat": "„und fortan mit importierter Braunkohle versorgt werden.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny möchte Wertschöpfung vor Ort und nicht von ausländischen Energie-Importen abhängig sein. Sein Ziel ist ein echter Wandel zu einer zukunftsfähigen Region, keine künstliche und rückwärtsgewandte Verlängerung des Status quo.",
+      "begruendung_selbst": "Braunkohle importieren? Das ist doch völlig absurd! Unsere Jobs hängen an den Tagebauen und der Wertschöpfung hier vor Ort. Kraftwerke mit ausländischer Kohle zu befeuern, bringt unserer Region langfristig überhaupt keine Sicherheit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wir brauchen Pragmatismus, keine Totalblockade!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei fordert den Austritt Deutschlands aus dem Pariser Klimaabkommen, die Kündigung des Europäischen Green Deals und die ersatzlose Abschaffung des Bundesklimaschutzgesetzes.",
+      "seite": 13,
+      "zitat": "„Vom Klimaabkommen von Paris zurücktreten, Europäischen Green Deal aufkündigen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl Ronny bestimmte Klimaschutzmaßnahmen als zu starr empfindet, befürwortet er den Strukturwandel grundsätzlich und erkennt die Notwendigkeit an. Eine fundamentale Verweigerungshaltung passt nicht zu seinem ingenieurmäßigen Pragmatismus.",
+      "begruendung_selbst": "Natürlich darf der Klimaschutz uns nicht die Industrie abwürgen, aber einfach so tun, als könnten wir uns aus der Realität komplett ausklammern, ist doch reine Augenwischerei. Wir brauchen einen vernünftigen Plan für die Zukunft und keinen totalen Rückzug in die Vergangenheit!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny schätzt die klare Absage der AfD an einen vorschnellen Kohleausstieg sowie ihr Bekenntnis zur Versorgungssicherheit, da dies seine grundlegenden Sorgen um Jobverlust und Deindustrialisierung direkt adressiert. Andererseits lehnt er die rückwärtsgewandte Fundamentalopposition der Partei gegen den Strukturwandel, wie den Stopp der Wasserstoffstrategie und den Plan, Braunkohle zu importieren, kategorisch ab, da dies seiner Region jede zukunftsträchtige Perspektive raubt.",
+    "score": 0
+  }
+}

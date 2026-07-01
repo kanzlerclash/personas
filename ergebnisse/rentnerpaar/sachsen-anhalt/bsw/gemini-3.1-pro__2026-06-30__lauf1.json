@@ -1,0 +1,125 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wärmewende mit Verstand, nicht mit Zwang!",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW lehnt pauschale Vorgaben für die Wärmewende auf dem Land als unrealistisch ab und spricht sich gegen preistreibende Bau- und Sanierungsstandards aus.",
+      "seite": 26,
+      "zitat": "Was in Ballungsräumen richtig ist, funktioniert nicht automatisch auf dem Land.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten sich vor Sanierungspflichten für ihr Haus, die sie finanziell überfordern würden. Der realistische Blick der Partei auf die besonderen Bedingungen im ländlichen Raum nimmt ihnen diese Zukunftsangst.",
+      "begruendung_selbst": "Endlich sieht jemand ein, dass wir hier auf dem Dorf unsere alten Häuser nicht einfach so dämmen können wie in der Großstadt – wer soll das denn bezahlen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weg mit der Klima-Steuer!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert die Aussetzung oder Abschaffung der CO2-Bepreisung, da diese unsozial sei und insbesondere untere Einkommen belaste.",
+      "seite": 27,
+      "zitat": "Daher fordern wir, diese ungerechte Steuer auszusetzen oder abzuschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit ihren kleinen Renten spüren die beiden jeden Anstieg der Heizkosten sofort im Geldbeutel. Dass das BSW diese Abgabe streichen will, entspricht exakt ihrem dringendsten Bedürfnis nach finanzieller Entlastung.",
+      "begruendung_selbst": "Wir müssen jeden Monat rechnen, wie wir unsere alte Heizung bezahlen sollen. Diese Klima-Steuer bestraft doch nur uns kleine Leute, die sich ohnehin keine neue Anlage leisten können!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflegekosten dürfen uns nicht ruinieren!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW verlangt eine Pflegevollversicherung, die zum Großteil aus Steuern finanziert wird, um zu verhindern, dass Pflegebedürftigkeit zum finanziellen Ruin führt.",
+      "seite": 58,
+      "zitat": "Eine würdige Pflege im Alter darf keine Frage des Geldes sein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Rentnerpaar hat keine liquiden Rücklagen und fürchtet, im Pflegefall ihr Haus verkaufen zu müssen. Die Forderung nach einer steuerfinanzierten Vollversicherung verspricht ihnen Sicherheit in dieser existenziellen Sorge.",
+      "begruendung_selbst": "Das ist unsere größte Sorge: Dass wir am Ende ins Heim müssen und das Haus, für das wir gearbeitet haben, weg ist. So eine Versicherung wäre unsere Rettung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Polikliniken haben damals gut funktioniert!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm hebt das DDR-Modell der Polikliniken lobend hervor und fordert eine Rückkehr zu wohnortnahen, kooperativen Versorgungszentren.",
+      "seite": 56,
+      "zitat": "Die Polikliniken der DDR standen für eine wohnortnahe, interdisziplinäre und nicht profitorientierte Gesundheitsversorgung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Rentner mit Ost-Biografie schätzen Dieter und Helga das alte Poliklinik-System aus eigener Erfahrung. Der Plan, dieses Modell für eine sichere Arztversorgung wiederzubeleben, holt sie biografisch direkt ab.",
+      "begruendung_selbst": "Da können die heute noch was lernen! Damals ging man in die Poliklinik und hatte alle Ärzte unter einem Dach, ohne Profitwahn. Genau so etwas brauchen wir wieder.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich mehr Polizei vor Ort!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizei soll personell und fachlich gestärkt werden, um Sicherheit als Kernaufgabe der Daseinsvorsorge zu gewährleisten.",
+      "seite": 66,
+      "zitat": "Sicherheit ist Daseinsvorsorge und gehört in die professionellen Hände der Polizei.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "In ihrem Dorf fühlen sie sich oft unsicher, weil der Staat kaum noch spürbar ist. Die Forderung nach einer starken, handlungsfähigen Polizei bedient ihr tiefes Bedürfnis nach Ordnung und Schutz.",
+      "begruendung_selbst": "Man sieht ja heute weit und breit keinen Polizisten mehr bei uns. Es wird höchste Zeit, dass da wieder jemand präsent ist und nach dem Rechten sieht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wir wollen Menschen, keine Computer!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Partei betont das Recht auf ein analoges Leben, bei dem Behördengänge und Teilhabe auch ohne digitale Geräte möglich bleiben müssen.",
+      "seite": 74,
+      "zitat": "Niemand darf durch Digitalzwang von gesellschaftlicher Teilhabe ausgeschlossen werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Digitalisierung des Alltags überfordert das ältere Paar zunehmend. Die ausdrückliche Garantie, weiterhin alles analog und im direkten Kontakt erledigen zu dürfen, gibt ihnen ein großes Stück Sicherheit.",
+      "begruendung_selbst": "Es tut gut, wenn mal jemand sagt, dass es auch ohne dieses ständige Smartphone gehen muss! Wir wollen auf dem Amt mit echten Menschen reden können.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wir brauchen einen echten Arzt!",
+      "thema": "gesundheit",
+      "programmpunkt": "Gegen den Hausarztmangel auf dem Land schlägt die Partei unter anderem den vermehrten Einsatz von Telemedizin und Videosprechstunden vor.",
+      "seite": 58,
+      "zitat": "Ausbau von Telemedizin und Videosprechstunden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dieter und Helga wünschen sich einen festen Hausarzt als persönliche Vertrauensperson im Dorf. Der Gedanke, im Krankheitsfall über einen Bildschirm behandelt zu werden, weckt tiefe Skepsis.",
+      "begruendung_selbst": "Was soll ich denn mit einem Doktor auf dem Bildschirm anfangen, wenn mir was fehlt? Wir brauchen jemanden aus Fleisch und Blut, der uns abhorcht!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schule ist zum Lernen da!",
+      "thema": "bildung",
+      "programmpunkt": "Das BSW unterstützt das politische Engagement und die Versammlungsfreiheit von Schülern, auch wenn sich dies in Schulstreiks wie bei Fridays for Future äußert.",
+      "seite": 73,
+      "zitat": "die Proteste der Jugend in den letzten Jahren wie „Fridays for Future“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar legt großen Wert auf das Erfüllen von Pflichten. Dass Proteste, bei denen der Unterricht geschwänzt wird, verteidigt werden, widerspricht völlig ihrem traditionellen Wertekompass.",
+      "begruendung_selbst": "Bei uns hieß es früher: Erst die Pflicht, dann das Vergnügen. Die Kinder sollen gefälligst in die Schule gehen, statt auf der Straße den Unterricht zu schwänzen!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm des BSW trifft den Nerv des Rentnerpaares sehr gut, da es zentrale Ängste vor Sanierungspflichten, Heizkosten und Pflegekosten direkt adressiert. Helga und Dieter fühlen sich in ihrem Bedürfnis nach staatlicher Verlässlichkeit, mehr Polizeipräsenz und der Abkehr vom Digitalisierungszwang verstanden. Lediglich Ansätze wie Telemedizin oder das Verteidigen von Schulstreiks rufen bei ihnen traditionelle Vorbehalte hervor.",
+    "score": 2
+  }
+}

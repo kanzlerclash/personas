@@ -1,0 +1,125 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wer hier lebt, wählt mit!",
+      "thema": "demokratie",
+      "programmpunkt": "Das kommunale Wahlrecht soll für alle dauerhaft hier lebenden Menschen eingeführt werden, unabhängig von ihrem Pass.",
+      "seite": 35,
+      "zitat": "ein aktives und passives Wahlrecht für alle ein",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin wünscht sich, dass Zugehörigkeit durch Teilhabe und nicht durch Abstammung definiert wird. Die Ausweitung des kommunalen Wahlrechts bestätigt ihre Überzeugung, dass der Lebensmittelpunkt die Mitbestimmung rechtfertigen sollte.",
+      "begruendung_selbst": "Genau so sieht echte Teilhabe aus! Wer hier lebt, arbeitet und Steuern zahlt, gehört dazu und sollte mitreden dürfen – Punkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klarer Schutz im Amt!",
+      "thema": "demokratie",
+      "programmpunkt": "Ein Landes-Antidiskriminierungsgesetz soll Behörden in die Pflicht nehmen, aktiv gegen Ausgrenzung vorzugehen.",
+      "seite": 44,
+      "zitat": "Mit einem Antidiskriminierungsgesetz holen wir für die Verwaltung nach",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte mit Migrationsgeschichte spürt Aylin oft subtile Alltagsdiskriminierung. Ein Gesetz, das Diskriminierung im öffentlichen Dienst konsequent ahndet, stärkt ihr Gefühl von Sicherheit und Akzeptanz am Arbeitsplatz.",
+      "begruendung_selbst": "Endlich wird Diskriminierung nicht mehr als bloße Befindlichkeit abgetan, sondern gesetzlich als das behandelt, was sie ist: absolut inakzeptabel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Extremisten im Staatsdienst!",
+      "thema": "demokratie",
+      "programmpunkt": "Rechtsextreme Beamt*innen sollen konsequent und rechtssicher aus dem öffentlichen Dienst entfernt werden.",
+      "seite": 40,
+      "zitat": "Wer verbeamtet werden will, muss uneingeschränkt zur freiheitlich-demokratischen Grundordnung stehen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Aylin, die als Angestellte im öffentlichen Dienst arbeitet, ist ein hartes Vorgehen gegen rechte Unterwanderung in den Ämtern ein elementares Signal für Rechtsstaatlichkeit.",
+      "begruendung_selbst": "Wer Menschen wie mir die Zugehörigkeit abspricht und spaltet, hat in unserem Staat und seinen Behörden absolut nichts zu suchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Vielfalt in Uniform!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizei soll diverser werden und gezielt Menschen mit Einwanderungsgeschichte einstellen.",
+      "seite": 43,
+      "zitat": "Dafür wollen wir gezielt Menschen mit Migrationsgeschichte",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin wünscht sich innere Sicherheit ohne pauschalen Verdacht gegen Migranten. Eine vielfältigere Polizei, die die Gesellschaft widerspiegelt, begegnet ihrer Sorge vor strukturellem Rassismus in Sicherheitsbehörden.",
+      "begruendung_selbst": "Sicherheit muss für alle gelten. Es ist gut, dass die Polizei die Vielfalt unserer Gesellschaft abbilden soll, das baut Vorurteile ab.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sprache ist der Schlüssel!",
+      "thema": "integration",
+      "programmpunkt": "Geflüchtete und Neuzugewanderte sollen sofort nach Ankunft Zugang zu Sprachkursen erhalten.",
+      "seite": 78,
+      "zitat": "Deshalb sollen Sprachkurse ab dem ersten Tag zugänglich sein",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als pragmatisch denkende Frau schätzt Aylin lösungsorientierte Ansätze. Ein sofortiger Start von Sprachkursen ohne Warteschleifen fördert die von ihr geforderte Leistungsbereitschaft und schnelle Teilhabe.",
+      "begruendung_selbst": "Das ist pragmatisch! Wer Teil der Gesellschaft werden soll, braucht vom ersten Tag an die Sprache – ohne sinnlose bürokratische Warteschleifen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit der Stigmatisierung!",
+      "thema": "integration",
+      "programmpunkt": "Die diskriminierende Praxis der Bezahlkarte für Asylbewerber soll abgeschafft werden.",
+      "seite": 79,
+      "zitat": "Wir fordern die Abschaffung der Bezahlkarte und wollen diese diskriminierende Praxis endgültig beenden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin lehnt ausgrenzende Politik strikt ab. Die Rückkehr zur Bargeldauszahlung deckt sich mit ihrem tiefen Grundwert von Gleichbehandlung und Würde für alle Menschen im Land.",
+      "begruendung_selbst": "Gängelei und Stigmatisierung helfen niemandem beim Ankommen. Es geht hier um Menschenwürde, nicht um billige populistische Schikanen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wir sind keine Wirtschaftsgüter!",
+      "thema": "integration",
+      "programmpunkt": "Zuwanderung wird vorrangig als Instrument zur Behebung des Fachkräftemangels und des demografischen Wandels dargestellt.",
+      "seite": 77,
+      "zitat": "wollen wir Fachkräfte gewinnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin erhofft sich eine Gesellschaft, in der Menschen mit Migrationsgeschichte einfach als selbstverständlicher Teil anerkannt werden. Die starke wirtschaftliche Begründung von Zuwanderung gibt ihr das Gefühl, primär an ökonomischer Nützlichkeit gemessen zu werden.",
+      "begruendung_selbst": "Ich bin mehr als nur ein Lückenbüßer für den Fachkräftemangel. Wir sind Menschen, die hier leben wollen, keine bloßen Wirtschaftsfaktoren auf einem Arbeitsmarkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bitte weniger Drohkulisse!",
+      "thema": "integration",
+      "programmpunkt": "Die Teilnahme an Sprachkursen soll zur Pflicht gemacht und im Notfall auch streng erzwungen werden.",
+      "seite": 78,
+      "zitat": "und nötigenfalls auch durchgesetzt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl Aylin geordnete Integration befürwortet, empfindet sie die betonte Härte bei der Durchsetzung als Zugeständnis an populistische Narrative. Sie fürchtet, dass dadurch der pauschale Verdacht bedient wird, Einwanderer seien generell unwillig.",
+      "begruendung_selbst": "Natürlich ist Sprache extrem wichtig, aber dieser Straf-Unterton stört mich. Es klingt so, als müsse man uns immer mit Härte zum Mitmachen zwingen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Wahlprogramm der Grünen spricht Aylin in weiten Teilen stark an, da es sich kompromisslos gegen Diskriminierung positioniert und Vielfalt als absolute Bereicherung versteht. Insbesondere die Pläne zu einem echten Antidiskriminierungsgesetz, dem kommunalen Wahlrecht für alle und dem harten Vorgehen gegen Verfassungsfeinde im Staatsdienst decken sich mit ihren demokratischen Grundwerten. Lediglich die gelegentlich utilitaristische Betonung von Zuwanderern als nützlichen Fachkräften und ein leichter Straf-Unterton bei der Sprachkurs-Pflicht trüben das ansonsten sehr positive Bild marginal.",
+    "score": 2
+  }
+}
