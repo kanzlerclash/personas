@@ -1,0 +1,162 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 100445,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich KSK ernst nehmen",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW will die soziale Lage von Künstlern und Kulturschaffenden verbessern, die Künstlersozialkasse reformieren und besser gegen Altersarmut sowie Verdienstausfälle absichern.",
+      "seite": 40,
+      "zitat": "Reform der Künstlersozialkasse, besseren Schutz vor Altersarmut und Verdienstausfällen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike arbeitet soloselbstständig im Kreativbereich und ist auf verlässliche KSK- und Ausfallabsicherung angewiesen. Der Punkt trifft ihren größten Schwachpunkt: Krankheit, Flauten und Alter sind bisher privat kaum abfangbar.",
+      "begruendung_selbst": "Genau darum geht es: Wenn ein Auftrag wegbricht oder ich krank bin, hilft mir kein Schulterklopfen. Ich brauche eine KSK, die wirklich trägt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Freie Arbeit fair bezahlen",
+      "thema": "arbeit",
+      "programmpunkt": "Freie Lehrkräfte und projektbezogen arbeitende Kulturakteure sollen fairere Honorare, tarifnahe Absicherung und landeseinheitliche Standards bekommen.",
+      "seite": 40,
+      "zitat": "Freie Lehrkräfte brauchen faire Honorare, tarifnahe Absicherung und landeseinheitliche Standards.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Mareike ist freie Kreativarbeit kein Hobby, sondern Erwerbsarbeit mit schwankenden Einnahmen. Faire Honorare und Standards passen zu ihrem Wunsch, nicht als billige flexible Ressource behandelt zu werden.",
+      "begruendung_selbst": "Ich verkaufe keine Leidenschaft zum Nulltarif. Freie Arbeit muss so bezahlt werden, dass man davon Rücklagen bilden kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung ohne Papierkrieg",
+      "thema": "wirtschaft",
+      "programmpunkt": "Kulturförderung soll Planungssicherheit, Vorfinanzierungsmöglichkeiten und weniger bürokratische Hürden bieten.",
+      "seite": 41,
+      "zitat": "den Abbau bürokratischer Hürden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike hat kaum Rücklagen und muss Projekte oft vorfinanzieren. Gerade deshalb sind einfache Förderzugänge und planbare Mittel für sie existenziell, nicht nur bequem.",
+      "begruendung_selbst": "Ich kann nicht monatelang Geld vorstrecken und nebenbei zehn Formulare jonglieren. Förderung muss auch für Kleine funktionieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ein Portal statt Amtslabyrinth",
+      "thema": "digitalisierung",
+      "programmpunkt": "Für Unternehmen soll ein landesweites digitales Unternehmensportal entstehen, das Anträge, Meldungen, Unterlagen und Behördenkommunikation bündelt.",
+      "seite": 21,
+      "zitat": "Unterlagen hochladen und mit Behörden kommunizieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Solo-Selbstständige erledigt Mareike Verwaltung selbst und verliert daran Arbeitszeit. Ein medienbruchfreies Portal würde genau den Aufwand reduzieren, der bei Kleinstbetrieben unverhältnismäßig schwer wiegt.",
+      "begruendung_selbst": "Wenn ich schon alles alleine mache, will ich nicht fünf Behördenlogins pflegen. Ein sauberer digitaler Zugang wäre echte Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "DSGVO darf nicht lähmen",
+      "thema": "digitalisierung",
+      "programmpunkt": "Das BSW will Datenschutz mit Praktikabilität und Rechtssicherheit verbinden und dabei kleine Betriebe in die Reform der DSGVO einbeziehen.",
+      "seite": 70,
+      "zitat": "wirksam, verständlich und bürgernah sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike arbeitet digital und muss Datenschutzpflichten ohne eigene Rechtsabteilung erfüllen. Die Verbindung aus Bürgerrechten und praxistauglichen Regeln entspricht ihrem Bedürfnis nach Schutz ohne Überforderung.",
+      "begruendung_selbst": "Ich will Datenschutz ernst nehmen, aber ich bin keine Konzernrechtsabteilung. Regeln müssen für Ein-Personen-Büros machbar sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gründen ohne Absturzkante",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm erkennt unzureichende soziale Absicherung als Gründungshemmnis und fordert mehr Unterstützung, Beratung, Mentoring und weniger bürokratische Hürden für Gründungen.",
+      "seite": 21,
+      "zitat": "weil die sozialen Absicherungen in Sachsen-Anhalt als unzureichend wahrgenommen werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike kennt genau diese Mischung aus Unternehmergeist und Absturzrisiko. Dass das Programm soziale Absicherung als Voraussetzung für Gründungen anspricht, passt zu ihrer Kritik an reiner Eigenverantwortungslogik.",
+      "begruendung_selbst": "Ich will selbstständig sein, aber nicht jedes Risiko komplett privat schlucken. Ohne Sicherheitsnetz gründet man mit angezogener Handbremse.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Atelier statt Großstadtmiete",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das BSW will Wohn-Arbeits-Projekte, Atelier-Genossenschaften und Probewohnen-Stipendien für Kreative aus Großstädten fördern.",
+      "seite": 89,
+      "zitat": "Wohnraum und Atelier unter einem Dach anbieten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike lebt in einer teuren Großstadt und braucht bezahlbare Arbeitsräume. Solche kombinierten Wohn- und Ateliermodelle sprechen ihre wirtschaftliche Realität unmittelbar an, solange sie freiwillig und nicht als Verdrängungsprogramm gedacht sind.",
+      "begruendung_selbst": "Bezahlbarer Raum ist für Kreative fast schon Betriebskapital. Wenn Wohnen und Atelier zusammengehen, wird Arbeit wieder planbarer.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Tarifpflicht trifft die Falschen",
+      "thema": "arbeit",
+      "programmpunkt": "Öffentliche Aufträge und Fördermittel sollen nur an tarifgebundene Unternehmen gehen.",
+      "seite": 22,
+      "zitat": "Öffentliche Aufträge und Fördermittel dürfen nur an tarifgebundene Unternehmen vergeben werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike befürwortet faire Bezahlung, aber eine starre Tarifbindung kann Solo-Selbstständige und Kleinstbüros aus öffentlichen Aufträgen drängen. Für ihre Lebenslage wäre Honorarsicherung passender als ein Kriterium, das klassische Betriebe bevorzugt.",
+      "begruendung_selbst": "Faire Honorare ja, aber ich habe keinen Tarifvertrag mit mir selbst. So falle ich wieder durch ein Raster.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digital pauschal ausgebremst",
+      "thema": "digitalisierung",
+      "programmpunkt": "Das BSW lehnt digitale Geräte in der Grundschule ab und fordert ein verbindliches Smartphone-Verbot im Schulalltag.",
+      "seite": 45,
+      "zitat": "keine pädagogische Lösung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist digital-affin und arbeitet professionell mit digitalen Werkzeugen. Ein pauschaler Verbotsansatz wirkt aus ihrer Sicht weniger wie Medienbildung und mehr wie Misstrauen gegenüber digitaler Praxis.",
+      "begruendung_selbst": "Natürlich ist ein Tablet nicht automatisch Bildung. Aber Kinder brauchen Medienkompetenz, nicht nur Verbote und kulturpessimistische Reflexe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Offenheit klingt anders",
+      "thema": "integration",
+      "programmpunkt": "Das Programm fordert, den Anteil ausländischer Kinder in Kindergärten und Schulen auf maximal 30 Prozent zu begrenzen und Kinder zur Durchmischung anders zu verteilen.",
+      "seite": 65,
+      "zitat": "wobei eine Quote von 30 % nicht überschritten werden sollte",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist liberal-progressiv und legt Wert auf Offenheit. Eine starre Quote nach Herkunft berührt ihre Haltung zu Vielfalt und wirkt auf sie würdelos gegenüber Kindern, auch wenn das Programm Bildungschancen verbessern will.",
+      "begruendung_selbst": "Kinder nach Herkunft zu deckeln, fühlt sich für mich falsch an. Förderung ja, aber nicht mit Etiketten auf Menschen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Identität nicht wegdrücken",
+      "thema": "familie",
+      "programmpunkt": "Staatliche und kommunale Einrichtungen sollen keine Konzepte zu Geschlecht, Sexualität oder Identität gegen den Willen der Eltern einführen oder fördern.",
+      "seite": 39,
+      "zitat": "Geschlecht, Sexualität oder Identität gegen den Willen der Eltern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes Grundhaltung ist offen und selbstbestimmt. Sie würde befürchten, dass Schutz vor angeblicher Ideologie praktische Aufklärung, Sichtbarkeit und Unterstützung für queere Jugendliche ausbremst.",
+      "begruendung_selbst": "Selbstbestimmung hört doch nicht an der Klassenzimmertür auf. Jugendliche brauchen verlässliche Infos, nicht nur das Veto der Eltern.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet im BSW-Programm auffällig viele direkte Anknüpfungspunkte: KSK-Reform, Schutz vor Verdienstausfällen, faire Honorare, weniger Förderbürokratie und digitale Verwaltung treffen ihre prekäre Solo-Kreativlage deutlich. Kritisch sieht sie, dass öffentliche Aufträge über Tarifbindung Kleinstanbieter ausschließen könnten und dass einige gesellschaftspolitische Passagen ihrer offenen, digital-progressiven Haltung widersprechen. Insgesamt überwiegen für sie die konkreten materiellen Entlastungen, aber nicht ohne deutliche Vorbehalte.",
+    "score": 1
+  }
+}

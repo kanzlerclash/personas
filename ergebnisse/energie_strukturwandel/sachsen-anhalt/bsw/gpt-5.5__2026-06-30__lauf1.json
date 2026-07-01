@@ -1,0 +1,138 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 69342,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Energie als Standortfrage",
+      "thema": "energie",
+      "programmpunkt": "Das BSW stellt bezahlbare und verlässliche Energieversorgung als Voraussetzung für Industrie, Investitionen und Arbeitsplätze in den Mittelpunkt.",
+      "seite": 17,
+      "zitat": "„Energiepreise, unsichere Rahmenbedingungen und globale Abhängigkeiten gefährden Betriebe und Arbeitsplätze“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fühlt sich ernst genommen, weil das Programm Energiepreise nicht als Nebenthema behandelt, sondern direkt mit Betrieben, Arbeitsplätzen und Standortstabilität verbindet. Das entspricht seiner Erfahrung in einer Region, deren Zukunft an verlässlicher Energiepolitik hängt.",
+      "begruendung_selbst": "Genau darum geht es bei uns: Wenn Energie unbezahlbar oder unsicher wird, wackeln nicht nur Zahlen in Tabellen, sondern unsere Schichten, unsere Werke und unsere Familienplanung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industrie nicht einfach abschreiben",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm will den Industriestandort Sachsen-Anhalt erhalten, bestehende industrielle Kerne stärken und zugleich Zukunftsbranchen aufbauen.",
+      "seite": 19,
+      "zitat": "„Das BSW bekennt sich klar zum Industriestandort Sachsen-Anhalt.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny bewertet positiv, dass die industrielle Basis nicht als Altlast dargestellt wird. Für ihn ist entscheidend, dass Wandel an vorhandenen Standorten und Kompetenzen ansetzt, statt ganze Regionen wirtschaftlich auslaufen zu lassen.",
+      "begruendung_selbst": "Ich will keine Sonntagsrede über Zukunft, während der Standort dichtmacht. Erst muss klar sein, dass Industrie hier bleiben soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Grundlast bleibt auf dem Tisch",
+      "thema": "energie",
+      "programmpunkt": "Das BSW fordert einen breiten Energiemix, gesicherte Leistung und mittelfristig auch Braunkohle, solange gleichwertige Alternativen fehlen.",
+      "seite": 24,
+      "zitat": "„Dazu zählt auch der heimische Energieträger Braunkohle.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht darin eine pragmatische Haltung zu Versorgungssicherheit und Ausstiegstempo. Die Aussage trifft seine Sorge, dass Ausstiegsdaten gesetzt werden, bevor belastbarer Ersatz für Grundlast und regionale Beschäftigung vorhanden ist.",
+      "begruendung_selbst": "Ich hänge nicht romantisch an der Kohle, aber man kann Grundlast nicht wegwünschen. Erst Ersatz, dann Ausstieg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netze, Speicher, Realität",
+      "thema": "energie",
+      "programmpunkt": "Der Ausbau erneuerbarer Energien soll mit Netzen, Speichern, Digitalisierung und netzdienlichen Anreizen synchronisiert werden.",
+      "seite": 25,
+      "zitat": "„Speicher können helfen, den Strom aus Wind- und Solaranlagen zeitlich zu verschieben“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny erkennt hier technischen Realismus: Erneuerbare werden nicht abgelehnt, aber an Speicher, Netze und Systemstabilität gekoppelt. Das passt zu seiner fachlichen Sicht, dass Energiewende nur mit Infrastruktur und Steuerbarkeit funktioniert.",
+      "begruendung_selbst": "Wind und Solar sind kein Problem, wenn Netz und Speicher mitwachsen. Genau diese Reihenfolge muss Politik endlich ernst nehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umschulen statt Fallenlassen",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm fordert Weiterbildung, Umschulung und regionale Fachkräftebindung, damit Beschäftigte im Wandel gehalten werden.",
+      "seite": 23,
+      "zitat": "„Umschulung und Weiterbildung sind zentrale Instrumente“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht darin eine konkrete Antwort auf seine berufliche Unsicherheit. Besonders wichtig ist ihm, dass Qualifizierung nicht abstrakt bleibt, sondern Beschäftigte im Strukturwandel in der Region halten soll.",
+      "begruendung_selbst": "Wenn sich mein Job verändert, brauche ich keine Belehrung, sondern eine Weiterbildung, die wirklich zu Arbeit hier vor Ort führt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wertschöpfung muss hierbleiben",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das BSW will regionale Wertschöpfung durch Bürger-, Kommunal- und Energiegenossenschaften sowie öffentliche Reinvestitionen stärken.",
+      "seite": 26,
+      "zitat": "„Wertschöpfung und Entscheidungskompetenz in den Regionen bleiben“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny findet daran überzeugend, dass Energiewende nicht nur als Stromerzeugung gedacht wird, sondern als regionale Wirtschaftsfrage. Beteiligung und Wertschöpfung vor Ort entsprechen seinem Wunsch, dass seine Region mehr ist als bloße Fläche für fremde Projekte.",
+      "begruendung_selbst": "Wenn hier Anlagen stehen, dann muss hier auch etwas hängenbleiben: Jobs, Entscheidungen und Einnahmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemie braucht bezahlbare Energie",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm will den Chemiesektor transformieren und dafür günstige Energie, Öl- und Gasversorgung, Förderung, Umschulung und regionale Cluster sichern.",
+      "seite": 27,
+      "zitat": "„Die Transformation des Chemiesektors hat strategische Priorität.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny betrachtet die Chemieindustrie als Teil derselben industriellen Struktur, an der Zulieferer, Energienetze und Arbeitsplätze hängen. Ihm gefällt, dass das Programm Transformation mit Energiepreisen, Versorgung und Qualifizierung verbindet.",
+      "begruendung_selbst": "Wenn die Chemieparks kippen, kippt mehr als eine Branche. Da hängen Netze, Zulieferer und Familien dran.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "CCS wird vom Tisch gewischt",
+      "thema": "klima",
+      "programmpunkt": "Das BSW lehnt unterirdische CO2-Verpressung in Sachsen-Anhalt grundsätzlich ab und will stattdessen Speicherlösungen wie Power-to-Gas und Aufforstung fördern.",
+      "seite": 85,
+      "zitat": "„Die unterirdische CO ₂ -Verpressung (CCS) lehnen wir für Sachsen-Anhalt ab.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das trifft Ronny besonders negativ, weil CCS für ihn eine mögliche Brückentechnologie für Industrie- und Energiestandorte ist. Eine pauschale Absage nimmt seiner Region aus seiner Sicht ein Werkzeug, bevor Alternativen in ausreichendem Maß tragen.",
+      "begruendung_selbst": "So verliert man mich: Erst sagen sie technologieoffen, und dann wird CCS für Sachsen-Anhalt komplett zugemacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht jede Industrie ist überkommen",
+      "thema": "energie",
+      "programmpunkt": "Das Programm beschreibt CCS als mögliche Subventionsfalle für überkommene Industrien und stellt diese Option damit politisch abwertend dar.",
+      "seite": 85,
+      "zitat": "„Subventionsfalle für überkommene Industrien“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny stört die Rahmung, weil sie energieintensive Betriebe schnell als rückständig erscheinen lässt. Aus seiner Sicht brauchen gerade diese Industrien planbare Brücken, wenn Klimaschutz und Wertschöpfung gemeinsam gelingen sollen.",
+      "begruendung_selbst": "Unsere Anlagen sind nicht automatisch Vergangenheit. Wer sie so abstempelt, versteht die Arbeit und die Technik dahinter nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet im BSW-Programm viele Formulierungen, die seine Kernanliegen treffen: bezahlbare Energie, gesicherte Leistung, Industrieerhalt, Qualifizierung und regionale Wertschöpfung. Besonders stark resonieren die Warnungen vor Deindustrialisierung und die Forderung nach technologieoffenem Energiemix. Der klare Bruch liegt bei CCS, weil das Programm genau diese Option für Sachsen-Anhalt ablehnt und damit aus seiner Sicht eine mögliche Brücke für Industrie und Strukturwandel blockiert.",
+    "score": 1
+  }
+}

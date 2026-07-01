@@ -1,0 +1,162 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 101205,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Kaufnebenkosten runter!",
+      "thema": "steuern",
+      "programmpunkt": "Das BSW will Freibetraege bei der Grunderwerbsteuer, zinsguenstige KfW-Programme und Buergschaften fuer den Eigentumserwerb einfuehren.",
+      "seite": 31,
+      "zitat": "„Freibeträge bei der Grunderwerbsteuer“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica rechnen genau mit Kaufnebenkosten und Eigenkapital. Ein Freibetrag bei der Grunderwerbsteuer trifft eine ihrer groessten Huerden direkt und macht den Einstieg in Eigentum realistischer.",
+      "begruendung_selbst": "Genau daran scheitert es doch oft: nicht am Willen, sondern an den Nebenkosten, bevor der erste Stein liegt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Bauland fuer Familien!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will zusaetzliche Bauflaechen ausweisen, besonders fuer Eigenheime von Familien und Erstkaeufern.",
+      "seite": 31,
+      "zitat": "„Bau von Eigenheimen für Familien und Erstkäufer“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona sucht im Speckguertel nach bezahlbarem Bauland. Dass Familien und Erstkaeufer ausdruecklich genannt werden, bestaetigt ihren Wunsch, nicht dauerhaft im Mietmarkt festzustecken.",
+      "begruendung_selbst": "Wir wollen kein Luxushaus, wir wollen nur die Chance, als Familie ueberhaupt anfangen zu koennen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Grundsteuer weg vom Haus!",
+      "thema": "steuern",
+      "programmpunkt": "Fuer junge Familien soll die Grundsteuer auf selbstgenutztes Wohneigentum vollstaendig abgeschafft oder dauerhaft erlassen werden.",
+      "seite": 31,
+      "zitat": "„Grundsteuer auf selbstgenutztes Wohneigentum vollständig abschaffen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nach dem Kauf bleibt die laufende Belastung fuer die junge Familie entscheidend. Ein dauerhafter Erlass der Grundsteuer auf selbstgenutztes Eigentum wuerde ihr Sicherheitsbeduerfnis und ihren Eigentumswunsch klar stuetzen.",
+      "begruendung_selbst": "Wenn wir schon alles in ein eigenes Zuhause stecken, dann zaehlt jede laufende Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauvorschriften endlich ausmisten!",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW will Bauvorschriften entschlacken, neue Vorschriften aussetzen und kostentreibende Standards pruefen.",
+      "seite": 31,
+      "zitat": "„Entschlackung der Normen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sehen energetische und technische Vorgaben als Preistreiber. Weniger Normendruck und ein Moratorium fuer neue Bauvorschriften passen zu ihrer pragmatischen Haltung, Bauen schneller und bezahlbarer zu machen.",
+      "begruendung_selbst": "Nicht jede neue Vorschrift macht unser Haus besser, aber fast jede macht es teurer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita muss verlaesslich sein!",
+      "thema": "familie",
+      "programmpunkt": "Das Programm fordert flaechendeckende, ganztagige Kinderbetreuung, bessere Personalschluessel und perspektivisch beitragsfreie Kitas.",
+      "seite": 47,
+      "zitat": "„Flächendeckende, ganztägige Kinderbetreuung sichern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Familie ist auf zwei Einkommen angewiesen und braucht verlaessliche Betreuung. Ganztagige Kita, bessere Personalschluessel und Beitragsfreiheit wuerden Vereinbarkeit und Haushaltsbudget zugleich entlasten.",
+      "begruendung_selbst": "Ohne verlaessliche Kita koennen wir beide Jobs und die Finanzierung komplett vergessen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heizen ohne Ueberforderung!",
+      "thema": "energie",
+      "programmpunkt": "Die Waermewende soll technologieoffen, regional angepasst und mit realistischen Uebergaengen gestaltet werden.",
+      "seite": 26,
+      "zitat": "„Wärmewende mit Augenmaß“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona fuerchtet teure Heizungs- und Sanierungsauflagen. Technologieoffene, investitionsfreundliche Uebergaenge sprechen genau ihre Sorge an, dass Klimapolitik das Bauen und Sanieren unbezahlbar macht.",
+      "begruendung_selbst": "Wir sind nicht gegen moderne Technik, aber wir brauchen Regeln, die man mit normalem Einkommen stemmen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auto bleibt Realitaet!",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW lehnt eine erzwungene Verkehrswende ab und erkennt an, dass das Auto in vielen Regionen unverzichtbar bleibt.",
+      "seite": 32,
+      "zitat": "„bleibt das Auto auf absehbare Zeit unverzichtbar“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Familie im Umland pendeln Tom und Jessica zwischen Jobs, Kita und Haussuche. Die Anerkennung des Autos als weiterhin noetig passt zu ihrem Alltag und reduziert die Sorge vor realitaetsferner Mobilitaetspolitik.",
+      "begruendung_selbst": "Mit Kleinkind, Arbeit und Umlandterminen geht es ohne Auto einfach nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht wieder weniger Neubau!",
+      "thema": "wohnen",
+      "programmpunkt": "Neben Eigentumsfoerderung setzt das Programm auf den Grundsatz Sanierung vor Neubau, um Flaechenverbrauch zu begrenzen.",
+      "seite": 31,
+      "zitat": "„Sanierung vor Neubau“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Fuer eine Familie, die konkret ein Eigenheim sucht, kann dieser Schwerpunkt wie eine Bremse bei neuen Baugebieten wirken. Er steht in Spannung zu ihrem Bedarf nach mehr verfuegbarem Bauland im Umland.",
+      "begruendung_selbst": "Sanieren ist gut, aber wenn es kaum passende Haeuser gibt, brauchen Familien auch neue Bauplaetze.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zu viel Mietpolitik!",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW setzt stark auf Mietbegrenzung, sozialen und gemeinnuetzigen Wohnungsbau sowie kommunale Wohnungsunternehmen.",
+      "seite": 31,
+      "zitat": "„Mietsteigerungen wirksam begrenzen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica profitieren kurzfristig als Mieter, aber ihr zentrales Ziel ist Eigentum. Der starke Fokus auf Mietregulierung und gemeinnuetzige Anbieter wirkt aus ihrer Sicht weniger treffsicher als direkte Eigentumsfoerderung.",
+      "begruendung_selbst": "Wir wollen nicht nur eine gedeckelte Miete, wir wollen irgendwann raus aus der Miete.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bodenregeln koennen bremsen!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm will Schwarzerdeboeden konsequent schuetzen und Planungen entsprechend ueberarbeiten.",
+      "seite": 30,
+      "zitat": "„Schwarzerdeböden konsequent schützen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Der Schutz fruchtbarer Boeden ist nachvollziehbar, kann aber in nachgefragten Umlandlagen die Ausweisung neuer Flaechen erschweren. Fuer die Persona zaehlt vor allem, dass Bauland ueberhaupt verfuegbar und bezahlbar wird.",
+      "begruendung_selbst": "Wenn jede Flaeche aus guten Gruenden blockiert wird, bleibt fuer junge Familien am Ende trotzdem nichts bezahlbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Staat statt Eigentum?",
+      "thema": "wohnen",
+      "programmpunkt": "In der Kommunalpolitik sollen Wohnungswirtschaft und weitere Bereiche der Daseinsvorsorge in oeffentliche oder genossenschaftliche Hand gehoeren.",
+      "seite": 76,
+      "zitat": "„soziale Infrastruktur gehören in öffentliche oder genossenschaftliche Hand“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona ist eigentumsfreundlich und skeptisch gegenueber Politik, die Wohnen vor allem staatlich oder genossenschaftlich denkt. Diese Linie kann fuer sie nach weniger Raum fuer privaten Vermoegensaufbau und individuelle Eigentumswege klingen.",
+      "begruendung_selbst": "Genossenschaften koennen helfen, aber unser Ziel sind eigene vier Waende, nicht nur mehr Verwaltung von Wohnraum.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica wuerden im BSW-Programm viele konkrete Entlastungen fuer ihren Eigenheim-Traum finden: Grunderwerbsteuer-Freibetraege, KfW-Hilfen, mehr Bauflächen fuer Familien, weniger Bauvorschriften, Kita-Ausbau und eine pragmatische Waerme- und Verkehrspolitik. Kritisch bliebe fuer sie, dass das Programm Wohnen zugleich stark ueber Mietregulierung, Gemeinwohltraeger, Flaechenschutz und Sanierung vor Neubau rahmt. Insgesamt ueberwiegt fuer diese Persona aber die direkte praktische Entlastung beim Bauen, Kaufen, Betreuen und Pendeln.",
+    "score": 2
+  }
+}

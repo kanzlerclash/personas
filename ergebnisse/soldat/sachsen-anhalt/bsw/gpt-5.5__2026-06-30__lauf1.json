@@ -1,0 +1,198 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 58411,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Freiwillige Profis statt Zwang",
+      "thema": "verteidigung",
+      "programmpunkt": "Das BSW bekennt sich zu einer verteidigungsfähigen Bundesrepublik mit Freiwilligenarmee und lehnt die Wiedereinführung der Wehrpflicht ab.",
+      "seite": 9,
+      "zitat": "„auf der Grundlage einer Freiwilligenarmee“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan ist Berufssoldat und bewertet eine professionelle Freiwilligenarmee positiv, weil sie seinen Dienst als bewusste Laufbahn statt als Pflichtdienst versteht. Das passt zu seinem Selbstbild von Auftrag, Ausbildung und Verlässlichkeit.",
+      "begruendung_selbst": "Ich habe mich bewusst verpflichtet. Eine einsatzfähige Truppe braucht Leute, die den Auftrag wollen und dafür ausgebildet sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klare Grenzen im Innern",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm hält am Trennungsgebot fest und will Bundeswehreinsätze im Innern nur bei Ausnahmen wie Naturkatastrophen zulassen.",
+      "seite": 9,
+      "zitat": "„dem Schutz vor Naturkatastrophen dient“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als verfassungstreuer Soldat kann Stefan die klare Trennung militärischer und polizeilicher Aufgaben nachvollziehen. Humanitäre Hilfe bei Katastrophen bleibt zugleich als legitime Unterstützung anerkannt.",
+      "begruendung_selbst": "Im Inland helfen wir bei Katastrophen, aber wir ersetzen nicht die Polizei. Diese Grenze ist wichtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Polizei muss funktionieren",
+      "thema": "sicherheit",
+      "programmpunkt": "Das BSW will Polizei und Ermittlungsbehörden personell, technisch und fachlich so ausstatten, dass sie organisierter Kriminalität wirksam begegnen können.",
+      "seite": 67,
+      "zitat": "„Polizei personell, technisch und fachlich handlungsfähig ausstatten“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan sieht Sicherheit als staatliche Kernaufgabe und erwartet funktionierende Institutionen. Eine gut ausgestattete Polizei ergänzt aus seiner Sicht eine wehrhafte Sicherheitsarchitektur im Innern.",
+      "begruendung_selbst": "Sicherheit darf nicht am Material scheitern, egal ob bei uns oder bei der Polizei.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Extremismus klar bekämpfen",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm verurteilt gewalttätigen Extremismus jeder Richtung und verbindet Prävention, Aufklärung und konsequentes Einschreiten.",
+      "seite": 66,
+      "zitat": "„jede Form von gewalttätigem Extremismus“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefans Haltung ist verfassungstreu und sicherheitsorientiert. Ein Fokus auf Gewalt, Radikalisierung und handlungsfähigen Staat entspricht seinem Bedürfnis nach Schutz der freiheitlichen Ordnung.",
+      "begruendung_selbst": "Wer unsere Ordnung mit Gewalt angreift, muss klar gestoppt werden. Da darf es keine blinden Flecken geben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zivilschutz endlich üben",
+      "thema": "sicherheit",
+      "programmpunkt": "Das BSW fordert einen modernen Katastrophen- und Zivilschutz mit klaren Zuständigkeiten, Landesstab und regelmäßigen Übungen unter Einbeziehung der Bevölkerung.",
+      "seite": 69,
+      "zitat": "„regelmäßige Katastrophenschutzübungen unter Einbeziehung der Bevölkerung“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan denkt in Lagen, Zuständigkeiten und geübten Abläufen. Dass das Programm Zivilschutz planbar, praktisch und institutionell stärken will, passt zu seiner sicherheitspolitischen Ernsthaftigkeit.",
+      "begruendung_selbst": "Im Ernstfall zählt, ob Abläufe geübt sind. Papierlagen helfen niemandem, wenn Strom und Kommunikation ausfallen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Cyber ist auch Sicherheit",
+      "thema": "digitalisierung",
+      "programmpunkt": "Das Programm will öffentliche Einrichtungen besser vor Cyberangriffen schützen und IT-Sicherheit als Teil öffentlicher Daseinsvorsorge behandeln.",
+      "seite": 70,
+      "zitat": "„besser vor Cyberangriffen geschützt werden“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan nimmt hybride Bedrohungen und digitale Verwundbarkeit ernst. Der Schutz von Verwaltung, Krankenhäusern und kommunaler Infrastruktur berührt seine Vorstellung moderner Sicherheit.",
+      "begruendung_selbst": "Hybride Angriffe sind real. Wenn Behörden und Krankenhäuser digital offenstehen, ist das ein Sicherheitsproblem.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Aufrüstung ist kein Luxus",
+      "thema": "verteidigung",
+      "programmpunkt": "Das BSW stellt zusätzliche Verteidigungskredite als Kriegskredite dar und lehnt die Finanzierung von Panzern, Raketen und Drohnen ab.",
+      "seite": 8,
+      "zitat": "„für Panzer, Raketen und Drohnen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt Ausrüstungs- und Materialmängel als Sicherheitsrisiko. Wenn das Programm zusätzliche Mittel pauschal als Kriegskredite ablehnt, trifft es seinen Kernwunsch nach einsatzfähigem Material.",
+      "begruendung_selbst": "Mit fehlender Ausrüstung schütze ich niemanden. Panzer, Drohnen und Munition sind für uns kein politisches Symbol, sondern Einsatzfähigkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "NATO-Drehscheibe ist Auftrag",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm lehnt ab, dass Sachsen-Anhalt als Transit- und Logistikdrehscheibe für NATO-Operationen genutzt wird.",
+      "seite": 9,
+      "zitat": "„zur Drehscheibe für NATO-Operationen werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan ist Bündnisverteidigung an der Ostflanke zentral. Die Ablehnung von NATO-Logistik in Deutschland wirkt auf ihn wie eine Absage an praktische Bündnistreue.",
+      "begruendung_selbst": "Bündnis heißt nicht nur Sonntagsreden. Im Ernstfall müssen Truppen und Material durchkommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Übungsplätze sind Einsatzvorbereitung",
+      "thema": "verteidigung",
+      "programmpunkt": "Das BSW will jede weitere militärische Erweiterung von Truppenübungsplätzen in Sachsen-Anhalt verhindern.",
+      "seite": 9,
+      "zitat": "„jede weitere militärische Erweiterung von Truppenübungsplätzen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan weiß aus dem Dienst, dass realistische Übungen Infrastruktur, Raum und Planung brauchen. Die pauschale Absage an Erweiterungen berührt direkt seine Sorge um Einsatzbereitschaft.",
+      "begruendung_selbst": "Wir sollen einsatzbereit sein, aber wo sollen wir realistisch üben? Ohne Übungsraum bleibt vieles Theorie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine NATO-Manöver? Falsch",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm fordert keine NATO-Manöver und keine militärische Nutzung ziviler Infrastruktur in Sachsen-Anhalt.",
+      "seite": 9,
+      "zitat": "„Keine NATO-Manöver und militärische Nutzung ziviler Infrastruktur“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan sieht gemeinsame Übungen als Voraussetzung für glaubwürdige Abschreckung und Bündnisfähigkeit. Das Verbot von NATO-Manövern widerspricht seiner sicherheitspolitischen Grundhaltung besonders deutlich.",
+      "begruendung_selbst": "NATO funktioniert nur, wenn man gemeinsam übt. Im Ernstfall kann man Zusammenarbeit nicht improvisieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nachwuchs nicht verstecken",
+      "thema": "verteidigung",
+      "programmpunkt": "Das BSW will Bundeswehrwerbung an Schulen und öffentlichen Einrichtungen untersagen und Auftritte von Jugendoffizieren beenden.",
+      "seite": 9,
+      "zitat": "„Nein zu Bundeswehrwerbung an Schulen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan wünscht Wertschätzung der Truppe und Nachwuchsgewinnung ohne Stigma. Ein pauschales Nein zu Information an Schulen klingt für ihn nach Misstrauen gegenüber seinem Beruf.",
+      "begruendung_selbst": "Mein Beruf muss erklärt werden dürfen. Wer uns aus Schulen heraushalten will, macht die Truppe unsichtbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Forschung nicht entkoppeln",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm lehnt militärische Einflussnahme auf Forschung und militärisch gesteuerte Forschungsprojekte an Hochschulen ab.",
+      "seite": 8,
+      "zitat": "„Militärische Einflussnahme auf Forschung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan bewertet moderne Ausrüstung und technologische Anschlussfähigkeit als Teil von Schutz und Auftrag. Eine harte Distanz zu militärischer Forschung kann aus seiner Sicht Innovationen bremsen, die Soldaten im Einsatz brauchen.",
+      "begruendung_selbst": "Moderne Technik fällt nicht vom Himmel. Wenn Forschung und Truppe getrennt werden, zahlen wir das im Einsatz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rüstungsindustrie gehört dazu",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das BSW will keine Subventionen, Kredite oder Fördermittel für Rüstungsunternehmen und spricht sich gegen eine Umstellung ziviler Betriebe auf Rüstungsproduktion aus.",
+      "seite": 10,
+      "zitat": "„Keine Subventionen, Kredite oder Fördermittel für Rüstungsunternehmen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan verbindet Materialverfügbarkeit mit industrieller Leistungsfähigkeit. Wenn Rüstungsunternehmen politisch von Förderung ausgeschlossen werden, sieht er die Versorgung der Truppe gefährdet.",
+      "begruendung_selbst": "Gute Ausrüstung braucht Betriebe, die sie bauen können. Ohne Industrie bleibt Bündnisverteidigung ein Versprechen ohne Material.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschreckung wird geschwächt",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm fordert keine Stationierung neuer US-Mittelstreckenraketen und unterstützt ein atomwaffenfreies Deutschland.",
+      "seite": 10,
+      "zitat": "„Keine Stationierung neuer US-Mittelstreckenraketen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan ist angesichts der Ostflanke skeptisch gegenüber Abrüstungsforderungen, die Abschreckung schwächen könnten. Die Forderung wirkt auf ihn wie sicherheitspolitische Einseitigkeit in einer realen Bedrohungslage.",
+      "begruendung_selbst": "Ich mag keine Raketen, aber Abschreckung verhindert, dass andere testen, wie ernst wir es meinen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet im BSW-Programm einzelne rechtsstaatliche und sicherheitspraktische Punkte, die zu seiner verfassungstreuen Haltung passen: Freiwilligenarmee, Katastrophenschutz, Polizei- und Cybersicherheit. Insgesamt überwiegt für ihn aber klar die Ablehnung, weil das Programm Aufrüstung, NATO-Logistik, Manöver, Bundeswehrpräsenz, Rüstungsindustrie und militärische Forschung grundsätzlich zurückdrängt. Aus seiner Sicht stellt das die Einsatzbereitschaft und Bündnistreue genau dort infrage, wo er Verlässlichkeit erwartet.",
+    "score": -2
+  }
+}

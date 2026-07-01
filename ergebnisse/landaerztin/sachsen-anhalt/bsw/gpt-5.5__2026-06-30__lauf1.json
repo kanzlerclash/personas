@@ -1,0 +1,162 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 84779,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Landarztmangel ernst nehmen",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW beschreibt fehlende Haus- und Fachärzte als zentrales Versorgungsproblem und stellt wohnortnahe Grundversorgung gegen Zentralisierung und Renditelogik.",
+      "seite": 55,
+      "zitat": "in vielen Regionen fehlen Haus- und Fachärzte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra erkennt ihre tägliche Lage direkt wieder: übervolle Sprechstunden, lange Wege für Patientinnen und Patienten und keine gesicherte Nachfolge. Dass das Programm den Mangel nicht nur als Statistik, sondern als Sicherheits- und Erreichbarkeitsverlust im ländlichen Raum beschreibt, trifft ihren Kernpunkt.",
+      "begruendung_selbst": "Genau das ist mein Alltag: Die Leute warten, fahren weit, und wenn ich einmal aufhöre, wird aus Mangel schnell ein Loch in der Versorgung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nachwuchs braucht konkrete Anreize",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm will mehr Medizinstudienplätze, Landesstipendien mit Bindung an unterversorgte Regionen sowie Beratungsstellen für junge Ärztinnen und Ärzte.",
+      "seite": 60,
+      "zitat": "in unterversorgten Regionen Sachsen-Anhalts tätig zu sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Petra ist Nachfolge der entscheidende Engpass, nicht eine weitere abstrakte Strukturdebatte. Stipendien, Beratung und Praxisgründungshilfe setzen dort an, wo junge Ärztinnen und Ärzte tatsächlich vor der Niederlassung zurückschrecken.",
+      "begruendung_selbst": "Wenn junge Kolleginnen Unterstützung und Verlässlichkeit bekommen, kommen sie vielleicht eher hierher als in die nächste Großstadtklinik.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Praxismanager statt Papierkrieg",
+      "thema": "digitalisierung",
+      "programmpunkt": "Arztpraxen sollen finanzielle Unterstützung für Praxismanager und eine praxistaugliche Digitalisierung der Verwaltungsabläufe erhalten.",
+      "seite": 60,
+      "zitat": "So bleibt mehr Zeit für das Wesentliche",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra leidet weniger an fehlendem Einkommen als an Zeitverlust durch Formulare, Regressangst und schlecht funktionierende digitale Verfahren. Unterstützung für Praxismanagement und Verwaltungsdigitalisierung adressiert unmittelbar ihren Arbeitsalltag.",
+      "begruendung_selbst": "Ich brauche keine neue Plattform zum Selbstzweck, ich brauche jemanden und Systeme, die mir den Papierkram wirklich abnehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gemeindeschwestern entlasten wirklich",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW will Gemeindeschwestern flächendeckend aufbauen, um ältere und chronisch kranke Menschen wohnortnah zu begleiten.",
+      "seite": 60,
+      "zitat": "ein flächendeckendes System von Gemeindeschwestern aufbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra macht viele Hausbesuche und betreut eine alternde Patientenschaft. Gemeindeschwestern könnten Versorgungslücken schließen, frühe Probleme erkennen und ihre Praxis im ländlichen Alltag spürbar entlasten.",
+      "begruendung_selbst": "Eine gute Gemeindeschwester sieht oft früher als jede Akte, wenn zuhause etwas kippt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mobilität ist Medizin",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm will flächendeckende, verlässliche Mobilität im ländlichen Raum, bessere ÖPNV-Anbindungen und stärkere Mittelzentren.",
+      "seite": 32,
+      "zitat": "besonders im ländlichen Raum",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sieht, dass medizinische Versorgung nicht nur aus Praxen besteht, sondern auch aus erreichbaren Wegen dorthin. Bessere Bus-, Bahn- und Zubringerstrukturen helfen besonders älteren Patientinnen ohne Auto.",
+      "begruendung_selbst": "Eine Sprechstunde nützt wenig, wenn meine Patienten gar nicht zuverlässig bis zur Praxis kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digital ja, Zwang nein",
+      "thema": "digitalisierung",
+      "programmpunkt": "Digitalisierung soll Verwaltung erleichtern, aber analoge Zugänge zu Behörden und Dienstleistungen sollen erhalten bleiben.",
+      "seite": 74,
+      "zitat": "Digitalisierung muss ein Angebot sein, kein Zwang",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra ist nicht technikfeindlich, aber ihre älteren Patientinnen und Patienten scheitern oft an Apps, Portalen und Identifikationsverfahren. Die Kombination aus digitaler Entlastung und analoger Erreichbarkeit passt zu ihrer pragmatischen Haltung.",
+      "begruendung_selbst": "Meine 82-jährige Patientin darf nicht aus der Versorgung fallen, nur weil wieder alles nur per App gehen soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kommunen müssen handlungsfähig sein",
+      "thema": "demokratie",
+      "programmpunkt": "Kommunen sollen verlässlich finanziert werden, Daseinsvorsorge selbst gestalten können und weniger Förderbürokratie bewältigen müssen.",
+      "seite": 76,
+      "zitat": "ständige Grundfinanzierung für Investitionen in die Daseinsvorsorge",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra erlebt den Staat vor Ort: Feuerwehr, Straßen, Pflegeangebote, Praxisräume und Verwaltung entscheiden über Lebensqualität. Eine verlässliche Grundfinanzierung statt projektbezogener Fördertöpfe entspricht ihrem Wunsch nach handlungsfähiger, nicht nur verwaltender Politik.",
+      "begruendung_selbst": "Vor Ort weiß man oft besser, was gebraucht wird, als in irgendeinem Förderformular.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "So verspielt man Vertrauen",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm stellt den Nutzen der Corona-Impfstoffe pauschal infrage und spricht von systematisch verharmlosten Risiken.",
+      "seite": 16,
+      "zitat": "der Nutzen der Impfstoffe überschätzt wird",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Hausärztin ist Petra auf Vertrauen in ärztliche Aufklärung und belastbare Evidenz angewiesen. Pauschale politische Formulierungen zu Impfstoffen würden aus ihrer Sicht Beratungsgespräche erschweren und ohnehin verunsicherte Patientinnen weiter misstrauisch machen.",
+      "begruendung_selbst": "Ich kann Risiken erklären, aber politische Schlagworte ersetzen keine saubere, individuelle Aufklärung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bitte keine Staatsmedizin-Schablone",
+      "thema": "gesundheit",
+      "programmpunkt": "Wenn keine Niederlassung gelingt, setzt das Programm auf kommunal betriebene Gesundheitszentren mit angestellten Ärztinnen und Ärzten.",
+      "seite": 60,
+      "zitat": "eigene Niederlassung finden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra versteht solche Zentren als Notlösung, bleibt aber skeptisch gegenüber staatlich-kommunalen Ersatzstrukturen, wenn sie zusätzliche Steuerung, Zuständigkeiten und Verwaltung erzeugen. Ihr Ideal ist eine tragfähige Niederlassung mit echter Entlastung, nicht ein Modellwechsel ohne klare Bürokratiegarantie.",
+      "begruendung_selbst": "Wenn daraus nur ein neuer Träger mit neuen Formularen wird, ist den Patienten nicht geholfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kassenumbau löst keine Sprechstunde",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW fordert vereinheitlichte Kassenleistungen und die Zusammenlegung von Krankenkassen.",
+      "seite": 56,
+      "zitat": "die Zusammenlegung von Krankenkassen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra ist skeptisch gegenüber großen Systemumbauten, wenn sie nicht konkret Budgetierung, Praxisabläufe und regionale Versorgung verbessern. Eine Kassenfusion klingt für sie nach Übergangsaufwand und neuer Verwaltung, während ihre Patientinnen jetzt Termine und Hausbesuche brauchen.",
+      "begruendung_selbst": "Ich brauche weniger Abrechnungsstress und mehr Versorgungsspielraum, nicht die nächste Großreform auf dem Papier.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitalwechsel darf nicht lähmen",
+      "thema": "digitalisierung",
+      "programmpunkt": "Öffentliche Einrichtungen, darunter Krankenhäuser, sollen stärker auf IT-Sicherheit, digitale Souveränität und Open-Source-orientierte Beschaffung ausgerichtet werden.",
+      "seite": 70,
+      "zitat": "Verwaltungen, Schulen, Krankenhäuser und kommunale Betriebe",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra befürwortet sichere IT, aber aus Praxiserfahrung fürchtet sie schlecht gemachte Umstellungen, Schnittstellenprobleme und neue Nachweispflichten. Ohne klare Umsetzungsperspektive kann ein weiterer IT-Umbau in Krankenhäusern und Verwaltungen aus ihrer Sicht Versorgung eher bremsen als erleichtern.",
+      "begruendung_selbst": "Sichere IT ist wichtig, aber ich habe zu oft erlebt, dass neue Systeme erstmal alles langsamer machen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra würde im BSW-Programm viele ihrer Kernprobleme wiederfinden: Landarztmangel, wohnortnahe Versorgung, Praxisentlastung, Gemeindeschwestern, Mobilität und kommunale Daseinsvorsorge werden ungewöhnlich direkt angesprochen. Besonders stark resonieren konkrete Niederlassungsanreize und die Formulierung, Digitalisierung müsse entlasten statt zwingen. Kritisch bliebe sie bei pauschaler Corona- und Impfstoffrhetorik sowie bei großen Systemumbauten, die nach mehr Verwaltung oder staatlicher Steuerung klingen. Insgesamt überwiegt für sie klar der positive Bezug, weil das Programm ihre ländliche Versorgungsperspektive breit und konkret aufnimmt.",
+    "score": 2
+  }
+}
