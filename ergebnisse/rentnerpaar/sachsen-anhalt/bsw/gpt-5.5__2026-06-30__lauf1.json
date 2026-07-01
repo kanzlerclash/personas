@@ -1,0 +1,162 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 196727,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Die Rente muss reichen",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW fordert eine deutlich stärkere gesetzliche Rente, darunter Mindestrente, Steuerfreiheit kleiner Renten, höheres Rentenniveau und keine weitere Anhebung des Rentenalters.",
+      "seite": 36,
+      "zitat": "„Steigende Preise dürfen im Ruhestand nicht zur Bedrohung werden.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter leben von kleinen gesetzlichen Renten und fürchten, dass steigende Preise ihre Sicherheit im Alter auffressen. Die Absage an Rentenkürzungen und ein höheres Rentenniveau bestätigen ihren Wunsch nach Verlässlichkeit statt Experimenten.",
+      "begruendung_selbst": "Wir haben unser Leben lang gearbeitet. Unsere Rente darf nicht wackeln, und im Alter muss man davon ordentlich leben können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege darf nicht arm machen",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflegekosten sollen begrenzt, Angehörige entlastet und eine überwiegend steuerfinanzierte Pflegevollversicherung eingeführt werden.",
+      "seite": 58,
+      "zitat": "„Eine würdige Pflege im Alter darf keine Frage des Geldes sein.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Angst vor Heimkosten und dem Aufbrauchen kleiner Rücklagen gehört zu ihren größten Sorgen. Der Programmpunkt spricht genau diese materielle Unsicherheit im Pflegefall an.",
+      "begruendung_selbst": "Wenn einer von uns Pflege braucht, darf nicht gleich alles Ersparte weg sein. Würde im Alter darf nicht am Geldbeutel hängen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Arzt muss erreichbar bleiben",
+      "thema": "gesundheit",
+      "programmpunkt": "Für unterversorgte ländliche Regionen sollen Gesundheitszentren, Gemeindeschwestern, Stipendien und Unterstützung für junge Ärztinnen und Ärzte aufgebaut werden.",
+      "seite": 60,
+      "zitat": "„kommunal betriebene Gesundheitszentren“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar lebt im Dorf und ist darauf angewiesen, dass Hausarztversorgung nicht aus der Fläche verschwindet. Kommunale Gesundheitszentren und Gemeindeschwestern passen zu ihrer Hoffnung, im eigenen Ort oder nah daran alt werden zu können.",
+      "begruendung_selbst": "Wenn unser Hausarzt aufhört, brauchen wir eine echte Lösung in der Nähe. Wir können nicht für jeden Termin durch das halbe Land fahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heizen muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die CO2-Bepreisung soll ausgesetzt oder abgeschafft werden; Einnahmen sollen als Klimaprämie zurückfließen und Mehrbelastungen sozial abgefedert werden.",
+      "seite": 27,
+      "zitat": "„Die Lasten der Klimapolitik dürfen nicht länger einseitig“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Steigende Heizkosten treffen Helga und Dieter direkt, weil sie wenig laufendes Einkommen und kaum liquide Rücklagen haben. Die Forderung nach Entlastung bei Klimakosten nimmt ihre Angst vor unbezahlbarer Wärme ernst.",
+      "begruendung_selbst": "Wir sind nicht gegen Umwelt, aber die Rechnung landet bei uns. Erst muss klar sein, wie wir das bezahlen sollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Wärmewende mit Brechstange",
+      "thema": "energie",
+      "programmpunkt": "Die Wärmewende soll technologieoffen, regional angepasst und mit realistischen Übergängen statt starrer Vorgaben gestaltet werden.",
+      "seite": 26,
+      "zitat": "„Wir brauchen deshalb eine Wärmewende mit Augenmaß.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihr Haus von 1981 macht Sanierungs- und Heizungsauflagen für sie existenziell bedrohlich. Die Betonung von Augenmaß und ländlichen Bedingungen entspricht ihrer Ablehnung unbezahlbarer Pflichten.",
+      "begruendung_selbst": "Unser Haus ist kein Neubau in der Stadt. Wer Regeln macht, muss wissen, was so etwas auf dem Dorf wirklich kostet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unser Haus ist unser Halt",
+      "thema": "wohnen",
+      "programmpunkt": "Selbstgenutztes Wohneigentum soll gefördert und Wohnen stärker vor Spekulation geschützt werden.",
+      "seite": 30,
+      "zitat": "„eigengenutztes Wohneigentum zu fördern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das abbezahlte Haus ist ihr wichtigstes Vermögen und der Ort, an dem sie alt werden wollen. Eine Politik, die selbstgenutztes Eigentum ausdrücklich stärkt, bestätigt dieses Sicherheitsbedürfnis.",
+      "begruendung_selbst": "Das Haus ist unser Lebenswerk. Wir wollen hier bleiben können, ohne dass uns Kosten oder Investoren aus dem eigenen Zuhause drücken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Auto bleibt nötig",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW lehnt eine erzwungene Verkehrswende ab, erkennt das Auto im ländlichen Raum als unverzichtbar an und will zugleich bezahlbaren ÖPNV ausbauen.",
+      "seite": 32,
+      "zitat": "„bleibt das Auto auf absehbare Zeit unverzichtbar“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Arztbesuche, Einkäufe und Teilhabe sind Helga und Dieter derzeit auf das Auto angewiesen. Die Kombination aus Autorealismus und besseren Alternativen trifft ihre Lebenslage im Dorf.",
+      "begruendung_selbst": "Solange kein Bus fährt, können wir das Auto nicht einfach abschaffen. Erst müssen die Wege überhaupt machbar sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei gibt Ruhe",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Landespolizei soll personell deutlich aufgestockt und sichtbare Präsenz im öffentlichen Raum gestärkt werden.",
+      "seite": 68,
+      "zitat": "„Bis spätestens 2028 braucht Sachsen-Anhalt insgesamt rund 7.000 Polizeibeamte“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar wünscht Ordnung und ein Sicherheitsgefühl auch im ländlichen Raum. Mehr Personal und Präsenz passen zu ihrer Erwartung, dass der Staat sichtbar für Sicherheit sorgt.",
+      "begruendung_selbst": "Wir wollen uns im Ort sicher fühlen. Wenn etwas ist, muss die Polizei erreichbar sein und nicht nur auf dem Papier existieren.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Strom darf kein Ratespiel sein",
+      "thema": "energie",
+      "programmpunkt": "Das BSW will Smart Meter und dynamische Netzentgelte ausbauen, um Verbrauch und Netze flexibler zu steuern.",
+      "seite": 20,
+      "zitat": "„Smart Meter und dynamische Netzentgelte ausbauen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter legen Wert auf planbare Kosten und einfache Abläufe. Dynamische Stromtarife und digitale Messsysteme können aus ihrer Sicht neue Unsicherheit in einen ohnehin belastenden Kostenbereich bringen.",
+      "begruendung_selbst": "Wir brauchen eine klare Stromrechnung und keinen Tarif, bei dem man dauernd nachrechnen muss. Im Alter will man Verlässlichkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht alles auf Pump",
+      "thema": "steuern",
+      "programmpunkt": "Die Schuldenbremse soll abgeschafft werden; Schulden für Investitionen werden grundsätzlich als unproblematisch dargestellt.",
+      "seite": 19,
+      "zitat": "„Abschaffung der Schuldenbremse“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als sparsame Ruheständler sind sie misstrauisch gegenüber großen Finanzversprechen und langfristigen Risiken. Auch wenn Investitionen ihnen nutzen können, widerspricht die pauschale Abkehr von der Schuldenbremse ihrem Bedürfnis nach solider Haushaltsführung.",
+      "begruendung_selbst": "Wir haben immer erst gerechnet, bevor wir Geld ausgegeben haben. Der Staat soll investieren, aber nicht so tun, als wären Schulden egal.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bildschirm ersetzt keinen Hausarzt",
+      "thema": "gesundheit",
+      "programmpunkt": "Telemedizin soll Versorgungslücken schließen und ältere Menschen sollen für diese Angebote geschult werden.",
+      "seite": 60,
+      "zitat": "„Telemedizin kann Versorgungslücken schließen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona nutzt eher vertraute, persönliche Informationswege und sorgt sich um echte Arztversorgung vor Ort. Telemedizin kann helfen, klingt für sie aber nicht wie ein gleichwertiger Ersatz für eine erreichbare Praxis.",
+      "begruendung_selbst": "Ein Bildschirm kann mal helfen, aber er ersetzt keinen Arzt, der uns kennt. Wir brauchen Menschen vor Ort, nicht nur Technik.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter würden das BSW-Programm überwiegend positiv aufnehmen, weil es ihre Hauptsorgen sehr direkt anspricht: sichere Rente, bezahlbare Pflege, Hausarztversorgung auf dem Land, bezahlbare Energie und Schutz des Eigenheims. Besonders stark wirkt auf sie, dass Klimaschutz und Wärmewende ausdrücklich sozial, ländlich und ohne starre Überforderung gedacht werden. Kritisch blieben sie bei dynamischen Stromtarifen, zusätzlicher Digitalisierung im Gesundheitsbereich und großen schuldenfinanzierten Versprechen.",
+    "score": 2
+  }
+}

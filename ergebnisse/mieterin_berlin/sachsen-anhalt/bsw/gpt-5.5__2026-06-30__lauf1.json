@@ -1,0 +1,174 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 186043,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Sozialwohnungen",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW will den sozialen und gemeinnützigen Wohnungsbau deutlich ausweiten und Wohnheimplätze für Studierende und Auszubildende schaffen.",
+      "seite": 30,
+      "zitat": "„deutliche Ausweitung des sozialen und gemeinnützigen Wohnungsbaus“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla bewertet das als klaren Gegenpol zu einem Wohnungsmarkt, der sie als Mieterin unter Verdrängungsdruck setzt. Mehr gemeinwohlorientierter Bestand trifft ihren Kernwunsch nach bezahlbarem Wohnraum.",
+      "begruendung_selbst": "Ich will nicht noch mehr Hochglanzwohnungen, sondern Wohnungen, die normale Leute wirklich bezahlen können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mieten müssen gedeckelt werden",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei fordert eine wirksame Begrenzung von Mietsteigerungen und nennt einen bundesweiten Mietendeckel als geeignetes Instrument.",
+      "seite": 30,
+      "zitat": "„wirksame Begrenzung von Mietsteigerungen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Carla ist die Miete der existenzielle Kostenfaktor, deshalb spricht sie eine direkte Mietsteigerungsbremse besonders stark an. Der Punkt bestätigt ihre Überzeugung, dass der Markt nicht allein über ihr Zuhause entscheiden darf.",
+      "begruendung_selbst": "Genau darum geht es: Nicht jedes Jahr zittern, ob die nächste Erhöhung meinen Kiez für mich unbezahlbar macht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnen gehört uns allen",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW lehnt weitere Privatisierungen öffentlichen Wohnraums ab und will kommunale sowie genossenschaftliche Wohnungsunternehmen stärken.",
+      "seite": 76,
+      "zitat": "„Wohnen ist keine Ware“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht renditeorientierte Eigentümer als Gegeninteresse zu ihrer Sicherheit. Die Absage an Ausverkauf und die Stärkung öffentlicher oder genossenschaftlicher Träger passt zu ihrem Verständnis von Wohnen als Daseinsvorsorge.",
+      "begruendung_selbst": "Wenn Wohnungen in öffentlicher oder genossenschaftlicher Hand bleiben, bin ich nicht komplett der Rendite anderer ausgeliefert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV darf nichts kosten",
+      "thema": "verkehr",
+      "programmpunkt": "Perspektivisch soll ein starker, öffentlich organisierter ÖPNV langfristig allen Menschen kostenfrei zur Verfügung stehen.",
+      "seite": 76,
+      "zitat": "„starken, öffentlich organisierten ÖPNV“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt ohne Auto und verbindet gute Stadtpolitik mit verlässlichem Nahverkehr. Ein öffentlich organisierter und langfristig kostenfreier ÖPNV entspricht ihrem Alltag und ihrer Hoffnung auf eine weniger autoabhängige Stadt.",
+      "begruendung_selbst": "Ich bewege mich mit Bahn, Bus und Rad. Wenn der ÖPNV öffentlich, dicht und bezahlbar ist, macht das mein Leben sofort leichter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heizkosten nicht allein tragen",
+      "thema": "wohnen",
+      "programmpunkt": "Bei Unterkunftsleistungen will das BSW steigende Miet- und Heizkosten sozial abfedern und landesweit einheitlichere Mindeststandards schaffen.",
+      "seite": 80,
+      "zitat": "„steigende Miet- und Heizkosten sozial abfedern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Carla nicht zwingend Sozialleistungen bezieht, trifft sie die Verbindung von Miete, Heizung und sozialer Absicherung unmittelbar. Sie erkennt darin Schutz für Menschen, die durch Wohnkosten an die Grenze geraten.",
+      "begruendung_selbst": "Miete und Heizung kommen zusammen. Wenn beides steigt, reicht ein normales Einkommen irgendwann nicht mehr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gesundheit ohne Renditedruck",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW stellt Gesundheitsversorgung als Menschenrecht dar und fordert gemeinwohlorientierte statt profitorientierte Strukturen.",
+      "seite": 56,
+      "zitat": "„Gesundheit ist keine Ware“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla überträgt ihre Kritik an Profitlogik bei Wohnungen auch auf andere Daseinsbereiche. Die Absage an Kommerzialisierung im Gesundheitswesen entspricht ihrem sozialen Gerechtigkeitsverständnis.",
+      "begruendung_selbst": "Bei Gesundheit wie beim Wohnen: Grundbedürfnisse dürfen kein Geschäftsmodell sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stadt braucht Schatten und Wasser",
+      "thema": "klima",
+      "programmpunkt": "Das Programm setzt bei Stadtentwicklung auf Entsiegelung, Schwammstadt-Konzepte, Grünflächen, Schattenräume und kühlende Elemente.",
+      "seite": 29,
+      "zitat": "„Diese Maßnahmen verbessern nicht nur das Stadtklima“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Innenstadtbewohnerin kennt Carla Hitze, Versiegelung und knappe Grünflächen als konkrete Lebensqualitätsfragen. Klimaangepasste Stadtentwicklung passt zu ihrem Wunsch nach einer lebendigen, bewohnbaren Stadt.",
+      "begruendung_selbst": "Mein Kiez braucht nicht noch mehr Beton, sondern Grün, Schatten und Häuser, in denen man im Sommer nicht eingeht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Eigentum löst meine Miete nicht",
+      "thema": "wohnen",
+      "programmpunkt": "Neben Mieterschutz will das BSW auch eigengenutztes Wohneigentum fördern und Mietern den Kauf einer eigenen Wohnung ermöglichen.",
+      "seite": 30,
+      "zitat": "„Mietern den Erwerb einer eigenen Wohnung zu ermöglichen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla hat kaum Vermögen und erlebt Eigentum in ihrer Stadt als unerreichbar. Der Eigentumsfokus löst aus ihrer Sicht nicht das Risiko von Mieterhöhung, Modernisierung oder Verdrängung für Menschen ohne Kaufkraft.",
+      "begruendung_selbst": "Ich brauche keine Kaufträume auf Papier. Ich brauche Schutz als Mieterin, weil ich mir meine Wohnung nicht einfach kaufen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht noch mehr Eigenheime",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm fordert zusätzliche Bauflächen, besonders für Eigenheime von Familien und Erstkäufern.",
+      "seite": 31,
+      "zitat": "„Ausweisung zusätzlicher Bauflächen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla priorisiert dichte, gemischte und gemeinwohlorientierte Stadt statt flächenintensiver Eigentumsförderung. Zusätzliche Bauflächen für Eigenheime wirken auf sie weniger dringlich als Bestandsschutz, Nachverdichtung und dauerhaft bezahlbare Mietwohnungen.",
+      "begruendung_selbst": "Das klingt wieder nach Eigentum zuerst. Für mich zählt, dass bestehende Kieze bezahlbar bleiben und nicht immer neue Flächen bebaut werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Auto bleibt zu zentral",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW lehnt eine erzwungene Verkehrswende ab und betont, dass das Auto in vielen Regionen unverzichtbar bleibe.",
+      "seite": 32,
+      "zitat": "„bleibt das Auto auf absehbare Zeit unverzichtbar“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla versteht die Lage ländlicher Räume, wünscht sich aber eine klarere Verschiebung zugunsten von ÖPNV, Rad und autoarmer Stadt. Die starke Rückversicherung beim Auto klingt für sie zu defensiv gegenüber einer echten Mobilitätswende.",
+      "begruendung_selbst": "Ich will Alternativen so gut machen, dass man das Auto wirklich stehen lassen kann, nicht immer zuerst erklären, warum es bleibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verbrenner nicht festhalten",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei lehnt ein pauschales Verbrennerverbot ab und will auch effizientere Verbrenner sowie synthetische Kraftstoffe unterstützen.",
+      "seite": 32,
+      "zitat": "„Ein pauschales Verbrennerverbot lehnen wir ab“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Carla steht urbane Mobilität für weniger Autos, bessere Luft und mehr Platz im öffentlichen Raum. Die Unterstützung für Verbrennertechnologien wirkt auf sie wie ein Festhalten am alten Verkehrssystem.",
+      "begruendung_selbst": "Ich will nicht noch Jahrzehnte Ausreden für Verbrenner hören, während Bus, Bahn und Radwege um jeden Euro kämpfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Wohnquoten gegen Migranten",
+      "thema": "integration",
+      "programmpunkt": "Das BSW will zur Vermeidung von Segregation Obergrenzen für die Belegung von Wohnungen mit Zuwanderern in Wohnvierteln.",
+      "seite": 65,
+      "zitat": "„Migranten in allen Stadtvierteln gleichmäßig unterzubringen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla wünscht gemischte Quartiere, aber nicht über Sonderregeln, die migrantische Bewohner als Problem markieren. Aus ihrer progressiven Kiezperspektive braucht es bezahlbaren Wohnraum für alle statt wohnungspolitischer Begrenzungen nach Herkunft.",
+      "begruendung_selbst": "Gemischte Viertel ja, aber nicht indem man Menschen mit Migrationsgeschichte wie eine Quote behandelt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im BSW-Programm viele starke Anknüpfungspunkte: Mietbegrenzung, sozialer und gemeinnütziger Wohnungsbau, öffentliche Daseinsvorsorge und ein stärkerer ÖPNV treffen ihre Kerninteressen. Kritisch sieht sie den wiederkehrenden Eigentums- und Eigenheimfokus, die defensiv formulierte Verkehrswende und migrationspolitische Wohnquoten. Insgesamt überwiegen für sie wegen der klaren wohnungspolitischen Aussagen die positiven Punkte.",
+    "score": 1
+  }
+}

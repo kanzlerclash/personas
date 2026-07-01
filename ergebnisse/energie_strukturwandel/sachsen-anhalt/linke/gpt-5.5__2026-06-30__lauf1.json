@@ -1,0 +1,174 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 69271,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Investieren statt zuschauen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke will einen Wirtschaftsfonds auflegen, der Industrie, Mittelstand und Handwerk beim klimaneutralen Umbau mit langfristigen Krediten oder Beteiligungen unterstützt.",
+      "seite": 90,
+      "zitat": "„langfristige Investitionen statt Subventionen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny bewertet Strukturwandel danach, ob Betriebe real investieren und Standorte halten können. Ein dauerhafter Fonds mit Krediten, Beteiligungen und Qualifizierung passt zu seinem Wunsch nach planbarem Umbau statt bloßen Ausstiegsparolen.",
+      "begruendung_selbst": "Ich will nicht noch eine Sonntagsrede hören. Wenn Unternehmen umbauen sollen, braucht es Geld, Zeit und einen Plan, der bei uns im Werk ankommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netze sind Zukunft",
+      "thema": "energie",
+      "programmpunkt": "Das Programm stellt Investitionen in Strom- und Wasserstoffnetze, Ladepunkte und digitale Anbindungen als Voraussetzung dafür dar, dass Sachsen-Anhalt Industrieland bleibt.",
+      "seite": 91,
+      "zitat": "„So bleibt Sachsen - Anhalt Industrieland mit Zukunft.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Ronny ist Infrastruktur die Brücke zwischen alter Energiewirtschaft und neuer Industrie. Dass Netze und Wasserstoff ausdrücklich als Standortfrage benannt werden, trifft seinen Kernpunkt Versorgungssicherheit plus industrielle Perspektive.",
+      "begruendung_selbst": "Ohne starke Netze ist das alles Theorie. Wenn hier Strom, Wasserstoff und Datenleitungen stehen, kann auch hier neue Industrie entstehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Werkbank mehr",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke will Wertschöpfung im Land halten, regionale Wirtschaftskreisläufe fördern und Abhängigkeiten von internationalen Konzernen verringern.",
+      "seite": 91,
+      "zitat": "„Regionale Wertschöpfung statt verlängerter Werkbank“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fürchtet, dass seine Region nur Zulieferer bleibt und beim nächsten Strukturbruch wieder verliert. Die Betonung regionaler Wertschöpfung bestätigt seine Hoffnung auf eigene industrielle Substanz vor Ort.",
+      "begruendung_selbst": "Genau darum geht es: Nicht nur Teile zuliefern und dann abhängig sein. Die Wertschöpfung muss hierbleiben, sonst gehen die Leute weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemie nicht abschreiben",
+      "thema": "wirtschaft",
+      "programmpunkt": "Für die Chemie- und Grundstoffindustrie sollen faire Energiepreise, Wasserstoffinfrastruktur, Transformationsverträge und Beschäftigungsgarantien den Umbau absichern.",
+      "seite": 92,
+      "zitat": "„Versorgungssicherheit und industrielle Stärke gemeinsam denken“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die energieintensive Industrie ist für Ronny ein Prüfstein, ob Klimapolitik industrielle Realität ernst nimmt. Dass Versorgungssicherheit und Standortstärke zusammen genannt werden, passt zu seiner pragmatischen Haltung.",
+      "begruendung_selbst": "Leuna und Schkopau kann man nicht mit Sprüchen betreiben. Wenn Energie bezahlbar und verlässlich ist, hat die Industrie eine Chance.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Runter mit Netzentgelten",
+      "thema": "energie",
+      "programmpunkt": "Die Linke will Energiepreise durch Sockeltarife, Strompreisaufsicht, geringere Netzentgelte, mögliche Strompreiszonen und niedrigere Stromsteuer entlasten.",
+      "seite": 107,
+      "zitat": "„die Netzentgelte deutlich senken“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiepreise bedrohen Ronnys Branche und private Haushalte in seiner Region. Entlastungen bei Netzentgelten und Strompreisen sind für ihn konkrete Standortpolitik, nicht nur Sozialpolitik.",
+      "begruendung_selbst": "Wir produzieren hier erneuerbaren Strom und zahlen trotzdem drauf. Niedrigere Netzentgelte wären endlich mal ein Standortvorteil statt Strafe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff für die Chemie",
+      "thema": "energie",
+      "programmpunkt": "Das Programm will grünen Wasserstoff für die Chemieindustrie fördern, Elektrolyse ausbauen und regionale Wasserstoffnetze entwickeln.",
+      "seite": 109,
+      "zitat": "„grünen Wasserstoff für die Chemieindustrie gezielt fördern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sucht Technologien, die seiner Region neue Wertschöpfung und technische Anschlussfähigkeit geben. Wasserstoffnetze für die Chemie sind aus seiner Sicht ein realistischer Baustein, wenn sie planbar und industriell nutzbar werden.",
+      "begruendung_selbst": "Das ist wenigstens ein Werkzeug, mit dem unsere Anlagen weiter eine Rolle spielen können. Wasserstoff muss aber wirklich industriell verfügbar werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte vor Ort halten",
+      "thema": "bildung",
+      "programmpunkt": "Die Linke will berufliche Ausbildung stärken, Kosten und weite Wege abfedern sowie technische Ausstattung an Berufsbildenden Schulen modernisieren.",
+      "seite": 31,
+      "zitat": "„starken Fachkräftenachwuchs“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny denkt Strukturwandel auch über die nächste Generation von Technikern, Handwerkern und Anlagenfahrern. Gute Berufsschulen und weniger Hürden für Auszubildende stärken die regionale Fachkräftebasis, die neue Industrie braucht.",
+      "begruendung_selbst": "Wenn die jungen Leute hier ordentlich ausgebildet werden, bleiben Betriebe handlungsfähig. Ohne Fachkräfte kann keine Energiewende funktionieren.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Zu hartes Enddatum",
+      "thema": "klima",
+      "programmpunkt": "Das Programm will ein verbindliches CO₂-Budget und einen klaren Pfad zur Klimaneutralität bis 2035 festlegen.",
+      "seite": 121,
+      "zitat": "„Klimaneutral bis 2035“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny akzeptiert Klimaschutz, ist aber skeptisch gegenüber sehr frühen Zieldaten, wenn Ersatztechnologien, Netze und Industrieprozesse noch nicht gesichert sind. Das Datum 2035 wirkt auf ihn wie ein Endpunkt, der schneller kommt als die praktische Umrüstung.",
+      "begruendung_selbst": "2035 klingt gut auf dem Papier. Ich frage aber zuerst: Stehen dann Netze, Speicher, Wasserstoff und neue Jobs wirklich schon?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fossil nicht pauschal kappen",
+      "thema": "energie",
+      "programmpunkt": "Die Linke beschreibt den Abschied von fossilen Rohstoffen als unausweichlich und richtet den Strukturwandel stark auf klimaneutrale Verfahren aus.",
+      "seite": 90,
+      "zitat": "„Der Abschied von fossilen Rohstoffen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Ronny hängen Kohle, Gas und bestehende Anlagen nicht nur an Vergangenheit, sondern an Versorgungssicherheit und Beschäftigung in der Übergangszeit. Die Formulierung bestätigt seine Sorge, dass der Ausstieg politisch feststeht, bevor alle Brücken belastbar sind.",
+      "begruendung_selbst": "Ich weiß, dass sich etwas ändern muss. Aber wenn Fossiles pauschal abgeräumt wird, bevor Ersatz läuft, trifft es zuerst unsere Region.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gas nur auf Sparflamme",
+      "thema": "energie",
+      "programmpunkt": "Gaskraftwerke sollen nur als Brücke dienen und durch Kriterien wie H2-ready sowie eine Grenze von maximal 1.000 Volllaststunden stark begrenzt werden.",
+      "seite": 109,
+      "zitat": "„maximal 1.000 Volllaststunden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny sieht Gas- und H2-ready-Kraftwerke als mögliche Sicherheitsreserve für Netze und Industrie. Eine sehr enge Laufzeitbegrenzung lässt ihn zweifeln, ob die Brücke im Ernstfall tragfähig genug ist.",
+      "begruendung_selbst": "Eine Brücke muss auch tragen, wenn es eng wird. Wenn Gaskraftwerke kaum laufen dürfen, ist das für Versorgungssicherheit zu knapp gedacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Prüfpflicht bremst Praxis",
+      "thema": "klima",
+      "programmpunkt": "Alle politischen Entscheidungen sollen an verbindliche Klima- und Sozialwirkungen gekoppelt und über Nachhaltigkeitsprüfung bewertet werden.",
+      "seite": 121,
+      "zitat": "„ein verbindliches CO₂ - Budget für Sachsen - Anhalt festlegen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny ist nicht gegen Regeln, aber er fürchtet zusätzliche Prüf- und Zielsysteme, wenn Industrieprojekte ohnehin unter Zeitdruck stehen. Aus seiner Sicht darf Klimasteuerung nicht dazu führen, dass Genehmigungen und Investitionen noch langsamer werden.",
+      "begruendung_selbst": "Ich brauche klare Regeln, ja. Aber wenn jedes Projekt erst durch neue Klimaschleifen muss, verlieren wir Tempo bei den Anlagen, die wir dringend brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erneuerbar allein reicht nicht",
+      "thema": "energie",
+      "programmpunkt": "Das Energieziel wird stark auf vollständig erneuerbaren Strom und klimaneutrale Wärmeversorgung ausgerichtet.",
+      "seite": 105,
+      "zitat": "„für 100 Prozent erneuerbaren Strom“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny teilt den Ausbau erneuerbarer Energien, aber eine absolute Zielmarke ohne gleich starke Betonung von Reservekapazitäten, Speicherrealität und Übergangstechnologien berührt seine Sorge vor Versorgungslücken. Er misst das Ziel an technischer Machbarkeit im Industrieland.",
+      "begruendung_selbst": "Wind und Solar sind wichtig, keine Frage. Aber 100 Prozent Strom heißt auch: Was passiert nachts, im Winter und in der Industrie?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet bei der Linken viele Punkte, die seine Interessen direkt treffen: Industrieumbau, regionale Wertschöpfung, Netze, Wasserstoff, Energiepreise und Fachkräfte werden konkret angesprochen. Gleichzeitig stören ihn die sehr strikten Klimaziele, der harte Abschied von fossilen Rohstoffen und die enge Begrenzung von Gaskraftwerken als Brückentechnologie. Insgesamt überwiegt für ihn knapp das Positive, weil das Programm Strukturwandel nicht abstrakt behandelt, sondern mit Industrie- und Standortinstrumenten verbindet.",
+    "score": 1
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 83293,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich geht es um Personal",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW stellt Pflege als Daseinsvorsorge dar und fordert verlässliche Finanzierung, bessere Bedingungen und vor allem genug Personal.",
+      "seite": 57,
+      "zitat": "„vor allem: ausreichend Personal“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin bewertet Politik zuerst daran, ob sie die Personallücke auf Station ernst nimmt. Die ausdrückliche Verbindung von guter Versorgung und ausreichendem Personal trifft ihren Alltag direkt.",
+      "begruendung_selbst": "Genau das ist der Punkt: Ohne Leute auf dem Dienstplan hilft die schönste Reform nichts.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarif für alle im Haus",
+      "thema": "arbeit",
+      "programmpunkt": "Für Krankenhäuser und Gesundheitseinrichtungen soll ein verbindliches Tariftreuegesetz gelten, auch für Beschäftigte in Tochterunternehmen.",
+      "seite": 57,
+      "zitat": "„ein Tariftreuegesetz für Krankenhäuser“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht Tarifbindung als konkrete Anerkennung statt bloßer Wertschätzung. Dass das Programm auch Ausgliederungen und Tochterunternehmen einbezieht, passt zu ihrer Sorge vor Spaltung der Belegschaften.",
+      "begruendung_selbst": "Wenn wir im selben Krankenhaus schuften, darf niemand über eine Tochterfirma schlechter gestellt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege ist kein Geschäft",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das BSW lehnt weitere Privatisierung im Gesundheitswesen ab und will unattraktive Krankenhäuser als öffentliche Daseinsvorsorge zurückführen.",
+      "seite": 57,
+      "zitat": "„Gesundheitsversorgung ist kein Geschäftsmodell“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin ist skeptisch gegenüber Renditedruck im Gesundheitswesen, weil er sich in knapper Besetzung und Arbeitsverdichtung niederschlägt. Die klare Absage an Gesundheitsversorgung als Geschäftsmodell bestätigt diese Haltung.",
+      "begruendung_selbst": "Ich merke jeden Tag, was passiert, wenn Zahlen wichtiger werden als Patientinnen und Personal.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dienstpläne müssen planbar sein",
+      "thema": "arbeit",
+      "programmpunkt": "Pflege- und Gesundheitsberufe sollen durch faire Bezahlung, planbare Arbeitszeit und bessere Arbeitsbedingungen attraktiver werden.",
+      "seite": 57,
+      "zitat": "„Ihre Arbeitsbedingungen müssen verbessert“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Schichtdienst prägt ihr Familienleben und ihre Erholung. Die Forderung nach besseren Arbeitsbedingungen und planbarer Arbeitszeit berührt daher nicht nur ihr Einkommen, sondern ihre Belastungsgrenze.",
+      "begruendung_selbst": "Ich brauche nicht noch einen Dankespruch, ich brauche Schichten, die mein Leben nicht auffressen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschlüsse schneller anerkennen",
+      "thema": "integration",
+      "programmpunkt": "Anerkennungsverfahren für ausländische Berufsabschlüsse sollen vereinheitlicht, digitalisiert und deutlich verkürzt werden.",
+      "seite": 63,
+      "zitat": "„Anerkennung ausländischer Berufsabschlüsse“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station ist auf Kolleginnen aus dem Ausland angewiesen. Schnellere Anerkennung passt zu ihrer Erfahrung, dass vorhandene Qualifikationen oft zu lange blockiert werden.",
+      "begruendung_selbst": "Meine Kolleginnen können was. Lasst sie nicht monatelang in Formularen festhängen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sprache für den Beruf",
+      "thema": "integration",
+      "programmpunkt": "Berufsbezogene Sprachkurse, besonders auf B2-Niveau, sollen ausgebaut werden, damit Zugewanderte qualifiziert arbeiten und aufsteigen können.",
+      "seite": 64,
+      "zitat": "„berufsbezogene Sprachkurse auf B2-Niveau“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin will migrantische Kolleginnen nicht als Problem behandeln, sondern praktisch unterstützen. Berufsbezogene Sprache hilft im Pflegealltag bei Übergaben, Dokumentation und Patientensicherheit.",
+      "begruendung_selbst": "Gute Sprache im Beruf hilft allen: den Kolleginnen, uns im Team und den Patientinnen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krankenhäuser nicht ausdünnen",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW kritisiert Klinikschließungen, Bettenabbau und Zentralisierung und will flächendeckende Versorgung sichern.",
+      "seite": 56,
+      "zitat": "„Klinikschließungen, Bettenabbau“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt, dass ausgedünnte Strukturen den Druck auf verbleibende Stationen erhöhen. Die Kritik an Bettenabbau und Zentralisierung entspricht ihrer Sorge um Versorgungssicherheit und Arbeitsbelastung.",
+      "begruendung_selbst": "Wenn Häuser schließen, landet die Arbeit am Ende bei uns auf dem Flur.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bitte nicht wieder Misstrauen",
+      "thema": "integration",
+      "programmpunkt": "Das Programm betont, ungeregelte und illegale Migration müsse sofort gestoppt werden und stellt Überforderung der Systeme stark in den Vordergrund.",
+      "seite": 62,
+      "zitat": "„ungeregelte und illegale Migration“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin lehnt einen harten Migrationskurs ab, wenn er pauschal auf ihre migrantische Kollegschaft zurückwirkt. Die starke Problemrahmung kann bei ihr die Sorge auslösen, dass benötigte Kolleginnen erneut unter Generalverdacht geraten.",
+      "begruendung_selbst": "Ich weiß, dass Regeln wichtig sind, aber dieser Ton trifft schnell die Falschen im Team.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht auf Kosten der Station",
+      "thema": "integration",
+      "programmpunkt": "Arbeitsmigration soll nur ergänzen und darf nicht darauf beruhen, anderen Ländern dauerhaft benötigte Fachkräfte zu entziehen.",
+      "seite": 62,
+      "zitat": "„kein Ersatz für eine nachhaltige eigene Arbeitskraftsicherung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ethische Anwerbung ist für Kerstin nachvollziehbar, aber ihre Station braucht kurzfristig Kolleginnen. Wenn Arbeitsmigration politisch zu stark gebremst wird, wirkt das aus ihrer Lage wie eine zusätzliche Hürde gegen Entlastung.",
+      "begruendung_selbst": "Nachwuchs hier ausbilden, ja. Aber bis dahin darf meine Station nicht leer laufen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Familien nicht verschieben",
+      "thema": "integration",
+      "programmpunkt": "Für Kindergärten wird eine prozentuale Verteilung von Ausländerkindern mit einer Obergrenze von 30 Prozent vorgeschlagen.",
+      "seite": 65,
+      "zitat": "„eine Quote von 30 %“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin sieht migrantische Kolleginnen als Teil ihres Teams und ihrer Stadt. Eine feste Quote für deren Kinder kann aus ihrer Sicht stigmatisierend wirken und Familien organisatorisch zusätzlich belasten.",
+      "begruendung_selbst": "Die Kinder meiner Kolleginnen sind keine Prozentzahl, die man durch die Stadt schiebt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschieben trotz Arbeit?",
+      "thema": "integration",
+      "programmpunkt": "Das Programm fordert konsequente Abschiebung bei fehlendem Asylanspruch, stellt später aber Schutz für Arbeit und Ausbildung in Aussicht.",
+      "seite": 62,
+      "zitat": "„konsequente Abschiebung“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin achtet besonders darauf, dass arbeitende und ausgebildete Menschen bleiben können. Die harte Abschiebungsformel auf derselben Migrationslinie bleibt für sie ein Risiko, weil sie Bleibeperspektiven ihrer Kollegschaft als versorgungsrelevant sieht.",
+      "begruendung_selbst": "Wer hier arbeitet und gebraucht wird, braucht Sicherheit statt ständig Angst im Nacken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zu wenig Klinikalltag konkret",
+      "thema": "gesundheit",
+      "programmpunkt": "Obwohl das Programm bessere Bedingungen fordert, bleibt es bei den konkreten Entlastungsinstrumenten für Krankenhauspflege vage und nennt keinen verbindlichen Personalschlüssel.",
+      "seite": 57,
+      "zitat": "„ausreichende Kapazitäten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist ernüchtert von warmen Worten ohne messbares Personal. Begriffe wie Kapazitäten und bessere Bedingungen gehen in die richtige Richtung, reichen ihr aber ohne verbindliche Personalbemessung nicht aus.",
+      "begruendung_selbst": "Sagt mir nicht nur, dass Kapazitäten fehlen. Schreibt auf, wie viele Leute pro Schicht da sein müssen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet im BSW-Programm viele Punkte, die ihre Lage direkt treffen: mehr Personal, Tariftreue, öffentliche Daseinsvorsorge und eine klare Absage an Profitlogik im Gesundheitswesen. Auch schnellere Anerkennung ausländischer Abschlüsse und berufsbezogene Sprachförderung passen zu ihrer Teamrealität. Skeptisch bleibt sie dort, wo Migration stark als Überlastungsproblem gerahmt wird, Quoten für migrantische Kinder auftauchen und konkrete verbindliche Personalschlüssel für die Klinikpflege fehlen.",
+    "score": 1
+  }
+}

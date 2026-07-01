@@ -1,0 +1,162 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 87078,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Betreuung, die passt",
+      "thema": "familie",
+      "programmpunkt": "Das BSW will flächendeckende ganztägige Kinderbetreuung sichern und den Personalmangel in Kitas mit mehr Ausbildung, besseren Schlüsseln und besseren Arbeitsbedingungen angehen.",
+      "seite": 46,
+      "zitat": "flächendeckende, ganztägige Kinderbetreuung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine ist direkt darauf angewiesen, dass Kita- und Betreuungszeiten zu ihrer Arbeit passen. Der Programmpunkt trifft ihren zentralen Wunsch nach verlässlicher Betreuung statt täglicher Improvisation.",
+      "begruendung_selbst": "Wenn die Betreuung wirklich den ganzen Tag verlässlich ist, kann ich arbeiten, ohne ständig Angst vor dem nächsten Ausfall zu haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita darf nichts kosten",
+      "thema": "familie",
+      "programmpunkt": "Das Programm fordert perspektivisch beitragsfreie Kitas und begründet frühkindliche Bildung als gesamtgesellschaftliche Aufgabe.",
+      "seite": 46,
+      "zitat": "beitragsfreie Kitas in Sachsen-Anhalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bei Nadines knappem Budget zählt jeder regelmäßige Beitrag. Beitragsfreie Kitas würden sie finanziell entlasten und passen zu ihrer Erwartung, dass Kinderbetreuung öffentliche Infrastruktur ist.",
+      "begruendung_selbst": "Ich will keinen Luxus, ich will einfach, dass Bildung und Betreuung nicht wieder an meinem Geldbeutel hängen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Lohn hilft sofort",
+      "thema": "arbeit",
+      "programmpunkt": "Das BSW fordert einen gesetzlichen Mindestlohn von 15 Euro ohne Ausnahmen und Tariftreue bei öffentlichen Aufträgen.",
+      "seite": 35,
+      "zitat": "Mindestlohn von 15,00 Euro pro Stunde",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine arbeitet in Teilzeit und stockt auf; höhere untere Löhne würden ihre Lage unmittelbar verbessern. Der Punkt bestätigt ihren Wunsch, dass sich Arbeit spürbar lohnt.",
+      "begruendung_selbst": "Ich arbeite ja schon. Wenn der Stundenlohn höher ist, muss ich nicht bei jedem Paar Kinderschuhe rechnen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Miete muss runterdrücken",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm will sozialen und gemeinnützigen Wohnungsbau ausweiten, öffentlichen Wohnraum schützen und Mietsteigerungen wirksam begrenzen.",
+      "seite": 31,
+      "zitat": "Mietsteigerungen wirksam begrenzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine lebt zur Miete, und die Wohnkosten fressen einen großen Teil ihres Einkommens. Begrenzte Mietsteigerungen und mehr bezahlbarer Wohnraum adressieren eine ihrer stärksten Alltagssorgen.",
+      "begruendung_selbst": "Die Miete ist jeden Monat der größte Brocken. Wenn die weiter steigt, kann ich mir alles andere sparen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schulsachen ohne Betteln",
+      "thema": "bildung",
+      "programmpunkt": "Das BSW will echte Lernmittelfreiheit, damit Lehr- und Lernmittel nicht vom Einkommen der Eltern abhängen.",
+      "seite": 43,
+      "zitat": "echte Lernmittelfreiheit einzuführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Nadine sind Schulbücher, Arbeitshefte und Eigenanschaffungen reale Zusatzkosten. Lernmittelfreiheit würde ihre Kinder entlasten, ohne sie als bedürftig herauszustellen.",
+      "begruendung_selbst": "Meine Kinder sollen alles haben, was sie für die Schule brauchen, ohne dass ich wieder irgendwo nachfragen muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ganztag statt Aufbewahrung",
+      "thema": "bildung",
+      "programmpunkt": "Das Programm fordert mehr Ganztagsschulen, bessere Betreuungsschlüssel, kleinere Gruppen und ausreichend Schulsozialarbeit und Schulpsychologie.",
+      "seite": 48,
+      "zitat": "mehr Ganztagsschulen, bessere Betreuungsschlüssel, kleinere Klassen und Gruppen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines älteres Kind braucht verlässliche Nachmittagsbetreuung und gute Förderung. Der Punkt verbindet Vereinbarkeit mit Qualität, statt Ganztag nur als Verwahrung zu behandeln.",
+      "begruendung_selbst": "Ich brauche den Ganztag, aber mein Kind soll dort auch wirklich gesehen und gefördert werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Anträge ohne Spießrutenlauf",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW will Sozialleistungen schneller, unbürokratischer und verlässlicher zugänglich machen, Sozialbehörden personell stärken und Sozialberatung ausbauen.",
+      "seite": 78,
+      "zitat": "Sozialleistungen schnell, unbürokratisch und verlässlich zugänglich machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine ist als Aufstockerin auf funktionierende Behörden angewiesen. Kürzere Bearbeitung, klare Zuständigkeiten und Beratung würden ihren Alltag konkret entlasten.",
+      "begruendung_selbst": "Ich habe keine Zeit und keine Nerven für endlose Formulare. Wenn Hilfe zusteht, muss sie auch rechtzeitig ankommen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht wieder verdächtigen",
+      "thema": "familie",
+      "programmpunkt": "Das Programm verbindet gleiche Chancen mit der Erwartung, dass jeder seinen Beitrag leistet.",
+      "seite": 7,
+      "zitat": "jeder seinen Beitrag leistet",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine reagiert empfindlich auf Formulierungen, die wie eine pauschale Bringschuld klingen. Sie arbeitet und leistet Sorgearbeit; deshalb kann diese Rhetorik bei ihr den Eindruck auslösen, wieder beweisen zu müssen, dass sie nicht bequem lebt.",
+      "begruendung_selbst": "Ich leiste jeden Tag meinen Beitrag. Ich will nicht schon wieder so klingen, als müsste ich mich rechtfertigen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht alles auf Eltern",
+      "thema": "bildung",
+      "programmpunkt": "Das BSW betont, Erziehung und Wertevermittlung seien in erster Linie Sache der Eltern und will staatliche Einrichtungen vor bestimmten Konzepten zu Geschlecht, Sexualität oder Identität schützen.",
+      "seite": 39,
+      "zitat": "Erziehung und Wertevermittlung sind in erster Linie Aufgabe der Eltern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Alleinerziehende braucht Nadine Schulen und Kitas als verlässliche Partner, nicht als Institutionen, die Verantwortung vor allem zurück an Eltern delegieren. Die Formulierung berührt ihre Sorge, mit schwierigen Bildungs- und Erziehungsfragen allein zu bleiben.",
+      "begruendung_selbst": "Natürlich erziehe ich meine Kinder. Aber ich brauche Kita und Schule an meiner Seite, nicht noch mehr Druck auf mir allein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kinder nicht sortieren",
+      "thema": "integration",
+      "programmpunkt": "Das Programm will zur besseren Durchmischung eine Obergrenze für den Anteil ausländischer Kinder in Kindergärten und dafür Transportkapazitäten vorsehen.",
+      "seite": 65,
+      "zitat": "Quote von 30 % nicht überschritten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine möchte gute Förderung für alle Kinder, aber die Quote behandelt Kinder aus Einwandererfamilien vorrangig als zu verteilendes Problem. Das widerspricht ihrem Bedürfnis nach Würde und fairen Chancen in Kita und Schule.",
+      "begruendung_selbst": "Ich verstehe, dass Schulen Unterstützung brauchen. Aber Kinder nach Herkunft zu zählen und herumzuschieben, fühlt sich falsch an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht gegeneinander ausspielen",
+      "thema": "integration",
+      "programmpunkt": "Das BSW fordert eine Begrenzung ungeregelter Migration und begründet das auch mit dem Schutz der heimischen Bevölkerung vor Überlastung.",
+      "seite": 62,
+      "zitat": "heimische Bevölkerung ist vor Überlastungstendenzen zu schützen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine kennt überlastete Behörden, Kitas und Schulen aus eigener Erfahrung. Trotzdem stößt ihr eine Sprache auf, die knappe soziale Infrastruktur gegen Zugewanderte rahmt, statt den Ausbau der Strukturen in den Mittelpunkt zu stellen.",
+      "begruendung_selbst": "Ja, alles ist überlastet. Aber ich will nicht, dass arme Familien und Zugewanderte gegeneinander gestellt werden.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine würde im BSW-Programm viele konkrete Entlastungen für ihre Lage finden: bessere Kinderbetreuung, beitragsfreie Kitas, höhere Löhne, begrenzte Mieten, Lernmittelfreiheit und leichteren Zugang zu Sozialleistungen. Besonders stark trifft das Programm ihre materiellen Alltagssorgen und ihren Wunsch nach verlässlicher öffentlicher Infrastruktur. Kritisch sieht sie einzelne Formulierungen, die nach Misstrauen, elterlicher Zusatzlast oder nach Ausspielen von Gruppen klingen.",
+    "score": 2
+  }
+}

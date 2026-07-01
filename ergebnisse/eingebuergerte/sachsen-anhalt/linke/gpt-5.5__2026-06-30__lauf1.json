@@ -1,0 +1,162 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 90040,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich nicht fremd gemacht",
+      "thema": "integration",
+      "programmpunkt": "Die Linke beschreibt Menschen mit Wanderungsgeschichte als selbstverständlichen Teil Sachsen-Anhalts und grenzt sich ausdrücklich von Ausgrenzungsrhetorik ab.",
+      "seite": 96,
+      "zitat": "Migration ist kein Problem, sondern Chance",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt Zugehörigkeit als Kernfrage ihrer politischen Bewertung. Dass das Programm Migration nicht als Bedrohung, sondern als Teil einer gemeinsamen Zukunft rahmt, bestätigt ihr Bedürfnis nach Anerkennung statt Verdacht.",
+      "begruendung_selbst": "Ich will nicht dauernd erklärt bekommen, warum Menschen wie meine Familie ein Problem sein sollen. Genau diese Sprache nimmt mir Druck.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ich bin Sachsen-Anhalterin",
+      "thema": "integration",
+      "programmpunkt": "Kinder und Jugendliche, die in Sachsen-Anhalt aufwachsen, sollen nicht als zweite Migrantengeneration markiert, sondern als erste Generation Sachsen-Anhalter:innen verstanden werden.",
+      "seite": 96,
+      "zitat": "erste Generation Sachsen - Anhalter:innen!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Diese Formulierung trifft Aylins Lebensgefühl unmittelbar, weil sie in Deutschland geboren ist und dennoch immer wieder als nicht ganz zugehörig behandelt wird. Das Programm verschiebt den Maßstab von Abstammung auf gelebte Zugehörigkeit.",
+      "begruendung_selbst": "Das ist genau mein Punkt: Ich bin nicht Besuch, ich bin von hier. Meine Geschichte gehört zu diesem Land.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sprache ohne Hürdenlauf",
+      "thema": "integration",
+      "programmpunkt": "Zugewanderte sollen unabhängig von Aufenthaltsstatus und Alter direkten Zugang zu Sprachkursen bekommen, auch im ländlichen Raum.",
+      "seite": 98,
+      "zitat": "direkten Zugang zu Sprachkursen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin befürwortet geregelte, sachliche Integration und weiß aus Familie und Umfeld, wie wichtig Sprache für Teilhabe ist. Niedrige Hürden bestätigen ihre Vorstellung, dass Integration praktisch ermöglicht werden muss.",
+      "begruendung_selbst": "Wer Integration verlangt, muss Kurse erreichbar machen. Sonst ist das nur eine Parole auf dem Rücken der Leute.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verwaltung muss Vielfalt können",
+      "thema": "arbeit",
+      "programmpunkt": "Der öffentliche Dienst soll Menschen mit Migrationshintergrund gezielt einstellen und interkulturelle Kompetenz in Behörden ausbauen.",
+      "seite": 98,
+      "zitat": "Die Einstellung von Menschen mit Migrationshintergrund soll",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte achtet Aylin besonders auf faire Aufstiegschancen und Anerkennung im öffentlichen Dienst. Die vorgeschlagene Öffnung der Institutionen spricht sie beruflich und biografisch zugleich an.",
+      "begruendung_selbst": "In Ämtern sollten Menschen arbeiten, die die Gesellschaft wirklich abbilden. Dann muss ich meine Kompetenz nicht gegen meinen Namen beweisen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Polizei ohne Generalverdacht",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizei soll durch Fortbildungen zu Menschenrechten und interkultureller Kompetenz eine demokratische Alltagskultur stärken.",
+      "seite": 129,
+      "zitat": "Fortbildungen zu Menschenrechten und interkultureller Kompetenz",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin will innere Sicherheit, aber nicht unter pauschalem Verdacht stehen. Der Schwerpunkt auf Bürgernähe, Menschenrechten und interkultureller Kompetenz passt zu ihrem Wunsch nach Rechtsstaatlichkeit ohne Stigmatisierung.",
+      "begruendung_selbst": "Sicherheit ist wichtig, aber ich will nicht erst als Risiko gesehen werden. Respekt und Professionalität gehören zusammen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechte Hetze ernst nehmen",
+      "thema": "demokratie",
+      "programmpunkt": "Die Linke will politische Bildung, mobile Beratungsteams und lokale demokratische Strukturen gegen Rechtsextremismus stärken.",
+      "seite": 15,
+      "zitat": "Rechtsextremismus entwaffnen – Demokratiestärkung vor Ort",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin lehnt Ausgrenzungsrhetorik entschieden ab und bewertet Parteien stark danach, ob sie demokratische Institutionen gegen Rechtsdruck verteidigen. Der Fokus auf Zivilgesellschaft und lokale Strukturen entspricht ihrer Sorge vor Polarisierung.",
+      "begruendung_selbst": "Ich brauche keine Beschwichtigung, wenn rechte Hetze normal wird. Ich will, dass der Staat und die Gesellschaft klar dagegenhalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Glauben ohne Angst",
+      "thema": "integration",
+      "programmpunkt": "Religionsgemeinschaften, darunter jüdische und muslimische Gemeinden, sollen gleichberechtigt und ohne Repressionen am gesellschaftlichen Leben teilnehmen können.",
+      "seite": 16,
+      "zitat": "alle Religionsgemeinschaften gleichberechtigt ohne Angst",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Aylins eigene Religiosität nicht im Profil steht, ist antimuslimische und antisemitische Ausgrenzung für sie Teil des gesellschaftlichen Zugehörigkeitsklimas. Gleichberechtigte Religionsausübung bestätigt ihr Würde- und Rechtsstaatsverständnis.",
+      "begruendung_selbst": "Ob jemand muslimisch, jüdisch, christlich oder gar nicht religiös ist: Niemand sollte deshalb Angst haben müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Algorithmen brauchen Kontrolle",
+      "thema": "digitalisierung",
+      "programmpunkt": "Vor KI-Einsätzen in öffentlich finanzierten Einrichtungen sollen Folgenabschätzungen, Register und Beschwerdestellen Diskriminierungsrisiken sichtbar machen.",
+      "seite": 143,
+      "zitat": "Diskriminierungs - risiken vor jedem Einsatz geklärt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin arbeitet in der Verwaltung und achtet auf faire, nachvollziehbare Entscheidungen. Dass das Programm Diskriminierungsrisiken bei KI ausdrücklich prüfbar machen will, passt zu ihrem Vertrauen in rechtsstaatliche Verfahren.",
+      "begruendung_selbst": "Wenn der Staat digital entscheidet, muss klar sein, ob Menschen dadurch benachteiligt werden. Technik darf keine neue Ausrede sein.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Grenzen brauchen Regeln",
+      "thema": "integration",
+      "programmpunkt": "Die Linke fordert am Ende des EU-Kapitels pauschal die Abschaffung von Frontex.",
+      "seite": 96,
+      "zitat": "Frontex gehört abgeschafft!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin ist migrationsfreundlich, aber sie befürwortet geregelte und sachliche Migrationspolitik. Eine reine Abschaffungsformel wirkt auf sie zu grob, weil sie rechtsstaatliche Kontrolle und klare Zuständigkeiten nicht ersetzt.",
+      "begruendung_selbst": "Ich bin gegen Abschottung und Gewalt an Grenzen. Aber ich will hören, wie faire Kontrolle funktionieren soll, nicht nur einen Satz mit Ausrufezeichen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Demokratie nicht entkernen",
+      "thema": "demokratie",
+      "programmpunkt": "Der bestehende Verfassungsschutz wird als überflüssig bezeichnet und soll langfristig durch eine Agentur für Demokratie und Menschenrechte ersetzt werden.",
+      "seite": 129,
+      "zitat": "in seiner jetzigen Form ist überflüssig",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin sieht rechtsextreme Netzwerke als reale Gefahr für Menschen mit Migrationsgeschichte. Auch wenn sie Transparenz und Reformen befürwortet, macht sie eine so weitgehende Abkehr von einer Sicherheitsinstitution skeptisch.",
+      "begruendung_selbst": "Reformen ja, blinde Flecken nein. Bei rechter Gefahr möchte ich nicht das Gefühl haben, dass der Staat sein Frühwarnsystem abbaut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Teilhabe ist mehr als Motto",
+      "thema": "integration",
+      "programmpunkt": "Das Integrationskapitel setzt programmatisch auf „Vielfalt statt Anpassung“.",
+      "seite": 97,
+      "zitat": "Vielfalt statt Anpassung ist unser Motto.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin lehnt Anpassungsdruck über Herkunft ab, erwartet aber eine sachliche Balance aus Rechten, Sprache, Regeln und Teilhabe. Als zugespitztes Motto klingt die Formulierung für sie etwas einseitig, obwohl viele konkrete Maßnahmen im Kapitel ihre Sicht bestätigen.",
+      "begruendung_selbst": "Ich will keine Assimilation. Aber Integration heißt für mich auch gemeinsame Regeln, Sprache und Verantwortung, nicht nur ein gutes Gefühl.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin würde das Programm überwiegend positiv aufnehmen, weil es Menschen mit Migrationsgeschichte ausdrücklich als zugehörig beschreibt, Antidiskriminierung in Verwaltung und Sicherheitspolitik ernst nimmt und rechte Hetze klar adressiert. Besonders stark resonieren die Passagen zu Integration, interkultureller Öffnung des öffentlichen Dienstes und Polizei ohne Generalverdacht. Skeptisch wäre sie bei sehr pauschalen Formeln zur Abschaffung von Frontex und zur Rolle des Verfassungsschutzes, weil sie geregelte, rechtsstaatliche Institutionen nicht geschwächt sehen möchte.",
+    "score": 2
+  }
+}

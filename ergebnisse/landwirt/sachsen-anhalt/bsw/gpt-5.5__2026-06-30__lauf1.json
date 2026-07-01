@@ -1,0 +1,198 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 81413,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich nennt uns systemrelevant",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das BSW stellt landwirtschaftliche Betriebe als systemrelevant dar und will ihre Belange wieder stärker ins öffentliche Bewusstsein rücken.",
+      "seite": 19,
+      "zitat": "Sicherung der einheimischen Landwirtschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich als Landwirt oft abgewertet und von städtischer Politik übergangen. Die Anerkennung der Landwirtschaft als unverzichtbarer Teil der Wirtschaft trifft seinen Wunsch nach Respekt statt Belehrung.",
+      "begruendung_selbst": "Ich will nicht dauernd als Problem behandelt werden. Ohne Betriebe wie meinen steht hier nichts auf dem Tisch und im Dorf nichts mehr auf den Beinen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Preise statt Preisdruck",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Öffentliche Einrichtungen sollen regional einkaufen, damit heimische Betriebe verlässlichere Absatzwege und bessere Preise bekommen.",
+      "seite": 19,
+      "zitat": "faire Preise ermöglicht",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank leidet unter schwankenden Erzeugerpreisen und Konkurrenz durch globale Märkte. Regionale Beschaffung und Abnahmegarantien würden seine Hoffnung auf planbarere Einnahmen direkt berühren.",
+      "begruendung_selbst": "Wenn Kantinen hier aus der Region kaufen, bleibt das Geld im Land. Dann muss ich nicht jeden Preis schlucken, den der Weltmarkt gerade vorgibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hilfe beim Papierkram",
+      "thema": "demokratie",
+      "programmpunkt": "Landeseigene Kompetenzstellen sollen Land- und Forstbetriebe vor Ort beraten und einen Teil der Antragstellung übernehmen.",
+      "seite": 20,
+      "zitat": "landeseigenen Kompetenzstellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bürokratie ist für Frank einer der größten Alltagsärgernisse, weil sie Zeit und Marge frisst. Praktische Hilfe bei Anträgen entspräche seiner Erwartung, dass Verwaltung entlastet statt gängelt.",
+      "begruendung_selbst": "Wenn die schon Formulare wollen, sollen sie wenigstens beim Ausfüllen helfen. Ich habe Acker und Tiere, keinen Bürotag übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Bauer entscheidet",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm will Entscheidungen über Fruchtfolge und Zwischenfruchternte beim Bauern belassen und praxisuntaugliche Vorgaben ablehnen.",
+      "seite": 81,
+      "zitat": "ohne behördliche Zwänge",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank misstraut Vorgaben, die aus seiner Sicht ohne Kenntnis des Betriebsalltags gemacht werden. Dass fachliche Entscheidungen ausdrücklich beim Bauern liegen sollen, bestätigt sein Selbstverständnis als Praktiker.",
+      "begruendung_selbst": "Ich kenne meine Böden, meine Fruchtfolge und das Wetter hier. Das kann kein Schreibtisch besser entscheiden als ich auf dem Feld.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Berichtspflichten runterfahren",
+      "thema": "demokratie",
+      "programmpunkt": "Berichtspflichten für Landwirte sollen auf ein notwendiges Mindestmaß reduziert und EU-Regeln für kleinere und mittlere Betriebe angepasst werden.",
+      "seite": 81,
+      "zitat": "auf ein notwendiges Mindestmaß zu reduzieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sieht Dokumentationspflichten und EU-Regelwerk als Kern der Bevormundung. Eine Reduktion trifft seine zentrale Forderung nach weniger Bürokratie und mehr Planungssicherheit.",
+      "begruendung_selbst": "Jedes Jahr neue Nachweise, neue Masken, neue Regeln. Weniger Berichtspflichten wären für mich echte Entlastung, nicht nur Gerede.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO₂-Kosten müssen weg",
+      "thema": "klima",
+      "programmpunkt": "Das BSW will die nationale CO₂-Bepreisung aussetzen oder abschaffen und Bürger vor Mehrbelastungen durch Klimapolitik schützen.",
+      "seite": 27,
+      "zitat": "ungerechte Steuer auszusetzen oder abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hat hohe Diesel-, Energie- und Betriebskosten und fürchtet Klimaschutz auf seinem Rücken. Die Ablehnung der CO₂-Abgabe entspricht seiner Sorge vor zusätzlichen Kosten ohne praxistaugliche Alternative.",
+      "begruendung_selbst": "Ich kann den Schlepper nicht mit guten Worten fahren. Wenn CO₂ immer teurer wird, zahle ich das direkt aus meiner Ernte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Solarparks auf Acker",
+      "thema": "energie",
+      "programmpunkt": "Photovoltaik soll vorrangig auf Dächer, Parkplätze und versiegelte Flächen, nicht auf Ackerland oder Wald gelenkt werden.",
+      "seite": 24,
+      "zitat": "nicht auf Ackerland oder in den Wald",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sorgt sich um Flächenfraß und Pachtkonkurrenz. Die Begrenzung von Photovoltaik auf nichtlandwirtschaftliche Flächen schützt aus seiner Sicht wertvollen Boden für die Erzeugung.",
+      "begruendung_selbst": "Guter Acker ist kein Parkplatz für Module. Erst kommen Dächer und versiegelte Flächen, dann kann man weiterreden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unser Land nicht abhängen",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW betont verlässliche Mobilität, bessere Verkehrsinfrastruktur und die Bedeutung des Autos in vielen Regionen Sachsen-Anhalts.",
+      "seite": 32,
+      "zitat": "das Auto auf absehbare Zeit unverzichtbar",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank lebt im dünn besiedelten ländlichen Raum und ist beruflich wie privat auf Straßen und Auto angewiesen. Eine Politik, die ländliche Mobilität realistisch betrachtet, passt zu seinem Alltag.",
+      "begruendung_selbst": "Bei uns fährt nicht alle zehn Minuten ein Bus. Wer auf dem Dorf arbeitet, braucht Straßen, Auto und verlässliche Wege.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Glyphosat pauschal verbieten",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm lehnt Glyphosat ab und will nachhaltige Alternativen fördern.",
+      "seite": 81,
+      "zitat": "Glyphosat ablehnen und nachhaltige Alternativen fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank ist nicht gegen Umweltauflagen, lehnt aber pauschale Verbote ab, wenn sie seine Fruchtfolge und Kostenstruktur treffen. Die Formulierung wirkt für ihn wie ein weiterer Eingriff in fachliche Entscheidungen.",
+      "begruendung_selbst": "Schon wieder soll ein Werkzeug vom Hof verschwinden. Erst sollen sie mir zeigen, wie ich das bezahlbar und sauber ersetzen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Neue Öko-Vorgaben drohen",
+      "thema": "klima",
+      "programmpunkt": "Das BSW will Bodenschutz, Artenvielfalt, Ökolandbau sowie Permakultur- und Agroforstsysteme stärker fördern.",
+      "seite": 80,
+      "zitat": "Permakultur- und Agroforstsysteme stabilisieren die Böden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank kann Förderung für Bodenschutz nachvollziehen, fürchtet aber, dass daraus neue Vorgaben für seine Ackerpraxis werden. Sein Betrieb ist auf verlässliche, wirtschaftliche Bewirtschaftung angewiesen und nicht auf ständig wechselnde Leitbilder.",
+      "begruendung_selbst": "Ich brauche keine Modewörter für jeden Schlag. Wenn aus Förderung am Ende Pflicht wird, zahle ich wieder die Umstellung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht nur Bauern beschuldigen",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Beim Grundwasser nennt das Programm Überdüngung und intensive landwirtschaftliche Bewirtschaftung als Hauptursachen von Nitratbelastung.",
+      "seite": 83,
+      "zitat": "Hauptursachen sind Überdüngung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank nimmt Nitrat- und Wasserschutz ernst, reagiert aber empfindlich auf Formulierungen, die Landwirtschaft vor allem als Verursacher darstellen. Das trifft seine Erfahrung, von Umweltpolitik moralisch verurteilt zu werden.",
+      "begruendung_selbst": "Beim Grundwasser zeigen alle sofort auf uns. Ich dünge nicht aus Spaß, sondern nach Ertrag, Boden und Vorgaben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserschonung heißt Auflage",
+      "thema": "klima",
+      "programmpunkt": "Die Landwirtschaft soll stärker auf Wasserschonung ausgerichtet und mit wassersparenden Methoden, Humusaufbau und trockenheitsresistenten Kulturen verbunden werden.",
+      "seite": 84,
+      "zitat": "stärker auf Wasserschonung ausgerichtet werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Trockenheit betrifft Frank unmittelbar, dennoch hört er in solchen Vorgaben potenzielle Einschränkungen bei Bewässerung und Anbau. Ohne klare Finanzierung und Praxisbezug wirkt das auf ihn wie Klimaanpassung auf Betriebskosten.",
+      "begruendung_selbst": "Wasser sparen will ich selber, sonst wächst nichts. Aber wenn daraus neue Verbote werden, steht am Ende wieder mein Ertrag im Risiko.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Kontrollen im Stall",
+      "thema": "landwirtschaft",
+      "programmpunkt": "In Schlachthöfen und Tierhaltung sollen Transparenz, Kontrolldichte, unangekündigte Kontrollen und Dokumentationsverfahren ausgeweitet werden.",
+      "seite": 86,
+      "zitat": "Unangekündigte Kontrollen sind auszuweiten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank hält Tierwohl nicht für unwichtig, aber zusätzliche Kontrollen und Dokumentationspflichten verstärken seine Sorge vor Misstrauen gegenüber Tierhaltern. Bei kleiner Mutterkuhhaltung trifft ihn vor allem der Eindruck, wieder unter Generalverdacht zu stehen.",
+      "begruendung_selbst": "Meine Tiere sieht jeden Tag jemand aus der Familie. Noch mehr unangekündigte Kontrolle klingt nicht nach Vertrauen, sondern nach Verdacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tierwohl wird zur Vorschrift",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm fordert streng einzuhaltende tiergerechte Haltungsstandards und geförderte Stallumbauten für mehr Platz und bessere Bedingungen.",
+      "seite": 86,
+      "zitat": "tiergerechte Haltungsstandards strikt einzuhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank unterstützt gute Haltung, aber neue Standards bedeuten für ihn Investitionsdruck und Risiko, besonders bei knappen liquiden Mitteln. Die Aussicht auf Förderung nimmt seine Sorge nicht vollständig, weil Umbauten Zeit, Kredite und Planungssicherheit brauchen.",
+      "begruendung_selbst": "Mehr Platz klingt gut, aber Ställe baut man nicht aus der Portokasse um. Erst kommen Auflagen, und die Rechnung liegt bei mir.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet im BSW-Programm viele Punkte, die seine Lage direkt bestätigen: Anerkennung der Landwirtschaft, regionale Beschaffung, weniger Bürokratie, niedrigere Energie- und CO₂-Kosten sowie Schutz von Ackerflächen. Gleichzeitig stören ihn mehrere ökologische und tierschutzpolitische Vorgaben, weil sie nach neuen Auflagen, Kontrollen und Investitionspflichten klingen. Insgesamt überwiegt für ihn die Entlastungs- und Anerkennungsperspektive deutlich, auch wenn das Programm nicht frei von praxisfernen Risiken wirkt.",
+    "score": 1
+  }
+}

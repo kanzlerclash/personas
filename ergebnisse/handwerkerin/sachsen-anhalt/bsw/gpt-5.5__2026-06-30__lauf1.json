@@ -1,0 +1,210 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 90479,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Gewinne im Betrieb lassen",
+      "thema": "steuern",
+      "programmpunkt": "Das BSW will Eigenkapitalbildung im Mittelstand steuerlich begünstigen, insbesondere Rücklagen und reinvestierte Gewinne.",
+      "seite": 21,
+      "zitat": "„geringere Besteuerung von reinvestierten Gewinnen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine finanziert Werkstatt, Fahrzeuge und Material oft vor und braucht belastbare Rücklagen. Eine Entlastung reinvestierter Gewinne passt zu ihrem Wunsch, den Betrieb aus eigener Kraft stabil und nachfolgefähig zu halten.",
+      "begruendung_selbst": "Wenn ich Geld wieder in Werkzeug, Autos und Leute stecke, soll mir der Staat nicht erst die Luft rauslassen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ein Portal statt Papierkrieg",
+      "thema": "digitalisierung",
+      "programmpunkt": "Für Unternehmen soll ein landesweites Portal alle relevanten Verwaltungsleistungen bündeln und Genehmigungen nachvollziehbarer machen.",
+      "seite": 21,
+      "zitat": "„Anträge, Meldungen und Genehmigungen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verliert abends viel Zeit mit Formularen, Nachweisen und Behördenkommunikation. Ein einheitlicher Zugang mit digitalem Bearbeitungsstand würde genau den Bürokratiefrust adressieren, der ihren Alltag prägt.",
+      "begruendung_selbst": "Ich will nicht fünf Ämtern hinterhertelefonieren, nur um zu wissen, wo mein Antrag liegt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerk zählt endlich",
+      "thema": "arbeit",
+      "programmpunkt": "Berufsschulen, Weiterbildung und Meisterausbildungsförderung sollen gestärkt und handwerkliche Berufe ausdrücklich aufgewertet werden.",
+      "seite": 23,
+      "zitat": "„handwerkliche Berufe aufzuwerten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als SHK-Meisterin sucht Sabine Gesellen und Auszubildende und erlebt, dass akademische Wege oft höher angesehen werden. Die Aufwertung beruflicher Bildung und der Meisterausbildung trifft einen Kern ihres Fachkräfteproblems.",
+      "begruendung_selbst": "Ohne gute Gesellen baut keiner eine Heizung ein, egal wie viele Broschüren gedruckt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energie muss planbar sein",
+      "thema": "energie",
+      "programmpunkt": "Das BSW stellt bezahlbare, sichere Energieversorgung und einen technologieoffenen Energiemix in den Mittelpunkt.",
+      "seite": 24,
+      "zitat": "„Mittelstand, Handwerk und private Haushalte unter Druck“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energiepreise treffen Sabines Betrieb direkt und beeinflussen zugleich die Investitionsbereitschaft ihrer Kundschaft. Die Diagnose, dass auch Handwerk und Haushalte unter unsicherer Energiepolitik leiden, bestätigt ihre Alltagserfahrung.",
+      "begruendung_selbst": "Meine Kunden fragen nicht nach Ideologie, die fragen, ob sie die Rechnung bezahlen können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wärmewende mit Augenmaß",
+      "thema": "energie",
+      "programmpunkt": "Bei Wärme fordert das BSW technologieoffene, investitionsfreundliche Regeln, realistische Übergänge und regionale Anpassung statt starrer Vorgaben.",
+      "seite": 26,
+      "zitat": "„Wärmewende mit Augenmaß“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine ist nicht gegen Klimaschutz, aber sie braucht verlässliche und für Kunden verständliche Heizungsregeln. Der Fokus auf Praxisnähe, Flexibilität und Planungssicherheit passt stark zu ihrer Kritik am Hin und Her der Wärmepolitik.",
+      "begruendung_selbst": "Sag mir eine Regel, die auf dem Dorf funktioniert, dann kann ich Angebote schreiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauen ohne Normenlawine",
+      "thema": "wohnen",
+      "programmpunkt": "Bauanträge, Vorschriften und Förderprogramme sollen vereinfacht werden; zudem werden digitale Bauanträge und weniger neue Bauvorschriften gefordert.",
+      "seite": 31,
+      "zitat": "„Bauen muss schneller, einfacher und günstiger werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "SHK-Aufträge hängen oft an Bau- und Sanierungsprojekten, die durch Genehmigungen, Normen und Kosten ins Stocken geraten. Sabine würde weniger Regelwirrwarr und schnellere Verfahren als konkrete Entlastung für Kunden und Betrieb sehen.",
+      "begruendung_selbst": "Wenn Bauherren im Papier steckenbleiben, kommt bei mir auch kein Auftrag an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte schneller anerkennen",
+      "thema": "arbeit",
+      "programmpunkt": "Ausländische Berufsabschlüsse sollen schneller, digitaler und praxisnäher anerkannt werden, um qualifizierte Beschäftigung zu erleichtern.",
+      "seite": 63,
+      "zitat": "„Anerkennung ausländischer Berufsabschlüsse“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine findet kaum Fachkräfte und ist pragmatisch, wenn Menschen qualifiziert arbeiten wollen. Schnellere Anerkennung hilft ihrem Betrieb eher als langwierige Verfahren, solange Qualifikation und Sprache praktisch passen.",
+      "begruendung_selbst": "Wenn jemand was kann und arbeiten will, darf der nicht monatelang in Akten hängen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vor Ort wird verdient",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm will Handel, Dienstleistungen und Handwerk vor Ort gezielt fördern, unter anderem über Modernisierung, Geräteanschaffung und Ausbildung.",
+      "seite": 89,
+      "zitat": "„Handwerk vor Ort sollen gezielt gefördert werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines Familienbetrieb steht exemplarisch für regional gebundene kleine Unternehmen. Die ausdrückliche Förderung des örtlichen Handwerks signalisiert ihr Wertschätzung und praktische Unterstützung statt reiner Konzernpolitik.",
+      "begruendung_selbst": "Wir zahlen hier Steuern, bilden hier aus und halten den Laden im Ort am Laufen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Tarifpflicht kostet Aufträge",
+      "thema": "arbeit",
+      "programmpunkt": "Öffentliche Aufträge und Fördermittel sollen nur noch an tarifgebundene Unternehmen vergeben werden.",
+      "seite": 22,
+      "zitat": "„nur an tarifgebundene Unternehmen vergeben“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine achtet auf faire Löhne, will aber als kleiner Betrieb nicht über starre Tarifbindung von Vergaben ausgeschlossen werden. Sie fürchtet, dass große Anbieter mit Verwaltungsapparat solche Vorgaben leichter erfüllen als ein Acht-Personen-Betrieb.",
+      "begruendung_selbst": "Ich zahle ordentlich, aber ich lasse mir meinen Betrieb nicht wie einen Konzernvertrag zuschneiden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lohnkosten nicht wegzaubern",
+      "thema": "arbeit",
+      "programmpunkt": "Das BSW fordert einen gesetzlichen Mindestlohn von 15 Euro ohne Ausnahmen.",
+      "seite": 35,
+      "zitat": "„Mindestlohn von 15,00 Euro“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine ist für Leistung und gute Bezahlung, steht aber ohnehin unter Druck durch Lohnnebenkosten, Vorfinanzierung und Materialpreise. Eine pauschale Lohnvorgabe bewertet sie nicht isoliert sozialpolitisch, sondern als zusätzlichen Kostenblock in knappen Kalkulationen.",
+      "begruendung_selbst": "Gute Leute sollen gutes Geld kriegen, aber meine Angebote müssen am Ende auch bezahlbar bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Finger weg vom Meister",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm will prüfen, ob die Meisterbindung in bestimmten Handwerksberufen für Gründungen gelockert werden kann.",
+      "seite": 23,
+      "zitat": "„Meisterbindung nicht zwingend erforderlich“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine sieht die Meisterqualifikation als Qualitäts-, Sicherheits- und Ausbildungsversprechen ihres Gewerks. Eine Lockerung klingt für sie nach Abwertung des Weges, den sie selbst gegangen ist und den sie bei Nachwuchs stärken will.",
+      "begruendung_selbst": "Beim Heizen, Wasser und Gas ist Meisterwissen kein Schmuckstück, sondern Verantwortung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nachfolge nicht besteuern",
+      "thema": "steuern",
+      "programmpunkt": "Das BSW sieht Reformbedarf bei der Erbschaft- und Schenkungsteuer und will große Vermögen stärker heranziehen.",
+      "seite": 36,
+      "zitat": "„Novellierung der Erbschaft- und Schenkungssteuer“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine plant in rund zehn Jahren die Betriebsübergabe und hat ihr Vermögen stark im Betrieb gebunden. Auch wenn das Programm vor allem große Vermögen adressiert, macht ihr die offene Reformrichtung bei Erbschaft und Schenkung für Nachfolge und Altersvorsorge Sorgen.",
+      "begruendung_selbst": "Mein Betrieb ist kein Geldspeicher, das sind Werkstatt, Fahrzeuge und acht Arbeitsplätze.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Pflichtbeiträge?",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW will eine einheitliche Renten-, Pflege- und Krankenversicherung, in die alle einzahlen.",
+      "seite": 36,
+      "zitat": "„in die alle einzahlen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Unternehmerin bewertet Sabine Sozialversicherung auch über Lohnnebenkosten und unternehmerische Flexibilität. Eine Einheitsversicherung klingt für sie nach weiteren Pflichtlasten, solange unklar bleibt, wie Betriebsinhaber und Arbeitgeber konkret belastet werden.",
+      "begruendung_selbst": "Bei jeder guten Idee steht am Ende wieder jemand mit einem Beitragsbescheid vor meiner Tür.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Integration ja, Zusatzpflicht nein",
+      "thema": "integration",
+      "programmpunkt": "Bei angeworbenen Fachkräften sollen Arbeitgeber früh eingebunden werden und auch bei Wohnung, Schule und Kindergarten unterstützen.",
+      "seite": 63,
+      "zitat": "„verpflichtet werden, auch Unterstützung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine ist offen für Fachkräfte, wenn Qualifikation und Regeln stimmen. Eine zusätzliche Verpflichtung für Arbeitgeber bei privaten Integrationsfragen empfindet sie aber als weitere Aufgabe, die kleine Betriebe organisatorisch kaum stemmen können.",
+      "begruendung_selbst": "Ich brauche Fachkräfte, aber ich kann nicht nebenbei Wohnungsamt und Schulberater spielen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Staat verdrängt Betriebe",
+      "thema": "wirtschaft",
+      "programmpunkt": "Zentrale Bereiche der Daseinsvorsorge wie Energie, Wasser, Abfall und Wohnen sollen rekommunalisiert und Privatisierungen gestoppt werden.",
+      "seite": 76,
+      "zitat": "„nicht in renditeorientierte Privatstrukturen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine misstraut großen Konzernen, denkt aber grundsätzlich unternehmerisch und mittelstandsorientiert. Eine starke Rekommunalisierungslogik kann für sie nach weniger Wettbewerb, weniger privaten Chancen und mehr politischer Steuerung klingen.",
+      "begruendung_selbst": "Nicht jeder private Betrieb ist ein Konzern, manche machen einfach solide Arbeit vor Ort.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet im BSW-Programm viele direkte Anknüpfungspunkte: Mittelstandsförderung, weniger Bürokratie, digitale Verwaltung, bezahlbare Energie und eine praxisnahe Wärmewende sprechen ihre Betriebslage stark an. Gleichzeitig reibt sie sich an stärker staatlich geprägten und arbeitsmarktpolitisch verpflichtenden Ansätzen, besonders Tarifbindung, Mindestlohn, mögliche Steuerreformen bei der Nachfolge und zusätzliche Arbeitgeberpflichten. Insgesamt überwiegt für sie die mittelstands- und handwerksnahe Resonanz, aber mit deutlichen Vorbehalten bei Kosten und Eingriffen.",
+    "score": 1
+  }
+}

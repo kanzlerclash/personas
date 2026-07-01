@@ -1,0 +1,126 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 64008,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Honorare, nicht Applaus!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke will bei öffentlich geförderten Kulturprojekten verbindliche Mindesthonorare für Künstlerinnen und Künstler einführen.",
+      "seite": 70,
+      "zitat": "verbindliche Mindesthonorare für Künstler:innen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike lebt von kreativer Arbeit und kennt den Druck, dass Sichtbarkeit oft als Ersatz für Bezahlung behandelt wird. Verbindliche Mindesthonorare treffen ihren Kernwunsch nach fairen Regeln für Selbstständige im Kultur- und Kreativbereich.",
+      "begruendung_selbst": "Genau das ist mein Thema: Ich kann meine Miete nicht mit Reichweite bezahlen. Wenn öffentliche Projekte Mindesthonorare setzen, zieht das endlich eine Unterkante ein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Basishonorare geben Luft",
+      "thema": "wirtschaft",
+      "programmpunkt": "Für die freie Kulturszene und alternative Kulturzentren sollen verlässliche Finanzierungen, Tarifbindung und Basishonorare für Selbstständige abgesichert werden.",
+      "seite": 71,
+      "zitat": "Basishonorare für Selbstständige",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das spricht Mareikes prekäre Zwischenlage direkt an: Sie ist nicht angestellt, braucht aber trotzdem planbare Untergrenzen. Basishonorare würden das Risiko einzelner schwacher Monate nicht lösen, aber ihre Verhandlungsposition verbessern.",
+      "begruendung_selbst": "Wenn schon Projektarbeit, dann bitte mit einer Basis, auf der ich nicht jedes Mal bei null anfange. Basishonorare klingen nach weniger Betteln und mehr Beruf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Projekt-Hamsterrad",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke fordert in der Kulturförderung langfristige institutionelle und überjährige Förderinstrumente statt kurzfristiger Projektförderung.",
+      "seite": 71,
+      "zitat": "überjährige Förderinstrumente in allen Kulturbereichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist von Förderlogiken betroffen, die Kreative ständig in Akquise, Nachweise und Vorfinanzierung zwingen. Längere Förderhorizonte passen zu ihrer Hoffnung auf weniger Unsicherheit und weniger administrativen Leerlauf.",
+      "begruendung_selbst": "Dieses ständige Von-Antrag-zu-Antrag macht kreative Arbeit kaputt. Wenn Förderung länger läuft, kann ich planen statt nur Formulare und Deadlines zu jonglieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erst Prozesse aufräumen",
+      "thema": "digitalisierung",
+      "programmpunkt": "Vor der Digitalisierung sollen Verwaltungsabläufe geprüft, überflüssige Aufgaben gestrichen und komplizierte Verfahren vereinfacht werden.",
+      "seite": 143,
+      "zitat": "komplizierte und widersprüchliche Verfahren vereinfacht",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist digitalaffin, aber sie leidet unter Bürokratie, die nur online verlagert wird. Der Ansatz, Prozesse zuerst zu bereinigen und dann zu digitalisieren, entspricht ihrer Erfahrung mit Steuer-, Antrags- und Verwaltungsaufwand.",
+      "begruendung_selbst": "Bitte nicht noch ein Portal für denselben Papierkram. Wenn Verwaltung wirklich einfacher wird, spare ich Stunden, die ich sonst nicht bezahlt bekomme.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digital, aber verlässlich",
+      "thema": "digitalisierung",
+      "programmpunkt": "Neue Gesetze und Verordnungen sollen einen verbindlichen Digital-Check erhalten; Verwaltungsabläufe sollen spürbar entlastet werden.",
+      "seite": 143,
+      "zitat": "spürbare Entlastung in den Abläufen der Verwaltung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Mareike zählt nicht Digitalrhetorik, sondern ob Anträge, Nachweise und Behördenkommunikation weniger Zeit fressen. Ein Digital-Check und das Ziel spürbarer Entlastung passen zu ihrer genervten Haltung gegenüber Bürokratie.",
+      "begruendung_selbst": "Ich brauche keine glänzende App, ich brauche klare Abläufe. Wenn ein Digital-Check verhindert, dass neue Regeln wieder Chaos erzeugen, merke ich das sofort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Startups mitdenken, gut",
+      "thema": "wirtschaft",
+      "programmpunkt": "Ein Wirtschaftsfonds soll Mittelstand, Handwerk und auch Startup-Gründungen bei zukunftsfähiger Umstellung und neuen Produktionsverfahren unterstützen.",
+      "seite": 90,
+      "zitat": "Gründung von Startups genutzt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike bewegt sich in digitalen und kreativen Netzwerken, in denen kleine Gründungen und flexible Projekte wichtig sind. Dass Startups im Förderinstrument ausdrücklich vorkommen, wirkt auf sie weniger industrieblind als reine Großprojektpolitik.",
+      "begruendung_selbst": "Ich will nicht, dass Förderung nur bei großen Fabriken landet. Kleine digitale und kreative Gründungen brauchen auch Zugang zu Kapital und Luft zum Ausprobieren.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Neue Steuer? Vorsicht.",
+      "thema": "steuern",
+      "programmpunkt": "Die Linke will die Gewerbesteuer zu einer Gemeindewirtschaftssteuer weiterentwickeln und dabei alle selbstständig erwirtschafteten Einkommen einbeziehen, mit Freibetrag für kleine Existenzen.",
+      "seite": 18,
+      "zitat": "mit einem einheitlichen Freibetrag von 24.500 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike reagiert empfindlich auf zusätzliche Steuer- und Beitragspflichten, weil ihre Einnahmen stark schwanken und Rücklagen dünn sind. Der Freibetrag mildert den Punkt, aber die grundsätzliche Einbeziehung selbstständiger Einkommen berührt genau ihre Sorge vor mehr Belastung und mehr Verwaltung.",
+      "begruendung_selbst": "Ein Freibetrag ist gut, aber sobald mein Jahr halbwegs okay läuft, kommt die nächste Ebene dazu. Ich brauche Vereinfachung, nicht noch eine Rechenstelle im Kopf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Angestellt gedacht, solo vergessen",
+      "thema": "arbeit",
+      "programmpunkt": "Die Arbeitspolitik des Programms konzentriert sich stark auf Beschäftigte, Tarifbindung, Betriebsräte, Vollzeitrechte und klassische Arbeitnehmerrechte.",
+      "seite": 86,
+      "zitat": "sechs Wochen Urlaub für alle Beschäftigten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike teilt den Wunsch nach guter Arbeit, fällt aber als Soloselbstständige durch viele dieser Schutzinstrumente. Für ihre zentralen Risiken wie Auftragsflaute, Krankheit, KSK und Altersvorsorge bietet dieser Abschnitt wenig direkte Antwort.",
+      "begruendung_selbst": "Sechs Wochen Urlaub klingen schön, aber ich stelle mir den Urlaub selbst in Rechnung: null Euro. Ich brauche Schutz, der auch für Leute ohne Personalabteilung funktioniert.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike würde im Programm mehrere starke Anker finden: faire Honorare, Basishonorare für Selbstständige, verlässlichere Kulturförderung und ernst gemeinte Verwaltungsvereinfachung sprechen ihre Lebenslage direkt an. Kritisch bliebe für sie die geplante Einbeziehung selbstständiger Einkommen in eine Gemeindewirtschaftssteuer und der stark arbeitnehmerzentrierte Blick vieler arbeitsmarktpolitischer Forderungen. Insgesamt überwiegt für sie die Resonanz, aber nicht ohne spürbare Vorbehalte bei Steuern und sozialer Absicherung für Solo-Selbstständige.",
+    "score": 1
+  }
+}

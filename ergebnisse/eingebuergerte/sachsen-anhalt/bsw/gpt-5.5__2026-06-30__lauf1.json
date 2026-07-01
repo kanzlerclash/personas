@@ -1,0 +1,198 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 129432,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Herkunft darf nicht zählen",
+      "thema": "integration",
+      "programmpunkt": "Das Programm stellt Teilhabe als etwas dar, das nicht von Herkunft, Wohnort oder Geld abhängen soll.",
+      "seite": 62,
+      "zitat": "„Teilhabe nicht vom Geldbeutel, der Herkunft oder dem Wohnort abhängt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin achtet sehr darauf, ob sie als selbstverständlicher Teil der Gesellschaft angesprochen wird. Diese Formulierung bestätigt ihr Grundgefühl, dass Zugehörigkeit über gleiche Rechte und Teilhabe laufen muss, nicht über Abstammung.",
+      "begruendung_selbst": "Ich will nicht jedes Mal erklären müssen, warum ich dazugehöre. Wenn Teilhabe ausdrücklich nicht an Herkunft hängt, ist das genau der richtige Maßstab.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Asyl bleibt ein Recht",
+      "thema": "integration",
+      "programmpunkt": "Das BSW bekennt sich ausdrücklich zum Asylrecht und zur Aufnahme schutzberechtigter Menschen.",
+      "seite": 62,
+      "zitat": "„steht uneingeschränkt zum Asylrecht“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin befürwortet geregelte Migration, lehnt aber Entmenschlichung und pauschale Härte ab. Ein klares Bekenntnis zum Asylrecht spricht ihre rechtsstaatliche Haltung gegenüber Schutzsuchenden an.",
+      "begruendung_selbst": "Man kann Migration ordnen und trotzdem sagen: Wer Schutz braucht, hat Rechte. Genau diese Grenze ist mir wichtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arbeit heißt dazugehören",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm beschreibt Erwerbsarbeit, Steuerzahlung und eigenständigen Lebensunterhalt als Weg in die gesellschaftliche Mitte.",
+      "seite": 63,
+      "zitat": "„gehört selbstverständlich zur Mitte der Gesellschaft“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin lebt selbst das Prinzip, dass Leistung und Beitrag zählen sollen. Die Aussage bestätigt ihre Erfahrung als berufstätige Verwaltungsangestellte mit Migrationsgeschichte.",
+      "begruendung_selbst": "Ich arbeite, zahle Steuern und übernehme Verantwortung. Dann will ich nicht als Sonderfall gelten, sondern als ganz normaler Teil der Mitte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leistung braucht Sicherheit",
+      "thema": "integration",
+      "programmpunkt": "Geduldete Menschen, die arbeiten, Steuern zahlen oder in Ausbildung sind, sollen eine verlässliche Perspektive bekommen und nicht abgeschoben werden.",
+      "seite": 64,
+      "zitat": "„dürfen nicht abgeschoben werden“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin hält eine sachliche Migrationspolitik für legitim, erwartet aber Fairness gegenüber Menschen, die sichtbar beitragen. Dieser Punkt verbindet Rechtsstatus, Arbeit und Teilhabe statt pauschaler Ausgrenzung.",
+      "begruendung_selbst": "Wenn jemand hier arbeitet oder eine Ausbildung macht, darf Politik nicht nur Druck machen. Dann braucht es auch Verlässlichkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Identität muss bleiben dürfen",
+      "thema": "integration",
+      "programmpunkt": "Integration soll laut Programm nicht bedeuten, dass Zugewanderte ihre kulturelle Identität oder Religion aufgeben müssen.",
+      "seite": 64,
+      "zitat": "„nicht Aufgabe der eigenen kulturellen Identität und Religion“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt Zugehörigkeit zwischen Mehrheitsgesellschaft und Herkunftscommunity. Die Aussage trifft ihre Vorstellung, dass Integration Anerkennung der Rechtsordnung heißt, aber keine kulturelle Selbstverleugnung.",
+      "begruendung_selbst": "Ich bin deutsch, ohne meine Familie und Herkunft wegzuwischen. Integration darf nicht heißen, dass man einen Teil von sich abgibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sicherheit mit Grundrechten",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm bindet Polizeiarbeit ausdrücklich an Rechtsstaat, Grundrechte und verhältnismäßiges Handeln.",
+      "seite": 66,
+      "zitat": "„Schutz des demokratischen Rechtsstaates und der Grundrechte der Bürger“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin will Sicherheit ohne pauschalen Verdacht gegen Menschen mit Migrationsgeschichte. Eine rechtsstaatlich gebundene Sicherheitspolitik entspricht ihrem Bedürfnis nach Schutz und Freiheit zugleich.",
+      "begruendung_selbst": "Ich will sichere Straßen, aber nicht als Verdachtsfall behandelt werden. Polizei muss schützen und an Grundrechte gebunden bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gleiche Rechte, klar gesagt",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm nennt Diskriminierungsverhinderung und gleiche Rechte für alle Bürger als Ziel.",
+      "seite": 39,
+      "zitat": "„Diskriminierung verhindern und gleiche Rechte für alle Bürger sichern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Aylin ist Diskriminierungsschutz kein Nebenthema, sondern Teil ihrer Alltagssicherheit. Die Zielmarke passt zu ihrer liberal-demokratischen Erwartung an staatliche Institutionen.",
+      "begruendung_selbst": "Gleiche Rechte dürfen nicht nur auf dem Papier stehen. Ich will, dass der Staat Diskriminierung wirklich ernst nimmt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht wieder Problemfall Migration",
+      "thema": "integration",
+      "programmpunkt": "Das Programm fordert, ungeregelte und illegale Migration umgehend zu stoppen.",
+      "seite": 62,
+      "zitat": "„umgehend zu stoppen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin akzeptiert klare Steuerung, reagiert aber wachsam auf eine Migrationssprache, die schnell von Ordnung zu Abwehr kippen kann. Die harte Stopplogik steht für sie in einem Ton, der Migrantinnen und Migranten vor allem als Belastung rahmt.",
+      "begruendung_selbst": "Ja, Regeln sind wichtig. Aber sobald Migration nur noch nach Stopp und Abwehr klingt, frage ich mich, ob am Ende wieder Menschen wie ich mitgemeint sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bin ich nicht heimisch?",
+      "thema": "integration",
+      "programmpunkt": "Das Programm stellt eine „heimische Bevölkerung“ einer möglichen Überlastung durch Migration gegenüber.",
+      "seite": 62,
+      "zitat": "„heimische Bevölkerung ist vor Überlastungstendenzen zu schützen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Formulierung trifft Aylins Kernverletzung: Trotz Geburt und Staatsbürgerschaft kann sie sich durch solche Gegensätze aus dem „Heimischen“ herausgeschrieben fühlen. Das widerspricht ihrem Menschenbild, nach dem Zugehörigkeit rechtlich und durch Teilhabe bestimmt wird.",
+      "begruendung_selbst": "Ich bin hier geboren. Wenn von der heimischen Bevölkerung gegen Migration gesprochen wird, klingt es, als wäre ich trotz Pass nicht richtig gemeint.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Straftaten nicht ethnisieren",
+      "thema": "sicherheit",
+      "programmpunkt": "Bei Abschiebungen hebt das Programm straffällig gewordene Migranten gesondert hervor.",
+      "seite": 62,
+      "zitat": "„Migranten straffällig werden“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin unterstützt Konsequenzen bei Straftaten unabhängig von Herkunft. Die gesonderte Markierung von „Migranten“ in einem Sicherheitskontext verstärkt für sie aber den Verdacht, dass Kriminalität mit Herkunft verknüpft wird.",
+      "begruendung_selbst": "Kriminalität muss verfolgt werden, egal von wem. Aber ich will nicht, dass Herkunft immer zuerst genannt wird, sobald es um Sicherheit geht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kinder sind keine Quote",
+      "thema": "bildung",
+      "programmpunkt": "Das Programm will eine prozentuale Verteilung von „Ausländerkindern“ in Kindergärten und nennt eine Obergrenze von 30 Prozent.",
+      "seite": 65,
+      "zitat": "„Quote von 30 % nicht überschritten werden sollte“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin erkennt Bildungs- und Sprachförderung als wichtig an, aber die Quotierung von Kindern nach Ausländerstatus verletzt ihren Würde- und Gleichbehandlungsmaßstab. Sie würde darin eine institutionelle Sortierung sehen, die Kinder früh als Problemgruppe markiert.",
+      "begruendung_selbst": "Fördert Kinder, verteilt Chancen, baut gute Kitas. Aber Kinder nach Ausländerquote zu sortieren, fühlt sich falsch und entwürdigend an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dieses Wort macht klein",
+      "thema": "integration",
+      "programmpunkt": "Das Programm beschreibt die Verteilung von Zuwandererkindern als Maßnahme, bis „Ghettoisierung“ aufgehoben sei.",
+      "seite": 65,
+      "zitat": "„bis die Ghettoisierung von Zuwanderern aufgehoben ist“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Der Begriff ist für Aylin stark stigmatisierend, weil er ganze Wohn- und Familienmilieus abwertet. Er berührt ihre Sorge, dass Menschen mit Migrationsgeschichte nicht als Bürger, sondern als Problemzone beschrieben werden.",
+      "begruendung_selbst": "Wenn unsere Viertel und Familien als Ghetto beschrieben werden, macht das etwas mit einem. So schafft man keine Zugehörigkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnen nach Herkunft?",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm fordert Obergrenzen für Wohnungen mit Zuwanderern in Wohnvierteln, um Konzentrationen zu reduzieren.",
+      "seite": 65,
+      "zitat": "„Obergrenze für die Belegung von Wohnungen mit Zuwanderern“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin kann durchmischte Stadtentwicklung nachvollziehen, lehnt aber herkunftsbezogene Wohnobergrenzen ab. Für sie klingt das nach Verwaltung von Menschen nach Gruppenstatus statt nach fairer Wohnungs- und Sozialpolitik.",
+      "begruendung_selbst": "Gute Stadtteile entstehen nicht dadurch, dass man Menschen mit Migrationsgeschichte wie eine Belastungszahl behandelt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Moscheen unter Verdacht",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm nennt Zusammenarbeit mit Moschee-Gemeinden ausdrücklich zur Verhinderung islamistischer Unterwanderungen.",
+      "seite": 65,
+      "zitat": "„islamistische Unterwanderungen zu verhindern“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin befürwortet Extremismusprävention, aber sie achtet genau auf pauschalisierende Sicherheitsframes gegenüber muslimischen Communities. Diese Formulierung setzt Moschee-Gemeinden vor allem in einen Verdachtsrahmen.",
+      "begruendung_selbst": "Prävention ja, aber nicht so, dass ganze Gemeinden zuerst nach Gefahr klingen. Viele Menschen wollen einfach ihren Glauben leben und dazugehören.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin würde im BSW-Programm echte Anknüpfungspunkte sehen: Teilhabe unabhängig von Herkunft, Schutz des Asylrechts, Arbeitsmarktintegration, Grundrechte und Datenschutz sprechen sie an. Gleichzeitig würde sie die migrationspolitische Sprache an mehreren Stellen als ausgrenzend erleben, besonders die Gegenüberstellung von „heimischer Bevölkerung“ und Migration sowie Quoten- und Obergrenzenlogiken für Kinder und Wohnviertel. Insgesamt überwiegt für sie leicht das Misstrauen, weil gerade ihr zentrales Zugehörigkeitsthema mehrfach negativ berührt wird.",
+    "score": -1
+  }
+}

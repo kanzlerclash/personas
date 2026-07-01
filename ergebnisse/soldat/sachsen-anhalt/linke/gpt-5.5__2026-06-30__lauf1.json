@@ -1,0 +1,174 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 73119,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Rechte Strukturen klar angehen",
+      "thema": "demokratie",
+      "programmpunkt": "Die Linke will rechtsextreme Strukturen vor Ort mit Beratung, demokratischen Beteiligungsstrukturen sowie Polizei und Justiz zurückdrängen.",
+      "seite": 15,
+      "zitat": "Rechtsextremismus entwaffnen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan ist verfassungstreu und erwartet, dass der Staat demokratiefeindliche Kräfte ernst nimmt. Die Verbindung aus Zivilgesellschaft, Gesetzen, Polizei und Justiz passt zu seiner Erwartung einer wehrhaften Demokratie.",
+      "begruendung_selbst": "Wer unsere Ordnung angreift, darf vor Ort keinen Raum bekommen. Da will ich einen Staat sehen, der klar bleibt und seine Leute schützt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Moderne Kriminalität ernst nehmen",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm setzt auf spezialisierte Einheiten gegen Cybercrime, Wirtschaftskriminalität und KI-gestützte Manipulation.",
+      "seite": 127,
+      "zitat": "Cybercrime, Wirtschaftskriminalität und KI - gestützte Manipulation",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan bewertet Sicherheit nicht nur klassisch, sondern auch als Fähigkeit des Staates, neue Bedrohungen zu beherrschen. Technisch gut aufgestellte Ermittlungsstrukturen wirken auf ihn ernsthafter als bloße Symbolpolitik.",
+      "begruendung_selbst": "Bedrohungen laufen heute auch digital und organisiert. Dafür braucht es Leute, Technik und klare Zuständigkeiten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Präsenz hilft",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke verspricht 500 zusätzliche Polizeistellen bis 2030 und verbindet das mit mehr Präsenz und Bürgernähe.",
+      "seite": 128,
+      "zitat": "500 neue Polizeistellen bis 2030",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan findet konkrete personelle Verstärkung bei Sicherheitsbehörden plausibel. Auch wenn er selbst Soldat ist, bestätigt der Punkt seine Grundhaltung, dass Sicherheit einsatzfähige Institutionen braucht.",
+      "begruendung_selbst": "Auftrag ohne Personal funktioniert nicht. Wenn die Polizei mehr Präsenz leisten soll, braucht sie auch Stellen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Katastrophenschutz braucht Material",
+      "thema": "sicherheit",
+      "programmpunkt": "Feuerwehr, THW und Rettungsdienste sollen mit moderner Ausstattung, genug Personal und regelmäßiger Schulung gestärkt werden.",
+      "seite": 130,
+      "zitat": "modernem Equipment, ausreichend Personal und regelmäßiger Schulung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Fokus auf Ausstattung und Ausbildung spricht Stefan unmittelbar an, weil er aus dem Dienst weiß, dass Einsatzbereitschaft materiell abgesichert sein muss. Die Anerkennung von THW und Rettungsdiensten passt zu seinem Sicherheitsverständnis.",
+      "begruendung_selbst": "Das klingt nach Praxis: Material, Personal, Ausbildung. Genau daran entscheidet sich im Einsatz, ob etwas funktioniert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Familie planbarer machen",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm fordert familienfreundliche Schichtmodelle und bessere Arbeitsbedingungen für Beschäftigte.",
+      "seite": 86,
+      "zitat": "familienfreundliche Schichtmodelle",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan lebt mit Dienstzeiten, Übungen und Versetzungen; planbare Arbeitsmodelle berühren daher seine familiäre Lebensplanung. Auch wenn die Forderung nicht speziell für Soldaten formuliert ist, trifft sie seinen Wunsch nach Vereinbarkeit.",
+      "begruendung_selbst": "Dienst geht vor, aber Familie muss planbar bleiben. Schichtmodelle, die das ernst nehmen, sind kein Luxus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Cyberangriffe vorbereiten",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungen sollen verbindliche Notfallpläne für Cyberangriffe bekommen und ihre IT-Sicherheit ausbauen.",
+      "seite": 142,
+      "zitat": "Notfallpläne für Cyberangriffe in allen Verwaltungen verbindlich machen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan sieht staatliche Resilienz als Teil moderner Sicherheitsvorsorge. Verbindliche Notfallpläne wirken auf ihn wie nüchterne Vorbereitung statt bloßer Ankündigung.",
+      "begruendung_selbst": "Wenn Verwaltung ausfällt, merkt das jeder sofort. Für Cyberangriffe braucht man vorher einen Plan, nicht erst danach.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Keine Schwächung der Einsatzbereitschaft",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Linke stellt sich gegen höhere Militärausgaben und rahmt diese vor allem als Vorteil für Rüstungskonzerne.",
+      "seite": 13,
+      "zitat": "gegen die Erhöhung der Militärausgaben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan ist ausreichende Finanzierung eine Voraussetzung für Material, Ausbildung und Einsatzbereitschaft. Eine pauschale Ablehnung höherer Militärausgaben steht seinem Kerninteresse direkt entgegen.",
+      "begruendung_selbst": "Ich erlebe Materialmängel nicht als Konzernfrage, sondern im Dienstalltag. Ohne Geld wird die Truppe nicht einsatzfähiger.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wehrfähigkeit nicht wegreden",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm lehnt die schrittweise Einführung der Wehrpflicht ausdrücklich ab.",
+      "seite": 13,
+      "zitat": "gegen die schrittweise Einführung der Wehrpflicht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan bewertet Wehrfähigkeit aus der Bedrohungslage an der Ostflanke heraus. Eine kategorische Ablehnung der Wehrpflicht signalisiert ihm, dass die Partei Personal- und Reservefragen nicht mit der nötigen Härte betrachtet.",
+      "begruendung_selbst": "Über Modelle kann man reden. Aber pauschal dagegen zu sein, passt nicht zur Lage, die wir gerade haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Standorte sind Sicherheit",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Linke wendet sich gegen militärische Nutzung von Infrastruktur wie dem Flughafen Leipzig-Halle und gegen weitere Aufrüstung am Standort Holzdorf.",
+      "seite": 13,
+      "zitat": "gegen die militärische Nutzung des Flughafens Leipzig - Halle",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan denkt in Einsatzwegen, Standorten und logistischer Verfügbarkeit. Forderungen gegen militärische Nutzung und Hochrüstung von Standorten wirken auf ihn wie eine Schwächung der Verteidigungsinfrastruktur.",
+      "begruendung_selbst": "Standorte und Logistik sind kein Nebenthema. Wenn es ernst wird, zählt, was nutzbar und vorbereitet ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Europa darf nicht wehrlos sein",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei lehnt es ab, die EU zu einem militärisch handlungsfähigeren Akteur zu machen.",
+      "seite": 95,
+      "zitat": "die EU zu einem weiteren militärischen Akteur",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan setzt auf Bündnisse und europäische Handlungsfähigkeit, gerade angesichts des Kriegs in der Ukraine. Die Ablehnung einer militärischen Rolle der EU klingt für ihn nach strategischer Selbstbeschränkung.",
+      "begruendung_selbst": "Diplomatie braucht Rückhalt. Europa muss im Bündnis handlungsfähig sein, sonst nehmen uns Gegner nicht ernst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abrüstung allein reicht nicht",
+      "thema": "verteidigung",
+      "programmpunkt": "Im Klimakapitel fordert die Linke eine friedensorientierte Politik mit Diplomatie, Abrüstung und internationaler Zusammenarbeit.",
+      "seite": 122,
+      "zitat": "auf Diplomatie, Abrüstung und internationale Zusammenarbeit setzt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan teilt das Ziel von Frieden, aber nicht die Priorität von Abrüstung in der aktuellen Bedrohungslage. Für ihn fehlt hier das klare Bekenntnis zu Abschreckung, Bündnisfähigkeit und Schutzauftrag.",
+      "begruendung_selbst": "Frieden will jeder. Aber Abrüstung als Antwort auf Bedrohung hilft mir an der Ostflanke nicht weiter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz nicht abschaffen",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke bezeichnet den Verfassungsschutz in seiner jetzigen Form als überflüssig und will ihn langfristig durch eine Agentur für Demokratie und Menschenrechte ersetzen.",
+      "seite": 129,
+      "zitat": "Ein Verfassungsschutz in seiner jetzigen Form ist überflüssig.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erwartet von einer wehrhaften Demokratie auch nachrichtendienstliche Aufklärung gegen verfassungsfeindliche Bestrebungen. Die Formulierung wirkt auf ihn wie ein institutioneller Rückbau in einer angespannten Sicherheitslage.",
+      "begruendung_selbst": "Politische Bildung ist wichtig, aber sie ersetzt keine Aufklärung. Eine wehrhafte Demokratie braucht auch Frühwarnsysteme.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet im Programm einige Punkte, die seinem Bedürfnis nach handlungsfähigen Sicherheitsinstitutionen entsprechen, besonders bei Polizei, Katastrophenschutz, Cyberabwehr und Rechtsextremismusbekämpfung. Der Kernbereich Verteidigung fällt für ihn jedoch klar negativ aus: Die Ablehnung höherer Militärausgaben, von Wehrpflichtdebatten, militärischer Infrastruktur und EU-Wehrfähigkeit trifft seine berufliche Lage und sein Bündnisverständnis direkt. Insgesamt überwiegt für ihn deshalb trotz einzelner innenpolitischer Zustimmung die Skepsis.",
+    "score": -1
+  }
+}

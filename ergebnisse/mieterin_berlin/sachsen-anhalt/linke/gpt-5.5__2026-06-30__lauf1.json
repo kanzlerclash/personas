@@ -1,0 +1,150 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 96784,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mieten brauchen Grenzen",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will in Sachsen-Anhalt eine Mietpreisbremse ermöglichen und die gemeinnützige Wohnungswirtschaft stärken.",
+      "seite": 82,
+      "zitat": "„uns für eine Mietpreisbremse einsetzen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla bewertet Wohnungspolitik zuerst danach, ob sie Mieten wirksam begrenzt. Eine Mietpreisbremse und gemeinnützige Wohnungswirtschaft passen direkt zu ihrer Angst vor steigenden Grundmieten und Verdrängung.",
+      "begruendung_selbst": "Genau das will ich hören: Mieten dürfen nicht einfach weiterlaufen, bis niemand aus dem Kiez mehr bleiben kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Holt Häuser zurück",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will Kommunen mit einem Rekommunalisierungsfonds dabei unterstützen, Immobilien und Grundstücke in öffentliche Hand zu bringen.",
+      "seite": 83,
+      "zitat": "„Immobilien und Grundstücke in die öffentliche Hand zu holen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht private Renditelogik als Kern ihres Wohnungsrisikos. Öffentliche Kontrolle über Boden und Gebäude bestätigt ihre Vorstellung, dass Wohnen Daseinsvorsorge statt Anlageprodukt sein soll.",
+      "begruendung_selbst": "Wenn Häuser wieder der Stadt gehören, entscheidet wenigstens nicht nur die Rendite über mein Zuhause.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Diese Umlage muss weg",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke fordert, die Modernisierungsumlage abzuschaffen und Sanierungen sowie Heizungstausch warmmietenneutral zu organisieren.",
+      "seite": 84,
+      "zitat": "„die Modernisierungsumlage abschaffen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Modernisierungsumlage ist eine von Carlas ausdrücklich genannten Hauptsorgen. Der Programmpunkt trifft ihre konkrete Angst vor dem Brief im Hausflur und vor Verdrängung durch Sanierung.",
+      "begruendung_selbst": "Das ist mein Albtraum als Mieterin: Modernisierung als Kündigung durch die Hintertür. Weg damit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine kalte Wohnung",
+      "thema": "energie",
+      "programmpunkt": "Das Programm will Strom- und Gassperren verbieten, Sockeltarife einführen und Härtefallhilfen bei Energieschulden schaffen.",
+      "seite": 106,
+      "zitat": "„Strom und eine warme Wohnung ein Grundrecht sind“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla hat ein mittleres Einkommen, aber hohe Wohn- und Nebenkosten bedrohen ihre finanzielle Stabilität. Energie als bezahlbare Daseinsvorsorge passt zu ihrer Erwartung, dass Grundbedürfnisse nicht dem Markt überlassen werden.",
+      "begruendung_selbst": "Eine warme Wohnung darf nicht davon abhängen, ob der nächste Abschlag noch irgendwie passt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV statt Autodruck",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will den ÖPNV ausbauen, mehr Mittel einsetzen und langfristig kostenlosen Nahverkehr für alle erreichen.",
+      "seite": 102,
+      "zitat": "„langfristig kostenfreien ÖPNV für Alle“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt ohne Auto und verbindet eine gute Stadt mit verlässlichem, bezahlbarem Nahverkehr. Kostenfreier ÖPNV bestätigt ihren Wunsch nach Mobilität als öffentlicher Infrastruktur.",
+      "begruendung_selbst": "Ich brauche keine Autoprämien, ich brauche Busse und Bahnen, die funktionieren und bezahlbar sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Räder ernst nehmen",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm fordert breite, durchgängige Radwege, Radschnellwege, Fahrradstraßen und bessere Verknüpfung mit Bahnstationen.",
+      "seite": 104,
+      "zitat": "„Radschnellwege und Fahrradstraßen systematisch ausbauen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla bewegt sich im Alltag mit ÖPNV und Rad. Mehr sichere Radinfrastruktur entspricht ihrer Vorstellung einer autoärmeren, alltagstauglichen Stadt.",
+      "begruendung_selbst": "Ich will nicht mutig sein müssen, nur weil ich mit dem Rad zur Arbeit fahre.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Daseinsvorsorge bleibt öffentlich",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei lehnt Privatisierung öffentlichen Eigentums ab und will strategische Infrastruktur rekommunalisieren.",
+      "seite": 19,
+      "zitat": "„öffentlichen Eigentums“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla misstraut Marktlogik bei Grundbedürfnissen und sieht Investoreninteressen als Gegenpol zu sozialer Sicherheit. Die klare Anti-Privatisierungsposition bestätigt ihre Sicht auf Wohnen, Energie, Gesundheit und Infrastruktur.",
+      "begruendung_selbst": "Öffentliche Dinge gehören nicht in Geschäftsmodelle, die am Ende meine Miete und meine Rechnungen hochtreiben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Das Auto bleibt zu bequem",
+      "thema": "verkehr",
+      "programmpunkt": "Trotz ÖPNV-Schwerpunkt betont das Programm, dass der Pkw für schlecht angebundene Dörfer wichtig und bezahlbar bleiben müsse.",
+      "seite": 101,
+      "zitat": "„der PKW für Menschen in Dörfern ohne Anbindung“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla versteht die ländliche Lage, wünscht sich aber konsequente Priorität für ÖPNV und autoarme Mobilität. Die starke Absicherung des Pkw klingt für sie nach einem Zugeständnis an alte Verkehrslogik.",
+      "begruendung_selbst": "Ich sehe das Problem auf dem Land, aber bezahlbare Autos dürfen nicht wieder die Antwort auf kaputten Nahverkehr werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Straßenneubau bleibt offen",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will Straßenneubau unter bestimmten Bedingungen weiterhin ermöglichen, etwa bei Verbesserungen für den Umweltverbund oder ländliche Anbindung.",
+      "seite": 104,
+      "zitat": "„Neubau dort realisieren“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla denkt Verkehr aus einer urbanen, autoarmen Perspektive und ist skeptisch gegenüber zusätzlicher Straßeninfrastruktur. Auch mit Einschränkungen wirkt der offene Neubau-Korridor weniger konsequent als ihre gewünschte Verkehrswende.",
+      "begruendung_selbst": "Bei Straßenneubau gehen bei mir die Alarmglocken an. Am Ende wächst doch wieder der Autoverkehr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigenheime wieder zuerst?",
+      "thema": "wohnen",
+      "programmpunkt": "Neben Mieterschutz und sozialem Wohnungsbau will das Programm auch energetische Sanierung und Heizungstausch bei selbstgenutzten Eigenheimen fördern.",
+      "seite": 85,
+      "zitat": "„energetische Sanierung“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla hat kein Wohneigentum und erlebt Eigentum in der Stadt als unerreichbar. Obwohl die Förderung sozial gestaffelt sein soll, reagiert sie empfindlich, wenn öffentliche Wohnmittel auch in Eigentümerhaushalte fließen, während Mieterinnen existenziell unter Druck stehen.",
+      "begruendung_selbst": "Ich gönne niemandem kalte Häuser, aber Mieterinnen kämpfen um ihr Zuhause. Da muss Mieterschutz zuerst kommen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla würde das Programm insgesamt klar positiv lesen, weil es ihre Kernpunkte Mietbegrenzung, öffentliche Kontrolle, Abschaffung der Modernisierungsumlage, warmmietenneutrale Sanierung und starken ÖPNV breit aufgreift. Besonders stark resoniert die wiederkehrende Idee, Wohnen, Energie, Gesundheit und Infrastruktur als Daseinsvorsorge statt als Renditefelder zu behandeln. Irritationen bleiben vor allem dort, wo das Programm Pkw-Bezahlbarkeit, Straßenneubau oder Eigenheimförderung offenhält.",
+    "score": 2
+  }
+}

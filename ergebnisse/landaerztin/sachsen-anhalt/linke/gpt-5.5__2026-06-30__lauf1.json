@@ -1,0 +1,198 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 72687,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Versorgung zusammen denken",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will ambulante, stationäre und Notfallversorgung stärker verzahnen und gerade im ländlichen Raum intersektorale Gesundheitszentren entwickeln.",
+      "seite": 52,
+      "zitat": "vor allem im ländlichen Raum",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra erlebt täglich, dass getrennte Zuständigkeiten zwischen Praxis, Klinik, Pflege und Rettung Zeit kosten. Eine sektorenübergreifende Struktur im ländlichen Raum trifft ihren Kernwunsch nach verlässlicher Versorgung ohne Zuständigkeitslücken.",
+      "begruendung_selbst": "Wenn Praxis, Krankenhaus und Pflege nicht nebeneinanderher arbeiten, kommen meine Patientinnen und Patienten schneller an die richtige Hilfe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "MVZ statt weißer Flecken",
+      "thema": "gesundheit",
+      "programmpunkt": "Ambulante und stationäre Versorgung sollen gemeinsam geplant werden; Medizinische Versorgungszentren werden als Absicherung für unterversorgte Orte genannt.",
+      "seite": 53,
+      "zitat": "ambulante und stationäre Versorgung nicht mehr getrennt plant",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre größte Sorge ist, dass nach ihrem Ruhestand niemand die Patienten übernimmt. Konkrete MVZ-Lösungen für unterversorgte Orte entsprechen ihrer Suche nach tragfähigen Nachfolgemodellen im ländlichen Raum.",
+      "begruendung_selbst": "Wenn keine Nachfolgerin kommt, braucht der Ort trotzdem eine Anlaufstelle. Ein gut gemachtes MVZ kann genau das auffangen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Private-Equity raus aus MVZ",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will verhindern, dass Private-Equity-Gesellschaften Pflegeeinrichtungen und MVZ aufkaufen, auf Rendite trimmen und weiterverkaufen.",
+      "seite": 55,
+      "zitat": "sie auf Profite trimmen und teuer weiterverkaufen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra ist kritisch gegenüber Renditelogik in der Grundversorgung. Der Schutz medizinischer Versorgungszentren vor kapitalgetriebenen Investoren passt zu ihrer Haltung, dass Versorgung nicht zum Anlageobjekt werden darf.",
+      "begruendung_selbst": "Eine Praxis ist keine Renditemaschine. Wer Versorgung kauft, um sie teuer weiterzudrehen, hat meine Patienten nicht im Blick.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Landarztquote hilft wirklich",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will dem Fachärztemangel durch weitere Landarztquoten und stärkere Haltefaktoren für Landeskinder entgegenwirken.",
+      "seite": 55,
+      "zitat": "Wir wirken dem Fachärztemangel durch weitere Landarztquoten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nachfolge und Nachwuchs sind für Dr. Petra existenziell. Landarztquoten und regionale Bindung sind aus ihrer Sicht konkrete Instrumente, um junge Ärztinnen und Ärzte überhaupt in ländliche Praxen zu bringen.",
+      "begruendung_selbst": "Ich brauche keine Sonntagsrede über den ländlichen Raum, ich brauche junge Kolleginnen und Kollegen, die hier bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Medimobil entlastet Dörfer",
+      "thema": "gesundheit",
+      "programmpunkt": "Für die ambulante Versorgung auf dem Land sollen Medimobile und Telemedizin eingesetzt werden.",
+      "seite": 55,
+      "zitat": "Einsatz von Medimobil und Telemedizin",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Viele ihrer älteren Patienten schaffen lange Wege zur Praxis oder Facharztstelle kaum. Mobile Angebote können Versorgung näher an die Menschen bringen und ihre Praxis bei Hausbesuchen ergänzen.",
+      "begruendung_selbst": "Wenn der Bus nicht fährt und die Beine nicht mehr mitmachen, muss Medizin eben auch zu den Leuten kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ohne Auto trotzdem zum Arzt",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will in dünn besiedelten Regionen den ÖPNV ausbauen und jede Gemeinde an den öffentlichen Nahverkehr anschließen.",
+      "seite": 101,
+      "zitat": "in den dünn besiedelten Regionen den ÖPNV ausbauen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra sieht, wie Mobilitätsarmut medizinische Versorgung verschlechtert. Bessere Bus- und Bahnanschlüsse würden besonders älteren oder führerscheinlosen Patienten helfen, Termine wahrzunehmen.",
+      "begruendung_selbst": "Viele meiner Patienten verpassen Termine nicht aus Nachlässigkeit, sondern weil sie schlicht nicht hinkommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digital erst aufräumen",
+      "thema": "digitalisierung",
+      "programmpunkt": "Vor Digitalisierung sollen Verwaltungsprozesse geprüft, doppelte oder widersprüchliche Abläufe gestrichen und erst danach Technik eingesetzt werden.",
+      "seite": 143,
+      "zitat": "Überflüssige Aufgaben werden gestrichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre Erfahrung mit TI, eAU und Formularlast macht sie skeptisch gegenüber Digitalisierung ohne Prozessreform. Der Ansatz, erst Abläufe zu vereinfachen und dann zu digitalisieren, trifft genau ihre Praxisperspektive.",
+      "begruendung_selbst": "Bitte nicht noch ein Portal auf kaputte Abläufe setzen. Erst streichen, dann digitalisieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Angst vor ePA",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Linke will Datenschutz- und Sicherheitslücken in der elektronischen Patientenakte schließen und digitale Gesundheitsanwendungen wissenschaftlich bewerten.",
+      "seite": 55,
+      "zitat": "gefährliche Lücken bei Datenschutz und Datensicherheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra wünscht funktionierende Digitalisierung, aber nicht auf Kosten sensibler Patientendaten. Sicherheits- und Evidenzanforderungen an ePA und digitale Anwendungen entsprechen ihrer pragmatischen Vorsicht.",
+      "begruendung_selbst": "Digitale Akten können helfen, aber nur, wenn meine Patienten sich auf Datenschutz und Nutzen verlassen können.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht pauschal gegen Praxen",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm unterstellt niedergelassenen Ärztinnen und Ärzten wegen der Zwei-Klassen-Medizin ein strukturelles Interesse, Praxen in bessere Wohnlagen zu verlagern.",
+      "seite": 54,
+      "zitat": "Niedergelassene Ärzt:innen haben auch durch die Zwei - Klassen - Medizin",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als niedergelassene Landärztin fühlt Dr. Petra sich von dieser pauschalen Deutung ihrer Berufsgruppe nicht gesehen. Ihre Standortfrage hängt an Nachfolge, Personal, Budgetierung und Arbeitslast, nicht an einem Wunsch nach wohlhabender Kundschaft.",
+      "begruendung_selbst": "Ich sitze hier nicht auf dem Dorf, weil es bequem ist. Solche Unterstellungen helfen keiner einzigen Praxis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Planung ersetzt keine Nachfolge",
+      "thema": "gesundheit",
+      "programmpunkt": "Versorgungsbezirke sollen kleiner bemessen und von Ländern und Kommunen bestimmt werden.",
+      "seite": 54,
+      "zitat": "von Ländern und Kommunen bestimmt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra ist offen für staatliche Verantwortung, aber skeptisch gegenüber Steuerung, die zusätzliche Planungsebenen schafft. Kleinere Bezirke lösen für sie noch keine Praxisnachfolge, wenn Arbeitsbedingungen und Bürokratie in der Niederlassung unattraktiv bleiben.",
+      "begruendung_selbst": "Man kann Bezirke neu zeichnen, aber davon sitzt morgen noch keine Ärztin in meiner Sprechstunde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Telemedizin nicht obendrauf",
+      "thema": "digitalisierung",
+      "programmpunkt": "Digitale Sprechstunden sollen in mindestens der Hälfte aller Hausarztpraxen ausgebaut werden.",
+      "seite": 150,
+      "zitat": "in mindestens 50 Prozent aller Hausarztpraxen ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sie befürwortet Telemedizin, wenn sie funktioniert und entlastet. Als Zielquote für Hausarztpraxen klingt es für sie aber nach neuer Erwartung an ohnehin überlastete Praxen, solange Technik, Vergütung und Assistenz nicht konkret geregelt sind.",
+      "begruendung_selbst": "Telemedizin ist gut, wenn sie mir Arbeit abnimmt. Als neue Pflicht oben drauf wird sie zum nächsten Abendprogramm.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratiekritik nicht abwürgen",
+      "thema": "demokratie",
+      "programmpunkt": "Beim Bürokratieabbau warnt das Programm stark vor Personalabbau und kritisiert das Schimpfen auf Bürokratie als vergiftend.",
+      "seite": 145,
+      "zitat": "Das ständige Schimpfen auf „die Bürokratie“ vergiftet",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra greift nicht einzelne Verwaltungsbeschäftigte an, leidet aber real unter Formular-, Nachweis- und Technikpflichten. Die Formulierung könnte bei ihr den Eindruck erzeugen, dass ihre konkrete Entlastungsforderung moralisch abgewehrt wird.",
+      "begruendung_selbst": "Ich schimpfe nicht auf Menschen im Amt. Ich will nur endlich weniger Formulare nach der Sprechstunde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Neue Steuer, neue Arbeit",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke will eine Gemeindewirtschaftssteuer, bei der alle wirtschaftlich Tätigen zur Infrastruktur beitragen sollen, auch wenn Kleinselbstständige entlastet werden sollen.",
+      "seite": 80,
+      "zitat": "alle wirtschaftlich Tätigen ihren Beitrag zur Infrastruktur leisten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ihre Praxis ist wirtschaftlich solide, aber durch Personalkosten, Investitionen und Abrechnungslast eng getaktet. Eine weitere steuerliche Reform klingt für sie nach zusätzlicher Unsicherheit und möglicher Verwaltungsarbeit, selbst wenn Freibeträge vorgesehen sind.",
+      "begruendung_selbst": "Ich zahle meinen Beitrag. Aber jede neue Steuerlogik landet am Ende wieder als Prüfung, Formular oder Beratungskosten in der Praxis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zentren dürfen Praxen nicht schlucken",
+      "thema": "gesundheit",
+      "programmpunkt": "Zentrale kommunale Versorgungszentren sollen Rückgrat der wohnortnahen Gesundheitsversorgung werden und viele Behandlungsbereiche bündeln.",
+      "seite": 54,
+      "zitat": "kommunale Versorgungszentren als Rückgrat",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra kann solche Zentren als Ergänzung akzeptieren, würde aber eine Strukturpolitik ablehnen, die bestehende Einzelpraxen nur noch als Auslaufmodell behandelt. Für sie zählt, ob die Versorgung vor Ort praktisch besser wird und nicht, ob alles institutionell größer gebündelt ist.",
+      "begruendung_selbst": "Ein Zentrum kann helfen. Aber meine Praxis ist kein Problem, das man wegorganisieren muss.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra findet im Programm viele Punkte, die ihre Sorge um ländliche Versorgung, Nachfolge, Ökonomisierung und erreichbare Medizin ernst nehmen. Besonders positiv wirken Landarztquoten, MVZ-Absicherung, ÖPNV-Ausbau, Medimobil und eine Digitalisierung, die zuerst Prozesse vereinfacht. Kritisch sieht sie pauschale Vorwürfe gegen niedergelassene Ärzt:innen, mögliche neue Steuer- und Planungslasten sowie Telemedizin-Zielquoten, wenn sie ohne echte Entlastung in der Praxis ankommen.",
+    "score": 1
+  }
+}

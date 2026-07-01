@@ -1,0 +1,125 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 97905,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich feste Personalschlüssel",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will eine gesetzliche, bedarfsgerechte und voll finanzierte Personalbemessung für alle Berufsgruppen im Krankenhaus.",
+      "seite": 50,
+      "zitat": "voll finanzierte Personalbemessung für alle Berufsgruppen im Krankenhaus",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin misst Gesundheitspolitik daran, ob sie die Unterbesetzung auf Station real beendet. Eine verbindliche und finanzierte Personalbemessung trifft ihren Alltag direkt, weil sie Entlastung nicht nur als Appell, sondern als Struktur braucht.",
+      "begruendung_selbst": "Genau darum geht es: Nicht noch eine Rede über Pflege, sondern verbindliche Schlüssel, damit wir nicht jede Schicht am Limit laufen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dienstpläne, die halten",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm fordert mehr Personal, verlässliche Dienstpläne, bessere Schichtzulagen und gute Personalschlüssel für Krankenhauspersonal.",
+      "seite": 53,
+      "zitat": "verlässlichen Dienstplänen, besseren Schichtzulagen und guten Personalschlüsseln",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Kerstin sind planbare Schichten und Zulagen keine Nebensache, sondern die Grenze zwischen Beruf und Ausbrennen. Der Punkt greift ihre konkrete Belastung im Krankenhaus sehr direkt auf.",
+      "begruendung_selbst": "Wenn der Dienstplan ständig kippt, kippt irgendwann auch das Privatleben. Verlässlichkeit und ordentliche Zulagen wären echte Anerkennung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarif statt warmer Worte",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke unterstützt Gewerkschaften bei flächendeckenden Tarifverträgen und will bessere Entlohnung sowie bessere Arbeitsbedingungen durch Allgemeinverbindlichkeit stärken.",
+      "seite": 51,
+      "zitat": "um die Entlohnung und die Arbeitsbedingungen zu verbessern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin vertraut Gewerkschaftsinformationen und bewertet Anerkennung über Bezahlung und Arbeitsbedingungen. Der Programmpunkt passt zu ihrer Erwartung, dass Pflegearbeit materiell und tariflich aufgewertet wird.",
+      "begruendung_selbst": "Applaus zahlt keine Miete und macht keine Nachtschicht leichter. Tarifbindung ist das, was bei uns wirklich ankommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Raus aus dem Profitdruck",
+      "thema": "gesundheit",
+      "programmpunkt": "Krankenhäuser sollen nach Bedarf und Qualität organisiert und finanziert werden, nicht nach Fallpauschalen, Profit oder Kostendruck.",
+      "seite": 48,
+      "zitat": "nicht nach Fallpauschalen, Profit oder Kostendruck",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin ist skeptisch gegenüber Ökonomisierung im Gesundheitswesen, weil sie Renditedruck als Ursache von Arbeitsverdichtung erlebt. Die Entökonomisierung bestätigt ihre Sicht auf Versorgung als Daseinsvorsorge.",
+      "begruendung_selbst": "Auf Station merkt man sofort, wenn Zahlen wichtiger sind als Menschen. Pflege darf nicht nach Profitlogik laufen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Öffentlich statt Spekulation",
+      "thema": "wirtschaft",
+      "programmpunkt": "Pflegeeinrichtungen sollen in öffentliche oder gemeinnützige Trägerschaft überführt werden, um Privatisierung zu beenden.",
+      "seite": 56,
+      "zitat": "Pflegeeinrichtungen konsequent in öffentliche oder gemeinnützige Trägerschaft überführen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht private Renditeinteressen in Pflege und Gesundheit als Risiko für Personal und Patient:innen. Die Forderung berührt ihre Sicht auf Pflegebedürftige, Angehörige und Kolleg:innen in Einrichtungen.",
+      "begruendung_selbst": "Wenn Pflege zum Geschäftsmodell wird, zahlen am Ende Bewohner, Angehörige und wir Beschäftigten den Preis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ohne Zuwanderung läuft nichts",
+      "thema": "integration",
+      "programmpunkt": "Das Programm betont ausdrücklich, dass insbesondere die Pflege ohne Zuwanderung nicht mehr funktionieren würde.",
+      "seite": 97,
+      "zitat": "ohne Zuwanderung nicht mehr funktionieren würde",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station wäre nach ihrem Selbstbild ohne migrantische Kolleg:innen kaum arbeitsfähig. Die Aussage widerspricht einem harten Migrationskurs und bestätigt ihre solidarische Sicht auf ihr Team.",
+      "begruendung_selbst": "Das sage ich seit Jahren: Ohne die Kolleginnen aus dem Ausland wäre bei uns längst dicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschlüsse schneller anerkennen",
+      "thema": "integration",
+      "programmpunkt": "Ausländische Berufsabschlüsse sollen innerhalb von sechs Monaten anerkannt werden, ergänzt durch Anpassungsqualifizierungen.",
+      "seite": 98,
+      "zitat": "innerhalb von sechs Monaten anerkannt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Kerstin ist Anerkennung ausländischer Qualifikationen ein praktischer Hebel gegen Personalmangel und gegen entwürdigende Warteschleifen für Kolleg:innen. Der Vorschlag passt zu ihrer Erwartung, Fachkräfte zu halten statt zu vergraulen.",
+      "begruendung_selbst": "Wer qualifiziert ist, soll nicht monatelang Papier hinterherlaufen, während uns auf Station jede Hand fehlt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gleicher Lohn im Team",
+      "thema": "arbeit",
+      "programmpunkt": "Bei Arbeitsmigration fordert Die Linke gleiche Bezahlung, schnelle Anerkennung, Beratung und Schutz vor Ausbeutung.",
+      "seite": 88,
+      "zitat": "gleichen Lohn für gleiche Arbeit",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin lehnt einen Migrationskurs ab, der Kolleg:innen schlechterstellt oder als Konkurrenz behandelt. Faire Regeln schützen aus ihrer Sicht migrantische Beschäftigte und zugleich die Tarifstandards ihres ganzen Teams.",
+      "begruendung_selbst": "Meine Kolleginnen sollen nicht als billige Lückenfüllerinnen behandelt werden. Gleiche Arbeit heißt gleicher Respekt und gleicher Lohn.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Kerstin würde in diesem Programm viele ihrer zentralen Anliegen wiederfinden: mehr Personal, verlässliche Dienstpläne, Tarifbindung, Entökonomisierung und öffentliche Verantwortung in Pflege und Krankenhäusern. Besonders stark dürfte sie die ausdrückliche Anerkennung migrantischer Kolleg:innen und schnellere Abschlussanerkennung ansprechen. Belastbare Punkte, die ihrer Pflege-, Arbeits- oder Integrationsperspektive klar widersprechen, finden sich in den geprüften einschlägigen Passagen nicht.",
+    "score": 2
+  }
+}

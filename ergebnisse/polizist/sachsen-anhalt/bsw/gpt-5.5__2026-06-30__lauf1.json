@@ -1,0 +1,163 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 172677,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Leute.",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Landespolizei soll bis 2028 deutlich auf rund 7.000 Stellen aufgestockt werden, um Einsatzfähigkeit, Präsenz und Ermittlungsarbeit abzusichern.",
+      "seite": 68,
+      "zitat": "Landespolizei bis 2028 auf rund 7.000 Stellen aufstocken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt Personalmangel und Überstunden als Kernproblem seines Dienstalltags. Die konkrete Stellenzahl spricht seine wichtigste berufliche Sorge direkt an.",
+      "begruendung_selbst": "Wir reden seit Jahren über Belastung. Wenn wirklich 7.000 Stellen kommen, ist das genau die Richtung, die wir auf der Straße brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Besoldung muss passen.",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm will amtsangemessene Besoldung, transparentere Beförderungen und Reformen im Beamtenrecht für Polizeibeamte.",
+      "seite": 68,
+      "zitat": "Amtsangemessene Besoldung sicherstellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco hat ein sicheres, aber nicht üppiges Einkommen und ärgert sich über schleppende Beförderungen. Anerkennung wird hier nicht nur symbolisch, sondern über Bezahlung und Laufbahnregeln gefasst.",
+      "begruendung_selbst": "Wer Verantwortung übernimmt und nachts rausfährt, darf nicht jahrelang in Beförderungsstaus hängen bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schützt uns im Einsatz.",
+      "thema": "sicherheit",
+      "programmpunkt": "Das BSW will Übergriffe auf Einsatz- und Rettungskräfte konsequent ahnden und ehrenamtliches Engagement in Sicherheitsbereichen besser unterstützen.",
+      "seite": 76,
+      "zitat": "Übergriffe auf Einsatz- und Rettungskräfte müssen konsequent geahndet werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco sorgt sich besonders um Angriffe auf Einsatzkräfte und sinkenden Respekt. Die Formulierung gibt ihm Rückhalt, ohne seine rechtsstaatliche Orientierung aufzugeben.",
+      "begruendung_selbst": "Ich habe kein Problem mit Kontrolle, aber draußen müssen wir auch heil aus dem Einsatz kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sicherheit bleibt Staatsaufgabe.",
+      "thema": "sicherheit",
+      "programmpunkt": "Hoheitliche Sicherheit soll bei der Polizei bleiben; Privatisierung und Überforderung finanzschwacher Kommunen werden abgelehnt.",
+      "seite": 66,
+      "zitat": "Sicherheit ist keine Ware.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als institutionentreuer Beamter will Marco, dass das Gewaltmonopol ernst genommen wird. Die klare Absage an privatisierte Sicherheit bestätigt sein Berufsverständnis.",
+      "begruendung_selbst": "Sicherheit darf nicht davon abhängen, ob eine Kommune oder ein Privater gerade Geld hat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Große Fische zuerst.",
+      "thema": "sicherheit",
+      "programmpunkt": "Polizei und Ermittlungsbehörden sollen so ausgestattet werden, dass sie organisierte Kriminalität und kriminelle Netzwerke wirksam verfolgen können.",
+      "seite": 67,
+      "zitat": "auf Augenhöhe mit kriminellen Netzwerken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco will nicht nur Alltagsstörungen verwalten, sondern eine funktionierende Sicherheitskette gegen schwere Kriminalität. Der Fokus auf Strukturen und Profiteure passt zu seinem Wunsch nach wirksamer Strafverfolgung.",
+      "begruendung_selbst": "Wenn wir nur Kleinkram abarbeiten und die Netzwerke weitermachen, verliert der Staat Autorität.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Justiz darf nicht versanden.",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Justiz soll personell besser ausgestattet, Verfahren sollen beschleunigt und Arbeitsbedingungen sowie Besoldung verbessert werden.",
+      "seite": 73,
+      "zitat": "Justiz personell stärken und ausreichend ausstatten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist frustriert, wenn polizeiliche Arbeit in der Justizkette hängen bleibt. Mehr Personal und schnellere Verfahren stärken für ihn den Rechtsstaat nach dem Einsatz.",
+      "begruendung_selbst": "Unsere Arbeit bringt wenig, wenn Akten später ewig liegen und Verfahren im Stau stehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klare Regeln bei Migration.",
+      "thema": "integration",
+      "programmpunkt": "Das Programm unterscheidet Asyl, Arbeitsmigration und Integration, fordert aber zugleich konsequente Abschiebungen bei fehlendem Anspruch, Missbrauch oder Straffälligkeit.",
+      "seite": 62,
+      "zitat": "wenn kein Anspruch auf Asyl besteht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco lehnt Pauschalurteile über Menschen mit Migrationsgeschichte ab, will aber konsequente Regeln und Strafverfolgung. Diese Position verbindet Schutzberechtigung mit staatlicher Handlungsfähigkeit.",
+      "begruendung_selbst": "Wer Schutz braucht, soll sicher sein. Wer Straftaten begeht oder keinen Anspruch hat, muss klare Konsequenzen spüren.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht jedes Werkzeug wegnehmen.",
+      "thema": "sicherheit",
+      "programmpunkt": "Das BSW lehnt Palantir und vergleichbare umfassende Datenverknüpfungssysteme ab und will neue polizeiliche Befugnisse sehr streng grundrechtsorientiert begleiten.",
+      "seite": 67,
+      "zitat": "Den Einsatz von Palantir-Software und vergleichbaren Systemen lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco teilt Datenschutzbedenken, aber aus seiner Einsatzperspektive klingt die pauschale Ablehnung eines Ermittlungsinstruments wie ein vorschnelles Beschneiden moderner Polizeiarbeit. Seine Sorge vor organisierter Kriminalität macht ihn hier skeptisch.",
+      "begruendung_selbst": "Kontrolle ja, aber wenn Kriminelle digital arbeiten, brauchen wir auch starke digitale Werkzeuge.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Verfassungsschutz nicht schwächen.",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm kritisiert den Ausbau des Verfassungsschutzes und will die Kategorie der verfassungsschutzrelevanten Delegitimierung des Staates abschaffen.",
+      "seite": 13,
+      "zitat": "Kategorie „Delegitimierung des Staates“ abschaffen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco ist gegenüber Parteien und Milieus, die vom Verfassungsschutz beobachtet werden, ambivalent bis ablehnend. Eine starke Skepsis gegenüber diesem Instrument wirkt auf ihn riskant, weil er wehrhafte Demokratie als Teil seines Auftrags versteht.",
+      "begruendung_selbst": "Wenn Leute den Staat gezielt delegitimieren, darf man das nicht einfach aus dem Blick nehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zu viel Misstrauen gegen Staat.",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm beschreibt einen übergriffigen oder autoritären Staat als Gegner und lehnt Melde- und Überwachungsplattformen kategorisch ab.",
+      "seite": 11,
+      "zitat": "Einen übergriffigen oder autoritären Staat lehnen wir ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco ist verfassungsorientiert und will Grundrechte schützen, reagiert aber empfindlich auf pauschale Institutionenskepsis. Die starke Warnsprache gegenüber staatlichem Handeln kann bei ihm den Eindruck verstärken, Sicherheitsbehörden stünden schnell unter Generalverdacht.",
+      "begruendung_selbst": "Kritik am Staat ist okay, aber ich will nicht, dass unsere Arbeit ständig wie Bedrohung klingt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Amnestie sendet falsches Signal.",
+      "thema": "demokratie",
+      "programmpunkt": "Für Personen, die wegen Corona-Maßnahmen sanktioniert wurden, fordert das Programm Rehabilitierung, Amnestie und Entschädigung.",
+      "seite": 16,
+      "zitat": "Rehabilitierung, Amnestie und Entschädigung für Corona-Benachteiligte ermöglichen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco hat beruflich gelernt, geltendes Recht auch in unpopulären Lagen umzusetzen. Eine breite Amnestie für frühere Verstöße kann für ihn nach nachträglicher Entwertung von Vollzug und Verwaltungshandeln klingen.",
+      "begruendung_selbst": "Wenn wir damals Regeln durchsetzen mussten, darf man hinterher nicht so tun, als wäre Vollzug grundsätzlich Unrecht gewesen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco findet im BSW-Programm ungewöhnlich viele direkte Zusagen an Polizei, Justiz und Einsatzkräfte: mehr Stellen, bessere Besoldung, Schutz im Einsatz und eine stärkere Justizkette. Gleichzeitig reibt er sich an der scharfen Skepsis gegenüber Verfassungsschutz, Überwachungsinstrumenten und früherem staatlichem Vollzug. Insgesamt überwiegt für ihn die berufspraktische Anerkennung, auch wenn er bei Teilen der Demokratie- und Datenschutzpolitik wachsam bleibt.",
+    "score": 1
+  }
+}

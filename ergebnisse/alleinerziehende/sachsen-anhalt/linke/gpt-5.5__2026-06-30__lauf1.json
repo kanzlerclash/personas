@@ -1,0 +1,150 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 55019,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine Sanktionen auf meinem Rücken",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke fordert eine existenzsichernde Grundsicherung ohne Sanktionen und Schikanen sowie eine Kindergrundsicherung ohne große bürokratische Hürden.",
+      "seite": 42,
+      "zitat": "„Grundsicherung ohne Sanktionen und Schikanen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine stockt trotz Arbeit auf und reagiert empfindlich auf Politik, die Leistungsbeziehende unter Generalverdacht stellt. Eine sanktionsfreie Grundsicherung bestätigt ihren Wunsch nach Absicherung ohne Demütigung.",
+      "begruendung_selbst": "Ich arbeite und kümmere mich jeden Tag. Ich brauche Hilfe, wenn es nicht reicht, und keine Angst vor Sanktionen, die am Ende meine Kinder treffen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "630 Euro wären echte Luft",
+      "thema": "familie",
+      "programmpunkt": "Die Partei will eine armutsfeste, eigenständige und sanktionsfreie Kindergrundsicherung von mindestens 630 Euro pro Kind und Monat.",
+      "seite": 45,
+      "zitat": "„mindestens 630 Euro pro Monat für alle Kinder“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Nadine sind Schuhe, Klassenfahrten und unerwartete Ausgaben regelmäßig existenzielle Probleme. Eine klar bezifferte Kindergrundsicherung würde direkt an ihrer finanziellen Engstelle ansetzen.",
+      "begruendung_selbst": "Wenn für jedes Kind wirklich genug da ist, muss ich nicht bei jedem Elternbrief überlegen, welche Rechnung ich dafür liegen lasse.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fragt endlich uns Alleinerziehende",
+      "thema": "familie",
+      "programmpunkt": "Die Linke plant einen Runden Tisch für Alleinerziehende, der politische Beschlüsse aus Sicht betroffener Elternteile überprüft und einen Aktionsplan erarbeitet.",
+      "seite": 46,
+      "zitat": "„einen Runden Tisch für Alleinerziehende“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine hat oft den Eindruck, dass Politik über ihre Lebensrealität redet, ohne sie zu kennen. Ein eigenes Beteiligungsformat für Alleinerziehende trifft ihr Bedürfnis nach Respekt und alltagstauglichen Lösungen.",
+      "begruendung_selbst": "Ich will nicht als Problemfall vorkommen, sondern erklären können, was Bringzeit, Arbeit, Amt und Abendessen in einem echten Tag bedeuten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hilfe durch den Antragsdschungel",
+      "thema": "familie",
+      "programmpunkt": "Mobile Bürokratie-Lotsen sollen Familien vor Ort bei Leistungsanträgen und der Bewältigung bürokratischer Anforderungen unterstützen.",
+      "seite": 46,
+      "zitat": "„mobile „Bürokratie - Lotsen““",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine hat wenig Zeit für Behördengänge und ist auf Sozialleistungen angewiesen, die oft kompliziert zu beantragen sind. Niedrigschwellige Unterstützung vor Ort würde ihre knappe Alltagsorganisation unmittelbar entlasten.",
+      "begruendung_selbst": "Nach Arbeit, Kita, Schule und Haushalt habe ich keine Kraft mehr für Formulare, bei denen ein falsches Kreuz gleich Geld kosten kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita muss verlässlich sein",
+      "thema": "familie",
+      "programmpunkt": "Jedes Kind soll einen uneingeschränkten Rechtsanspruch auf zehn Stunden Kita-Betreuung bekommen; Kita soll beitragsfrei werden und Mittagessen kostenlos sein.",
+      "seite": 29,
+      "zitat": "„ganztägige Betreuung in Kindertageseinrichtungen von 10 Stunden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Vereinbarkeit von Arbeit und Kinderbetreuung ist Nadines zentraler Engpass. Ein verlässlicher ganztägiger Anspruch und geringere Kita-Kosten würden ihr ermöglichen, Arbeit planbarer zu organisieren.",
+      "begruendung_selbst": "Gebt mir einen Platz, auf den ich mich verlassen kann, dann kann ich auch meine Stunden und mein Geld besser planen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hort gehört fest dazu",
+      "thema": "bildung",
+      "programmpunkt": "Die Linke will Horte wieder im Schulgesetz verankern und Ganztagsangebote an weiterführenden Schulen bedarfsgerecht ausbauen.",
+      "seite": 32,
+      "zitat": "„Horte wieder im Schulgesetz verankert“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine hat neben einem Kita-Kind auch ein Schulkind und braucht Betreuung über den Unterricht hinaus. Verlässliche Horte und Ganztagsangebote stabilisieren ihren Arbeitsalltag und die Förderung ihrer Kinder.",
+      "begruendung_selbst": "Schule ist nicht um halb eins für mich erledigt. Wenn der Hort wackelt, wackelt mein ganzer Arbeitstag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Miete darf nicht alles fressen",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will Mietkosten senken, sozialen Mietwohnungsbau fördern, Zwangsräumungen verhindern und Wohngeldverfahren vereinfachen.",
+      "seite": 83,
+      "zitat": "„Zwangsräumungen sowie Strom - und Heizungssperren verhindern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines Mietwohnung bindet einen großen Teil ihres knappen Einkommens, und Nebenkosten können schnell zur Krise werden. Schutz vor Wohnungsverlust und bezahlbarer Wohnraum berühren ihre Sicherheit direkt.",
+      "begruendung_selbst": "Ich will nicht jeden Winter Angst haben, ob Nachzahlung oder Miete uns aus der Wohnung drücken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arbeit muss sich lohnen",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert unter anderem ein Recht auf Vollzeit und Rückkehr aus Teilzeit, familienfreundliche Schichtmodelle und einen Vergabemindestlohn von 16,50 Euro.",
+      "seite": 86,
+      "zitat": "„einen Vergabemindestlohn von 16,50 Euro pro Stunde“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine arbeitet, muss aber ergänzend Leistungen beziehen; höhere Löhne und Rechte rund um Teilzeit treffen ihre Hoffnung, dass Arbeit aus Armut herausführt. Familienfreundliche Arbeitszeitmodelle passen zu ihrer Betreuungsrealität.",
+      "begruendung_selbst": "Ich will nicht reich werden, ich will nur merken, dass Arbeiten am Ende wirklich mehr bringt als Dauerstress.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus und Bahn bezahlbar",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will zunächst günstige Schüler-, Azubi-, Studierenden- und Sozialtickets und langfristig kostenfreien ÖPNV für alle.",
+      "seite": 102,
+      "zitat": "„langfristig kostenfreien ÖPNV für Alle“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mobilitätskosten treffen Nadine und ihre Kinder im Alltag, etwa bei Schule, Freizeit, Terminen oder Behördengängen. Günstige Sozial- und Schülertickets würden Teilhabe weniger vom Monatsbudget abhängig machen.",
+      "begruendung_selbst": "Jede Fahrkarte zählt bei uns. Wenn die Kinder leichter zu Schule, Sport oder Freunden kommen, ist das echte Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schule nicht nach Geldbeutel",
+      "thema": "bildung",
+      "programmpunkt": "Das Programm will Bildungsgerechtigkeit durch Investitionen, mehr Personal, Kita- und Schulsozialarbeit sowie digitale Geräte für alle Kinder stärken.",
+      "seite": 27,
+      "zitat": "„unabhängig davon, ob die Eltern reich oder arm sind“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine bewertet Politik stark danach, ob ihre Kinder trotz wenig Geld gute Chancen haben. Der ausdrückliche Ausgleich sozialer Unterschiede in Kitas und Schulen entspricht ihrem Wunsch nach Aufstiegschancen durch Bildung.",
+      "begruendung_selbst": "Meine Kinder sollen nicht schlechter starten, nur weil ich jeden Euro zweimal umdrehen muss.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Für Nadine passt das Programm außergewöhnlich stark zu ihrer Lebenslage: Es adressiert Aufstockung, Kinderarmut, Kita- und Hortbetreuung, Wohnen, Löhne und bürokratische Hürden sehr direkt. Besonders wichtig wäre ihr, dass Alleinerziehende ausdrücklich beteiligt werden und dass Leistungen ohne Sanktionen und ohne Stigma gedacht werden. Klar konträre, belegbare Programmpunkte finden sich aus ihrer Perspektive nicht.",
+    "score": 2
+  }
+}

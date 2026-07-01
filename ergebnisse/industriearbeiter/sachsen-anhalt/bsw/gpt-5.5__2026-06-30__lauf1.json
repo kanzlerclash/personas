@@ -1,0 +1,162 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 79493,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Die sehen unsere Betriebe.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das BSW beschreibt energieintensive Branchen wie Chemie, Ernährungswirtschaft und Maschinenbau als gefährdete industrielle Basis und will eine aktive Wirtschafts- und Industriepolitik zur Sicherung von Standort, Investitionen und Arbeitsplätzen.",
+      "seite": 17,
+      "zitat": "„Energiepreise, unsichere Rahmenbedingungen und globale Abhängigkeiten gefährden Betriebe und Arbeitsplätze“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe arbeitet in genau der energieintensiven Industrie, die hier als gefährdet benannt wird. Dass das Programm die bestehende Basis nicht opfern will, trifft seine Kernangst vor Deindustrialisierung im Chemiedreieck.",
+      "begruendung_selbst": "Ich will keinen schönen Zukunftsprospekt, während nebenan die Anlage runterfährt. Erst müssen unsere Werke und Jobs gesichert werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industrie bleibt hier.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei bekennt sich ausdrücklich zum Industriestandort Sachsen-Anhalt und verbindet Industrie mit Arbeitsplätzen, Wohlstand und Familienperspektiven.",
+      "seite": 19,
+      "zitat": "„Das BSW bekennt sich klar zum Industriestandort Sachsen-Anhalt.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Uwe ist der Industriestandort keine abstrakte Größe, sondern die Grundlage seines Einkommens, seiner Biografie und seiner Region. Ein klares Standortbekenntnis bestätigt seinen Stolz auf Industriearbeit.",
+      "begruendung_selbst": "Ohne Industrie ist hier Schluss mit guten Löhnen und Perspektive. Genau darum muss Politik sagen: Die Betriebe bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarif muss Bedingung sein.",
+      "thema": "arbeit",
+      "programmpunkt": "Öffentliche Aufträge und Fördermittel sollen nur an tarifgebundene Unternehmen gehen, damit öffentliche Gelder gute Arbeit statt Lohndumping stützen.",
+      "seite": 22,
+      "zitat": "„Öffentliche Aufträge und Fördermittel dürfen nur an tarifgebundene Unternehmen vergeben werden.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Gewerkschafter bewertet Uwe Tarifbindung als Schutz vor Unterbietung und als Grundlage stabiler Industriearbeit. Diese Vergaberegel würde seine Vorstellung von fairer Wirtschaftspolitik direkt bestätigen.",
+      "begruendung_selbst": "Wer Steuergeld will, soll Tarif zahlen. Sonst subventionieren wir am Ende noch Lohndrückerei.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Betriebsräte an den Tisch.",
+      "thema": "arbeit",
+      "programmpunkt": "Das BSW will Betriebsräte und Gewerkschaften verbindlich an Investitions-, Standort- und Transformationsentscheidungen beteiligen und Behinderung von Mitbestimmung sanktionieren.",
+      "seite": 22,
+      "zitat": "„Mitbestimmung ist kein Hemmnis, sondern ein Erfolgsfaktor im Strukturwandel.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe misst Strukturwandel daran, ob Beschäftigte mitreden oder nur die Folgen tragen. Die Aufwertung von Mitbestimmung passt sehr genau zu seiner gewerkschaftlichen Haltung.",
+      "begruendung_selbst": "Transformation ohne Betriebsrat ist für mich keine Lösung. Wer die Leute mitnehmen will, muss sie vorher beteiligen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wandel ohne Absturz.",
+      "thema": "arbeit",
+      "programmpunkt": "Ausbildung, Weiterbildung und Umschulung sollen Beschäftigte im Wandel halten und berufliche Veränderung ohne Existenzangst ermöglichen.",
+      "seite": 23,
+      "zitat": "„Beruflicher Wandel ohne Existenzängste“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe akzeptiert Wandel, wenn er sozial abgesichert ist und Kolleginnen und Kollegen nicht aussortiert werden. Weiterbildung als Jobschutz entspricht seinem Wunsch nach einem geordneten Transformationspfad.",
+      "begruendung_selbst": "Wenn sich Technik ändert, müssen wir qualifiziert werden, nicht abserviert. Das ist der Unterschied zwischen Wandel und Kahlschlag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energie muss verlässlich sein.",
+      "thema": "energie",
+      "programmpunkt": "Das Programm fordert bezahlbare, sichere Energie mit breitem Energiemix und grundlastfähiger Ergänzung zu erneuerbaren Energien.",
+      "seite": 24,
+      "zitat": "„Erneuerbare Energien sind unverzichtbar, reichen aber allein nicht aus.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für einen Chemiearbeiter ist Versorgungssicherheit eine Standortfrage. Uwe dürfte die technologieoffene, grundlastorientierte Linie als realistisch empfinden, weil Prozessindustrie nicht von Wunschdenken leben kann.",
+      "begruendung_selbst": "Ich habe nichts gegen Wind und Sonne. Aber unsere Anlagen brauchen Strom, wenn Schicht ist, nicht wenn das Wetter passt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz mit Augenmaß.",
+      "thema": "klima",
+      "programmpunkt": "Das BSW will Klimaschutz sozial abfedern, CO₂-Kosten an Bürger zurückgeben und zusätzliche Belastungen für mittlere und niedrige Einkommen begrenzen.",
+      "seite": 27,
+      "zitat": "„Klimaschutz sozial gerecht gestalten und global denken“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe ist nicht grundsätzlich gegen Klimaschutz, fürchtet aber Kosten und Arbeitsplatzverluste durch überhastete Politik. Die soziale Rahmung trifft seine ambivalente, aber nicht klimaschutzfeindliche Haltung.",
+      "begruendung_selbst": "Klimaschutz ja, aber nicht als Strafzettel für Arbeiter und Betriebe. So kann ich darüber reden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unser Chemiestandort zählt.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Für den Chemiesektor nennt das Programm günstige Energiepreise, schnelle Genehmigungen, moderaten Ausbau erneuerbarer Energien sowie gesicherte Öl- und Gasversorgung als Standortvoraussetzungen.",
+      "seite": 27,
+      "zitat": "„Die Transformation des Chemiesektors hat strategische Priorität.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Diese Passage berührt Uwe besonders direkt, weil sie seinen eigenen Industriezweig und die Voraussetzungen für dessen Umbau benennt. Er dürfte honorieren, dass nicht nur von Klimazielen, sondern auch von Energiepreisen, Genehmigungen und Fachkräften gesprochen wird.",
+      "begruendung_selbst": "Wenn Chemie strategisch wichtig ist, dann muss man auch Gas, Strom, Genehmigungen und Fachkräfte mitdenken. Sonst bleibt es Papier.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht jede Option verbauen.",
+      "thema": "klima",
+      "programmpunkt": "Das BSW lehnt CO₂-Verpressung in Sachsen-Anhalt grundsätzlich ab und setzt stattdessen auf Speicherlösungen und natürliche Senken.",
+      "seite": 85,
+      "zitat": "„Die unterirdische CO ₂ -Verpressung (CCS) lehnen wir für Sachsen-Anhalt ab.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe kann ökologische Risiken nachvollziehen, sieht aber in einer pauschalen CCS-Absage eine mögliche Einengung industrieller Transformationsoptionen. Für energie- und prozessintensive Chemie zählt jede realistische Brücke, wenn sie Arbeitsplätze sichern kann.",
+      "begruendung_selbst": "Ich will kein Experiment unter jedem Dorf. Aber wenn man alles pauschal ausschließt, nimmt man der Industrie vielleicht eine Brücke weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriewasser nicht vergessen.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Beim Wassermanagement sollen Trinkwasserversorgung und Landwirtschaft grundsätzlich Vorrang vor industriellen Interessen haben.",
+      "seite": 84,
+      "zitat": "„Trinkwasserversorgung und landwirtschaftliche Nutzung müssen grundsätzlich Vorrang vor industriellen Interessen haben.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe wird den Vorrang von Trinkwasser nicht bestreiten, aber die Formulierung stellt industrielle Nutzung deutlich nach hinten. Aus seiner Sicht braucht auch ein Chemiestandort planbare Wasserverfügbarkeit, sonst wird die Standortfrage erneut gegen die Beschäftigten entschieden.",
+      "begruendung_selbst": "Trinkwasser zuerst, klar. Aber wenn Industrie nur als nachrangiges Interesse vorkommt, frage ich mich, wie unsere Produktion planbar bleiben soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gas bleibt ein Risiko.",
+      "thema": "energie",
+      "programmpunkt": "Das Programm setzt für bezahlbare Energie auch auf langfristige Importverträge und Verhandlungen mit Russland über Gaslieferungen.",
+      "seite": 20,
+      "zitat": "„langfristige Importverträge und Verhandlungen mit Russland über Gaslieferungen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe will bezahlbare Energie, aber sein Arbeitsplatz hängt auch an verlässlichen Rahmenbedingungen. Eine starke Orientierung auf politisch unsichere Gaslieferungen kann aus seiner Sicht neue Abhängigkeiten schaffen, statt die Standortfrage dauerhaft zu lösen.",
+      "begruendung_selbst": "Billiges Gas hilft nur, wenn es wirklich verlässlich kommt. Ich will nicht, dass unser Werk wieder an einer politischen Pipeline hängt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe würde das BSW-Programm überwiegend positiv bewerten, weil es Industrieerhalt, bezahlbare Energie, Tarifbindung, Mitbestimmung und sozial abgesicherten Wandel sehr direkt anspricht. Besonders stark trifft ihn das klare Bekenntnis zum Chemiestandort und zu Gewerkschaften. Kritisch blieben für ihn pauschale technologische Ausschlüsse, mögliche Zielkonflikte beim Wasser und neue Energieabhängigkeiten.",
+    "score": 2
+  }
+}

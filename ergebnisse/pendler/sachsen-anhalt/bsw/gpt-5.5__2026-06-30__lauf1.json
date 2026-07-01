@@ -1,0 +1,186 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 114410,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sprit darf nicht fressen",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW will Energiesteuern senken und sogar einen Maximalpreis für Sprit an Tankstellen politisch durchsetzen.",
+      "seite": 7,
+      "zitat": "„Die Energiesteuern müssen runter.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf spürt Spritkosten jeden Arbeitstag, weil sein Arbeitsweg ohne Auto nicht funktioniert. Eine direkte Senkung der Energiesteuern trifft seinen zentralen finanziellen Druckpunkt.",
+      "begruendung_selbst": "Wenn ich jeden Tag 45 Minuten zur Schicht fahre, ist Sprit kein Luxus. Genau da muss man Leute wie mich entlasten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weg mit der CO2-Last",
+      "thema": "klima",
+      "programmpunkt": "Das Programm fordert, die nationale CO2-Abgabe auszusetzen oder abzuschaffen und Klimapolitik sozial abzufedern.",
+      "seite": 27,
+      "zitat": "„diese ungerechte Steuer auszusetzen oder abzuschaffen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist nicht gegen Klimaschutz, aber er lehnt Mehrkosten ab, solange ihm keine realistische Alternative zum Auto offensteht. Die Kritik an der CO2-Bepreisung bestätigt genau seine Sorge vor Klimapolitik auf Kosten mittlerer Einkommen.",
+      "begruendung_selbst": "Ich kann nicht einfach weniger fahren, nur weil die Politik Sprit teurer macht. Erst muss es echte Alternativen geben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Auto-Realismus",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW lehnt eine erzwungene Verkehrswende ab und erkennt an, dass das Auto in vielen Regionen Sachsen-Anhalts weiter notwendig bleibt.",
+      "seite": 32,
+      "zitat": "„bleibt das Auto auf absehbare Zeit unverzichtbar“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Toralf ist das Auto die Voraussetzung für seinen Arbeitsplatz, nicht Ausdruck von Bequemlichkeit. Die Formulierung nimmt seine Dorfrealität ernst und grenzt sich von pauschalen Autoverzichtserwartungen ab.",
+      "begruendung_selbst": "Genau so ist es: Ohne Auto komme ich nicht zur Arbeit. Das muss Politik endlich kapieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Verbrenner-Verbot",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm spricht sich gegen ein pauschales Verbrennerverbot aus und will Verbrenner, synthetische Kraftstoffe und alternative Antriebe technologieoffen weiterentwickeln.",
+      "seite": 32,
+      "zitat": "„Ein pauschales Verbrennerverbot lehnen wir ab.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fürchtet ein Verbrenner-Aus, weil ein bezahlbares und alltagstaugliches E-Auto für ihn nicht in Sicht ist. Die technologieoffene Linie schützt aus seiner Sicht seinen bestehenden Mobilitätsweg.",
+      "begruendung_selbst": "Ich kann mir nicht auf Befehl ein neues E-Auto hinstellen. Mein Diesel muss erst mal weiter funktionieren dürfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mobilität fürs Dorf",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW will flächendeckende Mobilität besonders im ländlichen Raum sichern, ÖPNV und Schiene besser vernetzen und Mittelzentren anbinden.",
+      "seite": 32,
+      "zitat": "„besonders im ländlichen Raum“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fühlt sich von urbaner Verkehrspolitik übergangen. Dass das Programm ländliche Mobilität ausdrücklich nennt, trifft seine Erfahrung, dass Dorf und Schichtarbeit andere Lösungen brauchen als Innenstadtquartiere.",
+      "begruendung_selbst": "Wenn hier irgendwann wirklich ein brauchbarer Bus fährt, bin ich der Letzte, der dagegen ist. Aber er muss eben auch fahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Das BSW setzt auf bezahlbare Energie, Versorgungssicherheit, einen breiten Energiemix und sozial abgefederte Energiewende.",
+      "seite": 25,
+      "zitat": "„Bezahlbare Energie sichern und den Umbau sozial abfedern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf hat neben Sprit auch Strom- und Haushaltskosten im Blick. Eine Energiepolitik, die Bezahlbarkeit und Versorgungssicherheit voranstellt, passt zu seinem Wunsch nach Realismus statt teurer Vorgaben.",
+      "begruendung_selbst": "Ich brauche keine schönen Parolen, ich brauche bezahlbaren Strom und eine Heizung, die uns nicht ruiniert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriejobs sichern",
+      "thema": "arbeit",
+      "programmpunkt": "Das BSW bekennt sich zum Industriestandort Sachsen-Anhalt und will Industriearbeitsplätze durch aktive Industriepolitik, Energiepreise und Investitionen sichern.",
+      "seite": 19,
+      "zitat": "„Industrie sichert Arbeitsplätze, schafft Wohlstand“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Industriemechaniker hängt Toralfs Einkommen direkt an stabilen Industriebetrieben. Das Programm adressiert seine Sorge vor Deindustrialisierung und Arbeitsplatzverlust ausdrücklich.",
+      "begruendung_selbst": "Wenn die Industrie weg ist, ist mein Job weg. Darum zählt für mich, dass Betriebe hier bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lohn darf nicht schrumpfen",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm will Reallohnverluste vermeiden, Kaufkraft sichern sowie Tarifbindung, Mitbestimmung und Arbeitnehmerrechte stärken.",
+      "seite": 22,
+      "zitat": "„Reallohnverluste vermieden und die Kaufkraft gesichert“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf verdient solide, aber ohne großen Puffer; Preissteigerungen bei Sprit, Strom und Lebensmitteln treffen ihn sofort. Kaufkraftschutz und faire Löhne sprechen seine arbeitnehmerorientierte Grundhaltung an.",
+      "begruendung_selbst": "Ich arbeite Schicht und will nicht jedes Jahr weniger davon haben. Der Lohn muss mit den Preisen mithalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Land ist nicht Stadt",
+      "thema": "energie",
+      "programmpunkt": "Bei der Wärmewende fordert das BSW regional passende, technologieoffene Lösungen und warnt davor, Ballungsraumlogik auf ländliche Räume zu übertragen.",
+      "seite": 26,
+      "zitat": "„funktioniert nicht automatisch auf dem Land“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf misstraut Vorgaben, die am Schreibtisch entstehen und auf dem Dorf teuer oder unpraktisch werden. Die Forderung nach regional angepassten Übergängen bestätigt seinen Pragmatismus.",
+      "begruendung_selbst": "Was in der Stadt klappt, passt noch lange nicht in unser Dorf. Das muss bezahlbar und machbar bleiben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Radwege lösen keine Schicht",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm macht alltagstauglichen Radverkehr zu einem Baustein der Mobilitätspolitik.",
+      "seite": 33,
+      "zitat": "„Alltagstauglichen Radverkehr stärken“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf kann sichere Radwege grundsätzlich akzeptieren, aber aus seiner Schichtpendler-Perspektive lösen sie sein Hauptproblem nicht. Der Punkt erinnert ihn an Verkehrspolitik, die für Stadtbewohner plausibler ist als für Dorfpendler mit langem Arbeitsweg.",
+      "begruendung_selbst": "Ein Radweg bringt mich nicht nachts zur Schicht. Für kurze Wege nett, aber mein Problem ist damit nicht gelöst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Carsharing ist kein Schichtplan",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW will Bus, Bahn, Fahrrad, Carsharing, Mitfahrmodelle und Bürgerbusse im ländlichen Raum stärker verknüpfen.",
+      "seite": 33,
+      "zitat": "„Bus, Bahn, Fahrrad, Carsharing, Mitfahrmodelle und Bürgerbusse“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aus Toralfs Sicht klingt ein Mix aus flexiblen Angeboten schnell nach Ersatzlösungen, die bei Früh-, Spät- und Nachtschicht unsicher bleiben. Er braucht Verlässlichkeit zu konkreten Arbeitszeiten, nicht nur besser verknüpfte Optionen.",
+      "begruendung_selbst": "Ich kann beim Schichtwechsel nicht hoffen, dass irgendein Bürgerbus passt. Ich brauche etwas, worauf ich mich verlassen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wer zahlt den Gratisbus?",
+      "thema": "verkehr",
+      "programmpunkt": "Perspektivisch will das BSW einen öffentlich organisierten ÖPNV, der langfristig allen Menschen kostenlos zur Verfügung steht.",
+      "seite": 76,
+      "zitat": "„langfristig allen Menschen kostenfrei zur Verfügung steht“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf könnte kostenlose Angebote begrüßen, wenn sie ihm tatsächlich nutzen; ohne brauchbare Verbindung wirkt es für ihn aber wie eine Leistung, die andere stärker nutzen. Seine Fairnessfrage lautet, ob arbeitende Pendler am Ende zahlen, während sein eigener Arbeitsweg teuer bleibt.",
+      "begruendung_selbst": "Kostenlos klingt gut, aber wenn hier kein Bus zur Schicht fährt, zahle ich am Ende trotzdem Sprit und Steuern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ticket billiger, Bus fehlt",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm will das Deutschlandticket erhalten und perspektivisch günstiger machen.",
+      "seite": 33,
+      "zitat": "„muss erhalten bleiben und perspektivisch günstiger werden“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stadtbewohner mit guter Anbindung ist ein günstiges Ticket direkt hilfreich; für Toralf ohne brauchbaren ÖPNV kaum. Der Punkt berührt sein Gefühl ungleicher Entlastung zwischen Stadt und Land.",
+      "begruendung_selbst": "Ein billiges Ticket hilft mir wenig, wenn der Bus nicht fährt, wenn ich los muss. Erst die Verbindung, dann der Preis.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf würde das BSW-Programm insgesamt deutlich positiv aufnehmen, weil es seine wichtigsten Alltagspunkte direkt anspricht: Spritkosten, CO2-Abgabe, Verbrenner, ländliche Mobilität, bezahlbare Energie und Industriearbeitsplätze. Besonders stark wirkt auf ihn, dass das Programm Autonutzung auf dem Land ausdrücklich als Realität anerkennt. Skeptisch bleibt er dort, wo ÖPNV-, Rad- und Ticketpolitik nach Lösungen klingt, die vor allem Menschen mit guter Anbindung helfen.",
+    "score": 2
+  }
+}

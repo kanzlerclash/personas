@@ -1,0 +1,186 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 73752,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine Waffen in meiner Uni",
+      "thema": "bildung",
+      "programmpunkt": "Das BSW lehnt militärische Einflussnahme auf Hochschulen, Rüstungsprojekte und militärisch gesteuerte Forschung ab und will Hochschulen als zivile Orte schützen.",
+      "seite": 8,
+      "zitat": "„Militärische Einflussnahme auf Forschung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule studiert und engagiert sich politisch; eine klare Absage an militärische Forschung passt zu ihrem Bedürfnis nach kritischer, ziviler Wissenschaft. Der zusätzliche Klima-Bezug von Krieg verstärkt die Zustimmung.",
+      "begruendung_selbst": "Ich will an einer Uni lernen, die für Gemeinwohl und Frieden arbeitet, nicht für Rüstung und Kriegslogik.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitreden statt abnicken",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm will Volksentscheide, Bürgerräte, Online-Beteiligung, Anhörungen und Bürgerdialoge ausbauen und junge Menschen stärker in Zukunftsentscheidungen einbeziehen.",
+      "seite": 11,
+      "zitat": "„Zukunftsfähige Politik gelingt nur dann, wenn sie junge Menschen einbezieht“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule legt Wert auf demokratische Mitbestimmung und Jugendbeteiligung. Dass die Partei ausdrücklich junge Menschen und Zukunftsfragen verbindet, trifft ihren aktivistischen Politikbegriff.",
+      "begruendung_selbst": "Ich will nicht nur alle paar Jahre wählen, während andere über Klima, Uni und meine Zukunft entscheiden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "BAföG muss reichen",
+      "thema": "bildung",
+      "programmpunkt": "Das BSW fordert ein gebührenfreies Studium, eine deutliche BAföG-Ausweitung und bessere soziale Infrastruktur der Studentenwerke.",
+      "seite": 51,
+      "zitat": "„eine deutliche Ausweitung und Reform des BAföG“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt von Teil-BAföG und Nebenjob; eine Reform, die weniger Erwerbsdruck im Studium verspricht, berührt ihre finanzielle Lage unmittelbar. Auch Studentenwerke sind für Wohnen, Mensa und Beratung in ihrem Alltag relevant.",
+      "begruendung_selbst": "Wenn BAföG realistisch wäre, müsste ich nicht ständig zwischen Seminar, Schichtplan und Kontostand jonglieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "WG-Miete runter",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm fordert mehr sozialen und gemeinnützigen Wohnungsbau sowie mehr bezahlbare Wohnheimplätze für Studierende und Auszubildende.",
+      "seite": 30,
+      "zitat": "„mehr Wohnheimplätze und Internate für Studierende und Auszubildende“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule wohnt zur Miete in einer WG und spürt steigende Wohnkosten sofort. Mehr Wohnheimplätze und Mietbegrenzung passen zu ihrem Bedarf nach bezahlbarem Wohnen in der Universitätsstadt.",
+      "begruendung_selbst": "Meine Miete frisst jeden Monat zu viel weg; bezahlbare Zimmer sind keine Nebensache.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ticket darf nicht blockieren",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW will einen bezahlbaren und verlässlichen Nahverkehr, das Deutschlandticket erhalten und günstiger machen sowie Sozialtickets für Menschen mit wenig Einkommen stärken.",
+      "seite": 33,
+      "zitat": "„Bildung, Kultur und soziale Teilhabe dürfen nicht am Ticketpreis scheitern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule nutzt ÖPNV und Rad im Alltag; Mobilitätskosten treffen ihr knappes Budget direkt. Ein günstigeres Deutschlandticket und Sozialtickets verbinden Klimaschutz mit Teilhabe.",
+      "begruendung_selbst": "Wenn Bus und Bahn teuer oder unzuverlässig sind, trifft das genau Leute wie mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimageld für kleine Budgets",
+      "thema": "klima",
+      "programmpunkt": "Das Programm verlangt, Einnahmen aus CO2-Bepreisung als Klimaprämie an Bürger zurückzugeben und Mehrbelastungen sozial abzufedern.",
+      "seite": 27,
+      "zitat": "„CO ₂ -Einnahmen als Klimaprämie an Bürger zurückgeben“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule will Klimaschutz, kann aber Preissteigerungen kaum abfangen. Eine direkte soziale Rückverteilung passt zu ihrer Vorstellung von Klimagerechtigkeit, solange sie Klimaschutz nicht ersetzt.",
+      "begruendung_selbst": "Klimapolitik darf nicht die bestrafen, die sowieso schon jeden Euro umdrehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queere Sicherheit zählt",
+      "thema": "familie",
+      "programmpunkt": "Das BSW verspricht Schutz vor Gewalt gegen Minderheiten, gleiche Rechte unabhängig von sexueller Orientierung und Sensibilisierung in staatlichen Institutionen.",
+      "seite": 38,
+      "zitat": "„Schutz ihrer Rechte in einer sicheren Öffentlichkeit“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als queere Studentin nimmt Jule positiv wahr, dass Schutz vor Gewalt und rechtliche Gleichstellung ausdrücklich angesprochen werden. Der Punkt wird für sie aber durch andere Aussagen im selben Abschnitt abgeschwächt.",
+      "begruendung_selbst": "Dass queere Menschen sicher öffentlich leben können sollen, ist für mich kein Extra, sondern Mindeststandard.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mein Geschlecht ist nicht verhandelbar",
+      "thema": "familie",
+      "programmpunkt": "Das BSW orientiert Gleichstellungspolitik an biologischer Zweigeschlechtlichkeit und beschreibt das biologische Geschlecht als rechtlich unveränderbar.",
+      "seite": 37,
+      "zitat": "„biologischen Zweigeschlechtlichkeit“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule ist queer und fürchtet den Abbau von Gleichstellungs-, Antidiskriminierungs- und Vielfaltsprogrammen. Diese Formulierung signalisiert ihr, dass geschlechtliche Vielfalt politisch begrenzt und trans Perspektiven nachrangig behandelt werden.",
+      "begruendung_selbst": "Wenn Politik wieder bei biologischen Schubladen anfängt, weiß ich, dass meine Community gemeint ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pronomen sind nicht Deko",
+      "thema": "familie",
+      "programmpunkt": "Das Programm stuft Debatten über Pronomen und Flaggen im Landtag als keine politischen Kernaufgaben ein.",
+      "seite": 39,
+      "zitat": "„Debatten über Pronomen oder das Hissen von Flaggen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule sind Sprache, Sichtbarkeit und Symbole nicht bloße Nebensachen, sondern Teil gesellschaftlicher Anerkennung. Die Abwertung solcher Debatten wirkt auf sie wie ein Rückzug aus aktiver Vielfalts- und Antidiskriminierungspolitik.",
+      "begruendung_selbst": "Pronomen und Pride-Flaggen lösen nicht alles, aber sie zeigen, ob wir sichtbar sein dürfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Angst vor Aufklärung",
+      "thema": "bildung",
+      "programmpunkt": "Das BSW will verhindern, dass Kitas und Schulen Konzepte zu Geschlecht, Sexualität oder Identität gegen den Willen der Eltern einführen oder fördern.",
+      "seite": 39,
+      "zitat": "„Themen wie Geschlecht, Sexualität oder Identität“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht queere Bildung und Sensibilisierung als Schutz vor Ausgrenzung. Wenn diese Themen als ideologische Einflussnahme gerahmt werden, befürchtet sie weniger sichere Räume für queere Jugendliche.",
+      "begruendung_selbst": "Queere Jugendliche brauchen Wissen und Schutz, nicht Elternveto gegen ihre Lebensrealität.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohle ist keine Zukunft",
+      "thema": "energie",
+      "programmpunkt": "Das Programm hält Braunkohle als heimischen Energieträger im Energiemix und setzt auf grundlastfähige Ergänzungen statt auf einen schnellen fossilen Ausstieg.",
+      "seite": 24,
+      "zitat": "„Dazu zählt auch der heimische Energieträger Braunkohle“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jules zentraler Maßstab ist ein schnelles Ende fossiler Energien. Die Aufwertung von Braunkohle als Teil der Versorgungssicherheit steht ihrem Klimagerechtigkeitsverständnis deutlich entgegen.",
+      "begruendung_selbst": "Braunkohle als Sicherheitsanker zu verkaufen, fühlt sich an wie Klimaschutz mit angezogener Handbremse.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO2-Preis nicht wegwerfen",
+      "thema": "klima",
+      "programmpunkt": "Das BSW fordert, die CO2-Abgabe auszusetzen oder abzuschaffen, statt sie verbindlich sozial zurückzuverteilen und ökologisch weiterzuentwickeln.",
+      "seite": 27,
+      "zitat": "„diese ungerechte Steuer auszusetzen oder abzuschaffen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule teilt die Sorge vor sozial ungerechten Belastungen, will Klimaschutz aber nicht zurückdrehen. Eine Abschaffung ohne gleich starke Klimainstrumente wirkt auf sie wie ein Signal gegen Verbindlichkeit.",
+      "begruendung_selbst": "Ja, Klimaschutz muss sozial sein, aber einfach abschaffen ist keine Klimapolitik.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verkehrswende bitte wirklich",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm lehnt eine erzwungene Verkehrswende und ein pauschales Verbrennerverbot ab und setzt stark auf Technologieoffenheit.",
+      "seite": 32,
+      "zitat": "„Eine erzwungene Verkehrswende lehnen wir ab“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule hat Verständnis für ländliche Mobilitätsprobleme, priorisiert aber Klima- und Verkehrswende. Die Formulierung klingt für sie wie eine Bremse gegen klare politische Vorgaben für weniger fossilen Autoverkehr.",
+      "begruendung_selbst": "Natürlich braucht das Land Alternativen, aber ohne echten Druck bleibt am Ende wieder das Auto normal.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule findet im BSW-Programm mehrere konkrete Entlastungen für ihre studentische Lebenslage: BAföG, Wohnheime, günstiger ÖPNV, Klimaprämie und mehr Beteiligung passen zu ihr. Gleichzeitig stoßen die queerpolitischen Passagen zur biologischen Zweigeschlechtlichkeit, zu Pronomen und zu Bildungsinhalten direkt gegen ihr Sicherheits- und Anerkennungsbedürfnis. Auch klima- und verkehrspolitisch wirkt das Programm aus ihrer Sicht zu bremsend, weil Braunkohle, CO2-Abgaben-Abschaffung und Technologieoffenheit stärker betont werden als verbindlicher Umbau.",
+    "score": -1
+  }
+}

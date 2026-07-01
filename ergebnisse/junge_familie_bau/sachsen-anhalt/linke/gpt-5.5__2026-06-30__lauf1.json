@@ -1,0 +1,174 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 77177,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kita darf nichts kosten",
+      "thema": "familie",
+      "programmpunkt": "Die Linke will ganztägige Kita-Betreuung rechtlich absichern, Elternbeiträge abschaffen und das Land die Mehrkosten für bessere Personalschlüssel tragen lassen.",
+      "seite": 29,
+      "zitat": "„die Bildung in Kindertageseinrichtungen für alle Eltern beitragsfrei wird“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Tom und Jessica sind Kita-Kosten und Betreuungszuverlässigkeit direkte Faktoren in ihrer Haushaltsrechnung. Beitragsfreiheit und bessere Personalschlüssel würden die Vereinbarkeit zweier Jobs stützen und ihre Sparrate fürs Eigenkapital entlasten.",
+      "begruendung_selbst": "Wenn wir beide arbeiten, darf die Kita nicht der nächste Kostenblock sein, der uns vom Haus wegdrückt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich verlässliche Betreuung",
+      "thema": "familie",
+      "programmpunkt": "Die Partei verspricht den Erhalt von Kita-, Schul- und Hortstandorten sowie mehr pädagogisches Personal.",
+      "seite": 46,
+      "zitat": "„den Erhalt aller Kita - , Schul - und Hortstandorte im Land“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona sorgt sich konkret, dass fehlende Plätze und Ausfälle die Zwei-Verdiener-Planung gefährden. Standorterhalt und mehr Fachpersonal treffen ihren Wunsch nach planbarer Betreuung im Alltag.",
+      "begruendung_selbst": "Wir brauchen keinen schönen Flyer, sondern morgens einen Platz, auf den wir uns verlassen können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Miete runter, bis wir kaufen",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will Mietpreisbremse, sozial orientierte Wohnungswirtschaft und kommunalen Zugriff auf Immobilien und Grundstücke stärken.",
+      "seite": 82,
+      "zitat": "„uns für eine Mietpreisbremse einsetzen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Tom und Jessica Eigentum anstreben, wohnen sie aktuell zur Miete und müssen Eigenkapital ansparen. Sinkender Mietdruck würde ihre Übergangsphase bis zum Kauf finanziell erleichtern.",
+      "begruendung_selbst": "Solange wir noch nicht kaufen können, muss die Miete wenigstens Luft zum Sparen lassen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heizung ja, bezahlbar bitte",
+      "thema": "energie",
+      "programmpunkt": "Sanierungen und Heizungswechsel sollen sozial abgefedert werden; im Mietbereich fordert die Partei warmmietenneutrale Sanierung und Heizungswechsel.",
+      "seite": 84,
+      "zitat": "„Sanierungen und Heizungstausch warmmietenneutral“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona ist nicht grundsätzlich gegen energetische Modernisierung, fürchtet aber preistreibende Vorgaben. Warmmietenneutralität entspricht ihrem pragmatischen Wunsch, Klimaschutz nicht als zusätzliche Monatslast zu erleben.",
+      "begruendung_selbst": "Modernisieren ist okay, aber am Ende darf unsere Monatsrate nicht wieder explodieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus und Bahn für Pendler",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will ÖPNV im ländlichen Raum ausbauen, jede Gemeinde anschließen und Verknüpfungen von Bus und Bahn verbessern.",
+      "seite": 101,
+      "zitat": "„jede Gemeinde an den öffentlichen Personennahverkehr anschließen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für eine Familie im Speckgürtel zählt die tägliche Erreichbarkeit von Job, Kita und Stadt. Bessere Anbindung kann Pendelkosten und Abhängigkeit vom Auto senken, ohne den Wohnort aufzugeben.",
+      "begruendung_selbst": "Wenn wir rausziehen, brauchen wir trotzdem eine echte Verbindung zur Arbeit und zur Kita.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Formular-Marathon",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will Verwaltungsverfahren analysieren, doppelte und widersprüchliche Prozesse streichen und Abläufe spürbar entlasten.",
+      "seite": 143,
+      "zitat": "„Überflüssige Aufgaben werden gestrichen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica rechnen mit Bau-, Förder- und Familienanträgen und reagieren empfindlich auf bürokratische Umwege. Vereinfachte Verfahren passen zu ihrer pragmatischen Erwartung, dass Verwaltung zuverlässig und zügig funktioniert.",
+      "begruendung_selbst": "Wir haben Jobs, Kind und Haussuche; wir können nicht jedes Amt dreimal bedienen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kein Cent fürs Eigentum?",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will Wohnungsbaumittel ausschließlich für unbefristet gebundenen sozialen Mietwohnungsbau verwenden und nicht für Eigentumsförderung.",
+      "seite": 83,
+      "zitat": "„nur für unbefristet gebundenen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona sucht gerade politische Entlastung beim Kauf oder Bau der eigenen vier Wände. Eine ausdrückliche Absage an Eigentumsförderung trifft ihren zentralen Aufstiegswunsch direkt negativ.",
+      "begruendung_selbst": "Genau wir brauchen Hilfe beim Start, und dann heißt es: Eigentum fördern wir nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wir wollen bauen dürfen",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei lehnt unkontrollierte Zersiedelung durch Neubauten am Stadtrand und auf der grünen Wiese ab.",
+      "seite": 85,
+      "zitat": "„Neubauten am Stadtrand und auf der grünen Wiese lehnen wir ab“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica suchen typischerweise im Speckgürtel nach bezahlbarem Bauland. Auch wenn die Formulierung auf unkontrollierte Zersiedelung zielt, hören sie darin weniger Neubauflächen und damit höheren Druck auf Preise und Auswahl.",
+      "begruendung_selbst": "Wenn am Stadtrand nichts mehr gehen soll, bleibt für Familien doch noch weniger bezahlbares Bauland.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Passivhaus verteuert den Traum",
+      "thema": "energie",
+      "programmpunkt": "Für Neubauten sollen Passivhausstandards festgelegt und nachhaltige Baustoffe gefördert werden.",
+      "seite": 108,
+      "zitat": "„für Neubauten Passivhausstandards festlegen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona ist gegenüber energetischen Bauvorgaben skeptisch, weil sie Baukosten und Finanzierung belasten können. Verbindliche Passivhausstandards wirken aus ihrer Perspektive wie eine weitere Hürde zwischen Einkommen und Eigenheim.",
+      "begruendung_selbst": "Noch ein Standard klingt gut, aber unsere Bank rechnet jeden Zusatz-Euro gegen uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Solardach als Pflicht",
+      "thema": "energie",
+      "programmpunkt": "Die Linke priorisiert Photovoltaik auf Dächern und will eine Solarpflicht für Neubauten einführen.",
+      "seite": 107,
+      "zitat": "„mit Solarpflicht für Neubauten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Eine Solaranlage kann langfristig nützen, erhöht aber zunächst die Investitionssumme beim Bau. Für eine Familie, deren Finanzierung schon an Zinsen und Baukosten hängt, ist eine Pflicht besonders sensibel.",
+      "begruendung_selbst": "Wir sind nicht gegen Solar, aber eine Pflicht macht den Start wieder teurer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auto bleibt Alltag",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke plädiert für weniger motorisierten Individualverkehr und eine Verlagerung auf Schiene und Wasserstraße, auch wenn sie die Bedeutung des Pkw im Dorf anerkennt.",
+      "seite": 101,
+      "zitat": "„Verkehrsreduzierung beim motorisierten Individual - verkehr“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica pendeln im Umland und werden trotz besserem ÖPNV oft auf das Auto angewiesen bleiben. Die Betonung der Verkehrsreduzierung wirkt für sie wie Politik an ihrem Alltag vorbei, selbst wenn das Programm den Pkw für schlecht angebundene Dörfer erwähnt.",
+      "begruendung_selbst": "Mit Kleinkind, Arbeitsweg und Einkauf lässt sich unser Auto nicht einfach wegplanen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Kaufnebenkosten-Entlastung",
+      "thema": "steuern",
+      "programmpunkt": "Das Finanzkapitel setzt auf Vermögens-, Erbschafts- und Gemeindewirtschaftssteuer, nennt aber keine Entlastung bei Grunderwerbsteuer oder Erwerbsnebenkosten.",
+      "seite": 17,
+      "zitat": "„Wer Millionen besitzt, kann und soll einen gerechten Beitrag leisten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona sucht konkrete Senkung von Erwerbsnebenkosten, vor allem beim Kauf einer selbstgenutzten Immobilie. Dass das Steuerkapitel Umverteilung betont, aber ihre größte Kaufhürde nicht adressiert, enttäuscht ihren eigentumsfreundlichen Maßstab.",
+      "begruendung_selbst": "Uns hilft keine große Steuerdebatte, wenn die Kaufnebenkosten weiter unser Eigenkapital auffressen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica würden im Programm der Linken deutliche Entlastungen bei Kita, Betreuung, Mieten, Energiepreisen und Pendelanbindung sehen. Gleichzeitig trifft sie hart, dass Eigentumsförderung ausdrücklich abgelehnt wird und Neubau-, Solar- sowie Passivhausvorgaben ihren Hausbau teurer oder schwerer machen könnten. Aus ihrer aufstiegs- und eigentumsorientierten Perspektive überwiegt deshalb trotz familienpolitischer Pluspunkte eine skeptische Gesamtwirkung.",
+    "score": -1
+  }
+}
