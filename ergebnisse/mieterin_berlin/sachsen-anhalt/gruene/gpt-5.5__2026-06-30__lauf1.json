@@ -1,0 +1,162 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 102405,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen ist kein Aktienpaket",
+      "thema": "wohnen",
+      "programmpunkt": "Die Grünen beschreiben Wohnen als Grundrecht und Wohnungen ausdrücklich nicht als Spekulationsobjekt.",
+      "seite": 91,
+      "zitat": "Wohnen ist ein Grundrecht",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht ihre Wohnsicherheit nicht als Ware, sondern als Voraussetzung für ein stabiles Leben im Kiez. Die Formulierung trifft ihren Kernkonflikt mit renditegetriebener Wohnungspolitik direkt.",
+      "begruendung_selbst": "Genau darum geht es: Meine Wohnung ist nicht irgendein Investment, sondern mein Zuhause.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich ein Mietendeckel",
+      "thema": "wohnen",
+      "programmpunkt": "Zur Sicherung bezahlbarer Wohnungen sollen Mietendeckel eingesetzt und sozialer Wohnungsbau besser nutzbar gemacht werden.",
+      "seite": 91,
+      "zitat": "sollen Mietendeckel eingesetzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Carla ist wirksame Mietregulierung der entscheidende Prüfstein. Ein Mietendeckel signalisiert ihr, dass steigende Mieten nicht allein dem Markt überlassen werden sollen.",
+      "begruendung_selbst": "Wenn die Miete jeden Monat meine Existenzfrage ist, brauche ich harte Grenzen und keine warmen Worte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Häuser in Gemeinhand",
+      "thema": "wohnen",
+      "programmpunkt": "Genossenschaften, Mehrgenerationenwohnen und Mietshausprojekte sollen gezielt gefördert und kommunale Eigenprojekte unterstützt werden.",
+      "seite": 91,
+      "zitat": "wollen wir gezielt fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla hofft auf gemeinwohlorientierten Wohnraum, der nicht ständig weiterverkauft und verwertet wird. Die Förderung von Genossenschaften und Mietshausprojekten passt zu ihrem Wunsch nach dauerhaft geschützten Häusern.",
+      "begruendung_selbst": "Ich will Vermieterstrukturen, bei denen der Kiez zählt und nicht die nächste Renditerunde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gentrifizierung beim Namen nennen",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will Durchmischung fördern, Wohnungstausch unterstützen und Gentrifizierung entgegenwirken.",
+      "seite": 91,
+      "zitat": "Gentri fi zierung entgegenwirken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla erlebt Verdrängung als schleichenden Verlust ihres sozialen Umfelds. Dass das Programm Gentrifizierung ausdrücklich als Problem benennt, bestätigt ihre Kiezperspektive.",
+      "begruendung_selbst": "Es geht nicht nur um vier Wände, sondern darum, ob mein Kiez noch meiner bleibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Räumung wegen Schulden",
+      "thema": "wohnen",
+      "programmpunkt": "Für Wohnungen in öffentlicher Hand wird ein landesweites Moratorium für Zwangsräumungen wegen Mietschulden befürwortet.",
+      "seite": 92,
+      "zitat": "Moratorium für Zwangsräumungen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ist selbst nicht zwingend betroffen, aber ihre solidarische Haltung zu prekär wohnenden Menschen wird klar angesprochen. Sie bewertet es positiv, wenn Mietschulden nicht automatisch zum Wohnungsverlust führen.",
+      "begruendung_selbst": "Wer einmal ins Straucheln kommt, darf nicht direkt auf der Straße landen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vorkaufsrecht gegen Spekulation",
+      "thema": "wohnen",
+      "programmpunkt": "Kommunale Vorkaufsrechte sollen gesichert und ausgeweitet werden, damit Bodenspekulation begrenzt und bezahlbarer Wohnraum gestützt wird.",
+      "seite": 98,
+      "zitat": "das kommunale Vorkaufsrecht sichern und ausweiten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla misstraut Immobilieninvestoren und Vermieter-Lobby als Gegeninteresse zu ihrer Wohnsicherheit. Ein stärkeres Vorkaufsrecht gibt Kommunen ein Werkzeug gegen genau diese Dynamik.",
+      "begruendung_selbst": "Wenn Häuser verkauft werden, muss die Stadt eingreifen können, bevor der nächste Investor durchmarschiert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leerstand muss weichen",
+      "thema": "wohnen",
+      "programmpunkt": "Kommunen sollen abgestufte Instrumente gegen langfristigen Leerstand erhalten, bis hin zur leichteren Übernahme ungenutzter Immobilien als letztem Mittel.",
+      "seite": 98,
+      "zitat": "Instrumente gegen langfristigen Leerstand",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ärgert es, wenn Wohnraum knapp ist und Gebäude zugleich leer stehen. Die vorgeschlagenen Fristen, Abgaben und Zwischennutzungen entsprechen ihrer Vorstellung, dass Eigentum soziale Verantwortung trägt.",
+      "begruendung_selbst": "Leerstand mitten in Wohnungsnot ist politisches Versagen, da muss Druck drauf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vorrang für Bus und Rad",
+      "thema": "verkehr",
+      "programmpunkt": "Bus, Bahn, Rad- und Fußverkehr sowie Carsharing sollen grundsätzlich Vorrang erhalten.",
+      "seite": 28,
+      "zitat": "dem Umweltverbund",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt ohne Auto und nutzt ÖPNV und Rad im Alltag. Der Vorrang für den Umweltverbund passt zu ihrer Vorstellung einer städtischen Mobilität, die nicht zuerst ums Auto herum geplant wird.",
+      "begruendung_selbst": "Ich brauche sichere Radwege und verlässliche Bahnen, nicht noch mehr Platz fürs Auto.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Autoarme Quartiere, bitte",
+      "thema": "verkehr",
+      "programmpunkt": "Autoarme Quartiere sollen durch weniger Durchgangsverkehr und erleichterte autofreie Zonen gefördert werden.",
+      "seite": 93,
+      "zitat": "Wir fördern autoarme Quartiere",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla wünscht sich eine lebendige, gemischte Stadt mit Aufenthaltsqualität statt Verkehrsdruck. Autoarme Quartiere stärken genau das Umfeld, in dem sie sich zuhause fühlt.",
+      "begruendung_selbst": "Mein Kiez soll ein Ort zum Leben sein, nicht nur eine Durchfahrt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nicht nur prüfen",
+      "thema": "wohnen",
+      "programmpunkt": "Ein Mietenkataster wird nur ergebnisoffen geprüft, statt als verbindliches Transparenzinstrument zugesagt zu werden.",
+      "seite": 91,
+      "zitat": "ergebnisoffen prüfen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla ist von regierenden Parteien enttäuscht, wenn sie Wohnschutz ankündigen, aber bei konkreten Instrumenten unverbindlich bleiben. Ein bloß ergebnisoffener Prüfauftrag wirkt auf sie zu schwach für eine Lage, die sie als existenziell erlebt.",
+      "begruendung_selbst": "Bei Mieten habe ich keine Zeit für Prüfschleifen, ich brauche Transparenz und Druck jetzt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ich will nicht weg",
+      "thema": "wohnen",
+      "programmpunkt": "Sachsen-Anhalt will in Berlin und Leipzig gezielt für das Leben im ländlichen Raum werben.",
+      "seite": 92,
+      "zitat": "insbesondere in Berlin und Leipzig",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla ist tief in ihrem Berliner Kiez verwurzelt und sucht Schutz vor Verdrängung, nicht eine politische Erzählung vom Wegziehen. Die Kampagne berührt sie negativ, weil sie großstädtischen Wohnungsdruck indirekt als Abwanderungspotenzial liest.",
+      "begruendung_selbst": "Mein Problem ist nicht, dass ich Sachsen-Anhalt noch nicht entdeckt habe. Mein Problem ist, dass Berlin unbezahlbar wird.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im grünen Programm viele Formulierungen und Instrumente, die ihre mieterorientierte Sicht bestätigen: Mietendeckel, gemeinwohlorientierte Wohnformen, Vorkaufsrecht, Leerstands-Instrumente und autoarme Mobilität. Besonders stark wirkt für sie, dass Wohnen ausdrücklich als Grundrecht und nicht als Spekulationsobjekt beschrieben wird. Kritisch bleibt sie dort, wo Instrumente nur geprüft werden oder Berliner Wohnungsdruck eher als Anlass zum Wegwerben in den ländlichen Raum erscheint.",
+    "score": 2
+  }
+}

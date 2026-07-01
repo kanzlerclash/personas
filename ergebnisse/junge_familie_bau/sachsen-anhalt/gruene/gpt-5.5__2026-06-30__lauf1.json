@@ -1,0 +1,174 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 88461,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kita in Reichweite",
+      "thema": "familie",
+      "programmpunkt": "Mit dem Programm HeimatKita soll die nächste Kindertagesbetreuung im Ort oder höchstens 15 Minuten entfernt sein, auch über Kleinst-Kitas und flexible lokale Lösungen.",
+      "seite": 57,
+      "zitat": "„maximal 15 Minuten entfernt!“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sind auf verlässliche Betreuung angewiesen, weil beide arbeiten und ein zweites Kind denkbar ist. Eine Kita in kurzer Entfernung würde ihren Alltag im Speckgürtel deutlich planbarer machen.",
+      "begruendung_selbst": "Wenn die Kita wirklich höchstens eine Viertelstunde weg ist, können wir beide Jobs, Pendeln und Familie viel besser unter einen Hut bekommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Personal, weniger Ausfall",
+      "thema": "familie",
+      "programmpunkt": "Die Grünen wollen Kita STABIL langfristig absichern, den Mindestpersonalschlüssel erhöhen und Erzieherinnen und Erzieher von Bürokratie entlasten.",
+      "seite": 57,
+      "zitat": "„den Mindestpersonalschlüssel anheben“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für die junge Familie zählt nicht nur ein Platz, sondern eine Betreuung, die im Alltag stabil funktioniert. Mehr Personal in Kitas adressiert genau die Sorge, dass Beruf und Familie an Ausfällen und Überlastung scheitern.",
+      "begruendung_selbst": "Ein Kita-Platz hilft nur, wenn die Betreuung auch verlässlich läuft. Mehr Personal heißt für uns weniger Stress und weniger Notlösungen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kitabeiträge fair staffeln",
+      "thema": "familie",
+      "programmpunkt": "Das Land soll ein Modell für sozial gestaffelte Kitabeiträge entwickeln und die Entlastung für Mehrkinderfamilien sichern.",
+      "seite": 57,
+      "zitat": "„Modell zur sozialen Staffelung von Kitabeiträgen erarbeiten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kitakosten konkurrieren bei Tom und Jessica direkt mit der Sparrate fürs Eigenkapital. Eine gerechtere Staffelung und Entlastung bei mehreren Kindern passt zu ihrer Hoffnung, Familie und Eigentumsaufbau gleichzeitig stemmen zu können.",
+      "begruendung_selbst": "Wir rechnen jeden Monat durch. Wenn Kitabeiträge fairer werden, bleibt wenigstens etwas mehr für Eigenkapital und ein zweites Kind übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die Grünen nennen bezahlbare Energiepreise als Hauptziel und wollen die Strompreise unter anderem über geringere Stromsteuer und regionale Netzentgelte senken.",
+      "seite": 22,
+      "zitat": "„bezahlbare Energiepreise für Bürger*innen und Wirtschaft“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona ist skeptisch gegenüber teuren Energieauflagen, aber nicht gegen bezahlbare Energielösungen. Die ausdrückliche Orientierung an sinkenden Strompreisen berührt ihre Haushaltsrechnung unmittelbar.",
+      "begruendung_selbst": "Klimaschutz ist okay, wenn die Rechnung am Ende nicht wieder bei uns landet. Bezahlbarer Strom ist für Haus, Wärmepumpe und Alltag entscheidend.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wärmepumpe ohne Papierkrieg",
+      "thema": "energie",
+      "programmpunkt": "Beim Umbau auf erneuerbare Wärme sollen Heizungsbesitzer ergänzende Unterstützung erhalten; Vorgaben für Wärmepumpen sollen praxisnah und unkompliziert sein.",
+      "seite": 26,
+      "zitat": "„den Zugang zu nachhaltigen Heizlösungen zu erleichtern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica fürchten, dass energetische Vorgaben Bau und Sanierung verteuern. Die Zusage unkomplizierter Vorgaben und zusätzlicher Unterstützung nimmt einen Teil dieser Sorge auf.",
+      "begruendung_selbst": "Wenn wir irgendwann bauen oder sanieren, brauchen wir klare, machbare Regeln. Nicht noch einen Stapel Vorschriften, der alles teurer macht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stündlicher Bus wäre was",
+      "thema": "verkehr",
+      "programmpunkt": "Der Busverkehr soll im ganzen Land so ausgebaut werden, dass Dörfer mindestens stündlich erreichbar sind, ergänzt durch Rufbusse oder On-Demand-Angebote.",
+      "seite": 29,
+      "zitat": "„Dörfer mindestens einmal pro Stunde zuverlässig zu erreichen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Pendlerfamilie im Umland bleiben sie auf gute Verbindungen angewiesen, auch wenn das Auto weiter wichtig ist. Ein stündlicher Bus und bessere Abend- oder Wochenendangebote würden den Familienalltag flexibler machen.",
+      "begruendung_selbst": "Wir werden nicht komplett ohne Auto leben. Aber ein Bus, der wirklich stündlich fährt, würde Pendeln und Kita-Logistik deutlich entspannen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Neubau wird ausgebremst",
+      "thema": "wohnen",
+      "programmpunkt": "Beim Bauen soll der Fokus künftig weniger auf Neubau und stärker auf Erhalt, Umnutzung und Sanierung bestehender Gebäude liegen.",
+      "seite": 92,
+      "zitat": "„weniger auf Neubau und stärker auf Erhalt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica suchen gerade eine realistische Perspektive auf eigene vier Wände. Ein politischer Schwerpunkt weg vom Neubau wirkt für sie wie ein Signal, dass Bauland und neue Einfamilienhausoptionen eher knapper bleiben.",
+      "begruendung_selbst": "Wir wollen nicht ewig nur Bestandskompromisse suchen. Wenn Neubau politisch nach hinten rutscht, wird unser Haus eher noch unerreichbarer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nur mit ÖPNV-Anschluss?",
+      "thema": "wohnen",
+      "programmpunkt": "Flächen für Neubauten sollen nur noch vorgesehen werden, wenn eine ÖPNV-Anbindung vorhanden ist oder gesichert werden kann.",
+      "seite": 92,
+      "zitat": "„Flächen für Neubauten sollen nur vorgesehen werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für eine Familie im Speckgürtel kann diese Bedingung neue Baugebiete zusätzlich begrenzen. Sie wünscht sich zwar bessere Anbindung, sieht aber die Gefahr, dass Bauland dadurch noch seltener und teurer wird.",
+      "begruendung_selbst": "Gute Anbindung ist super. Aber wenn ohne perfekte ÖPNV-Lösung kaum noch Neubauflächen kommen, steigen die Preise weiter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netto null heißt null Chancen",
+      "thema": "wohnen",
+      "programmpunkt": "Der Flächenverbrauch soll stark sinken; bis 2050 soll kein weiterer Flächenverbrauch ohne gleichzeitige Entsiegelung stattfinden.",
+      "seite": 93,
+      "zitat": "„kein weiterer Flächenverbrauch ohne gleichzeitige Entsiegelung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona erlebt Baulandpreise als zentralen Engpass. Ein striktes Netto-Null-Ziel kann aus ihrer Sicht das Angebot an neuen Grundstücken weiter verknappen, auch wenn der ökologische Zweck nachvollziehbar ist.",
+      "begruendung_selbst": "Wir verstehen, dass Fläche geschützt werden muss. Aber wenn praktisch kein neues Bauland dazukommt, können normale Familien den Traum vom Haus vergessen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Solardach als Pflicht",
+      "thema": "energie",
+      "programmpunkt": "Für Wohngebäude soll in der Landesbauordnung eine Pflicht zur Nutzung von Solarenergie bei Neubauten verankert werden.",
+      "seite": 23,
+      "zitat": "„eine P fl icht zur Nutzung von Solarenergie“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica sind nicht gegen Photovoltaik, aber sie rechnen jeden Baukostenblock gegen ihre Finanzierung. Eine zusätzliche Pflicht erscheint ihnen als weiterer Kostentreiber, solange keine klare Entlastung beim Erwerb gegenübersteht.",
+      "begruendung_selbst": "PV kann sinnvoll sein, aber als Pflicht ist es erst mal ein weiterer Posten in der Baukalkulation. Genau daran scheitert es bei uns doch schon.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Parken wird wieder teurer",
+      "thema": "verkehr",
+      "programmpunkt": "Die Grünen wollen digitale Parkraumbewirtschaftung, mehr Spielraum für Parkgebühren und erweitertes Anwohnerparken, wobei kleine und klimaneutrale Fahrzeuge bevorzugt werden sollen.",
+      "seite": 31,
+      "zitat": "„den Spielraum für Parkgebühren sowie das Anwohnerparken erweitern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für eine Pendlerfamilie im Umland bleibt das Auto trotz besserem ÖPNV wichtig. Mehr Parkgebühren und reguliertes Anwohnerparken wirken auf sie wie zusätzliche Alltagskosten statt Entlastung.",
+      "begruendung_selbst": "Wir fahren nicht aus Spaß überall mit dem Auto. Wenn Parken auch noch teurer und komplizierter wird, trifft das wieder unseren Alltag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mieten statt Eigentum",
+      "thema": "wohnen",
+      "programmpunkt": "Die Wohnpolitik setzt stark auf Mietendeckel, Wohnheime, sozialen Wohnungsbau, Mietspiegel und gemeinschaftliche Wohnformen statt auf konkrete Eigentumsförderung für Familien.",
+      "seite": 91,
+      "zitat": "„Mietendeckel eingesetzt werden“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als eigentumsorientierte Mitte fühlt sich die Persona von miet- und gemeinwohlorientierten Instrumenten nur begrenzt abgeholt. Entlastung beim Kauf, bei Grunderwerbsteuer oder Eigenkapitalaufbau findet sie hier nicht, obwohl genau das ihr Hauptproblem ist.",
+      "begruendung_selbst": "Bezahlbare Miete hilft kurzfristig. Aber wir wollen Eigentum aufbauen, und dafür sehe ich hier viel zu wenig Konkretes.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica würden im grünen Programm einige alltagsnahe Entlastungen erkennen: verlässlichere Kitas, sozialere Kitabeiträge, günstigere Energie und bessere Verbindungen im Umland. Beim Kern ihres Problems, dem bezahlbaren Eigentumserwerb, überwiegt jedoch Skepsis, weil Neubau, Flächenverbrauch und zusätzliche Bau- oder Versicherungspflichten eher begrenzt als erleichtert werden. Insgesamt wirkt das Programm für sie hilfreich bei Familie und Infrastruktur, aber zu wenig eigentums- und baufreundlich.",
+    "score": 0
+  }
+}

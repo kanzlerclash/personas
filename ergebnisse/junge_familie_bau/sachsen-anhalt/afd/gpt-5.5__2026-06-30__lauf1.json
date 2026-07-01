@@ -1,0 +1,174 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 122571,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich ein Eigenheim-Kredit",
+      "thema": "wohnen",
+      "programmpunkt": "Die AfD will jungen Eltern mit mindestens einem Kind einen zinsvergünstigten Kredit bis 300.000 Euro für Kauf oder Bau selbstgenutzten Wohnraums geben.",
+      "seite": 4,
+      "zitat": "zinsvergünstigter Kredit bis zu einer Höhe von 300.000 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica rechnen genau an der Finanzierungslücke zwischen Einkommen, Eigenkapital und Zinsen herum. Ein zinsvergünstigter Kredit bis 300.000 Euro trifft deshalb ihren Kernwunsch nach bezahlbarem Eigentum sehr direkt.",
+      "begruendung_selbst": "Genau an so einer Rate scheitert es bei uns gerade. Wenn der Kredit günstiger wird, ist ein Haus nicht mehr nur Theorie im Finanzierungsrechner.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Grunderwerbsteuer runter, bitte",
+      "thema": "steuern",
+      "programmpunkt": "Die AfD will die Grunderwerbsteuer beim Eigentumserwerb von fünf Prozent auf zweieinhalb Prozent senken.",
+      "seite": 19,
+      "zitat": "die Grunderwerbsteuer von aktuell fünf Prozent auf zweieinhalb Prozent absenken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona empfindet Erwerbsnebenkosten als einen der konkreten Blocker beim Hauskauf. Eine Halbierung der Grunderwerbsteuer wäre für sie unmittelbar spürbar, weil sie weniger zusätzliches Eigenkapital aufbringen müsste.",
+      "begruendung_selbst": "Das sind genau die Kosten, die einem nach dem Kaufpreis noch den Rest geben. Weniger Grunderwerbsteuer heißt: wir kommen eher über die Eigenkapital-Hürde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita darf nichts kosten",
+      "thema": "familie",
+      "programmpunkt": "Die AfD verspricht, Krippen und Kindergärten ab dem ersten Kind beitragsfrei zu machen und auch die Mittagsverpflegung kostenfrei anzubieten.",
+      "seite": 4,
+      "zitat": "ab dem ersten Kind kostenlos machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für ein Doppelverdiener-Paar mit Kleinkind sind Betreuungskosten ein laufender Druck auf Sparrate und Alltag. Kostenfreie Kitaplätze passen zu ihrem Wunsch, Familie und zwei Jobs verlässlich finanzieren zu können.",
+      "begruendung_selbst": "Wenn beide arbeiten gehen, darf die Kita nicht jeden Monat wieder die Sparrate auffressen. Das wäre echte Entlastung im Alltag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Familiengeld hilft monatlich",
+      "thema": "familie",
+      "programmpunkt": "Die AfD will ein landeseigenes Familiengeld einführen, das ab Geburt je nach Geburtenfolge monatlich 50, 150 oder 250 Euro zahlt.",
+      "seite": 4,
+      "zitat": "ein landeseigenes Kindergeld einführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona denkt über ein zweites Kind nach und spürt schon jetzt Miete, Kita und Eigenkapitalaufbau. Regelmäßige Familienleistungen würden den monatlichen Spielraum erhöhen, auch wenn sie die Baufinanzierung nicht allein lösen.",
+      "begruendung_selbst": "Einmalige Versprechen sind nett, aber monatlich zählt es. Mit einem zweiten Kind wird jeder feste Zuschuss sofort eingeplant.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine teuren Heiz-Zwänge",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will Wärmeplanung und Gebäudeenergiegesetz abschaffen und Bauherren selbst zwischen Energieeinsparung und Investitionskosten entscheiden lassen.",
+      "seite": 13,
+      "zitat": "selbst über das Optimum zwischen Energieeinsparung und Investitionskosten bestimmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sind skeptisch gegenüber energetischen Vorgaben, wenn diese Bau- oder Sanierungskosten nach oben treiben. Die versprochene Entscheidungsfreiheit im Wärmesektor bestätigt ihren Wunsch, die Finanzierung nicht durch starre Auflagen zu sprengen.",
+      "begruendung_selbst": "Wir sind nicht gegen gute Technik. Aber wir müssen selbst rechnen dürfen, was beim Haus bezahlbar ist und was uns komplett überfordert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pendeln muss bezahlbar bleiben",
+      "thema": "verkehr",
+      "programmpunkt": "Die AfD will im Bundesrat eine Absenkung der Energiesteuer für Kraftstoffe auf den EU-Mindestsatz erreichen.",
+      "seite": 13,
+      "zitat": "Energiesteuer für Kraftstoffe auf den EU-Mindestsatz abgesenkt wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona lebt im Speckgürtel und pendelt im Umland; Spritpreise sind damit kein abstraktes Thema. Niedrigere Kraftstoffsteuern würden den monatlichen Mobilitätsdruck senken.",
+      "begruendung_selbst": "Ohne Auto geht es bei uns im Umland oft nicht. Wenn Tanken billiger wird, bleibt mehr fürs Hauskonto übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV als Ergänzung passt",
+      "thema": "verkehr",
+      "programmpunkt": "Die AfD will den öffentlichen Personennahverkehr als Ergänzung zum privaten Pkw weiter ausbauen und stillgelegte Verbindungen prüfen.",
+      "seite": 16,
+      "zitat": "den öffentlichen Personen-Nahverkehr weiter ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica brauchen im Umland verlässliche Wege zur Arbeit und perspektivisch für Kinder. Dass das Programm trotz Auto-Fokus auch Bus und Bahn ausbauen will, berührt ihre Pendel- und Familienlogistik positiv.",
+      "begruendung_selbst": "Das Auto bleibt wichtig, klar. Aber eine brauchbare Bahn- oder Busverbindung wäre mit Kindern und zwei Jobs trotzdem Gold wert.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wärmepumpe ohne Hilfe?",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will Fördermittel und Programme für Wärmepumpen streichen, sodass diese Technik ohne Subventionen am Markt bestehen müsste.",
+      "seite": 13,
+      "zitat": "Fördermittel und -programme für Wärmepumpen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona lehnt teure Pflichten ab, braucht aber beim Neubau oder Kauf auch bezahlbare Optionen für Heizung und Sanierung. Wenn Förderung für Wärmepumpen entfällt, kann aus Wahlfreiheit praktisch eine höhere Anfangsinvestition werden.",
+      "begruendung_selbst": "Keine Pflicht ist gut, aber die Förderung einfach zu streichen hilft uns beim Bauen auch nicht. Am Ende zahlen wir die Technik dann komplett selbst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Familie nicht enger schnüren",
+      "thema": "familie",
+      "programmpunkt": "Das Programm stellt die Familie aus Vater, Mutter und möglichst vielen Kindern als politisches Leitbild ins Zentrum.",
+      "seite": 4,
+      "zitat": "Familie, bestehend aus Vater, Mutter und möglichst vielen Kindern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica leben selbst als Paar mit Kind, wollen Familienpolitik aber vor allem praktisch an Entlastung, Betreuung und Wohneigentum messen. Eine enge staatliche Normierung von Familie kann ihnen als unnötiger Kulturkampf erscheinen, der andere Familienformen abwertet.",
+      "begruendung_selbst": "Wir brauchen Hilfe beim Bauen und bei der Kita, keine Ansage, welche Familie politisch als richtig gilt. Andere Eltern stemmen ihren Alltag auch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht alles zurück zur Familie",
+      "thema": "familie",
+      "programmpunkt": "Die AfD will Familien wieder stärker als Institution sozialer Hilfe einsetzen und Aufgaben erleichtern, die Angehörige füreinander übernehmen.",
+      "seite": 4,
+      "zitat": "die Familien wieder als Institution sozialer Hilfe stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona ist ein Doppelverdiener-Haushalt mit Kleinkind und knapper Zeit. Zusätzliche familiäre Sorge- und Organisationsaufgaben können für sie eher nach Mehrbelastung klingen als nach Vereinbarkeit von Beruf und Familie.",
+      "begruendung_selbst": "Wir hängen jetzt schon zwischen Jobs, Kita und Haussuche. Wenn noch mehr privat in der Familie landen soll, wird unser Alltag nicht leichter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bitte keine Kita-Schablone",
+      "thema": "bildung",
+      "programmpunkt": "Die AfD will das offene Konzept in allen Kinderbetreuungseinrichtungen untersagen und die frühkindliche Bildung stärker auf feste Gruppen ausrichten.",
+      "seite": 4,
+      "zitat": "das sogenannte offene Konzept für alle Einrichtungen der Kinderbetreuung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Tom und Jessica zählt vor allem, dass ihr Kind gut betreut wird und Eltern eine passende Einrichtung finden. Ein landesweites Verbot eines pädagogischen Konzepts nimmt ihnen Auswahl, ohne direkt das zentrale Problem fehlender Plätze zu lösen.",
+      "begruendung_selbst": "Wir wollen eine gute Kita auswählen können. Ob offen oder geschlossen, sollte doch davon abhängen, was vor Ort funktioniert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung nicht nach Pass",
+      "thema": "familie",
+      "programmpunkt": "Beim Baby-Begrüßungsgeld verlangt die AfD unter anderem die deutsche Staatsbürgerschaft mindestens eines Elternteils und einen festen Erstwohnsitz.",
+      "seite": 4,
+      "zitat": "die deutsche Staatsbürgerschaft mindestens eines Elternteils",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona glaubt, dass Arbeit und Familiengründung sich lohnen sollen. Eine Förderung, die berufstätige Eltern ohne deutschen Pass ausschließt, kann ihr als Bruch mit diesem Leistungs- und Familiengedanken auffallen.",
+      "begruendung_selbst": "Wenn Eltern hier arbeiten, Miete zahlen und Kinder großziehen, verstehe ich nicht, warum die Hilfe am Pass hängen soll.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Tom und Jessica enthält das AfD-Programm mehrere sehr direkte Entlastungsangebote: Eigenheimkredit, niedrigere Grunderwerbsteuer, kostenfreie Kita und geringere Energie- bzw. Pendelkosten passen stark zu ihrer Lage. Gleichzeitig stören sie Punkte, die Förderung verengen, moderne Heiztechnik ohne Unterstützung lassen oder Familienpolitik stark normativ aufladen. Insgesamt überwiegt aus ihrer konkreten Eigentums- und Familienperspektive der praktische Nutzen, aber nicht ohne deutliche Vorbehalte.",
+    "score": 1
+  }
+}

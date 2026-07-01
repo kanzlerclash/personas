@@ -1,0 +1,186 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 87823,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die Grünen nennen bezahlbare Energiepreise für Bürger und Wirtschaft als Hauptziel und wollen Stromsteuer, Netzentgelte und Preiszonen so gestalten, dass Strom günstiger wird.",
+      "seite": 22,
+      "zitat": "bezahlbare Energiepreise für Bürger*innen und Wirtschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny achtet auf Strompreise, weil sie über Industrieansiedlungen, Betriebskosten und die Akzeptanz des Umbaus entscheiden. Dass die Partei Energiepreise ausdrücklich auch für die Wirtschaft adressiert, bestätigt seinen pragmatischen Maßstab.",
+      "begruendung_selbst": "Wenn Strom zu teuer bleibt, können wir jede Ansiedlung vergessen. Gut, dass hier nicht nur über Klima geredet wird, sondern auch über die Rechnung im Betrieb.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wertschöpfung muss hier bleiben",
+      "thema": "energie",
+      "programmpunkt": "Kommunen sollen eigene Flächen für erneuerbare Energien bereitstellen können, damit mehr wirtschaftlicher Nutzen in den Orten ankommt.",
+      "seite": 22,
+      "zitat": "um die Wertschöpfung vor Ort zu stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Ronny ist entscheidend, dass Strukturwandel nicht nur Anlagen in die Landschaft stellt, sondern Einkommen, kommunale Handlungsfähigkeit und Perspektiven vor Ort schafft. Die lokale Wertschöpfung trifft seine regionale Verwurzelung direkt.",
+      "begruendung_selbst": "Wenn Windräder hier stehen, muss auch hier etwas hängenbleiben. Sonst haben wir die Lasten und andere kassieren die Zukunft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff braucht Wind",
+      "thema": "wirtschaft",
+      "programmpunkt": "Der Ausbau der Windenergie wird als Voraussetzung für lokalen grünen Wasserstoff beschrieben, der chemische Industrie und Arbeitsplätze in Sachsen-Anhalt stärken soll.",
+      "seite": 23,
+      "zitat": "stärkt der Ausbau der Windenergie die chemische Industrie",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sucht konkrete Brücken vom Energiesystem in industrielle Beschäftigung. Der Bezug von Windstrom, Wasserstoff, Chemie und Arbeitsplätzen ist für ihn ein plausibler Strukturwandelpfad.",
+      "begruendung_selbst": "Damit kann ich arbeiten: Strom, Wasserstoff, Industrie. Das ist wenigstens eine Kette, die Jobs in der Region halten kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netze zuerst ertüchtigen",
+      "thema": "energie",
+      "programmpunkt": "Die Grünen wollen Stromnetze sanieren, optimieren und bei Bedarf ausbauen, damit Erneuerbare, Speicher, Industrie, Wärme und Mobilität zuverlässig integriert werden können.",
+      "seite": 24,
+      "zitat": "Die Energiewende braucht funktionierende und belastbare Netze",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Energiewirtschaftler bewertet Ronny Transformation an Versorgungssicherheit und Infrastruktur. Der Netzausbau als Voraussetzung für Elektrifizierung entspricht genau seinem Wunsch nach einem technischen Plan.",
+      "begruendung_selbst": "Ohne belastbare Netze ist das alles Papier. Erst wenn Leitungen, Speicher und Steuerung passen, kann der Umbau stabil laufen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schkopau als Brücke",
+      "thema": "energie",
+      "programmpunkt": "Zur Beschleunigung des Braunkohleausstiegs wird ein H2-ready-Gaskraftwerk in Schkopau vorgeschlagen.",
+      "seite": 25,
+      "zitat": "Aufbau eines H2-ready-Gaskraftwerks in Schkopau",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein umrüstbares Gaskraftwerk ist für Ronny ein konkreter Übergangsbaustein statt nur ein Ausstiegsdatum. Es verbindet Versorgungssicherheit, Standortbezug und eine Perspektive für bestehende Energieregionen.",
+      "begruendung_selbst": "Genau so eine Brücke meine ich. Wenn Kohle rausgeht, muss am Standort etwas Verlässliches nachrücken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff nicht nur Schlagwort",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will Wasserstoffinfrastruktur, Abnahmegarantien, regionale Cluster und wasserstofffähige Reservekraftwerke fördern.",
+      "seite": 27,
+      "zitat": "regionale Wasserstoff-Cluster fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht in Wasserstoff einen realistischen Baustein für Industrie, Speicher und Reserveleistung. Die Kombination aus Infrastruktur, Abnahme und Reservekraftwerken wirkt für ihn deutlich konkreter als reine Klimarhetorik.",
+      "begruendung_selbst": "Wasserstoff hilft nur, wenn Leitungen, Abnehmer und Kraftwerke mitgedacht werden. Hier steht wenigstens mehr als nur ein grünes Etikett.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industrie braucht Transformationsgeld",
+      "thema": "wirtschaft",
+      "programmpunkt": "Für energieintensive kleine und mittlere Unternehmen soll ein Transformationsfonds aufgelegt werden, verbunden mit Effizienz- und Klimazielen.",
+      "seite": 89,
+      "zitat": "soll ein Transformationsfonds aufgelegt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny schaut auch auf Betriebe in seiner Region, die hohe Energiekosten und Umbaukosten schultern müssen. Ein Transformationsfonds für energieintensive KMU passt zu seinem Wunsch, Wandel industriell abzusichern.",
+      "begruendung_selbst": "Die Betriebe schaffen das nicht mit Appellen allein. Wer klimaneutral produzieren soll, braucht Investitionen und Planungssicherheit.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "2030 ist sehr sportlich",
+      "thema": "energie",
+      "programmpunkt": "Sachsen-Anhalt soll bis 2030 im Strombereich vollständig erneuerbar aufgestellt werden.",
+      "seite": 22,
+      "zitat": "bis 2030 im Strombereich 100 Prozent",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny unterstützt den Umbau, ist aber skeptisch gegenüber ambitionierten Enddaten ohne nachgewiesene Ersatzkapazitäten. Das 2030-Ziel kann aus seiner Sicht Druck auf Versorgung, Netze und industrielle Planung erzeugen.",
+      "begruendung_selbst": "Hundert Prozent bis 2030 klingt gut auf dem Plakat. Ich will aber wissen, was nachts, im Winter und im Netzbetrieb wirklich steht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohle früher raus?",
+      "thema": "energie",
+      "programmpunkt": "Die Grünen erwarten einen früheren marktgetriebenen Kohleausstieg und wollen Lützen als Braunkohle-Vorranggebiet streichen.",
+      "seite": 25,
+      "zitat": "Ausstieg bereits früher marktgetrieben erfolgen wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Ronny ist ein früherer Kohleausstieg nur akzeptabel, wenn Ersatzleistung, Jobs und regionale Perspektiven belastbar stehen. Die Formulierung wirkt auf ihn wie zusätzlicher Zeitdruck für eine Region, die ohnehin am Strukturwandel hängt.",
+      "begruendung_selbst": "Früher raus kann man sagen, wenn das Neue fertig ist. Sonst bezahlen wir vor Ort die Lücke.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CCS einfach abgeräumt",
+      "thema": "klima",
+      "programmpunkt": "Die Partei lehnt Carbon Capture and Storage für Abscheidung, Transport und unterirdische Speicherung von CO2 entschieden ab.",
+      "seite": 26,
+      "zitat": "lehnen wir auch die Technologie des Carbon Capture and Storage",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny ist technologieoffen und sieht CCS als mögliches Werkzeug für schwer vermeidbare Industrieemissionen oder Übergangsphasen. Die pauschale Ablehnung trifft genau seine Sorge vor technologieablehnender Klimapolitik.",
+      "begruendung_selbst": "Warum nimmt man ein Werkzeug vom Tisch, bevor klar ist, ob die Industrie es braucht? Das ist mir zu dogmatisch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gasoption wird enger",
+      "thema": "energie",
+      "programmpunkt": "Neue Erdgasförderung, besonders per Fracking, wird aus Umwelt- und Gesundheitsgründen abgelehnt.",
+      "seite": 26,
+      "zitat": "insbesondere mittels Fracking",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny bewertet Gas als mögliche Brücke für Versorgungssicherheit und flexible Leistung, auch wenn er Risiken ernst nimmt. Eine klare Ablehnung neuer Erdgasförderung verengt aus seiner Sicht den technologieoffenen Werkzeugkasten.",
+      "begruendung_selbst": "Ich sage nicht: Fracking um jeden Preis. Aber wenn jede Gasoption politisch zu ist, wird die Brücke schmaler.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fördergeld nur mit Klimahaken",
+      "thema": "wirtschaft",
+      "programmpunkt": "Wirtschaftsförderung aus GRW-Mitteln soll zusätzlich an den Beitrag zur kohlenstoffarmen Transformation gekoppelt werden.",
+      "seite": 88,
+      "zitat": "Die Ausreichung der Wirtschaftsförderung aus den GRW-Mitteln",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny versteht Klimaziele, fürchtet aber, dass strukturschwache Regionen und Bestandsbetriebe bei zu engen Förderkriterien durch das Raster fallen. Sein Maßstab ist, ob Wertschöpfung zuerst überhaupt in der Region gehalten wird.",
+      "begruendung_selbst": "Förderung darf nicht so gebaut sein, dass alte Industriestandorte erst beweisen müssen, dass sie schon neu genug sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohle wird tabuisiert",
+      "thema": "steuern",
+      "programmpunkt": "Investitionen des Landes oder seiner Körperschaften in Atomenergie, Kohle oder Unternehmen mit Kinderarbeit sollen ausgeschlossen werden.",
+      "seite": 96,
+      "zitat": "Atomenergie, Kohle oder Unternehmen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny kann nachvollziehen, dass öffentliche Anlagen nachhaltig ausgerichtet werden. Die Gleichsetzung von Kohle als ausgeschlossenem Investitionsfeld signalisiert ihm aber wenig Respekt für Beschäftigte und Standorte, die noch mitten im Übergang stehen.",
+      "begruendung_selbst": "Ich will keine Kohle-Ewigkeit. Aber wenn Kohle nur noch als Ausschlussliste vorkommt, fühlen sich die Leute hier abgeschrieben.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet im Grünen-Programm viele technische und regionale Anknüpfungspunkte: Netze, Wasserstoff, Schkopau, Strompreise und Industrieförderung sprechen seine Interessen deutlich an. Zugleich stören ihn starre Zieljahre und pauschale Technologieausschlüsse, besonders bei CCS und Erdgasoptionen. Insgesamt sieht er einen ernsthaften Strukturwandelplan, aber mit zu wenig Technologieoffenheit an entscheidenden Stellen.",
+    "score": 1
+  }
+}

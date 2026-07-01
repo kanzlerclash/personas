@@ -1,0 +1,150 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 99670,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Industrie statt Abwicklung",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die AfD will Deindustrialisierung stoppen und mit Wirtschafts-, Energie-, Infrastruktur- und Arbeitsmarktpolitik eine Reindustrialisierung einleiten.",
+      "seite": 12,
+      "zitat": "De-Industrialisierung stoppen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes Arbeitsplatz und regionaler Wohlstand hängen direkt am Fortbestand der Industrie im Chemiedreieck. Eine politische Priorität für Reindustrialisierung trifft seine Kernangst vor Standortverlust und Abwanderung.",
+      "begruendung_selbst": "Wenn einer sagt, dass Industrie hier bleiben muss, höre ich hin. Ohne Werke gibt es hier keine guten Löhne und keine Zukunft für die Kollegen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energie muss bezahlbar sein",
+      "thema": "energie",
+      "programmpunkt": "Die AfD begründet ihre Energiepolitik mit niedrigeren Energiepreisen, Versorgungssicherheit und einem breiten Energiemix inklusive fossiler Energieträger.",
+      "seite": 13,
+      "zitat": "Voraussetzung für sinkende Energiepreise",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für einen Chemie- und Schwerindustriearbeiter sind Energiepreise nicht abstrakt, sondern ein Standort- und Jobrisiko. Der Fokus auf sinkende Preise und Versorgungssicherheit bestätigt seine Sorge vor energiegetriebener Deindustrialisierung.",
+      "begruendung_selbst": "Unsere Anlagen laufen nicht mit guten Absichten, sondern mit verlässlicher und bezahlbarer Energie. Wenn Strom und Gas unbezahlbar werden, wackeln die Schichten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das trifft unsere Jobs",
+      "thema": "arbeit",
+      "programmpunkt": "Die AfD bezeichnet die Energiewende als Ursache von Arbeitsplatzverlusten und will über Stromsteuer, Energieimporte und Reindustrialisierung Arbeitsplatzabbau stoppen.",
+      "seite": 13,
+      "zitat": "den Arbeitsplatzabbau im Land zu stoppen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe prüft Politik zuerst daran, ob sie Industriearbeitsplätze schützt. Die direkte Verbindung von Energiepolitik und Arbeitsplatzsicherung spricht seinen beruflichen Alltag und seine Betriebsratslogik an.",
+      "begruendung_selbst": "Für mich zählt, ob am Ende noch Kollegen am Tor reingehen. Wenn Energiepolitik Arbeitsplätze frisst, muss sie geändert werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Grundlast sichert Schichten",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will den Kohleausstieg stoppen und den Kohlestandort Sachsen-Anhalt auch über 2038 hinaus erhalten.",
+      "seite": 13,
+      "zitat": "gut bezahlte Industriearbeitsplätze im Land zu sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Uwe Klimaschutz nicht grundsätzlich ablehnt, ist für ihn Versorgungssicherheit zentral. Die explizite Sicherung gut bezahlter Industriearbeitsplätze durch Grundlastfähigkeit passt zu seinem Wunsch nach langsamem, sozial abgesichertem Wandel.",
+      "begruendung_selbst": "Ich will keine Sonntagsreden über Transformation, wenn Montag die Grundlast fehlt. Erst müssen Jobs und Versorgung stehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Straßen sind Standortpolitik",
+      "thema": "verkehr",
+      "programmpunkt": "Die AfD will Verkehrsinfrastruktur ausbauen, Investitionsstau abbauen und Planverfahren beschleunigen, weil Infrastruktur Wirtschaft und Arbeitsplätze trägt.",
+      "seite": 16,
+      "zitat": "Garant für Wirtschaftswachstum und sichere Arbeitsplätze",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Uwe gehören funktionierende Straßen, Brücken und Logistik zum industriellen Standort. Der Programmpunkt übersetzt Infrastruktur nicht in Symbolpolitik, sondern in Arbeitsplätze und wirtschaftliche Verlässlichkeit.",
+      "begruendung_selbst": "Wenn Rohstoffe, Ersatzteile und Leute nicht zuverlässig ankommen, leidet der Betrieb. Infrastruktur ist für uns keine Nebensache.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papier, mehr Produktion",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD will bürokratische Regelungen prüfen, überflüssige Vorgaben streichen und Entbürokratisierung vorantreiben.",
+      "seite": 12,
+      "zitat": "überflüssige Regelungen streichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Betriebsrat kennt Uwe den Unterschied zwischen sinnvoller Sicherheit und lähmender Bürokratie. Pauschaler Bürokratieabbau gefällt ihm dort, wo er Investitionen, Instandhaltung und industrielle Abläufe erleichtert.",
+      "begruendung_selbst": "Wir brauchen Regeln für Sicherheit und faire Arbeit, klar. Aber Papierkram, der nur Zeit frisst, hilft keinem Kollegen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaschutz nicht wegwischen",
+      "thema": "klima",
+      "programmpunkt": "Die AfD lehnt die Klimapolitik grundsätzlich ab und will statt Klimaschutz vor allem Anpassung und Heimatschutz verfolgen.",
+      "seite": 13,
+      "zitat": "Weltklima in Sachsen-Anhalt zu retten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist skeptisch gegenüber Tempo und Zumutungen der Transformation, aber nicht grundsätzlich gegen Klimaschutz. Die Totalabsage an Klimaschutz geht über seine Kritik hinaus und nimmt sein Bedürfnis nach einem realistischen, aber verantwortlichen Wandel nicht auf.",
+      "begruendung_selbst": "Ich bin nicht gegen Klimaschutz. Ich bin gegen Politik, die ohne Plan Jobs gefährdet; das ist etwas anderes.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff nicht einfach beerdigen",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will die grüne Wasserstoffstrategie beenden, entsprechende Initiativen stoppen und Förderprogramme für grünen Wasserstoff streichen.",
+      "seite": 13,
+      "zitat": "Wasserstoffstrategie umgehend beenden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für ein Industrierevier kann Wasserstoff ein Baustein sein, um energieintensive Produktion langfristig zu halten. Uwe würde eine nüchterne Prüfung verlangen, aber das pauschale Beenden nimmt ihm eine mögliche Brücke für Standorterhalt und Beschäftigung.",
+      "begruendung_selbst": "Wenn Wasserstoff nichts taugt, soll man es sauber nachweisen. Aber einfach alles abräumen, ohne Ersatz für die Werke, ist mir zu dünn.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht nur Investoren zählen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die AfD will Sonderwirtschaftszonen prüfen, in denen Investoren erleichterte rechtliche und administrative Bedingungen erhalten.",
+      "seite": 12,
+      "zitat": "erleichterte rechtliche sowie administrative Bedingungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist gewerkschaftlich geprägt und achtet darauf, dass Standortpolitik nicht auf Kosten von Beschäftigtenrechten läuft. Eine investorenorientierte Sonderzone ohne erkennbare Zusage zu Tarifbindung, Mitbestimmung und guter Arbeit wirkt aus seiner Perspektive riskant.",
+      "begruendung_selbst": "Investitionen ja, aber nicht als Freifahrtschein. Gute Arbeit heißt Tarif, Mitbestimmung und ordentliche Bedingungen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schlanker Staat schützt nicht",
+      "thema": "steuern",
+      "programmpunkt": "Die AfD will die Staatsquote senken, Ausgaben kürzen und den Staat stärker auf Kernaufgaben zurückführen.",
+      "seite": 17,
+      "zitat": "Staatsquote in Sachsen-Anhalt zu senken",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist gegenüber marktliberaler Sozialabbau-Politik ablehnend. Wenn ein Programm stark auf Ausgabenkürzung und einen schlankeren Staat setzt, fehlt ihm die erkennbare Absicherung für Beschäftigte, Regionen und Familien im Strukturwandel.",
+      "begruendung_selbst": "Beim Wandel braucht man keinen Staat, der sich dünnemacht. Wenn Standorte wackeln, brauchen die Leute Absicherung und Verlässlichkeit.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet im Programm viele Aussagen, die seine Angst vor Deindustrialisierung, hohen Energiepreisen und unsicherer Grundlast direkt ansprechen. Besonders die Zusagen zu Reindustrialisierung, Kohle, günstiger Energie und Infrastruktur würden bei ihm verfangen. Zugleich stört ihn, dass Klimaschutz fast vollständig abgeräumt wird und Arbeitnehmerinteressen wie Tarifbindung, Mitbestimmung und sozial abgesicherter Wandel kaum konkret vorkommen.",
+    "score": 1
+  }
+}

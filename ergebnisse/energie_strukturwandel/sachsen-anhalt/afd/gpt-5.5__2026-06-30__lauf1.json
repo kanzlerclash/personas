@@ -1,0 +1,198 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 78950,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich wieder Grundlast denken",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will zu einem breiten Energiemix zurückkehren, der auch fossile Energieträger einschließt.",
+      "seite": 13,
+      "zitat": "breit angelegten Energiemix",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny bewertet Energiepolitik zuerst nach Versorgungssicherheit und planbarer Industriegrundlage. Ein breiter Energiemix mit fossilen Anteilen bestätigt seine Sorge, dass Ausstiegsdaten nicht vor Ersatzkapazitäten stehen dürfen.",
+      "begruendung_selbst": "Ich will keinen Glaubenskrieg um einzelne Technologien, sondern Strom, der verlässlich da ist. Wenn Kohle und Gas noch gebraucht werden, muss man das offen einplanen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohle nicht vorschnell kappen",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will den Kohleausstieg stoppen und den Kohlestandort Sachsen-Anhalt auch nach 2038 erhalten.",
+      "seite": 13,
+      "zitat": "Kohleausstieg in Deutschland gestoppt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Ronny hängt an Kohle nicht nur ein Kraftwerk, sondern ein regionaler Arbeits- und Wirtschaftsraum. Die Position trifft seine Kernforderung, erst tragfähige Ersatzstrukturen aufzubauen, bevor bestehende Standorte geschlossen werden.",
+      "begruendung_selbst": "Genau das meine ich mit Brücke bauen: Nicht erst abschalten und danach hoffen, dass irgendwann neue Jobs kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gaskraftwerke als Brücke",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will neue Gaskraftwerke an Standorten in Sachsen-Anhalt prüfen und bauen lassen.",
+      "seite": 13,
+      "zitat": "Bau neuer Gaskraftwerke einsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht Gas- und Netztechnik als realistische Brückentechnologien im Wandel. Neue Gaskraftwerke passen zu seiner technischen Sicht auf Reserveleistung, Netzsicherheit und regionale Wertschöpfung.",
+      "begruendung_selbst": "Gas ist keine perfekte Endlösung, aber ohne regelbare Leistung bleibt die Industrie hier nicht. Das ist wenigstens ein Baustein, mit dem man arbeiten kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Blackout-Vorsorge ist Pflicht",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will Energieautonomie stärken, Braunkohleverstromung beibehalten und eine Blackout-Strategie entwickeln.",
+      "seite": 13,
+      "zitat": "eine Blackout-Strategie entwickeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Energiewirtschaftler nimmt Ronny Systemstabilität ernst und erwartet Vorsorge für Dunkelflauten und Netzausfälle. Der Punkt bestätigt seine Haltung, dass Energiewende nicht nur Ausbauziele, sondern belastbare Notfall- und Reservekonzepte braucht.",
+      "begruendung_selbst": "Wer Anlagen und Netze kennt, weiß: Versorgungssicherheit plant man vorher, nicht wenn schon alles dunkel ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriejobs bleiben hier",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die AfD will mit Energie-, Infrastruktur- und Arbeitsmarktmaßnahmen Reindustrialisierung und wirtschaftlichen Aufschwung anstoßen.",
+      "seite": 12,
+      "zitat": "einen Re-Industrialisierungsprozess einleiten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fürchtet, dass seine Region zur verlängerten Werkbank ohne Zukunft wird. Das ausdrückliche Ziel der Reindustrialisierung spricht seine Hoffnung auf neue industrielle Arbeit und Wertschöpfung vor Ort an.",
+      "begruendung_selbst": "Wenn hier neue Industrie entsteht, bleiben Familien, Azubis und Fachleute. Genau daran entscheidet sich, ob unsere Region Zukunft hat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strukturschwache Regionen zuerst",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die AfD will Sonderwirtschaftszonen in strukturschwachen Regionen prüfen, um lokale Wirtschaftsstrukturen aufzubauen.",
+      "seite": 12,
+      "zitat": "strukturschwachen Regionen des Landes",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny lebt in einer Region, deren Zukunft vom Strukturwandel abhängt. Eine gezielte Prüfung von Sonderwirtschaftszonen wirkt für ihn wie ein konkretes Instrument, um Investitionen nicht nur in ohnehin starke Zentren zu lenken.",
+      "begruendung_selbst": "Wir brauchen nicht noch eine Sonntagsrede über Strukturwandel. Wir brauchen Regeln, die Ansiedlungen hier draußen wirklich leichter machen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Genehmigungen dürfen nicht hängen",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD will überlange Verwaltungsverfahren durch eine Genehmigungsfiktion begrenzen.",
+      "seite": 17,
+      "zitat": "gilt der Antrag automatisch als genehmigt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht im Strukturwandel, dass Investitionen an langsamen Verfahren scheitern können. Schnellere, verlässlichere Genehmigungen würden aus seiner Sicht Unternehmen, Kommunen und Infrastrukturprojekten helfen.",
+      "begruendung_selbst": "Wenn ein Betrieb monatelang im Amt hängt, investiert er irgendwann woanders. Fristen müssen für Behörden genauso zählen wie für uns.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaziel nicht wegwischen",
+      "thema": "klima",
+      "programmpunkt": "Die AfD lehnt die Logik der Klimapolitik grundlegend ab und will nicht versuchen, das Klima in Sachsen-Anhalt zu schützen.",
+      "seite": 13,
+      "zitat": "nicht versuchen, das Weltklima in Sachsen-Anhalt zu retten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny teilt das Ziel des Wandels, auch wenn er starre und unrealistische Wege kritisiert. Eine pauschale Abkehr vom Klimaziel geht ihm zu weit, weil sie aus seiner Sicht die notwendige Transformation politisch entwertet.",
+      "begruendung_selbst": "Ich kritisiere schlechte Klimapolitik, aber ich will nicht so tun, als gäbe es gar kein Ziel. Wandel braucht Realismus, nicht Wegducken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht alles Erneuerbare stoppen",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will die Subventionierung der Energiewende beenden und den Einspeisevorrang für erneuerbare Energien abschaffen.",
+      "seite": 13,
+      "zitat": "Ende des Einspeisevorrangs",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny ist technologieoffen und bewertet einzelne Bausteine danach, ob sie technisch und wirtschaftlich tragen. Ein harter Bruch gegen erneuerbare Energien erscheint ihm nicht wie ein Plan, sondern wie das Abschneiden möglicher Zukunftskomponenten.",
+      "begruendung_selbst": "Marktprüfung ja, aber nicht mit der Axt durchs ganze System. Wir brauchen jede Technik, die zuverlässig und bezahlbar ins Netz passt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff nicht beerdigen",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will die ostdeutsche Wasserstoffinitiative beenden und Förderungen für grünen Wasserstoff streichen.",
+      "seite": 13,
+      "zitat": "Wasserstoffstrategie umgehend beenden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny erwartet von Strukturwandelpolitik, Zukunftstechnologien nüchtern zu prüfen und regionale Industriechancen zu sichern. Die vollständige Beendigung der Wasserstoffstrategie widerspricht seiner Hoffnung auf neue Wertschöpfung in Energie- und Industrieregionen.",
+      "begruendung_selbst": "Wenn Wasserstoff teuer ist, muss man ehrlich rechnen. Aber eine ganze Zukunftsschiene einfach dichtzumachen, nimmt Regionen wie meiner Chancen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Solar kann sinnvoll sein",
+      "thema": "energie",
+      "programmpunkt": "Die AfD lehnt industrielle Solarparks auf Kulturlandschaften und Ackerland ab, lässt Solar nur begrenzt auf versiegelten Flächen gelten.",
+      "seite": 13,
+      "zitat": "industrieller und großflächiger Solarparks",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny versteht den Schutz von Ackerland, aber seine technikoffene Haltung verlangt Abwägung statt pauschaler Blockade. Gerade kommunale oder industrielle Eigenversorgung kann für Standorte ein relevanter Baustein sein.",
+      "begruendung_selbst": "Ackerboden ist wertvoll, klar. Aber Solar pauschal als Irrweg abzuräumen, hilft keinem Betrieb, der günstigen Eigenstrom braucht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Windstopp ist kein Plan",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will ein Windkraftmoratorium beschließen und bis auf Weiteres keine neuen Windradgenehmigungen erteilen.",
+      "seite": 13,
+      "zitat": "keine neuen Genehmigungen für Windräder",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny sieht Probleme bei Akzeptanz, Grundlast und Netzen, aber lehnt pauschale Technologieverbote ab. Ein generelles Moratorium steht gegen seine Erwartung, Projekte nach Standort, Netzanschluss und Nutzen differenziert zu bewerten.",
+      "begruendung_selbst": "Ich kenne die Schwächen von Windkraft. Trotzdem ersetzt ein pauschaler Stopp keine technische Prüfung und keinen regionalen Energieplan.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Abhängigkeit ist riskant",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will Energieimporte aus Russland wieder aufnehmen und Nord Stream 2 nutzen.",
+      "seite": 13,
+      "zitat": "Wiederaufnahme von Gasimporten aus Russland",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny will bezahlbare Energie, aber auch robuste Versorgung und Planungssicherheit. Eine starke Rückbindung an russische Gasimporte wirkt für ihn als einseitige Abhängigkeit, nicht als belastbarer Strukturwandelpfad.",
+      "begruendung_selbst": "Billiges Gas klingt gut, aber ich will nicht wieder an einer einzigen Leitung hängen. Versorgungssicherheit heißt mehrere tragfähige Optionen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimapolitik braucht Planung",
+      "thema": "klima",
+      "programmpunkt": "Die AfD will auf den Austritt aus dem Pariser Klimaabkommen, die Kündigung des Green Deal und die Abschaffung des Bundesklimaschutzgesetzes hinwirken.",
+      "seite": 13,
+      "zitat": "Kündigung des Europäischen Green Deal",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny kritisiert starre Vorgaben, braucht für Betriebe und Standorte aber verlässliche Transformationspfade. Das Abwickeln zentraler Klimarahmen schafft aus seiner Sicht neue Unsicherheit, statt den Wandel planbarer zu machen.",
+      "begruendung_selbst": "Ich will Vorgaben, die technisch machbar sind. Aber wenn man alles kündigt, weiß keiner mehr, worauf er investieren soll.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet im AfD-Programm viele Punkte, die seine unmittelbaren Sorgen um Grundlast, Kohlearbeitsplätze, Gaskraftwerke, Energiepreise und Reindustrialisierung direkt bestätigen. Gleichzeitig stößt ihn ab, dass das Programm Klimapolitik und mehrere Zukunftstechnologien sehr pauschal verwirft, statt einen technologieoffenen Übergang zu organisieren. Aus seiner Sicht ist das Programm stark bei Sicherung des Bestehenden, aber schwach bei einem glaubwürdigen Plan für den Wandel danach.",
+    "score": 1
+  }
+}

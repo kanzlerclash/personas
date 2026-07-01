@@ -1,0 +1,174 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 113888,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Gesundheit ist keine Ware",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm stellt Patientenwohl über wirtschaftliche Interessen und fordert eine Abkehr von Privatisierung und Gewinnstreben im Gesundheitswesen.",
+      "seite": 20,
+      "zitat": "„Gesundheit aber ist keine Ware und darf deshalb nicht dem freien Markt ausgeliefert werden.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin ist skeptisch gegenüber Ökonomisierung, weil sie auf Station erlebt, wie Kostendruck Pflege ausdünnt. Die klare Priorisierung von Patientenwohl und öffentlicher Aufgabe bestätigt ihren Maßstab für gute Gesundheitspolitik.",
+      "begruendung_selbst": "Wenn Gesundheit keine Ware sein soll, dann ist das genau mein Punkt: Wir brauchen Versorgung statt Renditeziele auf dem Rücken von Patienten und Personal.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Geld in Kliniken",
+      "thema": "gesundheit",
+      "programmpunkt": "Die AfD will Investitionsmittel für Krankenhäuser deutlich erhöhen und diese für Sanierung, Modernisierung, Ausbau und bessere Arbeitsbedingungen einsetzen.",
+      "seite": 20,
+      "zitat": "„Wir benötigen deshalb eine deutliche Erhöhung der Investitionsmittel.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Unterfinanzierte Kliniken, veraltete Technik und fehlendes Personal gehören direkt zu Kerstins Arbeitsalltag. Investitionen in Infrastruktur und Arbeitsbedingungen würden ihre Belastung konkret berühren.",
+      "begruendung_selbst": "Marode Stationen und alte Technik kosten uns jeden Tag Kraft. Wenn Geld wirklich in Kliniken und Arbeitsbedingungen geht, merke ich das sofort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Klinikverkäufe mehr",
+      "thema": "wirtschaft",
+      "programmpunkt": "Kommunale Krankenhäuser sollen nicht weiter an gewinnorientierte private Klinikkonzerne verkauft werden; öffentliche Träger sollen Vorrang haben.",
+      "seite": 20,
+      "zitat": "„Kommunen und das Land haben immer Vorrang vor privaten Käufern.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin befürchtet, dass private Renditelogik Personal und Versorgungsqualität verschlechtert. Der Vorrang öffentlicher Trägerschaft passt zu ihrer Skepsis gegenüber Privatisierung im Gesundheitswesen.",
+      "begruendung_selbst": "Ich habe genug davon, wenn Kliniken wie Betriebe mit Gewinnziel geführt werden. Öffentliche Verantwortung klingt für mich deutlich näher an Versorgung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine kalte Strukturbereinigung",
+      "thema": "gesundheit",
+      "programmpunkt": "Leistungsgruppen und Krankenhausumstrukturierungen sollen so gestaltet werden, dass Grund- und Regelversorgung in allen Regionen erhalten bleibt.",
+      "seite": 20,
+      "zitat": "„Grund- und Regelversorgung müssen in allen Regionen Sachsen-Anhalts erhalten bleiben.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin denkt auch an Patienten und Kolleginnen in ländlichen Regionen, für die Klinikschließungen längere Wege und mehr Druck bedeuten. Der Erhalt regionaler Grundversorgung entspricht ihrem Versorgungsverständnis.",
+      "begruendung_selbst": "Wenn kleinere Standorte wegbrechen, landen Patienten später und kränker bei uns. Grundversorgung vor Ort entlastet alle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Akten, mehr Pflege",
+      "thema": "arbeit",
+      "programmpunkt": "Pflegepersonalbedarf soll am individuellen Bedarf der Patienten bemessen werden; zugleich sollen Untergrenzen und weniger Dokumentationspflichten kommen.",
+      "seite": 20,
+      "zitat": "„Weniger Dokumentationspflichten, mehr Zeit für die Pflege am Menschen.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Personalschlüssel, Arbeitsverdichtung und Dokumentationslast sind Kerstins zentrale Stakes. Dieser Punkt adressiert ihre Lage sehr direkt, auch wenn Bezahlung und Dienstplansicherheit nicht konkret ausgeführt werden.",
+      "begruendung_selbst": "Genau das sage ich seit Jahren: weniger Papierkram und genug Leute, damit ich wirklich pflegen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fallpauschalen machen Druck",
+      "thema": "gesundheit",
+      "programmpunkt": "Das DRG-System soll ersetzt werden, weil es Fehlanreize für schnelle Entlassungen und wirtschaftlichen Druck in Krankenhäusern setzt.",
+      "seite": 20,
+      "zitat": "„Wir werden uns deshalb auf Bundesebene dafür einsetzen, das DRG-System zu ersetzen.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt, dass ökonomische Steuerung Pflegeprozesse verdichtet und Patienten zu früh durch das System drückt. Eine Reform weg von Fehlanreizen würde ihren beruflichen Qualitätsanspruch stützen.",
+      "begruendung_selbst": "Wenn Patienten nach Zahlen statt nach Genesung laufen, bleibt die Pflege auf der Strecke. Das DRG-System gehört ehrlich angefasst.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Meine Kolleginnen sind kein Problem",
+      "thema": "integration",
+      "programmpunkt": "Das Programm fordert eine migrationspolitische Kehrtwende, eine Abschiebe- und Remigrationsoffensive und beschreibt Migration pauschal als Belastung.",
+      "seite": 5,
+      "zitat": "„Außerdem ist die Einleitung einer Abschiebe- und Remigrationsoffensive zwingend notwendig.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstins Station wäre ohne migrantische Kolleginnen kaum arbeitsfähig. Ein Programmton, der Remigration als Leitmotiv setzt, trifft ihre solidarische Haltung gegenüber Kolleginnen mit Migrationsgeschichte frontal.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht. Ich will nicht, dass Politik sie unter Generalverdacht stellt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Stopp für Fachkräfte",
+      "thema": "integration",
+      "programmpunkt": "Die AfD will sich für sofortige Aufnahmestopps für Nicht-EU-Ausländer einsetzen, bevor weitere Ausländer einwandern dürfen.",
+      "seite": 5,
+      "zitat": "„sofortige Aufnahmestopps für Nicht-EU-Ausländer zu verfügen.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin bewertet Migration auch danach, ob sie Personalengpässe in Pflege und Medizin lindert. Ein pauschaler Aufnahmestopp für Nicht-EU-Ausländer gefährdet aus ihrer Sicht genau die Anwerbungswege, die Stationen entlasten können.",
+      "begruendung_selbst": "Wir suchen händeringend Leute. Ein pauschaler Stopp hilft mir nicht bei der nächsten unterbesetzten Nachtschicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Integration nicht abwürgen",
+      "thema": "arbeit",
+      "programmpunkt": "Die AfD lehnt die Integration illegaler Zuwanderer in den Arbeitsmarkt ab und setzt stattdessen auf deren schnelle Ausreise.",
+      "seite": 5,
+      "zitat": "„keine zum Scheitern verurteilte“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist nicht für unregulierte Migration, aber sie misst Politik daran, ob Menschen mit Bleibeperspektive und Qualifikation arbeiten können. Die pauschale Absage an Integration in Arbeit passt nicht zu ihrem Blick auf Personalnot und Teilhabe.",
+      "begruendung_selbst": "Wer hier bleiben darf und arbeiten kann, sollte nicht in Warteschleifen hängen. In der Pflege zählt jede helfende Hand, die ordentlich qualifiziert ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausländische Profis abgewertet",
+      "thema": "gesundheit",
+      "programmpunkt": "Im Gesundheits- und Pflegesektor stellt das Programm angeworbene kulturfremde Fachkräfte als Risiko für Patientenwohl und innere Sicherheit dar.",
+      "seite": 5,
+      "zitat": "„In Branchen wie dem Gesundheits- und Pflegesektor wird dadurch das Wohl der Patienten gefährdet.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin kennt ausländische Pflegekräfte und Ärzte als tragende Säule der Versorgung. Pauschale Zweifel an Sprache, Ausbildung und Sicherheit verletzen ihre Teamrealität und können dringend benötigte Fachkräfte abschrecken.",
+      "begruendung_selbst": "Meine Kolleginnen sind Fachkräfte, keine Gefahr. Probleme löst man mit Anerkennung, Sprachkursen und Einarbeitung, nicht mit Abwertung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Importärzte? So redet man nicht",
+      "thema": "integration",
+      "programmpunkt": "Das Programm will langfristig nicht mehr auf ausländische Ärzte angewiesen sein und beschreibt sie wegen Sprachbarrieren, Kultur und Abschlüssen als oft ungeeignet.",
+      "seite": 20,
+      "zitat": "„künftig nicht mehr auf ausländische Ärzte angewiesen zu sein.“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin arbeitet interprofessionell mit Ärzten und weiß, dass ausländische Fachkräfte Versorgungslücken schließen. Mehr Studienplätze kann sie begrüßen, aber die Abwertung ausländischer Ärzte steht ihrer solidarischen Teamhaltung entgegen.",
+      "begruendung_selbst": "Mehr Studienplätze gern. Aber wer bei uns Visite macht und Verantwortung trägt, verdient Respekt statt dieses Gerede von „Importärzten\".",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege ist ein Beruf",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm beschreibt Pflege ihrem Wesen nach als Fürsorge liebender Angehöriger und will Familien stärker zur Entlastung des Gemeinwesens heranziehen.",
+      "seite": 20,
+      "zitat": "„Pflege ist ihrem Wesen nach Ausdruck der Fürsorge liebender Angehöriger.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin will Anerkennung professioneller, examinierter Pflege und bessere Arbeitsbedingungen. Die Rahmung von Pflege als familiäre Fürsorge klingt für sie nach Entprofessionalisierung und verschiebt Verantwortung zurück in Familien, statt strukturell Personal und Finanzierung zu sichern.",
+      "begruendung_selbst": "Pflege ist nicht nur Liebe zuhause, Pflege ist Facharbeit. Ich will nicht, dass unser Beruf wieder klein geredet wird.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet im Gesundheitskapitel mehrere Punkte, die ihre berufliche Lage stark bestätigen: mehr Investitionen, weniger Privatisierung, DRG-Reform, Personaluntergrenzen und weniger Dokumentation. Gleichzeitig stößt sie sich massiv am migrationspolitischen Kurs und an der pauschalen Abwertung ausländischer Fachkräfte, weil ihre Station ohne migrantische Kolleginnen kaum funktionieren würde. Insgesamt überwiegt für sie trotz konkreter Pflegeversprechen das Risiko, dass der Fachkräftemangel und die Stimmung im Team verschärft werden.",
+    "score": -1
+  }
+}

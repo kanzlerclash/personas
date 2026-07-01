@@ -1,0 +1,162 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 67825,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkram!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die AfD beschreibt Landwirte als durch Landes-, Bundes- und EU-Vorgaben überlastet und will unnötige Bürokratie abbauen, damit sie wieder wirtschaften statt verwalten.",
+      "seite": 14,
+      "zitat": "„unbezahlten Verwaltungsbeamten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich in seiner Hauptsorge unmittelbar angesprochen: Auflagen, Dokumentationspflichten und ständige Regeländerungen fressen seine Arbeitszeit und Marge. Die Formulierung trifft sein Selbstbild als selbstständiger Unternehmer, der nicht zum Verwalter seines eigenen Hofes werden will.",
+      "begruendung_selbst": "Genau so ist es: Ich sitze viel zu oft am Schreibtisch statt auf dem Acker. Wenn die mir Arbeit vom Hals schaffen, merke ich das jeden Tag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Brüssel soll raus!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will die Gemeinsame Agrarpolitik der EU langfristig beenden und Agrarpolitik wieder in deutsche Zuständigkeit überführen.",
+      "seite": 14,
+      "zitat": "„Renationalisierung der Agrarpolitik“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Franks Profil benennt EU-Bürokratie als Hauptgegner, besonders Förderwirrwarr und wechselnde Vorgaben. Der Vorschlag verspricht ihm mehr Planungssicherheit und weniger zusätzliche nationale Verschärfungen von EU-Regeln.",
+      "begruendung_selbst": "Ich brauche Regeln, die hier zur Fläche passen, nicht Vorgaben aus Brüssel, die keiner auf dem Hof durchrechnet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Boden gehört Bauern!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Ein Agrarstrukturgesetz soll ortsansässige bäuerliche Betriebe beim Zugang zu Boden schützen und Spekulation sowie Flächenkonzentration begrenzen.",
+      "seite": 14,
+      "zitat": "„Ackerland in Bauernhand“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sorgt sich ausdrücklich um Flächenfraß, Pacht-Konkurrenz und die Zukunft des Familienbetriebs. Ein Vorrang für verwurzelte Betriebe trifft sein Interesse an bezahlbarem Land und Hofnachfolge.",
+      "begruendung_selbst": "Wenn Investoren die Preise hochtreiben, kann meine Tochter den Hof vergessen. Fläche muss bei Leuten bleiben, die sie bewirtschaften.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Düngen mit Sachverstand!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die AfD lehnt Vorgaben ab, die Kulturen unterversorgen, und stellt bei der Düngung die gute fachliche Praxis verantwortlicher Landwirte in den Vordergrund.",
+      "seite": 14,
+      "zitat": "„Düngung nach Fachwissen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Düngeverordnung gehört zu Franks zentralen Themen-Stakes. Er wird hier als Praktiker anerkannt, der teuren Dünger nicht verschwendet, sondern nach Bedarf und Erfahrung arbeitet.",
+      "begruendung_selbst": "Dünger kostet ein Vermögen. Kein vernünftiger Bauer kippt davon zu viel raus, nur weil ein Formular das unterstellt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasser nicht verteuern!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Besteuerung von Bewässerungswasser durch den Wassercent soll zurückgenommen werden, weil sie Produktionskosten erhöht.",
+      "seite": 14,
+      "zitat": "„Keine Besteuerung von Bewässerungswasser“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hat schwankende Ernten und steigende Betriebsmittel-, Energie- und Wasserkosten als unmittelbaren finanziellen Druck. Eine Entlastung bei Bewässerungswasser berührt seine Kostenrechnung direkt, gerade in trockenen Jahren.",
+      "begruendung_selbst": "Wenn es trocken ist, muss ich beregnen können. Auf Wasser noch Abgaben zu packen, landet am Ende bei meinen Kosten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Wolf muss reguliert werden!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die AfD will das Wolfskompetenzzentrum abschaffen und die Wolfspopulation gezielt regulieren.",
+      "seite": 14,
+      "zitat": "„Population gezielt regulieren“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hält eine kleine Mutterkuhherde und sieht strikten Wolfsschutz als konkreten Konflikt mit Weidehaltung. Die Forderung bestätigt seine Erwartung, dass Nutztierhalter vor romantisiertem Naturschutz geschützt werden.",
+      "begruendung_selbst": "Ich habe nichts gegen Natur, aber meine Tiere sind keine Versuchsanordnung. Wenn der Wolf überhandnimmt, muss gehandelt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Runter mit den Stromkosten!",
+      "thema": "energie",
+      "programmpunkt": "Eine Bundesratsinitiative soll die Stromsteuer auch für Land- und Forstwirtschaft sowie alle Unternehmen senken.",
+      "seite": 13,
+      "zitat": "„Land- und Forstwirtschaft“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Strom- und Energiekosten gehören bei Frank zu den wichtigsten Druckpunkten, etwa für Bewässerung, Trocknung und Kühlung. Eine ausdrücklich auf Land- und Forstwirtschaft bezogene Senkung wäre für ihn eine greifbare Entlastung.",
+      "begruendung_selbst": "Beim Trocknen, Kühlen und Pumpen zählt jede Kilowattstunde. Wenn die Steuer runtergeht, bleibt auf dem Hof mehr Luft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Module auf Acker!",
+      "thema": "energie",
+      "programmpunkt": "Großflächige Solarparks auf Kulturlandschaften und Ackerland sollen verhindert werden; wertvolles Acker- und Grünland soll landwirtschaftlich genutzt bleiben.",
+      "seite": 13,
+      "zitat": "„auf heimischem Ackerland“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fürchtet Flächenfraß und Pacht-Konkurrenz. Die Ablehnung von Solarparks auf Ackerland schützt aus seiner Sicht produktive Fläche vor zusätzlichem Druck durch Energiewende-Projekte.",
+      "begruendung_selbst": "Acker ist zum Ernähren da. Wenn da Solarparks stehen, fehlt die Fläche den Betrieben vor Ort.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klima nicht wegreden!",
+      "thema": "klima",
+      "programmpunkt": "Die AfD stellt die These des menschengemachten Klimawandels politisch grundsätzlich infrage und lehnt die Klimarettungslogik der bisherigen Politik ab.",
+      "seite": 13,
+      "zitat": "„These eines menschengemachten Klimawandels“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank ist laut Profil nicht klimaleugnend; er lehnt vor allem praxisfernen Klimaschutz auf seinem Rücken ab. Eine pauschale Distanz zum menschengemachten Klimawandel wirkt für ihn riskant, weil Wetterextreme, Trockenheit und Anpassung seinen Betrieb real treffen.",
+      "begruendung_selbst": "Ich will keinen Klimaschutz mit der Brechstange, aber die trockenen Jahre sehe ich doch selber. Man muss praktisch anpassen, nicht alles nur abtun.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht meine Flächen fluten!",
+      "thema": "klima",
+      "programmpunkt": "Beim Hochwasserschutz will die AfD mehr Überflutungsflächen schaffen und Einengungen entlang der Flüsse abbauen.",
+      "seite": 16,
+      "zitat": "„mehr Überflutungsflächen schaffen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank kann praktischen Hochwasserschutz nachvollziehen, aber zusätzliche Retentionsflächen können für Landwirte Nutzfläche, Pachtwert und Bewirtschaftung einschränken. Ohne klare Entschädigung oder Flächenschutz hört er darin ein neues Risiko für Acker und Grünland.",
+      "begruendung_selbst": "Hochwasserschutz ja, aber nicht wieder so, dass am Ende Bauernland herhalten muss und keiner den Ausfall bezahlt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine neuen Transportfesseln!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Tiertransporte sollen nur unter strengen tierschutzgerechten Bedingungen zugelassen und Exporte in Drittstaaten abgelehnt werden, solange Tierwohl nicht lückenlos gewährleistet ist.",
+      "seite": 14,
+      "zitat": "„Exporte in Drittstaaten lehnen wir ab“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank hält zwar nur eine kleine Mutterkuhherde, aber Tierhaltungsauflagen zählen ausdrücklich zu seinen Belastungen. Zusätzliche Transport- und Exportbeschränkungen können aus seiner Sicht Absatzwege verengen und wieder neue Nachweise erzeugen.",
+      "begruendung_selbst": "Kurze Wege sind gut, keine Frage. Aber wenn daraus neue Verbote und Nachweispflichten werden, hängt der kleine Halter wieder mit drin.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank würde in diesem Programm sehr viele direkte Bestätigungen seiner beruflichen Interessen finden: Bürokratieabbau, weniger EU-Vorgaben, Schutz von Ackerland, Entlastung bei Wasser und Energie sowie ein härterer Kurs beim Wolf. Kritisch blieben für ihn vor allem pauschale klimapolitische Zuspitzungen und einzelne Maßnahmen, die neue Flächen- oder Tierhaltungsrisiken auslösen könnten. Insgesamt überwiegt für ihn klar der Eindruck, dass das Programm seine Lage als Landwirt und Hofnachfolger ernst nimmt.",
+    "score": 2
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 71431,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Versorgung vor Ort",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Grünen wollen kommunale Gesundheitszentren finanziell und konzeptionell fördern, damit wohnortnahe Versorgung in ländlichen Regionen erhalten bleibt und junge Ärztinnen attraktivere Arbeitsbedingungen finden.",
+      "seite": 80,
+      "zitat": "kommunale Gesundheitszentren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sieht darin einen direkten Ansatz gegen die Lücke, die ihre eigene Praxis ohne Nachfolge hinterlassen könnte. Besonders wichtig ist ihr, dass Versorgung nicht allein an Einzelpraxen hängt, sondern vor Ort verlässlich organisiert wird.",
+      "begruendung_selbst": "Wenn ich irgendwann aufhöre, darf hier nicht einfach ein weißer Fleck entstehen. Ein gut gemachtes Gesundheitszentrum könnte Patienten und junge Kolleginnen auffangen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht den Investoren überlassen",
+      "thema": "gesundheit",
+      "programmpunkt": "Kommunale MVZ sollen gefördert werden, um medizinische Versorgung auch in strukturschwachen Regionen unabhängig von privaten Investoren sicherzustellen.",
+      "seite": 80,
+      "zitat": "unabhängig von privaten Investoren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra ist kritisch gegenüber Renditelogik in der Grundversorgung. Dass das Programm kommunale Träger stärken will, passt zu ihrer Vorstellung, dass Daseinsvorsorge gerade auf dem Land staatlich abgesichert werden muss.",
+      "begruendung_selbst": "Meine Patienten sind keine Renditefälle. Auf dem Land muss Versorgung auch dann stehen, wenn sie sich für Investoren nicht glänzend rechnet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachärzte in die Fläche",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm will fehlende Anreize für Fachärztinnen und Fachärzte in ländlichen Regionen gezielt beheben, etwa durch Förderung, bessere Arbeitsbedingungen und Entwicklungsmöglichkeiten.",
+      "seite": 81,
+      "zitat": "fehlende Anreize für Fachärzt*innen in der Fläche",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra erlebt täglich, wie schwierig Überweisungen und fachärztliche Mitversorgung im ländlichen Raum sind. Mehr Anreize für die Fläche würden ihre Praxis entlasten und Patientinnen lange Wege ersparen.",
+      "begruendung_selbst": "Ich kann viel abfedern, aber nicht jede Fachrichtung ersetzen. Wir brauchen Kollegen in erreichbarer Nähe, nicht nur in den Städten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Bus muss kommen",
+      "thema": "verkehr",
+      "programmpunkt": "Alle Dörfer sollen durch einen ausgebauten Busverkehr mindestens stündlich erreichbar sein, ergänzt durch Rufbusse oder On-Demand-Verkehre ohne Zusatzkosten.",
+      "seite": 29,
+      "zitat": "alle Dörfer mindestens einmal pro Stunde zuverlässig zu erreichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Viele von Petras älteren Patientinnen sind auf andere angewiesen, wenn Busse selten fahren oder Anschlüsse fehlen. Ein verlässlicher Takt würde Gesundheitszentren, Praxen und Apotheken erreichbarer machen.",
+      "begruendung_selbst": "Eine Behandlung nützt wenig, wenn die Leute nicht hinkommen. Gerade meine alten Patienten brauchen verlässliche Wege.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Glasfaser bis zur Praxis",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Grünen wollen Glasfaser auch in der Fläche als öffentliche Daseinsvorsorge konsequent ausbauen, für Haushalte, Betriebe und öffentliche Einrichtungen.",
+      "seite": 89,
+      "zitat": "bis zur letzten Milchkanne",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra braucht funktionierende digitale Infrastruktur, damit Praxissoftware, Kommunikation und telemedizinische Angebote nicht am Anschluss scheitern. Der Fokus auf die Fläche spricht ihre Erfahrung direkt an.",
+      "begruendung_selbst": "Ich brauche keine Sonntagsreden über Digitalisierung, ich brauche eine Leitung, die im Praxisalltag hält.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Formulare runter, bitte",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm will Bürokratie abbauen, Dokumentations- und Berichtspflichten reduzieren und Verwaltungsverfahren mit Praxisschecks auf Vereinfachungen prüfen.",
+      "seite": 89,
+      "zitat": "Bürokratie abbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bürokratie ist für Petra eine der größten Belastungen nach der Sprechstunde. Praxisschecks und weniger Berichtspflichten treffen ihren Wunsch nach pragmatischer Entlastung.",
+      "begruendung_selbst": "Wenn ich abends weniger Formulare statt mehr Patientenakten sortiere, ist schon viel gewonnen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Telemedizin, wenn sie läuft",
+      "thema": "digitalisierung",
+      "programmpunkt": "Ein Landeszentrum für angewandte Telemedizin und Telepflege soll digitale Gesundheitsangebote besser verzahnen, kollegialen Austausch erleichtern und Patientinnen besser erreichbar machen.",
+      "seite": 84,
+      "zitat": "Landeszentrum für angewandte Telemedizin",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra ist nicht gegen Digitalisierung, sondern gegen Technik, die im Alltag nicht funktioniert. Ein praktisch ausgerichtetes Telemedizin-Zentrum kann aus ihrer Sicht helfen, wenn es echte Versorgung statt zusätzlicher Klickarbeit bringt.",
+      "begruendung_selbst": "Telemedizin kann helfen, aber nur, wenn sie stabil läuft und nicht wieder die nächste Baustelle in meiner Praxis wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege darf nicht kippen",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflegeangebote sollen wohnortnah und vielfältiger werden, unter anderem durch Kurzzeitpflege, integrierte Wohnformen und bessere Entlastung pflegender Angehöriger.",
+      "seite": 86,
+      "zitat": "ambulanten Diensten und stationären",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sieht in ihrer Praxis, wie pflegende Angehörige und alte Menschen unter Versorgungslücken leiden. Mehr wohnortnahe Pflege entlastet Familien und reduziert medizinische Krisen, die sonst in der Hausarztpraxis landen.",
+      "begruendung_selbst": "Viele Angehörige sind am Ende ihrer Kräfte. Wenn Pflege vor Ort besser klappt, werden Menschen nicht erst im Notfall sichtbar.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Noch ein Pflichtgremium?",
+      "thema": "gesundheit",
+      "programmpunkt": "Kommunale Gesundheitskonferenzen sollen gesetzlich verbindlich geregelt werden, damit lokale Akteure gemeinsam regionale Versorgung, Prävention und Pflege planen.",
+      "seite": 83,
+      "zitat": "gesetzlich verbindlich regeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra erkennt den Nutzen regionaler Abstimmung, fürchtet aber aus ihrer Erfahrung, dass verbindliche Konferenzen zusätzliche Sitzungen und Protokolle erzeugen. Ohne klare Entlastung könnte das wieder Zeit kosten, die in der Versorgung fehlt.",
+      "begruendung_selbst": "Wenn ich nach der Sprechstunde noch in der nächsten Runde sitzen soll, hilft das meinen Patienten erst einmal gar nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digital darf nicht drücken",
+      "thema": "demokratie",
+      "programmpunkt": "Bis 2030 sollen nahezu alle Behördengänge vollständig digital, barrierefrei und nutzerorientiert nach dem Once-Only-Prinzip möglich sein.",
+      "seite": 97,
+      "zitat": "nahezu alle Behördengänge vollständig digital",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra wünscht sich funktionierende Digitalisierung, reagiert aber skeptisch auf große Digitalversprechen. Ihre Erfahrung mit Telematik, eAU und instabilen Verfahren macht sie empfindlich gegenüber Projekten, die am Ende neue Pflichtportale statt Entlastung bringen.",
+      "begruendung_selbst": "Digital ist gut, wenn es funktioniert. Wenn es nur heißt, dass ich das nächste Portal bedienen muss, bin ich raus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Systemumbau ohne Landarztlösung",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Grünen setzen sich auf Bundesebene für das Prinzip der Bürger*innenversicherung ein und wollen alle Einkommensformen in ein solidarisches System einbeziehen.",
+      "seite": 76,
+      "zitat": "Prinzip der Bürger*innenversicherung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra bewertet Gesundheitsreformen daran, ob sie Nachfolge, Budgetdruck und Versorgung in der Fläche konkret verbessern. Ein großer Versicherungsumbau klingt für sie nach Systempolitik, während ihre akuten Praxisprobleme ungelöst bleiben könnten.",
+      "begruendung_selbst": "Ich brauche Lösungen für Nachfolge, Budgets und Papierkram. Eine große Versicherungsdebatte füllt mir keine Sprechstunde mit Kollegen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bitte keine neue Meldepflicht",
+      "thema": "gesundheit",
+      "programmpunkt": "Für eine professionelle Pflegeselbstvertretung soll eine Meldepflicht mit freiwilliger Mitgliedschaft eingeführt werden, um Daten für Ausbildung und Fortbildung zu erhalten.",
+      "seite": 87,
+      "zitat": "freiwilliger Mitgliedschaft",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra unterstützt starke Pflege, ist aber sensibel für neue Melde- und Registrierungspflichten im Gesundheitswesen. Aus ihrer Sicht muss Professionalisierung die Pflege entlasten, nicht weitere Verwaltungsarbeit schaffen.",
+      "begruendung_selbst": "Pflegekräfte brauchen Rückenwind, nicht noch eine Pflichtliste. Daten sind gut, aber der Alltag ist jetzt schon übervoll.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra würde im grünen Programm viele konkrete Anknüpfungspunkte für ihre Lage als Landärztin finden: kommunale Gesundheitszentren, MVZ ohne Investorendruck, Facharztanreize, bessere ÖPNV-Erreichbarkeit, Glasfaser und Bürokratieabbau. Skeptisch bleibt sie dort, wo neue Gremien, Meldepflichten oder große Digital- und Systemversprechen nach zusätzlichem Aufwand klingen. Insgesamt überwiegt für sie klar der Eindruck, dass die ländliche Versorgung ernst genommen wird.",
+    "score": 2
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 127103,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kita muss bezahlbar sein",
+      "thema": "familie",
+      "programmpunkt": "Krippen und Kindergärten sollen ab dem ersten Kind dauerhaft landesfinanziert kostenlos werden.",
+      "seite": 4,
+      "zitat": "ab dem ersten Kind kostenlos machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine kämpft jeden Monat mit knappen Haushaltsmitteln und braucht verlässliche Betreuung, um arbeiten zu können. Kostenfreie Kita-Plätze würden sie direkt entlasten und die Vereinbarkeit verbessern.",
+      "begruendung_selbst": "Wenn die Kita nichts kostet, ist das sofort Geld, das bei meinen Kindern bleibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schulessen ohne Bauchweh",
+      "thema": "bildung",
+      "programmpunkt": "Die Mittagsverpflegung von Krippe bis Schule soll kostenfrei und qualitativ gut angeboten werden.",
+      "seite": 4,
+      "zitat": "ebenfalls kostenfrei und von hoher Qualität",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Nadine sind Essensgeld und gesunde Versorgung im Alltag keine Nebensache, sondern regelmäßiger finanzieller Druck. Ein kostenloses Mittagessen in Kita und Schule würde ihre Kinder direkt erreichen.",
+      "begruendung_selbst": "Ich will nicht jeden Monat rechnen, ob das Mittagessen wieder zu viel wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Jeden Monat etwas Luft",
+      "thema": "familie",
+      "programmpunkt": "Ein landeseigenes Familiengeld soll Eltern monatlich nach Kinderzahl zusätzlich unterstützen.",
+      "seite": 4,
+      "zitat": "ein landeseigenes Kindergeld einführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine hat zwei Kinder und keine Rücklagen; regelmäßige Zusatzleistungen wären für Schuhe, Klassenfahrten oder Reparaturen praktisch relevant. Die Maßnahme passt zu ihrem Wunsch, dass Kinder finanziell abgesichert aufwachsen.",
+      "begruendung_selbst": "Bei zwei Kindern zählt jeder feste Euro, nicht nur schöne Worte über Familie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bücher dürfen nichts kosten",
+      "thema": "bildung",
+      "programmpunkt": "Schulbücher sollen leihweise ohne Kosten gestellt werden; ein Kauf soll freiwillig bleiben.",
+      "seite": 7,
+      "zitat": "ohne dass dafür Kosten anfallen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Lernmittelkosten treffen Nadine unmittelbar, weil unerwartete Ausgaben ihren Monatsplan sprengen. Kostenlose Bücher unterstützen zugleich ihre Hoffnung auf bessere Bildungschancen für ihre Kinder.",
+      "begruendung_selbst": "Schule darf nicht daran hängen, ob ich gerade noch Geld für Bücher habe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bezahlbare Wohnung, bitte",
+      "thema": "wohnen",
+      "programmpunkt": "Sozialer Wohnungsbau und kommunale Wohnungsgesellschaften sollen gefördert werden, um bezahlbaren Wohnraum zu sichern und zu sanieren.",
+      "seite": 15,
+      "zitat": "bezahlbare Wohnungen für Personen mit geringem und mittlerem Einkommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine lebt zur Miete, und die Miete frisst einen großen Teil ihres knappen Einkommens. Mehr bezahlbarer Wohnraum für niedrige und mittlere Einkommen berührt daher einen ihrer zentralen Stresspunkte.",
+      "begruendung_selbst": "Ich brauche keine Eigentums-Träume, ich brauche eine Miete, die ich zahlen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom frisst mein Geld",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will die Stromsteuer für Privathaushalte auf den EU-Mindestwert senken, um besonders einkommensschwache Bürger zu entlasten.",
+      "seite": 13,
+      "zitat": "vor allem einkommensschwache Bürger zu entlasten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine spürt steigende Lebenshaltungskosten direkt, auch wenn Energie nicht ihr Hauptthema ist. Eine konkret benannte Entlastung bei Stromkosten würde ihr Haushaltsbudget stabilisieren.",
+      "begruendung_selbst": "Wenn Strom billiger wird, merke ich das sofort auf meinem Konto.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ärzte müssen erreichbar bleiben",
+      "thema": "gesundheit",
+      "programmpunkt": "Gesundheitsversorgung soll bezahlbar bleiben, öffentliche Verantwortung gestärkt und wohnortnahe Akut- und Notfallversorgung garantiert werden.",
+      "seite": 20,
+      "zitat": "bezahlbar bleiben muss",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Alleinerziehende braucht Nadine verlässliche medizinische Versorgung für sich und ihre Kinder, ohne lange Wege oder Zusatzkosten. Die Betonung von bezahlbarer Versorgung und erhaltenen Notaufnahmen passt zu ihrem Bedürfnis nach Absicherung.",
+      "begruendung_selbst": "Wenn eins meiner Kinder krank ist, brauche ich Hilfe in der Nähe und ohne Kostenangst.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Meine Familie ist normal",
+      "thema": "familie",
+      "programmpunkt": "Die Partei erkennt Alleinerziehende zwar an, wendet sich aber ausdrücklich dagegen, Einelternfamilien als normalen oder erstrebenswerten Lebensentwurf darzustellen.",
+      "seite": 4,
+      "zitat": "als normalen, fortschrittlichen oder gar erstrebenswerten Lebensentwurf",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine ist alleinerziehend und reagiert skeptisch, wenn ihr Lebensmodell als defizitär markiert wird. Die Formulierung trifft ihre Würde, auch wenn zugleich Unterstützung versprochen wird.",
+      "begruendung_selbst": "Ich bin nicht weniger Familie, nur weil ich den Alltag allein stemmen muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vater-Mutter passt nicht immer",
+      "thema": "familie",
+      "programmpunkt": "Die Partei will die Familie aus Vater, Mutter und Kindern als gesellschaftspolitisches Ziel und Sonderstellung festschreiben.",
+      "seite": 4,
+      "zitat": "Familie aus Vater, Mutter und Kindern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine will Respekt für ihre konkrete Sorgearbeit, nicht ein Leitbild, in dem ihre Familie nur als Ausnahme vorkommt. Der normative Fokus auf Vater-Mutter-Kind steht ihrer Alltagserfahrung entgegen.",
+      "begruendung_selbst": "Meine Kinder brauchen Respekt und Unterstützung, kein Idealbild, an dem wir scheitern sollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld ist kein Makel",
+      "thema": "gesundheit",
+      "programmpunkt": "Beim Bürgergeld für Ukrainer spricht die Partei von Migrantengeld und will Geflüchtete ins Asylbewerberleistungsgesetz zurückführen.",
+      "seite": 5,
+      "zitat": "Das Bürgergeld ist längst zum Migrantengeld geworden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine stockt selbst auf und ist empfindlich gegenüber Rhetorik, die Leistungsbezug als Verdacht oder Abwertung rahmt. Auch wenn der Punkt Geflüchtete betrifft, berührt er ihre Sorge vor Misstrauen gegenüber Menschen im Sozialstaat.",
+      "begruendung_selbst": "Ich weiß, wie schnell man abgestempelt wird, wenn man Hilfe braucht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Armut ist kein Tourismus",
+      "thema": "integration",
+      "programmpunkt": "Die Partei will EU-Zuwanderung in Sozialsysteme unterbinden und verwendet dafür abwertende Begriffe gegenüber armen EU-Migranten.",
+      "seite": 5,
+      "zitat": "um Sozialstaatsnomaden zur Rückkehr",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadines Menschenbild ist, dass Absicherung würdevoll bleiben muss, gerade bei knappen Lebenslagen. Die pauschal abwertende Sprache über arme Leistungsbeziehende anderer Gruppen widerspricht ihrem Wunsch nach Respekt statt Misstrauen.",
+      "begruendung_selbst": "Wer arm ist, braucht nicht noch Schimpfwörter von oben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ich kenne mein Kind",
+      "thema": "bildung",
+      "programmpunkt": "Die Schullaufbahnempfehlung nach Klasse 4 soll wieder verbindlich werden, weil Eltern die Leistung ihrer Kinder oft überschätzten.",
+      "seite": 7,
+      "zitat": "Eltern die Leistung ihres Kindes oft überschätzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine kämpft dafür, dass ihre Kinder Chancen bekommen und nicht früh aussortiert werden. Eine verbindliche Entscheidung nach Klasse 4 und der misstrauische Ton gegenüber Eltern passen schlecht zu ihrem Bedürfnis nach Beteiligung.",
+      "begruendung_selbst": "Ich will mitreden, wenn es um die Zukunft meines Kindes geht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht Kinder aussortieren",
+      "thema": "bildung",
+      "programmpunkt": "Die Partei will Inklusion beenden und Förderschulen ausbauen.",
+      "seite": 7,
+      "zitat": "die Inklusion unverzüglich beenden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine bewertet Bildung daran, ob Kinder gefördert werden und nicht abrutschen. Das abrupte Ende der Inklusion wirkt aus ihrer Perspektive hart gegenüber Kindern mit besonderem Förderbedarf und ihren Familien.",
+      "begruendung_selbst": "Kinder, die mehr Hilfe brauchen, dürfen nicht einfach weggeschoben werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sonderklassen machen Abstand",
+      "thema": "bildung",
+      "programmpunkt": "Flüchtlingskinder sollen in Sonderklassen unterrichtet werden, auch um einheimische Kinder von Belastungen fernzuhalten.",
+      "seite": 7,
+      "zitat": "beim gemeinsamen Unterricht mit Kindern aus völlig fremden Kulturen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine will gute Lernbedingungen, aber ihr Würdeverständnis spricht gegen eine pauschale Trennung von Kindern nach Herkunft. Der Programmpunkt stellt geflüchtete Kinder als Belastung für die eigenen Kinder dar.",
+      "begruendung_selbst": "Gute Schule heißt für mich nicht, Kinder gegeneinander zu stellen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet im Programm mehrere konkrete Entlastungen, die ihren Alltag direkt treffen: kostenlose Kita, Schulessen, Familiengeld, Lernmittel, bezahlbarer Wohnraum und Gesundheitsversorgung. Zugleich stößt sie sich stark daran, dass ihr eigenes Familienmodell nur als Ausnahme anerkannt und nicht als normal respektiert wird. Auch die abwertende Sprache über Sozialleistungsbeziehende und arme Migranten sowie frühe schulische Auslese stehen ihrer pragmatischen, würdevollen Sozialstaats- und Bildungsperspektive entgegen.",
+    "score": 0
+  }
+}

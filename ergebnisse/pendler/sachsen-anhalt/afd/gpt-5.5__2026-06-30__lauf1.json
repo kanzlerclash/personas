@@ -1,0 +1,162 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 106739,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mein Verbrenner bleibt!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will das Verbrenner-Verbot endgueltig stoppen und den Verbrennungsmotor weiter zulassen.",
+      "seite": 13,
+      "zitat": "„Verbrenner-Verbot nicht nur um einige Jahre verschoben, sondern endgültig gestoppt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist beruflich auf sein Auto angewiesen und sieht kein bezahlbares, alltagstaugliches E-Auto fuer seine Pendelstrecke. Die Absage an ein Verbrenner-Aus trifft deshalb einen Kern seiner Mobilitaetssorgen.",
+      "begruendung_selbst": "Ich kann nicht einfach sagen: Ab morgen fahre ich elektrisch. Wenn mein Diesel verboten oder unbezahlbar wird, komme ich nicht mehr vernuenftig zur Schicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Runter mit dem Spritpreis!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will sich fuer niedrigere Kraftstoffsteuern einsetzen, damit Benzin und Diesel guenstiger werden.",
+      "seite": 13,
+      "zitat": "„Energiesteuer für Kraftstoffe auf den EU-Mindestsatz abgesenkt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Spritkosten sind fuer Toralf ein fester und schmerzhafter Posten im Familienbudget. Eine Senkung der Kraftstoffpreise wuerde seine 45 Minuten Arbeitsweg unmittelbar entlasten.",
+      "begruendung_selbst": "Ich tanke nicht zum Spass, ich tanke, damit ich arbeiten kann. Jeder Cent weniger an der Zapfsaeule landet direkt bei meiner Familie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO2 trifft meinen Arbeitsweg!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei will die CO2-Steuer abschaffen und begruendet das mit Entlastung von Verbrauchern.",
+      "seite": 13,
+      "zitat": "„Streichung der CO₂-Steuer einsetzen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf erlebt CO2-Bepreisung nicht abstrakt, sondern als Aufschlag auf Sprit und Heizen. Die Forderung bestaetigt seine Sorge, dass Klimapolitik ohne Alternative vor allem Pendler im Dorf bezahlen laesst.",
+      "begruendung_selbst": "Solange hier kein Bus faehrt, ist die CO2-Abgabe fuer mich keine Lenkung, sondern eine Strafgebuehr fuers Arbeiten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Strassen statt Flickwerk!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm will den Investitionsstau bei Strassen und Bruecken abbauen und Planungsverfahren beschleunigen.",
+      "seite": 16,
+      "zitat": "„Tempo im Straßenbau, Ausbau des Straßennetzes“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf faehrt taeglich ueber Landstrassen und ist auf verlaessliche Infrastruktur angewiesen. Bessere Strassen bedeuten fuer ihn weniger Verschleiss, weniger Umwege und mehr Sicherheit auf dem Arbeitsweg.",
+      "begruendung_selbst": "Wenn ich morgens im Dunkeln losmuss, brauche ich keine Schlaglochpiste. Strassen sind fuer mich Arbeitsweg, nicht Luxus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Baustellen ohne Schikane!",
+      "thema": "verkehr",
+      "programmpunkt": "Baustellen sollen kuenftig staerker nach den Belangen der Autofahrer geplant werden, etwa bei Umleitungen und Navigationsdaten.",
+      "seite": 16,
+      "zitat": "„Belange der Autofahrer besser zu berücksichtigen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Schichtarbeiter kann Toralf unzuverlaessige oder viel zu lange Umleitungen schlecht abfedern. Die Forderung passt zu seiner Erwartung, dass Politik den Alltag von Pendlern praktisch mitdenkt.",
+      "begruendung_selbst": "Wenn eine Ortsdurchfahrt dicht ist, kostet mich das Zeit, Sprit und Nerven. Plant Baustellen so, dass Leute trotzdem puenktlich zur Arbeit kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus ja, aber zusaetzlich!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will den OPNV ausbauen, aber ausdruecklich als Ergaenzung und nicht als Ersatz fuer den privaten Pkw.",
+      "seite": 16,
+      "zitat": "„nicht als Ersatz, aber als sinnvolle Ergänzung zum privaten PKW“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist nicht gegen Bus und Bahn, aber fuer seine Schichten reicht das heutige Angebot nicht. Ein Ausbau ohne Zwang zum Autoverzicht entspricht seiner pragmatischen Haltung.",
+      "begruendung_selbst": "Wenn hier irgendwann ein Bus faehrt, gut. Aber bis dahin darf mir keiner mein Auto schlechtreden, denn ohne das komme ich nicht zur Arbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unser Dorf wird mitgedacht!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm will den laendlichen Raum priorisieren, Dorf- und Landstrassen sanieren und Autofahren mit Diesel und Benzin weiter ermoeglichen.",
+      "seite": 15,
+      "zitat": "„Dorf- und Landstraßen saniert werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf lebt in einem Dorf ohne brauchbaren OPNV und fuehlt sich von stadtzentrierter Politik oft uebergangen. Die Betonung laendlicher Infrastruktur spricht seine Lebenslage direkt an.",
+      "begruendung_selbst": "Ich wohne nicht im Stadtzentrum. Wenn das Dorf funktionieren soll, brauchen wir Strassen, Schule, Internet und die Moeglichkeit, mit dem Auto zu fahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriejobs brauchen Energie!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will hohe Energiepreise fuer Unternehmen senken, Deindustrialisierung stoppen und Industriearbeitsplaetze sichern.",
+      "seite": 13,
+      "zitat": "„Deindustrialisierung sowie den Arbeitsplatzabbau im Land zu stoppen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf arbeitet als Industriemechaniker und verbindet bezahlbare Energie mit sicheren Arbeitsplaetzen. Die industriepolitische Entlastung trifft deshalb neben seinem Geldbeutel auch seine berufliche Sicherheit.",
+      "begruendung_selbst": "Wenn die Firma wegen Strompreisen wackelt, hilft mir kein schoenes Konzeptpapier. Ich brauche einen Arbeitsplatz, der bleibt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Laden auf dem Land fehlt!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will Subventionen fuer E-Autos und die dazugehoerige Ladeinfrastruktur streichen.",
+      "seite": 13,
+      "zitat": "„Subventionen für E-Autos und deren Ladeinfrastruktur streichen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf kann sich derzeit kein E-Auto leisten, schliesst einen Umstieg aber nicht grundsaetzlich aus. Wenn Foerderung und Ladeinfrastruktur gestrichen werden, bleibt gerade auf dem Land die bezahlbare Alternative noch weiter weg.",
+      "begruendung_selbst": "Ich will nicht gezwungen werden, ein E-Auto zu kaufen. Aber wenn es irgendwann bezahlbar sein soll, brauche ich auch Ladesaeulen und nicht nur Sprueche gegen Elektro.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umwelt nicht einfach abtun!",
+      "thema": "klima",
+      "programmpunkt": "Das Programm lehnt die Klimarettungslogik ab und setzt statt Klimaschutz vor allem auf Anpassung und Heimatschutz.",
+      "seite": 13,
+      "zitat": "„nicht versuchen, das Weltklima in Sachsen-Anhalt zu retten“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf misstraut Verboten und teurer Symbolpolitik, ist aber nicht grundsaetzlich gegen Umweltschutz. Die pauschale Abwertung von Klimaschutz wirkt auf ihn zu grob, weil er auch an die Zukunft seiner Kinder denkt.",
+      "begruendung_selbst": "Ich will keine Bevormundung, aber ganz egal ist mir Umwelt auch nicht. Man kann doch realistisch sein, ohne alles als Unsinn abzuraeumen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zukunftsindustrie nicht wegwerfen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will die gruene Wasserstoffstrategie beenden und entsprechende Foerderprogramme streichen.",
+      "seite": 13,
+      "zitat": "„Wasserstoffstrategie umgehend beenden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf will sichere Industriearbeitsplaetze und steht technologischem Fortschritt pragmatisch gegenueber, solange er bezahlbar bleibt. Ein vollstaendiger Abbruch von Wasserstoffprojekten kann aus seiner Sicht zu hart wirken, wenn dadurch kuenftige Industriechancen im Land verloren gehen.",
+      "begruendung_selbst": "Wenn Wasserstoff nur Geld verbrennt, muss man das pruefen. Aber einfach alles stoppen klingt riskant, wenn daraus vielleicht neue Industriearbeit entstehen kann.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet im AfD-Programm sehr viele Punkte, die seine Pendlerlage direkt bestaetigen: Verbrenner erhalten, Sprit und CO2-Kosten senken, Strassen sanieren, Baustellen autofahrerfreundlicher planen und Industriearbeitsplaetze ueber niedrigere Energiepreise sichern. Besonders stark spricht ihn an, dass der laendliche Raum nicht als Nachgedanke behandelt wird. Stoerend bleibt fuer ihn, dass das Programm Klimaschutz sehr pauschal abwertet und mit dem Streichen von E-Auto- und Ladefoerderung seine moeglichen Zukunftsalternativen auf dem Land schwaechen koennte.",
+    "score": 2
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 57742,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich der Mittelstand zuerst",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die AfD will kleine und mittelständische Unternehmen statt großer Konzernansiedlungen in den Mittelpunkt der Wirtschaftspolitik stellen.",
+      "seite": 12,
+      "zitat": "„kleine und mittelständische Unternehmen als Rückgrat“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine fühlt sich als Inhaberin eines SHK-Betriebs direkt gesehen, weil das Programm nicht vorrangig Großkonzerne adressiert. Ihre Sorge, gegenüber Unternehmen mit Lobby und Rechtsabteilungen benachteiligt zu sein, wird hier aufgegriffen.",
+      "begruendung_selbst": "Ich will nicht wieder hinten runterfallen, während für Konzerne Milliarden locker gemacht werden. Mein Betrieb ist auch Wirtschaft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Akten, mehr Arbeit",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD kündigt an, landeseigene bürokratische Regelungen zu prüfen, überflüssige Vorschriften zu streichen und neue Bürokratie durch Streichungen auszugleichen.",
+      "seite": 12,
+      "zitat": "„bürokratische Last der Unternehmen in Sachsen-Anhalt ist erdrückend“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bürokratie ist einer der stärksten Belastungspunkte in Sabines Profil. Die angekündigte Entlastung trifft ihren Alltag aus Angeboten, Nachweisen und Abend-Papierkram unmittelbar.",
+      "begruendung_selbst": "Genau das ist mein Alltag: tagsüber Baustelle, abends Formulare. Wenn da wirklich etwas wegfällt, habe ich wieder Luft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerk in die Schulen",
+      "thema": "bildung",
+      "programmpunkt": "Die AfD will handwerkliche Bildung mit Werkstätten, Projekttagen, Technikmodulen und Kooperationen mit regionalen Betrieben stärker in Schulen verankern.",
+      "seite": 7,
+      "zitat": "„handwerkliche Bildung stärker in den Schulalltag zu integrieren“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine sucht Nachwuchs und erlebt, dass Jugendliche das Handwerk zu spät oder gar nicht kennenlernen. Frühe praktische Kontakte zu Betrieben passen zu ihrem Wunsch nach mehr Azubis und Wertschätzung des Handwerks.",
+      "begruendung_selbst": "Wenn Jugendliche mal eine echte Werkstatt sehen, merken manche erst, dass Handwerk ein guter Weg ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Azubis brauchen Anschub",
+      "thema": "arbeit",
+      "programmpunkt": "Die AfD plant ein freiwilliges Handwerksjahr, Führerscheinzuschüsse, Ausbildungsprämien, kostenfreie Meisterausbildung und Meisterprämien.",
+      "seite": 12,
+      "zitat": "„der Praktikant von heute wird zum Auszubildenden von morgen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Maßnahmenmix berührt Sabines Fachkräftesorge sehr konkret. Gerade Mobilität, Meisterkosten und frühe Betriebskontakte sind für einen ländlichen SHK-Betrieb praktische Hebel.",
+      "begruendung_selbst": "Ein Führerschein und ein bezahlbarer Meisterbrief sind keine Nebensachen. Ohne das bekomme ich auf dem Land keine Leute.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nachfolge mitgedacht",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die AfD beschreibt ein Handwerkssicherungskonzept, das Nachwuchsgewinnung, Ausbildung, Meisterabschluss und spätere Betriebsübernahme miteinander verbinden soll.",
+      "seite": 12,
+      "zitat": "„Betriebsaufgaben verhindern, Unternehmensnachfolge sichern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines Betrieb ist Lebensinhalt und Altersvorsorge, die Übergabe in etwa zehn Jahren ist eine offene Sorge. Ein politischer Fokus auf Nachfolge trifft daher einen zentralen Punkt ihrer Lebensplanung.",
+      "begruendung_selbst": "Ich baue den Laden nicht dreißig Jahre auf, damit am Ende keiner übernimmt. Nachfolge muss früher anfangen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom darf nicht auffressen",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will für alle Unternehmen eine Senkung der Stromsteuer anstoßen und Energiepreise als Standortfaktor stärker berücksichtigen.",
+      "seite": 13,
+      "zitat": "„Absenkung der Stromsteuer nicht nur für Industriebetriebe“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energiepreise sind für Sabines Werkstatt, Fuhrpark, Materialkalkulation und Kundenaufträge ein Dauerthema. Die Entlastung nicht nur großer Industrie, sondern aller Unternehmen, entspricht ihrem mittelstandsorientierten Blick.",
+      "begruendung_selbst": "Energiepreise treffen nicht nur die Großen. Bei mir laufen Werkstatt, Lager, Büro und Fahrzeuge auch nicht mit gutem Willen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Anträge dürfen nicht versanden",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD will eine Genehmigungsfiktion einführen, sodass Anträge bei überschrittener Entscheidungsfrist automatisch als genehmigt gelten.",
+      "seite": 17,
+      "zitat": "„gilt der Antrag automatisch als genehmigt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Langsame Behörden kosten Sabine reale Arbeitszeit und können Projekte verzögern. Eine verbindliche Fristlogik spricht ihr Bedürfnis nach planbaren Verfahren und Handschlagqualität in der Verwaltung an.",
+      "begruendung_selbst": "Wenn ich meine Fristen reiße, kostet mich das Geld. Beim Amt muss es auch Konsequenzen geben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digital statt Behördengänge",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die AfD will Behörden digitalisieren, standardisierte Verfahren automatisieren und E-Verwaltung verpflichtend einführen.",
+      "seite": 17,
+      "zitat": "„Digitale Prozesse – von Bürgerportalen bis zur Automatisierung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine wünscht digitale Verwaltung und weniger Antragsaufwand. Verpflichtende digitale Prozesse könnten ihren Büroalltag spürbar erleichtern, wenn sie praxistauglich umgesetzt werden.",
+      "begruendung_selbst": "Ich brauche keine neuen Portale zum Selbstzweck. Aber wenn ein Antrag online sauber durchläuft, spart mir das einen halben Abend.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine neuen Abgaben",
+      "thema": "steuern",
+      "programmpunkt": "Die AfD verspricht keine neuen Landesabgaben oder Steuererhöhungen und will die Steuer- und Abgabenlast generell senken.",
+      "seite": 19,
+      "zitat": "„keine neuen Abgaben oder Steuererhöhungen im Land“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine kalkuliert mit schwankender Liquidität, Lohnkosten, Krediten und Materialpreisen. Planbare Abgaben und Entlastung entsprechen ihrem Wunsch nach verlässlichen Rahmenbedingungen.",
+      "begruendung_selbst": "Ich kann Preise nicht sauber kalkulieren, wenn ständig irgendwo eine neue Abgabe dazukommt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Fachkräfte fehlen jetzt",
+      "thema": "arbeit",
+      "programmpunkt": "Die AfD lehnt die Anwerbung sogenannter kulturfremder Fachkräfte ab und will Fachkräftesicherung vor allem über einheimischen Nachwuchs lösen.",
+      "seite": 5,
+      "zitat": "„auf kulturfremde Fachkräfte verzichten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine ist nicht ideologisch auf Zuwanderung fixiert, braucht aber Gesellen und Azubis. Eine pauschal abwehrende Linie gegen ausländische Fachkräfte verengt aus ihrer pragmatischen Sicht den Arbeitsmarkt zu stark.",
+      "begruendung_selbst": "Mir ist egal, wo jemand geboren ist, wenn er sauber arbeitet, Deutsch genug kann und morgens auf der Baustelle steht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitalisierung ersetzt keine Gesellen",
+      "thema": "arbeit",
+      "programmpunkt": "Die AfD will Technisierung, Digitalisierung und KI auch dazu nutzen, Zuwanderung ausländischer Fachkräfte zu vermeiden.",
+      "seite": 5,
+      "zitat": "„die Zuwanderung kulturfremder Fachkräfte zu vermeiden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine sieht Digitalisierung als Hilfe für Disposition und Verwaltung, aber nicht als Ersatz für Monteure im Bad oder Heizungskeller. Der Punkt wirkt auf ihre konkrete Personalnot zu indirekt und ideologisch aufgeladen.",
+      "begruendung_selbst": "Eine App tauscht keinen Heizkessel und KI schleppt kein Rohr in den Keller. Digitalisierung hilft, aber sie ersetzt keine Hände.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schon wieder Heizungs-Hin-und-Her",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will Wärmeplanungs- und Gebäudeenergiegesetz abschaffen und Förderprogramme für Wärmepumpen streichen.",
+      "seite": 13,
+      "zitat": "„Streichung jeglicher Fördermittel und -programme für Wärmepumpen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine ärgert sich zwar über praxisferne Vorgaben, braucht aber vor allem stabile Regeln für Kundengespräche und Aufträge. Eine erneute harte Richtungsänderung mit gestrichenen Förderungen kann Kunden erneut verunsichern und geplante SHK-Aufträge platzen lassen.",
+      "begruendung_selbst": "Ich will keine Zwangsnummern, aber auch nicht wieder alles über Nacht anders. Meine Kunden brauchen Klarheit, sonst unterschreibt keiner.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heimwerker sind keine Lösung",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die AfD will ein nebenberufliches Qualifikationsprogramm für Heimwerker auflegen, damit Eigentümer einfache Renovierungsarbeiten selbst erledigen können.",
+      "seite": 6,
+      "zitat": "„einfache handwerkliche Renovierungsarbeiten selbst durchzuführen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Meisterin legt Sabine Wert auf Facharbeit, Haftung und Qualität. Staatlich gefördertes Heimwerken kann sie als Geringschätzung professioneller Handwerksleistung und als Risiko für Pfusch verstehen.",
+      "begruendung_selbst": "Nicht jede Arbeit ist ein Wochenendprojekt. Wenn danach Wasser in der Wand steht, ruft man doch wieder uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Russland-Geschäft ist wacklig",
+      "thema": "energie",
+      "programmpunkt": "Die AfD verbindet niedrigere Energiepreise auch mit der Wiederaufnahme von Energieimporten aus Russland.",
+      "seite": 13,
+      "zitat": "„Wiederaufnahme von Energieimporten aus Russland“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine will bezahlbare Energie, aber vor allem verlässliche Rahmenbedingungen. Eine starke Bindung an politisch umstrittene Energieimporte kann aus ihrer pragmatischen Betriebssicht als unsicherer Plan wirken.",
+      "begruendung_selbst": "Billige Energie ist wichtig, aber ich brauche Verlässlichkeit. Wenn die Lösung wieder politisch kippt, stehe ich erneut im Regen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet im AfD-Programm viele Punkte, die ihre Lage als SHK-Meisterin direkt treffen: Mittelstandsfokus, Bürokratieabbau, Handwerksnachwuchs, Energiepreise, digitale Verwaltung und Steuerdisziplin. Gleichzeitig stören sie die pauschale Ablehnung ausländischer Fachkräfte, erneute Brüche bei Heizungs- und Förderregeln sowie ein handwerksnahes Heimwerkerprogramm. Insgesamt überwiegt für sie die Resonanz, aber nicht ohne deutliche praktische Vorbehalte.",
+    "score": 1
+  }
+}

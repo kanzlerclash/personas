@@ -1,0 +1,222 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 92108,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Strom darf mich nicht fressen",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will die Stromsteuer fuer alle Privathaushalte auf den EU-Mindestwert senken und dies besonders mit Entlastung einkommensschwacher Menschen begruenden.",
+      "seite": 13,
+      "zitat": "vor allem einkommensschwache Bürger zu entlasten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt mit knappem, unregelmaessigem Budget; sinkende laufende Energiekosten wuerden sie direkt entlasten. Auch wenn sie die fossile Stoßrichtung des Energiekapitels ablehnt, trifft dieser einzelne Entlastungspunkt ein reales Alltagsproblem.",
+      "begruendung_selbst": "Wenn am Monatsende jeder Euro zaehlt, ist niedrigere Stromsteuer erstmal konkret spuerbar. Das loest nicht mein Klimaproblem, aber es trifft mein Konto.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Stipendien waeren gut",
+      "thema": "bildung",
+      "programmpunkt": "Die AfD will eine Landesfoerderung fuer Stipendien in Studium und Promotion aufbauen, weil aus ihrer Sicht das BAfoeG-System versagt.",
+      "seite": 8,
+      "zitat": "Stipendien für Promotion und Studium vergibt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Studentin mit Nebenjob und BAfoeG-Teilfoerderung wuerde Jule zusaetzliche Studienfinanzierung grundsaetzlich begruessen. Der stark leistungsorientierte Zuschnitt bleibt fuer sie sozialpolitisch fragwuerdig, aber der Foerderansatz beruehrt ihre Lage positiv.",
+      "begruendung_selbst": "Ich brauche nicht noch mehr Nebenjob-Stunden, sondern mehr Luft zum Studieren. Stipendien koennen helfen, solange nicht nur die Privilegiertesten durchkommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Uni-Jobs brauchen Sicherheit",
+      "thema": "bildung",
+      "programmpunkt": "Die AfD will niedrige Bezahlung und befristete Beschaeftigung an Hochschulen angehen und mehr Planungssicherheit fuer Wissenschaftler schaffen.",
+      "seite": 8,
+      "zitat": "Wissenschaftler brauchen Planungssicherheit und innere Ruhe",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule arbeitet im Hochschulumfeld und denkt aus studentischer Naehe an prekäre akademische Laufbahnen. Bessere Bezahlung und weniger Befristung passen zu ihrem Wunsch nach sozialer Teilhabe im Bildungsbereich.",
+      "begruendung_selbst": "An der Uni haengen so viele Leute in Kettenvertraegen. Wenn Forschung und Lehre gut sein sollen, muessen Menschen davon leben koennen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Bus und Bahn, bitte",
+      "thema": "verkehr",
+      "programmpunkt": "Die AfD beschreibt den privaten Pkw als wichtig, will den OePNV aber als Ergaenzung weiter ausbauen und Bahn-Rueckbau stoppen.",
+      "seite": 16,
+      "zitat": "den öffentlichen Personen-Nahverkehr weiter ausbauen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule ist im Alltag auf OePNV angewiesen und wuenscht bezahlbare, verlaessliche Mobilitaet. Ein Ausbau des Nahverkehrs bestaetigt diesen konkreten Mobilitaetsbedarf, auch wenn das Programm insgesamt stark autoorientiert bleibt.",
+      "begruendung_selbst": "Ich habe kein Auto und will auch keins brauchen. Mehr Nahverkehr ist fuer mich Alltag, nicht Lifestyle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radwege sind echte Freiheit",
+      "thema": "verkehr",
+      "programmpunkt": "Die AfD will Planungsverfahren fuer Radwege vereinfachen, Radwege bei neuen Landesstrassen mitplanen und kommunale Radverkehrsfoerderung erhoehen.",
+      "seite": 16,
+      "zitat": "die Fördermittel des Landes zur Unterstützung des kommunalen Radverkehrsnetzes deutlich zu erhöhen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule nutzt viel Rad und verbindet Mobilitaet mit Kosten, Klima und Alltagstauglichkeit. Mehr Radwegefoerderung entspricht ihren praktischen Interessen, auch wenn die Begruendung des Programms eher tourismus- und ordnungspolitisch ist.",
+      "begruendung_selbst": "Wenn Radwege wirklich ausgebaut werden, komme ich billiger und sicherer durch die Stadt. Das ist einer der wenigen Punkte, die zu meinem Alltag passen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitbestimmen klingt richtig",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD will direkte Demokratie erleichtern, unter anderem durch niedrigere Quoren, laengere Fristen und digitale Unterschriftensammlungen.",
+      "seite": 11,
+      "zitat": "auch digitale Unterschriftensammlungen ermöglichen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule ist aktivistisch gepraegt und legt Wert auf demokratische Mitbestimmung. Niedrigere Beteiligungshuerden und digitale Verfahren passen zu ihrem Wunsch, dass Buergerinnen und Initiativen wirksamer eingreifen koennen.",
+      "begruendung_selbst": "Mehr direkte Mitbestimmung ist wichtig, gerade fuer Leute, die nicht in Parteiapparaten sitzen. Digitale Unterschriften koennen Bewegungen handlungsfaehiger machen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Meine Rechte werden gestrichen",
+      "thema": "familie",
+      "programmpunkt": "Die AfD will den Gleichstellungsbeauftragten durch einen Familienbeauftragten ersetzen und staatliches Handeln auf Geburtenrate und Familienfreundlichkeit ausrichten.",
+      "seite": 4,
+      "zitat": "Gesellschaftspolitische Steuerungsinstrumente, die nicht nur kostspielig sind",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule fuerchtet den Abbau von Gleichstellungs- und Antidiskriminierungsstrukturen. Die Ersetzung eines Gleichstellungsamts durch ein geburtenorientiertes Familienamt steht ihrer Erwartung entgegen, dass der Staat Minderheiten und gleiche Rechte aktiv schuetzt.",
+      "begruendung_selbst": "Das ist genau die Verschiebung, vor der ich Angst habe: weg von Gleichstellung, hin zu einem engen Familienbild, in dem ich nur stoere.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queer wird abgewertet",
+      "thema": "familie",
+      "programmpunkt": "Die AfD stellt nicht-reproduktive und queere Lebensweisen der „normalen Familie“ gegenueber und will Familienbilder in Kampagnen und Bildung priorisieren.",
+      "seite": 4,
+      "zitat": "sexuelle Abweichungen und nicht-reproduktive Lebensweisen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als queere Studentin liest Jule diese Formulierung als direkte Abwertung ihrer Lebensweise. Der Programmpunkt widerspricht ihrem zentralen Wert gleicher Anerkennung unterschiedlicher Lebensentwuerfe.",
+      "begruendung_selbst": "Wenn meine Existenz als Abweichung markiert wird, ist die Botschaft klar: Ich soll weniger sichtbar und weniger normal sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Aufklaerung soll verschwinden",
+      "thema": "bildung",
+      "programmpunkt": "Die AfD will staatliche Programme gegen „Fruehsexualisierung“ beenden und kritisiert Angebote, die Akzeptanz fuer alternative Lebensentwuerfe und Geschlechtsidentitaeten foerdern.",
+      "seite": 4,
+      "zitat": "nicht-normaler Geschlechtsidentitäten oder abseitiger sexueller Vorlieben",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht Bildungs- und Akzeptanzarbeit als Schutz fuer queere Jugendliche und Familien jenseits der Norm. Der Programmpunkt wuerde solche Sichtbarkeit aus Kitas und Schulen draengen und steht ihrer Haltung zu Vielfalt frontal entgegen.",
+      "begruendung_selbst": "Queere Kinder und Kinder aus queeren Familien brauchen nicht weniger Sichtbarkeit, sondern mehr Sicherheit. Akzeptanz ist keine Gefahr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hochschule ohne Gleichstellung?",
+      "thema": "bildung",
+      "programmpunkt": "Die AfD will Frauenfoerderprogramme, Frauenquoten, das Gleichstellungsziel und Gleichstellungsbeauftragte aus der Hochschulpolitik entfernen.",
+      "seite": 8,
+      "zitat": "alle Frauenquoten außer Kraft setzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule studiert an einer Hochschule und erwartet, dass strukturelle Ungleichheiten dort bearbeitet werden. Die Abschaffung zentraler Gleichstellungsinstrumente trifft ihre Sorge vor Rueckbau erkaempfter Rechte unmittelbar.",
+      "begruendung_selbst": "An der Uni ist Gleichstellung nicht irgendein Extra. Ohne Strukturen gewinnen wieder die, die sowieso schon leichter durchkommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Studentische Stimme kleinmachen",
+      "thema": "bildung",
+      "programmpunkt": "Die AfD will den Einfluss von Studentenraeten und Gruppenuniversitaet zurueckdraengen und beschreibt engagierte Studierende als kleine linksextreme Schicht.",
+      "seite": 8,
+      "zitat": "den Einfluss der Studentenräte zurückdrängt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule ist in Hochschul- und Klimagruppen aktiv und verbindet Studium mit Mitbestimmung. Die Abwertung studentischer Vertretung widerspricht ihrem demokratischen Selbstverstaendnis und ihrer alltaeglichen Rolle an der Uni.",
+      "begruendung_selbst": "Studentische Mitbestimmung ist nicht linksradikaler Laerm, sondern unser Recht, die Uni mitzugestalten. Das kleinzureden macht mich wuetend.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiewende wird begraben",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will Subventionen fuer erneuerbare Energien streichen, den Einspeisevorrang beenden und die Energiewendepolitik im Land stoppen.",
+      "seite": 13,
+      "zitat": "Subventionen für erneuerbare Energien streichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Klimaschutz und Energiewende sind fuer Jule zentrale Zukunftsfragen. Der Programmpunkt wuerde den Ausbau erneuerbarer Energien politisch ausbremsen und trifft damit ihren wichtigsten thematischen Stake.",
+      "begruendung_selbst": "Genau das ist der Rueckschritt, der mir Angst macht. Ohne Erneuerbare wird meine Zukunft verheizt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohle bis nach 2038?",
+      "thema": "klima",
+      "programmpunkt": "Die AfD will den Kohleausstieg stoppen und den Kohlestandort Sachsen-Anhalt ueber 2038 hinaus erhalten.",
+      "seite": 13,
+      "zitat": "dass der Kohleausstieg in Deutschland gestoppt wird.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule bewertet Politik daran, ob sie Klimaziele ernst nimmt. Ein Stopp des Kohleausstiegs steht fuer sie fuer fossile Verlaengerung statt Transformation und beruehrt ihr Zukunftsgefuehl direkt negativ.",
+      "begruendung_selbst": "Kohle laenger laufen zu lassen heisst, die Rechnung meiner Generation hinzulegen. Das ist fuer mich kein Kompromiss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pariser Ziele wegwerfen?",
+      "thema": "klima",
+      "programmpunkt": "Die AfD will Initiativen fuer den Austritt Deutschlands aus dem Pariser Klimaabkommen, die Kuendigung des Green Deal und die Abschaffung des Bundesklimaschutzgesetzes nutzen.",
+      "seite": 13,
+      "zitat": "Austritt Deutschlands aus dem Pariser Klimaabkommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Fuer Jule sind verbindliche Klimaziele ein Mindeststandard politischer Verantwortung. Die Absage an Paris, Green Deal und Klimaschutzgesetz widerspricht ihrem Kernwert Klimagerechtigkeit.",
+      "begruendung_selbst": "Wenn sogar die gemeinsamen Klimaregeln gekippt werden sollen, bleibt nur noch freiwilliges Wegsehen. Das ist mein Zukunftsalarm.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Diversity wird Feindbild",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD will Sonderbeauftragte fuer Gleichstellung, Integration und Diversity abschaffen und bezeichnet diese Strukturen als Symbolpolitik.",
+      "seite": 17,
+      "zitat": "für Gleichstellung, Integration, Diversity und anderes mehr",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule erwartet, dass Verwaltung Schutz- und Teilhabestrukturen fuer verschiedene Gruppen bereitstellt. Die pauschale Abschaffung solcher Beauftragten steht gegen ihre solidarische Sicht auf Minderheiten, Migrantinnen und marginalisierte Lebenslagen.",
+      "begruendung_selbst": "Diversity ist kein Prestigeamt, sondern fuer viele Menschen die Stelle, an die sie sich wenden koennen. Das einfach zu streichen nimmt Schutz weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Linke Medien austrocknen",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD will Radio Corax die Foerderung entziehen und greift dabei Regenbogenideologie, Genderismus und studentische Zuwendungen ausdruecklich an.",
+      "seite": 18,
+      "zitat": "perversen Regenbogenideologie und des Genderismus",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule nutzt alternative Online- und Peer-Medien und legt Wert auf zivilgesellschaftliche Gegenoeffentlichkeit. Die feindselige Sprache gegen queere und genderbezogene Inhalte bestaetigt ihre Sorge vor kultureller Verdraengung progressiver Stimmen.",
+      "begruendung_selbst": "Das klingt nicht nach Medienvielfalt, sondern danach, unbequeme linke und queere Raeume finanziell auszutrocknen. Genau solche Orte brauchen Studierende.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule findet einzelne materielle und demokratische Punkte hilfreich, etwa Entlastung bei Stromkosten, Rad- und Nahverkehrsausbau, Stipendien sowie mehr direkte Beteiligung. Insgesamt ueberwiegen fuer sie aber die klaren Angriffe auf Klimaschutz, Energiewende, Gleichstellung, queere Sichtbarkeit und studentische Mitbestimmung. Aus ihrer Perspektive macht das Programm ihre Lebenslage und ihre Werte eher unsicherer als staerker.",
+    "score": -2
+  }
+}

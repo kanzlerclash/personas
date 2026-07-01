@@ -1,0 +1,162 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 104730,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Heizen muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will Energiepreise senken und stellt ausdrücklich einkommensschwache Haushalte und altersarme Rentner als Betroffene hoher Energiepreise heraus.",
+      "seite": 13,
+      "zitat": "„Von den explodierenden Energiepreisen sind vor allem Einkommensschwache wie etwa altersarme Rentner betroffen.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter leben von kleinen Renten und spüren Heiz- und Stromkosten unmittelbar. Dass das Programm diese Belastung bei Rentnern benennt und sozialverträgliche Energiepreise verspricht, trifft einen ihrer zentralen Sorgenpunkte.",
+      "begruendung_selbst": "Bei uns geht es nicht um Luxus, sondern darum, ob die Heizung im Winter bezahlbar bleibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Sanierung mit der Brechstange",
+      "thema": "wohnen",
+      "programmpunkt": "Die AfD will Wärmeplanungs- und Gebäudeenergiegesetz abschaffen und Haushalten die Entscheidung zwischen Energieeinsparung und Investitionskosten selbst überlassen.",
+      "seite": 13,
+      "zitat": "„Die AfD lehnt staatlichen Zwang und Dirigismus im Wärmesektor“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar fürchtet unbezahlbare Sanierungspflichten am eigenen Haus von 1981. Die Ablehnung staatlicher Vorgaben im Wärmesektor passt stark zu ihrem Wunsch, im abbezahlten Haus ohne ruinöse Pflichtinvestitionen alt zu werden.",
+      "begruendung_selbst": "Wenn am Haus etwas gemacht werden muss, dann bitte so, dass wir es auch bezahlen können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Hausarzt darf nicht verschwinden",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei plant ein Landarztstipendium, bei dem geförderte Medizinstudierende sich für zehn Jahre als Landärzte in Sachsen-Anhalt verpflichten.",
+      "seite": 20,
+      "zitat": "„Wir werden deshalb ein spezielles Landarztstipendienprogramm auflegen.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter hängen im Dorf an erreichbarer hausärztlicher Versorgung. Ein konkretes Landarztprogramm spricht ihre Sorge direkt an, dass der letzte Hausarzt in Reichweite irgendwann ohne Nachfolge aufhört.",
+      "begruendung_selbst": "Wir brauchen keinen großen Spruch, wir brauchen jemanden, der im Ort noch behandelt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Notfallhilfe muss nah bleiben",
+      "thema": "gesundheit",
+      "programmpunkt": "Die AfD will wohnortnahe Notaufnahmen erhalten und kleinere Standorte nicht durch integrierte Notfallzentren verdrängen lassen.",
+      "seite": 20,
+      "zitat": "„Der Zugang zu einer wohnortnahen Akut- und Notfallversorgung muss“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im Alter ist die Entfernung zur Notfallversorgung ein reales Sicherheitsrisiko. Die Zusage, wohnortnahe Akut- und Notfallversorgung in allen Regionen zu garantieren, gibt dem Paar das Gefühl von Verlässlichkeit.",
+      "begruendung_selbst": "Wenn einer von uns nachts umkippt, darf Hilfe nicht erst aus der Kreisstadt kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege darf nicht arm machen",
+      "thema": "gesundheit",
+      "programmpunkt": "Die AfD will Eigenanteile in stationärer Pflege begrenzen, Familien stärker unterstützen und ein Landespflegegeld einführen.",
+      "seite": 20,
+      "zitat": "„Wir brauchen steuerliche Entlastungen und ein Landespflegegeld.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Angst vor Pflegekosten gehört zu den größten finanziellen Risiken des Paares. Begrenzte Eigenanteile und ein Landespflegegeld würden ihre Sorge mindern, im Pflegefall Haus oder Rücklagen zu verlieren.",
+      "begruendung_selbst": "Wenn Pflege nötig wird, darf nicht alles weg sein, wofür wir gearbeitet haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Bürgerbus zählt",
+      "thema": "familie",
+      "programmpunkt": "Das Programm will Dorfläden, Bank- und Poststellen sowie Bürgerbus-Projekte erhalten bzw. fördern, damit Rentner Arzt und Kirche erreichen können.",
+      "seite": 15,
+      "zitat": "„damit auch Rentner den Arzt oder die Kirche besuchen können“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für ein älteres Paar auf dem Dorf ist soziale Teilhabe eng mit praktischer Erreichbarkeit verbunden. Bürgerbusse, Dorfläden und erhaltene Bank- und Poststellen passen genau zu ihrer Sorge, dass das Land und die Älteren vergessen werden.",
+      "begruendung_selbst": "Solange wir nicht alles mit dem Auto schaffen, brauchen wir solche Angebote vor Ort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Ordnung im Ort",
+      "thema": "sicherheit",
+      "programmpunkt": "Die AfD will die Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken und schnellere Reaktionszeiten erreichen.",
+      "seite": 9,
+      "zitat": "„Wir werden deshalb die Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken.“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar wünscht Sicherheit und Polizeipräsenz, besonders wenn es sich im Dorf abgehängt fühlt. Mehr Polizeikräfte und eine schnellere Polizei bestätigen ihr Bedürfnis nach Ordnung und verlässlicher Hilfe.",
+      "begruendung_selbst": "Wir wollen nicht ständig Angst haben, ob überhaupt jemand kommt, wenn etwas passiert.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Briefwahl nicht erschweren",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD will die Möglichkeiten der Briefwahl generell einschränken und sie nur noch bei glaubhaft gemachter Verhinderung erlauben.",
+      "seite": 11,
+      "zitat": "„die Möglichkeiten der Briefwahl generell einschränken“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für ein Paar Mitte 70 kann Briefwahl praktische Absicherung sein, wenn Gesundheit, Mobilität oder Wetter den Gang ins Wahllokal erschweren. Die Einschränkung wirkt aus ihrer Lage wie eine unnötige Zugangshürde.",
+      "begruendung_selbst": "In unserem Alter will ich nicht erst beweisen müssen, warum wir per Brief wählen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hauptsache, ein Arzt ist da",
+      "thema": "gesundheit",
+      "programmpunkt": "Die AfD will perspektivisch nicht mehr auf ausländische Ärzte angewiesen sein und begründet das mit Sprachbarrieren, kulturellen Differenzen und schwer einschätzbaren Abschlüssen.",
+      "seite": 20,
+      "zitat": "„künftig nicht mehr auf ausländische Ärzte angewiesen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter sind pragmatisch: Für sie zählt zuerst, ob ein Arzt erreichbar ist und gut behandelt. In einer Region mit Ärztemangel klingt die Abwertung ausländischer Ärzte riskant, wenn dadurch Versorgungslücken nicht schnell genug geschlossen werden.",
+      "begruendung_selbst": "Mir ist wichtig, dass der Arzt ordentlich mit uns spricht und hilft, nicht wo er geboren wurde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unsere Kinder wohnen weit weg",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm will Pflege stärker in die Familie zurückverlagern und sieht Angehörige als bessere Träger häuslicher Pflege als den Staat.",
+      "seite": 20,
+      "zitat": "„dass die Familie wieder mehr von dem übernimmt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar möchte zwar möglichst zu Hause alt werden, aber die Kinder leben weiter weg und sollen nicht überfordert werden. Der Akzent auf familiärer Pflege kann für sie wie eine moralische Belastung wirken, wenn professionelle Angebote fehlen.",
+      "begruendung_selbst": "Unsere Kinder haben ihr eigenes Leben; wir wollen ihnen nicht alles aufladen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht alles auf Kante nähen",
+      "thema": "steuern",
+      "programmpunkt": "Die AfD verspricht keine neuen Abgaben oder Steuererhöhungen und strikt schuldenbremsenkonforme Haushalte ohne Ausnahmen.",
+      "seite": 19,
+      "zitat": "„keine neuen Abgaben oder Steuererhöhungen im Land“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter mögen Sparsamkeit, erwarten aber zugleich verlässliche Daseinsvorsorge auf dem Land. Wenn Investitionen in Ärzte, Pflege, Straßen und Bürgerdienste viel Geld brauchen, kann ein absolutes Abgabenversprechen aus ihrer Sicht die praktische Umsetzung gefährden.",
+      "begruendung_selbst": "Sparen ist richtig, aber der Arzt, die Straße und die Pflege müssen am Ende bezahlt werden.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Helga und Dieter enthält das Programm viele direkt anschlussfähige Versprechen: bezahlbare Energie, keine Sanierungspflichten, Landärzte, Pflegekostenbegrenzung, Notfallversorgung und Angebote im Dorf. Kritisch sehen sie dort praktische Risiken, wo Briefwahl erschwert, ausländische Ärzte pauschal abgewertet oder familiäre Pflege stark vorausgesetzt wird. Insgesamt überwiegen aus ihrer konkreten Lebenslage die bestätigenden Punkte, auch wenn manche Umsetzungs- und Zugangssorgen bleiben.",
+    "score": 1
+  }
+}

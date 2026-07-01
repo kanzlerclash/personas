@@ -1,0 +1,174 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 85870,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Tarif hält den Laden",
+      "thema": "arbeit",
+      "programmpunkt": "Die Grünen wollen faire Bezahlung, sichere Jobs, Mitbestimmung und eine stärkere Tarifbindung über Vergabe und Privatwirtschaft fördern.",
+      "seite": 76,
+      "zitat": "faire Bezahlung, sichere Jobs und starke Mitbestimmung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe bewertet Politik stark danach, ob sie Tarifverträge, Betriebsräte und sichere Industriearbeit stützt. Dieser Punkt bestätigt seine gewerkschaftliche Haltung direkt.",
+      "begruendung_selbst": "Wenn Tarif und Betriebsrat gestärkt werden, ist das genau mein Thema. Ohne Mitbestimmung stehen die Kollegen am Ende allein da.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auch privat Tarifdruck",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will auch außerhalb öffentlicher Aufträge Initiativen zur stärkeren Tarifbindung und Mitbestimmung in Betrieben anschieben.",
+      "seite": 76,
+      "zitat": "faire Löhne und Arbeitsbedingungen verbindlich zu sichern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Uwe zählt nicht nur der eigene tarifgebundene Betrieb, sondern die Stärkung der Standards insgesamt. Das Programm greift seinen Wunsch nach verbindlichen Löhnen und Beteiligung in der Privatwirtschaft auf.",
+      "begruendung_selbst": "Tarif darf kein Luxus für ein paar große Werke sein. Gute Arbeit muss auch bei Zulieferern und kleineren Betrieben gelten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strom muss bezahlbar bleiben",
+      "thema": "energie",
+      "programmpunkt": "Die Grünen benennen bezahlbare Energiepreise für Bürger und Wirtschaft als Hauptziel und wollen Strompreise unter anderem über Steuersenkung und Netzentgelte senken.",
+      "seite": 22,
+      "zitat": "bezahlbare Energiepreise für Bürger*innen und Wirtschaft.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes zentrale Standortangst betrifft hohe Energiepreise in der Chemie- und Schwerindustrie. Dass das Programm bezahlbare Energie für die Wirtschaft ausdrücklich nennt, trifft einen Kern seiner Interessen.",
+      "begruendung_selbst": "Bei uns entscheidet der Strompreis mit über Schichten, Anlagen und Arbeitsplätze. Wenn das ernst gemeint ist, höre ich zu.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wind für die Chemie",
+      "thema": "energie",
+      "programmpunkt": "Der Ausbau der Windenergie soll lokalen grünen Wasserstoff ermöglichen und dadurch die chemische Industrie sowie Arbeitsplätze in Sachsen-Anhalt stärken.",
+      "seite": 23,
+      "zitat": "stärkt der Ausbau der Windenergie die chemische Industrie",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe ist transformationsskeptisch, aber nicht grundsätzlich gegen Klimaschutz, wenn Industriearbeitsplätze konkret mitgedacht werden. Die Verbindung von Windenergie, Wasserstoff, Chemieindustrie und Jobs spricht seine Bedingung eines beschäftigungssichernden Wandels an.",
+      "begruendung_selbst": "Wenn Windstrom wirklich bei uns im Werk als Wasserstoff und Arbeit ankommt, ist das kein Spruch, sondern Standortpolitik.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ohne Wasserstoff geht nichts",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Grünen wollen Wasserstoffinfrastruktur, Abnahme, Pilotprojekte und regionale Cluster ausbauen, weil die chemische Industrie ohne grünen Wasserstoff an Wettbewerbsfähigkeit verliert.",
+      "seite": 27,
+      "zitat": "unsere chemische Industrie in Zukunft nicht wettbewerbsfähig.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für einen Chemiearbeiter aus dem Chemiedreieck ist die industrielle Nutzung von Wasserstoff eine direkte Frage der Standortzukunft. Das Programm benennt diese Branche ausdrücklich und nicht nur abstrakt die Energiewende.",
+      "begruendung_selbst": "Das ist die Realität im Chemiedreieck: Ohne neue Energie und Rohstoffe verlieren wir den Anschluss. Gut, dass die Chemie hier nicht vergessen wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriestrompreis, endlich konkret",
+      "thema": "wirtschaft",
+      "programmpunkt": "Im Wirtschaftskapitel kündigen die Grünen an, Energiepreise für Unternehmen zu senken, etwa durch einen niedrigeren Industriestrompreis, und die Transformation der Chemie- und Zulieferindustrie zu unterstützen.",
+      "seite": 88,
+      "zitat": "niedrigeren Industriestrompreis.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Industriestrompreis ist für Uwe ein Prüfstein, ob Politik die Realität energieintensiver Werke versteht. Eine explizite Senkungsperspektive passt zu seiner Hoffnung auf Standorterhalt.",
+      "begruendung_selbst": "Mit schönen Reden hält kein Ofen und keine Anlage durch. Ein niedriger Industriestrompreis ist für uns handfest.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "2035 ist verdammt schnell",
+      "thema": "klima",
+      "programmpunkt": "Die Grünen wollen ein klimaneutrales Sachsen-Anhalt bis 2035 mit ambitioniertem Klimaschutzgesetz und klaren Minderungszielen.",
+      "seite": 10,
+      "zitat": "ambitioniertes Klimaschutzgesetz mit klaren Minderungszielen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe akzeptiert Klimaschutz grundsätzlich, fürchtet aber ein Tempo, das Anlagen, Investitionen und Beschäftigte überfordert. Das Ziel 2035 wirkt aus seiner Perspektive wie hoher Transformationsdruck ohne garantierten Jobschutz.",
+      "begruendung_selbst": "Ich bin nicht gegen Klimaschutz, aber 2035 ist für unsere Anlagen morgen früh. Da will ich wissen, wer die Arbeitsplätze absichert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "2030 nur Erneuerbare?",
+      "thema": "energie",
+      "programmpunkt": "Sachsen-Anhalt soll im Strombereich bis 2030 vollständig erneuerbar aufgestellt werden.",
+      "seite": 22,
+      "zitat": "bis 2030 im Strombereich 100 Prozent",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Uwe hängt Versorgungssicherheit in der Industrie an verlässlicher, planbarer Energie rund um die Uhr. Ein 100-Prozent-Ziel bis 2030 erscheint ihm riskant, wenn Netze, Speicher und Preise nicht gleichzeitig gesichert sind.",
+      "begruendung_selbst": "Im Schichtbetrieb zählt nicht, ob es politisch gut klingt. Der Strom muss jederzeit da sein und bezahlbar bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohle nicht kopflos beenden",
+      "thema": "energie",
+      "programmpunkt": "Die Grünen rechnen mit einem früheren marktgetriebenen Kohleausstieg und wollen Lützen nicht mehr als Vorranggebiet für Braunkohle festlegen.",
+      "seite": 25,
+      "zitat": "bereits früher marktgetrieben erfolgen wird.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe denkt solidarisch mit Beschäftigten in benachbarten Industrie- und Energieregionen. Ein früherer Kohleausstieg ohne in diesem Punkt ausgeführten Beschäftigtenschutz triggert seine Sorge vor Strukturbruch.",
+      "begruendung_selbst": "Wenn irgendwo ein Standort früher dichtmacht, hängen Familien dran. Marktgetrieben klingt für mich nicht nach Schutz der Leute.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erst Jobs, dann Tempo",
+      "thema": "energie",
+      "programmpunkt": "Ein H2-ready-Gaskraftwerk in Schkopau soll den Braunkohleausstieg in der Region beschleunigen.",
+      "seite": 25,
+      "zitat": "Braunkohleausstieg in der Region zu beschleunigen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Der Ersatz durch neue Kraftwerke kann Uwe grundsätzlich einleuchten, aber die Formulierung betont Beschleunigung statt Absicherung der Beschäftigten. Das widerspricht seiner Haltung, dass Wandel nicht auf dem Rücken der Regionen laufen darf.",
+      "begruendung_selbst": "Ein neues Kraftwerk kann sinnvoll sein. Aber wenn das erste Wort Beschleunigung ist, frage ich: Was passiert mit den Kollegen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CCS nicht einfach streichen",
+      "thema": "klima",
+      "programmpunkt": "Die Grünen lehnen Carbon Capture and Storage ab und setzen stattdessen auf Emissionsminimierung, Prozessinnovationen, Stoffkreisläufe und Suffizienz.",
+      "seite": 26,
+      "zitat": "lehnen wir auch die Technologie des Carbon Capture and Storage",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für energieintensive Grundstoffindustrien können technische Optionen zur CO2-Minderung aus Uwes Sicht beschäftigungssichernd sein. Eine grundsätzliche Ablehnung von CCS wirkt auf ihn wie das Verengen industrieller Transformationspfade.",
+      "begruendung_selbst": "Ich will jede Technik prüfen, die Arbeitsplätze und Klima zusammenbringt. Einfach Nein zu CCS ist mir zu ideologisch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung nur mit Klimahaken",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Wirtschaftsförderung soll mit Klimaschutz und dem Transformationsbeitrag zu einer kohlenstoffarmen Wirtschaft gekoppelt werden.",
+      "seite": 88,
+      "zitat": "Wirtschaftsförderung mit dem Klimaschutz koppeln.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe will Transformation, aber er misst Förderung zuerst am Erhalt tragfähiger Industriearbeitsplätze. Wenn Fördermittel stark an Klimakriterien gebunden werden, befürchtet er, dass bestehende Werke mit schwierigen Umstellungswegen durchs Raster fallen.",
+      "begruendung_selbst": "Förderung muss auch die alten Standorte durch die Kurve bringen. Wenn erst der Klimahaken zählt, verlieren wir womöglich genau die Jobs, die bleiben sollen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet im grünen Programm mehrere Punkte, die seine gewerkschaftliche und industriepolitische Seite ansprechen: Tarifbindung, Mitbestimmung, Industriestrompreis, Wasserstoff und Unterstützung der Chemieindustrie. Gleichzeitig bleibt er beim Tempo der Klimaneutralität, dem schnellen Umbau der Stromversorgung, dem Kohleausstieg und der Ablehnung von CCS deutlich skeptisch, weil er dort Job- und Standortschutz nicht hart genug abgesichert sieht. Insgesamt sieht er ernsthafte Angebote für seine Branche, aber auch erhebliche Transformationsrisiken.",
+    "score": 0
+  }
+}

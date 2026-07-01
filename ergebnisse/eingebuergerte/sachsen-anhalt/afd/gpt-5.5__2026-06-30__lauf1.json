@@ -1,0 +1,186 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 98017,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Engagement soll zaehlen",
+      "thema": "integration",
+      "programmpunkt": "Engagierten Auslaendern soll eine schnellere Einbuergerung in Aussicht gestellt werden, wenn sie bereits vor der Einbuergerung gesellschaftlich mitwirken.",
+      "seite": 6,
+      "zitat": "„beschleunigte Einbürgerung in Aussicht gestellt“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin bewertet positiv, dass hier nicht nur Herkunft oder Aufenthaltsdauer zaehlen sollen, sondern konkretes Engagement in Vereinen und Gesellschaft. Das passt zu ihrem Grundsatz, dass Teilhabe und Leistung wichtiger sind als Abstammung.",
+      "begruendung_selbst": "Ich will, dass Menschen zeigen koennen, dass sie dazugehören. Wenn Engagement sichtbar anerkannt wird, ist das wenigstens ein Ansatz, der nicht nur auf Herkunft schaut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ja, Transparenz hilft",
+      "thema": "demokratie",
+      "programmpunkt": "Regierung und Verwaltung sollen mehr Verträge, Entscheidungen und Gutachten öffentlich zugänglich machen.",
+      "seite": 11,
+      "zitat": "„Transparenzpflichten für Regierung und Verwaltung deutlich verschärfen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte mit rechtsstaatlicher Haltung findet Aylin nachvollziehbar, dass staatliches Handeln kontrollierbar sein soll. Mehr Transparenz kann Vertrauen in Verwaltung und Demokratie staerken.",
+      "begruendung_selbst": "Ich arbeite selbst in der Verwaltung. Wenn Entscheidungen offen nachvollziehbar sind, hilft das gegen Misstrauen und gegen das Gefuehl, der Staat mache irgendwas im Hinterzimmer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitreden muss einfacher werden",
+      "thema": "demokratie",
+      "programmpunkt": "Das Land soll eine digitale Plattform fuer Online-Petitionen einrichten, ueber die Buerger Anliegen diskutieren und unterstuetzen koennen.",
+      "seite": 11,
+      "zitat": "„digitale Beteiligungsplattform des Landes für Online-Petitionen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin wuenscht sich stabile demokratische Institutionen und echte Teilhabe. Niedrigschwellige Beteiligung passt zu ihrer Hoffnung, dass Menschen jenseits polarisierten Streits sachlich mitwirken koennen.",
+      "begruendung_selbst": "Ich will nicht nur alle paar Jahre ein Kreuz machen. Wenn Beteiligung digital einfacher wird, koennen auch Leute mitreden, die sonst nicht in Parteistrukturen auftauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verwaltung fuer Menschen",
+      "thema": "demokratie",
+      "programmpunkt": "Behoerden sollen verbindlicher, schneller, transparenter und buergerorientierter arbeiten.",
+      "seite": 17,
+      "zitat": "„Die Verwaltung ist für die Bürger da“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylins berufliche Identitaet im oeffentlichen Dienst beruht darauf, dass Verwaltung Menschen fair und verlässlich dient. Ein Leitbild schneller, hilfsbereiter Verfahren entspricht ihrer Sicht auf gute Verwaltung.",
+      "begruendung_selbst": "Genau darum geht es in meinem Job: Menschen nicht von Schalter zu Schalter schicken, sondern sauber, freundlich und fair helfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sicherheit fuer alle",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Staat soll innere Sicherheit als gemeinsame oeffentliche Aufgabe begreifen und allen Buergern Schutz bieten.",
+      "seite": 9,
+      "zitat": "„jedem Bürger Sicherheit bietet“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin ist nicht gegen klare innere Sicherheit; sie erwartet nur, dass diese ohne pauschalen Verdacht gegen Migranten funktioniert. Der allgemeine Anspruch auf Sicherheit fuer jeden Buerger bestaetigt ihren rechtsstaatlichen Sicherheitsbegriff.",
+      "begruendung_selbst": "Ich will auch sichere Strassen und einen handlungsfaehigen Staat. Wichtig ist fuer mich: Sicherheit muss fuer alle gelten, nicht als Vorwand gegen ganze Gruppen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Das meint auch mich",
+      "thema": "integration",
+      "programmpunkt": "Das Programm fordert eine umfassende Abschiebe- und Remigrationsoffensive und rahmt Migration als kulturell fremd und gegen Inlaender gerichtet.",
+      "seite": 5,
+      "zitat": "„Abschiebe- und Remigrationsoffensive zwingend notwendig“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin erlebt Remigrationsrhetorik als Angriff auf ihre Zugehoerigkeit und die Sicherheit ihrer Familie. Auch wenn sie eingebürgert und hier geboren ist, verschiebt diese Sprache die Grenze des Dazugehoerens weg vom Recht hin zur Herkunft.",
+      "begruendung_selbst": "Wenn da Remigration steht, hoere ich nicht nur Ausreisepflichtige. Ich hoere: Menschen mit meiner Geschichte sollen sich nie sicher fuehlen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Geboren hier, trotzdem draussen?",
+      "thema": "integration",
+      "programmpunkt": "Die AfD will das Geburtsortsprinzip im Staatsangehoerigkeitsrecht streichen.",
+      "seite": 5,
+      "zitat": "„Streichung des Geburtsortsprinzips aus dem Staatsangehörigkeitsrecht“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylins eigene Biografie ist in Deutschland geboren und eingebürgert; Zugehoerigkeit ueber Geburt, Leben und Teilhabe ist fuer sie zentral. Die Streichung des Geburtsortsprinzips signalisiert ihr, dass Kinder eingewanderter Eltern weniger selbstverständlich dazugehören sollen.",
+      "begruendung_selbst": "Ich bin hier geboren. Wenn genau dieses Hier-geboren-Sein politisch abgewertet wird, trifft mich das mitten in meiner Lebensgeschichte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Pass ist kein Pfand",
+      "thema": "integration",
+      "programmpunkt": "Bei schwerkriminellen Doppelstaatsbuergern soll die Aberkennung der deutschen Staatsbuergerschaft zum Regelfall werden.",
+      "seite": 5,
+      "zitat": "„Aberkennung der deutschen Staatsbürgerschaft bei schwerkriminellen Doppelstaatsbürgern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin verurteilt Kriminalitaet, aber sie reagiert sensibel darauf, wenn Eingebuergerte oder Doppelstaatsbuerger anders als andere Deutsche behandelt werden. Fuer sie wird der deutsche Pass dadurch als widerrufliche Zugehoerigkeit markiert.",
+      "begruendung_selbst": "Straftaten muessen bestraft werden. Aber mein Deutschsein darf nicht weniger fest sein als das von jemandem ohne Migrationsgeschichte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ich loesche mich nicht",
+      "thema": "integration",
+      "programmpunkt": "Einbuergerungswillige sollen sich zu Deutschland bekennen und ihre alte Identitaet loslassen.",
+      "seite": 6,
+      "zitat": "„seine alte Identität loslassen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylins Menschenbild erlaubt mehrere biografische Bezugspunkte, solange Recht und Teilhabe stimmen. Die Forderung nach dem Loslassen alter Identitaet widerspricht ihrer Erfahrung, als Deutsche mit Familiengeschichte im Ausland selbstverstaendlich dazuzugehoeren.",
+      "begruendung_selbst": "Ich kann Deutschland ernst nehmen, ohne meine Familie, Sprache oder Geschichte aus mir herauszureissen. Zugehoerigkeit ist kein Identitaetsloescher.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Anerkennung wird gestrichen",
+      "thema": "integration",
+      "programmpunkt": "Programme fuer lokale Willkommens- und Anerkennungskultur fuer Zugewanderte und Gefluechtete sollen beendet werden.",
+      "seite": 5,
+      "zitat": "„Willkommenspropaganda des Altparteienkartells beenden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin hofft auf Anerkennung als selbstverstaendlicher Teil der Gesellschaft. Wenn Anerkennungskultur pauschal als Propaganda abgewertet wird, beruehrt das ihre Sorge vor einem Klima, in dem Zugewanderte und ihre Kinder nur als Problem gelten.",
+      "begruendung_selbst": "Ich brauche keine Folklore. Aber Anerkennung als Propaganda zu beschimpfen, sagt mir: Meine Zugehoerigkeit ist politisch unerwuenscht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Integration wird umgedreht",
+      "thema": "integration",
+      "programmpunkt": "Finanzmittel fuer Integrationslotsen sollen stattdessen fuer Remigrationslotsen genutzt werden.",
+      "seite": 5,
+      "zitat": "„Remigrationslotsen statt Integrationslotsen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin befuerwortet sachliche Steuerung von Migration, aber sie haelt Teilhabeangebote fuer wichtig, damit rechtmaessig hier lebende Menschen ankommen koennen. Der Austausch von Integrations- durch Remigrationslotsen steht fuer sie fuer Abkehr von Teilhabe hin zu Rueckkehrdruck.",
+      "begruendung_selbst": "Wenn aus Integrationslotsen Remigrationslotsen werden, ist die Botschaft klar: Helfen beim Ankommen ist nicht mehr gewollt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verdacht nach Herkunft",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm will auf kulturfremde Fachkraefte verzichten und beschreibt sie als Risiko fuer Arbeitsmarkt, Gesundheitssystem und Sicherheit.",
+      "seite": 5,
+      "zitat": "„auf kulturfremde Fachkräfte verzichten“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin ist leistungsorientiert und erwartet, dass Qualifikation und Verhalten zaehlen, nicht kulturelle Zuschreibungen. Die pauschale Abwertung auslaendischer Fachkraefte widerspricht ihrem Grundsatz, Menschen nicht nach Herkunft unter Generalverdacht zu stellen.",
+      "begruendung_selbst": "Prueft Abschluesse, Sprache und Eignung, ja. Aber nennt Menschen nicht wegen ihrer Herkunft ein Sicherheitsrisiko, bevor ihr ihre Arbeit gesehen habt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nur Deutsch demonstrieren?",
+      "thema": "demokratie",
+      "programmpunkt": "Bei oeffentlichen Aufzuegen sollen Meinungsaeusserungen grundsaetzlich nur in deutscher Sprache erfolgen.",
+      "seite": 11,
+      "zitat": "„nur in deutscher Sprache zu erfolgen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin bewertet Versammlungsfreiheit als Minderheitenrecht und demokratischen Schutzraum. Eine Sprachvorgabe fuer Demonstrationen trifft besonders Menschen mit Migrationsgeschichte und steht quer zu ihrer Vorstellung gleicher politischer Teilhabe.",
+      "begruendung_selbst": "Deutsch ist wichtig, klar. Aber auf einer Demo Menschen wegen Sprache auszubremsen, fuehlt sich nicht nach Freiheit an.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet einzelne rechtsstaatliche und verwaltungsbezogene Vorschlaege plausibel, vor allem Transparenz, Beteiligung und buergernahe Verwaltung. Insgesamt ueberwiegt fuer sie jedoch deutlich die Ablehnung, weil das Programm Migration, Einbuergerung und kulturelle Zugehoerigkeit wiederholt ausgrenzend rahmt. Besonders die Remigrationsrhetorik, die Abwertung von Anerkennungskultur und die Forderung nach einem Loslassen alter Identitaet treffen ihre eigene Lebenslage als eingebuergerte Deutsche.",
+    "score": -2
+  }
+}

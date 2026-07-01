@@ -1,0 +1,186 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 97871,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Leute.",
+      "thema": "sicherheit",
+      "programmpunkt": "Die AfD will die Landespolizei personell auf mindestens 7.500 Vollzugsbeamte aufstocken.",
+      "seite": 9,
+      "zitat": "Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt Personalmangel als Kernproblem seines Dienstalltags. Ein konkreter Aufwuchs bei Vollzugsbeamten trifft seine Hoffnung auf Entlastung unmittelbar.",
+      "begruendung_selbst": "Wir reden seit Jahren ueber Belastung. Wenn wirklich mehr Kolleginnen und Kollegen auf die Strasse kommen, ist das genau der richtige Ansatz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schneller am Einsatzort.",
+      "thema": "sicherheit",
+      "programmpunkt": "Notfaelle sollen digitaler und automatisierter in Streifenwagen bearbeitet werden, damit die Polizei schneller am Tatort ist.",
+      "seite": 9,
+      "zitat": "Die Polizei muss schneller am Tatort eintreffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco bewertet Politik stark nach praktischer Einsatzfaehigkeit. Kuerzere Reaktionszeiten und bessere digitale Einsatzunterstuetzung passen zu seinem Wunsch nach funktionierender Ausstattung.",
+      "begruendung_selbst": "Wenn der Notruf kommt, zaehlt jede Minute. Technik, die uns schneller und sauberer zum Einsatz bringt, hilft den Leuten und uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Runter mit dem Papierkram.",
+      "thema": "arbeit",
+      "programmpunkt": "Polizeivollzugsbeamte sollen von Verwaltungstaetigkeiten entlastet und durch Verwaltungsmitarbeiter sowie Fachexperten unterstuetzt werden.",
+      "seite": 9,
+      "zitat": "Polizeivollzugsbeamte sind keine Verwaltungsbeamte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco fuehlt sich durch Berichte, Recherche und Erfassung im Streifendienst belastet. Die Forderung, Vollzugsbeamte fuer Vollzugsaufgaben freizuhalten, trifft seine Alltagserfahrung direkt.",
+      "begruendung_selbst": "Ich bin Polizist geworden, nicht Aktenverwalter. Je weniger Schreibtischkram, desto mehr echte Polizeiarbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Mittel, weniger Risiko.",
+      "thema": "sicherheit",
+      "programmpunkt": "Die AfD will Taser anschaffen und Polizisten daran ausbilden, um zwischen Schlagstock, Pfefferspray und Schusswaffe mehr Optionen zu schaffen.",
+      "seite": 9,
+      "zitat": "solche Geräte anschaffen und die Polizei daran ausbilden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco wuenscht sich bessere Ausruestung und sichere Handlungsoptionen im Einsatz. Ein zusaetzliches Einsatzmittel kann aus seiner Sicht Eskalationslagen beherrschbarer machen.",
+      "begruendung_selbst": "Mir hilft jedes saubere Einsatzmittel, das eine Lage beendet, ohne gleich zur Dienstwaffe greifen zu muessen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leistung muss zaehlen.",
+      "thema": "arbeit",
+      "programmpunkt": "Wer laenger hoeherwertige Aufgaben wahrnimmt, soll nach spaetestens 18 Monaten eine Zulage erhalten.",
+      "seite": 9,
+      "zitat": "eine Zulage für die Wahrnehmung eines höherwertigen Amtes gezahlt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco hat ein sicheres, aber nicht ueppiges Einkommen und achtet auf faire Anerkennung im oeffentlichen Dienst. Die Zulage fuer hoeherwertige Arbeit entspricht seinem Sinn fuer Leistungsgerechtigkeit.",
+      "begruendung_selbst": "Wenn jemand dauerhaft mehr Verantwortung traegt, darf das nicht nur ein Schulterklopfen sein. Dann muss es auch bezahlt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Absicherung fuer den Ernstfall.",
+      "thema": "arbeit",
+      "programmpunkt": "Das Land soll Dienstunfaehigkeitsversicherungen fuer Polizeibeamte und Anwaerter finanzieren.",
+      "seite": 9,
+      "zitat": "Land die Kosten der Dienstunfähigkeitsversicherungen für Polizeibeamte und Anwärter übernimmt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco kennt die koerperlichen und psychischen Risiken des Streifendienstes. Eine bessere Absicherung bei Dienstunfaehigkeit staerkt genau die Fuersorge, die er vom Dienstherrn erwartet.",
+      "begruendung_selbst": "Wir gehen fuer den Staat in riskante Lagen. Dann muss der Dienstherr auch hinter uns stehen, wenn etwas schiefgeht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Justiz muss nachziehen.",
+      "thema": "sicherheit",
+      "programmpunkt": "Die AfD will in Justiz und Personal investieren, damit Verfahren schneller laufen und Engpaesse abgebaut werden.",
+      "seite": 10,
+      "zitat": "Investitionen und Einstellung von Personal die Engpässe auflösen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist frustriert, wenn Polizeiarbeit spaeter in Justiz und Verwaltung versandet. Mehr Personal und Investitionen in der Justiz bestaetigen seinen Wunsch nach einer funktionierenden Kette vom Einsatz bis zur Sanktion.",
+      "begruendung_selbst": "Es bringt nichts, wenn wir sauber arbeiten und hinten bleibt alles liegen. Die Justiz muss so ausgestattet sein, dass Verfahren auch durchgezogen werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "So pauschal nicht.",
+      "thema": "integration",
+      "programmpunkt": "Die AfD verbindet Migration wiederholt pauschal mit Kriminalitaet und wirft Behoerden vor, Auslaender generell zu nachsichtig zu behandeln.",
+      "seite": 3,
+      "zitat": "unsere Behörden Ausländer lax und nachsichtig behandeln",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco will konsequente Strafverfolgung, lehnt aber Pauschalurteile gegen Buerger mit Migrationsgeschichte ab. Die Formulierung trifft seine differenzierte Haltung nicht und stellt zugleich Behoerden pauschal schlecht dar.",
+      "begruendung_selbst": "Straftaeter muessen verfolgt werden, egal woher sie kommen. Aber mit solchen Pauschalsaetzen macht man es uns im Dienst nicht leichter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Finger weg vom Verfassungsschutz.",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD beschreibt den Verfassungsschutz als Instrument gegen die Opposition und will seine oeffentliche Berichtspraxis grundlegend abschaffen.",
+      "seite": 11,
+      "zitat": "Verfassungsschutzberichte, deren Informationswert gegen Null geht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco ist institutionentreu und bei Parteien, die vom Verfassungsschutz beobachtet werden, ambivalent bis ablehnend. Eine Rhetorik, die eine Sicherheitsbehoerde als Regierungsschutz diskreditiert, untergraebt aus seiner Sicht Vertrauen in den Rechtsstaat.",
+      "begruendung_selbst": "Kritik an Behoerden ist erlaubt. Aber wer den Verfassungsschutz so grundsaetzlich delegitimiert, saegt an einer Institution, die unsere Verfassung schuetzen soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Hobby-Polizei.",
+      "thema": "sicherheit",
+      "programmpunkt": "Die AfD will freiwillige Buergerwachten als zusaetzliche Saeule der Sicherheitsarchitektur vor Ort einrichten.",
+      "seite": 9,
+      "zitat": "dritte Säule der Sicherheitsarchitektur vor Ort",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco will mehr echte Polizei und bessere Ausstattung, nicht neue Halbstrukturen neben Polizei und Ordnungsamt. Auch wenn die Buergerwacht keine Stellen ersetzen soll, wirkt sie aus seiner professionellen Sicht wie ein riskanter Ersatzdiskurs.",
+      "begruendung_selbst": "Sicherheit ist kein Nebenbei-Ehrenamt. Wenn es Probleme gibt, braucht es ausgebildete Kraefte, klare Befugnisse und klare Verantwortung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Asyl ist kein Gnadenakt.",
+      "thema": "integration",
+      "programmpunkt": "Die AfD will das Grundrecht auf Asyl abschaffen und in ein staatlich gewaehrtes Gnadenrecht umwandeln.",
+      "seite": 5,
+      "zitat": "Grundrecht auf Asyl abschaffen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco ist verfassungsorientiert und unterscheidet zwischen Schutzsuchenden und Straftaetern. Die Abschaffung eines Grundrechts widerspricht seinem Anspruch, Sicherheitspolitik rechtsstaatlich und nicht pauschal zu betreiben.",
+      "begruendung_selbst": "Wer kriminell wird, muss Konsequenzen spueren. Aber Grundrechte raeumt man nicht einfach ab, nur weil die Verfahren schlecht laufen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsstaat braucht Kontrolle.",
+      "thema": "sicherheit",
+      "programmpunkt": "Adressen verurteilter paedophiler Straftaeter sollen nach Haftentlassung veroeffentlicht werden.",
+      "seite": 9,
+      "zitat": "ihre Adressen zu veröffentlichen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco teilt den Schutzgedanken fuer Kinder, denkt aber in rechtsstaatlichen Verfahren und professioneller Gefahrenabwehr. Oeffentliche Adresslisten wirken fuer ihn eher wie Pranger und koennen neue Sicherheitslagen erzeugen.",
+      "begruendung_selbst": "Kinderschutz ist absolut wichtig. Aber Pranger ersetzen keine Ueberwachung, keine Gefaehrderarbeit und keine sauberen rechtsstaatlichen Regeln.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meinungsstrafrecht durch die Hintertuer.",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD will einen besonderen strafrechtlichen Schutz fuer deutschen Staat, deutsches Volk und Nationalsymbole einfuehren.",
+      "seite": 10,
+      "zitat": "Schutz für das Deutschtum im Strafrecht verankern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco will nicht, dass Polizei Zeit mit fragwuerdigen Meinungsdelikten verliert. Ein neuer Straftatbestand fuer Herabwuerdigung von Staat, Volk und Symbolen wirkt fuer ihn wie genau die Ausweitung politischer Strafverfolgung, die das Programm an anderer Stelle kritisiert.",
+      "begruendung_selbst": "Ich soll echte Gefahren abwehren. Neue politische Beleidigungsdelikte schaffen wieder Akten, Streit und Misstrauen statt mehr Sicherheit.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco findet in dem Programm viele konkrete Punkte, die seinen Berufsalltag direkt treffen: mehr Personal, bessere Ausruestung, weniger Verwaltungslast, faire Zulagen und eine staerkere Justizkette. Gleichzeitig stossen ihn pauschale Migrationsrhetorik, Angriffe auf den Verfassungsschutz und einzelne rechtsstaatlich fragwuerdige Forderungen deutlich ab. Insgesamt ueberwiegt beruflich die Resonanz, politisch-institutionell bleibt er aber skeptisch.",
+    "score": 0
+  }
+}

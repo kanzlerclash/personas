@@ -1,0 +1,162 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 85548,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Krisenfall mitgedacht",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm verlangt einsatzbereite Krisenkonzepte auch fuer Aufmarsch-, Spannungs-, Buendnis- und Verteidigungsfall.",
+      "seite": 48,
+      "zitat": "„Bündnis- und Verteidigungsfall“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan bewertet positiv, dass der Verteidigungsfall in der Landeskrisenvorsorge konkret auftaucht. Fuer ihn signalisiert das, dass zivile Stellen militaerische Lagen nicht als abstrakte Bundessache wegschieben.",
+      "begruendung_selbst": "Wenn der Ernstfall geplant wird, gehoert der Buendnis- und Verteidigungsfall auf den Tisch. Genau solche Vorbereitung brauche ich, bevor es hektisch wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zivil und militaerisch zusammen",
+      "thema": "verteidigung",
+      "programmpunkt": "Land und Kommunen sollen eigene Planungen fuer die zivil-militaerische Zusammenarbeit entwickeln und mit militaerischen Dienststellen abstimmen.",
+      "seite": 48,
+      "zitat": "„mit zuständigen militärischen Dienststellen abzustimmen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das trifft Stefans Kerninteresse an verlaesslichen Ablaeufen zwischen Bundeswehr und zivilen Behoerden. Er wuerde darin praktische Anerkennung seines Auftrags sehen, nicht nur symbolische Worte.",
+      "begruendung_selbst": "Im Einsatz zaehlen klare Absprachen. Wenn Kommune, Land und Truppe vorher wissen, wer was macht, ist das handfest.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Reservisten brauchen Freiraum",
+      "thema": "verteidigung",
+      "programmpunkt": "Beschäftigte sollen fuer Weiterbildungen, Uebungen und den allgemeinen Dienst als Reservist der Bundeswehr freigestellt und priorisiert werden.",
+      "seite": 48,
+      "zitat": "„als Reservist*in der Bundeswehr“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan legt Wert auf Wehrfaehigkeit und einsatzbereite Reserve. Freistellung ohne organisatorische Huerden staerkt aus seiner Sicht genau die Strukturen, die im Krisenfall gebraucht werden.",
+      "begruendung_selbst": "Reserve funktioniert nicht nebenbei auf Zuruf. Wer ueben soll, muss dafuer auch wirklich freigestellt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Extremisten raus aus Waffen",
+      "thema": "sicherheit",
+      "programmpunkt": "Extremisten sollen keine Waffen besitzen duerfen; die Waffenbehoerden sollen fuer Kontrollen und Erlaubnisentzug gestaerkt werden.",
+      "seite": 40,
+      "zitat": "„Kein Waffenbesitz für Extremist*innen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als verfassungstreuer Soldat sieht Stefan bewaffnete Verfassungsfeinde als konkrete Sicherheitsgefahr. Der konsequente Entzug legaler Waffen passt zu seinem Anspruch an einen handlungsfaehigen Staat.",
+      "begruendung_selbst": "Wer unsere Verfassung bekaempft, hat an Waffen nichts verloren. Da muss der Staat klar und schnell handeln.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Staatsdienst muss sauber sein",
+      "thema": "demokratie",
+      "programmpunkt": "Verfassungsfeinde sollen durch gebuendelte Disziplinarverfahren und bessere Ausstattung zuegig aus dem oeffentlichen Dienst entfernt werden.",
+      "seite": 40,
+      "zitat": "„aus dem Dienst entfernt“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan erwartet von staatlichem Personal uneingeschraenkte Verfassungstreue. Gerade weil er selbst dem Staat dient, spricht ihn eine wehrhafte Linie im Staatsdienst deutlich an.",
+      "begruendung_selbst": "Wer fuer den Staat arbeitet, muss zur freiheitlichen Ordnung stehen. Alles andere untergraebt Vertrauen und Auftrag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Drohnenabwehr gehoert dazu",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizei soll angesichts hybrider Gefahren gezielt zur Drohnenabwehr befaehigt und entsprechend ausgebildet werden.",
+      "seite": 42,
+      "zitat": "„Hybride Gefahren nehmen zu“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan erkennt Drohnen, Sabotage und digitale Angriffe als reale Bedrohungen wieder. Dass Landesbehoerden hier konkrete Faehigkeiten aufbauen sollen, entspricht seinem sicherheitspolitischen Realismus.",
+      "begruendung_selbst": "Drohnen und Sabotage sind keine Theorie mehr. Wer kritische Infrastruktur schuetzen will, braucht dafuer Faehigkeiten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Leute fuer Polizei",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Personalausbau der Polizei soll bis 7.000 Vollzugsstellen fortgesetzt und die Polizeiverwaltung substanziell gestaerkt werden.",
+      "seite": 41,
+      "zitat": "„bis zur Zielgröße von 7.000 Stellen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Stefan nicht bei der Polizei ist, bewertet er robuste Sicherheitsstrukturen positiv. Mehr Personal und verlaessliche Budgets passen zu seinem Grundsatz, dass Auftrag und Ausstattung zusammengehoeren.",
+      "begruendung_selbst": "Sicherheit gibt es nicht ohne Personal. Wenn man Aufgaben verteilt, muss man die Leute und Mittel dafuer stellen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wo bleibt die Bundeswehr?",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Praeambel rahmt die Zukunft des Landes ueber Natur, Klimaschutz, sozialen Zusammenhalt und Chancengerechtigkeit, ohne Verteidigung, NATO oder Bundeswehr als tragende Prioritaet zu nennen.",
+      "seite": 2,
+      "zitat": "„Unser Weg in diese Zukunft ruht auf vier Säulen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan nimmt wahr, dass Kriege zwar erwaehnt werden, die programmatische Antwort aber nicht bei Wehrfaehigkeit oder Buendnissicherheit liegt. Aus seiner Perspektive bleibt damit sein zentraler Auftrag zu randstaendig.",
+      "begruendung_selbst": "Wenn Kriege Sorgen bereiten, will ich mehr hoeren als Klimaschutz und Zusammenhalt. Bundeswehr, NATO und Ausstattung gehoeren klar benannt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Palantir pauschal vom Tisch",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm lehnt Palantir oder vergleichbare Analysesoftware fuer Sachsen-Anhalt entschieden ab.",
+      "seite": 42,
+      "zitat": "„Eine Einführung von Palantir“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan teilt rechtsstaatliche Vorbehalte, stoert sich aber an einer kategorischen Absage an Sicherheitssoftware in einer Lage mit Cyber- und Hybridbedrohungen. Er wuerde eher kontrollierte Faehigkeiten als pauschale Verbote erwarten.",
+      "begruendung_selbst": "Kontrolle ja, aber Werkzeuge einfach auszuschliessen hilft der Lage nicht. Bei hybriden Bedrohungen brauchen Behoerden brauchbare Technik.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Uebungsraum nicht romantisieren",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Colbitz-Letzlinger Heide soll als Raum fuer Erholung und Naturtourismus friedlich und naturvertraeglich genutzt werden.",
+      "seite": 95,
+      "zitat": "„für Erholung und Naturtourismus friedlich“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan reagiert empfindlich, wenn sicherheitsrelevante Flaechen vor allem zivil-friedlich gerahmt werden. Aus seiner Sicht darf Tourismus nicht den Eindruck erzeugen, militaerische Uebungs- und Bereitschaftsinteressen seien zweitrangig.",
+      "begruendung_selbst": "Erholung ist schoen, aber Uebungsraeume sind kein Deko-Thema. Einsatzbereitschaft braucht Flaechen, Laerm und realistische Ausbildung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sicherheit nicht nur weich",
+      "thema": "sicherheit",
+      "programmpunkt": "Sicherheitspolitik wird ausdruecklich ueber Bildung, Soziales und Praevention hinaus statt als Law-and-Order-Ansatz definiert.",
+      "seite": 42,
+      "zitat": "„mehr als reines „Law and Order““",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan hat nichts gegen Praevention, erwartet aber in der aktuellen Bedrohungslage eine deutlichere Betonung von Durchsetzungsfaehigkeit. Die Formulierung klingt fuer ihn nach Distanz zu harter Sicherheitslogik, die er teilweise fuer notwendig haelt.",
+      "begruendung_selbst": "Praevention gehoert dazu, aber manchmal muss der Staat auch durchgreifen. Sicherheit darf nicht nach Ausweichen klingen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet im Programm mehrere ernstzunehmende sicherheits- und verteidigungspolitische Anknuepfungspunkte, vor allem bei zivil-militaerischer Zusammenarbeit, Reservisten, Krisenvorsorge und wehrhafter Demokratie. Zugleich stoert ihn, dass Bundeswehr, NATO, Ausruestung und Buendnisverteidigung nicht als eigene politische Prioritaeten auftauchen und einzelne Sicherheitsinstrumente aus seiner Sicht zu kategorisch begrenzt werden. Insgesamt ueberwiegt fuer ihn ein vorsichtig positiver Eindruck bei Landeskrisenfaehigkeit, aber mit deutlicher Skepsis gegenueber der fehlenden harten Verteidigungslinie.",
+    "score": 1
+  }
+}
