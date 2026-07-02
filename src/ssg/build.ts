@@ -286,10 +286,10 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
 <tr id="modell-urteil"><td><strong>Modell-Urteil</strong><br><span class="mini">ablehnend … zustimmend</span></td><td>Holistische Gesamteinschätzung des Modells, wie die Persona das Programm insgesamt aufnimmt. Vom Modell <em>selbst</em> vergeben (Feld <code>gesamt.score</code>) — <strong>nicht</strong> aus den Belegen gerechnet; bezieht die Tragweite einzelner Punkte mit ein.</td><td>intern −2 … +2<br>(−2 ablehnend, 0 gemischt, +2 zustimmend)</td></tr>
 <tr id="ki-urteile-saldo"><td><strong>KI-Urteile-Saldo</strong><br><span class="mini">+gut / −schlecht</span></td><td>Anzahl der belegten Punkte, die dem Programm aus Sicht der Persona positiv bzw. negativ angerechnet werden. Rein zählend, ohne Gewichtung der Wichtigkeit — deshalb kann er vom Modell-Urteil abweichen (z. B. wenige, aber existenzielle Minuspunkte).</td><td>zwei Zähler: Zahl „besonders gut" / Zahl „besonders schlecht"</td></tr>
 <tr><td>Δ Modell-Urteil</td><td>Differenz der Modell-Urteile zweier Modelle für denselben Fall (in den A-vs-B-Seiten).</td><td>|Urteil A − Urteil B| auf −2 … +2</td></tr>
-<tr><td>Ø-Urteil</td><td>Durchschnitt der Modell-Urteile eines Modells über alle bewerteten Fälle — Kennzahl für die generelle Tendenz („Bias") des Modells.</td><td>Mittelwert der −2 … +2</td></tr>
-<tr><td>Kritik-Quote</td><td>Anteil der „besonders schlecht"-Belege an allen Belegen des Modells.</td><td>schlecht / (gut + schlecht)</td></tr>
+<tr id="o-urteil"><td>Ø-Urteil</td><td>Durchschnitt der Modell-Urteile eines Modells über alle bewerteten Fälle — Kennzahl für die generelle Tendenz („Bias") des Modells.</td><td>Mittelwert der −2 … +2</td></tr>
+<tr id="kritik-quote"><td>Kritik-Quote</td><td>Anteil der „besonders schlecht"-Belege an allen Belegen des Modells. Daraus das Label: <em>nachsichtig</em> (&lt; 35 %), <em>ausgewogen</em> (35–50 %), <em>kritisch</em> (&gt; 50 %).</td><td>schlecht / (gut + schlecht)</td></tr>
 <tr><td>Ø Punkte/Urteil</td><td>Durchschnittliche Zahl belegter Punkte je Auswertung.</td><td>(gut + schlecht) / Auswertungen</td></tr>
-<tr><td>Tonalität</td><td>Sprachlicher Ton: sachlich / gemischt / zugespitzt — aus dem Anteil zugespitzter Kurz-Titel (mit ! oder ?).</td><td>&lt; 20 % sachlich · &gt; 50 % zugespitzt</td></tr>
+<tr id="tonalitaet"><td>Tonalität</td><td>Sprachlicher Ton: sachlich / gemischt / zugespitzt — aus dem Anteil zugespitzter Kurz-Titel (mit ! oder ?).</td><td>&lt; 20 % sachlich · &gt; 50 % zugespitzt</td></tr>
 <tr><td>Spanne (Divergenz)</td><td>Differenz zwischen höchstem und niedrigstem Modell-Urteil aller Modelle für denselben Fall (0 = Konsens).</td><td>max − min der −2 … +2</td></tr>
 </tbody></table>
 <div class="unternav"><a class="navbtn" href="${u("methodik/prompts/")}">📝 Prompt im Wortlaut</a><a class="navbtn" href="${u("vergleich/")}">⚖ Modell-Divergenz</a></div>`;
@@ -330,7 +330,7 @@ ${profilBlock(p)}`;
 
 // Modell → Personas & Modell → Parteien & tiefer
 for (const m of SIG) {
-  const sigBanner = `<div class="sigbanner"><span>Ø-Urteil </span>${urteilPill(m.avgScore)}<span class="sb-sep">· Kritik-Quote ${Math.round(m.kritikQuote * 100)} % · ${e(m.labels.kritik)}, ${e(m.labels.ton)}</span></div>`;
+  const sigBanner = `<div class="sigbanner"><span>Ø-Urteil </span>${urteilPill(m.avgScore)}${hilfe("o-urteil", "Ø-Urteil: Durchschnitt der Modell-Urteile über alle Fälle")}<span class="sb-sep">· Kritik-Quote ${Math.round(m.kritikQuote * 100)} %</span>${hilfe("kritik-quote", "Kritik-Quote & Label (nachsichtig/ausgewogen/kritisch)")}<span class="sb-sep">· ${e(m.labels.kritik)}, ${e(m.labels.ton)}</span>${hilfe("tonalitaet", "Tonalität: sachlich/gemischt/zugespitzt")}</div>`;
   // Modell-Übersicht: Parteien + Personas auf einer Seite
   {
     const wechsel = modellWechsler(m.slug, SIG.map((x) => x.slug), (s) => `modell/${m.slug}/vs/${s}/`);
