@@ -111,13 +111,14 @@ function krume(segs: { kat?: boolean; label: string; href?: string }[]): string 
 function layout(titel: string, beschreibung: string, body: string): string {
   return `<!doctype html><html lang="de"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
 <base href="${e(BASE)}">
+<meta name="referrer" content="no-referrer">
 <title>${e(titel)}</title><meta name="description" content="${e(beschreibung)}">
 <meta property="og:title" content="${e(titel)}"><meta property="og:description" content="${e(beschreibung)}">
 <link rel="stylesheet" href="${u("assets/style.css")}"></head><body>
 <header class="kopf"><a href="${u("")}" class="logo">Personas</a><span class="kopf-sub">ein KanzlerClash #LTW26 Projekt — KI-Urteile über Wahlprogramme (Sachsen-Anhalt)</span></header>
 <div class="ai-act" role="note">⚠ <strong>KI-generierte Inhalte.</strong> Die Bewertungen stammen von KI-Modellen, beziehen sich auf <strong>fiktive Personas</strong> (keine realen Personen) und können Fehler und Verzerrungen (Bias) enthalten. <strong>Keine Wahlempfehlung</strong> — dient der politischen Bildung. Parteizitate dienen als Beleg (Urheberrecht der Parteien).</div>
 <main>${body}</main>
-<footer class="fuss">Stand: ${new Date().toLocaleDateString("de-DE")} · ${ERG.length} KI-Urteile · <a href="${u("methodik/")}">Methodik</a> · Daten unter CC-BY-SA · <a href="https://github.com/kanzlerclash/personas" target="_blank" rel="noopener">Quellcode</a> · Transparenz gem. EU-KI-VO Art. 50</footer>
+<footer class="fuss">Stand: ${new Date().toLocaleDateString("de-DE")} · ${ERG.length} KI-Urteile · <a href="${u("methodik/")}">Methodik</a> · Daten unter CC-BY-SA · <a href="https://github.com/kanzlerclash/personas" target="_blank" rel="noopener noreferrer">Quellcode</a> · Transparenz gem. EU-KI-VO Art. 50</footer>
 </body></html>`;
 }
 
@@ -148,7 +149,7 @@ function highlightHtml(h: any, land: string, partei: string): string {
     const badge = `<span class="beleg ${h.beleg_ok === true ? "ok" : h.beleg_ok === false ? "fehler" : "offen"}">${h.beleg_ok === true ? "✓ belegt" : h.beleg_ok === false ? "⚠ ungeprüft" : "•"}</span>`;
     const kern = `${bl.einheit ? e(bl.einheit) + ": " : ""}„${e(h.zitat)}"`;
     const inner = bl.href
-      ? `<a class="quelle-link" href="${e(bl.href)}" target="_blank" rel="nofollow noopener" title="Zur Quelle öffnen: ${e(bl.prog)}${bl.html ? ` — HTML-Programm ohne Seiten, Abschnitt ${e(h.seite ?? "?")}` : ""}">${kern} <span class="q-src">— ${e(bl.prog)} ↗</span></a>`
+      ? `<a class="quelle-link" href="${e(bl.href)}" target="_blank" rel="nofollow noopener noreferrer" title="Zur Quelle öffnen: ${e(bl.prog)}${bl.html ? ` — HTML-Programm ohne Seiten, Abschnitt ${e(h.seite ?? "?")}` : ""}">${kern} <span class="q-src">— ${e(bl.prog)} ↗</span></a>`
       : kern;
     beleg = `<p class="belegzeile">${badge} ${inner}</p>`;
   }
@@ -168,7 +169,7 @@ function renderWert(key: string, val: any): string {
 function profilBlock(p: Persona): string {
   let bev = "";
   if (p.bevoelkerung) {
-    const q = (p.bevoelkerung.quellen ?? []).map((x: any) => `<li>${x.url ? `<a href="${e(x.url)}" target="_blank" rel="noopener">${e((x.herausgeber ?? x.titel) + ": " + (x.wert ?? ""))}</a>` : e((x.herausgeber ?? x.titel) + ": " + (x.wert ?? ""))}</li>`).join("");
+    const q = (p.bevoelkerung.quellen ?? []).map((x: any) => `<li>${x.url ? `<a href="${e(x.url)}" target="_blank" rel="noopener noreferrer">${e((x.herausgeber ?? x.titel) + ": " + (x.wert ?? ""))}</a>` : e((x.herausgeber ?? x.titel) + ": " + (x.wert ?? ""))}</li>`).join("");
     bev = `<section class="bevoelkerung"><h3 class="abschnitt">Anteil der Bevölkerung</h3><p>${e(p.bevoelkerung.anteil ?? "?")} — ${e(p.bevoelkerung.bezug ?? "")}</p>${p.bevoelkerung.verifiziert ? "" : `<p class="warn">⚠ Entwurf, noch nicht gegen Primärquelle verifiziert</p>`}${q ? `<ul>${q}</ul>` : ""}</section>`;
   }
   const skip = new Set(["name", "einzeiler", "themen", "gesicht"]);
@@ -232,8 +233,8 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
 <div class="infobox"><strong>Fiktive Archetypen, keine realen Personen.</strong> Die 16 Lebenslagen bilden bewusst ein ausgewogenes Spektrum ab (Roster). Jede Persona ist aus ihrer Lage heraus einseitig — neutral wird das Bild erst über die Summe aller.</div>
 <p>Die ausführlichen Profile <em>und</em> die Avatar-Konfigurationen wurden <strong>redaktionell im Dialog von Claude Opus 4.8</strong> formuliert — nicht über die API-Pipeline. Es gibt dafür bewusst <strong>keinen</strong> reproduzierbaren API-Prompt mit Temperatur/Seed; die Artefakte sind menschlich reviewbar und im Git-Verlauf nachvollziehbar.</p>
 <p><strong>Detailtiefe nach Forschungslage:</strong> mittel-detailliert und <em>aufgabenrelevant</em> — Forschung zeigt, dass irrelevante Deko-Details (Name, Lieblingsfarbe) die Modellleistung senken und Stereotype verstärken können. Daher viel relevante Lage/Haltung, keine Trivia, würdevolle Formulierung.</p>
-<p><strong>Avatare:</strong> 8-Bit über <a href="https://dracoblue.github.io/retro-antlitz-kartei/" target="_blank" rel="nofollow noopener">retro-antlitz-kartei</a> (MIT); Teile/Farben je Persona von Hand aus dem echten Profil abgeleitet.</p>
-<p>Volle Herkunfts-Doku: <a href="https://github.com/kanzlerclash/personas/blob/main/prompts/herkunft-personas-und-avatare.md" target="_blank" rel="nofollow noopener">herkunft-personas-und-avatare.md</a> · <a href="https://github.com/kanzlerclash/personas/blob/main/prompts/herkunft-roster.md" target="_blank" rel="nofollow noopener">herkunft-roster.md</a></p>
+<p><strong>Avatare:</strong> 8-Bit über <a href="https://dracoblue.github.io/retro-antlitz-kartei/" target="_blank" rel="nofollow noopener noreferrer">retro-antlitz-kartei</a> (MIT); Teile/Farben je Persona von Hand aus dem echten Profil abgeleitet.</p>
+<p>Volle Herkunfts-Doku: <a href="https://github.com/kanzlerclash/personas/blob/main/prompts/herkunft-personas-und-avatare.md" target="_blank" rel="nofollow noopener noreferrer">herkunft-personas-und-avatare.md</a> · <a href="https://github.com/kanzlerclash/personas/blob/main/prompts/herkunft-roster.md" target="_blank" rel="nofollow noopener noreferrer">herkunft-roster.md</a></p>
 <div class="unternav"><a class="navbtn" href="${u("personas/")}">👤 Alle Personas ansehen</a></div>`;
     add("methodik/personas/", "Methodik: Personas · #LTW26", "Wie die 16 fiktiven Personas und ihre Avatare entstanden sind — redaktionell, spektrum-balanciert, würdevoll.", body);
   }
@@ -243,7 +244,7 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
     const rows = WP.programme.filter((p) => p.landtag === "sachsen-anhalt" && p.url).map((p) => {
       const html = (p as any).format === "html";
       const umfang = SEITEN[p.partei] ? `${SEITEN[p.partei]} ${html ? "Abschnitte" : "Seiten"}` : "—";
-      return `<tr><td><strong>${e(parteiName(p.partei))}</strong></td><td>${e(p.stand || "—")}</td><td>${html ? "HTML" : "PDF"}</td><td>${umfang}</td><td><a href="${e(p.url!)}" target="_blank" rel="nofollow noopener">Quelle ↗</a></td></tr>`;
+      return `<tr><td><strong>${e(parteiName(p.partei))}</strong></td><td>${e(p.stand || "—")}</td><td>${html ? "HTML" : "PDF"}</td><td>${umfang}</td><td><a href="${e(p.url!)}" target="_blank" rel="nofollow noopener noreferrer">Quelle ↗</a></td></tr>`;
     }).join("");
     const body = `${mk("Wahlprogramme")}<h2>Methodik: Wahlprogramme</h2>
 <div class="infobox"><strong>Nicht von KI verarbeitet.</strong> Die Programme werden <strong>nicht</strong> zusammengefasst oder umgeschrieben — sie werden im <strong>Volltext eingelesen</strong> (PDF/HTML → Text, seitenindiziert) und ausschließlich <strong>wörtlich zitiert</strong> (Kurzzitate unter 15 Wörter als Beleg).</div>
@@ -276,7 +277,7 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
 <h3 class="abschnitt">2) CLI-Vorlage (Platzhalter) — <code>agy-vorlage.md</code></h3>
 <p class="mini">Die tool-neutrale Vorlage, mit der die Läufe über agy/Codex erzeugt wurden (Platzhalter <code>__LAND__</code>/<code>__PARTEI__</code>/<code>__PERSONA__</code>/<code>__MODELL__</code>).</p>
 <pre class="prompt">${e(promptVorlage)}</pre>
-<p>Bevölkerungsanteile: recherchiert aus amtlichen Quellen (kein KI-Schätzprompt als Fakt); Details je Persona auf der jeweiligen Profilseite. Quellcode &amp; alle Prompts: <a href="https://github.com/kanzlerclash/personas/tree/main/prompts" target="_blank" rel="nofollow noopener">prompts/ auf GitHub</a>.</p>`;
+<p>Bevölkerungsanteile: recherchiert aus amtlichen Quellen (kein KI-Schätzprompt als Fakt); Details je Persona auf der jeweiligen Profilseite. Quellcode &amp; alle Prompts: <a href="https://github.com/kanzlerclash/personas/tree/main/prompts" target="_blank" rel="nofollow noopener noreferrer">prompts/ auf GitHub</a>.</p>`;
     add("methodik/prompts/", "Methodik: Prompts · #LTW26", "Die verwendeten Prompts im Wortlaut: der Persona×Programm-System-Prompt und die CLI-Vorlage.", body);
   }
 }
