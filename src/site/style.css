@@ -110,6 +110,10 @@ h4.gut { color: var(--gut); margin: .8rem 0 .3rem; } h4.schlecht { color: var(--
 .hl-kopf { display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; }
 .titel { font-size: 1.02rem; } .selbst { margin: .4rem 0 .2rem; } .analytisch { color: var(--dim); font-size: .88rem; }
 .belegzeile { font-size: .82rem; color: var(--dim); margin-top: .3rem; }
+.quelle-link { color: var(--dim); text-decoration: none; }
+.quelle-link:hover { color: var(--text); }
+.quelle-link:hover .q-src { text-decoration: underline; }
+.q-src { color: var(--akzent); white-space: nowrap; }
 .beleg { font-weight: 600; margin-right: .3rem; } .beleg.ok { color: var(--gut); } .beleg.fehler { color: #e0b070; } .beleg.offen { color: var(--dim); }
 .diffbox { background: #16202b; border: 1px solid #244; border-radius: 10px; padding: .7rem .9rem; margin: .6rem 0; }
 .diffstat { color: var(--akzent); font-weight: 600; }

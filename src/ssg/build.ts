@@ -130,8 +130,28 @@ function modellWechsler(curr: string, slugs: string[], hrefFor: (s: string) => s
   return `<div class="vsbar"><span class="vslbl">Vergleichen mit:</span>${others.map((s) => `<a class="vsbtn" href="${u(hrefFor(s))}">${e(kurz(s))}</a>`).join("")}</div>`;
 }
 
-function highlightHtml(h: any): string {
-  const beleg = h.zitat ? `<p class="belegzeile"><span class="beleg ${h.beleg_ok === true ? "ok" : h.beleg_ok === false ? "fehler" : "offen"}">${h.beleg_ok === true ? "✓ belegt" : h.beleg_ok === false ? "⚠ ungeprüft" : "•"}</span> S. ${e(h.seite ?? "?")}: „${e(h.zitat)}"</p>` : "";
+// Quell-Register: (land|partei) → Wahlprogramm-URL/Format/Stand (für Beleg-Links)
+const WPMAP: Record<string, { url: string | null; format?: string; stand?: string | null }> = {};
+for (const pr of WP.programme) WPMAP[`${pr.landtag}|${pr.partei}`] = { url: pr.url, format: (pr as any).format, stand: pr.stand };
+function belegLink(land: string, partei: string, seite: number | null) {
+  const wp = WPMAP[`${land}|${partei}`];
+  const html = wp?.format === "html";
+  const einheit = seite == null ? "" : html ? `Abschnitt ${seite}` : `S. ${seite}`;
+  const prog = `${parteiName(partei)}-Wahlprogramm${wp?.stand ? ` (${wp.stand})` : ""}`;
+  const href = wp?.url ? (html || seite == null ? wp.url : `${wp.url}#page=${seite}`) : null;
+  return { href, einheit, prog, html };
+}
+function highlightHtml(h: any, land: string, partei: string): string {
+  let beleg = "";
+  if (h.zitat) {
+    const bl = belegLink(land, partei, h.seite ?? null);
+    const badge = `<span class="beleg ${h.beleg_ok === true ? "ok" : h.beleg_ok === false ? "fehler" : "offen"}">${h.beleg_ok === true ? "✓ belegt" : h.beleg_ok === false ? "⚠ ungeprüft" : "•"}</span>`;
+    const kern = `${bl.einheit ? e(bl.einheit) + ": " : ""}„${e(h.zitat)}"`;
+    const inner = bl.href
+      ? `<a class="quelle-link" href="${e(bl.href)}" target="_blank" rel="nofollow noopener" title="Zur Quelle öffnen: ${e(bl.prog)}${bl.html ? ` — HTML-Programm ohne Seiten, Abschnitt ${e(h.seite ?? "?")}` : ""}">${kern} <span class="q-src">— ${e(bl.prog)} ↗</span></a>`
+      : kern;
+    beleg = `<p class="belegzeile">${badge} ${inner}</p>`;
+  }
   return `<div class="highlight"><div class="hl-kopf"><strong class="titel">„${e(h.titel_selbst)}"</strong>${chip(themaName(h.thema))}${chip(h.bezug === "betrifft_mich" ? "betrifft mich" : "Sicht auf andere")}${chip(h.resonanz === "bestaetigt" ? "bestätigt" : "konträr")}</div><p class="selbst">${e(h.begruendung_selbst)}</p><p class="analytisch">${e(h.begruendung)}</p>${beleg}</div>`;
 }
 function kiBadge(x: Erg): string {
@@ -245,7 +265,7 @@ ${wechsel}
     for (const p of PERSONAS) for (const pa of parteienMit(m.slug)) {
       const a = erg(m.slug, p.slug, pa), b = erg(o.slug, p.slug, pa);
       if (!a && !b) continue;
-      const liste = (arr: any[], cls: string, lab: string) => arr.length ? `<h4 class="${cls}">${lab}</h4>${arr.map(highlightHtml).join("")}` : "";
+      const liste = (arr: any[], cls: string, lab: string) => arr.length ? `<h4 class="${cls}">${lab}</h4>${arr.map((h) => highlightHtml(h, "sachsen-anhalt", pa)).join("")}` : "";
       const spalte = (x: Erg | undefined, name: string) => x ? `<div class="blattspalte"><div class="bs-kopf"><strong>${e(name)}</strong>${scorePill(x.gesamt.score)}</div>${kiBadge(x)}<p class="zusammenfassung">${e(x.gesamt.zusammenfassung)}</p>${liste(x.besonders_gut, "gut", "👍 Besonders gut")}${liste(x.besonders_schlecht, "schlecht", "👎 Besonders schlecht")}</div>` : `<div class="blattspalte"><div class="bs-kopf"><strong>${e(name)}</strong></div><p class="meta">Keine Auswertung.</p></div>`;
       const dScore = a && b ? Math.abs(a.gesamt.score - b.gesamt.score) : NaN;
       add(`modell/${m.slug}/vs/${o.slug}/persona/${p.slug}/partei/${pa}/`, `${p.name} × ${parteiName(pa)}: ${kurz(m.slug)} vs ${kurz(o.slug)} · #LTW26`, `${p.name} × ${parteiName(pa)} im direkten Modellvergleich ${kurz(m.slug)} gegen ${kurz(o.slug)} — belegte Urteile nebeneinander.`, `${bcVs([{ kat: true, label: "Persona" }, { label: p.name, href: `modell/${m.slug}/vs/${o.slug}/persona/${p.slug}/` }, { kat: true, label: "Partei" }, { label: parteiName(pa) }])}
@@ -257,7 +277,7 @@ ${wechsel}
   // Blatt
   for (const p of PERSONAS) for (const pa of parteienMit(m.slug)) {
     const a = erg(m.slug, p.slug, pa); if (!a) continue;
-    const liste = (arr: any[], cls: string, label: string) => arr.length ? `<h4 class="${cls}">${label}</h4>${arr.map(highlightHtml).join("")}` : "";
+    const liste = (arr: any[], cls: string, label: string) => arr.length ? `<h4 class="${cls}">${label}</h4>${arr.map((h) => highlightHtml(h, "sachsen-anhalt", pa)).join("")}` : "";
     add(`modell/${m.slug}/persona/${p.slug}/partei/${pa}/`, `${p.name} × ${parteiName(pa)} × ${kurz(m.slug)} · #LTW26`, `KI-Urteil (${kurz(m.slug)}): Wie die Persona ${p.name} das ${parteiName(pa)}-Wahlprogramm sieht — belegt mit Seite und Zitat.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug), href: `modell/${m.slug}/` }, { kat: true, label: "Persona" }, { label: p.name, href: `modell/${m.slug}/persona/${p.slug}/` }, { kat: true, label: "Partei" }, { label: parteiName(pa) }])}
 <div class="detail-kopf">${avatarImg(p, "avatar gross")}<div><h2>${e(p.name)} × ${e(parteiName(pa))}</h2>${fiktiv(true)}</div></div>
 <a class="navbtn profil-link" href="${u(`persona/${p.slug}/`)}">📋 Vollständiges Profil von ${e(p.name)} →</a>
