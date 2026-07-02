@@ -1,0 +1,64 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:18:36.212Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69719,
+    "output_tokens": 7196,
+    "cached_tokens": 67456,
+    "total_tokens": 76915,
+    "dauer_ms": 132362,
+    "usd": 0.0699315
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich den Bündnisfall im Blick!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Land plant die zivil-militärische Zusammenarbeit explizit auch für die Szenarien Aufmarsch, Spannungsfall, Bündnisfall und Verteidigungsfall und stimmt diese mit militärischen Dienststellen ab.",
+      "seite": 48,
+      "zitat": "für die Szenarien Aufmarsch, Span - nungsfall, Bündnisfall und Verteidigungsfall ei - genständig zu entwickeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan erlebt an der Ostflanke täglich die reale Bedrohungslage. Dass eine Landespartei den Bündnis- und Verteidigungsfall ernst nimmt und zivil-militärische Kooperation dafür plant, bestätigt seine Erwartung an eine wehrhafte und bündnistreue Politik.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Dass hier jemand den Bündnis- und Verteidigungsfall auf dem Schirm hat und mit unseren Dienststellen plant, zeigt, dass die Bedrohungslage im Osten endlich verstanden wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Reservisten endlich freistellen!",
+      "thema": "verteidigung",
+      "programmpunkt": "Beschäftigte in Behörden und kritischen Infrastrukturen sollen für Weiterbildungen im Katastrophenschutz und für den Dienst als Bundeswehr-Reservist unbürokratisch freigestellt werden.",
+      "seite": 48,
+      "zitat": "für den allgemeinen Dienst als Reservist*in der Bundeswehr, damit Beschäftigte in Behörden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan weiß, wie wichtig Reservisten für die Durchhaltefähigkeit der Truppe sind. Die Forderung nach unbürokratischer Freistellung für zivile Arbeitgeber unterstützt seine Kameraden und stärkt die gesamte Sicherheitsarchitektur.",
+      "begruendung_selbst": "Meine Kameraden, die zivil arbeiten, brauchen diese Rückendeckung. Wenn Behörden und Betriebe sie endlich ohne Theater freistellen, hilft das der ganzen Truppe und unserer Einsatzbereitschaft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Extremisten im Staatsdienst!",
+      "thema": "demokratie",
+      "programmpunkt": "Der Staat soll konsequent gegen Verfassungsfeinde im öffentlichen Dienst vorgehen und sicherstellen, dass nur Personen verbeamtet werden, die uneingeschränkt zur freiheitlich-demokratischen Grundordnung stehen.",
+      "seite": 40,
+      "zitat": "Rechtsextreme in den Reihen des öffentlichen Dienstes sind kein bloßes Diszipli - narproblem",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soldat hat Stefan einen Eid auf die Verfassung geschworen. Er erwartet, dass der Staat seine Institutionen vor Extremisten schützt, da diese die innere Sicherheit und das Vertrauen in die Uniformierten untergraben.",
+      "begruendung_selbst": "Ich stehe für dieses Land und seine Verfassung ein. Da darf es nicht sein, dass Verfassungsfeinde im Staatsdienst geduldet werden. Wer den Staat repräsentiert, muss zu 100 Prozent auf dem Boden des Grundgesetzes stehen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Stefan bewertet das Landesprogramm positiv, da es die Bedrohungslage an der Ostflanke ernst nimmt und den Bündnis- sowie Verteidigungsfall in die zivil-militärische Planung einbezieht. Die Forderungen nach Freistellung für Reservisten und der Ausschluss von Extremisten aus dem Staatsdienst stärken aus seiner Sicht die wehrhafte Demokratie und die Truppe. Da bundespolitische Ausrüstungsfragen naturgemäß fehlen, gibt es keine direkten negativen Berührungspunkte, aber auch keine Lösungen für seine Materialfrüste.",
+    "score": 1
+  }
+}

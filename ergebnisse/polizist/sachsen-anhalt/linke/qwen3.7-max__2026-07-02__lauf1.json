@@ -1,0 +1,161 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:15:35.945Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82422,
+    "output_tokens": 8649,
+    "cached_tokens": 78336,
+    "total_tokens": 91071,
+    "dauer_ms": 157580,
+    "usd": 0.07978275
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Polizeistellen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei plant 500 neue Polizeistellen bis 2030, um mehr Präsenz und Bürgernähe zu schaffen.",
+      "seite": 128,
+      "zitat": "500 neue Polizeistellen bis 2030 bedeuten nicht nur mehr Präsenz",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet unter Personalmangel und Überlastung im Schichtdienst. Die konkrete Zusage von 500 neuen Stellen adressiert direkt seine Hauptsorge und könnte seine tägliche Arbeitsbelastung spürbar reduzieren.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass wir mehr Leute brauchen. 500 Stellen – das wäre ein Anfang. Weniger Überstunden, mehr Kollegen auf der Straße.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Stunden, mehr Familie",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will sich auf Bundesebene für eine Reform des Beamtengesetzes einsetzen, um eine Arbeitszeitreduktion auf 38 Stunden für Polizeikräfte zu ermöglichen.",
+      "seite": 128,
+      "zitat": "Arbeitszeitreduktion für Polizeikräfte auf 38 Stunden eingeführt werden kann",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als verbeamteter Streifenbeamter im Schichtbetrieb mit Familie spürt Marco die Belastung durch lange Arbeitszeiten. Eine Reduktion auf 38 Stunden würde ihm mehr Zeit für Frau und Kind geben und die Work-Life-Balance verbessern.",
+      "begruendung_selbst": "38 Stunden – das klingt vernünftig. Ich bin ja nicht gegen Arbeit, aber meine Familie sieht mich kaum noch. Das wäre echte Wertschätzung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Justiz muss funktionieren",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei fordert mehr Personal für Gerichte und Staatsanwaltschaften, schnellere Verfahren und eine bessere digitale Ausstattung der Justiz.",
+      "seite": 136,
+      "zitat": "Mehr Personal für eine funktionsfähige Justiz",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist frustriert, wenn seine Ermittlungsarbeit in der Justizkette versandet. Mehr Personal und schnellere Verfahren bedeuten, dass seine Arbeit tatsächlich zu Verurteilungen führt und nicht im Sande verläuft.",
+      "begruendung_selbst": "Was nützt mir die beste Ermittlung, wenn die Akte beim Staatsanwalt verstaubt? Die Justizkette muss funktionieren – von der Straße bis zum Urteil.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schwerpunktstaatsanwaltschaften gegen Rechts",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will Schwerpunktstaatsanwaltschaften für rechtsextreme Straftaten und geschlechtsspezifische Gewalt einrichten.",
+      "seite": 138,
+      "zitat": "Schwerpunktstaatsanwaltschaften einrichten, die rechtsextrem motivierte Straftaten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt im Dienst zunehmend politisch motivierte Kriminalität. Spezialisierte Staatsanwaltschaften könnten seine Arbeit bei komplexen Verfahren unterstützen und die Strafverfolgung effektiver machen.",
+      "begruendung_selbst": "Wenn wir gegen rechte Netzwerke ermitteln, brauchen wir spezialisierte Staatsanwälte, die das verstehen. Das macht meinen Job effektiver.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Feuerwehr endlich verlässlich finanzieren",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will die Finanzierung der Feuerwehren durch zweckgebundene Landeszuweisungen verlässlicher gestalten und kleine Wehren im ländlichen Raum schützen.",
+      "seite": 132,
+      "zitat": "Verlässliche Finanzierung statt Förderlotterie",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco arbeitet eng mit Feuerwehren zusammen und weiß, wie wichtig funktionierende Rettungskräfte sind. Eine verlässliche Finanzierung stärkt die gesamte Sicherheitsarchitektur, auf die er sich im Einsatz verlassen muss.",
+      "begruendung_selbst": "Die Feuerwehr ist unser Partner. Wenn die nicht funktioniert, stehen wir beide im Regen. Gut, dass das endlich jemand ernst nimmt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Verfassungsschutz abschaffen? Ernsthaft?",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will den Verfassungsschutz in seiner jetzigen Form als überflüssig abschaffen und durch eine Agentur für Demokratie und Menschenrechte ersetzen.",
+      "seite": 129,
+      "zitat": "Ein Verfassungsschutz in seiner jetzigen Form ist überflüssig",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht den Verfassungsschutz als essenziellen Partner für die Sicherheitsarbeit. Die Abschaffung würde aus seiner Sicht die wehrhafte Demokratie schwächen und seine Arbeit gegen Extremisten erschweren.",
+      "begruendung_selbst": "Wer den Verfassungsschutz abschaffen will, macht meinen Job gefährlicher. Wir brauchen diese Informationen, um Extremisten früh zu erkennen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Polizeibeschwerdestelle – Generalverdacht",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will eine unabhängige Polizeibeschwerdestelle mit eigenen Ermittlungsbefugnissen einrichten.",
+      "seite": 128,
+      "zitat": "unabhängige Polizeibeschwerdestelle mit eigenen Ermittlungsbefugnissen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco fühlt sich durch pauschale Polizeikritik unter Generalverdacht gestellt. Eine externe Beschwerdestelle mit Ermittlungsbefugnissen verstärkt aus seiner Sicht das Misstrauen gegenüber der Institution, der er dient.",
+      "begruendung_selbst": "Wir haben interne Kontrollen. Eine externe Stelle mit Ermittlungsbefugnissen signalisiert: Wir trauen euch nicht. Das demotiviert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bodycams nur bei Schusswaffen?",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will Bodycams nur beim Schusswaffengebrauch oder Taser-Einsatz automatisch aktivieren, nicht generell.",
+      "seite": 129,
+      "zitat": "automatische Einsatz von Bodycams beim Schusswaffengebrauch",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco weiß, dass Bodycams gerade bei alltäglichen Einsätzen vor falschen Anschuldigungen schützen. Eine Beschränkung auf Schusswaffeneinsätze lässt ihn bei der Masse seiner Einsätze ungeschützt.",
+      "begruendung_selbst": "Bodycams schützen uns vor falschen Vorwürfen. Die meisten Einsätze sind doch nicht mit der Waffe – da brauchen wir den Schutz am meisten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine neuen Autobahnen – Einsatzwege?",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei lehnt den Bau neuer Autobahnen ab und will den motorisierten Individualverkehr reduzieren.",
+      "seite": 105,
+      "zitat": "Keine neuen Autobahnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco ist auf funktionierende Verkehrswege angewiesen, um schnell zu Einsätzen zu gelangen. Der Verzicht auf neue Autobahnen könnte aus seiner Sicht Einsatzzeiten verlängern, besonders im ländlichen Raum.",
+      "begruendung_selbst": "Wenn ich zu einem Einsatz muss, zählt jede Minute. Schlechte Infrastruktur kostet Zeit – und im Ernstfall Leben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Palantir-Verbot – Werkzeug weg",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei lehnt den Einsatz von Datenanalysesoftware wie Palantir konsequent ab und sieht darin eine rote Linie für Grundrechte.",
+      "seite": 129,
+      "zitat": "Einführung einer automatisierten Datenanalysesoftware wie Palantir lehnen wir konsequent ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht moderne Analysewerkzeuge als notwendig an, um komplexe Kriminalitätsstrukturen aufzudecken. Ein pauschales Verbot würde aus seiner Sicht die Ermittlungsarbeit behindern.",
+      "begruendung_selbst": "Wir brauchen moderne Werkzeuge gegen organisierte Kriminalität. Ein pauschales Verbot macht uns blind – und die Kriminellen lachen sich ins Fäustchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Containern legalisieren?",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will das Containern (Entnehmen weggeworfener Lebensmittel) entkriminalisieren.",
+      "seite": 139,
+      "zitat": "Entkriminalisierung von Containern zur Nutzung von weggeworfenen Lebensmitteln",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht in der Entkriminalisierung von Eigentumsdelikten eine Schwächung des Rechtsstaatsprinzips. Aus seiner Sicht sendet dies das falsche Signal über die Geltung von Gesetzen.",
+      "begruendung_selbst": "Eigentum ist Eigentum. Wenn wir anfangen, Delikte zu bagatellisieren, wo ziehen wir dann die Grenze? Das untergräbt den Rechtsstaat.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco sieht bei der Linken Licht und Schatten: Die konkreten Zusagen zu mehr Polizeistellen, Arbeitszeitreduktion und besserer Justizausstattung adressieren seine Hauptsorgen direkt. Gleichzeitig irritieren ihn Forderungen wie die Abschaffung des Verfassungsschutz, die Einrichtung externer Polizeikontrollen und das Verbot moderner Analysewerkzeuge – aus seiner Sicht schwächen diese Positionen die Institutionen, die er schützt und denen er dient.",
+    "score": 0
+  }
+}

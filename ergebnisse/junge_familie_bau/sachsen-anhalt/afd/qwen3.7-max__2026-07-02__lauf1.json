@@ -1,0 +1,113 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:59:53.208Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76982,
+    "output_tokens": 7618,
+    "cached_tokens": 73856,
+    "total_tokens": 84600,
+    "dauer_ms": 140454,
+    "usd": 0.07246025
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Kaufnebenkosten!",
+      "thema": "steuern",
+      "programmpunkt": "Die Grunderwerbsteuer soll von fünf auf zweieinhalb Prozent gesenkt werden, um den Eigentumserwerb zu erleichtern.",
+      "seite": 19,
+      "zitat": "Grunderwerbsteuer von aktuell fünf Prozent auf zweieinhalb Prozent absenken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica kalkulieren jeden Cent für ihre Baufinanzierung. Eine Halbierung der Grunderwerbsteuer senkt die Erwerbsnebenkosten spürbar und bringt den Traum vom Eigenheim in greifbare Nähe.",
+      "begruendung_selbst": "Wir rechnen jeden Cent zweimal um. Wenn die Kaufnebenkosten sinken, fehlt uns weniger Eigenkapital für den Kredit. Das ist genau die Entlastung, die junge Familien beim Bauen brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zinsgünstig bauen, Familie gründen!",
+      "thema": "wohnen",
+      "programmpunkt": "Einführung eines zinsvergünstigten Kredits bis 300.000 Euro für junge Eltern, bei dem pro Kind bis zu 20.000 Euro erlassen werden.",
+      "seite": 4,
+      "zitat": "zinsvergünstigter Kredit bis zu einer Höhe von 300.000 Euro zum Bau",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Programm bietet genau die finanzielle Starthilfe, die das Paar bei den aktuellen Zinsen benötigt, und belohnt gleichzeitig den Wunsch nach einem zweiten Kind mit einem Teilerlass des Kredits.",
+      "begruendung_selbst": "Bei den aktuellen Zinsen ist Bauen fast unbezahlbar. Ein zinsvergünstigter Kredit mit Erlass für unser zweites Kind wäre der Gamechanger für unsere Finanzierungsrechnung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit teuren Bau-Auflagen!",
+      "thema": "energie",
+      "programmpunkt": "Das Gebäudeenergiegesetz und die Wärmeplanung sollen abgeschafft werden, um einen technologieoffenen Wärmesektor ohne staatlichen Zwang zu ermöglichen.",
+      "seite": 13,
+      "zitat": "Wärmeplanungs- und Gebäudeenergiegesetz abschaffen, Förderung von Wärmepumpen beenden!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Strenge energetische Vorgaben treiben die Baukosten für das Paar massiv in die Höhe. Die Abschaffung des GEG bedeutet für sie mehr Freiheit bei der Wahl der Heizung und deutlich niedrigere Baukosten.",
+      "begruendung_selbst": "Jede neue Öko-Auflage treibt unsere Baukosten weiter nach oben. Wir wollen selbst entscheiden, wie wir heizen, ohne dass uns das Haus unterm Hintern wegfinanziert wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita-Gebühren endlich streichen!",
+      "thema": "familie",
+      "programmpunkt": "Krippen und Kindergärten sollen ab dem ersten Kind dauerhaft kostenlos werden, um Familien finanziell zu entlasten.",
+      "seite": 4,
+      "zitat": "ab dem ersten Kind kostenlos machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener mit Kleinkind spüren sie die monatlichen Kita-Kosten im Haushaltsbudget. Die komplette Gebührenfreiheit erhöht ihren finanziellen Spielraum für die Sparrate zum Hauskauf.",
+      "begruendung_selbst": "Die Kita-Gebühren fressen jeden Monat einen riesigen Batzen unseres Nettoeinkommens. Wenn das wegfällt, können wir endlich mehr für unser Eigenkapital zur Seite legen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Keine Lösung für den Kita-Mangel!",
+      "thema": "familie",
+      "programmpunkt": "Der Fachkräftemangel, auch bei Erziehern, soll nicht durch Zuwanderung, sondern langfristig ausschließlich durch eine Geburtenwende gelöst werden.",
+      "seite": 5,
+      "zitat": "Problem des Fachkräftemangels nur durch eine Geburtenwende",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar ist akut auf einen Kita-Platz angewiesen, um beide arbeiten zu können. Eine Politik, die ausländische Fachkräfte ablehnt und auf eine Geburtenwende wartet, bietet keine kurzfristige Lösung für den massiven Erziehermangel.",
+      "begruendung_selbst": "Wir brauchen jetzt einen Kita-Platz, damit wir beide arbeiten können. Auf eine 'Geburtenwende' zu warten, die in zwanzig Jahren Erzieher bringt, hilft uns im Alltag null weiter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauamt-Chaos vorprogrammiert!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Ausgaben in Ministerien und Verwaltung sollen pauschal um mindestens 10 Prozent gekürzt und freiwerdende Stellen nur im Ausnahmefall nachbesetzt werden.",
+      "seite": 17,
+      "zitat": "pauschale Ausgabenkürzung von mindestens 10 Prozent in allen Ministerien.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für ihr Bauprojekt sind sie auf ein funktionierendes Bauamt und zügige Genehmigungen angewiesen. Pauschale Kürzungen und Personalabbau in der Verwaltung drohen die Bearbeitungszeiten für Baugenehmigungen weiter zu verlängern.",
+      "begruendung_selbst": "Wenn wir endlich ein Grundstück finden, brauchen wir schnell eine Baugenehmigung. Wenn das Bauamt kaputtgespart wird, warten wir am Ende Jahre auf unseren Bescheid.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "E-Auto-Förderung einfach kappen?",
+      "thema": "verkehr",
+      "programmpunkt": "Sämtliche Subventionen für E-Autos und deren Ladeinfrastruktur sollen gestrichen werden, da sich die E-Mobilität dem freien Markt stellen müsse.",
+      "seite": 13,
+      "zitat": "jegliche Subventionen für E-Autos und deren Ladeinfrastruktur streichen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Pendler im Speckgürtel überlegen sie, ob ein E-Auto für den Arbeitsweg sinnvoll wäre. Der Wegfall der Kaufprämien macht die Anschaffung eines modernen, sparsamen E-Autos für ihre Haushaltskasse unattraktiv.",
+      "begruendung_selbst": "Wir pendeln jeden Tag ins Büro und hatten überlegt, auf ein E-Auto umzusteigen. Ohne Förderung ist das für uns als Normalverdiener aber schlicht nicht drin.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die direkten finanziellen Anreize für den Hausbau und die Familienplanung treffen den Nerv der Persona und bieten konkrete Entlastung bei ihren größten Schmerzpunkten wie Kaufnebenkosten und Bauauflagen. Gleichzeitig kollidieren die makroökonomischen Ansätze der Partei, insbesondere die Ablehnung von Fachkräftezuwanderung und der pauschale Verwaltungsabbau, massiv mit der pragmatischen Alltagsrealität des Paares, das auf funktionierende Infrastruktur und kurzfristig verfügbare Kita-Plätze angewiesen ist.",
+    "score": 0
+  }
+}

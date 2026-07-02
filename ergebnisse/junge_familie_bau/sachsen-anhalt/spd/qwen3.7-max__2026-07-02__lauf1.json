@@ -1,0 +1,113 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:58:03.770Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39883,
+    "output_tokens": 8543,
+    "cached_tokens": 37888,
+    "total_tokens": 48426,
+    "dauer_ms": 157720,
+    "usd": 0.0688495
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Kaufnebenkosten!",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei fordert, den Ersterwerb von Immobilien für natürliche Personen von der Grunderwerbsteuer zu befreien.",
+      "seite": 33,
+      "zitat": "Befreiung des Ersterwerbs von Immobilien von der Grunderwerbsteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sehen in den hohen Kaufnebenkosten das größte Hindernis für ihren Hauskauf. Die Abschaffung der Grunderwerbsteuer beim Ersterwerb trifft genau ihren wichtigsten Schmerzpunkt und macht die Finanzierung realistischer.",
+      "begruendung_selbst": "Die Grunderwerbsteuer frisst uns das ganze mühsam angesparte Eigenkapital auf. Wenn die beim ersten Hauskauf wegfällt, können wir den Kredit endlich stemmen!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita-Öffnungszeiten, die zum Job passen",
+      "thema": "familie",
+      "programmpunkt": "Der Rechtsanspruch auf bis zu zehn Stunden Betreuung wird als unverhandelbar betont, mit Fokus auf flexible Öffnungszeiten für Berufstätige.",
+      "seite": 18,
+      "zitat": "Berufstätige Eltern brauchen bedarfsgerechte Öffnungszeiten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener-Paar sind sie auf verlässliche und lange Betreuungszeiten angewiesen, um beide Jobs und die Pendelstrecke unter einen Hut zu bekommen. Der Fokus auf bedarfsgerechte Öffnungszeiten bestätigt ihren Alltag.",
+      "begruendung_selbst": "Wir pendeln beide und arbeiten Vollzeit. Wenn die Kita um 16 Uhr dicht macht, ist das für uns nicht machbar. Zehn Stunden und flexible Zeiten sind genau das, was wir brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit dem Bau-Bürokratie-Wahnsinn",
+      "thema": "wohnen",
+      "programmpunkt": "Planungs- und Genehmigungsverfahren sollen beschleunigt werden, unter anderem durch Genehmigungsfiktionen und digitale Prüfungen statt formaler Blockaden.",
+      "seite": 27,
+      "zitat": "Bauen soll wieder von Fachlichkeit geprägt sein, nicht von überbordender Bürokratie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Angst vor endlosen Genehmigungsverfahren und formalen Hürden beim Hausbau ist groß. Das Versprechen, Bürokratie abzubauen und Verfahren zu beschleunigen, gibt ihnen Hoffnung auf einen reibungsloseren Bauprozess.",
+      "begruendung_selbst": "Jeder Monat Wartezeit auf dem Bauamt kostet uns tausende Euro an Zinsen und Miete. Wenn die Genehmigungen endlich schneller und digital gehen, wäre das ein riesiger Schritt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Förderung nur für Geringverdiener?",
+      "thema": "wohnen",
+      "programmpunkt": "Die Eigenheimzulage soll wieder eingeführt werden, jedoch explizit nur für Familien mit niedrigen Einkommen.",
+      "seite": 33,
+      "zitat": "Wiederauflage der Eigenheimzulage für Familien mit niedrigen Einkommen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica verdienen als Doppelverdiener zusammen ordentlich, liegen aber bei den Immobilienpreisen trotzdem am Limit. Eine Förderung, die nur 'niedrige Einkommen' adressiert, schließt die hart arbeitende Mitte oft aus und frustriert sie.",
+      "begruendung_selbst": "Wir schuften beide Vollzeit, aber für ein Haus reicht es trotzdem kaum. Wenn die Eigenheimzulage jetzt nur an 'niedrige Einkommen' geht, fallen wir als normale Angestellte wieder durchs Raster. Das ist doch ungerecht!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wir pendeln im Stau!",
+      "thema": "verkehr",
+      "programmpunkt": "Mindestens zehn Prozent der Landesmittel für den Straßenbau werden fest für den Fuß- und Radverkehr gebunden.",
+      "seite": 26,
+      "zitat": "Mindestens zehn Prozent der Landesmittel für den Straßenbau werden dauerhaft für Fuß- und Radverkehr",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aus dem Speckgürtel sind sie auf das Auto angewiesen. Eine starre Umwidmung von Straßenbaumitteln für Radwege empfinden sie als realitätsfern für Pendler, die auf intakte Straßen und Ortsumfahrungen angewiesen sind.",
+      "begruendung_selbst": "Wir fahren jeden Tag mit dem Auto zur Arbeit, weil der ÖPNV im Umland nicht funktioniert. Wenn jetzt zehn Prozent der Straßenbaumittel fest für Radwege blockiert werden, stehen wir weiter im Stau und die Schlaglöcher bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Angst vor der Heizungs-Pistole",
+      "thema": "energie",
+      "programmpunkt": "Die kommunale Wärmeplanung soll vollendet werden, um die klimafreundliche Wärmeversorgung voranzutreiben.",
+      "seite": 27,
+      "zitat": "Die Vollendung der kommunalen Wärmeplanung in Sachsen-Anhalt ist dafür relevant.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die strikte Betonung der kommunalen Wärmeplanung weckt bei der Persona die Sorge, dass ihnen im Neubau teure Heizsysteme vorgeschrieben werden, die das knappe Budget endgültig sprengen.",
+      "begruendung_selbst": "Klingt nett, dass die Wärmeversorgung bezahlbar bleiben soll. Aber am Ende schreibt uns die kommunale Wärmeplanung doch nur vor, welche teure Heizung wir einbauen müssen. Das treibt die Baukosten nur noch weiter in die Höhe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Neiddebatte trifft die fleißige Mitte",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei setzt sich auf Bundesebene für die Wiedereinführung einer wirksamen Vermögensteuer ein.",
+      "seite": 35,
+      "zitat": "Wir setzen uns im Bundesrat ein für die Wiedereinführung einer wirksamen Vermögensteuer",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona strebt selbst nach Eigentum und sieht Leistung als Weg zum Aufstieg. Die Forderung nach Vermögensteuer empfinden sie als neidgetriebene Politik, die am Ende genau die hart arbeitenden Familien trifft, die sich gerade so ein Haus erarbeitet haben.",
+      "begruendung_selbst": "Wir versuchen mühsam, uns überhaupt erst ein kleines Vermögen in Form eines Hauses aufzubauen. Diese ständige Debatte über Vermögensteuer schürt nur Neid und trifft am Ende genau die fleißige Mitte, die sich gerade so ein Eigenheim erarbeitet.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica begrüßen die geplanten Entlastungen bei der Grunderwerbsteuer und den Fokus auf bedarfsgerechte Kita-Zeiten, da dies ihren Alltag als Doppelverdiener im Speckgürtel direkt verbessert. Gleichzeitig frustriert sie die Einkommensgrenze bei der Eigenheimzulage und die ideologische Vermögensteuer-Debatte, da sie sich als hart arbeitende Mitte oft nicht ausreichend berücksichtigt fühlen. Auch die starre Umwidmung von Straßenbaumitteln für Radwege und die Angst vor teuren Wärmeplanungsvorgaben trüben das Bild einer Partei, die sie eigentlich beim Eigentumserwerb unterstützen wollten.",
+    "score": 0
+  }
+}

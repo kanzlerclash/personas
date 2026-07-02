@@ -1,0 +1,118 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:46:53.069Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69704,
+    "output_tokens": 7357,
+    "cached_tokens": 0,
+    "total_tokens": 77061,
+    "dauer_ms": 138071,
+    "usd": 0.13600375
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Schule darf nichts kosten!",
+      "thema": "bildung",
+      "programmpunkt": "Forderung nach kostenfreiem Mittagessen und Lernmittelfreiheit an allen Schulen, um Familien finanziell zu entlasten.",
+      "seite": 54,
+      "zitat": "Zugang zu Lernmitteln... und zu gesundem Mittagessen... muss kostenfrei sein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine stresst jeder Euro, der für Schulmaterialien oder das Essen in der Mensa draufgeht. Die Aussicht, dass diese 'versteckten' Kosten wegfallen, bedeutet für sie eine direkte, spürbare Entlastung im knappen Monatsbudget.",
+      "begruendung_selbst": "Jedes Mal, wenn wieder Geld für Arbeitshefte oder das Essen eingesammelt wird, muss ich rechnen. Wenn das endlich wegfällt, kann ich durchatmen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Schutz vor Mieterhöhung.",
+      "thema": "wohnen",
+      "programmpunkt": "Einsatz für Mietendeckel und ein Moratorium für Zwangsräumungen bei Mietschulden im öffentlichen Bestand.",
+      "seite": 91,
+      "zitat": "Zur Sicherung von bezahlbarem Wohnraum sollen Mietendeckel eingesetzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Mieterin mit niedrigem Einkommen lebt Nadine in ständiger Angst vor Mieterhöhungen oder Verdrängung. Ein politischer Deckel gibt ihr die Sicherheit, die sie zum Überleben braucht.",
+      "begruendung_selbst": "Ich habe panische Angst vor dem Brief vom Vermieter. Ein Deckel auf die Miete wäre endlich mal eine Politik, die mich schützt, statt nur den Eigentümern zu helfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita-Platz in der Nähe.",
+      "thema": "familie",
+      "programmpunkt": "Programm 'HeimatKita', das garantiert, dass der Betreuungsplatz im Ort oder maximal 15 Minuten entfernt ist.",
+      "seite": 52,
+      "zitat": "nächste Kindertagesbetreuung... maximal 15 Minuten entfernt!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines Alltag ist ein logistischer Spagat zwischen Arbeit und Kindern. Ein garantierter Platz in der Nähe würde ihren Zeitstress massiv reduzieren und ihre Teilzeitarbeit erst wirklich ermöglichen.",
+      "begruendung_selbst": "Ich kann nicht erst durch die halbe Stadt fahren, bevor ich zur Arbeit komme. Ein Platz im Viertel wäre ein Traum, damit ich nicht immer gehetzt bin.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Meine Kinder sind nicht 'zweite Klasse'.",
+      "thema": "familie",
+      "programmpunkt": "Landesaktionsplan gegen Kinderarmut mit kostenlosem Zugang zu Kultur und Lernmitteln.",
+      "seite": 49,
+      "zitat": "Landesaktionsplan... kostenfreien Zugang zu kulturellen Angeboten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine schämt sich oft, ihren Kindern Dinge wie Museumsbesuche oder Hobbys nicht finanzieren zu können. Diese Maßnahmen signalisieren ihr, dass der Staat die Benachteiligung ihrer Kinder ernst nimmt und ausgleicht.",
+      "begruendung_selbst": "Es tut weh, wenn die anderen ins Museum gehen und wir nicht. Wenn es da Unterstützung gibt, fühlen wir uns nicht mehr so ausgegrenzt.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bio ist gut, aber wer zahlt das?",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Vision einer flächendeckend ökologischen Landwirtschaft und Ausstieg aus chemisch-synthetischen Pestiziden.",
+      "seite": 15,
+      "zitat": "Vision ist eine flächendeckend ökologische Bewirtschaftung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine kauft beim Discounter, weil jeder Cent zählt. Die Umstellung auf teurere Bio-Produktion weckt in ihr die Sorge, dass Lebensmittel noch teurer werden und ihr Budget sprengen.",
+      "begruendung_selbst": "Ich würde ja gerne Bio kaufen, aber mit zwei Kindern und Bürgergeld reicht das Geld gerade so für das Nötigste. Wenn die Preise noch weiter steigen, hungern wir.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auto ist kein Luxusgut!",
+      "thema": "verkehr",
+      "programmpunkt": "Ausweitung des Parkraummanagements, Erhöhung von Parkgebühren und Förderung autofreier Zonen.",
+      "seite": 26,
+      "zitat": "Parkraummanagement... Spielraum für Parkgebühren... erweitern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Nadine ist das Auto kein Statussymbol, sondern unverzichtbares Werkzeug, um Kinder, Einkauf und Job zu bewältigen. Höhere Gebühren und Hürden empfindet sie als Bestrafung ihrer Lebensrealität.",
+      "begruendung_selbst": "Versucht mal mit zwei Kindern, vollen Taschen und ohne Auto durch die Gegend zu kommen, wenn der Bus nicht fährt. Das Auto ist mein Lebensretter, kein Spielzeug.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Bloß keine Luxussanierung!",
+      "thema": "wohnen",
+      "programmpunkt": "Fokus auf energetische Sanierung und Wärmewende im Gebäudebestand.",
+      "seite": 20,
+      "zitat": "Wärmewende... energetische Sanierungen... zusammen gedacht werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Trotz versprochenem Mieterschutz hat Nadine Angst, dass Klimaschutzmaßnahmen von Vermietern genutzt werden, um die Mieten über Modernisierungsumlagen in die Höhe zu treiben.",
+      "begruendung_selbst": "Wenn die jetzt das Haus dämmen, landet die Rechnung bei mir. Ich will nicht aus meiner Wohnung verdrängt werden, nur weil das Klima gerettet wird.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine fühlt sich von den sozialen Versprechen (kostenfreie Bildung, Mietdeckel, Kita-Garantie) stark angesprochen, da diese direkt ihre Existenzängste lindern. Gleichzeitig hegt sie tiefes Misstrauen gegenüber ökologischen Maßnahmen (Landwirtschaft, Verkehr, Sanierung), die sie als potenzielle Kostentreiber wahrnimmt, die ihren ohnehin prekären Haushalt gefährden könnten.",
+    "score": 1
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:13:59.960Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39820,
+    "output_tokens": 9351,
+    "cached_tokens": 37888,
+    "total_tokens": 49171,
+    "dauer_ms": 170599,
+    "usd": 0.07543825
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich ein Senioren-Check!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung eines freiwilligen Senioren-Checks ab 65, um Einschränkungen früh zu erkennen und Prävention einzuleiten.",
+      "seite": 10,
+      "zitat": "Ein freiwilliger „Senioren-Check“ ab dem 65. Lebensjahr soll helfen, Einschränkungen frühzeitig zu erkennen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter schätzen konkrete, niedrigschwellige Angebote, die ihnen helfen, ihre Gesundheit im Blick zu behalten und länger selbstständig zu bleiben.",
+      "begruendung_selbst": "Wenn man älter wird, ist man froh über jeden Arzt, der mal genau hinschaut, bevor es zu spät ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Hausarzt bleibt!",
+      "thema": "gesundheit",
+      "programmpunkt": "Fortführung der Landarztquote, um die medizinische Versorgung im ländlichen Raum zu sichern.",
+      "seite": 10,
+      "zitat": "Landarzt-, Amtsarzt- und Landzahnarztquote werden fortgeführt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Sorge vor dem Wegfall des Hausarztes im Dorf ist groß; die Quote gibt ihnen Hoffnung auf Erhalt der lokalen Infrastruktur.",
+      "begruendung_selbst": "Ohne unseren Hausarzt hier im Ort wären wir aufgeschmissen. Gut, dass die Politik das sichert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Günstiger Bus und Bahn!",
+      "thema": "verkehr",
+      "programmpunkt": "Förderung des Deutschlandticket-Abonnements für Senioren mit ca. 20 Euro im Monat.",
+      "seite": 26,
+      "zitat": "...das Abonnement des Deutschlandtickets für Senioren mit ca. 20 Euro/Monat fördern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn sie noch Auto fahren, wissen sie, dass das irgendwann endet. Ein günstiges Ticket bietet Sicherheit für die Zeit danach.",
+      "begruendung_selbst": "Irgendwann trauen wir uns nicht mehr ans Steuer. Da ist es beruhigend, wenn die Bahnfahrt nicht so teuer ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wärme darf nicht unbezahlbar werden!",
+      "thema": "energie",
+      "programmpunkt": "Bekenntnis dazu, dass die klimafreundliche Wärmeversorgung für private Haushalte nicht zu einer untragbaren finanziellen Belastung werden darf.",
+      "seite": 27,
+      "zitat": "Die klimafreundliche Wärmeversorgung darf keine zweite Miete werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Angst vor explodierenden Heizkosten und Sanierungspflichten ist ihr größter finanzieller Albtraum. Diese Aussage nimmt ihnen etwas die Sorge.",
+      "begruendung_selbst": "Wir haben unser Leben lang gespart. Wenn jetzt die Heizung das ganze Geld frisst, wovon sollen wir leben?",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Angst vor dem Klimaschutzgesetz!",
+      "thema": "klima",
+      "programmpunkt": "Ein Klimaschutzgesetz soll verbindliche Reduktionspfade festlegen, was von Eigenheimbesitzern oft als Vorstufe zu Zwangssanierungen wahrgenommen wird.",
+      "seite": 15,
+      "zitat": "Ein Klimaschutzgesetz schafft Verbindlichkeit und Überprüfbarkeit der Ziele...",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für das Rentnerpaar klingt 'Verbindlichkeit' nach staatlichem Zwang und neuen Sanierungspflichten, die sie sich mit ihrer kleinen Rente nicht leisten können.",
+      "begruendung_selbst": "Verbindlichkeit heißt doch nur, dass wir am Ende das Dach dämmen müssen. Von welchem Geld eigentlich?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Finger weg von unserem Haus!",
+      "thema": "steuern",
+      "programmpunkt": "Forderung nach Wiedereinführung einer wirksamen Vermögensteuer auf Bundesebene.",
+      "seite": 35,
+      "zitat": "Wir setzen uns im Bundesrat ein für die Wiedereinführung einer wirksamen Vermögensteuer...",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ihr einziges Vermögen ist das abbezahlte Haus. Jede Diskussion über Vermögenssteuern weckt die Angst, im Alter noch zur Kasse gebeten zu werden.",
+      "begruendung_selbst": "Wir haben das Haus mit unseren eigenen Händen abbezahlt. Jetzt soll der Staat uns dafür noch mal schröpfen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wir brauchen das Auto!",
+      "thema": "verkehr",
+      "programmpunkt": "Ausbau des Radverkehrsnetzes und feste Quoten für Radwege, während für Senioren auf dem Land das Auto überlebenswichtig bleibt.",
+      "seite": 26,
+      "zitat": "Ein landesweites, geschlossenes Radverkehrsnetz wird ausgebaut",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auf dem Dorf sind sie auf das Auto angewiesen. Investitionen in Radwege empfinden sie als Stadtpolitik, die an ihren Realitäten vorbeigeht.",
+      "begruendung_selbst": "Hier auf dem Land fährt kein Mensch mit dem Rad zum Einkaufen. Kümmert euch lieber um die Schlaglöcher!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Und wer kümmert sich um uns?",
+      "thema": "integration",
+      "programmpunkt": "Betonung der Notwendigkeit von Zuwanderung und Ausbau der Willkommenskultur für Fachkräfte.",
+      "seite": 8,
+      "zitat": "Der Fach- und Arbeitskräftemangel macht deutlich: Sachsen-Anhalt ist auf Zuwanderung angewiesen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sie haben das Gefühl, dass die Politik mehr Energie in die Integration von Zuwanderern steckt als in die Versorgung der einheimischen Senioren.",
+      "begruendung_selbst": "Für die neuen Fachkräfte wird alles gemacht, aber wenn wir einen Pflegedienst brauchen, kommt keiner mehr raus aufs Dorf.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter erkennen die Bemühungen der SPD um die ländliche Gesundheitsversorgung und den Schutz vor unbezahlbaren Heizkosten an. Gleichzeitig wecken die Forderungen nach Klimaschutzgesetzen und Vermögenssteuern tiefe Existenzängste bezüglich ihres Eigenheims. Die starke Fokussierung auf Radwege und Zuwanderung verstärkt ihr Gefühl, als ländliche Senioren vergessen zu werden.",
+    "score": -1
+  }
+}

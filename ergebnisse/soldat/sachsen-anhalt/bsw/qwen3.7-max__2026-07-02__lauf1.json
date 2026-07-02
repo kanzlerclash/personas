@@ -1,0 +1,89 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:21:37.798Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66028,
+    "output_tokens": 5850,
+    "cached_tokens": 59008,
+    "total_tokens": 71878,
+    "dauer_ms": 107839,
+    "usd": 0.062317
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich realistischer Zivilschutz!",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm fordert, den Schutz der Zivilbevölkerung im Krisenfall staatlich zu organisieren und nicht der individuellen Vorsorge zu überlassen.",
+      "seite": 69,
+      "zitat": "Der Schutz der Zivilbevölkerung darf nicht dem Zufall oder der individuellen Vorsorge überlassen bleiben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan ärgert sich seit Jahren über die naive Ignoranz gegenüber der realen Bedrohungslage. Dass eine Partei endlich die zivile Verteidigungsfähigkeit und den Schutz der Bevölkerung ernst nimmt, deckt sich mit seinem umfassenden Sicherheitsverständnis.",
+      "begruendung_selbst": "Abschreckung funktioniert nur, wenn auch die Heimat resilient ist. Gut, dass hier jemand den Ernst der Lage beim Zivilschutz verstanden hat.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "NATO-Drehscheibe ist kein Feindbild!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das BSW lehnt es ab, dass Sachsen-Anhalt im Ernstfall als Logistikdrehscheibe für NATO-Operationen genutzt wird, und fordert einen Stopp der Erweiterung von Truppenübungsplätzen.",
+      "seite": 9,
+      "zitat": "Wir lehnen jede weitere militärische Erweiterung von Truppenübungsplätzen in Sachsen-Anhalt ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt an der Ostflanke täglich, wie essenziell die Verlegung von Truppen und Material für die Abschreckung ist. Übungsplätze sind für die Einsatzbereitschaft unverzichtbar und keine Umweltfrevel.",
+      "begruendung_selbst": "Ohne Übungsplätze und NATO-Logistik sind wir im Ernstfall blind und lahm. Das ist Sabotage an unserer Einsatzbereitschaft!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausrüstung ist kein 'Kriegskredit'!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei stellt sich gegen das Sondervermögen und zusätzliche Verteidigungsbudgets, die sie als 'Kriegskredite' bezeichnet, und fordert stattdessen Investitionen in zivile Bereiche.",
+      "seite": 8,
+      "zitat": "Nein zu diesen Kriegskrediten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan sind diese Gelder kein 'Kriegstreiben', sondern die überfällige Reparatur eines kaputtgesparten Systems. Er braucht funktionierendes Material, um seinen Auftrag und sein Überleben zu sichern.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Ich brauche Ausrüstung, die funktioniert, und keine ideologischen Sparfantasien.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verhandeln mit dem Aggressor?",
+      "thema": "sicherheit",
+      "programmpunkt": "Das BSW fordert, wieder Gas aus Russland zu beziehen und dafür Verhandlungen zu führen, da die aktuelle Politik der Wirtschaft schade.",
+      "seite": 17,
+      "zitat": "Dazu müssen auch Gespräche mit Russland geführt werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Soldat an der Ostflanke sieht Stefan Russland als primäre Bedrohung für die europäische Sicherheit. Energie-Deals mit dem Aggressor untergraben aus seiner Sicht die Bündnissolidarität und die eigene Sicherheit.",
+      "begruendung_selbst": "Wir stehen an der Ostflanke dem Gegner gegenüber, und die Politik will ihm auch noch die Kriegskasse füllen? Das ist ein Schlag ins Gesicht der Bündnistreue.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wir brauchen Nachwuchs, keine Ausgrenzung!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei fordert ein Verbot von Bundeswehrwerbung an Schulen und Bildungseinrichtungen, um Jugendliche nicht in militärische Laufbahnen zu drängen.",
+      "seite": 9,
+      "zitat": "Nein zu Bundeswehrwerbung an Schulen und Bildungseinrichtungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan weiß, wie schwer es ist, qualifizierten Nachwuchs für die Truppe zu finden. Die Ausgrenzung der Bundeswehr aus dem öffentlichen Raum empfindet er als mangelnde Wertschätzung und Gefahr für die Zukunft der Armee.",
+      "begruendung_selbst": "Wenn wir als Armee in den Schulen nicht mehr sichtbar sein dürfen, wie sollen wir dann noch die Besten für unseren Auftrag gewinnen?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Stefan als Berufssoldaten an der Ostflanke ist das Programm des BSW in den Kernfragen der Sicherheits- und Verteidigungspolitik ein einziger Affront. Die Ablehnung von NATO-Logistik, Truppenübungsplätzen und notwendiger Ausrüstungsfinanzierung sowie die Forderung nach Gas-Deals mit Russland untergraben aus seiner Sicht Bündnistreue und Einsatzbereitschaft. Einzig der realistische Blick auf den Zivilschutz bietet einen kleinen Lichtblick in einem ansonsten für ihn völlig untragbaren sicherheitspolitischen Entwurf.",
+    "score": -2
+  }
+}

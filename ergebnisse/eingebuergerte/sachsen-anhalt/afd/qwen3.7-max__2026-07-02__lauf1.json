@@ -1,0 +1,100 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:49:15.080Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76952,
+    "output_tokens": 8377,
+    "cached_tokens": 73856,
+    "total_tokens": 85329,
+    "dauer_ms": 153176,
+    "usd": 0.0791915
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Demütigende Gesinnungsprüfungen!",
+      "thema": "integration",
+      "programmpunkt": "Einbürgerungstests sollen durch einen 'Besinnungsaufsatz' ersetzt werden, der den Willen zur Anpassung und Respekt vor dem Staat beweist.",
+      "seite": 6,
+      "zitat": "Der Test soll künftig nicht mehr aus multiple-choice-Fragen bestehen, sondern aus einem Besinnungsaufsatz",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin empfindet die Forderung nach einem 'Besinnungsaufsatz' als demütigende Hürde, die ihre Zugehörigkeit und ihren Status als gleichberechtigte Bürgerin infrage stellt.",
+      "begruendung_selbst": "Ich bin hier geboren, arbeite hier im öffentlichen Dienst – und muss jetzt in einem Aufsatz beweisen, dass ich 'Respekt' vor diesem Staat habe? Das ist pure Schikane.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Remigration ist ein Angriff!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei fordert eine 'Verabschiedungskultur' für Migranten und streicht Programme zur Willkommenskultur.",
+      "seite": 5,
+      "zitat": "Sachsen-Anhalt braucht eine Verabschiedungskultur für illegale Zuwanderer",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die aggressive Rhetorik einer 'Verabschiedungskultur' und 'Remigration' löst bei Aylin tiefe Existenzängste aus, da sie sich und ihre Community pauschal als unerwünscht gebrandmarkt sieht.",
+      "begruendung_selbst": "Wenn Politiker von 'Verabschiedungskultur' und 'Remigration' schwadronieren, fragen sie sich nicht, was das mit Menschen wie mir macht. Ich soll mich hier verabschieden? Das ist mein Zuhause!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Arbeit ist kein 'Ungeist'!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Verwaltung soll von einer angeblichen 'Regenbogendoktrin' gesäubert werden, Beamte werden pauschal als 'Umerzieher' diffamiert.",
+      "seite": 17,
+      "zitat": "Immer häufiger werden amtliche Entscheidungen von der Regenbogendoktrin geprägt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Angestellte in der Stadtverwaltung fühlt sich Aylin durch die pauschale Verunglimpfung ihrer Arbeit als 'ideologisiert' in ihrer beruflichen Integrität verletzt.",
+      "begruendung_selbst": "Ich mache jeden Tag meinen Job in der Verwaltung, sachlich und für alle Bürger. Dass meine Arbeit jetzt als 'Regenbogendoktrin' und 'Umerziehung' diffamiert wird, ist ein Schlag ins Gesicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Community ist nicht 'archaisch'",
+      "thema": "integration",
+      "programmpunkt": "Der Islam wird als 'kulturfremd' und 'archaisch' bezeichnet, Minarette und Muezzinrufe sollen verboten werden.",
+      "seite": 6,
+      "zitat": "Der Islam gehört weder zu Deutschland noch zu Sachsen-Anhalt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die pauschale Ausgrenzung des Islams und die Leugnung seines Platzes in der Gesellschaft widersprechen Aylins Wunsch nach einer pluralistischen Gesellschaft, in der ihre Herkunftskultur respektiert wird.",
+      "begruendung_selbst": "Zu sagen, eine ganze Religion sei 'archaisch' und gehöre nicht hierher, vergiftet das Klima. Das trifft meine Familie und viele meiner Freunde direkt ins Herz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zwangsarbeit ist menschenverachtend!",
+      "thema": "integration",
+      "programmpunkt": "Asylbewerber sollen verpflichtend zu Arbeiten wie der Aufforstung herangezogen werden.",
+      "seite": 14,
+      "zitat": "Asylbewerber im Rahmen rechtlich zulässiger Arbeitsgelegenheiten bei Aufforstungs- und Waldpflegearbeiten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin, die an Rechtsstaat und Menschenwürde glaubt, ist entsetzt über die Forderung nach verpflichtender Arbeit für Schutzsuchende, was sie an dunkle historische Praktiken erinnert.",
+      "begruendung_selbst": "Menschen, die Schutz suchen, zu verpflichtenden Arbeiten im Wald heranzuziehen? Das hat mit einem modernen Rechtsstaat und Menschenwürde absolut nichts mehr zu tun.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Identität ist kein Verbrechen",
+      "thema": "integration",
+      "programmpunkt": "Schwerkriminellen mit doppelter Staatsbürgerschaft soll die deutsche Staatsangehörigkeit entzogen werden.",
+      "seite": 5,
+      "zitat": "Aberkennung der deutschen Staatsbürgerschaft bei schwerkriminellen Doppelstaatsbürgern zum Regelfall",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Fokussierung auf die Aberkennung der Staatsbürgerschaft bei Menschen mit Migrationsgeschichte empfindet Aylin als Stigmatisierung, die ihre eigene Zugehörigkeit zum Land als widerruflich darstellt.",
+      "begruendung_selbst": "Warum wird bei Menschen mit zwei Pässen immer so getan, als wäre ihre Staatsbürgerschaft nur ein Gastgeschenk, das man ihnen bei Fehlverhalten wieder wegnehmen kann? Ich bin Deutsche.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der AfD ist für Aylin in fast allen Aspekten zutiefst abschreckend. Die aggressive Rhetorik rund um 'Remigration', die geplanten Verschärfungen des Staatsbürgerschaftsrechts und die pauschale Abwertung ihrer Arbeit im öffentlichen Dienst als 'Ideologisierung' greifen ihre Existenz und ihr Zugehörigkeitsgefühl direkt an. Für sie als liberal-demokratische Bürgerin mit Migrationsgeschichte bietet das Programm keinerlei Anknüpfungspunkte, sondern nur Ausgrenzung und Stigmatisierung.",
+    "score": -2
+  }
+}

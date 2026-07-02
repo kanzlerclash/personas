@@ -1,0 +1,125 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:19:07.284Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76919,
+    "output_tokens": 8662,
+    "cached_tokens": 73856,
+    "total_tokens": 85581,
+    "dauer_ms": 159160,
+    "usd": 0.079784
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich keine Sanierungspflichten mehr!",
+      "thema": "energie",
+      "programmpunkt": "Das Gebäudeenergiegesetz und die Wärmeplanung sollen abgeschafft werden, um Hauseigentümer vor staatlichem Zwang zu teuren Sanierungen zu schützen.",
+      "seite": 13,
+      "zitat": "Wärmeplanungs- und Gebäudeenergiegesetz abschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten sich vor den finanziellen Folgen energetischer Sanierungspflichten für ihr Haus aus den 80ern. Die Abschaffung des GEG nimmt ihnen die größte existenzielle Sorge bezüglich ihres Wohneigentums.",
+      "begruendung_selbst": "Wir haben unser Leben lang für das Haus geschuftet. Wenn die uns jetzt zwingen, das Dach zu dämmen, müssen wir es verkaufen. Dass dieser Zwang weg soll, ist unsere größte Erleichterung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heizen und Fahren wird billiger!",
+      "thema": "energie",
+      "programmpunkt": "Die CO2-Abgabe soll gestrichen werden, um die Mehrkosten für Heizöl, Gas und Kraftstoffe für die Verbraucher zu senken.",
+      "seite": 13,
+      "zitat": "Verbraucher entlasten – CO₂-Steuer abschaffen!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Rentner mit kleiner Rente und eigenem Haus spüren sie jeden Cent bei den Heiz- und Mobilitätskosten. Die Streichung der CO2-Steuer entlastet ihr knappes Budget direkt.",
+      "begruendung_selbst": "Jeden Winter zittern wir vor der Heizkostenabrechnung und überlegen uns jeden Liter Öl. Wenn diese Klima-Abgabe wegfällt, bleibt uns wenigstens wieder etwas mehr von unserer Rente für den Alltag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mobilität für uns Rentner!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Der ländliche Raum soll durch Dorfläden und Bürgerbus-Projekte gestärkt werden, damit Senioren mobil bleiben und am sozialen Leben teilhaben können.",
+      "seite": 15,
+      "zitat": "Bürgerbus-Projekte, damit auch Rentner den Arzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Infrastruktur auf dem Dorf schwindet, und das Paar ist auf das Auto oder Alternativen angewiesen, um zum Arzt oder Einkaufen zu kommen. Bürgerbusse sichern ihre Teilhabe.",
+      "begruendung_selbst": "Wenn wir nicht mehr selbst fahren können, sind wir hier auf dem Dorf völlig abgehängt. Ein Bürgerbus, der uns zum Arzt oder zum Einkaufen bringt, ist für uns überlebenswichtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich wieder ein Arzt vor Ort!",
+      "thema": "gesundheit",
+      "programmpunkt": "Durch ein Stipendienprogramm sollen Medizinstudenten verpflichtet werden, nach dem Studium als Landärzte in Sachsen-Anhalt zu praktizieren.",
+      "seite": 20,
+      "zitat": "Mehr Ärzte aufs Land!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Sorge, dass ihr Hausarzt in den Ruhestand geht und kein Nachfolger kommt, ist groß. Das Programm adressiert direkt ihre Angst vor medizinischer Unterversorgung im Alter.",
+      "begruendung_selbst": "Unser Hausarzt macht auch nicht mehr ewig. Wenn der aufhört, müssen wir kilometerweit fahren. Dass jetzt junge Ärzte aufs Land gelockt werden sollen, gibt uns etwas Hoffnung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Angst mehr vor Pflegekosten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Eigenanteile an der stationären Pflege sollen begrenzt und die häusliche Pflege durch ein Landespflegegeld sowie steuerliche Entlastungen gestärkt werden.",
+      "seite": 20,
+      "zitat": "Pflege zuhause fördern – Familienzusammenhalt stärken!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Angst, durch Pflegekosten das abbezahlte Haus zu verlieren oder den Kindern zur Last zu fallen, belastet das Paar. Die Deckelung der Kosten und Förderung der häuslichen Pflege trifft ihren Kernwunsch.",
+      "begruendung_selbst": "Wir haben ein Leben lang für unser Häuschen geschuftet. Wenn einer von uns ins Heim muss, frisst das die ganze Rente und das Erbe der Kinder. Da muss der Staat endlich gegensteuern.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Parkplätze für Gehbehinderte gestrichen?",
+      "thema": "verkehr",
+      "programmpunkt": "Die Auslastung von Behindertenparkplätzen soll überprüft und bei vermeintlichen Überkapazitäten sollen diese reduziert werden.",
+      "seite": 16,
+      "zitat": "Behindertenparkplätze nach Bedarf!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Im Alter nehmen Mobilitätseinschränkungen zu. Helga und Dieter oder ihre Bekannten sind zunehmend auf diese Parkplätze angewiesen, um überhaupt noch einkaufen oder zum Arzt gehen zu können.",
+      "begruendung_selbst": "Man ist im Alter froh um jeden Schritt, den man sich sparen kann. Wenn die jetzt die Behindertenparkplätze zusammenstreichen, nur weil mal einer frei ist, ist das ein Schlag ins Gesicht für uns Alte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Hilfe bei neuer Heizung!",
+      "thema": "energie",
+      "programmpunkt": "Jegliche Fördermittel und Programme für Wärmepumpen und energetische Sanierungen sollen ersatzlos gestrichen werden.",
+      "seite": 13,
+      "zitat": "Förderung von Wärmepumpen beenden!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn sie Zwänge ablehnen, sind sie bei einem Defekt ihrer alten Heizung auf finanzielle Unterstützung angewiesen. Der komplette Wegfall von Förderungen lässt sie im Ernstfall auf den hohen Kosten sitzen.",
+      "begruendung_selbst": "Wir wollen keinen Zwang, das ist richtig. Aber wenn unsere alte Heizung im Winter den Geist aufgibt, brauchen wir vielleicht doch einen Zuschuss für etwas Neues. Ganz ohne Hilfe stehen wir im Regen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sparwut trifft unser Dorf!",
+      "thema": "demokratie",
+      "programmpunkt": "Pauschale Kürzungen in der Verwaltung und bei Ausgaben sollen durchgesetzt werden, was auch kommunale Einrichtungen und Seniorenbetreuung treffen könnte.",
+      "seite": 17,
+      "zitat": "Ausgaben in Ministerien und Verwaltung kürzen!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Pauschale Kürzungen von 10 Prozent in der Verwaltung und bei Landesgesellschaften gefährden aus ihrer Sicht die ohnehin fragile Daseinsvorsorge und soziale Treffpunkte im ländlichen Raum.",
+      "begruendung_selbst": "Wenn die überall pauschal 10 Prozent streichen, trifft das am Ende doch die Bücherei, den Seniorentreff oder das Schwimmbad bei uns im Ort. Das können wir uns nicht leisten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm adressiert die größten Existenzängste des Rentnerpaars – insbesondere Sanierungspflichten, CO2-Kosten und die drohende Pflegebedürftigkeit – mit passgenauen, entlastenden Versprechen. Gleichzeitig sorgen radikale Streichungen bei Fördermitteln und pauschale Verwaltungskürzungen für Unsicherheit, da diese im Ernstfall oder für die lokale Infrastruktur wichtige Auffangnetze darstellen.",
+    "score": 1
+  }
+}

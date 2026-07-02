@@ -1,0 +1,113 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:51:27.953Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76915,
+    "output_tokens": 7197,
+    "cached_tokens": 73856,
+    "total_tokens": 84112,
+    "dauer_ms": 132869,
+    "usd": 0.0688965
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kohle bleibt, bis das Netz steht",
+      "thema": "energie",
+      "programmpunkt": "Der Kohleausstieg soll gestoppt und der Kohlestandort Sachsen-Anhalt auch über das Jahr 2038 hinaus erhalten bleiben, um Grundlast und Netzstabilität zu sichern.",
+      "seite": 13,
+      "zitat": "auf den Erhalt des Kohlestandorts Sachsen-Anhalt auch über das Jahr 2038 hinaus hinwirken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sorgt sich um starre Ausstiegsdaten, die seine Region und seinen Job bedrohen, bevor ein tragfähiger Ersatz steht. Das Festhalten an der Kohle als Grundlastgarant gibt ihm kurzfristig die gewünschte Planungssicherheit für seinen Arbeitsplatz.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass wir die Kohle nicht einfach abschalten können, bevor das Netz nicht steht. Das sichert mir und meinen Kollegen erstmal den Job.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gas ist die unverzichtbare Brücke",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert den Bau neuer Gaskraftwerke, um Strompreise zu senken, Netzstabilität zu gewährleisten und Abwärme für die Wärmeversorgung zu nutzen.",
+      "seite": 13,
+      "zitat": "Eine AfD-geführte Landesregierung wird sich für den Bau neuer Gaskraftwerke einsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Energiewirtschaftler weiß Ronny, dass Gas als Brückentechnologie und für die Netzstabilität unverzichtbar ist. Die Forderung nach neuen, effizienten Gaskraftwerken deckt sich mit seinem Pragmatismus und dem Bedarf an grundlastfähiger Ergänzung.",
+      "begruendung_selbst": "Gas ist die Brücke, die wir brauchen. Ohne grundlastfähige Gaskraftwerke reißt uns das Netz um die Ohren, wenn der Wind mal nicht weht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Billiger Strom rettet unsere Industrie",
+      "thema": "wirtschaft",
+      "programmpunkt": "Durch eine Bundesratsinitiative sollen Stromsteuern gesenkt und Energieimporte wiederaufgenommen werden, um die Deindustrialisierung zu stoppen und Arbeitsplätze zu sichern.",
+      "seite": 13,
+      "zitat": "Diese Maßnahmen sollen dazu beitragen, die Deindustrialisierung sowie den Arbeitsplatzabbau im Land zu stoppen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny beobachtet mit Sorge, wie hohe Energiepreise die lokale Industrie und damit die regionale Wertschöpfung zerstören. Der Fokus auf bezahlbare Energie als Standortfaktor spricht seine Hoffnung auf den Erhalt industrieller Kerne in der Region an.",
+      "begruendung_selbst": "Wenn der Strom unbezahlbar bleibt, wandert die Industrie ab und hier bleiben nur noch Ruinen. Wir brauchen wieder Preise, mit denen das Werk vor Ort arbeiten kann.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wasserstoff ist unsere Zukunftsperspektive",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Landesregierung will die Wasserstoffstrategie beenden, Mitgliedschaften in Initiativen kündigen und Förderprogramme für Wasserstoffnetze und -projekte streichen.",
+      "seite": 13,
+      "zitat": "die auf klimaideologischen und planwirtschaftlichen Grundsätzen basierende Wasserstoffstrategie umgehend beenden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Ronnys Region ist Wasserstoff eine der wichtigsten Zukunftstechnologien und ein zentraler Baustein für den Strukturwandel und neue Industriearbeitsplätze. Die pauschale Streichung dieser Förderungen zerstört aus seiner Sicht aktiv die Zukunftsperspektive seiner Heimat.",
+      "begruendung_selbst": "Wasserstoff ist doch genau das, was wir hier brauchen, um die Region fit für die Zukunft zu machen! Wenn die das jetzt streichen, beerdigen sie unsere neuen Jobs, bevor sie überhaupt entstehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erneuerbare brauchen Planung, keine Verbote",
+      "thema": "energie",
+      "programmpunkt": "Sämtliche Subventionen für erneuerbare Energien sollen gestrichen und der Einspeisevorrang beendet werden, damit sich diese dem freien Markt stellen.",
+      "seite": 13,
+      "zitat": "Eine AfD-geführte Landesregierung wird diese Subventionen unter Wahrung des Bestandsschutzes ausnahmslos streichen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny ist technologieoffen und weiß, dass ein modernes Energiesystem einen Mix aus verschiedenen Quellen braucht. Ein radikaler Förderstopp gefährdet Investitionen in die regionale Energieinfrastruktur und bremst die notwendige Modernisierung des Gesamtsystems.",
+      "begruendung_selbst": "Ich bin doch kein Ideologe, ich bin Ingenieur. Wir brauchen alle Technologien im Mix. Den Erneuerbaren jetzt den Stecker zu ziehen, bringt uns netztechnisch und wirtschaftlich völlig ins Hintertreffen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Technologieoffenheit statt pauschaler Baustopps",
+      "thema": "energie",
+      "programmpunkt": "Es soll ein Moratorium für neue Windräder geben und der Bau von Solarparks auf Ackerland und Kulturlandschaften untersagt werden.",
+      "seite": 13,
+      "zitat": "Deshalb wird eine AfD-geführte Landesregierung ein Windkraftmoratorium beschließen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Pragmatiker, der auf Versorgungssicherheit und Technologieoffenheit setzt, lehnt Ronny pauschale Verbote einzelner Energieträger ab. Ein kompletter Baustopp blockiert den notwendigen Zubau von Kapazitäten, der für ein stabiles Gesamtsystem und regionale Wertschöpfung nötig ist.",
+      "begruendung_selbst": "Ein Moratorium ist doch nur ein anderes Wort für Stillstand. Wir können nicht das ganze Land abdunkeln und dann erwarten, dass die Netze stabil bleiben. Man muss die Dinger eben vernünftig planen, nicht pauschal verbieten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strukturwandel braucht internationale Rahmen",
+      "thema": "klima",
+      "programmpunkt": "Die Partei fordert den Austritt aus dem Pariser Klimaabkommen, die Kündigung des EU Green Deals und die Abschaffung des Bundes-Klimaschutzgesetzes.",
+      "seite": 13,
+      "zitat": "Austritt Deutschlands aus dem Pariser Klimaabkommen, die Kündigung des Europäischen Green Deal",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny teilt zwar die Kritik an unrealistischem Tempo, aber er weiß, dass die deutsche Exportindustrie und auch Fördergelder für den Strukturwandel an diese Rahmenwerke geknüpft sind. Eine komplette Aufkündigung isoliert die Wirtschaft und gefährdet die Finanzierung des Wandels in seiner Region.",
+      "begruendung_selbst": "Wir müssen das Tempo und die Technologieoffenheit anpassen, klar. Aber einfach alles hinzuschmeißen und uns international ins Aus zu schießen, ruiniert doch unsere Exportwirtschaft – und wer zahlt dann hier den Strukturwandel?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny begrüßt das Festhalten an Kohle und Gas als notwendige Grundlast-Brücke für die Netzstabilität und den Schutz der regionalen Industrie. Die pauschale Ablehnung von Wasserstoff, Erneuerbaren und internationalen Klimarahmenwerken zerstört aus seiner Sicht jedoch aktiv die Zukunftsperspektiven und den technologieoffenen Strukturwandel seiner Heimat.",
+    "score": -1
+  }
+}

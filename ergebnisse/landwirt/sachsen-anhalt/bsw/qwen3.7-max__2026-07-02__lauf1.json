@@ -1,0 +1,149 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:08:03.514Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66110,
+    "output_tokens": 8688,
+    "cached_tokens": 59008,
+    "total_tokens": 74798,
+    "dauer_ms": 159762,
+    "usd": 0.078912
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich entscheidet wieder der Bauer!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei fordert, dass Entscheidungen über Fruchtfolge und Erntezeitpunkte allein beim Landwirt liegen sollen und dogmatische Vorgaben abgelehnt werden.",
+      "seite": 80,
+      "zitat": "Die Entscheidung über Fruchtfolge und den Zeitpunkt der Zwischenfruchternte muss allein beim",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich durch ständige behördliche Vorgaben in seiner unternehmerischen Freiheit und fachlichen Kompetenz eingeschränkt. Die Forderung nach Eigenverantwortung statt Gängelung entspricht genau seinem Selbstverständnis als praktizierender Landwirt.",
+      "begruendung_selbst": "Ich weiß selbst am besten, wann mein Boden was braucht. Da brauch ich keinen Beamten, der mir nach Kalender vorschreibt, wann ich ernten darf!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Wolf gehört ins Jagdrecht!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Programm fordert die zügige Aufnahme des Wolfes in das Landesjagdrecht, um Wildbestände und Weidetierhaltung besser managen zu können.",
+      "seite": 82,
+      "zitat": "Aufnahme des Wolfes in das Jagdrecht soll zügig im Landesjagdgesetz umgesetzt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Halter einer Mutterkuhherde erlebt Frank den Wolf als direkte Bedrohung für seine Tiere und seine Weidewirtschaft. Die Aufnahme ins Jagdrecht ist für ihn eine überfällige Maßnahme zum Schutz seiner Existenz.",
+      "begruendung_selbst": "Wenn der Wolf meine Kälber reißt, hilft mir kein Herdenschutzzaun mehr. Der muss endlich regulär bejagt werden dürfen, sonst gebe ich die Weidehaltung bald ganz auf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Solarparks auf meinem Acker!",
+      "thema": "energie",
+      "programmpunkt": "Neue Photovoltaikanlagen sollen vorrangig auf Dächern und versiegelten Flächen errichtet werden, nicht auf Ackerland oder im Wald.",
+      "seite": 24,
+      "zitat": "Neue Photovoltaikanlagen gehören auf Dächer, Parkplatzüberdachungen und bereits versiegelte Flächen – nicht auf Ackerland",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank ärgert sich über den Flächenfraß durch Investoren, die Ackerland für Solarparks pachten und damit die Preise für landwirtschaftliche Flächen in die Höhe treiben. Der Schutz des Ackerbodens für die Nahrungsmittelproduktion ist ihm heilig.",
+      "begruendung_selbst": "Unsere besten Böden sind für Lebensmittel da, nicht für Investoren-Renditen. Sollen sie die Hallendächer in den Gewerbegebieten vollpacken, aber meine Scholle bleibt Ackerland!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weg mit der CO2-Steuer!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei will die nationale CO2-Bepreisung aussetzen oder abschaffen, da sie Bürger und Betriebe einseitig belastet.",
+      "seite": 27,
+      "zitat": "Daher fordern wir, diese ungerechte Steuer auszusetzen oder abzuschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Frank bedeutet die CO2-Abgabe direkt höhere Kosten für Diesel, Trocknung und Dünger, ohne dass er ausweichen kann. Die Abschaffung entlastet seinen Betrieb sofort und spürbar.",
+      "begruendung_selbst": "Der Traktor fährt nun mal mit Diesel, und der Getreidetrockner braucht Energie. Diese Klima-Abgabe frisst mir die eh schon knappe Marge komplett auf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hilfe beim Fördermittel-Wahnsinn!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Landeseigene Kompetenzstellen sollen Landwirte bei der Antragstellung und Bürokratie beraten und unterstützen.",
+      "seite": 20,
+      "zitat": "Einrichtung von landeseigenen Kompetenzstellen erzielt werden, welche die Landwirte vor Ort beratend unterstützen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank verbringt Abende und Wochenenden mit dem Ausfüllen komplexer Förderanträge und Cross-Compliance-Listen. Eine praktische Unterstützung vor Ort wäre für ihn eine enorme Entlastung im Betriebsalltag.",
+      "begruendung_selbst": "Ich bin Landwirt, kein Sachbearbeiter. Wenn mir jemand bei diesem EU-Förder-Wahnsinn den Papierkram abnimmt, könnte ich endlich wieder mehr Zeit auf dem Feld verbringen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Lithium-Bohrungen ruinieren meine Heimat!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei sieht die Lithiumvorkommen in der Altmark als strategische Chance und will die Förderung in öffentlicher Hand ausbauen.",
+      "seite": 28,
+      "zitat": "Die großen Lithiumvorkommen in der Altmark bieten eine strategische Chance für Sachsen-Anhalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank lebt und wirtschaftet in der Altmark. Die Aussicht auf großflächige industrielle Lithiumförderung mit möglichen Auswirkungen auf den Wasserhaushalt und die Infrastruktur in seiner direkten Nachbarschaft versetzt ihn in Alarmstimmung.",
+      "begruendung_selbst": "Ausgerechnet hier bei uns in der Altmark sollen sie den Boden aufreißen? Wer garantiert mir denn, dass mir bei dem ganzen Pumpen nicht das Grundwasser für die Beregnung wegbleibt?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "15 Euro Mindestlohn ruiniert Ernten!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert einen gesetzlichen Mindestlohn von 15 Euro ohne jegliche Sonderregelungen oder Ausnahmen.",
+      "seite": 35,
+      "zitat": "gesetzlichen Mindestlohn von 15,00 Euro pro Stunde. Sonderregelungen müssen aufgehoben werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn Frank vor allem Ackerbau betreibt, braucht er in der Erntezeit oder für spezielle Arbeiten oft Saison- oder Aushilfskräfte. Ein starrer Mindestlohn ohne landwirtschaftliche Sonderregeln macht diese für ihn unbezahlbar.",
+      "begruendung_selbst": "Wenn ich für jeden Erntehelfer 15 Euro plus Sozialabgaben zahlen muss, kann ich das Gemüse oder die Sonderkulturen gleich unterpflügen. Das rechnet sich gegen die Weltmarktpreise nie und nimmer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erbschaftsteuer gefährdet die Hofübergabe!",
+      "thema": "steuern",
+      "programmpunkt": "Das Programm fordert eine Reform der Erbschaft- und Schenkungsteuer, um große Vermögen stärker zu belasten.",
+      "seite": 36,
+      "zitat": "Dringenden Reformbedarf sehen wir auch bei der Erbschaft- und Schenkungsteuer.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank sorgt sich um die Hofnachfolge durch seine Tochter. Da der Wert des Bodens hoch, die Liquidität aber gering ist, fürchtet er, dass eine Verschärfung der Erbschaftsteuer den Betrieb finanziell überfordern und die Übergabe unmöglich machen könnte.",
+      "begruendung_selbst": "Meine Tochter will den Hof übernehmen, aber das Kapital steckt im Boden. Wenn der Staat bei der Übergabe die Hand aufhält und die Verschonungsregeln kippt, müssen wir verkaufen. Das war's dann mit vier Generationen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Moore vernichten meine Anbauflächen!",
+      "thema": "klima",
+      "programmpunkt": "Die Renaturierung von Mooren und Auen soll als CO2-Speicher und Hochwasserschutz vorangetrieben werden.",
+      "seite": 82,
+      "zitat": "Renaturierungen von Mooren und Auen stärken den natürlichen Hochwasserschutz und wirken als CO₂-Speicher.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Frank bedeutet Moorschutz oft die Zwangsstilllegung produktiver Flächen oder den erzwungenen Umbau zu Paludikultur, für die es keine etablierten Märkte oder Maschinen gibt. Er sieht darin eine Enteignung seiner Bewirtschaftungsrechte.",
+      "begruendung_selbst": "Die reden von CO2-Speichern, ich sehe nur, dass sie mir das Wasser abgraben oder meine Flächen unter Wasser setzen. Von Schilfgras kann ich meine Familie und den Bankkredit nicht bezahlen!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stallumbauten zahlen wir selbst!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei fordert strikte tiergerechte Haltungsstandards und gezielte Förderung von Stallumbauten für mehr Platz.",
+      "seite": 86,
+      "zitat": "tiergerechte Haltungsstandards strikt einzuhalten und Stallumbauten mit mehr Platz",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank hat eine Mutterkuhherde. Neue, striktere Haltungsstandards bedeuten für ihn massive Investitionskosten in Stallumbauten, die bei den aktuellen Fleischerzeugerpreisen nicht refinanzierbar sind. Er fürchtet, dass die Förderung nur einen Bruchteil der echten Kosten deckt.",
+      "begruendung_selbst": "Jedes Mal, wenn die Politik mehr Tierwohl ruft, muss ich den Stall aufreißen und neu bauen. Die Förderprogramme decken nie die echten Kosten, und am Ende zahlt der Verbraucher den höheren Preis eh nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank begrüßt die Forderungen nach mehr Eigenverantwortung bei der Fruchtfolge, der Regulierung des Wolfes und dem Schutz von Ackerland vor Solarparks. Gleichzeitig alarmieren ihn die Pläne zur Lithiumförderung in seiner Heimat Altmark, die drohende Verschärfung der Erbschaftsteuer bei der Hofübergabe und starre Mindestlohnregelungen, die seine Betriebskosten unkalkulierbar machen.",
+    "score": -1
+  }
+}

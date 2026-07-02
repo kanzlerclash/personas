@@ -1,0 +1,113 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:14:00.826Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76886,
+    "output_tokens": 7395,
+    "cached_tokens": 73856,
+    "total_tokens": 84281,
+    "dauer_ms": 135914,
+    "usd": 0.07084025
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Keine Profite mit unseren Patienten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die AfD will den Verkauf kommunaler Krankenhäuser an private Konzerne stoppen und bereits privatisierte Häuser gegebenenfalls wieder in öffentliche Hand überführen.",
+      "seite": 20,
+      "zitat": "Der Verkauf kommunaler Krankenhäuser an gewinnorientierte private Klinikkonzerne hat sich als Fehler erwiesen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich, wie Renditedruck zu Lasten der Pflegequalität und des Personals geht. Die Forderung nach Re-Kommunalisierung und Stopp der Privatisierung trifft genau ihre Kritik an der Ökonomisierung des Gesundheitswesens.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass Krankenhäuser für die Patienten da sind und nicht für die Rendite von Konzernen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Doku, mehr Zeit am Patienten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert den Abbau bürokratischer Hürden und Dokumentationspflichten in der Pflege, um mehr Zeit für die direkte Patientenversorgung zu schaffen.",
+      "seite": 20,
+      "zitat": "Weniger Dokumentationspflichten, mehr Zeit für die Pflege am Menschen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die extreme Dokumentationslast ist einer von Kerstins größten Stressfaktoren im Schichtdienst. Die Aussicht auf weniger Bürokratie und mehr Fokus auf die eigentliche Pflegearbeit entspricht exakt ihren beruflichen Hoffnungen.",
+      "begruendung_selbst": "Ich bin doch Pflegerin und keine Schreibkraft! Wenn ich endlich wieder mehr Zeit für meine Patienten hätte, statt nur Formulare auszufüllen, wäre schon viel geholfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Altenpflege braucht eigenes Fachwissen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die generalistische Pflegeausbildung soll abgeschafft und die getrennte Ausbildung in Alten-, Kranken- und Kinderkrankenpflege wiedereingeführt werden.",
+      "seite": 20,
+      "zitat": "Wir werden deshalb zur differenzierten Pflegeausbildung zurückkehren.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht in der Praxis, dass die generalistische Ausbildung oft nicht die nötige Spezialisierung vermittelt. Die Rückkehr zu differenzierten Abschlüssen bestätigt ihre Erfahrung, dass unterschiedliche Patientengruppen spezifisches Fachwissen erfordern.",
+      "begruendung_selbst": "Die Generalistik war ein Fehler. Wer alte Menschen pflegt, braucht anderes Know-how als jemand auf der Kinderstation – das sehen wir jeden Tag.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ohne migrantische Kollegen läuft nichts!",
+      "thema": "integration",
+      "programmpunkt": "Die AfD lehnt die Anwerbung ausländischer Fachkräfte ab, behauptet, diese verschärften den Fachkräftemangel, und will den Fokus auf inländische Kräfte legen.",
+      "seite": 5,
+      "zitat": "Letztlich tragen kulturfremde Fachkräfte sogar zu einer Verschärfung des Fachkräftemangels bei.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstins Station würde ohne ihre ausländischen Kolleginnen und Kollegen sofort zusammenbrechen. Die pauschale Abwertung dieser Fachkräfte und die Forderung, auf sie zu verzichten, bedroht direkt ihre Arbeitsfähigkeit und die Patientenversorgung.",
+      "begruendung_selbst": "Die reden von 'kulturfremd', aber ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht. Wer die abschieben will, gefährdet Menschenleben!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausländische Kollegen sind keine Gefahr!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei lehnt den Einsatz ausländischer Ärzte wegen angeblicher Sprachbarrieren und kultureller Differenzen ab und will stattdessen nur noch inländische Medizinstudenten fördern.",
+      "seite": 20,
+      "zitat": "Die Altparteien haben auf den Ärztemangel nur eine Antwort: Einwanderung.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die pauschale Abwertung ausländischer Mediziner und Pflegekräfte als ungeeignet empört Kerstin zutiefst, da sie täglich erlebt, wie engagiert und kompetent ihre migrantischen Kolleg:innen die Versorgung aufrechterhalten.",
+      "begruendung_selbst": "Es ist eine Frechheit zu behaupten, ausländische Kollegen seien nicht geeignet. Die reißen sich jeden Tag den Arsch für unsere Patienten auf, während die Politik nur zuschaut!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Integration ist doch kein Luxus!",
+      "thema": "integration",
+      "programmpunkt": "Die AfD will die finanziellen Mittel für die Aufnahme, Unterbringung und Integration von Asylbewerbern sowie für Migrationsberatung massiv kürzen.",
+      "seite": 5,
+      "zitat": "Eine AfD-geführte Landesregierung wird der Asyl- und Integrationsindustrie in Sachsen-Anhalt den Geldhahn zudrehen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin weiß, dass Sprach- und Integrationskurse essenziell sind, damit ausländische Pflegekräfte im Team und in der Gesellschaft ankommen. Die Streichung dieser Gelder erschwert die Integration ihrer Kolleg:innen massiv.",
+      "begruendung_selbst": "Wie sollen meine neuen Kollegen aus dem Ausland denn Deutsch lernen und sich integrieren, wenn man genau da das Geld streicht? Das ist doch völlig kontraproduktiv!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sparen auf Kosten der Pflege?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will die Staatsquote radikal senken und den Staat aus der Wirtschaft zurückziehen, was massive Kürzungen im öffentlichen Sektor und bei der Daseinsvorsorge bedeuten könnte.",
+      "seite": 17,
+      "zitat": "Wir streben an, die Staatsquote in Sachsen-Anhalt zu senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Angestellte im kommunalen Gesundheitswesen fürchtet Kerstin, dass eine radikale Senkung der Staatsquote und pauschale Ausgabenkürzungen zu Lasten der Krankenhausfinanzierung und der öffentlichen Infrastruktur gehen.",
+      "begruendung_selbst": "Wenn die die Staatsquote radikal zusammenstreichen, trifft das am Ende uns im öffentlichen Dienst und die Kommunen. Wer soll denn dann die Kliniken finanzieren?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin begrüßt die Ablehnung von Krankenhaus-Privatisierungen und die Forderung nach weniger Pflegedokumentation, da dies ihren Arbeitsalltag direkt entlasten würde. Die pauschale Abwertung und der geplante Ausschluss migrantischer Fachkräfte treffen sie jedoch im Kern, da ihre Station ohne diese Kolleg:innen kollabieren würde. Gepaart mit der Gefahr massiver Kürzungen im öffentlichen Sektor überwiegt für sie die Ablehnung des Programms deutlich.",
+    "score": -1
+  }
+}

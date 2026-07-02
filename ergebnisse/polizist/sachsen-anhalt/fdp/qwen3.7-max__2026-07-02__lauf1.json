@@ -1,0 +1,162 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:19:37.029Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41163,
+    "output_tokens": 9844,
+    "cached_tokens": 39168,
+    "total_tokens": 51007,
+    "dauer_ms": 179812,
+    "usd": 0.07467825
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Personal und Entlastung!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP hält an der Zielmarke von 7.000 Stellen im Polizeivollzugsdienst fest und baut zusätzlich 1.200 Stellen für Verwaltungsmitarbeitende sowie eine eigene Laufbahn als Polizeiverwaltungsassistenten auf, um den Vollzugsdienst von Organisationsaufgaben zu entlasten.",
+      "seite": 52,
+      "zitat": "Stellenaufwuchs auf 7.000 Stellen im Polizeivollzugsdienst konnte fast erreicht werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt täglich, wie Personalmangel und verwaltungsfremde Aufgaben den Streifendienst ausdünnen. Die Zusage, die 7.000er-Marke zu halten und durch 1.200 Verwaltungskräfte den Vollzug spürbar zu entlasten, trifft seinen Kernwunsch nach mehr Kolleginnen und Kollegen auf der Straße.",
+      "begruendung_selbst": "Endlich sagt mal jemand klar: 7.000 Vollzugsbeamte, und dazu noch Verwaltungskräfte, die uns den Papierkram abnehmen. Das ist genau das, was wir seit Jahren fordern – mehr Leute auf der Straße, weniger am Schreibtisch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leistung muss sich lohnen!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP fordert ein verbindliches, landesweit einheitliches Personalentwicklungskonzept für den Polizeivollzugsdienst, das Beförderungen und Aufstieg strikt nach Eignung, Leistung und Befähigung regelt und informelle Karrierehemmnisse beseitigt.",
+      "seite": 52,
+      "zitat": "Leistung muss sich wieder lohnen – sichtbar, gerecht und verlässlich.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ärgert sich über intransparente Beförderungspraxis und das Gefühl, dass Engagement im Dienst nicht honoriert wird. Ein klares, objektives Aufstiegskonzept gibt ihm Planungssicherheit und bestätigt seinen Anspruch an faire Bewertung.",
+      "begruendung_selbst": "Ich will nicht, dass Beförderungen über Beziehungen laufen. Wer im Dienst Gas gibt, muss auch aufsteigen können – nach klaren Regeln, nicht nach Nasenfaktor.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit Waffenverbotszonen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP fordert die Abschaffung aller Waffenverbotszonen im Land und damit auch das Ende anlassloser Personenkontrollen in diesen Bereichen.",
+      "seite": 52,
+      "zitat": "Abschaffung aller Waffenverbotszonen im Land und damit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco sieht Waffenverbotszonen kritisch, weil sie aus seiner Erfahrung oft nur ein falsches Sicherheitsgefühl erzeugen und die Polizei mit anlasslosen Kontrollen in eine schwierige Rolle drängen. Die Abschaffung entspricht seiner pragmatischen Sicht auf wirksame Polizeiarbeit.",
+      "begruendung_selbst": "Diese Zonen bringen doch nichts – die Kriminellen halten sich nicht dran, und wir müssen uns für anlasslose Kontrollen rechtfertigen. Gut, dass das endlich jemand aufräumen will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Justiz muss schneller arbeiten!",
+      "thema": "demokratie",
+      "programmpunkt": "Die FDP will die elektronische Akte in der Justiz bis 2030 vollständig umsetzen, Videokonferenztechnik zur Regel machen und die Justiz als attraktiven Arbeitgeber mit flexiblen Arbeitsmodellen stärken.",
+      "seite": 49,
+      "zitat": "Einführung der elektronischen Akte in allen Bereichen der Justiz",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist frustriert, wenn seine sorgfältig ermittelten Fälle in der Justizkette versanden. Eine digitalisierte, effizientere Justiz bedeutet für ihn, dass seine Arbeit am Ende auch zu Verurteilungen führt und nicht im Papierstapel untergeht.",
+      "begruendung_selbst": "Was nützt mir die beste Ermittlung, wenn die Akte monatelang beim Staatsanwalt liegt? Die Justiz muss endlich digital werden, damit unsere Arbeit auch was bewirkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Opferschutz statt Täterschutz!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP will persönliche Daten von Opfern und Zeugen getrennt von der Verfahrensakte speichern und den Opferhilfefonds des Landes aufstocken und verstetigen.",
+      "seite": 51,
+      "zitat": "Opferhilfefonds des Landes aufstocken und verstetigen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt regelmäßig, wie Opfer und Zeugen durch ungeschützte Daten oder ausbleibende Unterstützung verunsichert werden. Der Schutz von Opferdaten und ein gestärkter Hilfsfonds entsprechen seinem Gerechtigkeitsempfinden.",
+      "begruendung_selbst": "Die Opfer sind die, die unseren Schutz brauchen – nicht die Täter. Wenn Daten besser geschützt werden und es endlich einen vernünftigen Opferfonds gibt, ist das überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Katastrophenschutz braucht Geld!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP fordert einen rechtlich selbstständigen Landesfonds für Katastrophenschutz, der bei Großschadenslagen schnelle und unbürokratische Mittel bereitstellt, sowie eine höhere Beteiligung der Kommunen an der Feuerschutzsteuer.",
+      "seite": 53,
+      "zitat": "Rechtlich selbstständigen Landesfonds für Katastrophenschutz bei Großschadenslagen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco weiß aus Großeinsätzen, wie wichtig funktionierende Strukturen von Feuerwehr und Katastrophenschutz sind. Ein eigener Fonds und bessere Finanzierung der Kommunen stärken die Blaulicht-Familie, mit der er täglich zusammenarbeitet.",
+      "begruendung_selbst": "Wenn's brennt oder das Hochwasser kommt, zählen Minuten. Da kann ich nicht auf Haushaltsbeschlüsse warten. Ein eigener Fonds für den Katastrophenschutz ist genau richtig.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Blitzer-Apps erlauben? Ernsthaft?",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP will sich auf Bundesebene dafür einsetzen, die Nutzung von sogenannten Blitzer-Warn-Apps neu zu regeln und zu ermöglichen.",
+      "seite": 52,
+      "zitat": "Nutzung von sogenannten Blitzer-Warn-Apps neu zu regeln und zu ermöglichen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht Blitzer-Warn-Apps als Werkzeug, das Verkehrsüberwachung untergräbt und Raser schützt. Für ihn ist das ein Symbol dafür, dass die FDP Sicherheitsarbeit zugunsten einer libertären Haltung schwächen will – genau das ärgert ihn.",
+      "begruendung_selbst": "Wir stellen uns an die Straße, damit Leute nicht mit 80 durch die Ortschaft rasen – und dann soll ich akzeptieren, dass jeder per App gewarnt wird? Das ist ein Schlag ins Gesicht unserer Arbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rasseliste abschaffen – und dann?",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP setzt sich für die Abschaffung der sogenannten Rasseliste im Hundegesetz ein.",
+      "seite": 52,
+      "zitat": "Sogenannte Rasseliste abzuschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco hat im Dienst regelmäßig mit aggressiven Hunden zu tun und sieht die Rasseliste als pragmatisches Werkzeug der Gefahrenabwehr. Eine ersatzlose Streichung ohne klares Alternativkonzept erscheint ihm als ideologisch motivierte Schwächung der Einsatzpraxis.",
+      "begruendung_selbst": "Ich war schon bei Einsätzen, da hat mich so ein Listenhund fast umgerannt. Einfach die Liste streichen, ohne ein besseres Konzept – das hilft mir auf der Straße null.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wahlalter 16 – zu früh!",
+      "thema": "demokratie",
+      "programmpunkt": "Die FDP setzt sich für die Einführung des aktiven Wahlalters ab 16 Jahren bei Landtagswahlen in Sachsen-Anhalt ein.",
+      "seite": 47,
+      "zitat": "Einführung des aktiven Wahlalters ab 16 Jahren bei Landtagswahlen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco hält Ordnung und Reife für wichtig und sieht Wahlrecht als Verantwortung, die mit Volljährigkeit zusammengehört. Wahlalter 16 empfindet er als Symbolpolitik, die den Ernst demokratischer Entscheidungen verwässert.",
+      "begruendung_selbst": "Mit 16 darf ich noch nicht mal einen vernünftigen Mietvertrag unterschreiben, aber über die Landespolitik entscheiden? Das ist doch nicht durchdacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld-Sanktionen zu weich!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will das Bürgergeld reformieren, Mitwirkungspflichten stärken und bei Ablehnung zumutbarer Arbeit den Sanktionsspielraum konsequent ausschöpfen sowie gemeinnützige Arbeitspflichten einführen.",
+      "seite": 40,
+      "zitat": "Ablehnung einer zumutbaren Arbeit eine Leistungskürzung nach sich ziehen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht in seinem Dienstalltag Menschen, die das System ausnutzen, und empfindet die FDP-Position zwar als Schritt in die richtige Richtung, aber als zu zaghaft. Ihm fehlt eine klarere Haltung zu konsequenterer Sanktionierung und er befürchtet, dass 'Fördern und Fordern' in der Praxis weich bleibt.",
+      "begruendung_selbst": "Sanktionsspielraum 'ausschöpfen' klingt gut – aber wer kontrolliert das? Ich sehe jeden Tag, wie manche das System melken, und am Ende passiert doch nichts.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschiebungen – zu viel Bürokratie!",
+      "thema": "integration",
+      "programmpunkt": "Die FDP will Abschiebungen effizienter gestalten, eine Abschiebungshafteinrichtung bis Ende 2027 in Betrieb nehmen und elektronische Fußfesseln als weniger einschneidende Maßnahme ermöglichen.",
+      "seite": 11,
+      "zitat": "Abschiebungshafteinrichtung spätestens Ende 2027 in Betrieb gehen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco weiß, dass Abschiebungen in der Praxis oft an bürokratischen Hürden und fehlenden Plätzen scheitern. Dass die Hafteinrichtung erst Ende 2027 kommen soll und Fußfesseln als Alternative genannt werden, erscheint ihm als zu langsamer und zu weicher Ansatz für ein Problem, das ihn im Dienst täglich beschäftigt.",
+      "begruendung_selbst": "2027? Bis dahin schieben wir weiter Leute ab, die längst ausreisepflichtig sind, und nichts passiert. Und Fußfesseln statt Haft? Das ist doch kein Ersatz, wenn jemand untertauchen will.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco sieht bei der FDP klare Stärken in der Personal- und Ausstattungspolitik für die Polizei sowie in der angestrebten Entlastung durch Verwaltungskräfte und transparente Karrierepfade. Gleichzeitig stören ihn libertäre Positionen wie die Erlaubnis von Blitzer-Apps und die Abschaffung der Rasseliste, die aus seiner Sicht die praktische Sicherheitsarbeit schwächen. Die Migrations- und Justizpolitik bewertet er als grundsätzlich richtig, aber in der Umsetzung als zu langsam und zu zaghaft.",
+    "score": 1
+  }
+}

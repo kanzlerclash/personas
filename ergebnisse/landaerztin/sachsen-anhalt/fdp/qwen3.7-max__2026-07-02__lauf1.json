@@ -1,0 +1,179 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:50:04.263Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41204,
+    "output_tokens": 9565,
+    "cached_tokens": 39168,
+    "total_tokens": 50769,
+    "dauer_ms": 174454,
+    "usd": 0.072082
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Praxis-Bürokratie abbauen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will bürokratische Hürden für niedergelassene Ärzte gezielt reduzieren und die Telematikinfrastruktur praxistauglich gestalten, damit Digitalisierung einen echten Mehrwert bringt.",
+      "seite": 65,
+      "zitat": "Telematik-Infrastruktur praxistauglich gestalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra leidet täglich unter der fehleranfälligen Telematikinfrastruktur und überbordenden Dokumentationspflichten. Die explizite Forderung nach Praxistauglichkeit der TI und Bürokratieabbau für Niedergelassene trifft genau ihren Arbeitsalltag und ihre Hoffnung auf Entlastung.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass die Telematik für uns funktionieren muss – und nicht wir für die Telematik. Ich verbringe halbe Abende damit, dass die Technik sich aufhängt, statt mich auf meine Patienten zu konzentrieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nachwuchs auf dem Land fördern!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will erfolgreiche Netzwerkmodelle für die Weiterbildung in der Allgemeinmedizin auf weitere Fachbereiche ausweiten und den Arztberuf durch passgenaue Entlastungsangebote attraktiver machen.",
+      "seite": 65,
+      "zitat": "Netzwerkmodelle auf weitere Fachbereiche ausweiten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die größte Sorge von Dr. Petra ist die fehlende Praxisnachfolge. Programme, die junge Ärzte für die Niederlassung im ländlichen Raum gewinnen und weiterbilden, sind für sie existenziell – sie hofft, dass jemand ihre Praxis und ihre Patient:innen übernimmt.",
+      "begruendung_selbst": "Wenn ich in Rente gehe, steht hier niemand bereit. Jedes Programm, das junge Kolleginnen und Kollegen aufs Land bringt, ist für mich und meine Patienten überlebenswichtig.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Rollende Praxen – genau richtig!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP plant ein Förderprogramm für rollende Arztpraxen und Facharzt-Busse, um die medizinische Versorgung in infrastrukturell schwachen Regionen mobil zu den Menschen zu bringen.",
+      "seite": 64,
+      "zitat": "rollende Arztpraxen und spezialisierte Facharzt-Busse",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra kennt die langen Wege und die Mobilitätsprobleme ihrer älteren Patient:innen auf dem Land. Mobile Versorgungsangebote entlasten ihre eigene Praxis und sichern die Versorgung dort, wo feste Standorte fehlen.",
+      "begruendung_selbst": "Meine Patienten fahren teilweise 30 Kilometer zum Facharzt – wenn sie überhaupt noch fahren können. Ein Facharzt-Bus, der ins Dorf kommt, wäre eine riesige Erleichterung für alle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Dokumentation, mehr Pflege!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will Pflegeeinrichtungen von überbordenden Meldepflichten, Mehrfachdokumentationen und nutzlosen Statistikabfragen befreien und Prüfungen auf risikobasierte Anlassprüfungen begrenzen.",
+      "seite": 69,
+      "zitat": "von überbordenden Meldepflichten entlastet werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Hausärztin arbeitet Dr. Petra eng mit Pflegediensten und Heimen zusammen. Deren Überlastung durch Dokumentation trifft auch ihre Arbeit – etwa bei Abstimmungen zur Medikamentengabe oder Wundversorgung. Weniger Bürokratie in der Pflege bedeutet auch weniger Reibungsverluste in der Versorgungskette.",
+      "begruendung_selbst": "Die Pflegekräfte in den Heimen haben keine Zeit mehr für die Patienten, weil sie nur noch dokumentieren. Das bremst auch meine Arbeit – wenn ich Rückfragen habe, dauert alles ewig.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "30 Minuten zum Mittelzentrum!",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP fordert, dass jeder Ort in Sachsen-Anhalt innerhalb von 30 Minuten ein Mittelzentrum erreichen kann, und setzt auf grundhafte Straßensanierung statt Flickwerk.",
+      "seite": 71,
+      "zitat": "Niemand soll länger als 30 Minuten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Dr. Petras Patient:innen sind lange Wege ein tägliches Problem – ob zum Facharzt, ins Krankenhaus oder zur Apotheke. Eine verlässliche Straßeninfrastruktur im ländlichen Raum ist für die medizinische Versorgung unverzichtbar.",
+      "begruendung_selbst": "Wenn meine Patienten im Notfall ins Krankenhaus müssen, zählt jede Minute. Schlechte Straßen und weite Wege sind auf dem Land ein echtes Versorgungsrisiko.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Telenotarzt landesweit – super!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP befürwortet die landesweite Etablierung des Telenotarzt-Projekts, bei dem Notärzte Einsatzkräfte vor Ort per Bild- und Tonübertragung unterstützen.",
+      "seite": 68,
+      "zitat": "landesweite Etablierung des Projektes befürwortet",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im ländlichen Raum sind Notarzt-Eintreffzeiten oft kritisch. Dr. Petra weiß, dass telemedizinische Unterstützung Leben retten kann, wenn der nächste Notarzt weit entfernt ist. Das Projekt passt zu ihrer pragmatischen Haltung gegenüber sinnvoller Digitalisierung.",
+      "begruendung_selbst": "Bis der Notarzt bei uns im Dorf ist, vergehen oft 20 Minuten. Wenn der Rettungssanitäter vor Ort sofort telemedizinisch unterstützt wird, kann das den Unterschied machen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Gemeindenotfallsanitäter abgelehnt – richtig!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP lehnt die landesweite Etablierung des Gemeindenotfallsanitäters ab, da dies eine weitere Doppelstruktur ohne eigenen Kompetenzbereich schaffe.",
+      "seite": 68,
+      "zitat": "Etablierung des Gemeindenotfallsanitäters lehnen wir ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra ist skeptisch gegenüber neuen Strukturen, die Ressourcen binden, ohne die Versorgung tatsächlich zu verbessern. Sie bevorzugt die Stärkung bestehender Systeme statt immer neuer Parallelstrukturen, die am Ende mehr Koordinationsaufwand bedeuten.",
+      "begruendung_selbst": "Wir brauchen keine neuen Titel und Doppelstrukturen, sondern dass der bestehende Rettungsdienst schneller und besser wird. Jede neue Ebene bedeutet am Ende mehr Abstimmungsaufwand.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Markt richtet's nicht auf dem Land!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP setzt auf Markt, Wettbewerb und Innovation als primäre Lösungsansätze und sieht gezielte öffentliche Unterstützung nur dort vor, wo Versorgung sonst nicht gesichert ist.",
+      "seite": 63,
+      "zitat": "Markt, Wettbewerb und Innovation, wo sie tragen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra erlebt täglich, dass sich medizinische Versorgung auf dem Land gerade nicht 'rechnet'. Die marktorientierte Grundhaltung der FDP widerspricht ihrer Überzeugung, dass Daseinsvorsorge staatliche Pflicht ist – besonders dort, wo ökonomische Anreize versagen.",
+      "begruendung_selbst": "Markt und Wettbewerb? Hier auf dem Land rechnet sich gar nichts mehr. Wer soll hier investieren, wenn die Patienten immer weniger und immer älter werden? Der Staat muss hier Verantwortung übernehmen, nicht der Markt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kapitalgedeckte Pflege? Gefährlich!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will die Pflegeversicherung umfassend reformieren, versicherungsfremde Leistungen streichen und ein kapitalgedecktes Element ergänzen, um private Vorsorge zu stärken.",
+      "seite": 70,
+      "zitat": "kapitalgedecktes Element muss ergänzt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra versorgt viele ältere Patient:innen mit schmaler Rente. Eine kapitalgedeckte Pflegeversicherung würde ihrer Einschätzung nach gerade die Schwächsten benachteiligen, die keine private Vorsorge aufbauen konnten. Sie sieht die solidarische Finanzierung als unverzichtbar.",
+      "begruendung_selbst": "Viele meiner Patienten haben ihr Leben lang gearbeitet und können sich keine private Pflegevorsorge leisten. Wenn die Pflegeversicherung kapitalgedeckt wird, fallen die Ärmsten durchs Raster.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Privatisierung? Nicht im Gesundheitswesen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP fordert eine umfassende Privatisierungsoffensive bei Landesbeteiligungen, da der Staat nie ein guter Unternehmer sei.",
+      "seite": 9,
+      "zitat": "Privatisierung ist kein Unwort",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra beobachtet die Ökonomisierung des Gesundheitswesens mit Sorge. Eine generelle Privatisierungslogik bestärkt ihre Befürchtung, dass Rendite-Interessen die Versorgungsqualität gerade im ländlichen Raum gefährden – wo sich Investitionen ohnehin kaum rechnen.",
+      "begruendung_selbst": "Überall wo Rendite regiert, werden ländliche Praxen, Apotheken und Krankenhäuser geschlossen. Der Staat darf sich nicht aus der Daseinsvorsorge zurückziehen – gerade hier nicht.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Kommunalisierung abgelehnt – und nun?",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP lehnt eine Kommunalisierung der Pflege ab und setzt stattdessen auf unternehmerische Freiheit und klare Zuständigkeiten.",
+      "seite": 70,
+      "zitat": "Eine Kommunalisierung der Pflege lehnen wir ab",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra sieht, dass Pflegeversorgung auf dem Land oft nur durch kommunales Engagement aufrechterhalten wird. Die pauschale Ablehnung einer Kommunalisierung ohne gleichwertige Alternative für strukturschwache Regionen lässt sie skeptisch zurück, wer dann die Versorgung sicherstellt.",
+      "begruendung_selbst": "Wenn die Kommune nicht steuern darf, wer macht es dann? Die privaten Anbieter gehen doch nur dorthin, wo es sich rechnet – und das ist nicht bei uns im Dorf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld kürzen? Meine Patienten trifft's!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will das Bürgergeld reformieren, Sanktionen konsequent ausschöpfen und gemeinnützige Arbeitspflichten für Langzeitarbeitslose einführen.",
+      "seite": 40,
+      "zitat": "Sanktionsspielraum konsequent ausgeschöpft werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "In Dr. Petras Praxis sitzen viele Patient:innen, die auf Transferleistungen angewiesen sind. Verschärfte Sanktionen und Arbeitspflichten würden aus ihrer Erfahrung die gesundheitliche Situation vulnerabler Gruppen verschlechtern und den sozialen Druck erhöhen, der sich direkt auf die Gesundheit auswirkt.",
+      "begruendung_selbst": "Ich sehe jeden Tag, was Armut und Druck mit Menschen machen. Wer schon psychisch oder chronisch krank ist, dem helfen keine Sanktionen – der braucht Unterstützung, nicht noch mehr Stress.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra findet bei der FDP konkrete Ansätze zur Entlastung von Bürokratie und für die Nachwuchsgewinnung auf dem Land – besonders die Praxistauglichkeit der Telematikinfrastruktur und mobile Versorgungsmodelle sprechen sie direkt an. Gleichzeitig stößt sie sich an der marktorientierten Grundhaltung der Partei, die ihrer Überzeugung widerspricht, dass Daseinsvorsorge im ländlichen Raum staatliche Aufgabe ist. Die Vorschläge zur kapitalgedeckten Pflege und die pauschale Privatisierungslogik verstärken ihre Sorge, dass ökonomische Logik die Versorgung ihrer Patient:innen gefährdet.",
+    "score": 0
+  }
+}

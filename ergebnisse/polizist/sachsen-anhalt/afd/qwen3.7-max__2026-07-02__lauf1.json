@@ -1,0 +1,125 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:16:28.122Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76955,
+    "output_tokens": 8025,
+    "cached_tokens": 73856,
+    "total_tokens": 84980,
+    "dauer_ms": 147291,
+    "usd": 0.07419275
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Kollegen auf der Straße!",
+      "thema": "sicherheit",
+      "programmpunkt": "Aufstockung der Landespolizei auf mindestens 7.500 Vollzugsbeamte.",
+      "seite": 9,
+      "zitat": "Wir werden deshalb die Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet unter dem massiven Personalmangel und der Überlastung im Schichtdienst. Die konkrete Zahl von 7.500 Beamten gibt ihm die Hoffnung, dass der Dienstalltag wieder bewältigbar wird und Pausen sowie Freizeitausgleich realistisch bleiben.",
+      "begruendung_selbst": "Wir rennen seit Jahren auf dem Zahnfleisch. Wenn die 7.500 Stellen wirklich kommen und nicht nur auf dem Papier existieren, können wir endlich wieder vernünftig Streife fahren, statt nur noch von Einsatz zu Einsatz zu hetzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Taser retten Leben – auch unsere.",
+      "thema": "sicherheit",
+      "programmpunkt": "Einführung von Distanz-Elektro-Impulsgeräten (Tasern) für die Polizei.",
+      "seite": 9,
+      "zitat": "Wir werden deshalb solche Geräte anschaffen und die Polizei daran ausbilden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Streifenbeamter ist Marco oft mit unberechenbaren Tätern konfrontiert. Der Taser bietet ihm eine wichtige Zwischenstufe zwischen Schlagstock und Schusswaffe, was seine Handlungssicherheit erhöht und im Zweifel Leben schützt.",
+      "begruendung_selbst": "Wenn mir einer mit dem Messer kommt, will ich nicht sofort schießen müssen. Der Taser gibt mir endlich eine Option dazwischen, die den Typen stoppt, ohne dass gleich Blut fließt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Vorverurteilung nach Einsätzen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Interne Ermittlungen nach Schusswaffengebrauch nur noch bei konkretem Verdacht, nicht mehr automatisch.",
+      "seite": 9,
+      "zitat": "Wir werden deshalb durchsetzen, dass nach Schusswaffengebrauch nur noch bei konkreten Verdachtsmomenten...",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco empfindet die automatische Einleitung von Disziplinarverfahren nach lebensbedrohlichen Einsätzen als demotivierend und als Ausdruck mangelnden Rückhalts durch die Politik. Die Unschuldsvermutung stärkt sein Vertrauen in den Dienstherrn.",
+      "begruendung_selbst": "In einer lebensbedrohlichen Situation musst du in Sekundenbruchteilen entscheiden. Dass man danach automatisch wie ein Krimineller behandelt wird, bis das Gegenteil bewiesen ist, zermürbt die Truppe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unsere Arbeit darf nicht verpuffen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Konsequente und harte Bestrafung von Gewaltverbrechern, Ausschöpfung des Strafrahmens.",
+      "seite": 10,
+      "zitat": "Wir werden die Richter ermutigen, gegen den linken Ungeist jeden Mörder, Totschläger,",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist frustriert, wenn festgenommene Gewalttäter von der Justiz schnell wieder auf die Straße entlassen werden. Die Forderung nach konsequenter Strafverfolgung bestätigt seinen Wunsch nach einer funktionierenden Justizkette, die seine Arbeit auf der Straße wertschätzt und stützt.",
+      "begruendung_selbst": "Was bringt es mir, wenn ich mir bei der Festnahme eines Schlägers die Nase breche, und der Typ steht am nächsten Tag grinsend wieder auf der Straße? Die Justiz muss unseren Job auf der Straße endlich ernst nehmen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wer den Verfassungsschutz schwächt, gefährdet uns.",
+      "thema": "demokratie",
+      "programmpunkt": "Der Verfassungsschutz soll die Beobachtung der 'patriotischen Opposition' einstellen und nur noch nach 'harten' Kriterien wie Gewaltbereitschaft arbeiten.",
+      "seite": 11,
+      "zitat": "Verfassungsschutzberichte, deren Informationswert gegen Null geht, die also nur eine Art Pseudotransparenz herstellen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco ist auf den Schutz der verfassungsmäßigen Ordnung vereidigt. Er sieht den Verfassungsschutz als essenzielles Frühwarnsystem. Die pauschale Diskreditierung der Behörde als 'Regierungsschutz' und die Forderung, die Beobachtung bestimmter politischer Akteure einzustellen, untergräbt aus seiner Sicht die wehrhafte Demokratie und macht seinen Job gefährlicher.",
+      "begruendung_selbst": "Ich bin auf die Verfassung vereidigt, nicht auf eine Partei. Wenn der Verfassungsschutz politisch blind gemacht werden soll, nur weil eine Partei selbst beobachtet wird, dann sägt man an dem Ast, auf dem unser Rechtsstaat sitzt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Hobby-Sheriffs auf der Straße!",
+      "thema": "sicherheit",
+      "programmpunkt": "Einführung einer freiwilligen Bürgerwacht als dritte Säule der Sicherheitsarchitektur.",
+      "seite": 9,
+      "zitat": "als eine dritte Säule der Sicherheitsarchitektur vor Ort eine freiwillige Bürgerwacht aufbauen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Profi-Polizist lehnt Marco die Idee von Laienpatrouillen ab. Er befürchtet, dass ungeschulte Bürger sich in Gefahr bringen, die Lage eskalieren lassen und das staatliche Gewaltmonopol verwässern, anstatt die Polizei professionell zu entlasten.",
+      "begruendung_selbst": "Sicherheit ist ein Job für Profis, nicht für Hobby-Sheriffs. Wenn da ungeschulte Leute nachts durch die Parks ziehen, müssen wir am Ende noch deren Einsätze fahren und Schlimmeres verhindern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unser Einsatz war kein Unrecht!",
+      "thema": "demokratie",
+      "programmpunkt": "Amnestie für Verstöße gegen Corona-Maßnahmen und Erstattung von Bußgeldern.",
+      "seite": 10,
+      "zitat": "Die Einführung eines Amnestiegesetzes zur Aufhebung von Geldbußen und Verwarnungsgeldern im Zusammenhang",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco musste während der Pandemie oft unter schwierigen Bedingungen und Anfeindungen Recht und Ordnung durchsetzen. Eine pauschale Amnestie empfindet er als nachträgliche Entwertung seiner Arbeit und als Signal, dass staatliche Regeln je nach politischer Wetterlage für nichtig erklärt werden können.",
+      "begruendung_selbst": "Wir haben uns damals den Hass auf der Straße abgeholt, weil wir geltendes Recht durchsetzen mussten. Das jetzt pauschal als 'Unrecht' abzutun, ist ein Schlag ins Gesicht aller Kollegen, die da vorne gestanden haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Waffen machen meinen Job gefährlicher.",
+      "thema": "sicherheit",
+      "programmpunkt": "Abschaffung des Kleinen Waffenscheins und erleichterte Erteilung von Waffenscheinen zur Selbstverteidigung.",
+      "seite": 11,
+      "zitat": "Der sogenannte Kleine Waffenschein ist abzuschaffen. In dieser Hinsicht ist die Rechtslage",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mehr legale und illegale Waffen im öffentlichen Raum erhöhen das Risiko für Einsatzkräfte bei Routinekontrollen und Streitschlichtungen massiv. Marco sieht in der Liberalisierung eine direkte Bedrohung für die eigene körperliche Unversehrtheit im Dienst.",
+      "begruendung_selbst": "Jeder Kollege weiß: Wenn mehr Waffen auf der Straße sind, steigt die Gefahr, dass bei einer simplen Streiterei oder Kontrolle plötzlich eine Waffe gezogen wird. Das macht unseren Alltag unberechenbarer.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco sieht seine Kernforderungen nach mehr Personal und besserer Ausrüstung adressiert, was ihm Hoffnung auf einen bewältigbareren Dienstalltag gibt. Gleichzeitig widersprechen die Angriffe auf den Verfassungsschutz, die geplanten Bürgerpatrouillen und die Corona-Amnestie zutiefst seinem Verständnis von Rechtsstaat und professioneller Polizeiarbeit. Er erkennt zwar praktische Entlastungen, lehnt aber die institutionelle Untergrabung der wehrhaften Demokratie durch die Partei ab.",
+    "score": 0
+  }
+}

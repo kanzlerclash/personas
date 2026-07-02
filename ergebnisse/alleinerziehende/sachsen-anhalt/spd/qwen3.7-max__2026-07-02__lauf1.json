@@ -1,0 +1,113 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:47:21.472Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39833,
+    "output_tokens": 9052,
+    "cached_tokens": 0,
+    "total_tokens": 48885,
+    "dauer_ms": 166487,
+    "usd": 0.11104
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich verlässliche Betreuung!",
+      "thema": "familie",
+      "programmpunkt": "Der Rechtsanspruch auf zehn Stunden Betreuung wird garantiert und der Hort als verlässliches Modell gesichert.",
+      "seite": 18,
+      "zitat": "Der Rechtsanspruch auf bis zu zehn Stunden Betreuung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Nadine ist die Vereinbarkeit von Teilzeitjob und Kindern existenziell. Die klare Garantie von 10 Stunden und der Erhalt des Hort-Systems nehmen ihr die ständige Angst, den Arbeitsplatz zu verlieren, wenn die Betreuung wackelt.",
+      "begruendung_selbst": "Wenn die Kita um 16 Uhr zu macht, kann ich nicht arbeiten. Dass das jetzt festgeschrieben wird, rettet mir den Hintern und meinen Job.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Schikane mehr!",
+      "thema": "gesundheit",
+      "programmpunkt": "Soziale Unterstützung soll ohne Misstrauen und Demütigung gewährt werden; der Fokus liegt auf Hilfe statt Sanktion.",
+      "seite": 3,
+      "zitat": "Wer Unterstützung braucht, soll sie bekommen – ohne Misstrauen, ohne Demütigung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Aufstockerin fühlt sich Nadine oft verdächtigt und unter Generalverdacht. Diese programmatische Absage an Misstrauen spricht ihr Bedürfnis nach Würde und Respekt im Umgang mit Behörden direkt an.",
+      "begruendung_selbst": "Ich renne jeden Monat zum Amt und fühle mich wie eine Bittstellerin. Endlich sagt mal einer, dass ich ein Recht auf Hilfe habe, ohne dass man mich behandelt wie eine Kriminelle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Warmes Essen für alle",
+      "thema": "familie",
+      "programmpunkt": "Einsatz für ein kostenloses, gesundes Mittagessen in Kitas und Schulen, um Kinderarmut direkt zu bekämpfen.",
+      "seite": 18,
+      "zitat": "für ein kostenloses, gesundes und warmes Mittagessen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dieser Punkt entlastet Nadines knappes Haushaltsbudget sofort und spürbar. Sie muss sich keine Sorgen mehr machen, ob sie das Essengeld überweisen kann oder ob die Kinder hungern, wenn das Geld mal wieder nicht reicht.",
+      "begruendung_selbst": "Das Essengeld ist jeden Monat ein extra Stressfaktor. Wenn das wegfällt, bleibt vielleicht mal was für neue Schuhe oder eine Klassenfahrt übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Angst vor der Nebenkostenabrechnung",
+      "thema": "wohnen",
+      "programmpunkt": "Klimaschutzmaßnahmen und Wärmewende dürfen nicht zu unbezahlbaren Mehrkosten für Mieter führen.",
+      "seite": 27,
+      "zitat": "Die klimafreundliche Wärmeversorgung darf keine zweite Miete werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine wohnt zur Miete und hat keine Rücklagen für Sanierungen. Die Angst vor steigenden Energiekosten oder Umlagen ist riesig. Dieses Versprechen nimmt ihr die Furcht vor Verdrängung aus ihrem Zuhause.",
+      "begruendung_selbst": "Ich kann keine neue Heizung bezahlen. Wenn die Miete wegen 'Klima' noch mal steigt, muss ich ausziehen. Gut, dass die das sehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich sieht uns jemand",
+      "thema": "arbeit",
+      "programmpunkt": "Anerkennung, dass Frauen durch Teilzeit und Sorgearbeit strukturell von Armut und Einkommensnachteilen betroffen sind.",
+      "seite": 10,
+      "zitat": "Frauen sind dabei aufgrund unterbrochener Erwerbsbiografien, Teilzeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine fühlt sich oft unsichtbar oder als 'selbst schuld' für ihre finanzielle Lage. Die explizite Nennung ihrer strukturellen Benachteiligung als Alleinerziehende in Teilzeit validiert ihre Erfahrung und zeigt Verständnis.",
+      "begruendung_selbst": "Genau das ist es doch! Ich arbeite Teilzeit, weil ich muss, nicht weil ich will. Gut, dass die das endlich mal aufschreiben, statt so zu tun, als wäre das alles Freizeit.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ich arbeite doch schon!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Aussage, dass gute Arbeit der beste Schutz vor Armut sei, ignoriert die Realität der 'Working Poor' und Aufstocker.",
+      "seite": 18,
+      "zitat": "Gute Arbeit der Eltern bleibt der wirksamste Schutz vor Kinderarmut.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine arbeitet, ist aber trotzdem auf Leistungen angewiesen. Dieser Satz fühlt sich für sie wie ein Schlag ins Gesicht an, da er suggeriert, wer arm ist, arbeite nicht 'gut' genug oder das System funktioniere – was ihrer Realität widerspricht.",
+      "begruendung_selbst": "Ich stehe jeden Morgen auf und schufte, und trotzdem reicht es nicht. Sagt mir nicht, dass Arbeit vor Armut schützt – mein Lohnzettel und der Bescheid vom Amt sagen was anderes.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ich brauch' einen Menschen!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Beantragung von Familienleistungen soll perspektivisch über eine digitale Plattform laufen.",
+      "seite": 18,
+      "zitat": "Perspektivisch gehört dazu eine digitale, barrierefreie Plattform zur Beantragung...",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine hat wenig Zeit, keine hochwertige Hardware und komplexe Fälle (Unterhalt, Aufstockung, Wohngeld). Sie fürchtet, im digitalen Dschungel unterzugehen und den persönlichen Ansprechpartner zu verlieren, der ihr bisher geholfen hat.",
+      "begruendung_selbst": "Ich hab' kein Tablet und keine Zeit, mich durch tausend Klicks zu wühlen, während die Kinder schreien. Wenn ich ein Problem hab, muss ich mit jemandem reden, nicht mit einem Chatbot.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm trifft Nadines Kernbedürfnisse nach verlässlicher Betreuung, Respekt im Sozialsystem und Schutz vor Wohnkostensteigerungen sehr gut. Die rhetorische Betonung von 'Arbeit als Armutschutz' und die Digitalisierungspläne der Verwaltung erzeugen jedoch Reibung, da sie ihre Realität als 'Working Poor' und ihre praktischen Hürden im Alltag teilweise verkennen.",
+    "score": 1
+  }
+}

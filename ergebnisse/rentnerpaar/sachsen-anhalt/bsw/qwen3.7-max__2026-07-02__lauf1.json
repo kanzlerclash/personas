@@ -1,0 +1,101 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:19:49.955Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66000,
+    "output_tokens": 7906,
+    "cached_tokens": 59008,
+    "total_tokens": 73906,
+    "dauer_ms": 145349,
+    "usd": 0.07624325
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich keine Angst vor Pflegekosten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW fordert eine steuerfinanzierte Pflegevollversicherung, damit Heimkosten Pflegebedürftige nicht in die Armut treiben und Ersparnisse oder das Eigenheim nicht automatisch aufgebraucht werden müssen.",
+      "seite": 57,
+      "zitat": "Heimkosten dürfen pflegebedürftige Menschen nicht in die Armut treiben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die größte Existenzangst des Rentnerpaars ist, dass im Pflegefall das mühsam erarbeitete Haus und die spärlichen Ersparnisse aufgebraucht werden. Die Forderung nach einer umfassenden Absicherung nimmt ihnen diese konkrete Sorge und bestätigt ihren Wunsch nach Verlässlichkeit.",
+      "begruendung_selbst": "Wenn einer von uns ins Heim muss, frisst das unser ganzes Haus auf. Dass die Partei das endlich stoppen und die Pflege aus Steuermitteln sichern will, ist für uns die größte Erleichterung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Zwangssanierung für unser Haus!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei lehnt verpflichtende energetische Sanierungsstandards ab, die das Wohnen künstlich verteuern, und fordert eine Wärmewende mit Augenmaß, die ländliche Realitäten und die finanzielle Leistungsfähigkeit der Eigentümer berücksichtigt.",
+      "seite": 31,
+      "zitat": "verpflichtende QNG-Standards oder vergleichbare Zertifizierungen lehnen wir ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten, dass staatliche Klimavorgaben sie zu teuren Dämmungen oder neuen Heizsystemen zwingen, die sie sich von ihrer Rente nicht leisten können. Die Ablehnung solcher Pflichten bestätigt ihren Wunsch, im eigenen Haus alt werden zu dürfen, ohne ruiniert zu werden.",
+      "begruendung_selbst": "Wenn wir das Dach dämmen oder eine neue Heizung einbauen müssen, von welchem Geld eigentlich? Gut, dass diese teuren Öko-Pflichten für unser altes Haus vom Tisch sein sollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rente sicher, kein Börsenspiel!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW lehnt eine weitere Anhebung des Renteneintrittsalters ab, fordert ein stabiles Rentenniveau und eine Mindestrente, um Altersarmut zu verhindern und Lebensleistung anzuerkennen.",
+      "seite": 36,
+      "zitat": "Eine weitere Anhebung des Renteneintrittsalters lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nach einem langen Arbeitsleben in DDR und Nachwendezeit wollen die beiden ihren Ruhestand genießen, ohne Angst vor Rentenkürzungen oder Experimenten wie der Aktienrente zu haben. Die klaren Versprechen zur Rentensicherheit treffen ihren Kernwert der Verlässlichkeit.",
+      "begruendung_selbst": "Wir haben unser Leben lang gearbeitet – jetzt soll die Rente bitte sicher sein. Keine Experimente und kein Arbeiten bis 70, das haben wir uns redlich verdient.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich wieder ein Arzt im Dorf!",
+      "thema": "gesundheit",
+      "programmpunkt": "Um den Ärztemangel auf dem Land zu bekämpfen, schlägt das BSW kommunale Gesundheitszentren, ein System von Gemeindeschwestern und Stipendien für Medizinstudierende mit Bindung an unterversorgte Regionen vor.",
+      "seite": 60,
+      "zitat": "Ergänzend wollen wir ein flächendeckendes System von Gemeindeschwestern aufbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Sorge, im Dorf ohne medizinische Versorgung dazustehen, wenn der letzte Hausarzt in Rente geht, ist allgegenwärtig. Konkrete Modelle wie Gemeindeschwestern und kommunale Zentren geben ihnen Hoffnung auf praktische Hilfe vor Ort.",
+      "begruendung_selbst": "Unser Hausarzt macht auch nicht mehr ewig. Wenn dann die Gemeindeschwester kommt oder es ein kleines Gesundheitszentrum im Ort gibt, können wir hier wohnen bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei, mehr Sicherheit!",
+      "thema": "sicherheit",
+      "programmpunkt": "Das BSW fordert eine deutliche Aufstockung der Landespolizei, um Präsenz und Ermittlungsarbeit auch in der Fläche und im ländlichen Raum dauerhaft sicherzustellen.",
+      "seite": 68,
+      "zitat": "Bis spätestens 2028 braucht Sachsen-Anhalt insgesamt rund 7.000 Polizeibeamte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Sicherheitsgefühl im ländlichen Raum ist für das Rentnerpaar wichtig. Die Forderung nach mehr sichtbarer Polizei und besserer Ausstattung der Behörden entspricht ihrem Wunsch nach Ordnung und Schutz vor Kriminalität.",
+      "begruendung_selbst": "Hier auf dem Dorf fühlt man sich manchmal ganz schön allein gelassen, wenn was passiert. Da brauchen wir einfach mehr Polizisten, die sich auch blicken lassen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Schuldenmachen ist keine Lösung!",
+      "thema": "steuern",
+      "programmpunkt": "Das BSW will die Schuldenbremse abschaffen und argumentiert, dass Schulden für Investitionen auf Landes- und Kommunalebene grundsätzlich kein Problem seien, solange sie Wachstum generieren.",
+      "seite": 18,
+      "zitat": "Grundsätzlich sind Schulden von Ländern und Kommunen kein Problem.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter haben ihr Leben lang jeden Cent umgedreht, um ihr Haus abzubezahlen. Die pauschale Aussage, dass Staatsschulden grundsätzlich kein Problem seien, widerspricht ihrem tief verankerten Wert der Sparsamkeit und weckt Ängste vor Inflation und zukünftigen Lasten für ihre Kinder.",
+      "begruendung_selbst": "Wir haben jeden Pfennig zweimal umgedreht, bis das Haus abbezahlt war. Wenn die Politik jetzt sagt, Schulden seien kein Problem, dann fragen wir uns, wer das am Ende bezahlt – doch wieder unsere Kinder oder wir durch Inflation!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das BSW-Programm trifft die zentralen Existenzängste von Helga und Dieter präzise: Die Ablehnung von Sanierungspflichten, die Forderung nach einer Pflegevollversicherung und das Bekenntnis zur Rentensicherheit bieten dem Rentnerpaar enorme emotionale und finanzielle Entlastung. Lediglich die lockere Haltung der Partei zur Staatsverschuldung stößt auf ihr tief verwurzeltes Misstrauen gegenüber mangelnder Sparsamkeit.",
+    "score": 1
+  }
+}

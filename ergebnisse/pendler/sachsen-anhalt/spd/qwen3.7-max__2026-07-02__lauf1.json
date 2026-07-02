@@ -1,0 +1,89 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:07:31.931Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39843,
+    "output_tokens": 7263,
+    "cached_tokens": 37888,
+    "total_tokens": 47106,
+    "dauer_ms": 134137,
+    "usd": 0.06138575
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich versteht einer die Industrie!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei betont, dass bezahlbare Energie die Grundlage für Industrie und damit für gute Arbeitsplätze ist.",
+      "seite": 3,
+      "zitat": "Ohne bezahlbare Energie gibt es keine Industrie. Ohne Industrie keine guten Arbeitsplätze.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf arbeitet als Industriemechaniker und weiß, dass sein Arbeitsplatz direkt an wettbewerbsfähige Energiepreise geknüpft ist. Die klare Aussage, dass bezahlbare Energie die Grundlage für seinen Lohn ist, bestätigt seine pragmatische Sicht.",
+      "begruendung_selbst": "Wenn die Energiepreise durch die Decke gehen, macht mein Betrieb dicht. Gut, dass das hier mal jemand klar ausspricht, statt nur von Verzicht zu reden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Stromsteuer ist überfällig!",
+      "thema": "steuern",
+      "programmpunkt": "Die Senkung der Stromsteuer soll künftig auch für private Stromverbraucher gelten, um Haushalte zu entlasten.",
+      "seite": 27,
+      "zitat": "künftig auch für private Stromverbraucher gelten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Pendler und Hausbesitzer spürt Toralf die hohen Energiekosten im Alltag. Die Forderung nach einer Senkung der Stromsteuer für Privatverbraucher bietet ihm eine direkte, spürbare finanzielle Entlastung.",
+      "begruendung_selbst": "Jeder Cent, den ich beim Strom spare, hilft. Dass die Stromsteuer auch für uns normale Leute runter soll, ist genau das, was wir brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Führerschein muss bezahlbar bleiben!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Kosten für den Führerschein sollen gesenkt werden, um junge Menschen und Familien im ländlichen Raum zu entlasten.",
+      "seite": 27,
+      "zitat": "Der Führerschein soll günstiger werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Toralfs Kinder im Schulalter wird der Führerschein bald ein Thema sein. Er weiß, dass man auf dem Land ohne Auto nicht zur Arbeit kommt, und begrüßt es, dass die Partei die hohen Kosten als Belastung anerkennt.",
+      "begruendung_selbst": "Ohne Lappen kriegst du hier keinen Job. Wenn die Politik endlich kapiert, dass das für unsere Kids kein Luxus, sondern Pflicht ist, und die Kosten drücken will – daumen hoch.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Radwege statt echter Pendler-Lösungen!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Land will die räumliche Trennung von Fuß-, Rad- und Autoverkehr fördern und feste Anteile des Straßenbaus für Radwege binden.",
+      "seite": 26,
+      "zitat": "Wir fördern, wo möglich, die räumliche Trennung der Verkehrsarten Fuß-, Rad- und KFZ-Verkehr.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf ist auf sein Auto angewiesen, da im Dorf kein brauchbarer ÖPNV fährt. Dass Straßenbaumittel in Radwege und Separierung investiert werden, ärgert ihn, weil er darin eine Bevorzugung urbaner Lebensstile sieht, die seine Realität als Autopendler ignoriert.",
+      "begruendung_selbst": "In meinem Dorf lachen die Hühner über neue Radwege. Das ist wieder so eine Idee aus der Stadt, während ich im Stau stehe und meine Schlaglöcher umfahre.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klima-Gesetz bedeutet nur höhere Spritpreise!",
+      "thema": "klima",
+      "programmpunkt": "Ein verbindliches Klimaschutzgesetz mit festen Reduktionspfaden für Treibhausgasemissionen soll geschaffen werden.",
+      "seite": 15,
+      "zitat": "Ein Klimaschutzgesetz schafft Verbindlichkeit und Überprüfbarkeit der Ziele sowie Transparenz über Zuständigkeiten und Fortschritte.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf misstraut gesetzlichen Klimavorgaben, da er befürchtet, dass die Lasten wieder auf Pendler wie ihn abgewälzt werden. Ein verbindliches Klimaschutzgesetz klingt für ihn nach weiteren Verteuerungen beim Sprit, ohne dass es auf dem Land Alternativen gibt.",
+      "begruendung_selbst": "Wenn die in Magdeburg wieder ein neues Klima-Gesetz beschließen, weiß ich genau, wer das am Ende zahlt: ich an der Tankstelle. Danke, aber ich hab keine Alternative zum Auto.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf erkennt an, dass die SPD die Bedeutung der Industrie und die Notwendigkeit bezahlbarer Energie sowie die Entlastung bei Strom- und Führerscheinkosten versteht. Gleichzeitig fühlt er sich durch den starken Fokus auf Radwege und gesetzliche Klimavorgaben als Autopendler auf dem Land ignoriert und fürchtet weitere finanzielle Belastungen ohne echte Alternativen.",
+    "score": 0
+  }
+}

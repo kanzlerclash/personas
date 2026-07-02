@@ -1,0 +1,152 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:49:31.634Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41160,
+    "output_tokens": 7714,
+    "cached_tokens": 39168,
+    "total_tokens": 48874,
+    "dauer_ms": 140778,
+    "usd": 0.05980575
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich klare Kante gegen Diskriminierung!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei fordert null Toleranz gegenüber Diskriminierung aufgrund von Herkunft, Religion, sexueller Orientierung oder geschlechtlicher Identität und will feste Ansprechpersonen bei der Polizei sowie bessere Absicherung von Veranstaltungen diskriminierter Gruppen.",
+      "seite": 40,
+      "zitat": "Null Toleranz für Diskriminierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt Alltagsdiskriminierung als ständige Infragestellung ihrer Zugehörigkeit. Ein explizites Bekenntnis zu null Toleranz und konkrete Maßnahmen wie Ansprechpartner bei der Polizei bestätigen ihren Wunsch nach institutionellem Rückhalt und Schutz.",
+      "begruendung_selbst": "Ich bin hier geboren, arbeite hier, lebe hier – und trotzdem werde ich manchmal schief angeguckt. Wenn der Staat endlich klar sagt: Diskriminierung geht gar nicht, und auch die Polizei da hinschaut, dann ist das genau das Signal, das ich brauche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Selbstbestimmung statt Gutachter-Zwang!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will, dass die Angabe des Geschlechts in der Verwaltung nur dort erfasst wird, wo es unbedingt nötig ist, und dass administrative Akte vom Gedanken der Selbstbestimmung geprägt sind, ohne externe Gutachter.",
+      "seite": 41,
+      "zitat": "Administrative Akte müssen vom Gedanken der Selbstbestimmung geprägt sein.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin schätzt eine Verwaltung, die Menschen nicht unnötig kategorisiert und bevormundet. Der liberale Ansatz, Geschlechtsangaben zu minimieren und Selbstbestimmung zu stärken, passt zu ihrem Verständnis eines modernen, respektvollen Staates.",
+      "begruendung_selbst": "Warum muss der Staat alles über mich wissen und festlegen? Wenn Ämter einfach mal vertrauen, statt Menschen in Schubladen zu stecken, ist das genau die Haltung, die ich mir wünsche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Qualifikation zählt, nicht Herkunft!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will ausländische Berufsabschlüsse schneller anerkennen und Hürden wie überzogene Sprachprüfungen abbauen, um Fachkräfte besser in den Arbeitsmarkt zu integrieren.",
+      "seite": 10,
+      "zitat": "ausländische Qualifikationen schneller anerkannt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin kennt aus ihrem Umfeld und ihrer Community viele Menschen, die trotz guter Ausbildung lange um Anerkennung kämpfen. Eine pragmatische Anerkennungspolitik bestätigt ihre Überzeugung, dass Leistung und nicht Herkunft zählen sollte.",
+      "begruendung_selbst": "Mein Onkel ist Ingenieur und durfte hier jahrelang nur Hilfsjobs machen, weil sein Abschluss nicht anerkannt wurde. Wenn die Partei da endlich Tempo macht, ist das überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bleiberecht an Leistung geknüpft!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei will das dauerhafte Bleiberecht an das Bestreiten des Lebensunterhalts durch Eigenleistung und das Bekenntnis zu den Grundwerten der Verfassung knüpfen.",
+      "seite": 11,
+      "zitat": "Bestreiten des Lebensunterhalts durch Eigenleistung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin befürwortet eine sachliche Migrationspolitik, die Teilhabe an eigene Anstrengung koppelt. Dass Leistung und Verfassungstreue als Kriterien genannt werden – nicht Herkunft oder Ethnie – entspricht ihrem Menschenbild.",
+      "begruendung_selbst": "Wer hier arbeitet, sich anständig verhält und unsere Werte respektiert, gehört dazu. So einfach ist das. Genau das sagt die FDP hier – ohne drumherum zu reden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verwaltung digital – weniger Willkür!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will eine vollständig digitale, nachvollziehbare Verwaltung mit verbindlichen Fristen, One-Stop-Agency für Gründer und Ausländerbehörden, die Aufenthaltstitel zur Arbeitsaufnahme binnen vier Wochen erteilen.",
+      "seite": 10,
+      "zitat": "Aufenthaltstitel innerhalb von 4 Wochen erteilt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte kennt Aylin die Intransparenz und Langsamkeit von Behörden aus erster Hand. Digitale, fristengebundene Prozesse bedeuten für sie weniger Willkür und mehr Fairness – sowohl beruflich als auch privat für Menschen mit Migrationsgeschichte.",
+      "begruendung_selbst": "Ich arbeite selbst im Amt und sehe, wie Menschen monatelang auf Bescheide warten. Wenn Verfahren digital und transparent werden, hilft das allen – und nimmt den Raum für Willkür.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Abschiebung als erstes Thema!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei kündigt an, irreguläre Migration mit aller Kraft zu bekämpfen, Abschiebungen effizienter zu gestalten, eine Abschiebungshafteinrichtung bis Ende 2027 in Betrieb zu nehmen und elektronische Fußfesseln als Alternative zu ermöglichen.",
+      "seite": 11,
+      "zitat": "Abschiebungshafteinrichtung spätestens Ende 2027 in Betrieb",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin beobachtet mit Sorge, dass selbst liberale Parteien Migration primär über Kontrolle und Abschiebung rahmen. Die Betonung von Abschiebehaft und Fußfesseln erzeugt bei ihr das Gefühl, dass Menschen mit Migrationsgeschichte vor allem als Sicherheitsproblem betrachtet werden.",
+      "begruendung_selbst": "Kaum ist das Wort 'Migration' gefallen, geht es sofort um Haft und Fußfesseln. Ich bin hier geboren, aber diese Rhetorik trifft auch mich – weil sie das Klima vergiftet und alle über einen Kamm schert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sprachkurse nur für Selbstzahler?",
+      "thema": "integration",
+      "programmpunkt": "Die Partei will Sprachkurse vorrangig für Selbstzahler oder Teilnehmer anbieten, die den üblichen Eigenanteil aus eigener Tasche entrichten wollen.",
+      "seite": 11,
+      "zitat": "Sprachkurse vorrangig für Selbstzahler",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin weiß, wie entscheidend Sprachförderung für Teilhabe ist – gerade für Menschen, die neu ankommen und wenig Geld haben. Sprachkurse primär an Eigenfinanzierung zu koppeln, widerspricht ihrem Verständnis von Chancengerechtigkeit.",
+      "begruendung_selbst": "Sprache ist der Schlüssel zu allem – Arbeit, Schule, Zugehörigkeit. Wenn man Kurse nur noch Leuten anbietet, die zahlen können, schließt man genau die aus, die es am dringendsten brauchen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Bürgergeld kürzen – hart und pauschal!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will das Bürgergeld reformieren, Sanktionen konsequent ausschöpfen, gemeinnützige Arbeitspflichten einführen und Langzeitarbeitslose zur Bürgerarbeit verpflichten, mit Leistungskürzungen bei Verweigerung.",
+      "seite": 40,
+      "zitat": "Langzeitarbeitslose zur Bürgerarbeit verpflichtet werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin befürwortet zwar Eigenverantwortung, empfindet aber die Rhetorik von 'Zwangsarbeit' und pauschalen Sanktionen als respektlos gegenüber Menschen in schwierigen Lagen. Sie fürchtet, dass dies das gesellschaftliche Klima weiter verroht.",
+      "begruendung_selbst": "Ja, wer arbeiten kann, soll auch arbeiten. Aber Menschen in Not per Zwang zu 'Bürgerarbeit' zu verdonnern und ihnen das Geld zu kürzen – das ist keine Hilfe, das ist Demütigung. So geht man nicht mit Menschen um.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Waffenverbotszonen abschaffen? Nein!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei fordert die Abschaffung aller Waffenverbotszonen im Land und damit auch die Abschaffung anlassloser Personenkontrollen in diesen Bereichen.",
+      "seite": 52,
+      "zitat": "Abschaffung aller Waffenverbotszonen im Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin bewegt sich als junge Frau selbstverständlich im öffentlichen Raum und schätzt das Sicherheitsgefühl, das sichtbare Kontrollen an Brennpunkten vermitteln. Die pauschale Abschaffung von Waffenverbotszonen empfindet sie als fahrlässig.",
+      "begruendung_selbst": "Ich gehe abends gerne durch die Stadt. Wenn an bestimmten Orten Waffen erlaubt sein sollen und die Polizei nicht mehr kontrollieren darf, fühle ich mich unsicherer – nicht freier.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Import von Konflikten – welches Framing?",
+      "thema": "integration",
+      "programmpunkt": "Die Partei lehnt den 'Import von politischen Feindschaften und gesellschaftspolitischen Konflikten' ab und verknüpft dies mit Migrationspolitik.",
+      "seite": 11,
+      "zitat": "Import von politischen Feindschaften ... lehnen wir ab",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin ist sensibel für Framing, das Menschen mit Migrationsgeschichte pauschal als Träger von Konflikten darstellt. Auch wenn die Aussage sachlich gemeint sein mag, empfindet sie die Formulierung als stigmatisierend und als Teil eines Narrativs, das 'die Anderen' zum Problem macht.",
+      "begruendung_selbst": "Was heißt das denn konkret? Dass Menschen wie ich automatisch verdächtig sind, 'Konflikte zu importieren'? Meine Familie hat mit solchen Feindschaften nichts zu tun. Solche Sätze treffen immer die Falschen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet bei der FDP klare Ansätze für Diskriminierungsschutz, pragmatische Anerkennung von Qualifikationen und eine moderne, digitale Verwaltung, die Willkür reduziert. Gleichzeitig irritiert sie die harte Rhetorik in der Migrations- und Sozialpolitik – Abschiebehaft, Sprachkurse nur für Selbstzahler und Bürgerarbeitspflichten erzeugen bei ihr das Gefühl, dass Menschen mit Migrationsgeschichte und in prekären Lagen vor allem als Problem betrachtet werden. Die Waffenverbotszonen-Abschaffung widerspricht ihrem Sicherheitsgefühl als junge Frau im öffentlichen Raum.",
+    "score": 0
+  }
+}

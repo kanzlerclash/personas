@@ -1,0 +1,125 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:51:54.553Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69687,
+    "output_tokens": 9388,
+    "cached_tokens": 63232,
+    "total_tokens": 79075,
+    "dauer_ms": 174632,
+    "usd": 0.0863255
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Schkopau sichert unsere Netze!",
+      "thema": "energie",
+      "programmpunkt": "Aufbau eines H2-ready-Gaskraftwerks in Schkopau zur Absicherung der Region.",
+      "seite": 25,
+      "zitat": "setzen wir uns für den Aufbau eines H2-ready-Gaskraftwerks in Schkopau ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny begrüßt den Fokus auf Schkopau, da dieser Standort für die Netzstabilität und die industrielle Wertschöpfung in seiner Region unverzichtbar ist. Ein neues Gaskraftwerk bietet ihm und seinen Kollegen eine konkrete Perspektive für den Strukturwandel.",
+      "begruendung_selbst": "Endlich denkt mal jemand an Schkopau! Ohne grundlastfähige Backups wie ein H2-Kraftwerk gehen hier im Chemiedreieck die Lichter aus. Das sichert uns den Standort und gibt meinen Leuten eine Zukunft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff rettet die Chemie-Region.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Konsequenter Ausbau der Wasserstoffinfrastruktur, um die chemische Industrie wettbewerbsfähig zu halten.",
+      "seite": 27,
+      "zitat": "Deshalb setzen wir auf den konsequenten Ausbau der Wasserstoffinfrastruktur.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die chemische Industrie ist der wichtigste Arbeitgeber in Ronnys Umfeld. Die Anerkennung, dass diese Branche ohne Wasserstoff nicht überlebensfähig ist, bestätigt seine Hoffnung auf technologieoffene Investitionen statt pauschaler Deindustrialisierung.",
+      "begruendung_selbst": "Genau das sage ich immer: Unsere Chemiepark-Jobs hängen am Wasserstoff. Wenn die Infrastruktur kommt, bleibt die Wertschöpfung hier und wir rutschen nicht in die Bedeutungslosigkeit ab.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich faire Industriestrompreise!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Senkung der Energiepreise für Unternehmen durch die Einführung eines niedrigeren Industriestrompreises.",
+      "seite": 88,
+      "zitat": "und arbeiten daran, Energiepreise für Unternehmen zu senken, etwa durch einen niedrigeren Industriestrompreis.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Strompreise bedrohen die energieintensive Industrie in Sachsen-Anhalt direkt. Ronny sieht in dieser Forderung ein wichtiges Signal, dass die Partei die ökonomischen Realitäten der hiesigen Produktionsstandorte ernst nimmt.",
+      "begruendung_selbst": "Wenn der Strompreis so hoch bleibt, wandern die Betriebe ab und wir schauen in die Röhre. Ein Industriestrompreis ist überfällig, damit sich Produktion hier überhaupt noch rechnet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netzausbau sichert die Versorgung.",
+      "thema": "energie",
+      "programmpunkt": "Sanierung, Optimierung und Ausbau der Stromnetze zur dauerhaften Garantie der Versorgungssicherheit.",
+      "seite": 24,
+      "zitat": "Die Energiewende braucht funktionierende und belastbare Netze.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Fachmann weiß Ronny, dass die Energiewende ohne massive Netzinvestitionen scheitert. Dass die Partei die physische Infrastruktur und Versorgungssicherheit priorisiert, entspricht seinem pragmatischen Berufsalltag.",
+      "begruendung_selbst": "Reden ist Silber, Netze bauen ist Gold. Ohne die Hardware und belastbare Leitungen nützt uns die ganze Theorie nichts. Gut, dass das endlich mal jemand ausspricht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "CCS-Verbot reißt Brücke weg!",
+      "thema": "energie",
+      "programmpunkt": "Strikte Ablehnung der CCS-Technologie zur CO₂-Abscheidung und Speicherung.",
+      "seite": 26,
+      "zitat": "Zudem lehnen wir auch die Technologie des Carbon Capture and Storage (CCS) zur Abscheidung,",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Ronny ist CCS eine unverzichtbare Brückentechnologie, um die bestehende Industrie und Kraftwerksinfrastruktur im Strukturwandel zu erhalten. Die pauschale Ablehnung empfindet er als ideologischen Schlag gegen die Überlebensfähigkeit seiner Region.",
+      "begruendung_selbst": "Das ist doch blanker Unsinn! CCS wäre unsere Chance gewesen, die bestehenden Anlagen klimafreundlich weiterzubetreiben, bis die Alternativen wirklich skalieren. So reißen sie uns die Brücke unter den Füßen weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausstieg ohne Plan killt Jobs!",
+      "thema": "energie",
+      "programmpunkt": "Streichung von Lützen als Braunkohle-Vorranggebiet und Annahme eines früheren, marktgetriebenen Kohleausstiegs.",
+      "seite": 25,
+      "zitat": "Deswegen werden wir die Festlegung von Lützen als Vorranggebiet für Braunkohle im Landesentwicklungsplan streichen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die vorzeitige Streichung von Abbaugebieten ohne greifbaren industriellen Ersatz bedroht Ronnys Arbeitsplatz und die regionale Identität. Er fürchtet, dass politische Enddaten gesetzt werden, bevor die neue Wertschöpfung tatsächlich vor Ort angekommen ist.",
+      "begruendung_selbst": "Erst muss das Neue stehen, dann kann ich das Alte abschalten. Lützen einfach aus dem Plan zu kippen, bevor die Ersatzindustrien da sind, ist ein Todesurteil für unsere Familien und den Standort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "2035 ist völlig unrealistisch!",
+      "thema": "klima",
+      "programmpunkt": "Forderung nach einem Klimaschutzgesetz für ein klimaneutrales Sachsen-Anhalt bis 2035.",
+      "seite": 10,
+      "zitat": "Für ein klimaneutrales Sachsen-Anhalt bis 2035 braucht es ein ambitioniertes Klimaschutzgesetz",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny hält das Ziel der Klimaneutralität bis 2035 für ein industrielles Himmelfahrtskommando. Er blickt skeptisch auf eine Klimapolitik, die seiner Ansicht nach die physikalischen und ökonomischen Grenzen einer Schwerindustrieregion ignoriert.",
+      "begruendung_selbst": "Wer 2035 fordert, hat noch nie ein Kraftwerk oder eine Chemieanlage von innen gesehen. Das ist reine Ideologie auf dem Reißbrett – in der Praxis bedeutet das nur Deindustrialisierung und Massenarbeitslosigkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gas ist unsere wichtige Brücke!",
+      "thema": "energie",
+      "programmpunkt": "Entschiedene Ablehnung neuer Vorhaben zur Erdgasförderung und Fracking.",
+      "seite": 26,
+      "zitat": "Wir stellen uns entschlossen gegen neue Vorhaben zur Förderung von Erdgas, insbesondere mittels Fracking.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Erdgas ist für Ronny der essenzielle Partner der Erneuerbaren und sichert die Grundlast. Die pauschale Verteufelung von Gasprojekten gefährdet aus seiner Sicht die Versorgungssicherheit und den Übergang zu Wasserstoff.",
+      "begruendung_selbst": "Wir brauchen Gas als Back-up und als Grundlage für die Wasserstoffwirtschaft. Wenn wir uns jede Option verbieten, stehen wir im Winter im Dunkeln. Das ist fahrlässig für unsere Industrie.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny erkennt im Programm durchaus positive Ansätze für den Strukturwandel, insbesondere den Fokus auf Wasserstoffinfrastruktur, das H2-Kraftwerk Schkopau und den Netzausbau. Die pauschale Ablehnung von Brückentechnologien wie CCS und Erdgas sowie das aggressive Klimaneutralitätsziel 2035 und die Streichung von Kohle-Vorranggebieten ohne greifbaren Ersatz überlagern diese Hoffnungen jedoch massiv. Für ihn wirkt das Programm an den entscheidenden Stellen wie ein ideologisch getriebenes Risiko für die industrielle Basis und die Arbeitsplätze seiner Heimatregion.",
+    "score": -1
+  }
+}

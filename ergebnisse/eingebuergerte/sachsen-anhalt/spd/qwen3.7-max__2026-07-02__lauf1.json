@@ -1,0 +1,113 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:48:47.965Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39853,
+    "output_tokens": 4554,
+    "cached_tokens": 37888,
+    "total_tokens": 44407,
+    "dauer_ms": 86491,
+    "usd": 0.0387895
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich ein Antidiskriminierungsgesetz!",
+      "thema": "demokratie",
+      "programmpunkt": "Die SPD plant ein Landesantidiskriminierungsgesetz, das die Rechte von Betroffenen stärkt und ihnen rechtliche Handhabe gegen Benachteiligung gibt.",
+      "seite": 23,
+      "zitat": "Mit einem Landes-Antidiskriminierungsgesetz stärken wir die Rechte der Betroffenen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt Alltagsdiskriminierung als wiederkehrende Verletzung. Ein gesetzlicher Schutzrahmen auf Landesebene signalisiert ihr, dass der Staat ihre Erfahrungen ernst nimmt und ihr Rechte zur Wehr gibt – nicht nur moralische Appelle.",
+      "begruendung_selbst": "Endlich gibt es nicht nur Worte, sondern ein Gesetz. Wenn mich jemand benachteiligt, kann ich mich wehren. Das ist längst überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klare Kante gegen die AfD!",
+      "thema": "demokratie",
+      "programmpunkt": "Die SPD setzt sich für die Prüfung eines AfD-Verbotsverfahrens über eine Bundesratsinitiative ein und benennt Rechtsextremismus als reale Gefahr für die Demokratie.",
+      "seite": 20,
+      "zitat": "für die Prüfung eines AfD-Verbotsverfahrens über eine Bundesratsinitiative ein",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin empfindet die AfD und ihre 'Remigrations'-Rhetorik als direkten Angriff auf ihre Existenz und die ihrer Familie. Dass die SPD ein Verbotsverfahren prüfen will, bestätigt ihre Erwartung, dass die wehrhafte Demokratie sich gegen diejenigen stellt, die Menschen wie sie ausgrenzen wollen.",
+      "begruendung_selbst": "Die reden über 'Remigration' – über mich, die hier geboren ist! Endlich sagt eine Partei klar: Wir prüfen, ob das verfassungswidrig ist. Das ist mein Rechtsstaat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vielfalt ist Realität. Punkt.",
+      "thema": "integration",
+      "programmpunkt": "Das Programm stellt fest, dass Vielfalt zur Realität Sachsen-Anhalts gehört und ihr Schutz Voraussetzung für eine offene Gesellschaft ist.",
+      "seite": 23,
+      "zitat": "Vielfalt gehört zur Realität Sachsen-Anhalts. Sie zu schützen ist Voraussetzung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin wünscht sich Anerkennung als selbstverständlicher Teil der Gesellschaft. Die Formulierung, dass Vielfalt schlicht Realität ist – und kein Zugeständnis –, gibt ihr das Gefühl, dass ihre Zugehörigkeit nicht verhandelbar ist.",
+      "begruendung_selbst": "Ich bin Teil dieses Landes. Nicht weil ich nett bin oder mich anstrenge, sondern weil ich hier bin. Dass das endlich jemand ausspricht, bedeutet mir viel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rassismuskritik in der Verwaltung!",
+      "thema": "integration",
+      "programmpunkt": "Rassismuskritische Bildungsarbeit soll in Verwaltung, Schulen und Polizei ausgebaut werden, um institutionelle Sensibilität zu stärken.",
+      "seite": 23,
+      "zitat": "Rassismuskritische Bildungsarbeit in Verwaltung, Schulen und Polizei wird ausgebaut.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte kennt Aylin die Strukturen von innen. Sie weiß, dass Diskriminierung nicht nur auf der Straße passiert, sondern auch in Behörden. Der Ausbau rassismuskritischer Bildung in der Verwaltung trifft ihren Wunsch nach einem Arbeitsumfeld, in dem Herkunft kein Thema sein muss.",
+      "begruendung_selbst": "Ich sitze jeden Tag im Amt. Ich weiß, wie da geredet wird – auch über Menschen wie mich. Wenn die Verwaltung endlich lernt, sensibel zu sein, wäre das ein Riesenschritt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Willkommenskultur statt Misstrauen",
+      "thema": "integration",
+      "programmpunkt": "Das Welcome Center soll zu einer Agentur für Gewinnung und Integration ausländischer Fachkräfte weiterentwickelt werden; interkulturelle Kompetenzen in Verwaltung und Betrieben werden gestärkt.",
+      "seite": 8,
+      "zitat": "Welcome Center zu einer Agentur zur Gewinnung und Integration",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin beobachtet die Migrationsdebatte sehr genau. Ein Welcome Center, das aktiv integriert statt nur verwaltet, und der Ausbau interkultureller Kompetenz signalisieren ihr, dass die SPD Zuwanderung als Gestaltungsaufgabe begreift – nicht als Bedrohung.",
+      "begruendung_selbst": "Statt Menschen wie ein Problem zu behandeln, baut man Strukturen auf, die ihnen das Ankommen erleichtern. So stelle ich mir sachliche Migrationspolitik vor.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ich bin kein Lückenfüller!",
+      "thema": "integration",
+      "programmpunkt": "Zuwanderung wird primär mit dem Fach- und Arbeitskräftemangel begründet; Migration soll 'geordnet, gestaltet und integrationsorientiert' erfolgen, damit Menschen ihren Lebensunterhalt selbst sichern können.",
+      "seite": 8,
+      "zitat": "Fach- und Arbeitskräftemangel macht deutlich: Sachsen-Anhalt ist auf Zuwanderung angewiesen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin ist hier geboren – sie ist kein 'Zuwanderer', der wegen Arbeitskräftemangel gebraucht wird. Die rein ökonomische Begründung für Migration reduziert Menschen auf ihre Nützlichkeit und lässt die Frage nach bedingungsloser Zugehörigkeit außen vor.",
+      "begruendung_selbst": "Ich bin hier geboren, aufgewachsen, ich arbeite hier. Ich bin nicht hier, weil ihr Fachkräfte braucht. Ich bin hier, weil das mein Zuhause ist. Diese ständige Nützlichkeitslogik nervt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bleiberecht nur für 'Nützliche'?",
+      "thema": "integration",
+      "programmpunkt": "Das neue Staatsangehörigkeitsrecht soll konsequent umgesetzt werden, wobei der Fokus auf Menschen liegt, die eine Ausbildung begonnen haben oder einer existenzsichernden Beschäftigung nachgehen.",
+      "seite": 8,
+      "zitat": "Wer eine Ausbildung begonnen hat oder einer lebensunterhaltssichernden Beschäftigung nachgeht, soll bleiben können.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Konditionalität des Bleiberechts – wer leistet, darf bleiben – widerspricht Aylins Menschenbild, dass Zugehörigkeit sich an Teilhabe und Recht bemisst, nicht an ökonomischer Verwertbarkeit. Sie fürchtet, dass solche Formulierungen ausgrenzende Narrative bedienen.",
+      "begruendung_selbst": "Was ist mit Menschen, die krank werden, die Pflege brauchen, die einfach nicht 'leisten' können? Gehören die dann nicht mehr dazu? Zugehörigkeit darf nicht vom Gehaltszettel abhängen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das SPD-Programm adressiert Aylins Kernanliegen – Diskriminierungsschutz, klare Haltung gegen Rechtsextremismus und die Anerkennung von Vielfalt als Realität – mit konkreten Maßnahmen wie einem Landesantidiskriminierungsgesetz und der Prüfung eines AfD-Verbots. Gleichzeitig stört sie die überwiegend ökonomische Framing von Migration, die Menschen auf ihre Nützlichkeit reduziert und bedingungslose Zugehörigkeit nicht ausreichend anerkennt. Insgesamt überwiegen die positiven Berührungspunkte deutlich.",
+    "score": 1
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:23:51.381Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82405,
+    "output_tokens": 10140,
+    "cached_tokens": 78336,
+    "total_tokens": 92545,
+    "dauer_ms": 184584,
+    "usd": 0.0884465
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich faire Solo-Steuer!",
+      "thema": "steuern",
+      "programmpunkt": "Die Gewerbesteuer soll zu einer Gemeindewirtschaftssteuer weiterentwickelt werden, die auch Solo-Selbstständige und kleine Dienstleister einbezieht – aber mit einem einheitlichen Freibetrag von 24.500 Euro, um kleine Existenzen zu schützen.",
+      "seite": 18,
+      "zitat": "Alle selbstständig erwirtschafteten Einkommen werden einbezogen – mit einem einheitlichen Freibetrag von 24.500 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike bewegt sich mit ihrem schwankenden Einkommen oft unterhalb oder knapp oberhalb solcher Freibeträge. Die Idee, Solo-Selbstständige steuerlich einzubeziehen, aber durch einen Freibetrag zu schützen, signalisiert, dass die Partei ihre prekäre Lage versteht und nicht einfach zusätzliche Lasten auf die Kleinsten abwälzen will.",
+      "begruendung_selbst": "Endlich denkt mal jemand an uns Kleinst-Selbstständige! Ein Freibetrag, der mich nicht erdrückt – das wäre mal was anderes als dieses ständige 'Ihr seid doch Unternehmer, zahlt mal schön'.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kultur ist Daseinsvorsorge!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Kultur wird als Teil der öffentlichen Daseinsvorsorge verstanden; es sollen langfristige institutionelle Förderungen statt kurzfristiger Projektförderung etabliert, Mindesthonorare für Künstler:innen verbindlich eingeführt und die freie Kulturszene verlässlich finanziert werden.",
+      "seite": 70,
+      "zitat": "verbindliche Mindesthonorare für Künstler:innen, gerade bei öffentlich geförderten Projekten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Solo-Kreative im Design-/Contentbereich ist Mareike direkt von Honorarstrukturen und Kulturförderung abhängig. Die Forderung nach Mindesthonoraren und verstetigter Förderung statt Projektwahn trifft ihren Kernwunsch nach planbarer, fairer Arbeit.",
+      "begruendung_selbst": "Mindesthonorare! Ja! Ich bin es so leid, dass öffentliche Projekte mit 'Wir haben leider kein Budget' kommen, aber dann erwarten, dass ich trotzdem liefere. Und diese ewige Projekthopserei – endlich mal verlässliche Strukturen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie-Abbau vor Digitalisierung!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Vor jeder Digitalisierung der Verwaltung sollen Prozesse systematisch analysiert, überflüssige Aufgaben gestrichen und widersprüchliche Verfahren vereinfacht werden. Erst danach soll Technologie eingesetzt werden.",
+      "seite": 143,
+      "zitat": "Überflüssige Aufgaben werden gestrichen, komplizierte und widersprüchliche Verfahren vereinfacht",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist als Soloselbstständige permanent mit Bürokratie konfrontiert – Finanzamt, KSK, Förderanträge. Der Ansatz, erst Prozesse zu entrümpeln und dann zu digitalisieren, statt schlechte analoge Verfahren in schlechte digitale zu verwandeln, spricht ihre tägliche Frustration direkt an.",
+      "begruendung_selbst": "Genau! Erst mal aufräumen, bevor ihr alles digitalisiert. Ich brauche kein schickes Portal für ein Formular, das sowieso keinen Sinn macht. Weniger Bürokratie wäre schon die halbe Miete.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schutz vor Scheinselbstständigkeit!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert faire Arbeitsmigration und Schutz vor Ausbeutung, mit klaren Regeln gegen prekäre Beschäftigungsmodelle, sowie eine Ausbildungsumlage, die Betriebe an den Kosten beteiligt, die nicht selbst ausbilden.",
+      "seite": 86,
+      "zitat": "Ausbildungsumlage, die Ausbildungsbetriebe entlaste t und Betriebe, die nicht selbst ausbilden, an den Kosten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike kennt die Grauzone zwischen Solo-Selbstständigkeit und Scheinselbstständigkeit aus der Kreativbranche. Die generelle Haltung gegen Ausbeutung prekärer Arbeitsmodelle und für faire Bedingungen signalisiert, dass ihre unsichere Arbeitssituation politisch ernst genommen wird.",
+      "begruendung_selbst": "Es geht nicht nur um die Großen in der Logistik – auch in der Kreativbranche werden Leute als 'Freelancer' behandelt, die eigentlich Angestellte wären. Gut, dass das mal jemand beim Namen nennt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Teilhabe ohne Zwang!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Partei lehnt Digitalzwang ab: Wer Behördengänge analog erledigen möchte, soll das weiterhin können. Gleichzeitig sollen öffentliche digitale Angebote barrierefrei sein und es physische Anlaufstellen in allen Landkreisen geben.",
+      "seite": 149,
+      "zitat": "Wer Behördengänge analog erledigen möchte, muss das auch weiterhin können",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Obwohl Mareike digital-affin ist, erlebt sie, dass digitale Verwaltung oft neue Hürden schafft statt alte abzubauen. Die Kombination aus digitalem Angebot und analoger Option gibt ihr die Flexibilität, die sie als Selbstständige mit unregelmäßigem Alltag braucht.",
+      "begruendung_selbst": "Ich bin digital unterwegs, klar. Aber wenn das Portal mal wieder down ist oder ich zwischen zwei Deadlines keine Zeit für den Online-Workshop habe, will ich einfach anrufen können. Das ist kein Luxus, das ist Realität.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kreativwirtschaft wird gefördert!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Es soll ein Landesförderprogramm für kulturelle Teilhabe und Vielfalt geben, das lokale Kreativwirtschaft, offene Werkstätten und partizipative Kulturprojekte fördert. Zudem wird eine verstetigte Landesförderung von Klubs und Musikspielstätten angestrebt.",
+      "seite": 70,
+      "zitat": "Landesförderprogramm zur kulturellen Teilhabe und Vielfalt , das",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike arbeitet in der Kreativwirtschaft und ist auf ein Ökosystem aus Förderungen, Spielstätten und kultureller Infrastruktur angewiesen. Die explizite Nennung der Kreativwirtschaft als Förderziel bestätigt ihre Hoffnung, dass ihre Branche als Wirtschaftsfaktor anerkannt wird.",
+      "begruendung_selbst": "Kreativwirtschaft ist auch Wirtschaft! Wir sind nicht nur 'was mit Leidenschaft' – wir sind ein Wirtschaftszweig, der Förderung und faire Bedingungen verdient. Endlich sagt das mal jemand.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wo bleibt die KSK?",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm fordert eine solidarische Pflegevollversicherung und eine gemeinsame gesetzliche Rentenversicherung, in die alle einzahlen müssen, sowie die Einbeziehung von Kapitalerträgen in die Beitragsbemessung.",
+      "seite": 56,
+      "zitat": "solidarische Pflegevollversicherung auf Bundesebene, damit pflegebedingte Eigenanteile abgeschafft werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist über die Künstlersozialkasse (KSK) versichert – ein spezifisches System für Solo-Kreative. Das Programm spricht umfassend über solidarische Versicherungssysteme, erwähnt aber die KSK und ihre besondere Gefährdung mit keiner Silbe. Für Mareike fühlt sich das an, als würde ihre spezifische Absicherungssituation übersehen.",
+      "begruendung_selbst": "Alle reden über Rentenversicherung und Pflege – aber kein Wort zur KSK! Die ist mein einziger Anker, und die steht seit Jahren unter Beschuss. Wenn die kippt, bin ich nackt. Hallo? Wir existieren auch!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krank im Hamsterrad!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm fordert umfassende Verbesserungen im Gesundheitssystem, stationäre Versorgung in öffentliche Hand, flächendeckende medizinische Versorgung und bessere Arbeitsbedingungen für Pflegepersonal.",
+      "seite": 47,
+      "zitat": "Stationäre Versorgung in öffentliche Hand",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Während das Programm ausführlich die Probleme von Arbeitnehmer:innen und Pflegebedürftigen adressiert, fehlt jede Aussage zur spezifischen Krankenversicherungssituation von Soloselbstständigen: hohe Mindestbeiträge, kein Krankengeld, kein Schutz bei Auftragsflaute. Mareikes zentrale Sorge – Krankheit ohne Auffangnetz – wird nicht berührt.",
+      "begruendung_selbst": "Krankenhäuser, Pflege, alles wichtig – aber was ist mit mir? Wenn ich drei Wochen krank bin, verdiene ich null Euro. Kein Krankengeld, keine Lohnfortzahlung. Da steht einfach nichts. Gar nichts.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Wort zu Soloschutz!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm fordert ein Recht auf Vollzeit, Rückkehrrecht aus Teilzeit, sechs Wochen Urlaub für alle Beschäftigten und langfristig die 35-Stunden-Woche bei vollem Lohn.",
+      "seite": 86,
+      "zitat": "sechs Wochen Urlaub für alle Beschäftigten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die arbeitspolitischen Forderungen konzentrier sich fast ausschließlich auf abhängig Beschäftigte. Für Soloselbstständige wie Mareike gibt es kein 'Recht auf Urlaub', keinen Schutz bei Auftragsflaute, keine Arbeitslosenversicherung. Die Partei adressiert Arbeitnehmerrechte umfassend, lässt aber die spezifische soziale Absicherung von Solo-Selbstständigen komplett aus.",
+      "begruendung_selbst": "Sechs Wochen Urlaub – schön für Angestellte! Aber wer zahlt meinen Urlaub? Wer fängt mich auf, wenn zwei Monate keine Aufträge kommen? Ich falle durch jedes Raster, und hier falle ich wieder durch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermögenssteuer trifft mich!",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei fordert eine Bundesratsinitiative zur Wiedereinführung der Vermögenssteuer – 1 Prozent auf Vermögen über einer Million Euro.",
+      "seite": 17,
+      "zitat": "Eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike hat selbst kein Vermögen in dieser Größenordnung und befürwortet grundsätzlich, dass Starke mehr beitragen. Allerdings merkt sie an, dass die Debatte um Vermögenssteuer oft an den realen Problemen der Kleinselbstständigen vorbeigeht – sie zahlt schon jetzt überproportional viel im Verhältnis zu ihrem schwankenden Einkommen.",
+      "begruendung_selbst": "Klar, die mit der Million sollen ruhig was abgeben. Aber ehrlich: Mir hilft das null. Mein Problem sind die monatlichen KSK-Beiträge und die Steuervorauszahlungen in Monaten, wo ich kaum was reinbekomme.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Altersarmut vorprogrammiert!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm fordert das Rentenniveau auf 53 Prozent anzuheben und eine gemeinsame gesetzliche Rentenversicherung, in die alle einzahlen müssen.",
+      "seite": 44,
+      "zitat": "Rentenniveau im Bund auf 53 Prozent anheben und eine gemeinsame gesetzliche Rentenversicherung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike zahlt über die KSK in die gesetzliche Rentenversicherung ein, aber ihre Beiträge sind aufgrund des schwankenden Einkommens niedrig. Das Programm fordert zwar eine gemeinsame Rentenversicherung für alle, adressiert aber nicht die spezifische Problematik von Soloselbstständigen, die durch unregelmäßige Einzahlungen systematisch Altersarmut riskieren.",
+      "begruendung_selbst": "53 Prozent Rentenniveau – super. Aber was nützt mir das, wenn meine Einzahlungen so mickrig sind, weil ich mal drei Monate kaum verdiene? Ich bräuchte flexible, faire Modelle für Selbstständige, nicht nur große Rentenreform-Rhetorik.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet bei der Linken einige hoffnungsvolle Signale: Mindesthonorare für Kreative, Bürokratieabbau vor Digitalisierung und den Schutz kleiner Selbstständiger bei Steuerreformen. Gleichzeitig vermisst sie schmerzlich jede Erwähnung der Künstlersozialkasse, der spezifischen Krankenversicherungslücke bei Soloselbstständigen und eines Auffangnetzes bei Auftragsflaute. Die arbeits- und sozialpolitischen Forderungen der Partei kreisen fast ausschließlich um abhängig Beschäftigte – Mareike fällt, wie so oft, durch das Raster.",
+    "score": 0
+  }
+}

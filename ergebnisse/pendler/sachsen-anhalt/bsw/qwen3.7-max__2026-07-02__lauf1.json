@@ -1,0 +1,149 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:13:06.723Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66023,
+    "output_tokens": 8401,
+    "cached_tokens": 65280,
+    "total_tokens": 74424,
+    "dauer_ms": 155769,
+    "usd": 0.07092625
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Schluss mit CO2-Abzocke!",
+      "thema": "energie",
+      "programmpunkt": "Die CO2-Abgabe soll abgeschafft oder ausgesetzt werden; Einnahmen daraus sollen als Klimaprämie an Bürger zurückfließen.",
+      "seite": 27,
+      "zitat": "Daher fordern wir, diese ungerechte Steuer auszusetzen oder abzuschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf spürt die CO2-Bepreisung direkt an der Zapfsäule und beim Heizen. Die Forderung nach Abschaffung der CO2-Abgabe entspricht exakt seinem Wunsch, dass Pendeln und Energie nicht künstlich verteuert werden, ohne dass es Alternativen gibt.",
+      "begruendung_selbst": "Jeden Cent CO2-Abgabe zahl ich beim Tanken und Heizen – und hier fährt kein Bus. Endlich will jemand diese Abzocke stoppen!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Verbrenner-Verbot!",
+      "thema": "verkehr",
+      "programmpunkt": "Ein pauschales Verbrennerverbot wird abgelehnt; die Partei setzt auf technologieoffene Mobilität inklusive synthetischer Kraftstoffe.",
+      "seite": 32,
+      "zitat": "Ein pauschales Verbrennerverbot lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist auf sein Auto angewiesen und kann sich kein E-Auto leisten. Die Ablehnung des Verbrenner-Verbots bestätigt seine Hoffnung, dass sein Diesel nicht per Gesetz entwertet wird.",
+      "begruendung_selbst": "Mein Diesel läuft noch Jahre. Wer mir vorschreibt, was ich fahren muss, hat keine Ahnung von meinem Alltag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sprit darf nicht teurer werden!",
+      "thema": "energie",
+      "programmpunkt": "Die Energiesteuern sollen gesenkt und die CO2-Abgabe abgeschafft werden; keine Tankstelle soll Sprit über 1,50 Euro anbieten dürfen.",
+      "seite": 7,
+      "zitat": "Keine Tankstelle darf Sprit über 1,50 Euro anbieten!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Spritkosten sind für Toralf ein schmerzhafter, fixer Posten. Die Forderung nach einer Preisobergrenze und Steuersenkung bei Energie trifft seinen Kernwunsch nach bezahlbarem Pendeln.",
+      "begruendung_selbst": "1,50 Euro – das wär mal eine Ansage! Ich fahr 45 Minuten zur Arbeit, da läppert sich jeder Cent.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industrie hier halten!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Deindustrialisierung soll gestoppt werden; energieintensive Industrien wie Chemie und Maschinenbau sollen durch bezahlbare Energie und aktive Industriepolitik gesichert werden.",
+      "seite": 17,
+      "zitat": "Besonders betroffen sind die Chemieindustrie, die Ernährungswirtschaft und der",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Arbeitsplatz als Industriemechaniker hängt direkt an der industriellen Basis Sachsen-Anhalts. Das Bekenntnis zum Erhalt energieintensiver Industrien sichert seine Existenzgrundlage.",
+      "begruendung_selbst": "Wenn die Betriebe hier dichtmachen, steh ich auf der Straße. Gut, dass das mal jemand sagt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auto bleibt unverzichtbar!",
+      "thema": "verkehr",
+      "programmpunkt": "Eine erzwungene Verkehrswende wird abgelehnt; in vielen Regionen bleibt das Auto unverzichtbar, und es sollen attraktive Alternativen nur dort geschaffen werden, wo es realistisch ist.",
+      "seite": 32,
+      "zitat": "In vielen Regionen Sachsen-Anhalts bleibt das Auto auf absehbare Zeit unverzichtbar.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fühlt sich von urbaner Verkehrspolitik übergangen. Die Anerkennung, dass das Auto auf dem Land unverzichtbar ist, bestätigt seine Lebensrealität und nimmt den Druck, sich für sein Auto rechtfertigen zu müssen.",
+      "begruendung_selbst": "Endlich sagt mal jemand: Auf dem Dorf brauchst du dein Auto. Hier fährt doch kein Bus nach Schichtplan!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenfreie Fahrt für die Kinder!",
+      "thema": "verkehr",
+      "programmpunkt": "Schulkinder und Auszubildende sollen kostenfreien Zugang zum Nahverkehr erhalten, unabhängig vom Wohnort.",
+      "seite": 33,
+      "zitat": "Für Schulkinder und Auszubildende fordern wir einen kostenfreien Zugang zum Nahverkehr.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Kinder sind im Schulalter und auf den Schulbus angewiesen. Kostenfreier Nahverkehr für Schüler entlastet das Familienbudget direkt.",
+      "begruendung_selbst": "Schulbus kostet auch Geld – wenn das wegfällt, ist das für uns schon eine spürbare Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tariflohn für meine Arbeit!",
+      "thema": "arbeit",
+      "programmpunkt": "Öffentliche Aufträge und Fördermittel sollen nur an tarifgebundene Unternehmen vergeben werden; ein Mindestlohn von 15 Euro wird gefordert.",
+      "seite": 22,
+      "zitat": "Öffentliche Aufträge und Fördermittel dürfen nur an tarifgebundene Unternehmen vergeben werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Facharbeiter im Schichtbetrieb profitiert Toralf von Tarifbindung. Die Forderung nach Tariftreue bei öffentlichen Aufträgen stärkt seine Verhandlungsposition und sichert faire Löhne.",
+      "begruendung_selbst": "Ich schufte im Schichtbetrieb – da muss am Ende auch was Anständiges rauskommen, nicht nur der Mindestlohn.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Quoten statt Lösungen!",
+      "thema": "integration",
+      "programmpunkt": "Es soll eine Obergrenze von 30 Prozent für den Anteil von Kindern mit Migrationshintergrund in Kindergärten und Schulklassen geben; Kinder sollen in andere Stadtviertel transportiert werden.",
+      "seite": 65,
+      "zitat": "Eine Quote von 30 % nicht überschritten werden sollte.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf ist pragmatisch und ergebnisorientiert. Quotenregelungen und der Transport von Kindern in andere Viertel erscheinen ihm als bürokratische Scheinlösungen, die am eigentlichen Problem – funktionierende Schulen und Integration durch Arbeit – vorbeigehen.",
+      "begruendung_selbst": "Kinder durch die Gegend karren, damit die Quote stimmt? Das ist doch kein Konzept – kümmert euch lieber um vernünftige Schulen!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnort-Zwang für Migranten?",
+      "thema": "integration",
+      "programmpunkt": "Städte sollen verpflichtet werden, Migranten gleichmäßig in allen Stadtvierteln unterzubringen; es soll eine Obergrenze für die Belegung von Wohnungen mit Zuwanderern in Wohnvierteln geben.",
+      "seite": 65,
+      "zitat": "Städte verpflichtet werden, Migranten in allen Stadtvierteln gleichmäßig unterzubringen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf steht für Bodenständigkeit und Pragmatismus. Staatliche Wohnortzuweisungen für Migranten wirken auf ihn wie planwirtschaftliche Eingriffe, die er aus seiner DDR-Erfahrung heraus skeptisch sieht – auch wenn er Integration wichtig findet.",
+      "begruendung_selbst": "Leute vorschreiben, wo sie wohnen müssen – das hatten wir doch schon mal. Wer arbeiten will und sich anständig benimmt, soll doch wohnen, wo er will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Windräder ja, aber nicht überall!",
+      "thema": "energie",
+      "programmpunkt": "Photovoltaikanlagen sollen vorrangig auf Dächern, Parkplätzen und versiegelten Flächen errichtet werden, nicht auf Ackerland oder im Wald.",
+      "seite": 24,
+      "zitat": "Neue Photovoltaikanlagen gehören auf Dächer, Parkplatzüberdachungen und bereits versiegelte Flächen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dieser Punkt bestätigt Toralfs Sicht, dass die Energiewende nicht auf Kosten der ländlichen Bevölkerung gehen soll. Er ärgert sich über Solarfelder auf Ackerland in seiner Region, während Städter davon profitieren.",
+      "begruendung_selbst": "Die pflastern uns die Felder voll mit Solarpanels, und wir auf dem Dorf zahlen die Netzentgelte. Auf die Dächer gehört das Zeug!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet im BSW-Programm starke Bestätigungen seiner Kernanliegen: bezahlbares Pendeln ohne ideologische Verbote, Schutz seines Industriearbeitsplatzes und Entlastung bei Energie- und Spritkosten. Die Ablehnung des Verbrenner-Verbots und die Forderung nach Abschaffung der CO2-Abgabe treffen seine Lebensrealität als Dorfbewohner ohne ÖPNV-Alternative. Irritationen lösen bei ihm die detaillierten Migrationsvorgaben aus, die ihm zu bürokratisch und planwirtschaftlich wirken – er will Integration durch Arbeit, nicht durch Quoten und Wohnortzuweisungen.",
+    "score": 1
+  }
+}

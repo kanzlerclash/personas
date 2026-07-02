@@ -1,0 +1,138 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:33:57.630Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 77005,
+    "output_tokens": 9107,
+    "cached_tokens": 0,
+    "total_tokens": 86112,
+    "dauer_ms": 175740,
+    "usd": 0.15509
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen muss bezahlbar bleiben!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will den sozialen Wohnungsbau fördern und kommunale Wohnungsgesellschaften unterstützen, um bezahlbaren Wohnraum als Teil der Daseinsvorsorge zu sichern.",
+      "seite": 15,
+      "zitat": "Die soziale Wohnraumversorgung ist ein Element der Daseinsvorsorge.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt in einer WG zur Miete und spürt den finanziellen Druck am Monatsende. Die Anerkennung von Wohnraum als Daseinsvorsorge und die Förderung bezahlbarer Wohnungen decken sich mit ihrer Forderung nach sozialer Teilhabe und Entlastung bei den Lebenshaltungskosten.",
+      "begruendung_selbst": "Wenn die Miete jeden Monat mein ganzes BAföG auffrisst, ist das keine Freiheit. Gut, dass hier wenigstens jemand anerkennt, dass Wohnen ein Grundrecht und keine reine Marktspekulation sein darf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gesundheit ist keine Ware!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei lehnt den Verkauf kommunaler Krankenhäuser an private Konzerne ab und fordert, dass das Patientenwohl und die öffentliche Trägerschaft Vorrang vor Profitinteressen haben.",
+      "seite": 20,
+      "zitat": "Gesundheit aber ist keine Ware und darf deshalb nicht dem freien Markt ausgeliefert werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule steht wirtschaftsliberaler 'Eigenverantwortung' skeptisch gegenüber und fordert, dass der Staat Schutz und Teilhabe ermöglicht. Die Ablehnung von Profitlogik im Gesundheitswesen entspricht ihrer solidarischen Grundhaltung.",
+      "begruendung_selbst": "Es kotzt mich an, wenn mit kranken Menschen Profite gemacht werden. Dass hier mal jemand sagt, Gesundheit gehört nicht an die Börse, unterschreibe ich sofort – auch wenn es von der falschen Partei kommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit dem Verschulungs-Wahnsinn!",
+      "thema": "bildung",
+      "programmpunkt": "Die Partei will das BA/MA-System abschaffen und zu den traditionellen deutschen Studienabschlüssen zurückkehren, um akademische Freiheit und Gründlichkeit zu fördern.",
+      "seite": 8,
+      "zitat": "Der sogenannte Bologna-Prozess bleibt ein wissenschaftspolitischer Irrsinn.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Studentin der Sozialwissenschaften leidet Jule unter der starken Verschulung und dem Prüfungsstress des BA/MA-Systems. Die Forderung nach mehr akademischer Freiheit und weniger starrer Verschulung trifft ihren Nerv, auch wenn die Begründung der Partei konservativ ist.",
+      "begruendung_selbst": "Dieser ständige Prüfungsstress und die Verschulung im Bachelor rauben mir jede Zeit für echtes Engagement und tiefes Denken. Wenn die das wirklich kippen wollen, wäre das ein Traum für meine akademische Freiheit.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ihr verbrennt meine Zukunft!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei lehnt das Konzept des menschengemachten Klimawandels und die daraus folgende Klimapolitik ab und bezeichnet Klimaschutz als Wohlstandsvernichtung.",
+      "seite": 13,
+      "zitat": "Die AfD lehnt die globalistische Klimaideologie und die damit einhergehende Wohlstandsvernichtungspolitik grundlegend ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Klimagerechtigkeit ist Jules zentrales Zukunftsthema. Die pauschale Leugnung der Klimakrise und die Ablehnung jeglicher Schutzmaßnahmen stellen für sie eine direkte Bedrohung ihrer Lebensgrundlage und ihrer generationellen Perspektive dar.",
+      "begruendung_selbst": "Es geht nicht um Ideologie — es geht darum, ob ich in zwanzig Jahren noch eine lebenswerte Zukunft habe. Wenn ihr das Pariser Abkommen kippen wollt, erklärt ihr mir und meiner Generation den Krieg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Identität ist keine Ideologie!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will Genderstudien an den Hochschulen streichen, da sie diese nicht als Wissenschaft, sondern als politische Ideologie betrachtet, und entsprechende Fördermittel entziehen.",
+      "seite": 8,
+      "zitat": "Recht besehen sind die Genderstudien größtenteils eine politische Ideologie",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als queere Studentin der Sozialwissenschaften empfindet Jule die Abwertung von Gender Studies und die Streichung entsprechender Forschung als direkten Angriff auf ihre Identität, ihre akademische Heimat und die Sichtbarkeit queerer Lebensrealitäten.",
+      "begruendung_selbst": "Wenn eine Partei meine Rechte und meine Existenz zur Verhandlungsmasse macht und als 'Ideologie' abtut, weiß ich genug. Ihr wollt uns nicht nur aus den Unis, sondern aus der Öffentlichkeit tilgen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "BAföG streichen? Dann exmatrikuliere ich!",
+      "thema": "bildung",
+      "programmpunkt": "Die Partei will das BAföG-System abschaffen und durch ein reines Leistungsstipendium ersetzen, das unabhängig vom Elterneinkommen, aber strikt an akademische Spitzenleistungen gekoppelt ist.",
+      "seite": 8,
+      "zitat": "Wir werden deshalb alternativ zu dem Bafög-System eine Landesförderung aufbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule ist auf BAföG angewiesen, um ihr Studium zu finanzieren. Die Umstellung auf ein reines Eliten-Stipendium würde ihr die finanzielle Grundlage entziehen, da sie neben dem Studium jobbt und nicht zur absoluten Leistungsspitze gehört.",
+      "begruendung_selbst": "Ich jobbe in der Gastro, um mir mein Studium überhaupt leisten zu können. Wenn ihr das BAföG durch irgendwelche Elite-Stipendien ersetzt, schmeißt ihr genau die Leute aus der Uni, die sich eh schon abkämpfen müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Geld mehr für meine NGO!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will die staatliche Förderung von Vereinen an ein Bekenntnis zu 'Patriotismus' knüpfen und NGOs, die diese Weltanschauung nicht teilen, die Mittel entziehen.",
+      "seite": 11,
+      "zitat": "fragwürdige Vereine, die Deutschland ablehnen und Patriotismus bekämpfen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule engagiert sich in Klima- und Hochschulgruppen. Die Drohung, zivilgesellschaftlichen Organisationen die Förderung zu entziehen, wenn sie nicht dem nationalistischen Weltbild der Partei entsprechen, bedroht ihre activistische Arbeit und die pluralistische Demokratie.",
+      "begruendung_selbst": "Wir kämpfen für Klimaschutz und Menschenrechte, nicht für euren Nationalismus. Wenn ihr NGOs das Geld streicht, nur weil sie eure rechte Agenda nicht abnicken, ist das pure Zensur.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gleichstellung ist euch völlig egal!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei will Gleichstellungsbeauftragte abschaffen und durch 'Familienbeauftragte' ersetzen, um staatliche Maßnahmen nur noch auf die Förderung traditioneller Familien und die Geburtenrate auszurichten.",
+      "seite": 4,
+      "zitat": "den „Gleichstellungsbeauftragten“ durch einen „Familienbeauftragten“ ersetzen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule setzt sich für Vielfalt und Gleichstellung ein. Die Abschaffung von Institutionen, die sich gegen Diskriminierung einsetzen, zugunsten eines konservativen, heteronormativen Familienbildes, empfindet sie als massiven Rückschritt und Ausgrenzung queerer Lebensweisen.",
+      "begruendung_selbst": "Ihr ersetzt Gleichstellung durch ein retrogrades Familienbild aus den 50ern. Dass ihr Strukturen gegen Diskriminierung einfach abschaffen wollt, zeigt genau, wessen Rechte ihr mit Füßen tretet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radfahren ist für euch nur Ideologie!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei lehnt die Förderung von Lastenrädern und den Ausbau von Radwegen in Städten ab, wenn dies ihrer Ansicht nach den Autoverkehr benachteiligt oder dem Klimaschutz dient.",
+      "seite": 16,
+      "zitat": "Diese Bevorzugung von Verkehrsteilnehmern im Zeichen der Ideologie der CO₂-Reduktion lehnen wir entschieden ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule nutzt im Alltag ÖPNV und Rad. Die pauschale Ablehnung von Radinfrastruktur und die Priorisierung des Autos widersprechen ihrem Wunsch nach einer klimafreundlichen, bezahlbaren und stadtgerechten Mobilitätswende.",
+      "begruendung_selbst": "Ich fahre Rad, weil es billig ist und das Klima schützt. Dass ihr das als 'Ideologie' diffamiert und lieber Milliarden in Autobahnen steckt, ist einfach nur rückständig.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule empfindet das Programm als existenzielle Bedrohung, da es ihre Kernanliegen – konsequenten Klimaschutz, queere Sichtbarkeit und zivilgesellschaftliche Teilhabe – systematisch bekämpft. Zwar teilt sie vereinzelt Forderungen nach bezahlbarem Wohnraum und einer Abkehr von Profitlogik im Gesundheitswesen, doch die geplante Streichung des BAföG und die Diffamierung ihrer akademischen sowie activistischen Lebenswelt überwiegen massiv. Für sie ist die Partei keine wählbare Alternative, sondern ein Angriff auf ihre Zukunft und Identität.",
+    "score": -2
+  }
+}

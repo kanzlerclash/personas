@@ -1,0 +1,101 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:00:22.846Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39897,
+    "output_tokens": 7592,
+    "cached_tokens": 37888,
+    "total_tokens": 47489,
+    "dauer_ms": 139064,
+    "usd": 0.06275825
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkram!",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm verspricht, Gesetze auf neue Berichtspflichten zu prüfen und bestehende Dokumentationspflichten zu vereinfachen oder ganz abzuschaffen.",
+      "seite": 5,
+      "zitat": "Dokumentationspflichten werden vereinfacht oder abgeschafft.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra leidet unter dem massiven bürokratischen Aufwand in ihrer Einzelpraxis. Die explizite Ankündigung, Dokumentationspflichten abzubauen und Berichtspflichten zu prüfen, trifft genau ihren größten Schmerzpunkt im Praxisalltag.",
+      "begruendung_selbst": "Ich verbringe halbe Tage mit Formularen statt mit Patienten. Wenn die Politik endlich kapiert, dass dieser Papierkram die Versorgung killt, bin ich die Erste, die klatscht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Team darf endlich mehr!",
+      "thema": "gesundheit",
+      "programmpunkt": "Gesundheitsberufe sollen mehr Verantwortung übernehmen und medizinische Aufgaben von Ärztinnen und Ärzten übertragen bekommen, um diese gezielt zu entlasten.",
+      "seite": 9,
+      "zitat": "auch zur Entlastung von Ärztinnen und Ärzten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Landärztin ist sie zeitlich am Limit. Die Möglichkeit, medizinische Aufgaben an qualifiziertes Praxispersonal zu delegieren, ist für sie essenziell, um die Versorgung im ländlichen Raum überhaupt aufrechterhalten zu können.",
+      "begruendung_selbst": "Meine Medizinischen Fachangestellten wissen oft besser Bescheid als mancher Anfänger. Wenn die endlich rechtssicher mehr machen dürfen, rettet das meine Praxis und meine Nerven.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung ist keine Rendite!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Land soll finanzielle Unterstützung für Rekommunalisierungen leisten, wenn private Träger sich aus der stationären Versorgung im ländlichen Raum zurückziehen.",
+      "seite": 9,
+      "zitat": "muss die notwendige Versorgung abgesichert werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra ist zutiefst überzeugt, dass Daseinsvorsorge staatliche Pflicht ist und nicht reinen Marktlogiken folgen darf. Dass das Land einspringen will, wenn private Klinikträger ländliche Regionen aufgeben, bestätigt ihr Menschenbild und ihre pragmatische Sicht auf die Infrastruktur.",
+      "begruendung_selbst": "Ein Krankenhaus auf dem Land rechnet sich für Investoren oft nicht. Aber die Menschen hier brauchen es. Gut, dass das Land hier notfalls das Ruder übernimmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hoffnung auf Nachwuchs",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Landarztquote wird fortgeführt und Studienplätze in der Medizin wurden erhöht, um die ärztliche Versorgung im ländlichen Raum zu sichern.",
+      "seite": 10,
+      "zitat": "Landarzt-, Amtsarzt- und Landzahnarztquote werden fortgeführt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die fehlende Praxisnachfolge ist Petras größte Existenzsorge. Auch wenn sie weiß, dass eine Quote allein nicht reicht, sieht sie die Verstetigung und die Erhöhung der Studienplätze als notwendiges Signal, dass das Landarzt-Problem überhaupt auf dem Schirm ist.",
+      "begruendung_selbst": "Die Quote allein holt mir morgen keinen Nachfolger in die Praxis. Aber ohne diese Stellschrauben stirbt die Landmedizin komplett aus. Es ist zumindest ein Anfang.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Erst die Basis, dann die Theorie!",
+      "thema": "steuern",
+      "programmpunkt": "Trotz angespannter Haushaltslage plant die SPD die Prüfung von Gender Budgeting für den gesamten Landeshaushalt.",
+      "seite": 35,
+      "zitat": "Gerade angesichts knapper Kassen prüfen wir die Einführung von Gender Budgeting",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für die pragmatische Landärztin, die täglich gegen den Kollaps der Basisinfrastruktur kämpft, wirkt die Einführung bürokratischer und ideologischer Haushaltsinstrumente wie Gender Budgeting völlig realitätsfern und wie eine Fehlallokation von Verwaltungskapazitäten.",
+      "begruendung_selbst": "Uns fehlen auf dem Land die Ärzte, die Busse und die funktionierenden Netze. Und die Verwaltung soll jetzt noch mehr Kapazität in Gender Budgeting stecken? Bitte erst die Daseinsvorsorge retten!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Dokumentations-Vorgaben?",
+      "thema": "gesundheit",
+      "programmpunkt": "Im Rahmen einer Pflegereform auf Bundesebene setzt sich das Land für standardisierte Dokumentationsrichtlinien ein.",
+      "seite": 10,
+      "zitat": "sowie eine standardisierte Dokumentationsrichtlinie und Fachkräftegewinnung stehen hierbei im Fokus.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra ist hochsensibel für alles, was nach neuer Dokumentation und Bürokratie im Gesundheitswesen klingt. Auch wenn es primär die Pflege betrifft, triggert der Ruf nach standardisierten Richtlinien ihre Skepsis gegenüber bürokratischen Ideen, die am Ende mehr Arbeit an den Schnittstellen bedeuten.",
+      "begruendung_selbst": "Jedes Mal, wenn die Politik 'standardisierte Dokumentation' ruft, bedeutet das für uns an der Schnittstelle zur Pflege nur eines: noch mehr Formulare ausfüllen, damit die Kassen zufrieden sind.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra honoriert die klaren Bekenntnisse zum Bürokratieabbau, zur Aufgabenverlagerung auf nicht-ärztliche Gesundheitsberufe und zur Sicherung der Daseinsvorsorge im ländlichen Raum. Diese Punkte treffen genau ihre täglichen Schmerzpunkte als Landärztin. Gleichzeitig stößt sie sich an bürokratischen und ideologischen Vorhaben wie dem Gender Budgeting oder neuen Dokumentationsrichtlinien, die aus ihrer Sicht Kapazitäten binden, statt die Basisversorgung zu stärken. Insgesamt überwiegt die Erleichterung, dass der ländliche Raum und die Entlastung der Praxen überhaupt auf der Agenda stehen.",
+    "score": 1
+  }
+}

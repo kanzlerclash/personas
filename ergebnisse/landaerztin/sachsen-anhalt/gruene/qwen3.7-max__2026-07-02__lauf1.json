@@ -1,0 +1,113 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:02:41.496Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69768,
+    "output_tokens": 9449,
+    "cached_tokens": 67456,
+    "total_tokens": 79217,
+    "dauer_ms": 173855,
+    "usd": 0.08305025
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkram!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will Bürokratie abbauen, Dokumentationspflichten reduzieren und mit verpflichtenden Praxischecks Verwaltungsvorgänge auf Vereinfachungen prüfen.",
+      "seite": 89,
+      "zitat": "Praxischecks sollen Verwaltungsvorgänge im Alltag auf mögliche Vereinfachungen überprüft werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra leidet unter dem massiven Dokumentationsaufwand in ihrer Einzelpraxis. Der explizite Fokus auf Bürokratieabbau und die Überprüfung von Verwaltungsvorgängen durch Praxischecks trifft genau ihren dringendsten Wunsch nach mehr Zeit für die Patientenversorgung.",
+      "begruendung_selbst": "Wenn die Politik endlich mal checkt, welcher Formular-Wahnsinn uns im Alltag auffrisst, wäre das ein Traum. Ich will behandeln, nicht dokumentieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Entlastung im Praxisalltag",
+      "thema": "gesundheit",
+      "programmpunkt": "Ärztliche Leistungen sollen stärker auf nichtärztliche Gesundheits- und Pflegeprofessionen delegiert und substituiert werden können.",
+      "seite": 81,
+      "zitat": "Delegation und Substitution von bisher ärztlichen Leistungen auf nichtärztliche",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Landärztin ohne Nachfolge ist Petra auf ihr Team angewiesen. Die rechtliche und politische Rückendeckung für die Delegation von Aufgaben an nichtärztliche Berufe (wie VERAs oder NäPas) ist für sie essenziell, um die Versorgung im ländlichen Raum überhaupt aufrechterhalten zu können.",
+      "begruendung_selbst": "Ohne meine medizinischen Fachangestellten, die auch mal Hausbesuche übernehmen, könnte ich den Laden längst dichtmachen. Gut, dass das endlich gestärkt werden soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hoffnung auf Praxisnachfolge",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Land soll gezielte Anreizsysteme wie finanzielle Förderung schaffen, um Fachärztinnen und Fachärzte für die Niederlassung in ländlichen Regionen zu gewinnen.",
+      "seite": 81,
+      "zitat": "Wir setzen uns dafür ein, fehlende Anreize für Fachärzt*innen in der Fläche gezielt zu beheben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Sorge, keine Nachfolge für ihre Praxis zu finden und ihre Patienten im Stich lassen zu müssen, belastet Petra stark. Konkrete finanzielle Anreize für die Niederlassung auf dem Land geben ihr die Hoffnung, dass sich doch noch junge Kolleginnen und Kollegen für die Region entscheiden.",
+      "begruendung_selbst": "Wer soll meine Patienten übernehmen, wenn ich in Rente gehe? Wenn das Land jetzt endlich Anreize schafft, dass sich junge Ärzte hier draußen niederlassen, atme ich auf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Entlastung im Bereitschaftsdienst",
+      "thema": "gesundheit",
+      "programmpunkt": "Unterstützung von Gemeindenotfallsanitätern und Tele-Notärzten sowie Bündelung der Leitstellen, um die Versorgung gezielter zu steuern.",
+      "seite": 80,
+      "zitat": "Wir unterstützen zusätzlich Ansätze wie die Gemeindenotfallsanitäter*innen und Tele-Notärzt*innen im Rettungsdienst.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra wird im Bereitschaftsdienst oft mit Notfällen konfrontiert, die keine ärztliche Sofortintervention erfordern. Gemeindenotfallsanitäter und Tele-Notärzte würden ihr den Rücken freihalten und die Ressourcen dort bündeln, wo sie wirklich gebraucht werden.",
+      "begruendung_selbst": "Es ist frustrierend, nachts rauszufahren, wenn eigentlich ein gut ausgebildeter Notfallsanitäter völlig ausreichen würde. Diese Modelle sind pragmatisch und helfen uns Landärzten enorm.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Staatliche Kliniken? Eher nicht.",
+      "thema": "gesundheit",
+      "programmpunkt": "Zur Sicherung der Versorgung sollen landesseitig finanzierte Sicherstellungszuschläge und die Rekommunalisierung von Krankenhäusern unterstützt werden.",
+      "seite": 79,
+      "zitat": "landesseitigfinanzierte Sicherstellungszuschläge wie auch die Rekommunalisierung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra ist skeptisch gegenüber bürokratischen Verstaatlichungsideen. Sie befürchtet, dass kommunale Kliniken unter politischer und haushalterischer Kontrolle leiden und die Versorgungsqualität durch Verwaltungsaufwand sinkt, statt pragmatisch gesichert zu werden.",
+      "begruendung_selbst": "Wenn die Kommunen die Kliniken übernehmen, wird das doch nur ein bürokratischer Moloch. Wer soll das managen? Das löst doch nicht den Personalmangel, sondern schafft nur neue Gremien.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Bürokratie-Wahnsinn",
+      "thema": "demokratie",
+      "programmpunkt": "Alle Haushaltsausgaben des Landes sollen einem Klimacheck unterzogen werden; Ausgaben ohne nachweisbare Klimaverträglichkeit müssen begründet werden.",
+      "seite": 96,
+      "zitat": "Alle Haushaltsausgaben sollen einem Klimacheck unterzogen werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Petra, die ohnehin unter Dokumentationspflichten ächzt, klingt ein genereller Klimavorbehalt für alle Ausgaben nach einem massiven bürokratischen Mehraufwand. Sie sieht darin eine ideologische Hürde, die die Handlungsfähigkeit des Staates und der Verwaltung lähmt.",
+      "begruendung_selbst": "Ein Klimavorbehalt für jeden Euro? Das ist doch genau die ideologische Bürokratie, die uns den Alltag kaputt macht. Ich brauche funktionierende Abläufe, keine neuen Nachweisformulare für die Verwaltung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zeitfresser auf dem Land",
+      "thema": "verkehr",
+      "programmpunkt": "Tempo 30 soll innerorts als Regelgeschwindigkeit eingeführt werden, auf Autobahnen Tempo 130.",
+      "seite": 31,
+      "zitat": "Wir stärken Sicherheit und Lebensqualität mit Tempo 30 als innerörtliche Regelgeschwindigkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Landärztin ist Petra auf das Auto angewiesen, um Hausbesuche zu machen und weite Strecken im ländlichen Raum zurückzulegen. Pauschale Tempolimits kosten sie im stressigen Alltag wertvolle Zeit, ohne aus ihrer Sicht die strukturellen Mobilitätsprobleme auf dem Land zu lösen.",
+      "begruendung_selbst": "Ich fahre jeden Tag zig Kilometer zu meinen Hausbesuchen. Wenn ich jetzt durch jedes Dorf mit Tempo 30 schleichen muss, verliere ich am Ende des Tages eine halbe Stunde – Zeit, die mir für meine Patienten fehlt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra honoriert die pragmatischen Ansätze zur Entlastung im Praxisalltag, insbesondere den Bürokratieabbau, die Delegation ärztlicher Leistungen und gezielte Anreize für die Niederlassung auf dem Land. Gleichzeitig stößt sie sich an ideologisch motivierten bürokratischen Hürden wie dem Klimacheck für Haushaltsausgaben sowie an pauschalen Tempolimits, die ihre Mobilität im ländlichen Raum einschränken. Die Rekommunalisierung von Krankenhäusern weckt ihre Skepsis gegenüber staatlichen Verwaltungsideen. Insgesamt überwiegen für sie jedoch die konkreten Lösungen für den Landarztmangel.",
+    "score": 1
+  }
+}

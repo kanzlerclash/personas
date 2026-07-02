@@ -1,0 +1,88 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:12:24.444Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 46952,
+    "output_tokens": 6360,
+    "cached_tokens": 44288,
+    "total_tokens": 53312,
+    "dauer_ms": 116849,
+    "usd": 0.056822
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Erst Ersatz, dann Rückbau!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU fordert, dass vor dem Rückbau grundlastfähiger Kraftwerke erst konkrete Lösungen für Speicher, Netze und Ersatzkraftwerke stehen müssen.",
+      "seite": 44,
+      "zitat": "Vor dem Rückbau grundlastfähiger Kraftwerke braucht es konkrete Lösungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht in dieser Forderung exakt seinen Grundsatz wider, dass die alte Infrastruktur erst abgeschaltet werden darf, wenn die neue Brücke steht. Das sichert seinen Arbeitsplatz und die Versorgungssicherheit in seiner Region.",
+      "begruendung_selbst": "Genau das sage ich seit Jahren: Erst die Brücke bauen, dann die alte abreißen. Andersrum fallen wir ins Wasser und die Lichter gehen aus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CCS ist unsere Brücke!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei befürwortet die Nutzung von CCS und CCU und begrüßt das Kohlendioxid-Speicherungsgesetz, um industrielle Wertschöpfung und Klimaziele zu verbinden.",
+      "seite": 46,
+      "zitat": "Dazu zählen insbesondere die Forschung und Nutzung von CCS/CCU",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Ronny ist CCS keine theoretische Debatte, sondern ein essenzielles Werkzeug, um die heimische Industrie und Energieerzeugung im Strukturwandel am Leben zu erhalten. Die Ablehnung von CCS-Verboten nimmt ihm die Sorge vor einem technologischen Sackgassen-Diktat.",
+      "begruendung_selbst": "Endlich erkennt mal jemand, dass wir CCS brauchen, um unsere Industrie und die Region über die Runden zu bringen. Wer das verbietet, dreht uns hier den Hahn ab.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "2038 steht, kein Vorziehen!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU bekennt sich klar zum vereinbarten Kohleausstieg bis 2038 und lehnt ein Vorziehen ab, um den betroffenen Regionen Verlässlichkeit zu geben.",
+      "seite": 45,
+      "zitat": "Der vereinbarte Kohleausstieg bis 2038 ist ein politisch und rechtlich verabredeter Konsens.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny braucht Planungssicherheit für seine Lebens- und Karriereplanung in der Region. Ein Festhalten am Jahr 2038 schützt ihn vor überstürzten politischen Ausstiegsdaten, die seine Existenz bedrohen würden.",
+      "begruendung_selbst": "Gebt mir einen Plan, nicht nur ein Enddatum. Wenn die 2038 kippen, stirbt hier die Region, bevor das Neue überhaupt da ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unser Strom, unser Preis!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm fordert eine Aufteilung der bundeseinheitlichen Strompreiszone, damit Regionen mit viel Windstrom wie Sachsen-Anhalt von günstigeren Preisen profitieren.",
+      "seite": 44,
+      "zitat": "Wir wollen regionale Strompreiszonen, weil wir günstigen Windstrom produzieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Energiepraktiker ärgert es Ronny, dass seine Region die Infrastruktur und Flächen für die Erneuerbaren bereitstellt, aber die gleichen hohen Preise zahlt wie der Süden. Dies stärkt die lokale Industrie und sichert indirekt seinen Job.",
+      "begruendung_selbst": "Wir hier im Osten stellen die Flächen für die Windräder, aber zahlen die gleichen Preise wie München. Das muss aufhören, sonst geht hier gar keine neue Industrie mehr an den Start.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit EU-Ideologie!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU will praxisferne EU-Klima- und Umweltvorgaben wie die Taxonomieverordnung oder zusätzliche CO2-Abgaben zurücknehmen, um eine Deindustrialisierung zu verhindern.",
+      "seite": 90,
+      "zitat": "Wir bekämpfen praxisferne und ideologisch getriebene Vorgaben für unsere Industrie.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny beobachtet mit Sorge, wie aus seiner Sicht realitätsferne Klimapolitik aus Brüssel die heimische Grundstoffindustrie bedroht. Er teilt die Forderung nach Pragmatismus statt Ideologie, um die industrielle Basis der Region zu retten.",
+      "begruendung_selbst": "Die da oben in Brüssel haben noch nie im Leben ein Kraftwerk oder eine Chemiefabrik von innen gesehen. Mit solchen Ideologie-Vorgaben machen die unsere Region komplett platt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Wahlprogramm der CDU trifft Ronnys Kernforderungen nach Planungssicherheit, Technologieoffenheit und dem Schutz der heimischen Industrie fast punktgenau. Besonders das Festhalten am Kohlekompromiss 2038, die Befürwortung von CCS und die Forderung nach regionalen Strompreiszonen geben ihm das Gefühl, dass der Strukturwandel in seiner Region realistisch und ohne ideologische Schnellschüsse gestaltet wird. Da das Programm seine pragmatische Sicht auf die Energiewende vollständig bestätigt und keine konträren Positionen enthält, fühlt er sich hier politisch bestens aufgehoben.",
+    "score": 2
+  }
+}

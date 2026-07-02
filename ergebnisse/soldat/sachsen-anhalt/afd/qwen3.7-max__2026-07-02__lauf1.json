@@ -1,0 +1,101 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:22:05.904Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76947,
+    "output_tokens": 9584,
+    "cached_tokens": 73856,
+    "total_tokens": 86531,
+    "dauer_ms": 178617,
+    "usd": 0.08795275
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich gegen Antifa-Gewalt vorgehen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Linksextreme Gruppen wie die Antifa sollen als Terrorvereinigung eingestuft werden, da sie unter anderem Straftaten gegen die Bundeswehr begehen.",
+      "seite": 9,
+      "zitat": "schwerste Straftaten gegen die Polizei, unsere Infrastruktur, die Bundeswehr und Bürger",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan und seine Kameraden sind im Dienst und in Uniform immer wieder Ziel von Anfeindungen und Angriffen durch linksextreme Gruppen. Ein konsequentes Vorgehen gegen diese Szene begrüßt er.",
+      "begruendung_selbst": "Es ist inakzeptabel, dass wir als Soldaten im eigenen Land von Extremisten angegriffen und als Feindbild markiert werden. Wer die Truppe schützt, handelt richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Staatsgeld nur für Patrioten!",
+      "thema": "demokratie",
+      "programmpunkt": "Vereine und Organisationen sollen nur noch staatliche Fördermittel erhalten, wenn sie ein Bekenntnis zur demokratischen Ordnung und eine patriotische Grundhaltung nachweisen.",
+      "seite": 11,
+      "zitat": "sich zumindest deklaratorisch für unser Land einsetzen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan befürwortet, dass staatliche Gelder nicht an Gruppen fließen, die den Staat und seine Verteidiger verachten. Ein klares Bekenntnis zum Land als Fördervoraussetzung entspricht seinem Werteverständnis.",
+      "begruendung_selbst": "Es kann nicht sein, dass der Staat Gruppen finanziert, die unsere Verfassung und die Menschen, die sie verteidigen, bekämpfen. Wer das Land ablehnt, soll kein Geld bekommen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Russland-Versteher gefährden Ostflanke!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die AfD will sich im Bundesrat für die Aufhebung der Russland-Sanktionen einsetzen, da diese der heimischen Wirtschaft schaden.",
+      "seite": 12,
+      "zitat": "für die Aufhebung der Russlandsanktionen und aller anderen Wirtschaftssanktionen einsetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt die Bedrohung an der Ostflanke täglich. Die Forderung, Sanktionen gegen Russland aufzuheben, untergräbt aus seiner Sicht die Abschreckung und signalisiert Schwäche gegenüber dem Aggressor.",
+      "begruendung_selbst": "Ich stehe hier an der Ostflanke und sehe die Bedrohung. Wer jetzt Sanktionen aufheben will, belohnt Aggression und gefährdet unseren Auftrag und die Sicherheit Europas.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ukraine-Hilfe ist kein 'Verschenken'!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die AfD kritisiert in der Präambel, dass Steuergelder an die Ukraine 'verschenkt' würden, und lehnt diese Unterstützung ab.",
+      "seite": 3,
+      "zitat": "Steuern für die Umsorgung von Wohlstandsflüchtlingen verpulvert oder an die Ukraine verschenkt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan ist die Unterstützung der Ukraine ein essenzieller Baustein der europäischen Sicherheitsarchitektur und der Verteidigung der NATO-Ostflanke. Die abwertende Rhetorik der AfD widerspricht seinem Verständnis von Bündnissolidarität.",
+      "begruendung_selbst": "Die Ukraine verteidigt genau die Werte und die Sicherheit, für die auch wir im Bündnis einstehen. Das als 'Verschenken' abzutun, ist zynisch und strategisch völlig blind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abhängigkeit von Russland ist fatal!",
+      "thema": "energie",
+      "programmpunkt": "Die AfD fordert die Reparatur und Inbetriebnahme der Nord-Stream-Pipelines, um wieder Gas aus Russland zu importieren und Sanktionen zu beenden.",
+      "seite": 13,
+      "zitat": "dass die energiepolitischen Sanktionen gegen Russland beendet und die deutsch-russischen Handelsbeziehungen normalisiert werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Eine erneute energiepolitische Abhängigkeit von Russland macht Deutschland aus Stefans Sicht erpressbar und schwächt die strategische Handlungsfähigkeit der NATO und der Bundeswehr im Krisenfall.",
+      "begruendung_selbst": "Wir können uns nicht von demselben Akteur abhängig machen, gegen den wir im Ernstfall das Bündnisgebiet verteidigen müssen. Das ist strategischer Selbstmord.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz darf nicht blind werden!",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD will den Verfassungsschutz umbauen und die Veröffentlichung von Verfassungsschutzberichten abschaffen, da sie sich ungerecht beobachtet fühlt.",
+      "seite": 11,
+      "zitat": "Verfassungsschutzberichte, deren Informationswert gegen Null geht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erwartet von einer wehrhaften Demokratie, dass sie extremistische Bestrebungen frühzeitig erkennt und benennt. Die AfD will genau diese Warnmechanismen aushebeln, was für ihn das Vertrauen in die Partei zerstört.",
+      "begruendung_selbst": "Ich habe meinen Eid auf die Verfassung geschworen. Wer den Verfassungsschutz schwächen will, nur weil er selbst beobachtet wird, untergräbt die wehrhafte Demokratie.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die außen- und sicherheitspolitischen Kernforderungen der AfD stehen im direkten Widerspruch zu Stefans beruflicher Realität und seinem Ethos als NATO-orientierter Soldat an der Ostflanke. Die Forderungen nach einer Aufhebung der Russland-Sanktionen, der Wiederaufnahme von Energieimporten aus Moskau und die abwertende Rhetorik gegenüber der Ukraine-Hilfe werden von ihm als strategischer Selbstmord und Verrat an der Bündnissolidarität gewertet. Zwar begrüßt er das harte Vorgehen gegen linksextreme Gewalt gegenüber der Bundeswehr, doch die fundamentale Schwächung der wehrhaften Demokratie und die Russland-Nähe machen die Partei für ihn unwählbar.",
+    "score": -2
+  }
+}

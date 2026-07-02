@@ -1,0 +1,161 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:12:58.361Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82353,
+    "output_tokens": 3636,
+    "cached_tokens": 78336,
+    "total_tokens": 85989,
+    "dauer_ms": 68023,
+    "usd": 0.03998775
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Schluss mit Fallpauschalen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert die vollständige Abschaffung der Fallpauschalen (DRG) und eine kostendeckende Finanzierung der Krankenhäuser ohne Gewinnmöglichkeit, um die Ökonomisierung der Pflege zu beenden.",
+      "seite": 53,
+      "zitat": "die Fallpauschalen vollständig abschaffen, um Gewinne und Verluste weitgehend unmöglich zu machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich, wie der Druck durch Fallpauschalen die Pflegequalität und Arbeitsbedingungen verschlechtert. Die Forderung nach Abschaffung des DRG-Systems und einer bedarfsorientierten Finanzierung entspricht exakt ihrer Erfahrung, dass Renditedruck zu Personalabbau und Arbeitsverdichtung führt.",
+      "begruendung_selbst": "Endlich sagt mal jemand, was wir auf Station jeden Tag spüren: Diese Fallpauschalen sind der Grund, warum wir immer mehr Patienten in immer kürzerer Zeit versorgen müssen. Wenn Krankenhäuser nicht mehr auf Profit getrimmt werden, bleibt vielleicht endlich wieder Zeit für die Menschen – und für uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verbindliche Personalschlüssel – ja!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert eine gesetzliche, bedarfsgerechte und voll finanzierte Personalbemessung für alle Berufsgruppen im Krankenhaus.",
+      "seite": 50,
+      "zitat": "eine gesetzliche, bedarfsgerechte und voll finanzierte Personalbemessung für alle Berufsgruppen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin arbeitet auf einer dauerhaft unterbesetzten Station und bewertet Politik daran, ob sie konkrete Personalschlüssel festschreibt. Die Forderung nach einer gesetzlichen, voll finanzierten Personalbemessung ist für sie der zentrale Hebel gegen chronische Überlastung.",
+      "begruendung_selbst": "Wir brauchen keine Sonntagsreden über 'systemrelevante Heldinnen', wir brauchen gesetzlich festgeschriebene Personalschlüssel, die auch finanziert werden. Wenn das kommt, kann ich endlich wieder meinen Job machen, statt nur Lücken zu stopfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kolleginnen aus dem Ausland bleiben!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei fordert schnelle Anerkennung ausländischer Berufsabschlüsse innerhalb von sechs Monaten, Anpassungsqualifizierungen und ein Landesprogramm zur Arbeitsmarktintegration von Fachkräften aus dem Ausland.",
+      "seite": 98,
+      "zitat": "Ausländische Berufsabschlüsse werden innerhalb von sechs Monaten anerkannt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station läuft nur dank migrantischer Kolleg:innen. Sie bewertet Integrationspolitik daran, ob diese Kolleg:innen schnell anerkannt werden und bleiben können. Die Forderung nach schneller Anerkennung und Brückenqualifizierungen trifft direkt ihren Arbeitsalltag.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht. Wenn die endlich schnell und unbürokratisch anerkannt werden, statt monatelang in Warteschleifen zu hängen, bleiben die auch hier. Das ist kein Luxus, das ist unsere Lebensversicherung auf Station.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege zurück in öffentliche Hand!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei fordert die konsequente Überführung von Pflegeeinrichtungen in öffentliche oder gemeinnützige Trägerschaft und ein Ende der Privatisierung im Gesundheitswesen.",
+      "seite": 56,
+      "zitat": "Pflegeeinrichtungen konsequent in öffentliche oder gemeinnützige Trägerschaft überführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt, wie private Träger an der Pflege sparen, um Renditen zu erzielen. Die Forderung nach Rekommunalisierung und einem Ende der Privatisierung bestätigt ihre Überzeugung, dass Pflege Daseinsvorsorge und kein Spekulationsobjekt sein darf.",
+      "begruendung_selbst": "Wenn private Konzerne an der Pflege verdienen wollen, sparen die immer zuerst am Personal. Wir brauchen Krankenhäuser und Pflegeheime, die nicht auf Rendite schielen, sondern auf die Menschen. Pflege ist kein Geschäft – das ist Daseinsvorsorge.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tariflohn für alle Pflegekräfte!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert die Angleichung der Löhne an das westdeutsche Niveau, verbindliche Tarifbindung und eine verlässliche Personalbemessung in der Pflege.",
+      "seite": 57,
+      "zitat": "gute Arbeitsbedingungen, eine Angleichung an das westdeutsche Lohnniveau, verbindliche Tarifbindung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin empfindet ihr Einkommen gemessen an der Belastung als zu niedrig. Die Forderung nach Tarifbindung, Lohnangleichung an das Westniveau und besseren Arbeitsbedingungen bestätigt ihre Erwartung an faire Bezahlung und Anerkennung.",
+      "begruendung_selbst": "Wir machen den härtesten Job im ganzen Laden und verdienen immer noch weniger als im Westen. Tarifbindung und ordentliche Löhne – das ist keine Forderung aus dem Elfenbeinturm, das ist das Minimum für Leute, die jeden Nacht- und Wochenendschicht schieben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Solidarische Pflegevollversicherung!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert eine solidarische Pflegevollversicherung auf Bundesebene, damit pflegebedingte Eigenanteile abgeschafft werden und Pflegebedürftigkeit nicht arm macht.",
+      "seite": 56,
+      "zitat": "eine solidarische Pflegevollversicherung auf Bundesebene, damit pflegebedingte Eigenanteile abgeschafft werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht täglich, wie Pflegebedürftige und ihre Angehörigen durch hohe Eigenanteile finanziell überfordert werden. Die Forderung nach einer Pflegevollversicherung entspricht ihrer Überzeugung, dass Pflege solidarisch finanziert werden muss.",
+      "begruendung_selbst": "Ich sehe jeden Tag, wie Familien zerbrechen, weil sie sich die Pflege nicht mehr leisten können. Wenn die Eigenanteile endlich abgeschafft werden, ist das nicht nur gut für die Betroffenen – das ist auch ein Signal, dass Pflege uns als Gesellschaft etwas wert ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Arbeitsmigration, keine Ausbeutung!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei fordert klare Regeln gegen Ausbeutung von Arbeitsmigrant:innen, gleichen Lohn für gleiche Arbeit, schnelle Anerkennung und landesweite Beratungsstellen.",
+      "seite": 88,
+      "zitat": "gleichen Lohn für gleiche Arbeit: landesweite Vorgaben, dass öffentliche Aufträge nur an Unternehmen gehen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt, wie migrantische Pflegekräfte oft unter prekären Bedingungen arbeiten. Die Forderung nach fairen Regeln, gleichem Lohn und Beratungsstellen bestätigt ihre Solidarität mit ihren Kolleg:innen und ihren Wunsch nach einem fairen Arbeitsumfeld.",
+      "begruendung_selbst": "Meine Kolleginnen aus dem Ausland leisten denselben Job wie ich – die sollen auch genauso bezahlt und behandelt werden. Wenn die Politik endlich gegen Ausbeutung vorgeht und faire Bedingungen schafft, hilft das uns allen auf Station.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaneutral 2035 – wer zahlt das?",
+      "thema": "klima",
+      "programmpunkt": "Die Partei fordert ein verbindliches CO₂-Budget und Klimaneutralität bis 2035 für Sachsen-Anhalt, was ambitionierte Klimaschutzmaßnahmen in allen Bereichen erfordert.",
+      "seite": 121,
+      "zitat": "ein verbindliches CO₂-Budget für Sachsen-Anhalt festlegen, das den Pfad zur Klimaneutralität bis 2035",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin befürchtet, dass extrem ambitionierte Klimaziele zu Lasten der sozialen Infrastruktur und der Pflegefinanzierung gehen könnten. Für sie steht die Versorgungssicherheit im Gesundheitswesen an erster Stelle, und sie sorgt sich, dass knappe Mittel umverteilt werden.",
+      "begruendung_selbst": "Klimaschutz ist wichtig, klar. Aber wenn das Land bis 2035 klimaneutral sein soll – wo bleibt das Geld für unsere Krankenhäuser, für mehr Personal, für bessere Löhne? Ich hab Angst, dass wieder die Pflege hinten runterfällt, weil alles in Klimaschutz fließt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine neuen Autobahnen? Und mein Weg zur Arbeit?",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei lehnt den Bau neuer Autobahnen ab und setzt stattdessen auf den Ausbau des ÖPNV und der Schiene.",
+      "seite": 105,
+      "zitat": "Keine neuen Autobahnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist auf ihr Auto angewiesen, um im Schichtdienst zuverlässig zur Arbeit zu kommen, besonders wenn der ÖPNV nachts oder am Wochenende nicht fährt. Die pauschale Ablehnung neuer Autobahnen und Straßenbauprojekte berührt ihre Mobilitätsrealität.",
+      "begruendung_selbst": "Ich fahre nachts um halb drei zur Arbeit, wenn kein Bus mehr fährt. Da hilft mir kein Nulltarif-ÖPNV, der um Mitternacht Schluss macht. Wenn die alle Straßenbauprojekte stoppen wollen, denken die nicht an Leute wie mich, die auf ihr Auto angewiesen sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermögenssteuer – trifft das auch uns?",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei fordert die Wiedereinführung der Vermögenssteuer mit 1 Prozent auf Vermögen über einer Million Euro sowie eine Reform der Erbschaftssteuer.",
+      "seite": 17,
+      "zitat": "Eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin hat durchschnittliches Vermögen und keine großen Rücklagen. Sie befürwortet grundsätzlich, dass Reiche mehr beitragen, sorgt sich aber, dass solche Steuerforderungen am Ende die Mitte belasten oder zu Kapitalflucht führen, die der Wirtschaft und damit auch ihrem Arbeitsplatz schadet.",
+      "begruendung_selbst": "Ich hab keine Million auf dem Konto, aber ich frag mich schon: Wenn die Reichen ihr Geld abziehen, wer finanziert dann die Krankenhäuser? Am Ende hängen wir wieder in der Luft, weil die Wirtschaft abhaut und die Steuereinnahmen fehlen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "35-Stunden-Woche – auf meiner Station?",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert langfristig die Einführung der 35-Stunden-Woche bei vollem Lohn für alle Beschäftigten.",
+      "seite": 86,
+      "zitat": "langfristig die Einführung der 35-Stunden-Woche bei vollem Lohn",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin weiß, dass auf ihrer ohnehin unterbesetzten Station eine 35-Stunden-Woche bei vollem Lohn ohne massiven Personalaufbau praktisch unmöglich ist. Sie befürchtet, dass solche Forderungen unrealistisch sind und am Ende zu noch mehr Arbeitsverdichtung führen, wenn das Personal nicht entsprechend aufgestockt wird.",
+      "begruendung_selbst": "35 Stunden bei vollem Lohn klingt traumhaft. Aber wer macht dann die Arbeit? Wenn wir jetzt schon zu wenige sind und die Schichten kaum abdecken können, wird das doch nur noch mehr Druck auf uns, wenn das nicht mit echtem Personalaufbau kommt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet im Programm der Linken viele Punkte, die ihre zentralen Forderungen als Pflegekraft direkt bestätigen: Abschaffung der Fallpauschalen, verbindliche Personalschlüssel, Rekommunalisierung der Pflege, faire Bezahlung und schnelle Anerkennung migrantischer Fachkräfte. Gleichzeitig irritieren sie ambitionierte Klimaziele, die aus ihrer Sicht Mittel von der Pflege abziehen könnten, sowie unrealistisch wirkende Arbeitszeitforderungen ohne konkreten Personalaufbau. Die pauschale Ablehnung von Straßenbauprojekten trifft ihre Mobilitätsrealität im Schichtdienst.",
+    "score": 1
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:53:02.265Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82382,
+    "output_tokens": 9118,
+    "cached_tokens": 78336,
+    "total_tokens": 91500,
+    "dauer_ms": 166871,
+    "usd": 0.08052775
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Strukturwandel mit Plan, nicht blind",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke fordert einen Wirtschaftsfonds für den Umbau der Industrie, der Unternehmen mit langfristigen Krediten oder Beteiligungen unterstützt und Investitionen an Tarifbindung, Standortgarantie und gemeinwohlorientierte Produktion koppelt.",
+      "seite": 90,
+      "zitat": "langfristige Investitionen statt Subventionen – Kredite und Beteiligungen zur klimaneutralen Umstellung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht in einem strukturierten Investitionsfonds mit Standortgarantien genau den planbaren Ansatz, den er für seine Region fordert. Die Kopplung an Tarifbindung und Beschäftigungssicherung entspricht seiner Überzeugung, dass der Wandel nur mit den Menschen vor Ort gelingt.",
+      "begruendung_selbst": "Endlich mal einer, der nicht nur 'Ausstieg' schreit, sondern sagt: Wir investieren, aber ihr bleibt hier und zahlt anständig. Das ist der Plan, den ich brauche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemie-Region bekommt Perspektive",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will die Chemie- und Grundstoffindustrie durch faire Energiepreise in Umbauphasen, grüne Wasserstoffinfrastruktur und verbindliche Transformationsverträge mit Investitions- und Beschäftigungsgarantien sichern.",
+      "seite": 93,
+      "zitat": "verbindliche Transformationsverträge – Planungssicherheit durch klare Investitions- und Beschäftigungsgarantien",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Beschäftigter in der Energiewirtschaft einer Strukturwandelregion erkennt Ronny hier den Ansatz, den er vermisst: verbindliche Zusagen für Investitionen und Jobs, statt nur Absichtserklärungen. Die Wasserstoffinfrastruktur bietet eine konkrete Brückentechnologie.",
+      "begruendung_selbst": "Transformationsverträge mit Jobgarantie – das ist genau das, was wir hier brauchen. Nicht nur reden über Wasserstoff, sondern die Infrastruktur bauen und die Leute halten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Übernahme statt Abwicklung",
+      "thema": "arbeit",
+      "programmpunkt": "Wenn Betriebe in die Krise geraten, sollen Beschäftigte das Recht erhalten, sie kollektiv oder genossenschaftlich zu übernehmen, um Wissen und Arbeit zu erhalten.",
+      "seite": 90,
+      "zitat": "erhalten Beschäftigte das Recht, sie kollektiv oder genossenschaftlich zu übernehmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny fürchtet, dass sein Betrieb oder Zulieferer im Strukturwandel abgewickelt wird. Die Idee, dass Belegschaften im Krisenfall ein Übernahmerecht bekommen, gibt ihm ein Werkzeug gegen Perspektivlosigkeit und bestätigt seinen Wert 'Arbeit und Wertschöpfung vor Ort'.",
+      "begruendung_selbst": "Wenn der Konzern abhaut, sollen wir das Ding selbst weiterführen können. Das Know-how sitzt bei uns, nicht in der Zentrale.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weiterbildung statt Entlassung",
+      "thema": "arbeit",
+      "programmpunkt": "Jede Förderung aus dem Wirtschaftsfonds wird mit Qualifizierungsprogrammen verbunden, damit niemand im Wandel zurückbleibt.",
+      "seite": 90,
+      "zitat": "Jede Förderung wird mit Qualifizierungsprogrammen verbunden – damit niemand im Wandel zurückbleibt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny weiß, dass sein aktuelles Fachwissen im Kohle-/Gassektor nicht automatisch in die neue Energiewelt übertragbar ist. Die systematische Verknüpfung von Investitionsförderung mit Weiterbildung gibt ihm die Sicherheit, dass er nicht abgehängt wird.",
+      "begruendung_selbst": "Ich bin 41, nicht 61. Wenn ich umschulen kann, bleibe ich hier. Aber ohne Qualifizierung bin ich weg – und mit mir die ganze Region.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Regionale Wertschöpfung statt Konzerne",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Industriepolitik soll regionale Wertschöpfungsketten stärken und Abhängigkeiten von internationalen Konzernen reduzieren, statt Sachsen-Anhalt als 'verlängerte Werkbank' zu belassen.",
+      "seite": 91,
+      "zitat": "regionale Wertschöpfung statt verlängerter Werkbank",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny erlebt seit Jahren, dass seine Region als billiger Zulieferer behandelt wird. Die explizite Ablehnung des 'verlängerte Werkbank'-Modells und die Forderung nach regionaler Verankerung bestätigen seine Hoffnung auf echte Wertschöpfung vor Ort.",
+      "begruendung_selbst": "Wir sind mehr als nur der billige Standort für Konzerne, die bei der nächsten Krise weiterziehen. Hier muss was hängen bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energienetze in öffentliche Hand",
+      "thema": "energie",
+      "programmpunkt": "Die Linke fordert, Energienetze in öffentliche Hand zu überführen, damit sie der Versorgungssicherheit dienen und nicht der Profitlogik.",
+      "seite": 107,
+      "zitat": "Energienetze in öffentliche Hand überführen, damit sie der Versorgungssicherheit dienen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Fachkraft im Netzbereich weiß Ronny, dass private Netzbetreiber Investitionen oft nach Rendite statt nach Versorgungssicherheit priorisieren. Die Forderung nach öffentlicher Netzkontrolle deckt sich mit seinem Wert 'verlässliche Energieversorgung'.",
+      "begruendung_selbst": "Die Netze gehören in öffentliche Hand. Wer nur auf Rendite guckt, baut nicht die Leitungen, die wir für die Energiewende brauchen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaneutral 2035 – ohne Brücke!",
+      "thema": "klima",
+      "programmpunkt": "Die Linke will ein verbindliches CO₂-Budget festlegen, das den Pfad zur Klimaneutralität bis 2035 klar beschreibt, und alle politischen Entscheidungen einer verpflichtenden Klimawirkungsprüfung unterziehen.",
+      "seite": 121,
+      "zitat": "ein verbindliches CO₂-Budget für Sachsen-Anhalt festlegen, das den Pfad zur Klimaneutralität bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny hält das Ziel Klimaneutralität 2035 für unrealistisch ohne technologische Brücken wie CCS. Ein starres CO₂-Budget ohne Technologieoffenheit bedeutet aus seiner Sicht, dass seine Region und ihr Industriesektor vor dem Ersatz durch neue Technologien abgeschaltet werden.",
+      "begruendung_selbst": "2035 klimaneutral? In elf Jahren? Ohne CCS, ohne Gas als Brücke? Das ist kein Plan, das ist ein Todesurteil für unsere Industrie. Erst die Brücke bauen, dann die alte abreißen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gas nur als Mini-Brücke",
+      "thema": "energie",
+      "programmpunkt": "Gaskraftwerke sollen nur als Brücke zugelassen werden, mit verbindlichen Kriterien wie H2-ready und maximal 1.000 Volllaststunden, unter der Devise 'so viel Kraftwerksleistung wie nötig, so wenig wie möglich'.",
+      "seite": 109,
+      "zitat": "Gaskraftwerke nur als Brücke zulassen und hierbei verbindliche Kriterien wie H2-ready und maximal 1.000 Volllaststunden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny arbeitet in der konventionellen Energieerzeugung und sieht, dass 1.000 Volllaststunden Gaskraftwerke wirtschaftlich unrentabel machen. Die extrem restriktive Regelung bedeutet faktisch das Aus für Gas als verlässliche Brückentechnologie und bedroht seinen Arbeitsplatz, bevor Erneuerbare und Speicher die Lücke füllen können.",
+      "begruendung_selbst": "1.000 Stunden im Jahr? Da rechnet sich kein Kraftwerk. Das ist kein Brückenbau, das ist die Brücke sprengen, bevor die andere Seite steht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CCS? Fehlanzeige komplett",
+      "thema": "energie",
+      "programmpunkt": "Das Programm erwähnt CCS (Carbon Capture and Storage) an keiner Stelle als Option und setzt ausschließlich auf erneuerbare Energien, Effizienz und grünen Wasserstoff.",
+      "seite": 105,
+      "zitat": "100 Prozent erneuerbaren Strom und für eine klimaneutrale Wärmeversorgung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Ronny ist CCS eine potenzielle Brückentechnologie, die seiner Region den Übergang erleichtern könnte. Dass das 150-seitige Programm CCS mit keinem Wort erwähnt, bestätigt seine Sorge vor pauschaler Technologieablehnung und nimmt seiner Region aus seiner Sicht ein wichtiges Werkzeug.",
+      "begruendung_selbst": "150 Seiten und kein einziges Wort zu CCS. Die Technologie existiert, die Infrastruktur ist da – aber die Politik tut so, als gäbe es die nicht. Das ist ideologisch, nicht pragmatisch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Atomkraft-Debatte pauschal abgewürgt",
+      "thema": "energie",
+      "programmpunkt": "Die Linke erteilt der Atomkraft und Debatten, die 'die Vergangenheit verklären und wieder umweltschädliche Energieerzeugung etablieren wollen', eine klare Absage.",
+      "seite": 106,
+      "zitat": "eine klare Absage an Atomkraft und Debatten, die Vergangenheit verklären",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny ist zwar selbst kein Atomkraft-Befürworter, aber er stört sich an der pauschalen Abkanzelung jeder Debatte über grundlastfähige Alternativen. Für ihn signalisiert das eine Technologiefeindlichkeit, die auch CCS und andere Optionen trifft, die seiner Region helfen könnten.",
+      "begruendung_selbst": "Ich will kein AKW vor der Haustür. Aber wenn man jede Debatte über grundlastfähige Optionen als 'Verklärung' abtut, dann ist das keine Energiepolitik – das ist Religion.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohleausstieg ohne Wenn und Aber",
+      "thema": "energie",
+      "programmpunkt": "Das Programm fordert 100 Prozent erneuerbaren Strom und beschreibt den Abschied von fossilen Rohstoffen als 'unausweichlich', ohne technologische Brücken wie CCS zu benennen.",
+      "seite": 90,
+      "zitat": "Der Abschied von fossilen Rohstoffen und das Ende überholter Exportmodelle sind unausweichlich",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny akzeptiert den Wandel grundsätzlich, aber die Formulierung 'unausweichlich' ohne gleichzeitige Nennung von Brückentechnologien oder konkreten Ersatzkapazitäten bestätigt seine Hauptsorge: dass Ausstiegsdaten gesetzt werden, bevor tragfähiger Ersatz steht.",
+      "begruendung_selbst": "'Unausweichlich' – ja, klar. Aber sagt mir auch, was stattdessen läuft, wenn mein Kraftwerk vom Netz geht. Sonst ist das kein Ausstieg, sondern ein Absturz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff nur für Chemie, nicht für Strom",
+      "thema": "energie",
+      "programmpunkt": "Grüner Wasserstoff soll gezielt nur dort eingesetzt werden, wo es noch keine klimafreundlichere Alternative gibt, etwa in der Chemie- oder Schwerlastindustrie.",
+      "seite": 121,
+      "zitat": "grünen Wasserstoff gezielt nur dort einsetzen, wo es noch keine klimafreundlichere Alternative gibt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny sieht in Wasserstoff auch eine Option für die Rückverstromung und Netzstabilisierung. Die enge Fokussierung auf Chemie und Schwerlast schränkt aus seiner Sicht die Nutzungsmöglichkeiten ein und reduziert die Perspektiven für seine Region als potenzieller Wasserstoff-Standort.",
+      "begruendung_selbst": "Wasserstoff nur für die Chemie? Und was ist mit Rückverstromung, mit Netzstabilität? Wenn wir hier Wasserstoff produzieren, soll er auch hier genutzt werden – nicht nur in einer Nische.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet bei der Linken starke Ansätze für einen strukturierten, mitbestimmten Wandel mit Investitionsfonds, Standortgarantien und Qualifizierung – genau die Planbarkeit, die er fordert. Gleichzeitig stößt ihn das starre Klimaneutralitätsziel 2035 ohne technologische Brücken wie CCS und die extrem restriktive Gas-Kraftwerksregelung massiv ab. Für ihn fehlt die entscheidende Brücke zwischen Ausstiegsziel und Ersatzkapazität.",
+    "score": -1
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:54:34.160Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 77044,
+    "output_tokens": 10165,
+    "cached_tokens": 73856,
+    "total_tokens": 87209,
+    "dauer_ms": 186203,
+    "usd": 0.090729
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Aktenordner!",
+      "thema": "demokratie",
+      "programmpunkt": "Einführung einer Zwei-für-eins-Regel, bei der für jede neue Vorschrift zwei alte gestrichen werden müssen.",
+      "seite": 17,
+      "zitat": "Für jede neue Verordnung oder jedes neue Gesetz müssen mindestens zwei alte Regelungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine erstickt im bürokratischen Aufwand für Nachweise und Förderanträge. Eine feste Regel zum Abbau von Vorschriften gibt ihr die Hoffnung, wieder mehr Zeit für die eigentliche Arbeit auf der Baustelle und im Betrieb zu haben.",
+      "begruendung_selbst": "Ich verbringe meine Abende mit Formularen statt mit meiner Familie oder der Kalkulation. Wenn für jeden neuen Unsinn zwei alte Regeln wegfallen, wäre das ein echter Gamechanger für meinen Laden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mittelstand statt Milliardensubventionen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Abkehr von der Subventionierung globaler Großkonzerne zugunsten gezielter Unterstützung für kleine und mittelständische Unternehmen.",
+      "seite": 12,
+      "zitat": "Insolvenz und Abwanderung kleiner und mittelständischer Unternehmen zu stoppen sowie die Gründung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Inhaberin eines Handwerksbetriebs ärgert sich Sabine darüber, dass Steuergelder an Großkonzerne fließen, während der lokale Mittelstand mit hohen Kosten kämpft. Die Fokussierung auf den Mittelstand bestätigt ihr Gerechtigkeitsempfinden.",
+      "begruendung_selbst": "Dem Riesen-Konzern werfen sie Milliarden in den Rachen, aber wenn ich als Chefin von acht Leuten mal eine Förderung für neue Maschinen brauche, gucke ich in die Röhre. Das muss sich ändern!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit dem Heizungs-Chaos!",
+      "thema": "energie",
+      "programmpunkt": "Abschaffung des Gebäudeenergiegesetzes und Rückkehr zu einem technologieoffenen Wärmemarkt ohne Zwang zu bestimmten Heizsystemen.",
+      "seite": 13,
+      "zitat": "Daher fordert die AfD einen technologieoffenen Wärmesektor, in dem auch zukünftig",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das ständige Hin und Her beim Heizungsgesetz hat Sabines Kunden massiv verunsichert und Aufträge platzen lassen. Technologieoffenheit bedeutet für sie, dass Kunden wieder pragmatisch nach Budget und Haus entscheiden können, was Planungssicherheit bringt.",
+      "begruendung_selbst": "Sag mir eine Regel, an die ich mich halten kann – aber bitte nicht jedes halbe Jahr eine neue. Wenn der Kunde wieder selbst entscheiden darf, was in seinen Keller passt, laufen die Aufträge wieder normal.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meisterbrief wieder bezahlbar!",
+      "thema": "arbeit",
+      "programmpunkt": "Kostenfreie Meisterausbildung und Einführung einer Meisterprämie zur Stärkung des Handwerksnachwuchses.",
+      "seite": 12,
+      "zitat": "Kostenfreie Meisterausbildung gewährleisten, Meisterprämie einführen!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine sucht händeringend nach Wegen, ihre besten Gesellen zu halten und zur Übernahme zu motivieren. Die finanzielle Entlastung beim Meistertitel hilft ihr direkt bei der Betriebsnachfolge und Fachkräftesicherung.",
+      "begruendung_selbst": "Mein bester Mann will den Meister machen, aber die Kosten und der Ausfall schrecken ab. Wenn das Land da endlich mal in die Tasche greift, sichert das meinen Betrieb für die nächsten zehn Jahre.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich wieder Handwerk in der Schule!",
+      "thema": "bildung",
+      "programmpunkt": "Stärkere Integration von handwerklicher Bildung und Praxis in den schulischen Alltag zur frühen Talentförderung.",
+      "seite": 7,
+      "zitat": "Wir setzen uns dafür ein, handwerkliche Bildung stärker in den Schulalltag zu integrieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Akademisierungswahn verschärft Sabines Azubi-Mangel. Sie begrüßt es, dass das Handwerk wieder als gleichwertige und praktische Karrierechance in den Schulen verankert werden soll.",
+      "begruendung_selbst": "Die Schulen quetschen alle Kids aufs Abi, und ich finde keine Azubis mehr. Wenn die Kids wieder frühzeitig merken, dass Handwerk Gold wert ist, hilft mir das beim Recruiting enorm.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wer soll denn dann arbeiten?",
+      "thema": "arbeit",
+      "programmpunkt": "Ablehnung der Anwerbung ausländischer Fachkräfte und Verhinderung ihrer Integration in den Arbeitsmarkt.",
+      "seite": 5,
+      "zitat": "Die Anwerbung kulturfremder Fachkräfte zur Lösung von Engpässen auf dem Arbeitsmarkt führt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine ist auf jeden angewiesen, der zuverlässig anpackt und das Handwerk lernen will. Die pauschale Ablehnung ausländischer Arbeitskräfte verschärft ihren existenzbedrohenden Fachkräftemangel und ignoriert die Realität auf dem Arbeitsmarkt.",
+      "begruendung_selbst": "Ich habe offene Stellen, die ich seit Monaten nicht besetzen kann, weil sich kein Einheimischer bewirbt. Wenn ich jetzt auch noch motivierte Leute aus dem Ausland nicht einstellen darf, kann ich den Laden bald dichtmachen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ämter bluten aus, Anträge liegen!",
+      "thema": "demokratie",
+      "programmpunkt": "Pauschaler Personalabbau in der Verwaltung durch Nicht-Nachbesetzung freiwerdender Stellen.",
+      "seite": 17,
+      "zitat": "Freiwerdende Stellen werden nur noch im Ausnahmefall nachbesetzt, sodass der Personalbestand durch",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine leidet bereits jetzt unter langsamen Genehmigungsverfahren und schleppender Fördermittelbearbeitung. Ein weiterer Personalabbau in den Ämtern bedeutet für sie noch längere Wartezeiten und blockierte Baustellen.",
+      "begruendung_selbst": "Ich warte jetzt schon ewig auf Baugenehmigungen und Zuschuss-Bescheide. Wenn die Ämter jetzt auch noch Leute abbauen, wer soll denn meine Anträge dann überhaupt noch bearbeiten? Das killt meine Liquidität.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderstopp killt meine Aufträge!",
+      "thema": "energie",
+      "programmpunkt": "Komplette Streichung aller Fördermittel und Programme für Wärmepumpen.",
+      "seite": 13,
+      "zitat": "auf die Streichung jeglicher Fördermittel und -programme für Wärmepumpen hinwirken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn Sabine das Heizungsgesetz-Chaos hasst, braucht ihr Betrieb Investitionsanreize für die Kunden. Ein abrupter Förderstopp würde dazu führen, dass Hausbesitzer aus Kostengründen Sanierungen komplett aufschieben, was ihre Auftragsbücher leert.",
+      "begruendung_selbst": "Erst zwingt man die Leute zum Tausch, dann streicht man das Geld – und am Ende steht mein Geselle auf der Baustelle und der Kunde hat storniert. Ich brauche verlässliche Rahmenbedingungen, keine Vollbremsung!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine sieht in den versprochenen Bürokratieerleichterungen und der Technologieoffenheit beim Heizen echte Entlastungen für ihren Betriebsalltag und die Auftragslage. Die pauschale Ablehnung ausländischer Fachkräfte und der geplante Personalabbau in den Ämtern bedrohen jedoch massiv ihre Kapazitäten und Liquidität. Insgesamt überwiegt die Sorge, dass ideologische Arbeitsmarktpolitik und abrupte Förderstopps den Mittelstand im Stich lassen, was zu einer skeptischen Gesamtbewertung führt.",
+    "score": -1
+  }
+}

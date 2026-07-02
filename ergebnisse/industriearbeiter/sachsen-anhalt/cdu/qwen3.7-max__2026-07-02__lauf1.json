@@ -1,0 +1,101 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:17:11.634Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 46961,
+    "output_tokens": 7822,
+    "cached_tokens": 44288,
+    "total_tokens": 54783,
+    "dauer_ms": 144488,
+    "usd": 0.0665645
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Industriestrompreis sichert unsere Jobs!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert die Einführung eines Industriestrompreises, um die Wettbewerbsfähigkeit der Industrie zu erhalten und Arbeitsplätze zu sichern.",
+      "seite": 45,
+      "zitat": "Damit wir wieder wettbewerbsfähiger werden und Arbeitsplätze sichern, benötigen wir u.a. einen Industriestrompreis",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht in den hohen Energiepreisen die größte Gefahr für die Chemieindustrie und seinen Arbeitsplatz. Die Forderung nach einem Industriestrompreis bestätigt seine Hoffnung, dass die Politik die Wettbewerbsfähigkeit der energieintensiven Industrie endlich aktiv sichert.",
+      "begruendung_selbst": "Ohne bezahlbaren Strom macht unser Werk dicht. Dass die CDU das endlich anerkennt und einen Industriestrompreis fordert, ist für uns im Chemiedreieck überlebenswichtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemieland sichern, Jobs erhalten!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU bekennt sich dazu, die chemische Industrie zu sichern und Sachsen-Anhalt langfristig als Chemieland zu erhalten.",
+      "seite": 16,
+      "zitat": "dass Sachsen-Anhalt auch weit über das Jahr 2030 hinaus zurecht das Chemieland ist.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der explizite Wille, Sachsen-Anhalt als Chemieland zu erhalten und die Grundstoffindustrie zu sichern, trifft Uwes Kernanliegen. Als Gewerkschafter kämpft er gegen Deindustrialisierung und sieht hier ein Bekenntnis zum Erhalt seiner Branche und der damit verbundenen Tarifjobs.",
+      "begruendung_selbst": "Wir sind das Rückgrat der Wirtschaft. Wenn die Politik versteht, dass die Chemieindustrie hier bleiben muss und nicht abgewickelt wird, können wir wieder mit etwas mehr Zuversicht in die Zukunft schauen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohleausstieg 2038 gibt Planungssicherheit",
+      "thema": "energie",
+      "programmpunkt": "Die Partei hält am vereinbarten Kohleausstieg bis 2038 fest und lehnt ein Vorziehen aus ideologischen Gründen ab.",
+      "seite": 45,
+      "zitat": "Der vereinbarte Kohleausstieg bis 2038 ist ein politisch und rechtlich verabredeter Konsens.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe ist skeptisch gegenüber einem überhasteten grünen Wandel, der Jobs vernichtet. Das Festhalten am vereinbarten Kohleausstieg bis 2038 gibt ihm und der Region die nötige Planungssicherheit für einen sozial abgesicherten Strukturwandel, statt ideologischer Schnellschüsse.",
+      "begruendung_selbst": "Klimaschutz ist richtig, aber nicht auf dem Rücken der Kollegen. Am Kompromiss bis 2038 festzuhalten, gibt uns die Zeit, die wir für einen vernünftigen Umbau der Strukturen brauchen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bürgerarbeit ist reine Schikane!",
+      "thema": "arbeit",
+      "programmpunkt": "Arbeitsfähige Empfänger staatlicher Leistungen sollen zu gemeinnütziger Bürgerarbeit verpflichtet werden, um Leistungen zu rechtfertigen.",
+      "seite": 30,
+      "zitat": "Wer eine staatliche Leistung bekommt und arbeitsfähig ist, der muss auch etwas zurückgeben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Forderung nach verpflichtender Bürgerarbeit für Leistungsbezieher stößt bei Uwe als Gewerkschafter auf scharfe Ablehnung. Er wertet dies als Abbau sozialer Rechte und eine Stigmatisierung von Arbeitslosen, was seinem Verständnis von Solidarität und einem starken Sozialstaat fundamental widerspricht.",
+      "begruendung_selbst": "Leute, die arbeitslos sind, in Zwangsarbeit zu stecken, ist doch keine Sozialpolitik, sondern reine Schikane. Der Sozialstaat soll schützen und nicht drangsalieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Senkung der Arbeitskosten gefährdet Löhne!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will Sozialabgaben deckeln und fordert, dass die Arbeitskosten international konkurrenzfähig bleiben müssen.",
+      "seite": 17,
+      "zitat": "sowie die Sozialabgaben zu deckeln. Die Arbeitskosten müssen international konkurrenzfähig bleiben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Forderung, Sozialabgaben zu deckeln und Arbeitskosten zu senken, alarmiert Uwe. Aus gewerkschaftlicher Perspektive bedeutet der Druck auf Arbeitskosten oft, dass Löhne stagnieren oder Sozialleistungen gekürzt werden, was direkt seine Errungenschaften und die soziale Sicherung angreift.",
+      "begruendung_selbst": "Wenn Politiker von konkurrenzfähigen Arbeitskosten und gedeckelten Abgaben reden, heißt das im Klartext: Die Beschäftigten sollen bluten. Gute Löhne und starke Sozialkassen sind aber kein Standortnachteil, sondern unser Fundament.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schicht bis ins Grab? Nein!",
+      "thema": "arbeit",
+      "programmpunkt": "Es sollen Anreize für Mehrarbeit und sozialversicherungsfreie Arbeit im Rentenalter geschaffen werden.",
+      "seite": 18,
+      "zitat": "bessere Anreize für Mehrarbeit und Arbeit im Rentenalter schaffen – sozialversicherungsfrei und unbürokratisch.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Anreize für sozialversicherungsfreie Arbeit im Rentenalter empfindet Uwe als zynisch. Nach Jahrzehnten harter Schichtarbeit in der Chemieindustrie will er sich auf einen verdienten, abgesicherten Ruhestand verlassen können, statt durch Hintertüren zum Weiterarbeiten gedrängt zu werden.",
+      "begruendung_selbst": "Nach 40 Jahren Schicht an der Anlage will ich meine Rente genießen und nicht sozialversicherungsfrei weitermalochen, nur damit die Arbeitgeber sparen. Das ist völlig an der Realität der Arbeiter vorbeigedacht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe begrüßt das klare Bekenntnis zum Erhalt der Chemieindustrie, den Industriestrompreis und das Festhalten am Kohlekompromiss, da dies seine existenzielle Sorge um den Standort und die Arbeitsplätze adressiert. Gleichzeitig stößt die marktorientierte Sozialpolitik der CDU – von der Bürgerarbeit bis zum Druck auf Arbeitskosten und Rentenalter – bei ihm als Gewerkschafter auf scharfe Ablehnung. Das Programm bietet ihm industrielle Sicherheit, verspielt aber seine soziale Solidarität.",
+    "score": -1
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:16:23.846Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69691,
+    "output_tokens": 6651,
+    "cached_tokens": 67456,
+    "total_tokens": 76342,
+    "dauer_ms": 122324,
+    "usd": 0.059284
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Pflegekosten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Land soll Investitions- und Ausbildungskosten aus dem Eigenanteil der stationären Pflege übernehmen, um den finanziellen Druck auf Pflegebedürftige und ihre Angehörigen zu senken.",
+      "seite": 86,
+      "zitat": "Eigenanteile in der stationären Pflege liegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten nichts mehr als den Tag, an dem einer von ihnen pflegebedürftig wird und das gemeinsame Vermögen durch hohe Eigenanteile aufgezehrt wird. Die Aussicht, dass das Land einen Teil dieser Kosten übernehmen will, gibt ihnen ein Stück finanzielle Sicherheit zurück.",
+      "begruendung_selbst": "Wenn einer von uns ins Heim muss, fressen die Eigenanteile unsere ganze Rente auf. Endlich will jemand was dagegen tun – das beruhigt uns wirklich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege darf nicht arm machen",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung einer solidarischen Pflegevollversicherung, die das Armutsrisiko durch Pflegebedürftigkeit absenken soll – unabhängig von Einkommen und Vermögen.",
+      "seite": 86,
+      "zitat": "Wir setzen uns für eine solidarische Pflegegarantie im Rahmen einer Pflegevollversicherung ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Idee einer Pflegevollversicherung trifft genau den Nerv des Paares: Sie wollen sich darauf verlassen können, dass ein Leben voller Arbeit im Alter nicht durch Pflegekosten zunichte gemacht wird. Das entspricht ihrem Gerechtigkeitsempfinden.",
+      "begruendung_selbst": "Wir haben unser Leben lang gearbeitet und eingezahlt. Da darf die Pflege uns am Ende nicht das Letzte nehmen. Eine richtige Versicherung für alle – das ist nur fair.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanieren ohne Schulden",
+      "thema": "wohnen",
+      "programmpunkt": "Energetische Sanierungsförderungen sollen vereinfacht und gezielt für einkommensschwache Haushalte zugänglich gemacht werden, inklusive Landesbürgschaften für Menschen ohne eigene Rücklagen.",
+      "seite": 92,
+      "zitat": "Sanierungsförderungen werden vereinfacht und für einkommensschwache Haushalte zugänglich gemacht",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Haus von 1981 braucht früher oder später eine neue Dämmung oder ein neues Dach. Die Aussicht auf unbürokratische Förderung und Bürgschaften nimmt Helga und Dieter die Angst, dass sie sich verschulden müssen, nur um gesetzliche Vorgaben zu erfüllen.",
+      "begruendung_selbst": "Unser Haus ist über vierzig Jahre alt – da kommt irgendwann was auf uns zu. Wenn das Land uns dabei hilft und bürgt, statt uns zu zwingen, können wir nachts besser schlafen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arzt im Dorf behalten",
+      "thema": "gesundheit",
+      "programmpunkt": "Krankenhäuser sollen als Notfallversorger erhalten bleiben und kommunale Gesundheitszentren gefördert werden, um die wohnortnahe medizinische Versorgung auch im ländlichen Raum zu sichern.",
+      "seite": 80,
+      "zitat": "Wir wollen kommunale Gesundheitszentren fördern, um die wohnortnahe Versorgung zu sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Hausarzt im Ort ist für Helga und Dieter lebenswichtig. Die Zusage, dass die wohnortnahe Versorgung gestärkt und kommunale Gesundheitszentren ausgebaut werden sollen, adressiert eine ihrer größten Alltagssorgen direkt.",
+      "begruendung_selbst": "Unser Hausarzt ist noch da, aber wie lange noch? Wenn der aufhört, müssen wir ewig fahren. Dass die Politik endlich was für Ärzte auf dem Land tun will, ist überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strompreise sollen runter",
+      "thema": "energie",
+      "programmpunkt": "Die Strompreise sollen durch Senkung der Stromsteuer auf das europarechtliche Minimum, regionale Netzentgelte und eine Strompreiszonenaufteilung gesenkt werden.",
+      "seite": 22,
+      "zitat": "Die Strompreise wollen wir senken durch eine Verringerung der Stromsteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Steigende Stromkosten belasten das knappe Budget des Rentnerpaars. Das Versprechen niedrigerer Strompreise durch Steuersenkung und regionale Netzentgelte kommt ihrer Forderung nach bezahlbarer Energie im Alltag entgegen.",
+      "begruendung_selbst": "Jede Stromrechnung ist ein Schreckmoment. Wenn die Steuer runtergeht und wir hier auf dem Land nicht mehr draufzahlen als in der Stadt, hilft uns das wirklich im Geldbeutel.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Solarpflicht aufs Dach?",
+      "thema": "energie",
+      "programmpunkt": "Für Wohngebäude soll eine Pflicht zur Nutzung von Solarenergie bei Neubauten in der Landesbauordnung verankert werden.",
+      "seite": 23,
+      "zitat": "Für Wohngebäude wollen wir eine Pflicht zur Nutzung von Solarenergie bei Neubauten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn die Pflicht primär Neubauten betrifft, fürchten Helga und Dieter, dass solche Vorgaben schleichend auf Bestandsgebäude und umfassende Dachsanierungen ausgeweitet werden. Ihr Haus von 1981 könnte bei der nächsten Dachsanierung betroffen sein – eine Investition, die sie nicht stemmen können.",
+      "begruendung_selbst": "Erst sind es nur Neubauten, aber dann kommt sicher auch noch die Pflicht für alte Häuser wie unseres. Wenn wir das Dach machen müssen, sollen wir auch noch Solaranlagen draufpacken? Von welchem Geld?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimazwang trifft uns",
+      "thema": "klima",
+      "programmpunkt": "Ein verbindliches Klimaschutzgesetz mit ambitionierten Minderungszielen soll klare rechtliche Rahmenbedingungen schaffen und Sachsen-Anhalt bis 2035 klimaneutral machen.",
+      "seite": 10,
+      "zitat": "Wir werden uns für ein verbindliches und kontrollierbares Klimaschutzgesetz",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Helga und Dieter klingt 'verbindlich' und 'ambitioniert' nach neuen Auflagen, die am Ende auf ihrem Küchentisch landen: Dämmvorschriften, Heizungstausch, höhere Abgaben. Sie sehen sich als Menschen mit kleiner Rente, die die Last der Klimapolitik schultern müssen, ohne gefragt zu werden.",
+      "begruendung_selbst": "Klimaneutral bis 2035 – das klingt schön, aber wer zahlt das? Am Ende sind wir es mit unserem alten Haus und unserer kleinen Rente. Die großen Konzerne lässt doch keiner ran.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heizung tauschen – wovon?",
+      "thema": "energie",
+      "programmpunkt": "Heizungsbesitzer sollen beim Umbau auf erneuerbare Wärmequellen unterstützt werden, mit besonderem Blick auf einkommensschwache Haushalte und Einfamilienhäuser im ländlichen Raum.",
+      "seite": 20,
+      "zitat": "Wir unterstützen Heizungsbesitzer beim Umbau auf erneuerbare Wärmequellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn Unterstützung versprochen wird, lesen Helga und Dieter zwischen den Zeilen: Die Wärmewende bedeutet, dass ihre alte Öl- oder Gasheizung irgendwann raus muss. Selbst mit Förderung bleibt ein Eigenanteil, den sie aus ihren kleinen Renten kaum aufbringen können. Die Richtung der Politik empfinden sie als Bedrohung.",
+      "begruendung_selbst": "Die sagen 'Unterstützung', aber am Ende müssen wir unsere Heizung rausreißen und eine Wärmepumpe einbauen lassen. Das kostet Tausende, auch mit Zuschuss. Unsere Heizung läuft doch noch – warum lassen die uns nicht in Ruhe?",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Tempo 130 – reine Gängelei",
+      "thema": "verkehr",
+      "programmpunkt": "Auf allen Autobahnen soll Tempo 130 als Regelgeschwindigkeit eingeführt werden, um die Verkehrssicherheit zu erhöhen.",
+      "seite": 31,
+      "zitat": "uns für Tempo 130 als Regelgeschwindigkeit auf allen Autobahnen ein",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Dieter, der sein Auto als letztes Stück Freiheit und Selbstständigkeit empfindet, ist das Tempolimit ein Symbol für unnötige Bevormundung durch die Politik. Es bestärkt sein Gefühl, dass über die Köpfe der Menschen auf dem Land hinweg entschieden wird.",
+      "begruendung_selbst": "Auf der Autobahn noch langsamer fahren? Wir sind doch nicht in der Stadt! Das ist wieder so eine Vorschrift von Leuten, die selbst nie aufs Land fahren müssen. Lasst uns doch einfach in Ruhe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgerversicherung – Finger weg!",
+      "thema": "gesundheit",
+      "programmpunkt": "Im Bereich der Sozialversicherungen wird das Prinzip einer Bürgerversicherung gefordert, in die alle unabhängig vom Beschäftigungsstatus mit allen Einkommensformen einzahlen.",
+      "seite": 76,
+      "zitat": "uns auf Bundesebene für das Prinzip der Bürger*innenversicherung ein",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter sind tief skeptisch gegenüber jedem Umbau des Sozialsystems. Eine Bürgerversicherung klingt für sie nach einem Experiment, bei dem am Ende die kleinen Rentner die Zeche zahlen, während andere Gruppen profitieren. Sie wollen keine Systemumwälzung, sondern Stabilität.",
+      "begruendung_selbst": "Jetzt wollen die das ganze System umkrempeln? Wir wissen doch, wie das ausgeht: Die einen zahlen mehr, und die anderen kriegen es umsonst. Lasst die Finger von unserer Versicherung – die hat immer funktioniert!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter finden bei den Grünen konkrete Angebote zur Pflegekostenentlastung und zur ärztlichen Versorgung auf dem Land, die ihre größten Ängste adressieren. Gleichzeitig empfinden sie die klimapolitischen Vorgaben – Solarpflicht, Klimaschutzgesetz, Wärmewende – als existenzielle Bedrohung für ihr bescheidenes Eigenheim und ihre kleine Rente. Die Spannung zwischen sozialer Absicherung im Pflegefall und ökologischen Sanierungspflichten prägt ihre ambivalente Haltung zum Programm.",
+    "score": -1
+  }
+}

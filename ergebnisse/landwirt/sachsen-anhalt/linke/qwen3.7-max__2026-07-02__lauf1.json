@@ -1,0 +1,185 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:07:29.983Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82496,
+    "output_tokens": 9215,
+    "cached_tokens": 78336,
+    "total_tokens": 91711,
+    "dauer_ms": 168211,
+    "usd": 0.07992775
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich faire Erzeugerpreise!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei fordert faire Erzeugerpreise, Transparenz in den Lieferketten und eine Begrenzung des Preisdrucks durch große Supermarktketten sowie unfaire Handelspraktiken.",
+      "seite": 111,
+      "zitat": "faire Erzeugerpreise und Transparenz entlang der Lieferketten durchsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sieht in den niedrigen Erzeugerpreisen und der Marktmacht der großen Lebensmittelkonzerne eine zentrale Bedrohung seines Betriebs. Die Forderung nach fairen Preisen und der Begrenzung von Supermarkt-Macht trifft seinen Kernwunsch nach wirtschaftlicher Überlebensfähigkeit.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass die Supermarktketten uns nicht länger die Preise diktieren dürfen. Wenn ich für meine Arbeit nicht mal meine Kosten decken kann, dann stimmt was nicht im System.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Boden gehört den Bauern!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will ein Agrarstrukturgesetz, das Bodenpreise begrenzt, Landkonzentration verhindert und Share Deals beim Erwerb landwirtschaftlicher Betriebe verbietet. Ein öffentlicher Bodenfonds soll Flächen gemeinwohlorientiert verpachten.",
+      "seite": 111,
+      "zitat": "ein landesweites Verbot von Share Deals beim Erwerb landwirtschaftlicher Betriebe",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank erlebt seit Jahren, wie außerlandwirtschaftliche Investoren über Share Deals Flächen aufkaufen und die Pachtpreise in die Höhe treiben. Ein Verbot dieser Praxis und die Begrenzung von Bodenpreisen entspricht direkt seiner Forderung nach Schutz vor Flächenfraß durch Kapitalanleger.",
+      "begruendung_selbst": "Die Investoren, die mit unserem Boden spekulieren, ohne je einen Fuß auf den Acker gesetzt zu haben – die müssen endlich gestoppt werden. Boden ist kein Spekulationsobjekt, sondern unsere Lebensgrundlage.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Bürokratie auf dem Hof!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will Bürokratiekosten in der Landwirtschaft deutlich reduzieren, Förderprogramme vereinfachen, mehrjährige Förderzusagen einführen und vollständig digitale, einfache Antragsverfahren ermöglichen.",
+      "seite": 114,
+      "zitat": "Bürokratiekosten deutlich reduzieren und Förderprogramme vereinfachen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank leidet unter dem ständigen Dokumentationsaufwand und dem Förder-Wirrwarr. Die Aussicht auf weniger Bürokratie, verlässliche mehrjährige Zusagen und einfache digitale Verfahren trifft genau seinen Wunsch, wieder mehr Zeit für die eigentliche Arbeit zu haben.",
+      "begruendung_selbst": "Jedes Jahr dieser Antragswahnsinn! Ich bin Landwirt, nicht Sachbearbeiter. Wenn die Politik endlich kapiert, dass wir auf dem Feld gebraucht werden und nicht am Schreibtisch, wäre schon viel gewonnen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wolf gezielt entnehmen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will gezielte Entnahmen von Wölfen ermöglichen, wenn sie wiederholt Nutztiere gerissen haben und alle Schutzmaßnahmen ausgeschöpft sind. Gleichzeitig soll der Herdenschutz staatlich finanziert und unbürokratisch gefördert werden.",
+      "seite": 112,
+      "zitat": "gezielte Entnahmen von Wölfen ermöglichen, wenn sie wiederholt Nutztiere gerissen haben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hat einen konkreten Konflikt mit dem Wolf, der seine Weidetierhaltung bedroht. Die Möglichkeit gezielter Entnahmen bei Problemwölfern, verbunden mit staatlich finanziertem Herdenschutz, gibt ihm eine pragmatische Perspektive, die er als fair empfindet.",
+      "begruendung_selbst": "Ich bin ja nicht gegen den Wolf per se. Aber wenn er meine Kühe reißt und ich tagelang den Schaden dokumentieren muss, statt ihn zu verhindern – dann muss man auch mal einen rausnehmen dürfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Regionale Vermarktung stärken!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will Vergaberegeln schaffen, damit öffentliche Einrichtungen wie Kitas, Schulen und Kliniken bevorzugt regionale und nachhaltige Lebensmittel einkaufen können, und Programme für regionale Kooperationen unterstützen.",
+      "seite": 111,
+      "zitat": "Kantinen, Kitas, Schulen und Kliniken bevorzugt regionale und nachhaltige Lebensmittel einkaufen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sucht nach verlässlichen Absatzwegen jenseits der großen Abnehmer. Eine öffentliche Beschaffung, die regionale Erzeuger bevorzugt, könnte ihm Planungssicherheit und bessere Margen bieten.",
+      "begruendung_selbst": "Wenn die Schulen und Kitas bei uns in der Region kaufen würden, statt über Großhändler aus dem Westen – das wäre doch mal was. Davon hätten alle was: die Kinder frische Ware und wir ein Auskommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hofnachfolge sichern!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will die Privatisierung von BVVG-Flächen dauerhaft beenden und einen öffentlichen Bodenfonds schaffen, der Junglandwirt:innen und Betriebsgründer:innen den Zugang zu Land erleichtert.",
+      "seite": 111,
+      "zitat": "Zugang zu Land für Junglandwirt:innen und Betriebsgründer:innen erleichtert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sorgt sich, ob seine Tochter den Hof unter den aktuellen Bedingungen übernehmen will. Erleichterter Zugang zu Flächen für die nächste Generation gibt ihm Hoffnung, dass die Hofnachfolge gelingen kann.",
+      "begruendung_selbst": "Meine Tochter überlegt, ob sie den Hof übernimmt. Wenn sie aber keine Flächen bekommt, weil alles an Investoren geht – wie soll das dann funktionieren? Die junge Generation braucht eine Chance.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "30 Prozent Öko – wer zahlt?",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will den Anteil ökologisch bewirtschafteter Flächen von derzeit rund 10 auf mindestens 30 Prozent steigern und die Umstellung auf Ökolandbau gezielt fördern.",
+      "seite": 113,
+      "zitat": "Anteil ökologisch bewirtschafteter Flächen von derzeit rund 10 auf mindestens 30 Prozent steigern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank empfindet eine verbindliche Öko-Quote von 30 Prozent als weiteren Top-Down-Eingriff in seine unternehmerische Freiheit. Er fürchtet, dass der konventionelle Ackerbau damit unter Druck gerät und die Umstellungskosten auf seinem Rücken ausgetragen werden.",
+      "begruendung_selbst": "30 Prozent Öko – das klingt nett auf dem Papier. Aber wer von uns konventionellen Bauern soll das stemmen? Das ist wieder so eine Vorgabe von Leuten, die noch nie auf einem Acker gestanden haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaneutral 2035 – unrealistisch!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei will ein verbindliches CO₂-Budget für Sachsen-Anhalt festlegen, das den Pfad zur Klimaneutralität bis 2035 beschreibt, und alle politischen Entscheidungen einer verpflichtenden Klimawirkungsprüfung unterziehen.",
+      "seite": 121,
+      "zitat": "ein verbindliches CO₂-Budget für Sachsen-Anhalt festlegen, das den Pfad zur Klimaneutralität bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank hält das Ziel der Klimaneutralität bis 2035 für völlig unrealistisch und befürchtet, dass die damit verbundenen Auflagen und Kosten vor allem die Landwirtschaft treffen werden. Eine verpflichtende Klimawirkungsprüfung für alle Entscheidungen sieht er als zusätzliche bürokratische Hürde.",
+      "begruendung_selbst": "Klimaneutral bis 2035? Das ist doch ein Witz. Und wer zahlt das? Am Ende bin ich es wieder, der seine Maschinen umstellen und Flächen stilllegen muss, während die in der Stadt weiter SUV fahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bestandsobergrenzen – Existenzbedrohung!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will eine Bundesratsinitiative für Bestandsobergrenzen in der Tierhaltung auf den Weg bringen und Mega-Schlachthöfe sowie exportorientierte Fleischerzeugung beenden.",
+      "seite": 112,
+      "zitat": "eine Bundesratsinitiative für Bestandsobergrenzen in der Tierhaltung auf den Weg bringen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn Franks eigene Mutterkuhherde klein ist, sieht er Bestandsobergrenzen als gefährliches Prinzip, das Wachstum und Effizienz in der Tierhaltung grundsätzlich deckelt. Er fürchtet, dass solche Vorgaben die gesamte Branche weiter schwächen und die Wettbewerbsfähigkeit zerstören.",
+      "begruendung_selbst": "Obergrenzen für Tierbestände – das ist doch planwirtschaftlich. Wenn ein Kollege seinen Betrieb vergrößern will, weil er wirtschaftlich arbeiten kann, warum soll der Staat ihm das verbieten? Das treibt die Produktion doch nur ins Ausland.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Windräder auf meinem Acker?",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will das Flächenziel von 2,2 Prozent für Windenergie umsetzen, Repowering auch außerhalb von Vorranggebieten ermöglichen und Photovoltaik auf Dächern priorisieren, mit Solarpflicht für Neubauten.",
+      "seite": 107,
+      "zitat": "das Flächenziel von 2,2 Prozent für Windenergie umsetzen und die Planungsgremien stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank befürchtet, dass der forcierte Ausbau von Windenergie und die damit verbundene Flächenausweisung seine landwirtschaftlichen Flächen weiter einschränken. Die Konkurrenz um Fläche zwischen Energieerzeugung und Nahrungsmittelproduktion ist für ihn ein reales Problem.",
+      "begruendung_selbst": "Erst wollen sie meine Flächen stilllegen für den Naturschutz, dann kommen die Windräder, und am Ende bleibt mir nicht mehr genug zum Wirtschaften. Irgendwann ist Schluss mit lustig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermögenssteuer trifft meinen Hof!",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei fordert eine Bundesratsinitiative zur Wiedereinführung der Vermögenssteuer mit 1 Prozent auf Vermögen über einer Million Euro, was Sachsen-Anhalt bis zu 2 Milliarden Euro jährlich bringen würde.",
+      "seite": 17,
+      "zitat": "Eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Franks Vermögen steckt fast vollständig in Boden und Maschinen – er ist 'reich' auf dem Papier, aber kaum liquide. Eine Vermögenssteuer von 1 Prozent würde ihn hart treffen, da er das Geld nicht aus laufenden Einnahmen zahlen könnte, sondern Kredite aufnehmen oder Flächen verkaufen müsste.",
+      "begruendung_selbst": "Mein Hof ist über eine Million wert – klar. Aber das ist Boden, sind Maschinen, keine Barreserven auf dem Konto. Wenn ich dafür jedes Jahr Steuern zahlen muss, kann ich gleich anfangen, Land zu verkaufen. Das ist Enteignung durch die Hintertür.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Agrardiesel mehr?",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will Gaskraftwerke nur als Brücke zulassen, verbindliche Kriterien wie H2-ready und maximal 1.000 Volllaststunden festlegen und die Stromsteuer auf 0,1 ct/kWh senken, erwähnt aber keine Beibehaltung der Agrardiesel-Steuerrückvergütung.",
+      "seite": 109,
+      "zitat": "Gaskraftwerke nur als Brücke zulassen und hierbei verbindliche Kriterien wie H2-ready",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank ist auf den Agrardiesel und die damit verbundene Steuerrückvergütung angewiesen. Das Programm schweigt zur Zukunft dieser Regelung, während gleichzeitig eine ambitionierte Energiewende gefordert wird. Für Frank ist das ein Alarmzeichen, dass seine Betriebskosten weiter steigen könnten.",
+      "begruendung_selbst": "Kein Wort zum Agrardiesel. Das macht mir Sorgen. Wenn die uns auch noch die Steuerrückvergütung streichen, kann ich den Laden gleich dichtmachen. Mein Traktor fährt nun mal nicht mit Sonnenstrom.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ständige neue Auflagen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will Förderprogramme an klaren Landeszielen ausrichten und verlässlich an Tier-, Umwelt-, Klima- und Sozialstandards koppeln sowie mehrjährige Förderzusagen einführen.",
+      "seite": 114,
+      "zitat": "Förderprogramme an klaren Landeszielen ausrichten und verlässlich an Tier-, Umwelt-, Klima- und Sozialstandards koppeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank liest 'Kopplung an Klima- und Sozialstandards' als weitere Konditionalität: noch mehr Auflagen, noch mehr Nachweise, noch mehr Bürokratie. Auch wenn mehrjährige Zusagen positiv klingen, überwiegt für ihn die Sorge vor zusätzlichen Standards, die seine Marge auffressen.",
+      "begruendung_selbst": "Klima-, Umwelt-, Sozialstandards – das klingt alles schön. Aber am Ende heißt das: noch ein Formular mehr, noch eine Kontrolle, noch eine Auflage. Ich will Landwirtschaft betreiben, nicht für Ministerien dokumentieren.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet im Programm der Linken einige Punkte, die seine konkreten Sorgen ansprechen: faire Erzeugerpreise, Schutz vor Bodenspekulation, Bürokratieabbau und pragmatische Wolfspolitik. Gleichzeitig stößt er sich massiv an den ambitionierten Klimazielen, der Vermögenssteuer, die seinen illiquiden Hof treffen würde, und der Kopplung von Förderungen an immer neue Standards. Das Programm bietet ihm Licht und Schatten – er fühlt sich in manchen praktischen Anliegen ernst genommen, sieht aber die ideologische Gesamtrichtung als Bedrohung für seine unternehmerische Freiheit und wirtschaftliche Überlebensfähigkeit.",
+    "score": -1
+  }
+}

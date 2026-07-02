@@ -1,0 +1,161 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:30:20.078Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41213,
+    "output_tokens": 9379,
+    "cached_tokens": 39168,
+    "total_tokens": 50592,
+    "dauer_ms": 171027,
+    "usd": 0.07139575
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich null Toleranz bei Diskriminierung!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei positioniert sich klar gegen Diskriminierung aufgrund von Herkunft, Religion, sexueller Orientierung oder geschlechtlicher Identität und fordert feste Ansprechpersonen bei der Polizei sowie den Schutz von Großveranstaltungen queerer Gruppen.",
+      "seite": 40,
+      "zitat": "Null Toleranz für Diskriminierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule fühlt sich als queere Person direkt angesprochen und geschützt durch das explizite Bekenntnis zu Antidiskriminierung und den konkreten Maßnahmen wie Ansprechpartnern bei der Polizei. Das bestätigt ihr Grundbedürfnis nach Sicherheit und gesellschaftlicher Akzeptanz.",
+      "begruendung_selbst": "Endlich sagt mal jemand klar: Queere Menschen gehören geschützt, nicht nur toleriert. Feste Ansprechpartner bei der Polizei wären ein echter Gamechanger, wenn man nachts nach dem CSD oder einer Demo nach Hause geht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Selbstbestimmung statt Gutachter-Zwang!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei fordert, dass die Angabe des Geschlechts in der Verwaltung nur dort erfasst wird, wo es unbedingt nötig ist, und dass administrative Akte vom Gedanken der Selbstbestimmung geprägt sein sollen, ohne externe Gutachter.",
+      "seite": 41,
+      "zitat": "Administrative Akte müssen vom Gedanken der Selbstbestimmung geprägt sein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als queere Person, die sich mit Geschlechtervielfalt identifiziert, sieht Jule hier eine direkte Verbesserung ihrer Alltagssituation. Weniger bürokratische Hürden und keine Bevormundung durch Gutachter entsprechen ihrem Wunsch nach Selbstbestimmung.",
+      "begruendung_selbst": "Warum muss ich mich vor irgendeinem Amt rechtfertigen, wer ich bin? Wenn das Geschlecht nur noch da abgefragt wird, wo es wirklich nötig ist, und ich keine Gutachter mehr brauche – das wäre echte Freiheit im Alltag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Zwangsmitgliedschaft – check!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei lehnt einen Zwang zur Mitgliedschaft in der Studierendenschaft ab.",
+      "seite": 37,
+      "zitat": "keinen Zwang zur Mitgliedschaft in der Studierendenschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule engagiert sich in Hochschulgruppen und schätzt autonome Strukturen. Die Ablehnung einer Zwangsmitgliedschaft bestätigt ihr Verständnis von freiwilligem, selbstbestimmtem Engagement an der Hochschule.",
+      "begruendung_selbst": "Ich bin in meiner Klima-Hochschulgruppe, weil ich es will – nicht weil mich ein Gesetz dazu zwingt. Autonomie an der Uni ist mir wichtig, und das passt hier.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Forschung ohne Zivilklauseln!",
+      "thema": "bildung",
+      "programmpunkt": "Die Partei lehnt sogenannte Zivilklauseln an Hochschulen ab und verteidigt die Forschungsfreiheit ohne politische Beschränkungen.",
+      "seite": 35,
+      "zitat": "Wir lehnen deshalb Beschränkungen der Forschung etwa durch sogenannte Zivilklauseln ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Studentin der Umweltwissenschaften befürwortet Jule offene wissenschaftliche Debatten. Die Ablehnung von Zivilklauseln signalisiert für sie, dass Forschung ergebnisoffen bleiben soll – auch wenn sie selbst kritisch auf bestimmte Forschungsfelder blickt.",
+      "begruendung_selbst": "Wissenschaft muss frei debattieren können. Ich will an einer Uni studieren, wo man auch unbequeme Fragen stellen darf, ohne dass ein politischer Filter vorgeschaltet ist.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Fracking und Kohle? Ernsthaft?!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei will das pauschale Verbot von unkonventionellem Fracking durch ein wissenschaftsbasiertes Genehmigungsregime ersetzen und heimische Bodenschätze wie Schiefergas und Braunkohle nutzen.",
+      "seite": 16,
+      "zitat": "pauschale Verbot des unkonventionellen Frackings auf Bundesebene durch ein wissenschaftsbasiertes Genehmigungsregime zu ersetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule ist Klimaschutz die zentrale Zukunftsfrage. Die Öffnung für Fracking und die weitere Nutzung fossiler Brennstoffe wie Braunkohle widersprechen fundamental ihrer Forderung nach konsequenter Energiewende und Kohleausstieg.",
+      "begruendung_selbst": "Fracking und Braunkohle im Jahr 2026? Das ist genau die Politik, die meine Zukunft verbrennt. Wir brauchen den sofortigen Ausstieg aus Fossilen, nicht noch mehr Gas-Experimente auf Kosten des Grundwassers.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Atomkraft als 'Klimaschutz'? Nein!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert den Wiedereinstieg in die Kernenergie, den Neubau moderner Reaktoren (inkl. SMR) und die Nutzung von Sondervermögen für Atomprojekte.",
+      "seite": 14,
+      "zitat": "Wiedereinstieg in die Nutzung der Kernenergie",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht in der Atomkraft keine Lösung für die Klimakrise, sondern ein teures, riskantes Ablenkungsmanöver von erneuerbaren Energien. Das Programm widerspricht ihrer Überzeugung, dass die Energiewende dezentral und erneuerbar sein muss.",
+      "begruendung_selbst": "Atomkraft ist viel zu teuer, zu langsam und hinterlässt Atommüll für tausende Jahre. Das Geld sollten wir in Solar, Wind und Speicher stecken – nicht in eine Technologie von gestern, die nur so tut als wäre sie grün.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld kürzen? Auf meinem Rücken!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will das Bürgergeld reformieren, Sanktionen konsequent ausschöpfen, gemeinnützige Arbeitspflichten einführen und Langzeitarbeitslose zur 'Bürgerarbeit' verpflichten.",
+      "seite": 40,
+      "zitat": "Wer staatliche Hilfe in Anspruch nimmt, muss entsprechend auch seinen Mitwirkungspflichten nachkommen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule hat selbst ein extrem knappes Budget und kennt die Prekarität. Die Verschärfung von Sanktionen und die Einführung von Arbeitspflichten für Langzeitarbeitslose empfindet sie als sozial kalt und als Ausdruck eines Menschenbildes, das Arme unter Druck setzt statt zu unterstützen.",
+      "begruendung_selbst": "Ich kenne das Gefühl, am Monatsende jeden Euro umzudrehen. Menschen, die auf Bürgergeld angewiesen sind, noch mehr unter Druck zu setzen und zur Zwangsarbeit zu verpflichten – das ist nicht 'Fördern und Fordern', das ist Demütigung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschiebungen ausbauen? Unmenschlich!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei will Abschiebungen effizienter gestalten, eine Abschiebungshafteinrichtung bis Ende 2027 in Betrieb nehmen und elektronische Fußfesseln als Alternative nutzen.",
+      "seite": 11,
+      "zitat": "Ausreisepflichtige Ausländer müssen zügig das Land verlassen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule steht für Solidarität und gleiche Rechte. Die verschärfte Abschiebepolitik mit Haft und Fußfesseln widerspricht ihrem Menschenbild und ihrer Vorstellung von einer offenen, diversen Gesellschaft, in der Minderheiten geschützt werden.",
+      "begruendung_selbst": "Abschiebehaft und Fußfesseln für Menschen, die oft vor Krieg und Verfolgung geflohen sind? Das ist keine 'Rechtsstaatlichkeit', das ist Abschottungspolitik. Meine queere Community ist doch selbst darauf angewiesen, dass dieses Land Schutz bietet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CCS – Klimakiller unter der Erde!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei will die CO₂-Speicherung an Land (Onshore-CCS) ermöglichen und Pilotprojekte in Modellregionen entwickeln.",
+      "seite": 23,
+      "zitat": "Onshore-CCS endlich als Chance für unsere Wirtschaft ermöglichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht in CCS eine Scheinlösung, die es der Industrie ermöglicht, weiter fossile Emissionen zu produzieren, anstatt tatsächlich umzusteigen. Für sie ist das Greenwashing auf Kosten der Zukunft ihrer Generation.",
+      "begruendung_selbst": "CO₂ einfach unter die Erde pumpen, damit die Chemieindustrie weitermachen kann wie bisher? Das ist kein Klimaschutz, das ist ein Freibrief fürs Weiter-so. Wir müssen Emissionen vermeiden, nicht verstecken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rundfunkbeitrag deckeln – nein!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will den Rundfunkbeitrag nicht automatisch an die Inflation anpassen, automatische Indexmodelle ablehnen und den Programmauftrag reduzieren.",
+      "seite": 43,
+      "zitat": "Wir lehnen automatische Indexmodelle ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule nutzt öffentlich-rechtliche Medien und sieht sie als wichtiges Gegengewicht zu Desinformation und kommerziellen Plattformen. Die Deckelung des Rundfunkbeitrags und die Reduzierung des Programmauftrags empfindet sie als Schwächung unabhängiger Berichterstattung.",
+      "begruendung_selbst": "Ich informiere mich über Tagesschau und ÖRR-Apps – gerade weil ich den Algorithmen von TikTok und Instagram nicht blind vertraue. Den ÖRR kaputtsparen zu wollen, schwächt genau die Medien, die Demokratie schützen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verbandsklagen beschneiden? Gefährlich!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei will das Verbandsklagerecht auf ein europäisches Mindestmaß reduzieren, klare Fristen und Präklusion einführen und Klagen gegen Infrastrukturprojekte begrenzen.",
+      "seite": 72,
+      "zitat": "Klagemöglichkeiten auf ein sinnvolles Maß begrenzen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule engagiert sich in Klimagruppen, die Verbandsklagen als wichtiges demokratisches Werkzeug nutzen, um umweltschädliche Projekte zu stoppen. Die Beschneidung dieses Rechts empfindet sie als Angriff auf zivilgesellschaftliche Teilhabe und Klimaschutz.",
+      "begruendung_selbst": "Wenn Umweltverbände nicht mehr klagen dürfen, wer hält dann Autobahnprojekte und fossile Infrastruktur auf? Verbandsklagen sind unser schärfstes Schwert für Klimaschutz – das darf man uns nicht nehmen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule findet bei der FDP einige positive Signale bei Antidiskriminierung, queerer Selbstbestimmung und Forschungsfreiheit. Gleichzeitig steht das Programm in zentralen Zukunftsfragen – Klimaschutz, Energie, soziale Gerechtigkeit und zivilgesellschaftliche Teilhabe – fundamental gegen ihre Werte. Fracking, Atomkraft, CCS, Bürgergeld-Kürzungen und die Beschneidung von Verbandsklagen sind für sie klare rote Linien.",
+    "score": -2
+  }
+}

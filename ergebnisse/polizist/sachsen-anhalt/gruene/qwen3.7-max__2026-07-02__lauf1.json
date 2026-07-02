@@ -1,0 +1,125 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:14:21.519Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69727,
+    "output_tokens": 9339,
+    "cached_tokens": 67456,
+    "total_tokens": 79066,
+    "dauer_ms": 170238,
+    "usd": 0.0821665
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Personal und Ausstattung!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizei soll auf 7.000 Stellen ausgebaut, Beförderungsstaus aufgelöst und die IT-Ausstattung verbessert werden.",
+      "seite": 41,
+      "zitat": "Personalausbau bei den Vollzugsbeamt*innen soll konsequent bis zur Zielgröße von 7.000 Stellen fortgesetzt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco begrüßt das klare Bekenntnis zum Personalaufbau und zur Auflösung von Beförderungsstaus. Dies adressiert direkt seine tägliche Überlastung im Schichtdienst und die Hoffnung auf bessere Arbeitsbedingungen.",
+      "begruendung_selbst": "Wir sollen für Sicherheit sorgen – gebt uns endlich die Leute, die das überhaupt möglich machen. Das ist genau das, was wir auf der Straße brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Justiz muss Arbeit endlich abschließen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Gerichte und Staatsanwaltschaften sollen personell gestärkt werden, um Verfahrenslaufzeiten zu verkürzen und die Justizkette funktionsfähig zu halten.",
+      "seite": 46,
+      "zitat": "Dadurch können Verfahrenslaufzeiten verkürzt werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Forderung nach mehr Personal in der Justiz trifft Marcos Kernfrustration: Er ärgert sich, wenn seine Ermittlungen und Anzeigen im System versanden. Eine funktionierende Justizkette ist für ihn essenziell.",
+      "begruendung_selbst": "Ich schreibe die Anzeigen, und am Ende passiert monatelang nichts. Wenn die Justiz endlich mehr Leute kriegt, hat meine Arbeit auf der Straße auch wieder einen Sinn.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsfeinde konsequent stoppen!",
+      "thema": "demokratie",
+      "programmpunkt": "Das Land soll ein AfD-Verbotsverfahren initiieren und extremistischen Parteien die Finanzierung entziehen.",
+      "seite": 39,
+      "zitat": "Wir fordern, dass das Land Sachsen-Anhalt ein AfD-Verbotsverfahren durch den Bundesrat initiiert",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als verfassungstreuer Beamter lehnt Marco Parteien ab, die den Rechtsstaat untergraben. Ein konsequentes Vorgehen gegen Extremisten bestätigt seine Erwartung an eine wehrhafte Demokratie.",
+      "begruendung_selbst": "Mir ist egal, von welcher Seite es kommt: Wer die Verfassung und meinen Rechtsstaat schwächt, muss gestoppt werden. Da darf die Politik nicht kneifen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Extremisten keine Waffen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Extremisten sollen konsequent entwaffnet werden, Waffenbehörden werden gestärkt.",
+      "seite": 40,
+      "zitat": "Wir fordern ein konsequentes Verbot des Waffenbesitzes für Extremist*innen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Entwaffnung von Verfassungsfeinden erhöht direkt Marcos Sicherheit im Einsatz. Er befürwortet, dass der Staat hier hart durchgreift und keine Kompromisse macht.",
+      "begruendung_selbst": "Wenn wir zu Einsätzen fahren, müssen wir uns darauf verlassen können, dass der Staat Radikalen vorher die Waffen abnimmt. Das ist purer Eigenschutz für uns.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Generalverdacht gegen uns Beamte!",
+      "thema": "sicherheit",
+      "programmpunkt": "Einführung eines unabhängigen Polizeibeauftragten und Fokus auf Bekämpfung von Racial Profiling in der Ausbildung.",
+      "seite": 43,
+      "zitat": "Ein*e Polizeibeauftragte*r stärkt das Vertrauen in die Sicherheitsbehörden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco fühlt sich durch die Forderung nach einem Polizeibeauftragten und die implizite Unterstellung von systematischem Racial Profiling unter Generalverdacht gestellt. Er empfindet dies als pauschale Institutionenkritik, die seiner täglichen Arbeit den nötigen Rückhalt verweigert.",
+      "begruendung_selbst": "Wir halten jeden Tag unseren Kopf hin und kriegen als Dankeschön einen Beauftragten, der uns über die Schulter schaut und uns unter Generalverdacht stellt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Straftäter laufen einfach frei!",
+      "thema": "sicherheit",
+      "programmpunkt": "Ersatzfreiheitsstrafen sollen abgeschafft und durch soziale Alternativen ersetzt werden.",
+      "seite": 47,
+      "zitat": "Wir wollen Ersatzfreiheitsstrafen abschaffen, durch sozial sinnvolle Alternativen ersetzen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Marco ist die Abschaffung der Ersatzfreiheitsstrafe ein weiteres Zeichen dafür, dass die Justizkette am Ende versagt. Er ärgert sich, dass Wiederholungstäter, die ihre Geldstrafen nicht zahlen, keine Konsequenzen mehr spüren.",
+      "begruendung_selbst": "Ich schreibe die Anzeigen, und am Ende lachen die Täter, weil sie eh nicht zahlen müssen und die Justiz sie einfach wieder laufen lässt. Das ist doch kein Rechtsstaat!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Moderne Ermittlungstools werden blockiert!",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Einsatz von Datenanalyse-Software wie Palantir wird aus Datenschutzgründen abgelehnt.",
+      "seite": 42,
+      "zitat": "Eine Einführung von Palantir oder vergleichbarer Software in Sachsen-Anhalt lehnen wir entschieden ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco ist frustriert, dass ihm moderne technische Mittel zur Bekämpfung von organisierter Kriminalität und Netzwerkanalyse verwehrt werden. Die Priorisierung des Datenschutzes über effektive Ermittlungsmöglichkeiten lässt ihn im Alltag mit veralteten Methoden kämpfen.",
+      "begruendung_selbst": "Die Kriminellen nutzen modernste Technik und verschlüsselte Netzwerke, und wir sollen mit einem Notizblock ermitteln, weil die Politik uns die Software verbietet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schwarzfahren ist doch kein Kavaliersdelikt!",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Fahren ohne Fahrschein soll nicht mehr als Straftat, sondern nur noch als Ordnungswidrigkeit behandelt werden.",
+      "seite": 31,
+      "zitat": "Zudem wollen wir, dass das Fahren ohne Fahrschein nicht mehr als Straftat behandelt wird.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht in der Entkriminalisierung des Schwarzfahrens eine Bagatellisierung von Regelverstößen. Dies führt aus seiner Sicht zu mehr Respektlosigkeit im ÖPNV und zu zusätzlichen Konflikten, um die sich am Ende oft die Polizei kümmern muss.",
+      "begruendung_selbst": "Wenn Regeln nicht mehr als Straftat gelten, verlieren die Leute erst recht den Respekt. Am Ende müssen wir wieder ausrücken, wenn die Schaffner angepöbelt werden.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco begrüßt das Bekenntnis zu mehr Polizeipersonal, die Stärkung der Justiz und den konsequenten Schutz der Verfassung vor Extremisten. Gleichzeitig frustriert ihn die pauschale Institutionenkritik durch einen Polizeibeauftragten sowie die Entkriminalisierung von Delikten und die Verweigerung moderner Ermittlungssoftware, was ihm das Gefühl gibt, im Stich gelassen zu werden.",
+    "score": -1
+  }
+}

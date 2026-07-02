@@ -1,0 +1,173 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:47:19.727Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82399,
+    "output_tokens": 8765,
+    "cached_tokens": 0,
+    "total_tokens": 91164,
+    "dauer_ms": 164743,
+    "usd": 0.1568675
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich beitragsfreie Kitas!",
+      "thema": "bildung",
+      "programmpunkt": "Die Partei fordert, dass die Bildung in Kindertageseinrichtungen für alle Eltern beitragsfrei wird und jedes Kind einen Rechtsanspruch auf ganztägige Betreuung von 10 Stunden erhält.",
+      "seite": 29,
+      "zitat": "die Bildung in Kindertageseinrichtungen für alle Eltern beitragsfrei wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine spürt jeden Monat die Kita-Kosten als massive Belastung ihres knappen Budgets. Die Aussicht auf Beitragsfreiheit und einen garantierten 10-Stunden-Platz bedeutet für sie direkte finanzielle Entlastung und die Chance, ihre Teilzeitarbeit verlässlicher zu gestalten.",
+      "begruendung_selbst": "Wenn die Kita endlich kostenlos ist und ich mich drauf verlassen kann, dass der Platz bis 16 Uhr sicher ist – dann kann ich auch mal mehr Stunden arbeiten, ohne dass mir alles um die Ohren fliegt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kindergrundsicherung ohne Bürokratie!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei fordert eine armutsfeste, eigenständige und sanktionsfreie Kindergrundsicherung von mindestens 630 Euro pro Monat, die niedrigschwellig ohne hohe bürokratische Hürden beantragt werden kann.",
+      "seite": 45,
+      "zitat": "armutsfeste, eigenständige und sanktionsfreie Kindergrundsicherung in Höhe von mindestens 630 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als aufstockende Alleinerziehende kennt Nadine den Bürokratie-Dschungel aus eigener Erfahrung. Eine unbürokratische Kindergrundsicherung von 630 Euro pro Kind würde ihre finanzielle Situation spürbar verbessern und ihr das Gefühl nehmen, ständig Bittstellerin zu sein.",
+      "begruendung_selbst": "630 Euro pro Kind, ohne dass ich mich durch zwanzig Formulare kämpfen muss? Das wäre ein Traum. Davon könnte ich endlich die Klassenfahrt bezahlen, ohne Raten zu machen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unterhaltsvorschuss bedingungslos!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei will den Unterhaltsvorschuss bedingungslos für alle Alleinerziehenden verfügbar machen, die ihn benötigen, und die Anrechnung des Kindergelds darauf abschaffen.",
+      "seite": 21,
+      "zitat": "Unterhaltsvorschuss bedingungslos für alle verfügbar sein muss, die ihn benötigen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine ist auf Unterhaltsvorschuss angewiesen, da der Kindesvater unregelmäßig zahlt. Die Forderung nach Bedingungslosigkeit und der Wegfall der Kindergeld-Anrechnung würden ihr monatlich mehr Geld lassen und den ständigen Kampf mit dem Amt beenden.",
+      "begruendung_selbst": "Ich renne dem Unterhalt hinterher und das Amt prüft jeden Monat, ob ich noch berechtigt bin. Wenn das einfach bedingungslos käme – ich könnte endlich durchatmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietpreisbremse und sozialer Wohnungsbau!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei setzt sich für eine Mietpreisbremse, die Stärkung der gemeinnützigen Wohnungswirtschaft und den Ausbau des sozialen Wohnungsbaus mit unbefristeter Bindung ein.",
+      "seite": 82,
+      "zitat": "uns für eine Mietpreisbremse einsetzen und die gemeinnützige Wohnungswirtschaft stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines Miete frisst den Großteil ihres Einkommens. Die Forderung nach einer Mietpreisbremse und sozialem Wohnungsbau trifft ihren drängendsten Alltagssorgenpunkt direkt und gibt ihr Hoffnung auf eine bezahlbare, sichere Wohnung.",
+      "begruendung_selbst": "Jedes Mal wenn die Nebenkostenabrechnung kommt, kriege ich Panik. Wenn die Mieten endlich gedeckelt werden, hab ich vielleicht mal Luft zum Atmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld ohne Sanktionen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert eine existenzsichernde Grundsicherung ohne Sanktionen und Schikanen sowie eine armutsfeste Mindestrente.",
+      "seite": 42,
+      "zitat": "existenzsichernden Grundsicherung ohne Sanktionen und Schikanen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine stockt mit Bürgergeld auf und hat permanente Angst vor Sanktionen oder Kürzungen, etwa wenn ein Termin platzt, weil ein Kind krank ist. Die Forderung nach sanktionsfreier Grundsicherung bestätigt ihr Bedürfnis nach Respekt und Verlässlichkeit.",
+      "begruendung_selbst": "Ich arbeite, ich kümmere mich um meine Kinder – und trotzdem hab ich Angst vor jedem Brief vom Jobcenter. Sanktionsfrei wäre einfach nur fair.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "4-Tage-Woche bei vollem Lohn!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert eine Anpassung der Vollzeitarbeitszeit hin zu einer 4-Tage-Woche bei gleichbleibendem Lohn zur Entlastung von Familien.",
+      "seite": 46,
+      "zitat": "Anpassung der Vollzeitarbeitszeitregelung zu einer 4-Tage-Woche bei gleichbleibendem Lohn",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Alleinerziehende jongliert Nadine täglich Arbeit, Kinderbetreuung und Haushalt. Eine 4-Tage-Woche bei vollem Lohn würde ihr einen Tag mehr für die Kinder oder Erholung geben, ohne finanzielle Einbußen.",
+      "begruendung_selbst": "Ein Tag weniger arbeiten, ohne dass mir Geld fehlt? Das wäre der Hammer. Endlich mal einen Tag, wo ich nicht hetzen muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenlose Schulmaterialien und Mittagessen!",
+      "thema": "bildung",
+      "programmpunkt": "Die Partei will, dass alle Kinder in Kitas und Tagespflege eine kostenlose Mittagsversorgung erhalten, Lernmittelfreiheit eingeführt wird und Grundausstattung wie Materialien unbürokratisch gesichert wird.",
+      "seite": 29,
+      "zitat": "alle Kinder in Kitas und in der Tagespflege eine kostenlose Mittagsversorgung erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Schulessen, Arbeitshefte, Bastelmaterial – das summiert sich für Nadines zwei Kinder schnell zu Beträgen, die sie kaum stemmen kann. Kostenlose Mittagsversorgung und Lernmittelfreiheit entlasten ihr Budget direkt.",
+      "begruendung_selbst": "Das Schulessen für zwei Kinder, dazu die Hefte, die Stifte – das sind locker 80 Euro im Monat. Wenn das wegfällt, kann ich endlich mal was zurücklegen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Alleinerziehende werden endlich gehört!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei will einen Runden Tisch für Alleinerziehende einrichten, der es Elternteilen ermöglicht, politische Beschlüsse und deren Konsequenzen selbst zu überprüfen.",
+      "seite": 46,
+      "zitat": "einen Runden Tisch für Alleinerziehende, welcher es Elternteilen ermöglicht, politische Beschlüsse und deren Konsequenzen selbst zu überprüfen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine hat oft das Gefühl, dass Politik über sie gemacht wird, ohne ihre Realität zu kennen. Ein Runder Tisch für Alleinerziehende signalisiert ihr, dass ihre Stimme und Erfahrung endlich ernst genommen werden.",
+      "begruendung_selbst": "Endlich fragt mal jemand, wie das wirklich ist, alleine mit zwei Kindern. Nicht immer nur reden über uns – sondern mit uns.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wo bleibt mein günstiger Strom?",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert einen verpflichtenden Sockeltarif für Strom und Wärme sowie die Senkung der Stromsteuer, jedoch bleiben konkrete Maßnahmen für einkommensschwache Haushalte bei den Heizkosten vage.",
+      "seite": 106,
+      "zitat": "einen verpflichtenden Sockeltarif für Strom und Wärme, damit der Grundbedarf für alle bezahlbar ist",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine begrüßt zwar den Sockeltarif, vermisst aber eine klare, sofortige Lösung für ihre akuten Energiekosten. Die vielen Prüfaufträge und langfristigen Maßnahmen helfen ihr nicht, wenn im Winter die Nachzahlung kommt.",
+      "begruendung_selbst": "Sockeltarif klingt gut, aber wann kommt das? Ich brauche jetzt Hilfe, nicht erst in drei Jahren nach irgendeiner Prüfung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nulltarif-ÖPNV – aber wann?",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will den ÖPNV mittelfristig landesweit zum Nulltarif anbieten, kurzfristig sollen kostengünstige Sozial- und Familientickets durchgesetzt werden.",
+      "seite": 102,
+      "zitat": "mittelfristig landesweit zum Nulltarif anbieten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine ist auf Bus und Bahn angewiesen, um zur Arbeit und zu den Betreuungseinrichtungen zu kommen. 'Mittelfristig' bedeutet für sie, dass sie weiterhin jeden Monat Ticketkosten tragen muss, die sie kaum aufbringen kann.",
+      "begruendung_selbst": "Mittelfristig heißt für mich: Ich zahle weiter. Meine Kinder brauchen jetzt Tickets, nicht irgendwann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Friedenspolitik hilft mir nicht direkt",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei lehnt die Erhöhung der Militärausgaben ab und fordert stattdessen Investitionen in soziale Sicherung, Bildung und Industrie.",
+      "seite": 13,
+      "zitat": "gegen die Erhöhung der Militärausgaben, die nicht die Sicherheit, sondern lediglich die Profitrate von Rüstungskonzernen verbessert",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine teilt zwar den Wunsch nach Frieden, empfindet die prominente Platzierung des Themas aber als Ablenkung von ihren drängenden Alltagsproblemen. Sie fragt sich, ob die Partei ihre konkreten Nöte wirklich priorisiert.",
+      "begruendung_selbst": "Frieden ist wichtig, klar. Aber ich brauche jetzt einen Kita-Platz und keine Debatten über Rüstungsausgaben. Kümmert euch erstmal um uns hier.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermögenssteuer – kommt das bei mir an?",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei fordert eine Bundesratsinitiative zur Wiedereinführung der Vermögenssteuer für Vermögen über einer Million Euro.",
+      "seite": 17,
+      "zitat": "Eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine findet Umverteilung grundsätzlich richtig, bezweifelt aber, dass eine Bundesratsinitiative tatsächlich zu spürbaren Verbesserungen in ihrem Alltag führt. Sie hat zu oft erlebt, dass große Versprechen nicht bei ihr ankommen.",
+      "begruendung_selbst": "Klingt super, die Reichen sollen zahlen. Aber bis das durch ist und bei mir was ankommt – da bin ich schon längst untergegangen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der Linken trifft Nadines Kernanliegen als alleinerziehende, aufstockende Mutter in vielen Punkten sehr direkt: Beitragsfreie Kitas, Kindergrundsicherung, Unterhaltsvorschuss, Mietpreisbremse und sanktionsfreies Bürgergeld bestätigen ihre Forderungen nach Verlässlichkeit und Respekt. Gleichzeitig empfindet sie manche langfristigen oder symbolischen Forderungen (Nulltarif-ÖPNV 'mittelfristig', Friedenspolitik, Vermögenssteuer über Bundesrat) als zu wenig konkret für ihren akuten Alltag.",
+    "score": 1
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:09:35.614Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39787,
+    "output_tokens": 6690,
+    "cached_tokens": 37888,
+    "total_tokens": 46477,
+    "dauer_ms": 123682,
+    "usd": 0.056137
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Personaluntergrenzen statt Profit!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die SPD fordert verbindliche Personaluntergrenzen in der Pflege und eine Krankenhauslandschaft, die sich nicht an Kapitalinteressen orientiert.",
+      "seite": 9,
+      "zitat": "sinnvolle Personaluntergrenzen im ärztlichen Bereich und der Pflege.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich, wie die Jagd nach Rendite und fehlende Vorgaben die Belegschaft ausdünnen. Die Forderung nach festen Untergrenzen und die Abkehr von reinen Kapitalinteressen bestätigen ihre Hoffnung auf strukturelle Entlastung.",
+      "begruendung_selbst": "Wenn die nicht endlich festschreiben, wie viele von uns mindestens auf der Station sein müssen, brennen wir alle aus. Gut, dass die das jetzt fordern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Kolleginnen müssen bleiben dürfen!",
+      "thema": "integration",
+      "programmpunkt": "Menschen, die in Sachsen-Anhalt arbeiten oder eine Ausbildung machen, sollen ein sicheres Bleiberecht erhalten; Arbeitsverbote werden abgelehnt.",
+      "seite": 8,
+      "zitat": "Wer eine Ausbildung begonnen hat oder einer lebensunterhaltssichernden Beschäftigung nachgeht, soll bleiben können.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station läuft nur noch dank migrantischer Pflegekräfte. Ein harter Migrationskurs oder drohende Abschiebungen sind für sie ein direkter Angriff auf ihr Team und die Patientenversorgung.",
+      "begruendung_selbst": "Ohne die Mädels und Jungs aus dem Ausland wäre hier längst der Laden dicht. Wer hier schuftet, muss auch sicher bleiben dürfen, ohne ständige Angst vor Abschiebung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papier, mehr Zeit für Patienten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die SPD will die Pflege entbürokratisieren und unnötige Doppelprüfungen durch MDK und Heimaufsicht abschaffen.",
+      "seite": 10,
+      "zitat": "Doppelprüfungen durch MDK und Heimaufsicht sind abzuschaffen, Digitalisierung und Schnittstellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die extreme Dokumentationslast und redundante Prüfungen rauben Kerstin im Schichtdienst die letzte Energie. Der Abbau dieser Bürokratie trifft ihren Nerv und verspricht mehr Zeit für die eigentliche Fürsorge.",
+      "begruendung_selbst": "Ich bin doch Krankenschwester und keine Schreibkraft! Wenn diese ständigen Doppelprüfungen endlich wegfallen, habe ich vielleicht mal wieder fünf Minuten für die Menschen, die mich wirklich brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verlässliche Dienstpläne sind überfällig!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei betont, dass faire Bezahlung und vor allem verlässliche Dienstpläne entscheidend für die Zukunft der Pflege sind.",
+      "seite": 10,
+      "zitat": "Faire Bezahlung, verlässliche Dienstpläne sowie gute Ausbildung und Fortbildung sind entscheidend",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das ständige Einspringen und die Unplanbarkeit des Schichtdienstes belasten Kerstins Familie und Gesundheit. Dass die SPD verlässliche Dienstpläne explizit als Schlüssel für die Pflege nennt, wertet sie als echtes Verständnis für ihren Alltag.",
+      "begruendung_selbst": "Es reicht doch nicht, nur über den Pflegenotstand zu jammern. Wenn ich mich darauf verlassen könnte, dass mein freies Wochenende auch wirklich frei bleibt, wäre das schon die halbe Miete.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wirtschaftlichkeit bedeutet immer Sparzwang!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Krankenhauslandschaft soll sich laut Programm an den Kriterien Qualität, Erreichbarkeit und Wirtschaftlichkeit orientieren.",
+      "seite": 9,
+      "zitat": "die sich an den Kriterien Qualität, Erreichbarkeit und Wirtschaftlichkeit orientiert und nicht an Kapitalinteressen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl die SPD Kapitalinteressen ablehnt, ist der Begriff der Wirtschaftlichkeit für Kerstin toxisch. In ihrer Erfahrung bedeutet wirtschaftliches Denken im Krankenhaus immer, dass Stellen gestrichen und Materialien rationiert werden.",
+      "begruendung_selbst": "Sobald das Wort 'Wirtschaftlichkeit' fällt, weiß ich genau, was kommt: Die Geschäftsführung streicht wieder Stellen und wir müssen das Material rationieren. Das ist doch immer dieselbe Leier!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schiebt es nicht wieder nach Berlin!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Land will sich für eine Pflegereform einsetzen, verweist die Kernverantwortung dafür aber auf die Bundesebene.",
+      "seite": 10,
+      "zitat": "Wir setzen uns im Bundesrat für eine echte Pflegereform auf Bundesebene ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist frustriert, wenn die Landespolitik die Verantwortung für die Kernprobleme der Pflegefinanzierung nach Berlin abschiebt. Sie erwartet vom Landtag konkrete lokale Maßnahmen und keine warmen Worte.",
+      "begruendung_selbst": "Ich habe es so satt, dass sie sich hier hinstellen und sagen, der Bund muss das regeln. Wir brauchen hier vor Ort Lösungen, damit mir nicht morgen die nächste Kollegin kündigt!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin sieht bei der SPD ein echtes Verständnis für die Nöte der Pflegebasis, insbesondere bei Personaluntergrenzen, Bürokratieabbau und dem Schutz migrantischer Kolleginnen. Gleichzeitig triggern sie Begriffe wie 'Wirtschaftlichkeit' und das Abschieben von Reformen an den Bund, da sie darin die typischen Ausreden für Sparzwang und Untätigkeit vor Ort erkennt.",
+    "score": 1
+  }
+}

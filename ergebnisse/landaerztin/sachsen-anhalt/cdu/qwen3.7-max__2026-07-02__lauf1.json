@@ -1,0 +1,113 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:22:47.860Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 47033,
+    "output_tokens": 9629,
+    "cached_tokens": 44288,
+    "total_tokens": 56662,
+    "dauer_ms": 175752,
+    "usd": 0.079487
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Hilfe bei der Nachfolge!",
+      "thema": "gesundheit",
+      "programmpunkt": "Förderprogramme für Praxisgründungen und -übernahmen werden ausgebaut und bürokratische Hürden abgebaut.",
+      "seite": 27,
+      "zitat": "Förderprogramme für Praxisgründungen und -übernahmen bauen wir aus, bürokratische Hürden bauen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra sucht händeringend nach einer Nachfolge für ihre Einzelpraxis. Die gezielte Förderung von Übernahmen und der versprochene Bürokratieabbau geben ihr die Hoffnung, dass ihr Lebenswerk und die Versorgung ihrer Patienten nicht einfach aussterben.",
+      "begruendung_selbst": "Wenn ich in Rente gehe, steht hier niemand bereit. Dass Übernahmen jetzt konkret gefördert und Hürden abgebaut werden sollen, ist genau das, was wir auf dem Land brauchen, damit die Jungen überhaupt noch zusagen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Medi-Bus entlastet mich!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung eines Medi-Busses als rollende Praxis für unterversorgte ländliche Regionen.",
+      "seite": 29,
+      "zitat": "Zur Verbesserung der ärztlichen Versorgung in ländlichen Regionen streben wir die Einführung eines sogenannten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Hausärztin im ländlichen Raum kennt sie die langen Wege und die Mobilitätsprobleme ihrer Patienten. Ein rollendes Praxismodell sieht sie als pragmatische und dringend nötige Ergänzung, um die Grundversorgung in der Fläche zu stützen.",
+      "begruendung_selbst": "Meine Patienten können oft nicht mehr selbst in die Praxis fahren. Ein Medi-Bus, der direkt in die Dörfer kommt, ist eine pragmatische Lösung, die mir und meinen Kollegen den Rücken freihält.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papierkram, mehr Patienten!",
+      "thema": "demokratie",
+      "programmpunkt": "Ein umfassendes Berichtsmoratorium soll alle Berichtspflichten auf den Prüfstand stellen und befristen.",
+      "seite": 56,
+      "zitat": "Wir greifen diese Sorge auf und werden ein umfassendes Berichtsmoratorium in Angriff nehmen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra verbringt einen Großteil ihrer Abende mit Dokumentation und Nachweisen. Ein echtes Moratorium für Berichtspflichten trifft ihren Nerv und bestätigt ihre Forderung nach einem Staat, der ermöglicht statt zu kontrollieren.",
+      "begruendung_selbst": "Ich behandle gern Menschen – aber ich verbringe halbe Tage mit Formularen. Wenn die Politik jetzt endlich ein Moratorium für diesen unsinnigen Melde-Wahnsinn verspricht, ist das ein echtes Signal der Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lokale Ärzte fürs Land!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Landarztquote wird überprüft und Bewerber mit regionalem Bezug sollen bevorzugt werden.",
+      "seite": 28,
+      "zitat": "Die bestehende Landarztquote soll überprüft und bei Bedarf weiterentwickelt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sie weiß, dass Medizinstudierende aus der Region die höchste Wahrscheinlichkeit haben, später auch dort zu praktizieren. Die Weiterentwicklung der Quote bestärkt sie in ihrer Hoffnung auf langfristige Nachfolgelösungen.",
+      "begruendung_selbst": "Wer von hier kommt, bleibt auch eher hier. Die Landarztquote ist unser einziges echtes Werkzeug gegen den Ärztemangel, es ist gut, dass sie nicht infrage gestellt, sondern weiterentwickelt wird.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klinik-Sterben auf dem Land!",
+      "thema": "gesundheit",
+      "programmpunkt": "Krankenhäuser sollen zu spezialisierten Zentren entwickelt und komplexe Leistungen gebündelt werden.",
+      "seite": 28,
+      "zitat": "Komplexe Leistungen bündeln wir gezielt, um Expertise und Ressourcen optimal zu nutzen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aus Sicht ihrer älteren, oft immobilen Patientinnen und Patienten bedeutet die Bündelung und Zentralisierung von Klinikstandorten eine massive Verschlechterung. Dr. Petra fürchtet, dass die wohnortnahe Grund- und Notfallversorgung auf dem Land weiter ausgedünnt wird.",
+      "begruendung_selbst": "Was nützt meinen hochbetagten Patienten die beste Spezialisierung, wenn die nächste Klinik plötzlich 40 Kilometer weit weg ist? Diese Zentralisierung geht völlig an der Realität unserer alten Menschen auf dem Land vorbei.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Einzelpraxen werden abgehängt!",
+      "thema": "gesundheit",
+      "programmpunkt": "Medizinische Versorgungszentren und große Gesundheitscampus-Modelle sollen zum Rückgrat der Versorgung ausgebaut werden.",
+      "seite": 28,
+      "zitat": "Medizinische Versorgungszentren und Gesundheitscampus-Modelle, in denen Hausärzte, Fachärzte, Pflege, Therapie und soziale Dienste",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra führt eine klassische Einzelpraxis und fürchtet die Ökonomisierung und Verdrängung durch große, oft investorengetragene MVZ-Strukturen. Die Ausrufung von Campus-Modellen zum Rückgrat signalisiert ihr, dass die Politik die Bedeutung der engagierten Einzelkämpfer in der Fläche verkennt.",
+      "begruendung_selbst": "Jetzt sollen also diese riesigen Campus-Modelle und MVZ das Rückgrat sein? Wir Einzelpraxen vor Ort, die jeden Patienten beim Namen kennen, werden wieder mal vergessen und durch bürokratische Großstrukturen ersetzt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Dokumentations-Wahnsinn!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Der Ausbau vernetzter Dokumentationssysteme und Telemedizin wird als Lösung für die Versorgung propagiert.",
+      "seite": 29,
+      "zitat": "Telemedizin, digitale Pflegeanwendungen und vernetzte Dokumentationssysteme machen Versorgung schneller, transparenter und effizienter.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra hat die Einführung der Telematikinfrastruktur und der eAU als bürokratischen Albtraum erlebt. Der Begriff vernetzte Dokumentationssysteme weckt bei ihr die Sorge vor noch mehr Klick-Arbeit und technischer Störanfälligkeit im Praxisalltag, statt echter Entlastung.",
+      "begruendung_selbst": "Wenn ich 'vernetzte Dokumentationssysteme' höre, klingelt es bei mir nur noch: Mehr Klicks, mehr Server-Abstürze, mehr Regress-Angst. Die Politik glaubt wirklich, Digitalisierung löst den Personalmangel, dabei raubt sie uns die Zeit für die Patienten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra honoriert die pragmatischen Ansätze zur Praxisnachfolge, den Medi-Bus und das Berichtsmoratorium als echte Hilfen für den ländlichen Raum. Gleichzeitig frustriert sie der Fokus auf zentralisierte Krankenhausstrukturen und große MVZ-Campus-Modelle, die ihre Einzelpraxis und die wohnortnahe Versorgung ihrer immobilen Patienten weiter marginalisieren.",
+    "score": 0
+  }
+}

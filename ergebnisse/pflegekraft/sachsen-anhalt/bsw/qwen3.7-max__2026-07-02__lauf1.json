@@ -1,0 +1,113 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:15:11.323Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 65967,
+    "output_tokens": 6757,
+    "cached_tokens": 59008,
+    "total_tokens": 72724,
+    "dauer_ms": 124597,
+    "usd": 0.06643325
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Schluss mit Rendite auf Krankenschein!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW fordert ein Tariftreuegesetz für alle Krankenhausbeschäftigten und will privatisierte Kliniken in öffentliche Hand zurückführen, um Renditeorientierung zu beenden.",
+      "seite": 57,
+      "zitat": "Gesundheitsversorgung ist kein Geschäftsmodell; ein solidarisch finanzierter Zugang für alle bildet die Grundlage",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich, wie Personalmangel und Sparvorgaben die Pflegequalität gefährden. Die Forderung nach strikter Tarifbindung und der Abkehr von der Privatisierung trifft ihren Wunsch nach verlässlichen Arbeitsbedingungen und einer Finanzierung, die am Patientenwohl statt an Rendite orientiert ist.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass Gesundheit keine Ware ist. Wir brauchen feste Tarife für alle auf der Station, nicht nur für die, die beim privaten Träger zufällig mehr raushandeln können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich volle Anerkennung für mein Team!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei will die Anerkennung ausländischer Berufsabschlüsse deutlich beschleunigen, vereinfachen und bürokratische Hürden abbauen, um qualifizierte Arbeitskräfte schneller zu integrieren.",
+      "seite": 63,
+      "zitat": "Dazu gehören eine deutliche Beschleunigung und Vereinfachung der Anerkennung ausländischer Berufsabschlüsse für qualifizierte Arbeitskräfte.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein Großteil von Kerstins Kollegium stammt aus dem Ausland und kämpft oft mit langwierigen Anerkennungsverfahren. Eine schnelle, unbürokratische Anerkennung entlastet ihr Team und sichert die dringend benötigten Fachkräfte auf der Station.",
+      "begruendung_selbst": "Meine Kolleginnen aus dem Ausland schuften seit Jahren, aber der Papierkrieg für die volle Anerkennung nervt alle. Wenn das endlich schneller geht, bleiben die uns auch erhalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klinik vor Ort muss bleiben!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW lehnt die Schließung von Krankenhäusern und die reine Zentralisierung der Versorgung ab und betont die verfassungsrechtliche Pflicht des Landes zur flächendeckenden Krankenhausinvestition.",
+      "seite": 57,
+      "zitat": "Das BSW Sachsen-Anhalt setzt sich gegen die Schließung von Krankenhäusern ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Pflegekraft in Sachsen-Anhalt fürchtet Kerstin die Zentralisierung, die oft zu längeren Wegen, überfüllten Stationen und noch mehr Arbeitsverdichtung führt. Das klare Bekenntnis zum Erhalt der Kliniken gibt ihr Sicherheit bezüglich ihres Arbeitsplatzes und der regionalen Versorgung.",
+      "begruendung_selbst": "Wenn die Kliniken auf dem Land dichtmachen, ersticken wir in der Stadt auf den Stationen. Gut, dass die das endlich beim Namen nennen und nicht nur von 'Effizienz' schwafeln.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege darf nicht arm machen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW fordert eine steuerfinanzierte Pflegevollversicherung, damit Pflegebedürftige und ihre Angehörigen nicht durch Heimkosten in die Armut getrieben werden.",
+      "seite": 58,
+      "zitat": "Das BSW fordert eine Pflegevollversicherung, die überwiegend aus Steuermitteln finanziert wird.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht im Berufsalltag und in der eigenen Familie, wie die Angst vor den Kosten der Pflege Menschen zermürbt. Eine solidarische Vollversicherung entspricht ihrem Gerechtigkeitssinn und entlastet die Angehörigen der Patienten, mit denen sie täglich zu tun hat.",
+      "begruendung_selbst": "Ich sehe jeden Tag, wie Familien an den Heimkosten zerbrechen. Pflege ist ein Risiko für uns alle, das muss die Gemeinschaft solidarisch tragen, nicht der Einzelne.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wer soll denn dann pflegen?",
+      "thema": "integration",
+      "programmpunkt": "Das BSW betont, dass die Aufnahmebereitschaft der Gesellschaft begrenzt sei, fordert einen Stopp irregulärer Migration und den Schutz der heimischen Bevölkerung vor Überlastung.",
+      "seite": 62,
+      "zitat": "Die Aufnahmebereitschaft und Integrationsfähigkeit der Gesellschaft sind begrenzt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstins Station läuft nur noch dank migrantischer Pflegekräfte. Eine Rhetorik, die Migration pauschal als Überlastung framt und auf Begrenzung setzt, vergiftet das Klima, schreckt potenzielle neue Kolleginnen ab und ignoriert die Realität im unterbesetzten Gesundheitssystem völlig.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht. Wenn die Politik so redet, als wären die das Problem, vergrault sie genau die Leute, die uns hier den Laden zusammenhalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das spaltet doch nur die Gesellschaft!",
+      "thema": "integration",
+      "programmpunkt": "Um Ghettoisierung zu verhindern, fordert die Partei eine Obergrenze von 30 % für Kinder mit Migrationshintergrund in Kitas und Schulen sowie deren zwangsweise Verteilung auf andere Stadtviertel.",
+      "seite": 65,
+      "zitat": "wobei eine Quote von 30 % nicht überschritten werden sollte.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Kerstin, die Solidarität und Teamgeist lebt, ist dieser bürokratische und ausgrenzende Ansatz völlig unverständlich. Er stigmatisiert die Familien ihrer Kolleginnen und schafft ein feindseliges Umfeld, das der Integration und dem sozialen Frieden am Arbeitsplatz und in der Gesellschaft massiv schadet.",
+      "begruendung_selbst": "Was soll denn dieser Quatsch mit den 30 Prozent und dem Rumkutschieren von Kindern? Das stigmatisiert doch nur die Familien meiner Kolleginnen. Wir brauchen Zusammenhalt auf der Station und nicht solche Spalterei im Viertel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ich brauche jetzt Personal, keine Bremsen!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei will die Anwerbung ausländischer Fachkräfte staatlich koordinieren, aber explizit keine Kräfte aus Ländern abwerben, die diese selbst dringend benötigen.",
+      "seite": 63,
+      "zitat": "d.h. wir werben keine Fachkräfte ab, die die Herkunftsländer selbst benötigen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn der Gedanke ethisch klingt, trifft er Kerstins Nerv: Sie braucht jetzt und sofort Personal auf der Station. Jede weitere Hürde oder moralische Bremse bei der Anwerbung bedeutet für sie, dass die Schichten weiterhin nicht besetzt werden können und sie weiter ausbrennt.",
+      "begruendung_selbst": "Das klingt am runden Tisch sicher nett, aber ich stehe morgen früh auf einer Station mit drei leeren Betten. Ich brauche jetzt Verstärkung, keine moralischen Bremsen bei der Anwerbung, während wir hier kollabieren.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin begrüßt die klaren Forderungen nach einem Tariftreuegesetz, der Abkehr von der Privatisierung und dem Erhalt der Krankenhäuser, da diese direkt ihre Arbeitsbedingungen und die Patientenversorgung verbessern würden. Gleichzeitig stößt die restriktive und teils ausgrenzende Migrationspolitik des BSW bei ihr auf massives Unverständnis, da sie den sozialen Frieden gefährdet und die Rekrutierung sowie den Verbleib ihrer unverzichtbaren migrantischen Kolleginnen erschwert. Insgesamt überwiegt die Enttäuschung über die migrationspolitische Rhetorik, die ihrer gelebten Solidarität im Team fundamental widerspricht.",
+    "score": -1
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:24:51.998Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76938,
+    "output_tokens": 9064,
+    "cached_tokens": 73856,
+    "total_tokens": 86002,
+    "dauer_ms": 166091,
+    "usd": 0.08213275
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkram!",
+      "thema": "demokratie",
+      "programmpunkt": "Die AfD will eine Zwei-für-eins-Regel einführen, bei der für jede neue Vorschrift zwei alte gestrichen werden müssen, um den Bürokratiedschungel zu lichten.",
+      "seite": 17,
+      "zitat": "Mit dieser Zwei-für-eins-Regel stoppen wir das ständige Wuchern des Vorschriftendschungels.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soloselbstständige ohne eigene Rechtsabteilung leidet Mareike massiv unter dem bürokratischen Aufwand. Ein radikaler Bürokratieabbau und die Streichung überflüssiger Vorschriften würden ihren Arbeitsalltag spürbar entlasten.",
+      "begruendung_selbst": "Ich verbringe viel zu viel Zeit mit Steuer- und Meldekram, statt zu designen. Wenn endlich mal Vorschriften gestrichen statt nur erfunden werden, hilft mir das im Alltag enorm.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ämter müssen liefern!",
+      "thema": "demokratie",
+      "programmpunkt": "Wenn Behörden Entscheidungsfristen überschreiten, soll ein Antrag automatisch als genehmigt gelten, um Bürger und Unternehmen vor Verschleppung zu schützen.",
+      "seite": 17,
+      "zitat": "Wenn eine Behörde die vorgeschriebene Entscheidungsfrist überschreitet, gilt der Antrag automatisch als genehmigt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist auf zügige Entscheidungen von Ämtern angewiesen, etwa bei Förderanträgen oder Gewerbeanmeldungen. Die Genehmigungsfiktion gibt ihr ein mächtiges Werkzeug gegen die Willkür und Langsamkeit der Verwaltung.",
+      "begruendung_selbst": "Wenn das Amt meinen Förderantrag monatelang auf Eis legt, blockiert das meine Projekte. Dass mein Antrag automatisch gilt, wenn die pennen, ist genau die Art von Konsequenz, die wir brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Ämter statt Wartezimmer",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Verwaltung soll konsequent digitalisiert werden, mit Bürgerportalen und automatisierten Verfahren, um Prozesse zu beschleunigen und effizienter zu machen.",
+      "seite": 17,
+      "zitat": "Digitale Prozesse – von Bürgerportalen bis zur Automatisierung standardisierter Verfahren – werden verpflichtend eingeführt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als digital-affine Kreative erwartet Mareike moderne, digitale Schnittstellen zum Staat. Die verpflichtende Einführung von E-Verwaltung und Bürgerportalen entspricht ihrer Forderung nach zeitgemäßer, reibungsloser Administration.",
+      "begruendung_selbst": "Ich mache alles online, nur beim Finanzamt oder Gewerbeamt muss ich noch Formulare ausdrucken und per Post schicken. Eine echte E-Verwaltung wäre für meinen Workflow ein riesiger Gewinn.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Geld für uns, nicht für Intel",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die AfD will milliardenschwere Subventionen für globale Großkonzerne stoppen und stattdessen die Rahmenbedingungen für kleine und mittelständische Unternehmen verbessern.",
+      "seite": 12,
+      "zitat": "die Insolvenz und Abwanderung kleiner und mittelständischer Unternehmen zu stoppen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ärgert sich darüber, dass Steuergelder an Großkonzerne fließen, während kleine Solo-Selbstständige und die Kreativwirtschaft um jeden Förder-Euro kämpfen müssen. Die Fokussierung auf den Mittelstand trifft ihre Gerechtigkeitsvorstellung.",
+      "begruendung_selbst": "Es kann nicht sein, dass Milliarden an Tech-Giganten verschenkt werden, während ich als kleine Kreative um jeden Cent für meine Projekte betteln muss. Der Mittelstand braucht die Luft zum Atmen!",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kunst nur noch für Patrioten?",
+      "thema": "familie",
+      "programmpunkt": "Die AfD will Kunst und Kultur nur noch dann mit Steuergeld fördern, wenn sie einen Beitrag zur deutschen Identitätsfindung leistet.",
+      "seite": 6,
+      "zitat": "vorwiegend solche Kunst fördern, die einen Beitrag zu deutscher Identitätsfindung leistet.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike arbeitet als Solo-Kreative und ist auf eine offene, ideologiefreie Kulturförderung angewiesen. Die Kopplung von Fördergeldern an ein patriotisches Bekenntnis bedroht direkt ihre berufliche Existenz und künstlerische Freiheit.",
+      "begruendung_selbst": "Wenn ich als Kreative nur noch Geld bekomme, wenn meine Kunst brav 'patriotisch' ist, kann ich meinen Beruf gleich an den Nagel hängen. Das ist Zensur durch die Hintertür!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fördergelder nur noch für Brave",
+      "thema": "wirtschaft",
+      "programmpunkt": "Kommunale und Landes-Fördermittel sollen nicht mehr an Diversity- oder Gleichstellungsziele geknüpft werden, sondern nur noch an vermeintlich sinnvolle Kriterien.",
+      "seite": 15,
+      "zitat": "Fördergeld einzig und allein nach sinnvollen Kriterien vergeben werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als progressive Kreative, die oft in Netzwerken arbeitet, die Diversität und Offenheit als Qualitätsmerkmal verstehen, sieht Mareike ihre Projekte und Netzwerke durch diese ideologische Beschneidung der Förderlandschaft gefährdet.",
+      "begruendung_selbst": "Meine Projekte und Netzwerke leben von Vielfalt und Offenheit. Wenn Fördergelder nur noch an konservative Weltbilder vergeben werden, fallen wir Kreativen komplett durchs Raster.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Leben ist 'falsch'?",
+      "thema": "familie",
+      "programmpunkt": "Die AfD will die traditionelle Familie als einzige Norm fördern und spricht sich gegen die staatliche Unterstützung alternativer Lebensentwürfe aus.",
+      "seite": 4,
+      "zitat": "Wir sprechen uns daher klar gegen die staatliche Bewerbung und Förderung alternativer Lebensentwürfe aus.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als 39-jährige Single-Frau mit selbstbestimmtem Lebensstil fühlt sich Mareike durch die Abwertung alternativer Lebensentwürfe gesellschaftlich und politisch ausgegrenzt. Das Programm wertet ihre Lebensrealität als minderwertig ab.",
+      "begruendung_selbst": "Ich bin 39, single und lebe mein Leben so, wie es für mich und meine Arbeit passt. Wenn die Politik mir jetzt sagt, mein Lebensentwurf ist nicht förderwürdig oder 'falsch', ist das pure Ausgrenzung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit offener Bildung!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Landeszentrale für politische Bildung soll abgeschafft und durch ein Institut für staatspolitische Bildung ersetzt werden; zivilgesellschaftliche Vereine verlieren ihre Förderung.",
+      "seite": 6,
+      "zitat": "werden wir die Landeszentrale für politische Bildung in der aktuellen Form abschaffen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike schätzt eine pluralistische Gesellschaft und offene Bildungsarbeit. Die Umwandlung der politischen Bildung in ein Instrument für patriotische Identität und der Entzug von Geldern für engagierte Vereine widersprechen ihrem liberal-progressiven Menschenbild zutiefst.",
+      "begruendung_selbst": "Politische Bildung soll doch zum eigenständigen Denken anregen, nicht zum patriotischen Gehorsam. Wenn engagierte Vereine jetzt als 'links' diffamiert und abgedreht werden, erstickt das jede offene Debatte.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike begrüßt die radikalen Vorstöße zum Bürokratieabbau und zur digitalen Verwaltung, die ihren Arbeitsalltag als Soloselbstständige spürbar erleichtern würden. Gleichzeitig empfindet sie die ideologische Beschneidung der Kulturförderung und die Abwertung alternativer Lebensentwürfe als existenzielle Bedrohung für ihre berufliche und persönliche Freiheit. Dass das Programm keine Lösungen für die soziale Absicherung von Solo-Selbstständigen bietet, bestätigt ihre Sorge, im reinen Marktliberalismus allein gelassen zu werden.",
+    "score": -1
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:10:27.594Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 46989,
+    "output_tokens": 6766,
+    "cached_tokens": 44288,
+    "total_tokens": 53755,
+    "dauer_ms": 124489,
+    "usd": 0.05914825
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Klare Kante gegen Hass und Hetze.",
+      "thema": "integration",
+      "programmpunkt": "Die Partei lehnt Ausländerfeindlichkeit, Hass und pauschale Verdächtigungen entschieden ab.",
+      "seite": 9,
+      "zitat": "Ausländerfeindlichkeit, Hass, Hetze und pauschale Verdächtigungen lehnen wir entschieden ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin begrüßt das klare Bekenntnis gegen Ausländerfeindlichkeit und pauschale Verdächtigungen. Als Person, die im Alltag oft mit Vorurteilen konfrontiert ist, gibt ihr diese explizite Ablehnung von Rassismus das Gefühl, dass der Staat ihre Würde schützen will.",
+      "begruendung_selbst": "Es ist wichtig, dass die Politik klar sagt: Rassismus und pauschale Verdächtigungen haben hier keinen Platz. Das gibt mir zumindest ein bisschen Rückendeckung im Alltag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wir sind längst Teil dieses Landes.",
+      "thema": "integration",
+      "programmpunkt": "Menschen mit Migrationshintergrund werden als fester und unverzichtbarer Bestandteil der Gesellschaft und Wirtschaft anerkannt.",
+      "seite": 9,
+      "zitat": "Menschen mit Migrationshintergrund sind ein fester Bestandteil unserer Gesellschaft.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die explizite Anerkennung, dass Menschen mit Migrationshintergrund ein fester Bestandteil der Gesellschaft sind, bestätigt Aylins Selbstverständnis. Sie schätzt, dass ihre Leistung und die ihrer Community offiziell gewürdigt werden, anstatt nur als Problem betrachtet zu werden.",
+      "begruendung_selbst": "Endlich wird mal schwarz auf weiß anerkannt, dass dieses Land ohne uns gar nicht funktionieren würde. Wir sind kein 'Problem', das man verwaltet, sondern wir halten den Laden am Laufen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich eine moderne, serviceorientierte Verwaltung!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Landesverwaltung soll digitalisiert, entschlackt und konsequent an den Bedürfnissen der Bürger ausgerichtet werden.",
+      "seite": 55,
+      "zitat": "Wir machen die Verwaltung in Sachsen-Anhalt verständlich, erreichbar und serviceorientiert.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Angestellte im öffentlichen Dienst leidet Aylin unter veralteten Strukturen und Bürokratie. Die Ankündigung, die Verwaltung zu digitalisieren und am Bürger auszurichten, entspricht ihrem beruflichen Ethos und ihrem Wunsch nach einem leistungsfähigen Staat.",
+      "begruendung_selbst": "Ich arbeite selbst im Rathaus und sehe jeden Tag, wie sehr uns die Papierflut ausbremst. Wenn die Verwaltung jetzt endlich digital und bürgerfreundlich werden soll, unterstütze ich das zu hundert Prozent.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Dieses Klima vergiftet mein Zuhause.",
+      "thema": "integration",
+      "programmpunkt": "Die Partei kündigt an, die sogenannte Migrationswende konsequent fortzusetzen und Migration stark zu begrenzen.",
+      "seite": 3,
+      "zitat": "Wir werden die Migrationswende konsequent fortsetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin empfindet den Begriff der 'Migrationswende' und die Fokussierung auf Abschiebungen als pauschale Stigmatisierung. Auch wenn sie deutsche Staatsbürgerin ist, hat sie das Gefühl, dass diese Rhetorik das gesellschaftliche Klima gegen Menschen mit Migrationsgeschichte vergiftet.",
+      "begruendung_selbst": "Wenn Politiker ständig von 'Migrationswende' reden, trifft das am Ende immer auch mich und meine Familie – egal, welchen Pass wir haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leitkultur? Ich bin Teil dieser Gesellschaft!",
+      "thema": "integration",
+      "programmpunkt": "Die CDU bekennt sich zu einer 'Leitkultur', an die sich Zuwanderer anpassen müssen.",
+      "seite": 72,
+      "zitat": "Wir bekennen uns zu unserer Leitkultur.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Der Begriff der 'Leitkultur' suggeriert für Aylin eine homogene Gesellschaft, in der Menschen mit Migrationsgeschichte sich anpassen müssen, statt als selbstverständlicher Teil der Vielfalt anerkannt zu werden. Das widerspricht ihrem Verständnis von Zugehörigkeit durch Teilhabe.",
+      "begruendung_selbst": "Ich bin hier geboren, arbeite hier und zahle meine Steuern. Ich brauche keine 'Leitkultur', die mir erklärt, dass ich nur geduldet bin, wenn ich mich unsichtbar mache.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Aussehen ist kein Verdachtsmoment!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizei soll mittels KI und DNA-Analyse biogeographische Merkmale wie Haut- und Haarfarbe zur Fahndung nutzen.",
+      "seite": 6,
+      "zitat": "biogeographische Analyse für präzisere Bewertungen der Haar-, Haut- und Augenfarbe",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Einführung biogeographischer Analysen zur Bestimmung von Haut- und Haarfarbe empfindet Aylin als institutionalisierte Form von Racial Profiling. Als Frau of Color fürchtet sie, dass solche Technologien im Alltag zu pauschalen Verdächtigungen führen.",
+      "begruendung_selbst": "Wenn die Polizei jetzt per KI und DNA meine Haut- und Haarfarbe analysiert, um 'Tatverdächtige' zu finden, wird mein Aussehen endgültig zum Verdachtsmoment. Das ist Racial Profiling durch die Hintertür.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin schätzt das Bekenntnis gegen Ausländerfeindlichkeit und die Anerkennung von Menschen mit Migrationsgeschichte als unverzichtbaren Teil der Gesellschaft. Auch die geplante Modernisierung der Verwaltung entspricht ihren beruflichen Wünschen. Dennoch überwiegt die Entfremdung: Die Rhetorik der 'Migrationswende', das Konzept einer 'Leitkultur' und die Einführung biogeographischer Analysen empfindet sie als institutionelle Ausgrenzung und Bedrohung ihrer eigenen Zugehörigkeit.",
+    "score": -1
+  }
+}

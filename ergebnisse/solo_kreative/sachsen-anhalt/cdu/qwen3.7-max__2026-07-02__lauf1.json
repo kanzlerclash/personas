@@ -1,0 +1,89 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:41:49.249Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 46975,
+    "output_tokens": 5879,
+    "cached_tokens": 44288,
+    "total_tokens": 52854,
+    "dauer_ms": 107952,
+    "usd": 0.05289825
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Anerkennung für Kreative!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Kultur- und Kreativwirtschaft soll als Zukunftsbranche gestärkt werden, mit gezielter Startförderung für kreative Orte und Clubs.",
+      "seite": 82,
+      "zitat": "Kreative Berufe schaffen Identität, Innovation und Beschäftigung, von Design über Film bis Clubkultur.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike fühlt sich in ihrer beruflichen Identität als Solo-Kreative ernst genommen. Die explizite Nennung von Design und die Aussicht auf gezielte Förderungen geben ihr Hoffnung, dass ihre Branche nicht als bloßes Hobby, sondern als relevanter Wirtschaftsfaktor wahrgenommen wird.",
+      "begruendung_selbst": "Dass Design und Clubkultur endlich als echte Wirtschaftsfaktoren und Zukunftsbranche genannt werden, ist genau die Wertschätzung, die wir Soloselbstständigen in der Kreativszene so dringend brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Formulare, mehr Kreativität!",
+      "thema": "demokratie",
+      "programmpunkt": "Antragsverfahren für die Kulturförderung sollen digitalisiert und beschleunigt werden, um bürokratische Hürden abzubauen.",
+      "seite": 81,
+      "zitat": "Zu lange Verfahren und komplizierte Antragswege bremsen Kreativität aus.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soloselbstständige ohne Verwaltungsteam leidet Mareike extrem unter dem Aufwand für Förderanträge. Die Aussicht auf digitale, schlanke Verfahren nimmt ihr eine der größten Hürden bei der Projektfinanzierung.",
+      "begruendung_selbst": "Ich verbringe oft mehr Zeit mit dem Ausfüllen von Verwendungsnachweisen als mit dem eigentlichen Design. Wenn die Anträge endlich digital und schlank werden, kann ich wieder arbeiten statt verwalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit dem Zettelwahnsinn!",
+      "thema": "demokratie",
+      "programmpunkt": "Das Land plant ein umfassendes Berichtsmoratorium, bei dem jede Berichtspflicht neu begründet und befristet werden muss.",
+      "seite": 56,
+      "zitat": "Wir greifen diese Sorge auf und werden ein umfassendes Berichtsmoratorium in Angriff nehmen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike erstickt oft an den statistischen und steuerlichen Meldepflichten, die für Kleinstbetriebe unverhältnismäßig sind. Ein Moratorium signalisiert, dass die Politik den Overhead für die Kleinsten endlich reduzieren will.",
+      "begruendung_selbst": "Als Ein-Frau-Unternehmen kostet mich jede neue Meldepflicht buchstäblich meinen Umsatz. Ein Berichtsmoratorium wäre ein echter Befreiungsschlag aus dem bürokratischen Wahnsinn.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Angst vor der Bürgerarbeit-Falle",
+      "thema": "arbeit",
+      "programmpunkt": "Arbeitsfähige Leistungsbezieher sollen verpflichtend zu gemeinnütziger Arbeit herangezogen werden, wenn sie Beschäftigungsangebote ablehnen.",
+      "seite": 30,
+      "zitat": "Wer eine staatliche Leistung bekommt und arbeitsfähig ist, der muss auch etwas zurückgeben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike beobachtet mit Sorge, wie der Staat mit Menschen umgeht, die in Not geraten. Die Androhung von Zwangsarbeit für Leistungsbezieher widerspricht ihrem Bild eines solidarischen Netzes, das auch Kreative in unverschuldeten Flauten auffangen sollte, statt sie zu drangsalieren.",
+      "begruendung_selbst": "Wenn die Aufträge mal drei Monate ausbleiben, bin ich auf ein soziales Netz angewiesen. Aber wenn der Staat dann mit Zwang und 'Bürgerarbeit' droht, zeigt das nur, dass er die Realität von prekärer Arbeit und Selbstständigkeit null verstanden hat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Netz für Soloselbstständige",
+      "thema": "arbeit",
+      "programmpunkt": "Gute Löhne und soziale Sicherheit sollen ausschließlich durch eine starke Wirtschaft und unternehmerische Freiheit entstehen, nicht durch staatliche Umverteilung oder Vorgaben.",
+      "seite": 12,
+      "zitat": "Dauerhaft steigende und sichere Einkommen entstehen jedoch nicht durch staatliche Vorgaben und Umverteilung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die strikte Ablehnung staatlicher Absicherungsmechanismen zugunsten reiner Marktlogik frustriert Mareike. Sie weiß, dass der Markt für Solo-Kreative keine automatischen Sicherheitsnetze bei Krankheit oder im Alter bietet, und empfindet diese Haltung als zynisch gegenüber den Schwächsten der Selbstständigen.",
+      "begruendung_selbst": "Zu sagen, der Markt regelt das schon mit der Absicherung, ist für uns Soloselbstständige ein schlechter Witz. Wenn ich krank bin oder die Aufträge wegbleiben, fängt mich der 'freie Markt' nicht auf – da brauche ich verlässliche soziale Regeln.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike begrüßt die explizite Wertschätzung der Kultur- und Kreativwirtschaft sowie die geplanten Erleichterungen bei Bürokratie und Förderanträgen, die ihren Arbeitsalltag als Soloselbstständige spürbar entlasten würden. Gleichzeitig stößt sie sich massiv an der reinen Marktlogik und der rigiden Sozialpolitik der CDU, die prekäre Lebensrealitäten ignoriert und im Fall einer Auftragsflaute eher Zwang als Absicherung verspricht. Für sie bleibt das Programm wirtschaftlich attraktiv, aber sozialpolitisch eine Zumutung.",
+    "score": -1
+  }
+}

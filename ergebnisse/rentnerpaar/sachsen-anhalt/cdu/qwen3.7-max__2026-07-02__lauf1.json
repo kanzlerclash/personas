@@ -1,0 +1,88 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:38:08.240Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 46956,
+    "output_tokens": 8814,
+    "cached_tokens": 44288,
+    "total_tokens": 55770,
+    "dauer_ms": 161640,
+    "usd": 0.075007
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Unser Haus bleibt unser Haus!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU fordert eine Reform der Pflegeversicherung, die Eigenanteile deckelt und das selbstgenutzte Wohneigentum vor dem Zugriff für Pflegekosten schützt.",
+      "seite": 29,
+      "zitat": "Reform der Pflegeversicherung ein, mit gedeckelten Eigenanteilen, fairer Finanzierung und Schutz des selbstgenutzten Wohneigentums.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter haben ihr Leben lang für ihr Eigenheim gearbeitet und fürchten sich davor, dass im Pflegefall das Haus verkauft werden muss. Die explizite Zusage zum Schutz des selbstgenutzten Wohneigentums und die Deckelung der Eigenanteile nehmen ihnen eine ihrer größten existenziellen Ängste.",
+      "begruendung_selbst": "Wir haben unser Leben lang für dieses Haus geschuftet. Da ist es eine riesige Erleichterung zu lesen, dass die Partei unser Eigentum im Pflegefall schützen will und die Kosten deckeln möchte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Hilfe für den Landarzt-Mangel",
+      "thema": "gesundheit",
+      "programmpunkt": "Um die ärztliche Versorgung in ländlichen Regionen mit Ärztemangel zu sichern, soll ein Medi-Bus als rollende Hausarztpraxis eingeführt werden.",
+      "seite": 29,
+      "zitat": "Einführung eines sogenannten Medi-Busses an. Als rollende Praxis hat der Medi-Bus einen Arzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Sorge, dass ihr letzter Hausarzt im Ort bald in den Ruhestand geht und keine Nachfolge findet, beschäftigt das Paar täglich. Ein mobiles Angebot wie der Medi-Bus wird als konkrete, pragmatische Lösung für ihr Dorf wahrgenommen.",
+      "begruendung_selbst": "Unser Hausarzt wird auch nicht jünger. Wenn der aufhört, müssen wir ewig in die Stadt fahren. Da ist so ein Arzt-Bus, der direkt ins Dorf kommt, genau das, was wir brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Schalter bleibt für uns offen",
+      "thema": "digitalisierung",
+      "programmpunkt": "Auch bei fortschreitender Digitalisierung der Verwaltung soll jeder Bürger das Recht behalten, Erklärungen und Anliegen weiterhin persönlich und analog vor Ort abzugeben.",
+      "seite": 52,
+      "zitat": "Jede Erklärung einer Bürgerin oder eines Bürgers kann weiterhin vor einer Behörde",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter erledigen ihre Behördengänge am liebsten persönlich oder telefonisch und fühlen sich von rein digitalen Zwängen überfordert. Die Garantie, dass analoge Zugänge erhalten bleiben, bestätigt ihr Bedürfnis nach Verlässlichkeit und Bürgernähe.",
+      "begruendung_selbst": "Wir haben keinen Scanner und wollen auch keinen. Gut zu wissen, dass man im Notfall immer noch persönlich aufs Amt gehen kann, ohne dass man gleich aussortiert wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Fahrverbote für unseren Diesel",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU lehnt ideologisch motivierte Technologiefeindlichkeit und diskriminierende Fahrverbote ab und setzt sich für den Erhalt des motorisierten Individualverkehrs ein.",
+      "seite": 61,
+      "zitat": "Wir lehnen eine ideologisch motivierte Technologiefeindlichkeit sowie diskriminierende Fahrverbote strikt ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar ist auf dem Land auf sein Auto angewiesen, um Einkäufe und Arztbesuche zu erledigen. Die Angst, durch politische Vorgaben zum Kauf eines teuren E-Autos gezwungen oder aus Städten ausgesperrt zu werden, wird durch diese klare Absage an Fahrverbote gemildert.",
+      "begruendung_selbst": "Ohne unser Auto sind wir hier im Dorf völlig aufgeschmissen. Wir können uns kein neues E-Auto leisten und wollen auch nicht ständig Angst vor neuen Verbotsschildern haben müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wer kann, muss auch arbeiten",
+      "thema": "gesundheit",
+      "programmpunkt": "Arbeitsfähige Empfänger staatlicher Leistungen sollen nicht länger freiwillig, sondern verbindlich zu gemeinnütziger Arbeit (Bürgerarbeit) verpflichtet werden.",
+      "seite": 30,
+      "zitat": "Wer eine staatliche Leistung bekommt und arbeitsfähig ist, der muss auch etwas zurückgeben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aus der Perspektive ihrer eigenen harten Arbeitsbiografie in DDR und Nachwendezeit empfinden Helga und Dieter es als ungerecht, wenn arbeitsfähige Menschen staatliche Leistungen beziehen, ohne eine Gegenleistung zu erbringen. Die Forderung nach Bürgerarbeit entspricht ihrem Gerechtigkeitsempfinden.",
+      "begruendung_selbst": "Wir haben unser Leben lang malocht und unsere Abgaben gezahlt. Da kann es nicht sein, dass sich gesunde Leute auf der faulen Haut ausruhen – wer Geld vom Staat kriegt, soll auch was tun.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Wahlprogramm der CDU trifft die Lebensrealität und die Sorgen von Helga und Dieter fast passgenau. Die expliziten Bekenntnisse zum Schutz des Wohneigentums im Pflegefall, zur Erhaltung der analogen Verwaltung und zur Absage an ideologische Fahrverbote bieten dem Rentnerpaar die gewünschte Verlässlichkeit und Sicherheit im ländlichen Raum. Da die Partei ihre größten Ängste – wie Sanierungszwang oder Experimente in der Rente – aktiv adressiert oder ausschließt, finden sich kaum konträre Positionen.",
+    "score": 2
+  }
+}

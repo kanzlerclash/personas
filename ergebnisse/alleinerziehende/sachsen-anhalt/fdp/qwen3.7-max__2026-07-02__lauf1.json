@@ -1,0 +1,139 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:47:10.855Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41140,
+    "output_tokens": 8438,
+    "cached_tokens": 39168,
+    "total_tokens": 49578,
+    "dauer_ms": 155836,
+    "usd": 0.06562325
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich flexible Betreuung!",
+      "thema": "familie",
+      "programmpunkt": "Förderung von Gemeinschaftsbüros mit Kinderbetreuung und mobilen Betreuungsreserven, um starre Öffnungszeiten zu überwinden und berufstätigen Eltern, etwa im Schichtdienst, flexible Betreuung zu ermöglichen.",
+      "seite": 26,
+      "zitat": "Gemeinschaftsbüros mit Kinderbetreuung und mobilen Betreuungsreserven",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine kämpft täglich damit, Teilzeitarbeit und Kita-Öffnungszeiten in Einklang zu bringen. Das Modell flexibler Betreuungszusammenschlüsse und Gemeinschaftsbüros adressiert direkt ihren Engpass bei Bring- und Abholzeiten und könnte ihr ermöglichen, mehr Stunden zu arbeiten, ohne an der Betreuung zu scheitern.",
+      "begruendung_selbst": "Wenn die Betreuung endlich zu meinen Arbeitszeiten passt und nicht umgekehrt, könnte ich vielleicht sogar wieder etwas mehr arbeiten. Das wäre ein echter Gamechanger für uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schule und Kita aus einer Hand",
+      "thema": "bildung",
+      "programmpunkt": "Bündelung der Zuständigkeiten für Schulen, Kitas und Horte in einem Ministerium, um Übergänge zwischen frühkindlicher Bildung und Schule besser zu verzahnen und Doppelstrukturen abzubauen.",
+      "seite": 25,
+      "zitat": "Zuständigkeiten für Schulen, Kitas und Horte in einem Ministerium",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Nadine mit Kindern im Alter von 4 und 8 Jahren sind die Brüche zwischen Kita, Hort und Grundschule ein ständiges organisatorisches Problem. Eine gebündelte Verantwortung verspricht weniger Reibungsverluste und verlässlichere Übergänge, was ihren ohnehin knappen Zeithaushalt entlastet.",
+      "begruendung_selbst": "Endlich denkt mal jemand mit! Wenn Kita, Hort und Schule zusammenarbeiten, statt sich die Bälle zuzuspielen, spart mir das im Alltag so viel Nerven und Zeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohneigentum auch für uns?",
+      "thema": "wohnen",
+      "programmpunkt": "Einführung eines Grunderwerbsteuer-Freibetrags für den erstmaligen Erwerb selbstgenutzten Wohneigentums, kombiniert mit zinsvergünstigten Darlehen der Investitionsbank, um die Einstiegshürde ins Eigentum zu senken.",
+      "seite": 12,
+      "zitat": "Grunderwerbsteuer-Freibetrag für den erstmaligen Erwerb selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine zahlt einen Großteil ihres knappen Einkommens für die Miete. Die Aussicht auf einen Freibetrag bei der Grunderwerbsteuer und günstige Darlehen weckt die Hoffnung, dass Wohneigentum als langfristige Absicherung für sie und ihre Kinder nicht völlig unerreichbar bleibt – auch wenn die Hürden für sie aktuell noch sehr hoch sind.",
+      "begruendung_selbst": "Vielleicht ist das mit dem Eigenheim doch nicht komplett unrealistisch. Wenn die Nebenkosten beim Kauf sinken, könnte ich wenigstens anfangen zu rechnen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schulkosten endlich fair",
+      "thema": "bildung",
+      "programmpunkt": "Einführung eines landeseinheitlichen Schülerkostensatzes, der unabhängig von Schulträger oder Kommune eine faire Finanzierung aller öffentlichen und freien Schulen sicherstellt.",
+      "seite": 30,
+      "zitat": "je Schulform, der gleichermaßen für alle",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine sorgt sich um die Qualität der Schule ihres 8-jährigen Kindes. Ein einheitlicher Kostensatz signalisiert, dass die Ausstattung nicht vom Wohnort oder der klammen Kasse der Kommune abhängt – das gibt ihr das Gefühl, dass Bildungschancen ihrer Kinder nicht vom Zufall bestimmt werden.",
+      "begruendung_selbst": "Es kann doch nicht sein, dass die Schule meines Kindes davon abhängt, ob die Stadt gerade Geld hat. Jedes Kind deserves das Gleiche.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sanktionen – schon wieder Misstrauen",
+      "thema": "arbeit",
+      "programmpunkt": "Verschärfung der Sanktionen beim Bürgergeld: konsequente Ausschöpfung des Sanktionsspielraums bei Nicht-Mitwirkung, Leistungskürzungen bei Ablehnung zumutbarer Arbeit, Einführung gemeinnütziger Arbeitspflichten für Langzeitarbeitslose.",
+      "seite": 40,
+      "zitat": "Sanktionsspielraum konsequent ausgeschöpft ... gemeinnützige Arbeitspflichten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine arbeitet Teilzeit und stockt auf – sie fühlt sich durch die Rhetorik des 'Fördern und Forderns' und die Androhung von Sanktionen pauschal unter Verdacht gestellt. Die Betonung von Pflicht und Kürzung ignoriert ihre Realität: Sie will arbeiten, scheitert aber an Betreuungslücken, nicht an mangelnder Motivation.",
+      "begruendung_selbst": "Ich gehe jeden Tag arbeiten und kämpfe mit dem Amt wegen jedem Formular. Und dann heißt es wieder 'Fördern und Fordern'? Ich brauche keine Drohung, ich brauche einen Kita-Platz, der zu meiner Schicht passt!",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Sprachkurse nur für Selbstzahler?",
+      "thema": "integration",
+      "programmpunkt": "Sprachkurse sollen vorrangig für Selbstzahler oder Teilnehmer angeboten werden, die den üblichen Eigenanteil aus eigener Tasche entrichten wollen.",
+      "seite": 11,
+      "zitat": "Sprachkurse sollen vorrangig für Selbstzahler ... angeboten werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine erlebt in Kita und Schule, wie wichtig Sprache für Teilhabe ist. Die Idee, Sprachförderung an Zahlungsbereitschaft zu koppeln, widerspricht ihrem Wert, dass jedes Kind – unabhängig vom Geldbeutel der Eltern – die gleichen Startchancen verdient. Sie befürchtet, dass dies die Spaltung in den Einrichtungen verschärft.",
+      "begruendung_selbst": "In der Kita meines Sohnes sitzen Kinder, die dringend Sprachförderung brauchen. Wenn die Eltern das nicht zahlen können, gucken die in die Röhre? Das ist doch genau das Gegenteil von Chancengleichheit.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Kein Wort über Kindergrundsicherung",
+      "thema": "familie",
+      "programmpunkt": "Das Programm verzichtet auf Forderungen nach einer Kindergrundsicherung oder einer spürbaren Erhöhung von Leistungen für Kinder aus einkommensschwachen Haushalten; der Fokus liegt stattdessen auf Eigentumsförderung und Steuersenkungen.",
+      "seite": 12,
+      "zitat": "Eigentum stärkt Unabhängigkeit: Wohneigentum fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadines größter finanzieller Druck sind die laufenden Kosten für ihre Kinder. Dass das Programm keine konkreten Vorschläge zur direkten finanziellen Entlastung von Familien mit niedrigem Einkommen macht, sondern auf Eigentum und Steuersenkungen setzt – von denen sie kaum profitiert –, bestätigt ihren Eindruck, dass ihre Lebensrealität nicht mitgedacht wird.",
+      "begruendung_selbst": "Wohneigentum, Steuersenkungen – schön für die, die es brauchen. Aber was ist mit mir? Meine Kinder wachsen in einer Mietwohnung auf, und jeder Euro für neue Schuhe ist ein Kraftakt. Davon steht hier nichts.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Überstunden steuerfrei – hilft mir nicht",
+      "thema": "steuern",
+      "programmpunkt": "Forderung, jede Überstunde steuerfrei zu stellen, sowie Senkung der Einkommensteuer über eine Bundesratsinitiative.",
+      "seite": 40,
+      "zitat": "jede Überstunde steuerfrei stellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine arbeitet Teilzeit und kann aufgrund der Betreuungssituation gar keine Überstunden machen. Die steuerfreie Überstunde ist ein Instrument für Vollzeitbeschäftigte ohne Care-Verpflichtungen. Für sie wirkt diese Maßnahme wie ein Symbol dafür, dass Politik an Menschen denkt, die nicht in ihrer Lage sind.",
+      "begruendung_selbst": "Überstunden? Ich bin froh, wenn ich meine Teilzeitstunden schaffe, bevor die Kita schließt. Steuerfreie Überstunden sind ein Geschenk an Leute, die keine Kinder betreuen müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld reformieren – auf meine Kosten",
+      "thema": "gesundheit",
+      "programmpunkt": "Reform des Bürgergelds mit dem Ziel, Mitwirkungspflichten zu verschärfen, Sanktionen konsequent anzuwenden und Langzeitarbeitslose in gemeinnützige Arbeit zu verpflichten.",
+      "seite": 40,
+      "zitat": "reformieren. Wer staatliche Hilfe in Anspruch nimmt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Aufstockerin ist Nadine direkt von Änderungen am Bürgergeld betroffen. Die einseitige Betonung von Sanktionen und Pflicht, ohne gleichzeitig die strukturellen Hindernisse (Betreuung, Teilzeitfalle) anzugehen, empfindet sie als Bedrohung und als Ausdruck eines Menschenbildes, das ihre Leistung nicht anerkennt.",
+      "begruendung_selbst": "Ich stehe jeden Morgen auf, bringe die Kinder weg und gehe arbeiten – und werde trotzdem behandelt wie jemand, der dem Staat auf der Tasche liegt. Dieses Misstrauen macht mich wütend.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet im Programm einige Ansätze, die ihren Alltag direkt erleichtern könnten – insbesondere flexible Betreuungsmodelle und die Bündelung von Kita und Schule. Gleichzeitig fühlt sie sich durch die sozialpolitische Ausrichtung der FDP (Sanktionen, steuerfreie Überstunden, Fokus auf Eigentum) in ihrer prekären Lage als Aufstockerin nicht gesehen und teilweise sogar bedroht. Die Rhetorik des 'Förderns und Forderns' trifft einen Nerv, weil sie sich trotz Arbeit und Fürsorge ständig rechtfertigen muss.",
+    "score": -1
+  }
+}

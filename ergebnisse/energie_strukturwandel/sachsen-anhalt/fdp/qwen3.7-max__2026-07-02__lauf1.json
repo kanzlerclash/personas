@@ -1,0 +1,149 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:52:19.449Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41123,
+    "output_tokens": 9184,
+    "cached_tokens": 39168,
+    "total_tokens": 50307,
+    "dauer_ms": 167812,
+    "usd": 0.07082575
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich CCS als Chance!",
+      "thema": "klima",
+      "programmpunkt": "Die FDP will die Länderklausel des Kohlendioxidspeicherungsgesetzes nutzen und Onshore-CCS in Modellregionen ermöglichen, inklusive Pilotprojekten mit Industrie und Forschung.",
+      "seite": 23,
+      "zitat": "Onshore-CCS endlich als Chance für unsere Wirtschaft ermöglichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht in CCS eine zentrale Brückentechnologie für seine Region, die Wertschöpfung und Arbeitsplätze sichern kann, während gleichzeitig CO₂ reduziert wird. Die explizite Befürwortung von Onshore-CCS mit Pilotprojekten bestätigt seine Hoffnung, dass seine Heimat nicht abgehängt wird.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass CCS kein Teufelszeug ist! Wenn wir hier CO₂ speichern können, bleibt die Industrie da und wir haben eine Zukunft. Das ist die Brücke, die wir brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Technologieoffenheit statt Ideologie!",
+      "thema": "energie",
+      "programmpunkt": "Die FDP fordert echte Technologieoffenheit in der Energiepolitik, einschließlich der Prüfung von Small Modular Reactors, Fracking-Gas und einem breiten Energiemix statt einseitiger Festlegung.",
+      "seite": 14,
+      "zitat": "Machen wir uns bei Energie weder abhängig nur von einem Land noch von einer einzigen Technologie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Energiewirtschaftler in einer Kohle- und Gasregion erlebt Ronny pauschale Technologieverbote als existenzbedrohend. Die Forderung nach Technologieoffenheit und die Ablehnung einseitiger Festlegungen entsprechen seinem pragmatischen Ansatz, dass Versorgungssicherheit Vorrang vor Ideologie haben muss.",
+      "begruendung_selbst": "Genau das sage ich seit Jahren: Wir können nicht einfach alles abschalten und hoffen, dass schon was kommt. Technologieoffenheit heißt, alle Optionen auf den Tisch – und dann gucken, was wirklich funktioniert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kernkraft bleibt Option!",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will den Wiedereinstieg in die Kernenergie, einschließlich der Reaktivierung bestehender Kraftwerke und eines Neubauprogramms für moderne Reaktoren wie SMRs.",
+      "seite": 14,
+      "zitat": "Dazu gehört für uns auch der Wiedereinstieg in die Nutzung der Kernenergie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht in der Kernenergie eine grundlastfähige, emissionsarme Ergänzung zum Energiemix, die seiner Region Planungssicherheit geben könnte. Die Offenheit für neue Reaktortechnologien wie SMRs passt zu seiner Hoffnung auf industrielle Ansiedlung und Fachkräftebedarf.",
+      "begruendung_selbst": "Ob Kernkraft jetzt die Lösung für uns ist oder nicht – aber dass man sie wenigstens wieder ernsthaft prüft, statt sie pauschal zu beerdigen, das ist doch mal ein Ansatz. SMRs könnten hier richtig was bewegen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netzentgelte fair verteilen!",
+      "thema": "energie",
+      "programmpunkt": "Die FDP fordert eine fairere Verteilung der Netzentgelte zwischen den Regionen, da Sachsen-Anhalt als Windstrom-Erzeuger überproportional belastet wird.",
+      "seite": 14,
+      "zitat": "Netzentgelte müssen daher zwischen den Regionen fairer verteilt und für die Menschen in Sachsen-Anhalt spürbar gesenkt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny ärgert sich seit Jahren darüber, dass seine Region die Netzkosten für den exportierten Windstrom trägt, während andere Regionen profitieren. Die Forderung nach fairer Verteilung trifft einen Nerv und könnte seine Stromkosten spürbar senken.",
+      "begruendung_selbst": "Wir produzieren den Strom für ganz Deutschland, aber die Netzkosten hängen bei uns. Das ist doch nicht fair! Wenn die FDP das endlich angehen will, bin ich dabei.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rüstung bringt Jobs hierher!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP will Sachsen-Anhalt als Standort für die Verteidigungsindustrie positionieren, mit verbesserten Rahmenbedingungen für Produktionsaufbau und Vernetzung mit lokalen Zulieferern.",
+      "seite": 9,
+      "zitat": "Wir wollen, dass Sachsen-Anhalt vom Aufbau dieser industriellen Wertschöpfung und der damit verbundenen Arbeitsplätze profitiert.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Angesichts des Strukturwandels sucht Ronny nach neuen industriellen Perspektiven für seine Region. Die Ansiedlung von Verteidigungsindustrie mit lokalen Zuliefererketten könnte Arbeitsplätze schaffen, die seine Facharbeiterqualifikation nutzen.",
+      "begruendung_selbst": "Wenn hier Rüstungsbetriebe kommen und unsere Zulieferer mit einbinden, dann entstehen Jobs, die bleiben. Das ist besser als jede Subvention – das ist echte Wertschöpfung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heimische Rohstoffe nutzen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP will heimische Bodenschätze wie Lithium, Kalisalze, Schiefergas und Braunkohle verantwortungsvoll nutzbar machen und schnelle Genehmigungen ermöglichen.",
+      "seite": 10,
+      "zitat": "Heimische Bodenschätze nutzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Beschäftigter in der Energiewirtschaft sieht Ronny in der Nutzung heimischer Rohstoffe eine Chance für regionale Wertschöpfung und Unabhängigkeit von Importen. Die explizite Erwähnung von Braunkohle und Schiefergas berührt direkt seine Branche.",
+      "begruendung_selbst": "Warum sollen wir unsere Rohstoffe im Boden lassen, wenn wir sie hier verarbeiten und Arbeitsplätze schaffen können? Das ist doch Wahnsinn, alles zu importieren, was wir selbst haben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kohleausstieg ohne Plan!",
+      "thema": "energie",
+      "programmpunkt": "Das Programm erwähnt den Kohleausstieg nicht explizit als gestaltbare Aufgabe mit Ersatzperspektiven, sondern fokussiert auf neue Technologien ohne klare Brückenstrategie für bestehende Kohlestandorte.",
+      "seite": 5,
+      "zitat": "Für Sachsen-Anhalt ist eine starke Wirtschaft der Schlüssel zu Wohlstand, Sicherheit und Zukunftschancen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny vermisst eine konkrete Strategie, wie der Kohleausstieg in seiner Region gestaltet werden soll, bevor die Arbeitsplätze wegfallen. Das Programm spricht von Wirtschaftswachstum, aber nicht davon, wie die bestehende Energiewirtschaft transformiert werden soll.",
+      "begruendung_selbst": "Alle reden von neuen Technologien, aber keiner sagt mir, was mit meinem Kraftwerk passiert, bevor das Neue steht. Erst die Brücke bauen, dann die alte abreißen – andersrum fallen wir ins Wasser.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Wort zu Kohle-Jobs!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm thematisiert Fachkräftemangel und Arbeitsplätze in neuen Branchen, erwähnt aber nicht die Qualifizierung und den Übergang von Beschäftigten aus der Kohlewirtschaft.",
+      "seite": 6,
+      "zitat": "Arbeitsplätze sollen dort entstehen, wo Wertschöpfung entsteht – in starken Unternehmen, in innovativen Start-ups",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny sorgt sich um die berufliche Zukunft seiner Kollegen und seiner selbst. Das Programm ignoriert die Frage, wie Menschen aus der Kohlewirtschaft in neue Jobs begleitet werden können, und lässt ihn mit seiner Unsicherheit allein.",
+      "begruendung_selbst": "Ich bin 41, habe mein ganzes Leben in der Energiebranche gearbeitet. Wenn die Kohle geht, brauche ich einen Plan, wie ich meine Erfahrung in was Neues einbringen kann. Davon steht hier kein Wort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fracking nur mit Genehmigung!",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will das pauschale Fracking-Verbot durch ein wissenschaftsbasiertes Genehmigungsregime ersetzen, aber keine aktive Förderung oder Beschleunigung von Fracking-Projekten.",
+      "seite": 16,
+      "zitat": "pauschale Verbot des unkonventionellen Frackings auf Bundesebene durch ein wissenschaftsbasiertes Genehmigungsregime zu ersetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny hätte sich eine offensivere Position zu Schiefergas gewünscht, da er darin eine Chance für seine Region sieht. Das 'wissenschaftsbasierte Genehmigungsregime' klingt für ihn nach neuer Bürokratie und Verzögerung, nicht nach Aufbruch.",
+      "begruendung_selbst": "Wieder nur 'prüfen' und 'Genehmigungsverfahren' – das klingt nach dem nächsten Papierkrieg. Wenn wir Schiefergas wollen, dann müssen wir auch mal machen, nicht nur verwalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz ohne Industrieplan!",
+      "thema": "klima",
+      "programmpunkt": "Das Programm betont marktwirtschaftliche Instrumente wie den Emissionshandel, bietet aber keine konkrete Strategie, wie energieintensive Industrien in Sachsen-Anhalt während der Transformation wettbewerbsfähig bleiben.",
+      "seite": 23,
+      "zitat": "Klimapolitik darf nicht in Bevormundung, Verboten und teuren Symbolmaßnahmen abgleiten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny teilt das Ziel des Klimaschutzes, vermisst aber einen konkreten Plan, wie seine Region und die dortige Industrie die Transformation überleben können. Der Verweis auf den Emissionshandel allein reicht ihm nicht, da er keine aktive Gestaltung der Übergangsphase bietet.",
+      "begruendung_selbst": "Emissionshandel ist schön und gut, aber was hilft mir das, wenn die Betriebe hier dichtmachen, weil die Energie zu teuer wird? Ich brauche einen Plan, wie wir hier Industrie halten, nicht nur CO₂-Zertifikate.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny sieht in der FDP-Position zur Technologieoffenheit, CCS und Kernenergie wichtige Bestätigungen seiner pragmatischen Haltung. Die Forderungen nach fairen Netzentgelten und heimischen Rohstoffen treffen seine regionalen Interessen. Allerdings vermisst er eine konkrete Strategie für den Kohleausstieg und die Transformation seiner Branche, was seine Hauptsorge um die berufliche Zukunft nicht adressiert.",
+    "score": 1
+  }
+}

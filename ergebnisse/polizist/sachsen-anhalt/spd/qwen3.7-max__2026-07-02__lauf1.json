@@ -1,0 +1,125 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:11:09.356Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39856,
+    "output_tokens": 5096,
+    "cached_tokens": 37888,
+    "total_tokens": 44952,
+    "dauer_ms": 93739,
+    "usd": 0.04364575
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich volle Dienstposten und Alimentierung!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die SPD will die Dienstposten in der Landespolizei vollständig ausfinanzieren und die seit Jahren fehlerhafte Besoldung der Polizeibeschäftigten umfassend korrigieren.",
+      "seite": 19,
+      "zitat": "Ausfinanzierung der Dienstposten in der Landespolizei und die seit Jahren fehlerhafte amtsangemessene Alimentierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco fühlt sich in seiner täglichen Überlastung und der als ungerecht empfundenen Besoldung direkt angesprochen. Die explizite Anerkennung der 'seit Jahren fehlerhaften' Alimentierung bestätigt seinen Frust und gibt ihm Hoffnung auf konkrete Besserung.",
+      "begruendung_selbst": "Endlich sagt mal jemand offen, dass unsere Besoldung seit Jahren nicht stimmt. Wenn die Dienstposten wirklich voll finanziert werden, könnte das den Druck im Schichtdienst endlich senken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papier, mehr Straße!",
+      "thema": "sicherheit",
+      "programmpunkt": "Bürokratische Belastungen der Polizei sollen reduziert werden, damit sich Einsatzkräfte auf ihre Kernaufgaben konzentrieren können.",
+      "seite": 19,
+      "zitat": "Bürokratische Belastungen werden reduziert, damit Polizistinnen und Polizisten sich auf ihre Kernaufgaben konzentrieren können.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco verbringt einen großen Teil seiner Schicht mit Dokumentation und Verwaltung. Das Versprechen, Bürokratie abzubauen, trifft seinen Alltag direkt und bestätigt seine Forderung nach mehr Zeit für die eigentliche Polizeiarbeit.",
+      "begruendung_selbst": "Ich bin Polizist geworden, um Menschen zu schützen – nicht um stundenlang Formulare auszufüllen. Wenn die Bürokratie wirklich weniger wird, habe ich endlich wieder Zeit für das, was zählt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Justiz ohne Einstellungsstopp!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die SPD lehnt einen Einstellungsstopp in der Justiz ab und will Gerichte und Staatsanwaltschaften personell und technisch stärken.",
+      "seite": 20,
+      "zitat": "Ein Einstellungsstopp in der Justiz wird abgelehnt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ist frustriert, wenn seine Ermittlungsarbeit in der Justizkette versandet. Die klare Ablehnung eines Einstellungsstopps signalisiert ihm, dass die gesamte Sicherheitskette – nicht nur die Polizei – gestärkt werden soll.",
+      "begruendung_selbst": "Was nützt mir die beste Ermittlung, wenn die Staatsanwaltschaft die Akten nicht abarbeiten kann? Gut, dass die Justiz endlich auch personell gestärkt werden soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarif plus gleich Besoldung!",
+      "thema": "arbeit",
+      "programmpunkt": "Tariferhöhungen im öffentlichen Dienst sollen zeit- und inhaltsgleich auf Beamtinnen und Beamte übertragen werden.",
+      "seite": 35,
+      "zitat": "Tariferhöhungen im öffentlichen Dienst müssen zeit- und inhaltsgleich auf Beamtinnen und Beamte übertragen werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Beamter erlebt Marco oft, dass Tarifabschlüsse nur verzögert oder abgespeckt bei ihm ankommen. Die Zusage der zeit- und inhaltsgleichen Übertragung betrifft direkt sein Einkommen und seine finanzielle Planungssicherheit.",
+      "begruendung_selbst": "Es kann nicht sein, dass die Angestellten mehr bekommen und wir Beamten monatelang warten. Gleiche Arbeit, gleiches Geld – das ist nur fair.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Wahlfreiheit bei der Krankenversicherung!",
+      "thema": "gesundheit",
+      "programmpunkt": "Beamtinnen und Beamte sollen durch eine pauschale Beihilfe echte Wahlfreiheit zwischen gesetzlicher und privater Krankenversicherung erhalten.",
+      "seite": 35,
+      "zitat": "Mit der Einführung der pauschalen Beihilfe nach dem Vorbild anderer Bundesländer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco als verbeamteter Polizist mit Familie kennt die Nachteile des aktuellen Systems. Die pauschale Beihilfe würde ihm die Entscheidung für die gesetzliche Versicherung erleichtern und seine Familie finanziell entlasten.",
+      "begruendung_selbst": "Mit Frau und Kind ist die private Versicherung oft ein Draufzahlgeschäft. Wenn ich endlich in die gesetzliche könnte ohne Nachteile, wäre das eine riesige Entlastung für uns.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wir sind nicht das Problem!",
+      "thema": "demokratie",
+      "programmpunkt": "Rassismuskritische Bildungsarbeit soll in Verwaltung, Schulen und Polizei ausgebaut werden.",
+      "seite": 23,
+      "zitat": "Rassismuskritische Bildungsarbeit in Verwaltung, Schulen und Polizei wird ausgebaut.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco empfindet die pauschale Zuschreibung von Rassismus als Problem der gesamten Institution Polizei als ungerecht. Er fühlt sich unter Generalverdacht gestellt, während er täglich unter Personalnot und Überlastung seinen Dienst versieht.",
+      "begruendung_selbst": "Ich mache meinen Job nach Recht und Gesetz, Schicht für Schicht. Dass jetzt ausgerechnet bei uns 'rassismuskritische Bildung' ausgebaut werden soll, fühlt sich an wie ein pauschaler Vorwurf gegen alle Kolleginnen und Kollegen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ohne moderne Tools sind wir blind!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die SPD lehnt den Einsatz von KI-Analyse-Software wie Palantir in der Verwaltung ausdrücklich ab.",
+      "seite": 34,
+      "zitat": "jedoch lehnen wir den Einsatz von KI-Software wie z. B. Palantir ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht, dass Kriminelle und Extremisten digitale Tools nutzen. Die pauschale Ablehnung moderner Analyse-Software erscheint ihm als ideologische Entscheidung auf Kosten der Ermittlungsfähigkeit seiner Behörde.",
+      "begruendung_selbst": "Die Kriminellen nutzen modernste Technik, und wir sollen mit einem Notizblock ermitteln? Wer uns solche Tools verbietet, lässt uns im Stich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsstaat braucht Konsequenz!",
+      "thema": "integration",
+      "programmpunkt": "Abschiebungen sollen nur als letztes Mittel eingesetzt werden; freiwillige Rückkehr wird bevorzugt.",
+      "seite": 21,
+      "zitat": "Abschiebungen bleiben die Ultima Ratio.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco erlebt im Dienst, dass ausreisepflichtige Personen oft über Jahre im Land bleiben. Die Formulierung 'Ultima Ratio' signalisiert für ihn eine zu zögerliche Durchsetzung des Aufenthaltsrechts und schwächt aus seiner Sicht die Glaubwürdigkeit des Rechtsstaats.",
+      "begruendung_selbst": "Wenn jemand ausreisepflichtig ist, muss das auch durchgesetzt werden. 'Ultima Ratio' klingt für mich nach: Wir machen es lieber gar nicht. So verliert der Rechtsstaat seine Glaubwürdigkeit.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das SPD-Programm adressiert Marcos Kernforderungen als Polizist überraschend konkret: volle Ausfinanzierung der Dienstposten, Korrektur der Besoldung, Bürokratieabbau und Stärkung der Justizkette. Auch die beamtenrechtlichen Verbesserungen bei Besoldung und Krankenversicherung treffen seine persönliche Lage positiv. Irritationen lösen vor allem die rassismuskritische Bildung in der Polizei, die Ablehnung moderner Ermittlungssoftware und die aus seiner Sicht zu zurückhaltende Abschiebepraxis aus.",
+    "score": 1
+  }
+}

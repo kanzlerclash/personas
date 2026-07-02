@@ -1,0 +1,113 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:02:13.231Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76996,
+    "output_tokens": 7598,
+    "cached_tokens": 73856,
+    "total_tokens": 84594,
+    "dauer_ms": 140020,
+    "usd": 0.07172775
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Anreize für den Landarzt!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung eines speziellen Landarztstipendienprogramms, das Medizinstudenten finanziell fördert und im Gegenzug eine zehnjährige Tätigkeit im ländlichen Raum verlangt.",
+      "seite": 20,
+      "zitat": "Wir werden deshalb ein spezielles Landarztstipendienprogramm auflegen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petra sorgt sich seit Jahren um die Praxisnachfolge und die Versorgung ihrer alternden Patienten. Ein Stipendienprogramm, das junge Ärzte gezielt an den ländlichen Raum bindet, trifft genau ihren dringendsten Wunsch nach langfristiger Sicherung der Daseinsvorsorge.",
+      "begruendung_selbst": "Wenn ich in Rente gehe, steht hier niemand bereit. Endlich gibt es einen Plan, junge Kollegen aufs Land zu holen, damit meine Patienten nicht im Stich gelassen werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit dem Wartezimmer im Amt!",
+      "thema": "demokratie",
+      "programmpunkt": "Einführung einer Genehmigungsfiktion, wonach Anträge automatisch als genehmigt gelten, wenn Behörden vorgeschriebene Entscheidungsfristen überschreiten.",
+      "seite": 17,
+      "zitat": "Wenn eine Behörde die vorgeschriebene Entscheidungsfrist überschreitet, gilt der Antrag automatisch als genehmigt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Praxisinhaberin verbringt Petra unzählige Stunden mit Anträgen für Geräte, Umbauten oder Fördermittel. Die Aussicht, dass behördliche Untätigkeit automatisch zu einer Genehmigung führt, verspricht ihr eine massive zeitliche Entlastung im Praxisalltag.",
+      "begruendung_selbst": "Ich behandle gern Menschen – aber ich verbringe halbe Tage mit Formularen. Wenn das Amt trödelt, soll mein Antrag endlich automatisch durchgehen, statt dass ich wochenlang hinterher telefonieren muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung statt Zentralisierung!",
+      "thema": "gesundheit",
+      "programmpunkt": "Ablehnung der Schließung ländlicher Krankenhäuser und explizite Unterstützung für mobile Arztpraxen sowie Telemedizin, um die Daseinsvorsorge im ländlichen Raum zu erhalten.",
+      "seite": 15,
+      "zitat": "Wir werden mobile Arztpraxen, Telemedizin und verbesserte Klinikstrukturen in den Landkreisen unterstützen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra erlebt täglich, wie schwer es für ihre mobilitätseingeschränkten Patienten ist, weite Wege auf sich zu nehmen. Pragmatische Lösungen wie mobile Praxen und der Erhalt lokaler Strukturen bestätigen ihren Ansatz, die Versorgung dort zu lassen, wo die Menschen leben.",
+      "begruendung_selbst": "Meine Patienten können nicht mal eben 40 Kilometer ins nächste Krankenhaus fahren. Mobile Praxen und der Erhalt der lokalen Strukturen sind genau das, was wir hier draußen brauchen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ohne ausländische Kollegen kollabiert das System!",
+      "thema": "gesundheit",
+      "programmpunkt": "Ablehnung der Beschäftigung ausländischer Ärzte aufgrund angeblicher Sprachbarrieren und kultureller Differenzen; Fokus ausschließlich auf im Inland ausgebildete Medizinstudenten.",
+      "seite": 20,
+      "zitat": "Ausländische Ärzte aber sind wegen der Sprachbarriere und kultureller Differenzen oft kaum geeignet",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra weiß aus der Praxisrealität, dass das ländliche Gesundheitssystem ohne ausländische Ärztinnen und Ärzte bereits heute zusammenbrechen würde. Diese pauschale Abwertung und der Verzicht auf diese Fachkräfte gefährden die Versorgung ihrer Patienten und erhöhen ihren eigenen Arbeitsdruck massiv.",
+      "begruendung_selbst": "Ohne meine ausländischen Kolleginnen und Kollegen, die hier im Krankenhaus und in den Praxen Dienst schieben, wäre die Versorgung schon längst zusammengebrochen. Diese Polemik hilft meinen Patienten kein Stück.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Flexibilität in der Pflege zerstört!",
+      "thema": "gesundheit",
+      "programmpunkt": "Forderung nach Rückkehr zur getrennten Ausbildung in Alten-, Kranken- und Kinderkrankenpflege anstelle der generalistischen Pflegeausbildung.",
+      "seite": 20,
+      "zitat": "Wir werden deshalb zur differenzierten Pflegeausbildung zurückkehren.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "In der ländlichen Versorgung ist Petra auf flexible, generalistisch ausgebildete Pflegedienste angewiesen, die sich um ihre älteren Patienten kümmern. Eine Rückkehr zur starren Trennung der Pflegeberufe verschärft den Personalmangel und erschwert die häusliche Versorgung ihrer Patienten.",
+      "begruendung_selbst": "Auf dem Land brauche ich Pflegedienste, die flexibel einsetzbar sind. Wenn wir die Ausbildung wieder aufsplitten, finden wir noch weniger Personal für die häusliche Versorgung meiner alten Patienten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie-Chaos statt echter Entlastung!",
+      "thema": "demokratie",
+      "programmpunkt": "Pauschale Kürzung der Ministeriumsausgaben um 10 Prozent und Abschaffung des Landesverwaltungsamts zur Reduzierung von Strukturen.",
+      "seite": 17,
+      "zitat": "Diese überflüssige Mittelbehörde schafft vor allem Doppelstrukturen und Bürokratie. Deshalb gehört sie abgeschafft.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra wünscht sich weniger Bürokratie, aber keine ungesteuerten Strukturreformen. Die ersatzlose Streichung von Behörden und pauschale Kürzungen drohen, Zuständigkeiten im Gesundheitswesen ins Chaos zu stürzen, was Genehmigungen für ihre Praxis noch unberechenbarer machen würde.",
+      "begruendung_selbst": "Ich will weniger Formulare, keinen Behörden-Irrsinn. Wenn Ämter einfach abgeschafft oder pauschal kaputtgespart werden, weiß am Ende niemand mehr, wer für meine Praxiszulassung oder den Hygieneplan zuständig ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ideologie statt sachlicher Gesundheitspolitik!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einsetzung eines Untersuchungsausschusses zur Corona-Politik mit der Prämisse, dass alle Maßnahmen und Impfstoffe pauschal als Unrecht und gefährlich bewertet werden.",
+      "seite": 20,
+      "zitat": "Alle Strafen und Verurteilungen für Verstöße gegen die Maßnahmen waren Unrecht.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Medizinerin schätzt Petra evidenzbasierte, sachorientierte Politik. Die stark ideologische und polarisierende Aufarbeitung der Corona-Zeit, die wissenschaftliche Erkenntnisse pauschal abtut, widerspricht ihrem ärztlichen Ethos und lenkt von den echten Strukturproblemen im Gesundheitswesen ab.",
+      "begruendung_selbst": "Wir Ärzte brauchen evidenzbasierte Entscheidungen und keine ideologischen Schauprozesse. Diese ständige Polarisierung lenkt nur davon ab, dass wir endlich die echten Probleme im ländlichen Gesundheitswesen anpacken müssen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra begrüßt die expliziten Maßnahmen gegen den Landarztmangel, wie das Stipendienprogramm und die Förderung mobiler Praxen, sowie den Ansatz der Genehmigungsfiktion zur Bürokratieentlastung. Gleichzeitig schrecken sie die pauschale Ablehnung ausländischer Fachkräfte, die Rückkehr zur starren Pflegeausbildung und die ideologische Corona-Aufarbeitung massiv ab. Als pragmatische Medizinerin sieht sie in der Mischung aus sinnvollen Versorgungsansätzen und realitätsferner, polarisierender Ideologie keine verlässliche Grundlage für die Sicherung der ländlichen Daseinsvorsorge.",
+    "score": -1
+  }
+}

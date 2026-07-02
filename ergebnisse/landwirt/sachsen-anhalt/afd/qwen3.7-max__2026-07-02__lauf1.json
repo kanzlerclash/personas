@@ -1,0 +1,125 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:05:37.969Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 77029,
+    "output_tokens": 11202,
+    "cached_tokens": 73856,
+    "total_tokens": 88231,
+    "dauer_ms": 204735,
+    "usd": 0.09839025
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Schluss mit der Wolfsromantik!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Das Wolfskompetenzzentrum soll abgeschafft und die Wolfspopulation gezielt reguliert werden, um Weidetierhaltung zu schützen.",
+      "seite": 14,
+      "zitat": "Daher werden wir das umstrittene Wolfskompetenzzentrum abschaffen und die Population gezielt regulieren.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank verliert regelmäßig Tiere oder muss teure Schutzmaßnahmen ergreifen, während die Politik den Wolf romantisiert. Die Forderung nach Bestandsregulation und Abschaffung des Kompetenzzentrums spricht ihm direkt aus der Seele und bestätigt seinen Wunsch nach pragmatischem Herdenschutz.",
+      "begruendung_selbst": "Ich hab nichts gegen Naturschutz — aber nicht, wenn er auf meinem Rücken ausgetragen wird und meine Kühe reißt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Steuern auf unser Bewässerungswasser!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Besteuerung von Bewässerungswasser (Wassercent) soll zurückgenommen werden, da sie die Produktionskosten und Lebensmittelpreise erhöht.",
+      "seite": 14,
+      "zitat": "Die Besteuerung von Bewässerungswasser durch den sogenannten Wassercent muss daher zurückgenommen werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "In der trockenen Altmark ist Frank auf Bewässerung angewiesen, um Ernteausfälle zu verhindern. Eine zusätzliche Abgabe auf Wasser empfindet er als reine Schikane, die seine ohnehin knappen Margen weiter auffrisst.",
+      "begruendung_selbst": "Wenn im Juli der Boden staubt, muss ich wässern. Dass der Staat mir dafür noch eine Extra-Steuer abknöpft, ist ein Witz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Brüsseler Stilllegungs-Wahnsinn stoppen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die EU-Wiederherstellungsverordnung und übergriffige Green-Deal-Vorgaben werden als bauernfeindlich abgelehnt und sollen gestoppt werden.",
+      "seite": 14,
+      "zitat": "Übergriffige EU-Vorgaben im Rahmen des Green Deal lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fürchtet, dass neue EU-Vorgaben zur Renaturierung und Flächenstilllegung seine Bewirtschaftung weiter einschränken und Erträge mindern. Die klare Ablehnung dieser Brüsseler Pläne bestätigt seine Hoffnung auf weniger Gängelung aus der Ferne.",
+      "begruendung_selbst": "Jedes Jahr eine neue Verordnung aus Brüssel. Wann soll ich da eigentlich noch Landwirtschaft machen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Boden gehört den Bauern, nicht Investoren!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Ein neues Agrarstrukturgesetz soll ortsansässige Familienbetriebe beim Landkauf bevorzugen und Spekulation durch außerlandwirtschaftliche Investoren unterbinden.",
+      "seite": 14,
+      "zitat": "Nur der Landwirt, der tatsächlich vor Ort verwurzelt ist, kann die Gemeinschaft nachhaltig unterstützen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank kämpft mit ortsfernen Investoren, die bei Bodenverkäufen die Preise treiben und die Pachtflächen aufkaufen. Die Forderung nach einem Agrarstrukturgesetz, das lokale Betriebe schützt, trifft genau seinen Nerv bezüglich der Existenzsicherung und Hofnachfolge.",
+      "begruendung_selbst": "Wenn die Hedgefonds aus der Stadt das Land aufkaufen, kann meine Tochter den Hof gleich in die Wand fahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weg mit der CO2-Abzocke!",
+      "thema": "energie",
+      "programmpunkt": "Die CO2-Steuer soll abgeschafft werden, da sie Verbraucher und Betriebe massiv belastet, ohne das Weltklima zu retten.",
+      "seite": 13,
+      "zitat": "Die sogenannte CO₂-Abgabe führt zu einer massiven Mehrbelastung für Verbraucher.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Landwirt ist Frank auf Diesel für Traktoren und Energie für Trocknung und Kühlung angewiesen. Die CO2-Bepreisung treibt seine Produktionskosten direkt in die Höhe, ohne dass er ausweichen kann. Die Abschaffung würde ihn finanziell spürbar entlasten.",
+      "begruendung_selbst": "Der Traktor fährt nun mal mit Diesel. Wer mir da CO2-Steuern aufbrummt, macht nur mein Brot teurer.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wer zahlt dann meine Direktzahlungen?",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die EU-Agrarpolitik (GAP) soll renationalisiert und in deutsche Zuständigkeit überführt werden, da sie als Irrweg betrachtet wird.",
+      "seite": 14,
+      "zitat": "Wir wollen den Irrweg der GAP beenden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank ärgert sich zwar über die Bürokratie der GAP, aber die europäischen Direktzahlungen sind die finanzielle Lebensader seines Betriebs. Eine Renationalisierung auf Landesebene würde bei klammen Landeshaushalten vermutlich massive Förderkürzungen bedeuten und seine Existenz gefährden.",
+      "begruendung_selbst": "Die Brüsseler Bürokratie ist ein Mist, klar. Aber wenn das Land meine Flächenprämien zahlen muss, bin ich morgen pleite.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Die Dürre ist doch real!",
+      "thema": "klima",
+      "programmpunkt": "Die These vom menschengemachten Klimawandel wird als globalistische Logik abgelehnt; Klimaanpassung wird über Heimatschutz definiert.",
+      "seite": 13,
+      "zitat": "Die globalistische Klimarettungslogik der Altparteien basiert auf der These vom angeblich menschengemachten Klimawandel.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Frank erlebt auf seinen Feldern in der Altmark die zunehmenden Dürreperioden und Wetterextreme. Die pauschale Leugnung des Klimawandels durch die AfD widerspricht seinen praktischen Beobachtungen als Landwirt und wirkt auf ihn wie eine ideologische Realitätsverweigerung, die ihm bei der Anpassung seiner Anbaustrategien nicht hilft.",
+      "begruendung_selbst": "Ich bin doch nicht blind. Wenn der Boden im Mai schon staubt und die Ernte vertrocknet, hilft mir kein Leugnen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wer hilft mir dann bei der Ernte?",
+      "thema": "integration",
+      "programmpunkt": "Es soll ein sofortiger und totaler Aufnahmestopp für Nicht-EU-Ausländer verhängt werden, da die Aufnahmekapazitäten erschöpft seien.",
+      "seite": 5,
+      "zitat": "Noch existiert kein Grundrecht für Nicht-Deutsche, nach Deutschland einwandern zu können.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "In der Landwirtschaft sind Saisonarbeitskräfte aus dem Nicht-EU-Ausland oft unverzichtbar für die Ernte. Ein pauschaler Aufnahmestopp und die Fokussierung auf Remigration ignorieren die harte Realität der landwirtschaftlichen Betriebsabläufe und würde Frank im Stich lassen.",
+      "begruendung_selbst": "Die Jungs aus dem Osten sind die einzigen, die bei 30 Grad im Juli noch Spargel und Beeren stechen. Ohne die steht hier alles still.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank würde das Programm in den Kernthemen Wolf, Bürokratieabbau und Bodenschutz stark unterstützen, da es seine täglichen Existenzsorgen direkt adressiert. Die pauschale Leugnung des Klimawandels und die Gefahr von Förderkürzungen durch eine Renationalisierung der EU-Agrarpolitik stoßen bei ihm jedoch auf Unverständnis und widersprechen seiner praktischen Erfahrung. Insgesamt überwiegt für ihn der pragmatische Nutzen der agrarpolitischen Forderungen, weshalb er der Partei trotz gewisser ideologischer Überzeichnungen eine Chance geben würde.",
+    "score": 1
+  }
+}

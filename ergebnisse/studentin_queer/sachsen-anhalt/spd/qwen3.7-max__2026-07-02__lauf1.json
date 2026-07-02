@@ -1,0 +1,113 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:20:24.854Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39906,
+    "output_tokens": 7408,
+    "cached_tokens": 37888,
+    "total_tokens": 47314,
+    "dauer_ms": 135274,
+    "usd": 0.0606095
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Schutz für unsere Community!",
+      "thema": "demokratie",
+      "programmpunkt": "Einführung eines Landes-Antidiskriminierungsgesetzes und Ausbau der Fachzentren für geschlechtliche Vielfalt zu interdisziplinären Versorgungs- und Beratungsstellen.",
+      "seite": 23,
+      "zitat": "Mit einem Landes-Antidiskriminierungsgesetz stärken wir die Rechte der Betroffenen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule begrüßt die gesetzliche Verankerung von Minderheitenschutz und den Ausbau queerer Infrastruktur, da sie sich um den Abbau von Gleichstellungsprogrammen sorgt und auf staatlichen Schutz hofft.",
+      "begruendung_selbst": "Dass queere Beratungsstellen endlich fest finanziert und ausgebaut werden und wir ein echtes Antidiskriminierungsgesetz bekommen, ist für mich und meine Community überlebenswichtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Solarpower für die WG!",
+      "thema": "energie",
+      "programmpunkt": "Förderung von Mieterinnen und Mietern mit geringem Einkommen bei der Anschaffung von Balkonsolaranlagen und Speichern.",
+      "seite": 6,
+      "zitat": "Zudem fördern wir Mieterinnen und Mieter mit geringem Einkommen bei Balkonsolaranlagen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Studentin mit knappem Budget in einer Miet-WG trifft sie die Förderung direkt, da sie so an der Energiewende teilhaben und Stromkosten senken kann, ohne Eigentümerin zu sein.",
+      "begruendung_selbst": "Endlich denkt mal jemand an uns Mieterinnen! Ich kann mir keine eigene Dachanlage leisten, aber mit Balkonsolar und Speicher kann ich wenigstens selbst was machen und sparen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietdruck endlich ernst nehmen!",
+      "thema": "bildung",
+      "programmpunkt": "Stärkung der Studierendenwerke, um bezahlbares Wohnen und soziale Infrastruktur für Studierende zu sichern.",
+      "seite": 13,
+      "zitat": "Studierendenwerke werden gestärkt, um bezahlbares Wohnen, Beratung und soziale Infrastruktur",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt in einer WG und spürt den Druck auf dem Wohnungsmarkt. Die Stärkung der Studierendenwerke als Akteure für bezahlbaren Wohnraum gibt ihr Hoffnung auf Entlastung.",
+      "begruendung_selbst": "Die Mieten in Halle fressen mein halbes BAföG. Wenn die Studierendenwerke jetzt mehr Rückhalt für bezahlbaren Wohnraum bekommen, ist das ein echtes Signal.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queere Freiräume sind unverhandelbar!",
+      "thema": "demokratie",
+      "programmpunkt": "Verstetigung und Ausbau des queeren Jugendbudgets sowie Förderung selbstorganisierter Räume wie der Queer*Spaces.",
+      "seite": 17,
+      "zitat": "Das Modellprojekt des Queeren Jugendbudgets wird ausgebaut und verstetigt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Erhalt und Ausbau queerer Schutz- und Freiräume ist für Jule essenziell, da sie diese als wichtigen Teil ihrer Identität und ihres Aktivismus erlebt.",
+      "begruendung_selbst": "Queer*Spaces und eigene Budgets sind keine netten Extras, sondern sichere Orte, an denen wir einfach wir selbst sein können. Gut, dass das festgeschrieben wird.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "A143 ist ein Klimaverbrechen!",
+      "thema": "verkehr",
+      "programmpunkt": "Weiterverfolgung zentraler Bundesstraßenprojekte wie der A 14, A 143 und A 38 sowie Neubau von Elbbrücken.",
+      "seite": 27,
+      "zitat": "zentrale Bundesstraßenprojekte wie A 14, A 143 und A 38",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Klimaaktivistin in Halle ist der Weiterbau der A143 für Jule ein rotes Tuch, da er Zementierung von Auto-Infrastruktur und Flächenversiegelung bedeutet und ihrer Forderung nach Verkehrswende diametral widerspricht.",
+      "begruendung_selbst": "Wir demonstrieren seit Jahren gegen die A143, weil sie massive Natur zerstört und uns in die fossile Sackgasse zwingt. Dass die SPD das immer noch pushen will, ist ein Schlag ins Gesicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Studis beim ÖPNV wieder vergessen!",
+      "thema": "verkehr",
+      "programmpunkt": "Ziel einer kostenlosen Beförderung im ÖPNV, das jedoch explizit nur Schüler, Auszubildende und Freiwilligendienstleistende einschließt, nicht aber Studierende.",
+      "seite": 26,
+      "zitat": "Wir streben eine kostenlose Beförderung von Schülern, Auszubildenden und Freiwilligendienstleistenden an.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule ist auf den ÖPNV angewiesen und hat ein knappes Budget. Dass Studierende bei der Forderung nach kostenloser Mobilität ausgespart werden, ärgert sie, da es ihre finanzielle Belastung ignoriert.",
+      "begruendung_selbst": "Warum werden wir Studis beim kostenlosen Ticket wieder rausgelassen? Mein Semesterticket wird auch immer teurer, und mein BAföG reicht hinten und vorne nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CCS ist nur ein Feigenblatt!",
+      "thema": "klima",
+      "programmpunkt": "Aufbau einer Landeskoordinierungsstelle für künftige Wasserstoff- und Kohlendioxid-Infrastrukturen (CCS) sowie Fokus auf Anschlussprogramme für Kohleregionen ohne Forderung nach vorgezogenem Ausstieg.",
+      "seite": 6,
+      "zitat": "Sie soll zur Landeskoordinierungsstelle für die künftigen Wasserstoff- und Kohlendioxid-Infrastrukturen werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht in CCS-Plänen und dem Festhalten an Kohle-Strukturen eine Verzögerungstaktik der fossilen Industrie, die ihre Hoffnung auf eine konsequente und schnelle Energiewende untergräbt.",
+      "begruendung_selbst": "CO2-Infrastrukturen sind doch nur ein Feigenblatt für die Industrie, um weiter fossile Geschäfte zu machen. Wir brauchen den sofortigen Ausstieg, keine neuen Pipelines für Treibhausgase!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule honoriert die klaren Bekenntnisse zu queerer Infrastruktur, dem Antidiskriminierungsgesetz und der Förderung von Balkonsolar für Mieterinnen. Gleichzeitig erzürnt sie das Festhalten an fossilen Großprojekten wie der A143 und CCS-Infrastrukturen sowie die finanzielle Benachteiligung von Studierenden im ÖPNV, was ihre Hoffnung auf eine radikale Klima- und Verkehrswende enttäuscht.",
+    "score": 0
+  }
+}

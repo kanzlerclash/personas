@@ -1,0 +1,149 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:58:07.977Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41094,
+    "output_tokens": 9120,
+    "cached_tokens": 39168,
+    "total_tokens": 50214,
+    "dauer_ms": 168222,
+    "usd": 0.07008075
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Pflegedoku-Wahnsinn!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will die Pflegedokumentation radikal entschlacken: Nur noch Abweichungen von der vereinbarten Leistung sollen dokumentiert werden, Mehrfachdokumentationen und nutzlose Statistikabfragen werden abgeschafft.",
+      "seite": 69,
+      "zitat": "Dokumentiert werden soll künftig vor allem dann, wenn von vereinbarten pflegerischen Leistungen abgewichen wird.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin verbringt einen erheblichen Teil ihrer Schicht mit Dokumentation statt mit Patient:innen. Die Aussicht, nur noch Abweichungen dokumentieren zu müssen und von Mehrfachdokumentationen befreit zu werden, trifft einen ihrer größten Schmerzpunkte im Arbeitsalltag.",
+      "begruendung_selbst": "Wenn ich endlich nicht mehr jeden Handgriff dreifach aufschreiben muss, hab ich wieder Zeit für die Menschen, die mich brauchen. Das wäre ein echter Gamechanger auf Station.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Anerkennung ausländischer Abschlüsse – ja bitte!",
+      "thema": "integration",
+      "programmpunkt": "Die FDP will die Anerkennung ausländischer Pflegeabschlüsse beschleunigen. Pflegekräfte sollen vorläufig arbeiten dürfen, sobald Unterlagen und Sprachkenntnisse vorliegen; die Kenntnisprüfung soll direkt in den Einrichtungen möglich sein.",
+      "seite": 70,
+      "zitat": "Pflegekräfte sollen vorläufig arbeiten dürfen, sobald alle erforderlichen Unterlagen und nötige Sprachkenntnisse vorliegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station läuft nur, weil migrantische Kolleg:innen mittragen. Schnellere Anerkennung und pragmatische Zugänge bedeuten für sie direkt mehr Personal und Entlastung – genau das, was sie sich am dringendsten wünscht.",
+      "begruendung_selbst": "Meine Kollegin aus den Philippinen wartet seit Monaten auf ihre Anerkennung, dabei brauchen wir sie jeden Tag. Wenn das jetzt schneller geht, atme ich auf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schichtzuschläge bleiben – gut so!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will flexible Arbeitszeitmodelle und Schichtzuschläge auf Stundenlohnbasis in der Pflege erhalten und gezielt weiterentwickeln, um den Beruf mit dem persönlichen Lebensentwurf vereinbarer zu machen.",
+      "seite": 69,
+      "zitat": "Flexible Arbeitszeitmodelle sowie Schichtzuschläge auf Stundenlohnbasis wollen wir erhalten und gezielt weiterentwickeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin arbeitet im Schichtdienst und ist auf die Zuschläge angewiesen, um ihr Einkommen zu stabilisieren. Dass diese Zuschläge explizit erhalten und weiterentwickelt werden sollen, bestätigt ihr finanzielles Interesse und ihre Arbeitsrealität.",
+      "begruendung_selbst": "Die Nacht- und Wochenendzuschläge sind das Einzige, was den Schichtdienst halbwegs erträglich macht. Gut, dass die nicht angetastet werden sollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ambulant vor stationär – richtig!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP bekennt sich zum Grundsatz 'Ambulant vor stationär' und will häusliche Pflege und Heimpflege als Partner gestalten, die sich ergänzen.",
+      "seite": 70,
+      "zitat": "Wir befürworten hierbei den Grundsatz: „Ambulant vor stationär\"",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt im Krankenhaus täglich, wie Patient:innen aufgenommen werden, die mit besserer ambulanter Versorgung zu Hause bleiben könnten. Eine Stärkung der ambulanten Strukturen entlastet aus ihrer Sicht auch die Kliniken.",
+      "begruendung_selbst": "Wir haben Betten belegt mit Leuten, die zu Hause viel besser aufgehoben wären – wenn die ambulante Pflege endlich funktionieren würde.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kapitalgedeckte Pflege? Nein danke!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will die Pflegeversicherung umfassend reformieren: Versicherungsfremde Leistungen streichen, ein kapitalgedecktes Element ergänzen und Anreize für private sowie betriebliche Vorsorge stärken.",
+      "seite": 70,
+      "zitat": "ein kapitalgedecktes Element muss wie bei der Krankenversicherung ergänzt und Anreize für private sowie betriebliche Vorsorge gestärkt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin sieht die Pflegeversicherung als Solidarsystem, das verlässlich für alle da sein muss. Ein kapitalgedecktes Element und der Fokus auf private Vorsorge bedeuten aus ihrer Sicht, dass Menschen mit niedrigem Einkommen – wie viele Pflegekräfte selbst – im Alter schlechter abgesichert sind.",
+      "begruendung_selbst": "Ich verdiene nicht so viel, dass ich mir noch eine private Pflegevorsorge leisten kann. Wenn die Solidargemeinschaft aufgeweicht wird, bin ich die Dumme.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kommunalisierung abgelehnt – wer trägt dann?",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP lehnt eine Kommunalisierung der Pflege ausdrücklich ab und setzt stattdessen auf unternehmerische Freiheit und klare Zuständigkeiten.",
+      "seite": 70,
+      "zitat": "Eine Kommunalisierung der Pflege lehnen wir ab",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist skeptisch gegenüber Privatisierung und Ökonomisierung im Gesundheitswesen. Die Betonung von 'unternehmerischer Freiheit' statt öffentlicher Verantwortung bestätigt ihre Sorge, dass Renditeinteressen vor Versorgungsqualität gehen.",
+      "begruendung_selbst": "Unternehmerische Freiheit in der Pflege? Das heißt doch nur, dass wieder jemand Profit machen will, während wir die Arbeit machen und die Patienten die Zeche zahlen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschiebungen – und meine Kollegin?",
+      "thema": "integration",
+      "programmpunkt": "Die FDP will irreguläre Migration konsequent bekämpfen, Abschiebungen effizienter gestalten und eine Abschiebungshafteinrichtung bis Ende 2027 in Betrieb nehmen. Das Bleiberecht soll an Eigenleistung und Bekenntnis zu Grundwerten geknüpft werden.",
+      "seite": 11,
+      "zitat": "Ausreisepflichtige Ausländer müssen zügig das Land verlassen. Hier werden wir an die während der Deutschlandkoalition erreichten Zahlen anknüpfen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin erlebt täglich, dass ihre Station ohne migrantische Kolleg:innen nicht funktionieren würde. Ein harter Migrationskurs und die Betonung von Abschiebungen verunsichern aus ihrer Sicht genau die Menschen, die das System dringend braucht – und verschärfen den Personalmangel.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht – und manche reden, als wären sie das Problem. Wer soll denn hier noch arbeiten, wenn die Leute Angst haben müssen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld kürzen? Falsches Signal!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will das Bürgergeld reformieren, Sanktionen konsequent ausschöpfen, gemeinnützige Arbeitspflichten einführen und Langzeitarbeitslose zur Bürgerarbeit verpflichten. Wer die Teilnahme verweigert, soll mit Leistungskürzungen rechnen.",
+      "seite": 40,
+      "zitat": "Wer als Langzeitarbeitsloser Unterstützung der Solidargemeinschaft erhält, sollte auch selbst einen Beitrag leisten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist solidarisch orientiert und sieht, dass viele Menschen in prekären Situationen stecken, die nicht einfach durch Zwang gelöst werden. Die Rhetorik von 'Bürgerarbeit' und Sanktionen widerspricht ihrem Menschenbild einer Gesellschaft, die die Schwächsten stützt statt drangsaliert.",
+      "begruendung_selbst": "Die Leute, die bei uns auf Station liegen, sind oft genau die, die das System im Stich gelassen hat. Die brauchen Hilfe, keine Zwangsarbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Privatisierung statt Daseinsvorsorge?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP fordert eine umfassende Privatisierungsoffensive bei Landesbeteiligungen an Unternehmen und bewertet Privatisierung als 'hinreichende Ausweitung wirtschaftlicher Freiheit'.",
+      "seite": 9,
+      "zitat": "Für uns ist Privatisierung kein Unwort, sondern eine hinreichende Ausweitung wirtschaftlicher Freiheit.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin hat erlebt, wie Privatisierung im Gesundheitswesen zu Personalabbau und Arbeitsverdichtung führt. Eine generelle Privatisierungsoffensive bei öffentlichen Unternehmen verstärkt ihre Sorge, dass Rendite vor Versorgung und Daseinsvorsorge geht.",
+      "begruendung_selbst": "Immer wenn privatisiert wird, wird gespart – und das trifft am Ende uns, die wir die Arbeit machen, und die Menschen, die versorgt werden müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Wort vom Tarifvertrag!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm fordert die Abschaffung des Tariftreue- und Vergabegesetzes und betont unternehmerische Freiheit, enthält aber keine Aussagen zur Stärkung von Tarifbindung oder allgemeinverbindlichen Tarifverträgen in der Pflege.",
+      "seite": 7,
+      "zitat": "In den kommenden Jahren gilt es, das Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin bewertet Politik daran, ob sie die Personallücke schließt und faire Bezahlung sichert. Die Abschaffung des Tariftreuegesetzes ohne Gegenkonzept für Tarifbindung signalisiert ihr, dass Lohndumping Tür und Tor geöffnet wird – gerade in der Pflege, wo Tarifverträge oft die einzige Absicherung sind.",
+      "begruendung_selbst": "Erst das Tariftreuegesetz abschaffen und dann von 'Wertschätzung' reden? Ohne Tarifvertrag verdienen die Kolleginnen in der privaten Pflege noch weniger als wir jetzt schon.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet bei der FDP einige konkrete Entlastungsversprechen für ihren Arbeitsalltag – insbesondere den Bürokratieabbau in der Pflegedokumentation und die schnellere Anerkennung ausländischer Abschlüsse. Gleichzeitig widersprechen die marktwirtschaftlichen Kernforderungen – kapitalgedeckte Pflegeversicherung, Privatisierungsoffensive, Abbau des Tariftreuegesetzes und der harte migrationspolitische Kurs – grundlegend ihrer solidarischen Haltung und ihren Erfahrungen auf der Station. Für sie überwiegt der Eindruck, dass ökonomische Logik vor Versorgung und Zusammenhalt geht.",
+    "score": -1
+  }
+}

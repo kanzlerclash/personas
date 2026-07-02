@@ -1,0 +1,137 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:46:59.308Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 47042,
+    "output_tokens": 7879,
+    "cached_tokens": 46336,
+    "total_tokens": 54921,
+    "dauer_ms": 144313,
+    "usd": 0.062529
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich bleibt das Ticket bezahlbar!",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will das Deutschlandticket erhalten und den ÖPNV sowie den Sachsen-Anhalt-Takt weiter ausbauen.",
+      "seite": 62,
+      "zitat": "Das Deutschlandticket wollen wir erhalten, allerdings müssen zu künftig vor allem die Bürgerinnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Jule ist das Deutschlandticket essenziell, um Uni, Nebenjob und politisches Engagement im Land bezahlbar zu vernetzen. Die Zusage zum Erhalt und Ausbau des ÖPNV entlastet ihr knappes Budget direkt.",
+      "begruendung_selbst": "Ohne das Deutschlandticket könnte ich mir mein Studium und mein Engagement hier im Land gar nicht leisten. Gut, dass das nicht zur Disposition steht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mentale Gesundheit wird ernst genommen.",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm verankert Gesundheitsprävention in allen Lebensphasen und gibt Suizidprävention sowie mentaler Gesundheit einen höheren Stellenwert.",
+      "seite": 28,
+      "zitat": "Suizidprävention und mentale Gesundheit erhalten dabei einen höheren Stellenwert.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der psychische Druck im Studium und durch die Klimakrise ist für Jule und ihre Peers ein riesiges Thema. Dass die CDU mentale Gesundheit explizit als politischen Auftrag benennt, trifft einen Nerv und wird von ihr als wichtiger, oft vernachlässigter Schritt wahrgenommen.",
+      "begruendung_selbst": "Der Druck im Studium und die ständige Angst ums Klima machen viele von uns krank. Dass mentale Gesundheit hier endlich als echtes Thema steht, ist überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schule muss endlich digital aufwachen.",
+      "thema": "bildung",
+      "programmpunkt": "Die CDU will Medienkompetenz stärken, KI als Werkzeug im Unterricht integrieren und die kritische Reflexionsfähigkeit gegenüber digitalen Medien fördern.",
+      "seite": 22,
+      "zitat": "Unser Ziel ist es, KI als Werkzeug für kreatives und effektives Lernen zu integrieren.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule nutzt digitale Medien intensiv und ärgert sich oft über die veraltete Ausstattung und das fehlende Know-how an Schulen. Ein Fokus auf echte Medienkompetenz und den Umgang mit KI statt auf Verbote entspricht ihrer progressiven, digitalen Lebensrealität.",
+      "begruendung_selbst": "Wir müssen lernen, mit KI und Algorithmen umzugehen, statt sie zu verbieten. Wenn die Schule da endlich in der Realität ankommt, ist das ein echter Fortschritt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit manipulativen Bots!",
+      "thema": "demokratie",
+      "programmpunkt": "Die CDU will den koordinierten Einsatz von Bots und Fakeaccounts zur Desinformation verbieten und Plattformen stärker in die Pflicht nehmen.",
+      "seite": 36,
+      "zitat": "Den koordinierten Einsatz von Bots und Fakeaccounts zur Desinformation wollen wir verbieten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule informiert sich viel online und ist frustriert über toxische Debatten und gezielte Desinformationskampagnen, die oft Minderheiten oder Klimathemen angreifen. Ein Vorgehen gegen koordinierte Bot-Netzwerke stärkt aus ihrer Sicht die demokratische Diskurskultur.",
+      "begruendung_selbst": "Es nervt einfach nur, wenn man online ständig gegen bezahlte Trolle und Bots anreden muss, die das Klima leugnen oder Hass säen. Da muss die Politik endlich durchgreifen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "2038 ist viel zu spät!",
+      "thema": "klima",
+      "programmpunkt": "Die CDU hält am Kohleausstieg erst bis 2038 fest und fördert weiterhin die stoffliche Nutzung von Braunkohle.",
+      "seite": 45,
+      "zitat": "Der vereinbarte Kohleausstieg bis 2038 ist ein politisch und rechtlich verabredeter Konsens.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht in der Klimakrise eine existenzielle Bedrohung ihrer Zukunft. Ein Festhalten am Kohleausstieg erst 2038 und die weitere Förderung der Braunkohlenutzung widersprechen aus ihrer Sicht völlig den notwendigen wissenschaftlichen Zielen zur Einhaltung der 1,5-Grad-Grenze.",
+      "begruendung_selbst": "Es geht nicht um Ideologie — es geht darum, ob ich in zwanzig Jahren noch eine lebenswerte Zukunft habe. 2038 ist ein Todesurteil für das Klima.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Identität ist keine Symbolpolitik!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei wendet sich gegen ein Genderverständnis, das durch Sprachregelungen ausgedrückt wird, und bezeichnet dies als Symbolpolitik ohne Akzeptanz.",
+      "seite": 33,
+      "zitat": "Wir wenden uns gegen ein Genderverständnis, das die Gleichwertigkeit der Geschlechter durch Sprachregelungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als queere Person fühlt sich Jule durch die pauschale Abwertung von geschlechtlicher Vielfalt und Gender-Sprache als 'Symbolpolitik' unsichtbar gemacht und ausgegrenzt. Sie empfindet konservative Gesellschaftsbilder als direkt feindlich gegenüber ihrer Lebensrealität.",
+      "begruendung_selbst": "Wenn eine Partei meine Rechte und meine Identität zur Verhandlungsmasse oder 'Symbolpolitik' macht, weiß ich genug. Das ist einfach nur ausgrenzend.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz als 'ideologisch' abtun?",
+      "thema": "klima",
+      "programmpunkt": "Die CDU will auf EU-Ebene ideologisch getriebene Klima- und Umweltvorgaben wie die Taxonomieverordnung oder CO2-Abgaben zurücknehmen, um die Industrie zu schützen.",
+      "seite": 90,
+      "zitat": "Wir bekämpfen praxisferne und ideologisch getriebene Vorgaben für unsere Industrie.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule betrachtet die Abwehr von EU-Klimastandards zugunsten der Industrie als zynisch. Für sie ist das kein 'Ideologie-Abbau', sondern das aktive Torpedieren von Klimagerechtigkeit zugunsten fossiler und umweltschädlicher Wirtschaftsinteressen.",
+      "begruendung_selbst": "Klimaschutz als 'ideologisch' abzutun, während die Industrie weiter die Zukunft verheizt, ist genau das, was mich an dieser Politik so wütend macht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mieten dürfen weiter explodieren.",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU lehnt Markteingriffe wie Mietpreisdeckel ab und setzt stattdessen auf Eigentumsförderung und sozialen Wohnungsbau.",
+      "seite": 65,
+      "zitat": "Wir lehnen ideologisch motivierte Markteingriffe wie Mietpreisdeckel, willkürliche Enteignungen und weitere Eingriffe",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mit ihrem knappen Budget und der Abhängigkeit von BAföG und Nebenjob trifft Jule der freie Wohnungsmarkt in der Universitätsstadt hart. Die pauschale Ablehnung von Mietpreisbremsen ignoriert aus ihrer Sicht die reale Not von Studierenden und Geringverdienenden.",
+      "begruendung_selbst": "Leicht gesagt, wenn man kein WG-Zimmer für unter 500 Euro findet. 'Markteingriffe' sind für mich einfach nur der Schutz von Vermieterprofiten auf meine Kosten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Agrarindustrie bekommt Freifahrt.",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Land- und Forstwirtschaft soll von einem weiteren Anstieg der CO2-Kosten ausgenommen und der energieintensiven Industrie gleichgestellt werden.",
+      "seite": 42,
+      "zitat": "Die Land- und Forstwirtschaft werden von einem weiteren Anstieg der CO2-Kosten ausgenommen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule fordert Klimagerechtigkeit und sieht nicht ein, warum große Agrarbetriebe und die industrielle Landwirtschaft von den Kosten der Klimakrise freigestellt werden sollen, während sie als Privatperson jeden Cent umdrehen muss.",
+      "begruendung_selbst": "Warum muss ich als Studentin jeden Cent zweimal umdrehen, während die Agrarindustrie einfach einen Freifahrtsschein für ihre Emissionen bekommt?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule schätzt pragmatische Ansätze wie den Erhalt des Deutschlandtickets und den Fokus auf mentale Gesundheit, die ihren studentischen Alltag direkt entlasten. Gleichzeitig entfremdet sie das Programm jedoch zutiefst: Das Festhalten am Kohleausstieg 2038 und die Abwehr von EU-Klimastandards bedrohen aus ihrer Sicht ihre Zukunft, während die Abwertung von Gender-Sprache und die Ablehnung von Mietpreisdeckeln ihre Lebensrealität als queere Person mit knappem Budget ignorieren.",
+    "score": -1
+  }
+}

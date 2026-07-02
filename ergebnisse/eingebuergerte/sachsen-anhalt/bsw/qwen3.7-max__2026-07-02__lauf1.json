@@ -1,0 +1,101 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:50:36.688Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66033,
+    "output_tokens": 7445,
+    "cached_tokens": 0,
+    "total_tokens": 73478,
+    "dauer_ms": 138807,
+    "usd": 0.13250625
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Leistung zählt, nicht Herkunft.",
+      "thema": "integration",
+      "programmpunkt": "Anerkennung von arbeitenden Migranten als selbstverständlicher Teil der gesellschaftlichen Mitte und Schutz vor Abschiebung bei Erwerbstätigkeit.",
+      "seite": 63,
+      "zitat": "gehört selbstverständlich zur Mitte der Gesellschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin fühlt sich durch diesen Satz in ihrem Status als arbeitende Bürgerin validiert. Er bestätigt ihren 'gesellschaftlichen Vertrag': Wer sich einbringt und Steuern zahlt, verdient Anerkennung und Sicherheit, unabhängig vom Pass.",
+      "begruendung_selbst": "Endlich sagt mal jemand klar: Wer hier rackert und Steuern zahlt, ist Teil des Ganzen. Das ist der Deal, auf den ich mich verlasse und der mich hier hält.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ich darf ich selbst bleiben.",
+      "thema": "integration",
+      "programmpunkt": "Feststellung, dass Integration nicht die Aufgabe der eigenen kulturellen Identität oder Religion bedeutet, sondern Einbindung bei Akzeptanz der Rechtsordnung.",
+      "seite": 64,
+      "zitat": "Integration bedeutet nicht Aufgabe der eigenen kulturellen Identität",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dieser Punkt nimmt den Druck der Assimilation. Aylin schätzt die Perspektive, dass sie ihre Wurzeln behalten kann, ohne als 'fremd' oder illoyal markiert zu werden, solange sie das Grundgesetz achtet.",
+      "begruendung_selbst": "Ich bin Deutsche, aber meine Wurzeln gehören zu mir. Gut, dass das hier nicht als Widerspruch gesehen wird, sondern als Normalität.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verwaltung braucht Köpfe, nicht nur Akten.",
+      "thema": "arbeit",
+      "programmpunkt": "Forderung nach gezielter Weiterbildung für Verwaltungsmitarbeiter und Qualifizierung für den digitalen Wandel statt bloßer Technik-Einführung.",
+      "seite": 74,
+      "zitat": "Verwaltungsmitarbeiter brauchen gezielte Weiterbildungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Angestellte im öffentlichen Dienst fühlt sich Aylin oft im digitalen Wandel alleingelassen. Das Versprechen auf Qualifizierung statt Überforderung trifft ihren Berufsalltag und ihren Wunsch nach professionellen Standards.",
+      "begruendung_selbst": "Wir im Amt wollen ja gut arbeiten, aber die Tools und das Wissen fehlen oft. Wenn hier endlich in uns Köpfe investiert wird, bin ich dabei.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kinder sind keine Quote!",
+      "thema": "integration",
+      "programmpunkt": "Forderung nach einer Obergrenze von 30% für 'Ausländerkinder' in Kitas und Schulen sowie deren zwangsweise Verteilung auf andere Einrichtungen.",
+      "seite": 65,
+      "zitat": "Quote von 30 % nicht überschritten werden sollte.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin ist schockiert über den Begriff 'Ausländerkinder' und den planwirtschaftlichen Ansatz, Kinder wie Waren zu verteilen. Sie sieht darin eine tiefe Stigmatisierung und eine Rückkehr zu segregierenden Politiken, die ihre eigene Zugehörigkeit und die der nächsten Generation infrage stellen.",
+      "begruendung_selbst": "Ich nenne das Rassismus im Gewand der Fürsorge. Kinder nach Pass zu sortieren, statt sie gemeinsam lernen zu lassen – das ist nicht mein Deutschland. Das verletzt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnen nach Pass? Niemals!",
+      "thema": "integration",
+      "programmpunkt": "Einführung von Obergrenzen für die Belegung von Wohnungen mit Zuwanderern in bestimmten Vierteln zur Verhinderung von 'Ghettos'.",
+      "seite": 65,
+      "zitat": "Obergrenze für die Belegung von Wohnungen mit Zuwanderern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Der Vorschlag, Wohnraum staatlich nach Herkunft zu kontingentieren, erinnert Aylin an dunkle Zeiten der Ausgrenzung. Für sie ist der Wohnort eine Frage des Marktes und der freien Wahl, nicht der ethnischen Zusammensetzung.",
+      "begruendung_selbst": "Darf ich bald nur noch in bestimmte Viertel ziehen, damit die 'Mischung' stimmt? Das ist staatlich verordnete Segregation. Wo ich wohne, bestimme ich, nicht das Amt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wer ist hier 'heimisch'?",
+      "thema": "integration",
+      "programmpunkt": "Rhetorische Gegenüberstellung von 'heimischer Bevölkerung', die geschützt werden muss, und Migranten als Quelle von Überlastung.",
+      "seite": 62,
+      "zitat": "Die heimische Bevölkerung ist vor Überlastungstendenzen zu schützen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Der Begriff 'heimische Bevölkerung' erzeugt bei Aylin das Gefühl, als Bürgerin zweiter Klasse markiert zu werden, egal wie sehr sie sich anstrengt oder wie lange ihre Familie hier lebt. Es schürt das Klima der Ausgrenzung, unter dem sie im Alltag leidet.",
+      "begruendung_selbst": "Bin ich 'heimisch' genug, oder bleibe ich immer die, vor der man sich 'schützen' muss? Diese Sprache vergiftet das Miteinander und macht mich zur Fremden im eigenen Land.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin sieht im Programm eine widersprüchliche Mischung: Während die Anerkennung von Arbeitsleistung und kultureller Identität ihr Angebot macht, stößt sie sich massiv an den segregierenden Vorschlägen (Quoten für Kinder und Wohnraum) und der ausgrenzenden Rhetorik ('heimische Bevölkerung'). Für sie überwiegt das Gefühl, dass hier strukturelle Ausgrenzung als 'Realismus' verkauft wird, was ihre liberal-demokratischen Werte und ihre persönliche Würde verletzt.",
+    "score": -1
+  }
+}

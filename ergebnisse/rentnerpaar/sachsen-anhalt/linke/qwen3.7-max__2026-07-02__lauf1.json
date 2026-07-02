@@ -1,0 +1,201 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:18:45.291Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82386,
+    "output_tokens": 10371,
+    "cached_tokens": 78336,
+    "total_tokens": 92757,
+    "dauer_ms": 189343,
+    "usd": 0.08937525
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich keine Zwangssanierung!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm fordert eine nach Einkommensklassen gestaffelte Förderung für energetische Sanierung und Heizungstausch bei selbstgenutzten Eigenheimen sowie die Abschaffung der Modernisierungsumlage.",
+      "seite": 85,
+      "zitat": "nach Einkommensklassen gestaffelte Förderung für die energetische Sanierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten Sanierungspflichten, die sie mit ihren kleinen Renten nicht stemmen können. Die Zusage einer einkommensgestaffelten Förderung statt Zwang trifft ihren Kernwunsch: Hilfe statt Druck.",
+      "begruendung_selbst": "Wenn wir das Dach dämmen müssen, von welchem Geld eigentlich? Endlich sagt mal jemand: Wer wenig Rente hat, kriegt Hilfe statt Vorschriften.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rente muss zum Leben reichen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert die Anhebung des Rentenniveaus auf 53 Prozent sowie eine gemeinsame gesetzliche Rentenversicherung, in die alle einzahlen.",
+      "seite": 44,
+      "zitat": "das Rentenniveau im Bund auf 53 Prozent anheben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Ehepaar lebt von kleinen gesetzlichen Renten und plant jeden größeren Posten. Eine Anhebung des Rentenniveaus würde ihre finanzielle Sicherheit direkt verbessern.",
+      "begruendung_selbst": "Wir haben über vierzig Jahre gearbeitet – da darf die Rente nicht zum Armenhaus führen. 53 Prozent klingt vernünftig, das ist doch das Mindeste.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krankenhaus muss bleiben!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will private Krankenhäuser in öffentliche Hand überführen, einen Klinikverbund gründen und die stationäre Versorgung im ländlichen Raum durch integrierte Versorgungszentren sichern.",
+      "seite": 49,
+      "zitat": "Überführung privater Krankenhäuser in die öffentliche Hand",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter sorgen sich um die ärztliche und stationäre Versorgung in ihrem ländlichen Ort. Die Rekommunalisierung von Kliniken und der Erhalt von Notaufnahmen an allen Standorten adressieren ihre Angst vor wegbrechender Infrastruktur.",
+      "begruendung_selbst": "Wenn der Hausarzt aufhört und das nächste Krankenhaus 40 Kilometer weg ist – was machen wir dann? Gut, dass die sagen: Die Klinik bleibt, notfalls in öffentlicher Hand.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heizkosten dürfen nicht erdrücken!",
+      "thema": "energie",
+      "programmpunkt": "Das Programm fordert einen verpflichtenden Sockeltarif für Strom und Wärme, ein Verbot von Strom- und Gassperren sowie einen Härtefallfonds für Energieschulden.",
+      "seite": 106,
+      "zitat": "einen verpflichtenden Sockeltarif für Strom und Wärme",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Steigende Heizkosten sind eine der Hauptsorgen des Ehepaars. Ein Sockeltarif und das Verbot von Sperren geben ihnen die Sicherheit, dass der Grundbedarf bezahlbar bleibt.",
+      "begruendung_selbst": "Im Winter frieren, weil die Rechnung zu hoch ist? Das darf nicht sein. Ein Sockeltarif – das ist doch vernünftig, da weiß man, woran man ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "DDR-Renten endlich anerkennen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will einen Gerechtigkeitsfonds für ehemalige DDR-Beschäftigte einführen, der regelmäßige Ausgleichszahlungen gewährt und die besondere Situation von in der DDR geschiedenen Frauen berücksichtigt.",
+      "seite": 44,
+      "zitat": "Einführung eines Gerechtigkeitsfonds für ehemalige DDR-Beschäftigte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Facharbeiter aus DDR- und Nachwendezeit fühlen sich Helga und Dieter von der Rentenüberleitung benachteiligt. Ein Fonds, der ihre Lebensleistung anerkennt, trifft ihr Gerechtigkeitsempfinden.",
+      "begruendung_selbst": "Wir haben in der DDR genauso geschuftet wie die im Westen – und bei der Rente wurden wir abgehängt. Endlich will das mal jemand korrigieren.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Polizei muss vor Ort sein!",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm fordert mobile Polizeistationen, regelmäßige Bürgersprechstunden und den Ausbau mobiler Hilfsangebote im ländlichen Raum.",
+      "seite": 134,
+      "zitat": "Mobile Polizeistationen, regelmäßige Bürger:innensprechstunden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Ehepaar sorgt sich um Sicherheit und Kriminalität im Ort und fühlt sich abgehängt. Mobile Polizeipräsenz und Sprechstunden signalisieren: Der Staat ist auch auf dem Land da.",
+      "begruendung_selbst": "Bei uns im Dorf passiert auch mal was – und dann ist weit und breit kein Polizist. Gut, wenn die wenigstens regelmäßig vorbeikommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus muss zum Arzt fahren!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will den ÖPNV im ländlichen Raum ausbauen, Rufbusse gesetzlich ermöglichen und mittelfristig einen Nulltarif einführen.",
+      "seite": 101,
+      "zitat": "Rufbusse und Anrufbusse müssen gesetzlich ermöglicht werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Solange Helga und Dieter noch Auto fahren, ist die Versorgung gesichert – aber sie denken voraus. Rufbusse und ein ausgebauter ÖPNV geben ihnen die Perspektive, auch ohne Auto mobil zu bleiben.",
+      "begruendung_selbst": "Irgendwann können wir nicht mehr Auto fahren. Wenn es dann einen Rufbus gibt, der uns zum Arzt bringt – das wäre was. Sonst sind wir gefangen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Keine Experimente mit der Rente!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei lehnt Privatisierungen im Gesundheitswesen ab, will Pflegeeinrichtungen in öffentliche Trägerschaft überführen und eine solidarische Pflegevollversicherung einführen.",
+      "seite": 56,
+      "zitat": "eine solidarische Pflegevollversicherung auf Bundesebene",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Angst vor explodierenden Pflegekosten ist eine Hauptsorge des Ehepaars. Eine Vollversicherung, die Eigenanteile abschafft, nimmt ihnen die größte finanzielle Existenzangst im Alter.",
+      "begruendung_selbst": "Wenn einer von uns ins Heim muss, geht das Haus drauf und die Rente reicht hinten und vorne nicht. Eine Pflegevollversicherung – das wäre die Erlösung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaziele – wer zahlt das?",
+      "thema": "klima",
+      "programmpunkt": "Das Programm fordert Klimaneutralität bis 2035, ein verbindliches CO₂-Budget und eine verpflichtende Klimawirkungsprüfung aller politischen Entscheidungen.",
+      "seite": 121,
+      "zitat": "ein verbindliches CO₂-Budget für Sachsen-Anhalt festlegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter fürchten, dass ambitionierte Klimaziele zu Sanierungspflichten und steigenden Energiekosten führen, die sie nicht tragen können. Das verbindliche CO₂-Budget klingt für sie nach zusätzlichem Druck auf Eigenheimbesitzer.",
+      "begruendung_selbst": "Klimaneutral bis 2035 – das klingt schön, aber wer bezahlt uns die neue Heizung? Wenn das CO₂-Budget kommt, sitzen wir am Ende auf den Kosten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Windrad vor der Haustür?",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will das Flächenziel von 2,2 Prozent für Windenergie umsetzen und Repowering auch außerhalb von Vorranggebieten ermöglichen.",
+      "seite": 107,
+      "zitat": "das Flächenziel von 2,2 Prozent für Windenergie umsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Hausbesitzer in einem Dorf sorgen sich Helga und Dieter um das Landschaftsbild und mögliche Wertverluste ihrer Immobilie durch Windräder in der Nähe. Die Ausweitung der Windkraft auch außerhalb von Vorranggebieten beunruhigt sie.",
+      "begruendung_selbst": "Jetzt sollen auch noch außerhalb der Vorranggebiete Windräder stehen? Wir haben uns das Haus gekauft, weil es ruhig und grün ist – nicht wegen der Industrie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz abschaffen?",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke will den Verfassungsschutz in seiner jetzigen Form abschaffen und durch eine Agentur für Demokratie und Menschenrechte ersetzen, die auf Aufklärung statt Bespitzelung setzt.",
+      "seite": 129,
+      "zitat": "Ein Verfassungsschutz in seiner jetzigen Form ist überflüssig",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Das Ehepaar ist sicherheitsorientiert und verlässt sich auf etablierte staatliche Strukturen. Den Verfassungsschutz als 'überflüssig' zu bezeichnen, widerspricht ihrem Bedürfnis nach staatlicher Schutzfunktion und weckt Misstrauen.",
+      "begruendung_selbst": "Den Verfassungsschutz abschaffen? In Zeiten, wo überall Extremisten unterwegs sind? Da brauchen wir doch mehr Schutz, nicht weniger. Das klingt naiv.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Schulden für das Land?",
+      "thema": "steuern",
+      "programmpunkt": "Das Programm befürwortet eine kurzfristige höhere Verschuldung für Investitionen in Bildung, Gesundheit und Klimaschutz, die langfristig durch Steuerreformen kompensiert werden soll.",
+      "seite": 19,
+      "zitat": "Eine kurzfristige höhere Verschuldung wird langfristig kompensiert",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter sind sparsam und skeptisch gegenüber großen Reformversprechen. Mehr Schulden klingen für sie nach Risiko – besonders, wenn die Kompensation durch Steuerreformen ungewiss ist.",
+      "begruendung_selbst": "Erst mal Schulden machen und dann wird das schon? So haben wir auch nicht gewirtschaftet. Wer garantiert uns, dass das nicht auf unsere Kosten geht?",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Vermögenssteuer trifft auch uns?",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei fordert die Wiedereinführung der Vermögenssteuer mit einem Prozent auf Vermögen über einer Million Euro.",
+      "seite": 17,
+      "zitat": "Eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das abbezahlte Haus ist das Hauptvermögen des Ehepaars. Auch wenn die Freigrenze bei einer Million liegt, fürchten sie, dass bei steigenden Immobilienbewertungen oder Erbschaften auch sie betroffen sein könnten.",
+      "begruendung_selbst": "Unser Haus ist alles, was wir haben. Wenn die Immobilienpreise steigen und plötzlich die Million geknackt ist – sollen wir dann Steuern auf unser Haus zahlen? Das ist doch unser Erspartes.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rundfunkbeitrag bleibt teuer!",
+      "thema": "familie",
+      "programmpunkt": "Das Programm fordert eine progressive Rundfunkfinanzierung, bei der Haushalte bis 30.000 Euro Jahreseinkommen maximal 10 Euro zahlen sollen – aber der Beitrag für andere nicht sinkt.",
+      "seite": 73,
+      "zitat": "Haushalte bis 30.000 Euro Jahreseinkommen maximal 10 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter schauen regelmäßig öffentlich-rechtliches Fernsehen und nutzen die Regionalzeitung. Mit zwei kleinen Renten zusammen könnten sie knapp über der 30.000-Euro-Grenze liegen und weiterhin den vollen Beitrag zahlen, während die Reform ihnen keine Entlastung bringt.",
+      "begruendung_selbst": "Wir gucken jeden Abend die Tagesschau und die MDR-Sendung. Aber billiger wird's für uns nicht – nur für die unter 30.000. Da gucken wir knapp drüber und zahlen wie bisher.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter finden bei der Linken viel Zuspruch bei ihren Kernsorgen: Pflegekosten, Rentenniveau, ärztliche Versorgung auf dem Land und Schutz vor Sanierungszwang. Die Absage an Privatisierung und die Forderung nach öffentlicher Daseinsvorsorge decken sich mit ihrem Wunsch nach Verlässlichkeit. Gleichzeitig irritieren sie die ambitionierten Klimaziele, die sie als Kostentreiber fürchten, sowie sicherheitspolitische Positionen wie die Abschaffung des Verfassungsschutzes. Die Vermögenssteuer macht sie nervös, weil ihr Haus ihr einziges Vermögen ist.",
+    "score": 1
+  }
+}

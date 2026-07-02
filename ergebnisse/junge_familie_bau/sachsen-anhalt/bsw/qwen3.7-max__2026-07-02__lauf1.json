@@ -1,0 +1,88 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:02:23.207Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66063,
+    "output_tokens": 8076,
+    "cached_tokens": 0,
+    "total_tokens": 74139,
+    "dauer_ms": 149998,
+    "usd": 0.13800375
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Schluss mit teuren Bau-Auflagen!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei lehnt verpflichtende QNG-Standards und ähnliche Zertifizierungen ab, da sie Bauen für Normalverdiener unnötig verteuern.",
+      "seite": 31,
+      "zitat": "verpflichtende QNG-Standards oder vergleichbare Zertifizierungen lehnen wir ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica ärgern sich über energetische und bürokratische Vorgaben, die den Hausbau für junge Familien unbezahlbar machen. Die Ablehnung teurer Zertifizierungen bestätigt ihre Forderung nach pragmatischem, bezahlbarem Bauen ohne ideologische Auflagen.",
+      "begruendung_selbst": "Wir wollen ein solides Haus für unsere Kinder, kein teures Öko-Zertifikat, das uns den letzten Cent für die Tilgung nimmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich weniger Kaufnebenkosten!",
+      "thema": "steuern",
+      "programmpunkt": "Das Programm fordert Freibeträge bei der Grunderwerbsteuer sowie die vollständige Abschaffung der Grundsteuer für junge Familien auf selbstgenutztes Wohneigentum.",
+      "seite": 31,
+      "zitat": "Für junge Familien wollen wir darüber hinaus die Grundsteuer auf selbstgenutztes Wohneigentum vollständig abschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Paar mit knappem Eigenkapital belasten die Kaufnebenkosten und laufenden Steuern ihr Budget für die Traumimmobilie massiv. Die gezielte steuerliche Entlastung für Familien und Erstkäufer trifft genau ihren finanziellen Engpass.",
+      "begruendung_selbst": "Jeder Euro, den wir nicht an den Staat zahlen müssen, fließt direkt in unser Eigenkapital oder die Tilgung – das ist echte Familienförderung!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich mehr Bauland für Familien!",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW fordert die Ausweisung zusätzlicher Bauflächen speziell für den Bau von Eigenheimen für Familien und Erstkäufer.",
+      "seite": 31,
+      "zitat": "Ausweisung zusätzlicher Bauflächen ein, insbesondere für den Bau von Eigenheimen für Familien",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im Speckgürtel sind Bauplätze rar und extrem teuer, was ihren Traum vom Eigenheim blockiert. Das explizite Versprechen, neue Flächen gezielt für Familien und Erstkäufer auszuweisen, gibt ihnen Hoffnung auf ein realistisches Angebot.",
+      "begruendung_selbst": "Wir rechnen uns seit Monaten die Grundstückspreise kaputt – wenn die Politik jetzt endlich Flächen für normale Familien ausweist, haben wir vielleicht doch noch eine Chance.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Betreuung auch in den Ferien!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei fordert eine verlässliche Ferien- und Ganztagsbetreuung, um die Lücke zwischen schulfreien Tagen und den Urlaubstagen der Eltern zu schließen.",
+      "seite": 37,
+      "zitat": "das Land Sachsen-Anhalt verlässliche Ferien- und Ganztagsbetreuung finanziert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener mit Kleinkind kennen sie den Stress, wenn Kita- oder Schulferien und Urlaubsanspruch nicht zusammenpassen. Die Forderung nach verlässlicher Betreuung in den Ferienzeiten entlastet ihre berufliche und familiäre Planung direkt.",
+      "begruendung_selbst": "Wir können nicht jedes Mal drei Wochen Urlaub nehmen, wenn die Kita zu ist – eine verlässliche Ferienbetreuung ist für uns beide einfach überlebenswichtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unser Auto bleibt unverzichtbar!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm erkennt an, dass das Auto im ländlichen Raum und Umland unverzichtbar bleibt, und lehnt ein pauschales Verbrennerverbot ab.",
+      "seite": 32,
+      "zitat": "In vielen Regionen Sachsen-Anhalts bleibt das Auto auf absehbare Zeit unverzichtbar.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für den täglichen Weg zur Arbeit, zur Kita und zum Einkaufen im Speckgürtel sind sie auf ihr Auto angewiesen. Die Absage an eine erzwungene Verkehrswende und das Verbrennerverbot bestätigt ihre reale Lebenssituation als Pendler.",
+      "begruendung_selbst": "Ohne Auto kommen wir hier im Umland nirgendwo hin – gut, dass das endlich mal jemand ausspricht, statt uns ständig ein schlechtes Gewissen zu machen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Programm trifft die zentralen Schmerzpunkte von Tom und Jessica fast punktgenau, indem es teure Bauauflagen ablehnt, steuerliche Entlastungen für Erstkäufer fordert und die Bedeutung des Autos im Umland anerkennt. Auch die Forderung nach verlässlicher Ferienbetreuung entlastet ihren Alltag als Doppelverdiener. Da es keine direkten Widersprüche zu ihren pragmatischen, eigentumsorientierten Werten gibt, wirkt das Programm auf sie extrem attraktiv.",
+    "score": 2
+  }
+}

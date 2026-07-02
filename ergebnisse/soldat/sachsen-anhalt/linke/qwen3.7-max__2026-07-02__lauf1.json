@@ -1,0 +1,137 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:20:46.792Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82414,
+    "output_tokens": 6632,
+    "cached_tokens": 78336,
+    "total_tokens": 89046,
+    "dauer_ms": 121495,
+    "usd": 0.06514025
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Personal!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei plant 500 neue Polizeistellen bis 2030 sowie eine Stärkung der Präventionspolizei und bessere Arbeitsbedingungen für Sicherheitskräfte.",
+      "seite": 128,
+      "zitat": "500 neue Polizeistellen bis 2030 bedeuten nicht nur mehr Präsenz",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan begrüßt grundsätzlich die Aufstockung von Sicherheitskräften, da er innere und äußere Sicherheit als zusammenhängend betrachtet. Mehr Personal bei Polizei und Rettungsdiensten stärkt aus seiner Sicht die Resilienz des Standorts und der Gesellschaft, für die er im Zweifel einsteht.",
+      "begruendung_selbst": "Wenn die Truppe und die Polizei personell vernünftig aufgestellt sind, ist das ein Signal: Der Staat meint es ernst mit der Sicherheit. Das unterstütze ich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Katastrophenschutz stärken!",
+      "thema": "sicherheit",
+      "programmpunkt": "Feuerwehren, THW und Rettungsdienste sollen besser ausgestattet, finanziert und entlastet werden; Amtshilfekosten für Kommunen bei Katastrophen sollen reformiert werden.",
+      "seite": 130,
+      "zitat": "Feuerwehr, THW und Rettungsdienste sind unsere Rettungsanker",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soldat kennt Stefan die Bedeutung funktionierender Einsatzstrukturen und die enge Verzahnung von Bundeswehr, THW und zivilem Katastrophenschutz. Die Forderung nach verlässlicher Finanzierung und moderner Ausrüstung für Hilfsorganisationen deckt sich mit seinem Verständnis von umfassender Sicherheitsvorsorge.",
+      "begruendung_selbst": "Ob Hochwasser oder Waldbrand – da arbeiten wir Hand in Hand mit THW und Feuerwehr. Wenn die vernünftig ausgestattet sind, hilft das am Ende uns allen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Familie und Dienst vereinbaren",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert eine Arbeitszeitreduktion für Polizeikräfte auf 38 Stunden sowie familienfreundliche Schichtmodelle und bessere Vereinbarkeit von Familie und Beruf.",
+      "seite": 128,
+      "zitat": "Arbeitszeitreduktion für Polizeikräfte auf 38 Stunden eingeführt werden kann",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan erlebt als Berufssoldat mit Familie am Standort die Spannung zwischen Dienst und Familienleben täglich. Auch wenn die Forderung explizit die Polizei betrifft, signalisiert sie ein grundsätzliches Verständnis für die Belastung von Einsatzkräften und deren Familien, das er auf die Bundeswehr überträgt.",
+      "begruendung_selbst": "Meine Frau und die Kinder müssen auch mal was von mir haben. Wenn die Politik endlich kapiert, dass Einsatzkräfte Zeit für ihre Familien brauchen, ist das überfällig.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Abrüstung ist fahrlässig!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei lehnt eine Erhöhung der Militärausgaben ab, positioniert sich gegen Aufrüstung und die schrittweise Einführung der Wehrpflicht und fordert eine antimilitaristische Politik.",
+      "seite": 13,
+      "zitat": "gegen die Erhöhung der Militärausgaben, die nicht die Sicherheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt an der Ostflanke täglich die Bedrohungslage und die Konsequenzen von Ausrüstungsmängeln. Die Ablehnung höherer Verteidigungsausgaben steht im direkten Widerspruch zu seiner Forderung nach funktionierendem Material und verlässlicher Ausstattung der Truppe.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Wer gegen mehr Verteidigungsetat ist, lässt meine Kameraden und mich im Stich. Das ist fahrlässig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "NATO-Skepsis gefährdet uns",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei kritisiert die NATO-Orientierung und die Herstellung nationaler Kriegstüchtigkeit, lehnt Militarisierung ab und fordert stattdessen Abrüstung und Interessensausgleich.",
+      "seite": 12,
+      "zitat": "Herstellung einer nationalen Kriegstüchtigkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan ist die NATO-Bündnistreue unverhandelbar. Die Skepsis gegenüber militärischer Abschreckungsfähigkeit und die implizite NATO-Kritik untergraben aus seiner Sicht den Kernauftrag der Bundeswehr an der Ostflanke und gefährden die kollektive Sicherheit.",
+      "begruendung_selbst": "Ohne NATO sind wir an der Ostsee nackt. Wer das Bündnis infrage stellt, hat die Bedrohungslage nicht verstanden – oder ignoriert sie bewusst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Holzdorf ist unverzichtbar!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei positioniert sich gegen die weitere Hochrüstung des Bundeswehrstandortes Holzdorf sowie gegen die militärische Nutzung des Flughafens Leipzig-Halle.",
+      "seite": 13,
+      "zitat": "gegen die weitere Hochrüstung des Standortes Holzdorf",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Holzdorf ist ein zentraler Logistik- und Einsatzstützpunkt der Bundeswehr. Die Ablehnung seines Ausbaus trifft Stefans Kernanliegen direkt: funktionierende Infrastruktur und Einsatzbereitschaft. Für ihn ist das ein Angriff auf die Operationsfähigkeit der Truppe.",
+      "begruendung_selbst": "Holzdorf ist Drehscheibe für Einsätze und Logistik. Wer das kaputtsparen will, sabotiert unsere Einsatzfähigkeit. Das ist kein Pazifismus, das ist Realitätsverweigerung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Friedensrhetorik statt Realität",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei betont, dass eine friedliche Welt möglich sei und will die Friedenssehnsucht für antimilitaristische Politik mobilisieren, anstatt auf militärische Abschreckung zu setzen.",
+      "seite": 13,
+      "zitat": "Eine friedliche Welt ist möglich und wir stehen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan empfindet diese Rhetorik als naiv und gefährlich angesichts der konkreten Bedrohungslage an der NATO-Ostflanke. Für ihn ersetzt der Wunsch nach Frieden nicht die Notwendigkeit, wehrfähig zu sein und das Bündnis zu stärken.",
+      "begruendung_selbst": "Ich will auch Frieden. Aber Frieden entsteht nicht durch Wunschdenken, sondern durch Stärke und Abschreckung. Wer das nicht begreift, gefährdet genau den Frieden, den er beschwört.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz abschaffen? Nein!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei hält den Verfassungsschutz in seiner jetzigen Form für überflüssig und will ihn langfristig durch eine Agentur für Demokratie und Menschenrechte ersetzen.",
+      "seite": 129,
+      "zitat": "Ein Verfassungsschutz in seiner jetzigen Form ist überflüssig",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Soldat, der auf die wehrhafte Demokratie vereidigt ist, sieht Stefan den Verfassungsschutz als essenzielles Frühwarnsystem gegen Extremismus. Die Forderung nach dessen faktischer Abschaffung erscheint ihm als Schwächung der demokratischen Abwehrfähigkeit.",
+      "begruendung_selbst": "Wir brauchen Augen und Ohren gegen Extremisten – von links wie von rechts. Den Verfassungsschutz abzuschaffen ist, als würde man im Gefecht die Aufklärung abschalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Colbitz-Letzlinger Heide bleibt militärisch",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei fordert die friedliche Nutzung der Colbitz-Letzlinger Heide und positioniert sich gegen deren militärische Nutzung als Truppenübungsplatz.",
+      "seite": 13,
+      "zitat": "für die friedliche Nutzung der Naturlandschaften (z.B. Colbitz-Letzlinger Heide)",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Übungsplätze wie die Colbitz-Letzlinger Heide sind für die Ausbildung und Einsatzvorbereitung der Truppe unverzichtbar. Die Forderung nach ziviler Umnutzung bedroht aus Stefans Sicht direkt die Ausbildungsfähigkeit der Bundeswehr in der Region.",
+      "begruendung_selbst": "Wo sollen wir üben, wenn nicht dort? Ohne realistische Ausbildungsplätze ist die Truppe nicht einsatzbereit. Das ist kein Naturschutz, das ist Sabotage an der Verteidigungsfähigkeit.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan erlebt das Programm der Linken als fundamentalen Widerspruch zu seinen Kernanliegen. Die konsequente Ablehnung von Verteidigungsausgaben, NATO-Bündnisorientierung und militärischer Infrastruktur trifft ihn als Berufssoldat an der Ostflanke direkt und wird als Bedrohung seiner Einsatzfähigkeit und Sicherheit wahrgenommen. Die wenigen positiven Berührungspunkte bei innerer Sicherheit und Familienvereinbarkeit können die massive Ablehnung der verteidigungspolitischen Kernpositionen nicht ausgleichen.",
+    "score": -2
+  }
+}

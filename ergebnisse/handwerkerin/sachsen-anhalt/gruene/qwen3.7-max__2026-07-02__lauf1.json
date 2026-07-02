@@ -1,0 +1,125 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:54:32.950Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69816,
+    "output_tokens": 8621,
+    "cached_tokens": 67456,
+    "total_tokens": 78437,
+    "dauer_ms": 158393,
+    "usd": 0.07640525
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Praxischecks für Bürokratie!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will Bürokratie abbauen, Dokumentationspflichten reduzieren und Verwaltungsvorgänge durch verpflichtende Praxischecks auf Vereinfachungen überprüfen.",
+      "seite": 89,
+      "zitat": "Mit verpflichtenden Praxischecks sollen Verwaltungsvorgänge im Alltag auf mögliche Vereinfachungen überprüft werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine erdrückt der Papierkram. Die Idee, dass die Verwaltung ihre Regeln endlich an der Realität von Handwerksbetrieben messen lassen muss, trifft ihren Kernwunsch nach weniger Gängelung.",
+      "begruendung_selbst": "Wenn die Beamten mal selbst ausfüllen müssten, was sie uns jeden Tag vorlegen, hätten wir längst weniger Aktenordner. Praxischecks sind genau das, was wir brauchen!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Regionale Betriebe zuerst!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Bundesvergaberecht soll reformiert werden, um regionale Kriterien zu stärken und Bürokratie abzubauen, damit lokale Betriebe bessere Chancen auf öffentliche Aufträge haben.",
+      "seite": 89,
+      "zitat": "für ein reformiertes Bundesvergaberecht ein, das mehr regionale Kriterien berücksichtigt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als lokale Handwerksmeisterin ärgert sich Sabine oft, dass große, ortsfremde Konzerne bei öffentlichen Aufträgen bevorzugt werden. Regionale Kriterien geben ihrem Mittelstandsbetrieb eine faire Chance.",
+      "begruendung_selbst": "Es kann nicht sein, dass die großen Konzerne aus dem Westen die Aufträge abräumen, nur weil sie ganze Rechtsabteilungen für die Ausschreibungen haben. Mein Betrieb ist hier, meine Steuern zahle ich hier!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Helfer für meine Baustellen!",
+      "thema": "arbeit",
+      "programmpunkt": "Eine zentrale Anlaufstelle soll internationale Fachkräfte unterstützen, bürokratische Prozesse bündeln und den Zugang zu Arbeit und Sprache erleichtern.",
+      "seite": 91,
+      "zitat": "schaffen eine One-Stop-Agency für internationale Fachkräfte, Personal in Mangelberufen und Gründer*innen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Fachkräftemangel ist Sabines größtes Wachstumshemmnis. Wenn das Land endlich die Hürden für ausländische Gesellen abbaut, kann sie ihre vollen Auftragsbücher wieder abarbeiten.",
+      "begruendung_selbst": "Ich finde doch hier keine Gesellen mehr! Wenn das Amt mir endlich hilft, den Papierkram für einen guten Mann aus dem Ausland zu stemmen, stelle ich den morgen ein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vorgaben müssen machbar sein!",
+      "thema": "energie",
+      "programmpunkt": "Für den Einbau von Wärmepumpen fordert die Partei praxisnahe und unkomplizierte Vorgaben, um die Wärmewende für Handwerker und Kunden umsetzbar zu machen.",
+      "seite": 26,
+      "zitat": "Für den Einbau von Wärmepumpen muss es praxisnahe und unkomplizierte Vorgaben geben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine ist genervt von chaotischen Heizungsgesetzen. Das explizite Bekenntnis zu praxisnahen Regeln signalisiert ihr, dass die Partei die Realität auf der Baustelle und die Sorgen der SHK-Branche ernst nimmt.",
+      "begruendung_selbst": "Sagt mir endlich, was der Kunde einbauen darf, ohne dass ich drei Gutachter brauche. Wenn die Politik 'praxisnah' verspricht, höre ich zumindest mal zu.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Geld ohne Gegenleistung?",
+      "thema": "integration",
+      "programmpunkt": "Die Partei fordert die Abschaffung der Bezahlkarte für Geflüchtete und Transferempfänger, damit diese Sozialleistungen unterschiedslos als Geldleistungen erhalten.",
+      "seite": 79,
+      "zitat": "Wir fordern die Abschaffung der Bezahlkarte und wollen diese diskriminierende Praxis endgültig beenden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine erwartet von Transferempfängern Eigenverantwortung. Die pauschale Auszahlung als Bargeld widerspricht ihrem Gerechtigkeitsempfinden gegenüber denen, die hart für ihr Geld arbeiten müssen.",
+      "begruendung_selbst": "Ich schufte 60 Stunden die Woche, und die Politik diskutiert, ob man Leuten, die nicht arbeiten, das Geld lieber bar gibt? Das ist doch Hohn!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Zettelwirtschaft!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Tarifbindung soll durch das Tariftreue- und Vergabegesetz weiter gestärkt werden, sodass öffentliche Aufträge nur an Unternehmen mit entsprechenden Löhnen vergeben werden.",
+      "seite": 76,
+      "zitat": "Tarifbindung in Sachsen-Anhalt durch das bestehende Tariftreue- und Vergabegesetz weiter gestärkt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn Sabine fair bezahlt, bedeutet eine Verschärfung des Vergabegesetzes für sie vor allem eines: noch mehr Nachweise, Formulare und bürokratische Hürden bei jeder öffentlichen Ausschreibung.",
+      "begruendung_selbst": "Ich zahle meinen Leuten anständige Löhne, aber für jeden städtischen Auftrag muss ich jetzt noch mehr Formulare ausfüllen, um zu beweisen, dass ich 'tariftreu' bin. Das kostet mich Stunden, die mir auf der Baustelle fehlen!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietendeckel killt Investitionen!",
+      "thema": "wohnen",
+      "programmpunkt": "Zur Sicherung von bezahlbarem Wohnraum sollen Mietendeckel eingesetzt werden.",
+      "seite": 91,
+      "zitat": "Zur Sicherung von bezahlbarem Wohnraum sollen Mietendeckel eingesetzt werden, der Wohnheimbau",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als wirtschaftsliberale Unternehmerin hält Sabine staatliche Preisdeckel für planwirtschaftlich und schädlich. Sie weiß, dass ohne faire Mieten auch keine neuen Wohnungen oder Gewerbeflächen gebaut werden.",
+      "begruendung_selbst": "Wer soll denn noch investieren, wenn der Staat die Preise diktiert? Mit so einer Planwirtschaft treiben wir doch jeden Investor und jeden Handwerker, der saniert, in den Ruin.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bremsklötze für mein Gewerk!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will Parkgebühren ausweiten und den Parkraum digital bewirtschaften, um den Autoverkehr in Städten zu regulieren und klimafreundliche Mobilität zu fördern.",
+      "seite": 31,
+      "zitat": "Parkgebühren sowie das Anwohnerparken erweitern, dabei aber kleine und klimaneutrale Fahrzeuge bevorzugen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine ist auf ihren Transporter angewiesen, um Werkzeug und Material zu den Kunden zu bringen. Höhere Parkgebühren und Verdrängung aus den Innenstädten bedeuten für sie direkte Mehrkosten und Zeitverlust.",
+      "begruendung_selbst": "Soll ich die neue Heizung etwa auf dem Rücken zum Kunden tragen? Wenn ich für meinen Transporter auch noch horrende Parkgebühren zahlen muss, wird das direkt auf die Rechnung des Kunden gesetzt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine sieht das Programm der Grünen als zweischneidiges Schwert. Einerseits begrüßt sie die pragmatischen Versprechen zum Bürokratieabbau, zur Reform des Vergaberechts für den Mittelstand und zur Erleichterung der Fachkräftezuwanderung ausdrücklich. Andererseits entfremden sie die sozial- und marktpolitischen Forderungen wie die Abschaffung der Bezahlkarte, Mietendeckel und höhere Parkgebühren für Gewerbetreibende zutiefst. Für sie überwiegt das Misstrauen gegenüber der ideologischen Regulierungswut der Partei, auch wenn sie die Ansätze zur Entlastung von Handwerksbetrieben im Alltag positiv zur Kenntnis nimmt.",
+    "score": -1
+  }
+}

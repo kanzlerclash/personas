@@ -1,0 +1,113 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:57:00.579Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69696,
+    "output_tokens": 8066,
+    "cached_tokens": 67456,
+    "total_tokens": 77762,
+    "dauer_ms": 147627,
+    "usd": 0.07338275
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich versteht wer die Chemie!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will die Energiepreise für die Industrie senken und die Transformation der Chemiebranche aktiv unterstützen.",
+      "seite": 88,
+      "zitat": "Energiepreise für Unternehmen zu senken, etwa durch einen niedrigeren Industriestrompreis.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht in bezahlbarem Strom die absolute Überlebensfrage für das Chemiedreieck. Dass die Grünen hier explizit den Industriestrompreis nennen, nimmt ihm etwas die Angst vor der grünen Deindustrialisierung.",
+      "begruendung_selbst": "Ohne wettbewerbsfähige Strompreise geht bei uns in Leuna gar nichts. Wenn die das wirklich durchsetzen, sichert das meine Rente und die Jobs der Jungs.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tariflohn ist nicht verhandelbar!",
+      "thema": "arbeit",
+      "programmpunkt": "Öffentliche Aufträge sollen nur an Unternehmen mit fairen, tariflichen Löhnen vergeben werden.",
+      "seite": 76,
+      "zitat": "Öffentliche Aufträge sollen nur an Unternehmen mit fairen Löhnen vergeben werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Gewerkschafter kämpft Uwe täglich gegen Lohndumping. Die Forderung nach Tariftreue bei öffentlichen Aufträgen deckt sich exakt mit seinen gewerkschaftlichen Kernforderungen.",
+      "begruendung_selbst": "Wer vom Staat Aufträge will, hat gefälligst nach Tarif zu zahlen. Gut, dass die das so klar sagen, das ist pure IG-BCE-Linie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff rettet unsere Anlagen.",
+      "thema": "energie",
+      "programmpunkt": "Der Ausbau der Wasserstoffinfrastruktur wird als überlebenswichtig für die chemische Industrie in Sachsen-Anhalt bezeichnet.",
+      "seite": 27,
+      "zitat": "ist unsere chemische Industrie in Zukunft nicht wettbewerbsfähig.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe weiß, dass die chemische Industrie auf Wasserstoff angewiesen ist, um klimaneutral zu produzieren, ohne abzuwandern. Die realistische Einschätzung der Grünen gibt ihm Hoffnung auf einen sozial abgesicherten Wandel.",
+      "begruendung_selbst": "Die haben zumindest kapiert, dass wir ohne Wasserstoff die Bude dichtmachen können. Das ist der einzige Weg, wie wir die Crackanlagen am Leben halten.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ideologie frisst Arbeitsplätze!",
+      "thema": "energie",
+      "programmpunkt": "Die Grünen lehnen Carbon Capture and Storage (CCS) strikt ab und wollen den Kohleausstieg vorantreiben.",
+      "seite": 26,
+      "zitat": "Zudem lehnen wir auch die Technologie des Carbon Capture and Storage (CCS)",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Uwe ist CCS eine mögliche Brückentechnologie, um die energieintensive Industrie zu retten. Das strikte Verbot wirkt auf ihn wie blinde Ideologie auf Kosten der Industriearbeiter.",
+      "begruendung_selbst": "Wir brauchen jede Option, um die Emissionen runterzukriegen, ohne dass die Chemie-Parks abkacken. CCS einfach zu verbieten, ist doch reine Öko-Romantik auf unserem Rücken!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Tempo killt die Industrie.",
+      "thema": "klima",
+      "programmpunkt": "Sachsen-Anhalt soll bis 2030 im Strombereich zu 100 Prozent auf erneuerbare Energien umgestellt werden.",
+      "seite": 22,
+      "zitat": "Wir wollen unser Bundesland Sachsen-Anhalt bis 2030 im Strombereich 100 Prozent erneuerbar aufstellen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe hält dieses Ziel für völlig unrealistisch und gefährlich für die Grundlastfähigkeit des Netzes. Er fürchtet, dass dieses überhitzte Tempo zu Blackouts oder unbezahlbaren Preisen für die Schwerindustrie führt.",
+      "begruendung_selbst": "Bis 2030 hundert Prozent Ökostrom? Träumt mal weiter! Wenn das Netz zusammenbricht, stehen bei uns die Bänder still. So ein Unsinn gefährdet meinen Job.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klima geht vor Vernunft.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Alle Haushaltsausgaben sollen einem Klimacheck unterzogen werden; Ausgaben ohne Klimaverträglichkeit müssen begründet werden.",
+      "seite": 96,
+      "zitat": "Ein Klimavorbehalt im Landeshaushalt stellt sicher, dass Ausgaben ohne nachweisbare Klimaverträglichkeit begründet werden müssen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe wittert hier eine Bürokratiebremse für klassische Wirtschaftsförderung. Er hat Angst, dass wichtige Industrieprojekte an grünen Vetos scheitern, während andere Bundesländer Unternehmen abwerben.",
+      "begruendung_selbst": "Da steht doch jeder neue Betrieb unter Generalverdacht. Wenn die Wirtschaftsförderung erst mal beim Öko-Check hängen bleibt, gehen die Firmen halt nach Bayern oder ins Ausland.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lasst uns einfach fahren!",
+      "thema": "verkehr",
+      "programmpunkt": "Einführung von Tempo 30 als innerörtliche Regelgeschwindigkeit und Tempo 130 auf Autobahnen.",
+      "seite": 31,
+      "zitat": "Wir stärken Sicherheit und Lebensqualität mit Tempo 30 als innerörtliche Regelgeschwindigkeit...",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Pendler und Schichtarbeiter, der auf das Auto angewiesen ist, empfindet Uwe solche pauschalen Tempolimits als typische grüne Gängelung, die an seiner Lebensrealität im ländlich geprägten Sachsen-Anhalt vorbeigeht.",
+      "begruendung_selbst": "Ich fahr nach der Nachtschicht nach Hause und soll dann durch jedes Kaff mit 30 schleichen? Das ist doch Schikane für Leute, die wirklich arbeiten müssen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe erkennt an, dass die Grünen die Bedeutung der Chemieindustrie und des Industriestrompreises verstanden haben, was ihm Hoffnung auf einen sozial abgesicherten Wandel gibt. Gleichzeitig schreckt ihn das aus seiner Sicht unrealistische und ideologisch getriebene Tempo der Klimapolitik ab, das er als existenzielle Bedrohung für seinen Standort und seine Kollegen wahrnimmt. Die Forderung nach Tariftreue gewinnt ihm Respekt ab, während Verbote wie bei CCS oder pauschale Tempolimits für ihn typische grüne Weltfremdheit symbolisieren.",
+    "score": 0
+  }
+}

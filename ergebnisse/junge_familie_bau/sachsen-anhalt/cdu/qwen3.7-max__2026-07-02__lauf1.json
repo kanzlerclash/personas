@@ -1,0 +1,89 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:19:52.105Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 47019,
+    "output_tokens": 8753,
+    "cached_tokens": 44288,
+    "total_tokens": 55772,
+    "dauer_ms": 160469,
+    "usd": 0.07451575
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Kaufnebenkosten!",
+      "thema": "steuern",
+      "programmpunkt": "Die CDU fordert eine Befreiung von der Grunderwerbsteuer für den erstmaligen Erwerb von selbstgenutztem Wohneigentum im ländlichen Raum.",
+      "seite": 31,
+      "zitat": "Grunderwerbsteuerbefreiung beim erstmaligen Erwerb selbstgenutzten Wohneigentums im ländlichen Raum",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als junge Familie im Speckgürtel kämpfen Tom und Jessica mit den hohen Kaufnebenkosten. Die Aussicht auf eine Abschaffung der Grunderwerbsteuer beim ersten Eigenheim gibt ihnen konkrete Hoffnung, die Finanzierungslücke zu schließen.",
+      "begruendung_selbst": "Die Grunderwerbsteuer frisst uns das halbe Eigenkapital auf. Wenn die beim ersten Hauskauf wegfällt, können wir uns den Traum vom Eigenheim vielleicht doch noch leisten, ohne uns bis zur Rente zu verschulden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Zwangs-Solaranlage auf unserem Dach!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei lehnt eine verpflichtende Installation von Photovoltaikanlagen bei Neubauten und Dachsanierungen ab und setzt auf Eigenverantwortung.",
+      "seite": 46,
+      "zitat": "lehnen jegliche Form der Solarpflicht bei Neubauten und Dachsanierungen konsequent ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica ärgern sich über strenge energetische Auflagen, die das Bauen unnötig verteuern. Der Verzicht auf eine Solarpflicht entlastet ihr knappes Baubudget und bestätigt ihre pragmatische Haltung gegen ideologische Bauvorschriften.",
+      "begruendung_selbst": "Jede neue Vorschrift treibt unsere Baukosten weiter nach oben. Wir wollen selbst entscheiden, wann wir uns eine Solaranlage leisten können, und nicht per Gesetz dazu gezwungen werden, nur damit die Politik ihre Klimaziele auf unserem Dach abhakt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentum statt ideologischer Mietpreisdeckel!",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU lehnt Mietpreisdeckel und Enteignungen ab und setzt sich stattdessen auf Bundesebene für die Wiedereinführung des Baukindergeldes ein.",
+      "seite": 65,
+      "zitat": "Stattdessen setzen wir uns auf Bundesebene für die Wiedereinführung des Baukindergeldes ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar will der Miete entfliehen und Eigentum aufbauen. Die klare Absage an mieterfreundliche Markteingriffe zugunsten einer direkten Familienförderung beim Hausbau trifft genau ihren Nerv der aufstiegsorientierten Mitte.",
+      "begruendung_selbst": "Wir wollen doch gar nicht ewig zur Miete wohnen und auf staatliche Deckelungen hoffen. Wir wollen bauen! Das Baukindergeld wäre genau der Schubser, den wir für die Tilgung brauchen, damit sich unsere harte Arbeit endlich in eigenen vier Wänden auszahlt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verlässliche Ganztagsbetreuung für unseren Alltag!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei will den Rechtsanspruch auf Ganztagsbetreuung umsetzen und die Übergänge zwischen Kita und Grundschule kindgerecht gestalten.",
+      "seite": 49,
+      "zitat": "Den Rechtsanspruch auf Ganztagsbetreuung ab 2026 umsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener sind Tom und Jessica auf verlässliche Betreuungszeiten angewiesen. Die Zusage zum Ganztagsausbau nimmt ihnen einen Teil der Sorge um die Vereinbarkeit von Job und einem möglichen zweiten Kind.",
+      "begruendung_selbst": "Wir müssen beide arbeiten, um uns das Haus überhaupt leisten zu können. Da ist ein verlässlicher Ganztagsplatz in der Kita und später in der Schule kein Luxus, sondern die absolute Grundvoraussetzung für unseren Alltag.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bauland wird noch knapper und teurer!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei betont, dass Boden eine endliche Ressource ist und will den Flächenverbrauch sowie die Neuausweisung von Baugebieten wirksam begrenzen.",
+      "seite": 68,
+      "zitat": "Flächenverbrauch wirksam begrenzen: Boden ist eine endliche Ressource.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica suchen im Speckgürtel nach bezahlbarem Bauland. Eine strikte Begrenzung des Flächenverbrauchs schützt zwar die Natur, verknappt aber das ohnehin teure Bauland in den Umlandgemeinden und treibt die Bodenpreise weiter in die Höhe.",
+      "begruendung_selbst": "Wir finden ja auch im Umland kaum noch bezahlbare Grundstücke. Wenn die Politik jetzt noch die Ausweisung neuer Baugebiete bremst, weil der 'Flächenverbrauch' begrenzt werden muss, explodieren die Bodenpreise doch komplett. Wie sollen wir da noch bauen?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica sehen in der CDU-Programmatik starke Verbündete für ihren Traum vom Eigenheim, insbesondere durch die versprochene Grunderwerbsteuerbefreiung und die Ablehnung teurer Bauauflagen wie der Solarpflicht. Die klare Priorisierung von Eigentumsförderung gegenüber Mietpreisdeckeln trifft genau ihr Leistungs- und Aufstiegsverständnis. Einzig die strikte Begrenzung des Flächenverbrauchs sorgt für Bauchschmerzen, da dies das knappe und teure Bauland im Speckgürtel weiter verknappen könnte.",
+    "score": 1
+  }
+}

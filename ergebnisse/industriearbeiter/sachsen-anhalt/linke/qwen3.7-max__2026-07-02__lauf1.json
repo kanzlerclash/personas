@@ -1,0 +1,173 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:58:35.016Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82391,
+    "output_tokens": 9632,
+    "cached_tokens": 78336,
+    "total_tokens": 92023,
+    "dauer_ms": 176241,
+    "usd": 0.08409025
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich starke Tarifbindung!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert einen Vergabemindestlohn von 16,50 Euro, ein konsequentes Vergabegesetz und die Erleichterung der Allgemeinverbindlichkeit von Tarifverträgen, um Tarifflucht zu beenden.",
+      "seite": 86,
+      "zitat": "einen Vergabemindestlohn von 16,50 Euro pro Stunde, gekoppelt an Inflation",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe erlebt seit Jahren, wie Tarifflucht und Lohndumping die Errungenschaften der Gewerkschaften untergraben. Ein Vergabemindestlohn und die Erleichterung der Allgemeinverbindlichkeit stärken direkt seine Position als Gewerkschafter und sichern das Lohnniveau in der Region.",
+      "begruendung_selbst": "Das ist genau das, wofür wir im Betriebsrat seit Jahren kämpfen. Wenn öffentliche Aufträge nur noch an tarifgebundene Firmen gehen, zieht das die ganze Region nach oben. So muss das laufen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitbestimmung bei Investitionen!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke fordert Mitentscheidungsrechte der Betriebsräte bei Investitionen, Standortfragen und Digitalisierung sowie harte Sanktionen gegen Union Busting.",
+      "seite": 87,
+      "zitat": "Mitentscheidungsrechte der Betriebsräte bei Investitionen, Standortfragen und Digitalisierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Betriebsrat in der Chemieindustrie weiß Uwe, dass Standortentscheidungen oft über die Köpfe der Beschäftigten hinweg getroffen werden. Echte Mitbestimmung bei Investitionen würde seine Handlungsmacht massiv stärken und Verlagerungen erschweren.",
+      "begruendung_selbst": "Wenn der Vorstand über Schließungen entscheidet, sitzen wir immer am kürzeren Hebel. Mit echten Mitbestimmungsrechten bei Investitionen könnten wir endlich mitreden, bevor die Fakten geschaffen sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemie-Standorte sichern!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will faire Energiepreise für die Chemie- und Grundstoffindustrie in Transformationsphasen, grüne Wasserstoffinfrastruktur aufbauen und verbindliche Transformationsverträge mit Beschäftigungsgarantien schließen.",
+      "seite": 92,
+      "zitat": "faire Energiepreise für den Wandel – Energie- und CO₂-Kosten in Umbauphasen senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes größte Existenzangst ist, dass hohe Energiepreise und ein ungesteuerter Strukturwandel die Chemieindustrie in Sachsen-Anhalt zerstören. Die Forderung nach fairen Energiepreisen, Beschäftigungsgarantien und dem Aufbau einer Wasserstoffinfrastruktur adressiert direkt seine Sorgen um den Standort Leuna/Schkopau.",
+      "begruendung_selbst": "Bei uns im Chemiedreieck hängen zehntausende Jobs an bezahlbarer Energie. Wenn die Politik das endlich ernst nimmt und uns Planungssicherheit gibt, statt nur Ziele auszurufen, dann kann der Wandel funktionieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Werksschließung ohne Perspektive!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Linke fordert, dass keine Werksschließung ohne Perspektive für Beschäftigte erfolgen darf, und will Arbeitsplätze, Wissen und Strukturen für kommende Generationen sichern.",
+      "seite": 93,
+      "zitat": "keine Werksschließung ohne Perspektive – Arbeitsplätze, Wissen und Strukturen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe hat in seinem Berufsleben erlebt, wie ganze Betriebsteile abgewickelt wurden. Die klare Ansage, dass Werksschließungen nicht ohne Perspektive für die Belegschaft erfolgen dürfen, trifft seinen Kernwert: dass industrielle Erfahrung und Fachwissen nicht einfach weggeworfen werden dürfen.",
+      "begruendung_selbst": "Ich habe Kollegen gesehen, die mit 50 auf die Straße gesetzt wurden. Das Wissen von Jahrzehnten — einfach weg. Wenn die Politik da endlich einen Riegel vorschiebt, ist das überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Überleitungsgesellschaften sichern Jobs!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Im Strukturwandel sollen Überleitungsgesellschaften Beschäftigung, Weiterbildung und neue Perspektiven sichern, damit niemand zurückbleibt.",
+      "seite": 91,
+      "zitat": "Überleitungsgesellschaften sichern Beschäftigung, Weiterbildung und neue Perspektiven",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Idee von Überleitungsgesellschaften gibt Uwe die Hoffnung, dass der Wandel nicht abrupt kommt, sondern sozial abgefedert wird. Für ihn als Gewerkschafter ist das ein Instrument, das er aus der Kohle kennt und das er auch für die Chemieindustrie fordert.",
+      "begruendung_selbst": "Wir brauchen Brücken, keine Sprünge ins Ungewisse. Wenn der Staat Überleitungsgesellschaften aufbaut, wissen die Leute wenigstens, dass sie nicht ins Leere fallen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energienetze in öffentliche Hand!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will Energienetze in öffentliche Hand überführen, damit sie der Versorgungssicherheit dienen und nicht der Profitlogik, sowie Netzentgelte deutlich senken.",
+      "seite": 107,
+      "zitat": "Energienetze in öffentliche Hand überführen, damit sie der Versorgungssicherheit dienen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe ärgert sich seit Jahren über hohe Netzentgelte in Sachsen-Anhalt, die den Industriestrompreis treiben. Die Forderung nach öffentlicher Kontrolle der Netze und niedrigeren Entgelten adressiert direkt die Wettbewerbsfähigkeit seines Arbeitgebers und damit seine Jobsicherheit.",
+      "begruendung_selbst": "Wir zahlen hier im Osten mehr Netzentgelte als im Westen — und das bei den energieintensivsten Betrieben. Wenn die Netze endlich öffentlich werden und die Preise sinken, hilft das unserem Standort direkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Betriebe kollektiv übernehmen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Wenn Betriebe in die Krise geraten, sollen Beschäftigte das Recht erhalten, sie kollektiv oder genossenschaftlich zu übernehmen, um Wissen und Arbeit zu erhalten.",
+      "seite": 90,
+      "zitat": "erhalten Beschäftigte das Recht, sie kollektiv oder genossenschaftlich zu übernehmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Uwe als Gewerkschafter ist die Idee, dass Belegschaften kriselnde Betriebe selbst übernehmen können, ein starkes Signal der Solidarität und Selbstbestimmung. Es gibt ihm eine Perspektive jenseits von Abwicklung und Kapitalkonzentration.",
+      "begruendung_selbst": "Wenn die Belegschaft den Laden kennt und am Laufen hält, warum soll sie ihn nicht auch führen können? Das ist mal eine Idee, die uns Beschäftigte ernst nimmt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaneutral 2035? Unrealistisch!",
+      "thema": "klima",
+      "programmpunkt": "Die Linke fordert ein verbindliches CO₂-Budget und Klimaneutralität für Sachsen-Anhalt bis 2035 — zehn Jahre vor dem Bundesziel.",
+      "seite": 121,
+      "zitat": "ein verbindliches CO₂-Budget für Sachsen-Anhalt festlegen, das den Pfad zur Klimaneutralität bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe befürchtet, dass ein so ambitioniertes Ziel auf Landesebene die energieintensive Chemieindustrie unter massiven Druck setzt und zu Standortverlagerungen oder Schließungen führt, bevor tragfähige Alternativen stehen. Das Tempo erscheint ihm als Bedrohung für seinen Arbeitsplatz.",
+      "begruendung_selbst": "2035 klimaneutral — das klingt gut auf dem Papier. Aber wer soll das in der Chemieindustrie umsetzen, wenn die Technologien noch gar nicht da sind? Am Ende zahlen wir Beschäftigten die Zeche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gaskraftwerke nur als Brücke?",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will Gaskraftwerke nur als Brücke zulassen, mit maximal 1.000 Volllaststunden und H2-ready-Kriterien, unter der Devise 'so viel wie nötig, so wenig wie möglich'.",
+      "seite": 109,
+      "zitat": "Gaskraftwerke nur als Brücke zulassen und hierbei verbindliche Kriterien wie H2-ready und maximal 1.000 Volllaststunden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Uwe als Chemiearbeiter ist eine zuverlässige Grundlast-Versorgung mit Energie existenziell. Die starke Einschränkung von Gaskraftwerken auf 1.000 Volllaststunden erscheint ihm als Risiko für die Versorgungssicherheit der energieintensiven Industrie, besonders solange Speicher und Wasserstoffnetze noch nicht ausgebaut sind.",
+      "begruendung_selbst": "Unsere Anlagen laufen rund um die Uhr. Wenn die Gaskraftwerke nur noch als Notreserve laufen dürfen, wer garantiert mir dann, dass der Strom immer da ist? Die Chemie braucht Grundlast, keine Experimente.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Industriestrompreis erwähnt!",
+      "thema": "energie",
+      "programmpunkt": "Das Programm fordert zwar faire Energiepreise und Netzentgeltsenkungen, enthält aber keinen expliziten, garantierten Industriestrompreis für energieintensive Betriebe.",
+      "seite": 106,
+      "zitat": "Energiepreise sozial gerecht gestalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe vermisst eine konkrete Zusage für einen gedeckelten oder subventionierten Industriestrompreis, wie er in der Branche intensiv diskutiert wird. Die allgemeinen Formulierungen zu 'fairen Energiepreisen' erscheinen ihm zu vage, um die internationale Wettbewerbsfähigkeit der Chemieindustrie wirklich zu sichern.",
+      "begruendung_selbst": "Alle reden vom Industriestrompreis, aber hier steht nur 'sozial gerecht'. Was ist mit den Betrieben, die im internationalen Wettbewerb stehen? Ohne einen garantierten Preis für die Industrie wandern die Jobs ab.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Windkraft-Vorrang vor Industrie?",
+      "thema": "klima",
+      "programmpunkt": "Die Partei will das 2,2-Prozent-Flächenziel für Windenergie umsetzen, Solarpflicht für Neubauten einführen und den Ausbau erneuerbarer Energien konsequent vorantreiben.",
+      "seite": 107,
+      "zitat": "das Flächenziel von 2,2 Prozent für Windenergie umsetzen und die Planungsgremien stärken",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe sieht den massiven Ausbau erneuerbarer Energien mit gemischten Gefühlen: Er erkennt die Notwendigkeit an, befürchtet aber, dass die Flächenkonkurrenz und die Priorisierung von Wind- und Solarprojekten die industrielle Nutzung und regionale Akzeptanz gefährden. Für ihn geht der Ausbau zu schnell und zu wenig rücksichtsvoll vor.",
+      "begruendung_selbst": "Ich bin nicht gegen Windräder. Aber wenn überall Vorranggebiete ausgewiesen werden und die Industrie dabei unter die Räder kommt, dann läuft was falsch. Erst die Jobs sichern, dann ausbauen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermögenssteuer trifft Mittelstand!",
+      "thema": "steuern",
+      "programmpunkt": "Die Linke fordert eine Bundesratsinitiative zur Wiedereinführung der Vermögenssteuer mit 1 Prozent auf Vermögen über einer Million Euro.",
+      "seite": 17,
+      "zitat": "Eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe hat über sein Berufsleben solide Ersparnisse und ein Eigenheim aufgebaut. Die Grenze von einer Million Euro erscheint ihm zu niedrig — er fürchtet, dass damit nicht nur Superreiche, sondern auch Facharbeiterfamilien mit bescheidenem Vermögen getroffen werden, während das eigentliche Problem — die Sicherung von Industriearbeitsplätzen — nicht gelöst wird.",
+      "begruendung_selbst": "Eine Million — das klingt nach viel, aber mit Haus und Ersparnissen nach 35 Jahren Arbeit bist du da schnell drüber. Die sollen lieber dafür sorgen, dass mein Betrieb hier bleibt, statt mir ans Ersparte zu gehen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet bei der Linken starke gewerkschaftliche Positionen — Tarifbindung, Mitbestimmung, Beschäftigungsgarantien und den Schutz von Industriestandorten — die seine Kernanliegen als Gewerkschafter im Chemiedreieck direkt adressieren. Gleichzeitig irritiert ihn das ambitionierte Klimaziel 2035 und die restriktive Haltung zu Gaskraftwerken, die er als Risiko für die Versorgungssicherheit der energieintensiven Industrie sieht. Ein konkreter Industriestrompreis fehlt ihm. Insgesamt überwiegt die Zustimmung zu den arbeits- und wirtschaftspolitischen Positionen, aber die energiepolitische Skepsis bleibt.",
+    "score": 1
+  }
+}

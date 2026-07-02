@@ -1,0 +1,164 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:48:17.879Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66013,
+    "output_tokens": 12140,
+    "cached_tokens": 0,
+    "total_tokens": 78153,
+    "dauer_ms": 222884,
+    "usd": 0.16252625
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich beitragsfreie Kitas!",
+      "thema": "familie",
+      "programmpunkt": "Das BSW fordert beitragsfreie Kitas in Sachsen-Anhalt, um frühkindliche Bildung unabhängig vom Einkommen der Eltern zu ermöglichen und die finanzielle Belastung von Familien zu senken.",
+      "seite": 46,
+      "zitat": "Wir setzen uns deshalb für beitragsfreie Kitas in Sachsen-Anhalt ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine zahlt jeden Monat Kita-Gebühren, die bei ihrem knappen Budget spürbar ins Gewicht fallen. Die Aussicht auf Beitragsfreiheit entlastet sie finanziell direkt und bestätigt ihre Erwartung, dass der Staat Familien mit geringem Einkommen bei der Kinderbetreuung unterstützen muss.",
+      "begruendung_selbst": "Jeder Euro, den ich nicht für die Kita zahlen muss, bleibt für meine Kinder. Endlich denkt mal jemand an uns, die wir jeden Cent umdrehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mindestlohn rauf, gleiches Geld!",
+      "thema": "arbeit",
+      "programmpunkt": "Das BSW fordert einen gesetzlichen Mindestlohn von 15 Euro ohne Ausnahmen sowie gleiche Bezahlung für Frauen und Männer. Öffentliche Aufträge sollen nur an tarifgebundene Unternehmen vergeben werden.",
+      "seite": 35,
+      "zitat": "einen gesetzlichen Mindestlohn von 15,00 Euro pro Stunde",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Teilzeitbeschäftigte mit niedrigem Stundenlohn würde Nadine von einer deutlichen Mindestlohnerhöhung direkt profitieren. Die Forderung nach gleicher Bezahlung für Frauen spricht ihre Erfahrung an, dass sie als Alleinerziehende oft schlechter verdient als männliche Kollegen.",
+      "begruendung_selbst": "Ich arbeite Teilzeit und kriege trotzdem kaum was. 15 Euro wären ein Anfang, dass sich meine Arbeit wenigstens ein bisschen lohnt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietendeckel schützt uns!",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW fordert einen bundesweiten Mietendeckel, die Begrenzung von Mietsteigerungen und den Ausbau des sozialen Wohnungsbaus. Privatisierungen öffentlichen Wohnraums werden abgelehnt.",
+      "seite": 30,
+      "zitat": "Ein bundesweiter Mietendeckel ist dafür ein geeignetes Instrument.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines Miete frisst den Großteil ihres Einkommens. Ein Mietendeckel und der Ausbau sozialer Wohnungen würden ihre größte finanzielle Sorge direkt adressieren und ihr Planungssicherheit geben.",
+      "begruendung_selbst": "Die Miete steigt und steigt, und ich kann nirgendwo hin. Wenn die Politik endlich die Mieten deckelt, kann ich vielleicht mal durchatmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenlose Schulbücher, ja!",
+      "thema": "bildung",
+      "programmpunkt": "Das BSW fordert echte Lernmittelfreiheit in Sachsen-Anhalt, damit alle Schüler unabhängig von der sozialen Herkunft kostenfreien Zugang zu Schulbüchern und Arbeitsheften haben.",
+      "seite": 42,
+      "zitat": "Das BSW setzt sich dafür ein, eine echte Lernmittelfreiheit einzuführen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Nadine sind die jährlichen Ausgaben für Schulbücher und Arbeitshefte eine spürbare Belastung. Die Forderung nach vollständiger Lernmittelfreiheit trifft genau ihren Alltag und bestätigt ihren Wunsch, dass Bildung nicht vom Geldbeutel abhängen darf.",
+      "begruendung_selbst": "Jedes Jahr diese Listen mit Büchern, die ich kaufen muss – das reißt Löcher. Wenn das endlich kostenlos wäre, wäre meinen Kids geholfen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Ganztagsschule gibt mir Luft!",
+      "thema": "bildung",
+      "programmpunkt": "Das BSW fordert den massiven Ausbau von qualitativ hochwertigen Ganztagsschulen mit ausreichend Fachkräften und Räumen, verankert als strategische Landesaufgabe.",
+      "seite": 49,
+      "zitat": "Ganztagsbildung als strategische Landesaufgabe verbindlich verankern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadines achtjähriges Kind hat nur halbtags Schule, was ihre Teilzeitarbeit massiv einschränkt. Verlässliche Ganztagsbetreuung würde ihr ermöglichen, mehr Stunden zu arbeiten und finanziell unabhängiger zu werden.",
+      "begruendung_selbst": "Wenn die Schule endlich den ganzen Tag offen wäre, könnte ich richtig arbeiten gehen. So hänge ich immer in der Teilzeitfalle fest.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozialleistungen ohne Schikane!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW fordert eine Entbürokratisierung des Zugangs zu Sozialleistungen, schnellere Bearbeitungszeiten, standardisierte Abläufe und unabhängige Sozialberatung vor Ort.",
+      "seite": 78,
+      "zitat": "Sozialleistungen schnell, unbürokratisch und verlässlich zugänglich machen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine ist auf aufstockende Leistungen angewiesen und kennt den Frust langer Bearbeitungszeiten und bürokratischer Hürden. Die Forderung nach vereinfachten, würdevollen Verfahren bestätigt ihr Bedürfnis nach Respekt statt Misstrauen vom Staat.",
+      "begruendung_selbst": "Ich renne von Amt zu Amt und warte wochenlang auf Bescheide. Wenn das endlich einfacher würde, hätte ich weniger Stress und mehr Zeit für meine Kinder.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenfreier Nahverkehr für Kids!",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW fordert kostenfreien Nahverkehr für Schulkinder und Auszubildende, unabhängig vom Wohnort und ohne bürokratische Hürden.",
+      "seite": 33,
+      "zitat": "Für Schulkinder und Auszubildende fordern wir einen kostenfreien Zugang zum Nahverkehr.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Fahrtkosten für den Schulweg ihrer Kinder belasten Nadines Budget zusätzlich. Kostenfreier Nahverkehr würde eine alltägliche finanzielle Sorge nehmen und die Teilhabe ihrer Kinder sichern.",
+      "begruendung_selbst": "Das Busticket für die Schule kostet jeden Monat extra. Wenn das gratis wäre, wäre das eine Sorge weniger.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "30-Prozent-Quote klingt nach Ausgrenzung!",
+      "thema": "integration",
+      "programmpunkt": "Das BSW fordert eine Quote von maximal 30 Prozent Ausländerkindern in Kindergärten und eine prozentuale Verteilung auf verschiedene Einrichtungen, inklusive Transport in andere Stadtviertel.",
+      "seite": 65,
+      "zitat": "Eine Quote von 30 % nicht überschritten werden sollte.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine lebt in einem Stadtteil mit gemischter Bevölkerung und bringt ihre Kinder in die Kita um die Ecke. Die Vorstellung, dass Kinder aufgrund ihrer Herkunft in andere Viertel transportiert werden sollen, widerspricht ihrem pragmatischen Alltag und ihrem Gerechtigkeitsempfinden. Sie fürchtet zudem, dass solche Maßnahmen den sozialen Frieden in ihrem Umfeld belasten.",
+      "begruendung_selbst": "Meine Kinder spielen mit allen Kindern in der Kita, egal woher sie kommen. Jetzt sollen die Kleinen durch die halbe Stadt gekarrt werden? Das ist doch nicht normal.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnviertel-Quote trifft uns Mieter!",
+      "thema": "integration",
+      "programmpunkt": "Das BSW fordert eine Obergrenze für die Belegung von Wohnungen mit Zuwanderern in Wohnvierteln und eine gleichmäßige Verteilung auf alle Stadtteile.",
+      "seite": 65,
+      "zitat": "eine Obergrenze für die Belegung von Wohnungen mit Zuwanderern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine wohnt zur Miete in einem Stadtteil, der von solchen Regelungen potenziell betroffen wäre. Sie sorgt sich, dass Quotenregelungen den ohnehin angespannten Wohnungsmarkt weiter verkomplizieren und am Ende Menschen gegeneinander ausgespielt werden, die alle bezahlbaren Wohnraum suchen.",
+      "begruendung_selbst": "Wir suchen alle eine bezahlbare Wohnung. Ob die Nachbarin aus Syrien kommt oder aus Magdeburg – wir haben dieselben Probleme. Quoten helfen da keinem.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Selbstbestimmungsgesetz wird infrage gestellt!",
+      "thema": "familie",
+      "programmpunkt": "Das BSW orientiert sich an der biologischen Zweigeschlechtlichkeit und will die Auswirkungen des Selbstbestimmungsgesetzes überprüfen, insbesondere in Bezug auf Schutzräume und Minderjährige.",
+      "seite": 36,
+      "zitat": "Auswirkungen des Selbstbestimmungsgesetzes auf Minderjährige überprüft werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine ist zwar primär mit Alltagsfragen beschäftigt, aber sie hat ein grundsätzliches Unbehagen bei Politik, die Minderheiten infrage stellt. Die skeptische Haltung zum Selbstbestimmungsgesetz signalisiert für sie ein konservatives Familienbild, das ihr eigenes Lebensmodell als Alleinerziehende potenziell ebenfalls abwertet.",
+      "begruendung_selbst": "Wenn die anfangen, bei Minderheiten rumzumäkeln, frage ich mich, was die als Nächstes bei uns Alleinerziehenden bemängeln. Lasst die Leute doch in Ruhe.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Corona-Aufarbeitung? Meine Sorgen sind heute!",
+      "thema": "demokratie",
+      "programmpunkt": "Das BSW fordert einen parlamentarischen Untersuchungsausschuss zur Corona-Politik, Amnestie für Corona-Bußgelder und Rehabilitierung von Impfverweigerern.",
+      "seite": 15,
+      "zitat": "Wir fordern die Einsetzung eines parlamentarischen Untersuchungsausschusses.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine hat die Corona-Zeit als belastend erlebt, aber sie blickt nach vorn. Die intensive Fokussierung auf Corona-Aufarbeitung wirkt auf sie, als würde die Partei sich an Themen abarbeiten, die für ihren aktuellen Alltag – Kita, Miete, Arbeit – keine Lösung bieten. Sie fragt sich, ob hier Energie in die falschen Prioritäten fließt.",
+      "begruendung_selbst": "Corona war schlimm, ja. Aber jetzt brauche ich einen Kita-Platz und bezahlbare Miete. Warum verbringen die so viel Zeit mit diesem alten Thema?",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das BSW-Programm bietet Nadine in zentralen Alltagsfragen – Kita-Kosten, Mindestlohn, Mietendeckel, Lernmittelfreiheit, Ganztagsbetreuung und Bürokratieabbau bei Sozialleistungen – konkrete und direkt spürbare Verbesserungen. Gleichzeitig irritieren sie die migrationspolitischen Forderungen nach Quoten und Verteilungsregeln, die aus ihrer Sicht den sozialen Frieden gefährden und am Ende Menschen mit ähnlichen Problemen gegeneinander ausspielen. Die skeptische Haltung der Partei zu Minderheitenrechten und die starke Corona-Fokussierung verstärken ihren Eindruck, dass hier teilweise an ihren Prioritäten vorbei gedacht wird.",
+    "score": 1
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:00:21.284Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41190,
+    "output_tokens": 8625,
+    "cached_tokens": 39168,
+    "total_tokens": 49815,
+    "dauer_ms": 158132,
+    "usd": 0.066252
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Grunderwerbsteuer!",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP will einen Grunderwerbsteuer-Freibetrag für den erstmaligen Erwerb selbstgenutzten Wohneigentums einführen und diesen mit zinsvergünstigten Darlehen der Investitionsbank kombinieren, um jungen Familien den Einstieg ins Eigentum zu erleichtern.",
+      "seite": 12,
+      "zitat": "Grunderwerbsteuer-Freibetrag für den erstmaligen Erwerb selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sehen hier genau den Hebel, der ihnen bisher fehlt: Die Grunderwerbsteuer frisst einen großen Teil ihres mühsam angesparten Eigenkapitals auf. Ein Freibetrag beim ersten Erwerb würde die Einstiegshürde spürbar senken und ihre Finanzierung überhaupt erst tragfähig machen.",
+      "begruendung_selbst": "Wir sparen seit Jahren und trotzdem frisst die Grunderwerbsteuer unser Eigenkapital auf. Wenn die das wirklich durchkriegen, könnten wir endlich den Schritt wagen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauen ohne Förderbürokratie!",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP setzt auf steuerliche Investitionsanreize wie eine dauerhafte Modernisierungs-Abschreibung statt auf bürokratische Zuschussprogramme, um energetische Sanierung und barrierereduzierende Maßnahmen im Bestand zu fördern.",
+      "seite": 13,
+      "zitat": "steuerliche Investitionsanreize statt auf Förderbürokratie",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar hat bereits erlebt, wie kompliziert und zeitintensiv Förderanträge sind. Eine steuerliche Abschreibungslösung bedeutet für sie: weniger Papierkram, direkte finanzielle Entlastung und mehr Planungssicherheit bei der Modernisierung eines Bestandsobjekts.",
+      "begruendung_selbst": "Ich hab keine Lust, mich durch 40 Seiten Förderrichtlinien zu wühlen. Wenn ich das einfach von der Steuer absetzen kann, ist das genau unser Ding.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita-Öffnungszeiten, die passen!",
+      "thema": "familie",
+      "programmpunkt": "Die FDP fordert flexible Kita-Öffnungszeiten nach tatsächlichem Bedarf sowie Modellprojekte für Gemeinschaftsbüros mit Kinderbetreuung und mobile Betreuungsreserven für Schichtarbeit und ländliche Räume.",
+      "seite": 26,
+      "zitat": "flexible Öffnungszeiten nach tatsächlichem Bedarf",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener im Speckgürtel sind Tom und Jessica auf verlässliche, aber auch flexible Betreuung angewiesen. Starre Kita-Zeiten kollidieren regelmäßig mit ihren Arbeitszeiten. Flexible Modelle und Betreuungsreserven würden ihren Alltag massiv entlasten.",
+      "begruendung_selbst": "Wenn einer von uns mal früher raus muss oder länger bleibt, steht alles auf der Kippe. Flexible Betreuung wäre für uns ein echter Gamechanger.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Sprachförderung vor der Schule!",
+      "thema": "familie",
+      "programmpunkt": "Die FDP will eine verbindliche Sprachstandsfeststellung mit drei Jahren und gezielte Förderung bis zum Schulbeginn, damit alle Kinder die deutsche Sprache sicher beherrschen.",
+      "seite": 26,
+      "zitat": "verbindliche Sprachstandsfeststellung mit Vollendung des 3. Lebensjahres",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica legen Wert auf gute Bildungschancen für ihr Kind. Eine frühe, verbindliche Sprachförderung gibt ihnen Sicherheit, dass ihr Kind gut vorbereitet in die Schule startet – unabhängig von der Kita-Qualität vor Ort.",
+      "begruendung_selbst": "Wir wollen, dass unser Kind von Anfang an gute Chancen hat. Wenn die Sprache früh geprüft und gefördert wird, ist das genau richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit dem Sanierungs-Zwang!",
+      "thema": "energie",
+      "programmpunkt": "Die FDP kritisiert zusätzliche Berichtspflichten und Audits im Energieeffizienzgesetz und fordert deren Abschaffung, da sie keine reale Energieeinsparung bewirkten, sondern nur Bürokratie erzeugten.",
+      "seite": 14,
+      "zitat": "sämtliche Berichtspflichten und Audits des Energieeffizienzgesetzes abschaffen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar ärgert sich über energetische Auflagen, die Bauen und Sanieren verteuern, ohne aus ihrer Sicht spürbaren Nutzen zu bringen. Die FDP-Position bestätigt ihre Skepsis gegenüber überbordenden Vorgaben, die ihren Traum vom Eigenheim zusätzlich verteuern.",
+      "begruendung_selbst": "Jede neue Vorschrift treibt die Baukosten hoch. Am Ende sparen wir keine Kilowattstunde, zahlen aber tausende Euro mehr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Überstunden steuerfrei – ja!",
+      "thema": "steuern",
+      "programmpunkt": "Die FDP will jede Überstunde steuerfrei stellen und die Einkommensteuer über eine Bundesratsinitiative senken, damit sich Mehrleistung finanziell lohnt.",
+      "seite": 40,
+      "zitat": "jede Überstunde steuerfrei stellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Angestellte mit mittleren Einkommen spüren Tom und Jessica, wie viel von ihrem Brutto übrig bleibt. Steuerfreie Überstunden würden ihnen direkt mehr Netto bringen – Geld, das sie für die Tilgung oder den Hauskauf einsetzen könnten.",
+      "begruendung_selbst": "Wenn ich mehr arbeite, soll auch mehr bei uns ankommen. Das wäre endlich mal eine Entlastung, die wir direkt im Geldbeutel merken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "30 Minuten zur Kreisstadt!",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP will sicherstellen, dass jeder Ort in maximal 30 Minuten an ein Mittelzentrum, eine Kreisstadt oder die Autobahn angebunden ist, und setzt auf zügigen Ausbau von Landes- und Kreisstraßen.",
+      "seite": 71,
+      "zitat": "Niemand soll länger als 30 Minuten bis zur Kreisstadt brauchen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Pendler im Speckgürtel sind Tom und Jessica auf eine verlässliche Straßenanbindung angewiesen. Das 30-Minuten-Ziel gibt ihnen die Hoffnung, dass ihr täglicher Arbeitsweg planbarer und kürzer wird.",
+      "begruendung_selbst": "Wir pendeln jeden Tag. Wenn die Straßen endlich vernünftig ausgebaut werden, gewinnen wir Lebenszeit zurück.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bürgergeld-Sanktionen? Nicht unser Thema!",
+      "thema": "familie",
+      "programmpunkt": "Die FDP will das Bürgergeld reformieren, Mitwirkungspflichten verschärfen, Sanktionen konsequent ausschöpfen und gemeinnützige Arbeitspflichten für Langzeitarbeitslose einführen.",
+      "seite": 40,
+      "zitat": "Arbeitspflichten, welche als Brücke in den regulären Arbeitsmarkt dienen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica arbeiten beide Vollzeit und zahlen Steuern. Sie haben wenig Sympathie für ein System, das aus ihrer Sicht Anreize zur Arbeitsaufnahme schwächt. Allerdings berührt sie dieses Thema nur indirekt – ihr Fokus liegt auf Eigentum und Familie, nicht auf Sozialpolitik.",
+      "begruendung_selbst": "Wir rackern uns ab und andere kriegen's hinterhergeworfen. Aber ehrlich: Das ist nicht unser Hauptproblem.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Atomkraft? Eher nicht unser Ding.",
+      "thema": "energie",
+      "programmpunkt": "Die FDP fordert den Wiedereinstieg in die Kernenergie, ein Neubauprogramm für moderne Reaktoren und die Ansiedlung von Kerntechnologie-Industrie in Sachsen-Anhalt.",
+      "seite": 14,
+      "zitat": "Wiedereinstieg in die Nutzung der Kernenergie",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als junge Familie mit Kleinkind ist das Paar sensibel bei Themen wie Sicherheit und langfristigen Risiken. Die Atomkraft-Begeisterung der FDP stößt bei ihnen auf Skepsis – sie bevorzugen pragmatische, risikoarme Energielösungen, die ihre Kosten senken, ohne neue Unsicherheiten zu schaffen.",
+      "begruendung_selbst": "Mit Kind im Haus denken wir anders über Risiken. Atomkraft ist für uns keine Lösung, die sich gut anfühlt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Privatisierung? Was bringt uns das?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP fordert eine umfassende Privatisierungsoffensive bei Landesbeteiligungen an Unternehmen, da staatliche Beteiligungen unwirtschaftlich seien und den Markt verzerrten.",
+      "seite": 9,
+      "zitat": "umfassende Privatisierungsoffensive zu starten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica sind pragmatisch orientiert und fragen sich, was Privatisierungen konkret für ihre Lebenshaltungskosten oder die Daseinsvorsorge bedeuten. Sie befürchten, dass Privatisierung im Zweifel zu höheren Preisen bei öffentlicher Infrastruktur führt, ohne dass sie als junge Familie davon profitiert.",
+      "begruendung_selbst": "Wenn der Staat seine Anteile verkauft, wird's für uns am Ende teurer. Was haben wir als Familie davon?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Gendern – aber auch keine Hilfe.",
+      "thema": "familie",
+      "programmpunkt": "Die FDP lehnt starre Geschlechterquoten ab und will das Frauenfördergesetz zu einem Gleichstellungsgesetz weiterentwickeln, das auf individuelle Fähigkeiten statt auf Geschlecht setzt.",
+      "seite": 42,
+      "zitat": "Starre Geschlechterquoten lehnen wir ab",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jessica sieht in der Ablehnung von Quoten und der Fokussierung auf 'individuelle Fähigkeiten' wenig konkreten Nutzen für ihre eigene Situation als berufstätige Mutter. Sie wünscht sich eher praktische Unterstützung bei der Vereinbarkeit als ideologische Debatten über Gleichstellungsinstrumente.",
+      "begruendung_selbst": "Quoten brauche ich nicht – aber echte Hilfe bei Kita und Karriere schon. Da kommt bei mir zu wenig an.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica finden bei der FDP starke Angebote zu ihren Kernthemen Eigentum, Grunderwerbsteuer und Bürokratieabbau beim Bauen. Die Entlastungsvorschläge bei Erwerbsnebenkosten und steuerlichen Anreizen treffen genau ihren Schmerzpunkt. Gleichzeitig irritieren sie Positionen zu Atomkraft und Privatisierung, die aus ihrer Sicht neue Risiken oder keine konkreten Vorteile für junge Familien bringen. Insgesamt überwiegt die Zustimmung bei den für sie existenziellen Wohn- und Steuerthemen deutlich.",
+    "score": 1
+  }
+}

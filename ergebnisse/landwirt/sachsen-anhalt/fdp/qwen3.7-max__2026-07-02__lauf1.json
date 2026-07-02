@@ -1,0 +1,174 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:32:09.109Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41237,
+    "output_tokens": 3405,
+    "cached_tokens": 39168,
+    "total_tokens": 44642,
+    "dauer_ms": 67214,
+    "usd": 0.0264445
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Kontrollen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Dichte der Vor-Ort-Kontrollen im Agrarbereich soll von 5% auf 1% der Betriebe gesenkt werden; Ämter sollen als beratende Partner statt als Kontrollinstanz auftreten.",
+      "seite": 17,
+      "zitat": "Die Dichte der Vor-Ort-Kontrollen soll von 5% auf 1% der Betriebe gesenkt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank empfindet die ständigen Vor-Ort-Kontrollen als Misstrauensbeweis und Zeitfresser. Die Ankündigung, die Kontrolldichte drastisch zu senken und Ämter als Partner zu positionieren, trifft seinen Kernwunsch nach Anerkennung und weniger Gängelung.",
+      "begruendung_selbst": "Endlich hört mal jemand zu! Ich verbring mehr Zeit mit Kontrolleuren als auf dem Feld. Wenn die Ämter mich beraten statt bevormunden, ist das ein Anfang.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wolf muss gemanagt werden!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die FDP fordert ein aktives Wolfsmanagement mit Populationsuntergrenzen, konsequenter Entschädigung bei Rissen und einer Trennung der Rechtskreise im Jagdrecht.",
+      "seite": 22,
+      "zitat": "Die Population des Wolfes muss so gemanagt werden können, dass Artenund Nutztierschutz",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Frank ist der Wolf kein abstraktes Naturschutzthema, sondern eine konkrete Bedrohung seiner Mutterkuhherde. Die Forderung nach Populationsmanagement und verlässlicher Entschädigung bestätigt seine tägliche Erfahrung.",
+      "begruendung_selbst": "Meine Kühe stehen auf der Weide – und ich soll zusehen, wie der Wolf zuschlägt? Endlich sagt mal jemand, dass Nutztierschutz auch was zählt!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Stilllegung mit Steuergeld!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Förderung von Waldstilllegungen durch öffentliche Mittel soll beendet werden; stattdessen soll aktive, nachhaltige Waldbewirtschaftung gefördert werden.",
+      "seite": 22,
+      "zitat": "Die Förderung von Waldstilllegungen durch öffentliche Mittel sind zu beenden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank bewirtschaftet seinen Wald aktiv und ärgert sich über Prämien für das Nichtstun. Die FDP-Position, Stilllegungen nicht mehr zu fördern, sondern aktive Bewirtschaftung zu honorieren, entspricht seinem Leistungsverständnis.",
+      "begruendung_selbst": "Ich pflanze, ich pflege, ich ernte – und der Nachbar kriegt Geld fürs Sitzenlassen? Das ist doch kein Naturschutz, das ist Faulheit auf Staatskosten!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Doppelbesteuerung beim Boden weg!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die doppelte Grunderwerbsteuer beim Erwerb landwirtschaftlicher Flächen über die Landgesellschaft soll abgeschafft werden.",
+      "seite": 16,
+      "zitat": "Landwirte beim Grunderwerb doppelt zu besteuern, finden wir nicht fair.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Boden ist Franks wichtigstes Produktionsmittel. Die doppelte Besteuerung beim Kauf über die Landgesellschaft empfindet er als ungerecht und als Hindernis für die Hofnachfolge. Die FDP-Forderung bestätigt sein Gerechtigkeitsempfinden.",
+      "begruendung_selbst": "Wenn meine Tochter den Hof übernehmen will, braucht sie Boden – und nicht noch mal extra Steuern drauf. Das ist doch Abzocke!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie beim Agrarantrag runter!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Der Agrarantrag soll praxistauglicher werden, IT-Lösungen bundesweit vereinheitlicht und die Fehlertoleranz bei der Flächenprämie auf 5% erhöht werden.",
+      "seite": 17,
+      "zitat": "Die Fehlertoleranz muss auf 5% der geförderten Fläche",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank verbringt jedes Jahr Tage mit dem Agrarantrag und fürchtet Sanktionen bei minimalen Abweichungen. Die Forderung nach höherer Fehlertoleranz und besserer Software entlastet ihn direkt.",
+      "begruendung_selbst": "Ein halber Prozent Fehler – und schon kommt der Bescheid. Ich bin Landwirt, kein Buchhalter! Endlich will jemand die Toleranz hochsetzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tiertransporte nicht verbieten!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Der verschärfte Tiertransporterlass von 2019 soll abgeschafft werden; die EU-Verordnung reiche für den Tierschutz aus.",
+      "seite": 19,
+      "zitat": "Den Tiertransporterlass aus dem Jahre 2019 wollen wir abschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die über das EU-Recht hinausgehenden Landesvorgaben zu Tiertransporten erschweren Franks Betriebsabläufe. Die FDP-Position, auf das europäische Mindestmaß zurückzugehen, bestätigt seine Forderung nach Verhältnismäßigkeit.",
+      "begruendung_selbst": "Brüssel hat Regeln gemacht – und Magdeburg packt noch mal drauf. Wozu? Meine Tiere werden ordentlich transportiert, das weiß ich selbst am besten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentum stärken, nicht enteignen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Neuausweisungen von Naturschutzgebieten sollen gut begründet werden, da sie Bewirtschaftungseinschränkungen und Eingriffe ins Eigentum bedeuten.",
+      "seite": 20,
+      "zitat": "Neuausweisung von Flächen für den Naturschutz",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fürchtet, dass immer mehr seiner Flächen unter Schutz gestellt werden, ohne dass er dafür angemessen entschädigt wird. Die FDP-Position, Eigentumseingriffe streng zu begründen, gibt ihm Rückendeckung.",
+      "begruendung_selbst": "Mein Land, mein Risiko, meine Arbeit. Wenn die mir vorschreiben, was ich darauf machen darf, ohne mich zu fragen – dann ist das Enteignung durch die Hintertür.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "CO2-Speicherung auf meinem Acker?",
+      "thema": "klima",
+      "programmpunkt": "Die FDP will Onshore-CCS (CO2-Speicherung an Land) ermöglichen und Modellregionen für Pilotprojekte suchen.",
+      "seite": 23,
+      "zitat": "Wir wollen die Länderklausel des novellierten Kohlendioxidspeicherungsgesetzes",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank sieht CCS als unkalkulierbares Risiko für seine Böden und die Akzeptanz in der Region. Die Idee, CO2 unter seinen Flächen zu speichern, ohne dass er davon profitiert, weckt Misstrauen gegenüber neuen Großprojekten auf seinem Land.",
+      "begruendung_selbst": "Erst die Windräder, jetzt wollen die mir noch CO2 unter den Acker pumpen? Wer fragt mich eigentlich, ob ich das will? Und was, wenn was schiefgeht?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sonderwirtschaftszone – und ich?",
+      "thema": "wirtschaft",
+      "programmpunkt": "In Sonderwirtschaftszonen wie Leuna sollen für Neuansiedlungen sämtliche Berichtspflichten und Steuern erlassen werden.",
+      "seite": 7,
+      "zitat": "Für Produktionsbetriebe fallen alle Berichtspflichten und Vorschriften",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Frank beobachtet mit Skepsis, dass Großkonzerne wie Intel massive Befreiungen erhalten, während er als Mittelständler weiterhin unter Bürokratie und Auflagen leidet. Das verstärkt sein Gefühl der Ungleichbehandlung.",
+      "begruendung_selbst": "Intel kriegt Steuerfreiheit und null Bürokratie – und ich soll weiter jeden Mist dokumentieren? Das ist doch keine Marktwirtschaft, das ist Vetternwirtschaft!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kernkraft hilft mir nicht!",
+      "thema": "energie",
+      "programmpunkt": "Die FDP fordert den Wiedereinstieg in die Kernenergie und den Neubau moderner Reaktoren, auch in Sachsen-Anhalt.",
+      "seite": 14,
+      "zitat": "Wiedereinstieg in die Nutzung der Kernenergie.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Frank braucht bezahlbaren Strom für Bewässerung, Trocknung und Kühlung – jetzt, nicht in 15 Jahren. Die Kernkraft-Debatte erscheint ihm als abstraktes Großprojekt, das seine akuten Energiekosten nicht senkt.",
+      "begruendung_selbst": "Kernkraft? Bis die steht, bin ich in Rente! Ich brauch jetzt günstigen Strom für meine Trocknung, nicht in zwanzig Jahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fracking – und mein Grundwasser?",
+      "thema": "energie",
+      "programmpunkt": "Die FDP will das pauschale Fracking-Verbot durch ein wissenschaftsbasiertes Genehmigungsregime ersetzen und heimisches Schiefergas nutzen.",
+      "seite": 15,
+      "zitat": "Das pauschale Verbot des unkonventionellen Frackings durch ein Genehmigungsregime ersetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Franks Betrieb hängt von sauberem Grundwasser ab. Die Aussicht auf Fracking in seiner Region weckt existenzielle Sorgen um die Wasserqualität und die langfristige Nutzbarkeit seiner Flächen.",
+      "begruendung_selbst": "Mein Wasser ist mein Leben. Wenn die da unten Gas rausfracken und mir das Grundwasser versauen – wer haftet dann? Die sind doch längst weg, wenn die Schäden kommen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Bürgergeld kürzen – trifft die Falschen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP will das Bürgergeld reformieren, Sanktionen konsequent ausschöpfen und gemeinnützige Arbeitspflichten einführen.",
+      "seite": 40,
+      "zitat": "Wer staatliche Hilfe in Anspruch nimmt, muss",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Frank kennt im Dorf Menschen, die auf Unterstützung angewiesen sind, ohne selbst verschuldet in Not geraten zu sein. Die harte Rhetorik gegenüber Bürgergeldempfängern stößt ihm als jemandem, der selbst schwankende Einkommen hat, teilweise sauer auf – er fürchtet, dass am Ende die Schwächsten leiden.",
+      "begruendung_selbst": "Ich weiß, was harte Arbeit ist. Aber wenn einer krank wird oder der Betrieb pleitegeht – dann ist das Bürgergeld die letzte Rettung. Da darf man nicht mit der Keule kommen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank sieht in der FDP-Position zur Landwirtschaft viele seiner Kernforderungen bestätigt: weniger Kontrollen, Wolfsmanagement, Bürokratieabbau beim Agrarantrag und Schutz des Eigentums. Gleichzeitig irritieren ihn Großprojekte wie CCS und Fracking, die seine Flächen und sein Grundwasser gefährden könnten, sowie die Sonderbehandlung von Konzernen. Die Energiepolitik erscheint ihm zu langfristig und zu wenig auf seine akuten Kostenprobleme zugeschnitten.",
+    "score": 1
+  }
+}

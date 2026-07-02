@@ -1,0 +1,125 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:54:52.140Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66125,
+    "output_tokens": 8085,
+    "cached_tokens": 59008,
+    "total_tokens": 74210,
+    "dauer_ms": 153155,
+    "usd": 0.075912
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich keine Heizungs-Hysterie mehr!",
+      "thema": "energie",
+      "programmpunkt": "Die Wärmewende soll praxisnah, technologieoffen und ohne starre Vorgaben gestaltet werden, statt auf ideologische Einheitslösungen zu setzen.",
+      "seite": 26,
+      "zitat": "Statt starrer Vorgaben setzen wir auf realistische Übergänge, Flexibilität und Planungssicherheit.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine ist genervt vom ständigen Hin und Her der Klimapolitik, das ihre Kunden verunsichert und Aufträge platzen lässt. Die Forderung nach praxisnahen, technologieoffenen Lösungen und Planungssicherheit spricht ihr direkt aus der Seele, da sie so wieder verlässlich beraten und installieren kann.",
+      "begruendung_selbst": "Ich brauche Regeln, die auf der Baustelle funktionieren, und Kunden, die nicht vor lauter Panik vor neuen Gesetzen den Heizungstausch auf Eis legen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Akten, mehr Baustelle!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Einführung eines landesweiten, digitalen Unternehmensportals für medienbruchfreie Kommunikation mit Behörden und Abbau bürokratischer Hürden.",
+      "seite": 21,
+      "zitat": "Für Unternehmen wollen wir ein landesweites Unternehmensportal mit einem einheitlichen Zugang",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Inhaberin verbringt Sabine ihre Abende oft mit Papierkram und Anträgen. Ein zentrales, digitales Portal, das Genehmigungen und Meldungen bündelt, würde ihr reale Arbeitszeit zurückgeben und den Betrieb spürbar entlasten.",
+      "begruendung_selbst": "Wenn ich abends um acht noch Formulare für drei verschiedene Ämter ausfülle, fehlt mir die Zeit für meine Leute und meine Familie. Ein Portal für alles wäre ein Traum.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerk ist Zukunft, nicht Notnagel.",
+      "thema": "arbeit",
+      "programmpunkt": "Gezielte Förderung der Meisterausbildung und Aufwertung handwerklicher Berufe, um den Nachwuchs zu sichern und die regionale Wertschöpfung zu stärken.",
+      "seite": 23,
+      "zitat": "Das BSW unterstützt eine gezielte Meisterausbildungsförderung, um handwerkliche Berufe aufzuwerten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine kämpft täglich um Azubis und Gesellen. Dass die Partei den Meisterbrief und das Handwerk explizit aufwerten und finanziell fördern will, bestätigt ihren Einsatz für den Nachwuchs und ihre eigene Lebensleistung.",
+      "begruendung_selbst": "Ich renne mir die Beine in den Bauch, um junge Leute fürs SHK-Handwerk zu begeistern. Wenn die Politik den Meisterbrief endlich wieder als das anerkennt, was er ist – ein Qualitätsversprechen – hilft mir das im Alltag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Betriebsübergabe ohne Insolvenzrisiko.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Finanzierungsmöglichkeiten und Rahmenbedingungen für Unternehmensübergaben sollen vereinfacht werden, um den Bestand von Mittelstandsbetrieben zu sichern.",
+      "seite": 21,
+      "zitat": "Aber auch bei Unternehmensübergaben und -übernahmen müssen Finanzierungsmöglichkeiten einfacher und transparenter",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die ungeklärte Nachfolge und mögliche Hürden sind Sabines größte Sorge für die Zukunft ihres Lebenswerks. Das Programm adressiert genau diese Übergabeproblematik im Mittelstand und gibt ihr Hoffnung auf planbare Rahmenbedingungen.",
+      "begruendung_selbst": "Ich habe diesen Betrieb über Jahrzehnte aufgebaut. Wenn ich ihn in ein paar Jahren übergebe, darf das nicht an unklaren Finanzierungen oder bürokratischen Fallstricken scheitern.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Meisterbrief ist kein Luxus!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will prüfen, ob in bestimmten Handwerksberufen die Meisterpflicht abgeschafft werden kann, um Gründungen zu erleichtern.",
+      "seite": 23,
+      "zitat": "die Meisterbindung nicht zwingend erforderlich ist, um die Gründung von Gewerben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als SHK-Meisterin weiß Sabine, dass es bei Gas, Wasser und Strom um Leib und Leben geht. Die Aufweichung der Meisterpflicht empfindet sie als Abwertung ihrer harten Qualifikation und als Gefahr für die Qualität und Sicherheit im Handwerk.",
+      "begruendung_selbst": "An Gas- und Wasserleitungen darf sich kein Pfuscher versuchen! Den Meisterbrief zu verwässern, gefährdet die Kunden und entwertet alles, wofür ich jahrelang geschuftet habe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarif-Zwang erdrosselt den Mittelstand.",
+      "thema": "wirtschaft",
+      "programmpunkt": "Öffentliche Aufträge und staatliche Fördermittel sollen nur noch an Unternehmen vergeben werden, die strikt an Tarifverträge gebunden sind.",
+      "seite": 22,
+      "zitat": "Öffentliche Aufträge und Fördermittel dürfen nur an tarifgebundene Unternehmen vergeben werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine zahlt ihren acht Leuten faire, oft leistungsorientierte Löhne, ist aber als kleiner Betrieb nicht zwingend im starren Innungstarif. Eine starre Tariftreue-Pflicht für Aufträge und Förderungen schließt ihren Betrieb pauschal aus und ignoriert die Flexibilität, die kleine Handwerksbetriebe brauchen.",
+      "begruendung_selbst": "Ich zahle meinen Leuten gute Löhne, oft mehr als der Tarif, weil sie super arbeiten. Aber wenn ich für eine Förderung oder einen städtischen Auftrag zwingend im Tarifverband sein muss, ist das pure Gängelung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Familienbetriebe nicht kaputtbesteuern!",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei fordert eine Reform der Erbschaftsteuer, um Ausnahmeregelungen für große Vermögen zu streichen und diese stärker zu besteuern.",
+      "seite": 36,
+      "zitat": "Diese Ungleichbehandlung ist ungerecht und verfassungswidrig. Große Vermögen dürfen nicht weiter geschont werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines Betrieb ist ihr Lebenswerk und ihre Altersvorsorge. Die pauschale Rhetorik gegen Ausnahmeregelungen bei der Erbschaftsteuer weckt in ihr die Angst, dass bei einer Betriebsübergabe an die nächste Generation die Substanz des Familienbetriebs durch Steuern zerstört wird.",
+      "begruendung_selbst": "Wenn die an der Erbschaftsteuer schrauben und Schlupflöcher stopfen wollen, trifft das am Ende uns Mittelständler. Mein Betrieb ist kein Milliardenerbe, sondern Arbeitsplätze – die darf man nicht kaputtbesteuern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "15 Euro Mindestlohn? Unbezahlbar!",
+      "thema": "arbeit",
+      "programmpunkt": "Der gesetzliche Mindestlohn soll ausnahmslos auf 15,00 Euro pro Stunde angehoben werden, um Niedriglöhne zu beenden.",
+      "seite": 35,
+      "zitat": "fordern wir einen gesetzlichen Mindestlohn von 15,00 Euro pro Stunde.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Arbeitgeberin mit acht Beschäftigten treffen massive, staatlich verordnete Lohnsprünge Sabine direkt in der Liquidität. Sie befürchtet, dass solche Eingriffe ohne Rücksicht auf die Margen im Handwerk ihre Kalkulation und Wettbewerbsfähigkeit zerstören.",
+      "begruendung_selbst": "Klar sollen die Leute ordentlich verdienen. Aber wenn der Staat den Mindestlohn per Dekret hochtreibt, ohne dass ich die Preise beim Kunden einfach so durchdrücken kann, geht das direkt auf meine Existenz.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine sieht im Programm starke Impulse für ihren Handwerksalltag, besonders bei der Forderung nach praxisnaher Wärmewende und Bürokratieabbau. Gleichzeitig alarmieren sie die Pläne zur Aufweichung der Meisterpflicht, starre Tariftreue-Vorgaben und mögliche Steuerlasten bei der Betriebsübergabe. Insgesamt überwiegt die Erleichterung über das Ende der ideologischen Heizungspolitik, doch die wirtschaftspolitischen Eingriffe in Lohn- und Steuerstrukturen wecken starke Bedenken.",
+    "score": 0
+  }
+}

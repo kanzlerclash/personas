@@ -1,0 +1,173 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:01:18.337Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82449,
+    "output_tokens": 8925,
+    "cached_tokens": 78336,
+    "total_tokens": 91374,
+    "dauer_ms": 163305,
+    "usd": 0.08009775
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich beitragsfreie Kitas!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei fordert, dass die Bildung in Kindertageseinrichtungen für alle Eltern beitragsfrei wird und die Personalschlüssel verbessert werden.",
+      "seite": 29,
+      "zitat": "die Bildung in Kindertageseinrichtungen für alle Eltern beitragsfrei wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica belasten die monatlichen Kita-Kosten erheblich, da sie beide arbeiten und auf einen Kitaplatz angewiesen sind. Die Aussicht auf Beitragsfreiheit entlastet ihr Haushaltsbudget direkt und erhöht ihre finanzielle Spielräume für die Eigenkapitalbildung.",
+      "begruendung_selbst": "Jeden Monat gehen hunderte Euro für die Kita drauf – wenn das wegfällt, können wir endlich mehr zur Seite legen für unser Haus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsanspruch auf Ganztagsbetreuung",
+      "thema": "familie",
+      "programmpunkt": "Jedes Kind soll einen uneingeschränkten Rechtsanspruch auf ganztägige Betreuung von 10 Stunden haben.",
+      "seite": 29,
+      "zitat": "jedes Kind einen uneingeschränkten Rechtsanspruch auf eine ganztägige Betreuung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener-Paar sind Tom und Jessica auf verlässliche, lange Betreuungszeiten angewiesen. Ein Rechtsanspruch gibt ihnen Planungssicherheit für ihre Berufstätigkeit und die Vereinbarkeit von Familie und Job.",
+      "begruendung_selbst": "Wir müssen beide arbeiten – wenn die Kita verlässlich 10 Stunden abdeckt, können wir endlich normal unseren Jobs nachgehen, ohne ständig zu jonglieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozialtarif fürs Internet",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Partei will einen Sozialtarif für Internet einführen: maximal 20 Euro monatlich für 100 Mbit/s für Empfänger von Sozialleistungen.",
+      "seite": 149,
+      "zitat": "Maximum 20 Euro/Monat für 100 Mbit/s f ür Empfänger:innen von Sozialleistungen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sehen digitale Teilhabe pragmatisch: Wer wenig verdient, soll nicht abgehängt werden. Gleichzeitig entlastet ein günstiger Basistarif auch Familien in der Aufbauphase, die jeden Euro umdrehen.",
+      "begruendung_selbst": "Klar, Internet muss bezahlbar sein – das hilft nicht nur den Schwächsten, sondern auch Familien wie uns, die jeden Euro zweimal umdrehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung für energetische Sanierung",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will eine nach Einkommensklassen gestaffelte Förderung für energetische Sanierung und Heizungstausch bei selbstgenutzten Eigenheimen.",
+      "seite": 85,
+      "zitat": "nach Einkommensklassen gestaffelte Förderung für die energetische Sanierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sorgen sich, dass energetische Auflagen beim Bauen und Sanieren die Kosten zusätzlich treiben. Eine einkommensgestaffelte Förderung würde ihnen als Mittelstands-Familie gezielt helfen, die Mehrkosten zu stemmen.",
+      "begruendung_selbst": "Wenn wir ein Haus kaufen, müssen wir auch noch die Heizung tauschen und dämmen – da wäre eine Förderung, die nach Einkommen gestaffelt ist, endlich mal eine echte Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nulltarif im Nahverkehr",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will den ÖPNV mittelfristig landesweit zum Nulltarif anbieten und kurzfristig günstige Sozial- und Familientickets einführen.",
+      "seite": 102,
+      "zitat": "langfristig kostenfreien ÖPNV für Alle",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Pendler im Speckgürtel fahren Tom und Jessica täglich mit dem Auto oder ÖPNV zur Arbeit. Ein kostenloser oder deutlich günstigerer Nahverkehr würde ihre monatlichen Mobilitätskosten spürbar senken.",
+      "begruendung_selbst": "Wir pendeln jeden Tag – wenn Bus und Bahn kostenlos wären, könnten wir das Auto öfter stehen lassen und sparen nebenbei noch ordentlich.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Keine Hilfe beim Eigentum!",
+      "thema": "wohnen",
+      "programmpunkt": "Fördermittel für den Wohnungsbau sollen ausschließlich für unbefristet gebundenen sozialen Mietwohnungsbau verwendet werden, ausdrücklich nicht für die Förderung von Eigentum.",
+      "seite": 83,
+      "zitat": "Fördermittel für den Wohnungsbau nur für unbefristet gebundenen sozialen Mietwohnungsbau",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica wollen Eigentum aufbauen, aber die Partei lehnt eine Förderung von Wohneigentum explizit ab. Für sie als junge Familie mit mittlerem Einkommen, die auf Unterstützung beim Eigenkapital oder bei den Erwerbsnebenkosten angewiesen wäre, ist das ein direkter Schlag.",
+      "begruendung_selbst": "Wir wollen kein Vermögen erben müssen, um bauen zu dürfen – aber hier wird Eigentum für Familien wie uns aktiv ausgeschlossen. Wir sollen ewig Miete zahlen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermögenssteuer trifft uns!",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei fordert eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro.",
+      "seite": 17,
+      "zitat": "Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn Tom und Jessica aktuell keine Million besitzen, sehen sie eine Vermögenssteuer kritisch: Sie fürchten, dass langfristig auch selbstgenutztes Wohneigentum oder betriebliche Vermögen erfasst werden könnten. Zudem widerspricht die Steuer ihrem Grundwert, dass sich Leistung und Sparen lohnen sollen.",
+      "begruendung_selbst": "Erst sparen wir mühsam Eigenkapital, und dann will der Staat jedes Jahr zugreifen? Das bestraft doch genau die, die sich was aufbauen wollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gemeindewirtschaftssteuer belastet",
+      "thema": "steuern",
+      "programmpunkt": "Die Gewerbesteuer soll zu einer Gemeindewirtschaftssteuer erweitert werden, die auch Solo-Selbstständige und kleine Dienstleister erfasst.",
+      "seite": 18,
+      "zitat": "Alle selbstständig erwirtschafteten Einkommen werden einbezogen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica denken langfristig auch über Selbstständigkeit oder Nebentätigkeiten nach. Eine Ausweitung der Gewerbesteuer auf alle selbstständigen Einkommen empfinden sie als zusätzliche Belastung für Menschen, die sich etwas aufbauen wollen.",
+      "begruendung_selbst": "Wenn ich mich mal selbstständig machen will oder nebenbei freiberuflich arbeite, soll ich sofort eine neue Steuer zahlen? Das bremst doch jeden, der was wagen will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietpreisbremse statt Bauland",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei setzt auf Mietpreisbremse, Rekommunalisierung und eine Landeswohnungsbaugesellschaft statt auf die Schaffung von Bauland und Eigentumsförderung.",
+      "seite": 82,
+      "zitat": "uns für eine Mietpreisbremse einsetzen und die gemeinnützige Wohnungswirtschaft stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica wollen raus aus der Miete und ins Eigentum. Eine Politik, die primär auf Mietpreisbremse und kommunalen Wohnungsbau setzt, hilft ihnen als Mietern kurzfristig, ignoriert aber ihren zentralen Wunsch nach bezahlbarem Bauland und Eigentumsförderung.",
+      "begruendung_selbst": "Mietpreisbremse ist nett, aber wir wollen doch endlich kaufen! Wo ist das günstige Bauland? Wo sind die niedrigeren Nebenkosten? Das fehlt komplett.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Passivhaus-Pflicht verteuert Bauen",
+      "thema": "energie",
+      "programmpunkt": "Für Neubauten sollen Passivhausstandards festgelegt und nachhaltige Baustoffe wie Holz, Hanf oder Stroh gefördert werden.",
+      "seite": 108,
+      "zitat": "für Neubauten Passivhausstandards festlegen und nachhaltige Baustoffe wie Holz, Hanf oder Stroh fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica rechnen jeden Cent beim Bauen durch. Passivhausstandards als Pflicht bedeuten aus ihrer Sicht massive Mehrkosten, die ihr ohnehin knappes Budget überfordern. Sie befürchten, dass solche Auflagen den Traum vom Eigenheim endgültig unbezahlbar machen.",
+      "begruendung_selbst": "Passivhaus als Pflicht? Das treibt die Baukosten doch nochmal um 20 bis 30 Prozent nach oben. Wer soll das bezahlen, wenn die Zinsen schon so hoch sind?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine neuen Autobahnen – Pendler leiden",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei lehnt den Bau neuer Autobahnen ab und priorisiert stattdessen den Ausbau von ÖPNV, Rad- und Fußverkehr.",
+      "seite": 105,
+      "zitat": "Keine neuen Autobahnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Pendler im Speckgürtel sind Tom und Jessica auf das Auto angewiesen. Die Ablehnung neuer Autobahnen und Straßenbauprojekte trifft sie direkt, da sie längere Fahrzeiten und mehr Staus auf bestehenden Strecken befürchten.",
+      "begruendung_selbst": "Wir pendeln jeden Tag mit dem Auto – wenn keine Straßen ausgebaut werden, stehen wir noch länger im Stau. ÖPNV im Umland ist doch oft ein Witz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Solarpflicht auf dem Eigenheim",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will eine Solarpflicht für Neubauten und eine Vorbildpflicht der öffentlichen Hand für Solaranlagen auf allen geeigneten Gebäuden.",
+      "seite": 107,
+      "zitat": "Photovoltaik auf Dächern priorisieren, mit Solarpflicht für Neubauten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica befürchten, dass eine Solarpflicht die Baukosten weiter erhöht. Zwar sind sie grundsätzlich offen für Solarenergie, aber eine verpflichtende Auflage ohne ausreichende Förderung empfinden sie als zusätzliche finanzielle Hürde.",
+      "begruendung_selbst": "Noch eine Pflicht obendrauf – Solaranlage muss sein, Passivhaus muss sein. Am Ende kostet unser Haus doppelt so viel wie geplant, und keiner hilft uns dabei.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica finden bei der Linken einige familienfreundliche Ansätze wie beitragsfreie Kitas, Ganztagsbetreuung und energetische Sanierungsförderung. Gleichzeitig ist die Partei für sie als aufstiegsorientierte Doppelverdiener, die Eigentum aufbauen wollen, in zentralen Fragen konträr: Die explizite Ablehnung von Eigentumsförderung, die Fokussierung auf Mietwohnungsbau, zusätzliche Steuern und strenge Bauauflagen wie Passivhaus- und Solarpflicht treffen ihre Lebensplanung direkt. Die Verkehrspolitik mit Ablehnung neuer Straßen frustriert sie als Pendler im Speckgürtel.",
+    "score": -1
+  }
+}

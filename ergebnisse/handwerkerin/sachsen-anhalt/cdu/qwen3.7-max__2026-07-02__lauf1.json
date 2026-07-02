@@ -1,0 +1,88 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:14:47.145Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 47081,
+    "output_tokens": 7787,
+    "cached_tokens": 44288,
+    "total_tokens": 54868,
+    "dauer_ms": 142699,
+    "usd": 0.06758825
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Aktenordner!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU will ein Belastungsmoratorium für die Wirtschaft durchsetzen, das One-in-One-out-Prinzip auf Landesebene einführen und keine neuen unnötigen Berichtspflichten zulassen.",
+      "seite": 13,
+      "zitat": "Zudem setzen wir auf Landesebene das „One-in-One-out“-Prinzip um",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine erdrückt die ständige Flut an neuen Nachweis- und Dokumentationspflichten im Handwerk. Ein verbindliches Moratorium und das One-in-One-out-Prinzip geben ihr die Hoffnung, dass der Papierkram endlich weniger wird und sie sich wieder auf ihre Baustellen konzentrieren kann.",
+      "begruendung_selbst": "Ich verbringe meine Abende mit Formularen, statt Angebote zu rechnen. Wenn für jede neue Regel eine alte gestrichen wird, atme ich auf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerk ist nicht zweite Klasse!",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU betont die Gleichwertigkeit von beruflicher und akademischer Bildung, will das Handwerk gezielt aufwerten und die duale Ausbildung sowie Meisterabschlüsse finanziell und strukturell stärken.",
+      "seite": 14,
+      "zitat": "Die berufliche Bildung und das Handwerk gezielt aufwerten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Ausbilderin kämpft Sabine gegen das gesellschaftliche Stigma, dass nur ein Studium etwas zählt. Die politische Rückendeckung für das Handwerk und die gezielte Förderung von Azubis und Meistern sind für sie essenziell, um ihren Betrieb langfristig zu sichern.",
+      "begruendung_selbst": "Ich biete sichere Jobs und gute Löhne, aber die Eltern wollen ihre Kinder lieber an die Uni schicken. Das Handwerk braucht endlich die Wertschätzung, die es verdient.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Praxis statt ideologischer Verbote!",
+      "thema": "energie",
+      "programmpunkt": "Die CDU fordert eine realistische und bezahlbare kommunale Wärmeplanung, setzt auf Technologieoffenheit und lehnt ideologisch motivierte Verbote ab, die Bürger und Handwerk überfordern.",
+      "seite": 46,
+      "zitat": "Kommunale Wärmeplanung realistisch und bezahlbar gestalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das ständige Hin und Her beim Heizungsgesetz hat Sabines Kunden verunsichert und Aufträge platzen lassen. Die Forderung nach technisch machbaren Lösungen und Technologieoffenheit entspricht genau ihrem pragmatischen Arbeitsalltag im SHK-Handwerk.",
+      "begruendung_selbst": "Sag mir eine Regel, an die ich mich halten kann – aber bitte nicht jedes halbe Jahr eine neue. Meine Kunden brauchen Planungssicherheit, sonst bauen wir gar nichts mehr ein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wer kann, muss auch ran!",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU will arbeitsfähige Leistungsempfänger zur Bürgerarbeit verpflichten und das Prinzip Fördern und Fordern im Sozialstaat konsequent durchsetzen.",
+      "seite": 30,
+      "zitat": "Wer eine staatliche Leistung bekommt und arbeitsfähig ist, der muss auch etwas zurückgeben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine ärgert sich über Fachkräftemangel und gleichzeitig über Menschen, die dem Arbeitsmarkt aus ihrer Sicht ohne Not fernbleiben. Die Forderung nach verpflichtender gemeinnütziger Arbeit für arbeitsfähige Transferempfänger deckt sich mit ihrem Gerechtigkeitsempfinden.",
+      "begruendung_selbst": "Ich suche händeringend Gesellen, während andere sich im Bürgergeld einrichten. Wer gesund ist, muss auch einen Beitrag leisten – das ist doch nur fair.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Lebenswerk nicht gefährden!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU rückt die Unterstützung von Unternehmensnachfolgen in den Fokus, um altersbedingte Betriebsaufgaben im Mittelstand zu vermeiden und das Wissen der Babyboomer-Generation zu sichern.",
+      "seite": 14,
+      "zitat": "Zugleich hat die Unterstützung der Unternehmensnachfolge für uns eine hohe Priorität.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine ist 49 und der Betrieb ist ihre Altersvorsorge. Die Sorge, in zehn Jahren keinen Nachfolger zu finden oder an bürokratischen und steuerlichen Hürden zu scheitern, ist allgegenwärtig. Die explizite Nennung der Nachfolgeproblematik gibt ihr das Gefühl, dass die Politik ihre spezifische Lebenslage versteht.",
+      "begruendung_selbst": "Ich habe den Betrieb aufgebaut, aber die Übergabe an die nächste Generation darf nicht an Steuern oder Bürokratiekrämpfen scheitern. Da brauche ich verlässliche Partner.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Sabine empfindet das Programm als äußerst pragmatisch und passgenau für ihre täglichen Herausforderungen als SHK-Meisterin. Die Versprechen zu Bürokratieabbau, Technologieoffenheit bei der Wärmeplanung und die konsequente Einforderung von Eigenverantwortung bei Transferempfängern treffen exakt ihre Schmerzpunkte und Werte. Sie fühlt sich mit ihrem Lebenswerk und der Forderung nach Verlässlichkeit endlich von der Politik verstanden, was zu einer sehr positiven Gesamtbewertung führt.",
+    "score": 2
+  }
+}

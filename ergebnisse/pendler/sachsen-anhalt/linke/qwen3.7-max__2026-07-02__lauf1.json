@@ -1,0 +1,137 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:52:47.076Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82409,
+    "output_tokens": 8634,
+    "cached_tokens": 0,
+    "total_tokens": 91043,
+    "dauer_ms": 162069,
+    "usd": 0.159685
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Schichtzulagen müssen bleiben!",
+      "thema": "arbeit",
+      "programmpunkt": "Zuschläge für Nacht- und Schichtarbeit sollen gesetzlich geschützt und nicht unter Tarif abgewertet werden.",
+      "seite": 86,
+      "zitat": "keine Abwertung unter Tarif von Zuschlägen für Nacht- und Schichtarbeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf arbeitet im Schichtbetrieb und ist auf seine Zulagen angewiesen, um den Haushalt zu finanzieren. Die Garantie, dass diese hart erarbeiteten Zuschläge nicht angetastet werden, gibt ihm finanzielle Planungssicherheit.",
+      "begruendung_selbst": "Ich stehe nachts an der Maschine, da muss die Zulage stimmen. Gut, dass die da nicht ranwollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriejobs durch faire Energiepreise",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die energieintensive Industrie soll durch gesenkte Energie- und CO2-Kosten in der Transformation vor Werksschließungen geschützt werden.",
+      "seite": 92,
+      "zitat": "faire Energiepreise für den Wandel – Energie- und CO₂-Kosten in Umbauphasen senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Industriemechaniker fürchtet Toralf, dass sein Betrieb wegen hoher Energiekosten abwandert oder schließt. Das Versprechen, die Industrie in der Übergangsphase bei den Energiekosten zu entlasten, sichert direkt seinen Arbeitsplatz.",
+      "begruendung_selbst": "Wenn die Energiepreise durch die Decke gehen, macht mein Laden dicht. Die müssen die Industrie da rausnehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Auto auf dem Dorf zählt",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei erkennt explizit an, dass das Auto für Menschen in Dörfern ohne ÖPNV unverzichtbar ist.",
+      "seite": 101,
+      "zitat": "der PKW für Menschen in Dörfern ohne Anbindung an den Öffentlichen Verkehr wichtig",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fühlt sich von der Verkehrspolitik oft ignoriert, da diese meist auf städtische Radwege und Bahnen fokussiert. Die explizite Anerkennung seiner Realität auf dem Land holt ihn emotional ab.",
+      "begruendung_selbst": "Endlich sagt mal einer, dass ich ohne Auto hier im Dorf gar nicht zur Arbeit komme.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Reiche beim Klimaschutz zahlen lassen",
+      "thema": "klima",
+      "programmpunkt": "Klimaschutz soll sozial gerecht gestaltet werden, wobei die Hauptverursacher – die Reichsten – stärker belastet werden sollen.",
+      "seite": 120,
+      "zitat": "Das reichste Prozent verursacht pro Kopf in Deutschland 15-mal so viele Emissionen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ärgert sich über moralische Belehrungen beim Tanken, während andere privat fliegen. Die Fokussierung auf die Emissionen der Reichen bestätigt sein Gerechtigkeitsempfinden und seine Skepsis gegenüber der Elite.",
+      "begruendung_selbst": "Die da oben fliegen zum Gipfel und ich zahl an der Tanke drauf. Das ist doch unlogisch!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strompreise und Netzentgelte senken",
+      "thema": "energie",
+      "programmpunkt": "Die Netzentgelte sollen gesenkt werden, um die regionale Ungerechtigkeit bei den Strompreisen in Sachsen-Anhalt abzubauen.",
+      "seite": 107,
+      "zitat": "die Netzentgelte deutlich senken und damit die regionale Ungerechtigkeit abbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf zahlt in Sachsen-Anhalt überdurchschnittlich hohe Strompreise. Die Aussicht auf sinkende Netzentgelte bedeutet für ihn eine direkte, spürbare Entlastung im monatlichen Haushaltsbudget.",
+      "begruendung_selbst": "Wir produzieren hier den Strom und zahlen am meisten. Das muss endlich aufhören.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Weniger Auto fahren – unrealistisch!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei fordert eine generelle Reduzierung des motorisierten Individualverkehrs zugunsten des Umweltverbunds.",
+      "seite": 101,
+      "zitat": "Wir plädieren für eine Verkehrsreduzierung beim motorisierten Individualverkehr",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Toralf ist das Auto kein Luxus, sondern die einzige Möglichkeit, pünktlich zur Schicht zu kommen. Eine pauschale Forderung nach Verkehrsreduzierung empfindet er als realitätsfremd und bedrohlich für seinen Alltag.",
+      "begruendung_selbst": "Verkehrsreduzierung? Soll ich etwa zu Fuß zur Schicht laufen? Hier fährt doch kein Bus!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tempolimit auf der Autobahn",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke setzt sich für ein bundesweites Tempolimit auf Autobahnen ein.",
+      "seite": 104,
+      "zitat": "ein bundesweites Tempolimit auf den Autobahnen durchsetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auf seinem 45-minütigen Arbeitsweg nutzt Toralf auch Autobahnabschnitte, um Zeit zu gewinnen. Ein Tempolimit empfindet er als weitere Gängelung und unnötige Ausbremsung seines ohnehin straffen Zeitplans.",
+      "begruendung_selbst": "Wenn ich früh raus muss, will ich auf der Bahn wenigstens zügig vorankommen. Kein Tempolimit!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine neuen Autobahnen bauen",
+      "thema": "verkehr",
+      "programmpunkt": "Zum Schutz von Natur und Landschaft lehnt die Partei den Ausbau und Neubau von Autobahnen ab.",
+      "seite": 105,
+      "zitat": "Der damit verbundene Ausbau immer neuer Verkehrsadern führt zu erheblichen Einschnitten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf sieht, dass schlechte Straßen und fehlende Umgehungen im ländlichen Raum die Infrastruktur schwächen. Den Stopp von Straßenbauprojekten zugunsten der Natur hält er für eine Prioritätensetzung, die den ländlichen Raum abhängt.",
+      "begruendung_selbst": "Die Straßen hier sind voller Schlaglöcher, aber wir dürfen nichts Neues bauen. Typisch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fokus auf Radwege statt Straßen",
+      "thema": "verkehr",
+      "programmpunkt": "Fördermittel für den Straßenbau sollen an die Bedingung geknüpft werden, Rad- und Fußwege auszubauen.",
+      "seite": 104,
+      "zitat": "für den Straßenbau an die Bedingung knüpfen, Radund Fußw ege auszubauen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf ärgert sich über die städtische Perspektive der Verkehrspolitik. Wenn Geld für marode Landstraßen an den Bau von Radwegen geknüpft wird, fühlt er sich als Autofahrer auf dem Land benachteiligt.",
+      "begruendung_selbst": "Erst mal die Schlaglöcher auf der Landstraße flicken, bevor ihr hier Radwege plant!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf honoriert das Bekenntnis zum Schutz von Industriearbeitsplätzen, fairen Energiepreisen und der Absicherung von Schichtzulagen, da dies seine wirtschaftliche Existenz direkt stützt. Auch die Anerkennung des Autos als Notwendigkeit auf dem Land und die Forderung, Reiche beim Klimaschutz stärker zu belasten, treffen sein Gerechtigkeitsempfinden. Gleichzeitig stößt ihn die übergeordnete Verkehrspolitik mit Forderungen nach Verkehrsreduzierung, Tempolimits und der Priorisierung von Radwegen massiv vor den Kopf, da sie seinen ländlichen Pendleralltag ignoriert.",
+    "score": 0
+  }
+}

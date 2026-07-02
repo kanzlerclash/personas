@@ -1,0 +1,161 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:23:03.462Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69777,
+    "output_tokens": 6437,
+    "cached_tokens": 67456,
+    "total_tokens": 76214,
+    "dauer_ms": 118893,
+    "usd": 0.05693525
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Klimaneutral 2035 — endlich ernsthaft!",
+      "thema": "klima",
+      "programmpunkt": "Sachsen-Anhalt soll bis 2035 klimaneutral werden, mit verbindlichem Klimaschutzgesetz und Klimaschutz als Staatsziel in der Landesverfassung.",
+      "seite": 10,
+      "zitat": "Für ein klimaneutrales Sachsen-Anhalt bis 2035 braucht es ein ambitioniertes Klimaschutzgesetz",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule sieht in einem verbindlichen, verfassungsrechtlich verankerten Klimaziel bis 2035 genau die Ernsthaftigkeit, die sie von der Politik fordert. Das gibt ihr Planungssicherheit für ihre eigene Zukunft und bestätigt ihre Forderung nach konsequentem Klimaschutz.",
+      "begruendung_selbst": "Endlich sagt mal jemand klar: 2035 ist Schluss mit fossiler Wirtschaft. Das ist kein Nice-to-have, das ist meine Lebensgrundlage.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Kohle in Lützen!",
+      "thema": "energie",
+      "programmpunkt": "Der Braunkohleabbau in Lützen wird gestrichen; das Gebiet wird nicht mehr als Vorranggebiet für Braunkohle im Landesentwicklungsplan geführt.",
+      "seite": 25,
+      "zitat": "Lützen wird nicht für den Kohleabbau genutzt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Jule ist der konkrete Stopp eines Kohleprojekts ein greifbares Zeichen, dass die Energiewende nicht nur rhetorisch stattfindet. Es bestätigt ihre Hoffnung, dass fossile Infrastruktur nicht mehr durchgewinkt wird.",
+      "begruendung_selbst": "Konkret einen Kohle-Tagebau stoppen — das ist echtes Handeln, nicht nur Gerede über Ziele in 30 Jahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "BAföG ohne Eltern-Abhängigkeit",
+      "thema": "bildung",
+      "programmpunkt": "Auf Bundesebene soll das BAföG zu einem elternunabhängigen Modell weiterentwickelt werden; Studiengebühren und Zweitstudiengebühren werden abgelehnt.",
+      "seite": 67,
+      "zitat": "hin zu einem elternunabhängigen BAföG weiterentwickelt wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt mit knappem Budget und BAföG-Teilförderung; die Aussicht auf ein elternunabhängiges BAföG würde ihre finanzielle Unabhängigkeit deutlich stärken. Das trifft direkt ihre ökonomische Situation als Studentin mit wenig elterlicher Unterstützung.",
+      "begruendung_selbst": "Ich will studieren, ohne dass das Einkommen meiner Eltern darüber entscheidet, ob ich mir das leisten kann. Das ist überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Semesterticket bleibt bezahlbar",
+      "thema": "verkehr",
+      "programmpunkt": "Das Deutschlandsemesterticket soll preisvergünstigt und preislich stabil bleiben; automatische Preiskopplung an das reguläre Deutschlandticket wird auf Bundesebene abgelehnt.",
+      "seite": 29,
+      "zitat": "vergünstigte Deutschlandtickets für Auszubildende, Freiwilligendienstleistende und Menschen mit geringen Einkommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Studentin mit knappem Budget ist Jule auf bezahlbare Mobilität angewiesen. Die explizite Forderung nach Preisstabilität beim Semesterticket und Vergünstigungen für Menschen mit geringem Einkommen entlastet sie direkt.",
+      "begruendung_selbst": "Jeder Euro zählt bei mir. Wenn das Ticket teurer wird, muss ich woanders sparen — beim Essen oder bei Büchern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Antidiskriminierung wird Gesetz",
+      "thema": "demokratie",
+      "programmpunkt": "Ein Landesantidiskriminierungsgesetz soll Diskriminierung durch staatliche Stellen verhindern und Betroffenen rechtliches Gehör und Entschädigung ermöglichen.",
+      "seite": 51,
+      "zitat": "Landesantidiskriminierungsgesetz (LADG) auf den Weg bringen, um Diskriminierung durch staatliche Stellen effektiv zu verhindern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als queere Frau erlebt Jule Diskriminierung als reales Risiko. Ein Gesetz, das staatliche Stellen zu Antidiskriminierung verpflichtet und Klagemöglichkeiten schafft, gibt ihr rechtliche Sicherheit und bestätigt ihren Anspruch auf Gleichbehandlung.",
+      "begruendung_selbst": "Es reicht nicht, dass man Vielfalt nett findet. Es muss einklagbar sein, wenn der Staat mich benachteiligt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queere Beratung in der Fläche",
+      "thema": "demokratie",
+      "programmpunkt": "Fachzentren für geschlechtliche Vielfalt sollen als interdisziplinäre Beratungs- und Versorgungsstellen für TIN-Personen finanziert und ausgebaut werden, auch in strukturschwachen Regionen.",
+      "seite": 45,
+      "zitat": "Fachzentren für geschlechtliche Vielfalt als interdisziplinäre Beratungs- und Versorgungsstellen für TIN-Personen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule weiß, dass queere Infrastruktur außerhalb der Großstädte dünn ist. Die Zusage für Fachzentren mit Peer-Beratung und mobilen Angeboten auch in ländlichen Regionen bestätigt ihre Hoffnung auf flächendeckende Sichtbarkeit und Unterstützung.",
+      "begruendung_selbst": "Nicht jeder kann nach Halle oder Berlin ziehen. Queere Menschen brauchen auch in der Provinz Ansprechpartner, die Ahnung haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Antifeminismus ist Demokratiegefahr",
+      "thema": "demokratie",
+      "programmpunkt": "Antifeminismus wird explizit als wachsendes gesellschaftliches Problem und als Form gruppenbezogener Menschenfeindlichkeit anerkannt; Beratungsstrukturen für Betroffene werden ausgebaut.",
+      "seite": 41,
+      "zitat": "Antifeminismus als wachsendes gesellschaftliches Problem und als Form gruppenbezogener Menschenfeindlichkeit anerkannt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule beobachtet mit Sorge, wie antifeministische und anti-queere Strömungen erstarken. Dass die Partei dies als demokratiegefährdend einordnet und Schutzstrukturen aufbauen will, bestätigt ihre Wahrnehmung und gibt ihr das Gefühl, dass ihre Sorgen politisch ernst genommen werden.",
+      "begruendung_selbst": "Antifeminismus ist keine Meinung, sondern eine Bedrohung. Gut, dass das endlich so benannt wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein CCS, kein Fracking!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei lehnt Carbon Capture and Storage (CCS) sowie Fracking konsequent ab und setzt auf absolute Minimierung von CO₂-Emissionen durch Prozessinnovationen und Kreislaufwirtschaft.",
+      "seite": 26,
+      "zitat": "die Technologie des Carbon Capture and Storage (CCS",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule ist skeptisch gegenüber technologischen Scheinlösungen, die fossile Infrastruktur am Leben erhalten. Die klare Ablehnung von CCS und Fracking bestätigt ihre Forderung nach echter Emissionsreduktion statt Greenwashing.",
+      "begruendung_selbst": "CO₂ unter die Erde pumpen und weiter fossile Wirtschaft betreiben? Nein danke. Echte Transformation heißt: Emissionen vermeiden, nicht verstecken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietendeckel und mehr Wohnheime",
+      "thema": "wohnen",
+      "programmpunkt": "Mietendeckel sollen eingesetzt, der Wohnheimbau für Studierende und Auszubildende erheblich ausgebaut und der soziale Wohnungsbau gestärkt werden.",
+      "seite": 91,
+      "zitat": "der Wohnheimbau für Auszubildende und Studierende erheblich ausgebaut",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als WG-Bewohnerin in einer Universitätsstadt spürt Jule den Druck steigender Mieten direkt. Mietendeckel und der Ausbau von Studierendenwohnheimen würden ihre Wohnsituation konkret entlasten.",
+      "begruendung_selbst": "In Halle explodieren die Mieten, und jedes Semester ziehen mehr Leute her. Irgendwer muss da mal gegensteuern.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Gas-Kraftwerk? Ernsthaft?",
+      "thema": "energie",
+      "programmpunkt": "In Schkopau soll ein H2-ready-Gaskraftwerk gebaut werden, um den Braunkohleausstieg in der Region zu beschleunigen und die Versorgungsinfrastruktur abzusichern.",
+      "seite": 25,
+      "zitat": "Aufbau eines H2-ready-Gaskraftwerks in Schkopau",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule ist der Bau eines neuen Gaskraftwerks — auch wenn es als 'H2-ready' deklariert wird — eine Investition in fossile Infrastruktur, die auf Jahrzehnte Lock-in-Effekte erzeugt. Aus ihrer aktivistischen Perspektive widerspricht dies dem Grundsatz, keine neuen fossilen Kapazitäten zu schaffen.",
+      "begruendung_selbst": "Ein neues Gaskraftwerk bauen und es 'wasserstoffbereit' nennen? Das ist doch Greenwashing. Wer neue fossile Infrastruktur baut, zementiert sie für Jahrzehnte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohleausstieg 2034 — zu spät!",
+      "thema": "klima",
+      "programmpunkt": "Der gesetzliche Kohleausstieg in Sachsen-Anhalt ist spätestens für Ende 2034 vorgesehen; die Partei geht zwar von einem früheren, marktgetriebenen Ausstieg aus, fordert aber kein verbindliches Vorziehen.",
+      "seite": 25,
+      "zitat": "Der gesetzliche Kohleausstieg in Sachsen-Anhalt ist spätestens zum 31.12.2034 vorgesehen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aus Julies klimapolitischer Perspektive ist ein Kohleausstieg erst 2034 nicht mit dem 1,5-Grad-Ziel vereinbar. Dass die Partei sich auf das gesetzliche Datum verlässt und kein verbindliches Vorziehen auf 2030 fordert, enttäuscht ihren Anspruch an konsequente Klimapolitik.",
+      "begruendung_selbst": "2034 ist nicht 'konsequent', das ist der gesetzliche Mindeststandard. Die Klimakrise wartet nicht auf Marktmechanismen — wir brauchen ein festes Ausstiegsdatum 2030.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das grüne Programm trifft Julies Kernanliegen in fast allen Bereichen: ambitionierte Klimaziele mit Verfassungsrang, konsequente Absage an CCS und Fracking, elternunabhängiges BAföG, bezahlbares Semesterticket, ein Landesantidiskriminierungsgesetz und der Ausbau queerer Infrastruktur bestätigen ihre progressiven Werte. Die beiden Wermutstropfen — das geplante H2-ready-Gaskraftwerk in Schkopau und der aus ihrer Sicht zu späte Kohleausstieg 2034 — trüben das Bild aus aktivistischer Klimaperspektive, fallen aber angesichts der breiten Übereinstimmung insgesamt wenig ins Gewicht.",
+    "score": 2
+  }
+}

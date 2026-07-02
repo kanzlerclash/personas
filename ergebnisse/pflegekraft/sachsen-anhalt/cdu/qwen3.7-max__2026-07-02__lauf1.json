@@ -1,0 +1,113 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:32:39.625Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 46923,
+    "output_tokens": 6998,
+    "cached_tokens": 44288,
+    "total_tokens": 53921,
+    "dauer_ms": 128581,
+    "usd": 0.05992825
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Bürokratie bei Fachkräften!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei fordert gezielte Erleichterungen für die unbürokratische und klar geregelte Zuwanderung von qualifizierten Fachkräften.",
+      "seite": 18,
+      "zitat": "gezielte Erleichterungen für eine unbürokratische und klar geregelte Zuwanderung qualifizierter Fachkräfte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin weiß, dass ohne ausländische Kolleginnen der Laden dichtmacht. Die Aussicht auf unbürokratische Zuwanderung qualifizierter Fachkräfte gibt ihr Hoffnung, dass die chronische Unterbesetzung auf ihrer Station endlich gelindert wird.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht. Wenn die jetzt endlich leichter und schneller herkommen, hilft das uns allen im Alltag enorm.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krankenhäuser laufen nur mit Migranten!",
+      "thema": "integration",
+      "programmpunkt": "Das Programm erkennt explizit an, dass Krankenhäuser und viele andere Branchen ohne Menschen mit Migrationshintergrund nicht funktionieren würden.",
+      "seite": 9,
+      "zitat": "Ohne sie würden viele Krankenhäuser, Handwerksbetriebe, Unternehmen, die Gastronomie und vieles andere nicht funktionieren.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Es tut Kerstin gut, dass die CDU anerkennt, dass das Gesundheitssystem ohne Menschen mit Migrationshintergrund kollabieren würde. Das bestätigt ihre tägliche Erfahrung und wertet ihre diverse Belegschaft auf.",
+      "begruendung_selbst": "Endlich sagt mal jemand laut, was Sache ist: Ohne meine migrantischen Kolleginnen und Kollegen würde hier kein Patient mehr versorgt werden. Gut, dass das jetzt auch in der Politik ankommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Verantwortung für uns Pflegende!",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflegefachkräfte sollen im Rahmen der Neuaufstellung der Pflege mehr Kompetenzen und Eigenverantwortung erhalten.",
+      "seite": 28,
+      "zitat": "Pflegefachkräfte erhalten mehr Kompetenzen und Verantwortung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin ärgert sich oft über starre Hierarchien und unnötige ärztliche Vorbehalte bei Routinetätigkeiten. Die Aussicht auf erweiterte Kompetenzen wertet ihren Beruf auf und nutzt ihre Expertise besser.",
+      "begruendung_selbst": "Wir wissen genau, was die Patienten brauchen, dürfen aber oft nicht handeln. Wenn wir endlich mehr Kompetenzen bekommen, macht die Arbeit wieder mehr Sinn und entlastet uns.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Rendite geht vor Patientenversorgung!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will die Trägervielfalt erhalten und stellt privatwirtschaftliche Krankenhäuser als gleichberechtigte Säule neben öffentliche und gemeinnützige Häuser.",
+      "seite": 28,
+      "zitat": "freigemeinnützige und privatwirtschaftliche Häuser sind gleichberechtigte und tragende Säulen unserer Versorgung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin erlebt täglich, wie ökonomischer Druck und Personalabbau die Pflegequalität gefährden. Dass die CDU privatwirtschaftliche Häuser als gleichberechtigte Säule zementieren will, widerspricht ihrer Überzeugung, dass Gesundheit keine Ware sein darf.",
+      "begruendung_selbst": "Wenn private Investoren das Sagen haben, wird am Personal gespart, damit die Rendite stimmt. Das geht direkt auf unsere Knochen und auf Kosten der Patienten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Freiwilligkeit hilft uns nicht weiter!",
+      "thema": "gesundheit",
+      "programmpunkt": "Bei Kooperationen zwischen Schulen und Pflegeeinrichtungen setzt das Programm bewusst auf Freiwilligkeit statt auf zusätzliche verpflichtende Vorgaben.",
+      "seite": 29,
+      "zitat": "Der Antrag setzt bewusst auf Kooperation und Freiwilligkeit statt auf zusätzliche verpflichtende Vorgaben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist frustriert von politischen Sonntagsreden und Appellen an die Freiwilligkeit der Träger. Sie braucht verbindliche Personalbemessungsgrenzen und gesetzliche Vorgaben, um ihre Überlastung strukturell zu beenden.",
+      "begruendung_selbst": "Mit 'Freiwilligkeit' und netten Kooperationen ist mir nicht geholfen, wenn abends wieder drei Kollegen fehlen. Wir brauchen endlich harte, verpflichtende Vorgaben für den Personalschlüssel, sonst brennen wir alle aus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Dieses Klima vergiftet unser Team!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei verfolgt das Ziel, die irreguläre Migration konsequent auf null zurückzuführen und die Migrationswende fortzusetzen.",
+      "seite": 6,
+      "zitat": "Wir wollen die irreguläre Migration auf null zurückführen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn Fachkräfte ausgenommen sein sollen, erzeugt die generelle Rhetorik der 'Migrationswende' ein feindseliges gesellschaftliches Klima. Kerstin sorgt sich, dass dies ihre migrantischen Kolleginnen verunsichert und den Zusammenhalt im Team belastet.",
+      "begruendung_selbst": "Wenn die Politik ständig von 'Migrationswende' und 'auf null reduzieren' redet, spüren meine Kolleginnen das im Alltag. Das schafft ein mieses Klima und schreckt genau die Leute ab, die wir dringend brauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Solidarität sieht anders aus!",
+      "thema": "gesundheit",
+      "programmpunkt": "Arbeitsfähige Leistungsbezieher sollen zur Teilnahme an Arbeitsmarktprogrammen verpflichtet werden und im Gegenzug etwas zurückgeben.",
+      "seite": 30,
+      "zitat": "Wer eine staatliche Leistung bekommt und arbeitsfähig ist, der muss auch etwas zurückgeben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstins Berufsethos basiert auf Fürsorge und Solidarität. Die punitive Rhetorik gegenüber Arbeitslosen und die Forderung nach erzwungener 'Bürgerarbeit' stößt sie ab, da sie strukturelle Probleme individualisiert und Schwache stigmatisiert.",
+      "begruendung_selbst": "In der Pflege erlebe ich jeden Tag, was echte Solidarität bedeutet. Leute in Not per Zwang zur 'Bürgerarbeit' zu verdonnern, ist doch nur Schikane und hilft niemandem wirklich.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin erkennt zwar die Notwendigkeit an, ausländische Fachkräfte unbürokratischer anzuwerben und die Kompetenzen in der Pflege zu stärken. Die generelle migrationsfeindliche Rhetorik, das Festhalten an privatwirtschaftlichen Krankenhausstrukturen und der Verzicht auf verbindliche Personalvorgaben widersprechen jedoch zutiefst ihrem Berufsalltag und ihrem Verständnis von Solidarität.",
+    "score": -1
+  }
+}

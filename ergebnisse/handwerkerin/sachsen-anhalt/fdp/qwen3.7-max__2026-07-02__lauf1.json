@@ -1,0 +1,185 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:55:16.928Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41252,
+    "output_tokens": 9672,
+    "cached_tokens": 39168,
+    "total_tokens": 50924,
+    "dauer_ms": 177476,
+    "usd": 0.07156825
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkram!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Tariftreue- und Vergabegesetz soll schnellstmöglich abgeschafft werden, um bürokratische Hürden bei öffentlichen Aufträgen zu beseitigen.",
+      "seite": 7,
+      "zitat": "Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine ärgert sich seit Jahren über das Vergabegesetz, das bei öffentlichen Aufträgen zusätzliche Nachweise und Dokumentationspflichten bedeutet. Die angekündigte Abschaffung trifft genau ihren Schmerzpunkt als Handwerksmeisterin, die sich bei jedem Angebot mit bürokratischen Hürden herumschlagen muss.",
+      "begruendung_selbst": "Endlich! Bei jedem öffentlichen Auftrag diesen ganzen Tariftreue-Kram – das kostet mich Stunden, die ich auf der Baustelle brauche. Wenn das wirklich wegkommt, kann ich wieder Angebote schreiben statt Formulare auszufüllen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerker am Küchentisch entlastet",
+      "thema": "wirtschaft",
+      "programmpunkt": "Bürokratielasten für Bürger und Unternehmen sollen deutlich gesenkt werden; Berichtspflichten werden vereinfacht oder abgeschafft, Genehmigungsverfahren beschleunigt.",
+      "seite": 7,
+      "zitat": "wenn der Handwerksmeister nicht mehr am Küchentisch Formulare sortiert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Programm beschreibt exakt Sabines Alltag: Abends am Küchentisch Formulare sortieren statt Angebote zu schreiben oder neue Technologien zu lernen. Die explizite Nennung des Handwerksmeisters zeigt, dass die Partei ihre Situation kennt und ernst nimmt.",
+      "begruendung_selbst": "Die wissen wenigstens, wie mein Abend aussieht! Ich sitze wirklich jeden Abend am Küchentisch und sortiere Formulare, statt mich um meine Leute oder neue Aufträge zu kümmern. Wenn das wirklich weniger wird – gerne.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meister-BAföG und Azubi-Werbung",
+      "thema": "arbeit",
+      "programmpunkt": "Die duale Ausbildung soll aufgewertet werden mit digitalem Unterricht, stärkerer Berufsorientierung und einer Fortführung der Praktikumsprämie, um Fachkräfte im Land zu halten.",
+      "seite": 34,
+      "zitat": "Wir setzen uns für eine Fortführung der bewährten Praktikumsprämie ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines größtes operatives Problem ist der Fachkräftemangel – sie findet keine Gesellen und Azubis. Die Aufwertung der dualen Ausbildung, die Praktikumsprämie und die stärkere Berufsorientierung an Schulen helfen ihr direkt bei der Nachwuchsgewinnung.",
+      "begruendung_selbst": "Ich brauch Azubis, keine neuen Vorschriften! Wenn die Schulen endlich zeigen, was im Handwerk möglich ist, und die Praktikumsprämie bleibt, dann hab ich vielleicht wieder eine Chance, junge Leute für den Beruf zu begeistern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Steuerentlastung bei Lebensmitteln",
+      "thema": "steuern",
+      "programmpunkt": "Die Mehrwertsteuer auf Lebensmittel und Grundversorgungsgüter soll komplett entfallen, um die Kaufkraft der Bürger zu stärken.",
+      "seite": 9,
+      "zitat": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Familienunternehmerin mit schwankendem Einkommen und einem Kind in Ausbildung spürt Sabine die Inflation im Alltag. Die Streichung der Mehrwertsteuer auf Lebensmittel entlastet ihren Haushalt direkt und gibt ihr mehr finanziellen Spielraum.",
+      "begruendung_selbst": "Die Preise im Supermarkt – das merk ich jeden Woche. Wenn da wenigstens die Mehrwertsteuer runterkommt, bleibt unterm Strich mehr für die Familie und vielleicht auch mal was für den Betrieb übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Überstunden steuerfrei!",
+      "thema": "steuern",
+      "programmpunkt": "Jede Überstunde soll steuerfrei gestellt werden, damit sich Mehrarbeit für Arbeitnehmer und Arbeitgeber finanziell lohnt.",
+      "seite": 40,
+      "zitat": "Gleichzeitig wollen wir jede Überstunde steuerfrei stellen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "In Sabines Betrieb sind Überstunden an der Tagesordnung, besonders in der Heizsaison. Wenn diese steuerfrei werden, kann sie ihren Gesellen mehr netto bieten und hat ein starkes Argument im Wettbewerb um Fachkräfte.",
+      "begruendung_selbst": "Im Winter, wenn die Heizungen ausfallen, machen meine Jungs und Mädels Überstunden ohne Ende. Wenn die steuerfrei werden, kann ich denen endlich was Anständiges bieten. Das hilft mir beim Halten meiner Leute!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fördern und Fordern – richtig so",
+      "thema": "arbeit",
+      "programmpunkt": "Das Bürgergeld soll reformiert werden: Wer zumutbare Arbeit ablehnt, muss mit Leistungskürzungen rechnen. Langzeitarbeitslose sollen zu gemeinnütziger Arbeit verpflichtet werden.",
+      "seite": 40,
+      "zitat": "Wer als Langzeitarbeitsloser Unterstützung der Solidargemeinschaft erhält, sollte auch selbst einen Beitrag leisten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine ärgert sich, dass sich manche Transferempfänger nicht um Arbeit bemühen, während sie selbst 60-Stunden-Wochen schiebt und händeringend Personal sucht. Die konsequente Sanktionspraxis und gemeinnützige Arbeitspflicht entsprechen ihrem Gerechtigkeitsempfinden.",
+      "begruendung_selbst": "Ich such seit Monaten Gesellen und krieg keine. Und dann gibt's Leute, die sich vor der Arbeit drücken und vom Staat versorgt werden. Fördern und Fordern – das ist doch nur fair. Wer arbeiten kann, soll auch arbeiten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Verwaltung ohne Umwege",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungsleistungen sollen durchgängig digital nutzbar sein, vom Antrag bis zum Bescheid, ohne Medienbrüche. Genehmigungsverfahren sollen online verfolgbar werden.",
+      "seite": 48,
+      "zitat": "Bürgerinnen, Bürger und Unternehmen sollen Verwaltungsleistungen durchgängig digital nutzen können",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt viel Zeit mit Behördengängen und dem Hinterhertelefonieren von Anträgen. Ein vollständig digitaler, nachvollziehbarer Prozess würde ihren Büroalltag massiv entlasten und ihr Planungssicherheit geben.",
+      "begruendung_selbst": "Ich will meinen Bauantrag online stellen und sehen können, wo er gerade liegt – statt dreimal anzurufen und dann doch wieder hinzufahren. Wenn das endlich funktioniert, gewinn ich Stunden pro Woche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte-Zuwanderung erleichtern",
+      "thema": "arbeit",
+      "programmpunkt": "Zuwanderern, die arbeiten wollen, soll der unbürokratische Zugang zum Arbeitsmarkt erleichtert werden. Ausländische Qualifikationen sollen schneller anerkannt werden.",
+      "seite": 10,
+      "zitat": "Zuwanderern, die sich in unser Land einbringen und hier arbeiten wollen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Angesichts des massiven Fachkräftemangels im SHK-Handwerk ist Sabine auf qualifizierte Zuwanderer angewiesen. Schnellere Anerkennungsverfahren und weniger bürokratische Hürden könnten ihr helfen, endlich offene Stellen zu besetzen.",
+      "begruendung_selbst": "Wenn ein guter Installateur aus dem Ausland hier arbeiten will, soll das doch bitte schnell gehen! Ich hab die Arbeit, der will arbeiten – und dann dauert die Anerkennung Monate. Das muss einfacher werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Heizungstausch bleibt Chaos",
+      "thema": "energie",
+      "programmpunkt": "Das Programm fordert Technologieoffenheit bei der Energieversorgung, einschließlich Kernenergie, Fracking-Gas und modularen Reaktoren, aber keine konkreten Aussagen zu verlässlichen Regeln für den Heizungstausch im Bestand.",
+      "seite": 14,
+      "zitat": "Machen wir uns bei Energie weder abhängig nur von einem Land noch von einer einzigen Technologie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines Kernproblem ist die ständige Unsicherheit bei Heizungsregeln, die ihre Kunden verunsichern und Aufträge platzen lassen. Das Programm bietet große energiepolitische Visionen (Kernkraft, Fracking), aber keine konkreten, verlässlichen Rahmenbedingungen für den SHK-Alltag – genau das, was sie am dringendsten bräuchte.",
+      "begruendung_selbst": "Kernkraft, Fracking, Wasserstoff – alles schön und gut. Aber was sag ich meinem Kunden, der morgen seine Heizung tauschen will? Welche Regel gilt denn jetzt? Da steht null Komma null drin. Das hilft mir auf der Baustelle nicht weiter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sonntags öffnen? Meine Leute nicht!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Ladenöffnungszeitengesetz soll vollständig liberalisiert werden, einschließlich einer größtmöglichen Ausweitung der Sonntagsöffnungen und Öffnungen an Feiertagen.",
+      "seite": 8,
+      "zitat": "vollständige Liberalisierung des Ladenöffnungszeitengesetzes",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Arbeitgeberin mit 8 Beschäftigten in einem Familienbetrieb weiß Sabine, wie wichtig verlässliche Ruhezeiten für die Arbeitsplanung und Mitarbeiterbindung sind. Eine vollständige Liberalisierung der Sonntagsöffnung würde den Druck auf kleine Betriebe erhöhen und die Work-Life-Balance ihrer Mitarbeiter gefährden.",
+      "begruendung_selbst": "Sonntags auf? Dann wollen meine Gesellen auch Zuschläge oder frei an einem anderen Tag. In einem kleinen Betrieb wie meinem geht das nicht so einfach. Die Großen können das wegstecken – ich nicht. Und meine Leute brauchen auch mal einen freien Sonntag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sonderzonen – und wir Kleinen?",
+      "thema": "wirtschaft",
+      "programmpunkt": "In Sonderwirtschaftszonen wie Leuna oder dem Intel-Gelände sollen für Neuansiedlungen sämtliche Genehmigungsverfahren gebündelt, Berichtspflichten abgeschafft und Steuern erlassen werden.",
+      "seite": 7,
+      "zitat": "Für Produktionsbetriebe fallen alle Berichtspflichten und Vorschriften",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine fühlt sich als Mittelständlerin gegenüber großen Konzernen ohnehin benachteiligt. Sonderwirtschaftszonen mit Steuererlass und Befreiung von Berichtspflichten nur für Großansiedlungen wie Intel verstärken dieses Ungleichgewicht – ihr Betrieb muss alle Regeln befolgen und volle Steuern zahlen.",
+      "begruendung_selbst": "Intel kriegt Steuerfreiheit und null Bürokratie – und ich als Handwerksmeisterin muss jeden Cent versteuern und jeden Zettel ausfüllen? Das ist doch nicht fair! Warum gilt das nicht auch für uns Mittelständler?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rüstung statt Heizungsförderung?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Sachsen-Anhalt soll von Bundesinvestitionen in die Verteidigungsindustrie profitieren; gesetzliche Rahmenbedingungen sollen für schnellere Rüstungsproduktion verbessert werden.",
+      "seite": 9,
+      "zitat": "Wir wollen, dass Sachsen-Anhalt vom Aufbau dieser industriellen Wertschöpfung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine sieht mit Skepsis, dass politische Energie in die Ansiedlung von Rüstungsindustrie gesteckt wird, während ihr Betrieb mit alltäglichen Problemen wie Bürokratie, Fachkräftemangel und unsicheren Förderrahmen kämpft. Für sie fühlt sich das wie eine falsche Prioritätensetzung an.",
+      "begruendung_selbst": "Rüstungsindustrie ansiedeln – und wer kümmert sich um uns? Ich bräuchte verlässliche Förderrahmen für Wärmepumpen und weniger Bürokratie, nicht noch mehr Großprojekte, an denen das Handwerk nicht partizipiert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Wort zur Erbschaftsteuer",
+      "thema": "steuern",
+      "programmpunkt": "Das Programm enthält keine konkreten Aussagen zur Reform der Erbschaft- und Schenkungsteuer bei Betriebsübergaben im Mittelstand.",
+      "seite": 9,
+      "zitat": "Vereinfachung des Steuerrechts",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Betriebsübergabe in etwa 10 Jahren ist eine von Sabines größten Sorgen – die steuerliche Belastung könnte die Nachfolge gefährden. Dass das Programm zwar allgemeine Steuervereinfachung fordert, aber kein Wort zur Erbschaftsteuer bei Familienbetrieben verliert, enttäuscht sie.",
+      "begruendung_selbst": "Mein Betrieb ist meine Altersvorsorge und soll mal an die nächste Generation gehen. Aber was die Erbschaftsteuer damit macht – dazu steht hier gar nichts! Das ist für mich als Familienunternehmerin eins der wichtigsten Themen, und es wird einfach ignoriert.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet bei der FDP viel von dem wieder, was sie sich als Handwerksmeisterin wünscht: Bürokratieabbau, steuerliche Entlastung, Fachkräftegewinnung und digitale Verwaltung. Die explizite Nennung des Handwerksmeisters am Küchentisch zeigt, dass die Partei ihre Lebensrealität kennt. Gleichzeitig vermisst sie konkrete, verlässliche Regeln für den Heizungstausch – ihr tägliches Geschäft – und ärgert sich über Sonderprivilegien für Großkonzerne sowie das Fehlen einer Perspektive zur Erbschaftsteuer bei Betriebsübergaben.",
+    "score": 1
+  }
+}

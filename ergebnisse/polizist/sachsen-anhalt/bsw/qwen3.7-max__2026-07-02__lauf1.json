@@ -1,0 +1,113 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:17:24.602Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66036,
+    "output_tokens": 7252,
+    "cached_tokens": 59008,
+    "total_tokens": 73288,
+    "dauer_ms": 133273,
+    "usd": 0.07092575
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich 7.000 Kollegen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Das Programm fordert eine konkrete Aufstockung der Landespolizei auf 7.000 Beamte bis zum Jahr 2028, um die Einsatzfähigkeit dauerhaft zu sichern.",
+      "seite": 68,
+      "zitat": "Bis spätestens 2028 braucht Sachsen-Anhalt insgesamt rund 7.000 Polizeibeamte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco leidet täglich unter dem Personalmangel und der hohen Belastung im Schichtdienst. Eine feste Zahl und ein Datum signalisieren ihm, dass die Politik den Ernst der Lage erkannt hat und echte Entlastung plant, statt nur Sonntagsreden zu halten.",
+      "begruendung_selbst": "Wir laufen auf dem Zahnfleisch. Wenn die das wirklich durchziehen, kann ich meinen Job wieder machen, statt nur Löcher zu stopfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Harte Strafen für Angreifer",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei verlangt, dass Übergriffe auf Einsatz- und Rettungskräfte konsequent und hart geahndet werden, um die Autorität der Helfer zu schützen.",
+      "seite": 76,
+      "zitat": "Übergriffe auf Einsatz- und Rettungskräfte müssen konsequent geahndet werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt im Dienst zunehmend Respektlosigkeit und Gewalt. Die Forderung nach null Toleranz bei Angriffen auf Polizisten gibt ihm das Gefühl, dass die Partei hinter den Einsatzkräften steht und ihre Sicherheit ernst nimmt.",
+      "begruendung_selbst": "Jeder, der uns anspuckt oder angreift, muss die volle Härte des Gesetzes spüren. Das ist das Mindeste, was ich für meinen Schutz erwarte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Justiz muss liefern",
+      "thema": "sicherheit",
+      "programmpunkt": "Es wird eine Beschleunigung von Gerichtsverfahren und eine bessere personelle Ausstattung der Justiz gefordert, damit Straftaten zeitnah verfolgt werden.",
+      "seite": 72,
+      "zitat": "Verfahren müssen zügig, rechtsstaatlich und in angemessener Zeit abgeschlossen werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nichts frustriert Marco mehr, als wenn seine sorgfältigen Ermittlungen bei der Staatsanwaltschaft oder vor Gericht im Sande verlaufen. Die Forderung nach einer funktionierenden Justizkette bestätigt seinen Wunsch nach einem handlungsfähigen Rechtsstaat.",
+      "begruendung_selbst": "Ich kann die Täter noch so oft festnehmen – wenn die Justiz die Akten nicht bearbeitet, war alles umsonst. Die Kette muss geschlossen sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kriminelle müssen raus",
+      "thema": "integration",
+      "programmpunkt": "Das Programm stellt klar, dass Migranten, die straffällig werden oder keinen Asylanspruch haben, konsequent abgeschoben werden sollen.",
+      "seite": 62,
+      "zitat": "Dazu gehört auch die konsequente Abschiebung, wenn",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ärgert sich über Intensivtäter, die trotz wiederholter Straftaten im Land bleiben dürfen. Diese klare Kante entspricht seinem Gerechtigkeitsempfinden und seinem Wunsch nach öffentlicher Sicherheit und Ordnung.",
+      "begruendung_selbst": "Wer hier Straftaten begeht, verwirkt sein Gastrecht. Das ist keine Härte, das ist die Grundregel des Zusammenlebens, die ich jeden Tag durchsetze.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Digitale Handschellen für uns",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei lehnt den Einsatz von Analyse-Software wie Palantir und automatisierte Datenauswertung zur Bekämpfung schwerer Kriminalität ab.",
+      "seite": 67,
+      "zitat": "Den Einsatz von Palantir-Software und vergleichbaren Systemen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco weiß aus der Praxis, dass moderne Kriminalität (Clans, Cybercrime, Netzwerke) nur mit leistungsfähiger Datenanalyse zu bekämpfen ist. Die pauschale Ablehnung solcher Tools empfindet er als Fesselung der Polizei im digitalen Zeitalter.",
+      "begruendung_selbst": "Die Kriminellen nutzen High-Tech und Krypto-Handys, und wir sollen mit Karteikasten arbeiten? Das ist doch kein Schutz der Bürger, das ist Naivität.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsbruch wird belohnt",
+      "thema": "demokratie",
+      "programmpunkt": "Es wird eine Amnestie und Rehabilitierung für Menschen gefordert, die während der Corona-Pandemie gegen Maßnahmen verstoßen haben.",
+      "seite": 16,
+      "zitat": "Wir setzen uns für eine Amnestie und Rehabilitierung all jener ein...",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco musste während der Pandemie oft den Kopf für unpopuläre Maßnahmen hinhalten und Recht durchsetzen. Eine Amnestie wertet seine Arbeit und den Rechtsstaat nachträglich ab und signalisiert, dass Regelverstöße folgenlos bleiben können.",
+      "begruendung_selbst": "Wir haben uns die Nächte um die Ohren geschlagen, um Recht und Ordnung durchzusetzen. Und jetzt sollen alle, die sich nicht dran hielten, einfach 'rehabilitiert' werden? Das ist ein Schlag ins Gesicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schutzschild wird demontiert",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will die Kategorie 'Delegitimierung des Staates' beim Verfassungsschutz abschaffen, da sie diese als politisches Instrument betrachtet.",
+      "seite": 12,
+      "zitat": "Abschaffung der Extremismuskategorie der sogenannten 'verfassungsschutzrelevanten Delegitimierung des Staates'.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Verfassungsschützer im weiteren Sinne sieht Marco den Verfassungsschutz als Partner. Die Kategorie abzuschaffen, weil sie der eigenen Partei schadet, wirkt auf ihn wie eine Schwächung der wehrhaften Demokratie zugunsten politischer Eitelkeiten.",
+      "begruendung_selbst": "Wenn man dem Verfassungsschutz die Zähne zieht, nur weil einem die Beobachtung nicht passt, gefährdet man die Demokratie, die ich jeden Tag verteidige.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco sieht beim BSW starke Angebote für seine berufliche Realität: Die Forderung nach massivem Personalaufbau und harter Bestrafung von Angreifern spricht seine dringendsten Nöte an. Gleichzeitig stoßen ihn die Ablehnung moderner Ermittlungstools und die Relativierung von Rechtsbrüchen (Corona-Amnestie, VS-Kritik) ab, da er darin eine Schwächung der staatlichen Autorität und seiner Handlungsfähigkeit sieht.",
+    "score": 1
+  }
+}

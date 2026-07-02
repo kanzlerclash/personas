@@ -1,0 +1,125 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:08:23.103Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 46969,
+    "output_tokens": 2514,
+    "cached_tokens": 46336,
+    "total_tokens": 49483,
+    "dauer_ms": 47482,
+    "usd": 0.022474
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich echte Entlastung für uns!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei plant, Alleinerziehende durch steuerliche Entlastungen auf Bundesebene sowie den Ausbau von Beratungs- und Unterstützungsnetzwerken auf Landesebene gezielt zu unterstützen und den Arbeitsmarktzugang zu erleichtern.",
+      "seite": 31,
+      "zitat": "Alleinerziehende gezielt entlasten: Mehr als ein Viertel der Familien in Sachsen-Anhalt sind alleinerziehend.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine fühlt sich als Alleinerziehende wahrgenommen und hofft, dass die versprochenen Netzwerke und der erleichterte Arbeitsmarktzugang ihren ständigen Spagat zwischen Teilzeitjob und Kindererziehung etwas abfedern.",
+      "begruendung_selbst": "Ich stemme hier alles alleine, da tut es gut zu lesen, dass jemand unsere spezielle Lage endlich auf dem Schirm hat und uns den Rücken freihalten will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ganztag, der zu meiner Arbeit passt",
+      "thema": "familie",
+      "programmpunkt": "Der Rechtsanspruch auf Ganztagsbetreuung ab 2026 soll umgesetzt werden, wobei Kita, Hort und Grundschule besser vernetzt und rhythmisierte Ganztagskonzepte entwickelt werden sollen.",
+      "seite": 49,
+      "zitat": "Den Rechtsanspruch auf Ganztagsbetreuung ab 2026 umsetzen: Wir gestalten den Übergang zwischen Kita und Grundschule kindgerecht.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Nadine ist die verlässliche und passgenaue Betreuung der Schlüssel, um ihre Teilzeitarbeit überhaupt stemmen zu können. Ein gut getakteter Ganztag nimmt ihr die ständige Angst vor Betreuungslücken.",
+      "begruendung_selbst": "Wenn die Zeiten von Schule und Hort endlich vernünftig auf meinen Job abgestimmt sind, kann ich auch mal eine Schicht mehr arbeiten, ohne dass die Kinder auf der Straße stehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papierkram in der Kita",
+      "thema": "familie",
+      "programmpunkt": "Die Arbeit in Kitas soll entbürokratisiert werden, damit Erzieherinnen und Erzieher sich wieder stärker auf die Kinder konzentrieren können und der Alltag digital unterstützt wird.",
+      "seite": 49,
+      "zitat": "Die Arbeit in Kitas entbürokratisieren: Wir wollen, dass sich Erzieherinnen und Erzieher wieder stärker auf die Arbeit mit den Kindern konzentrieren können.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine erlebt im Alltag oft überlastetes Kita-Personal. Weniger Bürokratie bedeutet für sie direkt mehr Zuwendung und Zeit für ihre Kinder, was ihr als berufstätige Mutter enorm wichtig ist.",
+      "begruendung_selbst": "Die Erzieherinnen sind jetzt schon am Limit. Wenn die endlich weniger Zettel ausfüllen müssen, haben sie wieder ein offenes Ohr für meine Kleine, wenn ich sie abends abhole.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Experimente mit unseren Mieten",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei lehnt ideologisch motivierte Markteingriffe wie Mietpreisdeckel oder Enteignungen ab und setzt stattdessen auf die Förderung des sozialen Wohnungsbaus und von Wohneigentum.",
+      "seite": 65,
+      "zitat": "Wir lehnen ideologisch motivierte Markteingriffe wie Mietpreisdeckel, willkürliche Enteignungen und weitere Eingriffe in Eigentumsrechte entschieden ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Mieterin mit knappem Budget hat Nadine große Angst vor Verunsicherung auf dem Wohnungsmarkt. Die Absage an radikale Eingriffe und der Fokus auf den sozialen Wohnungsbau geben ihr das Gefühl von Stabilität.",
+      "begruendung_selbst": "Ich brauche einfach nur die Sicherheit, dass mir niemand den Mietvertrag kündigt oder die Wohnungspolitik komplett auf den Kopf stellt. Jeder Umzug wäre für uns finanziell der Ruin.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Arbeitsverweigerer? Ich schufte doch!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei plant, das Prinzip der 'Bürgerarbeit' auszuweiten und arbeitsfähige Leistungsbezieher zur Teilnahme an Arbeitsmarktförderungen oder gemeinnütziger Arbeit zu verpflichten, wenn sie Beschäftigung vermeintlich verweigern.",
+      "seite": 31,
+      "zitat": "Für uns gilt: Die Teilnahme an Landesprogrammen zur Arbeitsmarktförderung soll für arbeitsfähige Leistungsbezieher nicht länger vom Prinzip der Freiwilligkeit abhängig sein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine arbeitet bereits in Teilzeit und stockt auf, fühlt sich durch die pauschale 'Fördern und Fordern'-Rhetorik aber in die Ecke der Arbeitsverweigerer gedrängt. Die Androhung von Zwangsmaßnahmen ignoriert ihre reale Care-Arbeit.",
+      "begruendung_selbst": "Ich gehe jeden Morgen arbeiten und kümmere mich nachmittags um die Kinder – ich verweigere doch nichts! Dass ich als Aufstockerin jetzt in so eine 'Bürgerarbeit' gezwungen werden könnte, ist ein Schlag ins Gesicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Familie ist da, wo ich kämpfe",
+      "thema": "familie",
+      "programmpunkt": "Die Partei definiert die Familie auf Basis eines christlich-abendlichen Wertefundaments als Kern der Gesellschaft und Ort der Weitergabe von Werten zwischen den Generationen.",
+      "seite": 30,
+      "zitat": "Für uns ist die Familie der Kern jeder solidarischen Gesellschaft. Sie ist der zentrale Ort gelebter Verantwortung, verlässlicher Bindungen und der Weitergabe von Werten zwischen den Generationen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine ist skeptisch gegenüber konservativen Familienbildern, die ihr Lebensmodell implizit abwerten. Der starke Fokus auf das traditionelle, generationenübergreifende Ideal lässt sie als Alleinerziehende ohne großes familiäres Netzwerk außen vor.",
+      "begruendung_selbst": "Dieses Gerede von der 'heilen Familie' und den Generationen, die sich stützen, klingt schön, hilft mir aber null. Ich bin hier die einzige Stütze, und ich habe das Gefühl, ich entspreche nicht ihrem perfekten Bild.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Härte trifft immer die Falschen",
+      "thema": "arbeit",
+      "programmpunkt": "Auf Bundesebene will die Partei das Prinzip 'Fördern und Fordern' in der Grundsicherung stärken und Missbrauch der sozialen Sicherung konsequent sanktionieren.",
+      "seite": 17,
+      "zitat": "So wollen wir u.a. das Prinzip Fördern und Fordern in der Grundsicherung wieder stärken, Missbrauch der sozialen Sicherung konsequent sanktionieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Ankündigung strengerer Sanktionen versetzt Nadine in ständige Angst. Da ihr Budget ohnehin auf den Cent genau kalkuliert ist, würde jede Kürzung wegen eines bürokratischen Fehlers die Existenz ihrer Kinder gefährden.",
+      "begruendung_selbst": "Wenn wieder von 'Missbrauch' und 'Sanktionen' geredet wird, kriege ich Panik. Ein vergessener Termin oder ein falsches Formular, und das Geld für die Winterjacken der Kinder ist weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erst Deutsch, dann Schule – und ich?",
+      "thema": "bildung",
+      "programmpunkt": "Die Partei fordert einen verbindlichen Sprachtest vor der Einschulung. Kinder sollen erst in die erste Klasse kommen, wenn sie die deutsche Sprache ausreichend beherrschen.",
+      "seite": 19,
+      "zitat": "Sprachtest vor Schulstart: Erst deutsche Sprache, dann erste Klasse",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine betrachtet solche Forderungen als populistische Symbolpolitik, die am Ende die schwächsten Kinder und deren ohnehin überlastete Mütter trifft, anstatt frühzeitige und kostenlose Förderung im Alltag zu garantieren.",
+      "begruendung_selbst": "Wenn ein Kind durch den Test rasselt, was passiert dann? Sitzen die zu Hause rum? Ich habe keine Zeit und kein Geld für private Nachhilfe, der Staat muss die Kids doch in der Kita fit machen, bevor er sie aussortiert!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine nimmt das Programm als zwiespältig wahr: Einerseits begrüßt sie die konkreten Versprechen zur Ganztagsbetreuung und Entlastung von Alleinerziehenden, die ihren harten Alltag direkt erleichtern würden. Andererseits stößt sie sich massiv an der harten Rhetorik gegenüber Bürgergeldbeziehenden und dem konservativen Familienbild, wodurch sie sich trotz ihrer täglichen Arbeits- und Care-Leistung stigmatisiert und misstrauisch beäugt fühlt.",
+    "score": -1
+  }
+}

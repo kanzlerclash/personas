@@ -1,0 +1,113 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:11:44.909Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76942,
+    "output_tokens": 10625,
+    "cached_tokens": 73856,
+    "total_tokens": 87567,
+    "dauer_ms": 193630,
+    "usd": 0.094629
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weg mit der CO2-Abgabe!",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will die CO2-Steuer komplett streichen, um die massiven Mehrkosten für Pendler und Haushalte beim Tanken und Heizen zu beenden.",
+      "seite": 13,
+      "zitat": "Eine AfD-geführte Landesregierung wird sich im Bundesrat für die Streichung der",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf spürt die CO2-Abgabe direkt an der Zapfsäule und auf der Heizölrechnung. Die Streichung dieser Steuer ist für ihn eine der wichtigsten und direktesten finanziellen Entlastungen im Alltag.",
+      "begruendung_selbst": "Jeder Cent, den ich an der Tanke mehr zahle, fehlt mir am Ende des Monats. Wenn die das endlich streichen, bleibt wenigstens ein bisschen mehr vom Schichtlohn übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Verbrenner bleibt, wo er ist!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei fordert den endgültigen Stopp des Verbrenner-Verbots, da E-Autos für viele Pendler im ländlichen Raum aktuell keine bezahlbare oder praktikable Alternative sind.",
+      "seite": 13,
+      "zitat": "Eine AfD-geführte Landesregierung wird sich im Bundesrat für den endgültigen Stopp des Verbrenner-Verbotes einsetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Pendler auf dem Land ist Toralf auf sein Auto angewiesen. Ein E-Auto ist für ihn zu teuer und die Ladeinfrastruktur im Dorf fehlt. Das Festhalten am Verbrenner sichert seine Mobilität.",
+      "begruendung_selbst": "Ich würde ja gern umsteigen – nur fährt hier kein Bus, und ein E-Auto kann ich mir nicht leisten. Gut, dass endlich mal jemand sagt: Der Verbrenner bleibt!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Spritpreise runter auf EU-Mindestmaß!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Energiesteuer auf Kraftstoffe soll auf den europäischen Mindestsatz gesenkt werden, um Berufspendler im ländlichen Raum gezielt zu entlasten.",
+      "seite": 13,
+      "zitat": "Sachsen-Anhalt ist nicht nur das Land der Frühaufsteher, sondern auch das Land der Berufspendler.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Arbeitsweg ist lang und alternativlos. Die Anerkennung der Pendler-Realität und das Versprechen, die Steuern auf Kraftstoff zu senken, trifft genau seinen schmerzhaftesten monatlichen Ausgabenposten.",
+      "begruendung_selbst": "Macht meine Arbeit nicht teurer, als sie einbringt. Mehr verlange ich gar nicht. Wenn die Spritsteuer runtergeht, lohnt sich das Frühaufstehen wenigstens wieder.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Steuergeld für städtische Lastenräder!",
+      "thema": "verkehr",
+      "programmpunkt": "Die finanzielle Förderung von Lastenrädern wird als ideologisch motivierte Bevorzugung städtischer Verkehrsteilnehmer abgelehnt und gestrichen.",
+      "seite": 16,
+      "zitat": "Diese Bevorzugung von Verkehrsteilnehmern im Zeichen der Ideologie der CO₂-Reduktion lehnen wir entschieden ab",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ärgert sich über urbane Verkehrskonzepte, die an seiner ländlichen Realität vorbeigehen. Dass Steuergeld nicht für Projekte ausgegeben wird, die ihm auf dem Dorf nichts bringen, bestätigt sein Gerechtigkeitsempfinden.",
+      "begruendung_selbst": "In der Stadt mögen die mit ihren Lastenrädern rumfahren, aber bei uns auf dem Dorf bringt das gar nichts. Warum soll ich das mit meinen Steuern bezahlen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriejobs sichern, statt kaputtzumachen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Durch die Senkung der Strompreise und das Stoppen der Energiewende soll die Abwanderung von Industrieunternehmen verhindert und bestehende Facharbeiter-Arbeitsplätze gesichert werden.",
+      "seite": 12,
+      "zitat": "Eine AfD-geführte Landesregierung wird den wirtschaftlichen Niedergang und die damit verbundene De-Industrialisierung stoppen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Existenzgrundlage ist sein Job als Industriemechaniker. Die Sorge vor Deindustrialisierung und steigenden Energiekosten für seinen Betrieb ist groß. Das Programm verspricht den Schutz genau dieser Arbeitsplätze.",
+      "begruendung_selbst": "Wenn die Betriebe hier dichtmachen oder abhauen, weil der Strom zu teuer ist, stehe ich auf der Straße. Meine Arbeit muss sicher bleiben, das ist das Wichtigste.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Industrie 4.0 braucht digitale Kids!",
+      "thema": "bildung",
+      "programmpunkt": "Die Partei will den Einsatz digitaler Medien an Schulen stark einschränken und stattdessen auf traditionelle Unterrichtsmethoden wie Tafel und Buch setzen.",
+      "seite": 7,
+      "zitat": "Das Buch, das Hausaufgabenheft und die Schultafel müssen die Hauptmedien des Unterrichts bleiben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Industriemechaniker arbeitet Toralf mit CNC-Maschinen und digitaler Steuerung. Er weiß, dass digitale Kompetenzen für die Zukunft seiner Kinder auf dem Arbeitsmarkt unverzichtbar sind. Ein Verbot digitaler Medien an Schulen hält er für realitätsfern.",
+      "begruendung_selbst": "In der Fabrik läuft heute nichts mehr ohne Bildschirm und Programmierung. Wenn die Schule meine Kids da nicht ranführt, wie sollen die später mal einen ordentlichen Job kriegen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Behindertenparkplätze kürzen? Geht's noch?",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei plant, die Anzahl von Behindertenparkplätzen zu überprüfen und zu reduzieren, wenn diese vermeintlich nicht dauerhaft ausgelastet sind.",
+      "seite": 16,
+      "zitat": "Offensichtlich existieren mehr Behindertenplätze als von berechtigten Nutzern mit Behindertenausweis nachgefragt werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf ist pragmatisch, aber er hat ein starkes Gerechtigkeitsempfinden und grundlegende Solidarität. Die Idee, ausgerechnet an Parkplätzen für Menschen mit Behinderung zu sparen, stößt ihn ab und wirkt auf ihn unsolidarisch und kleinkariert.",
+      "begruendung_selbst": "Ich stehe auch mal im Stau oder suche ewig einen Parkplatz, aber deswegen nehme ich doch nicht den Behindertenstellplatz weg. Das ist doch einfach nur pietätlos.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralfs zentrale Existenz- und Mobilitätsfragen als Pendler und Facharbeiter werden durch die Versprechen zu Spritpreisen, CO2-Steuer und Verbrenner-Motor stark bestätigt. Die Ablehnung urbaner Verkehrsideologien spricht sein Gerechtigkeitsempfinden an. Gleichzeitig stößt er sich an realitätsfernen bildungspolitischen Forderungen zur Digitalisierung und empfindet den Vorstoß zu Behindertenparkplätzen als unsolidarisch. Insgesamt überwiegt für ihn jedoch die direkte finanzielle und berufliche Entlastung.",
+    "score": 1
+  }
+}

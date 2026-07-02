@@ -1,0 +1,101 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:35:26.597Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 46992,
+    "output_tokens": 9112,
+    "cached_tokens": 44288,
+    "total_tokens": 56104,
+    "dauer_ms": 166970,
+    "usd": 0.0764245
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Taser und mehr Personal!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die CDU plant einen personellen Aufwuchs der Landespolizei auf über 8.100 Bedienstete sowie die flächendeckende Ausstattung mit Tasern und Bodycams.",
+      "seite": 6,
+      "zitat": "Ausstattung unserer Polizei mit Tasern, konsequenter Einsatz von Bodycams.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco fühlt sich im Dienst oft körperlich bedroht und überlastet. Die konkrete Zusage von Distanzwaffen zur Eigensicherung und mehr Kollegen auf der Straße trifft genau seine dringendsten Forderungen.",
+      "begruendung_selbst": "Wenn ich in eine unklare Lage gehe, kann ein Taser mir und meinem Partner das Leben retten. Und dass wir endlich mehr Leute auf die Schichten bekommen, war auch bitter nötig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz gegen alle Extremisten!",
+      "thema": "demokratie",
+      "programmpunkt": "Die CDU will den Verfassungsschutz stärken und betont den '360°-Blick' gegen jede Form von politischem und islamistischem Extremismus.",
+      "seite": 7,
+      "zitat": "Form des politisch und islamistisch motivierten Extremismus bekämpfen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco ärgert sich über Parteien, die den Rechtsstaat untergraben, und über Extremisten jeder Couleur. Dass die CDU den Verfassungsschutz stärken und nicht nur auf ein Auge schauen will, bestätigt sein Verständnis einer wehrhaften Demokratie.",
+      "begruendung_selbst": "Es ist egal, ob die Chaoten von links, rechts oder aus der islamistischen Ecke kommen – wer unsere Ordnung angreift, muss vom Verfassungsschutz ins Visier genommen werden. Gut, dass das hier so klar steht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich schnelle Konsequenzen für Täter!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die CDU fordert beschleunigte Verfahren in der Justiz, damit Straftaten unmittelbar geahndet werden können.",
+      "seite": 58,
+      "zitat": "Durch beschleunigte Verfahren soll eine unmittelbare Ahndung von Straftaten erfolgen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco frustriert es, wenn seine Festnahmen und Berichte im Justizsystem versanden. Das Versprechen, die Justizkette zu beschleunigen, gibt ihm das Gefühl, dass seine harte Arbeit auf der Straße auch wirklich eine Konsequenz für die Täter hat.",
+      "begruendung_selbst": "Was nützt mir die beste Festnahme, wenn der Täter zwei Tage später wieder auf der Straße steht und die Akte im Sande verläuft? Wir brauchen diese schnellen Verfahren, damit unser Einsatz auch was bringt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hilfe für psychisch kranke Gewalttäter!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die CDU will Präventionsambulanzen für psychisch erkrankte Menschen mit gewaltbereitem Verhalten einrichten, um die Polizei zu entlasten.",
+      "seite": 9,
+      "zitat": "Präventionsambulanzen für psychisch erkrankte Menschen mit gewaltbereitem Verhalten einrichten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco und seine Kollegen werden im Dienst oft zu Einsätzen gerufen, die eigentlich medizinische oder psychiatrische Fälle sind. Die Schaffung spezieller Ambulanzen nimmt der Polizei eine Aufgabe ab, für die sie weder ausgebildet noch ausgestattet ist.",
+      "begruendung_selbst": "Wir sind keine Psychiater. Wenn wir zu diesen eskalierenden Einsätzen mit psychisch Kranken gerufen werden, ist das für alle brandgefährlich. Endlich versteht mal jemand, dass wir dafür Profis aus der Medizin brauchen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Schülergremien stoppen keine Straßengewalt!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die CDU will Jugendkriminalität begegnen, indem Schülergremien gestärkt werden, damit Jugendliche unter sich die Akzeptanz der Rechtsordnung erklären.",
+      "seite": 59,
+      "zitat": "Jugendliche stärken, die Verantwortung in Schülergremien übernehmen und im Umfeld beginnender Jugendkriminalität",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco erlebt Jugendgewalt und Respektlosigkeit im Streifendienst täglich. Der Vorschlag, Schülergremien als Mittel gegen Jugendkriminalität einzusetzen, wirkt auf ihn völlig realitätsfremd und zeigt, dass die Politik die harte Realität auf der Straße nicht versteht.",
+      "begruendung_selbst": "Ich stehe abends auf der Straße, wenn es knallt, und die Politik glaubt ernsthaft, ein Schülergremium löst das Problem? Das ist doch komplett an der Lebensrealität vorbei!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ohne Geld gibt's keine neue Ausrüstung!",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU betont die strikte Einhaltung der Schuldenbremse und will die Verschuldung nicht erhöhen, während sie gleichzeitig massive Investitionen in Polizei und Ausstattung verspricht.",
+      "seite": 79,
+      "zitat": "In den nächsten Jahren wollen wir die Verschuldung des Landes nicht weiter erhöhen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco weiß aus Erfahrung, dass Sparzwang im öffentlichen Dienst immer zuerst bei der Ausstattung und den Überstunden der Polizei landet. Die Kombination aus strikter Schuldenbremse und teuren Polizei-Versprechen erscheint ihm unglaubwürdig.",
+      "begruendung_selbst": "Sie versprechen uns über 8.000 Leute und Hightech-Ausrüstung, aber gleichzeitig soll die Schuldenbremse eisern gelten. Irgendwo wird das Geld fehlen, und am Ende sparen sie wieder an unseren Funkgeräten und Überstundenausgleich.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco sieht seine Kernforderungen nach besserer Ausrüstung, mehr Personal und einem wehrhaften Rechtsstaat im Programm grundsätzlich bestätigt. Die konkreten Zusagen zu Tasern, Bodycams und einem 360-Grad-Blick des Verfassungsschutzes geben ihm das Gefühl, dass die CDU die Nöte der Polizei versteht. Allerdings stößt er sich an praxisfernen Ideen wie Schülergremien gegen Jugendkriminalität und bezweifelt, dass die teuren Sicherheitsversprechen bei strikter Schuldenbremse überhaupt finanzierbar sind.",
+    "score": 1
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:53:03.092Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39945,
+    "output_tokens": 7452,
+    "cached_tokens": 37888,
+    "total_tokens": 47397,
+    "dauer_ms": 137315,
+    "usd": 0.0597245
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkram!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm verspricht, Bürokratie für Mittelstand und Handwerk abzubauen, Berichtspflichten zu prüfen und Dokumentationspflichten zu vereinfachen oder abzuschaffen.",
+      "seite": 5,
+      "zitat": "Dokumentationspflichten werden vereinfacht oder abgeschafft.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt ihre Abende mit Aktenordnern statt mit Betriebsplanung. Die explizite Ankündigung, Berichtspflichten auf den Prüfstand zu stellen, trifft ihren größten Schmerzpunkt als Inhaberin eines kleinen Betriebs.",
+      "begruendung_selbst": "Ich hätte gern mehr Azubis und weniger Aktenordner. Wenn die Politik endlich kapiert, dass uns der Papierkram erdrosselt, ist das ein erster richtiger Schritt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Führerschein für Azubis bezahlbar!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei erkennt an, dass hohe Führerscheinkosten junge Menschen belasten, und will den Führerschein günstiger machen, da er für den Berufseinstieg oft notwendig ist.",
+      "seite": 8,
+      "zitat": "Hohe Führerscheinkosten belasten junge Menschen und Familien.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im SHK-Handwerk ist der Führerschein unverzichtbar, um zu den Baustellen zu kommen. Sabine scheitert bei der Azubi-Suche oft an der Mobilität der Bewerber; eine Kostenentlastung würde ihr direkt helfen, Nachwuchs zu finden.",
+      "begruendung_selbst": "Ohne Lappen keine Baustelle. Wenn die Jungen sich den Führerschein wieder leisten können, kriege ich vielleicht endlich die Gesellen, die ich so dringend brauche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stromsteuer runter, Netzentgelte deckeln!",
+      "thema": "energie",
+      "programmpunkt": "Die SPD fordert eine Reduzierung der Stromsteuer und eine weitgehende Deckelung der Netzentgelte, um die Wettbewerbsfähigkeit zu sichern.",
+      "seite": 5,
+      "zitat": "Deshalb setzen wir uns für eine weitgehende Deckelung der Netzentgelte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Energiekosten sind für Sabines Betrieb ein massiver Faktor. Die Forderung nach niedrigeren Strompreisen und gedeckelten Netzentgelten entspricht exakt ihrer Forderung nach bezahlbarer Energie für den Mittelstand.",
+      "begruendung_selbst": "Meine Werkstatt und die E-Transporter fressen Strom ohne Ende. Wenn bei den Netzentgelten endlich der Deckel draufkommt, hilft das meiner Liquidität sofort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Betriebsnachfolge steuerlich geschützt!",
+      "thema": "steuern",
+      "programmpunkt": "Bei der Erbschaftsteuer sollen Privilegien für große Vermögen gestrichen, aber für kleine und mittlere Unternehmen ein Freibetrag von 5 Millionen Euro sowie Stundungsregelungen eingeführt werden.",
+      "seite": 33,
+      "zitat": "Freibetrag von 5 Mio. Euro für kleine und mittlere Unternehmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines Betrieb ist ihre Altersvorsorge. Die Angst, dass eine Übergabe an die nächste Generation durch Steuerlasten die Liquidität des Betriebs zerstört, nimmt ihr der vorgeschlagene KMU-Freibetrag.",
+      "begruendung_selbst": "Mein Betrieb ist mein Lebenswerk und meine Rente. Dass kleine und mittlere Firmen bei der Nachfolge nicht durch die Steuer zerlegt werden, ist für mich überlebenswichtig.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Strafsteuer für ausbildende Betriebe!",
+      "thema": "arbeit",
+      "programmpunkt": "Es wird ein solidarisches Finanzierungssystem (Ausbildungsfonds) angestrebt, in das alle Unternehmen einzahlen müssen, um den Ausbildungsmarkt zu stabilisieren.",
+      "seite": 8,
+      "zitat": "Ziel ist ein solidarisches Finanzierungssystem, in das alle Unternehmen einzahlen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine bildet bereits aus und trägt das Risiko und die Kosten für die Lehrlinge. Ein Fonds, in den sie einzahlen muss, fühlt sich für sie wie eine Bestrafung für ihr Engagement an, während sich andere Unternehmen freikaufen.",
+      "begruendung_selbst": "Ich stelle mich jeden Tag hin und bilde aus, obwohl es mich Nerven und Geld kostet. Und jetzt soll ich auch noch in einen Topf einzahlen für die Firmen, die sich vor ihrer Verantwortung drücken? Das ist doch Hohn!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermögensteuer bedroht Betriebsvermögen!",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei setzt sich auf Bundesebene für die Wiedereinführung einer wirksamen Vermögensteuer ein, um starke Schultern stärker zu belasten.",
+      "seite": 35,
+      "zitat": "Wir setzen uns im Bundesrat ein für die Wiedereinführung einer wirksamen Vermögensteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Betriebsvermögen ist bei Sabine nicht totes Kapital, sondern die Grundlage für Investitionen und Kreditwürdigkeit. Eine Substanzsteuer würde die Liquidität ihres Mittelstandsbetriebs direkt angreifen.",
+      "begruendung_selbst": "Mein 'Vermögen' sind die Maschinen und die Transporter, mit denen meine Leute jeden Tag rausfahren. Wenn der Staat da jedes Jahr die Hand aufhält, kann ich nicht mehr investieren. Das ist Gift für den Mittelstand.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tariftreuegesetz erdrosselt Mittelstand!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die SPD will das Tariftreue- und Vergabegesetz beibehalten und stärken, was bedeutet, dass öffentliche Aufträge nur an Unternehmen mit Tarifbindung vergeben werden.",
+      "seite": 7,
+      "zitat": "Mit dem Tariftreue- und Vergabegesetz stärken wir die Tarifbindung im Land.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als kleiner Betrieb mit 8 Mitarbeitern zahlt Sabine oft übertariflich, ist aber nicht zwingend im Tarifvertrag gebunden. Das Gesetz schließt sie und viele andere Handwerksbetriebe von lukrativen öffentlichen Aufträgen aus.",
+      "begruendung_selbst": "Ich zahle meinen Leuten gute Löhne, sonst gehen die doch sofort woanders hin. Aber ich bin nicht im Tarifverband. Wegen dieses Gesetzes kriege ich keine öffentlichen Aufträge mehr – die Großen lachen sich ins Fäustchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Klima-Vorschriften!",
+      "thema": "klima",
+      "programmpunkt": "Ein neues Klimaschutzgesetz soll verbindliche Reduktionspfade für Treibhausgasemissionen festlegen, um Planungssicherheit zu schaffen.",
+      "seite": 15,
+      "zitat": "Darin festgelegt werden Reduktionspfade für Treibhausemissionen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine leidet unter den ständigen neuen Regeln und Förderrichtlinien im Heizungsbau, die ihre Kunden verunsichern. Ein weiteres Gesetz mit starren Pfaden signalisiert ihr neue bürokratische Hürden und Unsicherheit bei der Auftragslage.",
+      "begruendung_selbst": "Sag mir eine Regel, an die ich mich halten kann – aber bitte nicht jedes halbe Jahr eine neue. Wenn jetzt noch ein Gesetz mit starren Pfaden kommt, traut sich kein Hausbesitzer mehr, seine Heizung tauschen zu lassen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine honoriert die Ansätze zum Bürokratieabbau und zur Entlastung bei Energie- und Führerscheinkosten, da diese ihren Alltag als Handwerksmeisterin direkt erleichtern würden. Gleichzeitig lösen die Forderungen nach einem Ausbildungsfonds, der Vermögensteuer und dem Festhalten am Tariftreuegesetz massives Misstrauen aus, da sie diese als existenzbedrohende Eingriffe in die unternehmerische Freiheit und Liquidität des Mittelstands wertet. Die klimapolitischen Rahmensetzungen bestärken sie in ihrer Sorge vor weiteren chaotischen Vorschriften im Heizungsbau.",
+    "score": -1
+  }
+}

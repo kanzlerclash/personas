@@ -1,0 +1,104 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:48:59.919Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69724,
+    "output_tokens": 6629,
+    "cached_tokens": 59008,
+    "total_tokens": 76353,
+    "dauer_ms": 126849,
+    "usd": 0.07233325
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Klartext gegen Rechts!",
+      "thema": "demokratie",
+      "programmpunkt": "Einrichtung einer Taskforce für ein AfD-Verbot und Entzug der Finanzierung extremistischer Parteien.",
+      "seite": 34,
+      "zitat": "Taskforce AfD-Verbot... Wissen... bündeln",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin empfindet die Rhetorik der AfD und das Konzept der 'Remigration' als existenzielle Bedrohung. Die Forderung nach einem Verbot und einer Taskforce bestätigt ihren Wunsch nach einer wehrhaften Demokratie, die ihre Feinde nicht gewähren lässt.",
+      "begruendung_selbst": "Es reicht mit der Hetze. Dass hier endlich jemand den Mut hat, ein Verbot zu prüfen und Strukturen zu zerschlagen, gibt mir Hoffnung, dass mein Zuhause sicher bleibt.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Keine Nazis im Bürgeramt.",
+      "thema": "arbeit",
+      "programmpunkt": "Konsequente Entfernung von Verfassungsfeinden aus dem öffentlichen Dienst und Überprüfung der Verfassungstreue.",
+      "seite": 35,
+      "zitat": "Rechtsextreme... aus dem Dienst entfernt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Angestellte im öffentlichen Dienst ist es für Aylin essenziell, dass ihre Kollegen und die Institution hinter dem Grundgesetz stehen. Die klare Haltung gegen Extremisten im Amt sichert ihr Arbeitsumfeld und ihre psychische Sicherheit.",
+      "begruendung_selbst": "Ich arbeite für den Staat, also muss der Staat auch für mich einstehen. Ich will keine Kollegen, die mich im Stillen verachten oder abschaffen wollen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Schutz vor Vorurteilen.",
+      "thema": "sicherheit",
+      "programmpunkt": "Aktives Entgegenwirken von Racial Profiling bei der Polizei und Einrichtung einer unabhängigen Polizeibeauftragten.",
+      "seite": 43,
+      "zitat": "Polizei, die Racial Profiling aktiv entgegenwirkt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin kennt die Sorge, aufgrund ihres Aussehens kontrolliert zu werden. Das explizite Verbot von Racial Profiling und die Diversitätsstrategie der Polizei sprechen ihr Bedürfnis nach fairer Behandlung und Würde an.",
+      "begruendung_selbst": "Ich will mich sicher fühlen, nicht verdächtig. Dass die Polizei endlich geschult werden soll, nicht nach Hautfarbe zu urteilen, ist überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Recht auf Würde.",
+      "thema": "demokratie",
+      "programmpunkt": "Einführung eines Landesantidiskriminierungsgesetzes, um Diskriminierung durch staatliche Stellen zu verhindern.",
+      "seite": 44,
+      "zitat": "Mit einem Antidiskriminierungsgesetz holen wir... nach",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Gesetz gibt ihr ein Werkzeug an die Hand, um sich gegen Benachteiligung durch Behörden zu wehren. Es validiert ihre Erfahrung, dass Diskriminierung strukturell bekämpft werden muss, nicht nur als Einzelfall.",
+      "begruendung_selbst": "Wenn ich im Amt schief angeguckt oder schlechter behandelt werde, will ich nicht machtlos sein. Dieses Gesetz ist mein Rückenschutz.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Wir sind die Zukunft.",
+      "thema": "integration",
+      "programmpunkt": "Anerkennung von Zuwanderung als Notwendigkeit und Chance statt als Problem; Fokus auf Teilhabe ab Tag eins.",
+      "seite": 77,
+      "zitat": "Zuwanderung ist für unser Land schlicht eine Notwendigkeit.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dies widerspricht direkt dem Narrativ der 'Remigration' und bestätigt Aylins Selbstverständnis als unverzichtbarer Teil der Gesellschaft. Es entlastet sie vom Druck, ihre Existenzberechtigung ständig beweisen zu müssen.",
+      "begruendung_selbst": "Danke, dass das mal jemand ausspricht. Wir sind kein 'Problem', das man lösen muss, sondern die Leute, die diesen Laden am Laufen halten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitbestimmung für alle.",
+      "thema": "demokratie",
+      "programmpunkt": "Einführung des Kommunalwahlrechts für alle Menschen, die dauerhaft in einer Kommune leben, unabhängig vom Pass.",
+      "seite": 35,
+      "zitat": "Wahlrecht für alle... unabhängig von der Staatsangehörigkeit.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin misst Zugehörigkeit an Teilhabe und Leistung, nicht an Abstammung. Die Ausweitung des Wahlrechts stärkt die Demokratie und Nachbarn, die noch keinen Pass haben, aber das Leben vor Ort mitgestalten.",
+      "begruendung_selbst": "Wer hier lebt, arbeitet und Steuern zahlt, soll auch mitreden dürfen. Demokratie endet nicht an der Passgrenze.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der Grünen trifft Aylins Kernanliegen fast perfekt: Es bietet klaren Schutz vor Rechtsextremismus, erkennt Diskriminierung als strukturelles Problem an und formuliert ein positives, selbstverständliches Bild von Einwanderung. Für sie als Verwaltungsangestellte mit Migrationsgeschichte ist dies das einzige Programm, das ihre Existenz nicht als 'Problem' verhandelt, sondern ihre Rechte und ihre Sicherheit aktiv stärkt.",
+    "score": 2
+  }
+}

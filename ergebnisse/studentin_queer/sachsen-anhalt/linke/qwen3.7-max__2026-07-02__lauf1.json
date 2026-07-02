@@ -1,0 +1,161 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:26:08.839Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82472,
+    "output_tokens": 7500,
+    "cached_tokens": 78336,
+    "total_tokens": 89972,
+    "dauer_ms": 137453,
+    "usd": 0.07012525
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Klimaneutral bis 2035 – endlich!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei fordert ein verbindliches CO₂-Budget für Sachsen-Anhalt und das Ziel der Klimaneutralität bis 2035, inklusive einer verpflichtenden Klimawirkungsprüfung für alle politischen Entscheidungen.",
+      "seite": 121,
+      "zitat": "ein verbindliches CO₂-Budget für Sachsen-Anhalt festlegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule sieht in einem verbindlichen CO₂-Budget und dem Ziel 2035 genau die Konsequenz, die sie von Politik erwartet. Das gibt ihr das Gefühl, dass ihre Zukunft ernst genommen wird und nicht nur vage Absichtserklärungen produziert werden.",
+      "begruendung_selbst": "Endlich sagt mal jemand klar: Wir haben ein Budget, und das reicht nur bis 2035. So muss das aussehen, sonst bauen wir auf Sand.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queeres Leben ist selbstverständlich!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will queeres Leben in Sachsen-Anhalt als Selbstverständlichkeit schützen, LSBTIQ+-Koordinierungsstellen ausbauen, CSDs schützen, ein Förderprogramm für Pride-Veranstaltungen im ländlichen Raum auflegen und queere Geflüchtete gezielt unterstützen.",
+      "seite": 24,
+      "zitat": "Queeres Leben ist in Sachsen-Anhalt eine Selbstverständlichkeit.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als queere Person fühlt Jule sich direkt angesprochen und geschützt. Die konkreten Maßnahmen – von CSD-Schutz über Förderprogramme bis zur Erweiterung des Grundgesetzes um sexuelle Identität – bestätigen ihre Hoffnung, dass ihre Rechte nicht verhandelbar sind.",
+      "begruendung_selbst": "Wenn eine Partei schreibt, queeres Leben ist Selbstverständlichkeit, und das auch noch mit echten Maßnahmen unterfüttert – dann weiß ich, dass ich da richtig bin.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nulltarif im ÖPNV – ja bitte!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will den ÖPNV mittelfristig landesweit zum Nulltarif anbieten und kurzfristig günstige Sozial-, Studierenden- und Azubi-Tickets durchsetzen.",
+      "seite": 102,
+      "zitat": "langfristig kostenfreien ÖPNV für Alle",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule nutzt täglich Bus und Bahn und spürt jeden Preisanstieg beim Semesterticket. Ein kostenfreier ÖPNV würde ihr monatliches Budget spürbar entlasten und gleichzeitig ihre klimafreundliche Mobilität belohnen.",
+      "begruendung_selbst": "Ich fahre jeden Tag mit der Bahn zur Uni und zum Job. Wenn der ÖPNV kostenlos wäre, könnte ich endlich aufhören, jeden Monat zu zittern, ob das Geld reicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "BAföG endlich elternunabhängig!",
+      "thema": "bildung",
+      "programmpunkt": "Die Partei will auf Bundesebene eine Initiative für ein elternunabhängiges BAföG starten, das die tatsächlichen Lebenshaltungskosten widerspiegelt und jährlich an die Inflation angepasst wird.",
+      "seite": 37,
+      "zitat": "Initiative für ein elternunabhängiges BAföG starten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule bezieht BAföG-Teilförderung und erlebt, wie knapp das Geld ist. Ein elternunabhängiges, inflationsangepasstes BAföG würde ihre finanzielle Unsicherheit direkt adressieren und ihr mehr Planungssicherheit im Studium geben.",
+      "begruendung_selbst": "Meine Eltern können mich kaum unterstützen, und das BAföG reicht hinten und vorne nicht. Wenn das endlich an die echten Kosten angepasst würde, könnte ich mich aufs Studium konzentrieren statt aufs Überleben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine neuen Autobahnen!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei lehnt den Bau neuer Autobahnen ab und priorisiert stattdessen den Ausbau von Schiene, ÖPNV und Radverkehr.",
+      "seite": 105,
+      "zitat": "Keine neuen Autobahnen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule sieht den Autobahnausbau als klimapolitisch falsch und als Symbol einer veralteten Verkehrspolitik. Die klare Absage bestätigt ihre Prioritätensetzung: Verkehrswende statt Beton.",
+      "begruendung_selbst": "Jede neue Autobahn ist ein Schritt in die falsche Richtung. Wir brauchen Züge und Radwege, nicht noch mehr Asphalt für die nächsten fünfzig Jahre.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energienetze in öffentliche Hand!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will Energienetze in öffentliche Hand überführen, damit sie der Versorgungssicherheit dienen und nicht der Profitlogik. Zudem sollen Netzentgelte gesenkt und die Stromsteuer reduziert werden.",
+      "seite": 107,
+      "zitat": "Energienetze in öffentliche Hand überführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule ärgert sich über hohe Strompreise in ihrer WG und sieht in der Privatisierung der Netze einen Grund für ungerechte Preise. Die Rekommunalisierung der Netze passt zu ihrer Überzeugung, dass Daseinsvorsorge nicht profitorientiert sein darf.",
+      "begruendung_selbst": "Warum sollen wir jeden Monat draufzahlen, damit private Konzerne Rendite machen? Stromnetze gehören in öffentliche Hand – das ist Daseinsvorsorge, kein Geschäftsmodell.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gegen rechte Hetze – Haltung zeigen!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will Rechtsextremismus aktiv bekämpfen, mobile Beratungsteams stärken, Bürgermeister:innen und Ehrenamtliche schützen und zivilgesellschaftliche Strukturen gegen Radikalisierung fördern.",
+      "seite": 15,
+      "zitat": "Den braunen Sumpf trocknen wir nicht mit",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule engagiert sich in einer Hochschulgruppe und erlebt rechte Tendenzen als direkte Bedrohung. Der Ansatz, Demokratie vor Ort zu stärken statt auf Überwachung zu setzen, entspricht ihrer Überzeugung von lebendiger Demokratie.",
+      "begruendung_selbst": "Wir brauchen keine Kameras überall, sondern starke Strukturen vor Ort. Wenn Zivilgesellschaft gestärkt wird, haben rechte Gruppen keinen Platz – das ist der Weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietpreisbremse und sozialer Wohnungsbau!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will eine Mietpreisbremse durchsetzen, sozialen Wohnungsbau mit unbefristeter Bindung fördern und eine Landeswohnungsbaugesellschaft gründen.",
+      "seite": 82,
+      "zitat": "uns für eine Mietpreisbremse einsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt in einer WG zur Miete und spürt den Druck steigender Wohnkosten. Eine funktionierende Mietpreisbremse und der Ausbau sozialen Wohnungsbaus würden ihre größte monatliche Sorge direkt angehen.",
+      "begruendung_selbst": "Unsere Miete ist schon jetzt das größte Loch im Budget. Wenn die Preise weiter steigen, muss ich mir überlegen, ob ich mir Halle noch leisten kann.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Gaskraftwerke als Brücke? Nein!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei will Gaskraftwerke als Brückentechnologie zulassen, mit Kriterien wie H2-ready und maximal 1.000 Volllaststunden.",
+      "seite": 109,
+      "zitat": "Gaskraftwerke nur als Brücke zulassen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule ist jede neue fossile Infrastruktur ein Schritt in die falsche Richtung. Auch als 'Brücke' betrachtet sie Gaskraftwerke als klimapolitischen Kompromiss, der die Dringlichkeit der Krise unterschätzt und Lock-in-Effekte erzeugt.",
+      "begruendung_selbst": "Brücke wohin? Wir haben keine Zeit für neue Gasinfrastruktur. Jedes Kraftwerk, das jetzt gebaut wird, läuft die nächsten dreißig Jahre – das ist keine Brücke, das ist eine Sackgasse.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wolfspolitik zu weich!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei will gezielte Entnahmen von Wölfen ermöglichen, wenn sie wiederholt Nutztiere gerissen haben, lehnt aber pauschale Obergrenzen oder Abschussquoten ab.",
+      "seite": 112,
+      "zitat": "gezielte Entnahmen von Wölfen ermöglichen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht den Wolf als Symbol für Artenschutz und erfolgreiche Naturschutzpolitik. Auch wenn die Partei pauschale Abschüsse ablehnt, empfindet sie die Möglichkeit gezielter Entnahmen als Zugeständnis an eine Stimmungsmache, die den Artenschutz untergräbt.",
+      "begruendung_selbst": "Der Wolf ist zurück – das ist ein Erfolg! Jetzt darf man nicht anfangen, ihn wieder zum Sündenbock zu machen. Herdenschutz ja, aber Abschüsse sind der falsche Weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz abschaffen? Riskant!",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei will den Verfassungsschutz in seiner jetzigen Form als überflüssig betrachten und langfristig durch eine Agentur für Demokratie und Menschenrechte ersetzen.",
+      "seite": 129,
+      "zitat": "Ein Verfassungsschutz in seiner jetzigen Form ist überflüssig.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule teilt die Kritik an Intransparenz und V-Leute-Praxis, aber angesichts der Bedrohung durch rechte Netzwerke empfindet sie die pauschale Abschaffung des Verfassungsschutzes als riskant. Sie befürchtet, dass damit wichtige Aufklärungskapazitäten gegen Rechtsextremismus verloren gehen könnten.",
+      "begruendung_selbst": "Ich verstehe die Kritik am Verfassungsschutz, aber einfach abschaffen? Bei dem, was gerade von rechts passiert, brauchen wir mehr Aufklärung, nicht weniger. Reformieren ja, aber nicht auflösen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule findet im Programm der Linken sehr viele ihrer Kernanliegen bestätigt: konsequente Klimaziele, Schutz queerer Rechte, kostenfreier ÖPNV, elternunabhängiges BAföG und bezahlbares Wohnen. Die wenigen Kritikpunkte betreffen aus ihrer Sicht zu weiche Kompromisse bei fossiler Infrastruktur (Gaskraftwerke) und die aus ihrer Sicht riskante Abschaffung des Verfassungsschutzes in einer Zeit rechter Bedrohungen. Insgesamt fühlt sie sich von diesem Programm in ihrer Lebenslage und ihren Werten stark angesprochen.",
+    "score": 2
+  }
+}

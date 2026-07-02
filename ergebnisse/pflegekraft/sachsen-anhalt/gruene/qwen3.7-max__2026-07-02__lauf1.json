@@ -1,0 +1,116 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:11:31.278Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69658,
+    "output_tokens": 4416,
+    "cached_tokens": 67456,
+    "total_tokens": 74074,
+    "dauer_ms": 81445,
+    "usd": 0.04661275
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich bessere Personalschlüssel!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert die Aufwertung sozialer Berufe durch bessere Personalschlüssel und gezielte Unterstützung bei der Refinanzierung von Tariflöhnen in der Pflege.",
+      "seite": 77,
+      "zitat": "Aufwertung sozialer Berufe durch bessere Personalschlüssel und Refinanzierung von Tariflöhnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich chronische Unterbesetzung und Arbeitsverdichtung auf ihrer Station. Die explizite Verknüpfung von besseren Personalschlüsseln mit der Refinanzierung von Tariflöhnen adressiert direkt ihre zentrale Forderung nach mehr Personal und fairer Bezahlung.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass wir mehr Leute und anständige Bezahlung brauchen – nicht nur Klatschen. Wenn die Personalschlüssel stimmen und die Tariflöhne refinanziert werden, kann ich meinen Job wieder machen, ohne jeden Abend völlig fertig nach Hause zu gehen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Migration ist unsere Stütze!",
+      "thema": "integration",
+      "programmpunkt": "Das Programm erkennt an, dass Migration eine essenzielle Stütze des Gesundheitssystems ist und das Gesundheitswesen diversitätssensibler gestaltet werden muss.",
+      "seite": 81,
+      "zitat": "Migration eine essenzielle Stütze für das Gesundheitssystem darstellt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station würde ohne ihre migrantischen Kolleginnen nicht funktionieren. Dass die Partei dies ausdrücklich als Tatsache anerkennt und nicht als Problem behandelt, bestätigt ihre Erfahrung und ihre Solidarität mit dem Team.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht. Endlich sagt eine Partei laut, was jeder bei uns weiß: Ohne die geht gar nichts. Das ist kein Nice-to-have, das ist unser Alltag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schnellere Anerkennung für Fachkräfte",
+      "thema": "integration",
+      "programmpunkt": "Anerkennungsverfahren für ausländische Berufsabschlüsse und Qualifikationen sollen schneller, digitaler und ohne bürokratische Hürden gestaltet werden.",
+      "seite": 73,
+      "zitat": "Anerkennungsverfahren ausländischer Berufsabschlüsse sollen schneller und digitaler gestaltet werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin kennt das Problem: Qualifizierte Pflegekräfte aus dem Ausland warten monatelang auf Anerkennung, während die Station unterbesetzt ist. Schnellere Verfahren bedeuten direkt mehr Kolleginnen und Kollegen auf der Station.",
+      "begruendung_selbst": "Wir haben Kolleginnen, die sind top ausgebildet, aber dürfen monatelang nicht richtig arbeiten, weil die Bürokratie so langsam ist. Wenn das schneller geht, stehen endlich mehr qualifizierte Leute neben mir am Bett.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Krankenhäuser zurück in öffentliche Hand",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm unterstützt die Rekommunalisierung von Krankenhäusern sowie landesseitig finanzierte Sicherstellungszuschläge zum Erhalt der Krankenhausstandorte.",
+      "seite": 74,
+      "zitat": "Unterstützung der Rekommunalisierung von Krankenhäusern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin ist zutiefst skeptisch gegenüber Privatisierung im Gesundheitswesen, weil Renditedruck aus ihrer Erfahrung zu Personalabbau und Arbeitsverdichtung führt. Die Forderung nach Rekommunalisierung bestätigt ihre Haltung, dass Versorgung vor Profit gehen muss.",
+      "begruendung_selbst": "Wenn private Investoren das Sagen haben, wird am Personal gespart und die Rendite stimmt. Ich hab gesehen, was das bedeutet: mehr Patienten pro Kraft, weniger Zeit, mehr Stress. Krankenhäuser gehören in öffentliche Hand, nicht an Aktionäre.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Keine Profit-Interessen in der Versorgung",
+      "thema": "gesundheit",
+      "programmpunkt": "Kommunale Medizinische Versorgungszentren sollen gefördert werden, um die flächendeckende medizinische Versorgung unabhängig von privaten Investoren sicherzustellen.",
+      "seite": 75,
+      "zitat": "Ausbau kommunaler MVZs gewährleistet medizinische Leistungen unabhängig von privaten Investoren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Stärkung kommunaler Versorgungsstrukturen als Gegenmodell zur Privatisierung trifft Kerstins Überzeugung, dass Gesundheitsversorgung Daseinsvorsorge ist und nicht dem Profit untergeordnet werden darf.",
+      "begruendung_selbst": "Versorgung muss da sein, wo die Menschen leben – und nicht da, wo es sich für einen Konzern rechnet. Wenn Kommunen selbst MVZs betreiben können, ist das gut für die Patienten und entlastet uns im Krankenhaus.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Pflege darf nicht arm machen",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert eine solidarische Pflegevollversicherung, um das Armutsrisiko durch Pflegebedürftigkeit zu senken und die Eigenanteile deutlich zu reduzieren.",
+      "seite": 86,
+      "zitat": "Solidarische Pflegegarantie im Rahmen einer Pflegevollversicherung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sorgt sich nicht nur um ihre Patienten, sondern auch um die eigene Zukunft und die ihrer Familie. Eine Pflegevollversicherung, die das Armutsrisiko durch hohe Eigenanteile reduziert, gibt ihr Sicherheit.",
+      "begruendung_selbst": "Ich sehe jeden Tag, was Pflege kostet. Die Eigenanteile fressen die Rente auf. Wenn meine Mutter oder ich selbst mal Pflege brauchen, will ich nicht Angst haben müssen, dass das Haus draufgeht. Pflege ist ein Risiko für alle – also muss es solidarisch abgesichert sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausbildung mit fairer Bezahlung",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm garantiert Schulgeldfreiheit und eine Ausbildungsvergütung in allen Gesundheits- und Pflegeberufen, um Fachkräfte zu gewinnen.",
+      "seite": 80,
+      "zitat": "Ausbildungsvergütung in allen Gesundheitsund Pflegeberufen garantieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin weiß, dass der Pflegenachwuchs nur kommt, wenn die Bedingungen von Anfang an stimmen. Schulgeldfreiheit und Ausbildungsvergütung machen den Beruf attraktiver und zeigen Wertschätzung – das hilft langfristig gegen den Personalmangel.",
+      "begruendung_selbst": "Wer soll denn den Job noch machen wollen, wenn man in der Ausbildung draufzahlen muss? Wenn junge Leute von Anfang an vernünftig bezahlt werden, überlegen sich mehr, in die Pflege zu gehen. Das ist doch das Mindeste.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das grüne Wahlprogramm adressiert Kerstins Kernanliegen als Pflegekraft außerordentlich umfassend: bessere Personalschlüssel mit Tariflohnrefinanzierung, ausdrückliche Anerkennung migrantischer Fachkräfte als Stütze des Gesundheitssystems, schnellere Anerkennungsverfahren, Rekommunalisierung von Krankenhäusern und eine solidarische Pflegevollversicherung. Für Kerstin, die seit Jahren unter Unterbesetzung leidet und deren Station ohne migrantische Kolleginnen nicht funktionieren würde, liest sich das Programm wie ein Katalog ihrer Forderungen. Es gibt keine Programmpunkte, die ihren Interessen klar widersprechen.",
+    "score": 2
+  }
+}

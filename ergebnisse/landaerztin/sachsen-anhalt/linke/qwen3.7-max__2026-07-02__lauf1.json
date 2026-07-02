@@ -1,0 +1,173 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:04:41.768Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82463,
+    "output_tokens": 11072,
+    "cached_tokens": 78336,
+    "total_tokens": 93535,
+    "dauer_ms": 203427,
+    "usd": 0.09484525
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Schluss mit Fallpauschalen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert die vollständige Abschaffung der Fallpauschalen (DRG) und eine kostendeckende Finanzierung der Krankenhäuser ohne Gewinnmöglichkeit, um die Versorgung nach Bedarf statt nach Profit zu organisieren.",
+      "seite": 53,
+      "zitat": "die Fallpauschalen vollständig abschaffen, um Gewinne und Verluste weitgehend unmöglich zu machen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sieht die Ökonomisierung des Gesundheitswesens seit Jahren kritisch. Die Abschaffung der Fallpauschalen bestätigt ihre Überzeugung, dass Rendite-Logik nicht zur ländlichen Grundversorgung passt und Patient:innen nach Bedarf statt nach Profit behandelt werden müssen.",
+      "begruendung_selbst": "Endlich sagt mal jemand, was jeder Landarzt weiß: Fallpauschalen haben die Medizin kaputt gemacht. Ich behandle Menschen, keine Fälle – und genau das muss sich auch in der Finanzierung widerspiegeln.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heilberufe endlich eigenverantwortlich!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will die Befugnisse von Heilberufen wie Pflegekräften, Therapeut:innen, Hebammen und Notfallsanitäter:innen ausweiten, damit diese stärker eigenverantwortlich behandeln und beraten können, um die flächendeckende Versorgung zu gewährleisten.",
+      "seite": 54,
+      "zitat": "Sie sollen stärker eigenverantwortlich behandeln und beraten können. Wir wollen die Befugnisse der Heilberufe ausweiten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Hausärztin auf dem Land erlebt Petra täglich, dass sie nicht überall gleichzeitig sein kann. Die Ausweitung der Befugnisse anderer Heilberufe entlastet sie direkt und verbessert die Versorgung ihrer Patient:innen, wenn sie selbst nicht verfügbar ist.",
+      "begruendung_selbst": "Wenn meine MFA oder die Gemeindeschwester mehr machen dürfen, hilft das meinen Patienten sofort. Ich kann nicht überall sein – gerade hier auf dem Land brauchen wir alle, die mit anpacken können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Medimobil und Telemedizin – ja bitte!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will den Einsatz von Medimobil und Telemedizin für die ambulante medizinische Versorgung auf dem Land fördern, um die Erreichbarkeit der Versorgung zu verbessern.",
+      "seite": 55,
+      "zitat": "Wir wollen den Einsatz von Medimobil und Telemedizin für ambulante medizinische Versorgung auf dem Land.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra kennt die langen Wege und die Mobilitätsprobleme ihrer älteren Patient:innen. Mobile Angebote und Telemedizin sind für sie pragmatische Lösungen, die den Alltag in der Flächenversorgung konkret erleichtern.",
+      "begruendung_selbst": "Meine Patienten fahren teilweise 30 Kilometer für einen Termin. Wenn ein Medimobil kommt oder eine Videosprechstunde den Weg ersetzt, ist das gelebte Versorgung. Endlich denkt jemand mit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Landarztquote – längst überfällig!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will dem Fachärztemangel durch weitere Landarztquoten entgegenwirken, einschließlich Quoten für Kinder- und Zahnärzte, sowie Haltefaktoren und Unterstützung für Landeskinder ausbauen.",
+      "seite": 55,
+      "zitat": "Wir wirken dem Fachärztemangel durch weitere Landarztquoten, wie bspw. für Kinder- und Zahnärzte, entgegen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petras größte Sorge ist die fehlende Praxisnachfolge. Landarztquoten und Haltefaktoren sind aus ihrer Sicht zentrale Instrumente, um junge Mediziner:innen für den ländlichen Raum zu gewinnen und die Versorgung langfristig zu sichern.",
+      "begruendung_selbst": "Wenn ich in Rente gehe, steht hier niemand bereit. Quoten für Landärzte sind das Mindeste, damit überhaupt noch jemand kommt. Meine Patienten verdienen einen Arzt – nicht nur einen Bus in die nächste Stadt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie-Prüfung vor Digitalisierung!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Partei fordert eine systematische Prozessanalyse in allen Verwaltungsbereichen, bevor digitalisiert wird. Überflüssige Aufgaben sollen gestrichen und widersprüchliche Verfahren vereinfacht werden, bevor Technologie eingesetzt wird.",
+      "seite": 143,
+      "zitat": "Überflüssige Aufgaben werden gestrichen, komplizierte und widersprüchliche Verfahren vereinfacht. Erst danach halten wir den Einsatz von Technologien für sinnvoll.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra leidet täglich unter einer Digitalisierung, die schlechte analoge Prozesse in schlechte digitale verwandelt (TI, eAU). Der Ansatz, erst Bürokratie abzubauen und dann zu digitalisieren, entspricht exakt ihrer Erfahrung und Forderung.",
+      "begruendung_selbst": "Erst die Prozesse aufräumen, dann digitalisieren – genau das sage ich seit Jahren! Die Telematikinfrastruktur ist das beste Beispiel: Ein Haufen Technik, die keinen einzigen bürokratischen Schritt eingespart hat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Analoge Zugänge müssen bleiben!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Partei lehnt Digitalzwang ab und fordert, dass Behördengänge weiterhin analog erledigt werden können. Physische Anlaufstellen sollen in allen Landkreisen verbindlich erhalten bleiben.",
+      "seite": 144,
+      "zitat": "den Erhalt und Ausbau physischer Anlaufstellen in allen Landkreisen – verbindlich finanziert, nicht unter Haushaltsvorbehalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra erlebt in ihrer Praxis, dass viele ältere Patient:innen mit rein digitalen Zugängen überfordert sind. Die Garantie analoger Alternativen bestätigt ihre Haltung, dass Digitalisierung den Menschen dienen muss – nicht umgekehrt.",
+      "begruendung_selbst": "Meine 80-jährigen Patienten können keine Apps bedienen. Wenn alles nur noch digital geht, fallen die durchs Raster. Analoge Zugänge sind kein Luxus, sondern Daseinsvorsorge.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krankenhaus vor Ort bleibt!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei will die wohnortnahe Versorgung in Genthin, Havelberg und Gardelegen über Medizinische Versorgungszentren (MVZ) absichern und Notaufnahmen an allen Standorten erhalten.",
+      "seite": 55,
+      "zitat": "Wir sichern Notfall- und Basisversorgung für alle Menschen in und um Havelberg, Genthin und für Kinder in und um Gardelegen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Landärztin überweist Petra regelmäßig Patient:innen ins Krankenhaus. Die Sicherung der Notfall- und Basisversorgung im ländlichen Raum ist für sie existenziell – lange Wege im Notfall können lebensbedrohlich sein.",
+      "begruendung_selbst": "Wenn das nächste Krankenhaus 40 Minuten weg ist, überlege ich bei jedem Notfall zweimal. Dass die Basisversorgung auf dem Land gesichert werden soll, ist für meine Patienten überlebenswichtig.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Verstaatlichung hilft meinen Patienten nicht!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert die konsequente Überführung von Pflegeeinrichtungen und Krankenhäusern in öffentliche oder gemeinnützige Trägerschaft, um der Privatisierung ein Ende zu setzen.",
+      "seite": 56,
+      "zitat": "Pflegeeinrichtungen konsequent in öffentliche oder gemeinnützige Trägerschaft überführen, um der Privatisierung so ein Ende zu setzen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra ist skeptisch gegenüber Verstaatlichungsideen, wenn sie mehr Aufwand statt mehr Versorgung bedeuten. Die pauschale Forderung nach Rekommunalisierung überzeugt sie nicht, solange nicht klar ist, wie die klammen Kommunen das finanzieren und betreiben sollen.",
+      "begruendung_selbst": "Klingt gut auf dem Papier – aber wer soll das bezahlen? Die Kommunen hier haben doch kein Geld. Am Ende steht die gleiche Pflegekraft vor dem gleichen Patienten, nur mit mehr Verwaltungsebene dazwischen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gemeindewirtschaftssteuer trifft meine Praxis!",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei will die Gewerbesteuer zu einer Gemeindewirtschaftssteuer weiterentwickeln, die alle selbstständig erwirtschafteten Einkommen einbezieht – auch Freiberufler:innen wie Ärzt:innen – mit einem Freibetrag von 24.500 Euro.",
+      "seite": 18,
+      "zitat": "Alle selbstständig erwirtschafteten Einkommen werden einbezogen – mit einem einheitlichen Freibetrag von 24.500 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als niedergelassene Ärztin wäre Petra von dieser Steuer direkt betroffen. Bisher sind Freiberufler von der Gewerbesteuer befreit – die Ausweitung auf alle Selbstständigen bedeutet für ihre Einzelpraxis eine zusätzliche finanzielle Belastung, die ihre ohnehin durch Budgetierung gedeckelten Einnahmen weiter schmälert.",
+      "begruendung_selbst": "Jetzt soll ich als Hausärztin auch noch Gewerbesteuer zahlen? Ich bin Freiberuflerin, kein Konzern. Jeder Euro, der da abgeht, fehlt mir für Personal oder Investitionen in die Praxis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klinikverbund – noch mehr Verwaltung?",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei plant die Gründung eines Klinikverbundes mit Landesbeteiligung als Holding, der die wirtschaftliche Koordinierung der kommunalen Krankenhäuser übernimmt, inklusive zentralem Kreditmanagement.",
+      "seite": 49,
+      "zitat": "die Bildung einer Holding durch den Klinikverbund, welche die wirtschaftliche Koordinierung der einzelnen Häuser übernimmt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra ist skeptisch gegenüber großen Verwaltungsstrukturen, die aus ihrer Erfahrung eher Bürokratie als Versorgung schaffen. Ein neuer Klinikverbund mit Holding-Struktur weckt bei ihr die Sorge, dass Entscheidungen noch weiter von den Patient:innen und Ärzt:innen vor Ort entfernt werden.",
+      "begruendung_selbst": "Noch eine Holding, noch ein Verbund – und am Ende entscheidet wieder jemand in Magdeburg, was hier auf dem Land gebraucht wird. Ich brauche keine neue Verwaltungsebene, ich brauche ein funktionierendes Krankenhaus in der Nähe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine neuen Autobahnen? Meine Patienten fahren!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei lehnt den Bau neuer Autobahnen ab und setzt stattdessen auf Verkehrsverlagerung auf Schiene und ÖPNV-Ausbau.",
+      "seite": 105,
+      "zitat": "Keine neuen Autobahnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "In Petras strukturschwachem ländlichen Raum ist das Auto oft das einzige verlässliche Verkehrsmittel – für sie als Hausbesuche machende Ärztin und für ihre Patient:innen. Die pauschale Ablehnung neuer Straßen ignoriert die Realität der Flächenversorgung.",
+      "begruendung_selbst": "Ich fahre jeden Tag Hausbesuche – mit dem Auto, weil hier kein Bus hinkommt. Meine Patienten fahren 30 Kilometer zum Facharzt. Wer hier keine Straßen baut, lässt uns im Stich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermögenssteuer – trifft auch mich!",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei fordert eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro, um öffentliche Aufgaben zu finanzieren.",
+      "seite": 17,
+      "zitat": "Eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro würde Sachsen-Anhalt jedes Jahr bis zu 2,0 Milliarden Euro bringen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mit Praxis, Immobilien und Altersvorsorge könnte Petra in die Nähe der Millionengrenze kommen. Die Vermögenssteuer trifft aus ihrer Sicht nicht nur 'Superreiche', sondern auch hart arbeitende Freiberufler:innen, die über Jahrzehnte aufgebaut haben.",
+      "begruendung_selbst": "Eine Million klingt nach viel – aber mit Praxiswert, Haus und Rücklagen bin ich da schnell dran. Ich bin nicht reich, ich habe 30 Jahre gearbeitet und investiert. Jetzt soll ich dafür bestraft werden?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der Linken berührt Petras Kernanliegen – Landarztmangel, ländliche Versorgung und Bürokratieabbau – an mehreren Stellen positiv, insbesondere bei der Abschaffung der Fallpauschalen, der Stärkung der Heilberufe und der Forderung nach Prozessprüfung vor Digitalisierung. Gleichzeitig stößt sie sich an der pauschalen Verstaatlichungslogik, der Gemeindewirtschaftssteuer für Freiberufler und der Verkehrspolitik, die den ländlichen Realitäten aus ihrer Sicht nicht gerecht wird. Insgesamt überwiegen die Berührungspunkte, aber die Skepsis gegenüber bürokratischen Großlösungen bleibt.",
+    "score": 0
+  }
+}

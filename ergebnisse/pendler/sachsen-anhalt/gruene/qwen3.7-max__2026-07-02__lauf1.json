@@ -1,0 +1,138 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:10:09.831Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69714,
+    "output_tokens": 7002,
+    "cached_tokens": 67456,
+    "total_tokens": 76716,
+    "dauer_ms": 128875,
+    "usd": 0.06541775
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich fährt der Bus!",
+      "thema": "verkehr",
+      "programmpunkt": "Ausbau des Busverkehrs im ländlichen Raum mit mindestens stündlicher Anbindung aller Dörfer, integriert ins Deutschlandticket",
+      "seite": 29,
+      "zitat": "alle Dörfer mindestens einmal pro Stunde zuverlässig zu erreichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Dorf hat derzeit keinen brauchbaren ÖPNV. Das Versprechen, alle Dörfer mindestens stündlich anzubinden, gibt ihm Hoffnung auf eine echte Alternative zum Zweitwagen – wenn es denn wirklich bei ihm ankommt.",
+      "begruendung_selbst": "Wenn wirklich jede Stunde ein Bus kommt, könnte ich das Zweitauto vielleicht doch abschaffen. Aber das muss erstmal passieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ladesäulen auch bei uns!",
+      "thema": "energie",
+      "programmpunkt": "Massiver Ausbau der Ladeinfrastruktur für E-Fahrzeuge mit gezielten Förderprogrammen für Dörfer und ländliche Räume",
+      "seite": 30,
+      "zitat": "Ladeinfrastruktur für Elektrofahrzeuge massiv ausbauen und fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ohne Ladesäule im Dorf ist ein E-Auto für Toralf keine Option. Das Förderprogramm für den ländlichen Raum könnte die Grundlage schaffen, dass er überhaupt über einen Umstieg nachdenken kann.",
+      "begruendung_selbst": "Ohne Ladesäule bei uns im Dorf kauf ich kein E-Auto. Wenn die das wirklich fördern, wär das ein Anfang.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Stromsteuer, gut so",
+      "thema": "energie",
+      "programmpunkt": "Senkung der Stromsteuer auf das europarechtlich zulässige Minimum sowie regionale und dynamische Netzentgelte",
+      "seite": 22,
+      "zitat": "Verringerung der Stromsteuer auf das europarechtlich zulässige Minimum",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ärgert sich seit Jahren über steigende Energiekosten. Eine niedrigere Stromsteuer entlastet seinen Haushalt direkt und macht eventuell auch ein E-Auto im Betrieb günstiger.",
+      "begruendung_selbst": "Die Strompreise fressen mir das Geld aus der Tasche. Wenn die Steuer runtergeht, hab ich endlich was davon.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Diesel wird umgerüstet",
+      "thema": "verkehr",
+      "programmpunkt": "Förderung der Umrüstung von privaten Verbrennerfahrzeugen zu reinen Elektrofahrzeugen durch lokale Autowerkstätten",
+      "seite": 31,
+      "zitat": "Umrüstung von privaten Verbrennerfahrzeugen zu reinen Elektrofahrzeugen fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Statt seinen zuverlässigen Diesel zu verschrotten, könnte Toralf ihn umrüsten lassen. Das klingt für ihn nach einem pragmatischen Ansatz, der seinen Geldbeutel schont.",
+      "begruendung_selbst": "Mein Diesel läuft noch Jahre. Wenn ich den umrüsten kann statt neu zu kaufen, wär das vernünftig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimageld zurück – fair",
+      "thema": "klima",
+      "programmpunkt": "Einführung eines Klimageldes auf Bundesebene, bei dem die Erträge der CO2-Steuer direkt an die Bürger zurückfließen",
+      "seite": 11,
+      "zitat": "Einführung eines Klimageldes. Damit sollen die Erträge der CO2-Steuer direkt an die Bürger zurückfließen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der CO2-Preis trifft Toralf an der Zapfsäule direkt. Das Klimageld könnte einen Teil der Mehrkosten zurückgeben – besonders für jemanden, der wenig Emissionen verursacht, aber aufs Auto angewiesen ist.",
+      "begruendung_selbst": "Wenn das Klimageld wirklich bei mir ankommt, ist der CO2-Preis wenigstens nicht nur ein Griff in meine Tasche.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "130 auf Autobahn? Quatsch!",
+      "thema": "verkehr",
+      "programmpunkt": "Einführung von Tempo 130 als Regelgeschwindigkeit auf allen Autobahnen zur Erhöhung der Verkehrssicherheit",
+      "seite": 31,
+      "zitat": "Tempo 130 als Regelgeschwindigkeit auf allen Autobahnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf pendelt täglich 45 Minuten über die Autobahn. Ein Tempolimit empfindet er als weitere Gängelung von Autofahrern, die seinen Arbeitsweg verlängert, ohne ihm einen greifbaren Nutzen zu bieten.",
+      "begruendung_selbst": "Ich fahr jeden Tag Autobahn zur Arbeit. 130 ist doch nur Schikane für Leute wie mich, die aufs Auto angewiesen sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umweltverbund? Ich brauch mein Auto",
+      "thema": "verkehr",
+      "programmpunkt": "Grundsätzlicher Vorrang für den Umweltverbund aus Bus, Bahn, Rad und Fußverkehr in der Verkehrsplanung",
+      "seite": 28,
+      "zitat": "dem Umweltverbund aus Bus-, Bahn- , Radund Fußverkehr",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Bevorzugung von Rad, ÖPNV und Fußverkehr signalisiert Toralf, dass Autofahrer auf dem Land in der Verkehrspolitik als nachrangig behandelt werden. Er fühlt sich benachteiligt gegenüber Stadtbewohnern mit guter Anbindung.",
+      "begruendung_selbst": "Klar, in der Stadt ist das toll mit Rad und Bahn. Aber hier auf dem Land bin ich auf mein Auto angewiesen – und werd wieder benachteiligt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "2035 klimaneutral – und ich?",
+      "thema": "klima",
+      "programmpunkt": "Verbindliches Klimaschutzgesetz mit dem Ziel eines klimaneutralen Sachsen-Anhalt bis 2035 und ambitionierten Minderungszielen",
+      "seite": 10,
+      "zitat": "Für ein klimaneutrales Sachsen-Anhalt bis 2035 braucht es ein ambitioniertes Klimaschutzgesetz",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das sehr ambitionierte Ziel der Klimaneutralität bis 2035 macht Toralf Sorgen. Er befürchtet radikale Maßnahmen, die vor allem Pendler auf dem Land finanziell belasten, ohne dass praktikable Alternativen bereitstehen.",
+      "begruendung_selbst": "2035 klimaneutral – in neun Jahren? Wer zahlt das? Ich pendel jeden Tag und hab keine Alternative. Das geht auf meine Kosten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohleausstieg macht alles teurer",
+      "thema": "energie",
+      "programmpunkt": "Gesetzlicher Kohleausstieg spätestens 2034, Streichung von Braunkohle-Vorranggebieten im Landesentwicklungsplan",
+      "seite": 25,
+      "zitat": "Der gesetzliche Kohleausstieg in Sachsen-Anhalt ist spätestens zum 31.12.2034 vorgesehen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Der Kohleausstieg verstärkt Toralfs Unsicherheit über die Energiepreisentwicklung. Er befürchtet, dass ohne grundlastfähige Alternativen die Strom- und Heizkosten weiter steigen und seine Region wirtschaftlich destabilisiert wird.",
+      "begruendung_selbst": "Erst die Kohle weg, dann die Preise hoch – und wir hier im Land zahlen drauf. Wer sorgt dafür, dass der Strom bezahlbar bleibt?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm bietet Toralf als ländlichem Pendler einige positive Ansätze: den versprochenen stündlichen ÖPNV für alle Dörfer, Ladeinfrastruktur-Förderung, Stromsteuersenkung und die Umrüstungsoption für Verbrenner. Gleichzeitig verstärken der Vorrang des Umweltverbunds, das Tempolimit und die sehr ambitionierten Klimaziele sein Gefühl, dass die Lebensrealität von Autofahrern auf dem Land in der grünen Politik zu kurz kommt.",
+    "score": -1
+  }
+}

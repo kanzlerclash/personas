@@ -1,0 +1,114 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:02:31.153Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39930,
+    "output_tokens": 6897,
+    "cached_tokens": 37888,
+    "total_tokens": 46827,
+    "dauer_ms": 128302,
+    "usd": 0.05639825
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich runter vom Schreibtisch!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die SPD verspricht Bürokratieabbau und praxistaugliche Regelungen, damit Landwirte wieder mehr Zeit auf dem Feld statt im Büro verbringen.",
+      "seite": 28,
+      "zitat": "Landwirtinnen und Landwirte wollen aufs Feld, in den Stall",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank leidet extrem unter den ständigen Dokumentationspflichten und Auflagen. Das explizite Versprechen, Genehmigungs- und Dokumentationspflichten zu vereinfachen und die Bauernproteste ernst zu nehmen, trifft seinen Kernwunsch nach Anerkennung und weniger Gängelung.",
+      "begruendung_selbst": "Jedes Jahr eine neue Verordnung. Wenn die das wirklich umsetzen und ich nicht mehr jeden Tropfen Diesel und Dünger dreifach dokumentieren muss, wäre das ein Anfang.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Boden für aktive Bauern!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Landgesellschaft soll Flächen gezielt für aktive Betriebe und Hofnachfolgen bereitstellen, um den Zugang zu Boden für junge Landwirte zu verbessern.",
+      "seite": 28,
+      "zitat": "Flächen gezielt für aktive Betriebe, Neugründungen und Hofnachfolgen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Sorge, dass seine Tochter den Hof wegen der massiven Pacht-Konkurrenz und des Flächenfraßes nicht übernehmen kann, ist groß. Eine Landgesellschaft, die aktiv an Hofnachfolger verpachtet, gibt ihm Hoffnung für die Zukunft des Familienbetriebs.",
+      "begruendung_selbst": "Wenn meine Tochter den Hof übernehmen will, darf das nicht daran scheitern, dass uns Investoren oder Solarparks die Pachtflächen vor der Nase wegschnappen. Aktive Bauern müssen Vorrang haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erst Essen, dann Strom!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Landwirtschaftliche Flächen sollen vorrangig der Lebensmittelproduktion dienen; Agri-PV und Biomasse nur dort, wo Nutzungskonflikte vermieden werden.",
+      "seite": 29,
+      "zitat": "Landwirtschaftliche Flächen dienen vorrangig der Lebensmittelproduktion.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank ärgert sich über den Flächenfraß durch Photovoltaik-Freiflächenanlagen auf bestem Ackerboden. Die klare Priorisierung der Nahrungsmittelproduktion bestätigt seine Sichtweise, dass Landwirtschaft die Grundlage ist und nicht zum reinen Energiewirt degradiert werden darf.",
+      "begruendung_selbst": "Auf unseren besten Böden muss Weizen und Rüben wachsen, nicht nur Glas und Stahl. Gut, dass das hier mal jemand klar ausspricht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Reich auf dem Papier, pleite",
+      "thema": "steuern",
+      "programmpunkt": "Die SPD fordert auf Bundesebene die Wiedereinführung einer wirksamen Vermögensteuer, da starke Schultern mehr tragen müssten.",
+      "seite": 35,
+      "zitat": "Wiedereinführung einer wirksamen Vermögensteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Frank ist die Forderung nach einer Vermögensteuer ein Albtraum. Sein Vermögen besteht aus illiquiden Flächen und Maschinen, während die Konten oft leer sind. Eine Substanzsteuer würde ihn zwingen, Land zu verkaufen oder Kredite aufzunehmen, nur um den Staat zu bezahlen.",
+      "begruendung_selbst": "Die reden von 'starken Schultern', aber mein Vermögen steckt im Boden und im Trecker. Wenn ich jedes Jahr eine Steuer auf meinen Acker zahlen muss, kann ich den Hof gleich zusperren. Das ist Enteignung!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz auf meinem Rücken",
+      "thema": "klima",
+      "programmpunkt": "Ein Klimaschutzgesetz mit verbindlichen Reduktionspfaden für Treibhausgasemissionen soll Planungssicherheit schaffen und Klimaschutz sozial gerecht ausstatten.",
+      "seite": 15,
+      "zitat": "Reduktionspfade für Treibhausgasemissionen, die Orientierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank befürchtet, dass verbindliche Reduktionspfade im Agrarsektor direkt zu weiteren Verschärfungen bei der Düngung, beim Pflanzenschutz und beim Agrardiesel führen. Für ihn bedeutet das weniger Ertrag, höhere Kosten und noch mehr Gängelung durch Theoretiker.",
+      "begruendung_selbst": "Was die in Berlin 'Reduktionspfade' nennen, heißt für mich: noch weniger Dünger, noch mehr Ernteausfall und am Ende importieren sie das Futter aus Übersee. Den Klimaschutz zahlen wieder nur wir Bauern.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Brüssel diktiert meine Felder",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Umsetzung der EU-Wiederherstellungsverordnung wird in den Fokus gerückt, um ökologische Verbesserungen in der Agrarlandschaft durchzusetzen.",
+      "seite": 16,
+      "zitat": "Umsetzung der EU-Wiederherstellungsverordnung im Fokus.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Frank sieht die EU-Bürokratie als Hauptgegner. Die Wiederherstellungsverordnung bedeutet für ihn potenziell neue Flächenstilllegungen, Biotopverbünde auf seinem Acker und Auflagen, die von Naturschützern diktiert werden, die noch nie einen Betrieb geführt haben.",
+      "begruendung_selbst": "Jetzt holen die sich die nächste Vorschrift aus Brüssel, um mir zu sagen, wo ich Blühstreifen anlegen muss. Ich hab nichts gegen Naturschutz, aber nicht, wenn ihn die bezahlen, die ihn nie gemacht haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hofübergabe als Risiko",
+      "thema": "steuern",
+      "programmpunkt": "Privilegien bei der Erbschaftsteuer für Vermögende sollen gestrichen und durch einen Freibetrag von 5 Mio. Euro für KMU ersetzt werden, um Erben stärker zu belasten.",
+      "seite": 33,
+      "zitat": "Privilegien für Vermögende in den §§ 13a, 13b",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn der 5-Millionen-Freibetrag seinen Hof möglicherweise knapp deckt, trifft ihn die Rhetorik vom Streichen der Privilegien hart. Die Unsicherheit, ob der Hof bei der Übergabe an die Tochter nicht doch als Vermögen besteuert wird, bedroht die Existenz des Familienbetriebs.",
+      "begruendung_selbst": "Ein Hof ist kein Luxusvermögen, das man verscherbelt, um Steuern zu zahlen. Wenn die an die Erbschaftsteuer gehen, ist das das Ende der familiären Landwirtschaft. Meine Tochter soll den Hof übernehmen, nicht das Finanzamt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank erkennt in den agrarpolitischen Ansätzen zu Bürokratieabbau und Bodenschutz durchaus seine praktischen Nöte. Die steuerpolitischen Forderungen nach Vermögen- und Erbschaftsteuer sowie die strikten Klimavorgaben lösen bei ihm jedoch existenzielle Ängste aus, da sie seine illiquide Vermögensstruktur und seine unternehmerische Freiheit bedrohen. Insgesamt überwiegt das Misstrauen gegenüber einer Politik, die er als stadtzentriert und praxisfern wahrnimmt.",
+    "score": -1
+  }
+}

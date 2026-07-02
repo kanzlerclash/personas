@@ -1,0 +1,113 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:26:26.492Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66086,
+    "output_tokens": 5392,
+    "cached_tokens": 59008,
+    "total_tokens": 71478,
+    "dauer_ms": 99937,
+    "usd": 0.05802825
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr BAföG!",
+      "thema": "bildung",
+      "programmpunkt": "Das BSW fordert eine deutliche Ausweitung und Reform des BAföG, damit ein Studium unabhängig von sozialer Herkunft möglich ist und Studierende nicht durch Erwerbsarbeit ihren Erfolg gefährden.",
+      "seite": 51,
+      "zitat": "deutliche Ausweitung und Reform des BAföG",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt von BAföG-Teilförderung und einem 450-Euro-Nebenjob. Eine BAföG-Ausweitung würde ihren finanziellen Druck direkt mindern und mehr Freiraum für Studium und Engagement schaffen.",
+      "begruendung_selbst": "Ich jongliere jeden Monat zwischen BAföG und Gastro-Job. Wenn das BAföG endlich steigt, könnte ich mich aufs Studium konzentrieren statt ständig aufs Konto zu starren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenfrei Bus und Bahn!",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW fordert kostenfreien Nahverkehr für Schulkinder und Auszubildende, unabhängig vom Wohnort und ohne bürokratische Hürden.",
+      "seite": 33,
+      "zitat": "kostenfreien Zugang zum Nahverkehr",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Studentin in Halle, die täglich ÖPNV und Rad nutzt, würde ein kostenfreier Nahverkehr ihr knappes Budget spürbar entlasten.",
+      "begruendung_selbst": "Mein Semesterticket frisst jeden Monat einen Batzen. Wenn der ÖPNV kostenlos wäre, bliebe endlich mehr für Lebensmittel und Bücher übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietendeckel jetzt!",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW fordert einen bundesweiten Mietendeckel als Instrument zur wirksamen Begrenzung von Mietsteigerungen und den Ausbau des sozialen Wohnungsbaus.",
+      "seite": 30,
+      "zitat": "Ein bundesweiter Mietendeckel ist dafür ein geeignetes Instrument.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "In ihrer WG in Halle spürt Jule den Druck steigender Mieten. Ein Mietendeckel würde sie direkt vor Verdrängung und finanzieller Überlastung schützen.",
+      "begruendung_selbst": "Jedes Mal wenn die Nebenkostenabrechnung kommt, halte ich die Luft an. Ein Mietendeckel wäre endlich ein Schutzschirm gegen diese ständige Angst.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mein Leben ist 'Ideologie'?",
+      "thema": "demokratie",
+      "programmpunkt": "Das BSW definiert Geschlecht als biologisch unveränderbar, will das Selbstbestimmungsgesetz überprüfen und Schulen vor 'ideologischer Einflussnahme' zu Geschlecht und Sexualität schützen.",
+      "seite": 37,
+      "zitat": "biologische Geschlecht rechtlich unveränderbar",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als queere Person fühlt Jule sich durch diese Position fundamental in ihrer Identität angegriffen. Das BSW stellt erkämpfte Rechte wie das Selbstbestimmungsgesetz infrage und rahmt queere Lebensrealitäten als 'Ideologie', die aus Schulen verbannt werden soll.",
+      "begruendung_selbst": "Meine Identität ist keine 'Ideologie', die man aus Schulen verbannen kann. Wenn eine Partei das Selbstbestimmungsgesetz überprüfen will, macht sie meine Existenz zur Verhandlungsmasse. Da weiß ich genug.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz wird ausgebremst",
+      "thema": "klima",
+      "programmpunkt": "Das BSW will die CO2-Bepreisung abschaffen, hält an Braunkohle fest und setzt auf fossile Importe wie russisches Pipeline-Gas als 'unerlässlich' für die Versorgung.",
+      "seite": 27,
+      "zitat": "diese ungerechte Steuer auszusetzen oder abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule, deren Zukunftsgefühl am Klimaschutz hängt, ist die Ablehnung der CO2-Bepreisung ein direkter Angriff auf ihre Lebensperspektive. Das Programm bremst die Energiewende systematisch aus.",
+      "begruendung_selbst": "Es geht nicht um Ideologie – es geht darum, ob ich in zwanzig Jahren noch eine lebenswerte Zukunft habe. Die CO2-Steuer abzuschaffen ist, als würde man den Feuerlöscher wegwerfen, während das Haus brennt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fossile statt Erneuerbare!",
+      "thema": "energie",
+      "programmpunkt": "Das BSW fordert die Nutzung der Nordstream-Gaspipeline, hält Braunkohle für notwendig und lehnt eine 'All-Electric-Strategie' sowie das Verbrennerverbot ab.",
+      "seite": 17,
+      "zitat": "Eine Nutzung der Nordstream-Gaspipeline ist daher unerlässlich!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule hofft auf eine konsequente Energiewende. Das BSW will stattdessen fossile Infrastruktur zementieren – Nordstream, Braunkohle, Verbrenner – und stellt sich damit gegen alles, wofür sie klimapolitisch einsteht.",
+      "begruendung_selbst": "Nordstream reaktivieren und Kohle behalten? Das ist keine Energiepolitik, das ist ein fossiles Rollback. Meine Generation badet das aus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zivilgesellschaft unter Beschuss",
+      "thema": "demokratie",
+      "programmpunkt": "Das BSW will Demokratieförderprogramme wie 'Demokratie leben!' kritisch überprüfen, NGO-Förderung einschränken und zivilgesellschaftliche Strukturen strenger kontrollieren.",
+      "seite": 14,
+      "zitat": "Förderstrukturen wie „Demokratie leben!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule engagiert sich in Klima- und Hochschulgruppen und schätzt eine starke, vielfältige Zivilgesellschaft. Das BSW will genau jene Förderstrukturen beschneiden, die demokratisches Engagement und Antidiskriminierungsarbeit ermöglichen.",
+      "begruendung_selbst": "Wenn Programme wie 'Demokratie leben!' zusammengestrichen werden, trifft das genau die Initiativen, in denen ich und meine Freundinnen uns engagieren. Weniger Förderung für Zivilgesellschaft bedeutet weniger Raum für uns.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule findet im BSW-Programm vereinzelt sozialpolitische Ansätze, die ihre prekäre finanzielle Lage als Studentin direkt verbessern würden – BAföG-Ausweitung, kostenfreier ÖPNV und Mietendeckel sprechen sie an. Gleichzeitig stößt sie auf fundamentale Konfrontationen: Die biologisch-essentialistische Geschlechterpolitik bedroht ihre queere Identität und erkämpfte Rechte, während die klimapolitische Ausrichtung mit Festhalten an Kohle, Gas und Ablehnung der CO2-Bepreisung ihre Zukunftsperspektive untergräbt. Auch der Angriff auf zivilgesellschaftliche Förderstrukturen trifft ihr Engagement direkt. Die wenigen materiellen Verbesserungen werden durch die massiven Gegenpositionen bei ihren Kernwerten weit überwogen.",
+    "score": -2
+  }
+}

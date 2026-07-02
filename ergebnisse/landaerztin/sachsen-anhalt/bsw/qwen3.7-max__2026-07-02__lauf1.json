@@ -1,0 +1,113 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:05:23.749Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66077,
+    "output_tokens": 9843,
+    "cached_tokens": 59008,
+    "total_tokens": 75920,
+    "dauer_ms": 180540,
+    "usd": 0.09072075
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Anreize für den Landarzt!",
+      "thema": "gesundheit",
+      "programmpunkt": "Stipendienprogramme für Medizinstudierende mit Verpflichtung zur Niederlassung in unterversorgten Regionen und Unterstützung bei der Praxisgründung.",
+      "seite": 60,
+      "zitat": "eigene Stipendienprogramme auflegen für Medizinstudierende, die sich im Gegenzug verpflichten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Dr. Petras größte Sorge ist die fehlende Praxisnachfolge. Die gezielte Förderung und vertragliche Bindung von Nachwuchsmedizinern an den ländlichen Raum trifft genau ihren Nerv und gibt Hoffnung für die Zukunft ihrer Patienten.",
+      "begruendung_selbst": "Wenn ich in Rente gehe, steht hier niemand bereit. Endlich denkt jemand an konkrete Anreize und Stipendien, um junge Kollegen aufs Land zu holen!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit dem Digital-Zwang!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Forderung nach einem Recht auf ein analoges Leben und Ablehnung von Digitalzwang bei Behördengängen und Dienstleistungen.",
+      "seite": 74,
+      "zitat": "Recht auf ein analoges Leben. Niemand darf durch Digitalzwang",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die ständigen Ausfälle der Telematikinfrastruktur und der bürokratische Digital-Zwang belasten ihren Praxisalltag massiv. Die Forderung nach pragmatischen, analogen Alternativen spricht ihr direkt aus der Seele.",
+      "begruendung_selbst": "Ich behandle gern Menschen – aber ich verbringe halbe Tage mit Formularen und einer Technik, die nicht läuft. Ein Recht auf analoge Alternativen wäre ein Segen!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gemeindeschwestern entlasten die Praxis!",
+      "thema": "gesundheit",
+      "programmpunkt": "Aufbau eines flächendeckenden Systems von Gemeindeschwestern zur wohnortnahen Versorgung älterer Menschen und Ausbau der Telemedizin.",
+      "seite": 60,
+      "zitat": "ein flächendeckendes System von Gemeindeschwestern aufbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für eine Hausärztin auf dem Land mit weiten Wegen und vielen älteren Patienten ist die Unterstützung durch Gemeindeschwestern ein langgehegter Wunsch, um Hausbesuche zu delegieren und die Versorgung zu sichern.",
+      "begruendung_selbst": "Meine älteren Patienten brauchen regelmäßige Kontrolle, aber ich kann nicht jeden Tag stundenlang übers Land fahren. Gemeindeschwestern wären die perfekte Entlastung für meine Praxis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mobilität für meine Patienten!",
+      "thema": "verkehr",
+      "programmpunkt": "Ausbau des ÖPNV, Rufbussysteme und bessere Vernetzung im ländlichen Raum, um Erreichbarkeit zu sichern.",
+      "seite": 32,
+      "zitat": "Rufbussysteme, sichere Radwege und die Verknüpfung verschiedener Verkehrsträger.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Viele ihrer älteren, nicht mehr mobilen Patienten scheitern an der Erreichbarkeit der Praxis oder von Fachärzten. Ein funktionierender Rufbus und besserer ÖPNV sind für sie essenzielle Daseinsvorsorge.",
+      "begruendung_selbst": "Was nützt der beste Behandlungsplan, wenn meine Patienten mangels Bus oder Auto gar nicht erst in die Praxis oder zum Facharzt kommen?",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Einheitskasse bedeutet Bürokratie-Monster!",
+      "thema": "gesundheit",
+      "programmpunkt": "Forderung nach einer solidarischen Bürgerversicherung für alle und Zusammenlegung der Krankenkassen.",
+      "seite": 56,
+      "zitat": "Vereinheitlichung der Kassenleistungen und die Zusammenlegung von Krankenkassen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Dr. Petra fürchtet, dass eine zentrale Einheitskasse und die Abschaffung des aktuellen Kassensystems zu noch mehr staatlicher Gängelung, zentralistischer Bürokratie und strengerer Budgetierung für niedergelassene Ärzte führen würden.",
+      "begruendung_selbst": "Eine riesige Einheitskasse klingt nach Solidarität, bedeutet für meine Praxis aber doch nur noch mehr zentralistische Bürokratie und staatliche Gängelung bei der Abrechnung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kommunale Zentren statt freier Praxis?",
+      "thema": "gesundheit",
+      "programmpunkt": "Aufbau von kommunal betriebenen Gesundheitszentren mit angestellten Ärzten als Alternative zur freien Niederlassung.",
+      "seite": 60,
+      "zitat": "kommunal betriebene Gesundheitszentren mit angestellten Ärzten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn Dr. Petra den Mangel kennt, sieht sie die Flucht in kommunale, staatlich betriebene Zentren als Kapitulation vor der Bürokratie und als falschen Weg, der das freiberufliche Engagement weiter schwächt.",
+      "begruendung_selbst": "Wenn der Staat einfach kommunale Zentren mit Angestellten aufmacht, kapituliert er vor der Bürokratie. Wir brauchen Anreize für die freie Niederlassung, keine Verstaatlichung der Praxen!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Impfskepsis ist medizinisch fahrlässig!",
+      "thema": "gesundheit",
+      "programmpunkt": "Infragestellung des Nutzens von Corona-Impfstoffen und Forderung nach Aufarbeitung der Pandemiepolitik.",
+      "seite": 16,
+      "zitat": "Nutzen der Impfstoffe überschätzt wird bzw. berechtigterweise infrage gestellt wird",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Medizinerin, die sich auf fachliche Standards und Standesmedien verlässt, stößt Dr. Petra die pauschale Infragestellung von Impfstoffen und die populistische Pandemie-Rhetorik der Partei massiv ab.",
+      "begruendung_selbst": "Als Ärztin verlasse ich mich auf evidenzbasierte Medizin und meine Standesvertretung, nicht auf populistische Impfskepsis. Solche Aussagen untergraben das Vertrauen in die Wissenschaft!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra begrüßt die pragmatischen Ansätze zur Sicherung der Landarztversorgung, wie Stipendien, Gemeindeschwestern und den Abbau von Digital-Zwang. Gleichzeitig stößt sie sich massiv an der populistischen Impfrhetorik und den Verstaatlichungstendenzen im Gesundheitswesen, die ihre freiberufliche Praxis bedrohen.",
+    "score": 0
+  }
+}

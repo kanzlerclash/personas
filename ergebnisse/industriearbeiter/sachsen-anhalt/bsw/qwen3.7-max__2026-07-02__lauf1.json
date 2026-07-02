@@ -1,0 +1,161 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:34:51.480Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66005,
+    "output_tokens": 10351,
+    "cached_tokens": 65280,
+    "total_tokens": 76356,
+    "dauer_ms": 229582,
+    "usd": 0.08359375
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Tarifbindung als Pflicht!",
+      "thema": "arbeit",
+      "programmpunkt": "Öffentliche Aufträge und Fördermittel dürfen nur an tarifgebundene Unternehmen vergeben werden; Tariftreue wird zur Voraussetzung für Landesförderung.",
+      "seite": 22,
+      "zitat": "Öffentliche Aufträge und Fördermittel dürfen nur an tarifgebundene Unternehmen vergeben werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe erlebt seit Jahren, wie Unternehmen ohne Tarifbindung mit Dumpinglöhnen Aufträge abgreifen und damit den Druck auf seine Branche erhöhen. Die Forderung nach verbindlicher Tariftreue bei öffentlichen Aufträgen entspricht exakt seiner gewerkschaftlichen Kernforderung und schützt tarifgebundene Standorte wie seinen.",
+      "begruendung_selbst": "Das ist genau das, was wir im Betriebsrat seit Jahren fordern! Wer Steuergeld kriegt, muss nach Tarif zahlen. Schluss mit der Lohndrückerei auf dem Rücken der Kollegen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemiestandort sichern – ja!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Transformation des Chemiesektors wird als strategische Priorität benannt; bestehende Chemieparks sollen durch günstige Energiepreise, beschleunigte Genehmigungen und Recyclingunternehmen gestärkt werden.",
+      "seite": 27,
+      "zitat": "Die Transformation des Chemiesektors hat strategische Priorität.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe arbeitet seit über 30 Jahren im Chemiedreieck und sorgt sich existenziell um den Fortbestand seines Standorts. Dass die Partei den Chemiesektor ausdrücklich als strategisch wichtig benennt und konkrete Maßnahmen zum Erhalt der Infrastruktur fordert, bestätigt seine Hoffnung auf eine Industriepolitik, die seinen Arbeitsplatz nicht abschreibt.",
+      "begruendung_selbst": "Endlich sagt mal jemand klar: Die Chemie hier ist systemrelevant und darf nicht einfach abgewickelt werden. Das ist mein Leben, das sind unsere Jobs.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO₂-Abgabe abschaffen – richtig!",
+      "thema": "energie",
+      "programmpunkt": "Die CO₂-Bepreisung wird als nationale Sonderlast kritisiert, die Bürger und Unternehmen einseitig belastet; ihre Aussetzung oder Abschaffung wird gefordert.",
+      "seite": 27,
+      "zitat": "Daher fordern wir, diese ungerechte Steuer auszusetzen oder abzuschaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Uwe als Industriefacharbeiter verteuert die CO₂-Abgabe die Produktion an seinem Standort und verschärft den Wettbewerbsdruck. Die Forderung nach Abschaffung deckt sich mit seiner Sorge, dass einseitige nationale Klimakosten die Industrie ins Ausland treiben und damit Arbeitsplätze vernichten.",
+      "begruendung_selbst": "Die CO₂-Abgabe trifft uns im Chemiedreieck doppelt – als Verbraucher und als Arbeiter. Wenn die Produktion hier unrentabel wird, sind die Jobs weg. Das darf nicht passieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Breiter Energiemix statt Ideologie",
+      "thema": "energie",
+      "programmpunkt": "Das BSW fordert einen technologieoffenen Energiemix mit gesicherter Grundlast, einschließlich Braunkohle und Gas, statt einseitiger Festlegung auf Erneuerbare.",
+      "seite": 24,
+      "zitat": "Deutschland braucht einen breiten, technologieoffenen Energiemix mit gesicherter Leistung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe weiß aus dem Schichtbetrieb, dass die Chemieindustrie auf rund um die Uhr verfügbare, bezahlbare Energie angewiesen ist. Ein technologieoffener Mix mit grundlastfähigen Quellen entspricht seiner Erfahrung, dass reine Erneuerbare die Versorgungssicherheit der Industrie derzeit nicht garantieren können.",
+      "begruendung_selbst": "Unsere Anlagen laufen 24/7. Da kannst du nicht auf Wind und Sonne warten. Wir brauchen grundlastfähige Energie, sonst stehen die Bänder still – und dann stehen wir auf der Straße.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitbestimmung ist Erfolgsfaktor",
+      "thema": "arbeit",
+      "programmpunkt": "Starke Betriebsräte und Gewerkschaften werden als Erfolgsfaktor im Strukturwandel bezeichnet; Behinderungen von Mitbestimmung sollen konsequent sanktioniert werden.",
+      "seite": 22,
+      "zitat": "Mitbestimmung ist kein Hemmnis, sondern ein Erfolgsfaktor im Strukturwandel.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Betriebsratsmitglied fühlt sich Uwe direkt angesprochen und wertgeschätzt. Die klare Positionierung für Mitbestimmung und die Sanktionierung von Behinderungen bestätigt sein Selbstverständnis und seine tägliche Arbeit im Betrieb.",
+      "begruendung_selbst": "Genau so ist es! Wir im Betriebsrat sind kein Hindernis, wir sind der Grund, warum der Laden überhaupt noch läuft. Endlich sagt das mal eine Partei laut und deutlich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mindestlohn 15 Euro – überfällig",
+      "thema": "arbeit",
+      "programmpunkt": "Das BSW fordert einen gesetzlichen Mindestlohn von 15 Euro pro Stunde ohne Ausnahmen sowie gleiche Bezahlung für Frauen und Männer.",
+      "seite": 35,
+      "zitat": "einen gesetzlichen Mindestlohn von 15,00 Euro pro Stunde",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht in seinem Umfeld, wie Leiharbeiter und Subunternehmer zu Dumpinglöhnen eingesetzt werden und damit das Lohngefüge unter Druck setzen. Ein höherer Mindestlohn ohne Ausnahmen stabilisiert aus seiner Sicht das gesamte Lohnniveau und schützt tarifgebundene Facharbeiter vor Lohndumping.",
+      "begruendung_selbst": "15 Euro Mindestlohn, und zwar ohne Wenn und Aber. Wer voll arbeitet, muss davon leben können. Das hebt auch unser Tarifgefüge, weil die Lohndrückerei von unten aufhört.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Deindustrialisierung hinnehmen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das BSW benennt die Deindustrialisierung als Folge falscher Energie- und Klimapolitik sowie internationaler Abhängigkeiten und fordert aktive Industriepolitik zum Erhalt des Standorts.",
+      "seite": 17,
+      "zitat": "Gründe dafür sind unter anderem die europäische und deutsche Energie- und Klimapolitik",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe beobachtet seit Jahren, wie Kollegen in Frührente geschickt werden und Zulieferer schließen. Die Diagnose, dass Energie- und Klimapolitik die Industrie unter Druck setzen, deckt sich mit seiner Alltagserfahrung im Chemiedreieck und bestätigt seine Sorge vor einem schleichenden Strukturbruch.",
+      "begruendung_selbst": "Ich sehe doch, was hier passiert. Jedes Jahr gehen Kollegen, Zulieferer machen dicht. Wenn die Politik das endlich beim Namen nennt, ist das der erste Schritt, was dagegen zu tun.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nordstream? Das ist doch tot!",
+      "thema": "energie",
+      "programmpunkt": "Das BSW fordert die Nutzung der Nordstream-Gaspipeline und langfristige Importverträge mit Russland als Voraussetzung für bezahlbare Energie.",
+      "seite": 17,
+      "zitat": "Eine Nutzung der Nordstream-Gaspipeline ist daher unerlässlich!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe weiß als Gewerkschafter, dass die Pipeline gesprengt ist und eine Wiederinbetriebnahme auf absehbare Zeit unrealistisch erscheint. Solche Forderungen wirken auf ihn wie Symbolpolitik, die von den realen Problemen der Industrie ablenkt und seinen Standort nicht konkret weiterhilft.",
+      "begruendung_selbst": "Nordstream liegt auf dem Meeresgrund in Trümmern. Was soll das bringen? Ich brauch keine Parolen, ich brauch einen Plan, wie unsere Energieversorgung in den nächsten fünf Jahren funktioniert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kernfusion? Träum weiter!",
+      "thema": "energie",
+      "programmpunkt": "Das BSW unterstützt Forschung an neuen Reaktortechnologien wie Kernfusion und dem Dual-Fluid-Reaktor als Beitrag zur Zukunftssicherheit.",
+      "seite": 25,
+      "zitat": "Wir unterstützen Forschung und Entwicklung neuer Energie- und Reaktortechnologien",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe braucht Lösungen für die nächsten Jahre, nicht für 2050. Forschung an Kernfusion klingt für ihn nach ferner Zukunftsmusik, die nichts an den akuten Energiepreisproblemen seines Chemiestandorts ändert. Er befürchtet, dass solche Versprechen von den realen Herausforderungen ablenken.",
+      "begruendung_selbst": "Kernfusion – das sagen die seit 40 Jahren, und es ist immer noch 30 Jahre entfernt. Meine Kollegen und ich brauchen jetzt bezahlbaren Strom, nicht irgendwas aus dem Labor für übermorgen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Migration begrenzen? Und die Fachkräfte?",
+      "thema": "integration",
+      "programmpunkt": "Das BSW fordert eine Begrenzung der Migration an der Aufnahmefähigkeit der Gesellschaft und betont, dass die heimische Bevölkerung vor Überlastung zu schützen sei.",
+      "seite": 62,
+      "zitat": "Die Aufnahmebereitschaft und Integrationsfähigkeit der Gesellschaft sind begrenzt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe erlebt in seinem Betrieb den massiven Fachkräftemangel firsthand. Für ihn ist klar: Ohne Zuwanderung von qualifizierten Arbeitskräften wird die Industrie die offenen Stellen nicht besetzen können. Eine restriktive Migrationspolitik gefährdet aus seiner Sicht die Wettbewerbsfähigkeit seines Standorts und damit indirekt auch seinen Arbeitsplatz.",
+      "begruendung_selbst": "Wir suchen händeringend Leute. Wenn wir keine Fachkräfte reinlassen, wer soll dann die Schichten fahren? Die wenigen Jungen, die wir haben, gehen doch alle nach München oder Berlin.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schuldenbremse weg – und dann?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das BSW fordert die Abschaffung der Schuldenbremse und massive öffentliche Investitionen, um die Binnennachfrage zu stärken.",
+      "seite": 18,
+      "zitat": "Die Schuldenbremse blockiert dieses notwendige Handeln.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe hat die Wende und die Treuhand miterlebt und ist skeptisch gegenüber großen Versprechen, die am Ende nicht eingehalten werden. Die Forderung nach Abschaffung der Schuldenbremse klingt für ihn nach einer Wette auf die Zukunft, bei der am Ende die Arbeitnehmer die Zeche zahlen – etwa durch Inflation oder spätere Sparprogramme.",
+      "begruendung_selbst": "Schulden machen und dann wird schon alles gut? Das hab ich vor 30 Jahren schon mal gehört. Am Ende zahlen immer wir die Rechnung. Ich will Investitionen, ja – aber mit einem Plan, nicht auf Pump ins Blaue.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das BSW-Programm trifft Uwes Kernanliegen als Industriefacharbeiter und Gewerkschafter an vielen Stellen: Tariftreue, Mitbestimmung, Erhalt des Chemiestandorts und bezahlbare Energie bestätigen seine Positionen. Gleichzeitig irritieren ihn unrealistische Energievorschläge wie Nordstream und Kernfusion sowie die migrationspolitische Restriktion, die seinem Fachkräftebedarf widerspricht. Insgesamt überwiegt die Zustimmung, weil die Partei seine existenziellen Sorgen um Deindustrialisierung und Arbeitsplatzverlust ernst nimmt.",
+    "score": 1
+  }
+}

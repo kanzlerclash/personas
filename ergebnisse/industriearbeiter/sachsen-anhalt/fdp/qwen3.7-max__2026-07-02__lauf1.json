@@ -1,0 +1,174 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:57:43.139Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41132,
+    "output_tokens": 7991,
+    "cached_tokens": 39168,
+    "total_tokens": 49123,
+    "dauer_ms": 146209,
+    "usd": 0.060547
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich wettbewerbsfähige Energiekosten!",
+      "thema": "energie",
+      "programmpunkt": "Die FDP fordert wettbewerbsfähige Energiekosten für die Industrie, eine Senkung der Netzentgelte in Sachsen-Anhalt und Technologieoffenheit inklusive Kernenergie, SMR und Fracking-Gas.",
+      "seite": 5,
+      "zitat": "mit wettbewerbsfähigen Energiekosten, gut ausgebildeten Fachkräften",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht in bezahlbaren Energiepreisen die Grundlage für den Erhalt der Chemieindustrie im Chemiedreieck. Die Forderung nach wettbewerbsfähigen Energiekosten und Technologieoffenheit bestätigt seine zentrale Sorge um den Standort.",
+      "begruendung_selbst": "Wenn die Energiepreise so bleiben, können wir hier bald dichtmachen. Endlich sagt mal jemand, dass die Industrie bezahlbaren Strom braucht – nicht nur Sonntagsreden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemiedreieck als Sonderzone!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP schlägt Sonderwirtschaftszonen unter anderem am Chemiestandort Leuna vor, mit gebündelten Genehmigungen, Steuererleichterungen und reduzierten Berichtspflichten für Neuansiedlungen.",
+      "seite": 7,
+      "zitat": "Als Sonderwirtschaftszonen schlagen wir das",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Chemiestandort Leuna wird explizit als Sonderwirtschaftszone genannt. Für Uwe als Facharbeiter im Chemiedreieck signalisiert das den Willen, seinen Standort aktiv zu stärken und Investitionen anzuziehen.",
+      "begruendung_selbst": "Leuna wird extra genannt – das ist doch mal ein Zeichen, dass die verstanden haben, worum es hier bei uns geht. Wenn dadurch Jobs bleiben und neue kommen, bin ich dabei.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Europäisches Mindestmaß statt Gold-Plating",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP will Regulierung am europäischen Mindestmaß ausrichten und das Prinzip 'one-in-two-out' verbindlich machen, besonders für Schlüsselindustrien wie das Chemiedreieck.",
+      "seite": 8,
+      "zitat": "Gerade für Schlüsselindustrien wie das Chemiedreieck gilt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Chemiedreieck wird als Schlüsselindustrie benannt, für die Überregulierung abgebaut werden soll. Uwe erlebt im Betriebsalltag, wie deutsche Sonderregeln den Standort belasten – diese Position deckt sich mit seiner Erfahrung.",
+      "begruendung_selbst": "Wir im Chemiedreieck müssen immer mehr Auflagen erfüllen als die Konkurrenz in Belgien oder Frankreich. Wenn das endlich aufhört, hilft das unserem Standort wirklich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rüstung bringt Jobs hierher",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP will Sachsen-Anhalt als Standort für die Verteidigungsindustrie positionieren und lokale Zulieferer aus der Automobilbranche mit der Rüstungsindustrie vernetzen.",
+      "seite": 9,
+      "zitat": "lokale mittelständische Unternehmen […] besser mit Investoren […] vernetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sorgt sich um den Fortbestand industrieller Arbeitsplätze in der Region. Die Ansiedlung von Verteidigungsindustrie und die Vernetzung mit bestehenden Zulieferern bietet aus seiner Sicht eine konkrete Perspektive für neue Wertschöpfung.",
+      "begruendung_selbst": "Wenn bei uns Rüstung produziert wird und die alten Zulieferer aus der Autoindustrie da mit reinkommen, sichert das Arbeitsplätze. Hauptsache, die Jobs bleiben hier.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Kernkraft wieder anfahren!",
+      "thema": "energie",
+      "programmpunkt": "Die FDP fordert den Wiedereinstieg in die Kernenergie, den Neubau moderner Reaktoren (SMR) und Sachsen-Anhalt als Entwicklungsstandort für Kerntechnologie.",
+      "seite": 14,
+      "zitat": "Wiedereinstieg in die Nutzung der Kernenergie",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Uwe als Chemiearbeiter ist eine zuverlässige und bezahlbare Grundlastenergie existenziell. Die Forderung nach Kernkraft und SMR deckt sich mit seiner Hoffnung auf eine stabile Energieversorgung für die Industrie.",
+      "begruendung_selbst": "Die Chemie braucht Grundlaststrom, rund um die Uhr. Wind und Sonne allein reichen da nicht. Wenn die Kernkraft wieder eine Option ist, sichert das unsere Produktion.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bürgergeld kürzen? Geht gar nicht!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will das Bürgergeld reformieren, Sanktionen konsequent ausschöpfen, gemeinnützige Arbeitspflichten einführen und Langzeitarbeitslose zur Bürgerarbeit verpflichten.",
+      "seite": 40,
+      "zitat": "Langzeitarbeitslose zur Bürgerarbeit verpflichtet werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe steht für Solidarität und ein soziales Sicherungsnetz. Die Forderung nach Zwangsarbeit und verschärften Sanktionen für Arbeitslose widerspricht seinem gewerkschaftlichen Grundverständnis von Würde und fairem Umgang mit Erwerbslosen.",
+      "begruendung_selbst": "Leute, die arbeitslos werden, noch zu zwingen, für einen Euro die Stunde zu schuften – das ist doch keine Perspektive, das ist Schikane. Da hat doch jeder mal Pech, und dann wird er so behandelt?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tariftreuegesetz abschaffen? Nein!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will das Tariftreue- und Vergabegesetz in Sachsen-Anhalt schnellstmöglich abschaffen.",
+      "seite": 7,
+      "zitat": "Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Gewerkschafter verteidigt Uwe die Tarifbindung als Grundlage fairer Löhne. Die Abschaffung des Tariftreuegesetzes würde aus seiner Sicht Lohndumping bei öffentlichen Aufträgen Tür und Tor öffnen und die Tarifordnung schwächen.",
+      "begruendung_selbst": "Wenn bei öffentlichen Aufträgen nicht mehr Tarif gezahlt werden muss, dann drücken die Firmen die Löhne. Das ist ein direkter Angriff auf alles, wofür wir in der Gewerkschaft gekämpft haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Staatsbeteiligungen privatisieren? Gefährlich!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP fordert eine umfassende Privatisierungsoffensive bei allen Landesbeteiligungen an Unternehmen.",
+      "seite": 9,
+      "zitat": "umfassende Privatisierungsoffensive zu starten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe sieht staatliche Beteiligungen als Instrument der Daseinsvorsorge und Standortpolitik. Eine pauschale Privatisierung bedroht aus seiner Sicht öffentliche Kontrolle über wichtige Infrastruktur und kann Arbeitsplätze gefährden.",
+      "begruendung_selbst": "Wenn der Staat seine Anteile verscherbelt, geht's nur noch um Rendite – und die Arbeitsplätze sind die ersten, die dran glauben müssen. Das haben wir doch schon mal erlebt in den Neunzigern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Zuckersteuer, aber Sozialabbau?",
+      "thema": "steuern",
+      "programmpunkt": "Die FDP lehnt neue Verbrauchssteuern wie eine Zuckersteuer ab und will bestehende Verbrauchssteuern streichen, gleichzeitig aber Sozialleistungen kürzen und Sanktionen verschärfen.",
+      "seite": 9,
+      "zitat": "gegen die Einführung neuer, erzieherischer Verbrauchssteuern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe nimmt die Gesamtschau wahr: Steuern senken für Konsumgüter, aber beim Bürgergeld und Sozialstaat kürzen. Das erscheint ihm als Politik zugunsten von Unternehmen und Besserverdienern auf Kosten der Schwächeren.",
+      "begruendung_selbst": "Bei der Biersteuer und Kaffeesteuer sind sie großzügig, aber beim Bürgergeld soll gekürzt werden. Das ist doch eine Politik für die da oben, nicht für uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Überstunden steuerfrei – Ausbeutung!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will jede Überstunde steuerfrei stellen.",
+      "seite": 40,
+      "zitat": "jede Überstunde steuerfrei stellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Betriebsrat weiß Uwe, dass steuerfreie Überstunden den Druck auf Beschäftigte erhöhen können, mehr zu arbeiten, und gleichzeitig die Sozialkassen schwächen. Er befürchtet, dass dies zu Lasten von Gesundheit und Work-Life-Balance geht.",
+      "begruendung_selbst": "Steuerfreie Überstunden klingen nett, aber am Ende stehen die Leute noch länger an der Anlage und die Chefs sparen sich neues Personal. Das ist kein Fortschritt, das ist Ausbeutung mit Steuergeschenk.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ladenöffnung sonntags? Unsere Freizeit!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will das Ladenöffnungszeitengesetz vollständig liberalisieren und Sonntags- sowie Feiertagsöffnungen maximal ausweiten.",
+      "seite": 8,
+      "zitat": "größtmögliche Ausweitung der Sonntagsöffnungen sowie Öffnungen an Feiertagen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe arbeitet selbst im Schichtbetrieb und weiß, wie wertvoll geschützte Ruhetage für Familien und soziales Leben sind. Eine vollständige Liberalisierung der Sonntagsöffnung bedeutet für ihn eine weitere Aushöhlung der Arbeitszeitgrenzen.",
+      "begruendung_selbst": "Ich arbeite selbst Schicht, ich weiß, was es bedeutet, wenn der Sonntag nicht mehr geschützt ist. Wenn alles immer geöffnet ist, wird der Druck auf die Beschäftigten im Handel noch größer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozialabbau als Programm",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will die Pflegeversicherung reformieren, versicherungsfremde Leistungen streichen und ein kapitalgedecktes Element einführen. Eine Kommunalisierung der Pflege wird abgelehnt.",
+      "seite": 70,
+      "zitat": "Versicherungsfremde Leistungen gehören gestrichen, ein kapitalgedecktes Element muss",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe hat ältere Familienangehörige und sieht die Pflege als solidarische Gemeinschaftsaufgabe. Die Streichung versicherungsfremder Leistungen und die Betonung privater Vorsorge bedeuten aus seiner Sicht höhere Eigenbelastungen und weniger Sicherheit für Normalverdiener.",
+      "begruendung_selbst": "Wenn die Pflegeversicherung zusammengestrichen wird und jeder privat vorsorgen soll, dann können sich das die normalen Leute nicht mehr leisten. Meine Mutter im Heim – da zahlt sich die Familie kaputt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe sieht bei der FDP einerseits positive Signale für den Industriestandort Chemiedreieck: bezahlbare Energie, Technologieoffenheit, Bürokratieabbau und explizite Nennung seines Wirtschaftsraums. Andererseits stößt ihn das marktliberale Sozialprofil massiv ab – die Abschaffung des Tariftreuegesetzes, Bürgergeld-Kürzungen, Privatisierungsforderungen und steuerfreie Überstunden widersprechen seinem gewerkschaftlichen Wertefundament. Die FDP ist für ihn wirtschaftspolitisch teilweise anschlussfähig, aber sozialpolitisch ein klarer Gegner.",
+    "score": -1
+  }
+}

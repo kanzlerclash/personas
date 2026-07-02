@@ -1,0 +1,125 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:05:53.628Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69801,
+    "output_tokens": 10492,
+    "cached_tokens": 67456,
+    "total_tokens": 80293,
+    "dauer_ms": 192127,
+    "usd": 0.08964275
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich gegen Land-Grabbing!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Regulierung von Share Deals, um den Ausverkauf von Agrarland an Großinvestoren zu verhindern und lokale Landwirte zu schützen.",
+      "seite": 16,
+      "zitat": "Regulierung von Anteilskäufen (Share Deals) an Unternehmen mit landwirtschaftlichen Flächen notwendig",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank ärgert sich seit Jahren über ortsfremde Investoren, die über Share Deals die Pacht- und Kaufpreise in der Altmark in die Höhe treiben. Die Forderung nach einer Regulierung trifft genau seinen Wunsch nach fairen Bedingungen für den lokalen Familienbetrieb.",
+      "begruendung_selbst": "Es kann doch nicht sein, dass uns Investoren aus der Stadt die Flächen vor der Nase wegschnappen und wir Pächter zweiter Klasse werden. Wenn die da endlich mal einen Riegel vorschieben, ist das ein echtes Signal für uns Familienbetriebe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hofübergabe muss sich lohnen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Gezielte Förderung von Jungbäuerinnen und Existenzgründern sowie Erleichterung von Betriebsübernahmen.",
+      "seite": 16,
+      "zitat": "Wir wollen Betriebsübernahmen erleichtern und so landwirtschaftliche Flächen langfristig erhalten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Sorge, dass seine Tochter den Hof wegen der wirtschaftlichen Unsicherheit nicht übernehmen will, beschäftigt Frank täglich. Ein Programm, das die Hofnachfolge aktiv finanziell und strukturell stützen will, gibt ihm Hoffnung für die Zukunft des Familienbetriebs.",
+      "begruendung_selbst": "Meine Tochter überlegt sich gut, ob sie sich diesen Stress mit den Banken und Ämtern antun will. Wenn die Politik jetzt endlich die Hofübergabe fördert und nicht nur neue Hürden aufbaut, gibt das uns beiden vielleicht die nötige Planungssicherheit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigeninitiative statt Formular-Wahn!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Abbau bürokratischer Hürden für den Bau von Stauanlagen zur Wasserrückhaltung in der Landwirtschaft.",
+      "seite": 13,
+      "zitat": "Die bürokratischen Hürden für den Bau und Betrieb von Stauanlagen für die Wasserrückhaltung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank erlebt im Alltag, dass praktische Lösungen auf dem Feld oft an Genehmigungsverfahren scheitern. Dass die Grünen hier explizit Eigeninitiative belohnen und Bürokratie abbauen wollen, entspricht seinem Selbstverständnis als praktizierender Landwirt, der seine Flächen am besten kennt.",
+      "begruendung_selbst": "Wir wissen doch selbst am besten, wo das Wasser fehlt und wo wir es halten müssen. Dass man uns da nicht mehr mit tausend Formularen schikaniert, wenn wir selbst Hand anlegen wollen, ist längst überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beraten statt nur bestrafen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Bei der Umsetzung von Vorschriften soll mehr auf Beratung und Hilfestellung gesetzt werden als auf übermäßige Bürokratie und Hürden.",
+      "seite": 16,
+      "zitat": "mehr Beratung und Hilfestellung statt übermäßiger Bürokratie. Landwirt*innen sollen bei der Umsetzung unterstützt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich oft von der Politik wie ein Krimineller behandelt, der ständig kontrolliert wird. Der Ansatz, Beratung vor Bestrafung zu stellen, holt ihn emotional ab und bestätigt seinen Wunsch nach Anerkennung und Partnerschaft statt Gängelung.",
+      "begruendung_selbst": "Jedes Jahr eine neue Verordnung, und wehe, du machst einen Kreuzchen-Fehler im Schlagkartei-Programm. Wenn die jetzt wirklich mal beraten wollen, statt gleich Bußgelder zu verhängen, wäre das ein Anfang.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Der Wolf ist heilig, wir nicht!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Der Schutzstatus des Wolfes soll erhalten bleiben, die Eintragung ins Jagdrecht rückgängig gemacht und Abschüsse nur in engen Ausnahmen erlaubt werden.",
+      "seite": 7,
+      "zitat": "Eintragung ins Jagdrecht rückgängig zu machen und seinen Schutz wieder im Bundesnaturschutzrecht zu verankern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Frank ist der Wolf keine abstrakte Naturschutzromantik, sondern eine konkrete Bedrohung für seine Mutterkuhherde auf der Weide. Die strikte Ablehnung einer Bestandsregulierung über das Jagdrecht empfindet er als realitätsfern und als Beweis, dass die Stadt die Nöte der Weidetierhalter ignoriert.",
+      "begruendung_selbst": "Die sitzen im Büro und reden vom 'konfliktarmen Nebeneinander'. Aber wenn der Wolf meine Kälber reißt, zahle ich die Rechnung und den Zaunbau. Dass die den Wolf jetzt sogar aus dem Jagdrecht rauslassen wollen, ist ein Schlag ins Gesicht für jeden Weidetierhalter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Kontrollen auf dem Acker!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Schrittweiser Ausstieg aus chemisch-synthetischen Pflanzenschutzmitteln bis 2035 und deutliche Ausweitung der Kontrollen landwirtschaftlicher Betriebe.",
+      "seite": 17,
+      "zitat": "den schrittweisen Ausstieg aus chemisch-synthetischen Pflanzenschutzmitteln bis 2035 vorantreiben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Ackerbauer ist Frank auf Pflanzenschutzmittel angewiesen, um seine Erträge und damit seine Existenz zu sichern. Die Ankündigung eines Ausstiegs triggert sein tiefes Misstrauen gegenüber praxisferner Bürokratie und fühlt sich wie eine weitere Existenzbedrohung an.",
+      "begruendung_selbst": "Erst nehmen sie uns die Wirkstoffe weg, und dann schicken sie noch mehr Kontrolleure raus. So treiben die uns doch in den Ruin oder zwingen uns, den Hof dichtzumachen. Das ist doch keine Landwirtschaft mehr, das ist ein Freilichtmuseum.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Brüsseler Natur-Zwangsverordnung!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Schnelle Umsetzung der EU-Wiederherstellungsverordnung, um geschädigte Ökosysteme in einen naturnahen Zustand zu versetzen.",
+      "seite": 6,
+      "zitat": "setzen wir uns für eine schnelle Umsetzung der EU-Wiederherstellungsverordnung ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank verbindet Brüsseler Vorgaben pauschal mit Flächenstilllegung und Produktionsverlust. Die Wiederherstellungsverordnung ist für ihn das Symbol einer Umweltpolitik, die auf dem Rücken der Landwirte ausgetragen wird, ohne die wirtschaftlichen Folgen für die Betriebe zu berücksichtigen.",
+      "begruendung_selbst": "Kaum ist das eine Gesetz durchgepeitscht, kommt schon die nächste Brüsseler Zwangsjacke. 'Wiederherstellung' heißt doch im Klartext nur: Flächen stilllegen und uns die Bewirtschaftung verbieten. Das bezahlen am Ende wieder wir.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wir sind nicht die Umweltsünder!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die aktuelle Landwirtschaft mit einseitigen Fruchtfolgen und ohne Gewässerschutz stößt an ökologische Grenzen und muss grundlegend umgebaut werden.",
+      "seite": 14,
+      "zitat": "Eine Landwirtschaft mit einseitigen Fruchtfolgen, nicht flächengebundener industrieller Tierhaltung und ohne Boden- und Gewässerschutz",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Frank arbeitet jeden Tag auf dem Feld und sorgt sich um seine Böden. Pauschale Vorwürfe, die Landwirtschaft würde ohne Boden- und Gewässerschutz arbeiten, empfindet er als ungerechtfertigte moralische Verurteilung durch eine urbane Gesellschaft, die keine Ahnung von der harten Realität im Ackerbau hat.",
+      "begruendung_selbst": "Wir leben von unserem Boden, warum sollten wir ihn kaputtmachen? Dass die uns hier pauschal als Umweltsünder hinstellen, die angeblich ohne Rücksicht auf Natur wirtschaften, zeigt nur, dass die noch nie einen Fuß auf einen Acker gesetzt haben.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank erkennt im Programm vereinzelt pragmatische Ansätze, die seine Sorgen um Hofnachfolge, Landgrabbing und Bürokratie ernst nehmen. Gleichzeitig überwiegt für ihn jedoch das Gefühl, dass die grüne Agrarpolitik auf ideologischen Vorgaben, strenger Regulierung und moralischer Verurteilung basiert, was seine Existenz als konventioneller Acker- und Weidetierhalter massiv bedroht. Die Diskrepanz zwischen städtischer Naturschutzromantik und seinem harten Betriebsalltag bestätigt seine Skepsis gegenüber der Partei.",
+    "score": -1
+  }
+}

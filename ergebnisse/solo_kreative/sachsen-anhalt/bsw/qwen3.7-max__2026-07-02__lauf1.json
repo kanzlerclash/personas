@@ -1,0 +1,155 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:24:46.552Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66019,
+    "output_tokens": 10187,
+    "cached_tokens": 65280,
+    "total_tokens": 76206,
+    "dauer_ms": 188749,
+    "usd": 0.08399
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Bürokratie!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Das Programm fordert ein landesweites Unternehmensportal mit einheitlichem Zugang für alle Verwaltungsleistungen, medienbruchfrei und mit klaren Ansprechpartnern.",
+      "seite": 21,
+      "zitat": "Landesweites Unternehmensportal mit einheitlichem Zugang für alle relevanten Verwaltungsleistungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike verbringt als Soloselbstständige überproportional viel Zeit mit Behördengängen und Anträgen. Ein zentrales, digitales Portal würde ihren Verwaltungsaufwand spürbar reduzieren und ihr mehr Zeit für die eigentliche kreative Arbeit lassen.",
+      "begruendung_selbst": "Ich verbringe gefühlt mehr Zeit mit Formularen als mit Design. Wenn ich endlich alles an einer Stelle digital erledigen könnte, wäre das ein Traum.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Kultur ist Daseinsvorsorge!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Kultur wird als Teil der öffentlichen Daseinsvorsorge definiert; das Kulturfördergesetz soll verabschiedet und die institutionelle Förderung auch für kleine Einrichtungen verstetigt werden.",
+      "seite": 39,
+      "zitat": "Kultur ist die Grundlage für ein gelingendes und erfülltes Leben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareikes Einkommen hängt direkt an der Kreativwirtschaft und an Förderstrukturen. Die Anerkennung von Kultur als Daseinsvorsorge signalisiert, dass ihre Arbeit nicht als verzichtbarer Luxus, sondern als systemrelevant betrachtet wird.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass Kultur kein Nice-to-have ist. Ich bin nicht weniger wert als ein Industrieunternehmen, nur weil ich kreativ arbeite.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Soziale Absicherung für alle!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das BSW fordert eine einheitliche Renten-, Pflege- und Krankenversicherung (Bürgerversicherung), in die alle einzahlen, sowie eine Pflegevollversicherung aus Steuermitteln.",
+      "seite": 36,
+      "zitat": "Einheitliche Renten-, Pflege- und Krankenversicherung, in die alle einzahlen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soloselbstständige in der KSK kennt Mareike die Fragilität ihrer Absicherung. Eine Bürgerversicherung würde die Zweiklassenstruktur aufbrechen und ihr mehr Sicherheit bei Krankheit und im Alter geben.",
+      "begruendung_selbst": "Wenn ich krank werde, fange ich keinen Schutz auf. Eine Versicherung für alle – das wäre endlich ein System, das auch Leute wie mich nicht vergisst.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "KSK muss bleiben!",
+      "thema": "arbeit",
+      "programmpunkt": "Die soziale Lage von Künstlern und Kulturschaffenden soll gezielt verbessert werden, unter anderem durch eine Reform der Künstlersozialkasse und besseren Schutz vor Altersarmut.",
+      "seite": 40,
+      "zitat": "Soziale Lage von Künstlern gezielt verbessern – Reform der Künstlersozialkasse",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die KSK ist Mareikes einzige soziale Absicherung. Die explizite Nennung einer KSK-Reform zum Schutz vor Altersarmut bestätigt ihre zentrale Sorge und zeigt, dass ihre spezifische Situation wahrgenommen wird.",
+      "begruendung_selbst": "Die KSK ist mein einziges Netz. Wenn die endlich reformiert und gestärkt wird, kann ich nachts wieder besser schlafen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Steuern runter für Kleine!",
+      "thema": "steuern",
+      "programmpunkt": "Einkommen unter 2.000 Euro sollen steuerfrei sein; das Steuersystem soll progressiver gestaltet werden, mit höherer Belastung für große Vermögen.",
+      "seite": 35,
+      "zitat": "Einkommen unter 2.000 Euro sollten steuerfrei sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "In Monaten mit Flaute rutscht Mareike schnell unter diese Grenze. Eine Steuerfreiheit bei niedrigem Einkommen würde ihre finanzielle Not in schlechten Zeiten direkt lindern und ihr mehr Luft zum Atmen geben.",
+      "begruendung_selbst": "In Monaten ohne Aufträge verdiene ich fast nichts – und trotzdem will das Finanzamt was. Wenn unter 2.000 Euro steuerfrei wären, wäre das eine echte Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Honorare, endlich!",
+      "thema": "arbeit",
+      "programmpunkt": "Öffentliche Aufträge und Fördermittel dürfen nur an tarifgebundene Unternehmen vergeben werden; Tariftreue wird zur Voraussetzung für öffentliche Förderung.",
+      "seite": 35,
+      "zitat": "Öffentliche Aufträge nur an tarifgebundene Unternehmen vergeben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike arbeitet regelmäßig für öffentliche oder geförderte Projekte. Wenn Tariftreue zur Bedingung wird, steigt der Druck auf Auftraggeber, faire Honorare zu zahlen – auch an Soloselbstständige.",
+      "begruendung_selbst": "Bei öffentlichen Projekten werde ich oft mit Hungerhonoraren abgespeist. Wenn Tariftreue Pflicht wird, kann ich endlich angemessene Sätze verlangen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Förderung nur für Brave?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Öffentliche Fördermittel sollen an strenge Transparenz- und Neutralitätskriterien gebunden werden; Organisationen, die politische Kampagnen betreiben, sollen nicht als gemeinnützig gelten.",
+      "seite": 14,
+      "zitat": "Organisationen, die politische Kampagnen betreiben, dürfen nicht gemeinnützig gelten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike arbeitet auch an Projekten mit gesellschaftspolitischer Haltung. Die enge Definition von Gemeinnützigkeit und die Forderung nach politischer Neutralität könnten Förderzugänge für kreative Arbeit mit Haltung einschränken.",
+      "begruendung_selbst": "Wenn ich nur noch gefördert werde, wenn ich brav und 'neutral' bin, bleibt meine kritische Arbeit auf der Strecke. Kunst darf doch Haltung haben!",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Sachsen-Anhalt, nicht Berlin!",
+      "thema": "arbeit",
+      "programmpunkt": "Das gesamte Programm ist auf Sachsen-Anhalt als Landesebene ausgerichtet; viele Maßnahmen wie KSK-Reform, Bürgerversicherung oder Steuerfreibeträge erfordern Bundesgesetzgebung.",
+      "seite": 5,
+      "zitat": "Wahlprogramm zur Landtagswahl Sachsen-Anhalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike lebt und arbeitet in Berlin. Die meisten für sie relevanten Versprechen (KSK-Reform, Bürgerversicherung, Steuerpolitik) liegen auf Bundesebene und können von einer Landtagsfraktion in Sachsen-Anhalt nicht direkt umgesetzt werden.",
+      "begruendung_selbst": "Klingt alles super, aber ich lebe in Berlin. Was bringt mir ein Landtagsprogramm aus Magdeburg, wenn die echten Hebel in Berlin liegen?",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "NGO-Förderung unter Generalverdacht",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Förderung zivilgesellschaftlicher Arbeit soll streng kontrolliert, auf politische Neutralität geprüft und transparent gemacht werden; 'Schein-NGOs' sollen keinen Zugang zu öffentlichen Mitteln haben.",
+      "seite": 14,
+      "zitat": "dürfen keinen Zugang zu öffentlichen Mitteln haben",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike arbeitet oft im Umfeld von Kulturinitiativen und zivilgesellschaftlichen Projekten. Der Generalverdacht gegenüber NGOs und die Forderung nach strenger Kontrolle könnten das Förderklima für kleine, engagierte Projekte vergiften, von denen sie Aufträge erhält.",
+      "begruendung_selbst": "Viele meiner Aufträge kommen von kleinen Kulturvereinen und Initiativen. Wenn die jetzt alle unter Verdacht stehen, trocknet das ganze Ökosystem aus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Cancel Culture? Ich bin doch nicht das Problem!",
+      "thema": "demokratie",
+      "programmpunkt": "Das Programm warnt wiederholt vor 'Cancel Culture', 'Meinungsdiktaten' und 'politischer Einschüchterung' und fordert ein Ende entsprechender Förderpraxis.",
+      "seite": 11,
+      "zitat": "auf die Meinungsfreiheit durch Cancel-Culture und Konformitätsdruck",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike bewegt sich in einem progressiv-liberalen Kreativumfeld. Die pauschale Abwehr von 'Cancel Culture' als Framing empfindet sie als Ablenkung von strukturellen Machtfragen und als Signal, dass die Partei sich eher an konservativen Kulturkämpfen orientiert als an ihrer Lebensrealität.",
+      "begruendung_selbst": "Dieses ganze 'Cancel Culture'-Gerede nervt. In meiner Bubble geht's um faire Bezahlung und Diversität, nicht um Meinungsdiktatur. Das ist ein völlig anderes Weltbild.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet im BSW-Programm überraschend viele Punkte, die ihre Kernsorgen als Soloselbstständige in der Kreativwirtschaft ansprechen: KSK-Reform, Bürgerversicherung, Steuerentlastung bei niedrigem Einkommen, Bürokratieabbau und die Anerkennung von Kultur als Daseinsvorsorge. Gleichzeitig irritiert sie die konservative Rhetorik gegenüber NGOs und 'Cancel Culture', die ihrem progressiven Umfeld widerspricht. Das größte praktische Problem bleibt: Sie lebt in Berlin, das Programm gilt für Sachsen-Anhalt – und die wichtigsten Hebel liegen ohnehin auf Bundesebene.",
+    "score": 0
+  }
+}

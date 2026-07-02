@@ -1,0 +1,101 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:46:41.903Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76932,
+    "output_tokens": 6758,
+    "cached_tokens": 0,
+    "total_tokens": 83690,
+    "dauer_ms": 126914,
+    "usd": 0.14154
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich keine Kita-Gebühren mehr!",
+      "thema": "familie",
+      "programmpunkt": "Kitas und Kindergärten sollen ab dem ersten Kind kostenlos werden, ebenso die Mittagsverpflegung in Krippe und Schule.",
+      "seite": 4,
+      "zitat": "ab dem ersten Kind kostenlos machen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als alleinerziehende Mutter mit knappem Budget entlastet die Aussicht auf gebührenfreie Kitas und kostenloses Schulessen Nadines finanziellen Alltag massiv.",
+      "begruendung_selbst": "Jeder Euro, den ich nicht für die Kita oder das Mittagessen ausgeben muss, bleibt für die Kinder.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schulbücher kosten nichts extra!",
+      "thema": "bildung",
+      "programmpunkt": "Schulbücher sollen leihweise und kostenlos zur Verfügung gestellt werden, ohne dass Eltern dafür aufkommen müssen.",
+      "seite": 7,
+      "zitat": "Auch die dabei verwendeten Bücher müssen leihweise gestellt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Abschaffung der Kosten für Lehrbücher nimmt Nadine eine der typischen, schwer planbaren finanziellen Belastungen zu Schuljahresbeginn.",
+      "begruendung_selbst": "Wenn die Schule anfängt, muss ich nicht wieder hunderte Euro für Bücher aufbringen, die ich mir kaum leisten kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr bezahlbare Wohnungen für uns!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Förderung des sozialen Wohnungsbaus soll wiederbelebt werden, um bezahlbaren Wohnraum für Menschen mit geringem Einkommen zu sichern.",
+      "seite": 15,
+      "zitat": "bezahlbare Wohnungen für Personen mit geringem und",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da die Miete den Großteil von Nadines Einkommen frisst, begrüßt sie das Bekenntnis zur Stärkung des sozialen Wohnungsbaus und bezahlbarer Mieten.",
+      "begruendung_selbst": "Die Miete frisst mich auf. Wenn endlich wieder in bezahlbare Wohnungen investiert wird, gibt mir das etwas Luft.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Meine Familie ist 'nicht normal'?",
+      "thema": "familie",
+      "programmpunkt": "Die Partei lehnt es ab, Einelternfamilien als normalen oder erstrebenswerten Lebensentwurf zu betrachten, und will diese nicht propagieren.",
+      "seite": 4,
+      "zitat": "sogenannte „Einelternfamilien\" als normalen, fortschrittlichen oder gar",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine fühlt sich durch die explizite Abwertung ihres Familienmodells als Alleinerziehende stigmatisiert und in ihrer täglichen Lebensleistung nicht respektiert.",
+      "begruendung_selbst": "Ich rackere mich jeden Tag für meine Kinder ab, und dann heißt es hier, meine Familie sei nicht 'normal'.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld ist kein Schimpfwort!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Bürgergeld wird pauschal als 'Migrantengeld' diffamiert und seine Funktion als notwendige Grundsicherung für Aufstockende ignoriert.",
+      "seite": 5,
+      "zitat": "Das Bürgergeld ist längst zum Migrantengeld geworden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Aufstockerin ist Nadine auf das Bürgergeld angewiesen; die pauschale Diffamierung der Leistung wertet ihre eigene Existenzgrundlage ab und schürt Misstrauen.",
+      "begruendung_selbst": "Ich arbeite Teilzeit und brauche das Bürgergeld zum Überleben. Wenn das hier nur als 'Migrantengeld' beschimpft wird, fühle ich mich wie Dreck.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wir brauchen doch Sozialarbeiter!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei behauptet, dass 'funktionierende Familien' Schulsozialarbeiter überflüssig machen, und will staatliche Hilfen zugunsten der Familie abbauen.",
+      "seite": 4,
+      "zitat": "Funktionierende Familien machen Schulsozialarbeiter überflüssig, wirken",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine ist auf das Auffangnetz der Schule und Sozialarbeiter angewiesen, wenn der Alltag als Alleinerziehende überfordert; deren pauschale Infragestellung bedroht ihre Unterstützungssysteme.",
+      "begruendung_selbst": "Als Alleinerziehende kann ich nicht immer alles auffangen. Wenn die Schule Sozialarbeiter streicht, weil sie meine Familie für 'unfunktionierend' hält, hängen meine Kinder in der Luft.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine profitiert finanziell stark von den versprochenen kostenlosen Kita-Plätzen, Schulbüchern und dem sozialen Wohnungsbau, was ihren knappen Alltag spürbar entlasten würde. Gleichzeitig fühlt sie sich durch die ideologische Abwertung von Einelternfamilien und die stigmatisierende Rhetorik gegenüber Bürgergeld-Empfängern tief in ihrer Würde verletzt. Die finanzielle Hilfe steht im harten Kontrast zur feindseligen Haltung gegenüber ihrer Lebensrealität.",
+    "score": -1
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:42:06.596Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41127,
+    "output_tokens": 10277,
+    "cached_tokens": 39168,
+    "total_tokens": 51404,
+    "dauer_ms": 186617,
+    "usd": 0.07853325
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mobile Arztpraxen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Land will rollende Arztpraxen und Facharzt-Busse fördern, um die medizinische Versorgung in unterversorgten ländlichen Regionen sicherzustellen.",
+      "seite": 64,
+      "zitat": "Durch ein landesweites Förderprogramm etablieren wir „rollende Arztpraxen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter leben in einem Dorf mit nur einem Hausarzt und fürchten den Tag, an dem dieser in Rente geht. Das Konzept mobiler Arztpraxen spricht ihre größte Versorgungssorge direkt an und bietet eine konkrete, niedrigschwellige Lösung für ihren ländlichen Raum.",
+      "begruendung_selbst": "Wenn unser Hausarzt aufhört, stehen wir auf dem Schlauch. Da wäre so ein Arztbus doch wenigstens eine Chance, dass wir nicht jedes Mal 30 Kilometer fahren müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Steuerliche Sanierungsförderung!",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP will über eine Bundesratsinitiative eine dauerhafte Modernisierungs-Abschreibung erreichen, damit energetische Sanierungen und barrierereduzierende Maßnahmen steuerlich beschleunigt abgeschrieben werden können.",
+      "seite": 13,
+      "zitat": "steuerliche Investitionsanreize statt auf Förderbürokratie",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Ehepaar fürchtet Sanierungspflichten am eigenen Haus von 1981, hat aber kaum liquide Rücklagen. Steuerliche Anreize statt bürokratischer Förderprogramme klingen für sie nach einem pragmatischen Weg, der Eigenverantwortung belohnt, ohne sie in komplexe Antragsverfahren zu zwingen.",
+      "begruendung_selbst": "Wenn wir was am Haus machen, wollen wir das von der Steuer absetzen können – nicht erst zwanzig Formulare ausfüllen und dann doch abgelehnt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Zwangssanierung!",
+      "thema": "energie",
+      "programmpunkt": "Die FDP lehnt zusätzliche Berichtspflichten und Audits im Energieeffizienzgesetz ab und setzt auf wirtschaftliche Anreize statt auf Zwang bei der Energieeffizienz.",
+      "seite": 14,
+      "zitat": "Berichtspflichten und Audits des Energieeffizienzgesetzes abschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die größte Angst des Paares ist, durch energetische Sanierungspflichten finanziell überfordert zu werden. Die Ablehnung von Zwangsmaßnahmen und Berichtspflichten bestätigt ihre Hoffnung, dass der Staat sie nicht zu teuren Maßnahmen zwingt, die sie sich nicht leisten können.",
+      "begruendung_selbst": "Wenn wir das Dach dämmen müssen, von welchem Geld eigentlich? Gut, dass wenigstens eine Partei sagt: Kein Zwang, sondern Anreize.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Telenotarzt rettet Leben!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will den Telenotarzt landesweit etablieren, damit Notärzte per Bild- und Tonübertragung Einsatzkräfte vor Ort unterstützen können.",
+      "seite": 68,
+      "zitat": "landesweite Etablierung des Projektes Telenotarzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "In ihrem Dorf ist schnelle notärztliche Hilfe nicht garantiert. Die Idee, dass ein Notarzt per Video zugeschaltet werden kann, gibt Helga und Dieter ein Gefühl von Sicherheit – gerade in ihrem Alter, wo Herz-Kreislauf-Probleme zunehmen.",
+      "begruendung_selbst": "Wenn einer von uns umfällt, dauert es ewig, bis der Notarzt da ist. Wenn der wenigstens per Video sofort dabei sein kann, beruhigt uns das schon.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Polizei muss sichtbar bleiben!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP will die Polizei auf 7.000 Stellen im Vollzugsdienst halten und durch 1.200 Verwaltungsmitarbeiter entlasten, damit mehr Beamte für Kernaufgaben wie Schutz und Gefahrenabwehr zur Verfügung stehen.",
+      "seite": 52,
+      "zitat": "Stellenaufwuchs auf 7.000 Stellen im Polizeivollzugsdienst",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar sorgt sich um Sicherheit und Kriminalität im Ort und fühlt sich auf dem Land manchmal abgehängt. Mehr sichtbare Polizei und die Entlastung von Verwaltungsaufgaben bestätigen ihr Bedürfnis nach Ordnung und staatlicher Präsenz.",
+      "begruendung_selbst": "Bei uns im Dorf lässt sich die Polizei kaum noch blicken. Da muss doch mehr her, damit wir uns abends noch auf die Straße trauen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ambulant vor stationär!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP betont den Grundsatz „Ambulant vor stationär",
+      "seite": 70,
+      "zitat": "Grundsatz: „Ambulant vor stationär“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter wollen so lange wie möglich im eigenen Haus leben. Der Grundsatz, dass häusliche Pflege Vorrang vor dem Heim haben soll, entspricht genau ihrem Wunsch, im vertrauten Umfeld alt zu werden.",
+      "begruendung_selbst": "Wir wollen hier in unserem Haus bleiben, solange es irgendwie geht. Ins Heim? Bloß nicht, wenn es sich vermeiden lässt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Aktienrente? Nicht mit uns!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will die Pflegeversicherung umfassend reformieren und ein kapitalgedecktes Element ergänzen, um private und betriebliche Vorsorge zu stärken.",
+      "seite": 70,
+      "zitat": "ein kapitalgedecktes Element muss wie bei der Krankenversicherung ergänzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Rentnerpaar ist zutiefst skeptisch gegenüber kapitalgedeckten Elementen in der Altersvorsorge. Nach einem Leben als Facharbeiter vertrauen sie dem Umlagesystem und fürchten, dass Börsenrisiken ihre ohnehin kleine Rente gefährden könnten.",
+      "begruendung_selbst": "Wir haben unser Leben lang gearbeitet – jetzt soll die Rente bitte sicher sein, kein Börsenspiel. Wer weiß, was an der Börse passiert, wenn wir das Geld brauchen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld-Kürzungen? Unsozial!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP will das Bürgergeld reformieren, Sanktionen konsequent ausschöpfen und gemeinnützige Arbeitspflichten für Langzeitarbeitslose einführen.",
+      "seite": 40,
+      "zitat": "Sanktionsspielraum konsequent ausgeschöpft werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl Helga und Dieter selbst sparsam leben, empfinden sie harte Sanktionen und Arbeitspflichten für Bedürftige als unsozial. Aus ihrer DDR- und Nachwendeerfahrung heraus wissen sie, wie schnell Menschen in Notlagen geraten können, und sehen solche Maßnahmen als Bestrafung der Schwachen.",
+      "begruendung_selbst": "Man muss doch Menschen, die unten sind, nicht noch tiefer treten. Wir haben auch mal schwere Zeiten gehabt – da war man froh über Hilfe, nicht über Schikane.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rüstung statt Rente?",
+      "thema": "verteidigung",
+      "programmpunkt": "Die FDP will Sachsen-Anhalt als Standort für die Verteidigungsindustrie positionieren und Rüstungsproduktion samt Arbeitsplätzen ins Land holen.",
+      "seite": 9,
+      "zitat": "Sachsen-Anhalt vom Aufbau dieser industriellen Wertschöpfung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für das sicherheitsorientierte Rentnerpaar wirkt die Priorisierung von Rüstungsinvestitionen befremdlich, wenn gleichzeitig die Sorgen um Pflege, Rente und ärztliche Versorgung ungelöst bleiben. Sie fragen sich, warum Milliarden in Waffen fließen, statt in die Daseinsvorsorge für Ältere.",
+      "begruendung_selbst": "Milliarden für Waffen – aber für die Pflege und die Ärzte auf dem Land ist kein Geld da? Da stimmt doch die Priorität nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Kontrollen? Beunruhigend!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP will alle Waffenverbotszonen im Land abschaffen und damit auch die Möglichkeit anlassloser Personenkontrollen in diesen Zonen beenden.",
+      "seite": 52,
+      "zitat": "Abschaffung aller Waffenverbotszonen im Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das sicherheitsorientierte Paar empfindet Waffenverbotszonen als sinnvolles Instrument, um Kriminalität einzudämmen. Deren Abschaffung widerspricht ihrem Wunsch nach mehr staatlicher Kontrolle und Ordnung – gerade als ältere Menschen, die sich verwundbar fühlen.",
+      "begruendung_selbst": "Warum soll die Polizei nicht mehr kontrollieren dürfen, wo es Probleme gibt? Wir fühlen uns doch sicherer, wenn die genauer hinschauen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rundfunkbeitrag bleibt doppelt!",
+      "thema": "familie",
+      "programmpunkt": "Die FDP will den Rundfunkbeitrag für Unternehmen streichen, lehnt aber eine allgemeine Abschaffung oder Senkung für Privatpersonen ab und will automatische Erhöhungen verhindern.",
+      "seite": 43,
+      "zitat": "für Unternehmen den Rundfunkbeitrag zu streichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter nutzen den öffentlich-rechtlichen Rundfunk intensiv (Fernsehen als Hauptmedium). Dass der Beitrag für Unternehmen gestrichen werden soll, während sie als Rentner mit kleinem Einkommen weiter zahlen, empfinden sie als ungerecht – zumal sie selbst keine Unternehmen sind.",
+      "begruendung_selbst": "Die Firmen zahlen nicht mehr, aber wir Rentner schon? Wir schauen doch jeden Abend Tagesschau – aber billiger wird's für uns nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter finden bei der FDP einige Punkte, die ihre konkreten Alltagssorgen ansprechen: mobile Arztpraxen, der Telenotarzt und die Ablehnung von Sanierungszwang geben ihnen Hoffnung auf Versorgung und Schutz ihres Eigenheims. Gleichzeitig stoßen sie sich an kapitalgedeckten Pflegeelementen, die ihr Misstrauen gegenüber Börsenrisiken triggern, sowie an der Priorisierung von Rüstungsinvestitionen und der Abschaffung von Waffenverbotszonen, die ihrem Sicherheitsbedürfnis widersprechen. Insgesamt überwiegt die Skepsis gegenüber den wirtschaftsliberalen Reformansätzen, die aus ihrer Sicht die sozialen Sicherungssysteme schwächen könnten.",
+    "score": -1
+  }
+}

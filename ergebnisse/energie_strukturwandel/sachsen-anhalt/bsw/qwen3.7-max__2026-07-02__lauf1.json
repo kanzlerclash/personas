@@ -1,0 +1,89 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:52:18.982Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 65996,
+    "output_tokens": 5358,
+    "cached_tokens": 59008,
+    "total_tokens": 71354,
+    "dauer_ms": 102292,
+    "usd": 0.0584295
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Erst Brücke bauen, dann abreißen!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert einen breiten, technologieoffenen Energiemix und betont, dass grundlastfähige Quellen wie Braunkohle und Gas nötig sind, solange keine gleichwertigen Alternativen existieren.",
+      "seite": 24,
+      "zitat": "Deutschland braucht einen breiten, technologieoffenen Energiemix mit gesicherter Leistung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht seine berufliche Existenz und die regionale Versorgungssicherheit in der Forderung nach einem technologieoffenen Mix bestätigt. Für ihn ist entscheidend, dass alte Kraftwerke nicht abgeschaltet werden, bevor das Neue verlässlich läuft.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass wir die alten Kraftwerke nicht abschalten dürfen, bevor das Neue nicht verlässlich läuft. Ohne Grundlast geht hier das Licht aus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Perspektiven statt bloßer Abwicklung!",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm fordert staatliche Förderprogramme und Umschulungsmaßnahmen für Beschäftigte im Bergbau und Energiesektor, um Fachkräfte im Strukturwandel aktiv zu halten und neue Perspektiven zu schaffen.",
+      "seite": 27,
+      "zitat": "Umschulungsmaßnahmen auf langfristige Sicht erforderlich, insbesondere im Hinblick auf den Bergbau",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Programm erkennt an, dass der Strukturwandel aktiv gestaltet werden muss, und bietet konkrete Qualifizierungsperspektiven für Ronnys Branche, statt die Beschäftigten einfach ins Leere fallen zu lassen.",
+      "begruendung_selbst": "Wir brauchen keine Abwrackprämie für unsere Lebensleistung, sondern echte Umschulungen und neue Industrie hier vor Ort, damit meine Jungs und ich nicht abwandern müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industrie halten, nicht vertreiben!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das BSW will den Chemiestandort und energieintensive Industrien durch bezahlbare Energie, schnelle Genehmigungen und eine Reorganisation der Gasversorgung erhalten und stärken.",
+      "seite": 27,
+      "zitat": "Die Transformation des Chemiesektors hat strategische Priorität.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Erhalt energieintensiver Industrien ist für Ronny essenziell, da diese das Rückgrat der regionalen Wirtschaft und der Netzauslastung bilden. Das BSW erkennt diese Systemrelevanz für den Standort an.",
+      "begruendung_selbst": "Wenn die Chemie hier abwandert, reißt das unser ganzes regionales Netz und die Zulieferer mit in den Abgrund. Gut, dass das endlich jemand verstanden hat.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "CCS-Verbot nimmt uns die Brücke!",
+      "thema": "klima",
+      "programmpunkt": "Das BSW lehnt die unterirdische CO2-Verpressung (CCS) in der Altmark kategorisch ab und bezeichnet sie als riskante Subventionsfalle für überkommene Industrien.",
+      "seite": 85,
+      "zitat": "Die unterirdische CO₂-Verpressung (CCS) lehnen wir für Sachsen-Anhalt ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny ärgert sich über die pauschale Ablehnung von CCS durch technologiefeindliche Klimapolitik. Er betrachtet diese Technologie als potenzielles industrielles Standbein und wichtige Brücke für seine Region im Strukturwandel.",
+      "begruendung_selbst": "Diese pauschale Technik-Feindlichkeit kotzt mich an. CCS könnte hier Wertschöpfung und Jobs sichern, aber die Politik verbietet lieber, statt es sicher zu erforschen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Träumerei gefährdet unsere Versorgung!",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert langfristige Gasimportverträge mit Russland und die Nutzung der Nordstream-Pipeline für eine bezahlbare Energieversorgung.",
+      "seite": 17,
+      "zitat": "Eine Nutzung der Nordstream-Gaspipeline ist daher unerlässlich!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Pragmatiker aus der Energiewirtschaft weiß Ronny, dass die Forderung nach einer Nutzung der zerstörten und sanktionierten Nordstream-Pipeline realitätsfern ist. Für ihn ist das keine echte Strategie für kurzfristige Versorgungssicherheit.",
+      "begruendung_selbst": "Wer ernsthaft glaubt, wir kriegen morgen wieder Gas durch ein gesprengtes Rohr aus Russland, hat von der Realität im Netzbetrieb null Ahnung. Das ist kein Plan, das ist Wunschdenken auf unserem Rücken.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny begrüßt das Bekenntnis zu einem technologieoffenen Energiemix, den Erhalt grundlastfähiger Kraftwerke und die Unterstützung für Umschulungen im Strukturwandel, da dies seine berufliche Perspektive sichert. Die pauschale Ablehnung von CCS als potenzielle Brückentechnologie und die realitätsferne Forderung nach einer Nordstream-Nutzung stoßen bei ihm jedoch auf Unverständnis, da sie seine pragmatische Sicht auf Versorgungssicherheit und regionale Wertschöpfung konterkarieren.",
+    "score": 0
+  }
+}

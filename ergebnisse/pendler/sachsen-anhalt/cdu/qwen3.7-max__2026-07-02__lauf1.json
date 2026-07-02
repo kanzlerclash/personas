@@ -1,0 +1,114 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:30:31.041Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 46979,
+    "output_tokens": 10590,
+    "cached_tokens": 44288,
+    "total_tokens": 57569,
+    "dauer_ms": 193735,
+    "usd": 0.08682575
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kein pauschales Verbrenner-Verbot!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei spricht sich gegen ein pauschales Verbot von Verbrennungsmotoren aus und setzt auf Technologieoffenheit.",
+      "seite": 17,
+      "zitat": "...sprechen uns gegen ein pauschales Verbrenner-Verbot aus.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist auf sein Auto angewiesen und kann sich absehbar kein alltagstaugliches E-Auto leisten. Die Absage an ein Verbrenner-Verbot nimmt ihm die Existenzangst, bald nicht mehr zur Arbeit fahren zu können.",
+      "begruendung_selbst": "Ich würde ja gern umsteigen, aber ein E-Auto ist für mich nicht drin. Gut, dass die CDU das Verbrenner-Verbot kippen will. Mein Diesel muss noch lange laufen, damit ich zur Schicht komme.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich keine ideologischen Fahrverbote!",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU lehnt technologiefeindliche Fahrverbote und Umweltzonen ab und verteidigt den motorisierten Individualverkehr.",
+      "seite": 61,
+      "zitat": "Wir lehnen eine ideologisch motivierte Technologiefeindlichkeit sowie diskriminierende Fahrverbote strikt ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Pendler, der regelmäßig durch städtische Gebiete fahren muss, fühlt sich Toralf durch drohende Fahrverbote schikaniert. Die klare Absage daran bestätigt seinen Wunsch nach pragmatischer Mobilität ohne Bevormundung.",
+      "begruendung_selbst": "Ich fahre jeden Tag rein, um zur Arbeit zu kommen. Diese Umweltzonen und Fahrverbote sind doch nur Schikane für Leute, die aufs Auto angewiesen sind. Endlich sagt mal jemand klar: Schluss damit!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriestrompreis sichert meinen Job",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei befürwortet einen Industriestrompreis, um die Wettbewerbsfähigkeit der heimischen Industrie und damit Arbeitsplätze zu sichern.",
+      "seite": 45,
+      "zitat": "Damit wir wieder wettbewerbsfähiger werden und Arbeitsplätze sichern, benötigen wir u.a. einen Industriestrompreis",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Arbeitsplatz als Industriemechaniker hängt direkt an der Wettbewerbsfähigkeit der energieintensiven Industrie in Sachsen-Anhalt. Ein günstiger Industriestrompreis gibt ihm die Sicherheit, dass sein Betrieb nicht abwandert.",
+      "begruendung_selbst": "Wenn die Strompreise für die Industrie so hoch bleiben, wandern die Betriebe ab und ich bin meinen Job los. Der Industriestrompreis ist für mich keine Subvention, sondern meine Lebensversicherung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Netto für Schichtarbeit",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU will Mehrarbeit und Überstunden steuer- und sozialversicherungsfrei stellen, um Leistung stärker zu belohnen.",
+      "seite": 17,
+      "zitat": "bessere Anreize für Mehrarbeit ... schaffen – sozialversicherungsfrei und unbürokratisch.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im Schichtbetrieb fallen oft Überstunden an. Toralf ärgert sich, dass von diesem hart erarbeiteten Zusatzverdienst zu viel abgezogen wird. Die Aussicht auf mehr Netto bestätigt sein Leistungsprinzip.",
+      "begruendung_selbst": "Wenn ich mal eine Extra-Schicht einschiebe oder Überstunden mache, bleibt nach Steuern kaum was übrig. Wer früh aufsteht und schuftet, soll auch was davon haben. Das ist nur fair.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "ÖPNV-Lob ist realitätsfremd",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei rühmt sich, die Erreichbarkeit im ländlichen Raum durch ÖPNV-Investitionen verbessert zu haben.",
+      "seite": 61,
+      "zitat": "die Erreichbarkeit insbesondere im ländlichen Raum verbessert",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf lebt in einem Dorf ohne brauchbaren Busanschluss. Die Selbstbeweihräucherung der Regierungspartei bezüglich des ländlichen ÖPNV empfindet er als blanken Hohn und Beweis dafür, dass die Politik seine Realität nicht kennt.",
+      "begruendung_selbst": "Erreichbarkeit im ländlichen Raum verbessert? In welchem Dorf leben die denn? Bei uns fährt nach 18 Uhr kein Bus mehr, und zum Bahnhof ist es zu weit. Das ist doch reine Schönfärberei auf meinem Rücken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO2-Preis trifft nur mich",
+      "thema": "klima",
+      "programmpunkt": "Landwirtschaft und Industrie sollen von weiteren CO2-Kostensteigerungen ausgenommen werden, während Pendler keine solche Entlastung erfahren.",
+      "seite": 42,
+      "zitat": "werden von einem weiteren Anstieg der CO2-Kosten ausgenommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Zwar begrüßt Toralf die Ausnahme für die Industrie, dass aber der normale Pendler auf dem Land weiterhin die vollen CO2-Aufschläge an der Zapfsäule zahlen muss, empfindet er als ungerechte Bestrafung.",
+      "begruendung_selbst": "Dass die Industrie entlastet wird, ist richtig – das sichert meinen Job. Aber wer zahlt den CO2-Aufschlag an der Tankstelle? Ich! Hier auf dem Dorf gibt's keine Bahn, ich muss fahren, und die Politik lässt mich mit den Kosten allein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bahn-Ausbau hilft mir nicht",
+      "thema": "verkehr",
+      "programmpunkt": "Der Fokus der Mobilitätspolitik liegt stark auf der Stärkung des Schienenpersonennahverkehrs und dem Deutschlandticket.",
+      "seite": 62,
+      "zitat": "Wir wollen den Schienenpersonennahverkehr in Sachsen-Anhalt stärken.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf sieht, dass Milliarden in die Bahn und das Deutschlandticket gesteckt werden – Angebote, von denen vor allem Stadtbewohner profitieren. Für ihn als Dorfbewohner fühlt sich das wie eine Umverteilung seines Steuergeldes an.",
+      "begruendung_selbst": "Milliarden für die Bahn und das Deutschlandticket – super für die Leute in der Stadt. Aber mein Steuergeld finanziert deren Ticket, während ich mein Auto alleine bezahlen muss. Wer denkt eigentlich an uns auf dem Dorf?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf sieht seine existenziellen Bedürfnisse als Pendler und Industriearbeiter durch die Absage an Fahrverbote und das Verbrenner-Aus sowie den Industriestrompreis gut geschützt. Die Entlastung bei Mehrarbeit bestätigt sein Leistungsprinzip. Gleichzeitig ärgert ihn die realitätsferne ÖPNV-Rhetorik und die ungerechte Verteilung der CO2-Kosten, die Pendler auf dem Land allein tragen müssen.",
+    "score": 1
+  }
+}

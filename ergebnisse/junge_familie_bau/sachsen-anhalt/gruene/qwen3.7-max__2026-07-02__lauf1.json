@@ -1,0 +1,125 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:59:47.633Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69754,
+    "output_tokens": 9076,
+    "cached_tokens": 67456,
+    "total_tokens": 78830,
+    "dauer_ms": 167041,
+    "usd": 0.08001025
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich verlässliche Kita-Plätze!",
+      "thema": "familie",
+      "programmpunkt": "Das Programm \"HeimatKita\" garantiert kurze Wege zur Kinderbetreuung, maximal 15 Minuten entfernt.",
+      "seite": 57,
+      "zitat": "Die nächste Kindertagesbetreuung ist entweder in derselben Ortschaft oder maximal 15 Minuten entfernt!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Vereinbarkeit von zwei Jobs und Kleinkind ist für das Paar essenziell. Ein garantiertes Betreuungsangebot in maximal 15 Minuten Entfernung nimmt ihnen eine der größten Sorgen im Umland und erleichtert die Planung für ein zweites Kind.",
+      "begruendung_selbst": "Wenn wir beide arbeiten und pendeln, brauchen wir einen Kita-Platz direkt vor Ort. Dieses 15-Minuten-Versprechen ist genau das, was uns im Alltag wirklich entlasten würde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgschaft hilft beim Eigenkapital!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Land soll Ausfallbürgschaften für Haushalte einführen, die über keine hohen eigenen Rücklagen verfügen.",
+      "seite": 92,
+      "zitat": "Landesausfallbürgschaften für Haushalte ohne Rücklagen sollen eingeführt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da das Ersparte als Eigenkapital kaum reicht, um gute Zinsen zu bekommen, könnte eine Landesbürgschaft die Finanzierungslücke schließen. Das gibt der jungen Familie eine konkrete Perspektive, trotz knapper Rücklagen den Bau zu wagen.",
+      "begruendung_selbst": "Unser Erspartes reicht hinten und vorne nicht für die Bank. Wenn das Land mit einer Bürgschaft einspringt, bekommen wir vielleicht endlich einen tragbaren Zinssatz für unser Haus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vereinbarkeit wird ernstgenommen!",
+      "thema": "familie",
+      "programmpunkt": "Flexible Arbeitszeitmodelle sollen ausgebaut werden, um Beruf und Familie besser zu vereinbaren, ohne Karrierenachteile.",
+      "seite": 76,
+      "zitat": "Flexible Arbeitszeitmodelle sollen die Vereinbarkeit von Beruf und Familie verbessern ohne Nachteil",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener mit Kleinkind sind Tom und Jessica auf flexible Arbeitszeiten angewiesen, um Betreuungslücken zu schließen. Die politische Forderung nach flexiblen Modellen ohne Karrierenachteile unterstützt ihren Wunsch, Beruf und Familie gleichberechtigt zu stemmen.",
+      "begruendung_selbst": "Wir müssen beide arbeiten und das Kind managen. Wenn flexible Arbeitszeiten endlich zum Standard werden, ohne dass man beruflich abgestraft wird, hilft uns das im Alltag enorm.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Steuererklärung mehr!",
+      "thema": "steuern",
+      "programmpunkt": "Arbeitnehmer ohne komplexe Einkünfte sollen von der Pflicht zur Abgabe einer Steuererklärung befreit werden.",
+      "seite": 96,
+      "zitat": "wollen wir von der Pflicht zur Abgabe einer Steuererklärung befreien.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Angestellte ohne komplexe Kapitaleinkünfte würden Tom und Jessica durch den Wegfall der Steuererklärungspflicht Zeit und Steuerberaterkosten sparen. Das ist eine pragmatische, spürbare Entlastung im stressigen Familien- und Baualltag.",
+      "begruendung_selbst": "Zwischen Job, Kita und Bauplanung bleibt keine Zeit für den Steuerberater. Wenn das Finanzamt das automatisch macht, spart uns das Nerven und bares Geld.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bauland wird komplett abgewürgt!",
+      "thema": "wohnen",
+      "programmpunkt": "Sanierung soll Vorrang vor Neubau haben; neue Baugebiete werden streng limitiert und an ÖPNV geknüpft.",
+      "seite": 92,
+      "zitat": "Der Vorrang des Bestands wird Leitprinzip: Sanierung statt Neubau.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Forderung nach Sanierung statt Neubau und die strikte Kopplung von Neubaugebieten an den ÖPNV erschweren den Traum vom Eigenheim im Umland massiv. Für junge Familien, die auf bezahlbares Bauland im Speckgürtel angewiesen sind, bedeutet das eine weitere Verknappung und Preistreiberei.",
+      "begruendung_selbst": "Wir wollen im Umland bauen, wo es noch bezahlbar ist – aber die Grünen drehen den Bauland-Hahn komplett zu und verlangen erst mal eine Bahnlinie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auflagen machen Bauen unbezahlbar!",
+      "thema": "energie",
+      "programmpunkt": "Für neue Wohngebäude soll eine gesetzliche Pflicht zur Installation von Solarenergie eingeführt werden.",
+      "seite": 23,
+      "zitat": "Für Wohngebäude wollen wir eine Pflicht zur Nutzung von Solarenergie bei Neubauten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica rechnen jeden Cent für ihre Baufinanzierung um. Zusätzliche gesetzliche Pflichten wie die Solaranlagen-Pflicht auf Neubauten erhöhen die Baukosten weiter und machen das Eigenheim für Normalverdiener endgültig unerreichbar.",
+      "begruendung_selbst": "Jede neue Vorschrift treibt die Baukosten höher. Wir wollen ein simples Dach überm Kopf und kein hochgerüstetes Öko-Haus, das wir uns nicht leisten können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentum wird pauschal verteufelt!",
+      "thema": "wohnen",
+      "programmpunkt": "Immobilien werden primär als Grundrecht und nicht als Spekulationsobjekt betrachtet, Fokus liegt auf Mietregulierung.",
+      "seite": 91,
+      "zitat": "Wohnen ist ein Grundrecht und Wohnungen sind kein Spekulationsobjekt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar strebt hart erarbeitetes Wohneigentum an und fühlt sich durch die pauschale Gleichsetzung von Immobilien mit Spekulation sowie den Fokus auf Mietregulierung politisch nicht repräsentiert. Sie vermissen echte Anreize für junge Bauherren.",
+      "begruendung_selbst": "Wir wollen doch nur ehrlich Eigentum aufbauen und keine Immobilienhaie sein. Dass die Politik unseren Traum vom Eigenheim quasi als 'Spekulation' abtut, frustriert uns total.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung nur für Geringverdiener!",
+      "thema": "energie",
+      "programmpunkt": "Energetische Sanierungen und Heizungs-Umbauten sollen gezielt einkommensabhängig gefördert werden.",
+      "seite": 26,
+      "zitat": "Sanierungen sollen künftig gezielt einkommensabhängig gefördert und die Antragsverfahren vereinfacht werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Doppelverdiener mit ordentlichem Einkommen fallen Tom und Jessica oft aus den Fördertöpfen, müssen die teuren energetischen Standards aber trotzdem voll stemmen. Die einkommensabhängige Förderung lässt die arbeitende Mitte auf den Kosten sitzen.",
+      "begruendung_selbst": "Wir schuften beide Vollzeit, zahlen ordentlich Steuern – und bei den Förderungen für Heizung und Dämmung gucken wir in die Röhre, weil wir angeblich zu viel verdienen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica erkennen in den familienpolitischen Ansätzen wie der Kita-Garantie und der Landesbürgschaft echte Hilfen für ihren Alltag und den Traum vom Eigenheim. Gleichzeitig frustriert sie die grüne Wohnungspolitik massiv, da strenge Flächenvorgaben, energetische Auflagen und eine einkommensabhängige Förderung das Bauen für die arbeitende Mitte im Speckgürtel faktisch unbezahlbar machen.",
+    "score": -1
+  }
+}

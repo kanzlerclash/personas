@@ -1,0 +1,89 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:08:00.951Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69707,
+    "output_tokens": 6914,
+    "cached_tokens": 67456,
+    "total_tokens": 76621,
+    "dauer_ms": 127319,
+    "usd": 0.0666315
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen ist kein Spekulationsobjekt!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei fordert den Einsatz von Mietendeckeln und definiert Wohnen als Grundrecht, das nicht der Spekulation unterliegen darf.",
+      "seite": 91,
+      "zitat": "Wohnen ist ein Grundrecht und Wohnungen sind kein Spekulationsobjekt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla fühlt sich in ihrer Ablehnung gegenüber Immobilieninvestoren und der reinen Marktlogik im Wohnungswesen vollumfänglich bestätigt. Dass eine Partei das Spekulationsgut-Wohnen explizit ablehnt und Mietendeckel fordert, ist genau das, was sie sich von der Politik wünscht.",
+      "begruendung_selbst": "Endlich sagt mal jemand klar, dass Wohnungen keine Aktienpakete sind. Ein Mietendeckel ist das Einzige, was uns vor der Verdrängung rettet!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit der Bodenspekulation!",
+      "thema": "wohnen",
+      "programmpunkt": "Das kommunale Vorkaufsrecht soll gesichert und ausgeweitet werden, um Bodenspekulation zu verhindern und bezahlbaren Wohnraum zu schaffen.",
+      "seite": 98,
+      "zitat": "kommunale Vorkaufsrecht sichern und ausweiten, um Bodenspekulation zu verhindern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carlas Sicht auf die Vermieter-Lobby und Investoren, die ganze Kieze aufkaufen, wird hier direkt adressiert. Sie begrüßt staatliche Eingriffe gegen Spekulation als notwendigen Schutz für Mieterinnen.",
+      "begruendung_selbst": "Wenn die Stadt endlich Vorkaufsrechte nutzt, können diese Heuschrecken nicht mehr ganze Straßenzüge aufkaufen und uns dann rausmodernisieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich autofreie Kieze!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will autoarme Quartiere fördern, den Durchgangsverkehr begrenzen und die Einrichtung autofreier Zonen erleichtern.",
+      "seite": 93,
+      "zitat": "Wir fördern autoarme Quartiere durch Begrenzung des Durchgangsverkehrs",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt autofrei und nutzt Rad und ÖPNV. Die Forderung nach autoarmen Quartieren spricht ihren Alltag und ihre Vision einer lebenswerten, sicheren und leisen Stadt direkt an.",
+      "begruendung_selbst": "Genau das brauchen wir! Weniger Blech und Lärm, dafür mehr Platz für Menschen, Cafés und sichere Radwege.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Die 15-Minuten-Stadt!",
+      "thema": "verkehr",
+      "programmpunkt": "Kommunen sollen bei der Umsetzung der 15-Minuten-Stadt mit kurzen Wegen und guter Nahversorgung unterstützt werden.",
+      "seite": 94,
+      "zitat": "Umsetzung des Prinzips der 15-Minuten-Stadt mit kurzen Wegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Konzept der kurzen Wege deckt sich perfekt mit Carlas Lebensrealität im Kiez, wo sie alles zu Fuß oder mit dem Rad erledigt und genau diese Infrastruktur schätzt.",
+      "begruendung_selbst": "Mein Kiez funktioniert genau so: alles um die Ecke. Warum sollte man das nicht überall zum Standard machen?",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mietenkataster nur 'ergebnisoffen'?",
+      "thema": "wohnen",
+      "programmpunkt": "Die Einführung eines Mietenkatasters soll lediglich ergebnisoffen geprüft werden, anstatt es als verbindliches Instrument gegen Intransparenz einzuführen.",
+      "seite": 91,
+      "zitat": "Die Einführung eines Mietenkatasters wollen wir ergebnisoffen prüfen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla ist von zögerlicher Politik enttäuscht. Ein Mietenkataster ist für sie ein essenzielles Werkzeug gegen versteckte Mieterhöhungen, und das 'ergebnisoffene Prüfen' klingt nach dem typischen politischen Hinhalten, das sie von Mitte-links-Parteien kennt.",
+      "begruendung_selbst": "Warum nur 'ergebnisoffen prüfen'? Wir brauchen Transparenz über die Mieten, sonst tricksen die Vermieter doch weiter. Das klingt wieder nach typischem Einknicken.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla liest das Programm mit Wohlwollen, da die Partei ihre Kernforderungen nach einem Mietendeckel, dem Schutz vor Bodenspekulation und der Abkehr vom Auto in der Stadt teilt. Das zögerliche 'ergebnisoffene Prüfen' eines Mietenkatasters trübt jedoch ihre Hoffnung auf konsequente mieterschützende Maßnahmen und bestätigt ihre Skepsis gegenüber politischen Kompromissen.",
+    "score": 1
+  }
+}

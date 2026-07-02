@@ -1,0 +1,149 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T21:11:36.190Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41150,
+    "output_tokens": 5288,
+    "cached_tokens": 39168,
+    "total_tokens": 46438,
+    "dauer_ms": 97096,
+    "usd": 0.04202575
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Spritsteuer!",
+      "thema": "steuern",
+      "programmpunkt": "Die FDP fordert, die Mehrwertsteuer auf Kraftstoffe nur noch auf den Nettopreis vor Energiesteuer und CO2-Abgabe zu erheben, um eine doppelte Besteuerung zu beenden.",
+      "seite": 9,
+      "zitat": "Mehrwertsteuer auf Kraftstoffe lediglich auf den Nettopreis vor der Energiesteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf pendelt täglich 45 Minuten mit dem Auto zur Arbeit. Die doppelte Besteuerung von Kraftstoffen durch Mehrwertsteuer auf Energiesteuer und CO2-Abgabe trifft ihn direkt am Geldbeutel. Die Abschaffung dieser Systematik würde seine monatlichen Pendelkosten spürbar senken.",
+      "begruendung_selbst": "Jeden Cent an der Zapfsäule spüre ich. Wenn die endlich aufhören, Steuern auf Steuern zu packen, bleibt mir mehr vom Lohn – das ist doch nur fair.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Überstunden steuerfrei – ja!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will jede Überstunde steuerfrei stellen und die Einkommensteuer über eine Bundesratsinitiative senken.",
+      "seite": 40,
+      "zitat": "Gleichzeitig wollen wir jede Überstunde steuerfrei stellen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Schichtarbeiter leistet Toralf regelmäßig Überstunden und erhält Schichtzulagen. Eine Steuerbefreiung für Überstunden würde sein Nettoeinkommen direkt erhöhen und seinen Einsatz finanziell anerkennen.",
+      "begruendung_selbst": "Wenn ich nachts oder am Wochenende rangehe, soll auch was bei mir ankommen. Steuerfrei wäre ein echtes Signal an alle, die schuften.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Verbot, sondern Offenheit",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP setzt auf Technologieoffenheit beim Verkehr und lehnt pauschale Verbote wie das Verbrenner-Aus ab; sie will auch E-Fuels und synthetische Kraftstoffe ermöglichen.",
+      "seite": 14,
+      "zitat": "Machen wir uns bei Energie weder abhängig nur von einem Land noch von einer einzigen Technologie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf ist auf sein Auto angewiesen und kann sich kein neues E-Auto leisten. Die Ablehnung eines reinen Verbrenner-Verbots und die Offenheit für alternative Kraftstoffe gibt ihm die Hoffnung, sein bestehendes Fahrzeug weiter nutzen zu können.",
+      "begruendung_selbst": "Ich kann mir kein E-Auto kaufen, und hier fährt eh kein Bus. Wenn die mir mein Diesel lassen und Alternativen suchen, statt zu verbieten – das ist vernünftig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriejobs sichern",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP will Sachsen-Anhalt als dynamischen Wirtschaftsstandort stärken, private Investitionen fördern und die Wettbewerbsfähigkeit der Industrie durch günstigere Energiekosten und Bürokratieabbau sichern.",
+      "seite": 5,
+      "zitat": "Nur eine prosperierende Wirtschaft schafft dauerhaft gute Arbeitsplätze",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Arbeitsplatz als Industriemechaniker hängt direkt von der Wettbewerbsfähigkeit der sachsen-anhaltischen Industrie ab. Das Programm zielt auf den Erhalt und Ausbau genau jener Industriearbeitsplätze, die seine Existenzgrundlage bilden.",
+      "begruendung_selbst": "Mein Job muss sicher bleiben. Wenn die Wirtschaft hier stark ist, muss ich mir keine Sorgen machen, dass der Betrieb dichtmacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netzentgelte fair verteilen",
+      "thema": "energie",
+      "programmpunkt": "Die FDP fordert eine fairere Verteilung der Netzentgelte zwischen den Regionen, da Sachsen-Anhalt als Windstrom-Erzeuger überproportional belastet wird.",
+      "seite": 14,
+      "zitat": "Netzentgelte müssen daher zwischen den Regionen fairer verteilt und für die Menschen in Sachsen-Anhalt spürbar gesenkt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf zahlt als Einwohner Sachsen-Anhalts überdurchschnittlich hohe Netzentgelte beim Strom. Eine Senkung würde seinen Haushalt direkt entlasten, gerade bei steigendem Stromverbrauch durch Familie und Haushalt.",
+      "begruendung_selbst": "Wir produzieren den Windstrom, und die anderen profitieren – aber wir zahlen drauf. Das muss endlich aufhören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Straßen sanieren, nicht nur flicken",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP will Landes- und Kreisstraßen grundhaft sanieren statt nur zu flicken und den A14-Lückenschluss sowie weitere Autobahnprojekte zügig fertigstellen.",
+      "seite": 71,
+      "zitat": "Landes- und Kreisstraßen sollten dabei in erster Linie grundhaft saniert statt nur geflickt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fährt täglich 45 Minuten über Landstraßen zur Arbeit. Schlechte Straßen bedeuten mehr Verschleiß an seinem Auto und längere Fahrzeiten. Grundhafte Sanierungen und Autobahnlückenschlüsse verbessern seinen Arbeitsweg direkt.",
+      "begruendung_selbst": "Jeden Tag diese Schlaglöcher – das geht aufs Auto und auf die Nerven. Endlich mal einer, der die Straßen richtig machen will.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kein Wort zur Pendlerpauschale",
+      "thema": "steuern",
+      "programmpunkt": "Das Programm enthält keine Aussage zur Erhöhung oder Anpassung der Pendlerpauschale, obwohl diese für Pendler aus dem ländlichen Raum ein zentrales Entlastungsinstrument ist.",
+      "seite": 9,
+      "zitat": "Eklatante Fälle von doppelter Besteuerung sollen abgeschafft werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf pendelt täglich 45 Kilometer einfach. Die Pendlerpauschale ist für ihn ein essenzieller Steuerposten. Dass das Programm zwar Steuersenkungen bei Kraftstoffen, aber kein Wort zur Pendlerpauschale verliert, enttäuscht ihn – gerade weil er auf das Auto angewiesen ist.",
+      "begruendung_selbst": "Über Spritsteuer reden sie, aber die Pendlerpauschale? Kein Wort. Dabei fahre ich jeden Tag 90 Kilometer – das ist mein Leben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV – nur für die Stadt",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP will den ÖPNV ausbauen, setzt aber auf 30-Minuten-Erreichbarkeit größerer Städte und On-Demand-Shuttles, was für abgelegene Dörfer kaum eine echte Alternative zum Auto darstellt.",
+      "seite": 73,
+      "zitat": "Wir wollen eine 30-Minuten-Erreichbarkeit zur nächsten größeren Stadt landesweit.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf lebt in einem Dorf ohne brauchbaren ÖPNV. Das Versprechen einer 30-Minuten-Erreichbarkeit zur nächsten Stadt hilft ihm nicht, wenn von seinem Dorf aus gar kein Anschluss existiert. Er fühlt sich von der Verkehrspolitik weiterhin nicht mitgedacht.",
+      "begruendung_selbst": "30 Minuten bis zur Stadt – schön und gut. Aber von meinem Dorf fährt gar nichts. Da steh ich immer noch allein an der Bushaltestelle, die es nicht gibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO2-Preis bleibt unangetastet",
+      "thema": "klima",
+      "programmpunkt": "Das Programm erwähnt an keiner Stelle eine Senkung oder Aussetzung des CO2-Preises auf Kraftstoffe, obwohl dieser die Pendelkosten für Autofahrer auf dem Land direkt erhöht.",
+      "seite": 9,
+      "zitat": "Mehrwertsteuer auf Kraftstoffe lediglich auf den Nettopreis vor der Energiesteuer und der CO2-Abgabe",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die FDP will zwar die Mehrwertsteuer-Doppelbesteuerung auf Kraftstoffe beenden, lässt aber den CO2-Preis selbst unangetastet. Für Toralf, der keine Alternative zum Auto hat, bleibt damit ein wesentlicher Kostentreiber bestehen.",
+      "begruendung_selbst": "Die CO2-Abgabe bleibt einfach drauf. Ich kann nicht auf den Bus umsteigen, also zahl ich drauf – jedes Mal, wenn ich tanken fahre.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld kürzen – trifft Kollegen",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will das Bürgergeld reformieren, Sanktionen konsequent ausschöpfen und gemeinnützige Arbeitspflichten für Langzeitarbeitslose einführen.",
+      "seite": 40,
+      "zitat": "Wer als Langzeitarbeitsloser Unterstützung der Solidargemeinschaft erhält, sollte auch selbst einen Beitrag leisten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf kennt in seinem Umfeld Menschen, die auf Bürgergeld angewiesen sind, etwa nach Betriebsschließungen. Die harte Rhetorik über Sanktionen und Arbeitspflicht stößt ihm sauer auf, da er weiß, dass Arbeitslosigkeit oft nicht selbstverschuldet ist.",
+      "begruendung_selbst": "Klar, wer arbeiten kann, soll arbeiten. Aber so tun, als wären alle Arbeitslosen faul – das ist nicht fair. Manche haben einfach keinen Betrieb mehr.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf sieht im FDP-Programm mehrere konkrete Entlastungen für Pendler und Facharbeiter: die Abschaffung der Mehrwertsteuer-Doppelbesteuerung auf Kraftstoffe, steuerfreie Überstunden und den Erhalt von Industriejobs. Gleichzeitig vermisst er eine echte Antwort auf seine tägliche Realität: keine Erhöhung der Pendlerpauschale, kein tragfähiger ÖPNV für sein Dorf und kein Wort zur Senkung des CO2-Preises. Das Programm spricht ihn als Arbeitnehmer an, lässt ihn als ländlichen Pendler aber an zentralen Stellen allein.",
+    "score": 0
+  }
+}

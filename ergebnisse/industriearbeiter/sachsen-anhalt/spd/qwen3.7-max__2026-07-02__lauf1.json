@@ -1,0 +1,114 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:55:26.049Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39825,
+    "output_tokens": 7688,
+    "cached_tokens": 37888,
+    "total_tokens": 47513,
+    "dauer_ms": 142955,
+    "usd": 0.06224075
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich zählt das Chemiedreieck!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die SPD erkennt die Schlüsselindustrie Chemie im mitteldeutschen Chemiedreieck als existenziell für Lohn und Brot an und richtet eine Task Force für die Transformation ein.",
+      "seite": 6,
+      "zitat": "Der industrielle Kern im Chemiedreieck Mitteldeutschland hat für uns eine besondere Bedeutung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe fühlt sich in seiner täglichen Sorge um den Standort ernst genommen. Dass die Partei die Chemieindustrie nicht nur als Klimaproblem, sondern als Lebensgrundlage der Region begreift und einen direkten Dialog verspricht, gibt ihm Hoffnung auf Gehör.",
+      "begruendung_selbst": "Wir im Chemiedreieck sind nicht nur Statistik, wir sind das Rückgrat hier. Dass die SPD das endlich schwarz auf weiß schreibt und eine Task Force mit uns an den Tisch holt, zeigt: Die haben verstanden, worum es für uns geht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mitbestimmung ist nicht verhandelbar!",
+      "thema": "arbeit",
+      "programmpunkt": "Unternehmen, die betriebliche Mitbestimmung und Betriebsräte systematisch behindern, sollen konsequent von staatlichen Förderungen ausgeschlossen werden.",
+      "seite": 7,
+      "zitat": "Unternehmen, die Mitbestimmung systematisch behindern, sollen von staatlichen Förderungen ausgeschlossen werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Gewerkschafter erlebt Uwe, wie wichtig das Rückgrat der Belegschaft ist. Die Androhung harter Sanktionen für mitbestimmungsfeindliche Arbeitgeber bestätigt sein Verständnis von fairer Wirtschaft und starker Arbeitnehmervertretung.",
+      "begruendung_selbst": "Wer seine Belegschaft und den Betriebsrat schikaniert, darf keinen Cent Steuergeld sehen. Das ist genau die harte Linie, die wir Gewerkschafter brauchen, um die schwarzen Schafe in die Schranken zu weisen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strompreise müssen runter!",
+      "thema": "energie",
+      "programmpunkt": "Die SPD fordert eine Deckelung der Netzentgelte und eine Senkung der Stromsteuer, um die Wettbewerbsfähigkeit der Industrie und bezahlbare Energie zu sichern.",
+      "seite": 5,
+      "zitat": "weitgehende Deckelung der Netzentgelte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes größte Angst ist, dass die Energiepreise die Chemieproduktion ins Ausland treiben. Die konkreten Forderungen nach niedrigeren Netzentgelten treffen genau den Nerv seiner Sorge um die industrielle Wettbewerbsfähigkeit.",
+      "begruendung_selbst": "Wenn der Strom unbezahlbar wird, wandern unsere Jobs ab. Endlich sagt mal jemand klar, dass die Netzentgelte gedeckelt werden müssen. Das sichert unsere Anlagen und unsere Löhne.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wandel ja, aber sozial!",
+      "thema": "arbeit",
+      "programmpunkt": "Der Strukturwandel soll sozial abgesichert werden, mit gezielten Investitionen in neue Jobs und Umschulungen, damit niemand zurückgelassen wird.",
+      "seite": 6,
+      "zitat": "Strukturwandel darf niemanden zurücklassen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe hat in seinem Berufsleben schon Brüche gesehen. Das Versprechen, dass der Wandel nicht dem Zufall überlassen wird und Umschulungen gefördert werden, nimmt ihm etwas die Existenzangst vor der Transformation.",
+      "begruendung_selbst": "Ich hab schon genug Umbrüche mitgemacht. Wenn die Politik jetzt garantiert, dass es Umschulungen und neue Perspektiven hier vor Ort gibt, dann kann ich die Transformation vielleicht doch mittragen, ohne dass meine Jungs auf der Straße landen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Speicher reichen nicht für Chemieparks!",
+      "thema": "energie",
+      "programmpunkt": "Das Programm setzt bei der Energieversorgung auf Erneuerbare und priorisiert Bioenergie und Speicher gegenüber Gas, was Uwe für die Grundlast der Schwerindustrie als völlig unzureichend ansieht.",
+      "seite": 5,
+      "zitat": "Bioenergie und Speicher haben Vorrang vor teurem Gas.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe weiß aus dem Anlagenbetrieb, dass chemische Prozesse rund um die Uhr massive und stabile Grundlast benötigen. Die Vorstellung, Bioenergie und Speicher könnten verlässliches Gas für die Industrie ersetzen, hält er für praxisfern und gefährlich für den Standort.",
+      "begruendung_selbst": "Bioenergie und Speicher? Das ist doch wohl ein Witz! Unsere Reaktoren laufen 24/7, da brauchst du verlässliche Grundlast und Gas. Wenn die Politik uns den Gashahn zudreht und auf Batterien setzt, gehen hier die Lichter aus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimazwang gefährdet unsere Jobs!",
+      "thema": "klima",
+      "programmpunkt": "Ein Klimaschutzgesetz soll verbindliche Reduktionspfade für Treibhausgase festschreiben, was Uwe als starren Zwang interpretiert, der bei technologischen Rückschlägen zu Werksschließungen führen könnte.",
+      "seite": 15,
+      "zitat": "Darin festgelegt werden Reduktionspfade für Treibhausmissionen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl Uwe Klimaschutz prinzipiell befürwortet, fürchtet er starre gesetzliche Vorgaben ohne technologische Alternativen. Verbindliche Reduktionspfade klingen für ihn nach einem Damoklesschwert über den Produktionsstätten, das im Zweifel Jobs opfert.",
+      "begruendung_selbst": "Verbindliche Reduktionspfade im Gesetz? Was passiert denn, wenn die neue Technik noch nicht fertig ist, aber die Frist abläuft? Dann machen die uns den Laden dicht! Klimaschutz darf kein Selbstmordprogramm für unsere Industrie werden.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Klimaneutralität klingt nach Ausstieg!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Chemieindustrie muss ihre Produktion auf Klimaneutralität umstellen, was als wissenschaftlich-technische Revolution beschrieben wird – ein Risiko, das Uwe als potenzielles Ende der traditionellen Chemiearbeitsplätze fürchtet.",
+      "seite": 6,
+      "zitat": "Diese Aufgabe kommt einer wissenschaftlich-technischen Revolution gleich",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Der Begriff der Revolution zur Erreichung der Klimaneutralität löst bei Uwe Alarmglocken aus. Er ahnt, dass eine solche Umwälzung nicht alle bestehenden Arbeitsplätze retten kann und fürchtet, dass die Politik das Risiko der Deindustrialisierung unterschätzt.",
+      "begruendung_selbst": "Wenn die von einer 'Revolution' reden, bei der alles auf null Emissionen getrimmt wird, dann weiß ich, was das bedeutet: Ein Teil unserer Anlagen und Kollegen wird da nicht überleben. Das ist kein Wandel, das ist ein Himmelfahrtskommando.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die SPD bestätigt Uwes gewerkschaftliche Kernforderungen und anerkennt die Chemieindustrie als unverzichtbare Lebensgrundlage der Region. Gleichzeitig lösen die starren klimapolitischen Vorgaben und die aus seiner Sicht praxisfernen Energiekonzepte tiefe Existenzängste aus, da er den technologischen Rückhalt für die industrielle Grundlast vermisst.",
+    "score": 0
+  }
+}

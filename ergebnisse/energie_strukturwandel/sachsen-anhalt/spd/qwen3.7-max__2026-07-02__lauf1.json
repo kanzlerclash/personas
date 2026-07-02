@@ -1,0 +1,102 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:50:45.774Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39816,
+    "output_tokens": 6430,
+    "cached_tokens": 37888,
+    "total_tokens": 46246,
+    "dauer_ms": 117806,
+    "usd": 0.0545345
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "CO2-Netze sind eine Brücke!",
+      "thema": "energie",
+      "programmpunkt": "Die Landesenergieagentur soll zur Koordinierungsstelle für Wasserstoff- und CO2-Infrastrukturen ausgebaut werden.",
+      "seite": 6,
+      "zitat": "Landeskoordinierungsstelle für die künftigen Wasserstoff- und Kohlendioxid-Infrastrukturen werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny begrüßt, dass Kohlendioxid-Infrastrukturen (CCS/CCU) nicht ideologisch ausgeschlossen, sondern als zukünftige Wirtschaftsfaktoren und Brückentechnologien für die Industrie geplant werden.",
+      "begruendung_selbst": "Endlich wird CO2-Management nicht verteufelt, sondern als reale Option für unsere Industrie und als Brücke im Wandel begriffen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Geld für den Wandel sichern",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Land will sich auf EU-Ebene für ein Anschlussprogramm an den Just Transition Fund für Kohleregionen nach 2028 einsetzen.",
+      "seite": 33,
+      "zitat": "Anschlussprogramm an den Just Transition Fund ab 2028 ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Aussicht auf fortgesetzte Strukturförderung gibt Ronny Planungssicherheit, dass seine Region nach dem Kohleausstieg nicht finanziell ins Leere fällt.",
+      "begruendung_selbst": "Der Wandel dauert länger als eine Förderperiode. Gut, dass die SPD schon jetzt das Geld für die Zeit nach 2028 im Blick hat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Regionale Ideen statt Diktat",
+      "thema": "arbeit",
+      "programmpunkt": "Regionale Projekte wie 'Revier Pionier', bei denen Menschen vor Ort den Strukturwandel selbst mitgestalten, sollen dauerhaft gefördert werden.",
+      "seite": 6,
+      "zitat": "Projekte wie „Revier Pionier“ wollen wir deswegen in der kommenden Legislatur verstetigen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny schätzt Ansätze, die die Kompetenz der Menschen vor Ort nutzen, anstatt ihnen fertige Konzepte von außen überzustülpen.",
+      "begruendung_selbst": "Wir hier vor Ort wissen am besten, was funktioniert. Programme wie 'Revier Pionier' geben uns die Chance, unsere Zukunft selbst zu bauen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Pfade ohne Praxis-Check?",
+      "thema": "klima",
+      "programmpunkt": "Ein neues Klimaschutzgesetz soll verbindliche Reduktionspfade für Treibhausgasemissionen festschreiben.",
+      "seite": 15,
+      "zitat": "Darin festgelegt werden Reduktionspfade für Treibhausgasemissionen, die Orientierung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny befürchtet, dass gesetzlich fixierte Reduktionspfade seine Anlage zur Schließung zwingen, bevor adäquater Ersatz für die Grundlast und seine Arbeitsplätze bereitsteht.",
+      "begruendung_selbst": "Ein Gesetz kann noch keine Kilowattstunde produzieren. Wenn die Pfade starr sind, reißen sie uns die Brücke unter den Füßen weg, bevor das Neue steht.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Gas ist mehr als 'teuer'",
+      "thema": "energie",
+      "programmpunkt": "In der Energiepolitik sollen Bioenergie und Speicher Vorrang vor Gas haben, das als teuer bezeichnet wird.",
+      "seite": 5,
+      "zitat": "Bioenergie und Speicher haben Vorrang vor teurem Gas.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Energiepraktiker ärgert Ronny die pauschale Abwertung von Gas, das er als unverzichtbare Brückentechnologie und Backup für die Industrie sieht.",
+      "begruendung_selbst": "Gas einfach nur als 'teuer' abzutun, ignoriert die Realität in unseren Kraftwerken und Netzen. Ohne diese Brücke friert die Industrie im Dunkeln.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Speicher allein reichen nicht",
+      "thema": "energie",
+      "programmpunkt": "Das Programm geht davon aus, dass Speicher und Bioenergie Lastspitzen und Dunkelflauten in einem erneuerbaren System effizient ausgleichen können.",
+      "seite": 5,
+      "zitat": "So können Lastspitzen und „Dunkelflauten“ in einem Stromsystem",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny hält die Annahme, dass aktuelle Speichertechnologien industrielle Dunkelflauten bereits flächendeckend und bezahlbar abfedern können, für technisch naiv.",
+      "begruendung_selbst": "Wer glaubt, wir können Dunkelflauten für die Schwerindustrie schon heute einfach wegspeichern, hat noch nie im Leitstand gestanden. Das ist Wunschdenken.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny sieht im Programm durchaus positive Ansätze für den Strukturwandel, insbesondere die Anerkennung von CO2-Infrastrukturen und die langfristige Sicherung von Fördermitteln für Kohleregionen. Gleichzeitig stößt ihn der technologische Optimismus bezüglich Speichern und die pauschale Abwertung von Gas als Brückentechnologie ab. Insgesamt überwiegt die Erleichterung, dass seine Region und ihre Industrie nicht einfach abgeschrieben werden, was zu einem leicht positiven Score führt.",
+    "score": 1
+  }
+}

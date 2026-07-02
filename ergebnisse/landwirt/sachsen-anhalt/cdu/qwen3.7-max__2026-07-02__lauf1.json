@@ -1,0 +1,125 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:25:25.851Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 47066,
+    "output_tokens": 8605,
+    "cached_tokens": 44288,
+    "total_tokens": 55671,
+    "dauer_ms": 157988,
+    "usd": 0.07106075
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich den Wolf regulieren!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die CDU fordert wirksame Regelungen zur Regulierung des Wolfsbestandes, um Weidetiere zu schützen.",
+      "seite": 40,
+      "zitat": "Wir setzen uns für wirksame Regelungen zur Regulierung des Wolfsbestandes ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank hält eine kleine Mutterkuhherde und fürchtet sich vor Wolfsrissen. Die klare Forderung nach Regulierung des Wolfsbestandes nimmt seine existenziellen Sorgen als Weidetierhalter ernst und bestätigt seinen Wunsch nach praxisnahem Herdenschutz statt ideologischem Artenschutz.",
+      "begruendung_selbst": "Wenn der Wolf meine Kühe reißt, hilft mir kein Naturschutz-Gerede. Endlich spricht mal jemand aus, dass der Bestand reguliert werden muss!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine CO2-Steuer auf Agrardiesel!",
+      "thema": "energie",
+      "programmpunkt": "Landwirtschaft und Forstwirtschaft sollen von weiteren Anstiegen der CO2-Kosten ausgenommen und der energieintensiven Industrie gleichgestellt werden.",
+      "seite": 42,
+      "zitat": "Land- und Forstwirtschaft werden von einem weiteren Anstieg der CO2-Kosten ausgenommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Landwirt mit hohem Diesel- und Energiebedarf für Maschinen, Trocknung und Bewässerung trifft Frank die CO2-Bepreisung direkt in der Marge. Die Ausnahme von weiteren CO2-Kostensteigerungen sichert seine Wettbewerbsfähigkeit und entlastet seinen Betrieb finanziell.",
+      "begruendung_selbst": "Jeder Cent beim Diesel fehlt mir am Ende für neue Maschinen oder die Pacht. Dass wir hier wie die Industrie behandelt werden, ist überfällig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Zwangs-Stilllegung meiner Äcker!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die CDU lehnt die EU-Wiederherstellungsverordnung ab und will keine zusätzlichen landwirtschaftlichen Flächen unter Schutz stellen.",
+      "seite": 42,
+      "zitat": "Zusätzliche Unterschutzstellung von heute land- und forstwirtschaftlich genutzten Flächen lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank ärgert sich über den Flächenfraß und die Konkurrenz durch Stilllegungsprämien. Die Ablehnung der EU-Naturwiederherstellungsverordnung bestätigt seine Forderung, dass Ackerland primär der Produktion dienen muss und nicht der Bürokratie.",
+      "begruendung_selbst": "Ich soll meine besten Böden brachliegen lassen, damit die Stadt ihr Gewissen beruhigt? Nicht mit mir. Auf dem Acker wächst Essen, kein Museum!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hilfe für die Hofübergabe.",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Partei unterstützt die Unternehmensnachfolge in der Landwirtschaft gezielt durch das Junglandwirteprogramm und Starthilfen.",
+      "seite": 43,
+      "zitat": "Wir setzen bei der Förderung von Unternehmensnachfolgen auf das Junglandwirteprogramm.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sorgt sich, ob seine Tochter den Hof unter den aktuellen wirtschaftlichen Bedingungen übernehmen will. Die gezielte Förderung der Hofnachfolge gibt ihm Hoffnung, dass der Generationenwechsel finanziell und bürokratisch erleichtert wird.",
+      "begruendung_selbst": "Meine Tochter zögert noch, den Hof zu übernehmen. Wenn das Land hier echte Starthilfen gibt, macht ihr das den Schritt vielleicht leichter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rote Gebiete neu und fair!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die CDU will die 'roten Gebiete' im Düngerecht verursachergerecht neu definieren und das Messstellennetz ausbauen.",
+      "seite": 42,
+      "zitat": "Wir wollen die roten Gebiete verursachergerecht neu definieren.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die pauschale Einteilung in 'rote Gebiete' mit strengen Düngeauflagen kostet Frank Ertrag und Nerven. Die Forderung nach einer verursachergerechten Neudefinition trifft seinen Wunsch nach fairer, datenbasierter Regulierung statt Sippenhaft.",
+      "begruendung_selbst": "Nur weil ein paar Kilometer weiter einer zu viel Gülle fährt, darf ich auf meinen Feldern kaum noch düngen. Das muss endlich nach echten Daten gehen!",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Solarpaneele auf meinem Acker?",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die CDU befürwortet den Ausbau von Photovoltaik auf landwirtschaftlichen Flächen durch sogenannte Agri-PV als 'kluge Doppelnutzung'.",
+      "seite": 47,
+      "zitat": "ertragsschwache Böden sowie die kluge Doppelnutzung durch Agri-PV.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Frank ist Ackerland primär zur Nahrungsmittelproduktion da. Die Idee, Solaranlagen über seinen Feldern zu installieren, empfindet er als weiteren Flächenentzug und Bevormundung durch eine Politik, die Landwirtschaft nur noch als Kulisse für die Energiewende betrachtet.",
+      "begruendung_selbst": "Erst nehmen sie mir Flächen für Windräder, jetzt wollen sie mir noch Solarpaneele über den Weizen bauen. Ich bin Landwirt, kein Stromerzeuger!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Flächen sollen nicht absaufen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die CDU plant, im Rahmen des Wassermanagements Deiche zurückzuverlegen, um mehr Wasserrückhaltung in der Fläche zu erreichen.",
+      "seite": 68,
+      "zitat": "Deshalb werden wir dort, wo es eine Kosten-Nutzenabschätzung sinnvoll erscheinen lässt, Deiche zurückverlegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank bewirtschaftet Flächen in der Altmark, wo Hochwasserschutz und Entwässerung essenziell für die Ernte sind. Die Aussicht auf Deichrückverlegungen zugunsten des Naturschutzes weckt bei ihm die Angst vor unberechenbaren Überflutungen und dem Verlust wertvollen Ackerlandes.",
+      "begruendung_selbst": "Wenn die Deiche weichen, stehen meine Felder bei jedem Winterhochwasser unter Wasser. Wer ersetzt mir dann die Ernte? Die Naturschützer aus der Stadt sicher nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Drohnen zahlen keine Kredite!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die CDU will die Landwirtschaft durch den Einsatz autonomer Roboter, Drohnen und KI zur 'innovativsten Europas' machen.",
+      "seite": 39,
+      "zitat": "Gleichzeitig beseitigen wir rechtliche Hemmnisse, um autonome Roboter und Drohnen schneller einsetzen zu können.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Frank sieht in der Fixierung auf High-Tech-Lösungen eine realitätsferne Sicht der Politik auf den durchschnittlichen Familienbetrieb. Für seinen 180-Hektar-Betrieb mit hohen Schulden sind autonome Roboter keine Antwort auf die drängenden Probleme wie Erzeugerpreise und Bürokratie.",
+      "begruendung_selbst": "Die Politiker träumen von Drohnen und Robotern, aber mein Traktor ist zehn Jahre alt und die Bank drückt. Das ist doch alles nur Show für die Großbetriebe!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank sieht in der CDU die einzige Partei, die seine existenziellen Nöte als Landwirt – von der Wolfsproblematik über die CO2-Kosten bis hin zur EU-Bürokratie – wirklich versteht und aktiv bekämpft. Die klaren Absagen an zusätzliche Flächenstilllegungen und die Unterstützung der Hofnachfolge geben ihm Planungssicherheit für die Übergabe an seine Tochter. Lediglich bei Themen wie Agri-PV oder Deichrückverlegungen wittert er weiterhin realitätsferne Kompromisse zulasten der produzierenden Landwirtschaft.",
+    "score": 1
+  }
+}

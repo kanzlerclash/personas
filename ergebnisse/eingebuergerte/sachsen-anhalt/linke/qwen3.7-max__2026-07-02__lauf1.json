@@ -1,0 +1,163 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:50:15.390Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82419,
+    "output_tokens": 9594,
+    "cached_tokens": 78336,
+    "total_tokens": 92013,
+    "dauer_ms": 175662,
+    "usd": 0.085584
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich erste Generation Sachsen-Anhalter!",
+      "thema": "integration",
+      "programmpunkt": "Die Partei betont, dass hier aufwachsende Kinder von Eingewanderten nicht als '2. Generation Migrant:innen', sondern als 'erste Generation Sachsen-Anhalter:innen' bezeichnet werden sollen.",
+      "seite": 96,
+      "zitat": "erste Generation Sachsen-Anhalter:innen!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin fühlt sich durch diese Formulierung erstmals sprachlich als selbstverständlicher Teil des Landes anerkannt. Die Abkehr vom defizitorientierten 'Migrations'-Label hin zur lokalen Zugehörigkeit entspricht genau ihrem Wunsch, nicht ständig ihre Herkunft erklären zu müssen.",
+      "begruendung_selbst": "Endlich sagt mal jemand: Ich bin von hier. Nicht 'Migrationshintergrund', nicht 'zweite Generation' – ich bin Sachsen-Anhalterin. Das ist genau das, was ich mir seit Jahren wünsche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vielfalt als Überlebensfrage anerkannt",
+      "thema": "integration",
+      "programmpunkt": "Migration wird als demografische Notwendigkeit und Chance beschrieben; ohne Zuwanderung drohe der Kollaps von Wirtschaft, Rentensystem und ländlichen Räumen.",
+      "seite": 97,
+      "zitat": "Ohne Zuwanderung ist das Schrumpfen der Bevölkerung garantiert.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin schätzt die sachliche, faktenbasierte Argumentation für Migration, die nicht in Abwehr oder Ausgrenzung verfällt. Dass ihre Existenz und die ihrer Community als Beitrag zum Gemeinwesen gewürdigt wird, bestätigt ihr Menschenbild.",
+      "begruendung_selbst": "Es tut gut, wenn Migration nicht als Bedrohung, sondern als Realität und Notwendigkeit beschrieben wird. Meine Familie hält dieses Land mit am Laufen – das darf auch mal gesagt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Öffentlicher Dienst als Vorbild",
+      "thema": "arbeit",
+      "programmpunkt": "Der öffentliche Dienst soll durch Diversitätsstrategien und interkulturelle Kompetenz zum Vorbild für Integration werden; Menschen mit Migrationsgeschichte sollen gezielt eingestellt werden.",
+      "seite": 98,
+      "zitat": "Einstellung von Menschen mit Migrationshintergrund soll",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte erlebt Aylin täglich, wie wenig divers der öffentliche Dienst oft aufgestellt ist. Die Forderung nach gezielter interkultureller Öffnung und Diversitätsstrategien spricht ihre Berufserfahrung direkt an.",
+      "begruendung_selbst": "In meiner Behörde bin ich oft die Einzige. Wenn das Land endlich ernsthaft Diversität im öffentlichen Dienst fördert, fühlt sich das nicht nur symbolisch an – es verändert meinen Arbeitsalltag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gegen rechte Hetze Position beziehen",
+      "thema": "demokratie",
+      "programmpunkt": "Die Partei positioniert sich klar gegen Rechtsextremismus, rechte Kulturkämpfe und Angriffe auf Minderheiten; sie will zivilgesellschaftliche Strukturen und demokratische Akteure schützen.",
+      "seite": 69,
+      "zitat": "Angriffe auf die kulturelle Freiheit sind gezielte Kulturkampf-Statements von rechts.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt den Rechtsruck und Begriffe wie 'Remigration' als direkten Angriff auf ihre Zugehörigkeit. Die klare, benennende Haltung der Partei gegen rechte Hetze gibt ihr das Gefühl, dass ihre Sorgen ernst genommen werden.",
+      "begruendung_selbst": "Wenn ich 'Remigration' höre, geht es um mich. Dass eine Partei das klar als Bedrohung benennt und sich schützend vor Menschen wie mich stellt, ist für mich existenziell wichtig.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Diskriminierung im Gesundheitswesen benannt",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert den Abbau von Stigmatisierung im Gesundheitswesen, etwa gegenüber Trans-Personen, Menschen mit HIV oder Migrationsgeschichte, sowie verpflichtende Sensibilisierung des Fachpersonals.",
+      "seite": 51,
+      "zitat": "Stigmata effektiv durch Aufklärung des medizinischen Fachpersonals abbauen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin kennt aus eigener Erfahrung oder aus ihrem Umfeld, wie Menschen mit Migrationsgeschichte im Gesundheitssystem manchmal nicht ernst genommen werden. Die explizite Benennung und Bekämpfung solcher Diskriminierung bestätigt ihre Alltagserfahrungen.",
+      "begruendung_selbst": "Ich war schon beim Arzt und wurde anders behandelt, weil mein Name nicht 'deutsch' klingt. Dass das endlich als Problem anerkannt wird, ist überfällig.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Schnelle Anerkennung von Abschlüssen",
+      "thema": "integration",
+      "programmpunkt": "Ausländische Berufsabschlüsse sollen innerhalb von sechs Monaten anerkannt werden; Anpassungsqualifizierungen sollen angeboten werden.",
+      "seite": 98,
+      "zitat": "Ausländische Berufsabschlüsse werden innerhalb von sechs Monaten anerkannt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin kennt in ihrer Community viele Hochqualifizierte, die in prekären Jobs arbeiten, weil ihre Abschlüsse nicht anerkannt werden. Die Forderung nach schnellen, unbürokratischen Verfahren entspricht ihrer Überzeugung, dass Leistung zählen muss.",
+      "begruendung_selbst": "Mein Onkel ist Ingenieur und fährt seit Jahren Taxi. Wenn Abschlüsse endlich schnell anerkannt werden, können Menschen wie er endlich das machen, wofür sie ausgebildet sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Polizei mit interkultureller Kompetenz",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizei soll durch regelmäßige Fortbildungen zu Menschenrechten und interkultureller Kompetenz demokratischer und bürgernäher werden.",
+      "seite": 129,
+      "zitat": "Fortbildungen zu Menschenrechten und interkultureller Kompetenz",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin wünscht sich eine Polizei, die ohne pauschalen Verdacht agiert und Menschen mit Migrationsgeschichte respektvoll behandelt. Die Forderung nach interkultureller Kompetenz in der Polizeiausbildung entspricht ihrem Wunsch nach fairer innerer Sicherheit.",
+      "begruendung_selbst": "Ich will keine Angst haben müssen, wenn ich die Polizei rufe. Interkulturelle Schulungen sind kein Luxus – sie sind notwendig, damit alle Menschen gleich behandelt werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Verfassungsschutz abschaffen? Gefährlich!",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Verfassungsschutz in seiner jetzigen Form wird als überflüssig bezeichnet; stattdessen soll eine 'Agentur für Demokratie und Menschenrechte' gegründet werden, die auf Bildung statt auf nachrichtendienstliche Arbeit setzt.",
+      "seite": 129,
+      "zitat": "Ein Verfassungsschutz in seiner jetzigen Form ist überflüssig.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin sieht rechtsextreme Bedrohungen als reale Gefahr für ihre Existenz. Die Abschaffung des Verfassungsschutzes und der Verzicht auf nachrichtendienstliche Beobachtung empfindet sie als naiv – gerade Menschen wie sie brauchen den Schutz wehrhafter demokratischer Institutionen.",
+      "begruendung_selbst": "Wer soll rechte Netzwerke aufklären, wenn nicht der Verfassungsschutz? Bildung ist wichtig, aber sie schützt mich nicht vor Nazis mit Waffenplänen. Ich brauche einen Staat, der wehrhaft ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Abschiebungen – aber wer steuert?",
+      "thema": "integration",
+      "programmpunkt": "Das Recht auf Asyl und der Schutz vor Abschiebung werden als nicht verhandelbar erklärt; die Partei stellt sich grundsätzlich auf die Seite Schutzsuchender.",
+      "seite": 100,
+      "zitat": "Das Recht auf Asyl, der Schutz v or Abschiebung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin befürwortet eine sachliche, geregelte Migrationspolitik. Eine pauschale Ablehnung von Abschiebungen empfindet sie als unrealistisch – sie fürchtet, dass solche Positionen die Akzeptanz von Migration in der Mehrheitsgesellschaft weiter untergraben und damit am Ende Menschen wie ihr schaden.",
+      "begruendung_selbst": "Ich bin für faire Asylverfahren und Schutz. Aber wenn niemand mehr abgeschoben wird, der kein Recht auf Aufenthalt hat, dann kippt die Stimmung erst recht. Sachliche Steuerung schützt auch mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Frontex abschaffen – weltfremd",
+      "thema": "integration",
+      "programmpunkt": "Die Partei fordert die Abschaffung der EU-Grenzschutzagentur Frontex.",
+      "seite": 96,
+      "zitat": "Im Übrigen sind wir der Meinung, Frontex gehört abgeschafft!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin hält eine europäische Steuerung der Außengrenzen für notwendig und legitim. Die pauschale Forderung nach Abschaffung von Frontex ohne tragfähiges Alternativkonzept empfindet sie als weltfremd – sie fürchtet, dass solche Positionen die Migrationsdebatte weiter polarisieren.",
+      "begruendung_selbst": "Grenzen brauchen Regeln, sonst verlieren die Menschen das Vertrauen. Frontex reformieren – ja. Aber einfach abschaffen? Das spielt doch nur denen in die Hände, die gegen alle Migrant:innen hetzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rasselisten abschaffen – und dann?",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei fordert die Abschaffung bestehender Rasselisten für Hunde, da diese pauschal diskriminieren und nicht zu mehr Sicherheit beitragen würden.",
+      "seite": 119,
+      "zitat": "die bestehenden Rasselisten abschaffen, da sie pauschal diskriminieren.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Dieser Punkt berührt Aylin nur am Rande, aber die pauschale Ablehnung von Regulierung zugunsten einer als 'Diskriminierung' gerahmten Position irritiert sie. Sie fragt sich, ob hier Symbolpolitik über praktische Sicherheitsfragen gestellt wird.",
+      "begruendung_selbst": "Okay, das ist nicht mein Kernthema. Aber wenn alles, was reguliert, gleich 'Diskriminierung' genannt wird – wo bleibt dann die pragmatische Lösung?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet im Programm der Linken viele Punkte, die ihre Sehnsucht nach Anerkennung und gleichberechtigter Zugehörigkeit bestätigen – besonders die sprachliche Wertschätzung als 'erste Generation Sachsen-Anhalter:innen', die klare Positionierung gegen rechte Hetze und die Forderungen nach Diversität im öffentlichen Dienst. Gleichzeitig irritieren sie Positionen wie die Abschaffung des Verfassungsschutzes und die pauschale Ablehnung von Abschiebungen, weil sie fürchtet, dass solche Forderungen die Migrationsdebatte weiter polarisieren und am Ende Menschen wie ihr schaden. Insgesamt überwiegt die positive Resonanz, aber mit deutlichen Vorbehalten bei sicherheits- und steuerpolitischen Fragen der Migration.",
+    "score": 1
+  }
+}

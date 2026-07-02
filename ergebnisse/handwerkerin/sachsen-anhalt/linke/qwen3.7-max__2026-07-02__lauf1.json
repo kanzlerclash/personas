@@ -1,0 +1,185 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T20:55:38.773Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82511,
+    "output_tokens": 8533,
+    "cached_tokens": 78336,
+    "total_tokens": 91044,
+    "dauer_ms": 156503,
+    "usd": 0.07536775
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Bürokratie!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei fordert explizit den Abbau von Bürokratiekosten und vereinfachte, mehrjährige Förderprogramme mit vollständiger Digitalisierung der Antragsverfahren für Handwerksbetriebe.",
+      "seite": 114,
+      "zitat": "Bürokratiekosten deutlich reduzieren und Förderprogramme vereinfachen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt Abende mit Papierkram und ärgert sich über ständig wechselnde Förderrichtlinien. Die Forderung nach Bürokratieabbau, mehrjährigen Förderzusagen und digitalen Antragsverfahren trifft genau ihren Schmerzpunkt als Betriebsinhaberin.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass wir weniger Aktenordner und mehr Zeit für die eigentliche Arbeit brauchen. Wenn ich wüsste, dass Förderprogramme drei Jahre gelten, könnte ich endlich vernünftig planen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerk als Rückgrat anerkannt",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm enthält ein eigenes Landesprogramm 'Handwerk 2035' mit Investitionen in klimaneutrale Produktion, Energieeffizienz, digitale Werkzeuge, kostenfreie Meisterqualifikation und regionale Wertschöpfung durch faire öffentliche Aufträge.",
+      "seite": 93,
+      "zitat": "Handwerk – Rückgrat der Transformation, Herz der Regionen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine fühlt sich als Handwerksmeisterin oft von der Politik übersehen. Die explizite Anerkennung des Handwerks als 'Rückgrat der Transformation' und konkrete Maßnahmen wie kostenfreie Meisterqualifikation und regionale Auftragsvergabe sprechen ihre Hoffnung auf Wertschätzung an.",
+      "begruendung_selbst": "Dass das Handwerk mal nicht nur als Lückenbüßer für die Energiewende behandelt wird, sondern als das, was es ist – das Rückgrat der ganzen Region – das tut einfach gut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausbildungsumlage trifft Richtige",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert eine Ausbildungsumlage, die Betriebe entlastet, die selbst ausbilden, und Betriebe beteiligt, die nicht ausbilden. Azubis sollen mindestens 80 Prozent der tariflichen Ausbildungsvergütung erhalten.",
+      "seite": 86,
+      "zitat": "Einführung einer Ausbildungsumlage, die Ausbildungsbetriebe entlastet",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine bildet selbst aus und trägt damit die Kosten, während andere Betriebe sich die Ausbildung sparen. Eine Umlage, die Nicht-Ausbilder beteiligt, entlastet ihren Betrieb finanziell und bestätigt ihr Engagement für den Nachwuchs.",
+      "begruendung_selbst": "Ich investiere jedes Jahr in Azubis, während andere Betriebe sich die Rosinen picken und fertig ausgebildete Leute abwerben. Wer nicht ausbildet, soll sich auch an den Kosten beteiligen – das ist nur fair.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Arbeitsmigration statt Ausbeutung",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm fordert schnelle Anerkennung von Berufsabschlüssen, digitale Verfahren, Sprachförderung und Beratungsstellen für Arbeitsmigrant:innen, damit Fachkräfte nicht in prekäre Jobs gedrängt werden.",
+      "seite": 88,
+      "zitat": "schnelle Anerkennung von Berufsabschlüssen: Das Land investiert in Anerkennungsstellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine findet kaum noch Gesellen und Azubis. Die beschleunigte Anerkennung ausländischer Abschlüsse und faire Integration in den Arbeitsmarkt könnte ihren Fachkräftemangel lindern, ohne dass Lohndumping entsteht.",
+      "begruendung_selbst": "Wenn qualifizierte Handwerker aus dem Ausland hier arbeiten wollen, dann lasst sie doch schnell anerkennen und fair bezahlen. Ich brauche Leute auf der Baustelle, keine endlosen Warteschleifen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiepreise müssen runter",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert einen verpflichtenden Sockeltarif für Strom und Wärme, die Senkung der Netzentgelte, ein Verbot von Strom- und Gassperren sowie die Senkung der Stromsteuer auf 0,1 ct/kWh.",
+      "seite": 106,
+      "zitat": "einen verpflichtenden Sockeltarif für Strom und Wärme",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabines Betrieb leidet unter hohen Energiepreisen, die ihre Liquidität belasten. Die Forderung nach Sockeltarifen und niedrigeren Netzentgelten adressiert direkt ihre finanziellen Sorgen als energieintensive Handwerksunternehmerin.",
+      "begruendung_selbst": "Meine Stromrechnung frisst mir die Marge auf. Wenn die Netzentgelte endlich sinken und es verlässliche Tarife gibt, kann ich wieder vernünftig kalkulieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nachfolge durch Genossenschaft sichern",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm unterstützt Handwerksbetriebe bei der Nachfolge und genossenschaftlichen Übernahme, um Arbeitsplätze und Wissen zu sichern.",
+      "seite": 93,
+      "zitat": "Unterstützung bei Nachfolge und genossenschaftlicher Übernahme",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine plant in etwa 10 Jahren die Betriebsübergabe und sorgt sich um die Nachfolge. Die Unterstützung genossenschaftlicher Modelle bietet ihr eine konkrete Perspektive jenseits des klassischen Verkaufs.",
+      "begruendung_selbst": "Wenn ich meinen Betrieb irgendwann abgebe, will ich wissen, dass die Leute und das Wissen erhalten bleiben. Eine Genossenschaft könnte da eine echte Option sein.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Gemeindewirtschaftssteuer trifft mich hart",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei will die Gewerbesteuer zu einer Gemeindewirtschaftssteuer weiterentwickeln, die alle selbstständig erwirtschafteten Einkommen einbezieht – auch Solo-Selbstständige und kleine Dienstleistungsunternehmen.",
+      "seite": 18,
+      "zitat": "Weiterentwicklung der Gewerbesteuer zur Gemeindewirtschaftssteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine zahlt bereits Gewerbesteuer und fürchtet, dass eine Ausweitung der Bemessungsgrundlage auf alle selbstständigen Einkommen ihren Betrieb zusätzlich belastet. Der Freibetrag von 24.500 Euro liegt weit unter ihrem Umsatz.",
+      "begruendung_selbst": "Jetzt sollen wir auch noch für alles Mögliche Gemeindewirtschaftssteuer zahlen? Mein Betrieb ist kein Konzern – jeder zusätzliche Euro an Steuern geht direkt von der Investition in Werkzeug und Leute ab.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermögenssteuer bedroht Betriebsübergabe",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei fordert eine Bundesratsinitiative zur Wiedereinführung der Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro.",
+      "seite": 17,
+      "zitat": "Wiedereinführung der Vermögenssteuer – Große Vermögen müssen endlich wieder ihren gerechten Beitrag",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines Betriebsvermögen (Werkstatt, Fuhrpark, Maschinen) könnte die Millionengrenze erreichen. Eine Vermögenssteuer würde ihre Altersvorsorge und die geplante Betriebsübergabe massiv belasten, da das Vermögen im Betrieb gebunden ist.",
+      "begruendung_selbst": "Mein 'Vermögen' sind die Werkstatt und die Fahrzeuge – die brauche ich zum Arbeiten! Wenn ich darauf jedes Jahr Steuern zahlen muss, kann ich den Betrieb gleich dichtmachen. Das ist keine Millionärssteuer, das trifft den Mittelstand.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vergabemindestlohn verteuert Aufträge",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert einen Vergabemindestlohn von 16,50 Euro pro Stunde, gekoppelt an Inflation und Tarifentwicklungen, sowie ein konsequentes Vergabegesetz.",
+      "seite": 86,
+      "zitat": "einen Vergabemindestlohn von 16,50 Euro pro Stunde",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als SHK-Betrieb bewirbt sich Sabine auch um öffentliche Aufträge. Ein starrer Vergabemindestlohn von 16,50 Euro plus Koppelung an Tarifentwicklungen erhöht ihre Lohnkosten bei ohnehin knappen Margen und macht Angebote weniger wettbewerbsfähig.",
+      "begruendung_selbst": "16,50 Euro Mindestlohn bei öffentlichen Aufträgen – und dann noch automatisch an die Inflation gekoppelt? Da kann ich meine Preise gar nicht mehr kalkulieren. Am Ende bleiben die Aufträge bei den Großen hängen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heizungsregeln bleiben chaotisch",
+      "thema": "energie",
+      "programmpunkt": "Das Programm fordert den Ausbau erneuerbarer Energien, Solarpflicht für Neubauten, Agri-PV und Wärmepumpen, aber bietet keine klare, stabile Regelung für den Heizungstausch im Bestand, die Sabines Kunden Planungssicherheit geben würde.",
+      "seite": 107,
+      "zitat": "Photovoltaik auf Dächern priorisieren, mit Solarpflicht für Neubauten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines größter Frustpunkt ist das ständige Hin und Her bei Heizungsvorschriften, das ihre Kunden verunsichert und Aufträge platzen lässt. Das Programm setzt auf Ausbau erneuerbarer Energien, adressiert aber nicht die Praxisferne und Planungsunsicherheit bei Bestandsheizungen.",
+      "begruendung_selbst": "Solarpflicht, Wärmepumpen, Agri-PV – alles schön und gut. Aber was ist mit meinen Kunden, die eine alte Heizung haben und nicht wissen, was sie jetzt einbauen sollen? Ich brauche eine Regel, die drei Jahre hält, nicht jedes halbe Jahr eine neue.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Mitbestimmung bremst mich",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert erweiterte Mitentscheidungsrechte der Betriebsräte bei Investitionen, Standortfragen und Digitalisierung sowie harte Sanktionen gegen Union Busting.",
+      "seite": 87,
+      "zitat": "Mitentscheidungsrechte der Betriebsräte bei Investitionen, Standortfragen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "In Sabines Betrieb mit 8 Beschäftigten gibt es keinen Betriebsrat. Die Ausweitung von Mitbestimmungsrechten auf Investitions- und Standortfragen würde in kleinen Betrieben zusätzliche bürokratische Hürden schaffen und ihre unternehmerische Entscheidungsfreiheit einschränken.",
+      "begruendung_selbst": "Bei acht Leuten soll ich jetzt bei jeder Investition erst einen Betriebsrat fragen? Ich trage das Risiko, ich bezahle die Leute – dann muss ich auch entscheiden können, wann wir neue Maschinen anschaffen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Transferempfänger ohne Gegenleistung",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert eine armutsfeste, eigenständige und sanktionsfreie Kindergrundsicherung von mindestens 630 Euro pro Monat sowie eine sanktionsfreie Grundsicherung.",
+      "seite": 45,
+      "zitat": "armutsfeste, eigenständige und sanktionsfreie Kindergrundsicherung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine erwartet von Transferempfängern Eigenverantwortung und 'Fördern und Fordern'. Sanktionsfreie Leistungen ohne Gegenleistung widersprechen ihrem Wertesystem von Leistung und Eigenverantwortung – besonders als jemand, der selbst hart arbeitet und Steuern zahlt.",
+      "begruendung_selbst": "630 Euro pro Kind, sanktionsfrei, ohne dass die Eltern irgendetwas dafür tun müssen? Ich stehe jeden Morgen um fünf auf und schufte – und dann wird Arbeit für manche einfach optional? Das ist kein Anreiz, sich anzustrengen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "35-Stunden-Woche ist realitätsfern",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert langfristig die Einführung der 35-Stunden-Woche bei vollem Lohn für alle Beschäftigten.",
+      "seite": 86,
+      "zitat": "langfristig die Einführung der 35-Stunden-Woche bei vollem Lohn",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Im SHK-Handwerk sind Aufträge saisonal und termingebunden. Eine 35-Stunden-Woche bei vollem Lohn würde Sabines Personalkosten massiv erhöhen und die ohnehin knappen Margen weiter drücken, ohne dass die Produktivität steigt.",
+      "begruendung_selbst": "35 Stunden bei vollem Lohn? Auf der Baustelle zählt jede Stunde, besonders wenn die Heizung im Winter ausfällt. Das kann ich meinen Kunden nicht erklären und meinen Leuten auch nicht bezahlen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet im Programm der Linken einige Punkte, die ihre Hoffnungen auf Bürokratieabbau, Handwerkswertschätzung und Fachkräftesicherung bestätigen. Gleichzeitig stoßen die steuerpolitischen Forderungen (Vermögenssteuer, Gemeindewirtschaftssteuer), die arbeitsrechtlichen Vorgaben (35-Stunden-Woche, Vergabemindestlohn, Mitbestimmung) und die aus ihrer Sicht zu großzügige Sozialpolitik auf massiven Widerstand. Die Energiepolitik adressiert zwar Preise, bietet aber keine verlässlichen Regeln für den Heizungstausch – ihren Kernfrustpunkt. Insgesamt überwiegen die konträren Punkte, da sie direkt ihre unternehmerische Existenz und ihr Wertesystem berühren.",
+    "score": -1
+  }
+}
