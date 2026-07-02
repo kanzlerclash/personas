@@ -97,6 +97,10 @@ h3.sektion { color: var(--akzent); font-size: 1.3rem; margin: 1.8rem 0 .6rem; }
 /* Avatare */
 .avatar { image-rendering: pixelated; width: 96px; height: auto; background: #11141a; border-radius: 8px; }
 .avatar.gross { width: 130px; } .avatar.mini { width: 40px; }
+.persliste { display: flex; flex-wrap: wrap; gap: .5rem; margin: .5rem 0 1rem; }
+.persliste a { display: flex; align-items: center; gap: .5rem; padding: .3rem .6rem .3rem .3rem; background: var(--karte); border: 1px solid var(--rand); border-radius: 8px; text-decoration: none; color: var(--text); font-size: .85rem; }
+.persliste a:hover { border-color: var(--akzent); }
+.persliste a .avatar { border-radius: 6px; }
 
 /* Detail / Profil */
 .detail-kopf { display: flex; gap: 1.2rem; align-items: center; margin-bottom: .5rem; }

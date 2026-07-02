@@ -44,7 +44,7 @@ prompts/
   herkunft-roster.md             Herkunft/Begründung des Persona-Rosters (Spektrum-Balance)
   ausfuehrung-claude-code.md     Runbook: Auswertungen lokal mit Claude Code erzeugen (ohne Gateway)
   ausfuehrung-cli.md             Runbook: Auswertungen mit fremder Agent-CLI (agy/Gemini, Codex/GPT) erzeugen
-  agy-vorlage.md                 Prompt-Vorlage (Platzhalter __LAND__/__PARTEI__/__PERSONA__/__MODELL__…) für CLI-Läufe
+  llm-cli-vorlage.md                 Prompt-Vorlage (Platzhalter __LAND__/__PARTEI__/__PERSONA__/__MODELL__…) für CLI-Läufe
 scripts/              Orchestrierung der CLI-Läufe: agy-lauf.sh (Partei-Batch), agy-fill.sh
                       (idempotent, sequenziell, selbstheilend), fix-agy.mjs (Score/Seiten-Korrektur)
 cache/                gecachte Programme (PDF/HTML, Text, seiten.json) — GIT-IGNORIERT
@@ -104,7 +104,7 @@ Statt über das AI Gateway lässt sich ein Lauf auch **lokal von einer Claude-Co
 
 ### Alternative ohne Gateway: Auswertung mit fremder Agent-CLI (so haben wir die weiteren Modelle erzeugt)
 
-Die Modellspalten **neben Opus** wurden über lokale Agent-CLIs erzeugt — ohne Gateway, jede CLI schreibt die Ergebnis-JSONs selbst ins Repo. Runbook: [`prompts/ausfuehrung-cli.md`](prompts/ausfuehrung-cli.md); Prompt-Vorlage: [`prompts/agy-vorlage.md`](prompts/agy-vorlage.md).
+Die Modellspalten **neben Opus** wurden über lokale Agent-CLIs erzeugt — ohne Gateway, jede CLI schreibt die Ergebnis-JSONs selbst ins Repo. Runbook: [`prompts/ausfuehrung-cli.md`](prompts/ausfuehrung-cli.md); Prompt-Vorlage: [`prompts/llm-cli-vorlage.md`](prompts/llm-cli-vorlage.md).
 
 - **Gemini 3.1 Pro über `agy`** (`modell_slug: gemini-3.1-pro`):
   `agy --dangerously-skip-permissions --model "Gemini 3.1 Pro (High)" --print-timeout 6m -p "$PROMPT"`.

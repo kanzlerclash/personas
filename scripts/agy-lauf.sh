@@ -9,7 +9,7 @@ PARTEI="${1:?Partei als Argument, z. B. cdu}"
 MODELL="Gemini 3.1 Pro (High)"
 MODELL_SLUG="gemini-3.1-pro"
 AGY="/Users/jan/.local/bin/agy"
-TPL="prompts/agy-vorlage.md"
+TPL="prompts/llm-cli-vorlage.md"
 
 SLUGS=(landwirt handwerkerin pendler rentnerpaar polizist studentin_queer \
        alleinerziehende pflegekraft eingebuergerte mieterin_berlin industriearbeiter \

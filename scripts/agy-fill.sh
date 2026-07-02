@@ -9,7 +9,7 @@ LAND="sachsen-anhalt"
 MODELL="Gemini 3.1 Pro (High)"
 MODELL_SLUG="gemini-3.1-pro"
 AGY="/Users/jan/.local/bin/agy"
-TPL="prompts/agy-vorlage.md"
+TPL="prompts/llm-cli-vorlage.md"
 
 PARTEIEN=(cdu spd gruene afd fdp linke bsw)
 SLUGS=(landwirt handwerkerin pendler rentnerpaar polizist studentin_queer \

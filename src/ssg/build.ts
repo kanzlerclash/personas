@@ -203,7 +203,7 @@ const add = (pfad: string, titel: string, beschr: string, body: string) => seite
 {
   const readP = (p: string) => { try { return readFileSync(join(ROOT, p), "utf8").replace(/^<!--[\s\S]*?-->\s*/, "").trim(); } catch { return "(Datei nicht gefunden)"; } };
   const promptVergleich = readP("prompts/vergleich.v1.md");
-  const promptVorlage = readP("prompts/agy-vorlage.md");
+  const promptVorlage = readP("prompts/llm-cli-vorlage.md");
   const SEITEN: Record<string, number> = { cdu: 91, spd: 61, gruene: 100, afd: 20, fdp: 76, linke: 150, bsw: 90 };
   const AUSF: Record<string, string> = {
     "claude-opus-4-8": "Claude-Code-Subagenten (lokal, ohne Gateway)",
@@ -235,6 +235,8 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
 <p><strong>Detailtiefe nach Forschungslage:</strong> mittel-detailliert und <em>aufgabenrelevant</em> — Forschung zeigt, dass irrelevante Deko-Details (Name, Lieblingsfarbe) die Modellleistung senken und Stereotype verstärken können. Daher viel relevante Lage/Haltung, keine Trivia, würdevolle Formulierung.</p>
 <p><strong>Avatare:</strong> 8-Bit über <a href="https://dracoblue.github.io/retro-antlitz-kartei/" target="_blank" rel="nofollow noopener noreferrer">retro-antlitz-kartei</a> (MIT); Teile/Farben je Persona von Hand aus dem echten Profil abgeleitet.</p>
 <p>Volle Herkunfts-Doku: <a href="https://github.com/kanzlerclash/personas/blob/main/prompts/herkunft-personas-und-avatare.md" target="_blank" rel="nofollow noopener noreferrer">herkunft-personas-und-avatare.md</a> · <a href="https://github.com/kanzlerclash/personas/blob/main/prompts/herkunft-roster.md" target="_blank" rel="nofollow noopener noreferrer">herkunft-roster.md</a></p>
+<h3 class="abschnitt">Die ${PERSONAS.length} Personas</h3>
+<div class="persliste">${PERSONAS.map((p) => `<a href="${u(`persona/${p.slug}/`)}">${avatarImg(p, "avatar mini")}<span>${e(p.name)}</span></a>`).join("")}</div>
 <div class="unternav"><a class="navbtn" href="${u("personas/")}">👤 Alle Personas ansehen</a></div>`;
     add("methodik/personas/", "Methodik: Personas · #LTW26", "Wie die 16 fiktiven Personas und ihre Avatare entstanden sind — redaktionell, spektrum-balanciert, würdevoll.", body);
   }
@@ -274,7 +276,7 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
 <h3 class="abschnitt">1) Persona × Programm-Vergleich — System-Prompt (<code>vergleich.v1</code>)</h3>
 <p class="mini">Der Kern-Prompt: Regeln, wie ein Modell aus Sicht der Persona die guten/schlechten Punkte belegt. Die konkreten Daten (Profil, Themen, Programmtext) hängt die Pipeline als User-Nachricht an.</p>
 <pre class="prompt">${e(promptVergleich)}</pre>
-<h3 class="abschnitt">2) CLI-Vorlage (Platzhalter) — <code>agy-vorlage.md</code></h3>
+<h3 class="abschnitt">2) CLI-Vorlage (Platzhalter) — <code>llm-cli-vorlage.md</code></h3>
 <p class="mini">Dieselbe tool-neutrale Vorlage wurde für <strong>Gemini (agy)</strong> <em>und</em> <strong>GPT-5.5 (Codex)</strong> genutzt — nur der Modell-Slug unterscheidet sich (Platzhalter <code>__LAND__</code>/<code>__PARTEI__</code>/<code>__PERSONA__</code>/<code>__MODELL__</code>). Die <strong>Claude Opus/Sonnet</strong>-Läufe (Claude-Code-Subagenten) nutzten einen inhaltlich gleichwertigen Prompt direkt im Subagenten (nicht diese Datei). Alle beruhen auf denselben Regeln aus <code>vergleich.v1</code> (oben).</p>
 <pre class="prompt">${e(promptVorlage)}</pre>
 <p>Bevölkerungsanteile: recherchiert aus amtlichen Quellen (kein KI-Schätzprompt als Fakt); Details je Persona auf der jeweiligen Profilseite. Quellcode &amp; alle Prompts: <a href="https://github.com/kanzlerclash/personas/tree/main/prompts" target="_blank" rel="nofollow noopener noreferrer">prompts/ auf GitHub</a>.</p>`;

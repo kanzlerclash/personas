@@ -8,7 +8,7 @@ cd /Users/jan/workspaces/personas || exit 1
 LAND="sachsen-anhalt"
 MODELL_SLUG="gpt-5.5"
 CX="/Users/jan/.volta/bin/codex"
-TPL="prompts/agy-vorlage.md"
+TPL="prompts/llm-cli-vorlage.md"
 
 PARTEIEN=(cdu spd gruene afd fdp linke bsw)
 SLUGS=(landwirt handwerkerin pendler rentnerpaar polizist studentin_queer \

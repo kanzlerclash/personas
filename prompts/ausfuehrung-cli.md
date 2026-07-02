@@ -124,7 +124,7 @@ agy --dangerously-skip-permissions --model "Gemini 3.1 Pro (High)" --print-timeo
 codex exec --dangerously-bypass-approvals-and-sandbox -m gpt-5.5 "$PROMPT"
 # (oder --full-auto; read-only reicht NICHT zum Schreiben)
 ```
-Prompt jeweils aus `prompts/agy-vorlage.md` per Platzhalter-Ersetzung (`__LAND__`, `__PARTEI__`,
+Prompt jeweils aus `prompts/llm-cli-vorlage.md` per Platzhalter-Ersetzung (`__LAND__`, `__PARTEI__`,
 `__PERSONA__`, `__MODELL_SLUG__`, `__MODELL__`); `erzeugt_via` an das Tool anpassen.
 
 Nachbereitung: `node scripts/fix-agy.mjs <partei>` (Score auf −2..2 clampen, Seitenzahl auf die
