@@ -125,8 +125,8 @@ function layout(titel: string, beschreibung: string, body: string): string {
 <title>${e(titel)}</title><meta name="description" content="${e(beschreibung)}">
 <meta property="og:title" content="${e(titel)}"><meta property="og:description" content="${e(beschreibung)}">
 <link rel="stylesheet" href="${u("assets/style.css")}"></head><body>
-<header class="kopf"><a href="${u("")}" class="logo">Personas</a><span class="kopf-sub">ein KanzlerClash #LTW26 Projekt — KI-Urteile über Wahlprogramme (Sachsen-Anhalt)</span></header>
-<div class="ai-act" role="note">⚠ <strong>KI-generierte Inhalte.</strong> Die Bewertungen stammen von KI-Modellen, beziehen sich auf <strong>fiktive Personas</strong> (keine realen Personen) und können Fehler und Verzerrungen (Bias) enthalten. <strong>Keine Wahlempfehlung</strong> — dient der politischen Bildung. Parteizitate dienen als Beleg (Urheberrecht der Parteien).</div>
+<header class="kopf"><div class="wrap kopf-in"><a href="${u("")}" class="logo">Personas</a><span class="kopf-sub">ein KanzlerClash #LTW26 Projekt — KI-Urteile über Wahlprogramme (Sachsen-Anhalt)</span></div></header>
+<div class="ai-act" role="note"><div class="wrap">⚠ <strong>KI-generierte Inhalte.</strong> Die Bewertungen stammen von KI-Modellen, beziehen sich auf <strong>fiktive Personas</strong> (keine realen Personen) und können Fehler und Verzerrungen (Bias) enthalten. <strong>Keine Wahlempfehlung</strong> — dient der politischen Bildung. Parteizitate dienen als Beleg (Urheberrecht der Parteien).</div></div>
 <main>${body}</main>
 <footer class="fuss">Stand: ${new Date().toLocaleDateString("de-DE")} · ${ERG.length} KI-Urteile · <a href="${u("methodik/")}">Methodik</a> · Daten unter CC-BY-SA · <a href="https://github.com/kanzlerclash/personas" target="_blank" rel="noopener noreferrer">Quellcode</a> · Transparenz gem. EU-KI-VO Art. 50</footer>
 </body></html>`;
