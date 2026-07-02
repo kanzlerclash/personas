@@ -190,7 +190,7 @@ const add = (pfad: string, titel: string, beschr: string, body: string) => seite
     `<div class="fl-pfeil">→</div>` +
     `<div class="fl-box">${q("methodik/ki-modelle/", "KI-Modelle")}<strong>${SIG.length} KI-Modelle</strong><span>${e(SIG.map((m) => kurz(m.slug)).join(" · "))}</span></div>` +
     `<div class="fl-pfeil">→</div>` +
-    `<div class="fl-box"><strong>${ERG.length} KI-Urteile</strong><span>je mit Seite + Zitat belegt</span></div></div>`;
+    `<div class="fl-box">${q("methodik/ki-modelle/", "KI-Urteile & Belege")}<strong>${ERG.length} KI-Urteile</strong><span>je mit Seite + Zitat belegt</span></div></div>`;
   const karten = SIG.map((m) => `<a class="sigkarte" href="${u(`modell/${m.slug}/`)}"><h4>${e(kurz(m.slug))}</h4><div class="sig-modell">${e(m.name)}</div><div class="sig-zahlen">${sigZeile("Ø-Urteil", scoreTxt(m.avgScore), scoreFarbe(m.avgScore))}${sigZeile("Kritik-Quote", Math.round(m.kritikQuote * 100) + " %", scoreFarbe(2 - m.kritikQuote * 4))}${sigZeile("Tonalität", m.labels.ton)}${sigZeile("Ø Punkte/Urteil", String(m.avgHighlights))}</div><div class="sig-label">${e(m.labels.kritik + ", " + m.labels.ton)} · ${m.anzahl} Urteile</div><span class="sig-cta">→ Personas ansehen</span></a>`).join("");
   const body = `<section class="hero"><h2>Wie urteilen KI-Modelle über die Wahlprogramme?</h2>${fluss}</section>
 <div class="infobox"><strong>Was ist Modell-Bias?</strong> Alle Modelle lesen dieselben Programme aus Sicht derselben fiktiven Personas — und urteilen trotzdem unterschiedlich streng und kritisch. Dieses Urteil hängt vom <em>Modell</em> (und seiner Version) ab. Wähle ein Modell und sieh selbst.</div>
@@ -275,7 +275,7 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
 <p class="mini">Der Kern-Prompt: Regeln, wie ein Modell aus Sicht der Persona die guten/schlechten Punkte belegt. Die konkreten Daten (Profil, Themen, Programmtext) hängt die Pipeline als User-Nachricht an.</p>
 <pre class="prompt">${e(promptVergleich)}</pre>
 <h3 class="abschnitt">2) CLI-Vorlage (Platzhalter) — <code>agy-vorlage.md</code></h3>
-<p class="mini">Die tool-neutrale Vorlage, mit der die Läufe über agy/Codex erzeugt wurden (Platzhalter <code>__LAND__</code>/<code>__PARTEI__</code>/<code>__PERSONA__</code>/<code>__MODELL__</code>).</p>
+<p class="mini">Dieselbe tool-neutrale Vorlage wurde für <strong>Gemini (agy)</strong> <em>und</em> <strong>GPT-5.5 (Codex)</strong> genutzt — nur der Modell-Slug unterscheidet sich (Platzhalter <code>__LAND__</code>/<code>__PARTEI__</code>/<code>__PERSONA__</code>/<code>__MODELL__</code>). Die <strong>Claude Opus/Sonnet</strong>-Läufe (Claude-Code-Subagenten) nutzten einen inhaltlich gleichwertigen Prompt direkt im Subagenten (nicht diese Datei). Alle beruhen auf denselben Regeln aus <code>vergleich.v1</code> (oben).</p>
 <pre class="prompt">${e(promptVorlage)}</pre>
 <p>Bevölkerungsanteile: recherchiert aus amtlichen Quellen (kein KI-Schätzprompt als Fakt); Details je Persona auf der jeweiligen Profilseite. Quellcode &amp; alle Prompts: <a href="https://github.com/kanzlerclash/personas/tree/main/prompts" target="_blank" rel="nofollow noopener noreferrer">prompts/ auf GitHub</a>.</p>`;
     add("methodik/prompts/", "Methodik: Prompts · #LTW26", "Die verwendeten Prompts im Wortlaut: der Persona×Programm-System-Prompt und die CLI-Vorlage.", body);
