@@ -23,61 +23,66 @@
       "titel_selbst": "Wohnen ist Daseinsvorsorge",
       "thema": "wohnen",
       "programmpunkt": "Kommunale Wohnungsunternehmen bleiben Teil der öffentlichen Daseinsvorsorge, Zwangsverkäufe zur Haushaltssanierung werden ausgeschlossen.",
-      "seite": 44,
+      "seite": 27,
       "zitat": "Zwangsverkäufe zur Haushaltskonsolidierung werden ausgeschlossen.",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Carlas Grundüberzeugung ist, dass Wohnen kein Spekulationsgut ist; der Schutz kommunaler Bestände vor dem Ausverkauf entspricht genau ihrer gemeinwohlorientierten Sicht.",
       "begruendung_selbst": "Endlich mal: Öffentliche Wohnungen werden nicht verscherbelt, um Haushaltslöcher zu stopfen. Genau so muss man Wohnen denken.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 44 auf 27 korrigiert"
     },
     {
       "titel_selbst": "Sozialer Wohnungsbau zählt wieder",
       "thema": "wohnen",
       "programmpunkt": "Der soziale Wohnungsbau soll gestärkt werden, auch für junges Wohnen und barrierefreie Wohnungen.",
-      "seite": 43,
+      "seite": 27,
       "zitat": "Der soziale Wohnungsbau wird gestärkt",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Carla setzt auf gemeinwohlorientierten statt marktgetriebenen Wohnraum; die Stärkung des sozialen Wohnungsbaus deckt sich mit ihrer Forderung nach geschütztem, bezahlbarem Wohnen.",
       "begruendung_selbst": "Mehr gemeinnütziger Wohnraum statt nur Rendite-Objekte - das ist die Richtung, die ich von Wohnungspolitik erwarte.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
     },
     {
       "titel_selbst": "Wärmewende ohne zweite Miete",
       "thema": "wohnen",
       "programmpunkt": "Die klimafreundliche Wärmeversorgung soll nicht zur zweiten Miete werden.",
-      "seite": 43,
+      "seite": 27,
       "zitat": "Die klimafreundliche Wärmeversorgung darf keine zweite Miete werden.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Carla fürchtet Modernisierungskosten, die auf Mieter:innen abgewälzt werden; das Versprechen, die Wärmewende nicht zur zweiten Miete zu machen, trifft genau diese Angst.",
       "begruendung_selbst": "Meine größte Sorge ist, dass mir Sanierung als Mieterhöhung verkauft wird. Dass das hier ausgeschlossen wird, beruhigt mich.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
     },
     {
       "titel_selbst": "Versorgung vor Kapitalinteressen",
       "thema": "wirtschaft",
       "programmpunkt": "Daseinsvorsorge wie Krankenhäuser soll an Qualität und Erreichbarkeit ausgerichtet sein, nicht an Kapitalinteressen.",
-      "seite": 12,
+      "seite": 9,
       "zitat": "die sich an den Kriterien Qualität, Erreichbarkeit und Wirtschaftlichkeit orientiert und nicht an Kapitalinteressen",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Carla steht reiner Marktlogik in der Daseinsvorsorge kritisch gegenüber; eine an Versorgung statt an Kapital ausgerichtete Linie bestätigt ihre Grundhaltung über das Wohnen hinaus.",
       "begruendung_selbst": "Ob Wohnen oder Krankenhaus - wenn der Markt allein regiert, verlieren immer dieselben. Schön, dass das hier mal anders gedacht wird.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
     },
     {
       "titel_selbst": "Bezahlbares Ticket, gute ÖPNV-Stadt",
       "thema": "verkehr",
       "programmpunkt": "Das Deutschlandticket soll langfristig bezahlbar und verlässlich abgesichert werden.",
-      "seite": 42,
+      "seite": 26,
       "zitat": "Das Deutschlandticket wird langfristig bezahlbar und verlässlich abgesichert.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Carla lebt autofrei und auf den ÖPNV angewiesen; ein dauerhaft bezahlbares Deutschlandticket entspricht ihrem Wunsch nach einer guten, autoarmen ÖPNV-Stadt.",
       "begruendung_selbst": "Ich habe kein Auto und will keins. Ein verlässlich günstiges Ticket ist für mein Leben in der Stadt Gold wert.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 42 auf 26 korrigiert"
     }
   ],
   "besonders_schlecht": [
@@ -85,13 +90,14 @@
       "titel_selbst": "Bauen ersetzt keinen Mieterschutz",
       "thema": "wohnen",
       "programmpunkt": "Wohnungspolitik setzt stark auf zusätzliches Angebot - serielles Bauen, Bestandssanierung - statt auf Mietregulierung gegen Verdrängung.",
-      "seite": 44,
+      "seite": 27,
       "zitat": "Serielles Bauen senkt Kosten, die Bestandssanierung wird gestärkt.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Carlas Kernanliegen ist der Schutz vor Verdrängung durch Mietregulierung, Milieuschutz und Begrenzung der Modernisierungsumlage; das Programm beantwortet die Wohnungsfrage überwiegend angebotsseitig und greift ihre Instrumente nicht auf.",
       "begruendung_selbst": "Mehr bauen ist ja schön, aber es schützt mich nicht vor der Modernisierung oder der Kündigung. Ohne harte Regulierung bleibt mein Kiez bedroht.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 44 auf 27 korrigiert"
     }
   ],
   "gesamt": {

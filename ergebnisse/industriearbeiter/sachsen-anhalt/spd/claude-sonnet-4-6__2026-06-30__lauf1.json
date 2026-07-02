@@ -35,13 +35,14 @@
       "titel_selbst": "Tariftreuegesetz bleibt — das ist wichtig!",
       "thema": "arbeit",
       "programmpunkt": "Das Tariftreue- und Vergabegesetz wird beibehalten; eine Ausweitung der Einschränkungen oder Abschaffung wird ausgeschlossen.",
-      "seite": 8,
+      "seite": 7,
       "zitat": "Eine Ausweitung der bestehenden Einschränkungen oder eine Abschaffung dieses Gesetzes wird es mit uns nicht geben.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe setzt sich als Gewerkschafter für Tarifbindung ein. Das klare Bekenntnis, das Tariftreuegesetz nicht anzutasten, schützt die Standards, für die er kämpft.",
       "begruendung_selbst": "Wenn das Tariftreuegesetz fällt, kippt als Nächstes der Tarif in der Branche. Das ist kein Dominostein, das ist ein Fundament. Ich bin froh, dass sie da standhaft sind.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 8 auf 7 korrigiert"
     },
     {
       "titel_selbst": "Mitbestimmung wird gestärkt!",
@@ -53,7 +54,8 @@
       "resonanz": "bestaetigt",
       "begruendung": "Als langjähriger Betriebsrat ist Mitbestimmung für Uwe kein abstraktes Recht, sondern gelebte Praxis. Die Stärkung und aktive Unterstützung bei der Gründung von Betriebsräten liegt direkt in seiner Welt.",
       "begruendung_selbst": "Mitbestimmung ist das, was Arbeitnehmer zu Akteuren macht statt zu Objekten. Wenn die SPD das ernst nimmt und nicht nur draufschreibt, dann stimmt die Grundrichtung.",
-      "beleg_ok": true
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "titel_selbst": "Strukturwandel: niemanden zurücklassen!",
@@ -73,13 +75,14 @@
       "titel_selbst": "Klimaschutzgesetz — wie viele Jobs kostet das?",
       "thema": "klima",
       "programmpunkt": "Ein Klimaschutzgesetz mit verbindlichen Reduktionspfaden für Treibhausgasemissionen soll Planungssicherheit für Kommunen, Wirtschaft und Gesellschaft geben.",
-      "seite": 22,
+      "seite": 15,
       "zitat": "Darin festgelegt werden Reduktionspfade für Treibhausemissionen, die Orientierung und Planungssicherheit für Kommunen, Wirtschaft und Gesellschaft geben.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Uwe begrüßt zwar Planungssicherheit, aber verbindliche Reduktionspfade können Produktionsmengen der Chemieindustrie direkt beschränken. Er befürchtet, dass das Klimaschutzgesetz sein Unternehmen unter Druck setzt, ohne dass der soziale Ausgleich gesichert ist.",
       "begruendung_selbst": "Planungssicherheit — das klingt gut. Aber wenn ein Gesetz vorschreibt, wie viel CO2 meine Anlage noch darf, dann entscheidet das auch, ob ich übermorgen noch Arbeit hab.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 22 auf 15 korrigiert"
     }
   ],
   "gesamt": {

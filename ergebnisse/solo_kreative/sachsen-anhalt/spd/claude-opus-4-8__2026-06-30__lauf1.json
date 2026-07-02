@@ -23,61 +23,66 @@
       "titel_selbst": "Endlich an Solo-Selbstständige gedacht",
       "thema": "arbeit",
       "programmpunkt": "Wirtschaftspolitik soll bei Solo-Selbstständigen die besonderen Rahmenbedingungen berücksichtigen und soziale Absicherung und Vorsorge stärken.",
-      "seite": 4,
+      "seite": 5,
       "zitat": "stärkt soziale Absicherung und Vorsorge",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mareikes größte Lücke ist die fehlende Absicherung als Soloselbstständige; dass das Programm sie ausdrücklich als eigene Gruppe nennt und Absicherung verspricht, trifft ihr Kernanliegen.",
       "begruendung_selbst": "Dass Solo-Selbstständige überhaupt vorkommen und nicht nur die großen Betriebe, ist schon mehr, als ich sonst lese. Absicherung ist genau mein Thema.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 4 auf 5 korrigiert"
     },
     {
       "titel_selbst": "Keine Selbstausbeutung mit Förderung",
       "thema": "wirtschaft",
       "programmpunkt": "Honoraruntergrenzen und soziale Mindeststandards sind Voraussetzung öffentlicher Förderung, Selbstausbeutung wird abgelehnt.",
-      "seite": 39,
+      "seite": 25,
       "zitat": "Selbstausbeutung mit öffentlichen Mitteln lehnen wir ab.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mareike kennt Aufträge zu Dumpingkonditionen; Honoraruntergrenzen als Förderbedingung schützen genau jene faire Bezahlung, von der ihre Existenz abhängt.",
       "begruendung_selbst": "Honoraruntergrenzen statt Arbeiten zum Nulltarif - das ist überfällig. In meiner Branche wird Selbstausbeutung viel zu oft als normal verkauft.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 39 auf 25 korrigiert"
     },
     {
       "titel_selbst": "Faire Zahlungsbedingungen",
       "thema": "arbeit",
       "programmpunkt": "Für Kleinbetriebe und Solo-Selbstständige sollen faire Vergabe- und Zahlungsbedingungen gesichert werden.",
-      "seite": 4,
+      "seite": 5,
       "zitat": "sorgt für faire Vergabe - und Zahlungsbedingungen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Vorfinanzierung und späte Zahlungen bringen Mareike in Liquiditätsnot; faire Zahlungsbedingungen adressieren eine ihrer konkreten Existenzsorgen.",
       "begruendung_selbst": "Wenn Kunden ewig nicht zahlen, sitze ich auf dem Trockenen. Faire Zahlungsbedingungen sind für mich keine Nebensache, sondern Überleben.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 4 auf 5 korrigiert"
     },
     {
       "titel_selbst": "Auch Games sind Kultur",
       "thema": "wirtschaft",
       "programmpunkt": "Das Kulturverständnis wird auf digitale Angebote wie Computerspiele erweitert und diese in die Förderung einbezogen.",
-      "seite": 37,
+      "seite": 24,
       "zitat": "Wir erweitern das Kulturverständnis aktiv auf digitale Angebote wie Computerspiele",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mareike arbeitet im digitalen Kreativbereich; eine Förderung, die digitale Formate als Kultur anerkennt, öffnet ihr und ihrer Branche neue Zugänge.",
       "begruendung_selbst": "Endlich wird Digitales als Kultur ernst genommen und nicht belächelt. Das ist genau die Welt, in der ich arbeite.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 37 auf 24 korrigiert"
     },
     {
       "titel_selbst": "Ämter ohne Papierkram-Hölle",
       "thema": "digitalisierung",
       "programmpunkt": "Verwaltungsverfahren sollen vom Antrag bis zum Bescheid durchgängig digitalisiert werden.",
-      "seite": 56,
+      "seite": 34,
       "zitat": "konsequent Ende - zu - Ende digitalisiert",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Bürokratie- und Steuerlast überfordern Mareike als Kleinste; eine echte Ende-zu-Ende-Digitalisierung verspricht weniger Aufwand, der bei ihr außer Verhältnis zur Betriebsgröße steht.",
       "begruendung_selbst": "Ich verbringe Tage mit Formularen, die meinen Mini-Betrieb völlig überfordern. Wenn das digital durchläuft, gewinne ich Zeit zum Arbeiten.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 56 auf 34 korrigiert"
     }
   ],
   "besonders_schlecht": [
@@ -85,13 +90,14 @@
       "titel_selbst": "Sichtbarkeit zahlt keine Krankenkasse",
       "thema": "gesundheit",
       "programmpunkt": "Die Unterstützung für Solo-Selbstständige bleibt bei Qualifizierung, Beteiligung und Sichtbarkeit, ohne konkretes Sicherungsinstrument.",
-      "seite": 4,
+      "seite": 5,
       "zitat": "öffnet Qualifizierungsangebote und verbessert Beteiligung und Sichtbarkeit",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Mareikes existenzielle Lücke ist die Absicherung bei Krankheit, Auftragsflaute und im Alter; das Programm bietet hier vor allem weiche Maßnahmen wie Sichtbarkeit und Qualifizierung, während die harte soziale Sicherung Bundessache bleibt.",
       "begruendung_selbst": "Qualifizierung und Sichtbarkeit sind nett, aber wenn ich krank werde oder die Aufträge wegbleiben, fängt mich das nicht auf. Da ist immer noch nichts.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 4 auf 5 korrigiert"
     }
   ],
   "gesamt": {

@@ -23,61 +23,66 @@
       "titel_selbst": "Genau das brauchen wir!",
       "thema": "sicherheit",
       "programmpunkt": "Die SPD fordert ausreichende personelle Besetzung, gute Arbeitsbedingungen und stellt sich explizit mit politischer Rückendeckung hinter die anspruchsvolle Arbeit der Polizei.",
-      "seite": 28,
+      "seite": 19,
       "zitat": "„Dafür braucht sie politische Rückendeckung und gute Arbeitsbedingungen.“",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marco wünscht sich als Streifenbeamter genau diese Wertschätzung und den Rückhalt aus der Politik, da er im Schichtdienst oft unter Personalmangel und Überlastung leidet.",
       "begruendung_selbst": "Endlich sagt mal einer ganz klar, dass wir politische Rückendeckung brauchen. Wenn wir unsere Arbeit vernünftig machen sollen, dann braucht es Leute, Respekt und anständige Bedingungen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 28 auf 19 korrigiert"
     },
     {
       "titel_selbst": "Gute Ausrüstung, planbare Schichten!",
       "thema": "sicherheit",
       "programmpunkt": "Einsatzkräfte sollen mit moderner Technik ausgestattet werden und sich auf verlässliche Dienstpläne stützen können.",
-      "seite": 28,
+      "seite": 19,
       "zitat": "„Einsatzkräfte müssen technisch gut ausgestattet sein und verlässliche Dienstpläne haben.“",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marco leidet im Alltag unter Überlastung und teils veralteter Ausstattung; funktionierende Technik und Schichten, die sich mit seinem Familienleben vereinbaren lassen, sind für ihn existenziell.",
       "begruendung_selbst": "Wir brauchen Ausrüstung, die auch funktioniert, und Schichten, mit denen man ein halbwegs normales Familienleben planen kann. Dass das ernst genommen wird, ist extrem wichtig.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 28 auf 19 korrigiert"
     },
     {
       "titel_selbst": "Unsere Arbeit darf nicht versanden!",
       "thema": "sicherheit",
       "programmpunkt": "Die SPD betont die Bedeutung einer personell und technisch leistungsfähigen Justiz, um zügige und rechtsstaatliche Verfahren sicherzustellen.",
-      "seite": 30,
+      "seite": 20,
       "zitat": "„Ein funktionierender Rechtsstaat braucht eine leistungsfähige Justiz.“",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Für Marco ist es extrem frustrierend, wenn er als Polizist die Vorarbeit leistet und Ermittlungsergebnisse bei einer überlasteten Justiz ins Leere laufen; eine schnellere Justiz stärkt sein Vertrauen.",
       "begruendung_selbst": "Es bringt mir im Streifendienst rein gar nichts, wenn ich jemanden festnehme und die Akte dann monatelang bei der Staatsanwaltschaft Staub ansetzt. Die Justiz muss genauso schlagkräftig sein wie wir.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 30 auf 20 korrigiert"
     },
     {
       "titel_selbst": "Der Staat muss Zähne zeigen!",
       "thema": "demokratie",
       "programmpunkt": "Die SPD fordert, die wehrhafte Demokratie zu schützen und demokratiefeindlichen Strömungen mit konsequenter Strafverfolgung entgegenzutreten.",
-      "seite": 32,
+      "seite": 20,
       "zitat": "„Demokratie braucht Schutz.“",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Marco ist als Polizist ein Verfassungsschützer in Uniform. Er lehnt radikale Kräfte ab, da sie aus seiner Sicht den Staat schwächen, Respekt zerstören und seinen Job gefährlicher machen.",
       "begruendung_selbst": "Leute, die unseren Rechtsstaat von innen aushöhlen wollen, machen unseren Dienst nur noch gefährlicher. Da erwarte ich, dass der Staat hart durchgreift und klare Kante zeigt.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 32 auf 20 korrigiert"
     },
     {
       "titel_selbst": "Gleicher Lohn für harte Arbeit!",
       "thema": "arbeit",
       "programmpunkt": "Tarifabschlüsse im öffentlichen Dienst sollen künftig zeit- und inhaltsgleich auf die Beamtenschaft übertragen werden.",
-      "seite": 59,
+      "seite": 35,
       "zitat": "„Tariferhöhungen im öffentlichen Dienst müssen zeit- und inhaltsgleich auf Beamtinnen und Beamte übertragen werden.“",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als verbeamteter Familienvater mit einem zwar sicheren, aber nicht üppigen Einkommen ist Marco auf eine faire Besoldungsentwicklung angewiesen, die mit Tarifabschlüssen mithält.",
       "begruendung_selbst": "Das ist eine Frage des Respekts. Wir können nicht streiken und geben jeden Tag alles auf der Straße. Da ist es nur fair, dass unsere Gehälter auch automatisch angepasst werden, wenn es Tarifsteigerungen gibt.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 59 auf 35 korrigiert"
     }
   ],
   "besonders_schlecht": [
@@ -85,25 +90,27 @@
       "titel_selbst": "Schon wieder unter Generalverdacht!",
       "thema": "sicherheit",
       "programmpunkt": "Die Partei will die Unabhängigkeit des Polizeibeauftragten ausbauen, um die Kontrolle polizeilichen Handelns zu verstärken.",
-      "seite": 29,
+      "seite": 19,
       "zitat": "„Die Unabhängigkeit des Polizeibeauftragen soll gestärkt werden.“",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Marco fühlt sich durch einen starken Fokus auf externe Kontrolle und Fehlerkultur oftmals unter Generalverdacht gestellt, statt die gewünschte Wertschätzung für seine Arbeit auf der Straße zu erfahren.",
       "begruendung_selbst": "Anstatt uns für die harte Arbeit auf der Straße mal den Rücken zu stärken, geht es schon wieder nur um noch mehr Kontrolle. Wir reißen uns den Hintern auf und sollen uns dann vor immer neuen Beauftragten rechtfertigen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 29 auf 19 korrigiert"
     },
     {
       "titel_selbst": "Dem Staat fehlt die Konsequenz.",
       "thema": "integration",
       "programmpunkt": "Die SPD stuft Abschiebungen bei fehlendem Aufenthaltsrecht explizit als absolutes Ausnahmemittel ein.",
-      "seite": 33,
+      "seite": 21,
       "zitat": "„Abschiebungen bleiben die ultima ratio.“",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Marco wünscht sich einen wehrhaften Staat, der bei fehlendem Bleiberecht und Kriminalität konsequent Regeln durchsetzt; die starke politische Zurückhaltung bei Abschiebungen empfindet er als falsches Signal.",
       "begruendung_selbst": "Wenn Leute sich nicht an unsere Regeln halten und kein Aufenthaltsrecht haben, muss der Staat durchgreifen. Wenn Abschiebungen aber immer nur das allerletzte Mittel sind, nimmt uns auf der Straße doch keiner mehr ernst.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 33 auf 21 korrigiert"
     }
   ],
   "gesamt": {

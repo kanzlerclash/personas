@@ -23,49 +23,53 @@
       "titel_selbst": "Einmal erfassen reicht auch!",
       "thema": "landwirtschaft",
       "programmpunkt": "Die Partei will die ausufernde Bürokratie bekämpfen, indem Meldedaten von Betrieben künftig nur noch ein einziges Mal digital erfasst werden müssen.",
-      "seite": 45,
+      "seite": 28,
       "zitat": "„Daten sollen nur einmal digital erfasst und für verschiedene Verfahren nutzbar gemacht werden.“",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank ärgert sich massiv über redundante Formulare und das Dokumentations-Wirrwarr. Eine zentrale Datenerfassung wäre für seinen Alltag eine spürbare Entlastung.",
       "begruendung_selbst": "Ich muss meine Zahlen für jedes Amt fünfmal abtippen. Wenn das künftig mit einem Klick für alle gilt, spart das echt Nerven und Arbeitszeit.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 45 auf 28 korrigiert"
     },
     {
       "titel_selbst": "Eine Chance für meine Tochter.",
       "thema": "landwirtschaft",
       "programmpunkt": "Das Land plant gezielte Instrumente, um Hofnachfolgern und jungen Gründern den Erwerb oder die Pacht von landwirtschaftlichen Flächen zu erleichtern.",
-      "seite": 45,
+      "seite": 28,
       "zitat": "„Flächen gezielt für aktive Betriebe, Neugründungen und Hofnachfolgen bereitzustellen.“",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank sorgt sich intensiv um die Hofnachfolge und den Flächendruck durch Kapitalgesellschaften. Die Unterstützung junger Landwirte beim Bodenzugang nimmt ihm eine seiner größten Ängste.",
       "begruendung_selbst": "Der Flächenfraß macht uns kaputt. Wenn meine Tochter den Hof übernimmt, braucht sie Zugang zu Land, ohne dass Großinvestoren uns permanent überbieten.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 45 auf 28 korrigiert"
     },
     {
       "titel_selbst": "Wichtig für meine Kühe.",
       "thema": "landwirtschaft",
       "programmpunkt": "Das Programm kündigt an, die Weidetierhaltung politisch und finanziell aktiv zu unterstützen.",
-      "seite": 46,
+      "seite": 29,
       "zitat": "„Wir setzen uns für eine Förderung der Weidetierhaltung ein.“",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank ist stolz auf seine tiergerechte Weidehaltung. Ein klares Bekenntnis der Politik zur gezielten Förderung dieser Betriebsform sichert ihm wichtige Einnahmen abseits reiner Produktionsmengen.",
       "begruendung_selbst": "Meine Mutterkuhherde steht auf der Weide. Wenn die Politik das endlich als wichtigen Beitrag erkennt und fördert, hilft uns das wirtschaftlich enorm weiter.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 46 auf 29 korrigiert"
     },
     {
       "titel_selbst": "Endlich hört man uns zu!",
       "thema": "demokratie",
       "programmpunkt": "Die Partei verspricht, die Anliegen der massiven Bauernproteste anzuerkennen und in strukturierte Gespräche über die künftige Agrarpolitik einzubinden.",
-      "seite": 45,
+      "seite": 28,
       "zitat": "„Die Anliegen der Bauernproteste werden ernst genommen und in einen strukturierten Dialog überführt.“",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank wünscht sich gesellschaftliche Anerkennung statt ständiger Bevormundung. Das Signal, die jüngsten Bauernproteste als berechtigten Anlass für Dialoge zu sehen, gibt ihm das Gefühl, wahrgenommen zu werden.",
       "begruendung_selbst": "Wir standen nicht umsonst bei Wind und Wetter auf der Straße. Wenn die Politik uns jetzt endlich am Tisch ernst nimmt, war der Protest ein Erfolg.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 45 auf 28 korrigiert"
     }
   ],
   "besonders_schlecht": [
@@ -73,49 +77,53 @@
       "titel_selbst": "Die Gängelei geht weiter!",
       "thema": "landwirtschaft",
       "programmpunkt": "Die Partei verspricht zwar, Formulare zu vereinfachen, schließt aber explizit aus, die für Landwirte stark belastenden inhaltlichen Vorgaben und Umweltstandards zu lockern.",
-      "seite": 45,
+      "seite": 28,
       "zitat": "„ohne bestehende Standards abzusenken.“",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Frank sieht in der Weigerung, inhaltliche Standards und Umweltauflagen zu senken, sein Kernproblem ungelöst, da gerade diese Vorgaben seine Margen und Planungssicherheit gefährden.",
       "begruendung_selbst": "Was nützt mir ein Formular weniger, wenn die irrsinnigen Dünge-Auflagen und praxisfernen Standards aus Brüssel alle bestehen bleiben? Das ist doch Augenwischerei.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 45 auf 28 korrigiert"
     },
     {
       "titel_selbst": "Ackerland absaufen lassen?",
       "thema": "klima",
       "programmpunkt": "Das Programm bekennt sich zu Projekten, die landwirtschaftliche Flächen und Moorböden wiedervernässen, um Treibhausgase zu binden und den Wasserhaushalt zu regulieren.",
-      "seite": 22,
+      "seite": 15,
       "zitat": "„Wiedervernässung von Mooren und Moorböden“",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Frank steht Naturschutzmaßnahmen skeptisch gegenüber, wenn sie produktive landwirtschaftliche Nutzfläche entziehen und den Klimaschutz zulasten der ohnehin knappen Ackerböden priorisieren.",
       "begruendung_selbst": "Anstatt uns verlässlich Nahrungsmittel produzieren zu lassen, wollen die Flächen vernässen. Das kostet uns bestes Land für eine ideologische Klimapolitik, die ich dann bezahle.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 22 auf 15 korrigiert"
     },
     {
       "titel_selbst": "Noch mehr Stilllegungen.",
       "thema": "klima",
       "programmpunkt": "Die Partei setzt auf eine Ausweitung von naturnahen Flächen, Biotopverbünden und Blühstreifen im Agrarraum, um den europäischen Naturschutz voranzutreiben.",
-      "seite": 23,
+      "seite": 16,
       "zitat": "„Biotopverbünde, Blühstreifen, Streuobstwiesen, Feldgehölze und naturnahe Flächen werden dort gefördert“",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Frank fühlt sich durch die stetig wachsenden Forderungen nach Biotopen und Naturschutzflächen moralisch bedrängt und sorgt sich um den Verlust ertragreicher Böden für seinen Ackerbau.",
       "begruendung_selbst": "Die Umweltschützer fordern immer neue Blühstreifen und Naturschutzvorgaben, aber wir Bauern sollen den Flächenverlust dann wirtschaftlich ausbaden. Wir brauchen das Land zum Leben.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 23 auf 16 korrigiert"
     },
     {
       "titel_selbst": "Und was ist mit dem Wolf?",
       "thema": "landwirtschaft",
       "programmpunkt": "Das Programm lobt umfassend den Naturschutz in Agrarlandschaften, schweigt aber den für Weidetierhalter existenziellen Konflikt mit der wachsenden Wolfspopulation komplett tot.",
-      "seite": 23,
+      "seite": 16,
       "zitat": "„Naturschutzgerechte Landwirtschaft und Artenschutz werden zusammengedacht.“",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Für Frank ist die Ausklammerung des Wolfs ein Beweis für die Praxisferne der Politik, da der strikte Artenschutz hier in direktem, existenziellem Konflikt mit seiner Rinderhaltung steht.",
       "begruendung_selbst": "Die reden am laufenden Band von Artenschutz und Biodiversität. Aber dass der Wolf meine Kälber bedroht, wird in den ganzen Plänen einfach ignoriert. Typisch Schreibtischtäter!",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 23 auf 16 korrigiert"
     }
   ],
   "gesamt": {

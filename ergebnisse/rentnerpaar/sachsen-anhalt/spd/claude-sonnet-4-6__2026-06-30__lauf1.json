@@ -23,49 +23,53 @@
       "titel_selbst": "Arzt auf dem Land bleibt erreichbar!",
       "thema": "gesundheit",
       "programmpunkt": "Die SPD will eine flächendeckende, gut erreichbare medizinische Versorgung sichern; Telemedizin und mobile Angebote sollen Versorgungslücken im ländlichen Raum schließen.",
-      "seite": 12,
+      "seite": 9,
       "zitat": "Eine flächendeckende, gut erreichbare und qualitativ hochwertige medizinische Versorgung ist Voraussetzung für Lebensqualität und gleichwertige Lebensverhältnisse.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Helga und Dieter haben einen Hausarzt in der Nähe — noch. Ihr größte Sorge ist, dass dieser aufhört und kein Nachfolger kommt. Das Bekenntnis zur ländlichen Versorgungssicherung trifft diese Existenzangst.",
       "begruendung_selbst": "Unser Hausarzt ist nicht mehr der Jüngste. Wenn der aufhört, müssen wir mit dem Auto in die nächste Stadt. Das schaffen wir vielleicht bald nicht mehr.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
     },
     {
       "titel_selbst": "Zu Hause alt werden — das wollen wir!",
       "thema": "gesundheit",
       "programmpunkt": "Versorgungsnetzwerke vor Ort, Quartiersansätze und Nachbarschaftshilfe sollen ein möglichst langes Leben in Selbstständigkeit im eigenen Wohnumfeld ermöglichen.",
-      "seite": 14,
+      "seite": 10,
       "zitat": "Versorgungsnetzwerke vor Ort werden gestärkt, um ein möglichst langes Leben in Selbstständigkeit und im eigenen Wohnumfeld zu ermöglichen.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Das eigene Haus zu verlassen ist für Helga und Dieter unvorstellbar. Dass der Staat ambulante Strukturen und Nachbarschaftshilfe stärken will, gibt ihnen die Perspektive, auch im Alter im eigenen Heim zu bleiben.",
       "begruendung_selbst": "Wir haben unser ganzes Leben in dieses Haus gesteckt. Wenn uns jemand dabei hilft, hier zu bleiben, statt ins Heim zu müssen — das ist alles, was wir wollen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
     },
     {
       "titel_selbst": "Deutschlandticket billig für Rentner!",
       "thema": "verkehr",
       "programmpunkt": "Das Land Sachsen-Anhalt will das Deutschlandticket für Senioren mit etwa 20 Euro pro Monat subventionieren.",
-      "seite": 42,
+      "seite": 26,
       "zitat": "Das Land Sachsen-Anhalt das Abonnement des Deutschlandtickets für Senioren mit ca. 20 Euro/Monat fördern.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ein günstiges Deutschlandticket gibt Helga und Dieter Mobilität, solange sie das Auto noch fahren können oder müssen — und ermöglicht ihnen, Arztbesuche, Einkäufe und soziale Kontakte zu erhalten.",
       "begruendung_selbst": "Wenn wir das Auto irgendwann nicht mehr können, ist das ein Segen. 20 Euro — das ist wirklich günstig und wir würden das auch nutzen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 42 auf 26 korrigiert"
     },
     {
       "titel_selbst": "Wärme darf keine zweite Miete werden!",
       "thema": "energie",
       "programmpunkt": "Die klimafreundliche Wärmeversorgung darf laut SPD keine zweite Miete werden; Kommunen werden bei der Wärmeplanung unterstützt.",
-      "seite": 43,
+      "seite": 27,
       "zitat": "Die klimafreundliche Wärmeversorgung darf keine zweite Miete werden.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die Heizkosten sind eine der größten Sorgen des Rentnerpaars. Das explizite Versprechen, dass die Wärmewende nicht zur Kostenexplosion führen soll, gibt ihnen etwas Sicherheit.",
       "begruendung_selbst": "Heizen ist unser größter Posten. Wenn die sagen, das soll nicht explodieren — das höre ich gern. Ob sie's halten, muss sich zeigen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
     }
   ],
   "besonders_schlecht": [

@@ -29,7 +29,8 @@
       "resonanz": "bestaetigt",
       "begruendung": "Ronny sieht Carbon-Management und CCS als entscheidende Brückentechnologien für seine Region. Eine explizit genannte Carbon-Management-Strategie signalisiert, dass die SPD diese Technologie nicht pauschal ablehnt — das ist für seine Zukunftsplanung entscheidend.",
       "begruendung_selbst": "Erst die Brücke bauen, dann die alte abreißen. Eine Carbon-Management-Strategie ist genau diese Brücke. Endlich sagt jemand, dass CO2 nicht nur ein Problem, sondern auch eine Ressource sein kann.",
-      "beleg_ok": true
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "titel_selbst": "Wasserstoff und CO2-Infrastruktur kommen!",
@@ -47,13 +48,14 @@
       "titel_selbst": "Just Transition Fund für Kohleregionen!",
       "thema": "wirtschaft",
       "programmpunkt": "Sachsen-Anhalt setzt sich für ein Anschlussprogramm an den Just Transition Fund ab 2028 für die Kohleregionen ein.",
-      "seite": 53,
+      "seite": 33,
       "zitat": "Für die Kohleregionen setzt sich Sachsen-Anhalt für ein Anschlussprogramm an den Just Transition Fund ab 2028 ein.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronnys Region hängt am Strukturwandel. Ein Anschlussprogramm nach 2028 sichert, dass Investitionen nicht auslaufen, wenn die ersten Kohleausstiegseffekte voll spürbar werden.",
       "begruendung_selbst": "2028 — das ist nicht weit. Wenn danach das Geld weg ist und nichts Neues kommt, stirbt hier die Region. Das Anschlussprogramm ist kein Luxus, das ist Überlebensmittel.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 53 auf 33 korrigiert"
     },
     {
       "titel_selbst": "Erneuerbare plus Speicher — das ist mein Feld!",

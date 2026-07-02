@@ -35,49 +35,53 @@
       "titel_selbst": "Diskriminierungsschutz wird Gesetz",
       "thema": "demokratie",
       "programmpunkt": "Ein Landes-Antidiskriminierungsgesetz soll die Rechte Betroffener stärken.",
-      "seite": 36,
+      "seite": 23,
       "zitat": "stärken wir die Rechte der Betroffenen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin erlebt Alltagsdiskriminierung und das Gefühl, sich beweisen zu müssen; ein verbindlicher Diskriminierungsschutz gibt ihr ein konkretes Instrument an die Hand.",
       "begruendung_selbst": "Ein Gesetz im Rücken zu haben, wenn ich diskriminiert werde, ist etwas anderes als Mitgefühl. Das ist echter Schutz.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 36 auf 23 korrigiert"
     },
     {
       "titel_selbst": "Mein Pass gilt - konsequent",
       "thema": "integration",
       "programmpunkt": "Das neue Staatsangehörigkeitsrecht soll als Grundlage konsequent umgesetzt werden.",
-      "seite": 11,
+      "seite": 8,
       "zitat": "Das neue Staatsangehörigkeitsrecht schafft dafür die Grundlage und muss konsequent umgesetzt werden.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Eingebürgerte erlebt Aylin Debatten um Staatsbürgerschaft als Frage ihrer eigenen Sicherheit; das klare Bekenntnis zur konsequenten Umsetzung des neuen Rechts stützt ihren Status.",
       "begruendung_selbst": "Mein deutscher Pass darf keine Verhandlungsmasse sein. Dass das Recht konsequent angewandt wird, gibt mir Sicherheit.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 11 auf 8 korrigiert"
     },
     {
       "titel_selbst": "Klare Kante gegen Rassismus",
       "thema": "demokratie",
       "programmpunkt": "Die Landesverfassung soll Vorbild für klare Grundgesetz-Regelungen gegen Rassismus und Diskriminierung sein.",
-      "seite": 53,
+      "seite": 33,
       "zitat": "etwa mit klaren Regelungen gegen Rassismus, Antisemitismus und Diskriminierung.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin fürchtet ausgrenzende Rhetorik wie 'Remigration'; verfassungsrechtlich verankerte Regeln gegen Rassismus adressieren genau diese Bedrohung ihrer Zugehörigkeit.",
       "begruendung_selbst": "Wenn der Schutz vor Rassismus sogar in die Verfassung soll, dann ist das ein Signal, dass Menschen wie ich nicht zur Disposition stehen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 53 auf 33 korrigiert"
     },
     {
       "titel_selbst": "Vielfalt auch in meiner Verwaltung",
       "thema": "arbeit",
       "programmpunkt": "Eine moderne, demokratische Verwaltung soll für Vielfalt, Offenheit und Anerkennung stehen.",
-      "seite": 55,
+      "seite": 34,
       "zitat": "Eine moderne, demokratische Verwaltung steht für Vielfalt, Offenheit und Anerkennung.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin arbeitet selbst in der Stadtverwaltung; das Leitbild einer vielfaltsoffenen Verwaltung berührt unmittelbar ihr Berufsumfeld und ihre Anerkennung dort.",
       "begruendung_selbst": "Ich arbeite ja selbst im Amt. Eine Verwaltung, die Vielfalt als Stärke sieht, ist auch eine, in der ich fair vorankomme.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 55 auf 34 korrigiert"
     },
     {
       "titel_selbst": "Rassismuskritik in den Behörden",
@@ -89,7 +93,8 @@
       "resonanz": "bestaetigt",
       "begruendung": "Aylins wiederkehrende Erfahrung von Alltagsdiskriminierung wird ernst genommen, wenn ausgerechnet Verwaltung und Polizei rassismuskritisch geschult werden.",
       "begruendung_selbst": "Gerade in Ämtern und bei der Polizei merkt man Vorurteile. Dass dort gezielt sensibilisiert wird, ist überfällig.",
-      "beleg_ok": true
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     }
   ],
   "besonders_schlecht": [
@@ -97,13 +102,14 @@
       "titel_selbst": "Migration bleibt ein Ordnungsthema",
       "thema": "integration",
       "programmpunkt": "Im Sicherheitskapitel wird Migration unter 'Ordnung und Recht' verhandelt, mit Betonung der Regeldurchsetzung im Aufenthaltsrecht.",
-      "seite": 33,
+      "seite": 21,
       "zitat": "Ein handlungsfähiger Rechtsstaat setzt Regeln durch – auch im Aufenthaltsrecht.",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Aylin ist wachsam, dass sachliche Steuerung in pauschale Härte kippt; dass Migration im Kapitel zu innerer Sicherheit und Ordnung steht, hält für sie einen Kontroll-Rahmen aufrecht, den sie kritisch beobachtet.",
       "begruendung_selbst": "Steuert Migration meinetwegen klar - aber muss das ausgerechnet im Sicherheitskapitel stehen? Da klingt schon wieder Problem statt Mensch mit.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 33 auf 21 korrigiert"
     }
   ],
   "gesamt": {

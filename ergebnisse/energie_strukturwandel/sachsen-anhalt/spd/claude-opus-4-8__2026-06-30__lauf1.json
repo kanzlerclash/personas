@@ -41,7 +41,8 @@
       "resonanz": "bestaetigt",
       "begruendung": "Ronny ist technologieoffen und sieht in CO2-Management eine Brücke für seine Industrieregion; dass das Programm dies aktiv angeht statt pauschal abzulehnen, entspricht seiner Haltung.",
       "begruendung_selbst": "Endlich keine Technologie-Verbotsdebatte, sondern eine echte CO2-Strategie. Genau so behält meine Region eine Brücke in die Zukunft.",
-      "beleg_ok": true
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "titel_selbst": "CO2- und Wasserstoff-Infrastruktur",
@@ -59,13 +60,14 @@
       "titel_selbst": "Geld für die Kohleregion gesichert",
       "thema": "wirtschaft",
       "programmpunkt": "Für die Kohleregionen wird ein Anschlussprogramm an den Just Transition Fund ab 2028 angestrebt.",
-      "seite": 53,
+      "seite": 33,
       "zitat": "ein Anschlussprogramm an den Just Transition Fund ab 2028",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny fürchtet Perspektivlosigkeit, wenn Fördermittel auslaufen; ein gesichertes Anschlussprogramm gibt seiner Region über 2028 hinaus Planungssicherheit.",
       "begruendung_selbst": "Wenn die Strukturmittel einfach auslaufen, fällt die Region ins Loch. Ein Anschlussprogramm ist die Brücke, die wir brauchen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 53 auf 33 korrigiert"
     },
     {
       "titel_selbst": "Versorgungssicherheit mitgedacht",
@@ -97,13 +99,14 @@
       "titel_selbst": "Pfade dürfen kein starres Enddatum sein",
       "thema": "klima",
       "programmpunkt": "Ein Klimaschutzgesetz soll verbindliche Reduktionspfade für Treibhausemissionen festlegen.",
-      "seite": 22,
+      "seite": 15,
       "zitat": "Reduktionspfade für Treibhausemissionen",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Ronnys Grundskepsis gilt Ausstiegsdaten ohne tragfähigen Ersatz; verbindlich festgelegte Reduktionspfade wecken bei ihm die Sorge, dass Termine den realen Aufbau von Ersatz überholen, auch wenn das Programm parallel investiert.",
       "begruendung_selbst": "Verbindliche Pfade sind okay, solange sie sich am Aufbau orientieren und nicht am Kalender. Sonst reißt man die alte Brücke ab, bevor die neue steht.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 22 auf 15 korrigiert"
     }
   ],
   "gesamt": {

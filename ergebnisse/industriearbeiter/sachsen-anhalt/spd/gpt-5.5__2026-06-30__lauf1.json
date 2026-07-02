@@ -24,25 +24,27 @@
       "titel_selbst": "Ohne Industrie keine Zukunft",
       "thema": "wirtschaft",
       "programmpunkt": "Die SPD stellt Industrie, Wertschöpfung und Beschäftigung ins Zentrum und will Sachsen-Anhalt als starkes Industrieland erhalten.",
-      "seite": 4,
+      "seite": 5,
       "zitat": "„Sachsen - Anhalt ist ein Industrieland.“",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe lebt davon, dass der industrielle Kern im Land politisch nicht abgeschrieben wird. Dass die SPD den Industriestandort ausdrücklich als Grundlage von Beschäftigung und Perspektive beschreibt, trifft seinen zentralen Maßstab.",
       "begruendung_selbst": "Ich will nicht hören, dass wir ein Auslaufmodell sind. Wenn Sachsen-Anhalt Industrieland bleiben soll, dann ist das erstmal die richtige Ansage.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 4 auf 5 korrigiert"
     },
     {
       "titel_selbst": "Tarif muss zählen",
       "thema": "arbeit",
       "programmpunkt": "Die SPD will Tarifbindung, Betriebsräte, Arbeitnehmerrechte und Sanktionen gegen Behinderung von Mitbestimmung stärken.",
-      "seite": 8,
+      "seite": 7,
       "zitat": "„Tarifbindung und betriebliche Mitbestimmung sind entscheidend“",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Gewerkschafter und Betriebsrat bewertet Uwe Politik stark danach, ob sie Tarifverträge und Mitbestimmung schützt. Die klare Absage an Schwächung des Tariftreuegesetzes und die Unterstützung von Betriebsräten entsprechen seiner Haltung direkt.",
       "begruendung_selbst": "Ohne Tarif und Betriebsrat bist du im Betrieb schnell allein. Dass die da klare Kante zeigen, gefällt mir.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 8 auf 7 korrigiert"
     },
     {
       "titel_selbst": "Chemie bleibt Chefsache",
@@ -72,13 +74,14 @@
       "titel_selbst": "Wandel nur mit Schutz",
       "thema": "arbeit",
       "programmpunkt": "Die SPD verspricht regionale Unterstützung, Qualifizierung und schnelle Hilfe für Beschäftigte, die durch Strukturwandel ihren Arbeitsplatz verlieren.",
-      "seite": 8,
+      "seite": 7,
       "zitat": "„möglichst regionale Unterstützungsangebote“",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe ist nicht grundsätzlich gegen Wandel, aber er will Absicherung statt Absturz. Regionale Angebote und Qualifizierung sprechen seine Sorge an, dass Beschäftigte bei Transformation allein gelassen werden.",
       "begruendung_selbst": "Wenn einer rausfällt, muss es vor Ort weitergehen. Nicht mit schönen Worten, sondern mit echter Hilfe.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 8 auf 7 korrigiert"
     },
     {
       "titel_selbst": "Gewerkschaften an den Tisch",
@@ -96,25 +99,27 @@
       "titel_selbst": "Bürokratie raus aus Betrieben",
       "thema": "demokratie",
       "programmpunkt": "Die SPD will Berichtspflichten, Doppelbelastungen und Dokumentationspflichten für Betriebe reduzieren und Förderprogramme leichter zugänglich machen.",
-      "seite": 4,
+      "seite": 5,
       "zitat": "„Dokumentationspflichten werden vereinfacht oder abgeschafft.“",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe ist zwar Industriearbeiter, erlebt aber im Betrieb, dass komplizierte Verfahren Investitionen und Umbauten ausbremsen können. Der Bürokratieabbau passt zu seinem Wunsch nach praktischer Industriepolitik statt Papierlast.",
       "begruendung_selbst": "Wenn wir umbauen und investieren sollen, darf uns der Papierkram nicht die Luft nehmen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 4 auf 5 korrigiert"
     },
     {
       "titel_selbst": "Europa hilft der Chemie",
       "thema": "wirtschaft",
       "programmpunkt": "Die SPD will Sachsen-Anhalt wieder im Netzwerk der Europäischen Chemieregionen aktiv beteiligen und europäische Kooperationen für Industrie und Strukturwandel nutzen.",
-      "seite": 52,
+      "seite": 32,
       "zitat": "„Netzwerk der Europäischen Chemieregionen“",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Uwe ist die Chemieindustrie nicht nur ein lokaler Betrieb, sondern Teil europäischer Wertschöpfung. Kooperationen mit anderen Chemieregionen können aus seiner Sicht helfen, Standortinteressen stärker zu vertreten.",
       "begruendung_selbst": "Unsere Chemie hängt an Europa. Wenn das Netzwerk dem Standort hilft, sollen sie da nicht abseitsstehen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 52 auf 32 korrigiert"
     }
   ],
   "besonders_schlecht": [
@@ -146,13 +151,14 @@
       "titel_selbst": "Reduktionspfade machen Druck",
       "thema": "klima",
       "programmpunkt": "Die SPD will ein Klimaschutzgesetz mit verbindlichen Reduktionspfaden für Treibhausgasemissionen einführen.",
-      "seite": 22,
+      "seite": 15,
       "zitat": "„Reduktionspfade für Treibhausemissionen“",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Uwe sieht verbindliche Klimapfade ambivalent: Planungssicherheit ist gut, aber starre Vorgaben können für energieintensive Betriebe Druck erzeugen. Aus seiner Perspektive fehlt an dieser Stelle der konkrete Jobschutz stärker als in den industriepolitischen Passagen.",
       "begruendung_selbst": "Planung ist in Ordnung, aber starre Pfade dürfen nicht heißen: Betrieb dicht, Leute raus.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 22 auf 15 korrigiert"
     }
   ],
   "gesamt": {

@@ -23,25 +23,27 @@
       "titel_selbst": "Warmes Essen für alle Kinder",
       "thema": "familie",
       "programmpunkt": "Ein kostenloses, gesundes, warmes Mittagessen für alle Kinder in Kita und Schule wird angestrebt.",
-      "seite": 27,
+      "seite": 18,
       "zitat": "ein kostenloses, gesundes und warmes Mittagessen für alle Kinder und Jugendliche",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Bei Nadines knappem Budget ist jede zusätzliche Ausgabe ein Problem; ein kostenloses warmes Mittagessen entlastet sie finanziell und sichert ihren Kindern eine ordentliche Mahlzeit.",
       "begruendung_selbst": "Ein warmes Essen, um das ich mich nicht sorgen muss - das nimmt mir echten Druck und tut meinen Kindern gut.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 27 auf 18 korrigiert"
     },
     {
       "titel_selbst": "Kindergrundsicherung, endlich",
       "thema": "gesundheit",
       "programmpunkt": "Eine bedarfsgerechte Kindergrundsicherung soll Leistungen bündeln und existenzsichernd wirken.",
-      "seite": 27,
+      "seite": 18,
       "zitat": "Eine bedarfsgerechte Kindergrundsicherung, die Leistungen bündelt",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine jongliert Einkommen, Sozialleistungen und Unterhaltsvorschuss; eine gebündelte, existenzsichernde Kindergrundsicherung würde ihren Behördenmarathon vereinfachen und ihre Lage absichern.",
       "begruendung_selbst": "Endlich eine Leistung aus einer Hand statt drei Anträge bei drei Stellen. Und wenn sie wirklich zum Leben reicht, umso besser.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 27 auf 18 korrigiert"
     },
     {
       "titel_selbst": "Betreuung, die zu meiner Arbeit passt",
@@ -53,43 +55,47 @@
       "resonanz": "bestaetigt",
       "begruendung": "Ohne verlässliche Betreuung kann Nadine nicht mehr arbeiten; ein nicht verhandelbarer Rechtsanspruch auf lange Betreuungszeiten trifft die Grundbedingung ihrer Vereinbarkeit.",
       "begruendung_selbst": "Gebt mir verlässliche Betreuungszeiten, dann kann ich auch mehr arbeiten. Genau das steht hier - und es soll nicht verhandelbar sein.",
-      "beleg_ok": true
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "titel_selbst": "Unterstützen statt verdächtigen",
       "thema": "gesundheit",
       "programmpunkt": "Soziale Sicherungssysteme sollen unterstützen, nicht stigmatisieren, Hilfe schnell und unbürokratisch sein.",
-      "seite": 15,
+      "seite": 10,
       "zitat": "Soziale Sicherungssysteme sollen unterstützen, nicht stigmatisieren.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine will Respekt statt Misstrauen; das Bekenntnis zu nicht-stigmatisierenden Sozialsystemen trifft genau ihr Bedürfnis, nicht als Bittstellerin behandelt zu werden.",
       "begruendung_selbst": "Ich arbeite und kümmere mich. Dass mir der Staat hilft, ohne mich wie eine Schmarotzerin zu behandeln, ist mir genauso wichtig wie das Geld.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 15 auf 10 korrigiert"
     },
     {
       "titel_selbst": "Mein Familienmodell zählt auch",
       "thema": "familie",
       "programmpunkt": "Alleinerziehende, Patchwork-, Regenbogen- und Pflegefamilien werden ausdrücklich als selbstverständlicher Teil der Familienvielfalt anerkannt.",
-      "seite": 26,
+      "seite": 18,
       "zitat": "Alleinerziehende, Patchwork - , Regenbogen - und Pflegefamilien gehören selbstverständlich dazu.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine ist empfindlich, wenn ihr Lebensmodell als 'nicht richtig' behandelt wird; die ausdrückliche Anerkennung Alleinerziehender als normale Familie bestätigt ihre Würde.",
       "begruendung_selbst": "Wir sind eine Familie, Punkt. Schön, dass das hier nicht erst erklärt werden muss, sondern selbstverständlich ist.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 26 auf 18 korrigiert"
     },
     {
       "titel_selbst": "Entlastung bei mehreren Kindern",
       "thema": "bildung",
       "programmpunkt": "Eltern mit mehreren Kindern sollen kurzfristig entlastet werden, Ziel bleibt Beitragsfreiheit.",
-      "seite": 28,
+      "seite": 18,
       "zitat": "die Entlastung von Eltern mit mehreren Kindern gesichert",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mit zwei Kindern treffen Nadine Betreuungsbeiträge doppelt; eine gesicherte Entlastung für Mehrkindfamilien wirkt direkt auf ihr enges Monatsbudget.",
       "begruendung_selbst": "Bei zwei Kindern summiert sich alles. Jeder Euro weniger bei den Beiträgen ist bei mir am Monatsende spürbar.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 28 auf 18 korrigiert"
     }
   ],
   "besonders_schlecht": [
@@ -97,25 +103,27 @@
       "titel_selbst": "Wieder Aktivieren statt Vertrauen",
       "thema": "arbeit",
       "programmpunkt": "Die Grundsicherung wird als Instrument der Aktivierung, Qualifizierung und Vermittlung verstanden.",
-      "seite": 10,
+      "seite": 8,
       "zitat": "Die Grundsicherung ist dabei Instrument der Aktivierung, Qualifizierung und Vermittlung.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Nadine reagiert empfindlich auf 'Fördern und Fordern'-Logik, weil sie sich verdächtigt fühlt, obwohl sie arbeitet; die Aktivierungs-Sprache kann sie als erneutes Misstrauen lesen, trotz des Würde-Versprechens an anderer Stelle.",
       "begruendung_selbst": "Aktivieren und vermitteln - ich arbeite doch schon. Manchmal fühlt sich das an, als müsste ich erst beweisen, dass ich nicht faul bin.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 10 auf 8 korrigiert"
     },
     {
       "titel_selbst": "Arbeit allein reicht mir nicht",
       "thema": "familie",
       "programmpunkt": "Gute Arbeit der Eltern wird als wirksamster Schutz vor Kinderarmut benannt.",
-      "seite": 27,
+      "seite": 18,
       "zitat": "Gute Arbeit der Eltern bleibt der wirksamste Schutz vor Kinderarmut.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Nadine arbeitet und stockt trotzdem auf; die Betonung von Arbeit als zentralem Armutsschutz blendet aus ihrer Sicht aus, dass auch arbeitende Alleinerziehende nicht über die Runden kommen.",
       "begruendung_selbst": "Ich arbeite und es reicht trotzdem nicht. Mir zu sagen, Arbeit schütze vor Armut, geht an meinem Alltag vorbei.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 27 auf 18 korrigiert"
     }
   ],
   "gesamt": {

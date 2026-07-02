@@ -211,7 +211,7 @@ const add = (pfad: string, titel: string, beschr: string, body: string) => seite
   const readP = (p: string) => { try { return readFileSync(join(ROOT, p), "utf8").replace(/^<!--[\s\S]*?-->\s*/, "").trim(); } catch { return "(Datei nicht gefunden)"; } };
   const promptVergleich = readP("prompts/vergleich.v1.md");
   const promptVorlage = readP("prompts/llm-cli-vorlage.md");
-  const SEITEN: Record<string, number> = { cdu: 91, spd: 61, gruene: 100, afd: 20, fdp: 76, linke: 150, bsw: 90 };
+  const SEITEN: Record<string, number> = { cdu: 91, spd: 37, gruene: 100, afd: 20, fdp: 76, linke: 150, bsw: 90 };
   const AUSF: Record<string, string> = {
     "claude-opus-4-8": "Claude-Code-Subagenten (lokal, ohne Gateway)",
     "claude-sonnet-4-6": "Claude-Code-Subagenten (lokal, ohne Gateway)",

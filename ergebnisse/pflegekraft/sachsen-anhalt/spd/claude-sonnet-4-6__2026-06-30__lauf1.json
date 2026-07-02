@@ -23,49 +23,53 @@
       "titel_selbst": "Personaluntergrenzen — das ist der Kern!",
       "thema": "gesundheit",
       "programmpunkt": "Um Arbeitsbedingungen in Krankenhäusern zu verbessern, setzt die SPD auf sinnvolle Personaluntergrenzen im ärztlichen Bereich und der Pflege.",
-      "seite": 12,
+      "seite": 9,
       "zitat": "setzen wir auf sinnvolle Personaluntergrenzen im ärztlichen Bereich und der Pflege.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstins tägliche Überlastung kommt aus chronischer Unterbesetzung. Personaluntergrenzen würden direkt ihre Arbeitsbelastung senken und die Patientensicherheit erhöhen — das ist für sie die wichtigste strukturelle Maßnahme überhaupt.",
       "begruendung_selbst": "Personaluntergrenzen sind nicht schön zu haben — die sind überlebenswichtig. Wenn ich weiß, dass nie weniger als X Pflegekräfte auf Station sein dürfen, dann kann ich endlich durchatmen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
     },
     {
       "titel_selbst": "Anerkennungsverfahren werden beschleunigt!",
       "thema": "integration",
       "programmpunkt": "Die Anerkennung ausländischer Abschlüsse soll beschleunigt werden; Verfahren werden vereinfacht, Beratungsdienste unterstützen Fachkräfte.",
-      "seite": 10,
+      "seite": 8,
       "zitat": "Die Anerkennung ausländischer Abschlüsse bleibt eine zentrale Herausforderung. Verfahren werden beschleunigt, Berufserfahrungen stärker berücksichtigt.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstins migrantische Kolleg:innen kämpfen oft jahrelang um die Anerkennung ihrer Abschlüsse. Schnellere Verfahren bedeuten, dass ihre Station früher vollständig besetzt sein kann.",
       "begruendung_selbst": "Meine Kolleginnen aus dem Ausland sind top ausgebildet — aber ihr Abschluss hängt monate- oder jahrelang im Behördenapparat. Wenn das schneller geht, kommen sie früher auf die Station.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 10 auf 8 korrigiert"
     },
     {
       "titel_selbst": "Privatisierung stoppen — Versorgung sichern!",
       "thema": "wirtschaft",
       "programmpunkt": "Wo private Träger sich aus der stationären Versorgung zurückziehen, soll die notwendige Versorgung abgesichert werden; das Land unterstützt Rekommunalisierungen.",
-      "seite": 12,
+      "seite": 9,
       "zitat": "Dort, wo sich insbesondere private Träger aus der relevanten stationären Versorgung zurückziehen, muss die notwendige Versorgung abgesichert werden.",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin erlebt täglich, wie Renditedruck auf private Krankenhausträger die Pflegequalität und Besetzung verschlechtert. Das Bekenntnis, Privatisierungsfolgen durch Rekommunalisierung abzumildern, entspricht ihrer Grundhaltung.",
       "begruendung_selbst": "Wenn ein privater Träger geht, weil sich der Standort nicht 'rechnet', bleibt das Pflegepersonal zurück. Dass das Land dann einspringt — das ist das Mindeste.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
     },
     {
       "titel_selbst": "Entbürokratisierung der Pflege — bitte!",
       "thema": "gesundheit",
       "programmpunkt": "Die SPD will Doppelprüfungen durch MDK und Heimaufsicht abschaffen und Dokumentationspflichten auf das Wesentliche konzentrieren.",
-      "seite": 14,
+      "seite": 10,
       "zitat": "Wir setzen uns für eine Entbürokratisierung der Pflege ein, Doppelprüfungen durch MDK und Heimaufsicht sind abzuschaffen.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin verbringt zu viel Zeit mit Dokumentation statt bei Patient:innen. Die Abschaffung von Doppelprüfungen und eine Konzentration auf das Wesentliche gibt ihr direkt mehr Zeit für ihre eigentliche Arbeit.",
       "begruendung_selbst": "Ich bin Pflegerin, keine Schreibkraft. Jede Minute weniger Doppeldokumentation ist eine Minute mehr für meine Patienten.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
     }
   ],
   "besonders_schlecht": [
@@ -73,13 +77,14 @@
       "titel_selbst": "Schöne Worte ohne Personal kenn ich schon.",
       "thema": "gesundheit",
       "programmpunkt": "Die SPD will sich im Bundesrat für eine echte Pflegereform einsetzen; auf Landesebene bleibt die konkrete Lösung des Personalproblems begrenzt.",
-      "seite": 14,
+      "seite": 10,
       "zitat": "Wir setzen uns im Bundesrat für eine echte Pflegereform auf Bundesebene ein.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Kerstin kennt die Sonntagsreden. Das Bekenntnis zu einer Bundesratsinitiative für eine Pflegereform ist zwar ehrlich über die Grenzen der Landeskompetenz, aber für sie als Einzelperson auf der überlasteten Station ohne unmittelbare Entlastung.",
       "begruendung_selbst": "Schickt uns Personal, keine Sonntagsreden. Bundesratsinitiative — das hör ich seit Jahren. Wann kommt es auf meiner Station an?",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
     }
   ],
   "gesamt": {

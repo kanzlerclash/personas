@@ -23,49 +23,53 @@
       "titel_selbst": "Landarztquote sichert Nachfolge!",
       "thema": "gesundheit",
       "programmpunkt": "Landarzt-, Amtsarzt- und Landzahnarztquote werden fortgeführt; Studienpläze in Human- und Zahnmedizin wurden erhöht.",
-      "seite": 14,
+      "seite": 10,
       "zitat": "Landarzt-, Amtsarzt- und Landzahnarztquote werden fortgeführt.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Petras größte Sorge ist, dass ihre Praxis bei Renteneintritt keinen Nachfolger findet. Die Landarztquote zielt darauf, Ärztinnen und Ärzte gezielt für die ländliche Versorgung auszubilden und zu binden — das ist ihr direkter Berufsnachwuchs.",
       "begruendung_selbst": "Wenn ich in Rente gehe, steht hier niemand bereit. Die Landarztquote sorgt zumindest dafür, dass ausgebildete Ärzte überhaupt verpflichtet sind, aufs Land zu gehen. Das ist mehr als nichts.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
     },
     {
       "titel_selbst": "Telemedizin entlastet meine Arbeit!",
       "thema": "gesundheit",
       "programmpunkt": "Digitale Instrumente wie Telemedizin und das telemedizinische Netzwerk TeleSAN ergänzen die Versorgung; positive Erfahrungen werden in der Fläche ausgerollt.",
-      "seite": 12,
+      "seite": 9,
       "zitat": "Digitale Instrumente wie Telemedizin, das telemedizinische Netzwerk TeleSAN, das Versorgungssteuerungssystem IVENA, der Telenotarzt und Gemeindenotfallsanitäter ergänzen die Versorgung.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Petra kann nicht jeden Patienten persönlich sehen — gerade für Nachfolgekonsultationen und Kontrolltermine bei mobilitätseingeschränkten älteren Patienten ist Telemedizin eine echte Entlastung ihrer Kapazität.",
       "begruendung_selbst": "Ich behandle gern Menschen. Aber wenn ich für jeden Kontrolltermin im Auto sitze, verlier ich Kapazität. Telemedizin für Routinechecks — das ist Entlastung, nicht Qualitätsverlust.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
     },
     {
       "titel_selbst": "Ärzte übernehmen mehr Verantwortung — endlich!",
       "thema": "gesundheit",
       "programmpunkt": "Gesundheitsberufe sollen künftig mehr Verantwortung durch Aufgabenverlagerung in der medizinischen Versorgung übernehmen — auch zur Entlastung von Ärztinnen und Ärzten.",
-      "seite": 12,
+      "seite": 9,
       "zitat": "Wir unterstützen, dass Gesundheitsberufe künftig mehr Verantwortung u.a. durch Aufgabenverlagerung in der medizinischen Versorgung übernehmen – auch zur Entlastung von Ärztinnen und Ärzten.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Petra verbringt zu viel Zeit mit Aufgaben, die gut ausgebildete MFAs oder Pflegefachkräfte übernehmen könnten. Aufgabenverlagerung würde ihre Kapazität für tatsächlich ärztliche Tätigkeiten erhöhen.",
       "begruendung_selbst": "Nicht jede Blutdruckmessung braucht mich. Wenn Pflegefachkräfte und MFAs mehr dürfen, kann ich mich auf das konzentrieren, wofür ich studiert hab — und vielleicht bleib ich dann nicht bis 70.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
     },
     {
       "titel_selbst": "Doppelprüfungen abschaffen — in der Pflege gilt das auch für mich!",
       "thema": "demokratie",
       "programmpunkt": "Verwaltungshandeln wird vereinfacht; mit der Neuordnung der Gesundheits- und Sozialverwaltung soll die Antragsbearbeitung verkürzt werden.",
-      "seite": 16,
+      "seite": 11,
       "zitat": "Mit der Neuordnung der Gesundheits- und Sozialverwaltung werden wir das Verwaltungshandeln deutlich vereinfachen und die Antragsbearbeitung verkürzen.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Petra kämpft täglich mit Bürokratie in der Gesundheitsverwaltung. Vereinfachte Antragsbearbeitung und weniger Verwaltungsaufwand würden ihr direkt Arbeitszeit zurückgeben.",
       "begruendung_selbst": "Ich verbring halbe Tage mit Formularen und einer Technik, die nicht läuft. Wenn die Gesundheitsverwaltung endlich entrümpelt wird, ist das kein Luxus — das ist Überlebenshilfe für eine Landpraxis.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 16 auf 11 korrigiert"
     }
   ],
   "besonders_schlecht": [
@@ -73,13 +77,14 @@
       "titel_selbst": "KV-Bürokratie und Regress — kein Wort!",
       "thema": "gesundheit",
       "programmpunkt": "Das Programm adressiert nicht explizit die Bürokratie in niedergelassenen Praxen durch Kassenärztliche Vereinigung, Regressangst und Abrechnungspflichten.",
-      "seite": 12,
+      "seite": 9,
       "zitat": "Ambulante und stationäre Versorgung müssen stärker miteinander verzahnt werden.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Petras tägliche Bürokratie stammt nicht aus der Landesverwaltung, sondern aus dem Kassenrecht: Budgetierung, Regressangst, Quartalsabrechnung. Diese Problemlage ist Bundesrecht und wird im Programm nicht adressiert.",
       "begruendung_selbst": "Mein Praxisbüro brennt wegen KV-Abrechnungen, Budgetierungen und Regressdrohungen. Das ist Bundesrecht — und deshalb steht davon kein Wort hier. Ich versteh das, aber es ändert nichts an meiner Alltagsbelastung.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
     }
   ],
   "gesamt": {

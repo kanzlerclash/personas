@@ -23,25 +23,27 @@
       "titel_selbst": "Mobilitätsgarantie für alle Regionen!",
       "thema": "verkehr",
       "programmpunkt": "Die SPD will eine Mobilitätsgarantie für alle Regionen Sachsen-Anhalts, mit Stärkung von Bus und Bahn auch in ländlichen Gebieten.",
-      "seite": 41,
+      "seite": 26,
       "zitat": "Ziel ist eine Mobilitätsgarantie für alle Regionen.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralfs Dorf hat keinen brauchbaren ÖPNV. Das Versprechen einer Mobilitätsgarantie für alle Regionen adressiert seine Lage direkt — auch wenn er skeptisch ist, ob es umgesetzt wird.",
       "begruendung_selbst": "Wenn endlich ein Bus fährt, könnten wir das zweite Auto einsparen. Das wäre eine echte Erleichterung für unseren Geldbeutel.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 41 auf 26 korrigiert"
     },
     {
       "titel_selbst": "Führerschein günstiger — das hilft!",
       "thema": "verkehr",
       "programmpunkt": "Der Führerschein soll günstiger werden, weil er im ländlichen Raum oft Voraussetzung für den Berufseinstieg ist.",
-      "seite": 9,
+      "seite": 8,
       "zitat": "Da er in vielen Fällen für den Berufseinstieg notwendig ist, muss der Führerschein günstiger werden.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf sieht die Führerscheinkosten als Last für junge Menschen und Familien. Auch für seine Kinder, die bald in die Ausbildung kommen, wäre eine Vergünstigung direkt spürbar.",
       "begruendung_selbst": "Meine Kinder müssen den Führerschein machen — das kostet uns schnell 2.000 Euro. Wenn das günstiger wird, ist das echtes Geld.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 9 auf 8 korrigiert"
     },
     {
       "titel_selbst": "Stromsteuer senken — gut für mich!",
@@ -74,13 +76,14 @@
       "titel_selbst": "ÖPNV schön und gut — bei mir fährt keiner!",
       "thema": "verkehr",
       "programmpunkt": "Das Programm fokussiert stark auf ÖPNV-Ausbau in bestehenden Netzen und Städten; die tatsächliche Lücke im ländlichen Raum wird zwar benannt, aber mit wenig Konkretem gefüllt.",
-      "seite": 41,
+      "seite": 26,
       "zitat": "Dazu gehören die Sicherung der bestehenden Straßenbahnnetze, die Förderung der Neuanschaffung von Straßenbahnen und Bussen.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Toralf wohnt in einem Dorf ohne nennenswerten ÖPNV. Die genannten Maßnahmen betreffen primär bestehende Straßenbahnnetze und Buslinien in Städten — sein Alltag als Autofahrer ohne Alternative wird damit nicht gelöst.",
       "begruendung_selbst": "Straßenbahnen — ich wohn im Dorf. Was nützen mir Straßenbahnen in Halle, wenn ich hier keinen Bus hab und auch keinen kriegen werde?",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 41 auf 26 korrigiert"
     }
   ],
   "gesamt": {

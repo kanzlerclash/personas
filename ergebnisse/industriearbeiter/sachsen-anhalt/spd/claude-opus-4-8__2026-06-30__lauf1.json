@@ -23,37 +23,40 @@
       "titel_selbst": "Tariflöhne in allen Branchen",
       "thema": "arbeit",
       "programmpunkt": "Die SPD setzt sich für Tariflöhne in allen Branchen und den Schutz vor prekärer Beschäftigung ein.",
-      "seite": 4,
+      "seite": 5,
       "zitat": "Tariflöhne in allen Branchen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Gewerkschafter mit tarifgebundenem Einkommen ist gute, fair entlohnte Arbeit Uwes Kernwert; das ausdrückliche Bekenntnis zu Tariflöhnen trifft sein zentrales Anliegen.",
       "begruendung_selbst": "Tarif ist für mich keine Verhandlungssache. Wenn das in allen Branchen gelten soll, kämpft die Partei für genau das, wofür ich stehe.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 4 auf 5 korrigiert"
     },
     {
       "titel_selbst": "Tariftreue bei der Vergabe",
       "thema": "arbeit",
       "programmpunkt": "Mit dem Tariftreue- und Vergabegesetz wird die Tarifbindung im Land gestärkt und nicht abgeschafft.",
-      "seite": 8,
+      "seite": 7,
       "zitat": "Mit dem Tariftreue - und Vergabegesetz stärken wir die Tarifbindung im Land.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe verteidigt gute Löhne und Tarifbindung; ein Gesetz, das öffentliche Aufträge an Tariftreue knüpft, ist aus seiner gewerkschaftlichen Sicht genau das richtige Instrument.",
       "begruendung_selbst": "Wer öffentliche Aufträge will, soll Tarif zahlen. Punkt. Dass das festgeschrieben und nicht aufgeweicht wird, ist ein starkes Signal.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 8 auf 7 korrigiert"
     },
     {
       "titel_selbst": "Mitbestimmung wird verteidigt",
       "thema": "arbeit",
       "programmpunkt": "Unternehmen, die Mitbestimmung behindern, sollen von Förderung ausgeschlossen werden.",
-      "seite": 8,
+      "seite": 7,
       "zitat": "Unternehmen, die Mitbestimmung systematisch behindern, sollen von staatlichen Förderungen ausgeschlossen werden",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Mitbestimmung ist für den Betriebsrat Uwe zentral; dass Mitbestimmungsverweigerer Förderungen verlieren sollen, gibt seiner Arbeit Rückhalt durch das Land.",
       "begruendung_selbst": "Endlich Konsequenzen für Betriebe, die Betriebsräte verhindern. Das stärkt uns den Rücken bei der Arbeit.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 8 auf 7 korrigiert"
     },
     {
       "titel_selbst": "Die Chemie bleibt unser Brot",
@@ -97,13 +100,14 @@
       "titel_selbst": "Falsches Tempo gefährdet Jobs",
       "thema": "klima",
       "programmpunkt": "Ein Klimaschutzgesetz mit verbindlichen Reduktionspfaden soll Verbindlichkeit schaffen.",
-      "seite": 22,
+      "seite": 15,
       "zitat": "Ein Klimaschutzgesetz schafft Verbindlichkeit",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Uwe trägt die Richtung mit, fürchtet aber das Tempo; verbindliche Reduktionspfade für emissionsintensive Branchen wie die Chemie wecken bei ihm die Sorge, dass Vorgaben schneller greifen, als tragfähiger Ersatz da ist.",
       "begruendung_selbst": "Verbindliche Pfade klingen gut am Schreibtisch. Aber wenn der Druck schneller kommt als der Umbau, kostet das in meiner Branche Arbeitsplätze.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 22 auf 15 korrigiert"
     }
   ],
   "gesamt": {

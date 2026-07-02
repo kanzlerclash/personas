@@ -23,73 +23,79 @@
       "titel_selbst": "Personaluntergrenzen, endlich",
       "thema": "gesundheit",
       "programmpunkt": "Im ärztlichen Bereich und in der Pflege sollen sinnvolle Personaluntergrenzen gelten.",
-      "seite": 12,
+      "seite": 9,
       "zitat": "sinnvolle Personaluntergrenzen im ärztlichen Bereich und der Pflege.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstins Hauptleiden ist die chronische Unterbesetzung; Personaluntergrenzen zielen direkt auf den Personalschlüssel, an dem ihr Arbeitsalltag hängt.",
       "begruendung_selbst": "Personaluntergrenzen - genau das fehlt. Wenn endlich vorgegeben wird, wie viele wir mindestens sein müssen, atmet meine Station auf.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
     },
     {
       "titel_selbst": "Versorgung vor Rendite",
       "thema": "wirtschaft",
       "programmpunkt": "Die Krankenhauslandschaft soll sich an Qualität und Erreichbarkeit orientieren, nicht an Kapitalinteressen.",
-      "seite": 12,
+      "seite": 9,
       "zitat": "die sich an den Kriterien Qualität, Erreichbarkeit und Wirtschaftlichkeit orientiert und nicht an Kapitalinteressen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin sieht in Ökonomisierung und Privatisierung den Treiber ihrer Überlastung; eine an Versorgung statt an Kapitalinteressen ausgerichtete Krankenhauspolitik entspricht ihrer Haltung.",
       "begruendung_selbst": "Wenn nicht mehr die Rendite den Takt vorgibt, sondern die Versorgung, dann ändert sich auf Station endlich was zum Besseren.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
     },
     {
       "titel_selbst": "Bezahlung und Dienstpläne ernst genommen",
       "thema": "arbeit",
       "programmpunkt": "Faire Bezahlung, verlässliche Dienstpläne und gute Ausbildung werden als entscheidend für die Pflege benannt.",
-      "seite": 14,
+      "seite": 10,
       "zitat": "Faire Bezahlung, verlässliche Dienstpläne sowie gute Ausbildung und Fortbildung",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin empfindet ihre Bezahlung gemessen an der Belastung als zu niedrig und leidet unter unzuverlässigen Plänen; das Programm benennt genau diese Stellschrauben.",
       "begruendung_selbst": "Faire Bezahlung und verlässliche Dienstpläne - das ist es, was uns hält. Endlich steht das mal als Priorität da.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
     },
     {
       "titel_selbst": "Meine Kolleginnen dürfen bleiben",
       "thema": "integration",
       "programmpunkt": "Wer eine Ausbildung begonnen hat oder existenzsichernd arbeitet, soll bleiben können.",
-      "seite": 11,
+      "seite": 8,
       "zitat": "Wer eine Ausbildung begonnen hat oder einer lebensunterhaltssichernden Beschäftigung nachgeht, soll bleiben können.",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstins Station liefe ohne migrantische Kolleg:innen nicht; eine klare Bleibeperspektive für arbeitende und ausgebildete Zugewanderte schützt direkt ihr Team und damit die Versorgung.",
       "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht. Dass sie bleiben dürfen, ist für uns überlebenswichtig.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 11 auf 8 korrigiert"
     },
     {
       "titel_selbst": "Keine Arbeitsverbote",
       "thema": "integration",
       "programmpunkt": "Arbeitsverbote für Zugewanderte werden abgelehnt, die Anerkennung ausländischer Abschlüsse beschleunigt.",
-      "seite": 10,
+      "seite": 8,
       "zitat": "Arbeitsverbote lehnen wir ab.",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin erlebt einen harten Migrationskurs als Angriff auf ihre Belegschaft; die klare Ablehnung von Arbeitsverboten stützt die Menschen, die ihre Versorgung tragen.",
       "begruendung_selbst": "Leute, die arbeiten wollen und gebraucht werden, mit Arbeitsverboten zu blockieren, ist doch absurd. Gut, dass das hier abgelehnt wird.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 10 auf 8 korrigiert"
     },
     {
       "titel_selbst": "Schluss mit Doppelprüfungen",
       "thema": "gesundheit",
       "programmpunkt": "Die Pflege soll entbürokratisiert, Doppelprüfungen durch MDK und Heimaufsicht abgeschafft werden.",
-      "seite": 14,
+      "seite": 10,
       "zitat": "Doppelprüfungen durch MDK und Heimaufsicht sind abzuschaffen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Dokumentation und Mehrfachkontrollen fressen Kerstins ohnehin knappe Zeit; der Abbau von Doppelprüfungen verspricht spürbare Entlastung im Arbeitsalltag.",
       "begruendung_selbst": "Wir dokumentieren uns zu Tode und werden zweimal geprüft. Wenn das wegfällt, bleibt mehr Zeit für die Patienten.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
     }
   ],
   "besonders_schlecht": [
@@ -97,13 +103,14 @@
       "titel_selbst": "Wieder nur 'in Berlin einsetzen'",
       "thema": "gesundheit",
       "programmpunkt": "Für die strukturelle Pflegefinanzierung will man sich im Bundesrat für eine Reform auf Bundesebene einsetzen.",
-      "seite": 14,
+      "seite": 10,
       "zitat": "Wir setzen uns im Bundesrat für eine echte Pflegereform auf Bundesebene ein.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Kerstin ist ernüchtert von Ankündigungen ohne strukturelle Wirkung; dass die entscheidende Pflegefinanzierung auf die Bundesebene verschoben wird, lässt sie das konkrete Landeshandeln vermissen.",
       "begruendung_selbst": "Sich im Bundesrat einsetzen - das kenne ich. Am Ende klatschen alle und auf meiner Station ändert sich erst mal nichts.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
     }
   ],
   "gesamt": {

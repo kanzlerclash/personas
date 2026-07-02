@@ -23,25 +23,27 @@
       "titel_selbst": "Mein gutes Recht auf Teilzeit!",
       "thema": "arbeit",
       "programmpunkt": "Die Partei positioniert sich eindeutig für den Erhalt von Arbeitnehmerrechten und bekennt sich dabei ausdrücklich zum Anspruch auf Teilzeitarbeit.",
-      "seite": 4,
+      "seite": 5,
       "zitat": "Dabei stehen wir klar zum Acht-Stunden-Tag ebenso wie zum Anspruch auf Teilzeitarbeit.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine ist wegen der Betreuung ihrer zwei Kinder auf Teilzeitarbeit angewiesen. Dass die Partei dieses Arbeitsmodell als legitimen Anspruch und nicht als Defizit formuliert, gibt ihr Sicherheit und Anerkennung.",
       "begruendung_selbst": "Ich kann nicht Vollzeit arbeiten, solange die Kinder klein sind. Gut, dass das als mein Anspruch gesehen wird und nicht als Faulheit.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 4 auf 5 korrigiert"
     },
     {
       "titel_selbst": "Betreuung, wenn ich arbeite!",
       "thema": "familie",
       "programmpunkt": "Es wird ein Ausbau von Kitas mit flexiblen Öffnungszeiten gefordert, um insbesondere die Betreuung in Randzeiten zu gewährleisten.",
-      "seite": 27,
+      "seite": 18,
       "zitat": "werden Kitas mit flexiblen Öffnungszeiten auch in Randzeiten benötigt. Deren Ausbau unterstützen wir.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Alleinerziehende im flexiblen Dienst kämpft Nadine oft damit, Bring- und Abholzeiten mit ihren Arbeitszeiten in Einklang zu bringen. Flexiblere Öffnungszeiten sind für sie eine zwingende Voraussetzung.",
       "begruendung_selbst": "Endlich denkt mal jemand daran, dass mein Chef mich auch nachmittags braucht. Wenn die Kita länger offen ist, fällt mir ein riesiger Stein vom Herzen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 27 auf 18 korrigiert"
     },
     {
       "titel_selbst": "Kostenloses Essen nimmt echten Druck.",
@@ -53,43 +55,47 @@
       "resonanz": "bestaetigt",
       "begruendung": "Das Essensgeld für zwei Kinder reißt jeden Monat ein erhebliches Loch in Nadines knappe Haushaltskasse. Der Wegfall dieser Kosten wäre für sie eine direkte und spürbare finanzielle Entlastung im Alltag.",
       "begruendung_selbst": "Das Schulessen wird gefühlt ständig teurer. Wenn das umsonst wäre, hätte ich am Monatsende endlich etwas mehr Luft für unvorhergesehene Dinge.",
-      "beleg_ok": true
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "titel_selbst": "Weniger Antrags-Chaos für Familien!",
       "thema": "gesundheit",
       "programmpunkt": "Die Partei strebt eine Kindergrundsicherung an, die verschiedene Leistungen unbürokratisch bündelt und so existenzsichernd wirkt.",
-      "seite": 27,
+      "seite": 18,
       "zitat": "Eine bedarfsgerechte Kindergrundsicherung, die Leistungen bündelt, vereinfacht und existenzsichernd wirkt, bleibt unser zentrales Ziel.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine ist als Aufstockerin ständig damit beschäftigt, verschiedene Sozialleistungen und Zuschüsse einzeln zu beantragen. Eine Bündelung in einer existenzsichernden Leistung würde ihr viel Stress und finanzielle Unsicherheit abnehmen.",
       "begruendung_selbst": "Ich verbringe so viel Zeit damit, für jeden Zuschuss ein neues Formular auszufüllen. Eine einfache, gebündelte Leistung würde mir enorm helfen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 27 auf 18 korrigiert"
     },
     {
       "titel_selbst": "Mehr Netto vom Lohn!",
       "thema": "steuern",
       "programmpunkt": "Um Arbeit lohnender zu machen, sollen Abgaben für kleine Einkommen gesenkt werden, unter anderem durch einen Sozialbeitrags-Freibetrag.",
-      "seite": 54,
+      "seite": 33,
       "zitat": "Ablösung von Mini-Jobs und Gleitzone durch einen monatlichen Freibetrag für Sozialbeiträge",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine arbeitet in Teilzeit, hat am Ende aber kaum mehr Geld zur Verfügung, weil ein Teil ihres Verdienstes auf die Grundsicherung angerechnet wird oder für Abgaben draufgeht. Eine Entlastung bei den Sozialabgaben käme ihr direkt zugute.",
       "begruendung_selbst": "Ich strenge mich an, aber am Ende bleibt kaum was übrig. Wenn ich weniger Abgaben zahlen muss, lohnt sich meine Arbeit endlich wieder mehr.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 54 auf 33 korrigiert"
     },
     {
       "titel_selbst": "Wir sind auch eine Familie!",
       "thema": "familie",
       "programmpunkt": "Alleinerziehende werden explizit und gleichberechtigt als Teil der vielfältigen Familienrealität anerkannt.",
-      "seite": 26,
+      "seite": 18,
       "zitat": "Familien sind vielfältig. Alleinerziehende, Patchwork-, Regenbogen- und Pflegefamilien gehören selbstverständlich dazu.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine ist genervt von konservativen Narrativen, die ihr Lebensmodell als defizitär darstellen. Die selbstverständliche und wertschätzende Nennung von Alleinerziehenden gibt ihr politische Sichtbarkeit und Respekt.",
       "begruendung_selbst": "Ich ziehe zwei Kinder groß, das ist genauso viel wert wie bei verheirateten Paaren. Schön, dass wir hier als völlig normal anerkannt werden.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 26 auf 18 korrigiert"
     }
   ],
   "besonders_schlecht": [
@@ -97,25 +103,27 @@
       "titel_selbst": "Ich bin doch längst aktiv!",
       "thema": "arbeit",
       "programmpunkt": "Die Grundsicherung wird programmatisch stark als Werkzeug dargestellt, um Menschen in den Arbeitsmarkt zu bringen.",
-      "seite": 10,
+      "seite": 8,
       "zitat": "Die Grundsicherung ist dabei Instrument der Aktivierung, Qualifizierung und Vermittlung.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Da Nadine bereits arbeitet und sich zusätzlich um zwei Kinder kümmert, reagiert sie allergisch auf den Begriff „Aktivierung“. Solche Formulierungen geben ihr das Gefühl, vom Jobcenter als unwillig verdächtigt und bevormundet zu werden.",
       "begruendung_selbst": "Wieso muss ich „aktiviert“ werden? Ich arbeite Teilzeit, mache den Haushalt und erziehe zwei Kinder. Mich stresst diese Behörden-Sprache einfach nur.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 10 auf 8 korrigiert"
     },
     {
       "titel_selbst": "Was ist mit den Erwachsenen?",
       "thema": "gesundheit",
       "programmpunkt": "Die Partei benennt Armutsbekämpfung als zentrale Aufgabe, hebt dabei aber explizit nur die Armut von Kindern und älteren Menschen hervor.",
-      "seite": 15,
+      "seite": 10,
       "zitat": "Armutsbekämpfung bleibt eine zentrale Aufgabe, insbesondere mit Blick auf Kinder- und Altersarmut.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Zwar befürwortet Nadine die Bekämpfung von Kinderarmut, doch sie vermisst einen klaren Fokus auf die Erhöhung der Grundsicherung für Erwachsene im erwerbsfähigen Alter. Sie fühlt sich mit ihren eigenen finanziellen Sorgen in diesem Punkt nicht vollständig gesehen.",
       "begruendung_selbst": "Dass für Kinder und Rentner etwas getan wird, finde ich richtig. Aber was ist mit mir? Mein Bürgergeld als Mutter reicht hinten und vorne nicht.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 15 auf 10 korrigiert"
     }
   ],
   "gesamt": {

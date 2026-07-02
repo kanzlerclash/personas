@@ -23,13 +23,14 @@
       "titel_selbst": "Energie muss bezahlbar bleiben",
       "thema": "energie",
       "programmpunkt": "Die SPD stellt bezahlbare Energie ausdrücklich als Voraussetzung für Industrie, Arbeitsplätze und Zusammenhalt heraus.",
-      "seite": 2,
+      "seite": 3,
       "zitat": "Ohne bezahlbare Energie gibt es keine Industrie.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf arbeitet in der Industrie und spürt Energiepreise zugleich im Haushalt. Dass die SPD bezahlbare Energie direkt mit Industriearbeitsplätzen verbindet, trifft seinen Kernpunkt: Transformation darf seinen Arbeitsplatz nicht gefährden.",
       "begruendung_selbst": "Wenn der Strom für die Betriebe unbezahlbar wird, hängt am Ende mein Job dran. Genau das muss Politik zuerst im Blick haben.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 2 auf 3 korrigiert"
     },
     {
       "titel_selbst": "Runter mit den Stromkosten",
@@ -47,61 +48,66 @@
       "titel_selbst": "Industriejobs sichern, nicht reden",
       "thema": "arbeit",
       "programmpunkt": "Die SPD will bestehende Industriebranchen bei Modernisierung und Transformation begleiten und Beschäftigte schützen.",
-      "seite": 4,
+      "seite": 5,
       "zitat": "Beschäftigte schützt",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Industriemechaniker ist Toralf auf verlässliche industrielle Kerne angewiesen. Der Schutz von Beschäftigten im Wandel bestätigt seine Erwartung, dass Klimaschutz und Strukturwandel nicht auf dem Rücken der Arbeiter ausgetragen werden.",
       "begruendung_selbst": "Wandel schön und gut, aber nicht so, dass wir in der Werkhalle am Ende die Zeche zahlen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 4 auf 5 korrigiert"
     },
     {
       "titel_selbst": "Das Auto wird verstanden",
       "thema": "verkehr",
       "programmpunkt": "Die SPD erkennt an, dass Führerschein und Auto im ländlichen Raum für Ausbildung und Berufseinstieg weiterhin wichtig bleiben.",
-      "seite": 9,
+      "seite": 8,
       "zitat": "Führerschein und Auto insbesondere im ländlichen Raum wichtig",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf lebt auf dem Dorf ohne brauchbaren ÖPNV und braucht das Auto für Schichtarbeit. Die Aussage signalisiert ihm, dass seine Mobilitätsrealität nicht einfach mit städtischem Autoverzicht gleichgesetzt wird.",
       "begruendung_selbst": "Endlich steht da mal, dass das Auto hier draußen kein Luxus ist. Ohne Führerschein kommst du oft nicht mal in Ausbildung oder Arbeit.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 9 auf 8 korrigiert"
     },
     {
       "titel_selbst": "Arbeit darf nicht am Wohnort hängen",
       "thema": "verkehr",
       "programmpunkt": "Die SPD will Bus und Bahn in allen Regionen leistungsfähig, bezahlbar und verlässlich machen und eine Mobilitätsgarantie anstreben.",
-      "seite": 41,
+      "seite": 26,
       "zitat": "Mobilität darf nicht vom Wohnort abhängen.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf fühlt sich gegenüber Stadtbewohnern mit guter Anbindung benachteiligt. Eine Mobilitätsgarantie für alle Regionen spricht seine Erfahrung langer Wege und fehlender Alternativen direkt an.",
       "begruendung_selbst": "Wenn hier wirklich mal ein verlässliches Angebot entsteht, wäre das was. Bis dahin muss aber klar sein, warum ich Auto fahre.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 41 auf 26 korrigiert"
     },
     {
       "titel_selbst": "Straßen nicht verrotten lassen",
       "thema": "verkehr",
       "programmpunkt": "Die SPD will Straßen und Brücken sanieren, den Investitionsstau abbauen und wichtige Bundesstraßen- sowie Ortsumfahrungsprojekte umsetzen.",
-      "seite": 42,
+      "seite": 27,
       "zitat": "Straßen und Brücken müssen instandgesetzt werden.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf pendelt täglich mit dem Auto und ist auf sichere, funktionierende Straßen angewiesen. Sanierung, Ortsumfahrungen und weniger Unfallschwerpunkte berühren seinen Arbeitsweg unmittelbar.",
       "begruendung_selbst": "Ich sitze jeden Tag auf diesen Straßen. Schlaglöcher, Umwege und kaputte Brücken kosten Zeit, Nerven und Geld.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 42 auf 27 korrigiert"
     },
     {
       "titel_selbst": "Laden auf dem Land mitdenken",
       "thema": "energie",
       "programmpunkt": "Die SPD will die Ladeinfrastruktur für Elektromobilität ausbauen.",
-      "seite": 43,
+      "seite": 27,
       "zitat": "Der Ausbau der Ladeinfrastruktur für Elektromobilität wird vorangetrieben.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf ist skeptisch gegenüber einem Verbrenner-Aus, weil ein bezahlbares E-Auto und Ladepunkte auf dem Land fehlen. Ladeinfrastruktur löst nicht die Kaufpreisfrage, nimmt aber einen Teil seiner praktischen Sorge ernst.",
       "begruendung_selbst": "Wenn irgendwann E-Auto, dann muss ich es auch laden können. Auf dem Dorf darf das nicht erst nach zehn Jahren ankommen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
     }
   ],
   "besonders_schlecht": [
@@ -109,49 +115,53 @@
       "titel_selbst": "Erst Pflicht, dann Preis?",
       "thema": "klima",
       "programmpunkt": "Die SPD will ein Klimaschutzgesetz mit verbindlichen Reduktionspfaden für Treibhausgasemissionen.",
-      "seite": 22,
+      "seite": 15,
       "zitat": "Reduktionspfade für Treibhausemissionen",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Toralf ist nicht gegen Klimaschutz, aber misstraut Vorgaben, die seinen Arbeitsweg und die Industrie verteuern könnten. Verbindliche Reduktionspfade klingen für ihn nach zusätzlichem Druck, solange Spritkosten und bezahlbare Alternativen nicht konkret gelöst sind.",
       "begruendung_selbst": "Bei solchen Vorgaben frage ich sofort: Wer zahlt das am Ende? Meistens doch wir, die jeden Tag fahren müssen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 22 auf 15 korrigiert"
     },
     {
       "titel_selbst": "Radwege zahlen meine Strecke nicht",
       "thema": "verkehr",
       "programmpunkt": "Die SPD will mindestens zehn Prozent der Landesmittel für den Straßenbau dauerhaft in Fuß- und Radverkehr stecken.",
-      "seite": 42,
+      "seite": 26,
       "zitat": "Mindestens zehn Prozent der Landesmittel für den Straßenbau",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Toralf braucht sanierte Straßen für den täglichen Arbeitsweg und kann im Schichtbetrieb nicht realistisch aufs Rad ausweichen. Eine feste Quote aus Straßenbaumitteln für Fuß- und Radverkehr wirkt auf ihn wie eine Priorität, die seine Lage nur am Rand trifft.",
       "begruendung_selbst": "Ich fahre 45 Minuten zur Schicht, nicht mit dem Rad zum Café. Von Straßenbaumitteln muss zuerst die Straße funktionieren.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 42 auf 26 korrigiert"
     },
     {
       "titel_selbst": "Schöne Garantie, aber wann?",
       "thema": "verkehr",
       "programmpunkt": "Die SPD setzt stark auf Bus und Bahn sowie eine Mobilitätsgarantie, ohne für heutige Auto-Pendler eine konkrete Entlastung bei Sprit oder Pendelkosten zu nennen.",
-      "seite": 41,
+      "seite": 26,
       "zitat": "Bus und Bahn in allen Regionen",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Toralf würde bessere Alternativen begrüßen, aber sein Problem besteht jetzt: Schichtzeiten, Dorf, tägliche Autokosten. Der Programmpunkt bleibt für ihn zu allgemein, weil er nicht sagt, wie Auto-Pendler bis zu einem funktionierenden Angebot entlastet werden.",
       "begruendung_selbst": "Bus und Bahn überall klingt gut, aber morgen früh um fünf fährt bei mir trotzdem keiner. Bis dahin zahle ich weiter Sprit.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 41 auf 26 korrigiert"
     },
     {
       "titel_selbst": "Wieder Bahn statt Praxis",
       "thema": "verkehr",
       "programmpunkt": "Die SPD will Güterverkehr stärker auf die Schiene verlagern und Unternehmen bei der Umstellung unterstützen.",
-      "seite": 43,
+      "seite": 27,
       "zitat": "Die Verlagerung von Güterverkehr auf die Schiene",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Toralf hat eine pragmatische Sicht auf Industrie und Logistik. Er kann eine Verlagerung nachvollziehen, befürchtet aber, dass solche Ziele im Alltag der Betriebe an fehlender Infrastruktur, Kosten und Umstellungsaufwand scheitern.",
       "begruendung_selbst": "In der Theorie ist Schiene immer sauberer. In der Praxis muss die Ware pünktlich raus, sonst hängt wieder der Betrieb dran.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
     }
   ],
   "gesamt": {

@@ -29,7 +29,8 @@
       "resonanz": "bestaetigt",
       "begruendung": "Für Nadine ist die Verfügbarkeit von Kita und Hort die Grundvoraussetzung, damit sie arbeiten kann. Ein unverhandelbarer Rechtsanspruch auf bis zu zehn Stunden schützt sie vor Kürzungen.",
       "begruendung_selbst": "Ohne verlässlichen Betreuungsplatz kann ich nicht arbeiten. Wenn der Anspruch wirklich 'nicht verhandelbar' ist, dann kann ich endlich ein bisschen aufatmen.",
-      "beleg_ok": true
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "titel_selbst": "Kostenloses warmes Mittagessen — endlich!",
@@ -41,7 +42,8 @@
       "resonanz": "bestaetigt",
       "begruendung": "Nadine rechnet jeden Euro nach. Das Mittagessen in Kita und Schule ist ein monatlich wiederkehrender Posten, den sie oft kaum stemmt. Ein kostenloses Angebot entlastet sie direkt und nimmt Druck raus.",
       "begruendung_selbst": "Ich rechne jeden Monat durch, was die Kita kostet. Wenn das Mittagessen wegfällt, spart das wirklich etwas. Und meine Kinder essen ordentlich — das ist nicht nichts.",
-      "beleg_ok": true
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
     },
     {
       "titel_selbst": "Alleinerziehende werden als Zielgruppe erkannt!",
@@ -60,13 +62,14 @@
       "titel_selbst": "Sozialstaat soll unterstützen, nicht stigmatisieren!",
       "thema": "gesundheit",
       "programmpunkt": "Soziale Sicherungssysteme sollen unterstützen, nicht stigmatisieren; Hilfe muss schnell und unbürokratisch erreichbar sein.",
-      "seite": 15,
+      "seite": 10,
       "zitat": "Soziale Sicherungssysteme sollen unterstützen, nicht stigmatisieren. Hilfe muss schnell und unbürokratisch erreichbar sein.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Nadine erlebt immer wieder, dass sie als Bürgergeld-Aufstockerin unter Generalverdacht gestellt wird. Das explizite Bekenntnis, dass Systeme nicht stigmatisieren sollen, spricht direkt ihre Würde an.",
       "begruendung_selbst": "Ich arbeite und kümmere mich. Dass ich aufstocke, heißt nicht, dass ich faul bin. Wenn das eine Partei so sagt, statt mich als Problem zu behandeln — das fühlt sich gut an.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 15 auf 10 korrigiert"
     }
   ],
   "besonders_schlecht": [
@@ -74,13 +77,14 @@
       "titel_selbst": "Kindergrundsicherung bleibt Bundeswunsch!",
       "thema": "gesundheit",
       "programmpunkt": "Die Kindergrundsicherung wird als zentrales Ziel benannt, aber nur über eine Bundesratsinitiative angestrebt — auf Landesebene bleibt wenig Konkretes.",
-      "seite": 27,
+      "seite": 18,
       "zitat": "Eine bedarfsgerechte Kindergrundsicherung, die Leistungen bündelt, vereinfacht und existenzsichernd wirkt, bleibt unser zentrales Ziel.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Nadines finanzielle Lage hängt stark von Sozialleistungen ab, die im Wesentlichen Bundesrecht sind. Die Kindergrundsicherung als 'zentrales Ziel' zu benennen, ohne auf Landesebene daran arbeiten zu können, ist für sie frustrierend — es bleibt ein leeres Versprechen ohne kurzfristige Wirkung.",
       "begruendung_selbst": "Ich höre das seit Jahren: Kindergrundsicherung kommt. Bundesratsinitiative klingt nach 'wir versuchen's'. Ich brauche das jetzt, nicht irgendwann.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 27 auf 18 korrigiert"
     }
   ],
   "gesamt": {

@@ -24,25 +24,27 @@
       "titel_selbst": "Ohne Energie keine Industrie",
       "thema": "energie",
       "programmpunkt": "Die SPD stellt bezahlbare Energie ausdrücklich als Voraussetzung für Industrie, Arbeitsplätze und sozialen Zusammenhalt dar.",
-      "seite": 2,
+      "seite": 3,
       "zitat": "Ohne bezahlbare Energie gibt es keine Industrie.",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny fühlt sich in seinem Grundsatz bestätigt, dass Energiepolitik keine Nebensache ist, sondern über industrielle Beschäftigung in seiner Region entscheidet. Die Aussage verbindet genau die Punkte, an denen seine eigene Lebensplanung hängt: Energie, Industrie und gute Arbeit.",
       "begruendung_selbst": "Genau darum geht es: Wenn der Strom nicht bezahlbar und sicher ist, reden wir hier nicht mehr über Zukunft, sondern über Werksschließungen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 2 auf 3 korrigiert"
     },
     {
       "titel_selbst": "Plan statt Bauchgefühl",
       "thema": "wirtschaft",
       "programmpunkt": "Der wirtschaftliche und energetische Wandel soll politisch geplant, gesteuert und mit Investitionen begleitet werden, statt ihn dem Markt oder Zufall zu überlassen.",
-      "seite": 4,
+      "seite": 5,
       "zitat": "Er braucht Planung , Steuerung , Investitionen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die Persona verlangt einen verlässlichen Umbau mit nachvollziehbarem Fahrplan. Dass die SPD Planung, Steuerung und Investitionen betont, trifft seine Sorge, dass Strukturwandel ohne tragfähigen Ersatzplan über die Köpfe der Standorte hinweg passiert.",
       "begruendung_selbst": "Mit so einer Ansage kann ich arbeiten: erst Plan, Investitionen und Zuständigkeiten, dann der Umbau im Betrieb.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 4 auf 5 korrigiert"
     },
     {
       "titel_selbst": "Netzentgelte runter, bitte",
@@ -108,13 +110,14 @@
       "titel_selbst": "Kohleförderung nicht abreißen",
       "thema": "wirtschaft",
       "programmpunkt": "Sachsen-Anhalt soll sich für ein Anschlussprogramm an den Just Transition Fund ab 2028 für Kohleregionen einsetzen.",
-      "seite": 53,
+      "seite": 33,
       "zitat": "Anschlussprogramm an den Just Transition Fund ab 2028",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny braucht langfristige Strukturförderung, weil der Wandel nicht mit einer einzelnen Förderperiode erledigt ist. Ein Anschlussprogramm für Kohleregionen entspricht seiner Forderung nach Planbarkeit über mehrere Jahre.",
       "begruendung_selbst": "Strukturwandel endet nicht 2028. Wenn die Förderung abreißt, reißt auch Vertrauen in den ganzen Plan.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 53 auf 33 korrigiert"
     }
   ],
   "besonders_schlecht": [
@@ -146,13 +149,14 @@
       "titel_selbst": "Reduktionspfade können klemmen",
       "thema": "klima",
       "programmpunkt": "Ein Klimaschutzgesetz soll verbindliche Reduktionspfade für Treibhausgasemissionen festlegen und Zuständigkeiten überprüfbar machen.",
-      "seite": 22,
+      "seite": 15,
       "zitat": "Reduktionspfade für Treibhausemissionen",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Ronny wünscht Verlässlichkeit, aber keine starren Enddaten oder Pfade ohne gesicherten Ersatz für Industrie und Energieversorgung. Verbindliche Reduktionspfade können ihm zu wenig nach technologischer Reife, Netzausbau und regionaler Beschäftigungsperspektive differenzieren.",
       "begruendung_selbst": "Verbindlichkeit ist gut, aber Pfade dürfen uns nicht überholen, bevor Ersatz, Netze und Jobs wirklich stehen.",
-      "beleg_ok": true
+      "beleg_ok": true,
+      "beleg_hinweis": "Seite von 22 auf 15 korrigiert"
     }
   ],
   "gesamt": {

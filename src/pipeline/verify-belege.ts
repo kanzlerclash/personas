@@ -77,6 +77,7 @@ function main() {
       besonders_schlecht: (Highlight & BelegPruefung)[];
     };
     if (args.land && d.land !== args.land) continue;
+    if (args.partei && d.partei !== args.partei) continue;
     const seiten = ladeSeiten(d.land, d.partei);
 
     const lokal: string[] = [];
