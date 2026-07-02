@@ -103,6 +103,9 @@ const urteilLabel = (s: number) => URTEIL_STUFEN[Math.max(-2, Math.min(2, Math.r
 const urteilPill = (s: number) => `<span class="urteilpill" style="background:${scoreFarbe(s)}" title="Gesamt-Urteil des Modells (Skala −2…+2: ${scoreTxt(s)})">${e(urteilLabel(s))}</span>`;
 // Kleines (?) das zur passenden Zeile der Methodik-Legende springt.
 const hilfe = (anker: string, tip: string) => `<a class="hilfe" href="${u("methodik/ki-modelle/")}#${anker}" title="${e(tip)}" aria-label="Erklärung: ${e(tip)}">?</a>`;
+// Divergenz-Spanne (0…4) als Wort; die Zahl bleibt intern (Methodik erklärt sie).
+const SPANNE_STUFEN = ["Konsens", "nahezu einig", "uneinig", "stark uneinig", "maximaler Gegensatz"];
+const spanneLabel = (v: number) => SPANNE_STUFEN[Math.max(0, Math.min(4, Math.round(v)))];
 // KI-Urteile-Saldo = Anzahl positiver (gut) vs. negativer (schlecht) Belege, roh.
 const gsBalken = (g: number, s: number) => `<span class="gsbalken" title="KI-Urteile-Saldo: ${g} positive, ${s} negative Belege">${g ? `<span class="gs-gut" style="flex:${g}"></span>` : ""}${s ? `<span class="gs-schlecht" style="flex:${s}"></span>` : ""}<span class="gs-zahl">+${g}/−${s}</span></span>`;
 const vsScores = (a: number, b: number) => {
@@ -274,6 +277,16 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
   // KI-Modelle
   {
     const mrows = SIG.map((m) => `<tr><td><strong>${e(kurz(m.slug))}</strong></td><td>${e(m.name)}</td><td>${e(AUSF[m.slug] || "lokal, ohne Gateway")}</td><td>${m.anzahl}</td></tr>`).join("");
+    // Echte Beispiele für die „Was die Zahlen bedeuten"-Karten: divergentester Fall + ein Modell.
+    const _bsp = DIVERGENZ[0];
+    const _bName = persona(_bsp.persona)?.name ?? _bsp.persona, _bPartei = parteiName(_bsp.partei);
+    const _bMs = SIG.filter((x) => _bsp.scores[x.slug] !== undefined).sort((a, b) => _bsp.scores[a.slug] - _bsp.scores[b.slug]);
+    const _bLo = _bMs[0], _bHi = _bMs[_bMs.length - 1];
+    const _bLab = (m: typeof _bLo) => urteilLabel(_bsp.scores[m.slug]);
+    const _bE = erg(_bHi.slug, _bsp.persona, _bsp.partei);
+    const _bG = _bE ? _bE.besonders_gut.length : 0, _bS = _bE ? _bE.besonders_schlecht.length : 0;
+    const _bD = Math.round(Math.abs(_bsp.scores[_bHi.slug] - _bsp.scores[_bLo.slug]) * 10) / 10;
+    const _m = SIG[0];
     const body = `${mk("KI-Modelle")}<h2>Methodik: KI-Modelle</h2>
 <div class="infobox"><strong>Persona × Programm × Modell → Urteil.</strong> Jedes Modell versetzt sich in eine Persona, liest das Programm und nennt, was ihr <strong>besonders gut</strong> oder <strong>schlecht</strong> gefällt — jeder Punkt mit <strong>Seite + wörtlichem Zitat</strong> belegt und automatisch gegen die Seite geprüft.</div>
 <p><strong>Ausführung — lokal ohne API-Gateway:</strong></p>
@@ -282,16 +295,16 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
 <p><strong>Beleg-Prüfung:</strong> Jedes Zitat wird (fuzzy, ±1 Seite) gegen die Programm-Seite geprüft; nicht auffindbare Zitate sind als „⚠ ungeprüft" markiert.</p>
 <h3 class="abschnitt">Was die Zahlen bedeuten</h3>
 <p class="mini">Pro Persona × Partei zeigen wir <strong>zwei</strong> Dinge: das holistische <strong>Modell-Urteil</strong> und den <strong>KI-Urteile-Saldo</strong>. Sie können abweichen — das ist gewollt (siehe unten).</p>
-<table class="mtab"><thead><tr><th>Anzeige</th><th>Bedeutung</th><th>Skala / Formel</th></tr></thead><tbody>
-<tr id="modell-urteil"><td><strong>Modell-Urteil</strong><br><span class="mini">ablehnend … zustimmend</span></td><td>Holistische Gesamteinschätzung des Modells, wie die Persona das Programm insgesamt aufnimmt. Vom Modell <em>selbst</em> vergeben (Feld <code>gesamt.score</code>) — <strong>nicht</strong> aus den Belegen gerechnet; bezieht die Tragweite einzelner Punkte mit ein.</td><td>intern −2 … +2<br>(−2 ablehnend, 0 gemischt, +2 zustimmend)</td></tr>
-<tr id="ki-urteile-saldo"><td><strong>KI-Urteile-Saldo</strong><br><span class="mini">+gut / −schlecht</span></td><td>Anzahl der belegten Punkte, die dem Programm aus Sicht der Persona positiv bzw. negativ angerechnet werden. Rein zählend, ohne Gewichtung der Wichtigkeit — deshalb kann er vom Modell-Urteil abweichen (z. B. wenige, aber existenzielle Minuspunkte).</td><td>zwei Zähler: Zahl „besonders gut" / Zahl „besonders schlecht"</td></tr>
-<tr><td>Δ Modell-Urteil</td><td>Differenz der Modell-Urteile zweier Modelle für denselben Fall (in den A-vs-B-Seiten).</td><td>|Urteil A − Urteil B| auf −2 … +2</td></tr>
-<tr id="o-urteil"><td>Ø-Urteil</td><td>Durchschnitt der Modell-Urteile eines Modells über alle bewerteten Fälle — Kennzahl für die generelle Tendenz („Bias") des Modells.</td><td>Mittelwert der −2 … +2</td></tr>
-<tr id="kritik-quote"><td>Kritik-Quote</td><td>Anteil der „besonders schlecht"-Belege an allen Belegen des Modells. Daraus das Label: <em>nachsichtig</em> (&lt; 35 %), <em>ausgewogen</em> (35–50 %), <em>kritisch</em> (&gt; 50 %).</td><td>schlecht / (gut + schlecht)</td></tr>
-<tr><td>Ø Punkte/Urteil</td><td>Durchschnittliche Zahl belegter Punkte je Auswertung.</td><td>(gut + schlecht) / Auswertungen</td></tr>
-<tr id="tonalitaet"><td>Tonalität</td><td>Sprachlicher Ton: sachlich / gemischt / zugespitzt — aus dem Anteil zugespitzter Kurz-Titel (mit ! oder ?).</td><td>&lt; 20 % sachlich · &gt; 50 % zugespitzt</td></tr>
-<tr><td>Spanne (Divergenz)</td><td>Differenz zwischen höchstem und niedrigstem Modell-Urteil aller Modelle für denselben Fall (0 = Konsens).</td><td>max − min der −2 … +2</td></tr>
-</tbody></table>
+<div class="zahlgrid">
+<div class="zahlkarte" id="modell-urteil"><h4>Modell-Urteil</h4><div class="zk-skala">ablehnend · eher ablehnend · gemischt · eher zustimmend · zustimmend <span class="zk-form">(intern −2…+2)</span></div><p>Holistische Gesamteinschätzung, wie die Persona das Programm insgesamt aufnimmt. Vom Modell <em>selbst</em> vergeben (<code>gesamt.score</code>) — <strong>nicht</strong> aus den Belegen gerechnet; bezieht die Tragweite einzelner Punkte mit ein.</p><p class="bsp"><strong>Beispiel:</strong> ${e(_bName)} × ${e(_bPartei)}: ${e(kurz(_bHi.slug))} urteilt „${e(_bLab(_bHi))}".</p></div>
+<div class="zahlkarte" id="ki-urteile-saldo"><h4>KI-Urteile-Saldo</h4><div class="zk-skala">+gut / −schlecht <span class="zk-form">(zwei Zähler)</span></div><p>Anzahl der belegten Punkte, die dem Programm aus Sicht der Persona positiv bzw. negativ angerechnet werden. Rein zählend, ohne Gewichtung der Wichtigkeit — kann daher vom Modell-Urteil abweichen (wenige, aber existenzielle Minuspunkte).</p><p class="bsp"><strong>Beispiel:</strong> ${e(kurz(_bHi.slug))} für ${e(_bName)} × ${e(_bPartei)}: +${_bG} / −${_bS}.</p></div>
+<div class="zahlkarte" id="delta"><h4>Δ Modell-Urteil</h4><div class="zk-skala"><span class="zk-form">0 … 4 (Stufen)</span></div><p>Differenz der Modell-Urteile <em>zweier</em> Modelle für denselben Fall (auf den A-vs-B-Seiten). Zeigt, wie stark das Urteil vom gewählten Modell abhängt.</p><p class="bsp"><strong>Beispiel:</strong> ${e(_bName)} × ${e(_bPartei)}: ${e(kurz(_bLo.slug))} „${e(_bLab(_bLo))}" vs ${e(kurz(_bHi.slug))} „${e(_bLab(_bHi))}" → Δ ${_bD}.</p></div>
+<div class="zahlkarte" id="o-urteil"><h4>Ø-Urteil</h4><div class="zk-skala"><span class="zk-form">Mittelwert der −2…+2 (Label + Zahl)</span></div><p>Durchschnitt der Modell-Urteile eines Modells über <em>alle</em> bewerteten Fälle — Kennzahl für die generelle Tendenz („Bias") des Modells.</p><p class="bsp"><strong>Beispiel:</strong> ${e(kurz(_m.slug))} im Schnitt „${e(urteilLabel(_m.avgScore))}" (${e(scoreTxt(_m.avgScore))}) über ${_m.anzahl} Urteile.</p></div>
+<div class="zahlkarte" id="kritik-quote"><h4>Kritik-Quote</h4><div class="zk-skala"><span class="zk-form">schlecht / (gut + schlecht)</span></div><p>Anteil der „besonders schlecht"-Belege an allen Belegen des Modells. Daraus das Label: <em>nachsichtig</em> (&lt; 35 %), <em>ausgewogen</em> (35–50 %), <em>kritisch</em> (&gt; 50 %).</p><p class="bsp"><strong>Beispiel:</strong> ${e(kurz(_m.slug))}: ${Math.round(_m.kritikQuote * 100)} % → ${e(_m.labels.kritik)}.</p></div>
+<div class="zahlkarte" id="punkte"><h4>Ø Punkte/Urteil</h4><div class="zk-skala"><span class="zk-form">(gut + schlecht) / Auswertungen</span></div><p>Durchschnittliche Zahl belegter Punkte je Auswertung — wie viel ein Modell pro Programm anmerkt.</p><p class="bsp"><strong>Beispiel:</strong> ${e(kurz(_m.slug))}: ${_m.avgHighlights} Punkte je Auswertung.</p></div>
+<div class="zahlkarte" id="tonalitaet"><h4>Tonalität</h4><div class="zk-skala">sachlich · gemischt · zugespitzt</div><p>Sprachlicher Ton, aus dem Anteil zugespitzter Kurz-Titel (mit ! oder ?): unter 20 % sachlich, über 50 % zugespitzt.</p><p class="bsp"><strong>Beispiel:</strong> ${e(kurz(_m.slug))}: ${e(_m.labels.ton)}.</p></div>
+<div class="zahlkarte" id="spanne"><h4>Spanne (Divergenz)</h4><div class="zk-skala">Konsens · nahezu einig · uneinig · stark uneinig · maximaler Gegensatz <span class="zk-form">(intern 0…4)</span></div><p>Differenz zwischen höchstem und niedrigstem Modell-Urteil <em>aller</em> Modelle für denselben Fall — extern als Wort. Intern die Stufe 0 (alle gleich) bis 4 (ein Modell „ablehnend", ein anderes „zustimmend").</p><p class="bsp"><strong>Beispiel:</strong> ${e(_bName)} × ${e(_bPartei)}: von „${e(_bLab(_bLo))}" (${e(kurz(_bLo.slug))}) bis „${e(_bLab(_bHi))}" (${e(kurz(_bHi.slug))}) → ${e(spanneLabel(_bsp.spanne))} (Stufe ${_bsp.spanne}).</p></div>
+</div>
 <div class="unternav"><a class="navbtn" href="${u("methodik/prompts/")}">📝 Prompt im Wortlaut</a><a class="navbtn" href="${u("vergleich/")}">⚖ Modell-Divergenz</a></div>`;
     add("methodik/ki-modelle/", "Methodik: KI-Modelle · #LTW26", "Wie aus Persona, Wahlprogramm und KI-Modell ein belegtes Urteil wird — lokal ohne Gateway, mit Prompt.", body);
   }
@@ -411,7 +424,7 @@ ${liste(a.besonders_gut, "gut", "👍 Besonders gut")}${liste(a.besonders_schlec
 
 // Divergenz-Übersicht
 {
-  const rows = DIVERGENZ.slice(0, 80).map((d) => { const p = persona(d.persona); const sc = SIG.filter((m) => d.scores[m.slug] !== undefined).map((m) => `<span class="divscore" style="border-color:${scoreFarbe(d.scores[m.slug])}" title="Modell-Urteil (Skala −2…+2: ${scoreTxt(d.scores[m.slug])})">${e(kurz(m.slug))}: ${e(urteilLabel(d.scores[m.slug]))}</span>`).join(""); return `<a class="qrow" href="${u(`modell/${SIG[0].slug}/persona/${d.persona}/partei/${d.partei}/`)}"><strong class="qname">${e(p?.name ?? d.persona)} × ${e(parteiName(d.partei))}</strong><span class="divscores">${sc}</span><span class="spanne">${d.spanne === 0 ? "Konsens" : "Δ" + d.spanne}</span></a>`; }).join("");
+  const rows = DIVERGENZ.slice(0, 80).map((d) => { const p = persona(d.persona); const sc = SIG.filter((m) => d.scores[m.slug] !== undefined).map((m) => `<a class="divscore" href="${u(`modell/${m.slug}/persona/${d.persona}/partei/${d.partei}/`)}" style="border-color:${scoreFarbe(d.scores[m.slug])}" title="${e(kurz(m.slug))} für ${e(p?.name ?? d.persona)} × ${e(parteiName(d.partei))} ansehen (Urteil ${scoreTxt(d.scores[m.slug])})">${e(kurz(m.slug))}: ${e(urteilLabel(d.scores[m.slug]))}</a>`).join(""); return `<div class="qrow static"><strong class="qname">${e(p?.name ?? d.persona)} × ${e(parteiName(d.partei))}</strong><span class="divscores">${sc}</span><span class="spanne" title="Spanne (Divergenz) ${d.spanne} von 0–4">${e(spanneLabel(d.spanne))}</span></div>`; }).join("");
   add("vergleich/", "Wo sich die Modelle uneinig sind · #LTW26", "Wo hängt das KI-Urteil am stärksten vom gewählten Modell ab? Divergenz der Modelle über alle Personas und Parteien.", `${krume([{ label: "Start", href: "" }, { label: "Modell-Vergleich" }])}<h2>Wo sind sich die Modelle uneinig?</h2><p class="infozeile">Je größer die Spannweite der Urteile über die Modelle, desto stärker hängt die Bewertung vom gewählten Modell ab — hier wird der Modell-Bias am deutlichsten.</p><div class="qtab">${rows}</div>`);
 }
 

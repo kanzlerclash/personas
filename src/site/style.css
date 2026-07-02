@@ -139,7 +139,21 @@ h4.gut { color: var(--gut); margin: .8rem 0 .3rem; } h4.schlecht { color: var(--
 /* Divergenz */
 .divscores { display: flex; gap: .35rem; flex-wrap: wrap; flex: 1; }
 .divscore { font-size: .78rem; border: 1px solid var(--rand); border-left-width: 4px; border-radius: 5px; padding: .1rem .4rem; color: var(--text); }
+a.divscore { text-decoration: none; }
+a.divscore:hover { border-color: var(--akzent); color: var(--akzent); }
+.qrow.static { cursor: default; }
+.qrow.static:hover { border-color: var(--rand); }
 .spanne { font-weight: 700; color: #ffd98a; font-size: .85rem; }
+
+/* Methodik: „Was die Zahlen bedeuten"-Karten */
+.zahlgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: .8rem; margin: .6rem 0 1rem; }
+.zahlkarte { background: var(--karte); border: 1px solid var(--rand); border-radius: 12px; padding: .8rem 1rem; scroll-margin-top: 1rem; }
+.zahlkarte h4 { margin: 0 0 .3rem; }
+.zahlkarte p { margin: .4rem 0 0; font-size: .9rem; }
+.zk-skala { font-size: .8rem; color: var(--dim); }
+.zk-form { font-family: ui-monospace, monospace; font-size: .76rem; }
+.bsp { border-top: 1px dashed var(--rand); padding-top: .4rem; }
+.zahlkarte:target { outline: 2px solid var(--akzent); background: rgba(110,168,254,.08); }
 
 /* Persona-Raster (Zweit-Einstieg) */
 .raster { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem; }
