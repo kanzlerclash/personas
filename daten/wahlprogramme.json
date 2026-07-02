@@ -11,7 +11,7 @@
       "partei": "cdu",
       "landtag": "sachsen-anhalt",
       "url": "https://www.cdulsa.de/sites/www.cdulsa.de/files/downloads/regierungsprogramm_ltw_web.pdf",
-      "stand": null
+      "stand": "beschlossen 13.06.2026"
     },
     {
       "partei": "spd",
@@ -23,32 +23,32 @@
       "partei": "gruene",
       "landtag": "sachsen-anhalt",
       "url": "https://www.gruene-lsa.de/wp-content/uploads/2026/05/Programm-zur-Landtagswahl-2026.pdf",
-      "stand": null
+      "stand": "Stand 09.05.2026"
     },
     {
       "partei": "afd",
       "landtag": "sachsen-anhalt",
       "url": "https://afd-regierungsprogramm.de/",
       "format": "html",
-      "stand": null
+      "stand": "HTML-Abruf 29.06.2026"
     },
     {
       "partei": "fdp",
       "landtag": "sachsen-anhalt",
       "url": "https://42cloud.universum.com/sites/default/files/2026-04/Freiheit%20hat%20nur%20eine%20Heimat%20%E2%80%93%20Wahlprogramm%20der%20FDP%20Sachsen-Anhalt%20zur%20Landagswahl%202026_0.pdf",
-      "stand": null
+      "stand": "beschlossen 25.04.2026"
     },
     {
       "partei": "linke",
       "landtag": "sachsen-anhalt",
       "url": "https://www.dielinke-sachsen-anhalt.de/fileadmin/aaa_download_lsa/Parteitage/10._LPT_2._Tagung_VV_LTW_2026/Beschluesse/2026-03-19_Landtagswahlprogramm__final_.pdf",
-      "stand": "beschlossen 19.03.2026"
+      "stand": "beschlossen 14.03.2026"
     },
     {
       "partei": "bsw",
       "landtag": "sachsen-anhalt",
       "url": "https://st.bsw-vg.de/wp-content/uploads/2026/04/BSW_Landtagswahlprogramm_SachsenAnhalt.pdf",
-      "stand": null
+      "stand": "beschlossen 07.03.2026"
     },
 
     { "partei": "cdu", "landtag": "mecklenburg-vorpommern", "url": null, "stand": null },
