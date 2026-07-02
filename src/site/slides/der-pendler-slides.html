@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KanzlerClash — Slides (#LTW26)</title>
+<style>
+  :root{
+    --ink:#2b2d42;      /* Persona-Hintergrund = Markenfarbe */
+    --accent:#118ab2;   /* Toralfs Pulli :) */
+    --paper:#f7f7fb;
+    --muted:#6b7186;
+    --line:#e2e4ee;
+    --good:#2a9d8f;
+    --mid:#e9a23b;
+    --bad:#e04f5f;
+    --slide-w: 1080px;
+    --slide-h: 1350px;  /* 4:5 – LinkedIn-Carousel */
+  }
+
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{background:#d9dbe6;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink)}
+  body{display:flex;flex-direction:column;align-items:center;gap:28px;padding:40px 0}
+
+  .slide{
+    width:var(--slide-w);height:var(--slide-h);
+    background:var(--paper);
+    position:relative;overflow:hidden;
+    box-shadow:0 12px 40px rgba(20,22,40,.25);
+    border-radius:22px;
+    padding:96px 92px;
+    display:flex;flex-direction:column;
+  }
+  .slide.dark{background:var(--ink);color:#fff}
+
+  /* Kopf-/Fußzeilen-Chrome */
+  .kicker{font-size:26px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+  .slide.dark .kicker{color:#7fd0e8}
+  .foot{position:absolute;left:92px;right:92px;bottom:70px;display:flex;justify-content:space-between;align-items:center;font-size:24px;color:var(--muted)}
+  .slide.dark .foot{color:#9aa0bd}
+  .brand{font-weight:800;letter-spacing:.02em;color:inherit;text-decoration:none}
+  .brand .cl{color:var(--accent)}
+  .slide.dark .brand .cl{color:#7fd0e8}
+  .pg{font-variant-numeric:tabular-nums}
+
+  h1{font-size:92px;line-height:1.02;font-weight:800;letter-spacing:-.02em}
+  h2{font-size:64px;line-height:1.06;font-weight:800;letter-spacing:-.01em}
+  .lead{font-size:38px;line-height:1.4;color:var(--muted);font-weight:500}
+  .slide.dark .lead{color:#c4c8e0}
+  .big{font-size:46px;line-height:1.35;font-weight:600}
+
+  .spacer{flex:1}
+  .mt-s{margin-top:24px}.mt-m{margin-top:40px}.mt-l{margin-top:64px}
+
+  /* Slide 1 – Hero */
+  .hero-tag{display:inline-block;background:rgba(17,138,178,.14);color:var(--accent);
+    padding:14px 26px;border-radius:999px;font-size:28px;font-weight:700}
+
+  /* Methodik-Steps */
+  .steps{display:flex;flex-direction:column;gap:30px;margin-top:56px}
+  .step{display:flex;gap:30px;align-items:flex-start}
+  .num{flex:0 0 auto;width:74px;height:74px;border-radius:18px;background:var(--ink);color:#fff;
+    display:flex;align-items:center;justify-content:center;font-size:38px;font-weight:800}
+  .step h3{font-size:38px;font-weight:800;margin-bottom:6px}
+  .step p{font-size:30px;line-height:1.35;color:var(--muted)}
+
+  /* Persona-Karte */
+  .persona{display:flex;gap:44px;align-items:center;margin-top:52px}
+  .avatar{flex:0 0 auto;width:230px;height:230px;border-radius:28px;background:var(--ink);
+    display:flex;align-items:center;justify-content:center;overflow:hidden}
+  .avatar img{width:100%;height:100%;object-fit:cover;image-rendering:pixelated}
+  .persona .who h3{font-size:52px;font-weight:800}
+  .persona .who p{font-size:32px;color:var(--muted);line-height:1.35;margin-top:8px}
+  .quote{margin-top:52px;font-size:40px;line-height:1.4;font-style:italic;
+    border-left:8px solid var(--accent);padding:6px 0 6px 34px}
+
+  /* Ergebnis-Tabelle */
+  .verdicts{margin-top:34px;display:flex;flex-direction:column;gap:0}
+  .row{display:grid;grid-template-columns:1fr auto;align-items:center;gap:24px;
+    padding:19px 4px;border-bottom:2px solid var(--line)}
+  .row:last-child{border-bottom:none}
+  .model{font-size:38px;font-weight:700}
+  .badge{font-size:28px;font-weight:800;padding:10px 22px;border-radius:12px;white-space:nowrap;color:#fff}
+  .b-good{background:var(--good)}.b-mid{background:var(--mid)}.b-bad{background:var(--bad)}
+  .scale{margin-top:20px;font-size:26px;color:var(--muted)}
+
+  /* Insight */
+  .insight-num{font-size:150px;font-weight:800;line-height:1;letter-spacing:-.03em}
+  .cta{display:inline-block;background:var(--accent);color:#fff;
+    font-size:34px;font-weight:700;padding:24px 40px;border-radius:16px;text-decoration:none}
+  .cta-url{margin-top:20px;font-size:30px;color:#7fd0e8;word-break:break-all}
+
+  @media print{
+    html,body{background:#fff}
+    body{gap:0;padding:0}
+    .slide{box-shadow:none;border-radius:0;margin:0;page-break-after:always;break-after:page}
+    .slide:last-child{page-break-after:auto;break-after:auto}
+    @page{size:1080px 1350px;margin:0}
+  }
+</style>
+</head>
+<body>
+
+<!-- SLIDE 1 -->
+<section class="slide dark">
+  <span class="kicker">Landtagswahl 2026 · #LTW26</span>
+  <div class="spacer"></div>
+  <span class="hero-tag">KI-Experiment</span>
+  <h1 class="mt-m">Sechs KI-Modelle,<br>ein Wahlprogramm,<br>ein Pendler —<br><span style="color:#7fd0e8">völlig&nbsp;uneinig.</span></h1>
+  <p class="lead mt-m">Was passiert, wenn man dieselbe politische Frage sechs großen Sprachmodellen stellt? Ein Blick in unser Forschungsprojekt.</p>
+  <div class="spacer"></div>
+  <div class="foot">
+    <a class="brand" href="https://kanzlerclash.github.io/personas/">kanzlerclash.github.io<span class="cl">/personas</span></a>
+    <span class="pg">1 / 5</span>
+  </div>
+</section>
+
+<!-- SLIDE 2 -->
+<section class="slide">
+  <span class="kicker">Was wir tun</span>
+  <h2 class="mt-s">Personas × Wahl&shy;programme × mehrere&nbsp;LLMs</h2>
+  <div class="steps">
+    <div class="step">
+      <div class="num">1</div>
+      <div><h3>Fiktive Personas</h3><p>16 Lebenslagen, keine echten Menschen — jede aus ihrer Lage heraus einseitig. Neutralität entsteht erst über die Summe.</p></div>
+    </div>
+    <div class="step">
+      <div class="num">2</div>
+      <div><h3>Echte Wahlprogramme</h3><p>Die Programme der antretenden Parteien, Punkt für Punkt.</p></div>
+    </div>
+    <div class="step">
+      <div class="num">3</div>
+      <div><h3>Mehrere KI-Modelle</h3><p>Jedes bewertet, was einer Persona besonders gut oder schlecht gefällt.</p></div>
+    </div>
+    <div class="step">
+      <div class="num">4</div>
+      <div><h3>Belegt & geprüft</h3><p>Jede Aussage mit Seitenzahl und wörtlichem Zitat — automatisch gegen das Programm gegengeprüft.</p></div>
+    </div>
+  </div>
+  <div class="foot">
+    <a class="brand" href="https://kanzlerclash.github.io/personas/">kanzlerclash.github.io<span class="cl">/personas</span></a>
+    <span class="pg">2 / 5</span>
+  </div>
+</section>
+
+<!-- SLIDE 3 -->
+<section class="slide">
+  <span class="kicker">Der Testfall</span>
+  <h2 class="mt-s">Lernen wir Toralf kennen</h2>
+  <div class="persona">
+    <div class="avatar"><img src="../assets/avatare/pendler.png" alt="Toralf"></div>
+    <div class="who">
+      <h3>Toralf, 43</h3>
+      <p>Industriemechaniker im Schichtbetrieb.<br>Dorf in Sachsen-Anhalt, kein brauchbarer ÖPNV.<br>45 Minuten Arbeitsweg — mit dem Auto.</p>
+    </div>
+  </div>
+  <p class="big mt-l">Für ihn ist das Auto kein Luxus, sondern die <b>Bedingung seines Jobs.</b></p>
+  <div class="quote">„Ich würde ja gern umsteigen — nur fährt hier kein Bus, und ein E-Auto kann ich mir nicht leisten."</div>
+  <div class="foot">
+    <a class="brand" href="https://kanzlerclash.github.io/personas/">kanzlerclash.github.io<span class="cl">/personas</span></a>
+    <span class="pg">3 / 5</span>
+  </div>
+</section>
+
+<!-- SLIDE 4 -->
+<section class="slide">
+  <span class="kicker">Das Ergebnis</span>
+  <h2 class="mt-s">Toralf × Grüne — sechs Urteile</h2>
+  <div class="verdicts">
+    <div class="row"><span class="model">Claude Opus 4.8</span><span class="badge b-good">eher zustimmend&nbsp;· +1</span></div>
+    <div class="row"><span class="model">Gemini 3.1 Pro</span><span class="badge b-mid">gemischt&nbsp;· 0</span></div>
+    <div class="row"><span class="model">Claude Sonnet 4.6</span><span class="badge b-bad">eher ablehnend&nbsp;· −1</span></div>
+    <div class="row"><span class="model">GPT-5.5</span><span class="badge b-bad">eher ablehnend&nbsp;· −1</span></div>
+    <div class="row"><span class="model">Qwen 3.7 Max</span><span class="badge b-bad">eher ablehnend&nbsp;· −1</span></div>
+    <div class="row"><span class="model">Grok 4.3</span><span class="badge b-bad">ablehnend&nbsp;· −2</span></div>
+  </div>
+  <p class="scale">Skala: +2 zustimmend … 0 gemischt … −2 ablehnend</p>
+  <div class="spacer"></div>
+  <p class="big">Der Clou: Alle finden <b>dieselben</b> Programmpunkte — Stundentakt-Bus, Ladeinfrastruktur, Verbrenner-Umrüstung. Sie <b>gewichten</b> sie nur unterschiedlich.</p>
+  <div style="height:40px"></div>
+  <div class="foot">
+    <a class="brand" href="https://kanzlerclash.github.io/personas/">kanzlerclash.github.io<span class="cl">/personas</span></a>
+    <span class="pg">4 / 5</span>
+  </div>
+</section>
+
+<!-- SLIDE 5 -->
+<section class="slide dark">
+  <span class="kicker">Die Lektion</span>
+  <div class="insight-num mt-s" style="color:#7fd0e8">±3</div>
+  <h2 class="mt-s">Es gibt keine neutrale KI-Bewertung von Politik.</h2>
+  <p class="lead mt-m">Welches Modell du fragst, entscheidet mit über das Ergebnis. Deshalb vergleichen wir mehrere Modelle offen nebeneinander — statt einem einzelnen zu vertrauen.</p>
+  <p class="big mt-m" style="color:#fff">Keine Wahlempfehlung. Nur Perspektiven&shy;vielfalt, transparent gemacht.</p>
+  <div class="mt-l">
+    <a class="cta" href="https://kanzlerclash.github.io/personas/persona/pendler/">👉 Toralf & alle sechs Modell-Urteile im Detail</a>
+    <div class="cta-url"><a href="https://kanzlerclash.github.io/personas/persona/pendler/" style="color:inherit;text-decoration:none">kanzlerclash.github.io/personas/persona/pendler/</a></div>
+  </div>
+  <div class="foot">
+    <a class="brand" href="https://kanzlerclash.github.io/personas/">kanzlerclash.github.io<span class="cl">/personas</span></a>
+    <span class="pg">5 / 5</span>
+  </div>
+</section>
+
+</body>
+</html>

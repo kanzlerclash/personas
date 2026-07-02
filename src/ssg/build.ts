@@ -467,6 +467,10 @@ async function main() {
   }
   mkdirSync(join(OUT, "assets"), { recursive: true });
   cpSync(join(ROOT, "src", "site", "style.css"), join(OUT, "assets", "style.css"));
+  // Statische Slide-Decks (LinkedIn-Carousels) 1:1 nach dist/slides/ kopieren
+  if (existsSync(join(ROOT, "src", "site", "slides"))) {
+    cpSync(join(ROOT, "src", "site", "slides"), join(OUT, "slides"), { recursive: true });
+  }
   try { await avatare(); } catch (err) { console.warn("⚠ Avatar-Rendering übersprungen:", (err as Error).message); }
   // .nojekyll, damit GitHub Pages Ordner mit _ nicht ignoriert
   writeFileSync(join(OUT, ".nojekyll"), "");
