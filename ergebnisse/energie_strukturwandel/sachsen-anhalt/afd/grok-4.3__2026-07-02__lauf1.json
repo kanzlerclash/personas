@@ -1,0 +1,76 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:35:52.777Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89809,
+    "output_tokens": 1638,
+    "cached_tokens": 2304,
+    "total_tokens": 91447,
+    "dauer_ms": 17011,
+    "usd": 0.11570205
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kohleausstieg stoppen – Standort erhalten!",
+      "thema": "energie",
+      "programmpunkt": "Kohleausstieg stoppen und Kohlestandort Sachsen-Anhalt über 2038 hinaus erhalten, um Versorgungssicherheit und Arbeitsplätze zu sichern.",
+      "seite": 13,
+      "zitat": "Kohleausstieg stoppen – Kohlestandort Sachsen-Anhalt erhalten!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht in der Ablehnung eines festen Ausstiegsdatums ohne Ersatz die einzige realistische Chance, seine Region und seinen Arbeitsplatz zu erhalten.",
+      "begruendung_selbst": "Endlich einer, der nicht erst das Alte abschaltet, bevor das Neue steht – sonst verlieren wir hier alles.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Windkraftmoratorium jetzt!",
+      "thema": "energie",
+      "programmpunkt": "Windkraftausbau stoppen und Moratorium beschließen, um Landschaft, Netzstabilität und lokale Wertschöpfung zu schützen.",
+      "seite": 13,
+      "zitat": "Windkraftmoratorium beschließen!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny erlebt die negativen Folgen unkontrollierten Ausbaus für Netze und Region direkt und begrüßt die klare Ablehnung.",
+      "begruendung_selbst": "Kein weiteres Chaos im Netz und in der Landschaft – erstmal Schluss damit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kernkraft wieder rein!",
+      "thema": "energie",
+      "programmpunkt": "Wiedereinstieg in die Kernenergie und Kernenergieforschung einleiten, um kostengünstige und sichere Stromversorgung zu gewährleisten.",
+      "seite": 13,
+      "zitat": "Eine AfD-Landesregierung wird sich im Bundesrat für einen Wiedereinstieg in die Kernkraft einsetzen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht in einer technologieoffenen Strategie inklusive Kernkraft die einzige Möglichkeit, Versorgungssicherheit und Industriearbeitsplätze langfristig zu sichern.",
+      "begruendung_selbst": "Wir brauchen alle Optionen, die funktionieren – nicht ideologische Verbote.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Russland-Sanktionen beenden!",
+      "thema": "energie",
+      "programmpunkt": "Energiepolitische Sanktionen gegen Russland beenden und Nord-Stream-Pipelines wieder in Betrieb nehmen, um günstige Energieimporte zu ermöglichen.",
+      "seite": 13,
+      "zitat": "dass die energiepolitischen Sanktionen gegen Russland beendet und die deutsch-russischen Handelsbeziehungen normalisiert werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny verbindet die hohen Energiepreise und die Deindustrialisierung direkt mit den Sanktionen und begrüßt die Forderung nach Normalisierung.",
+      "begruendung_selbst": "Ohne günstige Energie läuft hier nichts mehr – die Sanktionen schaden uns mehr als allen anderen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet im Programm klare Übereinstimmungen mit seinen Kernanliegen: keine starren Ausstiegsdaten ohne Ersatz, Erhalt der Kohle, Stopp des Windkraftausbaus und Rückkehr zu einer technologieoffenen Energiepolitik. Das Programm spricht seine berufliche und regionale Existenzangst direkt an und bietet ihm die von ihm geforderte pragmatische Brücke statt ideologischer Schnell-Ausstiege.",
+    "score": 2
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:31:28.216Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81996,
+    "output_tokens": 1953,
+    "cached_tokens": 2304,
+    "total_tokens": 83949,
+    "dauer_ms": 19053,
+    "usd": 0.1066608
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Handwerk wertschätzen!",
+      "thema": "arbeit",
+      "programmpunkt": "Handwerk als Rückgrat der Wirtschaft stärken durch Meistergründungsprämie, bessere Ausbildungsbedingungen und Wertschätzungskampagne.",
+      "seite": 90,
+      "zitat": "Wir wollen die Wertschätzung des Handwerks stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine trägt als Inhaberin eines SHK-Betriebs Verantwortung für acht Beschäftigte und Ausbildung; die explizite Anerkennung des Handwerks und gezielte Förderung von Meistern und Nachwuchs treffen ihre tägliche Sorge um Fachkräfte und Betriebsnachfolge.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass unser Handwerk das Rückgrat ist und nicht nur immer neue Vorschriften kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Akten, mehr digitale Anträge!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Bürokratieabbau durch digitale Verwaltung, einheitliche Standards und zentrale Zugänge wie die Sachsen-Anhalt-App.",
+      "seite": 89,
+      "zitat": "Dokumentations- und Berichtspflichten sollen reduziert und Verfahren durch klare Zuständigkeiten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt Abende mit Papierkram und Anträgen; jede Erleichterung bei digitalen, medienbruchfreien Verfahren und reduzierten Nachweispflichten spart ihr reale Arbeitszeit und Liquidität.",
+      "begruendung_selbst": "Ich hätte gern mehr Azubis und weniger Aktenordner – genau das würde mir helfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verlässliche Energiepreise für Betriebe!",
+      "thema": "energie",
+      "programmpunkt": "Strompreise senken durch niedrigere Steuern, regionale Netzentgelte und Transformationsfonds für energieintensive KMU.",
+      "seite": 88,
+      "zitat": "Energiepreise für Unternehmen zu senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe und volatile Energiekosten belasten ihren Werkstattbetrieb und die Vorfinanzierung von Aufträgen; Maßnahmen, die Preise für kleine und mittlere Handwerksbetriebe senken, verbessern direkt ihre Liquidität.",
+      "begruendung_selbst": "Bezahlbare Energie ist für uns existenziell – ohne die laufen die Maschinen nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Immer neue Heizungsregeln – Kunden verunsichert!",
+      "thema": "energie",
+      "programmpunkt": "Ambitioniertes Klimaschutzgesetz mit klaren Minderungszielen bis 2035 und verpflichtende Solarpflicht auf Neubauten und Sanierungen.",
+      "seite": 10,
+      "zitat": "verbindliches und kontrollierbares Klimaschutzgesetz mit ambitionierten Minderungszielen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabines Aufträge im Heizungsbereich hängen von verlässlichen, nicht ständig wechselnden Vorgaben ab; ambitionierte und detaillierte Vorgaben ohne ausreichende Übergangsfristen verunsichern ihre Kundschaft und lassen Aufträge platzen.",
+      "begruendung_selbst": "Sag mir eine Regel, an die ich mich halten kann – aber bitte nicht jedes halbe Jahr eine neue.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Kontrollen und Auflagen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Ausweitung von Kontrollen bei Pflanzenschutzmitteln, strengere Tierhaltungs- und Umweltvorgaben sowie zusätzliche Berichtspflichten.",
+      "seite": 17,
+      "zitat": "Kontrollen landwirtschaftlicher Betriebe deutlich ausweiten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine sieht in der Verwaltung bereits den größten Zeitfresser; jede zusätzliche Kontroll- und Dokumentationspflicht, auch wenn sie primär andere Branchen trifft, verstärkt ihr generelles Misstrauen gegenüber immer mehr bürokratischen Auflagen für den Mittelstand.",
+      "begruendung_selbst": "Die Großen haben Rechtsabteilungen – ich hab nur meine Werkstatt und den Papierkram.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet einzelne positive Ansätze zur Stärkung des Handwerks und zum Bürokratieabbau, die ihre tägliche Belastung direkt lindern könnten. Gleichzeitig lehnt sie die ambitionierten und detailreichen Klimavorgaben ab, weil sie ihre Kunden verunsichern und Planungssicherheit zerstören. Insgesamt überwiegt Skepsis gegenüber weiteren Regulierungen.",
+    "score": -1
+  }
+}

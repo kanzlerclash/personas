@@ -1,0 +1,88 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:41:13.541Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49506,
+    "output_tokens": 2078,
+    "cached_tokens": 128,
+    "total_tokens": 51584,
+    "dauer_ms": 23829,
+    "usd": 0.0690356
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Grunderwerbsteuer-Freibetrag!",
+      "thema": "steuern",
+      "programmpunkt": "Einführung eines Grunderwerbsteuer-Freibetrags für den erstmaligen Erwerb selbstgenutzten Wohneigentums, kombiniert mit bestehenden Förderprogrammen.",
+      "seite": 12,
+      "zitat": "Grunderwerbsteuer-Freibetrag für den erstmaligen Erwerb selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sehen genau hier die größte Hürde beim Eigenheimkauf. Der Freibetrag senkt direkt den Eigenkapitalbedarf und macht den Schritt ins Eigentum realistischer.",
+      "begruendung_selbst": "Endlich wird die Grunderwerbsteuer beim ersten Kauf gesenkt – das ist genau das, was uns bisher fehlt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung für selbstgenutztes Wohneigentum stärken!",
+      "thema": "wohnen",
+      "programmpunkt": "Stärkung des bestehenden Förderprogramms für selbstgenutztes Wohneigentum mit zinsvergünstigten Darlehen und familienbezogenen Aufstockungen.",
+      "seite": 12,
+      "zitat": "stärken das bestehende Förderprogramm für selbstgenutztes Wohneigentum",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Programm adressiert direkt ihre Situation als junge Familie mit begrenztem Eigenkapital und macht den Erwerb von Wohneigentum finanziell greifbarer.",
+      "begruendung_selbst": "Mehr Förderung und günstigere Darlehen für Familien – endlich wird unser Traum vom Eigenheim unterstützt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitaler Bauantrag spart Zeit und Nerven!",
+      "thema": "wohnen",
+      "programmpunkt": "Durchgängige digitale Genehmigungskette vom Antrag bis zum Bescheid, um Planungs- und Genehmigungsverfahren zu beschleunigen.",
+      "seite": 13,
+      "zitat": "durchgängige, verlässliche digitale Genehmigungskette",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Lange Wartezeiten und Papierkram verzögern aktuell ihren Bau- oder Kaufprozess; schnellere digitale Verfahren erleichtern den Weg ins Eigenheim spürbar.",
+      "begruendung_selbst": "Weniger Formulare und schnellere Genehmigungen – das brauchen wir, damit das Bauen nicht ewig dauert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Europäisches Mindestmaß statt teurer Auflagen!",
+      "thema": "energie",
+      "programmpunkt": "Keine deutsche Übererfüllung von EU-Vorgaben (Gold-Plating), one-in-two-out-Prinzip und Ausrichtung am europäischen Mindestmaß bei neuen Pflichten.",
+      "seite": 8,
+      "zitat": "am europäischen Mindestmaß orientiert und verbindlich nach dem one-in-two-out-Prinzip",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Strenge energetische Vorgaben treiben Baukosten in die Höhe; die FDP-Position verspricht Entlastung von überzogenen Auflagen, die ihr Budget sprengen würden.",
+      "begruendung_selbst": "Nicht noch mehr teure Vorschriften, die das Bauen unnötig verteuern – endlich realistische Regeln.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "30 Minuten bis zum Mittelzentrum!",
+      "thema": "verkehr",
+      "programmpunkt": "Ziel, dass überall im Land ein Mittelzentrum in maximal 30 Minuten erreichbar ist, plus Ausbau von Straßen, Radwegen und ÖPNV.",
+      "seite": 62,
+      "zitat": "Mittelzentrum in einer Zeit von 30 Minuten erreichbar sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Pendler im Speckgürtel profitieren sie direkt von besserer Erreichbarkeit von Arbeit, Kita und Versorgung ohne lange Wege.",
+      "begruendung_selbst": "Mit dem Auto oder Bus in 30 Minuten in der Stadt – das macht das Leben mit Kind und zwei Jobs machbar.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Programm spricht Tom und Jessica an vielen Stellen direkt an: Eigentumsförderung, Steuerentlastung beim Ersterwerb, Bürokratieabbau beim Bauen und realistischere Energieauflagen treffen ihre zentralen Sorgen. Sie sehen hier konkrete Ansätze, die ihren Eigenheim-Traum wieder erreichbar machen könnten. Kritische Punkte zu ihrer Lage finden sich nicht.",
+    "score": 2
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:50:59.987Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 78915,
+    "output_tokens": 1689,
+    "cached_tokens": 77888,
+    "total_tokens": 80604,
+    "dauer_ms": 13406,
+    "usd": 0.02256635
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Tarif für alle in der Pflege!",
+      "thema": "gesundheit",
+      "programmpunkt": "Verbindliches Tariftreuegesetz für alle Beschäftigten in Krankenhäusern und Gesundheitseinrichtungen, unabhängig von Beschäftigungsform oder Ausgliederung.",
+      "seite": 57,
+      "zitat": "Tariftreuegesetz für Krankenhäuser in Sachsen-Anhalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich, wie Tochtergesellschaften und Leiharbeit Tarifstandards unterlaufen. Das geforderte Tariftreuegesetz würde ihre Bezahlung und die ihrer Kolleginnen direkt verbessern und die Spaltung der Belegschaft stoppen.",
+      "begruendung_selbst": "Endlich gleiches Geld für gleiche Arbeit, auch bei den Ausgegliederten – das spür ich sofort auf meinem Konto und in der Motivation.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflegevollversicherung statt Eigenanteile!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung einer Pflegevollversicherung, die überwiegend aus Steuermitteln finanziert wird, um Pflege bezahlbar zu halten und Angehörige zu entlasten.",
+      "seite": 58,
+      "zitat": "Pflegevollversicherung, die überwiegend aus Steuermitteln finanziert wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht täglich, wie hohe Eigenanteile Patienten und Familien in die Armut treiben. Eine steuerfinanzierte Vollversicherung würde die finanzielle Belastung ihrer Patienten mindern und den Druck auf die Stationen verringern.",
+      "begruendung_selbst": "Meine Patienten sollen nicht ihre Ersparnisse aufbrauchen müssen – das ist menschenunwürdig und macht meinen Job nur noch schwerer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausländische Abschlüsse endlich anerkennen!",
+      "thema": "integration",
+      "programmpunkt": "Deutliche Beschleunigung und Vereinfachung der Anerkennung ausländischer Berufsabschlüsse sowie flexible Nachqualifizierung für Pflegekräfte.",
+      "seite": 23,
+      "zitat": "Die Anerkennung ausländischer Berufsabschlüsse muss schneller und einfacher erfolgen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Station funktioniert nur durch Kolleginnen aus dem Ausland. Schnellere Anerkennung und Nachqualifizierung würden den Personalmangel lindern und ihre tägliche Arbeitslast verringern.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland läuft hier gar nichts – endlich sollen die auch richtig anerkannt und bezahlt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rekommunalisierung statt Rendite!",
+      "thema": "gesundheit",
+      "programmpunkt": "Rekommunalisierung zentraler Bereiche der Daseinsvorsorge und Rückführung privatisierter Krankenhäuser in öffentliche Hand.",
+      "seite": 77,
+      "zitat": "Daseinsvorsorge rekommunalisieren und Privatisierungen stoppen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt, wie private Träger Personal abbauen und Rendite priorisieren. Die Rückführung in öffentliche Hand würde den Fokus wieder auf Versorgung statt Profit legen und ihre Arbeitsbedingungen verbessern.",
+      "begruendung_selbst": "Privatisierung hat uns nur noch mehr Stress und weniger Kollegen gebracht – zurück in öffentliche Hand, wo der Patient zählt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet im BSW-Programm mehrere direkte Entlastungen für ihren Pflegealltag: Tariftreue, Pflegevollversicherung, schnellere Anerkennung ausländischer Abschlüsse und Rekommunalisierung. Diese Punkte treffen exakt ihre Sorgen um Personal, Bezahlung und Privatisierungsdruck. Kritische Punkte fehlen weitgehend, da das Programm ihre migrantischen Kolleginnen stützt und Ökonomisierung ablehnt.",
+    "score": 2
+  }
+}

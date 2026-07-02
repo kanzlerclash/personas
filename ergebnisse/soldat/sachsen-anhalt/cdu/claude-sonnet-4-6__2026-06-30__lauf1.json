@@ -23,14 +23,13 @@
       "titel_selbst": "Bevölkerungsschutz gestärkt!",
       "thema": "sicherheit",
       "programmpunkt": "Die CDU will Katastrophenschutz und Bevölkerungsschutz stärken, Katastrophenschutzübungen regelmäßig durchführen und das Ehrenamt in diesem Bereich fördern.",
-      "seite": 10,
-      "zitat": "Katastrophenschutz und Bevölkerungsschutz stärken wir",
+      "seite": 9,
+      "zitat": "Brand- und Katastrophenschutz sowie unsere Feuerwehren weiter stärken",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Stefan denkt als Soldat gesamtverteidigungspolitisch: Bundeswehr und zivile Resilienz sind zwei Seiten derselben Medaille. Ein gestärkter Bevölkerungsschutz erhöht die Gesamtresilienz des Landes – das ist seine Perspektive.",
       "begruendung_selbst": "Im Einsatz denkt man gesamtheitlich: Was nützt eine gute Truppe, wenn das Hinterland nicht funktioniert? Bevölkerungsschutz ist Sicherheitspolitik – ich bin froh, dass das Priorität hat.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Verteidigungsindustrie ausgebaut!",
@@ -74,14 +73,13 @@
       "titel_selbst": "Bundeswehr kaum Thema!",
       "thema": "verteidigung",
       "programmpunkt": "Als Landeswahlprogramm enthält das CDU-Papier erwartungsgemäß kaum direkte Aussagen zu Bundeswehr, Ausrüstung, Besoldung oder NATO-Verpflichtungen – das ist Bundeskompetenz.",
-      "seite": 87,
-      "zitat": "Zusammenarbeit mit dem Bund und auf europäischer Ebene",
+      "seite": 88,
+      "zitat": "dass Sachsen-Anhalt auf europäischer Ebene sichtbar bleibt",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Stefans Kernthemen – Ausrüstungsmängel, Besoldung, Bündnisfähigkeit – liegen in Bundeshand. Das Landeswahlprogramm kann hier strukturell kaum Antworten geben. Das ist kein Fehler des Programms, schränkt aber die Relevanz für ihn erheblich ein.",
       "begruendung_selbst": "Ich mache mir täglich Gedanken um Ausrüstung und Einsatzbereitschaft. Das wird hier kaum angesprochen – aber ich verstehe, dass das Landespolitik nicht leisten kann.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

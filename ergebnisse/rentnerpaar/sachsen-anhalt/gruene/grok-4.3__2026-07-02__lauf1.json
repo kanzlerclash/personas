@@ -1,0 +1,101 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:34:15.479Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81864,
+    "output_tokens": 1992,
+    "cached_tokens": 80832,
+    "total_tokens": 83856,
+    "dauer_ms": 16911,
+    "usd": 0.0239464
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mehr Pflege vor Ort sichern!",
+      "thema": "gesundheit",
+      "programmpunkt": "Ausbau ambulanter und stationärer Pflegeangebote sowie Quartierskonzepte zur Entlastung pflegender Angehöriger",
+      "seite": 86,
+      "zitat": "Kurzzeitpflegeplätze und integrierte Wohnformen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten steigende Pflegekosten und fehlende Versorgung auf dem Land; konkrete Angebote vor Ort sprechen ihre existenzielle Sorge direkt an.",
+      "begruendung_selbst": "Wenn wir mal nicht mehr allein zurechtkommen, soll es hier im Dorf Hilfe geben und nicht erst in der Stadt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hausarzt auf dem Land halten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Förderung kommunaler Gesundheitszentren und Anreize für Fachärztinnen in der Fläche",
+      "seite": 80,
+      "zitat": "kommunale Gesundheitszentren fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar lebt in einem Dorf mit nur einem erreichbaren Hausarzt; Maßnahmen zur Sicherung der Versorgung im ländlichen Raum treffen ihre Alltagssorge.",
+      "begruendung_selbst": "Solange der Arzt hier bleibt, können wir noch einigermaßen ruhig schlafen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sanierungspflicht – von welchem Geld?",
+      "thema": "wohnen",
+      "programmpunkt": "Verpflichtende Nutzung von Solarenergie bei Neubauten und umfänglichen Dachsanierungen sowie energetische Sanierungsanreize mit Fokus auf Einkommensabhängigkeit",
+      "seite": 23,
+      "zitat": "Pflicht zur Nutzung von Solarenergie bei Neubauten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter besitzen ein abbezahltes Haus von 1981 ohne nennenswerte Rücklagen; jede verpflichtende Sanierungs- oder Solarpflicht löst bei ihnen akute finanzielle Angst aus.",
+      "begruendung_selbst": "Wenn die uns das Dach vorschreiben, müssen wir das Haus verkaufen – von der Rente können wir das nicht bezahlen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz bis 2035 – unsere Heizung?",
+      "thema": "energie",
+      "programmpunkt": "Ambitioniertes Klimaschutzgesetz mit klaren Minderungszielen und Wärmewende mit Umstieg auf erneuerbare Wärmequellen",
+      "seite": 10,
+      "zitat": "klimaneutrales Sachsen-Anhalt bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar heizt mit Öl oder Gas und hat keine Mittel für einen schnellen Umstieg; das enge Zeitfenster und die damit verbundenen Kosten wirken existenziell bedrohlich.",
+      "begruendung_selbst": "Bis 2035 sollen wir alles umbauen? Das ist doch für Leute mit dickem Geldbeutel, nicht für uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Höhere Wasserpreise für Rentner?",
+      "thema": "energie",
+      "programmpunkt": "Höhere Wasserentnahmeentgelte für Großverbraucher mit Rabatt für Landwirtschaft",
+      "seite": 11,
+      "zitat": "höhere Wasserentnahmeentgelte für Wasser-Großverbraucher",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Steigende Nebenkosten belasten das knappe Renteneinkommen zusätzlich; das Paar sieht darin eine weitere Belastung ohne erkennbaren Nutzen für den eigenen Alltag.",
+      "begruendung_selbst": "Wasser wird schon teurer, und jetzt soll es noch mehr kosten – wo soll das denn noch hin?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netto-Null-Flächenverbrauch – unser Haus?",
+      "thema": "wohnen",
+      "programmpunkt": "Netto-Null-Hektar-Ziel bis 2050 und Begrenzung großflächiger Bodenversiegelung",
+      "seite": 9,
+      "zitat": "Durch das „Netto-Null-Hektar“-Ziel soll sichergestellt werden, dass bis 2050",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Eigenheim ist ihr zentrales Vermögen; strikte Flächenvorgaben und mögliche Einschränkungen bei Reparaturen oder Erweiterungen erzeugen Unsicherheit.",
+      "begruendung_selbst": "Am Ende dürfen wir am Haus nichts mehr machen, weil alles versiegelt ist.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter sehen in den grünen Vorschlägen vor allem neue finanzielle und regulatorische Risiken für ihr abbezahltes Haus und ihre knappe Rente. Die ambitionierten Klima- und Sanierungsziele treffen ihre größte Angst – unbezahlbare Pflichten im Alter. Positiv nehmen sie lediglich die Ansätze zur Stärkung der ländlichen Gesundheits- und Pflegeversorgung wahr, die ihre konkrete Lebenslage etwas entlasten könnten.",
+    "score": -2
+  }
+}

@@ -86,13 +86,12 @@
       "thema": "gesundheit",
       "programmpunkt": "Das Programm äußert sich nicht konkret zum Rentenniveau oder zur Rentenabsicherung; wirtschaftliche Stärkung wird als Grundlage für soziale Absicherung benannt.",
       "seite": 12,
-      "zitat": "Dauerhaft steigende und sichere Einkommen entstehen... durch eine starke und wettbewerbsfähige Wirtschaft",
+      "zitat": "Dauerhaft steigende und si chere Einkommen entstehen",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Das Rentnerpaar erwartet klare Aussagen zum Schutz des Rentenniveaus. Das CDU-Programm verweist stattdessen auf wirtschaftliche Stärke als Basis – das ist ihnen zu abstrakt und gibt keine direkte Sicherheit.",
       "begruendung_selbst": "Wir haben unser Leben lang gearbeitet und jetzt soll die Rente sicher sein. Uns zu sagen, das hängt von der Wirtschaft ab – das klingt nicht nach Versprechen, das klingt nach Ausrede.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

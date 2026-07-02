@@ -1,0 +1,76 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:46:57.633Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95346,
+    "output_tokens": 1595,
+    "cached_tokens": 84224,
+    "total_tokens": 96941,
+    "dauer_ms": 13469,
+    "usd": 0.0361023
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich öffentliche Krankenhäuser statt Rendite!",
+      "thema": "gesundheit",
+      "programmpunkt": "Krankenhäuser in öffentliche Hand überführen, Rekommunalisierung privatisierter Häuser, Abschaffung der Fallpauschalen zugunsten bedarfsgerechter Finanzierung.",
+      "seite": 48,
+      "zitat": "Krankenhäuser sollen nach Bedarf und Qualität finanziert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich, wie private Träger Personal abbauen und Stationen schließen, um Rendite zu erzielen. Die Forderung nach Rekommunalisierung und bedarfsorientierter Finanzierung trifft genau ihre Erfahrung, dass Profit vor Versorgung geht.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass Krankenhäuser nicht für Aktionäre da sind, sondern für uns und die Patienten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Personal, echte Entlastung!",
+      "thema": "gesundheit",
+      "programmpunkt": "Gesetzliche, bedarfsgerechte und voll finanzierte Personalbemessung für alle Berufsgruppen im Krankenhaus, verbindliche Tarifbindung und Angleichung an westdeutsches Lohnniveau.",
+      "seite": 50,
+      "zitat": "gesetzliche, bedarfsgerechte und voll finanzierte Personalbemessung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre Station ist chronisch unterbesetzt; die Forderung nach verbindlicher Personalbemessung und Tarifbindung verspricht genau die Entlastung, die sie seit Jahren vermisst.",
+      "begruendung_selbst": "Schickt uns Personal, keine Sonntagsreden – das ist endlich mal was Konkretes.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Migrantische Kolleginnen bleiben willkommen!",
+      "thema": "integration",
+      "programmpunkt": "Schnelle Anerkennung ausländischer Berufsabschlüsse, Brückenqualifizierung, faire Arbeitsmigration und Schutz vor Ausbeutung, Integration ab Kindesbeinen.",
+      "seite": 88,
+      "zitat": "Schnelle Anerkennung von Berufsabschlüssen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ohne ihre Kolleginnen aus dem Ausland würde die Station nicht mehr laufen; die klare Unterstützung für Anerkennung und faire Bedingungen schützt direkt ihre Belegschaft.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht – und manche reden, als wären sie das Problem.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarifbindung und 16,50 Euro Mindestlohn!",
+      "thema": "arbeit",
+      "programmpunkt": "Tarifbindung stärken, Vergabemindestlohn von 16,50 Euro, Allgemeinverbindlichkeit von Tarifverträgen erleichtern, Ausbildungsumlage.",
+      "seite": 86,
+      "zitat": "Tarifbindung stärken - faire Löhne sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin empfindet ihr Gehalt trotz Schichtzulagen als zu niedrig gemessen an der Belastung; die Forderung nach stärkerer Tarifbindung und höherem Mindestlohn entspricht ihrer Forderung nach Anerkennung.",
+      "begruendung_selbst": "Wir arbeiten uns kaputt und sollen dankbar sein – endlich mal echte Lohnforderungen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Kerstin sieht in dem Programm vor allem direkte Entlastung für ihre tägliche Arbeit: öffentliche Trägerschaft, verbindliche Personalbemessung, Tarifbindung und klare Unterstützung für migrantische Pflegekräfte. Diese Punkte treffen ihre Kernprobleme Unterbesetzung, Ökonomisierung und Personalnot. Negative Berührungen mit ihrer Lage gibt es nicht.",
+    "score": 2
+  }
+}

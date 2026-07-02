@@ -1,0 +1,101 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:49:16.496Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 79072,
+    "output_tokens": 1968,
+    "cached_tokens": 2304,
+    "total_tokens": 81040,
+    "dauer_ms": 17602,
+    "usd": 0.1028183
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau für Handwerker!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Mittelstand durch vereinfachte Finanzierung, Kreditvergabe und Abbau bürokratischer Hürden stärken",
+      "seite": 20,
+      "zitat": "Bürokratie und Sonderregelungen abbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine kämpft täglich mit Antragsflut und Genehmigungsverzögerungen, die ihre Auftragsabwicklung verzögern. Das Programm verspricht genau hier Entlastung für KMU.",
+      "begruendung_selbst": "Endlich weniger Formulare und schnellere Kredite – ich verbringe schon genug Zeit am Schreibtisch statt auf der Baustelle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bezahlbare Energie statt Preis-Chaos!",
+      "thema": "energie",
+      "programmpunkt": "Energiepreise durch breiten Energiemix und Abschaffung der CO₂-Abgabe senken",
+      "seite": 7,
+      "zitat": "Energiesteuern müssen runter. Die CO₂-Abgabe gehört abgeschafft.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiekosten belasten ihren Betrieb und verunsichern Kunden beim Heizungstausch. Das Programm fordert stabile, bezahlbare Preise ohne ideologische Sonderwege.",
+      "begruendung_selbst": "Wenn der Strom und das Gas wieder bezahlbar sind, können meine Kunden endlich vernünftig planen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte ausbilden statt nur anwerben!",
+      "thema": "arbeit",
+      "programmpunkt": "Ausbildung und Weiterbildung stärken, Berufsschulen ausbauen und Meisterqualifikation fördern",
+      "seite": 23,
+      "zitat": "Berufsschulen müssen personell, technisch und finanziell so ausgestattet sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine findet keine Azubis und Gesellen. Das Programm setzt auf heimische Ausbildung und Aufwertung des Handwerks statt allein auf Zuwanderung.",
+      "begruendung_selbst": "Ich brauche Leute, die das Handwerk wirklich können – und nicht nur Papiere.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Anträge ohne Digitalzwang!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Digitale Verwaltungsverfahren beschleunigen und analoge Wege erhalten",
+      "seite": 75,
+      "zitat": "Recht auf analoge Verwaltung ohne Digitalzwang sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sie will schnellere digitale Anträge, aber keine Pflicht, die ältere Kunden oder sie selbst ausschließt. Das Programm respektiert beide Wege.",
+      "begruendung_selbst": "Online soll schneller gehen, aber ich will nicht gezwungen werden, wenn es mal nicht klappt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mehr Steuern auf Vermögen und Erbschaft?",
+      "thema": "steuern",
+      "programmpunkt": "Wiedereinführung der Vermögensteuer und Reform der Erbschaftsteuer mit höherer Belastung großer Vermögen",
+      "seite": 36,
+      "zitat": "Wiedereinführung der Vermögenssteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine plant die Betriebsübergabe in etwa zehn Jahren. Höhere Erbschafts- und Vermögensteuern würden die Nachfolge erschweren und Liquidität belasten.",
+      "begruendung_selbst": "Wenn der Betrieb, den ich aufgebaut habe, beim Weitergeben plötzlich teuer wird, ist das der falsche Anreiz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tariftreue bei Aufträgen – aber für wen?",
+      "thema": "arbeit",
+      "programmpunkt": "Öffentliche Aufträge nur an tarifgebundene Unternehmen vergeben",
+      "seite": 22,
+      "zitat": "Öffentliche Aufträge und Fördermittel dürfen nur an tarifgebundene Unternehmen vergeben werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als kleiner Handwerksbetrieb mit flexiblen Lohnstrukturen sieht sie sich gegenüber großen tarifgebundenen Firmen benachteiligt, die Lobby und Rechtsabteilungen haben.",
+      "begruendung_selbst": "Ich zahle fair, aber ich kann nicht jeden Tarifvertrag mitmachen – dann kriege ich keine öffentlichen Aufträge mehr.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet im Programm klare Entlastungen bei Bürokratie, Energiepreisen und Ausbildung, die ihren Alltag als Handwerkschefin direkt betreffen. Gleichzeitig lehnt sie höhere Vermögens- und Erbschaftssteuern sowie starre Tarifvorgaben ab, weil sie ihre Betriebsnachfolge und Wettbewerbsfähigkeit gefährden. Insgesamt überwiegen die positiven Berührungen ihrer wirtschaftlichen Lage.",
+    "score": 1
+  }
+}

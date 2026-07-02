@@ -1,0 +1,88 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:28:33.156Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56714,
+    "output_tokens": 1800,
+    "cached_tokens": 128,
+    "total_tokens": 58514,
+    "dauer_ms": 17808,
+    "usd": 0.0768281
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkram!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Dokumentationspflichten in der Landwirtschaft auf das Notwendigste reduzieren und unnötige Bürokratie abbauen.",
+      "seite": 41,
+      "zitat": "Dokumentationspflichten auf das Notwendigste reduzieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sieht in der Reduzierung von Dokumentationspflichten eine direkte Entlastung seines Betriebsalltags, der bereits stark durch Auflagen belastet ist.",
+      "begruendung_selbst": "Jedes Jahr neue Formulare – wenn die jetzt wirklich weniger werden, kann ich endlich wieder mehr Zeit auf dem Feld verbringen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wolf endlich regulieren!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Wirksame Regelungen zur Regulierung des Wolfsbestandes und Ausweitung des Schadensausgleichs auf weitere Arten.",
+      "seite": 40,
+      "zitat": "Wir setzen uns für wirksame Regelungen zur Regulierung des Wolfsbestandes ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Wolf stellt für Franks Weidetierhaltung ein konkretes wirtschaftliches Risiko dar; die angekündigte Regulierung und Schadensausgleich entsprechen seiner langjährigen Forderung.",
+      "begruendung_selbst": "Die Wölfe reißen mir die Kälber – endlich sagt mal jemand, dass wir die Bestände in den Griff kriegen müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine zusätzlichen EU-Lasten!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "EU-Recht nur 1:1 umsetzen und nationale Alleingänge beenden, um Wettbewerbsnachteile abzubauen.",
+      "seite": 38,
+      "zitat": "EU-Recht nur 1:1 umsetzen und Wettbewerbsnachteile konsequent abbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich von übererfüllten Vorgaben aus Brüssel und Berlin besonders gegängelt; die klare 1:1-Umsetzung verspricht ihm mehr Planungssicherheit.",
+      "begruendung_selbst": "Wenn die das wirklich durchziehen, muss ich nicht mehr für Regeln büßen, die andere Länder gar nicht haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Agrardiesel bleibt bezahlbar!",
+      "thema": "energie",
+      "programmpunkt": "Land- und Forstwirtschaft von weiteren CO₂-Kosten ausnehmen und der energieintensiven Industrie gleichstellen.",
+      "seite": 42,
+      "zitat": "von einem weiteren Anstieg der CO2-Kosten ausgenommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Steigende Energiekosten treffen Franks Betrieb unmittelbar bei Diesel, Trocknung und Bewässerung; die Ausnahme sichert seine Wettbewerbsfähigkeit.",
+      "begruendung_selbst": "Diesel ist für uns existenziell – wenn die uns da nicht noch mehr abknöpfen, bleibt der Hof wenigstens rechenbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ackerboden bleibt Ackerboden!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Landwirtschaftliche Nutzflächen wirksam schützen und Inanspruchnahme für andere Zwecke deutlich begrenzen.",
+      "seite": 39,
+      "zitat": "landwirtschaftliche Nutzflächen wirksam schützen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Flächenfraß durch Industrie und Ausgleichsmaßnahmen bedroht Franks Pacht- und Eigentumsflächen direkt; der Vorrang für landwirtschaftliche Nutzung entspricht seiner Kernforderung.",
+      "begruendung_selbst": "Jeder Hektar, der weg ist, fehlt mir morgen – gut, dass die das mal klar sagen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Frank erkennt im Programm vor allem Entlastungen bei Bürokratie, Wolf und Energiekosten, die seine tägliche betriebliche Lage direkt betreffen. Die Positionen zu 1:1-Umsetzung von EU-Recht und Flächenschutz treffen seine zentralen Sorgen. Insgesamt fühlt er sich von der CDU in seinen praktischen Interessen als Landwirt ernst genommen.",
+    "score": 2
+  }
+}

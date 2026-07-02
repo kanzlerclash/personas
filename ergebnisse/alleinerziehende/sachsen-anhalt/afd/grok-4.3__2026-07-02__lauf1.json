@@ -1,0 +1,89 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:35:19.461Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89872,
+    "output_tokens": 2149,
+    "cached_tokens": 2304,
+    "total_tokens": 92021,
+    "dauer_ms": 21589,
+    "usd": 0.1174333
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich kostenlose Kitaplätze!",
+      "thema": "familie",
+      "programmpunkt": "Krippen und Kindergärten ab dem ersten Kind kostenlos machen sowie Mittagsverpflegung in Kita und Schule kostenfrei und qualitativ hochwertig anbieten.",
+      "seite": 4,
+      "zitat": "Krippen und Kindergärten mit einer dauerhaft auf Landesebene gesicherten Finanzierung ab dem ersten Kind kostenlos machen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine ist auf verlässliche und bezahlbare Betreuung angewiesen, um ihre Teilzeitarbeit aufrechtzuerhalten und nicht weiter aufstocken zu müssen. Die Zusage kostenloser Plätze und Essen entlastet ihr knappes Budget direkt.",
+      "begruendung_selbst": "Wenn die Kita nichts kostet und das Essen auch nicht, bleibt am Monatsende mehr übrig und ich kann vielleicht mehr arbeiten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenloser Sport für die Kinder!",
+      "thema": "familie",
+      "programmpunkt": "Jedem Kind bis 18 Jahren kostenfreie Teilnahme an einem Vereinssport ermöglichen.",
+      "seite": 4,
+      "zitat": "jedem Kind bis zur Vollendung des 18. Lebensjahres",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine hat wenig Geld für Freizeitaktivitäten ihrer Kinder. Ein kostenloses Sportangebot gibt den Kindern eine sinnvolle Beschäftigung, ohne dass sie zusätzliche Ausgaben stemmen muss.",
+      "begruendung_selbst": "Die Kinder können endlich in einen Verein, ohne dass ich mir das extra leisten muss.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nur für die klassische Familie!",
+      "thema": "familie",
+      "programmpunkt": "Ehe aus Mann und Frau als normative Normalität besonders fördern und alternative Lebensentwürfe nicht staatlich bewerben.",
+      "seite": 3,
+      "zitat": "normative Normalität anerkannt und besonders gefördert werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine lebt als alleinerziehende Mutter ein anderes Modell. Die programmatische Aufwertung nur der klassischen Familie lässt sie befürchten, dass ihre Lebenssituation als weniger wertvoll oder förderungswürdig gilt.",
+      "begruendung_selbst": "Ich kümmere mich allein um meine Kinder und arbeite trotzdem – und dann soll das nicht als normale Familie zählen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Geld nur mit deutschem Pass!",
+      "thema": "familie",
+      "programmpunkt": "Baby-Begrüßungsgeld und Familiengeld nur bei deutscher Staatsbürgerschaft mindestens eines Elternteils und einjährigem Wohnsitz in Sachsen-Anhalt.",
+      "seite": 4,
+      "zitat": "Zugangsvoraussetzung ist die deutsche Staatsbürgerschaft mindestens eines Elternteils",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn Nadine deutsche Staatsbürgerin ist, signalisiert die strikte Kopplung aller Familienleistungen an Staatsbürgerschaft und Aufenthaltsdauer ein generelles Misstrauen gegenüber allen, die staatliche Unterstützung brauchen – ein Klima, das sie als aufstockende Alleinerziehende spürt.",
+      "begruendung_selbst": "Immer diese Bedingungen und Nachweise – als ob man erst beweisen muss, dass man dazugehört.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gleichstellungsbeauftragte weg!",
+      "thema": "familie",
+      "programmpunkt": "Gleichstellungsbeauftragten durch Familienbeauftragten ersetzen, der vor allem auf Geburtenrate und traditionelle Familien achtet.",
+      "seite": 4,
+      "zitat": "Gleichstellungsbeauftragten durch einen Familienbeauftragten ersetzen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine fühlt sich von der 'Fördern und Fordern'-Rhetorik ohnehin schon unter Generalverdacht. Der Austausch einer Stelle, die sich um Gleichstellung und Alleinerziehende kümmern könnte, durch eine rein geburtenpolitische Instanz verstärkt den Eindruck, dass ihre Realität nicht gesehen wird.",
+      "begruendung_selbst": "Wieder eine Stelle weniger, die sich um Leute wie mich kümmert.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet einzelne praktische Entlastungen bei Kita und Freizeit gut, weil sie ihre tägliche Belastung direkt mindern. Der starke Fokus auf das klassische Familienmodell und die Kopplung von Leistungen an Staatsbürgerschaft und traditionelle Rollenbilder lassen sie jedoch befürchten, dass ihre Situation als Alleinerziehende weniger anerkannt und unterstützt wird. Insgesamt überwiegt das Gefühl, dass das Programm ihre Realität nicht im Blick hat.",
+    "score": -1
+  }
+}

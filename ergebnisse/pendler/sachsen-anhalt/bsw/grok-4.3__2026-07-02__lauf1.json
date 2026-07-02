@@ -1,0 +1,76 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:50:46.580Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 78935,
+    "output_tokens": 1367,
+    "cached_tokens": 2304,
+    "total_tokens": 80302,
+    "dauer_ms": 13236,
+    "usd": 0.10098455
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "CO₂-Abgabe weg – Sprit muss billiger!",
+      "thema": "energie",
+      "programmpunkt": "Abschaffung der CO₂-Bepreisung und Entlastung bei Energiepreisen",
+      "seite": 7,
+      "zitat": "Die CO₂-Abgabe gehört abgeschafft.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf spürt die CO₂-Abgabe direkt an der Zapfsäule; ihre Abschaffung würde seine Pendelkosten spürbar senken.",
+      "begruendung_selbst": "Endlich mal einer, der kapiert, dass ich mir den Sprit nicht mehr leisten kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auto bleibt – keine Verkehrswende!",
+      "thema": "verkehr",
+      "programmpunkt": "Technologieoffene Mobilität ohne erzwungene Verkehrswende; Auto in ländlichen Regionen unverzichtbar",
+      "seite": 32,
+      "zitat": "In vielen Regionen Sachsen-Anhalts bleibt das Auto auf absehbare Zeit unverzichtbar.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf hat keinen brauchbaren ÖPNV und ist auf sein Auto angewiesen; das Programm bestätigt genau diese Realität.",
+      "begruendung_selbst": "Endlich einer, der nicht so tut, als könnte ich einfach mit dem Bus fahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Verbrenner-Verbot!",
+      "thema": "verkehr",
+      "programmpunkt": "Ablehnung eines pauschalen Verbrennerverbots und Unterstützung effizienter Verbrenner",
+      "seite": 32,
+      "zitat": "Ein pauschales Verbrennerverbot lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf kann sich kein E-Auto leisten und braucht einen bezahlbaren Verbrenner für den Arbeitsweg.",
+      "begruendung_selbst": "Ich soll mir kein neues Auto kaufen müssen, nur weil die in der Stadt das wollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriearbeitsplätze sichern!",
+      "thema": "arbeit",
+      "programmpunkt": "Erhalt und Stärkung des Industriestandorts Sachsen-Anhalt",
+      "seite": 20,
+      "zitat": "Erhalt und Stärkung des Industriestandorts Sachsen-Anhalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Schichtjob als Industriemechaniker hängt direkt von der lokalen Industrie ab.",
+      "begruendung_selbst": "Solange mein Betrieb hierbleibt, hab ich meine Schicht und mein Geld.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Toralf sieht in dem Programm vor allem Entlastung bei Sprit- und Energiekosten sowie eine klare Bestätigung, dass das Auto auf dem Land unverzichtbar bleibt. Die direkte Ablehnung von CO₂-Preis und Verbrennerverbot trifft seine täglichen Sorgen. Industrie- und Arbeitsplatzsicherung sprechen ihn ebenfalls an. Insgesamt fühlt er sich ernst genommen.",
+    "score": 2
+  }
+}

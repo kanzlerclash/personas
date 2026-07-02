@@ -1,0 +1,89 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:51:20.612Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 78959,
+    "output_tokens": 2102,
+    "cached_tokens": 2304,
+    "total_tokens": 81061,
+    "dauer_ms": 20623,
+    "usd": 0.10342205
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Polizisten und bessere Bezahlung!",
+      "thema": "sicherheit",
+      "programmpunkt": "Landespolizei bis 2028 auf rund 7.000 Stellen aufstocken, amtsangemessene Besoldung und Beförderungsreform",
+      "seite": 68,
+      "zitat": "Bis spätestens 2028 braucht Sachsen-Anhalt insgesamt rund 7.000 Polizeibeamte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt täglich den Personalmangel und die Überlastung im Streifendienst. Das klare Bekenntnis zu mehr Stellen und besserer Bezahlung trifft genau seine berufliche Realität und signalisiert ihm endlich politische Wertschätzung.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass wir nicht mehr schaffen können mit dem, was da ist. Mehr Leute und ordentliche Bezahlung – das ist das Mindeste.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Palantir und Massenüberwachung? Nicht mit uns!",
+      "thema": "sicherheit",
+      "programmpunkt": "Einsatz von Palantir-Software und vergleichbaren Systemen zur automatisierten Datenverknüpfung ablehnen",
+      "seite": 67,
+      "zitat": "Den Einsatz von Palantir-Software und vergleichbaren Systemen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco misstraut pauschaler Überwachung, die auch Unbeteiligte erfasst und die demokratische Kontrolle erschwert. Das klare Nein zu solchen Systemen passt zu seinem Verständnis von rechtsstaatlicher, verhältnismäßiger Polizeiarbeit.",
+      "begruendung_selbst": "Wir brauchen keine Software, die alles und jeden ausspioniert. Das ist nicht unser Job und schadet am Ende dem Vertrauen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wer angreift, muss Konsequenzen spüren!",
+      "thema": "sicherheit",
+      "programmpunkt": "Übergriffe auf Einsatz- und Rettungskräfte müssen konsequent geahndet werden",
+      "seite": 76,
+      "zitat": "Übergriffe auf Einsatz- und Rettungskräfte müssen konsequent geahndet werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco und seine Kollegen erleben zunehmend Respektlosigkeit und Angriffe. Die Forderung nach konsequenter Ahndung gibt ihm das Gefühl, dass seine körperliche Unversehrtheit im Dienst ernst genommen wird.",
+      "begruendung_selbst": "Wenn einer von uns angegriffen wird, darf das nicht einfach so durchgehen. Da muss der Staat endlich mal durchgreifen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Verfassungsschutz schwächen? Das geht zu weit!",
+      "thema": "demokratie",
+      "programmpunkt": "Sofortige Abschaffung der Extremismuskategorie „verfassungsschutzrelevanten Delegitimierung des Staates“",
+      "seite": 12,
+      "zitat": "Die sofortige Abschaffung der Extremismuskategorie der sogenannten „verfassungsschutzrelevanten Delegitimierung des Staates“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht den Verfassungsschutz als wichtiges Instrument zum Schutz der demokratischen Ordnung. Die pauschale Abschaffung einer Kategorie, die auch gegen radikale Staatsfeinde gerichtet ist, empfindet er als unnötige Schwächung der Institutionen, die er schützt.",
+      "begruendung_selbst": "Wer den Staat delegitimiert, macht unseren Job nicht leichter. Die Kategorie einfach abzuschaffen, das ist mir zu riskant.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Justiz soll schneller werden – aber wo bleibt das Personal?",
+      "thema": "sicherheit",
+      "programmpunkt": "Justiz personell stärken, Verfahren beschleunigen und Sozialgerichte entlasten",
+      "seite": 73,
+      "zitat": "Justiz personell stärken und ausreichend ausstatten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco erlebt täglich, dass seine Ermittlungen in der Justiz versanden. Das Programm fordert zwar schnellere Verfahren, bleibt aber vage bei der konkreten Personal- und Ressourcenfrage für die Polizei selbst – das reicht ihm nicht.",
+      "begruendung_selbst": "Schnellere Verfahren sind schön und gut, aber ohne genug Leute bei uns und bei der Justiz bleibt das alles nur Gerede.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco findet im BSW-Programm klare, handfeste Zusagen zur Stärkung der Polizei (mehr Personal, bessere Bezahlung, Schutz vor Angriffen) und eine Ablehnung von Massenüberwachung, die seiner rechtsstaatlichen Haltung entspricht. Gleichzeitig irritieren ihn Forderungen, die den Verfassungsschutz oder die Justiz weiter schwächen könnten, ohne dass die Polizei selbst ausreichend entlastet wird. Insgesamt überwiegt die Zustimmung zu den sicherheitspolitischen Kernpunkten.",
+    "score": 1
+  }
+}

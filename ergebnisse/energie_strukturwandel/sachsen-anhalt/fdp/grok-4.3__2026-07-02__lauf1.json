@@ -1,0 +1,76 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:40:18.327Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49430,
+    "output_tokens": 1476,
+    "cached_tokens": 35072,
+    "total_tokens": 50906,
+    "dauer_ms": 11747,
+    "usd": 0.0300144
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich CCS als Chance für uns!",
+      "thema": "energie",
+      "programmpunkt": "Ermöglichung von Onshore-CCS durch Nutzung der Länderklausel und Pilotprojekte",
+      "seite": 23,
+      "zitat": "Onshore-CCS endlich als Chance für unsere Wirtschaft ermöglichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht in der Unterstützung für Onshore-CCS eine konkrete Brückentechnologie, die seiner Region im Strukturwandel neue Wertschöpfung und Arbeitsplätze sichern kann.",
+      "begruendung_selbst": "Endlich wird CCS nicht mehr blockiert, sondern als echte Chance für unsere Industrie und Jobs gesehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Heimische Bodenschätze nutzen statt blockieren!",
+      "thema": "energie",
+      "programmpunkt": "Verantwortungsvolle Nutzbarmachung heimischer Bodenschätze inklusive Braunkohle und Schiefergas",
+      "seite": 10,
+      "zitat": "Heimische Bodenschätze nutzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Forderung nach schnelleren Genehmigungen für heimische Rohstoffe wie Braunkohle und Schiefergas bestätigt Ronnys Überzeugung, dass regionale Ressourcen eine planbare Übergangsbrücke bieten.",
+      "begruendung_selbst": "Unsere Kohle und unser Gas hier vor Ort – das gibt uns Zeit und Perspektive, statt alles abzuschalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Technologieoffenheit statt Verbote!",
+      "thema": "energie",
+      "programmpunkt": "Einsatz für Wiedereinstieg in Kernenergie, SMR und technologieoffenen Rechtsrahmen",
+      "seite": 14,
+      "zitat": "Wiedereinstieg in die Nutzung der Kernenergie",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny begrüßt die klare Ablehnung ideologischer Technologieverbote, weil sie seiner Region realistische Optionen für Versorgungssicherheit und neue Industrieansiedlungen eröffnet.",
+      "begruendung_selbst": "Nicht alles verbieten, sondern alle sinnvollen Technologien prüfen – so sichern wir die Versorgung und die Arbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wertschöpfung und Jobs bleiben hier!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Beteiligung von Kommunen und Regionen an Wertschöpfung neuer Kernenergieprojekte",
+      "seite": 15,
+      "zitat": "Kommunen und Regionen, die sich für solche Projekte öffnen, verbindlich an Wertschöpfung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die verbindliche regionale Beteiligung an Wertschöpfung und Steuern aus neuen Energieprojekten gibt Ronny Hoffnung auf bleibende Arbeitsplätze und regionale Stärke.",
+      "begruendung_selbst": "Wenn neue Anlagen kommen, muss auch was bei uns hängen bleiben – nicht nur die Belastung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet das Programm in zentralen Punkten sehr passend zu seiner Lage: die klare Unterstützung für CCS, heimische Ressourcen, Technologieoffenheit und regionale Wertschöpfung entspricht genau seiner Forderung nach einem planbaren, pragmatischen Wandel mit Zukunft für die Region. Widersprüchliche Positionen fehlen weitgehend.",
+    "score": 2
+  }
+}

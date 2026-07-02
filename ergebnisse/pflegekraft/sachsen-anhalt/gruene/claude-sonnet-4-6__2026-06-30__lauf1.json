@@ -72,13 +72,12 @@
       "thema": "gesundheit",
       "programmpunkt": "Die stationäre Versorgung soll fachlich hochwertig und erreichbar abgesichert werden",
       "seite": 80,
-      "zitat": "stationäre Versorgung fachlich hochwertig und erreichbar absichern",
+      "zitat": "stationäre Versorgung fachlich hochwertig und erreichbar",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin sorgt sich um Schließungen und Umstrukturierungen, die die Qualität der stationären Versorgung untergraben. Das Bekenntnis zu fachlicher Qualität und Erreichbarkeit gibt ihr ein positives Signal für die Zukunft ihres Arbeitsplatzes.",
       "begruendung_selbst": "Wenn Stationen schließen oder Träger wechseln, leiden die Patientinnen und wir. Dass die Versorgung hochwertig und erreichbar bleiben soll, ist für mich ein wichtiges Signal.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Versorgung unabhängig vom Geldbeutel",
@@ -99,13 +98,12 @@
       "thema": "gesundheit",
       "programmpunkt": "Das Programm verspricht hochwertige stationäre Versorgung, enthält aber kein klares Bekenntnis gegen die Privatisierung von Krankenhäusern",
       "seite": 80,
-      "zitat": "stationäre Versorgung fachlich hochwertig und erreichbar absichern",
+      "zitat": "stationäre Versorgung fachlich hochwertig und erreichbar",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Kerstin befürchtet, dass Privatisierungen von Kliniken zu Stellenabbau, Sparmaßnahmen und schlechteren Arbeitsbedingungen führen. Das Programm verspricht Qualität und Erreichbarkeit, bezieht aber keine klare Stellung gegen private Träger oder Profitorientierung im Krankenhauswesen.",
       "begruendung_selbst": "Qualität versprechen ist gut. Aber wenn morgen ein Investor die Klinik übernimmt und die Hälfte der Stellen streicht, hilft mir das Versprechen nichts. Dazu höre ich zu wenig.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

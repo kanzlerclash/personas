@@ -1,0 +1,77 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:20:41.565Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 47970,
+    "output_tokens": 1868,
+    "cached_tokens": 46912,
+    "total_tokens": 49838,
+    "dauer_ms": 14066,
+    "usd": 0.0169899
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Verfassungsschutz muss stärker werden!",
+      "thema": "sicherheit",
+      "programmpunkt": "Stärkung des Verfassungsschutzes gegen Spionage, Sabotage und Rechtsextremismus",
+      "seite": 20,
+      "zitat": "Den wachsenden Herausforderungen durch Rechtsextremismus, Sabotage und Spionage muss auch der Verfassungsschutz gewachsen sein.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan sieht in der Forderung nach besserer Ausstattung und Befugnissen des Verfassungsschutzes eine notwendige Reaktion auf die Bedrohungslage an der Ostflanke und innenpolitische Destabilisierungsversuche.",
+      "begruendung_selbst": "Endlich wird klar gesagt, dass Spionage und Sabotage ernst genommen werden müssen – genau das erwarte ich von einer verantwortungsvollen Politik.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsextremismus entschieden bekämpfen!",
+      "thema": "demokratie",
+      "programmpunkt": "Prüfung eines AfD-Verbotsverfahrens und konsequente Strafverfolgung von Rechtsextremismus",
+      "seite": 20,
+      "zitat": "Deshalb setzt sich die SPD Sachsen-Anhalt für die Prüfung eines AfD-Verbotsverfahrens über eine Bundesratsinitiative ein.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan lehnt jede Form von NATO-Skepsis und verfassungsfeindlichen Strömungen ab und begrüßt klare Grenzen gegen Rechtsextremismus als Beitrag zur wehrhaften Demokratie.",
+      "begruendung_selbst": "Wer das Bündnis und unsere Verfassung untergräbt, muss mit aller Konsequenz gestoppt werden – da bin ich ganz bei der SPD.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zivilschutz und Verteidigung stärken!",
+      "thema": "verteidigung",
+      "programmpunkt": "Forderung nach Stärkung von Zivilschutz und ziviler Verteidigung angesichts der angespannten sicherheitspolitischen Lage",
+      "seite": 33,
+      "zitat": "Der Bund ist gefordert, den Zivilschutz und die zivile Verteidigung im Land zu stärken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan nimmt die logistische Bedeutung Sachsen-Anhalts im Bündnisfall wahr und begrüßt, dass die SPD hier den Bund in die Pflicht nimmt.",
+      "begruendung_selbst": "Im Ernstfall zählt jeder Beitrag – dass Sachsen-Anhalt da eine Rolle spielt, muss auch politisch ernst genommen werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Abrüstung ist der falsche Weg!",
+      "thema": "verteidigung",
+      "programmpunkt": "Betonung von Abrüstung als zentrale Aufgabe deutscher und europäischer Politik",
+      "seite": 33,
+      "zitat": "Diplomatie, Verständigung, Abrüstung und internationale Zusammenarbeit bleiben zentrale Aufgaben",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt täglich die Folgen unzureichender Ausrüstung und sieht in Abrüstungsforderungen eine direkte Schwächung der eigenen Verteidigungsfähigkeit und des NATO-Bündnisses.",
+      "begruendung_selbst": "Mit Abrüstung kann ich keine Übung fahren und keine Ostflanke sichern – das ist naiv und gefährlich.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet die klare Haltung gegen Rechtsextremismus und die Forderung nach einem starken Verfassungsschutz gut. Die Betonung von Abrüstung und das völlige Fehlen von Aussagen zur Bundeswehr-Ausrüstung stoßen ihn jedoch ab. Insgesamt überwiegen die konträren Punkte, weil Verteidigungsfähigkeit und Bündnistreue für ihn existenziell sind.",
+    "score": -1
+  }
+}

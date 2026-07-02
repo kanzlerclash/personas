@@ -1,0 +1,89 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:42:15.135Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49442,
+    "output_tokens": 1685,
+    "cached_tokens": 48384,
+    "total_tokens": 51127,
+    "dauer_ms": 16056,
+    "usd": 0.0163893
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Spritpreise runter, nicht noch teurer!",
+      "thema": "energie",
+      "programmpunkt": "Netzentgelte fairer verteilen und für Sachsen-Anhalt spürbar senken; Umlagen und Abgaben zusammenführen.",
+      "seite": 14,
+      "zitat": "Netzentgelte müssen daher zwischen den Regionen fairer verteilt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Pendelstrecke macht Sprit- und Stromkosten zu einem festen Belastungsfaktor; die FDP-Forderung nach Entlastung bei Netzentgelten trifft genau seine tägliche Kostenrealität.",
+      "begruendung_selbst": "Endlich mal einer, der kapiert, dass ich nicht jeden Monat mehr fürs Tanken ausgeben kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Technologieoffenheit statt Verbrenner-Verbot!",
+      "thema": "energie",
+      "programmpunkt": "Wiedereinstieg in Kernenergie, SMR und heimisches Fracking-Gas als Teil eines breiten Energiemixes.",
+      "seite": 14,
+      "zitat": "echte Technologieoffenheit und setzen uns für einen Netzausbau",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fürchtet ein schnelles Verbrenner-Aus ohne bezahlbare Alternative; die FDP-Position für alle verfügbaren Technologien inklusive Fracking und Kernkraft bestätigt seine Skepsis gegenüber ideologischen Ausstiegen.",
+      "begruendung_selbst": "Ich will nicht gezwungen werden, mir ein E-Auto zu kaufen, das ich mir nicht leisten kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie abbauen, nicht noch mehr Regeln!",
+      "thema": "demokratie",
+      "programmpunkt": "Abbau von Berichtspflichten und Gold-Plating; one-in-two-out-Prinzip bei neuen Regulierungen.",
+      "seite": 8,
+      "zitat": "Europäisches Mindestmaß statt deutscher Übererfüllung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf erlebt Regulierungen als indirekte Kostensteigerung bei Arbeit und Mobilität; die FDP-Forderung nach weniger Übererfüllung europäischer Vorgaben passt zu seiner Abneigung gegen unnötige Belastungen.",
+      "begruendung_selbst": "Weniger Papierkram und Vorschriften, mehr Zeit und Geld für die Familie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Straßen und Infrastruktur endlich ausbauen!",
+      "thema": "verkehr",
+      "programmpunkt": "Priorität auf Erhalt und Neubau von Straßen, Ortsumgehungen und Elbquerungen; 30-Minuten-Erreichbarkeit zu Mittelzentren.",
+      "seite": 71,
+      "zitat": "Niemand soll länger als 30 Minuten bis zur Kreisstadt brauchen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Arbeitsweg ist komplett vom Auto abhängig; die klare Priorität auf Straßeninfrastruktur und kürzere Wege bestätigt seine Erfahrung, dass ÖPNV auf dem Dorf keine realistische Option ist.",
+      "begruendung_selbst": "Der Bus fährt hier nicht – ohne gute Straßen komme ich gar nicht zur Arbeit.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Emissionshandel trifft mich am Zapfhahn!",
+      "thema": "klima",
+      "programmpunkt": "Emissionshandel als Leitinstrument, das andere Steuern und Abgaben ersetzen soll.",
+      "seite": 23,
+      "zitat": "Emissionshandel ist dabei das Leitinstrument",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf sieht CO₂-Bepreisung bereits als direkte Belastung seiner Pendelkosten; die FDP-Befürwortung des Emissionshandels als zentrales Klimainstrument steht im Widerspruch zu seiner Hoffnung auf spürbare Entlastung.",
+      "begruendung_selbst": "Am Ende zahle wieder ich, wenn der Sprit noch teurer wird.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet im Programm vor allem die klare Ablehnung von Verboten, die Betonung von Technologieoffenheit und die Forderung nach günstigerer Energie und besserer Straßeninfrastruktur bestätigend. Die einzige klare Ablehnung betrifft die Fortführung des Emissionshandels als Preistreiber. Insgesamt sieht er sich von der FDP in seiner Lebensrealität als Pendler und Facharbeiter eher ernst genommen als von vielen anderen Parteien.",
+    "score": 1
+  }
+}

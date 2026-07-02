@@ -1,0 +1,89 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:42:31.406Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49422,
+    "output_tokens": 1969,
+    "cached_tokens": 48384,
+    "total_tokens": 51391,
+    "dauer_ms": 16270,
+    "usd": 0.0176118
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich ausländische Abschlüsse anerkennen!",
+      "thema": "integration",
+      "programmpunkt": "Beschleunigte Anerkennung ausländischer Berufsabschlüsse in der Pflege, vorläufige Arbeitserlaubnis bei vollständigen Unterlagen und Sprachkenntnissen.",
+      "seite": 70,
+      "zitat": "die Anerkennung ausländischer Berufsabschlüsse beschleunigen. Pflegekräfte sollen vorläufig arbeiten dürfen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin arbeitet auf einer Station, die ohne Kolleginnen aus dem Ausland nicht mehr funktioniert. Schnellere Verfahren und vorläufige Beschäftigung entlasten direkt ihren Alltag und sichern die Versorgung.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht – endlich wird das mal praktisch gelöst statt nur geredet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papier, mehr Zeit für Pflege!",
+      "thema": "gesundheit",
+      "programmpunkt": "Entbürokratisierung in der Pflege: Abschaffung von Doppelstrukturen, Mehrfachdokumentationen und unnötigen Meldepflichten, Fokus auf risikobasierte Prüfungen.",
+      "seite": 69,
+      "zitat": "Doppelstrukturen und Mehrfachdokumentationen schaffen wir ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin leidet unter ständiger Dokumentationslast und Überlastung. Weniger Bürokratie gibt ihr mehr Zeit am Patienten und reduziert den Druck, der zum Ausbrennen führt.",
+      "begruendung_selbst": "Ich verbringe mehr Zeit mit Formularen als mit den Leuten, die mich brauchen – das muss endlich aufhören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Flexible Schichten und Zuschläge halten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Erhalt und Weiterentwicklung flexibler Arbeitszeitmodelle sowie Schichtzuschläge auf Stundenlohnbasis in der Pflege.",
+      "seite": 69,
+      "zitat": "Flexible Arbeitszeitmodelle sowie Schichtzuschläge auf Stundenlohnbasis wollen wir erhalten und gezielt weiterentwickeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Schichtdienst prägt Kerstins Leben. Die explizite Unterstützung flexibler Modelle und Zuschläge entspricht ihrer Forderung nach besserer Vereinbarkeit und Anerkennung der Belastung.",
+      "begruendung_selbst": "Schicht ist hart genug – wenn wenigstens die Zuschläge und Flexibilität bleiben, kann ich das noch länger machen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Privatisierung macht Pflege kaputt!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Umfassende Privatisierungsoffensive bei Landesbeteiligungen und generelle Ablehnung staatlicher Unternehmensbeteiligungen.",
+      "seite": 9,
+      "zitat": "eine umfassende Privatisierungsoffensive zu starten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin sieht in der Ökonomisierung und Privatisierung die Ursache für Personalmangel und Renditedruck in Kliniken. Eine generelle Privatisierungsoffensive verschärft ihren Arbeitsalltag weiter.",
+      "begruendung_selbst": "Schon jetzt zählt nur noch der Profit – mehr Privatisierung heißt noch weniger Leute auf der Station.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanktionen statt echte Hilfe!",
+      "thema": "gesundheit",
+      "programmpunkt": "Reform des Bürgergelds mit konsequenter Ausschöpfung von Sanktionsspielräumen und Einführung gemeinnütziger Arbeitspflichten.",
+      "seite": 40,
+      "zitat": "Sanktionsspielraum konsequent ausgeschöpft werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin bewertet Politik danach, ob sie vulnerable Gruppen und das Pflegesystem stützt. Härtere Sanktionen und Arbeitspflichten passen nicht zu ihrer solidarischen Haltung gegenüber Menschen in Not.",
+      "begruendung_selbst": "Die Leute brauchen Unterstützung, keine Strafen – das verschiebt nur das Problem.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet einzelne praktische Entlastungen bei Anerkennung ausländischer Pflegekräfte und Bürokratieabbau gut, weil sie ihren direkten Arbeitsalltag und ihre Kollegenschaft betreffen. Der insgesamt marktliberale Kurs mit Privatisierungsoffensive und restriktiver Sozialpolitik steht jedoch im Widerspruch zu ihrer Erfahrung, dass mehr öffentliche Verantwortung und stabile Finanzierung nötig sind. Insgesamt überwiegt die Skepsis.",
+    "score": -1
+  }
+}

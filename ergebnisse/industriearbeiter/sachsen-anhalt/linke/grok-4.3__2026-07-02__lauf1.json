@@ -1,0 +1,77 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:45:21.769Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95357,
+    "output_tokens": 1439,
+    "cached_tokens": 2304,
+    "total_tokens": 96796,
+    "dauer_ms": 16484,
+    "usd": 0.12140455
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Tarifbindung und Mitbestimmung stärken!",
+      "thema": "arbeit",
+      "programmpunkt": "Tarifbindung als Regel machen, Vergabemindestlohn 16,50 €, Allgemeinverbindlichkeit erleichtern und Mitbestimmungsrechte bei Investitionen und Standortfragen ausbauen.",
+      "seite": 86,
+      "zitat": "Tarifbindung stärken - faire Löhne sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht hier direkte Absicherung seines tarifgebundenen Industrieeinkommens und seiner Betriebsratsarbeit. Das Programm greift genau seine Kernforderungen nach Lohn- und Mitbestimmungssicherung auf.",
+      "begruendung_selbst": "Endlich einer, der Tarif und Mitbestimmung nicht nur sagt, sondern wirklich durchsetzen will – das ist mein täglicher Kampf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemiebranche mit fairen Preisen retten!",
+      "thema": "energie",
+      "programmpunkt": "Faire Energiepreise für den Wandel in der Chemie- und Grundstoffindustrie, Aufbau einer grünen Wasserstoffinfrastruktur und verbindliche Transformationsverträge mit Beschäftigungsgarantien.",
+      "seite": 92,
+      "zitat": "faire Energiepreise für den Wandel",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe arbeitet in der Chemieindustrie; das Programm adressiert explizit die Energiepreisproblematik und den Erhalt der Branche mit sozialen Garantien – genau seine existenzielle Sorge.",
+      "begruendung_selbst": "Wenn die Energiepreise für uns nicht fair bleiben, ist der Standort weg – hier wird das endlich mitgedacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozial abgesicherter Strukturwandel!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Sozial-ökologische Transformation mit Standortgarantie, Tarifbindung und demokratischer Mitbestimmung durch regionale Wirtschafts- und Transformationsräte.",
+      "seite": 90,
+      "zitat": "Sozial-ökologische Transformation",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe fürchtet Deindustrialisierung ohne Ersatz; das Programm koppelt Investitionen an Beschäftigungssicherung und Beteiligung – das entspricht seiner Haltung eines Wandels, der niemanden abhängt.",
+      "begruendung_selbst": "Wandel ja, aber nicht auf unserem Rücken – hier steht endlich, dass Jobs und Regionen mitgenommen werden müssen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaneutral bis 2035 – zu schnell!",
+      "thema": "klima",
+      "programmpunkt": "Verbindliches CO₂-Budget und Klimaneutralität bis 2035 ohne ausreichende industrielle Übergangsfristen oder explizite Jobgarantien für energieintensive Branchen.",
+      "seite": 121,
+      "zitat": "Klimaneutral bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe sieht das ambitionierte Ziel als Risiko für seine Branche, weil das Programm keine ausreichend langen Übergangszeiten oder spezifischen Industriestrompreis-Schutzmechanismen vorsieht.",
+      "begruendung_selbst": "Klimaschutz ist richtig, aber nicht so, dass meine Kollegen und der ganze Standort über Nacht weg sind.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet im Programm starke Übereinstimmung bei seinen Kernanliegen gute Arbeit, Tarifbindung, Mitbestimmung und sozial abgesicherter Industriepolitik. Die direkte Adressierung der Chemiebranche und fairer Energiepreise spricht ihn besonders an. Kritisch sieht er das sehr ambitionierte Klimaziel 2035, das ihm zu wenig Rücksicht auf industrielle Realitäten nimmt. Insgesamt überwiegt die Zustimmung deutlich.",
+    "score": 1
+  }
+}

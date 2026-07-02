@@ -1,0 +1,76 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:19:55.567Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 47924,
+    "output_tokens": 1386,
+    "cached_tokens": 32896,
+    "total_tokens": 49310,
+    "dauer_ms": 10811,
+    "usd": 0.0297567
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich echte Pflege-Entlastung!",
+      "thema": "gesundheit",
+      "programmpunkt": "Schulgeldfreiheit und Ausbildungsvergütung in allen Gesundheitsberufen werden konsequent ausgebaut; neuer Beruf Pflegeassistenz ab 2027.",
+      "seite": 10,
+      "zitat": "Schulgeldfreiheit in den Gesundheitsberufen wird konsequent ausgebaut.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich den Fachkräftemangel auf ihrer Station; die Ausbildungsförderung verspricht langfristig mehr Kolleginnen und Kollegen.",
+      "begruendung_selbst": "Endlich wird die Ausbildung bezahlt – das bringt uns mehr Leute und entlastet uns alle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausländische Kolleginnen bleiben willkommen!",
+      "thema": "integration",
+      "programmpunkt": "Anerkennung ausländischer Abschlüsse wird beschleunigt, Job-Buddy-Programm und Welcome Center werden ausgebaut.",
+      "seite": 8,
+      "zitat": "Anerkennung ausländischer Abschlüsse bleibt eine zentrale Herausforderung. Verfahren werden beschleunigt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre Station funktioniert nur durch migrantische Pflegekräfte; schnellere Anerkennung und Unterstützung sichern den Betrieb.",
+      "begruendung_selbst": "Ohne die Kolleginnen aus dem Ausland läuft hier gar nichts – endlich wird das anerkannt und erleichtert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarifbindung statt Billiglohn!",
+      "thema": "arbeit",
+      "programmpunkt": "Tariftreue- und Vergabegesetz wird gestärkt, Mitbestimmung gefördert, Unternehmen die Mitbestimmung behindern von Förderung ausgeschlossen.",
+      "seite": 7,
+      "zitat": "Mit dem Tariftreue- und Vergabegesetz stärken wir die Tarifbindung im Land.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin arbeitet unter hoher Belastung und sieht Tariflöhne als zentrale Voraussetzung für faire Bezahlung und Entlastung.",
+      "begruendung_selbst": "Wer uns ausbeutet, soll kein Geld vom Land bekommen – Tarif muss überall gelten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Öffentliche Krankenhäuser statt Rendite!",
+      "thema": "gesundheit",
+      "programmpunkt": "Krankenhauslandschaft orientiert sich an Qualität, Erreichbarkeit und Wirtschaftlichkeit, nicht an Kapitalinteressen; Rekommunalisierungen werden unterstützt.",
+      "seite": 9,
+      "zitat": "Wir stehen für eine Krankenhauslandschaft, die sich an den Kriterien Qualität, Erreichbarkeit und Wirtschaftlichkeit orientiert und nicht an Kapitalinteressen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Privatisierung verschärft den Personalmangel und die Arbeitsverdichtung; öffentliche Träger passen besser zu ihrer solidarischen Haltung.",
+      "begruendung_selbst": "Rendite darf nicht über Patienten und uns Pflegekräften stehen – das Land muss die Häuser in öffentlicher Hand halten.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Kerstin sieht im Programm vor allem Bestätigung ihrer Kernanliegen: bessere Ausbildung und Anerkennung von Pflegekräften, Stärkung der Tarifbindung sowie Integration ausländischer Kolleginnen. Die Passagen zu öffentlichen Krankenhäusern und Willkommenskultur treffen direkt ihre tägliche Realität. Kritische Punkte zu unzureichender Sofort-Entlastung oder konkreten Personalschlüsseln fehlen weitgehend.",
+    "score": 2
+  }
+}

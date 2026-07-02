@@ -1,0 +1,89 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:45:53.305Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95472,
+    "output_tokens": 1783,
+    "cached_tokens": 94336,
+    "total_tokens": 97255,
+    "dauer_ms": 16911,
+    "usd": 0.0264047
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Landarztquoten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Weitere Landarztquoten zur Bekämpfung des Fachärztemangels auf dem Land.",
+      "seite": 55,
+      "zitat": "Wir wirken dem Fachärztemangel durch weitere Landarztquoten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sieht in Landarztquoten eine direkte Maßnahme gegen den Nachwuchsmangel, der ihre Praxisnachfolge bedroht und die Versorgung ihrer Patientinnen gefährdet.",
+      "begruendung_selbst": "Endlich wird der Mangel auf dem Land ernst genommen – vielleicht kommt dann mal jemand nach.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie-Monster stoppen!",
+      "thema": "demokratie",
+      "programmpunkt": "Pauschalförderung statt unzähliger Antragsverfahren für Kommunen und Einrichtungen.",
+      "seite": 78,
+      "zitat": "Vertrauensvolle Förderung statt Bürokratiemonster",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra leidet täglich unter Dokumentations- und Antragslast; eine echte Pauschalförderung würde ihr mehr Zeit für Patienten geben.",
+      "begruendung_selbst": "Weniger Formulare, mehr Zeit am Bett – das wäre endlich mal eine echte Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ländliche Versorgung sichern!",
+      "thema": "gesundheit",
+      "programmpunkt": "Sektorenübergreifende Versorgung und MVZ im ländlichen Raum ausbauen.",
+      "seite": 52,
+      "zitat": "intersektorale Gesundheitszentren entwickeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra begrüßt Modelle, die ambulante und stationäre Versorgung auf dem Land vernetzen und damit ihre Patientinnen besser erreichen.",
+      "begruendung_selbst": "Wenn die Wege kürzer und die Strukturen stabiler werden, können meine Patienten auch weiter versorgt werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Noch mehr Digitalzwang!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verpflichtende KI-Folgenabschätzung und umfassende Digitalisierung der Verwaltung und Gesundheit.",
+      "seite": 143,
+      "zitat": "Verpflichtende KI-Folgenabschätzung bevor der Algorithmus entscheidet",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra erlebt bereits jetzt, dass Telematikinfrastruktur und eAU mehr Aufwand als Nutzen bringen; weitere verpflichtende Digitalprojekte verschärfen ihre Belastung.",
+      "begruendung_selbst": "Die Technik funktioniert schon jetzt nicht – und jetzt soll noch mehr Pflicht-Digitalisierung kommen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rekommunalisierung bringt mehr Bürokratie!",
+      "thema": "gesundheit",
+      "programmpunkt": "Rekommunalisierung privater Krankenhäuser und Aufbau eines Klinikverbunds mit Landesbeteiligung.",
+      "seite": 48,
+      "zitat": "Prüfung von Rekommunalisierung der privatisierten Krankenhäuser",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra fürchtet, dass neue staatliche Strukturen und Holding-Modelle zusätzliche Berichtspflichten und Abstimmungsaufwand für niedergelassene Ärzte schaffen, ohne die ambulante Versorgung zu verbessern.",
+      "begruendung_selbst": "Noch mehr Gremien und Berichte – das löst nicht mein Nachfolgeproblem.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Petra findet einzelne Ansätze zur Stärkung der ländlichen Versorgung und zum Bürokratieabbau zustimmenswert, sieht aber in der starken Betonung von Digitalisierungspflichten und neuen staatlichen Strukturen vor allem zusätzliche Belastung. Insgesamt bleibt sie skeptisch, ob das Programm ihre tägliche Praxisrealität spürbar entlastet.",
+    "score": 0
+  }
+}

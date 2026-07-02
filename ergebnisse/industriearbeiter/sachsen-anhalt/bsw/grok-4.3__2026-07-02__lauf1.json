@@ -1,0 +1,76 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:49:28.116Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 78926,
+    "output_tokens": 1415,
+    "cached_tokens": 67840,
+    "total_tokens": 80341,
+    "dauer_ms": 11618,
+    "usd": 0.032188
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Chemiestandort muss bleiben!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Erhalt und Stärkung des Chemiestandorts Sachsen-Anhalt durch günstige Energiepreise und beschleunigte Genehmigungen",
+      "seite": 27,
+      "zitat": "Chemiestandort erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht in der expliziten Priorisierung des Chemiestandorts eine direkte Absicherung seines Arbeitsplatzes und der gesamten Region.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass die Chemie hier bleiben muss – ohne uns geht’s nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarifbindung ist Pflicht!",
+      "thema": "arbeit",
+      "programmpunkt": "Öffentliche Aufträge und Fördermittel nur an tarifgebundene Unternehmen; starke Mitbestimmung und Betriebsräte",
+      "seite": 22,
+      "zitat": "Öffentliche Aufträge und Fördermittel dürfen nur an tarifgebundene Unternehmen vergeben werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe erlebt täglich, wie Tarifbindung und Mitbestimmung Löhne und Sicherheit sichern; das Programm bestätigt genau diese Position.",
+      "begruendung_selbst": "Wer nicht tarifgebunden ist, soll keine öffentlichen Aufträge kriegen – so muss das sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriestrom muss bezahlbar bleiben!",
+      "thema": "energie",
+      "programmpunkt": "Technologieoffener Energiemix, Abschaffung der CO₂-Abgabe und langfristige Importverträge für günstige Energie für die Industrie",
+      "seite": 20,
+      "zitat": "Energiepolitik braucht deshalb eine Wende – für Verlässlichkeit, Bezahlbarkeit und Versorgungssicherheit.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe fürchtet, dass hohe Energiepreise seinen Betrieb und die Kollegen gefährden; das Programm stellt die Bezahlbarkeit für die Industrie klar in den Vordergrund.",
+      "begruendung_selbst": "Ohne günstigen Strom für die Anlagen sind wir weg vom Fenster.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wandel nur mit uns, nicht über uns!",
+      "thema": "arbeit",
+      "programmpunkt": "Sozial gerechte Transformation mit Tarifbindung, Mitbestimmung und Qualifizierung statt Arbeitsplatzabbau",
+      "seite": 22,
+      "zitat": "Transformation sozial gerecht gestalten und Arbeitsplätze sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe lehnt einen Strukturwandel ab, der auf Kosten der Beschäftigten geht; das Programm fordert genau den sozial abgesicherten Weg.",
+      "begruendung_selbst": "Klimaschutz ja – aber nicht, dass meine Kollegen arbeitslos werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet im Programm vor allem die klare Priorisierung des Chemiestandorts, die Forderung nach bezahlbarer Energie für die Industrie und die Betonung von Tarifbindung und Mitbestimmung sehr zustimmend. Diese Punkte treffen direkt seine existenziellen Sorgen um Job und Lohn. Das Programm enthält keine nennenswerten Positionen, die seine Interessen als Industriefacharbeiter verletzen.",
+    "score": 2
+  }
+}

@@ -60,13 +60,12 @@
       "thema": "verkehr",
       "programmpunkt": "Die CDU stellt sich gegen ideologisch motivierte Ausweitung von Geschwindigkeitsbeschränkungen auf Autobahnen und Durchgangsstraßen sowie gegen überholte Umweltzonen.",
       "seite": 62,
-      "zitat": "stehen einer ideologisch motivierten... Ausweitung von Geschwindigkeitsbeschränkungen... entschlossen entgegen",
+      "zitat": "ideologisch motivierten und grundlosen Ausweitung von Geschwindigkeitsbeschränkungen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Toralf pendelt täglich auf Straßen und Autobahnen. Weitere Beschränkungen würden seinen ohnehin langen Arbeitsweg verlängern und seine empfundene Ungleichbehandlung verstärken.",
       "begruendung_selbst": "Wenn ich morgens um sechs auf die Autobahn fahre, will ich ankommen – nicht wegen einer Ideologie zwanzig Minuten länger pendeln.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Industrie bleibt – mein Job bleibt!",

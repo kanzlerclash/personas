@@ -1,0 +1,77 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:19:08.855Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 48050,
+    "output_tokens": 1741,
+    "cached_tokens": 128,
+    "total_tokens": 49791,
+    "dauer_ms": 14226,
+    "usd": 0.0662106
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Telemedizin hilft endlich auf dem Land!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einsatz digitaler Instrumente wie Telemedizin und Telenotarzt zur Ergänzung der Versorgung im ländlichen Raum",
+      "seite": 9,
+      "zitat": "Digitale Instrumente wie Telemedizin, das telemedizinische Netzwerk TeleSAN",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sieht in der gezielten Förderung von Telemedizin eine direkte Entlastung ihrer Praxis bei langen Wegen und Fachkräftemangel.",
+      "begruendung_selbst": "Endlich wird anerkannt, dass Telemedizin uns auf dem Land wirklich weiterhilft – nicht nur Ankündigungen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ländliche Krankenhäuser absichern!",
+      "thema": "gesundheit",
+      "programmpunkt": "Finanzielle Unterstützung bei Rekommunalisierungen zur Sicherung der Versorgung im ländlichen Raum",
+      "seite": 9,
+      "zitat": "bei erforderlichen Rekommunalisierungen für finanzielle Unterstützung durch das Land einsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die explizite Nennung ländlicher Versorgungssicherung trifft Petras Kernproblem der drohenden Unterversorgung ihrer Patienten.",
+      "begruendung_selbst": "Wer meine Patienten versorgt, wenn ich weg bin? Endlich wird der ländliche Raum nicht vergessen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Doppelprüfungen, mehr Zeit für Patienten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Abschaffung von Doppelprüfungen durch MDK und Heimaufsicht sowie Entbürokratisierung der Pflege",
+      "seite": 10,
+      "zitat": "Doppelprüfungen durch MDK und Heimaufsicht sind abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra erlebt täglich, wie Bürokratie ihre Sprechstundenzeit frisst; jede echte Entlastung wird von ihr als Fortschritt gewertet.",
+      "begruendung_selbst": "Ich verbringe halbe Tage mit Formularen – wenn die endlich wegfallen, kann ich wieder behandeln.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mehr Personaluntergrenzen = mehr Bürokratie!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung sinnvoller Personaluntergrenzen im ärztlichen Bereich und der Pflege",
+      "seite": 9,
+      "zitat": "sinnvolle Personaluntergrenzen im ärztlichen Bereich und der Pflege",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra fürchtet, dass zusätzliche Dokumentations- und Nachweispflichten den ohnehin hohen bürokratischen Aufwand weiter steigern.",
+      "begruendung_selbst": "Schon wieder neue Vorgaben – wer soll das alles noch dokumentieren, wenn die Sprechstunde voll ist?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Petra findet im Programm mehrere direkte Anknüpfungspunkte zu ihrer Lage als Landärztin: die Stärkung ländlicher Versorgung durch Telemedizin und Krankenhausunterstützung sowie konkrete Entbürokratisierungsschritte. Wenige Punkte wirken konträr, vor allem die Sorge vor zusätzlichen Regulierungen. Insgesamt überwiegt die Resonanz mit ihren pragmatischen Hoffnungen auf weniger Bürokratie und bessere Daseinsvorsorge auf dem Land.",
+    "score": 1
+  }
+}

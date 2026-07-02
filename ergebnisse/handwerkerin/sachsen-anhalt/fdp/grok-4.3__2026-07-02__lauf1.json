@@ -1,0 +1,88 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:40:32.762Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49579,
+    "output_tokens": 1664,
+    "cached_tokens": 2304,
+    "total_tokens": 51243,
+    "dauer_ms": 14433,
+    "usd": 0.06487705
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau spürbar!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Starke Senkung der Bürokratielasten für Handwerksbetriebe durch Vereinfachung von Berichtspflichten und beschleunigte Genehmigungsverfahren.",
+      "seite": 7,
+      "zitat": "Berichtspflichten und Vorschriften, die über den Schutz von Leib, Leben und Umwelt hinausgehen, weg",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt Abende mit Formularen statt mit Kundenaufträgen; der angekündigte Abbau trifft genau ihre tägliche Belastung als Inhaberin eines kleinen SHK-Betriebs.",
+      "begruendung_selbst": "Endlich weniger Aktenordner und mehr Zeit für echte Arbeit – das ist genau das, was ich brauche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verlässliche Energiepreise für den Betrieb!",
+      "thema": "energie",
+      "programmpunkt": "Senkung der Netzentgelte in Sachsen-Anhalt und Technologieoffenheit inklusive Kernenergie und heimischem Fracking-Gas für bezahlbare Energie.",
+      "seite": 14,
+      "zitat": "Netzentgelte müssen daher zwischen den Regionen fairer verteilt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiekosten belasten ihren Betrieb und die Kundenaufträge beim Heizungstausch; die Forderung nach fairen Netzentgelten und einem breiten Energiemix gibt ihr Planungssicherheit.",
+      "begruendung_selbst": "Wenn die Energiepreise endlich runtergehen, können meine Kunden wieder vernünftig sanieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte schneller anerkennen!",
+      "thema": "arbeit",
+      "programmpunkt": "Schnellere Anerkennung ausländischer Qualifikationen und unbürokratischen Zugang zum Arbeitsmarkt für Zuwanderer, die arbeiten wollen.",
+      "seite": 10,
+      "zitat": "ausländische Qualifikationen schneller anerkannt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine findet keine Gesellen und Azubis; die Erleichterung bei der Anerkennung ausländischer Abschlüsse hilft ihr direkt bei der Fachkräftesuche.",
+      "begruendung_selbst": "Wenn die Leute endlich schneller arbeiten dürfen, kann ich wieder vernünftig einstellen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Anträge statt Papierkrieg!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Durchgängig digitale Verwaltungsleistungen und Automatisierung von Routineverfahren, damit Betriebe weniger Zeit mit Behördengängen verlieren.",
+      "seite": 48,
+      "zitat": "Bürgerinnen, Bürger und Unternehmen sollen Verwaltungsleistungen durchgängig digital nutzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Chefin eines Handwerksbetriebs leidet Sabine unter doppelten Datenerhebungen und langsamen Verfahren; die digitale One-Stop-Lösung entlastet sie unmittelbar.",
+      "begruendung_selbst": "Einmal Daten eingeben und fertig – das spart mir endlich Abende am Schreibtisch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine neuen Verbrauchssteuern!",
+      "thema": "steuern",
+      "programmpunkt": "Ablehnung neuer erzieherischer Verbrauchssteuern wie einer Zuckersteuer und Vereinfachung des Steuerrechts.",
+      "seite": 9,
+      "zitat": "Wir Freie Demokraten sind gegen die Einführung neuer, erzieherischer Verbrauchssteuern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine fürchtet zusätzliche Kosten und Unsicherheit für ihren Betrieb und ihre Kunden; die klare Ablehnung neuer Steuern passt zu ihrer Forderung nach Verlässlichkeit.",
+      "begruendung_selbst": "Immer neue Steuern und Regeln – da bleibt am Ende nichts mehr übrig.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Sabine sieht in dem Programm vor allem Entlastung bei Bürokratie, Energie und Fachkräften – genau die Themen, die ihren Alltag als Handwerksmeisterin bestimmen. Die FDP-Positionen treffen ihre Lage direkt und bestätigen ihre wirtschaftsliberale, pragmatische Haltung. Insgesamt steht sie dem Programm sehr positiv gegenüber.",
+    "score": 2
+  }
+}

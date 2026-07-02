@@ -1,0 +1,89 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:33:41.174Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81839,
+    "output_tokens": 1954,
+    "cached_tokens": 128,
+    "total_tokens": 83793,
+    "dauer_ms": 19412,
+    "usd": 0.10851435
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich echte Pflegeselbstvertretung!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung einer professionellen Pflegeselbstvertretung mit Meldepflicht und freiwilliger Mitgliedschaft, damit Pflegekräfte ihre Berufsordnung selbst entwickeln und auf Augenhöhe mit der Ärzteschaft mitreden können.",
+      "seite": 87,
+      "zitat": "Wir wollen eine professionelle Pflegeselbstvertretung gesetzlich auf den Weg bringen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich, dass Pflegekräfte in Entscheidungsprozesse kaum einbezogen werden. Die geforderte Selbstvertretung würde ihr und ihren Kolleginnen endlich eine institutionelle Stimme geben und die Professionalisierung ihrer Arbeit vorantreiben.",
+      "begruendung_selbst": "Endlich dürfen wir Pflegekräfte selbst mitreden, wie unser Beruf aussehen soll – nicht immer nur Ärzte und Verwaltung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sprachkurse ab Tag eins – super fürs Team!",
+      "thema": "integration",
+      "programmpunkt": "Zugang zu Sprachkursen ab dem ersten Tag für Zugewanderte, flexible Modelle, berufsbegleitend und mit Kinderbetreuung, um schnelle Arbeitsmarktintegration zu ermöglichen.",
+      "seite": 78,
+      "zitat": "Sprachkurse ab dem ersten Tag zugänglich sein, nicht erst nach Anerkennung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre Station funktioniert nur, weil migrantische Kolleginnen da sind. Frühe Sprachförderung und Anerkennungsberatung stabilisieren genau diese Belegschaft und entlasten Kerstin langfristig.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland läuft hier nichts – je schneller die Deutsch lernen und anerkannt werden, desto besser für uns alle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarifbindung und Mitbestimmung stärken!",
+      "thema": "arbeit",
+      "programmpunkt": "Stärkung der Tarifbindung durch Tariftreue- und Vergabegesetz, Ausbau von Mitbestimmung durch Betriebsräte auch in kleinen Einrichtungen und Aufwertung sozialer Berufe mit besseren Personalschlüsseln.",
+      "seite": 76,
+      "zitat": "Tarifbindung in Sachsen-Anhalt durch das bestehende Tariftreue- und Vergabegesetz weiter gestärkt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin empfindet ihr Gehalt als zu niedrig gemessen an der Belastung. Mehr Tarifbindung und Betriebsräte würden direkten Einfluss auf Löhne und Arbeitsbedingungen geben.",
+      "begruendung_selbst": "Weniger Gerede, mehr Tarif und Betriebsrat – dann kommt endlich was bei uns an.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaschutz zuerst, Pflege bleibt hinten?",
+      "thema": "gesundheit",
+      "programmpunkt": "Starker Fokus auf Klimaschutzgesetz, natürliche Senken und Klimaanpassung als zentrale Säule, während konkrete Personalschlüssel oder Krankenhausfinanzierung nur allgemein angesprochen werden.",
+      "seite": 2,
+      "zitat": "konsequentem Klimaschutz, sozialem Zusammenhalt und echter Chancengerechtigkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin sieht täglich, dass Unterbesetzung und Burnout die größte Bedrohung sind. Ein Programm, das Klimaschutz als Kernaufgabe priorisiert, ohne verbindliche Personalvorgaben, trifft ihre akute Lage nicht.",
+      "begruendung_selbst": "Klimaschutz ist wichtig, aber wer soll die Patienten versorgen, wenn die Station schon jetzt zusammenbricht?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratieabbau hilft uns nicht wirklich",
+      "thema": "arbeit",
+      "programmpunkt": "Allgemeine Forderung nach Bürokratieabbau und schnelleren Verfahren in der Verwaltung, ohne konkrete Entlastung für Pflegekräfte bei Dokumentation und Schichtplanung.",
+      "seite": 89,
+      "zitat": "Dokumentations- und Berichtspflichten sollen reduziert und Verfahren durch klare Zuständigkeiten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin leidet unter administrativer Last, doch das Programm bleibt bei allgemeinen Verwaltungsvereinfachungen stehen und adressiert nicht die spezifische Dokumentationsflut in der Pflege.",
+      "begruendung_selbst": "Weniger Papierkram klingt gut, aber ohne mehr Kolleginnen bringt das gar nichts.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet vor allem die integrations- und pflegepolitischen Ansätze zustimmenswert, weil sie ihre migrantischen Kolleginnen und die eigene Arbeitsbelastung direkt betreffen. Der starke Klimaschwerpunkt und fehlende verbindliche Personalschlüssel wirken dagegen zu weit weg von ihrem Alltag. Insgesamt sieht sie einige gute Ansätze, aber keine durchschlagende Lösung für den Pflegenotstand.",
+    "score": 1
+  }
+}

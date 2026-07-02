@@ -1,0 +1,88 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:48:10.467Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95443,
+    "output_tokens": 1628,
+    "cached_tokens": 94336,
+    "total_tokens": 97071,
+    "dauer_ms": 13203,
+    "usd": 0.02551845
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Klimaneutral bis 2035 – endlich!",
+      "thema": "klima",
+      "programmpunkt": "Verbindliches Ziel Klimaneutralität bis 2035 mit CO₂-Budget und Klimawirkungsprüfung aller Entscheidungen.",
+      "seite": 121,
+      "zitat": "Klimaneutral bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule sieht in dem klaren, verbindlichen Klimaziel die Bestätigung ihrer zentralen Sorge um eine lebenswerte Zukunft und die konsequente Energiewende, die sie aktiv einfordert.",
+      "begruendung_selbst": "Endlich eine Partei, die Klimaschutz nicht nur verspricht, sondern bis 2035 verbindlich macht – das ist meine Zukunft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queere Rechte schützen und ausbauen!",
+      "thema": "familie",
+      "programmpunkt": "Modernes Gleichstellungsgesetz, Schutz von LSBTI+, CSD-Förderung, queere Themen im Unterricht und Beratungsstellen.",
+      "seite": 24,
+      "zitat": "Queeres Leben in Sachsen-Anhalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule fühlt sich direkt angesprochen, weil das Programm ihre erkämpften Rechte und Sichtbarkeit als queerer Mensch systematisch stärkt und vor Rückschritten schützt.",
+      "begruendung_selbst": "Endlich wird queeres Leben als Selbstverständlichkeit behandelt und nicht als Verhandlungsmasse.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "0-Euro-Ticket und freies Studium!",
+      "thema": "bildung",
+      "programmpunkt": "Langfristig 0-Euro-Ticket im ÖPNV, elternunabhängiges BAföG, Lernmittelfreiheit und günstiges Wohnen für Studierende.",
+      "seite": 37,
+      "zitat": "Semesterticket preislich stabil halten, mittelfristig ein 9-Euro-Ticket und langfristig ein 0-Euro-Ticket",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule profitiert unmittelbar von günstiger Mobilität und Studienfinanzierung, die ihre knappe Haushaltslage spürbar entlasten.",
+      "begruendung_selbst": "BAföG ohne Elternabhängigkeit und kostenloser ÖPNV – endlich wird Studieren nicht mehr zum Luxus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiewende in Bürgerhand!",
+      "thema": "energie",
+      "programmpunkt": "Ausbau erneuerbarer Energien, kommunale und genossenschaftliche Modelle, Senkung von Netzentgelten und soziale Sockeltarife.",
+      "seite": 106,
+      "zitat": "Energiepreise senken und öffentliche Verantwortung stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule sieht hier sowohl ihre ökologischen Überzeugungen als auch ihre finanzielle Belastung durch hohe Energiepreise adressiert.",
+      "begruendung_selbst": "Strom muss bezahlbar sein und gleichzeitig das Klima schützen – beides zusammen macht Sinn.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Demokratie gegen rechte Hetze stärken!",
+      "thema": "demokratie",
+      "programmpunkt": "Stärkung direkter Demokratie, politische Bildung, mobile Beratung gegen Rechtsextremismus und Schutz von Engagierten.",
+      "seite": 15,
+      "zitat": "Rechtsextremismus entwaffnen – Demokratiestärkung vor Ort",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule begrüßt den klaren Fokus auf den Schutz demokratischer Strukturen und Minderheiten vor rechter Bedrohung.",
+      "begruendung_selbst": "Rechte Hetze darf nicht die Oberhand gewinnen – Demokratie muss aktiv verteidigt werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Jule findet das Programm in ihren Kernanliegen Klimagerechtigkeit, queerer Gleichstellung, bezahlbarem Studium und demokratischem Schutz sehr gut aufgehoben. Die Positionen bestätigen ihre Hoffnungen auf eine sozial-ökologische und inklusive Politik. Negative Berührungen ihrer Lage gibt es nicht.",
+    "score": 2
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:30:37.046Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81910,
+    "output_tokens": 1843,
+    "cached_tokens": 128,
+    "total_tokens": 83753,
+    "dauer_ms": 18801,
+    "usd": 0.1082531
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich verlässliche Kita-Plätze!",
+      "thema": "familie",
+      "programmpunkt": "Ausbau und Stabilisierung von Kita-Plätzen mit flexiblen Öffnungszeiten und ausreichendem Personal, um Beruf und Familie zu vereinbaren.",
+      "seite": 57,
+      "zitat": "Mit dem Programm „Kita STABIL“ sichert das Land aktuell das Personal in den Kitas bis 2028",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine ist auf verlässliche Betreuung angewiesen, um ihre Teilzeitarbeit aufrechtzuerhalten. Das Programm verspricht genau diese Stabilität und Entlastung bei der Kinderbetreuung.",
+      "begruendung_selbst": "Wenn die Kita endlich zu meinen Arbeitszeiten offen hat und nicht ständig ausfällt, kann ich mehr arbeiten und muss nicht ständig um den Platz kämpfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bezahlbares Wohnen statt Mietstress!",
+      "thema": "wohnen",
+      "programmpunkt": "Einführung von Mietendeckeln, Ausbau des sozialen Wohnungsbaus und Unterstützung bei der Schaffung bezahlbaren Wohnraums.",
+      "seite": 91,
+      "zitat": "Zur Sicherung von bezahlbarem Wohnraum sollen Mietendeckel eingesetzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Miete frisst bei Nadine den größten Teil des Einkommens. Maßnahmen gegen steigende Mieten und für sozialen Wohnungsbau treffen direkt ihre finanzielle Lage.",
+      "begruendung_selbst": "Endlich mal Politik, die versteht, dass die Miete nicht noch weiter steigen darf, sonst bleibt am Ende des Monats gar nichts mehr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenlose Lernmittel und Ganztag!",
+      "thema": "bildung",
+      "programmpunkt": "Kostenfreier Zugang zu Lernmitteln, Ausbau von Ganztagsschulen und Unterstützung bei Klassenfahrten für einkommensschwache Familien.",
+      "seite": 59,
+      "zitat": "Der Zugang zu Lernmitteln ebenso wie zu gesundem Mittagessen und zu Menstruationsprodukten in der Schule muss kostenfrei sein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine hat ständig zusätzliche Kosten für die Schule ihrer Kinder. Die Entlastung bei Lernmitteln und Ganztagsangeboten nimmt ihr finanzielle und organisatorische Sorgen ab.",
+      "begruendung_selbst": "Wenn die Schule alles stellt und der Ganztag verlässlich läuft, spare ich Geld und Zeit – und die Kinder sind gut betreut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Respekt statt Sanktionen beim Bürgergeld!",
+      "thema": "gesundheit",
+      "programmpunkt": "Stärkung sozialer Sicherungssysteme mit Fokus auf Unterstützung statt Misstrauen und Sanktionen für Alleinerziehende und Aufstocker.",
+      "seite": 76,
+      "zitat": "Ziel ist es, Niedriglöhne und Erwerbsarmut zu bekämpfen und existenzsichernde Beschäftigung zu sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine fühlt sich oft unter Generalverdacht gestellt, obwohl sie arbeitet. Das Programm signalisiert Respekt und Unterstützung für Menschen in ihrer Lage.",
+      "begruendung_selbst": "Ich arbeite schon, ich kümmere mich – da will ich nicht noch bestraft werden, wenn mal was schiefgeht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Höhere Wasserpreise treffen uns hart!",
+      "thema": "energie",
+      "programmpunkt": "Erhöhung der Wasserentnahmeentgelte für Großverbraucher, was mittelbar auch private Haushalte und einkommensschwache Familien belastet.",
+      "seite": 11,
+      "zitat": "fordern wir höhere Wasserentnahmeentgelte für Wasser-großverbraucher",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine hat ohnehin kein finanzielles Polster. Jede zusätzliche Belastung bei Grundbedürfnissen wie Wasser verschärft ihre ohnehin enge Haushaltslage.",
+      "begruendung_selbst": "Wasser ist kein Luxus – wenn das teurer wird, fehlt das Geld woanders, zum Beispiel für die Kinder.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine sieht im Programm vor allem direkte Entlastungen bei den drängendsten Alltagsproblemen: verlässliche Kita-Betreuung, bezahlbares Wohnen und schulische Unterstützung. Die grüne Linie passt gut zu ihrer sozialstaatsorientierten, pragmatischen Haltung. Einziger Reibungspunkt sind mögliche indirekte Kostensteigerungen bei Grundbedürfnissen.",
+    "score": 2
+  }
+}

@@ -74,13 +74,12 @@
       "thema": "verteidigung",
       "programmpunkt": "Das Programm priorisiert Klima, Soziales und Demokratie stark, ohne äußere Sicherheit oder Landesverteidigung auch nur randständig zu erwähnen",
       "seite": 22,
-      "zitat": "konsequenten Ausbau der erneuerbaren Energien ist ein wichtiger Treiber des Strukturwandels, ein wirtschaftlicher Standortvorteil für Sachsen-Anhalt und ein Jobmotor",
+      "zitat": "Ausbau der erneuerbaren Energien ist ein wichtiger Treiber des Strukturwandels, ein wirtschaftlicher Standortvorteil für Sachsen-Anhalt und ein Jobmotor",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Stefan nimmt die Prioritätensetzung des Programms als Ausdruck politischer Werte wahr: Wer ausschließlich Klima und Soziales thematisiert und Sicherheitspolitik vollständig ausblendet, signalisiert für ihn ein Weltbild, in dem Verteidigung als nachrangig gilt.",
       "begruendung_selbst": "Klima ist wichtig, das streite ich nicht ab. Aber wenn 96 Seiten lang kein einziger Satz zur äußeren Sicherheit kommt, dann sagt mir das, wo diese Partei Verteidigung einordnet: ganz hinten.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Historisches Misstrauen gegenüber Grüner Sicherheitspolitik",

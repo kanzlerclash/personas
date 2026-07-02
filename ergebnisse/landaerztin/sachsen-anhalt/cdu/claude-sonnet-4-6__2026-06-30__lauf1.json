@@ -36,26 +36,24 @@
       "thema": "bildung",
       "programmpunkt": "Die CDU will die Anzahl der Studienplätze im Fach Humanmedizin erhöhen, um mehr Ärztinnen und Ärzten den Einstieg in den Beruf zu ermöglichen.",
       "seite": 27,
-      "zitat": "Studienplatzzahlen im Fach Humanmedizin zu erhöhen",
+      "zitat": "Deshalb werden wir zusätzliche Studienplätze für Human- und Zahnmedizin sowie für Pharmazie schaffen.",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Dr. Petra weiß, dass der Arztmangel ein Generationenproblem ist. Mehr Studienplätze sind die einzige langfristige Stellschraube, um den Nachschub an Landärztinnen und -ärzten zu sichern.",
       "begruendung_selbst": "Das Problem fängt damit an, dass zu wenige Medizin studieren dürfen. Wenn das gelöst wird, landen vielleicht mehr auf dem Land – das wäre gut für meine Nachfolge-Suche.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Landarzt-Stipendium – Richtige Richtung!",
       "thema": "gesundheit",
       "programmpunkt": "Die CDU will das Landarzt-Stipendienprogramm ausbauen, bei dem Medizinstudierende eine Förderung erhalten und sich im Gegenzug verpflichten, eine Zeit lang als Landärzte tätig zu sein.",
       "seite": 27,
-      "zitat": "Landarzt - Stipendienprogramm ausbauen",
+      "zitat": "Wir sichern eine flächendeckende medizinische Versorgung als Kern der Daseinsvorsorge.",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Dr. Petra kennt das strukturelle Problem: Junge Ärztinnen und Ärzte ziehen die Stadt vor. Ein Stipendium, das mit Landarztpflicht verknüpft ist, bringt gezielt neue Kräfte in ihre Region.",
       "begruendung_selbst": "Wer auf dem Land aufgewachsen ist und eine Förderung erhält, bleibt eher auch dort. Das Stipendienprogramm ist kein Wundermittel, aber es schafft tatsächlich Anreize.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Medi-Bus für die Dörfer!",
@@ -73,14 +71,13 @@
       "titel_selbst": "Gemeindenotfallsanitäter – Brücke bis zur Praxis!",
       "thema": "gesundheit",
       "programmpunkt": "Die CDU will Gemeindenotfallsanitäter einführen, die in der Notaufnahme nicht nötige Fälle übernehmen und Patientinnen in der häuslichen Versorgung begleiten, um Praxen zu entlasten.",
-      "seite": 28,
-      "zitat": "Gemeindenotfallsanitäter als ergänzende Säule in der Patientenversorgung",
+      "seite": 5,
+      "zitat": "Einführung von Gemeindenotfallsanitätern und Telenotärzten",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Dr. Petra wird regelmäßig mit Fällen konfrontiert, die eigentlich keinen Arztbesuch erfordern, aber keinen anderen Weg finden. Der Gemeindenotfallsanitäter ergänzt ihre Arbeit und macht das System robuster.",
       "begruendung_selbst": "Manchmal bräuchten Patienten gar keinen Arzt – nur jemanden, der kurz schaut. Ein Gemeindenotfallsanitäter würde mir wirklich Zeit und Kraft ersparen.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -88,14 +85,13 @@
       "titel_selbst": "Bürokratie in der Praxis bleibt!",
       "thema": "gesundheit",
       "programmpunkt": "Das Programm enthält keine konkreten Entlastungsversprechen bei ärztlicher Bürokratie, Dokumentationspflichten oder Telematikinfrastruktur-Anforderungen.",
-      "seite": 25,
-      "zitat": "Gesundheitsversorgung muss für alle Menschen in Sachsen - Anhalt zugänglich sein",
+      "seite": 26,
+      "zitat": "verlässliche, erreichbare und menschliche Gesundheits- und Pflegeversorgung – unabhängig davon, ob sie in der Stadt oder im ländlichen Raum leben.",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Dr. Petras Alltag ist geprägt von Formularen, Abrechnungsbürokratie und TI-Pflichten, die sie ohne Mitarbeiterstab bewältigen muss. Das Programm benennt Versorgungsziele, ohne die Ärztebürokratie als eigenständiges Problem zu adressieren.",
       "begruendung_selbst": "Ich würde mehr Patienten sehen, wenn ich weniger Formulare ausfüllen müsste. Dass das Programm das nicht anspricht, ist eine echte Lücke für jemanden wie mich.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

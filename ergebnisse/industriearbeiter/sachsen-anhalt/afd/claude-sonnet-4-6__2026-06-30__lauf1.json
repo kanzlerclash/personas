@@ -36,13 +36,12 @@
       "thema": "energie",
       "programmpunkt": "Das Programm will durch Rückkehr zu einem breiten Energiemix mit fossilen Trägern explodierende Energiekosten senken, die Industriestandorte besonders belasten.",
       "seite": 13,
-      "zitat": "energiepolitischen Sonderweg ist die Ursache für explodierende Energiekosten, steigenden Energiemangel, zunehmende Deindustrialisierung",
+      "zitat": "Sonderweg ist die Ursache für explodierende Energiekosten, steigenden Energiemangel, zunehmende Deindustrialisierung",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Günstige Energiepreise sind eine Standortbedingung für die Chemieindustrie im Chemiedreieck; hohe Strompreise machen den Standort international uncompetitiv.",
       "begruendung_selbst": "Wenn der Strom doppelt so teuer ist wie in anderen Ländern, wandert die Produktion ab. Dann wandern die Arbeitsplätze ab. Das ist keine Theorie – das passiert gerade.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sanktionen schaden uns selbst!",

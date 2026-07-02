@@ -1,0 +1,76 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:34:57.061Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81936,
+    "output_tokens": 1612,
+    "cached_tokens": 80832,
+    "total_tokens": 83548,
+    "dauer_ms": 14003,
+    "usd": 0.0229414
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Klimaschutz jetzt – meine Zukunft!",
+      "thema": "klima",
+      "programmpunkt": "Verbindliches Klimaschutzgesetz mit ambitionierten Minderungszielen und Klimaneutralität bis 2035",
+      "seite": 10,
+      "zitat": "Für ein klimaneutrales Sachsen-Anhalt bis 2035 braucht es ein ambitioniertes Klimaschutzgesetz",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule sieht in der Klimakrise die größte Bedrohung ihrer eigenen Zukunft. Das klare Bekenntnis zu verbindlichen Zielen und einem Klimaschutzgesetz bestätigt ihre Überzeugung, dass Politik hier entschlossen handeln muss.",
+      "begruendung_selbst": "Endlich sagen die Grünen: Klimaschutz ist kein Nice-to-have, sondern muss gesetzlich festgeschrieben werden. Das ist genau das, wofür ich auf die Straße gehe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "100 % Erneuerbare bis 2030 – ja bitte!",
+      "thema": "energie",
+      "programmpunkt": "Ziel 100 Prozent erneuerbarer Strom bis 2030 und dezentraler Ausbau von Wind, Sonne und Co.",
+      "seite": 22,
+      "zitat": "Wir wollen unser Bundesland Sachsen-Anhalt bis 2030 im Strombereich 100 Prozent erneuerbar aufstellen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Jule ist die Energiewende nicht nur abstrakte Klimapolitik, sondern direkte Voraussetzung für eine lebenswerte Zukunft. Das ambitionierte Ziel und der Fokus auf Bürgerenergie passen zu ihrer Haltung.",
+      "begruendung_selbst": "100 Prozent erneuerbar bis 2030 – genau so muss es laufen. Alles andere ist zu langsam und gefährdet uns alle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queere Rechte schützen, nicht verhandeln!",
+      "thema": "familie",
+      "programmpunkt": "Ausweitung von Gewaltschutz und Antidiskriminierungsstrukturen für queere Menschen sowie Aufbau stabiler queerpolitischer Strukturen",
+      "seite": 45,
+      "zitat": "Wir verpflichten uns, das „Aktionsprogramm für die Akzeptanz von",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule fürchtet den Abbau erkämpfter Rechte. Das klare Bekenntnis zu queerer Sichtbarkeit, Fachzentren und Schutz vor antifeministischer Hetze bestätigt ihre Sorge und gibt ihr Sicherheit.",
+      "begruendung_selbst": "Ich will nicht, dass meine Rechte als Verhandlungsmasse dienen. Die Grünen sagen klar: queerfeindliche Gewalt und Antifeminismus haben hier keinen Platz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Student*innenticket stabil und günstig!",
+      "thema": "bildung",
+      "programmpunkt": "Verlässliche Finanzierung des Deutschlandtickets für Studierende mit Preisstabilität und kostenloser Mitnahme von Kindern und Jugendlichen",
+      "seite": 29,
+      "zitat": "Schüler*innen sollen landeseinheitlich ein subventioniertes Deutschlandticket erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jules knappes Budget wird stark von Mobilitätskosten beeinflusst. Die Forderung nach einem stabilen, subventionierten Ticket für Studierende trifft ihre finanzielle Realität direkt.",
+      "begruendung_selbst": "Das Ticket darf nicht teurer werden. Wenn ich mir das nicht mehr leisten kann, fällt mir schon wieder was weg.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Jule fühlt sich in fast allen zentralen Themen – Klima, Energie, queerer Schutz und Bildungsteilhabe – sehr gut abgeholt. Das Programm bestätigt ihre Überzeugungen und adressiert ihre konkreten Sorgen um Zukunft, Rechte und finanzielle Belastbarkeit. Es gibt keine nennenswerten Punkte, die ihrer Lage oder Haltung widersprechen.",
+    "score": 2
+  }
+}

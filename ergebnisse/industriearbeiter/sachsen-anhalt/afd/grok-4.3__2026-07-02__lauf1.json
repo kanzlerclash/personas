@@ -1,0 +1,77 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:36:30.544Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89812,
+    "output_tokens": 1728,
+    "cached_tokens": 2304,
+    "total_tokens": 91540,
+    "dauer_ms": 18125,
+    "usd": 0.1158583
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Energiepreise runter – Industrie bleibt!",
+      "thema": "energie",
+      "programmpunkt": "Abschaffung der Energiewende-Subventionen, Senkung der Stromsteuer auf EU-Mindestwert und Beibehaltung der Braunkohleverstromung zur Senkung der Industrie-Energiepreise.",
+      "seite": 13,
+      "zitat": "Deutschland die höchsten Strompreise der Welt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht in den explodierenden Energiekosten die größte Bedrohung für seinen Chemie-Arbeitsplatz. Das Programm verspricht genau die Entlastung, die seinen Standort und seine Schichtarbeit sichern soll.",
+      "begruendung_selbst": "Wenn der Strom wieder bezahlbar wird, bleiben die Anlagen am Laufen und meine Kollegen haben Arbeit. Genau das brauchen wir im Chemiedreieck.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohle bleibt – kein Kohleausstieg!",
+      "thema": "energie",
+      "programmpunkt": "Stopp des Kohleausstiegs und Erhalt des Kohlestandorts Sachsen-Anhalt über 2038 hinaus zur Sicherung von Grundlast und Industriearbeitsplätzen.",
+      "seite": 13,
+      "zitat": "Kohleausstieg in Deutschland gestoppt wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes Branche braucht verlässliche, günstige Grundlast. Das klare Bekenntnis zur Braunkohle trifft seine existenzielle Sorge um den Standort direkt.",
+      "begruendung_selbst": "Kohle ist für uns im Osten nicht verhandelbar. Ohne die bleiben die Lichter aus und die Jobs weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutsche Fachkräfte zurückholen!",
+      "thema": "arbeit",
+      "programmpunkt": "Rückkehrprogramm für ausgewanderte deutsche Fachkräfte mit Prämien und Unterstützung statt Anwerbung kulturfremder Arbeitskräfte.",
+      "seite": 5,
+      "zitat": "Rückkehrprogramm für ausgewanderte deutsche Fachkräfte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe erlebt den Fachkräftemangel als hausgemachtes Problem durch Abwanderung und falsche Politik. Die Priorisierung heimischer Fachkräfte passt zu seiner gewerkschaftlichen Haltung.",
+      "begruendung_selbst": "Unsere eigenen Leute zuerst – die kennen den Betrieb und die Kultur. Die anderen kosten nur mehr, als sie bringen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Alles auf Remigration – nichts für uns!",
+      "thema": "integration",
+      "programmpunkt": "Massive Abschiebeoffensive, Remigrationslotsen und Kürzung von Leistungen für Ausländer statt Investitionen in Industrie und sozialen Strukturwandel.",
+      "seite": 5,
+      "zitat": "Abschiebeoffensive für ausreisepflichtige Ausländer",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe sieht die größte Bedrohung in der Deindustrialisierung und Energiekrise. Das Programm lenkt massiv auf Migration ab, ohne konkrete Maßnahmen für seine Branche und den sozialverträglichen Wandel.",
+      "begruendung_selbst": "Die sollen abschieben, was sie wollen – aber meine Kollegen brauchen erstmal bezahlbaren Strom und sichere Jobs. Das ist hier das eigentliche Problem.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet die energiewirtschaftlichen Positionen der AfD sehr passend zu seinen Sorgen um Arbeitsplätze und Energiepreise. Die klare Ablehnung der schnellen Transformation und das Bekenntnis zu Kohle und günstiger Energie treffen seine Lage direkt. Weniger überzeugt ihn die starke Fokussierung auf Migrationsthemen, die seine Kernprobleme (Industrieerhalt, sozialer Wandel) nicht ausreichend adressiert.",
+    "score": 1
+  }
+}

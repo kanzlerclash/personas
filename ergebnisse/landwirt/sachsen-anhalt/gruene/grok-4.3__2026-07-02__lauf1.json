@@ -1,0 +1,113 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:32:50.789Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81983,
+    "output_tokens": 2183,
+    "cached_tokens": 2304,
+    "total_tokens": 84166,
+    "dauer_ms": 21448,
+    "usd": 0.10717955
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich faire Milchpreise!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Einführung verbindlicher Lieferverträge nach Artikel 148 GMO und EU-Kriseninstrument zur Mengenanpassung.",
+      "seite": 16,
+      "zitat": "Einführung von Artikel 148 der Gemeinsamen Marktorganisation",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sieht in verbindlichen Verträgen und Kriseninstrumenten eine Chance, seine Verhandlungsposition gegenüber Molkereien zu stärken und Preisschwankungen abzufedern.",
+      "begruendung_selbst": "Endlich kriegen wir Milchbauern mal ein Wort mit, statt dass die Molkerei alles bestimmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hofübergabe erleichtern!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Gezielte Förderung von Jungbäuer*innen und Existenzgründer*innen sowie Erleichterung von Betriebsübernahmen.",
+      "seite": 16,
+      "zitat": "gezielte Förderung von Jungbäuer*innen und Existenzgründer*innen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Franks Tochter den Hof übernehmen soll, begrüßt er Maßnahmen, die den Generationswechsel finanziell und administrativ erleichtern.",
+      "begruendung_selbst": "Wenn die Tochter den Hof mal übernehmen will, darf das nicht an Bürokratie und fehlendem Startkapital scheitern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Land nicht an Großinvestoren!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Regulierung von Share Deals und gemeinwohlorientierte Verpachtung öffentlicher Flächen an lokale Betriebe.",
+      "seite": 16,
+      "zitat": "Regulierung von Anteilskäufen (Share Deals)",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fürchtet steigende Pachtpreise durch externe Investoren; die vorgeschlagenen Schutzmechanismen sichern ihm langfristig den Zugang zu Flächen.",
+      "begruendung_selbst": "Endlich wird mal verhindert, dass die großen Geldleute uns die Böden wegkaufen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Pestizide weg bis 2035?",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Schrittweiser Ausstieg aus chemisch-synthetischen Pflanzenschutzmitteln bis 2035, beginnend mit Herbiziden.",
+      "seite": 17,
+      "zitat": "schrittweisen Ausstieg aus chemisch-synthetischen Pflanzenschutzmitteln bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank sieht darin eine existenzielle Bedrohung seiner Erträge und eine weitere Auflage, die seine ohnehin knappen Margen zerstört.",
+      "begruendung_selbst": "Ohne vernünftige Mittel gegen Unkraut und Schädlinge kann ich meine Felder nicht mehr bewirtschaften.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wolfsschutz geht vor Weidetieren!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Erhalt des strengen Wolfsschutzes mit nur eng begrenzten Ausnahmen und wissenschaftlich fundiertem Management.",
+      "seite": 7,
+      "zitat": "Abschüsse nur in eng begrenzten Ausnahmefällen zulässig",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die kleine Mutterkuhherde Franks ist durch Wölfe direkt gefährdet; der strenge Schutz erschwert die Weidehaltung massiv.",
+      "begruendung_selbst": "Die Wölfe fressen mir die Kühe weg und ich darf kaum was dagegen machen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Wasserentnahmegebühren!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Höhere Wasserentnahmeentgelte für Großverbraucher, auch wenn Landwirtschaft einen Rabatt erhalten soll.",
+      "seite": 11,
+      "zitat": "höhere Wasserentnahmeentgelte für Wasser-Großverbraucher",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank bewässert in trockenen Jahren und sieht jede zusätzliche Abgabe als direkten Angriff auf seine ohnehin volatilen Kosten.",
+      "begruendung_selbst": "Jetzt wollen sie mir auch noch das Wasser verteuern, das ich für die Felder brauche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ökolandbau als einziges Ziel!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Langfristige Vision einer flächendeckend ökologischen Bewirtschaftung und deutliche Erhöhung des Öko-Flächenanteils.",
+      "seite": 15,
+      "zitat": "flächendeckend ökologische Bewirtschaftung von Ackerflächen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank bewirtschaftet konventionell und sieht die einseitige Förderung des Ökolandbaus als Abwertung seiner bisherigen Arbeit und als Bedrohung der Versorgungssicherheit.",
+      "begruendung_selbst": "Die sollen doch erst mal zeigen, wie man ohne Chemie genug Futter und Brot produziert.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank empfindet das Programm als überwiegend praxisfern und belastend. Die wenigen positiven Ansätze zu fairen Preisen und Hofnachfolge werden von massiven Auflagen bei Pflanzenschutz, Wolf und Wasser überlagert. Er fühlt sich weiterhin von urbanen und bürokratischen Vorgaben gegängelt.",
+    "score": -2
+  }
+}

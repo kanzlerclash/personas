@@ -1,0 +1,76 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:29:37.103Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56595,
+    "output_tokens": 1500,
+    "cached_tokens": 55552,
+    "total_tokens": 58095,
+    "dauer_ms": 12178,
+    "usd": 0.01769665
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Pflege bezahlbar halten!",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflege für Betroffene bezahlbar halten und pflegende Angehörige entlasten",
+      "seite": 27,
+      "zitat": "Pflege für Betroffene bezahlbar halten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten steigende Pflegekosten bei begrenzten Rücklagen. Das Programm verspricht bezahlbare Pflege und Unterstützung für Angehörige, was ihre zentrale Sorge direkt anspricht.",
+      "begruendung_selbst": "Wir haben unser Leben lang gearbeitet, jetzt soll die Pflege bezahlbar bleiben und uns nicht ruinieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei im Dorf!",
+      "thema": "sicherheit",
+      "programmpunkt": "Landespolizei personell aufstocken und sichtbarer machen",
+      "seite": 6,
+      "zitat": "personellen Aufwuchs innerhalb der Landespolizei",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im ländlichen Raum sorgen sich Helga und Dieter um Kriminalität und ihr Sicherheitsgefühl. Mehr Polizisten und Sichtbarkeit vor Ort bestätigen ihren Wunsch nach mehr Ordnung und Schutz.",
+      "begruendung_selbst": "Endlich mehr Polizei, damit wir uns im Dorf wieder sicher fühlen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energie bezahlbar halten!",
+      "thema": "energie",
+      "programmpunkt": "Energiepreise bezahlbar halten und Netzentgelte dämpfen",
+      "seite": 44,
+      "zitat": "Energie bezahlbar halten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter haben Angst vor steigenden Heizkosten im alten Haus. Das klare Bekenntnis zu bezahlbarer Energie und Entlastung bei Netzentgelten trifft ihre finanzielle Lage direkt.",
+      "begruendung_selbst": "Die Heizung muss bezahlbar bleiben, sonst können wir uns das Haus nicht mehr leisten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ältere in den Mittelpunkt!",
+      "thema": "familie",
+      "programmpunkt": "Belange älterer Menschen in den Mittelpunkt rücken und Vereinsamung entgegenwirken",
+      "seite": 32,
+      "zitat": "Belange älterer Menschen in den Mittelpunkt rücken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter wollen im Alter respektiert und versorgt werden. Die ausdrückliche Fokussierung auf Senioren und generationenverbindende Projekte bestätigt ihre Erwartung an Wertschätzung nach einem Arbeitsleben.",
+      "begruendung_selbst": "Endlich wird mal gesagt, dass wir Älteren auch noch dazugehören.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter sehen ihre zentralen Sorgen um bezahlbare Pflege, Heizkosten, Sicherheit im Dorf und Wertschätzung im Alter weitgehend adressiert. Das Programm spricht ihre Lage als langjährige Leistungsträger mit begrenzten Mitteln direkt an und verspricht Verlässlichkeit statt neuer Belastungen. Sie nehmen das Programm insgesamt positiv wahr.",
+    "score": 2
+  }
+}

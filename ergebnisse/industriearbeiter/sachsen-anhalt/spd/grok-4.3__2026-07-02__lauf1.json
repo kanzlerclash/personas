@@ -1,0 +1,89 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:18:37.570Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 47935,
+    "output_tokens": 1557,
+    "cached_tokens": 32896,
+    "total_tokens": 49492,
+    "dauer_ms": 12096,
+    "usd": 0.03046045
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Chemieindustrie bleibt Kern!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Task Force und Priorität für Chemieindustrie in der Transformation",
+      "seite": 6,
+      "zitat": "Task Force „Chemieindustrie in der Transformation“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht hier direkte Anerkennung seines Arbeitsplatzes und der Branche, die ihm und Tausenden Kollegen Lohn und Brot sichert.",
+      "begruendung_selbst": "Endlich wird unsere Chemieindustrie nicht abgeschrieben, sondern mit höchster Priorität unterstützt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bezahlbare Energie für Industrie!",
+      "thema": "energie",
+      "programmpunkt": "Deckelung der Netzentgelte, Senkung der Stromsteuer und bezahlbare Preise für Unternehmen",
+      "seite": 5,
+      "zitat": "weitgehende Deckelung der Netzentgelte, eine konsequente Digitalisierung der Netze sowie für eine Reduzierung der Stromsteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes Existenz hängt von wettbewerbsfähigen Energiepreisen ab; diese Maßnahmen adressieren genau seine größte Sorge.",
+      "begruendung_selbst": "Ohne günstigen Strom für die Betriebe verlieren wir unsere Jobs – das hier ist richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarifbindung bleibt stark!",
+      "thema": "arbeit",
+      "programmpunkt": "Tariftreue- und Vergabegesetz wird nicht abgeschafft, Mitbestimmung gestärkt",
+      "seite": 7,
+      "zitat": "Ausweitung der bestehenden Einschränkungen oder eine Abschaffung dieses Gesetzes wird es mit uns nicht geben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Gewerkschafter und Betriebsrat erlebt Uwe Tarifbindung als direkten Schutz seiner guten Löhne und Mitbestimmung.",
+      "begruendung_selbst": "Keiner soll unsere Tarifbindung kaputtmachen – das ist unser Schutz.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaschutzgesetz ohne Job-Schutz!",
+      "thema": "klima",
+      "programmpunkt": "Verbindliches Klimaschutzgesetz mit Reduktionspfaden für Treibhausgase",
+      "seite": 15,
+      "zitat": "Klimaschutzgesetz schafft Verbindlichkeit und Überprüfbarkeit der Ziele",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe fürchtet, dass ambitionierte, gesetzlich fixierte Ziele die Transformation zu schnell und ohne ausreichenden sozialen Schutz durchsetzen.",
+      "begruendung_selbst": "Klimaschutz ja, aber nicht per Gesetz auf Kosten unserer Arbeitsplätze.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiewende zu einseitig!",
+      "thema": "energie",
+      "programmpunkt": "Vorrang für erneuerbare Energien und Bioenergie vor Gas, schnelle Umstellung",
+      "seite": 5,
+      "zitat": "Bioenergie und Speicher haben Vorrang vor teurem Gas",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe sieht die einseitige Beschleunigung der Energiewende als Risiko für Versorgungssicherheit und Kosten in der chemischen Industrie.",
+      "begruendung_selbst": "Wir brauchen verlässliche Energie, nicht nur grünen Druck.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe erkennt an, dass die SPD Industriearbeitsplätze und Tarifbindung ernst nimmt und konkrete Unterstützung für die Chemiebranche sowie bezahlbare Energie verspricht. Gleichzeitig bleibt er skeptisch gegenüber dem Tempo und der gesetzlichen Verbindlichkeit der Klimaziele, die er als potenzielle Jobgefahr erlebt. Insgesamt fühlt er sich in seinen Kerninteressen teilweise gesehen, aber nicht vollständig beruhigt.",
+    "score": 1
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:21:07.637Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 48021,
+    "output_tokens": 1496,
+    "cached_tokens": 128,
+    "total_tokens": 49517,
+    "dauer_ms": 12743,
+    "usd": 0.06501185
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Klimaschutzgesetz – endlich verbindlich!",
+      "thema": "klima",
+      "programmpunkt": "Einführung eines Klimaschutzgesetzes mit verbindlichen Reduktionspfaden und sozialer Ausgestaltung.",
+      "seite": 15,
+      "zitat": "Ein Klimaschutzgesetz schafft Verbindlichkeit und Überprüfbarkeit der Ziele",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule sieht ihre Zukunft direkt von der Klimapolitik abhängig; das Gesetz adressiert ihre zentrale Sorge um verbindliche Ziele und soziale Gerechtigkeit.",
+      "begruendung_selbst": "Endlich ein Gesetz, das Klimaziele wirklich festschreibt und nicht nur ankündigt – und das auch noch sozial gerecht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queeres Jugendbudget wird ausgebaut!",
+      "thema": "demokratie",
+      "programmpunkt": "Aus- und Weiterentwicklung des Modellprojekts Queeres Jugendbudget sowie Förderung queerer Beratungsstellen.",
+      "seite": 17,
+      "zitat": "Das Modellprojekt des Queeren Jugendbudgets wird ausgebaut und verstetigt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als queerer Mensch erlebt Jule direkte Unterstützung für ihre Community und Beteiligungsmöglichkeiten.",
+      "begruendung_selbst": "Mein queeres Jugendbudget wird endlich richtig ausgebaut – das zeigt, dass wir gesehen werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Antidiskriminierungsgesetz und Klagerecht!",
+      "thema": "demokratie",
+      "programmpunkt": "Landes-Antidiskriminierungsgesetz mit Klagerecht für Gleichstellungsbeauftragte und Stärkung queerer Fachzentren.",
+      "seite": 23,
+      "zitat": "Mit einem Landes-Antidiskriminierungsgesetz stärken wir die Rechte der Betroffenen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule fürchtet den Abbau erkämpfter Rechte; das Programm sichert und erweitert Antidiskriminierungsschutz.",
+      "begruendung_selbst": "Endlich ein echtes Antidiskriminierungsgesetz mit Klagerecht – das gibt mir Sicherheit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutschlandticket für Studis bleibt bezahlbar!",
+      "thema": "bildung",
+      "programmpunkt": "Langfristige Absicherung des Deutschlandtickets und kostenlose Beförderung für Studierende und Auszubildende.",
+      "seite": 26,
+      "zitat": "Die Beförderung von Schülern, Auszubildenden und Freiwilligendienstleistenden wird nicht aus Regionalisierungsmitteln finanziert.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jules knappes Budget wird durch günstige Mobilität direkt entlastet; sie nutzt täglich ÖPNV und Rad.",
+      "begruendung_selbst": "Das Ticket muss bezahlbar bleiben – ohne das komm ich gar nicht zur Uni oder zum Job.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Jule findet das Programm in ihren Kernanliegen Klimaschutz, queerer Teilhabe, Antidiskriminierung und bezahlbarer Mobilität sehr gut getroffen. Die direkten Bezüge zu ihrer Lebenslage als Studentin mit knappem Budget und ihre Hoffnungen auf eine starke, inklusive Demokratie werden klar adressiert. Es gibt keine nennenswerten konträren Punkte.",
+    "score": 2
+  }
+}

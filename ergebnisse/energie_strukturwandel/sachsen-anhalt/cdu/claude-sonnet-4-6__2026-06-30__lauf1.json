@@ -72,13 +72,12 @@
       "thema": "wirtschaft",
       "programmpunkt": "Die CDU will den Strukturwandel im Mitteldeutschen Braunkohlerevier und in der Chemieindustrie aktiv begleiten, mit Fördermitteln und politischem Engagement auf allen Ebenen.",
       "seite": 15,
-      "zitat": "Strukturwandel im Mitteldeutschen Braunkohlerevier... aktiv begleiten",
+      "zitat": "Strukturwandel im Mitteldeutschen Braunkohlerevier sowie den tiefgreifenden Wandel in der für Sachsen-Anhalt prägenden chemischen Industrie aktiv begleiten",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny braucht Gewissheit, dass seine Region nicht allein gelassen wird. Das Versprechen aktiver Begleitung mit EU- und Bundesfördermitteln signalisiert ihm, dass der Wandel koordiniert und nicht dem Zufall überlassen wird.",
       "begruendung_selbst": "Wandel gelingt nur mit einem Plan, der die Menschen vor Ort mitnimmt. Dass das hier explizit steht, ist nicht selbstverständlich.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [

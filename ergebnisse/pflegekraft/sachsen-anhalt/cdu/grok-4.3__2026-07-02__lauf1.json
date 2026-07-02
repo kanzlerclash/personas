@@ -1,0 +1,89 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:29:12.281Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56570,
+    "output_tokens": 1817,
+    "cached_tokens": 49280,
+    "total_tokens": 58387,
+    "dauer_ms": 13725,
+    "usd": 0.0250235
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Kompetenzen für uns Pflegekräfte!",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflegefachkräfte sollen mehr Kompetenzen und Verantwortung erhalten, um die Versorgung zu stabilisieren.",
+      "seite": 28,
+      "zitat": "Pflegefachkräfte erhalten mehr Kompetenzen und Verantwortung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich, wie ihre Arbeit durch starre Zuständigkeiten erschwert wird. Mehr Kompetenzen würden ihre Station entlasten und die Versorgung verbessern.",
+      "begruendung_selbst": "Endlich wird anerkannt, dass wir Pflegekräfte mehr machen können und sollen – das spart uns allen Stress.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausländische Kolleginnen sind willkommen!",
+      "thema": "integration",
+      "programmpunkt": "Ausländer, die sich integrieren, arbeiten und ihren Lebensunterhalt selbst bestreiten, sind willkommen.",
+      "seite": 9,
+      "zitat": "Ausländerinnen und Ausländer, die sich integrieren, arbeiten, ihren Lebensunterhalt selbst bestreiten und unsere Werte teilen, sind willkommen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre Station ist auf migrantische Pflegekräfte angewiesen. Diese klare Aussage signalisiert, dass ihre Kolleginnen nicht pauschal als Problem gesehen werden.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland läuft hier gar nichts – gut, dass das auch mal gesagt wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Studienplätze für Gesundheitsberufe!",
+      "thema": "gesundheit",
+      "programmpunkt": "Zusätzliche Studienplätze für Human- und Zahnmedizin sowie Pharmazie sollen geschaffen werden.",
+      "seite": 27,
+      "zitat": "Deshalb werden wir zusätzliche Studienplätze für Human- und Zahnmedizin sowie für Pharmazie schaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Langfristig kann mehr Nachwuchs den Personalmangel lindern, von dem Kerstin täglich betroffen ist.",
+      "begruendung_selbst": "Endlich wird mehr Nachwuchs ausgebildet – das brauchen wir dringend auf den Stationen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Irreguläre Migration auf null – und meine Kolleginnen?",
+      "thema": "integration",
+      "programmpunkt": "Ziel ist es, die irreguläre Migration auf null zu reduzieren und Rückführungen konsequent umzusetzen.",
+      "seite": 8,
+      "zitat": "Es ist unser Ziel, die irreguläre Migration auf null zu reduzieren.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin fürchtet, dass ein harter Migrationskurs auch gut integrierte und dringend benötigte Pflegekräfte verunsichert oder abschreckt.",
+      "begruendung_selbst": "Die reden von null Migration, aber ohne die ausländischen Schwestern und Pfleger wäre hier längst alles zusammengebrochen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgerarbeit statt echter Entlastung!",
+      "thema": "arbeit",
+      "programmpunkt": "Arbeitsfähige Leistungsempfänger sollen verpflichtend gemeinnützige Arbeit leisten (Bürgerarbeit).",
+      "seite": 31,
+      "zitat": "Die Teilnahme an Landesprogrammen zur Arbeitsmarktförderung soll für arbeitsfähige Leistungsbezieher nicht länger vom Prinzip der Freiwilligkeit abhängig sein.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin sieht darin eine Ablenkung von echten strukturellen Verbesserungen in der Pflege und eine Abwertung von Fürsorgearbeit.",
+      "begruendung_selbst": "Statt uns mehr Personal zu schicken, wollen sie wieder Leute zum Arbeiten zwingen – das löst unser Problem nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet einzelne gesundheitspolitische Ansätze wie mehr Kompetenzen für Pflegekräfte und zusätzliche Studienplätze positiv, weil sie ihre tägliche Belastung anerkennen. Der harte Migrationskurs und die Betonung von Bürgerarbeit stoßen sie jedoch ab, da sie ihre migrantischen Kolleginnen und die reale Personalsituation gefährden. Insgesamt überwiegt Skepsis, weil strukturelle Entlastung und Wertschätzung für Pflege zu kurz kommen.",
+    "score": -1
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:18:25.472Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 48081,
+    "output_tokens": 1979,
+    "cached_tokens": 128,
+    "total_tokens": 50060,
+    "dauer_ms": 18394,
+    "usd": 0.06650435
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau für Handwerk!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Prüfung von Gesetzen auf zusätzliche Berichtspflichten für Betriebe und Reduzierung von Doppelbelastungen durch europäische, bundes- und landesrechtliche Vorgaben.",
+      "seite": 5,
+      "zitat": "Gesetze werden darauf geprüft, ob sie zusätzliche Berichtspflichten für Betriebe schaffen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt Abende mit Papierkram und Nachweisen; jede Erleichterung bei Berichtspflichten und Doppelbelastungen spart ihr direkt Arbeitszeit und Kosten im Betrieb.",
+      "begruendung_selbst": "Endlich mal einer, der versteht, dass ich nicht den ganzen Tag Formulare ausfüllen kann, sondern Aufträge abarbeiten muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bezahlbare Energie für den Betrieb!",
+      "thema": "energie",
+      "programmpunkt": "Weitgehende Deckelung der Netzentgelte, Digitalisierung der Netze und Reduzierung der Stromsteuer zur Sicherung der Wettbewerbsfähigkeit.",
+      "seite": 33,
+      "zitat": "die Zuschüsse des Bundes zu den Netzentgelten über 2026 hinaus verstetigt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiekosten belasten ihren SHK-Betrieb massiv; eine Deckelung und Steuersenkung würde Liquidität und Kalkulation spürbar entlasten.",
+      "begruendung_selbst": "Strom und Gas sind für mich kein Luxus, sondern Betriebsmittel – wenn die Preise runtergehen, kann ich wieder vernünftig kalkulieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte aus dem Ausland – ja bitte!",
+      "thema": "arbeit",
+      "programmpunkt": "Beschleunigte Anerkennung ausländischer Abschlüsse, Berücksichtigung von Berufserfahrung und Job-Buddy-Programm zur Integration von Fachkräften.",
+      "seite": 8,
+      "zitat": "Anerkennung ausländischer Abschlüsse bleibt eine zentrale Herausforderung. Verfahren werden beschleunigt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine findet keine Gesellen und Azubis mehr; schnellere Anerkennung und praktische Unterstützung bei der Integration ausländischer Fachkräfte treffen genau ihren Fachkräftemangel.",
+      "begruendung_selbst": "Ich brauche Leute, die anpacken können – egal woher. Wenn die Anerkennung schneller geht, ist das für mich Gold wert.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaschutzgesetz bringt nur neue Regeln!",
+      "thema": "klima",
+      "programmpunkt": "Einführung eines Klimaschutzgesetzes mit verbindlichen Reduktionspfaden und Transparenz über Zuständigkeiten.",
+      "seite": 15,
+      "zitat": "Ein Klimaschutzgesetz schafft Verbindlichkeit und Überprüfbarkeit der Ziele",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine leidet bereits unter ständig wechselnden Heizungs- und Fördervorgaben; ein weiteres verbindliches Gesetz mit Reduktionspfaden verspricht ihr nur noch mehr Bürokratie und verunsicherte Kunden.",
+      "begruendung_selbst": "Schon wieder ein Gesetz, das alles umkrempelt – meine Kunden warten dann wieder ab, und ich stehe ohne Aufträge da.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Höhere Steuern auf Vermögen und Erbschaft!",
+      "thema": "steuern",
+      "programmpunkt": "Wiedereinführung einer wirksamen Vermögensteuer und effektive Besteuerung hoher Erbvermögen auf Bundesebene.",
+      "seite": 35,
+      "zitat": "Wiedereinführung einer wirksamen Vermögensteuer, eine gerechte Erbschaftsteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine plant die Betriebsübergabe in etwa zehn Jahren; höhere Vermögen- und Erbschaftsteuern bedrohen direkt die Weitergabe ihres Betriebsvermögens an die nächste Generation.",
+      "begruendung_selbst": "Der Betrieb ist meine Altersvorsorge – wenn der Staat beim Übergang noch mehr abgreift, kann ich ihn gleich dichtmachen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine sieht einige direkte Entlastungen bei Bürokratie, Energiepreisen und Fachkräftezuwanderung, die ihre tägliche Betriebsführung erleichtern würden. Gleichzeitig fürchtet sie neue Klimavorgaben und höhere Steuerlasten bei der Betriebsnachfolge, die ihre ohnehin angespannte Lage weiter verschärfen. Insgesamt überwiegt leichte Zustimmung zu den wirtschaftspraktischen Punkten, aber mit deutlichem Vorbehalt gegenüber zusätzlicher Regulierung.",
+    "score": 1
+  }
+}

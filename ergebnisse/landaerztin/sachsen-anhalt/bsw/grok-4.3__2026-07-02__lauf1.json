@@ -1,0 +1,89 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:50:01.523Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 79041,
+    "output_tokens": 1609,
+    "cached_tokens": 2304,
+    "total_tokens": 80650,
+    "dauer_ms": 18662,
+    "usd": 0.10157955
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Anreize für Landärzte!",
+      "thema": "gesundheit",
+      "programmpunkt": "Stipendienprogramme für Medizinstudierende mit Verpflichtung zur Tätigkeit in unterversorgten Regionen für ca. zehn Jahre.",
+      "seite": 60,
+      "zitat": "Landesstipendien mit Bindung an unterversorgte Regionen stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sieht hier eine direkte Antwort auf den Nachwuchsmangel in ihrer Region, der ihre eigene Praxisnachfolge bedroht.",
+      "begruendung_selbst": "Endlich jemand, der kapiert, dass ohne Anreize keiner mehr aufs Land kommt – das könnte meine Patienten retten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnortnahe Versorgung sichern!",
+      "thema": "gesundheit",
+      "programmpunkt": "Aufbau kommunaler Gesundheitszentren und flächendeckendes System von Gemeindeschwestern für ältere und chronisch kranke Menschen.",
+      "seite": 60,
+      "zitat": "kommunal betriebene Gesundheitszentren mit angestellten Ärzten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das entlastet ihre Praxis bei der Versorgung alternder Patienten und reduziert lange Wege im ländlichen Raum.",
+      "begruendung_selbst": "Gemeindeschwestern und Zentren – genau das, was hier fehlt, damit ich nicht alles allein stemmen muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitalisierung ohne Zwang!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Recht auf analoge Nutzung zentraler Dienstleistungen; Digitalisierung als freiwilliges Angebot, kein Zwang.",
+      "seite": 75,
+      "zitat": "Recht auf analoge Verwaltung ohne Digitalzwang sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra erlebt täglich, wie nicht funktionierende TI und eAU ihren Alltag belasten; ein klares Nein zum Zwang passt zu ihrer Erfahrung.",
+      "begruendung_selbst": "Endlich einer, der sagt: nicht jeder muss digital, sonst geht hier gar nichts mehr.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mehr Tarifzwang für Praxen?",
+      "thema": "gesundheit",
+      "programmpunkt": "Tariftreuegesetz für Krankenhäuser und Gesundheitseinrichtungen, das auch für alle Beschäftigten gilt.",
+      "seite": 57,
+      "zitat": "Tariftreuegesetz für Krankenhäuser in Sachsen-Anhalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als niedergelassene Ärztin fürchtet Petra zusätzliche bürokratische und finanzielle Belastungen, die ihre ohnehin knappen Ressourcen weiter einschränken.",
+      "begruendung_selbst": "Schon wieder neue Vorschriften – als ob ich nicht schon genug Formulare und Kosten hätte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr staatliche Steuerung!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung einer solidarischen Bürgerversicherung und Vereinheitlichung der Kassenleistungen durch Zusammenlegung von Krankenkassen.",
+      "seite": 36,
+      "zitat": "Sachsen-Anhalt soll sich auf Bundesebene für eine solidarische Bürgerversicherung einsetzen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra sieht darin eher mehr Zentralisierung und weniger Flexibilität für die regionale Versorgung, die sie täglich organisiert.",
+      "begruendung_selbst": "Noch mehr Zentralismus – das löst den Mangel hier draußen nicht, das macht alles nur komplizierter.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Petra findet im Programm klare Ansätze für ländliche Versorgung und Entlastung von Digitalzwang, die ihre tägliche Arbeit und die Zukunft ihrer Patienten direkt betreffen. Gleichzeitig stößt sie sich an zusätzlichen tarif- und steuerungsbezogenen Vorgaben, die ihre ohnehin hohe bürokratische Last weiter erhöhen könnten. Insgesamt sieht sie mehr Verständnis für den ländlichen Raum als in vielen anderen Programmen.",
+    "score": 1
+  }
+}

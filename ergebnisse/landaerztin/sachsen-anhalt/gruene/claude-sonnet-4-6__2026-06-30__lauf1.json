@@ -36,13 +36,12 @@
       "thema": "gesundheit",
       "programmpunkt": "Innovative Konzepte für mobile Arztpraxen sollen im ländlichen Raum neue Versorgungsmodelle ermöglichen",
       "seite": 89,
-      "zitat": "innovative Konzepte für mobile Arztpraxen",
+      "zitat": "innovativen Konzepten für mobile Arztpraxen kann so die Grundversorgung vor Ort gesichert werden",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Im Kontext der fehlenden Praxisnachfolge sind mobile Praxismodelle eine realistische Alternative zur Schließung. Für Dr. Petra, die keine Nachfolgerin findet, könnte ein solches Konzept die Übergangsversorgung ihrer Patienten sichern.",
       "begruendung_selbst": "Wenn ich irgendwann aufhöre und niemanden finde, der meine Praxis übernimmt, wäre eine mobile Lösung zumindest besser als gar keine Versorgung mehr für meine Patienten.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Grundversorgung ambulant und stationär sichern",
@@ -87,26 +86,24 @@
       "thema": "gesundheit",
       "programmpunkt": "Das Programm enthält keine konkreten Maßnahmen zum Abbau der Dokumentations- und Verwaltungslast für niedergelassene Ärztinnen und Ärzte",
       "seite": 80,
-      "zitat": "stationäre Versorgung fachlich hochwertig und erreichbar absichern",
+      "zitat": "stationäre Versorgung fachlich hochwertig und erreichbar",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Dr. Petras größte Alltagslast ist Bürokratie — Dokumentation, Abrechnung, Qualitätssicherung. Das Programm schweigt dazu vollständig. Ohne Entlastung hier bleibt die Praxis auf Dauer nicht tragbar, egal wie gut die Versorgungspolitik sonst ist.",
       "begruendung_selbst": "Ich verbringe mehr Zeit mit Formularen als mit Patienten. Kein Wort dazu im Programm — das enttäuscht mich, weil das mein größtes Problem im Alltag ist.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Keine konkreten Niederlassungsanreize",
       "thema": "gesundheit",
       "programmpunkt": "Spezifische Förderprogramme oder Anreizstrukturen für die Ansiedlung junger Ärztinnen und Ärzte im ländlichen Raum fehlen im Programm",
       "seite": 89,
-      "zitat": "innovative Konzepte für mobile Arztpraxen",
+      "zitat": "innovativen Konzepten für mobile Arztpraxen kann so die Grundversorgung vor Ort gesichert werden",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Mobile Praxen sind ein Notfallkonzept, kein struktureller Anreiz für Niederlassung. Dr. Petras eigentliches Problem ist das Fehlen einer Nachfolgerin — dafür bräuchte es Stipendien, Landarztquoten, Praxisübergabehilfen. Das Programm schweigt dazu.",
       "begruendung_selbst": "Mobile Praxen sind schön, aber ich brauche jemanden der meine Praxis übernimmt. Das ist eine konkrete Personagewinnungsfrage, keine Konzeptfrage — und genau das fehlt hier.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Migration löst Nachfolgeproblem nicht",

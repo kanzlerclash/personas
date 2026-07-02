@@ -1,0 +1,101 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:47:30.998Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95371,
+    "output_tokens": 1808,
+    "cached_tokens": 93950,
+    "total_tokens": 97179,
+    "dauer_ms": 14126,
+    "usd": 0.02635625
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Heizkosten runter, keine Sperren!",
+      "thema": "energie",
+      "programmpunkt": "Energiepreise senken durch soziale Sockeltarife und gesetzliches Verbot von Strom- und Gassperren",
+      "seite": 106,
+      "zitat": "einen verpflichtenden Sockeltarif für Strom und Wärme",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter leben von kleinen Renten und fürchten steigende Heizkosten im eigenen Haus. Das Programm verspricht bezahlbare Grundversorgung und Schutz vor Abschaltungen.",
+      "begruendung_selbst": "Wir können uns keine hohen Rechnungen leisten. Wenn der Strom nicht abgestellt wird, schlafen wir ruhiger.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege darf nicht arm machen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung einer solidarischen Pflegevollversicherung und Abschaffung pflegebedingter Eigenanteile",
+      "seite": 56,
+      "zitat": "eine solidarische Pflegevollversicherung auf Bundesebene",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar hat Angst, im Alter durch Pflegekosten das Haus verlieren zu müssen. Die Forderung nach einer Vollversicherung trifft genau diese existenzielle Sorge.",
+      "begruendung_selbst": "Wir haben unser Leben lang gearbeitet. Jetzt soll die Pflege nicht alles auffressen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hausarzt und Lotsen auf dem Dorf!",
+      "thema": "gesundheit",
+      "programmpunkt": "Mobile Bürokratie-Lotsen und flächendeckende medizinische Versorgung auch im ländlichen Raum",
+      "seite": 43,
+      "zitat": "mobile „Bürokratie-Lotsen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im Dorf ist der nächste Arzt schon eine Fahrt wert. Das Programm verspricht Unterstützung vor Ort und Lotsen, die bei Anträgen helfen.",
+      "begruendung_selbst": "Wenn der Hausarzt weg ist, brauchen wir jemanden, der uns hilft. Nicht nur in der Stadt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rente sicher, kein Börsenspiel!",
+      "thema": "gesundheit",
+      "programmpunkt": "Erhöhung des Rentenniveaus auf 53 Prozent und Gerechtigkeitsfonds für DDR-Rentner",
+      "seite": 44,
+      "zitat": "das Rentenniveau im Bund auf 53 Prozent anheben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter wollen keine Experimente mit ihrer Rente. Die klare Forderung nach einem höheren Rentenniveau und Ausgleich für DDR-Zeiten gibt ihnen Sicherheit.",
+      "begruendung_selbst": "Wir wollen eine sichere Rente, kein Spiel mit Aktien.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sanierungspflicht – von welchem Geld?",
+      "thema": "energie",
+      "programmpunkt": "Klimaneutralität bis 2035 und energetische Sanierung öffentlicher und privater Gebäude",
+      "seite": 121,
+      "zitat": "Klimaneutral bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar besitzt ein Haus von 1981 und hat kaum Rücklagen. Ein strikter Klimafahrplan bis 2035 weckt bei ihnen die Angst vor unaffordablen Sanierungskosten.",
+      "begruendung_selbst": "Wenn wir das Dach dämmen müssen, von welchem Geld eigentlich?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermögensteuer auf unser Haus?",
+      "thema": "steuern",
+      "programmpunkt": "Bundesratsinitiative zur Wiedereinführung der Vermögenssteuer ab einer Million Euro",
+      "seite": 17,
+      "zitat": "Eine Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl ihr Haus wahrscheinlich unter der Grenze liegt, sehen sie jede neue Steuer auf Vermögen als Bedrohung für das Eigenheim, das sie abbezahlt haben.",
+      "begruendung_selbst": "Wir haben das Haus abbezahlt. Jetzt soll nicht noch eine Steuer kommen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter finden vor allem die sozialen Sicherheitsversprechen (Rente, Pflege, Energiepreise, ländliche Versorgung) sehr ansprechend. Gleichzeitig lösen die ambitionierten Klimaziele und mögliche Steuererhöhungen bei ihnen starke Ängste vor unbezahlbaren Belastungen für ihr Eigenheim aus. Insgesamt überwiegt die Zustimmung zu den direkten sozialen Entlastungen.",
+    "score": 1
+  }
+}

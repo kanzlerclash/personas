@@ -1,0 +1,101 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:45:05.284Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95503,
+    "output_tokens": 1924,
+    "cached_tokens": 128,
+    "total_tokens": 97427,
+    "dauer_ms": 26181,
+    "usd": 0.12536935
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Handwerk als Rückgrat anerkennen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Handwerk als zentralen Akteur der Transformation und regionalen Wertschöpfung stärken",
+      "seite": 93,
+      "zitat": "Handwerk – Rückgrat der Transformation, Herz der Regionen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine sieht ihre Branche endlich als unverzichtbaren Teil der Wirtschaft gewürdigt, was ihrer täglichen Verantwortung für acht Beschäftigte und regionale Aufträge entspricht.",
+      "begruendung_selbst": "Endlich steht schwarz auf weiß, dass ohne uns Handwerker nichts läuft – das fühlt sich nach Anerkennung an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie abbauen statt immer neue Formulare!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungsprozesse vereinfachen und digitale Nachweise statt Papierkram einführen",
+      "seite": 143,
+      "zitat": "aus schlechten analogen Prozessen dürfen keine schlechten digitalen Prozesse werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die ständigen Nachweispflichten und wechselnden Förderregeln kosten Sabine reale Arbeitszeit; eine echte Vereinfachung würde ihre Liquidität und Planungssicherheit direkt verbessern.",
+      "begruendung_selbst": "Weniger Aktenordner und mehr Zeit auf der Baustelle – genau das brauche ich, um meine Aufträge noch zu schaffen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiepreise senken, damit Aufträge nicht platzen!",
+      "thema": "energie",
+      "programmpunkt": "Energiepreise für Betriebe senken und verlässliche Rahmenbedingungen schaffen",
+      "seite": 106,
+      "zitat": "Energiepreise sozial gerecht gestalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiekosten belasten Sabine direkt bei der Werkstatt und bei Kundenaufträgen zum Heizungstausch; eine spürbare Senkung würde ihre Kalkulation stabilisieren.",
+      "begruendung_selbst": "Wenn der Strom und die Wärme wieder bezahlbar sind, können meine Kunden endlich wieder in neue Anlagen investieren.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Vermögens- und Erbschaftsteuer ruinieren den Betrieb!",
+      "thema": "steuern",
+      "programmpunkt": "Wiedereinführung der Vermögenssteuer und Reform der Erbschaftssteuer",
+      "seite": 17,
+      "zitat": "Große Vermögen müs sen endlich wieder ihren gerechten Beitrag",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine plant die Betriebsübergabe in etwa zehn Jahren; höhere Erbschafts- und Vermögenssteuern würden die Nachfolge finanziell unmöglich machen und den Fortbestand des Familienbetriebs gefährden.",
+      "begruendung_selbst": "Wenn der Betrieb, den ich aufgebaut habe, bei der Übergabe nochmal besteuert wird, bleibt am Ende nichts mehr übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tarifzwang treibt Lohnkosten in die Höhe!",
+      "thema": "arbeit",
+      "programmpunkt": "Tarifbindung stärken und allgemeinverbindlich machen",
+      "seite": 86,
+      "zitat": "Tarifbindung stärken - faire Löhne sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Inhaberin eines kleinen Handwerksbetriebs mit schwankender Liquidität würde eine erzwungene Tarifbindung ihre Lohnkosten massiv erhöhen und die Wettbewerbsfähigkeit gegenüber größeren Anbietern verschlechtern.",
+      "begruendung_selbst": "Ich zahle schon ordentlich, aber wenn mir der Staat vorschreibt, wie viel, dann breche ich weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaziele ohne Plan ruinieren meine Aufträge!",
+      "thema": "klima",
+      "programmpunkt": "Klimaneutralität bis 2035 und strenge Vorgaben für den Gebäudebereich",
+      "seite": 121,
+      "zitat": "Klimaneutral bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sabine erlebt bereits, wie ständig wechselnde Heizungsregeln ihre Kunden verunsichern und Aufträge platzen lassen; ein noch ambitionierteres Ziel ohne praktikable Übergangsfristen würde ihre Auftragslage weiter verschlechtern.",
+      "begruendung_selbst": "Sag mir eine Regel, an die ich mich halten kann – aber nicht alle halbe Jahre eine neue, die meine Kunden verschreckt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine findet einzelne Punkte zur Stärkung des Handwerks, zum Bürokratieabbau und zu Energiepreisen zustimmenswert, weil sie ihre tägliche Belastung direkt ansprechen. Gleichzeitig lehnt sie die steuerliche Belastung von Betriebsvermögen, erzwungene Tarifbindung und praxisferne Klimavorgaben entschieden ab, da diese ihre Existenz als Inhaberin eines kleinen Familienbetriebs bedrohen.",
+    "score": -1
+  }
+}

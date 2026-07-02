@@ -1,0 +1,101 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:33:58.565Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81883,
+    "output_tokens": 2057,
+    "cached_tokens": 67840,
+    "total_tokens": 83940,
+    "dauer_ms": 17389,
+    "usd": 0.03768175
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Personal bis 7000!",
+      "thema": "sicherheit",
+      "programmpunkt": "Konsequenter Personalausbau bei Vollzugsbeamten auf 7000 Stellen plus Stärkung der Polizeiverwaltung und IT-Ausstattung.",
+      "seite": 41,
+      "zitat": "Der Personalausbau bei den Vollzugsbeamt*innen soll konsequent bis zur Zielgröße von 7.000 Stellen fortgesetzt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt täglich den Personalmangel im Streifendienst. Die konkrete Zielzahl und die zusätzliche Stärkung von Verwaltung und IT treffen genau seine Kernklage nach mehr Kolleg*innen und besserer Ausstattung.",
+      "begruendung_selbst": "Endlich sagen die mal, dass wir die 7000 brauchen – und nicht nur immer mehr Aufgaben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rückendeckung gegen Angriffe auf Einsatzkräfte!",
+      "thema": "sicherheit",
+      "programmpunkt": "Stärkung der Polizei zur Drohnenabwehr und Schutz kritischer Infrastruktur mit klaren rechtlichen Grundlagen.",
+      "seite": 42,
+      "zitat": "Deshalb wollen wir die Polizei gezielt zur Drohnenabwehr befähigen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco sieht neue hybride Gefahren und Angriffe auf Kolleg*innen. Die Forderung nach gezielter Befähigung und rechtlicher Absicherung gibt ihm das Gefühl, dass die Partei seine praktischen Probleme ernst nimmt.",
+      "begruendung_selbst": "Wenigstens wollen die uns nicht mehr schutzlos lassen, wenn Drohnen oder so was kommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Respekt vor der Institution, nicht pauschale Kritik!",
+      "thema": "demokratie",
+      "programmpunkt": "Wehrhafte Demokratie im Staatsdienst: Rechtsextreme im öffentlichen Dienst sollen zügig und rechtssicher entfernt werden.",
+      "seite": 40,
+      "zitat": "Wer für den Staat arbeitet, trägt eine besondere Verantwortung gegenüber unserer Verfassung.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco lehnt pauschale Institutionenkritik ab und will, dass der Staat sich selbst schützt. Die klare Haltung gegen Verfassungsfeinde im Staatsdienst bestätigt seine Loyalität zur Institution.",
+      "begruendung_selbst": "Wer den Rechtsstaat von innen untergräbt, hat bei uns nichts zu suchen – da bin ich ganz bei denen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wieder eine unabhängige Polizeibeauftragte?",
+      "thema": "sicherheit",
+      "programmpunkt": "Schaffung einer unabhängigen Stelle zur Untersuchung von Beschwerden und Fehlverhalten in der Polizei mit umfassenden Rechten.",
+      "seite": 43,
+      "zitat": "Wir wollen eine unabhängige Stelle schaffen, die Beschwerden, Hinweise und Fehlverhalten in der Polizei untersucht.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco fühlt sich bereits unter Generalverdacht. Eine weitere externe Kontrollinstanz mit weitreichenden Rechten verstärkt bei ihm den Eindruck, dass die eigene Arbeit misstrauisch beäugt wird statt unterstützt.",
+      "begruendung_selbst": "Schon wieder eine Stelle, die uns von außen kontrolliert – als ob wir nicht selbst für Recht und Ordnung stehen würden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Palantir – aber wie sollen wir dann arbeiten?",
+      "thema": "sicherheit",
+      "programmpunkt": "Ablehnung von Palantir oder vergleichbarer Software sowie Massenüberwachung in Stadien und bei Veranstaltungen.",
+      "seite": 42,
+      "zitat": "Eine Einführung von Palantir oder vergleichbarer Software in Sachsen-Anhalt lehnen wir entschieden ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Marco braucht moderne Werkzeuge gegen organisierte Kriminalität und hybride Bedrohungen. Die pauschale Ablehnung solcher Systeme nimmt ihm aus seiner Sicht notwendige Mittel aus der Hand.",
+      "begruendung_selbst": "Wie sollen wir bei der Masse an Daten noch hinterherkommen, wenn uns die Tools verboten werden?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Fokus auf Racial Profiling als auf unsere Belastung!",
+      "thema": "sicherheit",
+      "programmpunkt": "Ausrichtung der Aus- und Fortbildung auf Antidiskriminierung, Deeskalation und aktives Entgegenwirken von Racial Profiling.",
+      "seite": 43,
+      "zitat": "Ziel ist eine Polizei, die Racial Profiling aktiv entgegenwirkt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco erlebt Überlastung und Angriffe auf Kolleg*innen als Hauptproblem. Die starke Betonung von Racial Profiling in der Ausbildung wirkt auf ihn wie eine einseitige Schuldzuweisung statt Anerkennung der täglichen Belastung.",
+      "begruendung_selbst": "Wir kriegen schon genug an den Kopf – und dann soll in der Ausbildung vor allem das im Vordergrund stehen?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco findet die konkreten Personal- und Ausstattungsforderungen sowie die wehrhafte Haltung gegenüber Verfassungsfeinden im Staatsdienst zustimmenswert. Gleichzeitig stößt ihn die Betonung externer Kontrolle, die Ablehnung moderner Analysetools und der Fokus auf Racial Profiling ab, weil er sich dadurch unter Generalverdacht gestellt fühlt statt unterstützt.",
+    "score": 0
+  }
+}

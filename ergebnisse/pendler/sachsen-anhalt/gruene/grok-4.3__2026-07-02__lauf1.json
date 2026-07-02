@@ -1,0 +1,76 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:33:21.760Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81859,
+    "output_tokens": 1810,
+    "cached_tokens": 65611,
+    "total_tokens": 83669,
+    "dauer_ms": 17310,
+    "usd": 0.0397422
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Auto bleibt für uns Pendler unverzichtbar!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm erkennt zwar an, dass das Auto auf dem Land weiterhin nötig ist, setzt aber dennoch massiv auf Ausbau von ÖPNV, Radwegen und Carsharing als Vorrang vor dem Individualverkehr.",
+      "seite": 27,
+      "zitat": "das Auto in ländlichen Räumen für viele Menschen weiterhin notwendig sein wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf pendelt täglich 45 Minuten mit dem eigenen Auto, weil es keinen brauchbaren ÖPNV gibt. Die einseitige Priorisierung von Alternativen ignoriert seine reale Situation und erhöht den Druck auf Autofahrer.",
+      "begruendung_selbst": "Hier wird zwar gesagt, dass das Auto nötig bleibt, aber dann kommt gleich der ganze ÖPNV- und Rad-Vorrang. Für mich auf dem Dorf ändert sich dadurch nichts außer, dass alles teurer wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tempo 130 und 30 – wieder nur für uns!",
+      "thema": "verkehr",
+      "programmpunkt": "Einführung von Tempo 30 als Regelgeschwindigkeit innerorts und Tempo 130 auf Autobahnen als neue Höchstgeschwindigkeit.",
+      "seite": 31,
+      "zitat": "Tempo 30 als innerörtliche Regelgeschwindigkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf fährt regelmäßig Autobahn und durch Ortschaften. Geschwindigkeitsbegrenzungen verlängern seinen Arbeitsweg und erhöhen den Zeit- und damit auch den Kostenaufwand ohne spürbaren Nutzen für ihn.",
+      "begruendung_selbst": "Tempo 130 auf der Autobahn und überall 30 im Ort – das verlängert meine Fahrt jeden Tag. Wer schafft das schon mit Schichtarbeit?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutzgesetz macht Sprit teurer!",
+      "thema": "klima",
+      "programmpunkt": "Verbindliches Klimaschutzgesetz mit ambitionierten Minderungszielen bis 2035 und Aufnahme des Klimaschutzes als Staatsziel in die Verfassung.",
+      "seite": 10,
+      "zitat": "ambitioniertes Klimaschutzgesetz mit klaren Minderungszielen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf spürt den CO₂-Preis bereits beim Tanken. Ein noch strengeres Landesgesetz mit verbindlichen Zielen wird Sprit und Energie weiter verteuern, ohne dass ihm eine bezahlbare Alternative geboten wird.",
+      "begruendung_selbst": "Noch mehr Klimaziele und Gesetze – am Ende zahle ich wieder mehr an der Zapfsäule. Für wen soll das gut sein?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "E-Auto und Ladeinfrastruktur – nicht für uns!",
+      "thema": "energie",
+      "programmpunkt": "Massiver Ausbau der Ladeinfrastruktur und Förderung von Elektromobilität, auch auf dem Land, bei gleichzeitiger Ablehnung von Verbrennern.",
+      "seite": 30,
+      "zitat": "Ladeinfrastruktur für Elektrofahrzeuge massiv ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf kann sich kein E-Auto leisten und hat auf dem Dorf keine realistische Lademöglichkeit. Die einseitige Förderung von Elektromobilität ohne Entlastung für bestehende Verbrenner-Pendler trifft ihn direkt.",
+      "begruendung_selbst": "Ein E-Auto kostet mich 40.000 Euro aufwärts – woher soll das kommen? Und wo soll ich auf dem Dorf laden?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf sieht im Programm vor allem Belastungen für seinen Alltag als Pendler: ambitionierte Klimaziele, Geschwindigkeitsbegrenzungen und die einseitige Förderung von Alternativen zum Auto, ohne spürbare Entlastung oder bezahlbare Mobilitätsoptionen für den ländlichen Raum. Die wenigen Anerkennungen seiner Situation ändern nichts an der grundsätzlichen Richtung.",
+    "score": -2
+  }
+}

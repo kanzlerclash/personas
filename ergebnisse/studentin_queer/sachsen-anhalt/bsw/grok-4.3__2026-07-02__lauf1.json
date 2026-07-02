@@ -1,0 +1,89 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:52:27.068Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 79012,
+    "output_tokens": 1737,
+    "cached_tokens": 67840,
+    "total_tokens": 80749,
+    "dauer_ms": 14224,
+    "usd": 0.033053
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Klimaschutz muss sozial sein!",
+      "thema": "klima",
+      "programmpunkt": "CO₂-Bepreisung aussetzen oder abschaffen und Einnahmen als Klimaprämie direkt an Bürger zurückgeben, um untere und mittlere Einkommen zu entlasten.",
+      "seite": 27,
+      "zitat": "CO₂-Einnahmen als Klimaprämie an Bürger zurückgeben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule lebt mit knappem BAföG-Budget und fürchtet, dass Klimapolitik sie finanziell überfordert. Das Programm verspricht soziale Abfederung und direkte Rückzahlung, was ihre Sorge um steigende Kosten adressiert.",
+      "begruendung_selbst": "Endlich eine Partei, die Klimaschutz nicht auf meinem Rücken macht – die Prämie hilft mir wirklich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bezahlbares Semesterticket bleibt!",
+      "thema": "verkehr",
+      "programmpunkt": "Deutschlandticket erhalten, günstiger machen und kostenfreien Nahverkehr für Schüler und Auszubildende einführen.",
+      "seite": 33,
+      "zitat": "Deutschlandticket erhalten und Tarife vereinfachen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule nutzt täglich ÖPNV und Rad und spart jeden Euro. Die Zusage, das Ticket zu erhalten und zu verbilligen, trifft ihre finanzielle Realität direkt.",
+      "begruendung_selbst": "Mein Ticket muss bleiben und billiger werden – sonst komm ich gar nicht mehr zur Uni.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Demokratie statt Belehrung!",
+      "thema": "demokratie",
+      "programmpunkt": "Bürgerbeteiligung stärken, Volksentscheide verbindlich machen und Cancel Culture sowie politische Einschüchterung ablehnen.",
+      "seite": 6,
+      "zitat": "Meinungsdiktate, Cancel Culture und politische Einschüchterung lehnen wir ab",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule engagiert sich in Klima- und Hochschulgruppen und erlebt Konformitätsdruck. Das klare Bekenntnis zu offener Debatte und gegen Bevormundung passt zu ihrer Hoffnung auf echte demokratische Teilhabe.",
+      "begruendung_selbst": "Ich will diskutieren dürfen, ohne gleich als radikal abgestempelt zu werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Biologisches Geschlecht ist unveränderbar?",
+      "thema": "familie",
+      "programmpunkt": "Orientierung an biologischer Zweigeschlechtlichkeit, rechtliche Unveränderbarkeit des Geschlechts und Überprüfung des Selbstbestimmungsgesetzes auf Auswirkungen für Minderjährige und Schutzräume.",
+      "seite": 37,
+      "zitat": "wobei das biologische Geschlecht rechtlich unveränderbar ist und nur der Personenstand geändert werden kann",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule ist queer und nutzt sie/ihr. Die Betonung biologischer Geschlechter und die geplante Überprüfung des Selbstbestimmungsgesetzes bedroht direkt ihre Identität und erkämpfte Rechte.",
+      "begruendung_selbst": "Das ist ein Angriff auf mich und meine Community – Rechte sind keine Verhandlungsmasse.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Frauenhäuser nur für biologische Frauen?",
+      "thema": "familie",
+      "programmpunkt": "Schutzräume vulnerabler Gruppen strikt nach biologischem Geschlecht trennen und Istanbul-Konvention mit Fokus auf biologische Frauen umsetzen.",
+      "seite": 38,
+      "zitat": "Schutzräume vulnerabler Gruppen getrennt nach ihrem biologischen Geschlecht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht in der rigiden biologischen Trennung eine Ausgrenzung queerer und trans Personen und fürchtet den Abbau von Vielfalts- und Antidiskriminierungsstrukturen.",
+      "begruendung_selbst": "Wer entscheidet, wer Schutz verdient? Das spaltet uns, statt uns zu schützen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule findet im Programm klare soziale und klimapolitische Entlastungen sowie ein Bekenntnis zu mehr Demokratie und Beteiligung, die ihre finanzielle und ökologische Lage ansprechen. Gleichzeitig lehnt sie die konservative Geschlechterpolitik und die Betonung biologischer Kategorien entschieden ab, da diese ihre queere Identität und erkämpfte Rechte bedrohen. Insgesamt überwiegt für sie die Ablehnung in gesellschaftspolitischen Kernfragen.",
+    "score": -1
+  }
+}

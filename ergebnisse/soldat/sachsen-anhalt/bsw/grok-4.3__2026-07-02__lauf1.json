@@ -1,0 +1,76 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:51:51.909Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 78961,
+    "output_tokens": 1486,
+    "cached_tokens": 128,
+    "total_tokens": 80447,
+    "dauer_ms": 15813,
+    "usd": 0.10350185
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Keine Ausrüstung, nur Friedensreden!",
+      "thema": "verteidigung",
+      "programmpunkt": "Ablehnung von Aufrüstung und Kriegskrediten zugunsten von Diplomatie und Abrüstung",
+      "seite": 8,
+      "zitat": "Nein zu diesen Kriegskrediten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt täglich Ausrüstungsmängel und sieht in der pauschalen Ablehnung von Rüstungsausgaben eine direkte Bedrohung seiner Einsatzfähigkeit und Sicherheit.",
+      "begruendung_selbst": "Ich stehe für dieses Land ein – dann erwarte ich auch, dass Material und Bündnis verlässlich sind. Mit warmen Worten kann ich keine Übung fahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wehrpflicht? Nein danke!",
+      "thema": "verteidigung",
+      "programmpunkt": "Klare Absage an Wiedereinführung der Wehrpflicht und Ablehnung von Bundeswehrwerbung an Schulen",
+      "seite": 6,
+      "zitat": "Eine Rückkehr zur Wehrpflicht lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Berufssoldat sieht Stefan die Wehrpflicht als notwendigen Beitrag zur personellen Stärkung der Truppe; deren Ablehnung untergräbt aus seiner Sicht die Verteidigungsfähigkeit.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Ich brauche Ausrüstung, die funktioniert – und genug Leute, die das auch können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "NATO? Nicht mit uns!",
+      "thema": "verteidigung",
+      "programmpunkt": "Ablehnung von NATO-Manövern, militärischer Nutzung ziviler Infrastruktur und Stationierung von Truppen in Sachsen-Anhalt",
+      "seite": 9,
+      "zitat": "Keine NATO-Manöver und militärische Nutzung ziviler Infrastruktur",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan sieht die NATO als unverzichtbares Bündnis an der Ostflanke; die programmatische Ablehnung von Manövern und Logistikunterstützung empfindet er als direkte Schwächung seiner Mission.",
+      "begruendung_selbst": "Ich stehe für dieses Land ein – dann erwarte ich auch, dass Material und Bündnis verlässlich sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Rüstung, keine Zukunft!",
+      "thema": "verteidigung",
+      "programmpunkt": "Verbot von Subventionen, Krediten oder Fördermitteln für Rüstungsunternehmen sowie militärischer Forschung an Hochschulen",
+      "seite": 10,
+      "zitat": "Keine Subventionen, Kredite oder Fördermittel für Rüstungsunternehmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt die Folgen unzureichender Ausrüstung unmittelbar; die kategorische Ablehnung jeglicher Förderung der Rüstungsindustrie blockiert aus seiner Sicht notwendige Modernisierung.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Ich brauche Ausrüstung, die funktioniert.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan lehnt das Programm in allen verteidigungspolitischen Kernpunkten ab. Die systematische Ablehnung von Aufrüstung, NATO-Präsenz und Wehrpflicht widerspricht direkt seiner täglichen Erfahrung mit Ausrüstungsmängeln und seiner Überzeugung von Bündnistreue. Kein einziger Programmpunkt bestätigt seine Lage oder seine Sicht auf eine verlässliche Verteidigungspolitik.",
+    "score": -2
+  }
+}

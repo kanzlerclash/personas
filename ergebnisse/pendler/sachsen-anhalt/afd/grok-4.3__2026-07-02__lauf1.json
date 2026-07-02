@@ -1,0 +1,76 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:38:00.860Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89821,
+    "output_tokens": 1801,
+    "cached_tokens": 84224,
+    "total_tokens": 91622,
+    "dauer_ms": 16787,
+    "usd": 0.03043105
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Spritpreise runter, Pendeln bezahlbar!",
+      "thema": "verkehr",
+      "programmpunkt": "Autofahrer durch Senkung der Energiesteuer auf EU-Mindestsatz entlasten und Kraftstoffpreise senken.",
+      "seite": 13,
+      "zitat": "Autofahrer entlasten – Kraftstoffpreise senken!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs 45-minütiger Arbeitsweg mit dem Auto wird durch hohe Spritpreise direkt belastet; die geforderte Steuersenkung würde seine monatlichen Kosten spürbar senken.",
+      "begruendung_selbst": "Endlich mal einer, der kapiert, dass ich ohne Auto nicht zur Schicht komme und der Spritpreis mir das Leben schwer macht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verbrenner-Verbot stoppen!",
+      "thema": "verkehr",
+      "programmpunkt": "Endgültiges Stoppen des Verbrenner-Verbots auf EU- und Bundesebene, um die Autoindustrie und Pendler zu schützen.",
+      "seite": 13,
+      "zitat": "Verbrenner-Verbot stoppen!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf kann sich kein E-Auto leisten und hat auf dem Dorf keine Ladeinfrastruktur; das Verbot würde sein Pendeln und seinen Job bedrohen.",
+      "begruendung_selbst": "Ich fahr Verbrenner, weil das für mich funktioniert – kein Verbot, das mir die Mobilität wegnimmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiepreise runter, nicht ideologisch hoch!",
+      "thema": "energie",
+      "programmpunkt": "Beendigung der Energiewende, Abschaffung der CO₂-Steuer und Wiederaufnahme günstiger Energieimporte aus Russland.",
+      "seite": 13,
+      "zitat": "Energiepreisexplosion beenden, Deindustrialisierung stoppen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Haushalt und Schichtarbeit leiden unter hohen Strom- und Heizkosten; die Absage an CO₂-Bepreisung und Energiewende passt zu seiner Sorge um Kaufkraftverlust.",
+      "begruendung_selbst": "Die CO₂-Steuer und die ganze Wende machen Strom und Sprit teurer – das trifft mich direkt am Geldbeutel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriearbeitsplätze sichern, nicht abwandern lassen!",
+      "thema": "arbeit",
+      "programmpunkt": "Stopp der Deindustrialisierung durch günstige Energie und Ablehnung von Sanktionen, die heimische Industrie treffen.",
+      "seite": 13,
+      "zitat": "Deindustrialisierung stoppen, Reindustrialisierung einleiten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs fester Job als Industriemechaniker hängt von einer wettbewerbsfähigen Industrie ab; die AfD-Politik gegen teure Energie und Sanktionen schützt genau diese Arbeitsplätze.",
+      "begruendung_selbst": "Solange die Fabrik hier bleibt und ich meine Schichten machen kann, ist mir das wichtiger als alles andere.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Toralf sieht in den verkehrs- und energiepolitischen Kernpunkten des Programms eine klare Entlastung für seinen Alltag als Pendler. Die Ablehnung von Verbrenner-Verbot, CO₂-Steuer und Energiewende trifft genau seine finanziellen und praktischen Sorgen. Andere Themen wie Migration oder Familie berühren ihn kaum direkt.",
+    "score": 2
+  }
+}

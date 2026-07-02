@@ -1,0 +1,76 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:18:07.077Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 47932,
+    "output_tokens": 1625,
+    "cached_tokens": 128,
+    "total_tokens": 49557,
+    "dauer_ms": 16340,
+    "usd": 0.0654231
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Plan für Chemie-Transformation!",
+      "thema": "energie",
+      "programmpunkt": "Task Force für Chemieindustrie in der Transformation mit halbjährlichem Konsultationsmechanismus",
+      "seite": 6,
+      "zitat": "Task Force „Chemieindustrie in der Transformation“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht hier eine konkrete institutionelle Antwort auf die größte Transformation seiner Branche, die seine Region direkt betrifft.",
+      "begruendung_selbst": "Endlich wird die Chemie nicht einfach abgehängt, sondern mit einem festen Gremium begleitet – das gibt uns Planungssicherheit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netzentgelte deckeln, Stromsteuer runter!",
+      "thema": "energie",
+      "programmpunkt": "Weitgehende Deckelung der Netzentgelte und Reduzierung der Stromsteuer zur Sicherung der Wettbewerbsfähigkeit",
+      "seite": 5,
+      "zitat": "weitgehende Deckelung der Netzentgelte, eine konsequente Digitalisierung der Netze sowie für eine Reduzierung der Stromsteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Diese Maßnahmen treffen Ronny direkt als Beschäftigten in Netzen und Energieversorgung, weil sie die Kosten für Industrie und Haushalte senken sollen.",
+      "begruendung_selbst": "Weniger Netzkosten und niedrigere Steuern – das ist genau das, was unsere Standorte wettbewerbsfähig hält.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strukturwandel mit Investitionen vor Ort!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Gezielte Investitionen in neue Arbeitsplätze, Umschulungen und regionale Wirtschaftszentren, besonders in ehemaligen Bergbauregionen",
+      "seite": 6,
+      "zitat": "In neue Arbeitsplätze, Umschulungen und regionale Wirtschaftszentren wird gezielt investiert, insbesondere in ehemaligen Bergbauregionen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny lebt in einer solchen Region; die explizite regionale Fokussierung und Einbindung von Gewerkschaften und Wissenschaft passt zu seiner Forderung nach mitgenommenen Menschen.",
+      "begruendung_selbst": "Nicht nur Enddatum setzen, sondern Geld und Qualifizierung in die Region bringen – so muss das laufen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff und CO₂-Infrastruktur ausbauen!",
+      "thema": "energie",
+      "programmpunkt": "LENA als Koordinierungsstelle für künftige Wasserstoff- und Kohlendioxid-Infrastrukturen",
+      "seite": 6,
+      "zitat": "Landesenergieagentur LENA zum Energiekompetenzhub für Wirtschaft und Verbraucher ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die explizite Nennung von CO₂-Infrastruktur signalisiert Technologieoffenheit, die Ronny für eine Brücke im Strukturwandel braucht.",
+      "begruendung_selbst": "CO₂-Infrastruktur heißt nicht Verbot, sondern Möglichkeit – genau das brauchen wir für die Übergangszeit.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet das Programm insgesamt sehr passend zu seiner Lage. Es verbindet klare industriepolitische Begleitung des Wandels mit regionalen Investitionen und Maßnahmen für bezahlbare Energie, ohne starre Ablehnung von Übergangstechnologien. Die Betonung von Planungssicherheit und Wertschöpfung vor Ort trifft seine Kernanliegen.",
+    "score": 2
+  }
+}

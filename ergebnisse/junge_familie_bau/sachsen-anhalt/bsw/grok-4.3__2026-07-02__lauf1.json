@@ -1,0 +1,89 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:49:42.860Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 78999,
+    "output_tokens": 1811,
+    "cached_tokens": 77888,
+    "total_tokens": 80810,
+    "dauer_ms": 14743,
+    "usd": 0.02304885
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Grundsteuer-Erlass für Familien!",
+      "thema": "wohnen",
+      "programmpunkt": "Grundsteuer auf selbstgenutztes Wohneigentum für junge Familien vollständig abschaffen oder dauerhaft erlassen.",
+      "seite": 31,
+      "zitat": "Grundsteuer auf selbstgenutztes Wohneigentum vollständig abschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sehen hier eine direkte finanzielle Entlastung beim geplanten Eigenheimkauf, die ihre monatliche Belastung spürbar senken würde.",
+      "begruendung_selbst": "Wir rechnen jeden Euro – wenn die Grundsteuer wegfällt, wird das Haus endlich machbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beitragsfreie Kitas – endlich realistisch!",
+      "thema": "familie",
+      "programmpunkt": "Beitragsfreie Kitas perspektivisch einführen, um Vereinbarkeit von Beruf und Familie zu erleichtern.",
+      "seite": 47,
+      "zitat": "Perspektivisch beitragsfreie Kitas einführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für das Doppelverdiener-Paar mit Kleinkind ist die Kita-Gebühr ein spürbarer Kostenfaktor; die Forderung passt exakt zu ihrem Alltag und ihrer Hoffnung auf verlässliche Betreuung.",
+      "begruendung_selbst": "Zwei Jobs, ein Kind – ohne Kita-Kosten bleibt mehr übrig fürs Eigenkapital.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauen schneller und günstiger machen!",
+      "thema": "wohnen",
+      "programmpunkt": "Bau-Beschleunigungsgesetz, digitale Bauanträge, steuerliche Sonderabschreibungen und Freibeträge bei der Grunderwerbsteuer.",
+      "seite": 31,
+      "zitat": "Bau-Beschleunigungsgesetz mit klaren Fristen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Baukosten und lange Genehmigungszeiten sind für Tom und Jessica zentrale Hürden; diese Maßnahmen adressieren genau ihre praktischen Probleme beim Hausbau.",
+      "begruendung_selbst": "Weniger Bürokratie und Steuern beim Bauen – das ist endlich mal was Konkretes.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Energetische Vorgaben treiben Preise hoch!",
+      "thema": "energie",
+      "programmpunkt": "Wärmewende mit strengen Vorgaben für Neubau und Sanierung, auch wenn technologieoffen formuliert.",
+      "seite": 26,
+      "zitat": "Wärmewende praxisnah, sozial verträglich",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Trotz der Absicht, Kosten zu begrenzen, befürchten Tom und Jessica, dass zusätzliche energetische Standards den ohnehin schon teuren Hausbau weiter verteuern.",
+      "begruendung_selbst": "Jede neue Auflage beim Heizen oder Dämmen macht das Haus noch unbezahlbarer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO₂-Steuer abschaffen – aber was kommt stattdessen?",
+      "thema": "steuern",
+      "programmpunkt": "CO₂-Abgabe abschaffen oder aussetzen, ohne klare Alternative für die Finanzierung von Entlastungen.",
+      "seite": 7,
+      "zitat": "CO₂-Abgabe gehört abgeschafft",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sie begrüßen die Abschaffung, sehen aber das Risiko, dass fehlende Einnahmen später durch andere Belastungen für Bauherren oder Pendler kompensiert werden könnten.",
+      "begruendung_selbst": "Gut, dass die Abgabe weg soll – aber am Ende zahlen wir doch wieder drauf.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica finden im Programm mehrere direkte Anknüpfungspunkte zu ihren drängendsten Themen: steuerliche Entlastung beim Eigenheim, beitragsfreie Kitas und Bauvereinfachung. Diese Punkte sprechen ihre konkrete Lebenslage an und bestätigen ihre Hoffnung auf bezahlbares Eigentum. Kritisch sehen sie hingegen mögliche zusätzliche Kosten durch energetische Vorgaben. Insgesamt wirkt das Programm auf sie eher unterstützend als belastend.",
+    "score": 1
+  }
+}

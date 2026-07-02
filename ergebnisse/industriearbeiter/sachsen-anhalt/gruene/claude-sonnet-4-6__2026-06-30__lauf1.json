@@ -48,13 +48,12 @@
       "thema": "energie",
       "programmpunkt": "Verfügbarkeit von erneuerbarem Wasserstoff als Voraussetzung für die Wettbewerbsfähigkeit der chemischen Industrie anerkennen",
       "seite": 27,
-      "zitat": "Ohne breit verfügbaren erneuerbar produzierten Wasserstoff ist unsere chemische Industrie in Zukunft nicht wettbewerbsfähig",
+      "zitat": "Ohne breit verfügbaren erneuerbar produzierten Wasserstoff",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Uwe kennt die Debatten um die Zukunft des Chemiedreiecks gut. Dass das Programm Wasserstoff als Grundvoraussetzung für die Wettbewerbsfähigkeit benennt – und nicht nur als abstraktes Ziel –, signalisiert ihm, dass wirklich über seinen Berufsalltag nachgedacht wurde. Er sieht darin eine realistische Einschätzung der industriellen Herausforderungen.",
       "begruendung_selbst": "Das stimmt: Ohne erneuerbaren Wasserstoff läuft bei uns in der Chemie irgendwann gar nichts mehr. Dass das so klar steht, zeigt mir, dass hier jemand verstanden hat, wie unsere Branche wirklich funktioniert.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [

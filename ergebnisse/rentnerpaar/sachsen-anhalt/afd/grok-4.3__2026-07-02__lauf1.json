@@ -1,0 +1,76 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:38:50.539Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89826,
+    "output_tokens": 1540,
+    "cached_tokens": 82048,
+    "total_tokens": 91366,
+    "dauer_ms": 13973,
+    "usd": 0.0315221
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Heizkosten runter, keine Zwangssanierung!",
+      "thema": "energie",
+      "programmpunkt": "Abschaffung der CO₂-Steuer und Senkung der Stromsteuer auf EU-Mindestwert, um Privathaushalte zu entlasten.",
+      "seite": 13,
+      "zitat": "Absenkung der Stromsteuer für alle Privathaushalte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten steigende Heiz- und Stromkosten bei geringer Rente und abbezahltem Haus. Das Programm verspricht direkte Entlastung durch Steuersenkungen und Ablehnung von Zwangsmaßnahmen.",
+      "begruendung_selbst": "Wir haben unser Leben lang gearbeitet, jetzt soll die Heizung bezahlbar bleiben und nicht noch teurer werden durch neue Steuern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Windräder stoppen, Dorf bleibt Dorf!",
+      "thema": "energie",
+      "programmpunkt": "Windkraftmoratorium und Verbot neuer Windräder in Wäldern und Kulturlandschaften.",
+      "seite": 13,
+      "zitat": "Windkraftmoratorium beschließen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar lebt in einem Dorf und sieht die Landschaft als Teil der Heimat. Das Programm schützt vor weiterer Verspargelung und Wertverlust des Eigenheims.",
+      "begruendung_selbst": "Wir wollen unser Dorf so behalten, wie es ist – keine riesigen Windräder vor der Tür.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei, sicher im Ort!",
+      "thema": "sicherheit",
+      "programmpunkt": "Aufstockung der Landespolizei auf mindestens 7.500 Vollzugsbeamte und stärkere Bekämpfung von Kriminalität.",
+      "seite": 9,
+      "zitat": "Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im ländlichen Raum fühlen sich Helga und Dieter unsicher bei steigender Kriminalität. Mehr Polizisten und schnellere Einsätze geben ihnen das gewünschte Sicherheitsgefühl.",
+      "begruendung_selbst": "Abends allein im Haus soll man sich nicht mehr sorgen müssen, dass jemand einbricht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Familie pflegt, nicht der Staat!",
+      "thema": "gesundheit",
+      "programmpunkt": "Stärkung der häuslichen Pflege durch Familien und steuerliche Entlastungen statt Ausbau stationärer Einrichtungen.",
+      "seite": 20,
+      "zitat": "Pflege zuhause fördern – Familienzusammenhalt stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar möchte im eigenen Haus alt werden und fürchtet Pflegekosten. Das Programm priorisiert familiäre und häusliche Versorgung.",
+      "begruendung_selbst": "Wir wollen zu Hause bleiben und nicht ins Heim müssen – die Familie soll das können.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter sehen im Programm vor allem Entlastung bei Energiepreisen, Schutz vor Sanierungszwängen und mehr Sicherheit im Dorf. Die direkten Versprechen zu Heizkosten, Polizeipräsenz und häuslicher Pflege treffen ihre größten Ängste. Insgesamt fühlen sie sich in ihrer Lage ernst genommen.",
+    "score": 2
+  }
+}

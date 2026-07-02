@@ -110,13 +110,12 @@
       "thema": "wirtschaft",
       "programmpunkt": "Als in Berlin lebende Soloselbstständige ist Mareike von einem sachsen-anhaltischen Landesprogramm strukturell kaum direkt betroffen",
       "seite": 89,
-      "zitat": "moderne Dorfzentren, die verschiedene Angebote wie Dorfgemeinschaftsläden, Co-Working-Plätze",
+      "zitat": "die verschiedene Angebote wie Dorfgemeinschaftsläden, Co-Working-Plätze",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Das Programm richtet sich an Sachsen-Anhalt und adressiert ländliche Strukturen, Dorfzentren und regionale Wirtschaft. Für eine in Berlin lebende Kreative entfalten diese Maßnahmen keine direkten Wirkungen auf ihren Alltag oder ihr Einkommen.",
       "begruendung_selbst": "Ich bin aus Berlin — Co-Working-Plätze in Dorfgemeinschaftszentren in Sachsen-Anhalt sind nicht mein Alltag. Das Programm spricht mich geografisch kaum an.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

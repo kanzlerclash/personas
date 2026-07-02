@@ -1,0 +1,76 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:36:46.189Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89885,
+    "output_tokens": 1505,
+    "cached_tokens": 2304,
+    "total_tokens": 91390,
+    "dauer_ms": 15644,
+    "usd": 0.11494955
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Eigenheimkredit mit Kinderprämie!",
+      "thema": "wohnen",
+      "programmpunkt": "Zinsgünstiger Kredit bis 300.000 Euro für junge Eltern zum Bau oder Kauf von Wohneigentum, mit Tilgungserlass bei weiteren Kindern.",
+      "seite": 4,
+      "zitat": "zinsvergünstigter Kredit bis zu einer Höhe von 300.000 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sehen hier eine direkte finanzielle Entlastung beim Eigenheimkauf, die ihre aktuelle Situation mit knappen Eigenkapital und hohen Zinsen adressiert.",
+      "begruendung_selbst": "Endlich ein Kredit, der uns mit Kindern wirklich hilft – 10.000 oder 20.000 Euro erlassen pro Kind, das rechnet sich für uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Grunderwerbsteuer halbieren – ja bitte!",
+      "thema": "steuern",
+      "programmpunkt": "Senkung der Grunderwerbsteuer von 5 % auf 2,5 % zur Erleichterung des Wohneigentumserwerbs.",
+      "seite": 19,
+      "zitat": "Grunderwerbsteuer von aktuell fünf Prozent auf zweieinhalb Prozent absenken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die hohe Grunderwerbsteuer ist für das Paar ein zentrales Hindernis beim Hauskauf; die geplante Halbierung würde die Nebenkosten spürbar senken.",
+      "begruendung_selbst": "Fünf Prozent sind für uns schon ein Vermögen – wenn das auf 2,5 sinkt, kommen wir endlich näher ans Eigenheim.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Familiengeld und Baby-Begrüßungsgeld!",
+      "thema": "familie",
+      "programmpunkt": "Einführung eines landeseigenen Familiengeldes (50–250 Euro monatlich je Kind) sowie eines Baby-Begrüßungsgeldes von 2.000–4.000 Euro.",
+      "seite": 4,
+      "zitat": "Baby-Begrüßungsgeld in Höhe von 2.000 Euro für die ersten beiden Kinder",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die direkten Zahlungen entlasten das junge Paar bei Kita-Kosten und Sparrate fürs Eigenkapital und unterstützen ihre Familienplanung.",
+      "begruendung_selbst": "Mit dem zweiten Kind würden wir richtig Geld bekommen – das hilft uns beim Bauen und bei der Betreuung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energetische Auflagen runter!",
+      "thema": "energie",
+      "programmpunkt": "Abschaffung des Wärmeplanungs- und Gebäudeenergiegesetzes sowie Ende der Wärmepumpen-Förderung und strenger Sanierungsvorgaben.",
+      "seite": 13,
+      "zitat": "Abschaffung des Wärmeplanungs- und Gebäudeenergiegesetzes",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Strenge energetische Vorgaben treiben Baukosten massiv in die Höhe; das Paar sieht hier eine reale Kostensenkung beim Bauen.",
+      "begruendung_selbst": "Keine teuren Wärmepumpen und Auflagen mehr – endlich können wir bauen, ohne dass alles noch teurer wird.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica sehen im Programm vor allem direkte Entlastungen beim Eigenheimkauf und bei der Familiengründung. Die Kombination aus Kreditförderung, Steuersenkung, Familiengeld und Abbau energetischer Auflagen trifft ihre zentralen Sorgen. Sie bewerten das Programm daher insgesamt positiv.",
+    "score": 2
+  }
+}

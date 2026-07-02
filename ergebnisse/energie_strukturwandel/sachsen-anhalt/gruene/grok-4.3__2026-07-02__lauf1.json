@@ -1,0 +1,101 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:31:09.159Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81847,
+    "output_tokens": 1927,
+    "cached_tokens": 128,
+    "total_tokens": 83774,
+    "dauer_ms": 17357,
+    "usd": 0.10850935
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "H2-ready Gaskraftwerk in Schkopau!",
+      "thema": "energie",
+      "programmpunkt": "Aufbau eines H2-ready-Gaskraftwerks in Schkopau zur Beschleunigung des Braunkohleausstiegs",
+      "seite": 25,
+      "zitat": "Aufbau eines H2-ready-Gaskraftwerks in Schkopau",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht hier eine konkrete Brückentechnologie, die Versorgungssicherheit und regionale Wertschöpfung verbindet und Arbeitsplätze in der Energiewirtschaft erhält.",
+      "begruendung_selbst": "Endlich eine realistische Übergangslösung statt nur Abschalttermine – das sichert uns Arbeit und Netzstabilität.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netzausbau und Speicher priorisieren!",
+      "thema": "energie",
+      "programmpunkt": "Sanierung, Optimierung und Ausbau der Stromnetze sowie Priorisierung netzdienlicher Großspeicher",
+      "seite": 24,
+      "zitat": "Stromnetze zu sanieren, zu optimieren und",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny profitiert direkt von stabileren Netzen und Speichern, die seine berufliche Tätigkeit in Netzen und Versorgung absichern und neue Jobs schaffen.",
+      "begruendung_selbst": "Ohne starke Netze und Speicher läuft hier gar nichts – das ist die Basis für den ganzen Wandel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Grüner Wasserstoff regional erzeugen!",
+      "thema": "energie",
+      "programmpunkt": "Ausbau der Wasserstoffinfrastruktur und Erzeugung von grünem Wasserstoff in Sachsen-Anhalt",
+      "seite": 27,
+      "zitat": "konsequenten Ausbau der Wasserstoffinfrastruktur",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny erkennt darin eine Chance für neue industrielle Wertschöpfung und Fachkräftejobs in seiner Region.",
+      "begruendung_selbst": "Wasserstoff vor Ort produziert – das kann unsere Chemie- und Energiewirtschaft retten.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "CCS komplett ablehnen – ohne Plan B!",
+      "thema": "energie",
+      "programmpunkt": "Entschiedene Ablehnung von Carbon Capture and Storage (CCS)",
+      "seite": 26,
+      "zitat": "lehnen wir auch die Technologie des Carbon Capture and Storage (CCS",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny sieht CCS als notwendige Brückentechnologie für die Dekarbonisierung energieintensiver Industrien und den Erhalt von Arbeitsplätzen in seiner Region.",
+      "begruendung_selbst": "CCS verbieten, ohne Ersatz zu haben, bedeutet für uns hier nur Verlust von Industrie und Jobs.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohleausstieg 2034 ohne Ersatz!",
+      "thema": "energie",
+      "programmpunkt": "Gesetzlicher Kohleausstieg spätestens 2034 und Streichung von Lützen als Vorranggebiet",
+      "seite": 25,
+      "zitat": "Der gesetzliche Kohleausstieg in Sachsen-Anhalt ist spätestens zum 31.12.2034 vorgesehen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny befürchtet, dass ein festes Enddatum ohne gesicherte Ersatzkapazitäten und neue Industrieansiedlungen seine Region perspektivlos macht.",
+      "begruendung_selbst": "Erst die Brücke bauen, dann die alte abreißen – sonst fallen wir ins Wasser.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine neuen fossilen Optionen!",
+      "thema": "energie",
+      "programmpunkt": "Entschiedene Ablehnung neuer Vorhaben zur Förderung von Erdgas, insbesondere Fracking",
+      "seite": 26,
+      "zitat": "entschlossen gegen neue Vorhaben zur Förderung von Erdgas",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny sieht in der pauschalen Ablehnung von Erdgas eine Einschränkung der Versorgungssicherheit und der Übergangsmöglichkeiten für seine Region.",
+      "begruendung_selbst": "Wir brauchen alle verfügbaren Brücken, sonst wird der Wandel zum Risiko für die ganze Region.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet einzelne pragmatische Elemente wie H2-ready-Kraftwerke und Wasserstoffausbau zustimmenswert, weil sie regionale Perspektiven eröffnen. Die klare Ablehnung von CCS und das starre Kohleausstiegsdatum ohne ausreichende Ersatzstrategien treffen jedoch direkt seine berufliche und regionale Existenzangst. Insgesamt überwiegt Skepsis gegenüber dem fehlenden Technologie- und Zeitplan-Realismus.",
+    "score": -1
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:30:51.799Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81873,
+    "output_tokens": 1544,
+    "cached_tokens": 2304,
+    "total_tokens": 83417,
+    "dauer_ms": 14751,
+    "usd": 0.10513455
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich klare Haltung gegen Remigration!",
+      "thema": "sicherheit",
+      "programmpunkt": "Einrichtung einer Taskforce zur AfD-Verbotsprüfung und konsequenter Kampf gegen rechtsextreme Netzwerke",
+      "seite": 39,
+      "zitat": "Wir fordern, dass das Land Sachsen-Anhalt ein AfD-Verbotsverfahren durch den Bundesrat initiiert",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt Ausgrenzungsrhetorik als direkten Angriff auf ihre Zugehörigkeit. Das klare Bekenntnis zu einem AfD-Verbotsverfahren und zur Zerschlagung rechtsextremer Strukturen bestätigt ihre Hoffnung auf wehrhafte Demokratie.",
+      "begruendung_selbst": "Endlich sagt jemand: Leute wie ich gehören hierher und werden nicht als Problem behandelt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Integration ab Tag eins – genau so!",
+      "thema": "integration",
+      "programmpunkt": "Flächendeckende Ankommenszentren und Sprachkurse ab dem ersten Tag mit verlässlicher Struktur",
+      "seite": 78,
+      "zitat": "Sprachkurse ab dem ersten Tag zugänglich sein, nicht erst nach Anerkennung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin sieht in der frühen, niedrigschwelligen Unterstützung die Voraussetzung für echte Teilhabe. Das Programm verspricht genau das, was sie sich für neue Zugewanderte wünscht und was sie selbst als selbstverständlich erlebt hat.",
+      "begruendung_selbst": "Wer hier lebt, soll sofort wissen, wo es langgeht – ohne monatelanges Warten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Antidiskriminierungsgesetz für alle!",
+      "thema": "demokratie",
+      "programmpunkt": "Landesantidiskriminierungsgesetz (LADG) gegen Diskriminierung durch staatliche Stellen",
+      "seite": 51,
+      "zitat": "Wir wollen ein Landesantidiskriminierungsgesetz (LADG) auf den Weg bringen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erfährt Alltagsdiskriminierung und möchte verbindliche Schutzmechanismen. Ein eigenes Landesgesetz gegen staatliche Diskriminierung gibt ihr das Gefühl, dass ihre Rechte ernst genommen werden.",
+      "begruendung_selbst": "Ich will nicht mehr beweisen müssen, dass ich dazugehöre – das Gesetz soll das endlich klarstellen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Migrantische Vereine gehören dazu!",
+      "thema": "integration",
+      "programmpunkt": "Stärkung und Förderung migrantischer Selbstorganisationen als demokratische Akteur*innen",
+      "seite": 74,
+      "zitat": "Wir wollen sie stärker unterstützen, ihre",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin sieht migrantische Organisationen als wichtigen Teil der Zivilgesellschaft. Ihre explizite Anerkennung und Förderung bestätigt ihre Sicht, dass Menschen mit Migrationsgeschichte nicht nur Objekte von Politik sind.",
+      "begruendung_selbst": "Unsere Vereine machen Integration jeden Tag – endlich werden sie auch politisch ernst genommen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet im Programm eine klare, menschenrechtsorientierte Haltung zu Integration, Antidiskriminierung und Wehrhaftigkeit der Demokratie. Die Betonung von Teilhabe ab dem ersten Tag, Schutz vor rechter Gewalt und Stärkung migrantischer Strukturen trifft genau ihre Hoffnungen auf Anerkennung und Gleichbehandlung. Negative Berührungspunkte fehlen weitgehend.",
+    "score": 2
+  }
+}

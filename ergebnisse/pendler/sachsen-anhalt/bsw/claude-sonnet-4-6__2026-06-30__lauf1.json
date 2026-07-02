@@ -36,13 +36,12 @@
       "thema": "energie",
       "programmpunkt": "BSW will die CO2-Bepreisung aussetzen oder abschaffen, da sie als nationale Sonderlast einseitig Bürger und Unternehmen belastet.",
       "seite": 27,
-      "zitat": "die CO ₂ -Bepreisung in Deutschland ist für das globale Klima begrenzt wirksam und belastet als nationale Sonderlast einseitig",
+      "zitat": "CO ₂ -Bepreisung in Deutschland ist für das globale Klima begrenzt wirksam und belastet als nationale Sonderlast einseitig",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Die CO2-Abgabe verteuert Kraftstoff direkt. Wer pendelt, weil er muss und nicht weil er will, trägt diese Last ohne echte Ausweichmöglichkeit. Die BSW-Forderung trifft genau seine finanzielle Lage.",
       "begruendung_selbst": "Die CO2-Steuer soll mein Verhalten ändern – aber ich hab kein Auto aus Spaß, sondern weil es keinen Zug gibt. Diese Steuer zahle ich, und sie ändert nichts. Weg damit.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kein Verbrennerverbot!",

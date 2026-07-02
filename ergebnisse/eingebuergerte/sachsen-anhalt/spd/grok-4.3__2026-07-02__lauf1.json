@@ -1,0 +1,76 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:17:50.736Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 47958,
+    "output_tokens": 1654,
+    "cached_tokens": 128,
+    "total_tokens": 49612,
+    "dauer_ms": 14670,
+    "usd": 0.0652156
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich echte Willkommenskultur!",
+      "thema": "integration",
+      "programmpunkt": "Zuwanderung als Chance nutzen und gestalten mit Sprachförderung, Anerkennung ausländischer Abschlüsse und Bleiberecht bei Ausbildung oder Arbeit",
+      "seite": 8,
+      "zitat": "Wer eine Ausbildung begonnen hat oder einer lebensunterhaltssichernden Beschäftigung nachgeht, soll bleiben können.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt die Migrationsdebatte als direkte Frage ihrer eigenen Zugehörigkeit. Das Programm formuliert klare Bleibeperspektiven und lehnt Arbeitsverbote ab, was ihre eigene Situation und die ihrer Familie direkt anspricht.",
+      "begruendung_selbst": "Ich bin hier geboren und arbeite im öffentlichen Dienst – endlich sagt jemand klar, dass Menschen wie ich bleiben dürfen, wenn sie was leisten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Diskriminierungsschutz, der wirklich greift!",
+      "thema": "demokratie",
+      "programmpunkt": "Landes-Antidiskriminierungsgesetz, Stärkung von Gleichstellungsbeauftragten mit Klagerecht und rassismuskritische Bildungsarbeit",
+      "seite": 23,
+      "zitat": "Mit einem Landes-Antidiskriminierungsgesetz stärken wir die Rechte der Betroffenen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin empfindet Alltagsdiskriminierung und das ständige Beweisen-Müssen als zentrale Belastung. Ein konkretes Antidiskriminierungsgesetz mit Klagerecht gibt ihr das Gefühl, dass ihre Rechte ernst genommen werden.",
+      "begruendung_selbst": "Ich will nicht ständig erklären, dass ich dazugehöre. Ein Gesetz, das mir wirklich hilft, wenn es schiefgeht – das ist für mich entscheidend.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsextremismus klar benennen!",
+      "thema": "demokratie",
+      "programmpunkt": "Prüfung eines AfD-Verbotsverfahrens und Schwerpunktstaatsanwaltschaft Rechtsextremismus",
+      "seite": 20,
+      "zitat": "setzt sich die SPD Sachsen-Anhalt für die Prüfung eines AfD-Verbotsverfahrens über eine Bundesratsinitiative ein.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin sieht in der 'Remigrations'-Rhetorik eine direkte Bedrohung ihrer Existenz. Das klare Positionieren gegen Rechtsextremismus und die Bereitschaft, Verbotsverfahren zu prüfen, bestätigt ihre Haltung, dass solche Kräfte nicht normalisiert werden dürfen.",
+      "begruendung_selbst": "Wenn Leute über Remigration reden, meinen die mich und meine Familie. Endlich eine Partei, die das nicht durchgehen lässt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fachkräfte aus aller Welt willkommen!",
+      "thema": "arbeit",
+      "programmpunkt": "Beschleunigte Anerkennung ausländischer Abschlüsse, Job-Buddy-Programm und Welcome Center als Agentur für ausländische Fachkräfte",
+      "seite": 8,
+      "zitat": "Die Anerkennung ausländischer Abschlüsse bleibt eine zentrale Herausforderung. Verfahren werden beschleunigt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte im öffentlichen Dienst sieht Aylin täglich, wie kompliziert Anerkennungsverfahren sind. Die konkreten Maßnahmen zur Beschleunigung und Unterstützung sprechen ihre berufliche und persönliche Erfahrung direkt an.",
+      "begruendung_selbst": "Ich kenne das aus der Arbeit – wenn Abschlüsse schneller anerkannt werden, hilft das allen, die hier wirklich anpacken wollen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Aylin fühlt sich vom Programm in ihren zentralen Anliegen – Zugehörigkeit, Diskriminierungsschutz und klare Abgrenzung gegen ausgrenzende Rhetorik – sehr gut abgeholt. Die Betonung von Willkommenskultur, Bleiberecht bei Leistung und Antidiskriminierungsgesetz trifft ihre persönliche Lage und ihre Hoffnungen auf Anerkennung als selbstverständlichen Teil der Gesellschaft. Sie sieht keine Punkte, die ihrer Haltung oder Lage direkt widersprechen.",
+    "score": 2
+  }
+}

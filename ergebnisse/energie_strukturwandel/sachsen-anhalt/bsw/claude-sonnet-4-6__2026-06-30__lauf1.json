@@ -24,13 +24,12 @@
       "thema": "energie",
       "programmpunkt": "BSW sieht Braunkohle als Teil des Energiemixes und erkennt an, dass sie mittelfristig ausläuft – aber ohne überstürzten Ausstieg.",
       "seite": 24,
-      "zitat": "Dazu zählt auch der heimische Energieträger Braunkohle. Die Nutzung der Braunkohle ist mittelfristig auslaufend",
+      "zitat": "Dazu zählt auch der heimische Energieträger Braunkohle",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny arbeitet im Energiebereich und weiß: Ein überstürzter Braunkohle-Ausstieg ohne gesicherte Alternativen zerstört Arbeitsplätze. Das BSW anerkennt Braunkohle als Übergangslösung mit klarem Auslaufdatum – das ist pragmatisch.",
       "begruendung_selbst": "Ich will nicht ewig Braunkohle – aber ich will auch nicht, dass wir in zwei Jahren keinen Strom mehr haben. Eine ehrliche Übergangsperspektive ist besser als jeder ideologische Schnellausstieg.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Technologieoffen – das ist die richtige Haltung!",

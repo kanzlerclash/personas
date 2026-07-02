@@ -1,0 +1,101 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:45:36.392Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95430,
+    "output_tokens": 1851,
+    "cached_tokens": 84187,
+    "total_tokens": 97281,
+    "dauer_ms": 14621,
+    "usd": 0.03664365
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich bezahlbares Bauen fördern!",
+      "thema": "wohnen",
+      "programmpunkt": "Landeswohnungsbaugesellschaft als Partner für bezahlbaren Wohnraum und Übernahme gestoppter Projekte",
+      "seite": 84,
+      "zitat": "Gründung einer Landeswohnungsbaugesellschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die junge Familie sucht konkret nach Wegen, Eigentum zu erwerben oder zu bauen. Eine landeseigene Gesellschaft, die Projekte übernimmt und bezahlbaren Wohnraum schafft, trifft direkt ihre Lage.",
+      "begruendung_selbst": "Wir wollen bauen, aber die Preise sind verrückt. Wenn das Land selbst ran geht und Projekte rettet, wird’s vielleicht endlich machbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita-Platz endlich verlässlich!",
+      "thema": "familie",
+      "programmpunkt": "Rechtsanspruch auf ganztägige beitragsfreie Kita-Betreuung und verbesserte Personalschlüssel",
+      "seite": 29,
+      "zitat": "jedes Kind einen uneingeschränkten Rechtsanspruch auf eine ganztägige Betreuung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Zwei Jobs und ein Kleinkind machen verlässliche, bezahlbare Betreuung zur Existenzfrage. Der Rechtsanspruch und die Entlastung der Elternbeiträge treffen ihre Alltagsrealität.",
+      "begruendung_selbst": "Ohne verlässlichen Kita-Platz geht bei uns gar nichts. Zwei Jobs und Kind – das muss endlich funktionieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV zum Pendeln bezahlbar!",
+      "thema": "verkehr",
+      "programmpunkt": "Nulltarif-ÖPNV und günstige Tickets für Pendler:innen im Umland",
+      "seite": 102,
+      "zitat": "Attraktiver ÖPNV zum Nulltarif",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar pendelt täglich. Günstige oder kostenlose öffentliche Verbindungen senken die monatlichen Kosten und erleichtern die Vereinbarkeit von Beruf und Familie.",
+      "begruendung_selbst": "Jeden Tag zur Arbeit und zurück – wenn der Bus endlich günstig oder umsonst wäre, hätten wir mehr Luft zum Sparen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Vermögenssteuer trifft uns auch!",
+      "thema": "steuern",
+      "programmpunkt": "Bundesratsinitiative zur Wiedereinführung der Vermögenssteuer ab 1 Mio. Euro",
+      "seite": 17,
+      "zitat": "Vermögenssteuer von 1 Prozent auf Vermögen über einer Million Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Familie spart gerade für Eigenkapital. Eine neue Steuer auf Vermögen, auch wenn sie erst ab einer Million greift, signalisiert höhere Belastungen und verunsichert Aufstiegsorientierte.",
+      "begruendung_selbst": "Wir sparen jeden Cent fürs Haus. Und dann soll noch mehr abgeben, wer was hat? Das trifft am Ende auch uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energetische Auflagen treiben Preise!",
+      "thema": "energie",
+      "programmpunkt": "Verbindliche energetische Sanierung und strenge Vorgaben beim Neubau",
+      "seite": 106,
+      "zitat": "Energiepreise senken und öffentliche Verantwortung stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Strenge energetische Standards verteuern Bauen und Sanieren zusätzlich. Für junge Familien, die ohnehin schon an der Finanzierungsgrenze sind, wirkt das preistreibend und abschreckend.",
+      "begruendung_selbst": "Bauen ist schon teuer genug. Noch mehr Auflagen für Energie – das macht’s für uns komplett unmöglich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozialer Wohnungsbau statt Eigentum!",
+      "thema": "wohnen",
+      "programmpunkt": "Fokus auf sozialen Mietwohnungsbau und Mietpreisbremse statt Eigentumsförderung",
+      "seite": 83,
+      "zitat": "Mietkosten senken und sozialen Wohnungsbau fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Familie will Eigentum erwerben, nicht dauerhaft mieten. Ein Programm, das fast ausschließlich auf Mietwohnungen und Mietpreisregulierung setzt, ignoriert ihren zentralen Wunsch.",
+      "begruendung_selbst": "Wir wollen nicht ewig zur Miete wohnen. Wo bleibt die Hilfe für Leute, die sich was Eigenes aufbauen wollen?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica sehen einige familien- und verkehrspolitische Entlastungen positiv, vor allem bei Kita und ÖPNV. Die starke Fokussierung auf Mietwohnungsbau, neue Steuern und strenge energetische Auflagen wirkt jedoch konträr zu ihrem Wunsch nach bezahlbarem Eigentum. Insgesamt überwiegt Skepsis.",
+    "score": -1
+  }
+}

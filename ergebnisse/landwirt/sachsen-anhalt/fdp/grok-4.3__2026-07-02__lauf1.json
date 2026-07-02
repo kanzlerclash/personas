@@ -1,0 +1,88 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:41:46.073Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49566,
+    "output_tokens": 1845,
+    "cached_tokens": 35072,
+    "total_tokens": 51411,
+    "dauer_ms": 15924,
+    "usd": 0.0311219
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Ämter als Partner, nicht Kontrolleure!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Verlagerung der Düngerechtskontrollen an die ALFFs und Senkung der Vor-Ort-Kontrollen von 5 % auf 1 % der Betriebe",
+      "seite": 17,
+      "zitat": "Die Dichte der Vor-Ort-Kontrollen soll von 5% auf 1% der Betriebe gesenkt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank spürt die ständigen Kontrollen und Dokumentationspflichten als direkte Belastung seines Betriebsalltags. Die konkrete Senkung der Kontrolldichte und die Verlagerung zu beratenden Behörden treffen genau seine Sorge vor überbordender Bürokratie.",
+      "begruendung_selbst": "Endlich mal jemand, der versteht, dass ich nicht den ganzen Tag Formulare ausfüllen kann, sondern auf dem Acker sein muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wolf managen statt schützen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Festlegung von Populationsuntergrenzen für den Wolf und konsequente Entschädigung von Wolfsangriffen",
+      "seite": 22,
+      "zitat": "Populationsuntergrenzen festzulegen, die den günstigen ökologischen Zustand",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die kleine Mutterkuhherde auf Weide ist für Frank ein zentraler Bestandteil des Betriebs. Der Wolf stellt für ihn ein reales wirtschaftliches Risiko dar, das bisher durch strengen Schutz erschwert wird.",
+      "begruendung_selbst": "Wenn der Wolf meine Tiere reißt, will ich nicht monatelang auf Entschädigung warten oder gar keine bekommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Doppelte Grunderwerbsteuer weg!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Abschaffung der doppelten Grunderwerbsteuer beim Vorkaufsrecht der Landgesellschaft",
+      "seite": 16,
+      "zitat": "dass Sachsen-Anhalt auf diese Doppelbesteuerung verzichten kann.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank bewirtschaftet 180 ha, von denen ein großer Teil gepachtet ist. Jede zusätzliche Steuer beim Flächenerwerb verschärft die ohnehin hohe Kapitalbindung und erschwert die Hofübergabe an die Tochter.",
+      "begruendung_selbst": "Zweimal Steuer für denselben Boden – das ist einfach nicht fair und macht den Kauf für uns Landwirte noch teurer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine deutschen Übererfüllungen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Keine Verschärfung von EU-Vorgaben im Pflanzenschutz- und Düngerecht (kein Gold-Plating)",
+      "seite": 18,
+      "zitat": "Keine einzige EU-Anforderung darf bei der Umsetzung in nationales Recht verschärft werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank erlebt die nationalen Verschärfungen als direkte Einschränkung seiner Handlungsfähigkeit und Wettbewerbsfähigkeit gegenüber ausländischen Betrieben. Die klare Ablehnung von Gold-Plating entspricht seiner Forderung nach fairen Regeln.",
+      "begruendung_selbst": "Wenn Brüssel schon genug vorschreibt, soll Berlin nicht noch drauflegen – sonst können wir hier bald dichtmachen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Technologie statt Verbote!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Unterstützung neuer Züchtungstechnologien wie CRISPR/Cas9 und Digitalisierung in der Landwirtschaft",
+      "seite": 16,
+      "zitat": "Digitalisierung, KI und neue Züchtungstechnologien bieten Lösungen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sieht in praxisnahen Innovationen die einzige Möglichkeit, Ertrag und Umweltschutz gleichzeitig zu verbessern, ohne Flächen stilllegen zu müssen. Die positive Haltung zu neuen Technologien passt zu seiner leistungsorientierten Grundhaltung.",
+      "begruendung_selbst": "Lass uns die neuen Sorten und Drohnen nutzen, statt immer nur zu verbieten – das bringt was.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Frank erkennt im Programm der FDP eine klare Ausrichtung auf die praktischen Sorgen von Landwirten: spürbarer Bürokratieabbau, Reduzierung von Kontrollen, Ablehnung nationaler Übererfüllung und eine realistische Haltung zum Wolf. Diese Punkte treffen direkt seine tägliche Belastung durch Auflagen und Planungsunsicherheit. Insgesamt fühlt er sich von der Partei in seiner Lage ernst genommen.",
+    "score": 2
+  }
+}

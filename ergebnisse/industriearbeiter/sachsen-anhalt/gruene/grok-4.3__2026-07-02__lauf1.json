@@ -1,0 +1,89 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:31:45.023Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81850,
+    "output_tokens": 1694,
+    "cached_tokens": 2304,
+    "total_tokens": 83544,
+    "dauer_ms": 16805,
+    "usd": 0.1054058
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Tarifbindung und Mitbestimmung stärken!",
+      "thema": "arbeit",
+      "programmpunkt": "Stärkung der Tarifbindung durch Tariftreue- und Vergabegesetz sowie Ausbau von Betriebsräten in der Privatwirtschaft",
+      "seite": 76,
+      "zitat": "Tarifverträge und Betriebsräte verbessern Arbeitsbedingungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht in der expliziten Stärkung von Tarifbindung und Mitbestimmung eine direkte Absicherung seiner eigenen Lohn- und Arbeitsbedingungen als Chemiefacharbeiter und Betriebsrat.",
+      "begruendung_selbst": "Endlich wird gesagt, dass Tarifverträge und Betriebsräte die Arbeitsbedingungen verbessern – genau das verteidige ich seit Jahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ausbildungsgarantie für alle!",
+      "thema": "arbeit",
+      "programmpunkt": "Einführung einer Ausbildungsgarantie und tariflich gebundene Ausbildungsvergütung",
+      "seite": 76,
+      "zitat": "Wir setzen uns für eine Ausbildungsgarantie ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als langjähriger Gewerkschafter begrüßt Uwe die Garantie einer qualifizierten Ausbildung und faire Vergütung, weil sie den Nachwuchs in der Industrie sichert.",
+      "begruendung_selbst": "Jeder junge Mensch soll eine vernünftige Ausbildung bekommen – das ist genau richtig für unsere Branche.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "100 Prozent erneuerbar bis 2030 – zu schnell!",
+      "thema": "energie",
+      "programmpunkt": "Ziel 100 Prozent erneuerbarer Strom bis 2030 und konsequenter Ausbau von Wind und Sonne",
+      "seite": 22,
+      "zitat": "Sachsen-Anhalt bis 2030 im Strombereich 100 Prozent erneuerbar",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe fürchtet, dass das extrem ambitionierte Tempo den Chemie- und Industriestandort ohne ausreichenden Ersatz gefährdet und zu Deindustrialisierung führt.",
+      "begruendung_selbst": "100 Prozent bis 2030 – das ist praxisfern und gefährdet unsere Arbeitsplätze, wenn die Energie nicht bezahlbar bleibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohleausstieg 2034 – Jobs weg!",
+      "thema": "energie",
+      "programmpunkt": "Gesetzlicher Kohleausstieg spätestens 2034 und Streichung von Lützen als Vorranggebiet",
+      "seite": 25,
+      "zitat": "gesetzliche Kohleausstieg in Sachsen-Anhalt ist spätestens zum 31.12.2034",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Der feste Ausstiegszeitpunkt ohne ausreichende soziale Absicherung und Ersatzarbeitsplätze bedroht direkt die industrielle Basis, von der Uwes Lebensunterhalt abhängt.",
+      "begruendung_selbst": "Der Kohleausstieg 2034 wird uns die Industrie wegnehmen, ohne dass neue sichere Jobs da sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wirtschaftsförderung nur mit Klimazielen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Kopplung der GRW-Wirtschaftsförderung an den Beitrag zur kohlenstoffarmen Transformation",
+      "seite": 88,
+      "zitat": "an den Beitrag zum Transformationsprozess zu einer kohlenstoffarmen Wirtschaft gekoppelt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe sieht hier eine einseitige Bedingung, die bestehende Industriearbeitsplätze gefährdet, wenn sie nicht sofort den strengen Klimakriterien entsprechen.",
+      "begruendung_selbst": "Förderung nur, wenn man schon klimaneutral ist – das schadet genau den Betrieben, in denen ich arbeite.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe erkennt einzelne arbeitsmarktpolitische Zugeständnisse wie Tarif- und Ausbildungsstärkung an, lehnt jedoch das Gesamtprogramm wegen des zu schnellen und unzureichend sozial abgesicherten Transformationspfads bei Energie und Industrie klar ab. Die existenzielle Sorge um den eigenen Arbeitsplatz und die Region überwiegt.",
+    "score": -1
+  }
+}

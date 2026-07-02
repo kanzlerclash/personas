@@ -1,0 +1,76 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:27:16.152Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56578,
+    "output_tokens": 1566,
+    "cached_tokens": 128,
+    "total_tokens": 58144,
+    "dauer_ms": 15266,
+    "usd": 0.0760431
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kohleausstieg 2038 – Plan bleibt Plan!",
+      "thema": "energie",
+      "programmpunkt": "Festhalten am Kohlekompromiss bis 2038 mit Fördermitteln für betroffene Regionen",
+      "seite": 45,
+      "zitat": "Am Kohlekompromiss festhalten: Der vereinbarte Kohleausstieg bis 2038",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht hier die von ihm geforderte Verlässlichkeit: ein festes Datum ohne voreiligen Abbruch, verbunden mit Strukturförderung für seine Region.",
+      "begruendung_selbst": "Endlich sagen sie: erst die Brücke bauen, dann die alte Anlage runter. So kann ich meine Region nicht verlieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CCS und CCU – Technologie statt Ideologie!",
+      "thema": "energie",
+      "programmpunkt": "Unterstützung von CCS/CCU-Technologien und Begrüßung des Kohlendioxid-Speichergesetzes",
+      "seite": 46,
+      "zitat": "Wir begrüßen das im November 2025 vom Bund verabschiedete",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Ronny ist CCS eine zentrale Brückentechnologie, die seiner Region Perspektiven im Strukturwandel eröffnet – genau das, was er vermisst hat.",
+      "begruendung_selbst": "Endlich darf man CCS wieder sagen, ohne gleich als Klimaleugner dazustehen. Das ist für uns hier existenziell.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Regionale Strompreiszone – endlich fair!",
+      "thema": "energie",
+      "programmpunkt": "Initiative zur Aufteilung der bundeseinheitlichen Strompreiszone zugunsten der Region",
+      "seite": 44,
+      "zitat": "Initiative starten, um die bundeseinheitliche Strompreiszone zu teilen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny profitiert direkt von günstigerem Strom für Industrie und Haushalte in seiner strukturschwachen Region und sieht darin eine konkrete Standortstärkung.",
+      "begruendung_selbst": "Wir produzieren den Windstrom – dann soll der auch bei uns billiger sein und nicht nur im Süden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wasserstoff für unsere Industrie!",
+      "thema": "energie",
+      "programmpunkt": "Aufbau einer industriellen Wasserstoffwirtschaft und Anschluss der Chemieparks ans Wasserstoffnetz",
+      "seite": 46,
+      "zitat": "Industrielle Wasserstoffwirtschaft und Energiesicherheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny erkennt hier eine realistische Nachfolgetechnologie für seine Branche und die chemische Industrie in der Region.",
+      "begruendung_selbst": "Wasserstoff statt nur Abschaltungen – das gibt uns eine echte Chance, hier zu bleiben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet das Programm in den zentralen Punkten Energie, Strukturwandel und Technologieoffenheit sehr passend zu seiner Lage. Die klare Verlässlichkeit beim Kohleausstieg 2038, die Unterstützung von CCS/CCU und die Forderung nach regionalen Strompreiszonen treffen genau seine Sorgen und Hoffnungen. Er sieht hier eine Politik, die den Menschen in der Region eine Brücke baut statt nur Enddaten setzt.",
+    "score": 2
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:27:00.882Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56604,
+    "output_tokens": 1486,
+    "cached_tokens": 128,
+    "total_tokens": 58090,
+    "dauer_ms": 12916,
+    "usd": 0.0754231
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wir gehören dazu, ohne Wenn und Aber!",
+      "thema": "integration",
+      "programmpunkt": "Ausdrückliche Ablehnung von Ausländerfeindlichkeit, Hass und pauschalen Verdächtigungen; Anerkennung integrierter Menschen mit Migrationshintergrund als fester Bestandteil der Gesellschaft.",
+      "seite": 9,
+      "zitat": "Ausländerfeindlichkeit, Hass, Hetze und pauschale Verdächtigungen lehnen wir entschieden ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt die Migrationsdebatte als direkte Frage ihrer eigenen Zugehörigkeit. Die klare Absage an pauschale Verdächtigungen bestätigt ihr Bedürfnis nach Anerkennung als selbstverständlicher Teil der Gesellschaft.",
+      "begruendung_selbst": "Endlich steht schwarz auf weiß, dass ich nicht ständig meine Zugehörigkeit beweisen muss. Das gibt mir das Gefühl, wirklich dazuzugehören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsstaat schützt alle – auch mich.",
+      "thema": "demokratie",
+      "programmpunkt": "Stärkung des Verfassungsschutzes mit 360°-Blick gegen jede Form des politisch und islamistisch motivierten Extremismus.",
+      "seite": 7,
+      "zitat": "jede Form des politisch und islamistisch motivierten Extremismus bekämpfen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin fürchtet Polarisierung und ausgrenzende Rhetorik. Die gleichzeitige Bekämpfung von Rechtsextremismus und Islamismus signalisiert ihr einen ausgewogenen Rechtsstaat, der Minderheiten nicht einseitig unter Verdacht stellt.",
+      "begruendung_selbst": "Wenn der Verfassungsschutz wirklich alle Extremisten im Blick hat, fühle ich mich sicherer – nicht nur die anderen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Null Migration – das trifft auch mich!",
+      "thema": "integration",
+      "programmpunkt": "Ziel, die irreguläre Migration auf null zu reduzieren, mit konsequenten Rückführungen und einer neuen Abschiebungssicherungseinrichtung.",
+      "seite": 8,
+      "zitat": "Es ist unser Ziel, die irreguläre Migration auf null zu reduzieren.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die harte Formulierung „auf null“ und die Ankündigung weiterer Abschiebeeinrichtungen verstärken bei Aylin das Gefühl, dass Menschen mit Migrationsgeschichte pauschal als Problem gesehen werden.",
+      "begruendung_selbst": "Wenn sie Migration auf null bringen wollen, fragen sich viele, ob ich dann auch noch dazugehöre.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgerarbeit – wieder nur die Migranten?",
+      "thema": "arbeit",
+      "programmpunkt": "Verpflichtende Bürgerarbeit für arbeitsfähige Leistungsempfänger als Reform des Sozialstaats.",
+      "seite": 31,
+      "zitat": "verb indliches Angebot zur Arbeitsaufnahme macht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin sieht in der verpflichtenden gemeinnützigen Arbeit eine Maßnahme, die in der öffentlichen Wahrnehmung vor allem Menschen mit Migrationshintergrund treffen könnte und das Narrativ von „nicht leistungsbereit“ verstärkt.",
+      "begruendung_selbst": "Das klingt nach einer Maßnahme, die wieder mal vor allem bei uns ankommt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet einzelne Formulierungen zur Anerkennung integrierter Menschen und zur Bekämpfung von Rechtsextremismus zustimmenswert. Gleichzeitig überwiegt die Sorge vor einer harten, pauschalisierenden Migrationsrhetorik („null irreguläre Migration“, neue Abschiebeeinrichtung), die ihre eigene Zugehörigkeit infrage stellt. Insgesamt bleibt sie wachsam und skeptisch.",
+    "score": -1
+  }
+}

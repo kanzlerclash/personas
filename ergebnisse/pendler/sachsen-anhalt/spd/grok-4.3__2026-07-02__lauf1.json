@@ -1,0 +1,89 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:19:44.755Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 47944,
+    "output_tokens": 1677,
+    "cached_tokens": 128,
+    "total_tokens": 49621,
+    "dauer_ms": 9709,
+    "usd": 0.0651931
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Bezahlbare Energie für Pendler!",
+      "thema": "energie",
+      "programmpunkt": "SPD will Energiewende mit bezahlbaren Preisen für Haushalte und Unternehmen, inklusive Deckelung der Netzentgelte und Senkung der Stromsteuer.",
+      "seite": 5,
+      "zitat": "konsequente Energiewende bei bezahlbaren Energiepreisen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf spürt Sprit- und Stromkosten täglich am eigenen Geldbeutel; die klare Priorität auf bezahlbare Preise trifft seine finanzielle Lage direkt.",
+      "begruendung_selbst": "Endlich einer, der nicht nur von Wende redet, sondern dass es für uns auch bezahlbar bleiben muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriearbeitsplätze sichern!",
+      "thema": "arbeit",
+      "programmpunkt": "Unterstützung der Chemieindustrie und bestehender Industriebranchen bei der Transformation, um Lohn und Brot für Tausende zu erhalten.",
+      "seite": 6,
+      "zitat": "Lohn und Brot für tausende Menschen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sein Schichtjob in der Industrie ist existenziell; die Betonung auf Erhalt industrieller Kerne passt zu seiner Sorge um sichere Arbeitsplätze.",
+      "begruendung_selbst": "Solange mein Arbeitsplatz bleibt, kann ich das Pendeln noch stemmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine einseitige Belastung!",
+      "thema": "klima",
+      "programmpunkt": "Klimaschutz soll sozial gerecht ausgestaltet werden, Belastungen dürfen nicht einseitig Haushalte mit geringem Einkommen treffen.",
+      "seite": 15,
+      "zitat": "Belastungen dürfen nicht einseitig Haushalte mit geringem Einkommen treffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fürchtet CO₂-Preis und Verkehrswende als direkte Kostensteigerung; die explizite soziale Absicherung spricht seine Kernangst an.",
+      "begruendung_selbst": "Wenigstens sagen die, dass nicht immer nur wir am unteren Ende zahlen sollen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Radwege statt Straßen!",
+      "thema": "verkehr",
+      "programmpunkt": "Mindestens zehn Prozent der Straßenbaumittel dauerhaft für Fuß- und Radverkehr, Ausbau von Radinfrastruktur und Radschnellverbindungen.",
+      "seite": 26,
+      "zitat": "Mindestens zehn Prozent der Landesmittel für den Straßenbau werden dauerhaft für Fuß- und Radverkehr",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf pendelt 45 Minuten mit dem Auto über Land; Rad- und Fußverkehrsförderung hilft ihm praktisch nicht und schmälert Mittel für Straßen.",
+      "begruendung_selbst": "Hier im Dorf brauch ich keinen Radweg, ich brauch eine Straße, auf der mein Auto nicht kaputtgeht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz ohne Rücksicht!",
+      "thema": "klima",
+      "programmpunkt": "Klimaschutzgesetz mit verbindlichen Reduktionspfaden und Ausbau erneuerbarer Energien ohne konkrete Entlastung für ländliche Autopendler.",
+      "seite": 15,
+      "zitat": "klaren und verbindlichen Rahmen für den Klimaschutz",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Verbindlichkeit des Klimaschutzes wird betont, während die Sorge um steigende Mobilitätskosten für Dorfbewohner ohne ÖPNV-Alternative nicht adressiert wird.",
+      "begruendung_selbst": "Die machen Gesetze, und am Ende zahl ich mehr an der Zapfsäule – wie immer.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf findet die soziale Absicherung bei der Energiewende und den Fokus auf Industriearbeitsplätze zustimmenswert, weil sie seine finanzielle und berufliche Lage direkt betreffen. Gleichzeitig stößt ihn die einseitige Förderung von Rad- und Fußverkehr sowie der verbindliche Klimaschutzrahmen ab, da sie seine Abhängigkeit vom Auto ignorieren und zusätzliche Kosten befürchten lassen. Insgesamt überwiegt leichte Zustimmung durch die arbeits- und sozialpolitischen Akzente.",
+    "score": 1
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:39:20.813Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89863,
+    "output_tokens": 1882,
+    "cached_tokens": 88768,
+    "total_tokens": 91745,
+    "dauer_ms": 15714,
+    "usd": 0.02539235
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Bürokratieabbau für Unternehmen, Zwei-für-eins-Regel bei neuen Vorschriften",
+      "seite": 12,
+      "zitat": "Für jede neu geschaffene sowie sinnvolle bürokratische Maßnahme mindestens zwei überflüssige Regelungen gestrichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike leidet unter der Bürokratielast als Solo-Selbstständige; der programmatische Abbau von Vorschriften und die Zwei-für-eins-Regel treffen direkt ihre tägliche Belastung durch Formulare und Nachweise.",
+      "begruendung_selbst": "Endlich wird mal was gestrichen – ich verbringe mehr Zeit mit Papierkram als mit Aufträgen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Steuern runter für die Kleinen!",
+      "thema": "steuern",
+      "programmpunkt": "Senkung der Grunderwerbsteuer und Streichung von Bagatellsteuern",
+      "seite": 19,
+      "zitat": "Grunderwerbsteuer von aktuell fünf Prozent auf zweieinhalb Prozent absenken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Obwohl Mareike meist zur Miete wohnt, signalisiert die generelle Entlastung bei Steuern und Abgaben für Kleinste eine Entlastung ihrer ohnehin schwankenden Einkünfte.",
+      "begruendung_selbst": "Weniger Steuern und Abgaben bedeuten mehr Luft zum Atmen, wenn die Aufträge mal wieder ausbleiben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nur traditionelle Familien zählen!",
+      "thema": "familie",
+      "programmpunkt": "Stärkung der Familie aus Mann und Frau, Abschaffung von Gleichstellungsbeauftragten und Förderung alternativer Lebensentwürfe",
+      "seite": 4,
+      "zitat": "Wir sprechen uns daher klar gegen die staatliche Bewerbung und Förderung alternativer Lebensentwürfe aus",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes offene, individualistische Haltung wird durch die einseitige Priorisierung traditioneller Familienmodelle und die Streichung von Förderungen für andere Lebensweisen direkt abgewertet.",
+      "begruendung_selbst": "Ich lebe solo und kreativ – plötzlich soll das nicht mehr gefördert werden dürfen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kreativförderung wird abgesägt!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Streichung von Fördermitteln für als ideologisch eingestufte Projekte und Kürzung von Kultur- und Medienförderung",
+      "seite": 4,
+      "zitat": "Vereinen und Organisationen, die sich an solcher Agitation beteiligen, jede Form öffentlicher Förderung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Kreativschaffende ist Mareike auf Förderungen und Aufträge aus dem Kulturbereich angewiesen; pauschale Kürzungen unter dem Vorwurf von „Genderismus“ oder „Regenbogenideologie“ treffen ihre Existenzgrundlage.",
+      "begruendung_selbst": "Wenn alles, was nicht ins traditionelle Bild passt, gestrichen wird, bleibt für mich und meine Kolleginnen nichts mehr übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Selbstständige fallen weiter durchs Raster!",
+      "thema": "arbeit",
+      "programmpunkt": "Fokus auf einheimische Fachkräfte und traditionelle Beschäftigung, keine spezifischen Maßnahmen für Soloselbstständige oder KSK",
+      "seite": 5,
+      "zitat": "Illegale Zuwanderer tragen nicht zu einer Lösung des Fachkräftemangels bei",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes zentrale Sorge – soziale Absicherung als Solo-Selbstständige – wird im Programm nicht adressiert; stattdessen liegt der Schwerpunkt auf anderen Gruppen und traditionellen Strukturen.",
+      "begruendung_selbst": "Wieder nichts für uns Solos – Krankheit, Flaute, Rente bleiben mein Problem.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet den Bürokratie- und Steuerabbau grundsätzlich positiv, fühlt sich aber durch die einseitige Betonung traditioneller Familienmodelle, Kürzungen im Kultur- und Förderbereich und das Fehlen jeglicher Absicherung für Soloselbstständige massiv abgehängt. Das Programm spricht ihre existenziellen Risiken nicht an und wertet ihre Lebensweise ab.",
+    "score": -1
+  }
+}

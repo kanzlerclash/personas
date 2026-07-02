@@ -36,13 +36,12 @@
       "thema": "sicherheit",
       "programmpunkt": "Die Verhinderung künftiger Straftaten soll wieder stärker in den Mittelpunkt der Sicherheitspolitik rücken",
       "seite": 47,
-      "zitat": "Resozialisierung und die Verhinderung künftiger Straftaten wieder stärker in den Mittelpunkt rücken",
+      "zitat": "Resozialisierung und die Verhinderung künftiger Straftaten wieder stärker in den Mittelpunkt",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Der Fokus auf Rückfallprävention trifft bei Marco einen Nerv: Als Streifenbeamter erlebt er täglich, wie dieselben Personen immer wieder auffällig werden. Ein Strafvollzug, der Rückfälle verhindert, entlastet auch seinen Alltag.",
       "begruendung_selbst": "Ich will, dass weniger Straftaten passieren. Wenn das System tatsächlich dafür sorgt, dass jemand nicht rückfällig wird, nützt das auch mir auf der Straße.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Feuerwehr und Rettungsdienste stärken",

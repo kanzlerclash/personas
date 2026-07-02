@@ -1,0 +1,76 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:32:09.805Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81923,
+    "output_tokens": 1720,
+    "cached_tokens": 128,
+    "total_tokens": 83643,
+    "dauer_ms": 24778,
+    "usd": 0.10853685
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Solarpflicht treibt Baukosten hoch!",
+      "thema": "energie",
+      "programmpunkt": "Verpflichtung zur Nutzung von Solarenergie auf Neubauten und umfänglichen Dachsanierungen",
+      "seite": 23,
+      "zitat": "eine Pflicht zur Nutzung von Solarenergie auf Neubauten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica planen den Bau eines Eigenheims; zusätzliche technische Pflichten erhöhen die ohnehin schon hohen Baukosten und verzögern den Weg ins Eigentum.",
+      "begruendung_selbst": "Wir wollen bauen, aber jede neue Pflicht macht es noch teurer – das können wir uns nicht leisten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wärmewende ohne Rücksicht auf Kosten!",
+      "thema": "energie",
+      "programmpunkt": "Förderung von Wärmepumpen und energetischen Sanierungen mit Fokus auf erneuerbare Wärmequellen",
+      "seite": 25,
+      "zitat": "Wir unterstützen Heizungsbesitzer*innen in Ergänzung zu den bestehenden Bundesförderprogrammen beim Umbau auf erneuerbare Wärmequellen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die strengen Vorgaben zur Wärmewende verteuern Neubau und Sanierung zusätzlich, ohne ausreichende Entlastung für junge Familien mit knappem Eigenkapital.",
+      "begruendung_selbst": "Zinsen und Preise sind schon hoch genug – jetzt soll auch noch die Heizung alles verteuern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Netto-Null-Hektar blockiert Bauland!",
+      "thema": "wohnen",
+      "programmpunkt": "Ziel, den Flächenverbrauch auf netto null Hektar bis 2050 zu reduzieren und Versiegelung zu begrenzen",
+      "seite": 9,
+      "zitat": "durchschnittlich null Hektar neue Siedlungs- und Verkehrsflächen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das strenge Flächensparziel schränkt die Ausweisung von Bauland ein und treibt Preise weiter nach oben – genau das, was den Eigenheim-Traum für Tom und Jessica erschwert.",
+      "begruendung_selbst": "Wo sollen wir denn bauen, wenn immer weniger Flächen freigegeben werden?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energetische Auflagen ohne Entlastung!",
+      "thema": "energie",
+      "programmpunkt": "Verbindliche Klimaschutz- und Effizienzstandards bei Neubau und Sanierung",
+      "seite": 10,
+      "zitat": "ambitioniertes Klimaschutzgesetz mit klaren Minderungszielen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die ambitionierten Klimaziele führen zu immer strengeren Baustandards, die junge Bauherren finanziell überfordern, ohne gezielte Kompensation für Familien.",
+      "begruendung_selbst": "Wir sparen schon fürs Eigenkapital – jetzt kommen noch teure Vorschriften dazu.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica sehen im Programm vor allem zusätzliche Kosten und Hürden beim Eigenheim-Erwerb. Die strengen Energie- und Flächenvorgaben treffen genau ihre Situation als junge Familie mit begrenztem Budget. Positive familien- oder eigentumsfördernde Maßnahmen, die ihre konkreten Sorgen lindern würden, fehlen weitgehend.",
+    "score": -2
+  }
+}

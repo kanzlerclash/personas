@@ -1,0 +1,76 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:20:06.303Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 47968,
+    "output_tokens": 1309,
+    "cached_tokens": 46912,
+    "total_tokens": 49277,
+    "dauer_ms": 10734,
+    "usd": 0.0150774
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Personal und Ausstattung!",
+      "thema": "sicherheit",
+      "programmpunkt": "Polizei personell und technisch stärken, Beförderungsstau abbauen",
+      "seite": 19,
+      "zitat": "Ausreichende Personalstärke bleibt Voraussetzung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt täglich Personalmangel und veraltete Ausstattung im Streifendienst; das Programm adressiert genau diese Belastungen direkt.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass wir die Leute und das Gerät brauchen, damit der Job überhaupt geht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beförderungsstau muss weg!",
+      "thema": "sicherheit",
+      "programmpunkt": "Beförderungsbudget deutlich verbessern und verlässliche Perspektiven schaffen",
+      "seite": 19,
+      "zitat": "Beförderungsbudget deutlich verbessert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Stau bei jüngeren Kollegen demotiviert und gefährdet die Bindung; Marco sieht hier eine konkrete Entlastung seiner eigenen Laufbahn.",
+      "begruendung_selbst": "Wir brauchen nicht nur Neueinstellungen, sondern auch, dass die, die da sind, vorankommen können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsstaat muss funktionieren!",
+      "thema": "sicherheit",
+      "programmpunkt": "Justiz personell und technisch stärken, Verfahren beschleunigen",
+      "seite": 20,
+      "zitat": "Gerichte und Staatsanwaltschaften werden personell und technisch gestärkt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt, dass seine Arbeit oft in der Justiz versandet; eine leistungsfähige Justiz ist für ihn Voraussetzung, dass der Rechtsstaat ernst genommen wird.",
+      "begruendung_selbst": "Was bringt es, wenn wir die Täter stellen und die Verfahren dann ewig dauern?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Angriffe auf uns ernst nehmen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Angriffe auf Gerichte und Justizangehörige konsequent verfolgen, Unabhängigkeit schützen",
+      "seite": 20,
+      "zitat": "Angriffe auf Gerichte und Justizangehörige werden nicht hingenommen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sinkender Respekt und zunehmende Angriffe auf Einsatzkräfte sind für Marco zentrale Sorgen; das Programm signalisiert hier klare Rückendeckung.",
+      "begruendung_selbst": "Wer uns angreift, muss spüren, dass der Staat dahintersteht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Marco findet im Programm klare und konkrete Zusagen zur Stärkung der Polizei und Justiz, die seine täglichen Belastungen direkt ansprechen. Die Betonung von Personal, Ausstattung, Beförderungsperspektiven und konsequenter Strafverfolgung trifft seine Kernanliegen. Er sieht hier eine institutionelle Wertschätzung, die er bisher vermisst.",
+    "score": 2
+  }
+}

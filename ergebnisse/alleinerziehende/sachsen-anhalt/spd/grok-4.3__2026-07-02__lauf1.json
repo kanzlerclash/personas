@@ -1,0 +1,76 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:17:36.065Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 47995,
+    "output_tokens": 1447,
+    "cached_tokens": 128,
+    "total_tokens": 49442,
+    "dauer_ms": 13336,
+    "usd": 0.06472935
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Flexible Kita-Zeiten für meine Arbeit!",
+      "thema": "familie",
+      "programmpunkt": "Ausbau flexibler Öffnungszeiten in Kitas auch in Randzeiten und Fortsetzung von Kita STABIL zur Entlastung von Fachkräften.",
+      "seite": 18,
+      "zitat": "Kitas mit flexiblen Öffnungszeiten auch in Randzeiten benötigt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine braucht Betreuungszeiten, die zu ihrer Teilzeitarbeit passen, damit sie mehr Stunden leisten kann, ohne ständig an Grenzen zu stoßen.",
+      "begruendung_selbst": "Endlich denken die an uns Alleinerziehende, die morgens und abends noch arbeiten müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenloses Mittagessen für alle Kinder!",
+      "thema": "familie",
+      "programmpunkt": "Kostenloses, gesundes und warmes Mittagessen für alle Kinder in Kita und Schule.",
+      "seite": 18,
+      "zitat": "kostenloses, gesundes und warmes Mittagessen für alle Kinder",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das entlastet ihr knappes Budget direkt und sorgt dafür, dass ihre Kinder jeden Tag eine ordentliche Mahlzeit bekommen.",
+      "begruendung_selbst": "Endlich muss ich nicht jeden Cent für das Essen der Kinder umschichten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr bezahlbarer Wohnraum für Familien!",
+      "thema": "wohnen",
+      "programmpunkt": "Stärkung des sozialen Wohnungsbaus, insbesondere für Familien und junge Menschen, sowie Ausbau barrierefreier und altersgerechter Wohnungen.",
+      "seite": 27,
+      "zitat": "soziale Wohnungsbau wird gestärkt, insbesondere für altersgerechte und barrierefreie Wohnungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine wohnt in einer Mietwohnung, bei der die Miete den Großteil des Einkommens frisst; mehr geförderter Wohnraum würde ihre Lage spürbar verbessern.",
+      "begruendung_selbst": "Weniger Miete bedeutet endlich Luft zum Atmen für uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ganztagsbetreuung ohne Wenn und Aber!",
+      "thema": "bildung",
+      "programmpunkt": "Rechtsanspruch auf bis zu zehn Stunden Betreuung von der Geburt bis zum 14. Lebensjahr und Stärkung der Kooperation von Grundschulen und Horten.",
+      "seite": 18,
+      "zitat": "Rechtsanspruch auf bis zu zehn Stunden Betreuung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Verlässliche Ganztagsbetreuung ermöglicht Nadine, ihre Arbeitszeiten besser zu planen und gleichzeitig die Förderung ihrer Kinder sicherzustellen.",
+      "begruendung_selbst": "Ich kann arbeiten gehen, ohne Angst zu haben, dass die Kinder allein rumhängen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Nadine sieht in dem Programm vor allem direkte Entlastungen bei Betreuung, Ernährung und Wohnen, die ihre tägliche Belastung als alleinerziehende Teilzeitkraft mit Aufstockung spürbar reduzieren würden. Die Betonung verlässlicher sozialer Infrastruktur und der Vereinbarkeit von Arbeit und Familie trifft genau ihre Kernanliegen. Sie würde das Programm insgesamt als unterstützend und alltagsnah wahrnehmen.",
+    "score": 2
+  }
+}

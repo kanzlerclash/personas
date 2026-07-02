@@ -1,0 +1,88 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:44:04.874Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95417,
+    "output_tokens": 1835,
+    "cached_tokens": 2304,
+    "total_tokens": 97252,
+    "dauer_ms": 17912,
+    "usd": 0.12295955
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kindergrundsicherung ohne Hürden!",
+      "thema": "familie",
+      "programmpunkt": "Einführung einer armutsfesten, sanktionsfreien Kindergrundsicherung von mindestens 630 Euro monatlich mit niedrigschwelligem Zugang.",
+      "seite": 45,
+      "zitat": "eine armutsfeste, eigenständige und sanktionsfreie Kindergrundsicherung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine erhält derzeit Unterhaltsvorschuss und aufstockende Leistungen; eine direkte, bürokratiearme Kindergrundsicherung würde ihre monatliche Planungssicherheit deutlich erhöhen und den ständigen Antragsstress reduzieren.",
+      "begruendung_selbst": "Endlich Geld für die Kinder, ohne dass ich jedes Mal um Sanktionen oder Nachweise kämpfen muss – das würde mir Luft zum Atmen geben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita kostenlos und verlässlich!",
+      "thema": "familie",
+      "programmpunkt": "Rechtsanspruch auf ganztägige beitragsfreie Betreuung mit verbesserten Personalschlüsseln und kostenlosem Mittagessen.",
+      "seite": 29,
+      "zitat": "jedes Kind einen uneingeschränkten Rechtsanspruch auf eine ganztägige Betreuung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als alleinerziehende Teilzeitkraft ist Nadine auf verlässliche und bezahlbare Betreuungszeiten angewiesen, um ihre Arbeitszeiten einzuhalten und mehr Stunden aufnehmen zu können.",
+      "begruendung_selbst": "Wenn die Kita endlich kostenlos ist und lange genug offen hat, kann ich mehr arbeiten, ohne dass die Kinder darunter leiden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Unterhaltsvorschuss ohne Abzüge!",
+      "thema": "familie",
+      "programmpunkt": "Unterhaltsvorschuss bedingungslos für alle Alleinerziehenden und Abschaffung der Anrechnung von Kindergeld.",
+      "seite": 21,
+      "zitat": "Unterhaltsvorschuss bedingungslos für alle verfügbar sein muss",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine ist auf den Unterhaltsvorschuss angewiesen; die Forderung nach bedingungsloser Gewährung und Wegfall der Anrechnung würde ihre ohnehin knappe Haushaltskasse spürbar entlasten.",
+      "begruendung_selbst": "Das Kindergeld wird mir nicht mehr vom Vorschuss abgezogen – endlich bleibt mehr übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bezahlbares Wohnen endlich sichern!",
+      "thema": "wohnen",
+      "programmpunkt": "Mietpreisbremse, sozialer Wohnungsbau, Vereinfachung des Wohngeldantrags und Verbot von Zwangsräumungen.",
+      "seite": 83,
+      "zitat": "Mietkosten senken und sozialen Wohnungsbau fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Miete frisst bei Nadine den größten Teil des Einkommens; Maßnahmen gegen steigende Mieten und vereinfachtes Wohngeld würden ihre existenzielle Wohnsituation stabilisieren.",
+      "begruendung_selbst": "Ich brauche keine Angst mehr haben, dass die Miete plötzlich steigt oder ich rausfliege.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Alleinerziehende ernst nehmen!",
+      "thema": "familie",
+      "programmpunkt": "Runder Tisch für Alleinerziehende und mobile Bürokratie-Lotsen zur Unterstützung bei Anträgen.",
+      "seite": 46,
+      "zitat": "einen Runden Tisch für Alleinerziehende",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine fühlt sich oft allein mit Behördengängen und Anträgen; gezielte Unterstützung und politische Mitsprache für Alleinerziehende würden ihre Belange sichtbar machen.",
+      "begruendung_selbst": "Endlich wird mal mit uns gesprochen, statt nur über uns entschieden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Programm spricht Nadine an fast allen zentralen Punkten direkt an: verlässliche und kostenlose Kinderbetreuung, direkte finanzielle Entlastung durch Kindergrundsicherung und Unterhaltsvorschuss, bezahlbares Wohnen sowie Respekt vor Alleinerziehenden statt Misstrauen. Sie erkennt darin eine Politik, die ihre tägliche Realität ernst nimmt und ihr mehr Spielraum für Arbeit und Familie geben würde.",
+    "score": 2
+  }
+}

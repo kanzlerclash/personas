@@ -35,27 +35,25 @@
       "titel_selbst": "Bürokratie auf mein Minimum!",
       "thema": "landwirtschaft",
       "programmpunkt": "BSW will landeseigene Kompetenzstellen schaffen, die Landwirten beratend helfen und einen Teil der Antragstellung übernehmen, sowie Berichtspflichten auf ein notwendiges Mindestmaß reduzieren.",
-      "seite": 19,
-      "zitat": "landeseigene Kompetenzstellen erzielt werden, welche die Landwirte vor Ort beratend unterstützen",
+      "seite": 20,
+      "zitat": "Kompetenzstellen erzielt werden, welche die Landwirte vor Ort beratend unterstützen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank verliert nach eigener Einschätzung wertvolle Arbeitszeit durch Dokumentationspflichten und Förder-Wirrwarr. Staatliche Stellen, die ihm Antragsarbeit abnehmen, treffen genau diesen Schmerz und würden es ihm ermöglichen, sich auf den Betrieb zu konzentrieren.",
       "begruendung_selbst": "Jedes Jahr neue Formulare, und ich soll nebenbei noch Landwirtschaft machen. Wenn mir endlich jemand hilft, den Papierkram zu erledigen, kann ich mich um das kümmern, was ich wirklich kann.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "CO2-Abgabe gehört weg!",
       "thema": "energie",
       "programmpunkt": "BSW fordert die Abschaffung oder Aussetzung der CO2-Bepreisung als einseitige Belastung für Bürger und Unternehmen.",
-      "seite": 26,
-      "zitat": "die CO₂-Bepreisung in Deutschland ist für das globale Klima begrenzt wirksam und belastet als nationale Sonderlast einseitig",
+      "seite": 27,
+      "zitat": "CO ₂ -Bepreisung in Deutschland ist für das globale Klima begrenzt wirksam und belastet als nationale Sonderlast einseitig",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Diesel, Düngermittel und Energiekosten sind für Frank variable, spürbare Kostenposten. Die CO2-Abgabe verteuert diese direkt und trifft ihn als Flächenbetrieb besonders hart; die BSW-Position entspricht seinem zentralen wirtschaftlichen Interesse.",
       "begruendung_selbst": "Der Klimaschutz wird auf meinem Rücken gemacht – ich zahl die CO2-Steuer, aber die Großindustrie in China nicht. Das ist keine Gerechtigkeit, das ist Abzocke.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "PV nicht auf mein Ackerland!",

@@ -1,0 +1,77 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:48:44.248Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 78949,
+    "output_tokens": 1754,
+    "cached_tokens": 2304,
+    "total_tokens": 80703,
+    "dauer_ms": 16531,
+    "usd": 0.10255205
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Arbeit schafft echte Teilhabe!",
+      "thema": "integration",
+      "programmpunkt": "Integration durch schnellen Arbeitsmarktzugang und Anerkennung ausländischer Abschlüsse fördern",
+      "seite": 63,
+      "zitat": "Arbeit schafft Teilhabe",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt berufliche Teilhabe als zentralen Beweis ihrer Zugehörigkeit; das Programm stellt Arbeit und Qualifikationsanerkennung in den Mittelpunkt der Integrationspolitik.",
+      "begruendung_selbst": "Endlich wird gesagt, dass wer arbeitet und Steuern zahlt, dazugehört – genau so sehe ich das auch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Integration auf Augenhöhe!",
+      "thema": "integration",
+      "programmpunkt": "Integration als wechselseitigen Prozess mit klaren Regeln und gegenseitiger Verantwortung definieren",
+      "seite": 64,
+      "zitat": "Integration auf Augenhöhe",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Programm betont gleichberechtigte Integration statt einseitiger Anpassung und vermeidet ausgrenzende Rhetorik, was Aylins Bedürfnis nach Anerkennung als vollwertiges Mitglied der Gesellschaft anspricht.",
+      "begruendung_selbst": "Nicht über uns reden wie über ein Problem, sondern mit uns – das fühlt sich endlich fair an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsstaat schützt alle!",
+      "thema": "demokratie",
+      "programmpunkt": "Grundrechte, Meinungsfreiheit und demokratische Kontrolle gegen Überwachung und Cancel Culture verteidigen",
+      "seite": 11,
+      "zitat": "Einen übergriffigen oder autoritären Staat lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin fürchtet Polarisierung und pauschale Verdächtigungen; das klare Bekenntnis zu Grundrechten und gegen Generalverdacht stärkt ihr Vertrauen in den Rechtsstaat.",
+      "begruendung_selbst": "Ich will nicht ständig beweisen müssen, dass ich dazugehöre – der Staat soll mich schützen, nicht unter Generalverdacht stellen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Abschiebung als Allheilmittel?",
+      "thema": "integration",
+      "programmpunkt": "Konsequente Abschiebung bei fehlendem Asylanspruch, Missbrauch oder Straffälligkeit",
+      "seite": 62,
+      "zitat": "konsequente Abschiebung, wenn kein Anspruch auf Asyl besteht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die starke Betonung von Abschiebungen kann bei Aylin das Gefühl verstärken, dass Menschen mit Migrationsgeschichte pauschal als potenzielles Problem betrachtet werden, auch wenn sie selbst nicht betroffen ist.",
+      "begruendung_selbst": "Klar, wer straffällig wird, muss gehen – aber die ganze Debatte dreht sich ständig nur um Abschieben, als wären wir alle erstmal verdächtig.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet im BSW-Programm vor allem die klare Verknüpfung von Arbeit und Teilhabe sowie das Bekenntnis zu rechtsstaatlicher, nicht ausgrenzender Integrationspolitik positiv. Die Betonung von Abschiebungen und 'Realismus' löst bei ihr leichte Skepsis aus, da sie fürchtet, dass die Debatte schnell in pauschale Härte umschlagen kann. Insgesamt empfindet sie das Programm als sachlich und integrationsfreundlich, ohne die typische ausgrenzende Rhetorik anderer Parteien.",
+    "score": 1
+  }
+}

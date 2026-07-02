@@ -1,0 +1,113 @@
+{
+  "persona": "pflegekraft",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:38:20.835Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89801,
+    "output_tokens": 2491,
+    "cached_tokens": 84224,
+    "total_tokens": 92292,
+    "dauer_ms": 19973,
+    "usd": 0.03215105
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Geld für unsere Kliniken!",
+      "thema": "gesundheit",
+      "programmpunkt": "Investitionsoffensive für Krankenhäuser mit Ziel, das Investitionsvolumen von 2005 wieder zu erreichen",
+      "seite": 20,
+      "zitat": "Unser Ziel ist, das Investitionsvolumen von 180 Millionen Euro aus dem Jahr 2005 wieder zu erreichen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin erlebt täglich marode Infrastruktur und fehlende Mittel auf ihrer Station. Das Programm verspricht gezielte Investitionen in Sanierung und Modernisierung, was ihre Arbeitsbedingungen direkt verbessern könnte.",
+      "begruendung_selbst": "Endlich reden die nicht nur von Klatschen, sondern wollen richtig in die Kliniken stecken – das spür ich am eigenen Leib.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Klinik mehr an Konzerne verkaufen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Verbot weiterer Privatisierung kommunaler Krankenhäuser und Rückführung bereits privatisierter Häuser wo medizinisch geboten",
+      "seite": 20,
+      "zitat": "Kommunen und das Land haben immer Vorrang vor privaten Käufern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht die Auswirkungen von Renditedruck auf Personalschlüssel und Versorgungsqualität. Das Programm stellt Patientenwohl über Profit und lehnt weitere Privatisierungen ab.",
+      "begruendung_selbst": "Rendite vor Patienten – das haben wir schon zu oft erlebt. Endlich einer, der das stoppen will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflegenotstand ernst nehmen und beheben!",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflegepersonaluntergrenzen nach individuellem Bedarf, Abbau von Dokumentationspflichten und Aufwertung der Pflegeberufe",
+      "seite": 20,
+      "zitat": "Weniger Dokumentationspflichten, mehr Zeit für die Pflege am Menschen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstins Alltag ist geprägt von Unterbesetzung und Bürokratie. Das Programm adressiert genau diese Belastungen und fordert mehr Zeit am Patienten.",
+      "begruendung_selbst": "Weniger Zettelkram, mehr Zeit für die Menschen – endlich einer, der versteht, wie der Alltag wirklich aussieht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zurück zu richtiger Pflegeausbildung!",
+      "thema": "gesundheit",
+      "programmpunkt": "Rückkehr zur differenzierten Ausbildung in Alten-, Kranken- und Kinderkrankenpflege statt generalistischer Ausbildung",
+      "seite": 20,
+      "zitat": "Alten-, Kranken- und Kinderkrankenpflege benötigen jeweils eigene Schwerpunkte.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kerstin sieht Qualitätsverluste durch die generalistische Ausbildung. Das Programm will spezialisierte Ausbildungen wiederherstellen, was langfristig die Versorgung und ihren Berufsstand stärkt.",
+      "begruendung_selbst": "Die generalistische Ausbildung hat uns Fachkräfte gekostet – gut, dass das wieder rückgängig gemacht werden soll.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Medizinstudenten statt Importärzte – und Pflegekräfte?",
+      "thema": "gesundheit",
+      "programmpunkt": "Ausdrückliche Ablehnung ausländischer Ärzte und Pflegekräfte zugunsten heimischer Ausbildung",
+      "seite": 20,
+      "zitat": "Medizinstudenten statt Importärzte!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstins Station ist ohne migrantische Kolleginnen nicht funktionsfähig. Das Programm lehnt Import von Fachkräften kategorisch ab und gefährdet damit direkt ihre Arbeitsfähigkeit.",
+      "begruendung_selbst": "Ohne meine Kolleginnen aus dem Ausland wäre die Station längst dicht – und die wollen die jetzt auch noch weg haben?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sofortiger Aufnahmestopp für Nicht-EU-Kräfte!",
+      "thema": "integration",
+      "programmpunkt": "Sofortiger und totaler Einwanderungsstopp für Nicht-EU-Ausländer, auch Fachkräfte",
+      "seite": 5,
+      "zitat": "Aufnahmestopp für Nicht-EU-Ausländer sofort!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin ist auf ausländische Pflegekräfte angewiesen. Das Programm fordert einen kompletten Stopp der Zuwanderung aus Nicht-EU-Ländern und bedroht damit die personelle Basis ihrer Arbeit.",
+      "begruendung_selbst": "Die Station läuft nur, weil Kolleginnen aus anderen Ländern da sind – ein Stopp würde uns komplett lahmlegen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Remigration und Abschiebung statt Integration!",
+      "thema": "integration",
+      "programmpunkt": "Umfassende Remigrations- und Abschiebeoffensive, auch für bereits integrierte Personen",
+      "seite": 5,
+      "zitat": "Abschiebeoffensive einleiten!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Kerstin erlebt ihre migrantischen Kolleginnen als unverzichtbar für die Patientenversorgung. Das Programm priorisiert Massenabschiebungen und Remigration über den Erhalt des Pflegepersonals.",
+      "begruendung_selbst": "Die reden von Remigration, als wären meine Kolleginnen das Problem – dabei halten die den Laden am Laufen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Kerstin findet die gesundheitspolitischen Ansätze zur Investition, gegen Privatisierung und zur Aufwertung der Pflege grundsätzlich zustimmenswert, weil sie ihre tägliche Belastung adressieren. Gleichzeitig lehnt sie die migrationspolitischen Forderungen entschieden ab, da diese ihre migrantischen Kolleginnen und damit die Funktionsfähigkeit ihrer Station direkt bedrohen. Insgesamt überwiegt die Ablehnung, weil die Personalbasis ihrer Arbeit systematisch infrage gestellt wird.",
+    "score": -1
+  }
+}

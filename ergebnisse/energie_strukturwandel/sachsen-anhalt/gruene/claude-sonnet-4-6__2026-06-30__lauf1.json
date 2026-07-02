@@ -36,13 +36,12 @@
       "thema": "energie",
       "programmpunkt": "Verfügbarkeit von erneuerbarem Wasserstoff als Schlüssel für die Zukunftsfähigkeit der chemischen Industrie benennen",
       "seite": 27,
-      "zitat": "Ohne breit verfügbaren erneuerbar produzierten Wasserstoff ist unsere chemische Industrie in Zukunft nicht wettbewerbsfähig",
+      "zitat": "Ohne breit verfügbaren erneuerbar produzierten Wasserstoff",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny sieht erneuerbaren Wasserstoff als die zentrale Brückentechnologie für die Dekarbonisierung der Industrie in seiner Region. Das klare Bekenntnis des Programms zu Wasserstoff als Grundvoraussetzung für die Chemiebranche trifft seine industrielle Realität genau und gibt ihm Hoffnung auf eine geordnete Transformation statt eines abrupten Ausstiegs.",
       "begruendung_selbst": "Wasserstoff ist für die Chemie keine Option, sondern eine Notwendigkeit. Dass das Programm das so direkt ausspricht, ist für mich ein wichtiges Signal: Da denken die Grünen endlich mal in Industrielogik, nicht nur in Klimaideologie.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Transformation aktiv begleiten – richtig!",

@@ -1,0 +1,76 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:44:21.526Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95380,
+    "output_tokens": 1527,
+    "cached_tokens": 2304,
+    "total_tokens": 96907,
+    "dauer_ms": 16650,
+    "usd": 0.1218883
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich schnelle Anerkennung!",
+      "thema": "integration",
+      "programmpunkt": "Ausländische Berufsabschlüsse werden innerhalb von sechs Monaten anerkannt und Anpassungsqualifizierungen angeboten.",
+      "seite": 98,
+      "zitat": "Schnelle Anerkennung: Ausländische Berufsabschlüsse werden innerhalb von sechs Monaten anerkannt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin erlebt die Anerkennung ihrer Qualifikationen und die ihrer Familie als zentrale Hürde für echte Teilhabe; das Programm verspricht hier konkrete Beschleunigung und Entlastung.",
+      "begruendung_selbst": "Endlich wird nicht mehr monatelang blockiert, sondern anerkannt – das fühlt sich wie echte Gleichbehandlung an.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vielfalt ist unsere Stärke!",
+      "thema": "integration",
+      "programmpunkt": "Vielfalt als Überlebensfrage und Chancenfaktor; Menschen mit Migrationsgeschichte sind Normalität und erste Generation Sachsen-Anhalter:innen.",
+      "seite": 96,
+      "zitat": "Vielfalt als Überlebensfrage und Chancenfaktor",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin fühlt sich durch die klare positive Bewertung von Vielfalt und die Ablehnung von Herkunftsabwertung in ihrer Zugehörigkeit bestätigt.",
+      "begruendung_selbst": "Hier wird nicht über uns geredet, sondern mit uns – das ist genau das, was ich mir wünsche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Öffentlicher Dienst als Vorbild!",
+      "thema": "demokratie",
+      "programmpunkt": "Diversitätsstrategie im öffentlichen Dienst; interkulturelle Kompetenz und Sprachkenntnisse werden gefördert.",
+      "seite": 98,
+      "zitat": "Diversitätsstrategie öffentlicher Dienst: Die Einstellung von Menschen mit Migrationshintergrund soll als Ausdruck einer Willkommenskultur Priorität erhalten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte sieht Aylin hier direkte Verbesserung ihrer Arbeitswelt und eine klare Absage an Alltagsdiskriminierung.",
+      "begruendung_selbst": "Endlich soll der öffentliche Dienst zeigen, dass Herkunft keine Rolle spielt – das stärkt mich in meinem Job.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gegen Remigrations-Rhetorik!",
+      "thema": "integration",
+      "programmpunkt": "Klare Ablehnung von Ausgrenzungsrhetorik und Schutz vor Diskriminierung auch für Menschen ohne gesicherten Aufenthaltstitel.",
+      "seite": 22,
+      "zitat": "rechtlichen Voraussetzungen verbessern, um auch FLINTA*-Personen ohne gesicherten Aufenthaltstitel vor geschlechtsspezifischer und häuslicher Gewalt zu schützen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin empfindet jede pauschale Ausgrenzungsrhetorik als Angriff auf ihre eigene Existenz; das Programm stellt sich dem entschieden entgegen.",
+      "begruendung_selbst": "Niemand soll mehr über Menschen wie über ein Problem reden – das ist für mich existenziell.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Aylin fühlt sich vom Programm in ihren zentralen Anliegen – Anerkennung, Vielfalt als Normalität, Schutz vor Ausgrenzung und Diversität im öffentlichen Dienst – klar bestätigt. Die direkten Maßnahmen zur schnellen Qualifikationsanerkennung und die klare Haltung gegen diskriminierende Rhetorik treffen ihre Alltagssorgen und Hoffnungen. Das Programm spricht sie als selbstverständlichen Teil der Gesellschaft an, ohne sie auf Herkunft zu reduzieren.",
+    "score": 2
+  }
+}

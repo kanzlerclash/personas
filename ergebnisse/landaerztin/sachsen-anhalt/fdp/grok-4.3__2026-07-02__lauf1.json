@@ -1,0 +1,89 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:41:30.148Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49548,
+    "output_tokens": 1834,
+    "cached_tokens": 2304,
+    "total_tokens": 51382,
+    "dauer_ms": 16606,
+    "usd": 0.0654133
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Physician Assistants endlich ausbauen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Ausbau des Physician-Assistant-Berufs als festen Baustein der ambulanten Versorgung, besonders im ländlichen Raum, mit gezielter Förderung und politischer Unterstützung.",
+      "seite": 65,
+      "zitat": "Physician Assistants in Sachsen-Anhalt klare und attraktive Berufsperspektiven erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona sieht in der gezielten Förderung von Physician Assistants eine reale Entlastung ihrer überlasteten Einzelpraxis und eine Möglichkeit, die Versorgung im ländlichen Raum aufrechtzuerhalten, ohne dass sie allein die Last trägt.",
+      "begruendung_selbst": "Endlich jemand, der versteht, dass ich nicht alles allein machen kann – diese Leute können mir im Alltag wirklich helfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie in der Pflege endlich runter!",
+      "thema": "gesundheit",
+      "programmpunkt": "Entbürokratisierung der Pflege durch Abschaffung von Doppelstrukturen, Reduzierung von Meldepflichten und Beschränkung von Prüfungen auf risikobasierte Anlassprüfungen.",
+      "seite": 69,
+      "zitat": "Doppelstrukturen und Mehrfachdokumentationen schaffen wir ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona erlebt täglich, wie Dokumentationspflichten ihre Zeit für Patienten fressen; eine echte Reduzierung würde ihre Arbeitsbelastung spürbar senken und mehr Zeit für die eigentliche Versorgung schaffen.",
+      "begruendung_selbst": "Weniger Papierkram heißt mehr Zeit am Patienten – genau das brauche ich, sonst halte ich das nicht mehr durch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rollende Praxen fürs flache Land!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung eines landesweiten Förderprogramms für rollende Arztpraxen und Facharzt-Busse in infrastrukturell herausfordernden Regionen, insbesondere für Kinder- und Jugendmedizin sowie Psychiatrie.",
+      "seite": 64,
+      "zitat": "rollende Arztpraxen und spezialisierte Facharzt-Busse",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Persona sieht darin eine praktische Antwort auf lange Wege ihrer älteren Patienten und eine Entlastung ihrer eigenen Hausbesuchstätigkeit in der Fläche.",
+      "begruendung_selbst": "Meine alten Patienten können oft nicht mehr kommen – wenn der Arzt zu ihnen fährt, ist das endlich mal eine Lösung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Digital only – aber die TI funktioniert nicht!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Einführung von „Digital only“ für Verwaltungsleistungen, bei denen digitale Verfahren ausschließlich digital angeboten werden, mit Automatisierung und Verzicht auf Papierwege.",
+      "seite": 49,
+      "zitat": "der Postweg oder die E-Mail entfällt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona hat bereits negative Erfahrungen mit der Telematikinfrastruktur und befürchtet, dass ein erzwungener Digital-only-Ansatz ihre Praxis weiter belastet, wenn die Technik nicht zuverlässig läuft.",
+      "begruendung_selbst": "Wenn die Kartenleser wieder ausfallen, stehe ich da und kann keine Rezepte ausstellen – das ist für mich kein Fortschritt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Prüfungen und Nachweise?",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung eines Monitoringsystems zur Überprüfung der Wirkung des Schülerkostensatzes mit jährlicher Kontrolle von Ausstattung, Personal und sozialem Mix.",
+      "seite": 31,
+      "zitat": "Das Land führt ein Monitoring-System ein, das jährlich überprüft",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Persona lehnt zusätzliche Kontroll- und Dokumentationsmechanismen ab, weil sie bereits unter bestehender Bürokratie leidet und weitere Auflagen die Versorgung weiter erschweren würden.",
+      "begruendung_selbst": "Immer mehr Nachweise und Prüfungen – wann soll ich denn noch meine Patienten behandeln?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Dr. Petra findet im Programm mehrere konkrete Ansätze, die ihre tägliche Belastung durch Bürokratie und den Landarztmangel adressieren, vor allem den Ausbau von Physician Assistants und die Entbürokratisierung der Pflege. Gleichzeitig bleibt sie skeptisch gegenüber forcierten Digital-only-Lösungen, die in der Praxis oft scheitern. Insgesamt sieht sie pragmatische, versorgungsorientierte Elemente, die ihre Lage teilweise erleichtern könnten.",
+    "score": 1
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "persona": "mieterin_berlin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:41:59.076Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49441,
+    "output_tokens": 1617,
+    "cached_tokens": 35055,
+    "total_tokens": 51058,
+    "dauer_ms": 13001,
+    "usd": 0.0305835
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Eigentum für alle – außer für mich!",
+      "thema": "wohnen",
+      "programmpunkt": "Förderung von Wohneigentum durch Grunderwerbsteuer-Freibetrag und zinsvergünstigte Darlehen für Erstkäufer.",
+      "seite": 12,
+      "zitat": "Grunderwerbsteuer-Freibetrag für den erstmaligen Erwerb selbstgenutzten Wohneigentums",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla sieht in der einseitigen Förderung von Eigentumserwerb eine Politik, die Vermieter und Investoren stärkt, während Mieter wie sie weiter unter steigenden Preisen leiden.",
+      "begruendung_selbst": "Die wollen also noch mehr Leute ins Eigentum locken, damit die Mieten weiter steigen können. Typisch.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Modernisierung auf meine Kosten!",
+      "thema": "wohnen",
+      "programmpunkt": "Bundesratsinitiative für dauerhafte steuerliche Modernisierungs-Abschreibung bei energetischen Sanierungen im Bestand.",
+      "seite": 13,
+      "zitat": "energetische Sanierungen und barrierereduzierende Maßnahmen im Bestand steuerlich beschleunigt abgeschrieben werden können",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla fürchtet, dass steuerliche Anreize für Vermieter Modernisierungen erleichtern, deren Kosten über Umlagen auf sie abgewälzt werden.",
+      "begruendung_selbst": "Steuervorteile für die Vermieter, und ich zahl dann die Modernisierungsumlage. Genau das, wovor ich Angst habe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Markt regelt – Mieter verlieren!",
+      "thema": "wohnen",
+      "programmpunkt": "Staat setzt nur Rahmenbedingungen, Entscheidungen treffen Eigentümer und Unternehmen selbst.",
+      "seite": 12,
+      "zitat": "die Entscheidungen über Investitionen treffen Unternehmen, Eigentümer und Familien selbst",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla lehnt diese marktliberale Grundhaltung ab, weil sie in Berlin genau die Verdrängung durch steigende Mieten und Umwandlungen produziert.",
+      "begruendung_selbst": "Wohnen ist für die kein Grundrecht, sondern ein Geschäft. Und ich soll das einfach so hinnehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Altschuldenfonds für Vermieter, nicht für uns!",
+      "thema": "wohnen",
+      "programmpunkt": "Landeseigener Altschuldenfonds zur Entlastung kommunaler Wohnungsunternehmen und Genossenschaften.",
+      "seite": 12,
+      "zitat": "landeseigenen, befristeten Altschuldenfonds auflegen, der kommunale Wohnungsunternehmen und Genossenschaften gleichbehandelt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla sieht darin eine einseitige Entlastung von Vermietern ohne direkte Mieterschutzmaßnahmen oder Begrenzung von Mieterhöhungen.",
+      "begruendung_selbst": "Wieder nur Geld für die Vermieterseite. Von Mieterschutz oder Kappung steht da nichts.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla lehnt das Programm in zentralen wohnungspolitischen Punkten klar ab. Die FDP setzt auf Eigentumsförderung, steuerliche Modernisierungsanreize und marktgetriebene Entscheidungen, ohne Mieterschutz oder Regulierung vorzusehen. Das verstärkt genau die Verdrängungsängste, unter denen sie leidet.",
+    "score": -2
+  }
+}

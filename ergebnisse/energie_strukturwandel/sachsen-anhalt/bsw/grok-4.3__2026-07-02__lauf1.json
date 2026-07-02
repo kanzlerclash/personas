@@ -1,0 +1,89 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:48:58.893Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 78923,
+    "output_tokens": 1579,
+    "cached_tokens": 128,
+    "total_tokens": 80502,
+    "dauer_ms": 14644,
+    "usd": 0.10356435
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Enddatum erst, wenn Ersatz steht!",
+      "thema": "energie",
+      "programmpunkt": "Technologieoffener Energiemix mit Braunkohle als Brücke und Ablehnung einseitiger Ausstiege ohne gesicherte Leistung",
+      "seite": 24,
+      "zitat": "Deutschland braucht einen breiten, technologieoffenen Energiemix mit gesicherter Leistung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht hier seine Kernforderung nach Versorgungssicherheit und planbarem Wandel ohne voreilige Ausstiege bestätigt.",
+      "begruendung_selbst": "Endlich einer, der sagt: erst die Brücke bauen, dann die alte abreißen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industrie bleibt hier – mit günstiger Energie!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Erhalt des Industriestandorts und Chemiestandorts durch bezahlbare Energie und aktive Industriepolitik",
+      "seite": 19,
+      "zitat": "Wir wollen, dass Industrie in Sachsen-Anhalt bleibt: stark, innovativ und zukunftsfähig.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die direkte Verknüpfung von Energiepreisen mit Arbeitsplätzen und regionaler Wertschöpfung trifft genau seine berufliche und regionale Lage.",
+      "begruendung_selbst": "Solange die Energie nicht bezahlbar ist, wandert alles ab – das verstehen die endlich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lithium und Wertschöpfung bleiben in der Region!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Lithium als strategische Ressource in öffentlicher Hand mit regionaler Weiterverarbeitung und Wertschöpfung",
+      "seite": 28,
+      "zitat": "Lithium soll als strategische Ressource in öffentlicher Hand bleiben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht hier eine konkrete Chance für neue Industrie und Arbeitsplätze in seiner strukturschwachen Region.",
+      "begruendung_selbst": "Endlich mal was, das nicht nur abgebaut und weggebracht wird.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "CCS-Verbot nimmt uns die Brücke!",
+      "thema": "energie",
+      "programmpunkt": "Ablehnung der unterirdischen CO₂-Verpressung (CCS) in Sachsen-Anhalt",
+      "seite": 85,
+      "zitat": "Die unterirdische CO₂-Verpressung (CCS) lehnen wir für Sachsen-Anhalt ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny sieht CCS als mögliche Übergangstechnologie für seine Region; das pauschale Verbot entzieht ihr ein Werkzeug.",
+      "begruendung_selbst": "Die nehmen uns genau das Werkzeug weg, das den Wandel abfedern könnte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO₂-Steuer trifft uns zuerst!",
+      "thema": "steuern",
+      "programmpunkt": "Forderung nach Aussetzung oder Abschaffung der nationalen CO₂-Bepreisung wegen Belastung mittlerer und niedriger Einkommen",
+      "seite": 27,
+      "zitat": "In ihrer jetzigen Form trifft die Abgabe vor allem Menschen mit mittleren und niedrigen Einkommen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Kritik an der CO₂-Abgabe als einseitige Belastung für Beschäftigte in energieintensiven Branchen passt zu seiner Sorge um Arbeitsplätze.",
+      "begruendung_selbst": "Die Abgabe trifft genau die, die in der Industrie stehen – nicht die, die sie beschließen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny findet im Programm eine klare Bestätigung seiner pragmatischen Haltung zu einem technologieoffenen, planbaren Strukturwandel mit Fokus auf Versorgungssicherheit und regionaler Wertschöpfung. Die Ablehnung von CCS und die einseitige Kritik an der CO₂-Bepreisung treffen jedoch genau seine Sorge, dass der Region wichtige Brückentechnologien und faire Lastenverteilung genommen werden. Insgesamt überwiegt die Resonanz mit seinen beruflichen und regionalen Interessen.",
+    "score": 1
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:38:36.565Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89845,
+    "output_tokens": 1949,
+    "cached_tokens": 88768,
+    "total_tokens": 91794,
+    "dauer_ms": 15729,
+    "usd": 0.02525735
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Polizisten!",
+      "thema": "sicherheit",
+      "programmpunkt": "Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken",
+      "seite": 9,
+      "zitat": "Wir werden deshalb die Landespolizei auf mindestens 7.500 Vollzugsbeamte aufstocken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt täglich den Personalmangel im Streifendienst. Die konkrete Aufstockungszusage trifft seine Kernklage direkt und signalisiert, dass seine Arbeitsbelastung ernst genommen wird.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass wir nicht mehr schaffen können, ohne dass noch mehr Kollegen kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Taser statt nur Pfefferspray!",
+      "thema": "sicherheit",
+      "programmpunkt": "Einführung von Distanz-Elektro-Impulsgeräten (Taser) für die Polizei",
+      "seite": 9,
+      "zitat": "Wir werden deshalb solche Geräte anschaffen und die Polizei daran ausbilden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco fehlt es an angemessenen Einsatzmitteln zwischen Pfefferspray und Schusswaffe. Die Forderung nach Tasern entspricht seiner praktischen Erfahrung und gibt ihm mehr Handlungsoptionen.",
+      "begruendung_selbst": "Endlich ein Mittel, das nicht gleich tödlich ist, aber auch nicht wirkungslos bleibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Generalverdacht mehr!",
+      "thema": "sicherheit",
+      "programmpunkt": "Nach Schusswaffengebrauch nur noch bei konkretem Verdacht interne Ermittlungen",
+      "seite": 9,
+      "zitat": "Wir werden deshalb durchsetzen, dass nach Schusswaffengebrauch nur noch bei konkreten Verdachtsmomenten auf Fehlverhalten interne Ermittlungen gegen Polizeivollzugsbeamte eingeleitet werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco fühlt sich durch pauschale Nachermittlungen nach jedem Schusswaffeneinsatz unter Generalverdacht gestellt. Die Absage daran gibt ihm das Gefühl, dass seine Institution wieder Rückendeckung erhält.",
+      "begruendung_selbst": "Wir machen unseren Job und sollen nicht jedes Mal selbst zum Verdächtigen werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschiebungen endlich durchsetzen!",
+      "thema": "integration",
+      "programmpunkt": "Abschiebeoffensive mit Task Force und mehr Haftplätzen",
+      "seite": 5,
+      "zitat": "Eine AfD-Landesregierung wird diese Abschiebeoffensive praktisch umsetzen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco sieht täglich, wie ausreisepflichtige Straftäter und Gefährder weiter im Land bleiben. Eine konsequente Abschiebeoffensive würde seine Belastung durch wiederkehrende Einsätze bei derselben Klientel verringern.",
+      "begruendung_selbst": "Wenn die, die hier nichts zu suchen haben, endlich weg sind, haben wir weniger Stress auf der Straße.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Verfassungsschutz soll nicht mehr kontrollieren?",
+      "thema": "demokratie",
+      "programmpunkt": "Reform des Verfassungsschutzes weg von Beobachtung der Opposition",
+      "seite": 11,
+      "zitat": "Der Verfassungsschutz muss zu einem Inlandsgeheimdienst reformiert werden, der sich dem klassisch geheimdienstlichen Aufgabenspektrum zu widmen hat.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco sieht den Verfassungsschutz als notwendiges Instrument zur Verteidigung der freiheitlichen demokratischen Grundordnung. Eine einseitige Beschränkung auf klassische Spionageabwehr schwächt aus seiner Sicht die wehrhafte Demokratie.",
+      "begruendung_selbst": "Wer die Verfassung schützen soll, darf nicht nur nach außen gucken, wenn innen jemand sie angreift.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Warnschussarrest statt echter Strafe?",
+      "thema": "sicherheit",
+      "programmpunkt": "Warnschussarrest als Zuchtmittel bei Jugendkriminalität",
+      "seite": 9,
+      "zitat": "Um Jugendliche scharf zu verwarnen, ohne ihre Zukunft durch einen Gefängnisaufenthalt zu verbauen, werden wir dafür sorgen, dass bei jeder Form der Jugendkriminalität konsequent der sogenannte Warnschussarrest verhängt wird.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Marco erlebt, dass milde Reaktionen auf Jugendgewalt die Respektlosigkeit gegenüber der Polizei weiter steigert. Ein bloßer Warnschussarrest ohne spürbare Konsequenzen erscheint ihm als unzureichend.",
+      "begruendung_selbst": "Vier Wochen Arrest und dann wieder frei – das nehmen die doch gar nicht ernst.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Marco findet im Programm klare Zusagen zu mehr Personal, besserer Ausstattung und Rückendeckung für die Polizei, die seine tägliche Überlastung direkt adressieren. Gleichzeitig irritieren ihn Vorschläge, die den Verfassungsschutz oder die Strafverfolgung abschwächen könnten. Insgesamt überwiegt die Zustimmung zu den sicherheitspolitischen Kernforderungen.",
+    "score": 1
+  }
+}

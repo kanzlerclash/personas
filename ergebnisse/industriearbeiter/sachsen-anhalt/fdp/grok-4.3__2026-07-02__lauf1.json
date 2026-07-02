@@ -1,0 +1,101 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:40:49.709Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49433,
+    "output_tokens": 2060,
+    "cached_tokens": 2304,
+    "total_tokens": 51493,
+    "dauer_ms": 16946,
+    "usd": 0.06594205
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Industriestrom muss bezahlbar bleiben!",
+      "thema": "energie",
+      "programmpunkt": "Forderung nach Senkung der Netzentgelte und fairer Verteilung der Kosten für Sachsen-Anhalt als Windstrom-Erzeuger, um die Wettbewerbsfähigkeit der Industrie zu sichern.",
+      "seite": 14,
+      "zitat": "Netzentgelte müssen daher zwischen den Regionen fairer verteilt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht in den hohen Energiepreisen die größte Bedrohung für seinen Arbeitsplatz in der chemischen Industrie; die FDP-Position adressiert genau diese Kostenbelastung direkt.",
+      "begruendung_selbst": "Wenn die Netzkosten runtergehen, bleibt der Standort Leuna konkurrenzfähig und meine Schicht bleibt sicher.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kernkraft und Fracking für günstige Energie!",
+      "thema": "energie",
+      "programmpunkt": "Einsatz für Wiedereinstieg in Kernenergie, Small Modular Reactors und heimisches Fracking-Gas, um Versorgungssicherheit und wettbewerbsfähige Preise für die Industrie zu gewährleisten.",
+      "seite": 14,
+      "zitat": "Wiedereinstieg in die Nutzung der Kernenergie",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe fürchtet Deindustrialisierung durch zu schnellen fossilen Ausstieg; die technologieoffene und preisorientierte Haltung der FDP passt zu seiner Sorge um bezahlbare Energie für Chemie und Schwerindustrie.",
+      "begruendung_selbst": "Wir brauchen Strom, der nicht das Doppelte kostet – sonst wandert die Produktion ab.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sonderzone Leuna schützt Industriearbeitsplätze!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Vorschlag einer Sonderwirtschaftszone am Chemiestandort Leuna mit gebündelten Genehmigungen, reduzierten Berichtspflichten und Steuererleichterungen für Neuansiedlungen.",
+      "seite": 7,
+      "zitat": "Chemiestandort Leuna vor",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als langjähriger Beschäftigter im Chemiedreieck erlebt Uwe die Ansiedlungspolitik als direkte Jobsicherung; die explizite Nennung von Leuna bestätigt seine Standortinteressen.",
+      "begruendung_selbst": "Leuna muss stark bleiben – da bin ich dabei.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Tariftreue-Gesetz abschaffen – gegen uns!",
+      "thema": "arbeit",
+      "programmpunkt": "Schnellstmögliche Abschaffung des Tariftreue- und Vergabegesetzes, das bei öffentlichen Aufträgen Tarifbindung voraussetzt.",
+      "seite": 7,
+      "zitat": "Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist als Gewerkschafter und Betriebsrat auf starke Tarifbindung angewiesen; die Abschaffung schwächt genau die Instrumente, mit denen Löhne und Mitbestimmung gesichert werden.",
+      "begruendung_selbst": "Ohne Tariftreue verlieren wir Lohnniveau und Mitbestimmung – das geht gar nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Privatisierung schwächt den Industriestandort!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Umfassende Privatisierungsoffensive aller Landesbeteiligungen, weil staatliche Beteiligungen den freien Markt verzerren.",
+      "seite": 9,
+      "zitat": "umfassende Privatisierungsoffensive zu starten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe sieht staatliche Beteiligungen und Infrastruktur als notwendigen Rahmen für industrielle Wertschöpfung; die radikale Privatisierungsforderung widerspricht seiner Erfahrung, dass der Staat Standorte stabilisieren muss.",
+      "begruendung_selbst": "Manche Dinge darf der Staat nicht einfach verkaufen – sonst geht die Infrastruktur kaputt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld-Sanktionen treffen auch uns!",
+      "thema": "gesundheit",
+      "programmpunkt": "Reform des Bürgergeldes mit konsequenter Ausschöpfung von Sanktionsspielräumen bei Ablehnung zumutbarer Arbeit und Einführung gemeinnütziger Arbeitspflichten.",
+      "seite": 40,
+      "zitat": "Sanktionsspielraum konsequent ausgeschöpft werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe verteidigt als Gewerkschafter den Sozialstaat als Absicherung für alle Beschäftigten; die harte Sanktionslinie passt nicht zu seiner Solidaritätshaltung und weckt Misstrauen gegenüber weiteren Kürzungen.",
+      "begruendung_selbst": "Wer den Sozialstaat schwächt, schwächt auch uns – morgen kann es jeden treffen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet die energie- und industriepolitischen Ansätze der FDP zur Kostensenkung und Standortsicherung im Chemiedreieck zustimmungsfähig. Gleichzeitig lehnt er die marktradikalen Eingriffe in Tarifbindung, Privatisierung und Sozialleistungen ab, weil sie seine Kerninteressen an guten Löhnen, Mitbestimmung und sozialer Absicherung untergraben. Insgesamt überwiegt die Skepsis.",
+    "score": -1
+  }
+}

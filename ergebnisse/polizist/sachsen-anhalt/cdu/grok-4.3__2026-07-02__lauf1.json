@@ -1,0 +1,88 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:29:24.922Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56614,
+    "output_tokens": 1559,
+    "cached_tokens": 49280,
+    "total_tokens": 58173,
+    "dauer_ms": 12638,
+    "usd": 0.0240985
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Polizisten!",
+      "thema": "sicherheit",
+      "programmpunkt": "Landespolizei auf über 8.100 Bedienstete aufstocken und sichtbare Präsenz erhöhen",
+      "seite": 6,
+      "zitat": "personellen Aufwuchs innerhalb der Landespolizei auf weit mehr als 8.100 Bedienstete",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt täglich Personalmangel und Überlastung im Streifendienst; die konkrete Aufstockungszusage trifft seine Kernklage direkt.",
+      "begruendung_selbst": "Endlich sagen die, dass wir mehr Kollegen brauchen – das ist mal ein klares Signal.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Taser für alle!",
+      "thema": "sicherheit",
+      "programmpunkt": "Flächendeckende Ausstattung der Polizei mit Distanz-Elektroimpulsgeräten (Taser)",
+      "seite": 7,
+      "zitat": "Landespolizei flächendeckend mit Distanz-Elektroimpulsgeräten (Taser) ausstatten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco fühlt sich bei riskanten Einsätzen unzureichend geschützt; die Taser-Ausstattung gibt ihm das Gefühl, dass seine Sicherheit ernst genommen wird.",
+      "begruendung_selbst": "Endlich ein Werkzeug, mit dem wir uns besser schützen können, ohne gleich die Schusswaffe zu ziehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bodycams auch in Wohnungen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Einsatz von Bodycams auch in Wohnungen bei häuslicher Gewalt ermöglichen",
+      "seite": 7,
+      "zitat": "Einsatz der Bodycam soll auch in Wohnungen möglich sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco sieht in der deeskalierenden Wirkung und Beweissicherung einen direkten Schutz für sich und seine Kollegen bei häuslichen Einsätzen.",
+      "begruendung_selbst": "Das hilft uns wirklich, wenn es eng wird – und zeigt, dass man uns vertraut.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Migrationswende durchziehen!",
+      "thema": "integration",
+      "programmpunkt": "Irreguläre Migration auf null reduzieren, konsequente Rückführungen und Abschiebungen forcieren",
+      "seite": 8,
+      "zitat": "Ziel, die irreguläre Migration auf null zu reduzieren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco sieht die Auswirkungen unkontrollierter Migration auf die Sicherheitslage und begrüßt die klare Begrenzung als Entlastung für die Polizei.",
+      "begruendung_selbst": "Weniger illegale Einreisen bedeuten weniger Einsätze, die wir kaum noch stemmen können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz stärken!",
+      "thema": "demokratie",
+      "programmpunkt": "Verfassungsschutz gegen alle Formen von Extremismus weiter ausbauen und 360°-Blick sichern",
+      "seite": 7,
+      "zitat": "Sicherheitsbehörden sich ihren 360°-Blick bewahren",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco lehnt es ab, wenn Institutionen geschwächt werden, die den Rechtsstaat verteidigen; die Stärkung des Verfassungsschutzes passt zu seiner institutionentreuen Haltung.",
+      "begruendung_selbst": "Wer den Rechtsstaat angreift, macht unseren Job nur schwerer – da muss der Verfassungsschutz stark bleiben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Marco sieht in dem Programm eine klare Bestätigung seiner beruflichen Lage und seiner institutionellen Haltung. Die konkreten Zusagen zu Personal, Ausstattung und Migrationsbegrenzung treffen seine täglichen Belastungen und seinen Wunsch nach Rückendeckung direkt. Kritische Punkte fehlen weitgehend.",
+    "score": 2
+  }
+}

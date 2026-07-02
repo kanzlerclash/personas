@@ -1,0 +1,89 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:27:45.015Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56581,
+    "output_tokens": 1868,
+    "cached_tokens": 49280,
+    "total_tokens": 58449,
+    "dauer_ms": 15130,
+    "usd": 0.02533725
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Chemie-Standort sichern, Jobs halten!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Sachsen-Anhalt zum Chemie- und Pharma-Hub Europas ausbauen und bestehende Industrie sichern",
+      "seite": 12,
+      "zitat": "Chemie- und Pharma-Hub für Europäische Souveränität werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe sieht hier direkte Absicherung seines Arbeitsplatzes und der gesamten Branche im Chemiedreieck. Das Programm stellt die chemische Industrie als Rückgrat der Wirtschaft dar und will Abhängigkeiten von Asien abbauen.",
+      "begruendung_selbst": "Endlich einer, der unsere Chemie nicht einfach absägt, sondern ausbauen will – das sind meine Kollegen und mein Job.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriestrompreis jetzt!",
+      "thema": "energie",
+      "programmpunkt": "Initiative für regionale Strompreiszonen und Industriestrompreis zur Senkung der Energiekosten für die Industrie",
+      "seite": 44,
+      "zitat": "Initiative starten, um die bundeseinheitliche Strompreiszone zu teilen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiepreise sind für Uwe existenzielle Bedrohung des Standorts. Das Programm erkennt dies als Wettbewerbsnachteil an und fordert gezielte Entlastung für Industrie und Haushalte in der Region.",
+      "begruendung_selbst": "Strom muss für uns in der Chemie günstiger werden, sonst sind die Arbeitsplätze weg – genau das sagen die hier.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohleausstieg 2038 bleibt!",
+      "thema": "energie",
+      "programmpunkt": "Festhalten am Kohlekompromiss bis 2038 und Förderung der stofflichen Nutzung von Braunkohle",
+      "seite": 45,
+      "zitat": "Am Kohlekompromiss festhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe fürchtet einen zu schnellen Ausstieg ohne Ersatz. Das klare Bekenntnis zum vereinbarten Zeitplan und zur Versorgungssicherheit gibt ihm Planungssicherheit für seinen Betrieb.",
+      "begruendung_selbst": "Nicht noch schneller raus aus der Kohle, sonst fehlt uns der Strom – 2038 ist schon ambitioniert genug.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie abbauen für Betriebe!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Belastungsmoratorium, One-in-One-out-Prinzip und Abbau von Berichtspflichten für Unternehmen",
+      "seite": 13,
+      "zitat": "Belastungsmoratorium für die Wirtschaft durchsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe erlebt als Betriebsrat täglich, wie Regulierung den Betrieb belastet. Das Programm verspricht konkrete Entlastung und keine neuen Auflagen in den nächsten fünf Jahren.",
+      "begruendung_selbst": "Weniger Papierkram und neue Vorschriften – endlich mal was Praktisches für uns am Band.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Zu viel Fokus auf schnelle Transformation!",
+      "thema": "klima",
+      "programmpunkt": "Ausbau erneuerbarer Energien und Wasserstoffwirtschaft mit klaren Fristen bis 2030",
+      "seite": 46,
+      "zitat": "Industrielle Wasserstoffwirtschaft und Energiesicherheit",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist skeptisch gegenüber dem Tempo der Energiewende, weil er befürchtet, dass die Beschäftigten in der chemischen Industrie abgehängt werden, wenn der Umbau zu schnell und ohne ausreichenden sozialen Schutz erfolgt.",
+      "begruendung_selbst": "Klar brauchen wir Wasserstoff, aber nicht so, dass unsere Anlagen vorher dichtmachen müssen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe sieht im Programm vor allem eine industrie- und standortfreundliche Linie, die seinen Arbeitsplatz in der Chemie und die Energieversorgung absichert. Die klaren Bekenntnisse zu bestehender Industrie, günstiger Energie und Verlässlichkeit beim Kohleausstieg treffen seine Kerninteressen. Kritisch bleibt er beim Tempo der Transformation, das er als potenziell jobgefährdend wahrnimmt.",
+    "score": 1
+  }
+}

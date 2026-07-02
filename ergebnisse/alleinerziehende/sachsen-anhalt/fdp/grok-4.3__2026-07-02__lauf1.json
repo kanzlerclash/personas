@@ -1,0 +1,77 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:39:49.916Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49493,
+    "output_tokens": 1797,
+    "cached_tokens": 2304,
+    "total_tokens": 51290,
+    "dauer_ms": 15070,
+    "usd": 0.06567205
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich flexible Betreuung für Schichtarbeit!",
+      "thema": "familie",
+      "programmpunkt": "Modellprojekt für Gemeinschaftsbüros mit Kinderbetreuung und mobile Betreuungsreserven, um starre Kita-Zeiten zu überwinden.",
+      "seite": 26,
+      "zitat": "landesweites Modellprojekt zur Förderung von „Gemeinschaftsbüros mit Kinderbetreuung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine kämpft täglich darum, Betreuungszeiten mit ihrer Teilzeitarbeit in Einklang zu bringen. Das Projekt adressiert genau diese Vereinbarkeitslücke und bietet praktische Entlastung für Alleinerziehende.",
+      "begruendung_selbst": "Endlich jemand, der versteht, dass ich nicht immer von 8 bis 16 Uhr arbeiten kann. Das würde mir wirklich helfen, mehr zu schaffen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gute Schulen und faire Finanzierung!",
+      "thema": "bildung",
+      "programmpunkt": "Einführung eines landeseinheitlichen Schülerkostensatzes, der regionale Besonderheiten und Sozialindex berücksichtigt.",
+      "seite": 30,
+      "zitat": "Einführung eines landeseinheitlichen Schülerkostensatzes je Schulform",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine hat ein achtjähriges Kind in der Schule und weiß, wie unterschiedlich die Ausstattung je nach Kommune sein kann. Ein einheitlicher, bedarfsgerechter Kostensatz sichert ihren Kindern bessere Chancen unabhängig vom Wohnort.",
+      "begruendung_selbst": "Meine Kinder sollen nicht schlechter dastehen, nur weil wir in einer kleineren Stadt wohnen. Das klingt fair.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Schon wieder Sanktionen drohen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Reform des Bürgergeldes mit konsequenter Ausschöpfung des Sanktionsspielraums bei Ablehnung zumutbarer Arbeit und Einführung gemeinnütziger Arbeitspflichten.",
+      "seite": 40,
+      "zitat": "Sanktionsspielraum konsequent ausgeschöpft werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine bezieht aufstockende Leistungen, arbeitet aber bereits und kümmert sich allein um zwei Kinder. Die verschärfte Sanktionsrhetorik trifft sie direkt und erzeugt das Gefühl, trotz Anstrengung unter Generalverdacht zu stehen.",
+      "begruendung_selbst": "Ich arbeite schon, ich kümmere mich – und trotzdem soll ich jetzt noch mehr beweisen? Das macht mir Angst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Druck statt echter Unterstützung!",
+      "thema": "gesundheit",
+      "programmpunkt": "Verpflichtung von Langzeitarbeitslosen zur Bürgerarbeit mit Leistungskürzungen bei Verweigerung und verbindliche Sanktionsmöglichkeiten.",
+      "seite": 40,
+      "zitat": "Wer die Teilnahme verweigert, muss mit Leistungskürzungen rechnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Maßnahme verstärkt den Fokus auf Kontrolle und Pflichten statt auf flexible Hilfen, die Nadine als alleinerziehende Teilzeitkraft wirklich entlasten würden. Sie fühlt sich dadurch zusätzlich unter Druck gesetzt.",
+      "begruendung_selbst": "Ich brauche keine Strafen, ich brauche verlässliche Betreuung und einen Job, bei dem am Monatsende mehr übrig bleibt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine sieht im Programm einzelne positive Ansätze bei flexibler Kinderbetreuung und schulischer Chancengleichheit, die ihre Alltagsrealität als alleinerziehende Teilzeitkraft berühren. Gleichzeitig stößt sie auf deutliche Ablehnung bei den geplanten Verschärfungen im Bürgergeld-Bereich, die ihr Gefühl von Misstrauen und zusätzlichem Druck verstärken. Insgesamt überwiegt die Skepsis, weil die Kernängste um Sanktionen und finanzielle Stabilität nicht ausreichend adressiert werden.",
+    "score": -1
+  }
+}

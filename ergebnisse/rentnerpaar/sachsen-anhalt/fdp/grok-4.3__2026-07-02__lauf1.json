@@ -1,0 +1,101 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:43:01.154Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49447,
+    "output_tokens": 2092,
+    "cached_tokens": 35072,
+    "total_tokens": 51539,
+    "dauer_ms": 17169,
+    "usd": 0.03172565
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Heizkosten runter, ohne Zwang!",
+      "thema": "energie",
+      "programmpunkt": "Netzentgelte fairer verteilen und senken, Umlagen zusammenführen, Technologieoffenheit statt teurer Vorschriften.",
+      "seite": 14,
+      "zitat": "Netzentgelte müssen daher zwischen den Regionen fairer verteilt und für die Menschen in Sachsen-Anhalt spürbar gesenkt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten steigende Heizkosten bei begrenztem Renteneinkommen; die FDP-Forderung nach spürbarer Senkung der Netzentgelte und weniger Bürokratie trifft genau ihre Sorge vor unbezahlbaren Belastungen.",
+      "begruendung_selbst": "Endlich mal jemand, der die Rechnung nicht einfach an uns Rentner weitergibt – die Netzkosten müssen runter, sonst wird’s im Winter eng.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arzt kommt zum Dorf, nicht umgekehrt!",
+      "thema": "gesundheit",
+      "programmpunkt": "Mobile Versorgungsoffensive mit rollenden Arztpraxen und Facharzt-Bussen in infrastrukturschwachen Regionen.",
+      "seite": 64,
+      "zitat": "Durch ein landesweites Förderprogramm etablieren wir „rollende Arztpraxen“ und spezialisierte Facharzt-Busse.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im Dorf ist der Hausarzt schon knapp; die mobile Versorgung sichert ihnen wohnortnahe Hilfe, ohne lange Wege oder Umzüge.",
+      "begruendung_selbst": "Wenn der Bus mit dem Arzt kommt, müssen wir nicht mehr stundenlang fahren – das ist für uns im Alter Gold wert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei, damit wir uns sicher fühlen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Stellenaufwuchs auf 7.000 Polizeivollzugsstellen und Ausbau von Sicherheitspartnerschaften mit Ordnungsämtern.",
+      "seite": 52,
+      "zitat": "Wir sorgen für sichtbar mehr Polizei in Stadt und Land durch eine klare Aufgabentrennung nach Qualifikation.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter sorgen sich um Kriminalität und das Gefühl der Unsicherheit im ländlichen Raum; sichtbare Polizeipräsenz stärkt ihr Sicherheitsgefühl.",
+      "begruendung_selbst": "Mehr Polizei auf dem Land bedeutet, dass wir abends noch mal vor die Tür können, ohne Angst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine neuen Pflichten für unser Haus!",
+      "thema": "wohnen",
+      "programmpunkt": "Bürokratieabbau, Abschaffung überflüssiger Regulierungen und Fokus auf Eigenverantwortung statt staatlicher Vorgaben.",
+      "seite": 6,
+      "zitat": "Berichtspflichten und Verwaltungsverfahren bremsen Innovation oft genau dort, wo sie entstehen soll.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Eigenheimbesitzer ohne große Rücklagen fürchten sie Sanierungspflichten; die liberale Haltung gegen neue Auflagen schützt sie vor unbezahlbaren Zwängen.",
+      "begruendung_selbst": "Wir haben unser Haus abbezahlt – jetzt soll uns keiner zwingen, noch mal Tausende für Dämmung auszugeben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kernkraft – das ist doch riskant!",
+      "thema": "energie",
+      "programmpunkt": "Wiedereinstieg in die Nutzung der Kernenergie und Neubau moderner Anlagen einschließlich SMR.",
+      "seite": 14,
+      "zitat": "Dazu gehört für uns auch der Wiedereinstieg in die Nutzung der Kernenergie.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Helga und Dieter sind veränderungsskeptisch und wollen keine neuen Risiken oder Experimente; Atomkraft wirkt auf sie bedrohlich und fernab ihrer Alltagssorgen.",
+      "begruendung_selbst": "Kernkraft? Da haben wir schon genug Angst gehabt – lieber stabile, sichere Heizkosten ohne neue Risiken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rente nicht mit Bürgergeld mischen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Reform des Bürgergelds mit Sanktionen und gemeinnütziger Arbeitspflicht für Langzeitarbeitslose.",
+      "seite": 40,
+      "zitat": "Wer staatliche Hilfe in Anspruch nimmt, muss entsprechend auch seinen Mitwirkungspflichten nachkommen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Sie sehen sich als Leistungsträger, die nach einem langen Arbeitsleben Sicherheit verdienen; die harte Linie gegenüber anderen Gruppen passt nicht zu ihrem Wunsch nach Verlässlichkeit für alle Älteren.",
+      "begruendung_selbst": "Wir haben gearbeitet und wollen unsere Rente in Ruhe – nicht dass am Ende noch alles mit Sanktionen durcheinandergerät.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter sehen in der FDP vor allem Entlastung bei Heizkosten, ländlicher Versorgung und Sicherheit. Die Ablehnung neuer Bürokratie und Pflichten für Eigenheime spricht sie direkt an. Skepsis bleibt gegenüber Atomkraft und der harten Sozialpolitik, die ihnen zu wenig auf Verlässlichkeit im Alter setzt. Insgesamt fühlen sie sich in ihren Kernängsten eher ernst genommen als belastet.",
+    "score": 1
+  }
+}

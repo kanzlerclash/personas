@@ -86,13 +86,12 @@
       "thema": "landwirtschaft",
       "programmpunkt": "Das Programm fordert ein konsequentes Verbot problematischer Stoffe wie PFAS und Glyphosat.",
       "seite": 16,
-      "zitat": "konsequentes Verbot problematischer Stoffe wie PFAS, Glyphosat",
+      "zitat": "Verbot problematischer Stoffe wie PFAS, Glyphosat",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Glyphosat ist für Frank ein zentrales Pflanzenschutzmittel im Ackerbau, das Arbeitsaufwand und Kosten erheblich senkt. Ein Verbot ohne praxistaugliche Alternativen würde seine Betriebskosten erhöhen und Ertragsrisiken schaffen.",
       "begruendung_selbst": "Glyphosat ist nicht mein Lieblingsthema, aber ohne haben wir ein ernsthaftes Problem mit Beikräutern. Die Alternativen kosten dreimal so viel und funktionieren halb so gut.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Tierzahlen an Fläche binden",

@@ -1,0 +1,88 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:37:21.573Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89945,
+    "output_tokens": 1544,
+    "cached_tokens": 84224,
+    "total_tokens": 91489,
+    "dauer_ms": 19418,
+    "usd": 0.02891855
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger EU-Gängelung!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Agrarpolitik soll renationalisiert werden, um nationale Auflagen abzubauen und Planungssicherheit zu schaffen.",
+      "seite": 14,
+      "zitat": "Renationalisierung der Agrarpolitik ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sieht in der EU-Agrarpolitik die Hauptquelle seiner bürokratischen Belastung und begrüßt den Vorschlag, Verantwortung zurück nach Deutschland zu holen.",
+      "begruendung_selbst": "Endlich soll Berlin und Brüssel nicht mehr alles vorschreiben – ich will wieder selbst entscheiden, wie ich meinen Hof führe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wolf muss reguliert werden!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Abschaffung des Wolfskompetenzzentrums und gezielte Regulation der Wolfspopulation zum Schutz der Weidetierhaltung.",
+      "seite": 14,
+      "zitat": "Wolfskompetenzzentrum abschaffen und die Population gezielt regulieren.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die steigenden Wolfsrisse bedrohen Franks Mutterkuhherde direkt; er empfindet den bisherigen Schutz als existenzgefährdend.",
+      "begruendung_selbst": "Die Wölfe fressen mir die Kühe weg, während die Behörden nur zuschauen – endlich soll da was passieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Windräder auf Acker und Wald!",
+      "thema": "energie",
+      "programmpunkt": "Windkraftmoratorium und Verbot von Windrädern in Wäldern und auf Ackerland, um Kulturlandschaft und Boden zu schützen.",
+      "seite": 13,
+      "zitat": "Windkraftmoratorium beschließen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank befürchtet Flächenverlust und Beeinträchtigung seiner Bewirtschaftung durch Wind- und Solaranlagen.",
+      "begruendung_selbst": "Meine besten Böden sollen nicht unter Solarplatten verschwinden oder der Wald für Windräder zerstört werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO₂-Steuer und Klimazwang weg!",
+      "thema": "klima",
+      "programmpunkt": "Abschaffung der CO₂-Steuer und Kündigung des Pariser Abkommens, um Landwirte von zusätzlichen Kosten zu entlasten.",
+      "seite": 13,
+      "zitat": "CO₂-Steuer abschaffen!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Zusätzliche Bepreisung von Energie und Dünger würde Franks ohnehin schwankende Margen weiter belasten.",
+      "begruendung_selbst": "Ich zahl schon genug für Diesel und Strom – die sollen mir nicht noch extra fürs Klima das Geld aus der Tasche ziehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie abbauen, zwei für eins!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Für jede neue Verordnung sollen mindestens zwei alte Regelungen gestrichen werden, um Landwirte zu entlasten.",
+      "seite": 17,
+      "zitat": "Für jede neue Verordnung oder jedes neue Gesetz müssen mindestens zwei alte Regelungen ersatzlos gestrichen werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank verbringt einen erheblichen Teil seiner Arbeitszeit mit Dokumentationspflichten und sieht darin die größte praktische Belastung.",
+      "begruendung_selbst": "Jedes Jahr neue Papiere und Nachweise – wann soll ich eigentlich noch Landwirtschaft machen?",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Frank fühlt sich vom AfD-Programm in seinen Kernanliegen – Bürokratieabbau, Schutz vor EU-Vorgaben, Wolf und Energiekosten – klar verstanden und unterstützt. Die direkten Forderungen zur Renationalisierung der Agrarpolitik, zum Windkraftmoratorium und zur Abschaffung der CO₂-Steuer treffen seine täglichen Sorgen. Er sieht hier eine Politik, die seine Existenz als selbstständiger Landwirt ernst nimmt.",
+    "score": 2
+  }
+}

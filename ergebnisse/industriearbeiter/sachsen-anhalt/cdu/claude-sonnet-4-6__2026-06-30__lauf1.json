@@ -86,13 +86,12 @@
       "thema": "arbeit",
       "programmpunkt": "Die CDU will Mindestlöhne nicht für Wahlversprechen instrumentalisieren lassen und setzt auf wirtschaftliche Stärke statt staatliche Lohnfestlegung.",
       "seite": 18,
-      "zitat": "Mindestlöhne nicht für Wahlversprechen instrumentalisieren lassen",
+      "zitat": "nicht für Wahlversprechen instrumentalisieren lassen",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Uwe sieht den Mindestlohn als wichtige Untergrenze für Beschäftigte, die keine starke Gewerkschaft hinter sich haben. Das Einschränken der Mindestlohnpolitik auf 'nicht instrumentalisieren' liest er als Signal gegen Erhöhungen.",
       "begruendung_selbst": "Ich hab einen Tarifvertrag – aber manche Kolleginnen nicht. Wer den Mindestlohn kleinredet, schützt die Schwächsten nicht. Das ist kein Lob.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

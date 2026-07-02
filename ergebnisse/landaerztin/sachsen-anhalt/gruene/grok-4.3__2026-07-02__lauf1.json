@@ -1,0 +1,89 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:32:29.338Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81965,
+    "output_tokens": 1842,
+    "cached_tokens": 128,
+    "total_tokens": 83807,
+    "dauer_ms": 19533,
+    "usd": 0.10854435
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Anreize für Landärztinnen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Gezielte Anreize für Fachärzt*innen in der Fläche schaffen, um Versorgungslücken zu schließen.",
+      "seite": 81,
+      "zitat": "fehlende Anreize für Fachärzt*innen in der Fläche gezielt zu beheben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sieht hier direkte Unterstützung für ihre eigene Situation als Landärztin ohne Nachfolge. Das Programm erkennt den strukturellen Mangel an und will gezielt gegensteuern.",
+      "begruendung_selbst": "Endlich wird der Landarztmangel nicht nur beklagt, sondern mit Anreizen angegangen – das könnte mir und meinen Patienten helfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Telemedizin statt nur Papierkram!",
+      "thema": "gesundheit",
+      "programmpunkt": "Gründung eines Landeszentrums für angewandte Telemedizin und -pflege zur besseren Vernetzung.",
+      "seite": 84,
+      "zitat": "Landeszentrum für angewandte Telemedizin und -pflege zu gründen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra hofft auf funktionierende digitale Werkzeuge, die den Alltag erleichtern statt belasten. Ein solches Zentrum könnte praxisnahe Lösungen bringen.",
+      "begruendung_selbst": "Wenn Telemedizin endlich richtig funktioniert und nicht nur mehr Technikstress bringt, wäre das eine echte Entlastung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kommunale MVZ sichern die Fläche!",
+      "thema": "gesundheit",
+      "programmpunkt": "Förderung kommunaler Medizinischer Versorgungszentren zur flächendeckenden Versorgung unabhängig von privaten Investoren.",
+      "seite": 80,
+      "zitat": "Förderung kommunaler Medizinischer Versorgungszentren (MVZ) ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Einzelpraxisärztin ohne Nachfolge begrüßt Petra Modelle, die die Versorgung auf dem Land strukturell absichern.",
+      "begruendung_selbst": "MVZ in kommunaler Hand könnten verhindern, dass meine Patienten irgendwann niemanden mehr haben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mehr Digitalzwang ohne echte Hilfe?",
+      "thema": "digitalisierung",
+      "programmpunkt": "Konsequente Digitalisierung von Verwaltungsprozessen und verpflichtende Nutzung digitaler Tools in Gesundheitseinrichtungen.",
+      "seite": 84,
+      "zitat": "Digitalisierung im Gesundheitsbereich bietet viele Chancen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra erlebt bereits jetzt, dass Telematik und eAU mehr Aufwand als Nutzen bringen. Weitere verpflichtende Digitalisierung ohne Praxistauglichkeit verstärkt ihren Frust.",
+      "begruendung_selbst": "Ich verbringe schon jetzt halbe Tage mit Technik, die nicht läuft – mehr Pflicht-Digitalisierung macht es nicht besser.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Noch mehr Berichtspflichten?",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung verpflichtender Meldepflichten und erweiterter Dokumentationsanforderungen in Pflege und Gesundheit.",
+      "seite": 87,
+      "zitat": "verlässliche Meldepflicht samt freiwilliger Mitgliedschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra fürchtet zusätzliche bürokratische Lasten, die ihre ohnehin knappe Zeit weiter belasten und die Patientenversorgung erschweren.",
+      "begruendung_selbst": "Ich habe schon jetzt zu viel Papierkram – jede neue Pflicht macht die Praxis noch weniger attraktiv für Nachfolger.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Petra findet im Programm klare Ansätze zur Stärkung der ländlichen Versorgung und Telemedizin, die ihre Hoffnungen auf Anreize und Entlastung treffen. Gleichzeitig bleibt Skepsis gegenüber weiteren Digitalisierungs- und Dokumentationspflichten, die in der Praxis oft mehr belasten als helfen. Insgesamt sieht sie positive Signale für die Fläche, aber keine durchschlagende Lösung für den eigenen Nachfolge- und Bürokratiealltag.",
+    "score": 1
+  }
+}

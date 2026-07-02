@@ -1,0 +1,77 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:30:02.157Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56632,
+    "output_tokens": 1727,
+    "cached_tokens": 55360,
+    "total_tokens": 58359,
+    "dauer_ms": 16231,
+    "usd": 0.0188145
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Formulare!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Digitale Verwaltung mit weniger Formularen und einmaliger Dateneingabe",
+      "seite": 52,
+      "zitat": "Bürger sollen selbstbestimmt festlegen können, welche Daten zwischen Behörden geteilt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike verbringt viel Zeit mit Buchhaltung und Behördengängen; die angekündigte Vereinfachung und digitale Integration trifft genau ihre tägliche Belastung.",
+      "begruendung_selbst": "Endlich nicht mehr dieselben Daten fünfmal hinschicken – das spart mir Stunden, die ich sonst mit Akquise verbringe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Belastungsmoratorium für Kleine!",
+      "thema": "steuern",
+      "programmpunkt": "Kein neuer Auflagen und Berichtspflichten für Unternehmen, One-in-One-out-Prinzip",
+      "seite": 13,
+      "zitat": "In den kommenden fünf Jahren wollen wir als Land keine neuen Auflagen und keine unnötigen zusätzlichen Berichtspflichten zulassen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Solo-Selbstständige mit schwankendem Einkommen empfindet Mareike jede neue Pflicht als existenzbedrohend; das Moratorium signalisiert Entlastung.",
+      "begruendung_selbst": "Ich hab keine Buchhalterin – jede neue Meldepflicht frisst meine Zeit und mein Geld.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Fordern ohne Absicherung!",
+      "thema": "arbeit",
+      "programmpunkt": "Bürgerarbeit als verpflichtende gemeinnützige Arbeit für arbeitsfähige Leistungsbezieher",
+      "seite": 31,
+      "zitat": "Die Teilnahme an Landesprogrammen zur Arbeitsmarktförderung soll für arbeitsfähige Leistungsbezieher nicht länger vom Prinzip der Freiwilligkeit abhängig sein",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike sieht in der Betonung von „Fordern und Fördern“ eine Haltung, die Solo-Selbstständige ohne soziale Netze weiter ins Risiko drängt, statt Absicherung zu schaffen.",
+      "begruendung_selbst": "Wenn ich mal in eine Flaute gerate, soll ich dann auch noch gemeinnützig arbeiten, statt dass die KSK oder so was greift?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mittelstand, aber nicht Solo!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Stärkung des Mittelstands durch Nachfolgeförderung und Gründerkultur",
+      "seite": 14,
+      "zitat": "Unterstützung der Unternehmensnachfolge für uns eine hohe Priorität",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Maßnahmen richten sich an klassische Betriebe mit Nachfolge; für eine Solo-Kreative ohne Angestellte oder Betriebsübergabe gibt es keine passenden Instrumente.",
+      "begruendung_selbst": "Ich hab keinen Betrieb zu vererben – ich brauch einfach nur verlässliche Beiträge und weniger Papierkram.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet die Bürokratie- und Digitalisierungsansätze des Programms hilfreich für ihren Alltag. Gleichzeitig vermisst sie jede konkrete Absicherung für Solo-Selbstständige und sieht in der Betonung von Leistung und Bürgerarbeit eine Haltung, die ihre prekäre Lage nicht adressiert. Insgesamt bleibt das Programm für ihre Existenzsorgen weitgehend stumm.",
+    "score": -1
+  }
+}

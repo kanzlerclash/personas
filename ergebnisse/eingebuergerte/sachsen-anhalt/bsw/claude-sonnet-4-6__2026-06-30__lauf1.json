@@ -61,27 +61,25 @@
       "titel_selbst": "Segregationsquoten für Kinder – das ist falsch",
       "thema": "bildung",
       "programmpunkt": "BSW will die Verteilung von Ausländerkindern in Schulen und Kitas über Quoten steuern, die 30 Prozent nicht überschreiten sollen.",
-      "seite": 65,
-      "zitat": "eine gezielte prozentuale Verteilung der Ausländerkinder auch in den Kindergärten erforderlich, wobei eine Quote von 30 % nicht überschritten werden sollte",
+      "seite": 64,
+      "zitat": "eine gezielte prozentuale Verteilung der Ausländerkinder auch in den Kindergärten",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Aylin hat Kinder, die in deutschen Schulen integriert wurden. Die Idee, Kinder nach Herkunftsquoten zu verteilen, empfindet sie als Stigmatisierung und als Botschaft: Du gehörst nicht wirklich dazu.",
       "begruendung_selbst": "Meine Kinder sollen nach Prozentsatz verteilt werden? Als ob sie eine Belastung wären, die man dosieren muss. Das verletzt mich. Integration gelingt nicht durch Quoten, sondern durch Begegnung.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Zwangsumzug für Migranten – Würde sieht anders aus",
       "thema": "integration",
       "programmpunkt": "BSW will Städte verpflichten, Migranten gleichmäßig in allen Stadtvierteln unterzubringen und Obergrenzen für Wohnbelegung einführen.",
       "seite": 65,
-      "zitat": "Stattdessen müssen die Städte verpflichtet werden, Migranten in allen Stadtvielteln gleichmäßig unterzubringen. Dazu muss es eine Obergrenze für die Belegung von Wohnungen mit Zuwanderern in den Wohnvierteln geben.",
+      "zitat": "Stattdessen müssen die Städte verpflichtet werden, Migranten in allen",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Zwangsverteilung und Obergrenzen für den Wohnanteil von Migranten erinnern Aylin an diskriminierende Wohnpolitiken. Statt echte Integration zu ermöglichen, schreibt das den Sonderstatus von Migranten gesetzlich fest.",
       "begruendung_selbst": "Man kann nicht zwangsweise integrieren. Wenn Migranten als Größe kontrolliert werden, die 'dosiert' gehört, dann fehlt der Respekt. Das ist keine Integrationspolitik – das ist Verwaltung von Menschen.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

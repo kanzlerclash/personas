@@ -74,13 +74,12 @@
       "thema": "wirtschaft",
       "programmpunkt": "Das Programm fordert ein konsequentes Verbot problematischer Stoffe wie PFAS.",
       "seite": 16,
-      "zitat": "konsequentes Verbot problematischer Stoffe wie PFAS, Glyphosat",
+      "zitat": "Verbot problematischer Stoffe wie PFAS, Glyphosat",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "PFAS-Verbindungen sind in Dichtmitteln, Lötzinn und Installationsmaterialien der SHK-Branche weit verbreitet. Ein konsequentes Verbot ohne ausreichende Übergangszeiträume und praxistaugliche Alternativen würde Sabines Einkauf und Materialdisposition erheblich komplizieren und verteuern.",
       "begruendung_selbst": "Ich weiß nicht, ob die wissen, was in meinen Dichtmitteln steckt. Wenn ich das alles tauschen muss, brauche ich Zeit und Alternativen – nicht ein pauschales Verbot.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "100 Prozent erneuerbar treibt Betriebskosten",

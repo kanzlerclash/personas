@@ -1,0 +1,76 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:30:17.400Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56667,
+    "output_tokens": 1654,
+    "cached_tokens": 55552,
+    "total_tokens": 58321,
+    "dauer_ms": 15240,
+    "usd": 0.01865665
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Gender ist Symbolpolitik!",
+      "thema": "demokratie",
+      "programmpunkt": "Ablehnung eines Genderverständnisses als symbolische Sprachregelung",
+      "seite": 33,
+      "zitat": "Wir wenden uns gegen ein Genderverständnis",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule empfindet die explizite Ablehnung von Gender-Sprache als direkte Abwertung queerer Lebensrealitäten und als Signal, dass Vielfalt nicht erwünscht ist.",
+      "begruendung_selbst": "Die sagen einfach, Gender ist nur Symbolkram – das trifft mich und meine Community direkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klima-Ideologie zurückdrehen!",
+      "thema": "klima",
+      "programmpunkt": "Rücknahme ideologischer EU-Klima- und Umweltvorgaben",
+      "seite": 88,
+      "zitat": "ideologischen Klima- und Umweltvorgaben der EU zurückdrehen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht ihre gesamte Zukunftsperspektive auf konsequenten Klimaschutz aufgebaut; diese Formulierung wirkt für sie als direkte Bedrohung der Energiewende.",
+      "begruendung_selbst": "Die wollen die Klimaziele der EU zurückdrehen – wie soll ich da noch an eine lebenswerte Zukunft glauben?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohle bis 2038 ist okay!",
+      "thema": "energie",
+      "programmpunkt": "Festhalten am Kohleausstieg erst 2038",
+      "seite": 45,
+      "zitat": "Am Kohlekompromiss festhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Jule ist ein später Kohleausstieg ein klarer Widerspruch zu dringendem Klimaschutz und untergräbt ihre Hoffnungen auf eine schnelle Energiewende.",
+      "begruendung_selbst": "Kohle bis 2038 – das ist einfach zu spät fürs Klima.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Traditionelle Familie als Kern!",
+      "thema": "familie",
+      "programmpunkt": "Familie als Kern der Gesellschaft mit christlich-abendländischem Wertefundament",
+      "seite": 30,
+      "zitat": "Familie als Kern unserer Gesellschaft",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule fürchtet, dass ein konservatives Familienbild queere Lebensformen ausgrenzt und ihre Hoffnungen auf gesellschaftliche Akzeptanz untergräbt.",
+      "begruendung_selbst": "Familie als christlich-abendländischer Kern – wo bleiben da Leute wie ich?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule sieht im Programm vor allem Bedrohungen für Klimaschutz und queere Rechte. Die klare Ablehnung von Gender-Sprache, das Festhalten am späten Kohleausstieg und die Rücknahme von EU-Klimavorgaben treffen ihre Kernanliegen direkt. Positive Berührungspunkte zu ihren Themen fehlen weitgehend.",
+    "score": -2
+  }
+}

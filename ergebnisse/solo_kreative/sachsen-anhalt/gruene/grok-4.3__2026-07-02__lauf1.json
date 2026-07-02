@@ -1,0 +1,77 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:34:43.055Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 81901,
+    "output_tokens": 1737,
+    "cached_tokens": 67840,
+    "total_tokens": 83638,
+    "dauer_ms": 14734,
+    "usd": 0.03720425
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau für die Kleinen!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Bürokratieabbau und digitale, medienbruchfreie Verwaltungsprozesse für Unternehmen und Selbstständige",
+      "seite": 89,
+      "zitat": "Wir wollen Bürokratie abbauen, Dokumentations- und Berichtspflichten sollen reduziert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike kämpft täglich mit unverhältnismäßigem Verwaltungsaufwand bei schwankendem Einkommen; der angekündigte Abbau von Dokumentationspflichten und digitale Prozesse treffen genau ihre Schmerzstelle.",
+      "begruendung_selbst": "Endlich soll der Papierkram kleiner werden – ich verbringe schon genug Zeit mit Buchhaltung statt mit Aufträgen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Verwaltung, die mich nicht überfordert!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Zentrale digitale Zugänge und Once-Only-Prinzip für Verwaltungsleistungen",
+      "seite": 97,
+      "zitat": "Bis 2030 sollen nahezu alle Behördengänge vollständig digital, barrierefrei und nutzerorientiert möglich sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Solo-Selbstständige ohne feste Strukturen profitiert Mareike direkt von vereinfachten, digitalen Behördengängen, die Zeit und Nerven sparen.",
+      "begruendung_selbst": "Alles über eine App erledigen können, ohne jedes Mal Formulare auszufüllen – das wäre mal eine echte Entlastung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Tarifbindung hilft mir als Solo nicht!",
+      "thema": "arbeit",
+      "programmpunkt": "Stärkung der Tarifbindung und Mitbestimmung vor allem für Beschäftigte in der Privatwirtschaft",
+      "seite": 76,
+      "zitat": "Wir setzen uns für Initiativen zur Stärkung der Tarifbindung in der Privatwirtschaft ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist als Soloselbstständige weder tarifgebunden noch mitbestimmungsfähig; der Fokus auf klassische Arbeitnehmerstrukturen lässt ihre prekäre Lage unberührt.",
+      "begruendung_selbst": "Tarifverträge und Betriebsräte sind super – aber ich hab keinen Chef und keinen Betriebsrat, der mich schützt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "KSK und Altersvorsorge bleiben außen vor!",
+      "thema": "gesundheit",
+      "programmpunkt": "Bürger*innenversicherung und soziale Absicherung, die primär auf abhängig Beschäftigte ausgerichtet ist",
+      "seite": 76,
+      "zitat": "Im Bereich der Sozialversicherungen setzen wir uns auf Bundesebene für das Prinzip der Bürger*innenversicherung ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist über die KSK versichert und hat keine betriebliche Altersvorsorge; das Programm spricht keine konkreten Verbesserungen für Soloselbstständige oder KSK-Mitglieder an.",
+      "begruendung_selbst": "Ich zahl schon in die KSK ein und hab trotzdem keine echte Absicherung – davon steht hier nichts.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet einzelne Ansätze zur Digitalisierung und zum Bürokratieabbau hilfreich, weil sie ihren Alltag als Solo-Kreative direkt entlasten könnten. Gleichzeitig bleibt die zentrale Sorge – soziale Absicherung bei schwankendem Einkommen und fehlende Absicherung für Soloselbstständige – weitgehend unadressiert. Das Programm spricht vor allem klassische Arbeitnehmerstrukturen an und bietet für ihre spezifische Lage nur wenige direkte Anknüpfungspunkte.",
+    "score": -1
+  }
+}

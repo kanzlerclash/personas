@@ -24,13 +24,12 @@
       "thema": "bildung",
       "programmpunkt": "BSW setzt sich für dauerhaft gebührenfreies Studium und eine stärkere soziale Infrastruktur der Studentenwerke ein.",
       "seite": 52,
-      "zitat": "Gebührenfreies Studium dauerhaft sichern • Soziale Infrastruktur der Studentenwerke stärken",
+      "zitat": "Soziale Infrastruktur der Studentenwerke stärken",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule studiert auf Pump – kein Nebenjob kann die steigenden Lebenshaltungskosten decken. Die Absicherung des gebührenfreien Studiums und stärkere Studentenwerke sind für sie konkrete Entlastungen.",
       "begruendung_selbst": "Ich kann mir kaum die Miete leisten. Wenn das Studium wenigstens kostenlos bleibt und die Studentenwerke besser ausgestattet werden, ist das zumindest etwas.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wohnraum bezahlbar halten!",

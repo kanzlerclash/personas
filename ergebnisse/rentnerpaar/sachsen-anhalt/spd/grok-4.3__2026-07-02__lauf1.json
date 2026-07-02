@@ -1,0 +1,101 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:20:27.497Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 47949,
+    "output_tokens": 1953,
+    "cached_tokens": 32896,
+    "total_tokens": 49902,
+    "dauer_ms": 21192,
+    "usd": 0.03187795
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Heizkosten nicht noch teurer!",
+      "thema": "energie",
+      "programmpunkt": "Bezahlbare Energiepreise durch Deckelung der Netzentgelte und Senkung der Stromsteuer",
+      "seite": 5,
+      "zitat": "konsequente Energiewende bei bezahlbaren Energiepreisen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter fürchten steigende Heizkosten im eigenen Haus. Das Versprechen bezahlbarer Preise und Entlastung bei Netzentgelten spricht ihre direkte finanzielle Sorge an.",
+      "begruendung_selbst": "Wenn die Netzentgelte gedeckelt werden, bleibt uns vielleicht noch was von der Rente fürs Heizen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege zuhause soll gehen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Ausbau ambulanter und quartiersnaher Pflege sowie Unterstützung pflegender Angehöriger",
+      "seite": 10,
+      "zitat": "langes Leben in Selbstständigkeit und im eigenen Wohnumfeld",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Paar will im eigenen Haus alt werden. Die Betonung wohnortnaher und ambulanter Strukturen passt genau zu ihrer Hoffnung, nicht ins Heim zu müssen.",
+      "begruendung_selbst": "Solange wir zuhause bleiben können, ist das für uns das Wichtigste.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Arzt auf dem Dorf muss bleiben!",
+      "thema": "gesundheit",
+      "programmpunkt": "Sicherung wohnortnaher medizinischer Versorgung und Telemedizin im ländlichen Raum",
+      "seite": 9,
+      "zitat": "flächendeckende, gut erreichbare und qualitativ hochwertige medizinische Versorgung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit einem Hausarzt in Reichweite und Sorge vor dessen Wegfall sehen sie in der Sicherung ländlicher Versorgung eine direkte Entlastung ihrer Alltagssituation.",
+      "begruendung_selbst": "Wenn der Arzt weg ist, müssen wir nicht gleich ins nächste Kreiskrankenhaus fahren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Polizei soll da sein, wenn’s nötig ist!",
+      "thema": "sicherheit",
+      "programmpunkt": "Stärkung der Polizei und Ausbau von Prävention in Kommunen",
+      "seite": 19,
+      "zitat": "Polizei ist Garant für öffentliche Sicherheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im ländlichen Raum fühlen sie sich bei steigender Kriminalitätsangst durch das Bekenntnis zu mehr Polizeipräsenz und kommunaler Prävention bestätigt.",
+      "begruendung_selbst": "Hauptsache, die Polizei kommt auch mal raus aufs Dorf, wenn was ist.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sanierungspflicht – von welchem Geld?",
+      "thema": "energie",
+      "programmpunkt": "Klimaschutzgesetz mit verbindlichen Reduktionspfaden und Wärmewende",
+      "seite": 15,
+      "zitat": "Klimaschutzgesetz schafft Verbindlichkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Paar hat ein Haus von 1981 und kaum Rücklagen. Ein verbindliches Klimaschutzgesetz mit Wärmewende weckt bei ihnen die Angst vor unaffordablen Sanierungspflichten.",
+      "begruendung_selbst": "Wenn die uns jetzt noch zum Dämmen zwingen, woher soll das Geld denn kommen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimafonds – aber nicht für uns!",
+      "thema": "klima",
+      "programmpunkt": "Aufbau eines Klimafonds zur Finanzierung von Anpassungsmaßnahmen",
+      "seite": 15,
+      "zitat": "schrittweise einen Klimafonds aufzubauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sie sehen in der Klimapolitik vor allem Belastungen für ältere Eigenheimbesitzer, ohne dass konkrete Entlastungen für Bestandsbauten zugesagt werden.",
+      "begruendung_selbst": "Die jungen sollen das Klima retten, wir sollen zahlen – das passt nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter finden vor allem die Zusagen zu bezahlbarer Energie, ländlicher Gesundheitsversorgung und ambulanter Pflege gut, weil diese ihre konkreten Alltagssorgen direkt ansprechen. Gleichzeitig stoßen sie sich an der Klimapolitik mit verbindlichen Vorgaben, die bei ihnen die Angst vor unbezahlbaren Sanierungspflichten auslöst. Insgesamt sehen sie das Programm als gemischt: hilfreich bei Versorgung und Kosten, bedrohlich bei neuen Pflichten.",
+    "score": 0
+  }
+}

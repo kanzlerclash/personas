@@ -1,0 +1,76 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:48:27.716Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 78986,
+    "output_tokens": 1737,
+    "cached_tokens": 2304,
+    "total_tokens": 80723,
+    "dauer_ms": 16607,
+    "usd": 0.1026058
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich beitragsfreie Kitas!",
+      "thema": "familie",
+      "programmpunkt": "Einführung beitragsfreier Kitas zur Entlastung von Eltern und Sicherung von Betreuungsplätzen.",
+      "seite": 47,
+      "zitat": "Perspektivisch beitragsfreie Kitas einführen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine spart durch beitragsfreie Kitas monatlich spürbar Geld und kann ihre Teilzeitarbeit besser mit den Betreuungszeiten abstimmen.",
+      "begruendung_selbst": "Endlich bleibt am Monatsende mehr übrig, und ich muss nicht ständig rechnen, ob der Kita-Platz überhaupt bezahlbar ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mindestlohn 15 Euro – das hilft!",
+      "thema": "arbeit",
+      "programmpunkt": "Einführung eines gesetzlichen Mindestlohns von 15 Euro pro Stunde ohne Ausnahmen.",
+      "seite": 35,
+      "zitat": "gesetzlichen Mindestlohn von 15,00 Euro pro Stunde",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Teilzeitkraft mit Aufstockung profitiert Nadine direkt von höheren Löhnen, die ihre Abhängigkeit von Sozialleistungen verringern können.",
+      "begruendung_selbst": "Wenn ich 15 Euro die Stunde bekomme, rechnet sich die Arbeit endlich mehr und ich muss nicht dauernd aufstocken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr bezahlbarer Wohnraum!",
+      "thema": "wohnen",
+      "programmpunkt": "Ausweitung des sozialen und gemeinnützigen Wohnungsbaus sowie Begrenzung von Mietsteigerungen.",
+      "seite": 30,
+      "zitat": "deutliche Ausweitung des sozialen und gemeinnützigen Wohnungsbaus",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine lebt in einer Mietwohnung, in der die Miete den Großteil ihres Einkommens frisst; mehr Sozialwohnungen und Mietpreisbremsen würden ihre finanzielle Lage stabilisieren.",
+      "begruendung_selbst": "Weniger Miete bedeutet mehr Geld für die Kinder und weniger Angst vor der nächsten Nebenkostenabrechnung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ganztag und Hort für alle!",
+      "thema": "bildung",
+      "programmpunkt": "Ausbau qualitativ hochwertiger Ganztagsschulen und verlässlicher Betreuungsangebote.",
+      "seite": 49,
+      "zitat": "Qualitativ hochwertige Ganztagsschulen mit Fachkräften und Räumen ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mit Kindern im Kita- und Grundschulalter braucht Nadine verlässliche Ganztagsbetreuung, um ihre Arbeitszeiten einzuhalten und gleichzeitig die Förderung der Kinder zu sichern.",
+      "begruendung_selbst": "Wenn der Hort bis zum Feierabend offen hat, kann ich arbeiten gehen, ohne ständig um die Betreuung zu bangen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Nadine sieht im Programm vor allem Entlastungen bei Betreuung, Lohn und Wohnen, die ihre tägliche Belastung als alleinerziehende Teilzeitkraft direkt mildern würden. Die sozialstaatliche Ausrichtung passt zu ihrer Hoffnung auf Verlässlichkeit und Respekt statt Misstrauen. Kritische Punkte zu ihrer konkreten Lage fehlen weitgehend.",
+    "score": 2
+  }
+}

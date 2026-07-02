@@ -1,0 +1,89 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:46:44.160Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95366,
+    "output_tokens": 1565,
+    "cached_tokens": 2304,
+    "total_tokens": 96931,
+    "dauer_ms": 15573,
+    "usd": 0.1220133
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Industriearbeitsplätze sichern!",
+      "thema": "arbeit",
+      "programmpunkt": "Stärkung der Automobil- und Chemieindustrie durch Investitionen und Transformationsförderung",
+      "seite": 91,
+      "zitat": "Automobilbranche stärken – Innovation und Arbeit sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Schichtjob hängt direkt an der Automobil- und Zulieferindustrie; das Programm verspricht gezielte Unterstützung für diese Branchen und damit Arbeitsplatzsicherheit.",
+      "begruendung_selbst": "Solange mein Werk nicht dichtmacht, ist mir das recht – die müssen die Industrie hier halten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tariflohn für alle!",
+      "thema": "arbeit",
+      "programmpunkt": "Stärkung der Tarifbindung und Allgemeinverbindlichkeit von Tarifverträgen",
+      "seite": 86,
+      "zitat": "Tarifbindung stärken - faire Löhne sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Facharbeiter mit Schichtzulagen profitiert Toralf von verbindlichen Tariflöhnen, die Lohnkonkurrenz und Lohndumping verhindern.",
+      "begruendung_selbst": "Wer früh aufsteht, soll auch ordentlich verdienen – Tarif ist da das Mindeste.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Auto weg, Bus kommt nicht!",
+      "thema": "verkehr",
+      "programmpunkt": "Verzicht auf neue Autobahnen und massive Förderung von ÖPNV und Radverkehr",
+      "seite": 105,
+      "zitat": "Keine neuen Autobahnen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Toralf pendelt 45 Minuten mit dem Auto, weil es keinen brauchbaren ÖPNV gibt; ein Verbot neuer Autobahnen und einseitige ÖPNV-Förderung ignoriert seine Realität.",
+      "begruendung_selbst": "Hier fährt kein Bus – wie soll ich ohne Auto zur Schicht kommen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nulltarif nützt mir nichts!",
+      "thema": "verkehr",
+      "programmpunkt": "Einführung eines landesweiten kostenfreien ÖPNV",
+      "seite": 102,
+      "zitat": "Attraktiver ÖPNV zum Nulltarif",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Kostenloser Nahverkehr hilft Toralf nicht, solange vom Dorf aus keine Verbindung zu seinem Arbeitsplatz besteht; er bleibt auf das Auto angewiesen.",
+      "begruendung_selbst": "Gratis Bus nützt mir nichts, wenn der gar nicht fährt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO₂-Preis trifft mich direkt!",
+      "thema": "energie",
+      "programmpunkt": "Sozialverträgliche, aber konsequente CO₂-Bepreisung und Energiewende",
+      "seite": 106,
+      "zitat": "Energiepreise senken und öffentliche Verantwortung stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Höhere Sprit- und Strompreise durch Klimapolitik belasten Toralfs ohnehin knappen Haushalt und seinen langen Arbeitsweg massiv.",
+      "begruendung_selbst": "Jeder Cent mehr an der Zapfsäule fehlt mir am Monatsende.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Toralf sieht in der Linken eine Partei, die Industriearbeitsplätze und Tariflöhne verteidigt – das passt zu ihm. Gleichzeitig lehnt er die verkehrs- und klimapolitischen Maßnahmen ab, weil sie sein Pendeln mit dem Auto verteuern und erschweren, ohne realistische Alternativen für den ländlichen Raum anzubieten.",
+    "score": -1
+  }
+}

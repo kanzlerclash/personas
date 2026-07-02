@@ -1,0 +1,76 @@
+{
+  "persona": "polizist",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:42:43.983Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49466,
+    "output_tokens": 1539,
+    "cached_tokens": 48384,
+    "total_tokens": 51005,
+    "dauer_ms": 12575,
+    "usd": 0.0162818
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich mehr Kollegen und Entlastung!",
+      "thema": "sicherheit",
+      "programmpunkt": "Stellenaufwuchs auf 7.000 Polizeivollzugsstellen halten, 1.200 Verwaltungsmitarbeiter aufbauen und Polizeiverwaltungsassistenten-Laufbahn schaffen.",
+      "seite": 52,
+      "zitat": "Stellenaufwuchs auf 7.000 Stellen im Polizeivollzugsdienst",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt täglich Personalmangel und Überlastung im Streifendienst; die konkrete Stellen- und Entlastungsplanung trifft genau seine Kernklage.",
+      "begruendung_selbst": "Endlich sagen die, dass wir mehr Leute brauchen und nicht alles allein schultern sollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rechtsstaat durchsetzen – Abschiebungen endlich umsetzen!",
+      "thema": "integration",
+      "programmpunkt": "Ausreisepflichtige zügig ausreisen lassen, Abschiebungshafteinrichtung bis Ende 2027 in Betrieb nehmen und Abschiebungen effizienter ermöglichen.",
+      "seite": 11,
+      "zitat": "Ausreisepflichtige Ausländer müssen zügig das Land verlassen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco sieht die Folgen unkontrollierter Migration im Einsatzalltag; die klare Ansage zur Durchsetzung des Rechtsstaats gibt ihm das Gefühl, dass seine Arbeit nicht umsonst ist.",
+      "begruendung_selbst": "Wenn die Politik endlich mal durchgreift, wird mein Job nicht noch gefährlicher.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Opfer schützen statt Täter schonen!",
+      "thema": "sicherheit",
+      "programmpunkt": "Anschriften von Opfern und Zeugen getrennt speichern und nur mit Einverständnis oder berechtigtem Interesse übermitteln; Opferhilfefonds aufstocken.",
+      "seite": 50,
+      "zitat": "Anschriften und ähnlich wichtige Daten von Opfern und anderen Zeugen regelmäßig",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco erlebt, wie seine Arbeit in der Justizkette versandet und Opfer ungeschützt bleiben; diese Maßnahmen stärken die gesamte Verfolgungs- und Schutzlinie.",
+      "begruendung_selbst": "Endlich wird anerkannt, dass wir nicht nur Täter jagen, sondern auch die Leute schützen müssen, die uns helfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Waffenverbotszonen weg – mehr Handlungsfreiheit!",
+      "thema": "sicherheit",
+      "programmpunkt": "Abschaffung aller Waffenverbotszonen und damit der anlasslosen Personenkontrollen in diesen Zonen.",
+      "seite": 52,
+      "zitat": "Abschaffung aller Waffenverbotszonen im Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Marco empfindet pauschale Kontrollverbote als Einschränkung seiner täglichen Arbeit; die Abschaffung signalisiert Vertrauen in die Polizei vor Ort.",
+      "begruendung_selbst": "Weniger sinnlose Verbote, mehr Möglichkeit, da einzugreifen, wo es nötig ist.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Marco sieht in dem Programm vor allem klare Unterstützung für mehr Personal, bessere Strukturen und konsequente Rechtsdurchsetzung. Die FDP nimmt seine täglichen Belastungen und den Wunsch nach Rückendeckung ernst. Kritische Punkte, die seine Lage verschlechtern würden, fehlen weitgehend.",
+    "score": 2
+  }
+}

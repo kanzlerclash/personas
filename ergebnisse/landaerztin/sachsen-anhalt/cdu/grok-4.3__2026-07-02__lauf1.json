@@ -1,0 +1,76 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:28:15.346Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56696,
+    "output_tokens": 1542,
+    "cached_tokens": 128,
+    "total_tokens": 58238,
+    "dauer_ms": 14903,
+    "usd": 0.0759706
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Praxis-Übernahme gefördert!",
+      "thema": "gesundheit",
+      "programmpunkt": "Förderprogramme für Praxisgründungen und -übernahmen werden ausgebaut und bürokratische Hürden abgebaut.",
+      "seite": 27,
+      "zitat": "Förderprogramme für Praxisgründungen und -übernahmen bauen wir aus",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Maßnahme spricht direkt ihre existenzielle Sorge um die Praxisnachfolge an und bietet konkrete finanzielle und administrative Unterstützung für junge Ärztinnen und Ärzte in ländlichen Regionen.",
+      "begruendung_selbst": "Endlich wird die Übernahme meiner Praxis nicht mehr nur verwaltet, sondern aktiv gefördert – das gibt mir Hoffnung für meine Patienten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Landarztquote wird endlich geprüft!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die bestehende Landarztquote soll überprüft und bei Bedarf weiterentwickelt werden, Bewerber mit Bezug zu Sachsen-Anhalt stärker berücksichtigt.",
+      "seite": 28,
+      "zitat": "Die bestehende Landarztquote soll überprüft und bei Bedarf weiterentwickelt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Landärztin ohne Nachfolge erlebt sie seit Jahren, dass reine Quoten ohne regionale Bindung nicht greifen; die angekündigte Prüfung und Weiterentwicklung trifft ihre Kernforderung.",
+      "begruendung_selbst": "Die Quote muss endlich wirken – mit Leuten, die hierbleiben wollen, nicht nur studieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Medi-Bus bringt den Arzt aufs Land!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung eines Medi-Busses als rollende Praxis mit Arzt und MFA für unterversorgte ländliche Regionen.",
+      "seite": 29,
+      "zitat": "einen Arzt und eine Medizinische Fachangestellte",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Vorschlag adressiert direkt die langen Wege ihrer Patientinnen und Patienten und die eigene Überlastung durch Hausbesuche in der Fläche.",
+      "begruendung_selbst": "Ein rollender Arztbus – genau das, was wir brauchen, wenn die Wege für alte Menschen zu weit werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratieabbau für Praxen!",
+      "thema": "demokratie",
+      "programmpunkt": "Berichtspflichten und Verwaltungsaufwand für Unternehmen und Praxen sollen durch Moratorium und One-in-One-out-Prinzip reduziert werden.",
+      "seite": 13,
+      "zitat": "Belastungsmoratorium für die Wirtschaft durchsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre tägliche Belastung durch Dokumentation, TI und eAU wird als wirtschaftliches Hemmnis erkannt; der angekündigte Abbau entspricht ihrer zentralen Forderung.",
+      "begruendung_selbst": "Weniger Formulare, mehr Zeit für Patienten – das ist genau, was ich brauche.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Programm spricht Dr. Petra an mehreren zentralen Punkten direkt an: Praxisnachfolge, Landarztquote, mobile Versorgung und Bürokratieabbau. Es bestätigt ihre pragmatische Haltung, dass ländliche Versorgung gezielt gestärkt werden muss, ohne ideologische Überfrachtung. Sie sieht hier konkrete Ansätze, die ihre Lage und die ihrer Patientinnen und Patienten ernst nehmen.",
+    "score": 2
+  }
+}

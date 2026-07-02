@@ -1,0 +1,101 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:46:13.775Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95490,
+    "output_tokens": 1954,
+    "cached_tokens": 2304,
+    "total_tokens": 97444,
+    "dauer_ms": 20468,
+    "usd": 0.1232908
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich praktischer Wolfsschutz!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Herdenschutz und Weidetierhaltung mit gezielten Entnahmen bei wiederholten Rissen",
+      "seite": 112,
+      "zitat": "gezielte Entnahmen von Wölfen ermöglichen, wenn sie wiederholt Nutztiere gerissen haben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sieht den strikten Wolfsschutz als direkte Bedrohung seiner Weidehaltung. Das Programm erkennt den Konflikt an und bietet praktische Lösungen wie schnelle Entschädigung und gezielte Entnahmen.",
+      "begruendung_selbst": "Endlich einer, der nicht nur den Wolf schützt, sondern auch sagt, wann man eingreifen darf. Das ist mal was Praktisches.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie muss runter!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Bürokratiekosten deutlich reduzieren und Förderprogramme vereinfachen",
+      "seite": 114,
+      "zitat": "Bürokratiekosten deutlich reduzieren und Förderprogramme vereinfachen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank leidet unter ständig neuen Verordnungen und Dokumentationspflichten. Das Programm verspricht Vereinfachung und mehrjährige Förderzusagen, was seine Planungssicherheit erhöht.",
+      "begruendung_selbst": "Jedes Jahr eine neue Verordnung. Wenn die das wirklich vereinfachen, kann ich wieder mehr Zeit auf dem Feld verbringen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Preise statt Discounter-Diktat",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Faire Erzeugerpreise und Begrenzung des Einflusses großer Supermarktketten",
+      "seite": 111,
+      "zitat": "den Preisdruck der großen Supermarktketten begrenzen und unfaire Handelspraktiken unterbinden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sinkende Erzeugerpreise bei steigenden Kosten bedrohen Franks Existenz. Das Programm adressiert direkt die Marktmacht der Ketten und fordert faire Preise.",
+      "begruendung_selbst": "Die Discounter drücken die Preise, bis nichts mehr übrig bleibt. Endlich mal einer, der das beim Namen nennt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaneutral bis 2035 – auf meine Kosten?",
+      "thema": "klima",
+      "programmpunkt": "Verbindliches CO₂-Budget und Klimaneutralität bis 2035",
+      "seite": 121,
+      "zitat": "Klimaneutral bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank hält strikte Klimaziele für praxisfern und existenzbedrohend, weil sie Stilllegungen und Auflagen ohne ausreichende Kompensation bedeuten.",
+      "begruendung_selbst": "Klimaschutz ist wichtig, aber nicht, wenn ich dafür Flächen stilllegen und Auflagen schlucken soll, die mich ruinieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "30 Prozent Öko – ohne Rücksicht auf Realität",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Anteil ökologisch bewirtschafteter Flächen auf mindestens 30 Prozent steigern",
+      "seite": 113,
+      "zitat": "den Anteil ökologisch bewirtschafteter Flächen von derzeit rund 10 auf mindestens 30 Prozent steigern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Eine schnelle Umstellung auf 30 % Ökolandbau ignoriert betriebswirtschaftliche Realitäten und Marktsituation auf Franks Hof.",
+      "begruendung_selbst": "30 Prozent Öko klingt gut auf dem Papier. Aber wer soll das bezahlen, wenn die Preise nicht mitgehen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Auflagen, weniger Freiheit",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Öffentliche Gelder an Umwelt- und Sozialstandards sowie artgerechte Tierhaltung koppeln",
+      "seite": 112,
+      "zitat": "öffentliche Gelder gezielt an Umwelt- und Sozialstandards sowie artgerechte Tierhaltung koppeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank erlebt bereits jetzt, wie immer neue Auflagen seine Margen auffressen. Weitere Kopplungen verstärken den Druck ohne echte Entlastung.",
+      "begruendung_selbst": "Schon wieder neue Standards. Wann darf ich eigentlich noch selbst entscheiden, wie ich meinen Hof führe?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet einzelne praktische Ansätze wie den Wolfsschutz und Bürokratieabbau positiv, weil sie seine tägliche Arbeit direkt erleichtern. Die ambitionierten Klimaziele und die schnelle Öko-Umstellung lehnt er jedoch klar ab, da sie seine Existenz und Selbstbestimmung bedrohen. Insgesamt überwiegt die Skepsis gegenüber weiteren Vorgaben aus der Politik.",
+    "score": -1
+  }
+}

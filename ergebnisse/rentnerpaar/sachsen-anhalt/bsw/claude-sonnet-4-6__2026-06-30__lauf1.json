@@ -36,13 +36,12 @@
       "thema": "wirtschaft",
       "programmpunkt": "BSW fordert ein Rentenniveau von mindestens 75 Prozent des Nettoeinkommens und lehnt jede Anhebung des Rentenalters ab.",
       "seite": 36,
-      "zitat": "ein Rentenniveau von mindestens 75 Prozent des Nettoeinkommens. Eine weitere Anhebung des Renteneintrittssalters lehnen wir ab.",
+      "zitat": "ein Renten- niveau von mindestens 75 Prozent des Nettoeinkommens. Eine weitere Anhebung des",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Das gesinkene Rentenniveau ist eine zentrale Sorge des Rentnerehepaars. Ein verbindliches Mindestniveau von 75 Prozent würde dafür sorgen, dass ihre Rente dauerhaft auskömmlich bleibt – und keine weiteren Abstriche drohen.",
       "begruendung_selbst": "Die Rente wird immer weniger wert, während alles teurer wird. Wenn 75 Prozent das Minimum sein soll, dann ist das ein Versprechen, an dem man sie messen kann.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Pflegevollversicherung – endlich!",

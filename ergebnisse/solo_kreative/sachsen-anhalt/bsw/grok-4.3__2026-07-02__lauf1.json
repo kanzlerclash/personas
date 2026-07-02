@@ -1,0 +1,89 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:52:12.842Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 78977,
+    "output_tokens": 2028,
+    "cached_tokens": 65664,
+    "total_tokens": 81005,
+    "dauer_ms": 20932,
+    "usd": 0.03680405
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "KSK endlich reformieren – endlich!",
+      "thema": "arbeit",
+      "programmpunkt": "Soziale Lage von Künstlern und Kulturschaffenden gezielt verbessern, u. a. durch Reform der Künstlersozialkasse",
+      "seite": 40,
+      "zitat": "Die soziale Lage von Künstlern und Kulturschaffenden ist gezielt zu verbessern – etwa durch eine Reform der Künstlersozialkasse",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist als Soloselbstständige in der KSK und leidet unter fehlender Absicherung bei Krankheit und Altersarmut; eine Reform verspricht genau die Lücke zu schließen, die sie täglich spürt.",
+      "begruendung_selbst": "Endlich wird meine KSK nicht mehr nur verwaltet, sondern wirklich verbessert – da fühle ich mich mal gesehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kultur ist Daseinsvorsorge, nicht Luxus!",
+      "thema": "familie",
+      "programmpunkt": "Kultur als Teil der Daseinsvorsorge flächendeckend sichern und Künstlersozialkasse reformieren",
+      "seite": 39,
+      "zitat": "Kultur ist die Grundlage für ein gelingendes und erfülltes Leben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike sieht Kultur- und Kreativarbeit als existenzielle Grundlage, nicht als freiwilliges Extra; die programmatische Aufwertung bestätigt ihre berufliche Identität.",
+      "begruendung_selbst": "Kultur ist kein Hobby, sondern mein Job – endlich wird das auch politisch so gesehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Steuern runter für kleine Einkommen!",
+      "thema": "steuern",
+      "programmpunkt": "Einkommen unter 2.000 Euro steuerfrei stellen und progressive Besteuerung hoher Einkommen",
+      "seite": 35,
+      "zitat": "Einkommen unter 2.000 Euro sollten steuerfrei sein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareikes schwankendes Einkommen liegt oft im unteren bis mittleren Bereich; die Entlastung kleiner Einkommen würde ihre monatliche Belastung spürbar senken.",
+      "begruendung_selbst": "Wenn ich mal nur 1.800 Euro mache, soll das nicht noch versteuert werden – das ist fair.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Tarifzwang für alle Aufträge – ich bin doch solo!",
+      "thema": "arbeit",
+      "programmpunkt": "Öffentliche Aufträge und Fördermittel nur an tarifgebundene Unternehmen vergeben",
+      "seite": 22,
+      "zitat": "Öffentliche Aufträge und Fördermittel dürfen nur an tarifgebundene Unternehmen vergeben werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Solo-Kreative hat Mareike keinen Tarifvertrag und würde bei öffentlichen Aufträgen systematisch ausgeschlossen, obwohl sie genau die Zielgruppe der Kreativförderung ist.",
+      "begruendung_selbst": "Ich kann doch keinen Tarifvertrag unterschreiben – dann krieg ich gar keine Aufträge mehr vom Land.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratieabbau nur für Betriebe, nicht für mich",
+      "thema": "digitalisierung",
+      "programmpunkt": "Landesweites Unternehmensportal und vereinfachte Verfahren vor allem für KMU",
+      "seite": 21,
+      "zitat": "Für Unternehmen wollen wir ein landesweites Unternehmensportal mit einem einheitlichen Zugang",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike leidet unter der Bürokratie als Einzelperson ohne Mitarbeiter; das Programm adressiert vor allem mittelständische Betriebe und lässt Solos weitgehend außen vor.",
+      "begruendung_selbst": "Wieder ein Portal für Firmen – ich brauche einfach weniger Formulare, nicht noch mehr digitale Wege.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet im Programm klare positive Signale für Künstler und Kulturschaffende, vor allem die angekündigte KSK-Reform und die Aufwertung von Kultur als Daseinsvorsorge. Gleichzeitig stößt sie auf strukturelle Hürden: Tarifbindung bei Aufträgen und eine Bürokratieentlastung, die primär auf klassische Betriebe zielt, passen schlecht zu ihrer Solo-Situation. Insgesamt überwiegt eine vorsichtige Zustimmung bei den sie direkt betreffenden sozialen und kulturellen Themen.",
+    "score": 1
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "persona": "landaerztin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:37:02.152Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89927,
+    "output_tokens": 1626,
+    "cached_tokens": 128,
+    "total_tokens": 91553,
+    "dauer_ms": 15960,
+    "usd": 0.11783685
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Landarzt-Stipendien!",
+      "thema": "gesundheit",
+      "programmpunkt": "Landarztstipendienprogramm mit zehnjähriger Verpflichtung auf dem Land",
+      "seite": 20,
+      "zitat": "Landarztstipendienprogramm auflegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra sieht hier eine direkte Antwort auf ihren Nachfolge- und Versorgungsnotstand im ländlichen Raum.",
+      "begruendung_selbst": "Endlich jemand, der kapiert, dass ohne Anreize keiner mehr aufs Land geht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Importärzte, mehr eigene!",
+      "thema": "gesundheit",
+      "programmpunkt": "Medizinstudienplätze um 20 Prozent ausbauen und direkte Annahme von Bewerbern",
+      "seite": 20,
+      "zitat": "die Kapazitäten für Medizinstudenten an den Universitäten des Landes ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra lehnt die Abhängigkeit von ausländischen Ärzten ab und begrüßt den Fokus auf heimische Ausbildung.",
+      "begruendung_selbst": "Sprachprobleme und Qualitätsfragen bei Importärzten kenne ich zur Genüge.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie endlich runter!",
+      "thema": "gesundheit",
+      "programmpunkt": "Abbau von Dokumentationspflichten und bürokratischen Hürden in der Pflege",
+      "seite": 20,
+      "zitat": "Weniger Dokumentationspflichten, mehr Zeit für die Pflege",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Petra verbringt täglich Stunden mit Formularen und TI-Problemen; jede Entlastung hilft direkt ihrer Praxis.",
+      "begruendung_selbst": "Ich behandle gern Menschen – aber ich verbringe halbe Tage mit Formularen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Noch mehr zentrale Vorgaben!",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung von Leistungsgruppen und bundesweiten Maßstäben für Kliniken",
+      "seite": 20,
+      "zitat": "Finanzierung nach Leistungsgruppen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Petra fürchtet, dass starre bundesweite Vorgaben die ohnehin dünne Versorgung auf dem Land weiter ausdünnen.",
+      "begruendung_selbst": "Was in Magdeburg oder Berlin als Qualität gilt, killt bei uns die Grundversorgung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflegekammer ohne uns?",
+      "thema": "gesundheit",
+      "programmpunkt": "Pflegekammer nur bei Zustimmung der Betroffenen und ohne Zwangsmitgliedschaft",
+      "seite": 20,
+      "zitat": "Pflegekammer nur mit Zustimmung der Betroffenen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Petra sieht in der Pflegekammer-Idee zusätzliche Bürokratie und Zwang, der die ohnehin knappe Zeit weiter belastet.",
+      "begruendung_selbst": "Noch eine Kammer, noch mehr Beiträge – das brauchen wir jetzt wirklich nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Petra findet im Programm klare Anreize für Landärzte und Bürokratieabbau, die ihre tägliche Belastung und den Nachfolge-Notstand direkt ansprechen. Gleichzeitig fürchtet sie starre zentrale Vorgaben, die die ländliche Versorgung weiter gefährden könnten. Insgesamt überwiegt die Resonanz mit ihren pragmatischen Versorgungsinteressen.",
+    "score": 1
+  }
+}

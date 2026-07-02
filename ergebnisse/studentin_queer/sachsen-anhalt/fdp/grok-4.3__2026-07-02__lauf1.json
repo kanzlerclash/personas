@@ -1,0 +1,89 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:43:46.260Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49519,
+    "output_tokens": 2035,
+    "cached_tokens": 128,
+    "total_tokens": 51554,
+    "dauer_ms": 17366,
+    "usd": 0.06924685
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Null Toleranz bei Diskriminierung!",
+      "thema": "demokratie",
+      "programmpunkt": "Null Toleranz gegen Diskriminierung wegen sexueller Orientierung oder geschlechtlicher Identität, mit Antidiskriminierungsstellen bei der Polizei.",
+      "seite": 40,
+      "zitat": "Null Toleranz für Diskriminierung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Jule sieht hier eine klare Positionierung gegen Ausgrenzung queerer Menschen, die ihre eigene Identität und ihr Engagement schützt.",
+      "begruendung_selbst": "Endlich wird gesagt, dass queere Menschen nicht diskriminiert werden dürfen – das gibt mir ein bisschen Sicherheit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Hochschulen stärken!",
+      "thema": "bildung",
+      "programmpunkt": "Digitalisierung der Hochschulen verstetigen und englischsprachige Studienprogramme ausbauen.",
+      "seite": 36,
+      "zitat": "Digitalisierungsschub der Hochschulen verstetigen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Studentin mit knappem Budget profitiert Jule von besserer digitaler Infrastruktur und internationalen Angeboten, die ihre Studienbedingungen verbessern.",
+      "begruendung_selbst": "Mehr Digitales an der Uni und englische Kurse – das macht Studieren flexibler und zukunftsfähiger für mich.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Atomkraft zurück – nein danke!",
+      "thema": "energie",
+      "programmpunkt": "Wiedereinstieg in die Nutzung der Kernenergie und Förderung von Small Modular Reactors.",
+      "seite": 14,
+      "zitat": "Wiedereinstieg in die Nutzung der Kernenergie",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht die Rückkehr zur Atomkraft als direkten Widerspruch zu ihrer Forderung nach konsequenter Energiewende und Klimaschutz.",
+      "begruendung_selbst": "Atomkraft wiederbeleben? Das ist doch ein Schlag ins Gesicht für alle, die auf echte Erneuerbare setzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fracking ist keine Lösung!",
+      "thema": "energie",
+      "programmpunkt": "Wissenschaftsbasiertes Genehmigungsregime für unkonventionelles Fracking statt pauschalem Verbot.",
+      "seite": 16,
+      "zitat": "pauschale Verbot des unkonventionellen Frackings",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Öffnung für Fracking widerspricht Jules klimapolitischer Haltung und ihrer Sorge um langfristige Umweltschäden.",
+      "begruendung_selbst": "Fracking erlauben? Das verschiebt das Problem nur und gefährdet unsere Zukunft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gendersprache nicht vorschreiben?",
+      "thema": "demokratie",
+      "programmpunkt": "Keine Gendersprache in der Behördenkommunikation vorschreiben und Geschlechtsangabe nur wo unbedingt nötig.",
+      "seite": 41,
+      "zitat": "keine Gendersprache in der Behördenkommunikation vorzuschreiben",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule empfindet die Ablehnung inklusiver Sprache als Rückschritt für die Sichtbarkeit queerer und nicht-binärer Menschen.",
+      "begruendung_selbst": "Ohne verpflichtende inklusive Sprache fühlen sich viele von uns einfach nicht ernst genommen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule lehnt das Programm vor allem wegen der pro-nuklearen und fracking-freundlichen Energiepolitik sowie der zurückhaltenden Haltung zu inklusiver Sprache ab. Einige digitale Bildungs- und Antidiskriminierungsansätze sprechen sie an, reichen aber nicht aus, um die grundlegenden Konflikte mit ihren Klima- und Gleichstellungsanliegen auszugleichen.",
+    "score": -1
+  }
+}

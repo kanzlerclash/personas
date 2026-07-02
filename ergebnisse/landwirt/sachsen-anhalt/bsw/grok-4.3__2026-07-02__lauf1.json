@@ -1,0 +1,89 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:50:17.634Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 79059,
+    "output_tokens": 1983,
+    "cached_tokens": 77888,
+    "total_tokens": 81042,
+    "dauer_ms": 16110,
+    "usd": 0.02380385
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau für uns Bauern!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Einrichtung landeseigener Kompetenzstellen, die Landwirte bei Anträgen und Berichtspflichten unterstützen und entlasten.",
+      "seite": 20,
+      "zitat": "Einrichtung von landeseigenen Kompetenzstellen erzielt werden, welche die Landwirte vor Ort beratend unterstützen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank leidet unter ständigen Dokumentations- und Antragspflichten, die seine ohnehin knappe Zeit und Marge belasten; die vorgeschlagenen Kompetenzstellen würden genau diese Last direkt reduzieren.",
+      "begruendung_selbst": "Endlich jemand, der versteht, dass ich nicht den ganzen Tag am Schreibtisch sitzen kann – die sollen die Papiere machen, nicht ich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Regionale Abnahmegarantien statt Billig-Importe!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Abnahmegarantien für regional erzeugte landwirtschaftliche Produkte und Vorrang regionaler Beschaffung in öffentlichen Einrichtungen.",
+      "seite": 19,
+      "zitat": "Abnahmegarantien für landwirtschaftliche Produkte aus regionaler Erzeugung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank kämpft mit schwankenden Erzeugerpreisen und internationaler Konkurrenz; garantierte Abnahme und regionale Priorität würden seine Einkommenssituation stabilisieren.",
+      "begruendung_selbst": "Wenn die Kantinen und Schulen bei uns kaufen müssen, bleibt das Geld hier und nicht bei den Billig-Importen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO₂-Abgabe weg – die belastet nur uns!",
+      "thema": "klima",
+      "programmpunkt": "Aussetzung oder Abschaffung der CO₂-Bepreisung, weil sie vor allem mittlere und niedrige Einkommen trifft.",
+      "seite": 27,
+      "zitat": "diese ungerechte Steuer auszusetzen oder abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank sieht die CO₂-Abgabe als direkte Kostensteigerung bei Diesel, Dünger und Energie, die seine ohnehin volatilen Betriebskosten weiter in die Höhe treibt.",
+      "begruendung_selbst": "Die CO₂-Steuer ist doch nur eine weitere Abzocke, die am Ende der Bauer und der Verbraucher zahlen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Glyphosat-Verbot – wieder eine Existenzbedrohung!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Ablehnung von Glyphosat und Förderung nachhaltiger Alternativen.",
+      "seite": 81,
+      "zitat": "Glyphosat ablehnen und nachhaltige Alternativen fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank nutzt Glyphosat als bewährtes und kosteneffizientes Mittel zur Unkrautbekämpfung; ein Verbot würde seine Produktionskosten massiv erhöhen und die Wettbewerbsfähigkeit gefährden.",
+      "begruendung_selbst": "Ohne Glyphosat wird der Acker zum Unkraut-Dschungel – wer soll das bezahlen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Windräder im Wald – aber was ist mit meinen Flächen?",
+      "thema": "energie",
+      "programmpunkt": "Grundsätzliche Ablehnung von Wind- und PV-Anlagen in Waldgebieten sowie Begrenzung von PV auf Ackerflächen.",
+      "seite": 82,
+      "zitat": "Windenergieanlagen sowie PV-Anlagen in Waldgebieten grundsätzlich ablehnen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Frank sieht in der einseitigen Bevorzugung von Dächern und versiegelten Flächen eine weitere Einschränkung möglicher Pacht- oder Verkaufserlöse für seine ohnehin knappen Flächen.",
+      "begruendung_selbst": "Immer nur Verbote und Einschränkungen – am Ende darf ich meine Flächen auch nicht mehr vernünftig nutzen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet im Programm klare Entlastungen bei Bürokratie und regionale Wertschöpfung sowie eine Absage an die CO₂-Steuer, die ihn direkt entlasten würde. Gleichzeitig stößt er auf praxisferne Verbote wie beim Glyphosat und weitere Flächennutzungsbeschränkungen, die seine betriebliche Handlungsfähigkeit weiter einschränken. Insgesamt überwiegt die Skepsis gegenüber neuen Auflagen, auch wenn einige wirtschaftliche Forderungen passen.",
+    "score": 0
+  }
+}

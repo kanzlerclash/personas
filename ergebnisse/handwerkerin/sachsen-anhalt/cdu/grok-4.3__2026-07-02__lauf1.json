@@ -1,0 +1,76 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:27:29.882Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56727,
+    "output_tokens": 1571,
+    "cached_tokens": 128,
+    "total_tokens": 58298,
+    "dauer_ms": 13727,
+    "usd": 0.07615685
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau für Handwerk!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Einführung des One-in-One-out-Prinzips und Belastungsmoratorium für Unternehmen, keine neuen Auflagen oder Berichtspflichten in den nächsten fünf Jahren.",
+      "seite": 13,
+      "zitat": "Für jede zwingend erforderliche neue Belastung soll mindestens eine bestehende Regelung entfallen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine spürt täglich, wie Formulare und Nachweispflichten ihre Arbeitszeit fressen. Das angekündigte Moratorium und das One-in-One-out-Prinzip treffen genau ihre größte Sorge.",
+      "begruendung_selbst": "Endlich mal eine Partei, die versteht, dass ich lieber am Kunden arbeite als am Aktenordner.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Handwerk und Ausbildung werden ernst genommen!",
+      "thema": "arbeit",
+      "programmpunkt": "Gleichwertigkeit von beruflicher und akademischer Bildung stärken, Meisterausbildung fördern, Quereinstiege erleichtern und berufliche Weiterbildung ausbauen.",
+      "seite": 14,
+      "zitat": "Gleichwertigkeit von beruflicher und akademischer Bildung stärken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Fachkräftemangel ist für ihren Betrieb existenziell. Die klare Aufwertung der dualen Ausbildung und des Meistertitels gibt ihr Hoffnung auf mehr Gesellen und Azubis.",
+      "begruendung_selbst": "Wenn der Meister endlich wieder was wert ist, finden wir vielleicht mal wieder vernünftige Leute.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiepreise runter – sonst platzen Aufträge!",
+      "thema": "energie",
+      "programmpunkt": "Einführung eines Industriestrompreises, Senkung der Netzentgelte und Kritik an international zu hohen Energiekosten für die Wirtschaft.",
+      "seite": 45,
+      "zitat": "Industriestrompreis und begrüßen dessen Einführung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Strom- und Gaskosten belasten ihren Betrieb und machen Heizungsmodernisierungen für Kunden teurer. Die Forderung nach bezahlbarer Energie trifft ihre wirtschaftliche Realität.",
+      "begruendung_selbst": "Wenn die Energie weiter so teuer bleibt, können sich meine Kunden den Heizungstausch bald nicht mehr leisten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Anträge statt Papierkrieg!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Vollständige Digitalisierung von Genehmigungs- und Vergabeverfahren sowie Schaffung eines digitalen „One-Stop-Shop“ für Unternehmen.",
+      "seite": 55,
+      "zitat": "Wir digitalisieren Genehmigungs- und Vergabeverfahren vollständig",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt Abende mit Formularen. Ein echter digitaler Verwaltungsprozess würde ihr spürbar Zeit und Nerven sparen.",
+      "begruendung_selbst": "Einmal anmelden und alles läuft digital – das wäre mal eine echte Entlastung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Sabine sieht in dem Programm vor allem Entlastungen bei Bürokratie, Energie und Fachkräftegewinnung, die direkt ihren Betriebsalltag betreffen. Die klare mittelständische und handwerksfreundliche Ausrichtung passt zu ihrer Haltung von Leistung und Eigenverantwortung. Sie findet wenig direkte Widersprüche zu ihren Interessen.",
+    "score": 2
+  }
+}

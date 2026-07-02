@@ -1,0 +1,64 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:43:12.810Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49468,
+    "output_tokens": 1444,
+    "cached_tokens": 35055,
+    "total_tokens": 50912,
+    "dauer_ms": 11655,
+    "usd": 0.03020975
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Zivilklauseln endlich weg!",
+      "thema": "verteidigung",
+      "programmpunkt": "Ablehnung von Zivilklauseln an Hochschulen und Forschungseinrichtungen, um Kooperation mit Verteidigungsindustrie zu ermöglichen.",
+      "seite": 10,
+      "zitat": "Zivilklauseln lehnen wir ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan sieht in der expliziten Ablehnung von Zivilklauseln eine direkte Unterstützung für die notwendige Vernetzung von Forschung und Verteidigungsindustrie, die seine tägliche Ausrüstungsrealität verbessern kann.",
+      "begruendung_selbst": "Endlich sagt mal jemand klar: keine Zivilklauseln mehr. Ohne Forschungsfreiheit kriege ich auch kein funktionierendes Material.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verteidigungsindustrie nach Sachsen-Anhalt!",
+      "thema": "verteidigung",
+      "programmpunkt": "Aktive Ansiedlung von Rüstungsproduktion und Vernetzung mittelständischer Zulieferer mit der Verteidigungsindustrie, zentraler Ansprechpartner in der Landesverwaltung.",
+      "seite": 9,
+      "zitat": "Sachsen-Anhalt vom Aufbau dieser industriellen Wertschöpfung und der damit verbundenen Arbeitsplätze profitiert.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Forderung nach schnellerem Produktionsaufbau und lokaler Vernetzung mit der Automobil- und Mittelstandsbranche entspricht Stefans Bedürfnis nach einer verlässlichen industriellen Basis für die Bundeswehr.",
+      "begruendung_selbst": "Wenn hier endlich Rüstungsgüter produziert werden, dann gibt’s vielleicht auch mal genug Material für uns an der Front.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Forschungsfreiheit für die Truppe!",
+      "thema": "verteidigung",
+      "programmpunkt": "Stärkung der Forschungsfreiheit und Ablehnung von Beschränkungen durch Zivilklauseln an Hochschulen.",
+      "seite": 35,
+      "zitat": "Wir lehnen deshalb Beschränkungen der Forschung etwa durch sogenannte Zivilklauseln ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan bewertet die wiederholte Ablehnung von Zivilklauseln als klares Bekenntnis zur wehrhaften Demokratie und zur praktischen Unterstützung der Einsatzfähigkeit der Bundeswehr.",
+      "begruendung_selbst": "Forschung muss frei sein, sonst bleibt die Ausrüstung auf dem Stand von gestern.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet im Programm klare, zustimmungsfähige Positionen zur Verteidigungsindustrie und zur Ablehnung von Zivilklauseln. Diese Punkte treffen direkt seine Kernanliegen nach verlässlicher Ausrüstung und Bündnisfähigkeit. Andere Themen des Programms berühren seine Lage kaum oder gar nicht.",
+    "score": 2
+  }
+}

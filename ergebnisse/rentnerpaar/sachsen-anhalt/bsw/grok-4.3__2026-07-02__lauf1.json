@@ -1,0 +1,101 @@
+{
+  "persona": "rentnerpaar",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:51:36.095Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 78940,
+    "output_tokens": 1855,
+    "cached_tokens": 67840,
+    "total_tokens": 80795,
+    "dauer_ms": 15480,
+    "usd": 0.033448
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Rente sicher, kein Börsenspiel!",
+      "thema": "gesundheit",
+      "programmpunkt": "Stabile gesetzliche Rente mit Mindestrente und Ablehnung von Kürzungen oder Anhebung des Rentenalters",
+      "seite": 36,
+      "zitat": "Mindestrente von 1.500 Euro nach 40 Beitragsjahren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Helga und Dieter sehen ihre kleine Rente als hart erarbeitete Sicherheit. Das Programm verspricht Stabilität und Anerkennung von Lebensleistung ohne Experimente.",
+      "begruendung_selbst": "Wir haben unser Leben lang gearbeitet – jetzt soll die Rente bitte sicher sein, kein Börsenspiel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "CO₂-Steuer weg, Heizkosten runter!",
+      "thema": "energie",
+      "programmpunkt": "Abschaffung der CO₂-Abgabe und Senkung der Energiesteuern für bezahlbare Preise",
+      "seite": 7,
+      "zitat": "Die CO₂-Abgabe gehört abgeschafft.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Steigende Heizkosten belasten das abbezahlte Haus massiv. Das klare Nein zur CO₂-Bepreisung passt genau zu ihrer Sorge vor unbezahlbaren Nebenkosten.",
+      "begruendung_selbst": "Wenn wir das Dach dämmen müssen, von welchem Geld eigentlich?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hausarzt und Pflege vor Ort!",
+      "thema": "gesundheit",
+      "programmpunkt": "Stärkung der wohnortnahen medizinischen Versorgung und Ausbau von Pflegestützpunkten im ländlichen Raum",
+      "seite": 38,
+      "zitat": "Gleichstellungspolitik muss deshalb den verlässlichen Zugang zu Gesundheitsversorgung unabhängig von Wohnort und Einkommen sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im Dorf ist der Hausarzt bereits knapp. Zusagen für regionale Versorgung und Pflegeentlastung geben ihnen das Gefühl, im Alter nicht allein gelassen zu werden.",
+      "begruendung_selbst": "Was, wenn der Hausarzt aufhört? Wir brauchen Hilfe hier, nicht erst in der Stadt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei, mehr Sicherheit!",
+      "thema": "sicherheit",
+      "programmpunkt": "Stärkung der Landespolizei mit mehr Personal und sichtbarer Präsenz",
+      "seite": 68,
+      "zitat": "Landespolizei bis 2028 auf rund 7.000 Stellen aufstocken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im ländlichen Raum fühlen sie sich bei Einbrüchen oder nächtlichen Vorfällen unsicher. Mehr Polizeipräsenz entspricht ihrem Bedürfnis nach Ordnung und Schutz.",
+      "begruendung_selbst": "Abends allein im Haus – da muss die Polizei einfach da sein.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sanierungspflichten? Von welchem Geld?",
+      "thema": "wohnen",
+      "programmpunkt": "Klimaschutz mit sozialer Abfederung, aber weiterhin Fokus auf energetische Maßnahmen",
+      "seite": 27,
+      "zitat": "Klimaschutz, aber sozial",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn das Programm CO₂-Steuern ablehnt, bleiben allgemeine Klimaziele und mögliche Förderlogiken bestehen, die bei Eigenheimbesitzern wie ihnen Sanierungsdruck erzeugen könnten.",
+      "begruendung_selbst": "Wir haben unser Haus abbezahlt – jetzt soll es plötzlich teuer werden?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Neue Steuern auf Erspartes?",
+      "thema": "steuern",
+      "programmpunkt": "Wiedereinführung der Vermögensteuer ab 25 Millionen Euro",
+      "seite": 36,
+      "zitat": "Wiedereinführung der Vermögenssteuer",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl die Schwelle hoch liegt, signalisiert die Forderung nach mehr Vermögensbesteuerung eine grundsätzliche Bereitschaft, Erspartes stärker zu belasten – was bei Sparsamkeit und Vorsorge misstrauisch macht.",
+      "begruendung_selbst": "Wer spart und schafft, soll nicht plötzlich bestraft werden.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Helga und Dieter finden im Programm klare Zusagen zu stabiler Rente, günstiger Energie und ländlicher Versorgung, die ihre Alltagssorgen direkt ansprechen. Gleichzeitig bleiben Restzweifel bei möglichen indirekten Belastungen durch Klimaziele und Steuerdebatten. Insgesamt fühlen sie sich in ihren Kernbedürfnissen nach Sicherheit und Verlässlichkeit eher bestätigt als bedroht.",
+    "score": 1
+  }
+}

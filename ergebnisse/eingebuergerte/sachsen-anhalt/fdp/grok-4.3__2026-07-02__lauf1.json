@@ -1,0 +1,101 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:40:06.578Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49456,
+    "output_tokens": 2038,
+    "cached_tokens": 2304,
+    "total_tokens": 51494,
+    "dauer_ms": 16660,
+    "usd": 0.0659558
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Fachkräfte wie mich willkommen!",
+      "thema": "integration",
+      "programmpunkt": "Pragmatische Zuwanderung in den Arbeitsmarkt mit schneller Anerkennung ausländischer Qualifikationen und digitaler Beschleunigung von Aufenthaltstiteln.",
+      "seite": 10,
+      "zitat": "reguläre und kontrollierte Einwanderung in den Arbeitsmarkt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylin sieht hier eine sachliche Anerkennung ihrer eigenen und der Leistung ihrer Familie. Die Betonung von Arbeitsmarktzugang und Qualifikationsanerkennung passt zu ihrer beruflichen Realität im öffentlichen Dienst.",
+      "begruendung_selbst": "Endlich wird gesagt, dass Leute wie ich und meine Eltern mitarbeiten und etwas beitragen – nicht nur als Problem gesehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vier Wochen bis zum Job – ja bitte!",
+      "thema": "integration",
+      "programmpunkt": "Unterstützung der Ausländerbehörden bei Digitalisierung, Ziel: Aufenthaltstitel für Beschäftigung innerhalb von vier Wochen.",
+      "seite": 11,
+      "zitat": "dass Aufenthaltstitel, die zur Aufnahme einer Beschäftigung berechtigen, innerhalb von 4 Wochen erteilt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Verwaltungsangestellte kennt Aylin bürokratische Hürden aus erster Hand. Schnellere, digitale Verfahren erleichtern den Alltag von Menschen mit Migrationsgeschichte und signalisieren Teilhabe statt Hürden.",
+      "begruendung_selbst": "Weniger Papierkrieg, schneller zum Arbeiten – das spürt man direkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Null Toleranz bei Diskriminierung!",
+      "thema": "demokratie",
+      "programmpunkt": "Null Toleranz gegenüber Diskriminierung wegen Herkunft, Religion oder Lebensentwurf sowie Aufbau fester Ansprechpersonen in der Polizei.",
+      "seite": 40,
+      "zitat": "null Toleranz gegen diejenigen, die Menschen wegen ihrer Herkunft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Aylins größte Sorge ist Alltagsdiskriminierung und das Gefühl, Zugehörigkeit ständig beweisen zu müssen. Eine klare Positionierung gegen Herkunfts-Diskriminierung stärkt ihr Sicherheitsgefühl.",
+      "begruendung_selbst": "Endlich wird gesagt: Diskriminierung wegen Herkunft geht gar nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Abschiebehaft bis 2027 – gegen wen?",
+      "thema": "integration",
+      "programmpunkt": "Inbetriebnahme einer Abschiebungshafteinrichtung bis Ende 2027 und effizientere Abschiebungen.",
+      "seite": 11,
+      "zitat": "Abschiebungshafteinrichtung spätestens Ende 2027 in Betrieb gehen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin erlebt die Migrationsdebatte als Frage ihrer eigenen Zugehörigkeit. Die konkrete Ankündigung von Abschiebehaft verstärkt bei ihr das Gefühl, dass Menschen mit Migrationsgeschichte pauschal unter Verdacht stehen.",
+      "begruendung_selbst": "Wieder so eine Einrichtung – und ich frage mich jedes Mal: Meinen die am Ende auch Leute wie mich oder meine Familie?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bleiberecht nur bei perfekter Anpassung?",
+      "thema": "integration",
+      "programmpunkt": "Dauerhaftes Bleiberecht an Eigenleistung und glaubhaftes Bekenntnis zu Verfassungswerten knüpfen.",
+      "seite": 11,
+      "zitat": "Das dauerhafte Bleiberecht wollen wir Freie Demokraten daher an zwei wesentliche Bedingungen knüpfen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl Aylin selbst eingebürgert ist, empfindet sie solche Konditionierungen als ständigen Vorbehalt gegenüber Menschen mit Migrationsgeschichte. Es widerspricht ihrem Wunsch nach selbstverständlicher Zugehörigkeit.",
+      "begruendung_selbst": "Ich bin hier geboren – warum muss ich immer noch beweisen, dass ich dazugehöre?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kontrolle statt Willkommen",
+      "thema": "sicherheit",
+      "programmpunkt": "Irregulärer Migration mit aller Kraft entgegenwirken und Ausreisepflichtige zügig ausreisen lassen.",
+      "seite": 11,
+      "zitat": "irregulären Migration werden wir mit aller Kraft entgegenwirken",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die harte Formulierung und der Fokus auf Kontrolle und Abschiebung passen nicht zu Aylins Hoffnung auf eine sachliche, nicht ausgrenzende Migrationspolitik. Sie fürchtet, dass dies das gesellschaftliche Klima weiter verschärft.",
+      "begruendung_selbst": "Klingt immer so, als wären alle, die zugewandert sind, erst mal ein Sicherheitsproblem.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin findet die pragmatischen Arbeitsmarktzugangs- und Digitalisierungsmaßnahmen sowie die klare Anti-Diskriminierungs-Haltung der FDP positiv. Gleichzeitig beunruhigen sie die konkreten Abschiebemaßnahmen und die Konditionierung von Bleiberecht, weil sie diese als potenzielle Ausgrenzung von Menschen mit Migrationsgeschichte erlebt. Insgesamt überwiegt bei ihr die Skepsis gegenüber dem migrationspolitischen Ton.",
+    "score": -1
+  }
+}

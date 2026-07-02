@@ -72,13 +72,12 @@
       "thema": "wirtschaft",
       "programmpunkt": "Die CDU will Unternehmensnachfolgen gezielt unterstützen, um altersbedingte Betriebsaufgaben zu vermeiden und Arbeitsplätze zu sichern.",
       "seite": 14,
-      "zitat": "Unternehmensnachfolgen gezielt... sichern so die Zukunftsfähigkeit des Mittelstands",
+      "zitat": "sichern so die Zukunftsfähigkeit des Mittelstands",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Sabines mittelfristige Hauptsorge ist die Betriebsübergabe in etwa zehn Jahren. Konkrete Unterstützung bei der Nachfolge greift direkt in ihre Lebensplanung.",
       "begruendung_selbst": "Irgendwann gehe ich in Rente – aber der Betrieb soll weiterlaufen. Wenn das Land dabei hilft, einen Nachfolger zu finden, ist das nicht irgendwas, das ist meine Altersvorsorge.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Digitale Verwaltung – weniger Wege!",

@@ -1,0 +1,101 @@
+{
+  "persona": "landwirt",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:19:25.464Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 48068,
+    "output_tokens": 2068,
+    "cached_tokens": 128,
+    "total_tokens": 50136,
+    "dauer_ms": 16607,
+    "usd": 0.0668181
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Genehmigungs- und Dokumentationspflichten in der Landwirtschaft werden vereinfacht.",
+      "seite": 28,
+      "zitat": "Genehmigungs- und Dokumentationspflichten werden vereinfacht",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank erlebt die ständigen Auflagen als existenzbedrohende Belastung seines Betriebs. Das Versprechen, Dokumentationspflichten zu reduzieren, trifft direkt seine tägliche Arbeit und seine Sorge um Planungssicherheit.",
+      "begruendung_selbst": "Endlich mal einer, der versteht, dass ich nicht den ganzen Tag am Schreibtisch sitzen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauernproteste ernst nehmen!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Anliegen der Bauernproteste werden in einen strukturierten Dialog überführt.",
+      "seite": 28,
+      "zitat": "Die Anliegen der Bauernproteste werden ernst genommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Frank fühlt sich von Berlin und Brüssel oft übergangen. Die explizite Anerkennung der Proteste signalisiert ihm, dass seine praktischen Erfahrungen nicht ignoriert werden.",
+      "begruendung_selbst": "Wenigstens hören die mal zu, statt immer nur neue Vorschriften zu erlassen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Flächen für uns, nicht für Investoren!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Die Landgesellschaft wird gestärkt, um Flächen für aktive Betriebe und Hofnachfolgen bereitzustellen.",
+      "seite": 28,
+      "zitat": "Flächen gezielt für aktive Betriebe, Neugründungen und Hofnachfolgen bereitzustellen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Sorge um Pachtkonkurrenz und Hofübergabe an die Tochter ist zentral für Frank. Die gezielte Unterstützung aktiver Betriebe passt zu seinem Wunsch nach Verlässlichkeit für Familienbetriebe.",
+      "begruendung_selbst": "Endlich wird mal dafür gesorgt, dass der Boden bei denen bleibt, die ihn bewirtschaften.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaschutz auf unserem Rücken!",
+      "thema": "klima",
+      "programmpunkt": "Ein Klimaschutzgesetz mit verbindlichen Reduktionspfaden für Treibhausgase wird eingeführt.",
+      "seite": 15,
+      "zitat": "Ein Klimaschutzgesetz schafft Verbindlichkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank sieht Klimaschutzmaßnahmen wie Moorvernässung oder Flächenstilllegung als direkte Einschränkung seiner Bewirtschaftung. Ein verbindliches Gesetz bedeutet für ihn weitere praxisferne Auflagen.",
+      "begruendung_selbst": "Wieder eine neue Verordnung, die mir vorschreibt, wie ich meinen Boden nutzen darf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Naturschutz ohne uns Landwirte!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Natürlicher Klimaschutz durch Wiedervernässung von Mooren und Renaturierung von Auen wird vorangetrieben.",
+      "seite": 15,
+      "zitat": "Moore, Auen und Wälder binden CO₂",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Solche Maßnahmen betreffen konkret Franks Ackerflächen und Weidehaltung. Er erlebt sie als Bevormundung durch Naturschutzakteure, die seine praktische Arbeit nicht kennen.",
+      "begruendung_selbst": "Die sollen erst mal selbst einen Hof führen, bevor sie mir vorschreiben, was ich mit meinem Land mache.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Öko, weniger Freiheit!",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Ökolandbau und Biodiversitätsmaßnahmen wie Blühstreifen werden gefördert.",
+      "seite": 16,
+      "zitat": "Biotopverbünde, Blühstreifen, Streuobstwiesen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Frank betreibt konventionellen Ackerbau und Mutterkuhhaltung. Die einseitige Förderung ökologischer Maßnahmen sieht er als Wettbewerbsnachteil und weitere Einschränkung seiner betrieblichen Entscheidungsfreiheit.",
+      "begruendung_selbst": "Ich hab nichts gegen Naturschutz – aber nicht, wenn ihn die bezahlen, die ihn nie gemacht haben.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Frank findet einzelne Passagen zum Bürokratieabbau und zur Stärkung aktiver Betriebe zustimmenswert, weil sie seine tägliche Belastung und Hofnachfolgesorgen direkt ansprechen. Gleichzeitig lehnt er die klimapolitischen Verbindlichkeiten und Naturschutzmaßnahmen ab, da sie für ihn neue, praxisferne Einschränkungen bedeuten. Insgesamt überwiegt die Skepsis gegenüber zusätzlichen Regulierungen.",
+    "score": -1
+  }
+}

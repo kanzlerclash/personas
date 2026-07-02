@@ -1,0 +1,76 @@
+{
+  "persona": "pendler",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:28:58.554Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56590,
+    "output_tokens": 1361,
+    "cached_tokens": 55552,
+    "total_tokens": 57951,
+    "dauer_ms": 12413,
+    "usd": 0.0168704
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Auto bleibt bezahlbar!",
+      "thema": "verkehr",
+      "programmpunkt": "Technologieoffenheit und Ablehnung von Verbrenner-Verboten sowie ideologischen Fahrverboten",
+      "seite": 61,
+      "zitat": "Wir lehnen eine ideologisch motivierte Technologiefeindlichkeit sowie diskriminierende Fahrverbote strikt ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf pendelt täglich mit dem Verbrenner und sieht in der klaren Ablehnung von Verboten und Technologiefeindlichkeit eine direkte Entlastung seiner Mobilitätskosten.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass mein Diesel nicht verboten wird. Ohne Auto geht hier gar nichts.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strompreis runter für uns hier!",
+      "thema": "energie",
+      "programmpunkt": "Initiative zur Teilung der bundeseinheitlichen Strompreiszone für günstigeren Strom in der Region",
+      "seite": 44,
+      "zitat": "Wir brauchen einen niedrigeren Strompreis für die Industrie und auch die Haushalte in unserer Region.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Schichtarbeit und sein Haushalt profitieren direkt von niedrigeren Energiepreisen; die regionale Preiszone würde seine Kosten spürbar senken.",
+      "begruendung_selbst": "Wenn der Strom hier billiger wird, bleibt mehr im Portemonnaie – genau das brauche ich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine ideologischen Klima-Vorgaben!",
+      "thema": "klima",
+      "programmpunkt": "Ablehnung praxisferner und ideologisch getriebener EU-Umweltvorgaben sowie Gold-Plating",
+      "seite": 90,
+      "zitat": "Wir bekämpfen praxisferne und ideologisch getriebene Vorgaben für unsere Industrie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralf fürchtet steigende Kosten durch CO₂-Preis und Verkehrswende; die klare Position gegen ideologische Übererfüllung bestätigt seine Skepsis gegenüber teuren Vorgaben ohne Alternative.",
+      "begruendung_selbst": "Die da oben sollen aufhören, mir das Leben mit Vorschriften noch teurer zu machen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Industriearbeitsplätze sichern!",
+      "thema": "arbeit",
+      "programmpunkt": "Stärkung der chemischen Industrie und des produzierenden Gewerbes als Rückgrat der Wirtschaft",
+      "seite": 12,
+      "zitat": "Chemie- und Pharma-Hub für Europäische Souveränität werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Toralfs Job als Industriemechaniker hängt von einer starken regionalen Industrie ab; die gezielte Ansiedlungs- und Erhaltungspolitik sichert seine Arbeitsstelle.",
+      "begruendung_selbst": "Solange die Industrie hier bleibt, habe ich meine Schicht und mein Einkommen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Toralf sieht in dem Programm vor allem Bestätigung seiner Alltagssorgen: klare Technologieoffenheit beim Auto, regionale Entlastung bei Energiepreisen und Ablehnung ideologischer Klimaauflagen. Das passt exakt zu seiner Lage als Pendler ohne ÖPNV-Alternative und als Facharbeiter in der Industrie. Kritikpunkte fehlen weitgehend.",
+    "score": 2
+  }
+}

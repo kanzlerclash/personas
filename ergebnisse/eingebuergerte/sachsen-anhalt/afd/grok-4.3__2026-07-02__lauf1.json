@@ -1,0 +1,88 @@
+{
+  "persona": "eingebuergerte",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:35:35.763Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89835,
+    "output_tokens": 1693,
+    "cached_tokens": 2304,
+    "total_tokens": 91528,
+    "dauer_ms": 16300,
+    "usd": 0.11543955
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Remigration – das bin ich gemeint!",
+      "thema": "integration",
+      "programmpunkt": "Einführung eines umfassenden Remigrationsprogramms mit Abschiebeoffensive und Verabschiedungskultur statt Integration.",
+      "seite": 5,
+      "zitat": "braucht eine Verabschiedungskultur für illegale Zuwanderer",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin erlebt die systematische Rhetorik von Remigration und Verabschiedung als direkte Bedrohung ihrer eigenen Zugehörigkeit und der ihrer Familie, obwohl sie in Deutschland geboren und eingebürgert ist.",
+      "begruendung_selbst": "Ich bin hier geboren – und trotzdem soll ich zur Verabschiedungskultur gehören? Wohin denn?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kulturfremd – so reden sie über uns!",
+      "thema": "integration",
+      "programmpunkt": "Ablehnung kulturfremder Fachkräfte und generelle Skepsis gegenüber Einwanderung aus nicht-europäischen Ländern.",
+      "seite": 5,
+      "zitat": "Folgeprobleme vermeiden, auf kulturfremde Fachkräfte verzichten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die wiederholte Verwendung von „kulturfremd“ als Kategorie trifft Aylin persönlich, da sie ihre Herkunft und die ihrer Eltern als dauerhaft fremd markiert.",
+      "begruendung_selbst": "Ich soll kulturfremd sein? Dabei spreche ich die Sprache, arbeite hier und bin Teil dieser Gesellschaft.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Einbürgerung nur mit Bekenntnis!",
+      "thema": "integration",
+      "programmpunkt": "Erhöhung der Hürden für Einbürgerung und Einführung eines verpflichtenden Bekenntnisses zur deutschen Kultur.",
+      "seite": 6,
+      "zitat": "Wer hier eingebürgert werden will, muss sich aber zu Deutschland bekennen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Aylin sieht in der Forderung nach einem expliziten kulturellen Bekenntnis eine weitere Hürde und ständige Prüfung ihrer Loyalität, obwohl sie bereits eingebürgert ist.",
+      "begruendung_selbst": "Ich habe schon den deutschen Pass – soll ich jetzt noch extra schwören, dass ich dazugehöre?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Islam gehört nicht hierher!",
+      "thema": "integration",
+      "programmpunkt": "Klares Bekenntnis, dass der Islam weder zu Deutschland noch zu Sachsen-Anhalt gehört und entsprechende Einschränkungen.",
+      "seite": 6,
+      "zitat": "Der Islam gehört weder zu Deutschland noch zu Sachsen-Anhalt",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die pauschale Ablehnung des Islams als nicht zugehörig verstärkt bei Aylin das Gefühl, dass Menschen mit muslimischem Hintergrund grundsätzlich als fremd gelten.",
+      "begruendung_selbst": "Meine Familie ist muslimisch geprägt – und plötzlich gehören wir nicht mehr dazu?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Integrationslotsen abschaffen!",
+      "thema": "integration",
+      "programmpunkt": "Abschaffung von Integrationslotsen zugunsten von Remigrationslotsen und Beendigung der Willkommenspropaganda.",
+      "seite": 5,
+      "zitat": "Remigrationslotsen statt Integrationslotsen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Der programmatische Austausch von Integrations- durch Remigrationspolitik signalisiert Aylin, dass Teilhabe und Integration nicht mehr gewollt sind.",
+      "begruendung_selbst": "Früher hieß es Integration, jetzt nur noch Remigration – wo soll das hinführen?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Aylin empfindet das gesamte migrations- und integrationspolitische Kapitel als existenzielle Bedrohung ihrer Zugehörigkeit. Die Kombination aus Remigrationsrhetorik, „kulturfremd“-Sprache und der Ablehnung von Integration trifft sie persönlich und verstärkt ihr Gefühl, ständig ihre Loyalität beweisen zu müssen. Sachliche Steuerung von Migration würde sie akzeptieren, die hier gewählte pauschale Ausgrenzung lehnt sie entschieden ab.",
+    "score": -2
+  }
+}

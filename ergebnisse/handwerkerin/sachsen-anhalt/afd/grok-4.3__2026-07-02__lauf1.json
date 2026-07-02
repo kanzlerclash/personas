@@ -1,0 +1,101 @@
+{
+  "persona": "handwerkerin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:36:12.416Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89958,
+    "output_tokens": 2095,
+    "cached_tokens": 2304,
+    "total_tokens": 92053,
+    "dauer_ms": 19636,
+    "usd": 0.1167133
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Bürokratie!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Bürokratieabbau durch Streichung unnötiger Regelungen und Zwei-für-eins-Prinzip bei neuen Vorschriften.",
+      "seite": 12,
+      "zitat": "Für jede neu geschaffene sowie sinnvolle bürokratische Maßnahme mindestens zwei überflüssige Regelungen gestrichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sabine verbringt täglich Stunden mit Formularen und Nachweisen; der angekündigte systematische Abbau trifft genau ihre größte betriebliche Belastung.",
+      "begruendung_selbst": "Ich sitze abends noch mit Aktenordnern da – wenn die wirklich zwei Regeln streichen für jede neue, kann ich wieder mehr Zeit auf der Baustelle sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Energiepreise runter, Heizungsgesetz weg!",
+      "thema": "energie",
+      "programmpunkt": "Abschaffung der Energiewende-Subventionen, Ende des Einspeisevorrangs und Rückkehr zu einem breiten Energiemix inklusive Kohle und Kernkraft.",
+      "seite": 13,
+      "zitat": "Rückkehr zu einem breit angelegten Energiemix auf Grundlage der sozialen Marktwirtschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre Kunden stornieren Heizungsaufträge wegen ständig wechselnder Vorgaben und hoher Preise; eine verlässliche, kostengünstige Energieversorgung stabilisiert ihren Auftragsbestand direkt.",
+      "begruendung_selbst": "Die Kunden fragen ständig, ob sie jetzt noch eine Gasheizung einbauen dürfen – wenn die Preise endlich runtergehen und die Regeln stabil bleiben, kommen die Aufträge wieder.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meisterausbildung kostenlos und mit Prämie!",
+      "thema": "arbeit",
+      "programmpunkt": "Kostenfreie Meisterausbildung und gestaffelte Meisterprämie bis 5.000 Euro bei früher Abschluss.",
+      "seite": 12,
+      "zitat": "Meisterausbildung zukünftig kostenfrei erfolgt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Inhaberin eines SHK-Betriebs mit Nachwuchssorgen profitiert sie direkt davon, dass eigene Gesellen leichter und günstiger den Meister machen können.",
+      "begruendung_selbst": "Wenn der Meister günstiger und mit Prämie belohnt wird, finde ich vielleicht endlich jemanden, der den Betrieb später übernehmen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutsche Fachkräfte zurückholen statt importieren!",
+      "thema": "arbeit",
+      "programmpunkt": "Rückkehrprogramm für ausgewanderte deutsche Fachkräfte mit Prämien und Unterstützung bei Wohnung und Kita.",
+      "seite": 5,
+      "zitat": "Rückkehrprogramm für ausgewanderte deutsche Fachkräfte auflegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sie sucht händeringend Gesellen und Azubis; die gezielte Rückholung einheimischer Fachkräfte passt exakt zu ihrem Bedarf an verlässlich ausgebildeten Mitarbeitern.",
+      "begruendung_selbst": "Lieber einen deutschen Gesellen, der die Arbeit kennt, als jemanden, der erst noch Deutsch und die Regeln lernen muss.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Noch mehr Abschiebungen – wen soll ich dann einstellen?",
+      "thema": "arbeit",
+      "programmpunkt": "Sofortiger Aufnahmestopp für Nicht-EU-Ausländer und massive Abschiebeoffensive auch bei abgelehnten Asylbewerbern.",
+      "seite": 5,
+      "zitat": "Sofortige Aufnahmestopps für Nicht-EU-Ausländer zu verfügen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Obwohl sie kulturfremde Zuwanderung kritisch sieht, schränkt ein totaler Stopp ihre ohnehin schmale Rekrutierungsmöglichkeiten weiter ein, ohne dass das Programm gleichzeitig ausreichend deutsche Handwerker garantiert.",
+      "begruendung_selbst": "Ich brauche Leute, die anpacken können – wenn alle Türen zu sind, wird’s nicht leichter, die Stellen zu besetzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Russland-Sanktionen weg – aber was ist mit Lieferketten?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Aufhebung aller Wirtschaftssanktionen gegen Russland und Wiederinbetriebnahme von Nord Stream.",
+      "seite": 12,
+      "zitat": "Aufhebung der Russlandsanktionen und aller anderen Wirtschaftssanktionen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Sie leidet unter hohen Energie- und Materialpreisen, doch eine plötzliche geopolitische Kehrtwende birgt für einen kleinen Betrieb unkalkulierbare Lieferkettenrisiken.",
+      "begruendung_selbst": "Billigeres Gas wäre super, aber wenn morgen wieder alles auf dem Kopf steht, hänge ich mit halben Baustellen da.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Sabine sieht in dem Programm vor allem Entlastung bei Bürokratie, Energiepreisen und Handwerksausbildung – genau die Punkte, die ihren Alltag als Betriebsinhaberin bestimmen. Die radikale migrationspolitische Kehrtwende und die außenpolitischen Sanktionspläne wirken dagegen zu abrupt und schaffen neue Unsicherheiten für ihren Betrieb. Insgesamt überwiegt die Zustimmung zu den wirtschafts- und mittstandsnahen Forderungen.",
+    "score": 1
+  }
+}

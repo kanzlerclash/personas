@@ -1,0 +1,89 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:28:00.439Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56654,
+    "output_tokens": 1703,
+    "cached_tokens": 49280,
+    "total_tokens": 58357,
+    "dauer_ms": 15420,
+    "usd": 0.024811
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Grunderwerbsteuer runter!",
+      "thema": "wohnen",
+      "programmpunkt": "Steuerliche Entlastung beim erstmaligen Erwerb von selbstgenutztem Wohneigentum im ländlichen Raum",
+      "seite": 31,
+      "zitat": "Grunderwerbsteuerbefreiung beim erstmaligen Erwerb selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica sehen hier eine direkte Senkung der Erwerbsnebenkosten, die bisher den Eigenheimkauf blockiert.",
+      "begruendung_selbst": "Endlich eine echte Entlastung beim Kauf – das bringt uns näher an die eigenen vier Wände.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kita-Plätze sichern, Beruf und Familie vereinbaren!",
+      "thema": "familie",
+      "programmpunkt": "Verlässliche, flächendeckende und qualitativ hochwertige Kinderbetreuung als zentrales Anliegen",
+      "seite": 31,
+      "zitat": "flächendeckende, qualitativ hochwertige und bezahlbare Kinderbetreuung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Doppelverdiener mit Kleinkind ist verlässliche Kita-Betreuung für sie existenziell, um beide Jobs halten zu können.",
+      "begruendung_selbst": "Ohne verlässliche Kita können wir beide nicht arbeiten – das muss endlich klappen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauen schneller und ohne Dauerauflagen!",
+      "thema": "wohnen",
+      "programmpunkt": "Baugenehmigungen vereinfachen, beschleunigen und digitalisieren, Bürokratie abbauen",
+      "seite": 65,
+      "zitat": "Wir vereinfachen und beschleunigen Baugenehmigungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Lange Genehmigungsverfahren und Auflagen treiben Baukosten und verzögern den Hausbau – hier verspricht das Programm Abhilfe.",
+      "begruendung_selbst": "Weniger Papierkrieg und schnellere Genehmigungen, damit wir endlich bauen können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine neuen Steuern und Abgaben!",
+      "thema": "steuern",
+      "programmpunkt": "Steuererhöhungen ablehnen und Belastungsmoratorium für Bürger und Wirtschaft",
+      "seite": 78,
+      "zitat": "Steuererhöhungen lehnen wir ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Zusätzliche Steuern oder Abgaben würden das ohnehin knappe Budget für Eigenkapital und Finanzierung weiter belasten.",
+      "begruendung_selbst": "Wir haben schon genug Belastung – keine neuen Steuern, die uns noch mehr wegnehmen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Energetische Vorgaben treiben Kosten!",
+      "thema": "energie",
+      "programmpunkt": "Energetische Sanierung und Bauvorgaben werden weiter verfolgt, ohne ausreichende Entlastung für junge Bauherren",
+      "seite": 65,
+      "zitat": "energetische und barrierefreie Sanierungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Strenge energetische Standards verteuern Neubau und Sanierung zusätzlich, ohne dass das Programm ausreichend gegensteuert.",
+      "begruendung_selbst": "Die ganzen Energie-Auflagen machen das Bauen noch teurer – das können wir uns nicht leisten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica sehen im Programm vor allem positive Ansätze bei der steuerlichen Entlastung von Wohneigentum, der Stärkung von Kita-Betreuung und dem Abbau von Baubürokratie. Diese Punkte treffen ihre Kernprobleme direkt. Kritisch bleiben sie bei den energetischen Auflagen, die Baukosten weiter treiben. Insgesamt fühlen sie sich in ihrer Aufstiegs- und Eigentumsorientierung eher bestätigt als enttäuscht.",
+    "score": 1
+  }
+}

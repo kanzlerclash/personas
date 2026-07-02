@@ -1,0 +1,76 @@
+{
+  "persona": "studentin_queer",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:39:34.129Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 89898,
+    "output_tokens": 1447,
+    "cached_tokens": 88768,
+    "total_tokens": 91345,
+    "dauer_ms": 13315,
+    "usd": 0.0240961
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaschutz ist Verrat an uns!",
+      "thema": "klima",
+      "programmpunkt": "Energiewende stoppen, Subventionen für Erneuerbare streichen, Windkraftmoratorium, Kohleausstieg rückgängig machen",
+      "seite": 13,
+      "zitat": "Windkraftausbau stoppen, Windkraftmoratorium beschließen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht in der systematischen Ablehnung der Energiewende eine existenzielle Bedrohung ihrer Zukunft und der Klimagerechtigkeit, die sie als zentralen Wert betrachtet.",
+      "begruendung_selbst": "Die wollen die ganze Energiewende abwürgen – wie soll ich da noch an eine lebenswerte Zukunft glauben?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queere Rechte sind ihnen egal!",
+      "thema": "demokratie",
+      "programmpunkt": "Regenbogenflaggen an Schulen verbieten, Frühsexualisierung stoppen, Genderstudien abschaffen, traditionelle Familie als Norm fördern",
+      "seite": 7,
+      "zitat": "Regenbogenflaggen an Schulen verbieten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Jule empfindet die gezielte Bekämpfung queerer Symbole und Lebensweisen als direkten Angriff auf ihre Identität und erkämpfte Rechte.",
+      "begruendung_selbst": "Die wollen Regenbogenflaggen verbieten und alles als pervers abstempeln – das geht gegen mich persönlich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vielfalt soll verschwinden!",
+      "thema": "demokratie",
+      "programmpunkt": "Gleichstellungsbeauftragte abschaffen, Förderung von Vielfalts- und Antidiskriminierungsprojekten beenden, Landeszentrale für politische Bildung reformieren",
+      "seite": 15,
+      "zitat": "Gleichstellungsbeauftragte abschaffen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule fürchtet den Abbau von Strukturen, die Minderheitenrechte und Vielfalt schützen, als Rückschritt für demokratische Teilhabe.",
+      "begruendung_selbst": "Alles, was Vielfalt und Gleichstellung fördert, soll weg – das ist ein Angriff auf uns alle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaflüchtlinge? Nie!",
+      "thema": "klima",
+      "programmpunkt": "Aufnahme von Klimaflüchtlingen stoppen, Masseneinwanderung als ökologisches Problem darstellen",
+      "seite": 13,
+      "zitat": "Aufnahme illegaler „Klimaflüchtlinge“ stoppen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Jule sieht darin eine Verweigerung globaler Klimaverantwortung und Solidarität, die ihrem Verständnis von Klimagerechtigkeit widerspricht.",
+      "begruendung_selbst": "Selbst Klimaflüchtlinge wollen sie nicht aufnehmen – das ist egoistisch und kurzsichtig.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Jule lehnt das Programm in fast allen relevanten Bereichen entschieden ab. Die radikale Ablehnung von Klimaschutz, die gezielte Bekämpfung queerer und vielfaltsbezogener Positionen sowie die traditionelle Familienideologie treffen direkt ihre Werte und Lebensrealität. Positive Berührungspunkte existieren nicht.",
+    "score": -2
+  }
+}

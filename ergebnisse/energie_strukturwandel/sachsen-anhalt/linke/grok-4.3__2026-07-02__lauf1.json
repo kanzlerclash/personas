@@ -1,0 +1,89 @@
+{
+  "persona": "energie_strukturwandel",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:44:39.101Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95354,
+    "output_tokens": 1827,
+    "cached_tokens": 84224,
+    "total_tokens": 97181,
+    "dauer_ms": 17573,
+    "usd": 0.0369373
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Strukturwandel mit uns planen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Demokratische Gestaltung des Strukturwandels durch regionale Wirtschafts- und Transformationsräte mit Beteiligung von Beschäftigten, Gewerkschaften, Wissenschaft und Kommunen.",
+      "seite": 91,
+      "zitat": "Demokratische Gestaltung des Wandels: Bürger:innen sollen mitgestalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht hier eine direkte Ansprache seiner beruflichen und regionalen Lage: der Wandel wird nicht über seine Region hinweg beschlossen, sondern mit den Menschen vor Ort.",
+      "begruendung_selbst": "Endlich wird nicht nur ein Datum gesetzt, sondern wir am Standort dürfen mitreden, wie es weitergeht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Chemie und Grundstoffe sichern!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Unterstützung der Chemie- und Grundstoffindustrie beim Umbau auf klimaneutrale Verfahren mit fairen Energiepreisen und Transformationsverträgen.",
+      "seite": 92,
+      "zitat": "faire Energiepreise für den Wandel – Energie- und CO₂-Kosten in Umbauphasen senken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die chemische Industrie ist für Ronny ein zentraler Arbeitgeber in der Region; die Forderung nach planbarer Transformation und Standortsicherung trifft seine Existenzsorgen.",
+      "begruendung_selbst": "Wenn die Chemie bleibt und umgebaut wird, haben wir auch morgen noch gute Jobs.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Grüner Wasserstoff für unsere Industrie!",
+      "thema": "energie",
+      "programmpunkt": "Aufbau einer landesweiten Wasserstoffinfrastruktur und Förderung von Elektrolyseanlagen mit erneuerbarem Strom für die Chemieindustrie.",
+      "seite": 109,
+      "zitat": "grünen Wasserstoff für die Chemieindustrie gezielt fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ronny sieht hier eine konkrete Brückentechnologie für seine Branche und Region, die Versorgungssicherheit und Wertschöpfung verbindet.",
+      "begruendung_selbst": "Wasserstoff kann unsere Anlagen am Laufen halten – das ist ein realistischer Plan.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaneutral bis 2035 – ohne Ersatz?",
+      "thema": "klima",
+      "programmpunkt": "Verbindliches Ziel Klimaneutralität bis 2035 mit CO₂-Budget und Klimawirkungsprüfung für alle Entscheidungen.",
+      "seite": 121,
+      "zitat": "Klimaneutral bis 2035",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das feste Enddatum ohne ausdrückliche Garantie eines tragfähigen Ersatzes vor Ort löst bei Ronny die Sorge aus, dass die Region vor dem Neuen abgehängt wird.",
+      "begruendung_selbst": "Erst die Brücke bauen, dann die alte abreißen – sonst fallen wir ins Wasser.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nur Bürgerenergie, keine Industriebrücken?",
+      "thema": "energie",
+      "programmpunkt": "Energiewende kommunal, digital und in Bürgerhand mit Fokus auf Genossenschaften und Stadtwerke.",
+      "seite": 107,
+      "zitat": "Energiewende: Kommunal, digital und in Bürgerhand",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Ronny fürchtet, dass die einseitige Betonung von Bürgerenergie große industrielle Anlagen und Netze vernachlässigt, die für seine Region existenziell sind.",
+      "begruendung_selbst": "Unsere Kraftwerke und Netze brauchen auch einen Plan, nicht nur Kleinkraftwerke auf dem Dach.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Ronny erkennt im Programm den Willen, den Strukturwandel demokratisch und mit regionaler Wertschöpfung zu gestalten, was seine berufliche und regionale Lage direkt anspricht. Gleichzeitig beunruhigt ihn das starre Klimaziel 2035 ohne ausreichend konkrete Brückentechnologien und industrielle Absicherung. Insgesamt sieht er mehr Ansätze für einen planbaren Wandel als bei anderen Parteien, bleibt aber skeptisch bei der Umsetzungsgeschwindigkeit.",
+    "score": 0
+  }
+}

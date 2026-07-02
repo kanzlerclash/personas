@@ -1,0 +1,77 @@
+{
+  "persona": "alleinerziehende",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:26:47.965Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 56641,
+    "output_tokens": 1488,
+    "cached_tokens": 56640,
+    "total_tokens": 58129,
+    "dauer_ms": 17328,
+    "usd": 0.01646925
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Alleinerziehende entlasten!",
+      "thema": "familie",
+      "programmpunkt": "Steuerliche Entlastung und bessere Beratung für Alleinerziehende",
+      "seite": 31,
+      "zitat": "faire steuerliche Entlastung Alleinerziehender",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine spürt die besonderen Belastungen als alleinerziehende Mutter täglich. Das Programm verspricht gezielte steuerliche und beratende Unterstützung, die ihre konkrete Situation anerkennt.",
+      "begruendung_selbst": "Ich arbeite schon und kümmere mich allein – endlich wird das auch steuerlich anerkannt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verlässliche Kita-Zeiten für Arbeit!",
+      "thema": "familie",
+      "programmpunkt": "Letztes Kita-Jahr als Vorschuljahr und flexible Betreuung",
+      "seite": 49,
+      "zitat": "letzte Kita-Jahr gezielt als Vorschuljahr",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Nadine braucht Betreuungszeiten, die mit ihrer Teilzeitarbeit vereinbar sind. Das Programm betont verlässliche und wohnortnahe Betreuung sowie flexible Modelle.",
+      "begruendung_selbst": "Wenn die Kita wirklich verlässlich offen hat, kann ich mehr arbeiten und muss nicht ständig fehlen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Schon wieder Bürgerarbeit für mich?",
+      "thema": "arbeit",
+      "programmpunkt": "Verpflichtende Bürgerarbeit für arbeitsfähige Leistungsbezieher",
+      "seite": 31,
+      "zitat": "arbeitsfähigen Leistungsempfängern, die eine Beschäftigung verweigern, ein verbindliches Angebot zur Arbeitsaufnahme macht.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Nadine arbeitet bereits Teilzeit und stockt auf. Die Ankündigung verpflichtender gemeinnütziger Arbeit verstärkt bei ihr das Gefühl, trotz Leistung unter Generalverdacht zu stehen.",
+      "begruendung_selbst": "Ich arbeite schon und kümmere mich – warum soll ich jetzt noch extra gemeinnützig arbeiten müssen?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fördern und Fordern trifft mich!",
+      "thema": "gesundheit",
+      "programmpunkt": "Aktivierender Sozialstaat mit verbindlicher Bürgerarbeit",
+      "seite": 33,
+      "zitat": "Fordern und Fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Programm betont das Prinzip „Fordern und Fördern“ und will Leistungsbezieher stärker aktivieren. Für Nadine, die bereits arbeitet, fühlt sich das wie Misstrauen und zusätzlicher Druck an.",
+      "begruendung_selbst": "Ich leiste schon was – ich brauche keine neuen Pflichten, sondern echte Unterstützung.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Nadine findet die angekündigte Entlastung für Alleinerziehende und die Betonung verlässlicher Kita-Betreuung positiv. Gleichzeitig stößt sie sich stark an der verpflichtenden Bürgerarbeit und der „Fördern-und-Fordern“-Rhetorik, die sie trotz ihrer eigenen Arbeit unter Verdacht stellt. Insgesamt überwiegt bei ihr das Gefühl, dass ihre konkrete Lebenslage nicht ausreichend gesehen wird.",
+    "score": -1
+  }
+}

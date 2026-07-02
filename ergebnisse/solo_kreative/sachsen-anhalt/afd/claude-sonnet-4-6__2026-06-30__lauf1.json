@@ -38,13 +38,12 @@
       "thema": "wirtschaft",
       "programmpunkt": "Das Programm will Kulturförderung auf Kunst beschränken, die zur deutschen Identitätsfindung beiträgt, und will Förderung für als antideutsch wahrgenommene Kunst streichen.",
       "seite": 6,
-      "zitat": "Staatsgeld vorwiegend solche Kunst fördern, die einen Beitrag zu deutscher Identitätsfindung leistet",
+      "zitat": "vorwiegend solche Kunst fördern, die einen Beitrag zu deutscher Identitätsfindung leistet",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Mareike arbeitet im freien Kreativbereich, der oft von Projektförderung abhängt; eine ideologisch gefilterte Förderung gefährdet ihren Zugang zu staatlichen Mitteln.",
       "begruendung_selbst": "Wenn der Staat entscheidet, welche Kunst 'deutsch genug' ist, für den Rest keine Förderung mehr kommt – dann bin ich draußen. Ich mache Design, keinen Patriotismus auf Auftrag.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "KSK und Absicherung – Fehlanzeige!",

@@ -60,13 +60,12 @@
       "thema": "wohnen",
       "programmpunkt": "Kommunales Vorkaufsrecht soll gesichert und ausgeweitet werden, um Bodenspekulation zu verhindern",
       "seite": 98,
-      "zitat": "kommunales Vorkaufsrecht sichern und ausweiten, um Bodenspekulation zu verhindern",
+      "zitat": "Vorkaufsrecht sichern und ausweiten, um Bodenspekulation zu verhindern",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
       "begruendung": "Steigende Grundstückspreise im Speckgürtel sind für kaufwillige Familien ein zentrales Hindernis. Maßnahmen gegen Bodenspekulation könnten die Preisdynamik dämpfen und Bauland für Familien zugänglicher machen.",
       "begruendung_selbst": "Wenn Kommunen Grundstücke aufkaufen bevor Spekulanten sie aufkaufen, dann bleiben Preise eher im Rahmen. Das hilft uns direkt beim Bauplatz oder Hauskauf.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [

@@ -1,0 +1,89 @@
+{
+  "persona": "junge_familie_bau",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-02T19:18:54.627Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 48008,
+    "output_tokens": 1835,
+    "cached_tokens": 46912,
+    "total_tokens": 49843,
+    "dauer_ms": 17056,
+    "usd": 0.0170599
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kita bis 10 Stunden – endlich planbar!",
+      "thema": "familie",
+      "programmpunkt": "Rechtsanspruch auf bis zu zehn Stunden Betreuung von Geburt bis 14 Jahren wird gehalten und flexibel ausgebaut.",
+      "seite": 18,
+      "zitat": "Der Rechtsanspruch auf bis zu zehn Stunden Betreuung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Tom und Jessica brauchen verlässliche Betreuung, um beide Vollzeit arbeiten zu können. Das Programm sichert den bestehenden Anspruch und will flexible Öffnungszeiten fördern.",
+      "begruendung_selbst": "Endlich können wir beide Vollzeit arbeiten, ohne dass die Kita uns im Stich lässt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stromsteuer runter – weniger Nebenkosten!",
+      "thema": "energie",
+      "programmpunkt": "Senkung der Stromsteuer auch für private Haushalte gefordert, um Energiekosten zu senken.",
+      "seite": 33,
+      "zitat": "die Stromsteuer sollen daher für alle Haushalte gesenkt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Hohe Energiekosten belasten das Familienbudget zusätzlich zum Miet- und Sparziel fürs Eigenheim. Eine Senkung würde direkt entlasten.",
+      "begruendung_selbst": "Jeder Euro weniger bei Strom hilft uns beim Sparen fürs Haus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenlose Schülerbeförderung – weniger Pendelstress!",
+      "thema": "verkehr",
+      "programmpunkt": "Kostenlose Beförderung von Schülern und Auszubildenden im ÖPNV wird angestrebt.",
+      "seite": 26,
+      "zitat": "Wir streben eine kostenlose Beförderung von Schülern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Im Speckgürtel ist der tägliche Weg zur Kita oder später zur Schule ein Kosten- und Zeitfaktor. Die Entlastung passt zu ihrem Alltag.",
+      "begruendung_selbst": "Weniger Ausgaben für Bus und Bahn – das rechnet sich für uns.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Energetische Auflagen treiben Baukosten hoch!",
+      "thema": "energie",
+      "programmpunkt": "Klimafreundliche Wärmeversorgung und strenge energetische Standards werden als zentrale Vorgabe für Neubau und Sanierung betont.",
+      "seite": 27,
+      "zitat": "Die klimafreundliche Wärmeversorgung darf keine zweite Miete werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Tom und Jessica sehen energetische Vorgaben als zusätzliche Kostenbarriere beim Eigenheimbau. Das Programm erkennt das Problem, bietet aber keine konkrete Entlastung für junge Bauherren.",
+      "begruendung_selbst": "Noch mehr Vorschriften – und wir können uns das Bauen sowieso nicht leisten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozialer Wohnungsbau statt Eigentumsförderung!",
+      "thema": "wohnen",
+      "programmpunkt": "Fokus liegt auf sozialem Wohnungsbau, barrierefreien Mietwohnungen und kommunaler Wärmeplanung statt direkter Unterstützung für Ersterwerb oder Bauland.",
+      "seite": 27,
+      "zitat": "Der soziale Wohnungsbau wird gestärkt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Familie will Eigentum erwerben, nicht dauerhaft mieten. Das Programm adressiert vor allem Mieter und soziale Träger, nicht die Nebenkosten beim Kauf oder Bauen.",
+      "begruendung_selbst": "Wir wollen kaufen, nicht auf Sozialwohnungen warten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Tom und Jessica finden die Kita-Sicherung und die Forderung nach niedrigeren Stromsteuern hilfreich für ihren Alltag. Gleichzeitig sehen sie keine spürbare Entlastung bei Baukosten, Grunderwerbsteuer oder energetischen Auflagen, die ihren Eigenheim-Traum blockieren. Das Programm spricht Mieter und soziale Belange stärker an als aufstiegsorientierte junge Familien, die Eigentum anstreben.",
+    "score": -1
+  }
+}
