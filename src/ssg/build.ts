@@ -183,18 +183,25 @@ const add = (pfad: string, titel: string, beschr: string, body: string) => seite
 
 // Landing
 {
-  const q = (href: string, t: string) => `<a class="fl-q" href="${u(href)}" title="Methodik: ${e(t)}">?</a>`;
+  const OPUS = SLUGS.includes("claude-opus-4-8") ? "claude-opus-4-8" : SIG[0].slug;
+  const flBox = (href: string, tip: string, stark: string, unter: string) =>
+    `<a class="fl-box" href="${u(href)}" title="Methodik: ${e(tip)}"><span class="fl-q" aria-hidden="true">?</span><strong>${stark}</strong><span>${unter}</span></a>`;
   const fluss = `<div class="fluss">` +
-    `<div class="fl-box">${q("methodik/personas/", "Personas")}<strong>${PERSONAS.length} Personas</strong><span>fiktive Lebenslagen</span></div>` +
-    `<div class="fl-box">${q("methodik/wahlprogramme/", "Wahlprogramme")}<strong>${PARTEIEN.length} Wahlprogramme</strong><span>Sachsen-Anhalt · Volltext, zitiert</span></div>` +
+    flBox("methodik/personas/", "Personas", `${PERSONAS.length} Personas`, "fiktive Lebenslagen") +
+    flBox("methodik/wahlprogramme/", "Wahlprogramme", `${PARTEIEN.length} Wahlprogramme`, "Sachsen-Anhalt · Volltext, zitiert") +
     `<div class="fl-pfeil">→</div>` +
-    `<div class="fl-box">${q("methodik/ki-modelle/", "KI-Modelle")}<strong>${SIG.length} KI-Modelle</strong><span>${e(SIG.map((m) => kurz(m.slug)).join(" · "))}</span></div>` +
+    flBox("methodik/ki-modelle/", "KI-Modelle", `${SIG.length} KI-Modelle`, e(SIG.map((m) => kurz(m.slug)).join(" · "))) +
     `<div class="fl-pfeil">→</div>` +
-    `<div class="fl-box">${q("methodik/ki-modelle/", "KI-Urteile & Belege")}<strong>${ERG.length} KI-Urteile</strong><span>je mit Seite + Zitat belegt</span></div></div>`;
+    flBox("methodik/ki-modelle/", "KI-Urteile & Belege", `${ERG.length} KI-Urteile`, "je mit Seite + Zitat belegt") +
+    `</div>`;
   const karten = SIG.map((m) => `<a class="sigkarte" href="${u(`modell/${m.slug}/`)}"><h4>${e(kurz(m.slug))}</h4><div class="sig-modell">${e(m.name)}</div><div class="sig-zahlen">${sigZeile("Ø-Urteil", scoreTxt(m.avgScore), scoreFarbe(m.avgScore))}${sigZeile("Kritik-Quote", Math.round(m.kritikQuote * 100) + " %", scoreFarbe(2 - m.kritikQuote * 4))}${sigZeile("Tonalität", m.labels.ton)}${sigZeile("Ø Punkte/Urteil", String(m.avgHighlights))}</div><div class="sig-label">${e(m.labels.kritik + ", " + m.labels.ton)} · ${m.anzahl} Urteile</div><span class="sig-cta">→ Personas ansehen</span></a>`).join("");
+  const persChips = PERSONAS.map((p) => `<a href="${u(`persona/${p.slug}/`)}">${avatarImg(p, "avatar mini")}<span>${e(p.name)}</span></a>`).join("");
+  const parteiChips = parteienMit(OPUS).map((pa) => `<a href="${u(`modell/${OPUS}/partei/${pa}/`)}">${e(parteiName(pa))}</a>`).join("");
   const body = `<section class="hero"><h2>Wie urteilen KI-Modelle über die Wahlprogramme?</h2>${fluss}</section>
 <div class="infobox"><strong>Was ist Modell-Bias?</strong> Alle Modelle lesen dieselben Programme aus Sicht derselben fiktiven Personas — und urteilen trotzdem unterschiedlich streng und kritisch. Dieses Urteil hängt vom <em>Modell</em> (und seiner Version) ab. Wähle ein Modell und sieh selbst.</div>
 <h3 class="abschnitt">Die Modelle und ihr Bias</h3><div class="sig-grid">${karten}</div>
+<h3 class="abschnitt">Die ${PERSONAS.length} Personas</h3><div class="persliste">${persChips}</div>
+<h3 class="abschnitt">Die Parteien · Sachsen-Anhalt</h3><p class="mini">Urteile standardmäßig aus Sicht von ${e(kurz(OPUS))} — auf der Partei-Seite ist das Modell wechselbar.</p><div class="persliste text">${parteiChips}</div>
 <div class="unternav"><a class="navbtn" href="${u("vergleich/")}">⚖ Wo sind sich die Modelle uneinig?</a><a class="navbtn" href="${u("personas/")}">👤 Nach Persona einsteigen</a></div>`;
   add("", "Personas — ein KanzlerClash #LTW26 Projekt", "Wie urteilen verschiedene KI-Modelle über die Wahlprogramme zur Landtagswahl 2026 (Sachsen-Anhalt)? Modell-Vergleich, Bias-Signaturen, belegte Quellen. Keine Wahlempfehlung.", body);
 }
