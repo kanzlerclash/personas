@@ -1,0 +1,125 @@
+{
+  "persona": "industriearbeiter",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-02T22:29:24.303Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76924,
+    "output_tokens": 7376,
+    "cached_tokens": 75904,
+    "total_tokens": 84300,
+    "dauer_ms": 136160,
+    "usd": 0.06846475
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich günstigere Energiepreise!",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will die Stromsteuer für alle Unternehmen und Privathaushalte auf den EU-Mindestwert absenken, um die Industrie zu entlasten und Deindustrialisierung zu stoppen.",
+      "seite": 13,
+      "zitat": "auf den EU-Mindestwert in Höhe von 0,1 Cent",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwe als Facharbeiter in der energieintensiven Chemieindustrie sieht in hohen Strompreisen eine direkte Bedrohung für seinen Standort und seine Kollegen. Die Forderung nach drastisch niedrigeren Stromsteuern trifft seinen Kernwunsch nach bezahlbarer Energie für die Industrie.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass die Strompreise runter müssen! Unsere Chemiewerke können so nicht mehr konkurrieren. Wenn die Energiekosten nicht sinken, sind unsere Jobs weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit dem Emissionshandel!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die AfD will den europäischen Emissionshandel abschaffen, weil er deutsche Unternehmen im internationalen Wettbewerb benachteilige und zur Deindustrialisierung führe.",
+      "seite": 13,
+      "zitat": "Durch die Bepreisung von CO₂ werden europäische",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Emissionshandel verteuert die Produktion in der chemischen Industrie massiv. Uwe erlebt täglich, wie sein Standort unter den Zusatzkosten leidet und Investitionen ausbleiben. Die Abschaffung würde aus seiner Sicht die Wettbewerbsfähigkeit erhalten.",
+      "begruendung_selbst": "Der Emissionshandel macht unsere Industrie kaputt. In China und Indien lachen die sich schlapp, während wir hier zusperren. Das muss aufhören, sonst ist das Chemiedreieck bald Geschichte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kohle bleibt, Jobs bleiben!",
+      "thema": "energie",
+      "programmpunkt": "Die AfD will den Kohleausstieg stoppen und den Kohlestandort Sachsen-Anhalt auch über 2038 hinaus erhalten, um Arbeitsplätze und Versorgungssicherheit zu gewährleisten.",
+      "seite": 13,
+      "zitat": "Sachsen-Anhalt auch über das Jahr 2038 hinaus",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Uwes gesamte Region hängt an der energieintensiven Industrie, die auf zuverlässige und bezahlbare Grundlastenergie angewiesen ist. Der Stopp des Kohleausstiegs bedeutet für ihn Planungssicherheit und den Erhalt des industriellen Ökosystems, in dem er arbeitet.",
+      "begruendung_selbst": "Ohne Kohlestrom läuft bei uns gar nichts. Die Braunkohle sichert nicht nur Jobs im Kraftwerk, sondern auch bei uns in der Chemie. Wer den Ausstieg stoppt, sichert unsere Zukunft hier.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanktionen schaden uns selbst!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die AfD will die Wirtschaftssanktionen gegen Russland aufheben, da sie der sachsen-anhaltischen Wirtschaft massiv geschadet hätten.",
+      "seite": 12,
+      "zitat": "Handel sachsen-anhaltischer Unternehmen mit Russland fast zum Erliegen gekommen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Chemieindustrie in Sachsen-Anhalt war stark auf russische Rohstoffe und den russischen Markt angewiesen. Uwe hat erlebt, wie die Sanktionen Lieferketten zerstört und die Produktion verteuert haben. Die Forderung nach einem Ende der Sanktionen spricht seine wirtschaftlichen Sorgen direkt an.",
+      "begruendung_selbst": "Vor den Sanktionen lief das Geschäft mit Russland bestens. Jetzt zahlen wir drauf und die Konkurrenz in Asien freut sich. Das schadet unseren Arbeitsplätzen hier vor Ort.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Klimaschutz? Komplett verweigert!",
+      "thema": "klima",
+      "programmpunkt": "Die AfD lehnt jegliche Klimaschutzpolitik ab, will aus dem Pariser Klimaabkommen austreten und bestreitet den menschengemachten Klimawandel.",
+      "seite": 13,
+      "zitat": "Die AfD lehnt die globalistische Klimaideologie",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist nicht gegen Klimaschutz an sich, sondern gegen ein Tempo, das Jobs zerstört. Die AfD bietet jedoch keinerlei Transformationskonzept – sie verweigert sich dem Thema komplett. Das gibt Uwe keine Perspektive für einen sozial abgesicherten Wandel seiner Branche.",
+      "begruendung_selbst": "Ich bin doch nicht gegen Klimaschutz! Aber die AfD will einfach gar nichts machen. Das ist auch keine Lösung – meine Branche braucht eine Zukunft, und die gibt's nur mit Transformation, nicht mit Kopf-in-den-Sand.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wo bleiben die Gewerkschaften?",
+      "thema": "arbeit",
+      "programmpunkt": "Das gesamte Programm erwähnt an keiner Stelle Gewerkschaften, Tarifbindung, Mitbestimmung oder Arbeitnehmerrechte. Stattdessen wird konsequent nur aus Unternehmer- und Standortperspektive argumentiert.",
+      "seite": 12,
+      "zitat": "Förderung des Mittelstands statt Subventionierung globalistischer Großkonzerne",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe ist Gewerkschafter und Betriebsrat. Dass ein 138-seitiges Programm kein einziges Mal Tarifbindung, Mitbestimmung oder Arbeitnehmerrechte erwähnt, ist für ihn ein alarmierendes Signal. Die reine Fokussierung auf Unternehmensinteressen ohne Arbeitnehmerperspektive widerspricht seinem Wertegerüst.",
+      "begruendung_selbst": "138 Seiten und kein Wort über Gewerkschaften, Tarifverträge oder Mitbestimmung? Da weiß ich sofort, wo ich stehe. Wer die Arbeitnehmerseite komplett ignoriert, kann nicht meine Partei sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozialstaat unter Beschuss!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die AfD will das Bürgergeld für bestimmte Gruppen streichen und Sozialleistungen massiv kürzen, um Steuergelder einzusparen.",
+      "seite": 5,
+      "zitat": "Das Bürgergeld ist längst zum Migrantengeld geworden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe glaubt an Solidarität und den Sozialstaat als Sicherheitsnetz für alle. Die Rhetorik gegen Sozialleistungsempfänger und die geplanten Kürzungen widersprechen seinem gewerkschaftlichen Grundverständnis, dass der Sozialstaat die Schwachen schützen muss.",
+      "begruendung_selbst": "Der Sozialstaat ist für alle da – das ist doch das Fundament unserer Gesellschaft. Wenn man anfängt, da zu kürzen und Gruppen gegeneinander auszuspielen, trifft das am Ende immer die Falschen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Staatsquote radikal kürzen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die AfD will die Staatsquote auf maximal 45 Prozent des BIP senken und pauschal 10 Prozent in allen Ministerien kürzen.",
+      "seite": 17,
+      "zitat": "auf maximal 45 Prozent des Bruttoinlandsprodukts",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Uwe weiß, dass ein starker Staat Infrastruktur, Bildung und soziale Sicherung finanzieren muss. Pauschale Kürzungen von 10 Prozent in allen Ministerien würden aus seiner Sicht auch die Bereiche treffen, die für Industriestandorte essenziell sind – von Berufsschulen bis zur Verkehrsinfrastruktur.",
+      "begruendung_selbst": "Zehn Prozent pauschal kürzen? Das trifft doch auch die Berufsschulen, die Straßen, die ganze Infrastruktur, die wir als Industrie brauchen. Wer so mit der Axt rangeht, sägt den Ast ab, auf dem wir alle sitzen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Uwe findet bei der AfD einige energie- und industriepolitische Positionen, die seine akuten Sorgen um Standorterhalt und bezahlbare Energie ansprechen – insbesondere die Forderungen nach niedrigeren Stromsteuern, dem Stopp des Kohleausstiegs und dem Ende des Emissionshandels. Gleichzeitig vermisst er fundamental, was ihm als Gewerkschafter wichtig ist: Das Programm erwähnt kein einziges Mal Tarifbindung, Mitbestimmung oder Arbeitnehmerrechte. Die komplette Verweigerung jeglicher Klimapolitik bietet ihm keine Perspektive für einen sozial abgesicherten Strukturwandel, und die geplanten Sozialkürzungen widersprechen seinem Solidaritätsverständnis.",
+    "score": 0
+  }
+}
