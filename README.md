@@ -1,5 +1,10 @@
 # KanzlerClash — Personas × Wahlprogramme (#LTW26)
 
+- 🔗 [Interaktive Visualisierung → **kanzlerclash.github.io/personas**](https://kanzlerclash.github.io/personas/)
+- 👤 [**Die 16 Personas**](https://kanzlerclash.github.io/personas/personas/) — die fiktiven Lebenslagen im Überblick
+- ⚖ [**Wo die Modelle sich uneinig sind**](https://kanzlerclash.github.io/personas/vergleich/) — Divergenz der KI-Modelle
+- 📦 [**Rohdaten**](https://github.com/kanzlerclash/personas/tree/main/ergebnisse) — alle KI-Auswertungen als JSON (CC-BY-SA)
+
 Ein **Forschungs- und Bildungsprojekt** zu den Landtagswahlen 2026:
 
 | Landtagswahl | Datum |
