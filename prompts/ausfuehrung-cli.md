@@ -23,8 +23,8 @@ und die statische Seite unverändert weiterfunktionieren und die Modelle verglei
 
 | Tool | `MODELL_SLUG` | `MODELL` | `ERZEUGT_VIA` |
 |---|---|---|---|
-| Codex / GPT | `gpt-5-codex` | `gpt-5-codex` | `codex-cli (ohne Gateway)` |
-| Gemini CLI | `gemini-3-pro` | `gemini-3-pro` | `gemini-cli (ohne Gateway)` |
+| Codex / GPT-5.5 | `gpt-5.5` | `gpt-5.5` | `codex/gpt-5.5 (medium, ChatGPT-Login)` |
+| Gemini via `agy` | `gemini-3.1-pro` | `Gemini 3.1 Pro (High)` | `agy (gemini-3.1-pro, ohne Gateway)` |
 
 (Trag den **echten** Modellnamen ein, den deine CLI nutzt. Der `MODELL_SLUG` darf keine
 `/` enthalten — er wird Teil des Dateinamens.)
@@ -47,7 +47,7 @@ energie_strukturwandel, junge_familie_bau, solo_kreative, landaerztin, soldat`
 
 ## Ausgabe — genau eine Datei pro Persona
 Pfad: `ergebnisse/<slug>/<LAND>/<PARTEI>/<MODELL_SLUG>__<datum>__lauf1.json`
-Beispiel: `ergebnisse/landwirt/sachsen-anhalt/cdu/gpt-5-codex__2026-06-30__lauf1.json`
+Beispiel: `ergebnisse/landwirt/sachsen-anhalt/cdu/gpt-5.5__2026-06-30__lauf1.json`
 
 ```json
 {

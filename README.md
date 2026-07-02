@@ -37,7 +37,8 @@ bevoelkerung/         je Persona ein belegter Bevölkerungsanteil (Entwurf → v
 daten/
   themen.json         16-Themen-Taxonomie
   wahlprogramme.json  Quell-Register: Partei × Landtag → URL (+ Format, Stand)
-  modelle.json        zu vergleichende LLMs (Slug, Gateway-ID, Temperatur)
+  modelle.json        die 4 verglichenen LLMs (Slug, Gateway-ID, Temperatur) — Referenz-Config
+                      (eingecheckte Daten entstanden ohne Gateway, siehe „erzeugt_via")
 prompts/
   vergleich.v1.md                System-Prompt des Persona×Programm-Vergleichs (versioniert)
   herkunft-personas-und-avatare.md  Modell + Anweisungen, mit denen Personas/Avatare entstanden
@@ -45,12 +46,14 @@ prompts/
   ausfuehrung-claude-code.md     Runbook: Auswertungen lokal mit Claude Code erzeugen (ohne Gateway)
   ausfuehrung-cli.md             Runbook: Auswertungen mit fremder Agent-CLI (agy/Gemini, Codex/GPT) erzeugen
   llm-cli-vorlage.md                 Prompt-Vorlage (Platzhalter __LAND__/__PARTEI__/__PERSONA__/__MODELL__…) für CLI-Läufe
-scripts/              Orchestrierung der CLI-Läufe: agy-lauf.sh (Partei-Batch), agy-fill.sh
-                      (idempotent, sequenziell, selbstheilend), fix-agy.mjs (Score/Seiten-Korrektur)
+scripts/              Orchestrierung der CLI-Läufe: agy-lauf.sh / agy-fill.sh (Gemini via agy,
+                      idempotent & selbstheilend), codex-fill.sh (GPT-5.5 via Codex),
+                      fix-agy.mjs (Score/Seiten-Korrektur), patch-tokens.mjs
 cache/                gecachte Programme (PDF/HTML, Text, seiten.json) — GIT-IGNORIERT
 ergebnisse/           generierte LLM-Auswertungen (CC-BY-SA), je Lauf eine JSON
-src/pipeline/         Node/TypeScript-Pipeline (tsx)
-src/site/             statische Seite (Vite) für GitHub Pages
+src/pipeline/         Node/TypeScript-Pipeline (tsx): cache, vergleich, verify, bevoelkerung
+src/ssg/build.ts      Static-Site-Generator: echte HTML-Ordner je Route, Avatar-PNGs serverseitig
+src/site/             Styles (style.css) + Legacy-Datenbau; Deploy nach GitHub Pages
 ```
 
 ---
@@ -90,6 +93,8 @@ Jede Persona ist eine YAML unter `personas/<slug>.yaml`. Der **Slug ist der Date
 
 `pnpm run vergleich` lädt für jede Kombination **Persona × Land × Partei × Modell** den Programmtext aus dem Cache und ruft das Modell über das **Vercel AI Gateway** auf (ein `AI_GATEWAY_API_KEY` für alle Provider, zentrale Kostensicht). Modelle stehen in `daten/modelle.json` (Standard-Temperatur **0.0** — isoliert den Modell-Effekt; Rest-Varianz misst man über mehrere Läufe via `LAEUFE`).
 
+> **Hinweis:** Die **eingecheckten 448 Auswertungen** (Sachsen-Anhalt × 7 Parteien × 16 Personas × 4 Modelle) entstanden **komplett ohne Gateway** — über Claude Code (Opus 4.8, Sonnet 4.6) und Agent-CLIs (Gemini 3.1 Pro via `agy`, GPT-5.5 via Codex). Das Gateway-Skript ist die reproduzierbare Referenz-Pipeline; die tatsächliche Herkunft je Lauf steht im Feld `erzeugt_via`. Siehe die beiden „ohne Gateway"-Abschnitte unten.
+
 **Prompt:** `prompts/vergleich.v1.md` (versioniert, mit-committet, enthält Anti-Bias- und Würde-Regeln).
 
 **Ergebnis je Lauf** (`ergebnisse/<persona>/<land>/<partei>/<modell>__<datum>__lauf<n>.json`):
@@ -100,7 +105,7 @@ Jede Persona ist eine YAML unter `personas/<slug>.yaml`. Der **Slug ist der Date
 
 ### Alternative ohne Gateway: Auswertung mit Claude Code
 
-Statt über das AI Gateway lässt sich ein Lauf auch **lokal von einer Claude-Code-Instanz** erzeugen — gleiches Schema, gleiche Belegregeln, gleiche Pfade. Solche Läufe tragen `"erzeugt_via": "claude-code-subagent (ohne Gateway)"` und `metrik: null` (keine Token-/Kostenmessung). Das vollständige Runbook (inkl. der wichtigen Regel **`seite` = Marker-Nummer `===== Seite N =====`**, nicht die gedruckte Kopfzeile) steht in [`prompts/ausfuehrung-claude-code.md`](prompts/ausfuehrung-claude-code.md). So erzeugt: **alle 7 Parteien in `sachsen-anhalt`** (je 16 Personas, `claude-opus-4-8`, lauf1 → 112 Auswertungen, 710/711 Belege automatisch verifiziert). Für `mv`/`berlin` genügt es, diese Datei einer Claude-Code-Instanz zu geben, sobald die Programme im Cache liegen.
+Statt über das AI Gateway lässt sich ein Lauf auch **lokal von einer Claude-Code-Instanz** erzeugen — gleiches Schema, gleiche Belegregeln, gleiche Pfade. Solche Läufe tragen `"erzeugt_via": "claude-code-subagent (ohne Gateway)"` und `metrik: null` (keine Token-/Kostenmessung). Das vollständige Runbook (inkl. der wichtigen Regel **`seite` = Marker-Nummer `===== Seite N =====`**, nicht die gedruckte Kopfzeile) steht in [`prompts/ausfuehrung-claude-code.md`](prompts/ausfuehrung-claude-code.md). So erzeugt: **alle 7 Parteien in `sachsen-anhalt`** (je 16 Personas, `claude-opus-4-8`, lauf1 → 112 Auswertungen; alle Zitate automatisch gegen die Programmseiten geprüft, `pnpm run verify`). Für `mv`/`berlin` genügt es, diese Datei einer Claude-Code-Instanz zu geben, sobald die Programme im Cache liegen.
 
 ### Alternative ohne Gateway: Auswertung mit fremder Agent-CLI (so haben wir die weiteren Modelle erzeugt)
 
@@ -130,7 +135,7 @@ Diese Läufe tragen `"erzeugt_via": "agy (…)"` bzw. `"codex/gpt-5.5 (…)"` un
 
 ## 6. Statische Seite
 
-`src/site/` rendert die Daten statisch (Vite). Jede Persona erhält über [`@retro-antlitz-kartei/generator`](https://dracoblue.github.io/retro-antlitz-kartei/) (MIT) deterministisch ein 8-Bit-Gesicht (Seed = Slug). Deploy nach GitHub Pages.
+`src/ssg/build.ts` rendert die Daten als **echte HTML-Seiten** (ein Ordner mit `index.html` je Route, kein Hash-SPA, kein großes JS-Bundle; `pnpm run build`, lokal `pnpm run preview`). Jede Persona hat ein **von Hand kuratiertes** 8-Bit-Gesicht (`gesicht.config` in der Persona-YAML, gerendert über [`@retro-antlitz-kartei/generator`](https://dracoblue.github.io/retro-antlitz-kartei/), MIT; serverseitig als PNG) — passend zur Lebenslage, **kein** Seed-aus-Slug (siehe `prompts/herkunft-personas-und-avatare.md`). Deploy nach GitHub Pages.
 
 ---
 
@@ -144,7 +149,8 @@ pnpm run cache                # Programme nach cache/ laden
 pnpm run vergleich -- --persona landwirt --land sachsen-anhalt --partei spd --modell claude-opus-4-8
 pnpm run verify               # Zitate gegen Seiten prüfen
 pnpm run bevoelkerung -- --persona landwirt
-pnpm run dev                  # Seite lokal (pnpm run build / preview)
+pnpm run build                # statische Seite nach dist/ bauen
+pnpm run preview              # dist/ lokal unter http://localhost:4173/ servieren
 ```
 
 Filter-Flags für `cache`/`vergleich`/`verify`/`bevoelkerung`: `--land`, `--partei`, `--persona`, `--modell`. Mehrere Läufe: `LAEUFE=3 pnpm run vergleich …`.

@@ -12,7 +12,7 @@ nur dass **ein Claude-Code-Agent** die Bewertung übernimmt, statt das Modell ü
 Vercel AI Gateway aufzurufen. Schema, Dateipfade und Belegregeln sind identisch, damit
 `pnpm run verify` und die statische Seite unverändert weiterfunktionieren.
 
-So entstand bereits: **`sachsen-anhalt` × `bsw`** (16 Personas, `claude-opus-4-8`, lauf1).
+So entstanden bereits: **alle 7 Parteien in `sachsen-anhalt`** (je 16 Personas, `claude-opus-4-8`, lauf1 → 112 Auswertungen). Sonnet 4.6 lief analog; Gemini 3.1 Pro und GPT-5.5 über Agent-CLIs (siehe `ausfuehrung-cli.md`).
 
 ## Wann dieser Weg
 - Kein `AI_GATEWAY_API_KEY` vorhanden / Gateway nicht erwünscht.

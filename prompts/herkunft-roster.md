@@ -1,9 +1,13 @@
 # Herkunft der `roster.md` (Start-Besetzung der 16 Personas)
 
 Dieses Dokument hält transparent fest, **wie** die Besetzung der 16 Lebenslagen
-(`roster.md`) entstanden ist — das Design-Gerüst, aus dem später die Persona-Profile
+(das „Roster") entstanden ist — das Design-Gerüst, aus dem später die Persona-Profile
 (`personas/*.yaml`) erzeugt wurden. Es ist das Gegenstück zu
 [`herkunft-personas-und-avatare.md`](herkunft-personas-und-avatare.md), eine Ebene weiter oben.
+
+> Das ursprüngliche `roster.md` war ein **redaktionelles Vorstadium** und ist nicht Teil des
+> öffentlichen Repos; die 16 Lebenslagen leben heute als vollwertige `personas/*.yaml`. Dieses
+> Dokument beschreibt die **Methode** dahinter.
 
 ## Wichtig: kein reproduzierbarer API-Prompt
 
@@ -52,8 +56,8 @@ werden, sonst ist das Spiel parteiisch, egal wie sauber jede Einzelzeile ist.
    AfD/CDU), **C** (quergespannt, bricht Links-Rechts) — grob im Verhältnis 5/5/6. Primär- und
    Sekundär-Treffer wurden so verteilt, dass der **Cast-Audit** (Schärfe-Summe je Partei)
    ausbalanciert ist. **SPD und BSW** sind als *Primär*-Ziel bewusst dünn (zentristisch/
-   quergespannt) und im README als Audit-Beobachtung markiert.
-4. **Themen-Check:** alle 16 Skills durch mindestens eine Persona belegt (Nischen-Anker:
+   quergespannt) — eine bewusste Audit-Beobachtung.
+4. **Themen-Check:** alle 16 Themen durch mindestens eine Persona belegt (Nischen-Anker:
    `landwirtschaft` → Landwirt, `verteidigung` → Soldat).
 
 ## Leitlinien aus der Recherche (im Dialog konsultiert)
@@ -81,9 +85,9 @@ lief, sind nicht alle Einzel-URLs rekonstruierbar; die Quellen sind nach Typ/Nam
 
 ## Bewusste Grenzen
 
-- Die Schlagseiten-Zuordnungen (`trifft_hart` / `betrifft_kaum`) sind **Hypothesen**, bis die
-  `challengeMap`s aus echten Programmen belegt sind. `roster.md` ist ein **Design-Gerüst**,
-  keine belegte Datenquelle.
+- Die Schlagseiten-Zuordnungen (`trifft_hart` / `betrifft_kaum`) waren **Hypothesen**, bis sie
+  aus echten Programmen belegt wurden. Das Roster ist ein **Design-Gerüst**, keine belegte
+  Datenquelle — die belegten Urteile liegen heute in `ergebnisse/` (je Beleg Seite + Zitat).
 - Neutralität wird **nur auf Roster-Ebene** behauptet und ist erst über den **Cast-Audit**
   (Schärfe-Summe je Partei) nach der Belegung beweisbar — nicht über die Primär-Zahl.
 - **Selbst-Vorbehalt zum Modell:** Das verwendete Modell tendiert, wie LLMs allgemein, eher
@@ -98,10 +102,10 @@ lief, sind nicht alle Einzel-URLs rekonstruierbar; die Quellen sind nach Typ/Nam
 
 ## Verhältnis zu den anderen Artefakten
 
-- `roster.md` (hier dokumentiert) = **Eingang / Design-Gerüst**.
+- Das Roster (hier dokumentiert) = **Eingang / Design-Gerüst**.
 - `personas/*.yaml` = **daraus erzeugt** (`herkunft-personas-und-avatare.md`).
-- `challengeMap` je Partei/Land = **noch aus echten Wahlprogrammen zu belegen**
-  (Quellen-Policy im [README](README.md#quellen-policy)).
+- Die belegten Urteile je Persona × Partei = **aus echten Wahlprogrammen belegt**, in
+  `ergebnisse/` (Methodik & Quellen-Policy im [README](README.md)).
 
 ## Reproduzierbarkeit & Lizenz
 

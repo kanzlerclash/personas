@@ -6,11 +6,12 @@ und der verwendeten Anweisungen.
 
 ## Wichtig: kein reproduzierbarer API-Prompt
 
-Anders als der **Programm-Vergleich** (`prompts/vergleich.v1.md`, über die API-Pipeline mit
-protokollierter Metrik) wurden Personas und Avatare **redaktionell im interaktiven Dialog**
-erstellt — nicht über ein Skript / die Vercel-AI-Gateway-Pipeline. Es gibt daher **keinen
-einzelnen Prompt mit Temperatur/Seed** und keine Token-Metrik dazu. Die folgenden Angaben
-dokumentieren den realen Entstehungsweg.
+Anders als der **Programm-Vergleich** (`prompts/vergleich.v1.md`, ein **versionierter Prompt
+mit festem JSON-Schema** — jederzeit reproduzierbar, egal ob über Gateway, Claude Code oder
+Agent-CLI) wurden Personas und Avatare **redaktionell im interaktiven Dialog** erstellt — nicht
+über ein Skript / die Vercel-AI-Gateway-Pipeline. Es gibt daher **keinen einzelnen Prompt mit
+Temperatur/Seed** und keine Token-Metrik dazu. Die folgenden Angaben dokumentieren den realen
+Entstehungsweg.
 
 ## Modell
 
