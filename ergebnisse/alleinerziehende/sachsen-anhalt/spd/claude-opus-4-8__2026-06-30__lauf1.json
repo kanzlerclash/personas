@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Bei Nadines knappem Budget ist jede zusätzliche Ausgabe ein Problem; ein kostenloses warmes Mittagessen entlastet sie finanziell und sichert ihren Kindern eine ordentliche Mahlzeit.",
       "begruendung_selbst": "Ein warmes Essen, um das ich mich nicht sorgen muss - das nimmt mir echten Druck und tut meinen Kindern gut.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 27 auf 18 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kindergrundsicherung, endlich",
@@ -42,21 +41,19 @@
       "resonanz": "bestaetigt",
       "begruendung": "Nadine jongliert Einkommen, Sozialleistungen und Unterhaltsvorschuss; eine gebündelte, existenzsichernde Kindergrundsicherung würde ihren Behördenmarathon vereinfachen und ihre Lage absichern.",
       "begruendung_selbst": "Endlich eine Leistung aus einer Hand statt drei Anträge bei drei Stellen. Und wenn sie wirklich zum Leben reicht, umso besser.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 27 auf 18 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Betreuung, die zu meiner Arbeit passt",
       "thema": "familie",
       "programmpunkt": "Der Rechtsanspruch auf bis zu zehn Stunden Betreuung bis zum 14. Lebensjahr wird als nicht verhandelbar bezeichnet, Randzeiten-Kitas werden ausgebaut.",
-      "seite": 27,
-      "zitat": "Der Rechtsanspruch auf bis zu zehn Stunden Betreuung von Geburt bis zum 14. Lebensjahr",
+      "seite": 18,
+      "zitat": "Rechtsanspruch auf bis zu zehn Stunden Betreuung von der Geburt bis zum 14. Lebensjahr",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ohne verlässliche Betreuung kann Nadine nicht mehr arbeiten; ein nicht verhandelbarer Rechtsanspruch auf lange Betreuungszeiten trifft die Grundbedingung ihrer Vereinbarkeit.",
       "begruendung_selbst": "Gebt mir verlässliche Betreuungszeiten, dann kann ich auch mehr arbeiten. Genau das steht hier - und es soll nicht verhandelbar sein.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Unterstützen statt verdächtigen",
@@ -68,8 +65,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Nadine will Respekt statt Misstrauen; das Bekenntnis zu nicht-stigmatisierenden Sozialsystemen trifft genau ihr Bedürfnis, nicht als Bittstellerin behandelt zu werden.",
       "begruendung_selbst": "Ich arbeite und kümmere mich. Dass mir der Staat hilft, ohne mich wie eine Schmarotzerin zu behandeln, ist mir genauso wichtig wie das Geld.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 15 auf 10 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mein Familienmodell zählt auch",
@@ -81,8 +77,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Nadine ist empfindlich, wenn ihr Lebensmodell als 'nicht richtig' behandelt wird; die ausdrückliche Anerkennung Alleinerziehender als normale Familie bestätigt ihre Würde.",
       "begruendung_selbst": "Wir sind eine Familie, Punkt. Schön, dass das hier nicht erst erklärt werden muss, sondern selbstverständlich ist.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 26 auf 18 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Entlastung bei mehreren Kindern",
@@ -94,8 +89,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Mit zwei Kindern treffen Nadine Betreuungsbeiträge doppelt; eine gesicherte Entlastung für Mehrkindfamilien wirkt direkt auf ihr enges Monatsbudget.",
       "begruendung_selbst": "Bei zwei Kindern summiert sich alles. Jeder Euro weniger bei den Beiträgen ist bei mir am Monatsende spürbar.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 28 auf 18 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -109,8 +103,7 @@
       "resonanz": "kontaer",
       "begruendung": "Nadine reagiert empfindlich auf 'Fördern und Fordern'-Logik, weil sie sich verdächtigt fühlt, obwohl sie arbeitet; die Aktivierungs-Sprache kann sie als erneutes Misstrauen lesen, trotz des Würde-Versprechens an anderer Stelle.",
       "begruendung_selbst": "Aktivieren und vermitteln - ich arbeite doch schon. Manchmal fühlt sich das an, als müsste ich erst beweisen, dass ich nicht faul bin.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 10 auf 8 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Arbeit allein reicht mir nicht",
@@ -122,8 +115,7 @@
       "resonanz": "kontaer",
       "begruendung": "Nadine arbeitet und stockt trotzdem auf; die Betonung von Arbeit als zentralem Armutsschutz blendet aus ihrer Sicht aus, dass auch arbeitende Alleinerziehende nicht über die Runden kommen.",
       "begruendung_selbst": "Ich arbeite und es reicht trotzdem nicht. Mir zu sagen, Arbeit schütze vor Armut, geht an meinem Alltag vorbei.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 27 auf 18 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {
