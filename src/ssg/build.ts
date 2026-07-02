@@ -101,11 +101,13 @@ const scorePill = (s: number) => `<span class="scorepill" style="background:${sc
 const URTEIL_STUFEN = ["ablehnend", "eher ablehnend", "gemischt", "eher zustimmend", "zustimmend"];
 const urteilLabel = (s: number) => URTEIL_STUFEN[Math.max(-2, Math.min(2, Math.round(s))) + 2];
 const urteilPill = (s: number) => `<span class="urteilpill" style="background:${scoreFarbe(s)}" title="Gesamt-Urteil des Modells (Skala −2…+2: ${scoreTxt(s)})">${e(urteilLabel(s))}</span>`;
+// Kleines (?) das zur passenden Zeile der Methodik-Legende springt.
+const hilfe = (anker: string, tip: string) => `<a class="hilfe" href="${u("methodik/ki-modelle/")}#${anker}" title="${e(tip)}" aria-label="Erklärung: ${e(tip)}">?</a>`;
 // KI-Urteile-Saldo = Anzahl positiver (gut) vs. negativer (schlecht) Belege, roh.
 const gsBalken = (g: number, s: number) => `<span class="gsbalken" title="KI-Urteile-Saldo: ${g} positive, ${s} negative Belege">${g ? `<span class="gs-gut" style="flex:${g}"></span>` : ""}${s ? `<span class="gs-schlecht" style="flex:${s}"></span>` : ""}<span class="gs-zahl">+${g}/−${s}</span></span>`;
 const vsScores = (a: number, b: number) => {
   const d = !isNaN(a) && !isNaN(b) ? Math.round(Math.abs(a - b) * 10) / 10 : NaN;
-  return `<span class="splitscore">${isNaN(a) ? '<span class="meta">—</span>' : scorePill(a)}<span class="vs">vs</span>${isNaN(b) ? '<span class="meta">—</span>' : scorePill(b)}${isNaN(d) ? "" : `<span class="delta${d >= 2 ? " hoch" : ""}">${d ? "Δ" + d : "="}</span>`}</span>`;
+  return `<span class="splitscore">${isNaN(a) ? '<span class="meta">—</span>' : urteilPill(a)}<span class="vs">vs</span>${isNaN(b) ? '<span class="meta">—</span>' : urteilPill(b)}${isNaN(d) ? "" : `<span class="delta${d >= 2 ? " hoch" : ""}" title="Δ Modell-Urteil (Skala −2…+2)">${d ? "Δ" + d : "="}</span>`}</span>`;
 };
 const fiktiv = (gross = false) => `<span class="fiktiv${gross ? " gross" : ""}">${gross ? "fiktive Persona – keine reale Person" : "fiktiv"}</span>`;
 
@@ -281,8 +283,8 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
 <h3 class="abschnitt">Was die Zahlen bedeuten</h3>
 <p class="mini">Pro Persona × Partei zeigen wir <strong>zwei</strong> Dinge: das holistische <strong>Modell-Urteil</strong> und den <strong>KI-Urteile-Saldo</strong>. Sie können abweichen — das ist gewollt (siehe unten).</p>
 <table class="mtab"><thead><tr><th>Anzeige</th><th>Bedeutung</th><th>Skala / Formel</th></tr></thead><tbody>
-<tr><td><strong>Modell-Urteil</strong><br><span class="mini">ablehnend … zustimmend</span></td><td>Holistische Gesamteinschätzung des Modells, wie die Persona das Programm insgesamt aufnimmt. Vom Modell <em>selbst</em> vergeben (Feld <code>gesamt.score</code>) — <strong>nicht</strong> aus den Belegen gerechnet; bezieht die Tragweite einzelner Punkte mit ein.</td><td>intern −2 … +2<br>(−2 ablehnend, 0 gemischt, +2 zustimmend)</td></tr>
-<tr><td><strong>KI-Urteile-Saldo</strong><br><span class="mini">+gut / −schlecht</span></td><td>Anzahl der belegten Punkte, die dem Programm aus Sicht der Persona positiv bzw. negativ angerechnet werden. Rein zählend, ohne Gewichtung der Wichtigkeit — deshalb kann er vom Modell-Urteil abweichen (z. B. wenige, aber existenzielle Minuspunkte).</td><td>zwei Zähler: Zahl „besonders gut" / Zahl „besonders schlecht"</td></tr>
+<tr id="modell-urteil"><td><strong>Modell-Urteil</strong><br><span class="mini">ablehnend … zustimmend</span></td><td>Holistische Gesamteinschätzung des Modells, wie die Persona das Programm insgesamt aufnimmt. Vom Modell <em>selbst</em> vergeben (Feld <code>gesamt.score</code>) — <strong>nicht</strong> aus den Belegen gerechnet; bezieht die Tragweite einzelner Punkte mit ein.</td><td>intern −2 … +2<br>(−2 ablehnend, 0 gemischt, +2 zustimmend)</td></tr>
+<tr id="ki-urteile-saldo"><td><strong>KI-Urteile-Saldo</strong><br><span class="mini">+gut / −schlecht</span></td><td>Anzahl der belegten Punkte, die dem Programm aus Sicht der Persona positiv bzw. negativ angerechnet werden. Rein zählend, ohne Gewichtung der Wichtigkeit — deshalb kann er vom Modell-Urteil abweichen (z. B. wenige, aber existenzielle Minuspunkte).</td><td>zwei Zähler: Zahl „besonders gut" / Zahl „besonders schlecht"</td></tr>
 <tr><td>Δ Modell-Urteil</td><td>Differenz der Modell-Urteile zweier Modelle für denselben Fall (in den A-vs-B-Seiten).</td><td>|Urteil A − Urteil B| auf −2 … +2</td></tr>
 <tr><td>Ø-Urteil</td><td>Durchschnitt der Modell-Urteile eines Modells über alle bewerteten Fälle — Kennzahl für die generelle Tendenz („Bias") des Modells.</td><td>Mittelwert der −2 … +2</td></tr>
 <tr><td>Kritik-Quote</td><td>Anteil der „besonders schlecht"-Belege an allen Belegen des Modells.</td><td>schlecht / (gut + schlecht)</td></tr>
@@ -400,7 +402,7 @@ ${wechsel}
 <div class="detail-kopf">${avatarImg(p, "avatar gross")}<div><h2>${e(p.name)} × ${e(parteiName(pa))}</h2>${fiktiv(true)}</div></div>
 <a class="navbtn profil-link" href="${u(`persona/${p.slug}/`)}">📋 Vollständiges Profil von ${e(p.name)} →</a>
 ${modellWechsler(m.slug, SIG.filter((x) => erg(x.slug, p.slug, pa)).map((x) => x.slug), (s) => `modell/${m.slug}/vs/${s}/persona/${p.slug}/partei/${pa}/`)}
-<div class="bs-kopf"><strong>${e(kurz(m.slug))}</strong><span class="uk-lab">Modell-Urteil</span>${urteilPill(a.gesamt.score)}<span class="uk-lab">KI-Urteile-Saldo</span>${gsBalken(a.besonders_gut.length, a.besonders_schlecht.length)}</div>${kiBadge(a)}
+<div class="bs-kopf"><strong>${e(kurz(m.slug))}</strong><span class="uk-lab">Modell-Urteil</span>${urteilPill(a.gesamt.score)}${hilfe("modell-urteil", "Modell-Urteil: holistische Gesamteinschätzung des Modells")}<span class="uk-lab">KI-Urteile-Saldo</span>${gsBalken(a.besonders_gut.length, a.besonders_schlecht.length)}${hilfe("ki-urteile-saldo", "KI-Urteile-Saldo: Anzahl positiver/negativer belegter Punkte")}</div>${kiBadge(a)}
 <p class="mini">Das <strong>Modell-Urteil</strong> ist die holistische Gesamteinschätzung des Modells; der <strong>KI-Urteile-Saldo</strong> zählt die belegten Plus-/Minuspunkte. <a href="${u("methodik/ki-modelle/")}">Was die Zahlen bedeuten</a></p>
 <p class="zusammenfassung">${e(a.gesamt.zusammenfassung)}</p>
 ${liste(a.besonders_gut, "gut", "👍 Besonders gut")}${liste(a.besonders_schlecht, "schlecht", "👎 Besonders schlecht")}`);
