@@ -97,7 +97,12 @@ const DIVERGENZ = [...gruppen.entries()].filter(([, a]) => a.length >= 2).map(([
 const avatarImg = (p: Persona, cls = "avatar") => `<img class="${cls}" src="${u(`assets/avatare/${p.slug}.png`)}" width="96" alt="Pixel-Avatar von ${e(p.name)} (fiktiv)" loading="lazy">`;
 const chip = (t: string) => `<span class="chip">${e(t)}</span>`;
 const scorePill = (s: number) => `<span class="scorepill" style="background:${scoreFarbe(s)}">${e(scoreTxt(s))}</span>`;
-const gsBalken = (g: number, s: number) => `<span class="gsbalken">${g ? `<span class="gs-gut" style="flex:${g}"></span>` : ""}${s ? `<span class="gs-schlecht" style="flex:${s}"></span>` : ""}<span class="gs-zahl">+${g}/−${s}</span></span>`;
+// Holistisches Modell-Urteil als Label (Skala −2…+2 → Wort); die Zahl bleibt intern für Δ/Ø.
+const URTEIL_STUFEN = ["ablehnend", "eher ablehnend", "gemischt", "eher zustimmend", "zustimmend"];
+const urteilLabel = (s: number) => URTEIL_STUFEN[Math.max(-2, Math.min(2, Math.round(s))) + 2];
+const urteilPill = (s: number) => `<span class="urteilpill" style="background:${scoreFarbe(s)}" title="Gesamt-Urteil des Modells (Skala −2…+2: ${scoreTxt(s)})">${e(urteilLabel(s))}</span>`;
+// KI-Urteile-Saldo = Anzahl positiver (gut) vs. negativer (schlecht) Belege, roh.
+const gsBalken = (g: number, s: number) => `<span class="gsbalken" title="KI-Urteile-Saldo: ${g} positive, ${s} negative Belege">${g ? `<span class="gs-gut" style="flex:${g}"></span>` : ""}${s ? `<span class="gs-schlecht" style="flex:${s}"></span>` : ""}<span class="gs-zahl">+${g}/−${s}</span></span>`;
 const vsScores = (a: number, b: number) => {
   const d = !isNaN(a) && !isNaN(b) ? Math.round(Math.abs(a - b) * 10) / 10 : NaN;
   return `<span class="splitscore">${isNaN(a) ? '<span class="meta">—</span>' : scorePill(a)}<span class="vs">vs</span>${isNaN(b) ? '<span class="meta">—</span>' : scorePill(b)}${isNaN(d) ? "" : `<span class="delta${d >= 2 ? " hoch" : ""}">${d ? "Δ" + d : "="}</span>`}</span>`;
@@ -273,6 +278,18 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
 <table class="mtab"><thead><tr><th>Modell</th><th>Kennung</th><th>Ausführung</th><th>Urteile</th></tr></thead><tbody>${mrows}</tbody></table>
 <p>Jede Auswertung trägt ein <code>erzeugt_via</code>-Feld; Token-/Kostenmetriken nur, soweit die CLI sie meldet. Temperatur 0. Anti-Bias-Regel: markt-/wirtschaftsliberale und konservative Positionen mit gleichen Maßstäben wie progressive; Würde gerade bei marginalisierten Lebenslagen.</p>
 <p><strong>Beleg-Prüfung:</strong> Jedes Zitat wird (fuzzy, ±1 Seite) gegen die Programm-Seite geprüft; nicht auffindbare Zitate sind als „⚠ ungeprüft" markiert.</p>
+<h3 class="abschnitt">Was die Zahlen bedeuten</h3>
+<p class="mini">Pro Persona × Partei zeigen wir <strong>zwei</strong> Dinge: das holistische <strong>Modell-Urteil</strong> und den <strong>KI-Urteile-Saldo</strong>. Sie können abweichen — das ist gewollt (siehe unten).</p>
+<table class="mtab"><thead><tr><th>Anzeige</th><th>Bedeutung</th><th>Skala / Formel</th></tr></thead><tbody>
+<tr><td><strong>Modell-Urteil</strong><br><span class="mini">ablehnend … zustimmend</span></td><td>Holistische Gesamteinschätzung des Modells, wie die Persona das Programm insgesamt aufnimmt. Vom Modell <em>selbst</em> vergeben (Feld <code>gesamt.score</code>) — <strong>nicht</strong> aus den Belegen gerechnet; bezieht die Tragweite einzelner Punkte mit ein.</td><td>intern −2 … +2<br>(−2 ablehnend, 0 gemischt, +2 zustimmend)</td></tr>
+<tr><td><strong>KI-Urteile-Saldo</strong><br><span class="mini">+gut / −schlecht</span></td><td>Anzahl der belegten Punkte, die dem Programm aus Sicht der Persona positiv bzw. negativ angerechnet werden. Rein zählend, ohne Gewichtung der Wichtigkeit — deshalb kann er vom Modell-Urteil abweichen (z. B. wenige, aber existenzielle Minuspunkte).</td><td>zwei Zähler: Zahl „besonders gut" / Zahl „besonders schlecht"</td></tr>
+<tr><td>Δ Modell-Urteil</td><td>Differenz der Modell-Urteile zweier Modelle für denselben Fall (in den A-vs-B-Seiten).</td><td>|Urteil A − Urteil B| auf −2 … +2</td></tr>
+<tr><td>Ø-Urteil</td><td>Durchschnitt der Modell-Urteile eines Modells über alle bewerteten Fälle — Kennzahl für die generelle Tendenz („Bias") des Modells.</td><td>Mittelwert der −2 … +2</td></tr>
+<tr><td>Kritik-Quote</td><td>Anteil der „besonders schlecht"-Belege an allen Belegen des Modells.</td><td>schlecht / (gut + schlecht)</td></tr>
+<tr><td>Ø Punkte/Urteil</td><td>Durchschnittliche Zahl belegter Punkte je Auswertung.</td><td>(gut + schlecht) / Auswertungen</td></tr>
+<tr><td>Tonalität</td><td>Sprachlicher Ton: sachlich / gemischt / zugespitzt — aus dem Anteil zugespitzter Kurz-Titel (mit ! oder ?).</td><td>&lt; 20 % sachlich · &gt; 50 % zugespitzt</td></tr>
+<tr><td>Spanne (Divergenz)</td><td>Differenz zwischen höchstem und niedrigstem Modell-Urteil aller Modelle für denselben Fall (0 = Konsens).</td><td>max − min der −2 … +2</td></tr>
+</tbody></table>
 <div class="unternav"><a class="navbtn" href="${u("methodik/prompts/")}">📝 Prompt im Wortlaut</a><a class="navbtn" href="${u("vergleich/")}">⚖ Modell-Divergenz</a></div>`;
     add("methodik/ki-modelle/", "Methodik: KI-Modelle · #LTW26", "Wie aus Persona, Wahlprogramm und KI-Modell ein belegtes Urteil wird — lokal ohne Gateway, mit Prompt.", body);
   }
@@ -315,15 +332,15 @@ for (const m of SIG) {
   // Modell-Übersicht: Parteien + Personas auf einer Seite
   {
     const wechsel = modellWechsler(m.slug, SIG.map((x) => x.slug), (s) => `modell/${m.slug}/vs/${s}/`);
-    const pRows = parteienMit(m.slug).map((pa) => { const es = ergsMPa(m.slug, pa); return `<a class="qrow" href="${u(`modell/${m.slug}/partei/${pa}/`)}"><strong class="qpartei">${e(parteiName(pa))}</strong>${scorePill(avg(es.map((x) => x.gesamt.score)))}${gsBalken(es.reduce((s, x) => s + x.besonders_gut.length, 0), es.reduce((s, x) => s + x.besonders_schlecht.length, 0))}</a>`; }).join("");
-    const persRows = PERSONAS.map((p) => { const es = ergsMP(m.slug, p.slug); if (!es.length) return ""; const sc = avg(es.map((x) => x.gesamt.score)); return `<a class="qrow" href="${u(`modell/${m.slug}/persona/${p.slug}/`)}">${avatarImg(p, "avatar mini")}<div class="qname"><strong>${e(p.name)}</strong>${fiktiv()}</div>${scorePill(sc)}${gsBalken(es.reduce((s, x) => s + x.besonders_gut.length, 0), es.reduce((s, x) => s + x.besonders_schlecht.length, 0))}</a>`; }).join("");
+    const pRows = parteienMit(m.slug).map((pa) => { const es = ergsMPa(m.slug, pa); return `<a class="qrow" href="${u(`modell/${m.slug}/partei/${pa}/`)}"><strong class="qpartei">${e(parteiName(pa))}</strong>${urteilPill(avg(es.map((x) => x.gesamt.score)))}${gsBalken(es.reduce((s, x) => s + x.besonders_gut.length, 0), es.reduce((s, x) => s + x.besonders_schlecht.length, 0))}</a>`; }).join("");
+    const persRows = PERSONAS.map((p) => { const es = ergsMP(m.slug, p.slug); if (!es.length) return ""; const sc = avg(es.map((x) => x.gesamt.score)); return `<a class="qrow" href="${u(`modell/${m.slug}/persona/${p.slug}/`)}">${avatarImg(p, "avatar mini")}<div class="qname"><strong>${e(p.name)}</strong>${fiktiv()}</div>${urteilPill(sc)}${gsBalken(es.reduce((s, x) => s + x.besonders_gut.length, 0), es.reduce((s, x) => s + x.besonders_schlecht.length, 0))}</a>`; }).join("");
     add(`modell/${m.slug}/`, `${kurz(m.slug)}: Sicht auf Parteien & Lebenslagen · #LTW26`, `Wie ${kurz(m.slug)} die Parteien und die 16 fiktiven Lebenslagen zu den Wahlprogrammen einordnet.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug) }])}<h2>${e(kurz(m.slug))}: Sicht auf Parteien &amp; Lebenslagen</h2>${sigBanner}${wechsel}<h3 class="sektion">Parteien</h3><div class="qtab">${pRows}</div><h3 class="sektion">Personas</h3><div class="qtab">${persRows}</div>`);
   }
   // Modell × Persona → Parteien
   for (const p of PERSONAS) {
     const es = ergsMP(m.slug, p.slug); if (!es.length) continue;
     const wechsel = modellWechsler(m.slug, SIG.filter((x) => ergsMP(x.slug, p.slug).length).map((x) => x.slug), (s) => `modell/${m.slug}/vs/${s}/persona/${p.slug}/`);
-    const rows = parteienMit(m.slug).map((pa) => { const a = erg(m.slug, p.slug, pa); if (!a) return ""; return `<a class="qrow" href="${u(`modell/${m.slug}/persona/${p.slug}/partei/${pa}/`)}"><strong class="qpartei">${e(parteiName(pa))}</strong>${scorePill(a.gesamt.score)}${gsBalken(a.besonders_gut.length, a.besonders_schlecht.length)}</a>`; }).join("");
+    const rows = parteienMit(m.slug).map((pa) => { const a = erg(m.slug, p.slug, pa); if (!a) return ""; return `<a class="qrow" href="${u(`modell/${m.slug}/persona/${p.slug}/partei/${pa}/`)}"><strong class="qpartei">${e(parteiName(pa))}</strong>${urteilPill(a.gesamt.score)}${gsBalken(a.besonders_gut.length, a.besonders_schlecht.length)}</a>`; }).join("");
     add(`modell/${m.slug}/persona/${p.slug}/`, `${p.name} × ${kurz(m.slug)} · #LTW26`, `Wie ${kurz(m.slug)} die Persona ${p.name} zu den Parteien einordnet.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug), href: `modell/${m.slug}/` }, { kat: true, label: "Persona" }, { label: p.name }])}
 <div class="detail-kopf">${avatarImg(p, "avatar gross")}<div><h2>${e(p.name)} × ${e(kurz(m.slug))}</h2>${fiktiv(true)}</div></div>
 <a class="navbtn profil-link" href="${u(`persona/${p.slug}/`)}">📋 Vollständiges Profil von ${e(p.name)} →</a>
@@ -333,7 +350,7 @@ ${wechsel}
   // Modell × Partei → Personas
   for (const pa of parteienMit(m.slug)) {
     const wechsel = modellWechsler(m.slug, SIG.filter((x) => ergsMPa(x.slug, pa).length).map((x) => x.slug), (s) => `modell/${m.slug}/vs/${s}/partei/${pa}/`);
-    const rows = PERSONAS.map((p) => { const a = erg(m.slug, p.slug, pa); if (!a) return ""; return `<a class="qrow" href="${u(`modell/${m.slug}/persona/${p.slug}/partei/${pa}/`)}">${avatarImg(p, "avatar mini")}<div class="qname"><strong>${e(p.name)}</strong>${fiktiv()}</div>${scorePill(a.gesamt.score)}${gsBalken(a.besonders_gut.length, a.besonders_schlecht.length)}</a>`; }).join("");
+    const rows = PERSONAS.map((p) => { const a = erg(m.slug, p.slug, pa); if (!a) return ""; return `<a class="qrow" href="${u(`modell/${m.slug}/persona/${p.slug}/partei/${pa}/`)}">${avatarImg(p, "avatar mini")}<div class="qname"><strong>${e(p.name)}</strong>${fiktiv()}</div>${urteilPill(a.gesamt.score)}${gsBalken(a.besonders_gut.length, a.besonders_schlecht.length)}</a>`; }).join("");
     add(`modell/${m.slug}/partei/${pa}/`, `${parteiName(pa)} × ${kurz(m.slug)} · #LTW26`, `Wie ${kurz(m.slug)} die Lebenslagen zur ${parteiName(pa)} einordnet.`, `${krume([{ label: "Start", href: "" }, { kat: true, label: "Modell" }, { label: kurz(m.slug), href: `modell/${m.slug}/` }, { kat: true, label: "Partei" }, { label: parteiName(pa) }])}<h2>${e(kurz(m.slug))}: ${e(parteiName(pa))} aus Sicht der Lebenslagen</h2>${wechsel}<div class="qtab">${rows}</div>`);
   }
   // Paarweise Modell-Vergleiche (Split A vs B)
@@ -367,10 +384,10 @@ ${wechsel}
       const a = erg(m.slug, p.slug, pa), b = erg(o.slug, p.slug, pa);
       if (!a && !b) continue;
       const liste = (arr: any[], cls: string, lab: string) => arr.length ? `<h4 class="${cls}">${lab}</h4>${arr.map((h) => highlightHtml(h, "sachsen-anhalt", pa)).join("")}` : "";
-      const spalte = (x: Erg | undefined, name: string) => x ? `<div class="blattspalte"><div class="bs-kopf"><strong>${e(name)}</strong>${scorePill(x.gesamt.score)}</div>${kiBadge(x)}<p class="zusammenfassung">${e(x.gesamt.zusammenfassung)}</p>${liste(x.besonders_gut, "gut", "👍 Besonders gut")}${liste(x.besonders_schlecht, "schlecht", "👎 Besonders schlecht")}</div>` : `<div class="blattspalte"><div class="bs-kopf"><strong>${e(name)}</strong></div><p class="meta">Keine Auswertung.</p></div>`;
+      const spalte = (x: Erg | undefined, name: string) => x ? `<div class="blattspalte"><div class="bs-kopf"><strong>${e(name)}</strong>${urteilPill(x.gesamt.score)}${gsBalken(x.besonders_gut.length, x.besonders_schlecht.length)}</div>${kiBadge(x)}<p class="zusammenfassung">${e(x.gesamt.zusammenfassung)}</p>${liste(x.besonders_gut, "gut", "👍 Besonders gut")}${liste(x.besonders_schlecht, "schlecht", "👎 Besonders schlecht")}</div>` : `<div class="blattspalte"><div class="bs-kopf"><strong>${e(name)}</strong></div><p class="meta">Keine Auswertung.</p></div>`;
       const dScore = a && b ? Math.abs(a.gesamt.score - b.gesamt.score) : NaN;
       add(`modell/${m.slug}/vs/${o.slug}/persona/${p.slug}/partei/${pa}/`, `${p.name} × ${parteiName(pa)}: ${kurz(m.slug)} vs ${kurz(o.slug)} · #LTW26`, `${p.name} × ${parteiName(pa)} im direkten Modellvergleich ${kurz(m.slug)} gegen ${kurz(o.slug)} — belegte Urteile nebeneinander.`, `${bcVs([{ kat: true, label: "Persona" }, { label: p.name, href: `modell/${m.slug}/vs/${o.slug}/persona/${p.slug}/` }, { kat: true, label: "Partei" }, { label: parteiName(pa) }])}
-<div class="detail-kopf">${avatarImg(p, "avatar gross")}<div>${kopfVs(` — ${e(p.name)} × ${e(parteiName(pa))}`)}${fiktiv(true)}${isNaN(dScore) ? "" : `<p class="einzeiler">Δ Gesamt-Score: ${dScore}</p>`}</div></div>
+<div class="detail-kopf">${avatarImg(p, "avatar gross")}<div>${kopfVs(` — ${e(p.name)} × ${e(parteiName(pa))}`)}${fiktiv(true)}${isNaN(dScore) ? "" : `<p class="einzeiler">Δ Modell-Urteil: ${dScore} (Skala −2…+2)</p>`}</div></div>
 <a class="navbtn profil-link" href="${u(`persona/${p.slug}/`)}">📋 Vollständiges Profil von ${e(p.name)} →</a>
 <div class="vergleich-grid" style="grid-template-columns:1fr 1fr">${spalte(a, kurz(m.slug))}${spalte(b, kurz(o.slug))}</div>`);
     }
@@ -383,7 +400,8 @@ ${wechsel}
 <div class="detail-kopf">${avatarImg(p, "avatar gross")}<div><h2>${e(p.name)} × ${e(parteiName(pa))}</h2>${fiktiv(true)}</div></div>
 <a class="navbtn profil-link" href="${u(`persona/${p.slug}/`)}">📋 Vollständiges Profil von ${e(p.name)} →</a>
 ${modellWechsler(m.slug, SIG.filter((x) => erg(x.slug, p.slug, pa)).map((x) => x.slug), (s) => `modell/${m.slug}/vs/${s}/persona/${p.slug}/partei/${pa}/`)}
-<div class="bs-kopf"><strong>${e(kurz(m.slug))}</strong>${scorePill(a.gesamt.score)}</div>${kiBadge(a)}
+<div class="bs-kopf"><strong>${e(kurz(m.slug))}</strong><span class="uk-lab">Modell-Urteil</span>${urteilPill(a.gesamt.score)}<span class="uk-lab">KI-Urteile-Saldo</span>${gsBalken(a.besonders_gut.length, a.besonders_schlecht.length)}</div>${kiBadge(a)}
+<p class="mini">Das <strong>Modell-Urteil</strong> ist die holistische Gesamteinschätzung des Modells; der <strong>KI-Urteile-Saldo</strong> zählt die belegten Plus-/Minuspunkte. <a href="${u("methodik/ki-modelle/")}">Was die Zahlen bedeuten</a></p>
 <p class="zusammenfassung">${e(a.gesamt.zusammenfassung)}</p>
 ${liste(a.besonders_gut, "gut", "👍 Besonders gut")}${liste(a.besonders_schlecht, "schlecht", "👎 Besonders schlecht")}`);
   }
