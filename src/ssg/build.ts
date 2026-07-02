@@ -117,7 +117,7 @@ function layout(titel: string, beschreibung: string, body: string): string {
 <header class="kopf"><a href="${u("")}" class="logo">Personas</a><span class="kopf-sub">ein KanzlerClash #LTW26 Projekt — KI-Urteile über Wahlprogramme (Sachsen-Anhalt)</span></header>
 <div class="ai-act" role="note">⚠ <strong>KI-generierte Inhalte.</strong> Die Bewertungen stammen von KI-Modellen, beziehen sich auf <strong>fiktive Personas</strong> (keine realen Personen) und können Fehler und Verzerrungen (Bias) enthalten. <strong>Keine Wahlempfehlung</strong> — dient der politischen Bildung. Parteizitate dienen als Beleg (Urheberrecht der Parteien).</div>
 <main>${body}</main>
-<footer class="fuss">Stand: ${new Date().toLocaleDateString("de-DE")} · ${ERG.length} KI-Urteile · Daten unter CC-BY-SA · <a href="https://github.com/kanzlerclash/personas">Quellcode &amp; Methodik</a> · Transparenz gem. EU-KI-VO Art. 50</footer>
+<footer class="fuss">Stand: ${new Date().toLocaleDateString("de-DE")} · ${ERG.length} KI-Urteile · <a href="${u("methodik/")}">Methodik</a> · Daten unter CC-BY-SA · <a href="https://github.com/kanzlerclash/personas" target="_blank" rel="noopener">Quellcode</a> · Transparenz gem. EU-KI-VO Art. 50</footer>
 </body></html>`;
 }
 
@@ -182,13 +182,103 @@ const add = (pfad: string, titel: string, beschr: string, body: string) => seite
 
 // Landing
 {
-  const fluss = `<div class="fluss"><div class="fl-box"><strong>${PERSONAS.length} Lebenslagen</strong><span>fiktive Personas</span><strong>${PARTEIEN.length} Wahlprogramme</strong><span>Sachsen-Anhalt</span></div><div class="fl-pfeil">→</div><div class="fl-box"><strong>${SIG.length} KI-Modelle</strong><span>${e(SIG.map((m) => kurz(m.slug)).join(" · "))}</span></div><div class="fl-pfeil">→</div><div class="fl-box"><strong>${ERG.length} KI-Urteile</strong><span>je mit Seite + Zitat belegt</span></div></div>`;
+  const q = (href: string, t: string) => `<a class="fl-q" href="${u(href)}" title="Methodik: ${e(t)}">?</a>`;
+  const fluss = `<div class="fluss">` +
+    `<div class="fl-box">${q("methodik/personas/", "Personas")}<strong>${PERSONAS.length} Personas</strong><span>fiktive Lebenslagen</span></div>` +
+    `<div class="fl-box">${q("methodik/wahlprogramme/", "Wahlprogramme")}<strong>${PARTEIEN.length} Wahlprogramme</strong><span>Sachsen-Anhalt · Volltext, zitiert</span></div>` +
+    `<div class="fl-pfeil">→</div>` +
+    `<div class="fl-box">${q("methodik/ki-modelle/", "KI-Modelle")}<strong>${SIG.length} KI-Modelle</strong><span>${e(SIG.map((m) => kurz(m.slug)).join(" · "))}</span></div>` +
+    `<div class="fl-pfeil">→</div>` +
+    `<div class="fl-box"><strong>${ERG.length} KI-Urteile</strong><span>je mit Seite + Zitat belegt</span></div></div>`;
   const karten = SIG.map((m) => `<a class="sigkarte" href="${u(`modell/${m.slug}/`)}"><h4>${e(kurz(m.slug))}</h4><div class="sig-modell">${e(m.name)}</div><div class="sig-zahlen">${sigZeile("Ø-Urteil", scoreTxt(m.avgScore), scoreFarbe(m.avgScore))}${sigZeile("Kritik-Quote", Math.round(m.kritikQuote * 100) + " %", scoreFarbe(2 - m.kritikQuote * 4))}${sigZeile("Tonalität", m.labels.ton)}${sigZeile("Ø Punkte/Urteil", String(m.avgHighlights))}</div><div class="sig-label">${e(m.labels.kritik + ", " + m.labels.ton)} · ${m.anzahl} Urteile</div><span class="sig-cta">→ Personas ansehen</span></a>`).join("");
   const body = `<section class="hero"><h2>Wie urteilen KI-Modelle über die Wahlprogramme?</h2>${fluss}</section>
 <div class="infobox"><strong>Was ist Modell-Bias?</strong> Alle Modelle lesen dieselben Programme aus Sicht derselben fiktiven Personas — und urteilen trotzdem unterschiedlich streng und kritisch. Dieses Urteil hängt vom <em>Modell</em> (und seiner Version) ab. Wähle ein Modell und sieh selbst.</div>
 <h3 class="abschnitt">Die Modelle und ihr Bias</h3><div class="sig-grid">${karten}</div>
 <div class="unternav"><a class="navbtn" href="${u("vergleich/")}">⚖ Wo sind sich die Modelle uneinig?</a><a class="navbtn" href="${u("personas/")}">👤 Nach Persona einsteigen</a></div>`;
   add("", "Personas — ein KanzlerClash #LTW26 Projekt", "Wie urteilen verschiedene KI-Modelle über die Wahlprogramme zur Landtagswahl 2026 (Sachsen-Anhalt)? Modell-Vergleich, Bias-Signaturen, belegte Quellen. Keine Wahlempfehlung.", body);
+}
+
+// ---------- Methodik-Seiten ----------
+{
+  const readP = (p: string) => { try { return readFileSync(join(ROOT, p), "utf8").replace(/^<!--[\s\S]*?-->\s*/, "").trim(); } catch { return "(Datei nicht gefunden)"; } };
+  const promptVergleich = readP("prompts/vergleich.v1.md");
+  const promptVorlage = readP("prompts/agy-vorlage.md");
+  const SEITEN: Record<string, number> = { cdu: 91, spd: 61, gruene: 100, afd: 20, fdp: 76, linke: 150, bsw: 90 };
+  const AUSF: Record<string, string> = {
+    "claude-opus-4-8": "Claude-Code-Subagenten (lokal, ohne Gateway)",
+    "claude-sonnet-4-6": "Claude-Code-Subagenten (lokal, ohne Gateway)",
+    "gemini-3.1-pro": "agy-CLI / Gemini (lokal, ohne Gateway)",
+    "gpt-5.5": "Codex-CLI / ChatGPT-Login (lokal, ohne Gateway)",
+  };
+  const mk = (label: string) => krume([{ label: "Start", href: "" }, { kat: true, label: "Methodik", href: "methodik/" }, { label }]);
+
+  // Hub
+  {
+    const karte = (href: string, t: string, d: string) => `<a class="sigkarte" href="${u(href)}"><h4>${e(t)}</h4><div class="sig-modell">${e(d)}</div><span class="sig-cta">→ ansehen</span></a>`;
+    const body = `${krume([{ label: "Start", href: "" }, { label: "Methodik" }])}<h2>Methodik — wie die Daten entstanden sind</h2>
+<p class="infozeile">Vier Bausteine, transparent nachvollziehbar. Alle generierten Daten stehen unter CC-BY-SA. Keine Wahlempfehlung; die KI-Läufe liefen <strong>lokal ohne API-Gateway</strong>.</p>
+<div class="sig-grid">
+${karte("methodik/personas/", "Personas", "Wie die 16 fiktiven Lebenslagen + Avatare entstanden")}
+${karte("methodik/wahlprogramme/", "Wahlprogramme", "Wie die 7 Programme eingelesen und zitiert werden")}
+${karte("methodik/ki-modelle/", "KI-Modelle", "Wie Persona × Programm × Modell zum Urteil wird")}
+${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
+</div>`;
+    add("methodik/", "Methodik · Personas #LTW26", "Wie die Daten entstanden sind: Personas, Wahlprogramme, KI-Modelle, Prompts — transparent, CC-BY-SA.", body);
+  }
+
+  // Personas
+  {
+    const body = `${mk("Personas")}<h2>Methodik: Personas</h2>
+<div class="infobox"><strong>Fiktive Archetypen, keine realen Personen.</strong> Die 16 Lebenslagen bilden bewusst ein ausgewogenes Spektrum ab (Roster). Jede Persona ist aus ihrer Lage heraus einseitig — neutral wird das Bild erst über die Summe aller.</div>
+<p>Die ausführlichen Profile <em>und</em> die Avatar-Konfigurationen wurden <strong>redaktionell im Dialog von Claude Opus 4.8</strong> formuliert — nicht über die API-Pipeline. Es gibt dafür bewusst <strong>keinen</strong> reproduzierbaren API-Prompt mit Temperatur/Seed; die Artefakte sind menschlich reviewbar und im Git-Verlauf nachvollziehbar.</p>
+<p><strong>Detailtiefe nach Forschungslage:</strong> mittel-detailliert und <em>aufgabenrelevant</em> — Forschung zeigt, dass irrelevante Deko-Details (Name, Lieblingsfarbe) die Modellleistung senken und Stereotype verstärken können. Daher viel relevante Lage/Haltung, keine Trivia, würdevolle Formulierung.</p>
+<p><strong>Avatare:</strong> 8-Bit über <a href="https://dracoblue.github.io/retro-antlitz-kartei/" target="_blank" rel="nofollow noopener">retro-antlitz-kartei</a> (MIT); Teile/Farben je Persona von Hand aus dem echten Profil abgeleitet.</p>
+<p>Volle Herkunfts-Doku: <a href="https://github.com/kanzlerclash/personas/blob/main/prompts/herkunft-personas-und-avatare.md" target="_blank" rel="nofollow noopener">herkunft-personas-und-avatare.md</a> · <a href="https://github.com/kanzlerclash/personas/blob/main/prompts/herkunft-roster.md" target="_blank" rel="nofollow noopener">herkunft-roster.md</a></p>
+<div class="unternav"><a class="navbtn" href="${u("personas/")}">👤 Alle Personas ansehen</a></div>`;
+    add("methodik/personas/", "Methodik: Personas · #LTW26", "Wie die 16 fiktiven Personas und ihre Avatare entstanden sind — redaktionell, spektrum-balanciert, würdevoll.", body);
+  }
+
+  // Wahlprogramme
+  {
+    const rows = WP.programme.filter((p) => p.landtag === "sachsen-anhalt" && p.url).map((p) => {
+      const html = (p as any).format === "html";
+      const umfang = SEITEN[p.partei] ? `${SEITEN[p.partei]} ${html ? "Abschnitte" : "Seiten"}` : "—";
+      return `<tr><td><strong>${e(parteiName(p.partei))}</strong></td><td>${e(p.stand || "—")}</td><td>${html ? "HTML" : "PDF"}</td><td>${umfang}</td><td><a href="${e(p.url!)}" target="_blank" rel="nofollow noopener">Quelle ↗</a></td></tr>`;
+    }).join("");
+    const body = `${mk("Wahlprogramme")}<h2>Methodik: Wahlprogramme</h2>
+<div class="infobox"><strong>Nicht von KI verarbeitet.</strong> Die Programme werden <strong>nicht</strong> zusammengefasst oder umgeschrieben — sie werden im <strong>Volltext eingelesen</strong> (PDF/HTML → Text, seitenindiziert) und ausschließlich <strong>wörtlich zitiert</strong> (Kurzzitate unter 15 Wörter als Beleg).</div>
+<p><strong>Ablauf:</strong> Quell-URL → Download → Textextraktion mit Seitenmarkierung (<code>===== Seite N =====</code>; bei HTML: Abschnitte) → SHA-256 + Stand vermerkt. Jedes KI-Zitat wird später automatisch gegen die angegebene Seite geprüft.</p>
+<p><strong>Urheberrecht:</strong> Die Programme gehören den Parteien und werden <strong>nicht</strong> in diesem Projekt veröffentlicht — nur lokal gecacht (git-ignoriert) und über das Quell-Register reproduzierbar nachgeladen. Verlinkung als Quelle.</p>
+<table class="mtab"><thead><tr><th>Partei</th><th>Stand</th><th>Format</th><th>Umfang</th><th>Quelle</th></tr></thead><tbody>${rows}</tbody></table>`;
+    add("methodik/wahlprogramme/", "Methodik: Wahlprogramme · #LTW26", "Wie die 7 Wahlprogramme eingelesen und zitiert werden — Volltext, nicht KI-verarbeitet, mit Quell-Deeplinks.", body);
+  }
+
+  // KI-Modelle
+  {
+    const mrows = SIG.map((m) => `<tr><td><strong>${e(kurz(m.slug))}</strong></td><td>${e(m.name)}</td><td>${e(AUSF[m.slug] || "lokal, ohne Gateway")}</td><td>${m.anzahl}</td></tr>`).join("");
+    const body = `${mk("KI-Modelle")}<h2>Methodik: KI-Modelle</h2>
+<div class="infobox"><strong>Persona × Programm × Modell → Urteil.</strong> Jedes Modell versetzt sich in eine Persona, liest das Programm und nennt, was ihr <strong>besonders gut</strong> oder <strong>schlecht</strong> gefällt — jeder Punkt mit <strong>Seite + wörtlichem Zitat</strong> belegt und automatisch gegen die Seite geprüft.</div>
+<p><strong>Ausführung — lokal ohne API-Gateway:</strong></p>
+<table class="mtab"><thead><tr><th>Modell</th><th>Kennung</th><th>Ausführung</th><th>Urteile</th></tr></thead><tbody>${mrows}</tbody></table>
+<p>Jede Auswertung trägt ein <code>erzeugt_via</code>-Feld; Token-/Kostenmetriken nur, soweit die CLI sie meldet. Temperatur 0. Anti-Bias-Regel: markt-/wirtschaftsliberale und konservative Positionen mit gleichen Maßstäben wie progressive; Würde gerade bei marginalisierten Lebenslagen.</p>
+<p><strong>Beleg-Prüfung:</strong> Jedes Zitat wird (fuzzy, ±1 Seite) gegen die Programm-Seite geprüft; nicht auffindbare Zitate sind als „⚠ ungeprüft" markiert.</p>
+<div class="unternav"><a class="navbtn" href="${u("methodik/prompts/")}">📝 Prompt im Wortlaut</a><a class="navbtn" href="${u("vergleich/")}">⚖ Modell-Divergenz</a></div>`;
+    add("methodik/ki-modelle/", "Methodik: KI-Modelle · #LTW26", "Wie aus Persona, Wahlprogramm und KI-Modell ein belegtes Urteil wird — lokal ohne Gateway, mit Prompt.", body);
+  }
+
+  // Prompts
+  {
+    const body = `${mk("Prompts")}<h2>Methodik: Prompts im Wortlaut</h2>
+<p class="infozeile">Alle Prompts sind mit-committet und versioniert. Persona-Profile und Avatare entstanden dagegen redaktionell (kein einzelner API-Prompt) — siehe <a href="${u("methodik/personas/")}">Methodik: Personas</a>.</p>
+<h3 class="abschnitt">1) Persona × Programm-Vergleich — System-Prompt (<code>vergleich.v1</code>)</h3>
+<p class="mini">Der Kern-Prompt: Regeln, wie ein Modell aus Sicht der Persona die guten/schlechten Punkte belegt. Die konkreten Daten (Profil, Themen, Programmtext) hängt die Pipeline als User-Nachricht an.</p>
+<pre class="prompt">${e(promptVergleich)}</pre>
+<h3 class="abschnitt">2) CLI-Vorlage (Platzhalter) — <code>agy-vorlage.md</code></h3>
+<p class="mini">Die tool-neutrale Vorlage, mit der die Läufe über agy/Codex erzeugt wurden (Platzhalter <code>__LAND__</code>/<code>__PARTEI__</code>/<code>__PERSONA__</code>/<code>__MODELL__</code>).</p>
+<pre class="prompt">${e(promptVorlage)}</pre>
+<p>Bevölkerungsanteile: recherchiert aus amtlichen Quellen (kein KI-Schätzprompt als Fakt); Details je Persona auf der jeweiligen Profilseite. Quellcode &amp; alle Prompts: <a href="https://github.com/kanzlerclash/personas/tree/main/prompts" target="_blank" rel="nofollow noopener">prompts/ auf GitHub</a>.</p>`;
+    add("methodik/prompts/", "Methodik: Prompts · #LTW26", "Die verwendeten Prompts im Wortlaut: der Persona×Programm-System-Prompt und die CLI-Vorlage.", body);
+  }
 }
 
 // Personas-Liste
