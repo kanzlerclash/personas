@@ -30,8 +30,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Stefan bewertet positiv, dass das Programm die europäische Bedrohungslage nicht wegredet. Die ausdrückliche Erwähnung des Bündnisfalls passt zu seiner NATO- und Einsatzperspektive.",
       "begruendung_selbst": "Ich will hören, dass Politik den Bündnisfall nicht für Theorie hält. Logistik entscheidet im Ernstfall mit.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 54 auf 33 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Zivile Verteidigung zählt",
@@ -43,8 +42,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Für Stefan ist Verteidigung nicht nur Truppe, sondern auch belastbare zivile Strukturen im Hinterland. Diese Forderung unterstützt seine Erwartung, dass Staat und Gesellschaft auf Krisen vorbereitet sein müssen.",
       "begruendung_selbst": "Wenn wir im Einsatz stehen, muss zu Hause die zivile Seite funktionieren. Sonst bleibt der Auftrag auf halbem Weg stecken.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 54 auf 33 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Ausrüstung auch im Inneren",
@@ -56,8 +54,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Stefan überträgt seine Erfahrung mit Materialmängeln auf andere Sicherheitskräfte. Dass das Programm Ausstattung und Dienstbedingungen konkret anspricht, wirkt auf ihn ernsthafter als bloße Sicherheitsrhetorik.",
       "begruendung_selbst": "Wer Einsatzkräfte schickt, muss ihnen brauchbares Gerät geben. Das gilt bei Polizei genauso wie bei uns.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 28 auf 19 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Katastrophenschutz braucht Geld",
@@ -69,8 +66,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Stefan sieht Krisenfähigkeit als praktische Staatsaufgabe. Eine ausfinanzierte Einsatzstruktur entspricht seinem Maßstab, dass Sicherheit nicht nur angekündigt, sondern mit Ressourcen hinterlegt werden muss.",
       "begruendung_selbst": "Das klingt nach mehr als Sonntagsrede. Ohne Finanzierung gibt es keine Einsatzbereitschaft.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 30 auf 20 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sabotage ist reale Bedrohung",
@@ -82,8 +78,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Stefan nimmt hybride Bedrohungen und mögliche Einflussnahme besonders ernst. Die Verbindung von Sabotageschutz, Spionageabwehr, Ausrüstung und Personal trifft seine sicherheitsorientierte Sicht.",
       "begruendung_selbst": "An der Ostflanke lernt man: Bedrohung kommt nicht nur mit Panzern. Sabotage und Spionage müssen ernst genommen werden.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 33 auf 20 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Rechtsextreme destabilisieren den Staat",
@@ -95,8 +90,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Als verfassungstreuer Soldat reagiert Stefan positiv auf klare Abgrenzung gegen Kräfte, die Institutionen schwächen. Handlungsfähige Demokratie ist für ihn Teil der Sicherheitsarchitektur.",
       "begruendung_selbst": "Ich diene keiner Laune, sondern der Verfassung. Wer den Staat destabilisiert, ist kein Partner für Sicherheit.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 3 auf 4 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Cyberabwehr gehört dazu",
@@ -108,8 +102,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Stefan sieht Cyberangriffe als Teil moderner Sicherheitslagen. Dass öffentliche Infrastruktur und Reaktionsstrukturen ausdrücklich abgesichert werden sollen, stärkt aus seiner Sicht die staatliche Resilienz.",
       "begruendung_selbst": "Cyber ist längst Einsatzraum. Wenn Verwaltung und Kommunen ausfallen, hat das auch Sicherheitsfolgen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 56 auf 34 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -123,8 +116,7 @@
       "resonanz": "kontaer",
       "begruendung": "Stefan hält Diplomatie für wichtig, stört sich aber daran, dass die militärische Dimension sofort relativiert wird. Aus seiner Perspektive fehlt hier ein gleich starkes Bekenntnis zu Wehrfähigkeit, Ausrüstung und Bündnistreue.",
       "begruendung_selbst": "Natürlich ist Diplomatie wichtig. Aber in dieser Lage will ich zuerst hören, dass Abschreckung und Einsatzbereitschaft stehen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 54 auf 33 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Abrüstung zur falschen Zeit",
@@ -136,8 +128,7 @@
       "resonanz": "kontaer",
       "begruendung": "Stefan ist gegenüber abrüstungsorientierter Politik skeptisch, solange Russland-Nähe und Bedrohung an der Ostflanke seine Lage prägen. Die Formulierung wirkt auf ihn sicherheitspolitisch zu weich, weil sie keine Bedingungen oder Abschreckungslogik benennt.",
       "begruendung_selbst": "Abrüstung klingt gut, aber nicht, wenn die andere Seite aufrüstet und Grenzen verschiebt. Erst muss Abschreckung glaubwürdig sein.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 54 auf 33 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kein Wort zur Truppe",
@@ -149,8 +140,7 @@
       "resonanz": "kontaer",
       "begruendung": "Stefan findet den Bündnisfall-Hinweis richtig, aber unvollständig. Für seine wichtigste Sorge, funktionierendes Material und belastbare Bundeswehr-Strukturen, liefert die Passage keine konkrete Zusage.",
       "begruendung_selbst": "Logistik zu erwähnen reicht mir nicht. Ich suche Aussagen zu Material, Standorten und NATO-Fähigkeit.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 54 auf 33 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sicherheit ohne hartes Profil",
@@ -162,8 +152,7 @@
       "resonanz": "kontaer",
       "begruendung": "Stefan erkennt Prävention an, erwartet bei Sicherheitsfragen aber ein klareres Gewicht auf Durchsetzung, Einsatzfähigkeit und robuste Strukturen. Die sozialpolitische Rahmung wirkt auf ihn weniger entschieden als die Bedrohungslage verlangt.",
       "begruendung_selbst": "Prävention gehört dazu, aber Sicherheit darf nicht weichgespült werden. Am Ende muss der Staat durchsetzen können.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 30 auf 20 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

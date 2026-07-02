@@ -29,21 +29,19 @@
       "resonanz": "bestaetigt",
       "begruendung": "Jule engagiert sich in einer Klimagruppe und sieht Klimaschutz als zentrale Frage für ihre eigene Zukunft. Ein gesetzlich verankerter Reduktionspfad gibt ihr die Sicherheit, dass Klimaziele nach einer Wahl nicht einfach kassiert werden können.",
       "begruendung_selbst": "Das ist das erste Mal, dass ich das Wort ‘verbindlich’ in einem Klimakapitel lese und es wirklich ernst nehme. Ohne Gesetz ist Klimaschutz nur Absicht.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 22 auf 15 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Queer-Schutz wird endlich verbindlich!",
       "thema": "demokratie",
       "programmpunkt": "Das Landesprogramm „Queer leben in Sachsen-Anhalt“ soll fortgeführt, weiterentwickelt und mit verbindlichen Zielen, ausreichenden Mitteln und klarer Zuständigkeit ausgestattet werden; ergänzend wird ein Landes-Antidiskriminierungsgesetz eingeführt.",
-      "seite": 36,
-      "zitat": "„Queer leben in Sachsen-Anhalt“ werden fortgeführt, weiterentwickelt und mit verbindlichen Zielen ausgestattet",
+      "seite": 23,
+      "zitat": "„Queer leben in Sachsen-Anhalt“ werden fortgeführt, weiterentwickelt und mit verbindlichen Zielen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Jule als queere Person fürchtet vor allem den Abbau von Vielfaltsprogrammen. Die explizite Fortführung und Stärkung des Landesprogramms mit verbindlichen Zielen und ausreichenden Mitteln trifft genau ihren größten Sorgenbereich.",
       "begruendung_selbst": "Wenn eine Partei meine Rechte zur Verhandlungsmasse macht, weiß ich genug. Und hier steht schwarz auf weiß: weiterentwickeln, verbindliche Ziele. Das nehme ich.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Queere Diskriminierung wird endlich anerkannt!",
@@ -55,8 +53,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Jule weiß aus eigenem Erleben und aus ihrem Umfeld, wie sehr Diskriminierungserfahrungen an der Psyche zehren. Dass diese Belastung explizit im Wahlprogramm benannt und durch gezielte Angebote aufgefangen werden soll, berührt sie persönlich.",
       "begruendung_selbst": "Das ist nicht irgendein Satz. Die sagen: Diskriminierung macht krank, und wir tun konkret was dagegen. Das ist so selten klar ausgesprochen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 15 auf 10 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich: Wohnen für Studierende mitgedacht!",
@@ -68,8 +65,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Jule lebt von BAföG und einem Nebenjob in einer teuren WG und ist am Monatsende oft im Minus. Eine Stärkung der Studierendenwerke mit Priorität auf Wohnheimplätzen könnte ihre Wohnsituation und ihren Alltag direkt entlasten.",
       "begruendung_selbst": "Ich bin am Monatsende oft im Minus. Wenn Wohnheimplätze wirklich Priorität bekämen, würde das meinen Alltag konkret verändern – nicht irgendwann, jetzt.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 21 auf 13 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mein Körper, meine Entscheidung – endlich!",
@@ -81,8 +77,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Jule sieht Gleichstellung und körperliche Selbstbestimmung als Grundwerte. Die klare Position zur Entkriminalisierung des Schwangerschaftsabbruchs und der Ersatz der Beratungspflicht durch einen Rechtsanspruch auf Beratung entsprechen ihrer feministischen Haltung.",
       "begruendung_selbst": "Das Paragraph-218-Thema ist für mich keine abstrakte Debatte. Dass das im Landesprogramm steht und nicht versteckt wird, zeigt mir, dass meine Selbstbestimmung hier als echtes Recht behandelt wird.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 13 auf 9 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -96,8 +91,7 @@
       "resonanz": "kontaer",
       "begruendung": "Jule priorisiert klar Klima- und Verkehrswende. Die Ankündigung neuer Autobahn- und Straßenprojekte steht für sie im Widerspruch zu den Klimazielen, die das Programm andernorts – etwa mit dem Klimaschutzgesetz – verspricht.",
       "begruendung_selbst": "Ich verstehe, dass Leute auf dem Land ein Auto brauchen. Aber neue Autobahnen zu bauen, während man gleichzeitig ein Klimaschutzgesetz verspricht – das passt nicht zusammen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 42 auf 27 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

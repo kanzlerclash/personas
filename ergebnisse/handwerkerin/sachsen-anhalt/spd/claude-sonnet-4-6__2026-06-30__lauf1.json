@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Sabine verliert täglich Arbeitszeit durch Doppelerfassungen und Nachweispflichten aus verschiedenen Rechtskreisen. Die direkte Adressierung dieses Problems trifft ihr zentrales Alltagsproblem.",
       "begruendung_selbst": "Ich füll das Gleiche in drei verschiedene Formulare ein. Wenn das wegfällt, hab ich endlich wieder Zeit für meine Leute auf der Baustelle.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 4 auf 5 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Förderprogramme endlich zugänglicher!",
@@ -42,8 +41,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Sabine hat gute Jahre mit Heizungstausch-Aufträgen, scheitert aber oft an komplizierten Förderanträgen, die sie selbst ausfüllen muss. Vereinfachte Zugänge würden ihr direkt helfen.",
       "begruendung_selbst": "Die Förderung gibt's — aber bis ich den Antrag durchhab, hab ich drei Abende verloren. Weniger Aufwand bedeutet mir mehr Aufträge.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 4 auf 5 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Strompreise für Betriebe senken!",
@@ -81,21 +79,19 @@
       "resonanz": "kontaer",
       "begruendung": "Als kleine Betriebsinhaberin ohne Tarifvertrag erhöht das Tariftreuegesetz bei öffentlichen Aufträgen ihren Druck: Sie muss Tariflöhne nachweisen, was administrativen Aufwand bedeutet und ihre Spielräume bei der Vergabe einengt.",
       "begruendung_selbst": "Ich bezahle gut — aber ich brauch keine Partei, die mir vorschreibt wie, und die mich dann bei der Ausschreibung verhindert, weil ich keinen Tarifvertrag hab.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 8 auf 7 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Erbschaftsteuer — meine Übergabe wird teurer!",
       "thema": "steuern",
       "programmpunkt": "Die SPD will auf Bundesebene eine gerechte Erbschaftsteuerreform: Privilegien in §§ 13a, 13b ErbStG sollen gestrichen werden.",
-      "seite": 54,
-      "zitat": "Privilegien für Vermögende in den §§ 13a, 13b und 28a ErbStG sollen gestrichen und durch großzügige Stundungsregelungen mit moderatem Zins sowie einen Freibetrag von 5 Mio. Euro ersetzt werden.",
+      "seite": 33,
+      "zitat": "Privilegien für Vermögende in den §§ 13a, 13b und 28a ErbStG sollen gestrichen",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Sabine plant die Betriebsübergabe in rund zehn Jahren. Die bisher geltenden Verschonungsregeln für Betriebsvermögen (§§ 13a, 13b ErbStG) sichern, dass der Betrieb nicht liquidiert werden muss. Deren Streichung — auch mit Freibetrag — schafft Unsicherheit für ihre Nachfolgeplanung.",
       "begruendung_selbst": "Mein Betrieb ist meine Altersvorsorge. Wenn das alles versteuert wird, weiß ich nicht, ob sich eine Übergabe noch rechnet.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

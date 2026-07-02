@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Franks zentrale Belastung ist die ausufernde Bürokratie; ein Versprechen, Dokumentationspflichten zu vereinfachen, trifft genau seinen wundesten Punkt.",
       "begruendung_selbst": "Genau das ist mein Problem: Jedes Jahr mehr Papierkram. Wenn die das wirklich abbauen, hab ich endlich wieder Zeit für den Acker.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 45 auf 28 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sie nehmen uns ernst!",
@@ -42,8 +41,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Frank fühlt sich von der Politik üblicherweise übergangen; dass das Programm die Bauernproteste ausdrücklich aufgreift, signalisiert ihm Anerkennung statt Bevormundung.",
       "begruendung_selbst": "Endlich redet mal jemand mit uns statt über uns. Ob am Ende was rauskommt, muss sich zeigen, aber ernst genommen zu werden ist schon mal was.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 45 auf 28 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mein Großbetrieb ist okay",
@@ -55,8 +53,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Als Inhaber eines 180-ha-Betriebs in einer von Großstrukturen geprägten Region fühlt sich Frank von Debatten gegen 'Agrarindustrie' oft mitgemeint; die Gleichwertigkeitszusage entlastet ihn.",
       "begruendung_selbst": "Ich werde ja gern als böser Großbauer hingestellt. Schön, dass hier mal keiner sagt, klein sei automatisch besser als das, was ich aufgebaut habe.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 45 auf 28 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Finger weg von der Förderhöhe",
@@ -68,8 +65,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Bei stark schwankenden, weltmarktabhängigen Einkommen sind die GAP-Gelder für Frank kalkulierbares Fundament; ein klares Bekenntnis zu ihrem Erhalt gibt ihm Planungssicherheit.",
       "begruendung_selbst": "Die Direktzahlungen halten in schlechten Jahren den Betrieb am Leben. Wer da kürzt, kürzt mir den Boden unter den Füßen weg.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 45 auf 28 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Naturschutz mit uns, nicht gegen uns",
@@ -81,21 +77,19 @@
       "resonanz": "bestaetigt",
       "begruendung": "Frank ist nicht naturschutzfeindlich, lehnt aber Vorgaben 'über seinen Kopf hinweg' ab; der kooperative, freiwillige Ansatz nimmt ihm die Sorge vor existenzbedrohenden Auflagen.",
       "begruendung_selbst": "Ich hab nichts gegen Naturschutz - aber bitte mit mir am Tisch und freiwillig, nicht per Verordnung aus Magdeburg.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 23 auf 15 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Auch für die Hofnachfolge gedacht",
       "thema": "landwirtschaft",
       "programmpunkt": "Junge und gründungswillige Landwirte sollen besseren Zugang zu Boden bekommen, die Landgesellschaft wird dafür gestärkt.",
-      "seite": 45,
-      "zitat": "besseren Zugang zu Boden erhalten",
+      "seite": 28,
+      "zitat": "Zugang zu Boden erhalten",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Frank sorgt sich, ob seine Tochter den Hof übernimmt; eine Politik, die Hofnachfolgern den Bodenzugang erleichtert, berührt diese konkrete Zukunftsfrage seines Betriebs.",
       "begruendung_selbst": "Wenn meine Tochter übernehmen will, braucht sie Land zu fairen Bedingungen - und nicht Investoren, die ihr die Pacht wegschnappen.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -109,8 +103,7 @@
       "resonanz": "kontaer",
       "begruendung": "Frank erlebt Klimaschutz als etwas, das praxisfern auf seinem Rücken gemacht wird; ein neues Gesetz mit verbindlichen Pfaden weckt bei ihm sofort die Sorge vor weiteren Auflagen, auch wenn soziale Abfederung zugesagt wird.",
       "begruendung_selbst": "Verbindliche Reduktionspfade - das heißt am Ende doch wieder Vorgaben für meinen Betrieb. Schöne Worte, aber ich weiß, wer das ausbaden soll.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 22 auf 15 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Erbschaft-Privilegien streichen? Gefährlich.",
@@ -122,8 +115,7 @@
       "resonanz": "kontaer",
       "begruendung": "Franks Vermögen steckt fast vollständig in Boden und Maschinen bei geringer Liquidität; eine Streichung der Verschonungsregeln bedroht aus seiner Sicht die Betriebsübergabe an die Tochter, trotz des angekündigten Freibetrags.",
       "begruendung_selbst": "Mein ganzes Geld liegt im Acker und in den Maschinen. Wenn die die Verschonung kippen, kann meine Tochter den Hof nur übernehmen, wenn sie ihn gleich verkauft.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 54 auf 33 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Brüsseler Auflagen auf meinem Land",
@@ -135,8 +127,7 @@
       "resonanz": "kontaer",
       "begruendung": "Die EU ist für Frank der Hauptgegner aus Förder-Wirrwarr und Regeländerungen; die Ankündigung, die Wiederherstellungsverordnung umzusetzen, bedeutet für ihn weitere Flächenbindungen, auch wenn 'kooperativ' versprochen wird.",
       "begruendung_selbst": "Da kommt schon die nächste Brüsseler Verordnung um die Ecke. 'Kooperativ' heißt am Ende trotzdem: Flächen raus aus der Nutzung.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 23 auf 16 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

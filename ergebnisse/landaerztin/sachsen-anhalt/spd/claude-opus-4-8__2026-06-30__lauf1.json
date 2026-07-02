@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Dr. Petra findet keine Praxisnachfolge; die Fortführung der Landarztquote zielt auf genau den Nachwuchs, von dem die Zukunft ihrer Patient:innen abhängt.",
       "begruendung_selbst": "Die Landarztquote ist eine der wenigen Stellschrauben, die wirklich Nachwuchs aufs Land bringen kann. Gut, dass daran festgehalten wird.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich Entlastung der Ärzte",
@@ -42,8 +41,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Dr. Petra ist zeitlich am Limit; eine Aufgabenverlagerung auf andere Gesundheitsberufe verspricht ihr konkrete Entlastung im überfüllten Praxisalltag.",
       "begruendung_selbst": "Wenn qualifizierte Kräfte mir Aufgaben abnehmen dürfen, habe ich endlich wieder mehr Zeit für das, wofür ich Ärztin geworden bin.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Versorgung statt Rendite",
@@ -55,8 +53,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Dr. Petra hält Rendite-Logik für unvereinbar mit ländlicher Grundversorgung; eine an Versorgung statt Kapital ausgerichtete Krankenhauspolitik entspricht ihrer Haltung.",
       "begruendung_selbst": "Grundversorgung darf sich nicht rechnen müssen. Dass Versorgung über Rendite gestellt wird, sehe ich genauso.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Verwaltung endlich vereinfachen",
@@ -68,8 +65,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Dr. Petra verbringt halbe Tage mit Bürokratie; eine vereinfachte Gesundheitsverwaltung mit kürzeren Verfahren trifft ihre größte Belastung neben dem Zeitmangel.",
       "begruendung_selbst": "Wenn die Bürokratie wirklich schlanker wird, gewinne ich Stunden zurück, die ich heute mit Formularen verliere.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 16 auf 11 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Versorgung in die Fläche bringen",
@@ -81,8 +77,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Lange Wege und ausdünnende Versorgung prägen Dr. Petras Region; mobile und regionale Versorgungsformen adressieren genau die Erreichbarkeit für ihre alternden Patient:innen.",
       "begruendung_selbst": "Meine Patienten haben weite Wege. Mobile Angebote und regionale Zentren sind genau das, was die Versorgung auf dem Land am Leben hält.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 16 auf 10 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -96,8 +91,7 @@
       "resonanz": "kontaer",
       "begruendung": "Dr. Petra teilt die Skepsis gegenüber Ökonomisierung, ist aber ebenso misstrauisch gegenüber Verstaatlichungsideen, die mehr Aufwand statt mehr Versorgung bringen; Rekommunalisierung adressiert für sie nicht das eigentliche Problem, den Personal- und Nachfolgemangel.",
       "begruendung_selbst": "Wem gehört die Klinik, ist nicht meine Frage. Ob jemand da ist, der behandelt, schon. Rekommunalisierung allein bringt mir keinen Nachfolger.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Carlas Grundüberzeugung ist, dass Wohnen kein Spekulationsgut ist; der Schutz kommunaler Bestände vor dem Ausverkauf entspricht genau ihrer gemeinwohlorientierten Sicht.",
       "begruendung_selbst": "Endlich mal: Öffentliche Wohnungen werden nicht verscherbelt, um Haushaltslöcher zu stopfen. Genau so muss man Wohnen denken.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 44 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sozialer Wohnungsbau zählt wieder",
@@ -42,8 +41,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Carla setzt auf gemeinwohlorientierten statt marktgetriebenen Wohnraum; die Stärkung des sozialen Wohnungsbaus deckt sich mit ihrer Forderung nach geschütztem, bezahlbarem Wohnen.",
       "begruendung_selbst": "Mehr gemeinnütziger Wohnraum statt nur Rendite-Objekte - das ist die Richtung, die ich von Wohnungspolitik erwarte.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wärmewende ohne zweite Miete",
@@ -55,8 +53,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Carla fürchtet Modernisierungskosten, die auf Mieter:innen abgewälzt werden; das Versprechen, die Wärmewende nicht zur zweiten Miete zu machen, trifft genau diese Angst.",
       "begruendung_selbst": "Meine größte Sorge ist, dass mir Sanierung als Mieterhöhung verkauft wird. Dass das hier ausgeschlossen wird, beruhigt mich.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Versorgung vor Kapitalinteressen",
@@ -68,8 +65,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Carla steht reiner Marktlogik in der Daseinsvorsorge kritisch gegenüber; eine an Versorgung statt an Kapital ausgerichtete Linie bestätigt ihre Grundhaltung über das Wohnen hinaus.",
       "begruendung_selbst": "Ob Wohnen oder Krankenhaus - wenn der Markt allein regiert, verlieren immer dieselben. Schön, dass das hier mal anders gedacht wird.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Bezahlbares Ticket, gute ÖPNV-Stadt",
@@ -81,8 +77,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Carla lebt autofrei und auf den ÖPNV angewiesen; ein dauerhaft bezahlbares Deutschlandticket entspricht ihrem Wunsch nach einer guten, autoarmen ÖPNV-Stadt.",
       "begruendung_selbst": "Ich habe kein Auto und will keins. Ein verlässlich günstiges Ticket ist für mein Leben in der Stadt Gold wert.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 42 auf 26 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -96,8 +91,7 @@
       "resonanz": "kontaer",
       "begruendung": "Carlas Kernanliegen ist der Schutz vor Verdrängung durch Mietregulierung, Milieuschutz und Begrenzung der Modernisierungsumlage; das Programm beantwortet die Wohnungsfrage überwiegend angebotsseitig und greift ihre Instrumente nicht auf.",
       "begruendung_selbst": "Mehr bauen ist ja schön, aber es schützt mich nicht vor der Modernisierung oder der Kündigung. Ohne harte Regulierung bleibt mein Kiez bedroht.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 44 auf 27 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

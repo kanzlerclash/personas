@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Helga und Dieter haben einen Hausarzt in der Nähe — noch. Ihr größte Sorge ist, dass dieser aufhört und kein Nachfolger kommt. Das Bekenntnis zur ländlichen Versorgungssicherung trifft diese Existenzangst.",
       "begruendung_selbst": "Unser Hausarzt ist nicht mehr der Jüngste. Wenn der aufhört, müssen wir mit dem Auto in die nächste Stadt. Das schaffen wir vielleicht bald nicht mehr.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Zu Hause alt werden — das wollen wir!",
@@ -42,8 +41,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Das eigene Haus zu verlassen ist für Helga und Dieter unvorstellbar. Dass der Staat ambulante Strukturen und Nachbarschaftshilfe stärken will, gibt ihnen die Perspektive, auch im Alter im eigenen Heim zu bleiben.",
       "begruendung_selbst": "Wir haben unser ganzes Leben in dieses Haus gesteckt. Wenn uns jemand dabei hilft, hier zu bleiben, statt ins Heim zu müssen — das ist alles, was wir wollen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Deutschlandticket billig für Rentner!",
@@ -55,8 +53,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Ein günstiges Deutschlandticket gibt Helga und Dieter Mobilität, solange sie das Auto noch fahren können oder müssen — und ermöglicht ihnen, Arztbesuche, Einkäufe und soziale Kontakte zu erhalten.",
       "begruendung_selbst": "Wenn wir das Auto irgendwann nicht mehr können, ist das ein Segen. 20 Euro — das ist wirklich günstig und wir würden das auch nutzen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 42 auf 26 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wärme darf keine zweite Miete werden!",
@@ -68,8 +65,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Die Heizkosten sind eine der größten Sorgen des Rentnerpaars. Das explizite Versprechen, dass die Wärmewende nicht zur Kostenexplosion führen soll, gibt ihnen etwas Sicherheit.",
       "begruendung_selbst": "Heizen ist unser größter Posten. Wenn die sagen, das soll nicht explodieren — das höre ich gern. Ob sie's halten, muss sich zeigen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -77,14 +73,13 @@
       "titel_selbst": "Erbschaft für Kinder wird teurer?",
       "thema": "steuern",
       "programmpunkt": "Die SPD will auf Bundesebene Erbschaftsteuerprivilegien streichen und durch Stundungsregelungen mit Freibetrag ersetzen.",
-      "seite": 54,
-      "zitat": "Privilegien für Vermögende in den §§ 13a, 13b und 28a ErbStG sollen gestrichen und durch großzügige Stundungsregelungen mit moderatem Zins sowie einen Freibetrag von 5 Mio. Euro ersetzt werden.",
+      "seite": 33,
+      "zitat": "Privilegien für Vermögende in den §§ 13a, 13b und 28a ErbStG sollen gestrichen",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Das Haus ist das einzige Vermögen von Helga und Dieter. Sie sorgen sich, ob ihre Kinder bei der Erbschaft belastet werden — auch wenn das Haus weit unter 5 Mio. Euro liegt und vom Freibetrag gedeckt sein dürfte. Die generelle Richtung der Erbschaftsteuerreform bereitet ihnen dennoch Unbehagen.",
       "begruendung_selbst": "Wir wollen, dass unser Haus an die Kinder geht — das ist alles. Wenn jetzt da wieder dran gedreht wird, werden wir nervös.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

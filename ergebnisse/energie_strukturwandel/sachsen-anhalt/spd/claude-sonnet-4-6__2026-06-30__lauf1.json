@@ -23,14 +23,13 @@
       "titel_selbst": "Carbon-Management-Strategie — das ist meine Brücke!",
       "thema": "energie",
       "programmpunkt": "Die SPD will eine Carbon-Management-Strategie anstoßen und darauf basierend Industrie-Dialoge führen; die LENA wird zur Landeskoordinierungsstelle für Wasserstoff- und CO2-Infrastrukturen.",
-      "seite": 5,
-      "zitat": "Wir werden die Erstellung einer Carbon-Management-Strategie und darauf basierender Industrie-Dialoge anstoßen.",
+      "seite": 6,
+      "zitat": "darauf basierender Industrie-Dialoge anstoßen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Ronny sieht Carbon-Management und CCS als entscheidende Brückentechnologien für seine Region. Eine explizit genannte Carbon-Management-Strategie signalisiert, dass die SPD diese Technologie nicht pauschal ablehnt — das ist für seine Zukunftsplanung entscheidend.",
       "begruendung_selbst": "Erst die Brücke bauen, dann die alte abreißen. Eine Carbon-Management-Strategie ist genau diese Brücke. Endlich sagt jemand, dass CO2 nicht nur ein Problem, sondern auch eine Ressource sein kann.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wasserstoff und CO2-Infrastruktur kommen!",
@@ -54,8 +53,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Ronnys Region hängt am Strukturwandel. Ein Anschlussprogramm nach 2028 sichert, dass Investitionen nicht auslaufen, wenn die ersten Kohleausstiegseffekte voll spürbar werden.",
       "begruendung_selbst": "2028 — das ist nicht weit. Wenn danach das Geld weg ist und nichts Neues kommt, stirbt hier die Region. Das Anschlussprogramm ist kein Luxus, das ist Überlebensmittel.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 53 auf 33 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Erneuerbare plus Speicher — das ist mein Feld!",

@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Aylin erlebt Alltagsdiskriminierung als wiederkehrende Realität. Ein Landesdiskriminierungsgesetz gibt ihr erstmals ein konkretes rechtliches Instrument im Freistaat, um sich zu wehren.",
       "begruendung_selbst": "Ich bin hier geboren, ich arbeite in der Verwaltung, und trotzdem erleb ich immer wieder, dass ich meine Zugehörigkeit beweisen muss. Ein Diskriminierungsgesetz sagt: das ist nicht okay — und ich hab Mittel dagegen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 36 auf 23 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "AfD-Verbotsverfahren prüfen — richtig!",
@@ -42,8 +41,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Aylin erlebt Parteien wie die AfD als existenzielle Bedrohung für Menschen wie sie. Das Bekenntnis, ein Verbotsverfahren zu prüfen, gibt ihr das Signal, dass demokratische Parteien die Grenze ziehen.",
       "begruendung_selbst": "Parteien, die 'Remigration' fordern, meinen Menschen wie mich — auch wenn ich seit Jahrzehnten hier lebe. Dass jemand das ernst nimmt und sagt: 'Wir prüfen ein Verbot' — das ist keine Kleinigkeit.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 32 auf 20 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Willkommenskultur ist Standortfaktor!",
@@ -55,21 +53,19 @@
       "resonanz": "bestaetigt",
       "begruendung": "Als Verwaltungsangestellte erlebt Aylin täglich, wie mangelnde interkulturelle Kompetenz zu Missverständnissen und Fehlern führt. Die Stärkung dieser Kompetenzen verbessert sowohl ihr Arbeitsumfeld als auch die Situation ihrer Community.",
       "begruendung_selbst": "Ich sitz selbst in der Verwaltung. Wenn Kolleginnen und Kollegen geschult werden, mit Vielfalt besser umzugehen, erleichtert das nicht nur meinen Alltag — das hilft auch den Menschen, die zu uns kommen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 11 auf 8 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Rassismuskritik in die Polizei!",
       "thema": "sicherheit",
       "programmpunkt": "Rassismuskritische Bildungsarbeit wird in Verwaltung, Schulen und Polizei ausgebaut.",
-      "seite": 36,
-      "zitat": "Rassismuskritische Bildungsarbeit wird in Verwaltung, Schulen und Polizei ausgebaut.",
+      "seite": 23,
+      "zitat": "Rassismuskritische Bildungsarbeit in Verwaltung, Schulen und Polizei wird ausgebaut",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin hat die Erfahrung gemacht, von Behörden und Polizei anders behandelt zu werden als Menschen ohne Migrationsgeschichte. Rassismuskritische Schulungen in diesen Institutionen adressieren diese Alltagserfahrung strukturell.",
       "begruendung_selbst": "Ich will, dass Menschen in Uniform mich als Bürgerin sehen, nicht als potenzielle Fremde. Schulungen allein lösen das nicht, aber sie sind ein Anfang.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -83,8 +79,7 @@
       "resonanz": "kontaer",
       "begruendung": "Aylin selbst ist gesichert — als Eingebürgerte betrifft sie das Aufenthaltsrecht nicht direkt. Aber die Rhetorik von 'Ordnung und Recht' im Migrationskontext macht sie wachsam, dass sachliche Steuerung in pauschale Härte umkippen kann und ihr Community-Umfeld trifft.",
       "begruendung_selbst": "Steuert Migration sachlich — damit kann ich leben. Aber wenn 'Ordnung' zum Zauberwort wird, das alles rechtfertigt, dann schau ich genau hin. Meine Verwandten im Ausland sind keine Sicherheitsbedrohung.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 33 auf 21 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

@@ -41,21 +41,19 @@
       "resonanz": "bestaetigt",
       "begruendung": "Uwe setzt sich als Gewerkschafter für Tarifbindung ein. Das klare Bekenntnis, das Tariftreuegesetz nicht anzutasten, schützt die Standards, für die er kämpft.",
       "begruendung_selbst": "Wenn das Tariftreuegesetz fällt, kippt als Nächstes der Tarif in der Branche. Das ist kein Dominostein, das ist ein Fundament. Ich bin froh, dass sie da standhaft sind.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 8 auf 7 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mitbestimmung wird gestärkt!",
       "thema": "arbeit",
       "programmpunkt": "Mitbestimmung in Betrieben wird als zentraler Bestandteil einer fairen Wirtschaftsordnung gestärkt; das Land unterstützt die Gründung von Betriebsräten.",
-      "seite": 4,
-      "zitat": "Mitbestimmung in den Betrieben ist ein zentraler Bestandteil einer fairen Wirtschaftsordnung und wird gestärkt.",
+      "seite": 5,
+      "zitat": "Mitbestimmung in den Betrieben ist ein zentraler Bestandteil",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als langjähriger Betriebsrat ist Mitbestimmung für Uwe kein abstraktes Recht, sondern gelebte Praxis. Die Stärkung und aktive Unterstützung bei der Gründung von Betriebsräten liegt direkt in seiner Welt.",
       "begruendung_selbst": "Mitbestimmung ist das, was Arbeitnehmer zu Akteuren macht statt zu Objekten. Wenn die SPD das ernst nimmt und nicht nur draufschreibt, dann stimmt die Grundrichtung.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Strukturwandel: niemanden zurücklassen!",
@@ -81,8 +79,7 @@
       "resonanz": "kontaer",
       "begruendung": "Uwe begrüßt zwar Planungssicherheit, aber verbindliche Reduktionspfade können Produktionsmengen der Chemieindustrie direkt beschränken. Er befürchtet, dass das Klimaschutzgesetz sein Unternehmen unter Druck setzt, ohne dass der soziale Ausgleich gesichert ist.",
       "begruendung_selbst": "Planungssicherheit — das klingt gut. Aber wenn ein Gesetz vorschreibt, wie viel CO2 meine Anlage noch darf, dann entscheidet das auch, ob ich übermorgen noch Arbeit hab.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 22 auf 15 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

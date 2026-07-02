@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Toralfs Dorf hat keinen brauchbaren ÖPNV. Das Versprechen einer Mobilitätsgarantie für alle Regionen adressiert seine Lage direkt — auch wenn er skeptisch ist, ob es umgesetzt wird.",
       "begruendung_selbst": "Wenn endlich ein Bus fährt, könnten wir das zweite Auto einsparen. Das wäre eine echte Erleichterung für unseren Geldbeutel.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 41 auf 26 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Führerschein günstiger — das hilft!",
@@ -42,21 +41,19 @@
       "resonanz": "bestaetigt",
       "begruendung": "Toralf sieht die Führerscheinkosten als Last für junge Menschen und Familien. Auch für seine Kinder, die bald in die Ausbildung kommen, wäre eine Vergünstigung direkt spürbar.",
       "begruendung_selbst": "Meine Kinder müssen den Führerschein machen — das kostet uns schnell 2.000 Euro. Wenn das günstiger wird, ist das echtes Geld.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 9 auf 8 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Stromsteuer senken — gut für mich!",
       "thema": "energie",
       "programmpunkt": "Die SPD will die Umsatzsteuer auf Lebensmittel und die Stromsteuer senken, um Haushalte mit geringen Einkommen zu entlasten.",
-      "seite": 54,
-      "zitat": "Die Umsatzsteuer auf Lebensmittel des Grundbedarfs sowie die Stromsteuer sollen daher für alle Haushalte gesenkt werden.",
+      "seite": 33,
+      "zitat": "Umsatzsteuer auf Lebensmittel des Grundbedarfs sowie die Stromsteuer sollen daher für alle Haushalte gesenkt",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Steigende Lebensmittel- und Energiepreise belasten Toralfs Haushalt direkt. Senkungen bei Strom und Grundnahrungsmitteln geben ihm konkreten Kaufkraftzuwachs.",
       "begruendung_selbst": "Am Monatsende bleibt zu wenig. Wenn Strom und Lebensmittel günstiger werden, merke ich das direkt im Portemonnaie.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Industriejobs schützen — mein Job zählt!",
@@ -82,8 +79,7 @@
       "resonanz": "kontaer",
       "begruendung": "Toralf wohnt in einem Dorf ohne nennenswerten ÖPNV. Die genannten Maßnahmen betreffen primär bestehende Straßenbahnnetze und Buslinien in Städten — sein Alltag als Autofahrer ohne Alternative wird damit nicht gelöst.",
       "begruendung_selbst": "Straßenbahnen — ich wohn im Dorf. Was nützen mir Straßenbahnen in Halle, wenn ich hier keinen Bus hab und auch keinen kriegen werde?",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 41 auf 26 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

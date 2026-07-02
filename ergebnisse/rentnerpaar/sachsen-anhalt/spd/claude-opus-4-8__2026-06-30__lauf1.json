@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Helga und Dieter fürchten, dass ihr einziger Hausarzt aufhört; die Fortführung der Landarztquote zielt direkt auf ihre Sorge um die wohnortnahe Versorgung.",
       "begruendung_selbst": "Wenn unser Doktor mal aufhört, ist hier nichts mehr in der Nähe. Dass die was für Landärzte tun, beruhigt uns wenigstens ein bisschen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Im eigenen Haus alt werden",
@@ -42,8 +41,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Im eigenen Haus alt zu werden ist ein Grundwert des Paares; der Ausbau wohnortnaher Unterstützungsstrukturen kommt ihrem Wunsch entgegen, nicht ins Heim zu müssen.",
       "begruendung_selbst": "Wir wollen in unserem Haus bleiben, solange es geht. Hilfe vor Ort, damit das klappt - genau das brauchen wir.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Günstiges Ticket für uns Senioren",
@@ -55,8 +53,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Mit kleinen Renten muss jeder Posten geplant werden; ein vergünstigtes Seniorenticket erleichtert dem Paar Mobilität und Teilhabe, sobald das Autofahren schwerer wird.",
       "begruendung_selbst": "Solange wir noch fahren, brauchen wir es nicht. Aber 20 Euro im Monat fürs Ticket sind eine faire Sache, wenn das Auto mal wegfällt.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 42 auf 26 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Strom muss bezahlbar bleiben",
@@ -68,8 +65,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Heizkosten und Lebenshaltung drücken bei kleiner Rente; eine Stromsteuersenkung für Privathaushalte trifft die finanzielle Lage des Paares unmittelbar.",
       "begruendung_selbst": "Jede Nebenkostenabrechnung macht uns Bauchschmerzen. Wenn der Strom etwas billiger wird, ist das für uns echtes Geld.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr Polizei für unsere Ruhe",
@@ -81,8 +77,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Sicherheit und das Gefühl, nicht abgehängt zu sein, sind dem Paar wichtig; das Bekenntnis zu mehr Polizeipersonal spricht ihr Bedürfnis nach Verlässlichkeit im Ort an.",
       "begruendung_selbst": "Man hört ja so einiges. Wenn die Polizei genug Leute hat und auch mal vorbeikommt, fühlt man sich auf dem Dorf gleich sicherer.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 28 auf 19 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich eine echte Pflegereform",
@@ -94,8 +89,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Die Angst vor Pflegekosten ist für das Paar zentral; eine angekündigte Pflegereform berührt diese Sorge, bleibt für sie aber eine vage Bundesangelegenheit ohne konkrete Entlastung heute.",
       "begruendung_selbst": "Pflege macht uns am meisten Angst. Eine Reform wäre gut - nur ist das wieder Berlin und dauert, das kennen wir schon.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -109,8 +103,7 @@
       "resonanz": "kontaer",
       "begruendung": "Das Paar fürchtet energetische Pflichten, die es sich nicht leisten kann; ein verbindliches Klimaschutzgesetz weckt diese Sorge, auch wenn das Programm Belastungen für einkommensschwache Haushalte ausschließen will.",
       "begruendung_selbst": "Verbindliche Klimaziele - das endet doch wieder bei Vorschriften fürs Haus. Und von welchem Geld sollen wir dann das Dach dämmen?",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 22 auf 15 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

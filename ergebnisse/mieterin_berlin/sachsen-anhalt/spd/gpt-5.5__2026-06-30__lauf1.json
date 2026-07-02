@@ -30,8 +30,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Carla sieht Wohnen nicht als normales Marktgut, sondern als soziale Infrastruktur. Dass öffentliche und genossenschaftliche Wohnungsunternehmen ausdrücklich der Daseinsvorsorge zugeordnet werden, bestätigt ihre Grundhaltung gegen Verdrängungslogik.",
       "begruendung_selbst": "Genau so muss man über Wohnungen reden: nicht als Renditeobjekt, sondern als Sicherheit im Alltag.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 44 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Keine zweite Miete",
@@ -43,8 +42,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Carla hat konkret Angst vor Modernisierungskosten und steigenden Wohnnebenkosten. Die Formulierung trifft ihre Sorge, dass energetische Sanierung am Ende als zusätzlicher Mietdruck bei ihr landet.",
       "begruendung_selbst": "Klimaschutz ja, aber ich darf nicht die Rechnung allein im Briefkasten finden.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Mehr bezahlbare Wohnungen",
@@ -56,8 +54,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Carla profitiert nicht unmittelbar vom Sachsen-Anhalter Wohnungsmarkt, bewertet aber Wohnungspolitik solidarisch und gemeinwohlorientiert. Mehr sozialer Wohnungsbau passt zu ihrer Vorstellung einer gemischten Stadt statt Verdrängung nach Einkommen.",
       "begruendung_selbst": "Mehr Sozialwohnungen sind kein Extra, das ist die Grundlage für gemischte Viertel.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Bus und Bahn zuerst",
@@ -69,8 +66,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Carla lebt ohne Auto und misst Alltagspolitik auch daran, ob Menschen unabhängig vom Pkw mobil bleiben. Ein bezahlbarer und verlässlicher ÖPNV entspricht ihrer urban-progressiven Mobilitätsperspektive.",
       "begruendung_selbst": "Ich will nicht auf ein Auto angewiesen sein, nur um normal am Leben teilzunehmen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 41 auf 26 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Radwege sind Alltag",
@@ -82,8 +78,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Carla nutzt ÖPNV und Rad im Alltag und wünscht eine autoärmere Stadt. Die Aufwertung von Fuß- und Radverkehr als moderner Mobilität spricht diese Lebensweise direkt an.",
       "begruendung_selbst": "Radwege sind für mich keine Freizeitdeko, sondern mein täglicher Weg durch die Stadt.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 42 auf 26 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kapital soll zahlen",
@@ -95,8 +90,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Carla nimmt Immobilieninvestoren als Gegeninteresse wahr und erwartet, dass Vermögen stärker zur Finanzierung des Gemeinwesens beiträgt. Die steuerliche Gleichbehandlung von Mietimmobilienerträgen passt zu ihrer Kritik an Spekulationsgewinnen.",
       "begruendung_selbst": "Wer mit Wohnungen Geld verdient, soll nicht besser behandelt werden als Leute mit Gehalt.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 54 auf 33 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Hilfe ohne Demütigung",
@@ -108,8 +102,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Carla lebt mit mittlerem Einkommen, aber hoher Mietbelastung und kennt die Angst vor existenziellen Brüchen. Ein nicht demütigender Sozialstaat bestätigt ihren Wunsch nach Absicherung, wenn Wohnen oder Krankheit zur Krise werden.",
       "begruendung_selbst": "Wenn jemand rutscht, braucht es Hilfe und keinen Papierkrieg mit Misstrauen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 15 auf 10 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -123,8 +116,7 @@
       "resonanz": "kontaer",
       "begruendung": "Carla hat kein Wohneigentum und erlebt Eigentum in Berlin als unerreichbar. Förderlogik für Immobilienerwerb fühlt sich für sie wie Politik an, die an ihrer Mieterinnenrealität vorbeigeht.",
       "begruendung_selbst": "Ich brauche Schutz in meiner Wohnung, keine Förderung für Eigentum, das ich mir nie leisten kann.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 54 auf 33 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Bauen ohne Mietschutz?",
@@ -136,8 +128,7 @@
       "resonanz": "kontaer",
       "begruendung": "Carla ist nicht gegen Neubau, misstraut aber einer Wohnungspolitik, die Beschleunigung betont, ohne an dieser Stelle Mieterrechte, Milieuschutz oder Verdrängungsschutz mitzunennen. Aus ihrer Erfahrung kann schnelleres Bauen allein auch investorenfreundlich wirken.",
       "begruendung_selbst": "Schneller bauen klingt gut, aber wo steht, dass mein Kiez danach noch für mich da ist?",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 44 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Leerstand einfach abreißen?",
@@ -149,8 +140,7 @@
       "resonanz": "kontaer",
       "begruendung": "Carla denkt vom Mangel an bezahlbarem Wohnraum her und reagiert skeptisch, wenn Wohnraum politisch zuerst als Abrissproblem erscheint. Auch wenn der Kontext ländlich ist, stört sie der Fokus auf Bestandsreduktion statt gemeinwohlorientierter Umnutzung.",
       "begruendung_selbst": "Wenn überall Wohnungen fehlen, will ich zuerst hören, wie Bestand genutzt wird, nicht wie man ihn abreißt.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 44 auf 27 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

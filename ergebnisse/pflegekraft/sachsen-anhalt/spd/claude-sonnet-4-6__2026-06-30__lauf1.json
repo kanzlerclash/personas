@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Kerstins tägliche Überlastung kommt aus chronischer Unterbesetzung. Personaluntergrenzen würden direkt ihre Arbeitsbelastung senken und die Patientensicherheit erhöhen — das ist für sie die wichtigste strukturelle Maßnahme überhaupt.",
       "begruendung_selbst": "Personaluntergrenzen sind nicht schön zu haben — die sind überlebenswichtig. Wenn ich weiß, dass nie weniger als X Pflegekräfte auf Station sein dürfen, dann kann ich endlich durchatmen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Anerkennungsverfahren werden beschleunigt!",
@@ -42,8 +41,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Kerstins migrantische Kolleg:innen kämpfen oft jahrelang um die Anerkennung ihrer Abschlüsse. Schnellere Verfahren bedeuten, dass ihre Station früher vollständig besetzt sein kann.",
       "begruendung_selbst": "Meine Kolleginnen aus dem Ausland sind top ausgebildet — aber ihr Abschluss hängt monate- oder jahrelang im Behördenapparat. Wenn das schneller geht, kommen sie früher auf die Station.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 10 auf 8 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Privatisierung stoppen — Versorgung sichern!",
@@ -55,8 +53,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin erlebt täglich, wie Renditedruck auf private Krankenhausträger die Pflegequalität und Besetzung verschlechtert. Das Bekenntnis, Privatisierungsfolgen durch Rekommunalisierung abzumildern, entspricht ihrer Grundhaltung.",
       "begruendung_selbst": "Wenn ein privater Träger geht, weil sich der Standort nicht 'rechnet', bleibt das Pflegepersonal zurück. Dass das Land dann einspringt — das ist das Mindeste.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Entbürokratisierung der Pflege — bitte!",
@@ -68,8 +65,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin verbringt zu viel Zeit mit Dokumentation statt bei Patient:innen. Die Abschaffung von Doppelprüfungen und eine Konzentration auf das Wesentliche gibt ihr direkt mehr Zeit für ihre eigentliche Arbeit.",
       "begruendung_selbst": "Ich bin Pflegerin, keine Schreibkraft. Jede Minute weniger Doppeldokumentation ist eine Minute mehr für meine Patienten.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -83,8 +79,7 @@
       "resonanz": "kontaer",
       "begruendung": "Kerstin kennt die Sonntagsreden. Das Bekenntnis zu einer Bundesratsinitiative für eine Pflegereform ist zwar ehrlich über die Grenzen der Landeskompetenz, aber für sie als Einzelperson auf der überlasteten Station ohne unmittelbare Entlastung.",
       "begruendung_selbst": "Schickt uns Personal, keine Sonntagsreden. Bundesratsinitiative — das hör ich seit Jahren. Wann kommt es auf meiner Station an?",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Tom und Jessica scheitern unter anderem an den Erwerbsnebenkosten. Die Grunderwerbsteuer ist ein erheblicher Kostenfaktor beim Erstkauf. Deren Wegfall beim Ersterwerb wäre eine direkte, spürbare Entlastung.",
       "begruendung_selbst": "Wir verdienen beide ordentlich — und trotzdem reicht es nicht, weil die Nebenkosten uns umbringen. Wenn die Grunderwerbsteuer beim ersten Mal wegfällt, rückt unser Haus ein Stückchen näher.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 54 auf 33 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Eigenheimzulage für Familien kommt zurück!",
@@ -42,8 +41,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Tom und Jessica haben ein ordentliches gemeinsames Einkommen, fragen sich aber, ob sie als 'niedrige Einkommen' gelten. Grundsätzlich ist die Wiederauflage der Eigenheimzulage ein positives Signal für den Traum vom Eigenheim.",
       "begruendung_selbst": "Eigenheimzulage — die kenn ich noch aus Erzählungen von den Eltern. Wenn die zurückkommt, ist das ein echtes Werkzeug. Ob wir reinkommen, muss ich erst durchrechnen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 54 auf 33 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schneller bauen dank Genehmigungsfiktion!",
@@ -55,21 +53,19 @@
       "resonanz": "bestaetigt",
       "begruendung": "Tom und Jessica wissen, dass selbst wenn sie die Finanzierung hätten, das Bauen oft an langsamen Behörden scheitert. Beschleunigte Genehmigungen und Musterbauten senken Kosten und Zeit.",
       "begruendung_selbst": "Wir wollen bauen, kein Jahrzehnt auf Genehmigungen warten. Wenn das schneller geht, spart das auch Geld — Bauzinsen laufen jeden Monat.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 44 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kita bis 14 Uhr — wir können beide arbeiten!",
       "thema": "familie",
       "programmpunkt": "Der Rechtsanspruch auf bis zu zehn Stunden Betreuung von Geburt bis zum 14. Lebensjahr ist nicht verhandelbar; Kitas mit flexiblen Öffnungszeiten in Randzeiten werden unterstützt.",
-      "seite": 27,
-      "zitat": "Der Rechtsanspruch auf bis zu zehn Stunden Betreuung von Geburt bis zum 14. Lebensjahr ist nicht verhandelbar.",
+      "seite": 18,
+      "zitat": "Betreuung von der Geburt bis zum 14. Lebensjahr ist nicht verhandelbar",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Tom und Jessica ist die Verfügbarkeit von Kinderbetreuung die Grundvoraussetzung für zwei Einkommen. Ein unverhandelbarer Rechtsanspruch und flexible Zeiten sichern ihre Arbeitsfähigkeit.",
       "begruendung_selbst": "Ohne verlässliche Betreuung kann einer von uns nicht voll arbeiten — und dann rechnet sich das Haus nie. Betreuung bis 14 Uhr ist keine Sozialleistung, das ist die Grundvoraussetzung für unseren Plan.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -83,8 +79,7 @@
       "resonanz": "kontaer",
       "begruendung": "Tom und Jessica fürchten, dass energetische Vorgaben beim Neubau die Kosten weiter in die Höhe treiben. Das Programm gibt zwar beruhigende Formulierungen ('darf keine zweite Miete werden'), lässt aber offen, wie viel Vorschriften beim konkreten Bauen dazukommen.",
       "begruendung_selbst": "Wir wollen ja energiesparend bauen. Aber wenn jede neue Wärme-Vorgabe unser Budget sprengt, ist das gut gemeint und schlecht umgesetzt. Wir bauen einmal — die Kosten müssen passen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

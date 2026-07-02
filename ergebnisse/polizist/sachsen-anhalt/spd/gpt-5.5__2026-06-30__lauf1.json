@@ -30,8 +30,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Marco fühlt sich in seinem Kernanliegen direkt angesprochen: Sein Alltag im Streifendienst hängt an Personal, Rückhalt und verlässlichen Bedingungen. Die Formulierung nimmt die Belastung der Polizei ausdrücklich ernst.",
       "begruendung_selbst": "Ich will nicht nur Sonntagsreden hören. Wenn Politik klar sagt, dass wir Rückendeckung und ordentliche Bedingungen brauchen, geht das genau in die richtige Richtung.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 28 auf 19 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Ausstattung statt Improvisieren",
@@ -43,8 +42,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Für Marco ist Ausstattung keine Komfortfrage, sondern Voraussetzung dafür, Einsätze sauber und sicher abzuarbeiten. Auch verlässliche Dienstpläne berühren seine Familien- und Schichtbelastung unmittelbar.",
       "begruendung_selbst": "Auf Streife zählt, ob Funk, Fahrzeuge, IT und Dienstplan funktionieren. Wir können Sicherheit nicht mit veralteter Technik und dauerndem Improvisieren liefern.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 28 auf 19 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Runter mit dem Papierkram",
@@ -56,21 +54,19 @@
       "resonanz": "bestaetigt",
       "begruendung": "Marco erlebt Berichte, Dokumentation und Verwaltungsaufwand als Teil der Überlastung. Der Punkt trifft seine Erwartung, dass Polizei im Einsatz und bei Bürgern präsent sein soll, nicht in unnötiger Bürokratie festhängt.",
       "begruendung_selbst": "Ich schreibe genug, wenn es rechtsstaatlich nötig ist. Aber jeder unnötige Vorgang fehlt draußen auf der Straße.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 28 auf 19 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Beförderung darf nicht versanden",
       "thema": "arbeit",
       "programmpunkt": "Das Beförderungsbudget soll verbessert und die amtsangemessene Alimentierung der Polizeibeschäftigten umfassend korrigiert werden.",
-      "seite": 29,
-      "zitat": "„wird umfassend verbessert“",
+      "seite": 19,
+      "zitat": "werden umfassend verbessert",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Beamter mit planbarem, aber nicht üppigem Einkommen achtet Marco stark auf faire Besoldung und berufliche Perspektiven. Der Punkt signalisiert Anerkennung nicht nur symbolisch, sondern in Laufbahn und Geld.",
       "begruendung_selbst": "Wenn Kollegen jahrelang gute Arbeit machen, darf das nicht im Beförderungsstau hängen bleiben. Gleiche Anforderungen brauchen faire Perspektiven.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Die Justiz muss liefern",
@@ -82,8 +78,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Marco ist frustriert, wenn Polizeiarbeit später in der Justizkette liegen bleibt. Mehr Personal und Technik bei Gerichten und Staatsanwaltschaften passt zu seinem Wunsch nach konsequenter, funktionierender Strafverfolgung.",
       "begruendung_selbst": "Unsere Arbeit endet nicht mit der Anzeige. Wenn Verfahren ewig dauern, verliert der Rechtsstaat draußen an Glaubwürdigkeit.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 30 auf 20 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Verfassungsschutz ernst nehmen",
@@ -95,8 +90,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Marco ist verfassungsorientiert und lehnt Kräfte ab, die Institutionen schwächen. Eine bessere Ausstattung des Verfassungsschutzes gegen Extremismus und hybride Bedrohungen stärkt aus seiner Sicht die wehrhafte Demokratie.",
       "begruendung_selbst": "Mir ist wichtig, dass der Staat seine Verfassung schützt. Wer Extremismus beobachten soll, braucht dafür Leute, Technik und klare Befugnisse.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 33 auf 20 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Tarifabschluss gilt auch für uns",
@@ -108,8 +102,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Marco ist Beamter und achtet darauf, dass Belastung und Verantwortung im öffentlichen Dienst auch finanziell anerkannt werden. Die zeitgleiche Übertragung von Tarifergebnissen würde seine Planbarkeit und Motivation direkt betreffen.",
       "begruendung_selbst": "Wenn die Anforderungen gleich hoch sind, darf die Anerkennung nicht später oder abgeschwächt kommen. Das ist eine Frage von Respekt.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 59 auf 35 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -123,8 +116,7 @@
       "resonanz": "kontaer",
       "begruendung": "Marco akzeptiert rechtsstaatliche Kontrolle, reagiert aber empfindlich auf Signale, die seine Kollegschaft unter zusätzlichen Verdacht stellen könnten. Der Fokus auf den Polizeibeauftragten trifft seine Sorge vor pauschaler Institutionenkritik.",
       "begruendung_selbst": "Kontrolle gehört dazu, aber ich will nicht, dass wieder zuerst über Misstrauen gegen die Polizei gesprochen wird, bevor unsere Belastung gelöst ist.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 29 auf 19 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Falsche Priorität im Apparat",
@@ -136,8 +128,7 @@
       "resonanz": "kontaer",
       "begruendung": "Marco sieht Personalmangel, Schichtbelastung und Ausstattung als dringendste Probleme. Zusätzliche hauptamtliche Rollen wirken aus seiner Praxisperspektive wie eine Priorität, die nicht zuerst Einsatzfähigkeit und Entlastung verbessert.",
       "begruendung_selbst": "Ich habe nichts gegen Ansprechpartner. Aber wenn draußen Leute fehlen, muss zuerst die Einsatzfähigkeit stehen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 29 auf 19 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Abschiebung nicht nur als Letztes",
@@ -149,8 +140,7 @@
       "resonanz": "kontaer",
       "begruendung": "Marco urteilt bei Migration differenziert, will aber klare Rechtsdurchsetzung, wenn Regeln verletzt werden. Die Formulierung klingt für ihn zu zurückhaltend, weil sie den Vollzug des Aufenthaltsrechts stark begrenzt.",
       "begruendung_selbst": "Wer hier arbeitet oder lernt, soll fair behandelt werden. Aber wenn der Rechtsstaat entscheidet, muss er seine Entscheidungen auch durchsetzen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 33 auf 21 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gute Werkzeuge nicht wegwerfen",
@@ -162,8 +152,7 @@
       "resonanz": "kontaer",
       "begruendung": "Marco will moderne Technik, solange Datenschutz und Rechtsklarheit gewahrt bleiben. Eine kategorische Ablehnung eines Analysewerkzeugs wirkt auf ihn wie ein vorschnelles Streichen möglicher Ermittlungs- und Lagebildfähigkeiten.",
       "begruendung_selbst": "Natürlich müssen Datenschutz und Recht stimmen. Aber ich will nicht, dass brauchbare Technik schon politisch aussortiert wird, bevor man sauber prüft.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 56 auf 34 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Kontrolle bremst die Abwehr",
@@ -175,8 +164,7 @@
       "resonanz": "kontaer",
       "begruendung": "Marco bejaht Rechtsstaatlichkeit, sieht bei Extremismus, Sabotage und Spionage aber eine verschärfte Bedrohungslage. Die starke Betonung von Begrenzung und Kontrolle kann ihm im selben Abschnitt wie eine Bremse für wehrhafte Sicherheitsbehörden erscheinen.",
       "begruendung_selbst": "Verhältnismäßigkeit ist klar. Aber bei Sabotage, Spionage und Extremismus darf die Behörde nicht so eng geführt werden, dass sie zu spät kommt.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 33 auf 21 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

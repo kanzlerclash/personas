@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Helga und Dieter leben auf dem Dorf und hängen stark daran, dass Arzt, Krankenhaus und Rettung erreichbar bleiben. Der Punkt bestätigt ihre wichtigste Alltagssorge: nicht im Alter medizinisch abgehängt zu werden.",
       "begruendung_selbst": "Wenn einer von uns krank wird, brauchen wir Hilfe in erreichbarer Nähe. Wir können nicht erst lange Wege organisieren, nur weil wir auf dem Dorf wohnen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Pflege nicht allein schultern",
@@ -42,8 +41,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Das Rentnerpaar fürchtet Pflegekosten und den Moment, in dem die Kinder aus der Ferne nicht alles auffangen können. Die Zusage spricht genau ihre Angst vor organisatorischer und finanzieller Überforderung an.",
       "begruendung_selbst": "Wir wollen niemandem zur Last fallen, aber allein schafft man Pflege irgendwann nicht mehr. Gut, wenn das nicht nur Privatproblem der Familie bleibt.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 13 auf 10 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Zuhause alt werden",
@@ -55,8 +53,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Das eigene Haus ist für Helga und Dieter ihr Hauptvermögen und ihr Lebensort. Alles, was selbstständiges Wohnen im Alter vor Ort stärkt, passt zu ihrem Wunsch nach Verlässlichkeit und Würde.",
       "begruendung_selbst": "Unser Haus ist abbezahlt und hier kennen wir jeden Weg. Wenn Hilfe ins Wohnumfeld kommt, können wir länger bleiben, wo wir hingehören.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Landärzte wirklich binden",
@@ -68,8 +65,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Die Persona sorgt sich ausdrücklich, was passiert, wenn der letzte Hausarzt aufhört. Eine fortgesetzte Landarztquote ist für sie ein konkreter Ansatz gegen genau diese Versorgungslücke.",
       "begruendung_selbst": "Wenn unser Hausarzt in Rente geht, darf hier nicht Schluss sein. Es muss jemand nachkommen, sonst sind wir aufgeschmissen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Strom darf nicht auffressen",
@@ -93,8 +89,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Die Formulierung trifft den Kern ihrer Angst vor unbezahlbarer Wärmewende und steigenden Heizkosten. Sie signalisiert, dass Klimapolitik nicht einfach auf Haushalte mit wenig Rücklagen abgewälzt werden soll.",
       "begruendung_selbst": "Genau davor haben wir Angst: Heizung umbauen und dann jeden Monat noch mehr zahlen. Wärme darf uns nicht das Haus unbezahlbar machen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Bus und Bahn bezahlbar",
@@ -106,8 +101,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Solange sie Auto fahren können, bleiben sie mobil; im Alter wird bezahlbarer ÖPNV aber wichtiger. Ein günstiger Seniorentarif nimmt ihnen etwas Sorge vor Abhängigkeit im ländlichen Raum.",
       "begruendung_selbst": "Noch fahren wir Auto, aber ewig geht das nicht. Ein bezahlbares Ticket für Ältere wäre eine echte Reserve.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 42 auf 26 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Sicherheit beginnt vorm Haus",
@@ -119,8 +113,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Helga und Dieter wünschen Ordnung und ein sicheres Gefühl im Ort, nicht nur abstrakte Sicherheitsdebatten. Lokale Präsenz und konkrete Maßnahmen im öffentlichen Raum passen zu dieser Erwartung.",
       "begruendung_selbst": "Uns geht es nicht um große Sprüche. Wir wollen abends ordentlich Licht, sichere Wege und jemanden, den man ansprechen kann.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 30 auf 20 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -134,8 +127,7 @@
       "resonanz": "kontaer",
       "begruendung": "Helga und Dieter sind nicht gegen Umweltschutz, aber verbindliche Klimapfade lösen bei ihnen sofort die Sorge vor unbezahlbaren Pflichten am Eigenheim aus. Das Programm betont soziale Gerechtigkeit, bleibt hier aber für ihre konkrete Sanierungsangst zu abstrakt.",
       "begruendung_selbst": "Wenn da Verbindlichkeit steht, fragen wir sofort: Wer muss am Ende zahlen? Unser Dach und die Heizung können nicht einfach per Gesetz neu werden.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 22 auf 15 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Haushalte sind keine Betriebe",
@@ -147,8 +139,7 @@
       "resonanz": "kontaer",
       "begruendung": "Ihre größte Energiesorge ist nicht fehlender Wille zur Effizienz, sondern fehlendes Geld für große Maßnahmen. Ohne klare Zusage Förderung statt Pflicht klingt dieser Punkt für sie nach zusätzlichen Erwartungen an private Eigentümer.",
       "begruendung_selbst": "Wir sparen schon, wo es geht. Aber wenn wieder Potenziale im privaten Haushalt gesucht werden, landet die Rechnung schnell bei uns.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 5 auf 6 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Rente bleibt zu vage",
@@ -160,8 +151,7 @@
       "resonanz": "kontaer",
       "begruendung": "Für Helga und Dieter ist die sichere gesetzliche Rente ein Kernanliegen. Eine allgemeine Armutsbekämpfung ist ihnen sympathisch, ersetzt aber aus ihrer Sicht keine klare Aussage, dass ihre Rente stabil bleibt und nicht zum Experiment wird.",
       "begruendung_selbst": "Altersarmut bekämpfen ist richtig, aber wir wollen wissen, ob unsere Rente sicher bleibt. Nach einem Arbeitsleben braucht man da klare Worte.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 15 auf 10 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Nicht nur digital bitte",
@@ -173,8 +163,7 @@
       "resonanz": "kontaer",
       "begruendung": "Helga und Dieter nutzen eher Zeitung, Telefon und persönliche Kontakte. Wenn Anträge zunehmend digital laufen, fürchten sie, bei komplizierten Leistungen oder Pflegefragen den Zugang zu verlieren.",
       "begruendung_selbst": "Am Computer machen wir das nicht gern. Wenn alles digital läuft, brauchen wir trotzdem jemanden am Schalter oder am Telefon.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 56 auf 34 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Junge zählen noch mehr",
@@ -186,8 +175,7 @@
       "resonanz": "kontaer",
       "begruendung": "Die Persona sorgt sich, dass Ältere und ländliche Räume übersehen werden. Mehr Beteiligung Jugendlicher ist nicht grundsätzlich gegen sie gerichtet, kann aber ihr Gefühl verstärken, dass ihre eigenen Sorgen politisch weniger Gewicht bekommen.",
       "begruendung_selbst": "Junge Leute sollen mitreden, ja. Aber manchmal haben wir den Eindruck, dass die Alten auf dem Dorf sowieso zuletzt gefragt werden.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 25 auf 17 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

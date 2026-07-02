@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Carla ist strikt dagegen, dass der Wohnungsmarkt reinen Profitinteressen überlassen wird. Das Bekenntnis zu kommunalen Wohnungsunternehmen als Instrument der Daseinsvorsorge deckt sich exakt mit ihrer Haltung gegen Privatisierung.",
       "begruendung_selbst": "Endlich sagt mal jemand klar, dass Wohnen Daseinsvorsorge ist und keine Kuh, die man für den Haushalt melken und privatisieren darf. Wohnraum darf nicht an Investoren verhökert werden.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 44 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Keine kalte Räumung durch Wärmewende!",
@@ -42,8 +41,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Als Mieterin im Altbau schwebt die Angst vor unbezahlbaren Modernisierungsumlagen ständig über Carla. Die Zusicherung, dass die Wärmewende nicht voll auf die Miete durchschlagen soll, adressiert diese existenzielle Sorge.",
       "begruendung_selbst": "Ich habe panische Angst vor dem Tag, an dem die energetische Sanierung kommt und ich mir den Kiez nicht mehr leisten kann. Dass das keine zweite Miete werden darf, ist extrem wichtig.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 43 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Das Ticket muss bezahlbar bleiben!",
@@ -55,8 +53,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Da Carla kein Auto besitzt und alle Wege mit öffentlichen Verkehrsmitteln oder dem Rad zurücklegt, profitiert sie direkt von einem dauerhaft günstigen Ticket. Es sichert ihre umweltfreundliche Mobilität.",
       "begruendung_selbst": "Mein Leben in der Stadt funktioniert nur mit einem bezahlbaren ÖPNV. Wenn das Deutschlandticket gesichert wird, behalte ich wenigstens hier ein Stück finanzielle Planbarkeit im Alltag.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 42 auf 26 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Solidarität statt Ellenbogen!",
@@ -68,8 +65,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Soziale Gerechtigkeit gehört zu Carlas Grundwerten. Ein klares Bekenntnis des Staates zum Schutz vulnerabler Gruppen vor Armut bestätigt ihr solidarisches Gesellschaftsbild.",
       "begruendung_selbst": "Eine Stadt ist nur dann lebenswert, wenn nicht die Schwächsten an den Rand gedrängt werden. Dass Armutsbekämpfung Priorität haben soll, ist ein wichtiges Signal für den sozialen Zusammenhalt.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 15 auf 10 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -83,8 +79,7 @@
       "resonanz": "kontaer",
       "begruendung": "Carla ist sehr misstrauisch gegenüber der Immobilienlobby. Wenn von weniger Prüfungen und Genehmigungsfiktionen beim Bauen die Rede ist, befürchtet sie, dass Mieterschutz und Milieuvorgaben unter die Räder geraten.",
       "begruendung_selbst": "Bürokratieabbau beim Bauen klingt erst mal gut, bedeutet aber für mich als Mieterin meistens, dass Immobilienhaie noch ungehinderter abreißen und Luxuswohnungen hochziehen dürfen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 44 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Straßenbau von gestern!",
@@ -96,8 +91,7 @@
       "resonanz": "kontaer",
       "begruendung": "Für Carla, die eine umweltfreundliche und autoarme Verkehrspolitik fordert, ist der weitere Ausbau von Autobahnen ein Rückschritt. Sie sieht darin eine Verschwendung von Ressourcen, die in den Umweltverbund fließen sollten.",
       "begruendung_selbst": "Wir reden über Klimakrise und Verkehrswende, und dann sollen trotzdem weiter fröhlich neue Autobahnen asphaltiert werden? Das passt doch überhaupt nicht zusammen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 42 auf 27 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Falsche Anreize fürs Auto!",
@@ -109,8 +103,7 @@
       "resonanz": "kontaer",
       "begruendung": "Da Carla ihren Alltag komplett ohne Auto bewältigt und eine autoarme Mobilität favorisiert, sieht sie Subventionen für den motorisierten Individualverkehr kritisch. Das Geld fehlt aus ihrer Sicht für den Nahverkehr.",
       "begruendung_selbst": "Statt das Geld in einen Führerschein-Rabatt zu stecken, sollte man die Öffis so gut ausbauen, dass niemand mehr zwingend ein Auto für den Job braucht.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 9 auf 8 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

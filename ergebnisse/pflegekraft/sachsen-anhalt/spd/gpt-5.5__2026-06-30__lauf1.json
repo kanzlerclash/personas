@@ -30,8 +30,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Kerstins größter Druckpunkt ist die Unterbesetzung auf Station. Dass Personaluntergrenzen ausdrücklich mit Arbeitsbedingungen und Qualität verbunden werden, trifft ihre Alltagserfahrung direkt.",
       "begruendung_selbst": "Wenn wirklich mehr Personal pro Schicht kommt, ist das kein Luxus, sondern Patientensicherheit und Selbstschutz.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Pflege darf kein Renditefall sein",
@@ -43,8 +42,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin sieht Privatisierung und Renditedruck als Treiber von Personalknappheit. Die Absage an Kapitalinteressen und Hilfe bei Rekommunalisierungen passt zu ihrer Skepsis gegenüber ökonomisierter Versorgung.",
       "begruendung_selbst": "Ich will, dass mein Krankenhaus nach Versorgung plant und nicht danach, was am Ende übrig bleibt.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Dienstpläne sind Lebenszeit",
@@ -56,8 +54,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin arbeitet im Schichtdienst und empfindet Belastung und Bezahlung als unausgewogen. Die Verbindung von Lohn und planbaren Diensten spricht genau ihre berufliche Lebenslage an.",
       "begruendung_selbst": "Ich brauche keinen Dankespruch, ich brauche einen Plan, der nicht dauernd mein Familienleben zerlegt.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Tarif stärkt uns alle",
@@ -69,8 +66,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin orientiert sich an Gewerkschaften und bewertet Politik an realer Anerkennung systemrelevanter Arbeit. Mehr Tarifbindung und Mitbestimmung stärken genau die kollektiven Hebel, die für bessere Pflegebedingungen wichtig sind.",
       "begruendung_selbst": "Allein verhandelt auf Station niemand gute Bedingungen, dafür brauchen wir Tarif und Rückhalt.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 8 auf 7 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Holt Kolleginnen rein, nicht raus",
@@ -82,8 +78,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Kerstins Station hängt von migrantischen Kolleginnen und Kollegen ab. Ein Kurs, der Arbeit erlaubt und Anerkennung ausländischer Abschlüsse beschleunigt, stützt ihre Teams statt sie auszubremsen.",
       "begruendung_selbst": "Wer hier arbeiten will und gebraucht wird, soll nicht monatelang an Papieren und Verboten hängen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 10 auf 8 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Bleiben, wenn sie arbeiten",
@@ -95,8 +90,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin lehnt einen Migrationskurs ab, der ihre Kollegschaft verunsichert. Bleibeperspektiven für Arbeitende und Auszubildende sind für sie direkt mit stabiler Versorgung verbunden.",
       "begruendung_selbst": "Meine Kolleginnen gehören ins Team, nicht in dauernde Angst vor der nächsten Behörde.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 11 auf 8 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Weniger Papier, mehr Pflege",
@@ -108,21 +102,19 @@
       "resonanz": "bestaetigt",
       "begruendung": "Kerstin erlebt Dokumentation als Teil der Arbeitsverdichtung. Entbürokratisierung, wenn sie Qualität nicht senkt, würde ihr Zeit für Pflege zurückgeben.",
       "begruendung_selbst": "Jede unnötige Prüfung frisst Zeit, die bei Menschen fehlt.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Nachwuchs nicht zahlen lassen",
       "thema": "gesundheit",
       "programmpunkt": "Die SPD hält an Schulgeldfreiheit und Ausbildungsvergütung in Gesundheitsberufen fest und will sie auf alle Gesundheitsberufe ausweiten.",
-      "seite": 14,
-      "zitat": "„Schulgeldfreiheit und Ausbildungsvergütung in allen Gesundheitsberufen“",
+      "seite": 9,
+      "zitat": "Schulgeldfreiheit in den Gesundheitsberufen und die Zahlung von Ausbildungsvergütungen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Kerstin ist Fachkräftegewinnung zentral, nicht nur Wertschätzung im Bestand. Kostenfreie Ausbildung mit Vergütung senkt Hürden für Nachwuchs im Gesundheitsbereich.",
       "begruendung_selbst": "Wer Pflege lernen will, darf dafür nicht auch noch draufzahlen müssen.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -136,8 +128,7 @@
       "resonanz": "kontaer",
       "begruendung": "Kerstin kann mehr Verantwortung grundsätzlich anerkennen, aber auf einer unterbesetzten Station klingt Aufgabenverlagerung ohne klar zugesagtes Zusatzpersonal nach weiterer Verdichtung. Aus ihrer Sicht darf Entlastung der Ärzteschaft nicht zur Mehrbelastung der Pflege werden.",
       "begruendung_selbst": "Mehr Verantwortung ist schön, aber nicht, wenn am Ende dieselben Leute noch mehr schaffen sollen.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Untergrenze ist kein Ziel",
@@ -149,8 +140,7 @@
       "resonanz": "kontaer",
       "begruendung": "Kerstin sucht nach belastbaren Personalschlüsseln und spürbarer Entlastung. Der Begriff Personaluntergrenzen bleibt für sie zu defensiv, weil eine Untergrenze im Stationsalltag oft nur das absolute Minimum absichert.",
       "begruendung_selbst": "Ich will nicht gerade so über die Grenze kommen, ich will genug Leute für gute Pflege.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Wirtschaftlichkeit bleibt ein Warnsignal",
@@ -162,8 +152,7 @@
       "resonanz": "kontaer",
       "begruendung": "Obwohl die SPD Kapitalinteressen begrenzt, hört Kerstin bei Wirtschaftlichkeit sofort den Druck, Betten, Zeit und Personal knappzurechnen. Ihre Erfahrung mit Ökonomisierung macht diesen Maßstab ambivalent.",
       "begruendung_selbst": "Sobald Wirtschaftlichkeit mit am Tisch sitzt, fürchte ich, dass wieder an Schichten gespart wird.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Bundesrat füllt keine Schicht",
@@ -175,8 +164,7 @@
       "resonanz": "kontaer",
       "begruendung": "Kerstin weiß, dass Pflegefinanzierung oft bundespolitisch hängt, erwartet aber konkrete Entlastung im Land. Eine Bundesratsinitiative wirkt aus ihrer Sicht wie ein weiterer politischer Umweg, solange die nächste Schicht weiter unterbesetzt ist.",
       "begruendung_selbst": "Bundesrat klingt richtig weit weg, wenn ich morgen wieder mit zu wenigen Leuten anfange.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 14 auf 10 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Assistenz ersetzt keine Fachkraft",
@@ -188,8 +176,7 @@
       "resonanz": "kontaer",
       "begruendung": "Kerstin kann zusätzliche Unterstützung gebrauchen, achtet aber auf qualifizierte Fachpflege und klare Verantwortung. Ohne Zusicherung, dass Assistenz nicht Fachkraftstellen ersetzt, bleibt der Punkt für sie riskant.",
       "begruendung_selbst": "Assistenz kann helfen, aber sie darf nicht als billiger Ersatz für examinierte Pflege verkauft werden.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 12 auf 9 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

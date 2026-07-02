@@ -29,21 +29,19 @@
       "resonanz": "bestaetigt",
       "begruendung": "Marco ist 36 Jahre alt und damit Teil der Gruppe, die der Beförderungsstau besonders hart trifft. Diese direkte Zusage spricht seine berufliche Situation unmittelbar an.",
       "begruendung_selbst": "Ich warte seit Jahren auf eine Beförderung, die laut Papier längst fällig wäre. Wenn die das Budget endlich aufstocken, ist das mehr als Symbolpolitik.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 29 auf 19 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Besoldung wird auskömmlich!",
       "thema": "arbeit",
       "programmpunkt": "Die seit Jahren fehlerhafte amtsangemessene Alimentierung der Polizeibeschäftigten wird umfassend verbessert.",
-      "seite": 29,
-      "zitat": "Die Ausfinanzierung der Dienstposten in der Landespolizei und die seit Jahren fehlerhafte amtsangemessene Alimentierung der Polizeibeschäftigten wird umfassend verbessert.",
+      "seite": 19,
+      "zitat": "amtsangemessene Alimentierung der Polizeibeschäftigten werden umfassend verbessert",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marco empfindet seine Besoldung als nicht angemessen für die Belastung im Schichtdienst. Die Ankündigung, die strukturelle Unterfinanzierung der Dienstposten zu beheben, trifft einen zentralen Kritikpunkt.",
       "begruendung_selbst": "Fehlerhafte Alimentierung — das ist Amtsdeutsch dafür, dass wir zu wenig kriegen. Wenn das endlich behoben wird, ist das längst überfällig.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Polizei bekommt Rückendeckung!",
@@ -55,8 +53,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Marco leidet darunter, dass er die Unterstützung aus der Politik vermisst. Das explizite Bekenntnis zu politischer Rückendeckung und guten Arbeitsbedingungen gibt ihm zumindest ein Signal der Anerkennung.",
       "begruendung_selbst": "Wenn ein Programm das ernsthaft sagt und nicht nur als Sonntagsrede — das merke ich. Rückendeckung bedeutet für mich nicht nur Lob, sondern Personal und Ausstattung.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 28 auf 19 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Rechtsextremismus konsequent verfolgen!",
@@ -68,8 +65,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Marco will einen funktionierenden Rechtsstaat, der Extremismus konsequent verfolgt. Eine spezialisierte Staatsanwaltschaft stärkt die Kette zwischen seinem Einsatz und der Strafverfolgung.",
       "begruendung_selbst": "Wir nehmen die fest — und dann kommt nichts. Eine Schwerpunktstaatsanwaltschaft, die gezielt Rechtsextremismus verfolgt: das ist genau das, was ich mir am Ende der Kette wünsche.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 35 auf 23 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -83,8 +79,7 @@
       "resonanz": "kontaer",
       "begruendung": "Marco steht dem unabhängigen Polizeibeauftragten ambivalent gegenüber. Einerseits versteht er, dass Kontrolle Legitimität schafft. Andererseits befürchtet er, dass Stärkung des Beauftragten seinen Kolleg:innen das Gefühl gibt, dauerhaft unter Generalverdacht zu stehen.",
       "begruendung_selbst": "Kontrolle ist gut, ich bin kein Heiliger. Aber wenn der Beauftragte zur ersten Anlaufstelle für jede Beschwerde wird, ist das nicht Vertrauen — das ist Misstrauen als Institution.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 29 auf 19 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

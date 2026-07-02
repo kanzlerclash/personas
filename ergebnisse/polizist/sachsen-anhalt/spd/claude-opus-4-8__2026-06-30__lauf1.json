@@ -29,8 +29,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Marco fühlt sich bei Ausstattung und Dienstplanung im Stich gelassen; das Programm benennt genau diese Punkte als Voraussetzung guter Polizeiarbeit.",
       "begruendung_selbst": "Genau das fehlt im Alltag: funktionierende Technik und Dienstpläne, auf die man sich verlassen kann. Wenn das kommt, merken wir das sofort.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 28 auf 19 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Weniger Papier, mehr Streife",
@@ -42,21 +41,19 @@
       "resonanz": "bestaetigt",
       "begruendung": "Überlastung im Dienst gehört zu Marcos Hauptsorgen; weniger Bürokratie würde ihm Zeit für die eigentliche Polizeiarbeit zurückgeben.",
       "begruendung_selbst": "Ich bin nicht zur Polizei gegangen, um Formulare auszufüllen. Jede Stunde weniger Schreibkram ist eine Stunde mehr für den Job.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 28 auf 19 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Endlich faire Bezahlung",
       "thema": "arbeit",
       "programmpunkt": "Die seit Jahren fehlerhafte amtsangemessene Alimentierung der Polizeibeschäftigten soll umfassend verbessert werden.",
-      "seite": 29,
-      "zitat": "amtsangemessene Alimentierung der Polizeibeschäftigten wird umfassend verbessert",
+      "seite": 19,
+      "zitat": "amtsangemessene Alimentierung der Polizeibeschäftigten werden umfassend verbessert",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Marcos Besoldung ist sicher, aber nicht üppig; das Eingeständnis fehlerhafter Alimentierung und das Versprechen ihrer Korrektur trifft seine berufliche Situation direkt.",
       "begruendung_selbst": "Dass die Besoldung jahrelang nicht gepasst hat, weiß bei uns jeder. Schön, dass das mal jemand ausspricht und beheben will.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Rückendeckung statt Generalverdacht",
@@ -68,8 +65,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Marco leidet unter fehlendem Rückhalt und pauschaler Kritik; ein klares Bekenntnis zu politischer Rückendeckung spricht sein Bedürfnis nach Wertschätzung an.",
       "begruendung_selbst": "Wir kriegen oft nur Kritik ab. Mal zu hören, dass die Politik hinter uns steht, tut gut und ist auch überfällig.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 28 auf 19 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Die Justizkette muss tragen",
@@ -81,8 +77,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Marco ist frustriert, wenn seine Arbeit hinten in der Kette versandet; das Bekenntnis zu einer handlungsfähigen Justiz adressiert genau diese Frustration.",
       "begruendung_selbst": "Was bringt meine Arbeit, wenn der Fall bei Gericht ewig liegt? Eine schnelle Justiz ist für mich Teil der Sicherheit.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 30 auf 20 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Konsequenz und Augenmaß zugleich",
@@ -94,8 +89,7 @@
       "resonanz": "bestaetigt",
       "begruendung": "Marco lehnt Pauschalurteile gegen Migranten ab, will aber konsequente Rechtsdurchsetzung; die Verbindung von Ordnung und Humanität entspricht seiner differenzierten Haltung.",
       "begruendung_selbst": "Genau so sehe ich das: Regeln durchsetzen, ja - aber ohne alle über einen Kamm zu scheren. Das ist kein Widerspruch.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 33 auf 21 korrigiert"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
@@ -109,8 +103,7 @@
       "resonanz": "kontaer",
       "begruendung": "Marco fühlt sich ohnehin unter Generalverdacht; eine ausgebaute unabhängige Kontrollinstanz kann er als zusätzliches Misstrauen gegenüber der Polizei empfinden, auch wenn das Programm sie als Akzeptanzgewinn rahmt.",
       "begruendung_selbst": "Erst Rückendeckung versprechen und dann den Kontrolleur stärken - da frage ich mich schon, ob man uns wirklich vertraut oder uns überwacht.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 29 auf 19 korrigiert"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Abschiebung nur als letztes Mittel?",
@@ -122,8 +115,7 @@
       "resonanz": "kontaer",
       "begruendung": "Marco verlangt konsequente Rechtsdurchsetzung; die starke Betonung von Bleibeperspektive und Abschiebung als letztes Mittel kann er als zu nachgiebig für die Durchsetzung des Aufenthaltsrechts lesen.",
       "begruendung_selbst": "Wenn am Ende kaum noch jemand geht, der gehen müsste, dann fehlt mir da die Konsequenz. Recht muss auch durchgesetzt werden.",
-      "beleg_ok": true,
-      "beleg_hinweis": "Seite von 33 auf 21 korrigiert"
+      "beleg_ok": true
     }
   ],
   "gesamt": {
