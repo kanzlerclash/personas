@@ -33,6 +33,7 @@ const parteiName = (p: string) => (p === "gruene" ? "Grüne" : p.toUpperCase());
 const MODELL_LABELS: Record<string, string> = {
   "claude-opus-4-8": "Claude Opus 4.8", "claude-sonnet-4-6": "Claude Sonnet 4.6",
   "gemini-3.1-pro": "Gemini 3.1 Pro", "gpt-5.5": "GPT 5.5",
+  "grok-4.3": "Grok 4.3", "qwen3.7-max": "Qwen 3.7 Max",
 };
 const kurz = (s: string) => MODELL_LABELS[s] ?? s;
 
@@ -209,7 +210,7 @@ const add = (pfad: string, titel: string, beschr: string, body: string) => seite
   const parteiChips = parteienMit(OPUS).map((pa) => `<a href="${u(`modell/${OPUS}/partei/${pa}/`)}">${e(parteiName(pa))}</a>`).join("");
   const body = `<section class="hero"><h2>Wie urteilen KI-Modelle über die Wahlprogramme?</h2>${fluss}</section>
 <div class="infobox"><strong>Was ist Modell-Bias?</strong> Alle Modelle lesen dieselben Programme aus Sicht derselben fiktiven Personas — und urteilen trotzdem unterschiedlich streng und kritisch. Dieses Urteil hängt vom <em>Modell</em> (und seiner Version) ab. Wähle ein Modell und sieh selbst.</div>
-<h3 class="abschnitt">Die Modelle und ihr Bias</h3><div class="sig-grid">${karten}</div>
+<h3 class="abschnitt">Die Modelle und ihr Bias</h3><div class="sig-grid modelle">${karten}</div>
 <h3 class="abschnitt">Die ${PERSONAS.length} Personas</h3><div class="persliste">${persChips}</div>
 <h3 class="abschnitt">Die Parteien · Sachsen-Anhalt</h3><p class="mini">Urteile standardmäßig aus Sicht von ${e(kurz(OPUS))} — auf der Partei-Seite ist das Modell wechselbar.</p><div class="persliste text">${parteiChips}</div>
 <div class="unternav"><a class="navbtn" href="${u("vergleich/")}">⚖ Wo sind sich die Modelle uneinig?</a><a class="navbtn" href="${u("personas/")}">👤 Nach Persona einsteigen</a></div>`;
@@ -227,6 +228,8 @@ const add = (pfad: string, titel: string, beschr: string, body: string) => seite
     "claude-sonnet-4-6": "Claude-Code-Subagenten (lokal, ohne Gateway)",
     "gemini-3.1-pro": "agy-CLI / Gemini (lokal, ohne Gateway)",
     "gpt-5.5": "Codex-CLI / ChatGPT-Login (lokal, ohne Gateway)",
+    "grok-4.3": "Vercel AI Gateway (xai/grok-4.3)",
+    "qwen3.7-max": "Vercel AI Gateway (alibaba/qwen3.7-max)",
   };
   const mk = (label: string) => krume([{ label: "Start", href: "" }, { kat: true, label: "Methodik", href: "methodik/" }, { label }]);
 
@@ -234,7 +237,7 @@ const add = (pfad: string, titel: string, beschr: string, body: string) => seite
   {
     const karte = (href: string, t: string, d: string) => `<a class="sigkarte" href="${u(href)}"><h4>${e(t)}</h4><div class="sig-modell">${e(d)}</div><span class="sig-cta">→ ansehen</span></a>`;
     const body = `${krume([{ label: "Start", href: "" }, { label: "Methodik" }])}<h2>Methodik — wie die Daten entstanden sind</h2>
-<p class="infozeile">Vier Bausteine, transparent nachvollziehbar. Alle generierten Daten stehen unter CC-BY-SA. Keine Wahlempfehlung; die KI-Läufe liefen <strong>lokal ohne API-Gateway</strong>.</p>
+<p class="infozeile">Vier Bausteine, transparent nachvollziehbar. Alle generierten Daten stehen unter CC-BY-SA. Keine Wahlempfehlung. Die KI-Läufe entstanden teils <strong>lokal ohne Gateway</strong> (Claude Code, Agent-CLIs), teils über das <strong>Vercel AI Gateway</strong> (Grok, Qwen) — je Auswertung im Feld <code>erzeugt_via</code> vermerkt.</p>
 <div class="sig-grid">
 ${karte("methodik/personas/", "Personas", "Wie die 16 fiktiven Lebenslagen + Avatare entstanden")}
 ${karte("methodik/wahlprogramme/", "Wahlprogramme", "Wie die 7 Programme eingelesen und zitiert werden")}
@@ -276,7 +279,7 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
 
   // KI-Modelle
   {
-    const mrows = SIG.map((m) => `<tr><td><strong>${e(kurz(m.slug))}</strong></td><td>${e(m.name)}</td><td>${e(AUSF[m.slug] || "lokal, ohne Gateway")}</td><td>${m.anzahl}</td></tr>`).join("");
+    const mrows = SIG.map((m) => `<tr><td><strong>${e(kurz(m.slug))}</strong></td><td>${e(m.name)}</td><td>${e(AUSF[m.slug] || "—")}</td><td>${m.anzahl}</td></tr>`).join("");
     // Echte Beispiele für die „Was die Zahlen bedeuten"-Karten: divergentester Fall + ein Modell.
     const _bsp = DIVERGENZ[0];
     const _bName = persona(_bsp.persona)?.name ?? _bsp.persona, _bPartei = parteiName(_bsp.partei);
@@ -289,9 +292,9 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
     const _m = SIG[0];
     const body = `${mk("KI-Modelle")}<h2>Methodik: KI-Modelle</h2>
 <div class="infobox"><strong>Persona × Programm × Modell → Urteil.</strong> Jedes Modell versetzt sich in eine Persona, liest das Programm und nennt, was ihr <strong>besonders gut</strong> oder <strong>schlecht</strong> gefällt — jeder Punkt mit <strong>Seite + wörtlichem Zitat</strong> belegt und automatisch gegen die Seite geprüft.</div>
-<p><strong>Ausführung — lokal ohne API-Gateway:</strong></p>
+<p><strong>Ausführung je Modell</strong> (vier Modelle lokal ohne Gateway über Claude Code bzw. Agent-CLIs; Grok &amp; Qwen über das Vercel AI Gateway):</p>
 <table class="mtab"><thead><tr><th>Modell</th><th>Kennung</th><th>Ausführung</th><th>Urteile</th></tr></thead><tbody>${mrows}</tbody></table>
-<p>Jede Auswertung trägt ein <code>erzeugt_via</code>-Feld; Token-/Kostenmetriken nur, soweit die CLI sie meldet. Temperatur 0. Anti-Bias-Regel: markt-/wirtschaftsliberale und konservative Positionen mit gleichen Maßstäben wie progressive; Würde gerade bei marginalisierten Lebenslagen.</p>
+<p>Jede Auswertung trägt ein <code>erzeugt_via</code>-Feld; Token-/Kostenmetriken werden erfasst, soweit gemeldet (über das Gateway vollständig, bei den lokalen CLIs teils <code>null</code>). Temperatur 0. Anti-Bias-Regel: markt-/wirtschaftsliberale und konservative Positionen mit gleichen Maßstäben wie progressive; Würde gerade bei marginalisierten Lebenslagen.</p>
 <p><strong>Beleg-Prüfung:</strong> Jedes Zitat wird (fuzzy, ±1 Seite) gegen die Programm-Seite geprüft; nicht auffindbare Zitate sind als „⚠ ungeprüft" markiert.</p>
 <h3 class="abschnitt">Was die Zahlen bedeuten</h3>
 <p class="mini">Pro Persona × Partei zeigen wir <strong>zwei</strong> Dinge: das holistische <strong>Modell-Urteil</strong> und den <strong>KI-Urteile-Saldo</strong>. Sie können abweichen — das ist gewollt (siehe unten).</p>
@@ -306,7 +309,7 @@ ${karte("methodik/prompts/", "Prompts", "Die verwendeten Prompts im Wortlaut")}
 <div class="zahlkarte" id="spanne"><h4>Spanne (Divergenz)</h4><div class="zk-skala">Konsens · nahezu einig · uneinig · stark uneinig · maximaler Gegensatz <span class="zk-form">(intern 0…4)</span></div><p>Differenz zwischen höchstem und niedrigstem Modell-Urteil <em>aller</em> Modelle für denselben Fall — extern als Wort. Intern die Stufe 0 (alle gleich) bis 4 (ein Modell „ablehnend", ein anderes „zustimmend").</p><p class="bsp"><strong>Beispiel:</strong> ${e(_bName)} × ${e(_bPartei)}: von „${e(_bLab(_bLo))}" (${e(kurz(_bLo.slug))}) bis „${e(_bLab(_bHi))}" (${e(kurz(_bHi.slug))}) → ${e(spanneLabel(_bsp.spanne))} (Stufe ${_bsp.spanne}).</p></div>
 </div>
 <div class="unternav"><a class="navbtn" href="${u("methodik/prompts/")}">📝 Prompt im Wortlaut</a><a class="navbtn" href="${u("vergleich/")}">⚖ Modell-Divergenz</a></div>`;
-    add("methodik/ki-modelle/", "Methodik: KI-Modelle · #LTW26", "Wie aus Persona, Wahlprogramm und KI-Modell ein belegtes Urteil wird — lokal ohne Gateway, mit Prompt.", body);
+    add("methodik/ki-modelle/", "Methodik: KI-Modelle · #LTW26", "Wie aus Persona, Wahlprogramm und KI-Modell ein belegtes Urteil wird — je Modell lokal ohne Gateway oder über das Vercel AI Gateway, mit Prompt.", body);
   }
 
   // Prompts
@@ -336,7 +339,7 @@ for (const p of PERSONAS) {
   const karten = modelle.map((m) => { const es = ergsMP(m.slug, p.slug); const sc = avg(es.map((x) => x.gesamt.score)); return `<a class="sigkarte" href="${u(`modell/${m.slug}/persona/${p.slug}/`)}"><h4>${e(kurz(m.slug))}</h4><div class="sig-modell">${es.length} Parteien bewertet</div><div class="sig-zahlen">${sigZeile("Ø-Urteil", `${urteilLabel(sc)} (${scoreTxt(sc)})`, scoreFarbe(sc))}${sigZeile("KI-Urteile-Saldo", `+${es.reduce((s, x) => s + x.besonders_gut.length, 0)} / −${es.reduce((s, x) => s + x.besonders_schlecht.length, 0)}`)}</div><span class="sig-cta">→ Einschätzung ansehen</span></a>`; }).join("");
   const body = `${krume([{ label: "Start", href: "" }, { kat: true, label: "Persona" }, { label: p.name }])}
 <div class="detail-kopf">${avatarImg(p, "avatar gross")}<div><h2>${e(p.name)}</h2>${fiktiv(true)}${p.einzeiler ? `<p class="einzeiler">${e(p.einzeiler)}</p>` : ""}<div class="themen">${p.themen.map((t) => chip(themaName(t))).join("")}</div></div></div>
-${modelle.length ? `<h3 class="abschnitt">Wie die Modelle diese Persona einordnen</h3><div class="sig-grid">${karten}</div>` : ""}
+${modelle.length ? `<h3 class="abschnitt">Wie die Modelle diese Persona einordnen</h3><div class="sig-grid modelle">${karten}</div>` : ""}
 ${profilBlock(p)}`;
   add(`persona/${p.slug}/`, `${p.name} · Profil · Personas #LTW26`, `Profil der fiktiven Persona ${p.name} und wie KI-Modelle sie zu den Wahlprogrammen einordnen.`, body);
 }

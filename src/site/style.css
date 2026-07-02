@@ -44,6 +44,8 @@ h3.sektion { color: var(--akzent); font-size: 1.3rem; margin: 1.8rem 0 .6rem; }
 
 /* Signatur-Karten */
 .sig-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1rem; }
+/* Modell-Vergleichsgitter: 3 Spalten bei 6 Modellen (3×300 passt in 1100px, 4× nicht) → 2 Reihen à 3; responsiv 2/1. */
+.sig-grid.modelle { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
 .sigkarte { background: var(--karte); border: 1px solid var(--rand); border-radius: 14px; padding: 1rem; text-decoration: none; color: var(--text); display: flex; flex-direction: column; gap: .35rem; transition: border-color .15s, transform .08s; }
 .sigkarte:hover { border-color: var(--akzent); transform: translateY(-2px); }
 .sigkarte h4 { margin: 0; font-size: 1.2rem; }

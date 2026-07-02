@@ -37,8 +37,8 @@ bevoelkerung/         je Persona ein belegter Bevölkerungsanteil (Entwurf → v
 daten/
   themen.json         16-Themen-Taxonomie
   wahlprogramme.json  Quell-Register: Partei × Landtag → URL (+ Format, Stand)
-  modelle.json        die 4 verglichenen LLMs (Slug, Gateway-ID, Temperatur) — Referenz-Config
-                      (eingecheckte Daten entstanden ohne Gateway, siehe „erzeugt_via")
+  modelle.json        die verglichenen LLMs (Slug, Gateway-ID, Temperatur):
+                      4 lokal ohne Gateway, Grok & Qwen über das Vercel AI Gateway (siehe „erzeugt_via")
 prompts/
   vergleich.v1.md                System-Prompt des Persona×Programm-Vergleichs (versioniert)
   herkunft-personas-und-avatare.md  Modell + Anweisungen, mit denen Personas/Avatare entstanden
@@ -93,7 +93,7 @@ Jede Persona ist eine YAML unter `personas/<slug>.yaml`. Der **Slug ist der Date
 
 `pnpm run vergleich` lädt für jede Kombination **Persona × Land × Partei × Modell** den Programmtext aus dem Cache und ruft das Modell über das **Vercel AI Gateway** auf (ein `AI_GATEWAY_API_KEY` für alle Provider, zentrale Kostensicht). Modelle stehen in `daten/modelle.json` (Standard-Temperatur **0.0** — isoliert den Modell-Effekt; Rest-Varianz misst man über mehrere Läufe via `LAEUFE`).
 
-> **Hinweis:** Die **eingecheckten 448 Auswertungen** (Sachsen-Anhalt × 7 Parteien × 16 Personas × 4 Modelle) entstanden **komplett ohne Gateway** — über Claude Code (Opus 4.8, Sonnet 4.6) und Agent-CLIs (Gemini 3.1 Pro via `agy`, GPT-5.5 via Codex). Das Gateway-Skript ist die reproduzierbare Referenz-Pipeline; die tatsächliche Herkunft je Lauf steht im Feld `erzeugt_via`. Siehe die beiden „ohne Gateway"-Abschnitte unten.
+> **Hinweis zur Herkunft (transparent im Feld `erzeugt_via`):** Die ersten **448 Auswertungen** (Sachsen-Anhalt × 7 Parteien × 16 Personas × **4 Modelle**: Opus 4.8, Sonnet 4.6, Gemini 3.1 Pro, GPT-5.5) entstanden **ohne Gateway** — über Claude Code (Opus, Sonnet) und Agent-CLIs (Gemini via `agy`, GPT via Codex); siehe die „ohne Gateway"-Abschnitte unten. Die **weiteren Modelle** **Grok 4.3** (`xai/grok-4.3`) und **Qwen 3.7 Max** (`alibaba/qwen3.7-max`) laufen **über das Vercel AI Gateway** (`pnpm run vergleich`, mit Token-/Kostenmetrik).
 
 **Prompt:** `prompts/vergleich.v1.md` (versioniert, mit-committet, enthält Anti-Bias- und Würde-Regeln).
 
@@ -109,7 +109,7 @@ Statt über das AI Gateway lässt sich ein Lauf auch **lokal von einer Claude-Co
 
 ### Alternative ohne Gateway: Auswertung mit fremder Agent-CLI (so haben wir die weiteren Modelle erzeugt)
 
-Die Modellspalten **neben Opus** wurden über lokale Agent-CLIs erzeugt — ohne Gateway, jede CLI schreibt die Ergebnis-JSONs selbst ins Repo. Runbook: [`prompts/ausfuehrung-cli.md`](prompts/ausfuehrung-cli.md); Prompt-Vorlage: [`prompts/llm-cli-vorlage.md`](prompts/llm-cli-vorlage.md).
+**Gemini 3.1 Pro** und **GPT-5.5** wurden über lokale Agent-CLIs erzeugt — ohne Gateway, jede CLI schreibt die Ergebnis-JSONs selbst ins Repo. Runbook: [`prompts/ausfuehrung-cli.md`](prompts/ausfuehrung-cli.md); Prompt-Vorlage: [`prompts/llm-cli-vorlage.md`](prompts/llm-cli-vorlage.md). (Grok und Qwen dagegen über das Vercel AI Gateway, siehe oben.)
 
 - **Gemini 3.1 Pro über `agy`** (`modell_slug: gemini-3.1-pro`):
   `agy --dangerously-skip-permissions --model "Gemini 3.1 Pro (High)" --print-timeout 6m -p "$PROMPT"`.
