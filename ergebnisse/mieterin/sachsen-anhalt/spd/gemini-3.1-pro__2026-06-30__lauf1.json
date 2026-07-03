@@ -1,0 +1,137 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Verlass auf Ticket und Rad!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm verspricht, das Deutschlandticket verlässlich abzusichern und die kostenlose Fahrradmitnahme im Regionalverkehr zu erhalten.",
+      "seite": 26,
+      "zitat": "Das Deutschlandticket wird langfristig bezahlbar und verlässlich abgesichert.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Carla ist das Deutschlandticket essenziell, da sie kein Auto besitzt und auf den Nahverkehr angewiesen ist. Die garantierte Fortführung des Tickets und der Radmitnahme sichert ihre bezahlbare Alltagsmobilität.",
+      "begruendung_selbst": "Ich habe ohnehin schon genug existenzielle Sorgen wegen der Wohnung. Es ist eine echte Erleichterung, dass ich mir um die Ticketkosten und mein Fahrrad in der Bahn nicht auch noch Sorgen machen muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich festes Geld für Radwege!",
+      "thema": "verkehr",
+      "programmpunkt": "Ein fester Anteil von mindestens zehn Prozent der Straßenbaumittel soll zukünftig dauerhaft für den Fuß- und Radverkehr reserviert werden.",
+      "seite": 26,
+      "zitat": "zehn Prozent der Landesmittel für den Straßenbau werden dauerhaft für Fuß- und Radverkehr eingesetzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als überzeugte Radfahrerin im städtischen Alltag profitiert Carla direkt von sicherer Infrastruktur. Die verbindliche Quote bei den Investitionen signalisiert ihr, dass alternative Mobilität endlich echte politische Priorität bekommt.",
+      "begruendung_selbst": "Als Radfahrerin fühlt man sich in der Stadt oft als Verkehrsteilnehmerin zweiter Klasse. Feste Budgets für den Radverkehr wecken in mir die Hoffnung, dass ich bald sicherer durch mein Viertel komme.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnraum ist keine Spekulation!",
+      "thema": "wohnen",
+      "programmpunkt": "Der Verkauf von kommunalen Wohnungsbeständen zur Sanierung des Haushalts soll ausgeschlossen und genossenschaftliche Anbieter gestärkt werden.",
+      "seite": 27,
+      "zitat": "Zwangsverkäufe zur Haushaltskonsolidierung werden ausgeschlossen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht Wohnungspolitik als staatliche Kernaufgabe und lehnt Marktlogik in diesem Bereich ab. Das Verbot von kommunalen Privatisierungen entspricht ihrem Wertekompass und schützt Mieter vor investorengesteuerter Verdrängung.",
+      "begruendung_selbst": "Wohnen ist für mich Daseinsvorsorge, kein Aktienpaket. Es ist genau der richtige Schritt, den Städten zu verbieten, ihr Tafelsilber an Investoren zu verramschen, um Finanzlöcher zu stopfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wärmewende ohne Preisschock!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Es wird versichert, dass die Umstellung auf klimafreundliche Wärmeversorgung für alle bezahlbar bleiben und nicht zu einer finanziellen Überlastung führen soll.",
+      "seite": 27,
+      "zitat": "Die klimafreundliche Wärmeversorgung darf keine zweite Miete werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da ihre Miete im begehrten Altbauviertel den größten Kostenpunkt darstellt, fürchtet Carla unbezahlbare Energiekosten. Das Versprechen einer sozial abgefederten Wärmewende lindert ihre Sorge vor indirekter Verdrängung.",
+      "begruendung_selbst": "Natürlich bin ich für Klimaschutz, aber ich habe richtig Angst vor dem Tag, an dem unser Altbau umgerüstet wird. Dass die Politik hier einen Deckel verspricht, beruhigt meine Nerven.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gesundheit ist keine Ware!",
+      "thema": "gesundheit",
+      "programmpunkt": "Krankenhäuser sollen sich an Qualität und Erreichbarkeit orientieren, Profitinteressen in der medizinischen Versorgung wird eine Absage erteilt.",
+      "seite": 9,
+      "zitat": "die sich an den Kriterien Qualität, Erreichbarkeit und Wirtschaftlichkeit orientiert und nicht an Kapitalinteressen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carlas Skepsis gegenüber dem freien Markt erstreckt sich auch auf andere Bereiche der Daseinsvorsorge. Die klare Ablehnung von Profitstreben im Gesundheitswesen bestärkt sie in ihrer gesellschaftspolitischen Grundhaltung.",
+      "begruendung_selbst": "Was beim Wohnen gilt, gilt auch für Krankenhäuser: Daseinsvorsorge darf nicht dem Markt überlassen werden. Ich bin froh, dass hier dem reinen Kapitalinteresse ein Riegel vorgeschoben wird.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sanierung heißt für mich Verdrängung!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm will die Sanierung bestehender Gebäude vorantreiben, nennt dabei aber keine Instrumente zum Schutz der Mieter vor Kostenumlagen.",
+      "seite": 27,
+      "zitat": "Serielles Bauen senkt Kosten, die Bestandssanierung wird gestärkt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "In Carlas Lebensrealität bedeutet Bestandssanierung fast immer eine Modernisierungsumlage und drastische Mietsteigerungen. Die unkritische Förderung ohne begleitende Schutzmaßnahmen löst bei ihr existenzielle Ängste aus.",
+      "begruendung_selbst": "Wenn ich höre, dass Sanierungen gestärkt werden sollen, schrillen bei mir alle Alarmglocken. Ohne harte Regeln gegen absurde Modernisierungsumlagen ist das doch bloß der Startschuss für meine Verdrängung!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wo bleibt der harte Mieterschutz?",
+      "thema": "wohnen",
+      "programmpunkt": "Obwohl Wohnraum als Herausforderung bezeichnet wird, fehlen im gesamten Programm griffige Forderungen wie Milieuschutz, Mietpreisbremsen oder ein Umwandlungsverbot.",
+      "seite": 27,
+      "zitat": "Bezahlbarer Wohnraum bleibt auch in Sachsen-Anhalt eine Herausforderung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als städtische Altbau-Mieterin vermisst Carla den Einsatz robuster ordnungspolitischer Instrumente gegen Spekulation. Dass die Problematik zwar erkannt, aber nicht mit effektivem Mieterschutz adressiert wird, enttäuscht sie stark.",
+      "begruendung_selbst": "Es reicht nicht, das Problem nur zu benennen! Wo sind die echten Instrumente? Kein Wort zu wirksamem Milieuschutz, keine Kappungsgrenzen, kein Umwandlungsverbot. Das ist für mein Viertel schlicht zu wenig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Und was ist mit uns?",
+      "thema": "wohnen",
+      "programmpunkt": "Bei der Neuschaffung von Wohnraum wird der Fokus fast ausschließlich auf geförderte Wohnungen für Familien, Senioren und Studierende gelegt.",
+      "seite": 27,
+      "zitat": "Der soziale Wohnungsbau wird gestärkt, insbesondere für altersgerechte und barrierefreie Wohnungen, Wohnraum für Familien",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als kinderlose Angestellte mit mittlerem Einkommen hat Carla keinen Zugang zu Sozialwohnungen. Sie fühlt sich von dieser Schwerpunktsetzung übergangen, da ihre eigene prekäre Lage auf dem überhitzten Mietmarkt ignoriert wird.",
+      "begruendung_selbst": "Sozialbau für bedürftige Gruppen ist absolut wichtig. Aber ich verdiene als Angestellte dafür zu viel und für mein teurer werdendes Viertel bald zu wenig. Mit meiner Lebensrealität komme ich in diesem Programm gar nicht vor.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Autoförderung statt Verkehrswende!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm befürwortet, die Kosten für den Erwerb eines Führerscheins zu senken, um insbesondere im ländlichen Raum Mobilität zu sichern.",
+      "seite": 27,
+      "zitat": "Der Führerschein soll günstiger werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als überzeugte Verfechterin einer autoarmen Stadt sieht Carla die finanzielle Förderung des motorisierten Individualverkehrs sehr kritisch. Aus ihrer urbanen Perspektive konterkariert dies die dringend notwendige Verkehrswende.",
+      "begruendung_selbst": "Anstatt jeden verfügbaren Cent in den Ausbau von Bus, Bahn und sicheren Radwegen zu stecken, will man jetzt ernsthaft den Führerschein billiger machen? Damit betonieren wir doch nur autozentrierte Strukturen ein.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm punktet bei Carla durch deutliche Bekenntnisse zur öffentlichen Daseinsvorsorge, den Schutz kommunalen Wohneigentums sowie Investitionen in ÖPNV und Radinfrastruktur. Jedoch enttäuscht es sie im Kernbereich ihrer Existenzängste: Echte ordnungspolitische Instrumente zum Schutz privater Bestandsmieter vor Verdrängung und Modernisierungsumlagen fehlen vollständig, was bei ihr zu großer Unsicherheit führt.",
+    "score": 0
+  }
+}

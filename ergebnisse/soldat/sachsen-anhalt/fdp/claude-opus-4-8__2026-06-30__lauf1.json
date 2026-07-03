@@ -20,45 +20,69 @@
   },
   "besonders_gut": [
     {
-      "titel_selbst": "Glaubwürdige Abschreckung, endlich",
+      "titel_selbst": "Endlich in die Bundeswehr investieren",
       "thema": "verteidigung",
-      "programmpunkt": "Die Verteidigungsindustrie soll als zentrale Branche aufgebaut und die Rüstungsproduktion in Deutschland gestärkt werden.",
+      "programmpunkt": "Der Bund investiert hunderte Milliarden in die aufgabengerechte Ausstattung der Bundeswehr, davon soll das Land profitieren.",
+      "seite": 9,
+      "zitat": "hunderte Milliarden in die aufgabenadäquate Ausstattung der Bundeswehr",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ausrüstungsmängel sind Stefans zentrale Sorge. Dass die FDP die aufgabengerechte Ausstattung der Bundeswehr ausdrücklich begrüßt und ins Land holen will, trifft seinen Kern.",
+      "begruendung_selbst": "Genau das brauche ich: Material, das der Aufgabe entspricht. Nicht warme Worte, sondern Ausstattung, die funktioniert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abschreckung ist Realpolitik",
+      "thema": "verteidigung",
+      "programmpunkt": "Rüstungsproduktion im Land für eine glaubwürdige und resiliente Abschreckung.",
       "seite": 9,
       "zitat": "Zur Gewährleistung einer glaubwürdigen und resilienten Abschreckung",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Stefan erlebt Ausrüstungsmängel täglich; das Bekenntnis zu glaubwürdiger Abschreckung und einer starken Rüstungsbasis entspricht seinem Bedürfnis nach Einsatzfähigkeit.",
-      "begruendung_selbst": "Abschreckung funktioniert nur, wenn das Material da ist. Dass das ernst genommen wird, ist für meinen Auftrag entscheidend.",
+      "begruendung": "Für Stefan ist glaubwürdige Abschreckung das Herzstück der Bündnisverteidigung an der Ostflanke. Die FDP benennt sie ohne Scheu, was seiner Grundhaltung voll entspricht.",
+      "begruendung_selbst": "Abschreckung verhindert Krieg, sie ist nichts Anrüchiges. Dass das hier klar gesagt wird, gefällt mir.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Forschung auch für die Verteidigung",
-      "thema": "verteidigung",
-      "programmpunkt": "Zivilklauseln werden abgelehnt, die Vernetzung von Hochschulen mit der Verteidigungsindustrie soll gestärkt werden.",
+      "titel_selbst": "Verteidigungsforschung ohne Verbote",
+      "thema": "wirtschaft",
+      "programmpunkt": "Zivilklauseln werden abgelehnt; Hochschulen und Verteidigungsindustrie sollen enger vernetzt werden.",
       "seite": 10,
-      "zitat": "Zivilklauseln lehnen wir ab.",
-      "bezug": "betrifft_mich",
+      "zitat": "Zivilklauseln lehnen wir ab",
+      "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
-      "begruendung": "Stefan sieht Verteidigung als legitime, ernste Aufgabe; die Ablehnung von Forschungsbeschränkungen stützt die Ausstattung und Innovation, von der seine Truppe abhängt.",
-      "begruendung_selbst": "Wer die Truppe ausrüsten will, darf Forschung dafür nicht ausschließen. Das ist Ernsthaftigkeit, die ich erwarte.",
+      "begruendung": "Stefan ist frustriert über Politik, die Wehrfähigkeit ideologisch behindert. Die Ablehnung von Zivilklauseln zeigt ihm Ernsthaftigkeit statt Berührungsangst mit Verteidigungsthemen.",
+      "begruendung_selbst": "Forschung für Verteidigung ist kein Tabu. Wer Zivilklauseln kippt, nimmt unseren Auftrag ernst statt ihn zu verstecken.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Wehrhafte Demokratie ernst gemeint",
-      "thema": "demokratie",
-      "programmpunkt": "Die Demokratie soll gegen autokratische Bedrohung, Cyberangriffe und Desinformation widerstandsfähig gemacht werden.",
-      "seite": 46,
-      "zitat": "Von außen etwa durch autokratische Regime, die Cyberangriffe und Desinformation nutzen",
-      "bezug": "betrifft_mich",
+      "titel_selbst": "Wertschöpfung und Nachschub im Land",
+      "thema": "wirtschaft",
+      "programmpunkt": "Vernetzung heimischer Unternehmen mit der Verteidigungsindustrie zur Ansiedlung im Land.",
+      "seite": 10,
+      "zitat": "Vernetzung zwischen der heimischen Hochschullandschaft und innovativen Unternehmen der Verteidigungsindustrie stärken",
+      "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
-      "begruendung": "Stefan ist verfassungstreu und bündnisorientiert; die klare Benennung autokratischer Bedrohung deckt sich mit seiner Lageeinschätzung an der Ostflanke.",
-      "begruendung_selbst": "Die Bedrohung ist real, das spüre ich im Dienst. Gut, dass sie hier klar beim Namen genannt wird.",
+      "begruendung": "Stefan weiß, dass Einsatzbereitschaft von Produktion und Nachschub abhängt. Eine gezielte Ansiedlung der Verteidigungsindustrie stärkt aus seiner Sicht die Resilienz.",
+      "begruendung_selbst": "Wenn hier produziert und geforscht wird, kommt Material schneller und verlässlicher. Das ist gelebte Versorgungssicherheit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bevölkerungsschutz mit Konzept",
+      "thema": "sicherheit",
+      "programmpunkt": "Institut Heyrothsberge dauerhaft sichern und ein einheitliches Bevölkerungsschutzkonzept erarbeiten.",
+      "seite": 53,
+      "zitat": "Institut für Brand- und Katastrophenschutz Heyrothsberge ist als zentrales Landeskompetenzzentrum dauerhaft zu sichern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein durchdachter Bevölkerungs- und Kritis-Schutz gehört zu Stefans Lagebild. Die verbindliche Sicherung des Kompetenzzentrums wertet er als seriöse Krisenvorsorge.",
+      "begruendung_selbst": "Krisenvorsorge braucht ein Rückgrat. Ein festes Kompetenzzentrum statt Stückwerk, das ist die richtige Richtung.",
       "beleg_ok": true
     }
   ],
   "besonders_schlecht": [],
   "gesamt": {
-    "zusammenfassung": "Als Landtagsprogramm berührt das Papier Stefans Kernthema Verteidigung nur am Rand, trifft dort aber seinen Nerv: das Bekenntnis zu glaubwürdiger Abschreckung, der Aufbau der Rüstungsindustrie, die Ablehnung von Zivilklauseln und die klare Benennung der autokratischen Bedrohung entsprechen seiner sicherheits- und bündnisorientierten Haltung. Gegenpositionen findet er keine, auch wenn konkrete Ausstattungs- und Besoldungsfragen Bundessache bleiben.",
-    "score": 1
+    "zusammenfassung": "Die FDP trifft Stefans Prioritäten so direkt wie keine andere Partei im Land: aufgabengerechte Ausstattung der Bundeswehr begrüßen, Verteidigungsindustrie ansiedeln, glaubwürdige Abschreckung benennen, Zivilklauseln ablehnen und den Bevölkerungsschutz mit Konzept sichern. Das entspricht fast wörtlich seinem Maßstab aus Ausrüstung, Bündnistreue und Ernsthaftigkeit. Gegenpunkte zu seiner Lage findet er nicht; für ihn das überzeugendste Angebot.",
+    "score": 2
   }
 }

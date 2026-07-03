@@ -7,9 +7,9 @@
   "zeitpunkt": "2026-06-30T00:00:00Z",
   "temperatur": 0,
   "lauf": 1,
-  "programm_stand": "Stand 07.05.2026",
+  "programm_stand": null,
   "prompt_version": "vergleich.v1",
-  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
   "metrik": {
     "input_tokens": null,
     "output_tokens": null,
@@ -20,58 +20,46 @@
   },
   "besonders_gut": [
     {
-      "titel_selbst": "Sachsen-Anhalts logistische Rolle anerkannt!",
+      "titel_selbst": "Sachsen-Anhalt im Bündnisfall anerkannt!",
       "thema": "verteidigung",
-      "programmpunkt": "Die SPD erkennt die besondere logistische Bedeutung Sachsen-Anhalts im Bündnisfall an und fordert den Bund auf, Zivilschutz und zivile Verteidigung im Land zu stärken.",
+      "programmpunkt": "Die SPD erkennt die besondere logistische Bedeutung Sachsen-Anhalts im Bündnisfall an und fordert, dass der Bund Zivilschutz und zivile Verteidigung stärkt.",
       "seite": 33,
-      "zitat": "Sachsen-Anhalt hätte im Bündnisfall eine besondere logistische Bedeutung. Der Bund ist gefordert, den Zivilschutz und die zivile Verteidigung im Land zu stärken.",
-      "bezug": "meine_sicht_auf_andere",
+      "zitat": "„Sachsen-Anhalt hätte im Bündnisfall eine besondere logistische Bedeutung”",
+      "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Stefan erlebt täglich die Bedeutung der NATO-Ostflanke. Dass das Programm die logistische Schlüsselrolle Sachsen-Anhalts im Verteidigungsfall anerkennt und staatliche Stärkung fordert, bestätigt seine Lageeinschätzung.",
-      "begruendung_selbst": "Das ist einer der wenigen Punkte, wo ein Landesprogramm sagt: Wir sehen, was hier auf dem Spiel steht. Das ist nicht selbstverständlich.",
+      "begruendung": "Als Soldat in einer Garnison in Sachsen-Anhalt ist die strategische Lage seines Dienstortes für Stefan kein abstrakter Begriff. Dass die SPD diese Bedeutung explizit benennt, zeigt ein Lagebewusstsein, das Stefan in Parteiprogrammen selten findet.",
+      "begruendung_selbst": "Wenigstens hat hier jemand nachgedacht, was Sachsen-Anhalt im Ernstfall bedeutet. Ich lebe und diene hier – das ist kein Theoriekurs.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Verfassungsschutz und Demokratieschutz gestärkt!",
+      "titel_selbst": "Militärkonflikte in der Krisenplanung",
       "thema": "sicherheit",
-      "programmpunkt": "Der Verfassungsschutz soll mit Blick auf Spionage und Sabotage besser ausgerüstet werden; Befugnisse werden auf die neue Bedrohungslage geprüft.",
-      "seite": 20,
-      "zitat": "Den wachsenden Herausforderungen durch Rechtsextremismus, Sabotage und Spionage muss auch der Verfassungsschutz gewachsen sein. Dafür braucht es Verbesserung in Sachen Ausrüstung und Personal.",
+      "programmpunkt": "Die SPD plant das Gesundheitssystem explizit für außergewöhnliche Anforderungen durch militärische oder hybride Konflikte.",
+      "seite": 10,
+      "zitat": "„militärische oder hybride Konflikte stellen das Gesundheitssystem vor”",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
-      "begruendung": "Stefan ist über hybride Bedrohungen an der Ostflanke täglich im Bild. Dass der Verfassungsschutz auf Sabotage und Spionage vorbereitet werden soll, entspricht seiner Bedrohungswahrnehmung.",
-      "begruendung_selbst": "Sabotage und Spionage sind keine Theorie mehr — ich erlebe die Konsequenzen in meiner Arbeit. Dass das Land seinen Verfassungsschutz dafür wappnen will, ist das Richtige.",
+      "begruendung": "Stefan denkt Krisenszenarien beruflich täglich durch. Dass die SPD militärische Konflikte als reale Planungsgröße für das Gesundheitssystem aufnimmt, zeigt ein Realitätsbewusstsein, das er in anderen Teilen des Programms vermisst.",
+      "begruendung_selbst": "Krisen kommen nicht angekündigt. Wer jetzt plant, ist besser dran. Das ist professionelles Denken, das ich respektiere.",
       "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
     {
-      "titel_selbst": "'Abrüstung' als Ziel — das macht mich nervös.",
+      "titel_selbst": "Abrüstung mitten in der Zeitenwende?",
       "thema": "verteidigung",
-      "programmpunkt": "Die SPD sieht Diplomatie, Verständigung, Abrüstung und internationale Zusammenarbeit als zentrale Aufgaben; Sicherheit entsteht nicht allein militärisch.",
+      "programmpunkt": "Die SPD sieht Sicherheit nicht allein militärisch und nennt Abrüstung als zentrale Aufgabe neben Diplomatie und internationaler Zusammenarbeit.",
       "seite": 33,
-      "zitat": "Diplomatie, Verständigung, Abrüstung und internationale Zusammenarbeit bleiben zentrale Aufgaben deutscher und europäischer Politik.",
-      "bezug": "betrifft_mich",
+      "zitat": "„Sicherheit entsteht nicht allein militärisch”",
+      "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
-      "begruendung": "Stefan erlebt täglich die militärische Bedrohungslage an der Ostflanke. Der Begriff 'Abrüstung' als politisches Ziel — auch wenn im Zusammenhang mit Diplomatie — lässt ihn befürchten, dass das Bekenntnis zur Einsatzfähigkeit der Truppe unter Diplomatie-Erwägungen leidet.",
-      "begruendung_selbst": "Ich steh für dieses Land ein. Wenn 'Abrüstung' das Ziel ist, während Russland aufrüstet — dann frag ich mich, mit welchem Material ich die nächste Übung fahren soll.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Bundeswehr-Ausstattung? Kein Wort.",
-      "thema": "verteidigung",
-      "programmpunkt": "Das Programm enthält keine konkreten Positionen zur Bundeswehr-Finanzierung, Ausrüstung oder Zeitenwende-Umsetzung — das ist weitgehend Bundeskompetenz.",
-      "seite": 33,
-      "zitat": "Gleichzeitig gilt: Sicherheit entsteht nicht allein militärisch.",
-      "bezug": "betrifft_mich",
-      "resonanz": "kontaer",
-      "begruendung": "Stefans wichtigstes Thema — konkrete Ausrüstung, Finanzierung des Sondervermögens, Einsatzfähigkeit der Bundeswehr — ist Bundeskompetenz. Das Sachsen-Anhalt-Programm kann dazu kaum etwas sagen, was er schmerzhaft bemerkt.",
-      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Ich brauch Ausrüstung, die funktioniert. Aber das entscheidet Berlin, nicht Magdeburg.",
+      "begruendung": "Unmittelbar nach der Anerkennung der Bündnisrolle Sachsen-Anhalts folgt der Hinweis auf Abrüstung als zentrale Aufgabe. Für Stefan, der täglich an der Ostflanke mitdenkt, ist das ein widersprüchliches Signal: Einerseits strategische Realität anerkennen, andererseits Abrüstung als Antwort.",
+      "begruendung_selbst": "Ich stehe für dieses Land ein – und dann kommt gleich der Zusatz, eigentlich sollte man abrüsten. Das zieht die Aussage wieder in Frage.",
       "beleg_ok": true
     }
   ],
   "gesamt": {
-    "zusammenfassung": "Stefan findet im SPD-Programm für Sachsen-Anhalt wenig direkten Bezug zu seinen Kernthemen, da Verteidigung Bundeskompetenz ist. Die Anerkennung der logistischen Schlüsselrolle des Landes und der Ausbau des Verfassungsschutzes gegen Sabotage und Spionage treffen seine Bedrohungswahrnehmung. Das Abrüstungs-Bekenntnis und das Schweigen zu Bundeswehr-Ausstattung hinterlassen Unbehagen.",
+    "zusammenfassung": "Die SPD erkennt die strategische Rolle Sachsen-Anhalts im Bündnisfall explizit an und denkt militärische Szenarien in der Krisenplanung mit – das sind für Stefan ungewöhnlich klare Signale. Gleichzeitig konterkariert die Forderung nach Abrüstung als zentraler politischer Aufgabe die positive Weichenstellung wieder. Unterm Strich ein gemischtes, ambivalentes Bild.",
     "score": 0
   }
 }

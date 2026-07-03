@@ -1,0 +1,113 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen ist keine Ware!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm will verhindern, dass Finanzinvestoren auf dem Wohnungsmarkt spekulieren und Profite auf dem Rücken der Mieter machen.",
+      "seite": 30,
+      "zitat": "Wohnen ist Teil der Daseinsvorsorge und darf nicht zum Spekulationsobjekt werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla hegt ein tiefes Misstrauen gegenüber Immobilieninvestoren. Die klare Einstufung von Wohnen als Daseinsvorsorge und nicht als reines Spekulationsgut entspricht ihrem innersten Menschenbild.",
+      "begruendung_selbst": "Endlich sagt es jemand laut: Wohnen darf kein Spielball für Investoren sein. Diese Renditejäger machen unsere lebendigen Viertel systematisch kaputt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietendeckel? Höchste Zeit!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei fordert eine harte staatliche Begrenzung von Mietsteigerungen auf Bundesebene.",
+      "seite": 30,
+      "zitat": "Ein bundesweiter Mietendeckel ist dafür ein geeignetes Instrument.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da ihre Miete in der aufgewerteten Innenstadt spürbar steigt und ihre größte finanzielle Sorge darstellt, begrüßt Carla diesen massiven Markteingriff voll und ganz.",
+      "begruendung_selbst": "Ein harter Mietendeckel ist das Einzige, was uns Mieter noch vor der Verdrängung retten kann. Der ach so freie Markt regelt hier nämlich gar nichts für uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rekommunalisieren statt ausverkaufen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei lehnt es strikt ab, kommunales Eigentum und Infrastruktur weiter an private Akteure zu verkaufen.",
+      "seite": 76,
+      "zitat": "Weitere Privatisierungen kommunalen Eigentums lehnen wir ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht in Privatisierungen die tiefere Ursache für Verdrängung und steigende Lebenshaltungskosten in der Stadt. Ein Stopp dieses Ausverkaufs ist für sie essenziell.",
+      "begruendung_selbst": "Wir haben in den letzten Jahrzehnten schon viel zu viel Tafelsilber an Heuschrecken verscherbelt. Das muss endlich aufhören!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Platz fürs Rad!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei bekennt sich deutlich zum Ausbau der Infrastruktur für den Fahrradverkehr in den Städten und Gemeinden.",
+      "seite": 33,
+      "zitat": "Der Ausbau des Radverkehrs ist eine wichtige Säule der Mobilitätspolitik.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ist in ihrem Alltag gänzlich ohne Auto unterwegs und nutzt sehr häufig das Rad. Sie wünscht sich daher eine bessere und vor allem sicherere Radinfrastruktur.",
+      "begruendung_selbst": "Das ist absolut überfällig! Momentan ist Radfahren in der Stadt oft lebensgefährlich, da muss dringend in gute Wege investiert werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mutlos bei der Verkehrswende!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm wehrt sich pauschal gegen eine drastische Reduktion des Autoverkehrs und pocht stattdessen auf Technologieoffenheit.",
+      "seite": 32,
+      "zitat": "Eine erzwungene Verkehrswende lehnen wir ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als glühende Verfechterin einer autoarmen Stadt ärgert sich Carla über die sehr defensive, autofreundliche Haltung der Partei gegenüber einer echten und spürbaren Reduktion des Pkw-Verkehrs.",
+      "begruendung_selbst": "Wer die Verkehrswende ausbremst, schützt letztlich nur den Status quo der Autofahrer. Dabei ersticken unsere Quartiere jeden Tag mehr im Verkehr und Abgasen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schon wieder nur Eigenheime!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will gezielt neue Bauflächen ausweisen, um vor allem den privaten Bau von Eigenheimen zu fördern.",
+      "seite": 31,
+      "zitat": "insbesondere für den Bau von Eigenheimen für Familien und Erstkäufer",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Carla, die als Mieterin voraussichtlich nie ein Haus besitzen wird, ist die massive Förderung von Eigenheimen auf der grünen Wiese die völlig falsche wohnungspolitische Priorität.",
+      "begruendung_selbst": "Immer diese Häuslebauer am Stadtrand! Das hilft mir als Mieterin in der Innenstadt null weiter und verbraucht nur noch mehr wertvolle Fläche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Billige Ausrede beim Klima!",
+      "thema": "klima",
+      "programmpunkt": "Die Partei lenkt beim drängenden Thema Klimaschutz primär auf die Friedenspolitik um und bezeichnet Krieg als zentralen Verursacher, was andere Maßnahmen relativiert.",
+      "seite": 8,
+      "zitat": "Dabei betrachten wir Krieg als den größten Klimaschädling.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als progressiv wählende Großstädterin nimmt Carla den lokalen Klimawandel sehr ernst und empfindet diesen rhetorischen Schwenk hin zum Thema Krieg als durchschaubares Ablenkungsmanöver.",
+      "begruendung_selbst": "Natürlich ist Krieg furchtbar, aber das als pauschale Ausrede zu benutzen, um sich vor lokaler und unbequemer Klimapolitik zu drücken, ist mir echt zu billig.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das BSW punktet bei Carla stark mit harten mieterfreundlichen Positionen wie dem geforderten Mietendeckel und der klaren Absage an Immobilienspekulation sowie Privatisierungen. Diese ausgeprägte Gemeinwohlorientierung im Wohnungswesen trifft ihre stadtpolitischen Kernanliegen exakt. Nennenswerte Abstriche macht sie jedoch bei der für sie viel zu defensiven, auto-freundlichen Verkehrspolitik sowie dem rhetorischen Ausweichen bei konkreten Klimaschutzmaßnahmen.",
+    "score": 1
+  }
+}

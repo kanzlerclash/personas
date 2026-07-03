@@ -1,0 +1,88 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:59:30.866Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82440,
+    "output_tokens": 5542,
+    "cached_tokens": 78080,
+    "total_tokens": 87982,
+    "dauer_ms": 102088,
+    "usd": 0.06117625
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Schluss mit Modernisierung!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Modernisierungsumlage soll abgeschafft werden, damit Sanierungen und Heizungstausch nicht zu Mieterhöhungen führen.",
+      "seite": 84,
+      "zitat": "die Modernisierungsumlage abschaffen,",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla fürchtet nichts mehr als den Brief mit der Modernisierungsankündigung, der ihre Miete unbezahlbar macht. Die Forderung, die Umlage komplett zu streichen und Sanierungen warmmietenneutral zu gestalten, nimmt ihr diese existenzielle Angst und schützt sie direkt vor Verdrängung.",
+      "begruendung_selbst": "Ich habe Angst vor dem Tag, an dem der Brief mit der Modernisierung im Kasten liegt. Wenn die Umlage endlich wegfällt, kann ich in meinem Viertel bleiben, ohne dass mich die Sanierung ruiniert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnen ist keine Rendite!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei kritisiert renditeorientierte Großvermieter, fordert eine Mietpreisbremse und einen Fonds, um Immobilien in die öffentliche Hand zu holen.",
+      "seite": 82,
+      "zitat": "Aktien-Konzerne und Großvermieter zahlen aus unseren Mieten Renditen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carlas Sichtweise, dass Wohnen Daseinsvorsorge und kein Spekulationsgut ist, wird hier explizit geteilt. Die Abkehr von der Marktlogik hin zu gemeinwohlorientierten Strukturen und einer Mietpreisbremse bestätigt ihre Forderung nach wirksamem Schutz vor profitorientierter Verdrängung.",
+      "begruendung_selbst": "Wohnen ist kein Aktienpaket. Wer das nicht versteht, hat mein Viertel nie erlebt. Endlich sagt mal jemand klar, dass diese Rendite-Logik uns einfach nur verdrängt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenlose Bahn, mehr Radwege!",
+      "thema": "verkehr",
+      "programmpunkt": "Langfristig soll der ÖPNV kostenlos werden, zudem werden Radschnellwege und Fahrradstraßen systematisch ausgebaut.",
+      "seite": 102,
+      "zitat": "langfristig kostenfreien ÖPNV für Alle ,",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Großstädterin ohne Auto ist Carla auf eine gute, bezahlbare ÖPNV- und Radinfrastruktur angewiesen. Die Vision eines kostenlosen Nahverkehrs und der konsequente Ausbau von Radwegen entsprechen exakt ihrem Wunsch nach einer autoarmen, lebenswerten Stadt.",
+      "begruendung_selbst": "Ich brauche kein Auto, ich brauche eine Bahn, die kommt, und sichere Radwege. Wenn der ÖPNV irgendwann kostenlos ist, ist das für meinen Alltag und mein Portemonnaie ein absoluter Gamechanger.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Ferienwohnungen statt Wohnraum!",
+      "thema": "wohnen",
+      "programmpunkt": "Ein neues Gesetz soll die Zweckentfremdung von Wohnraum sanktionieren, um Kommunen mehr Handlungsspielraum gegen Spekulation und Leerstand zu geben.",
+      "seite": 85,
+      "zitat": "ein Gesetz, das die Zweckentfremdung von Wohnraum sanktioniert,",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "In Carlas aufgewertetem Viertel werden Wohnungen oft in Ferienapartments umgewandelt oder spekulativ leergezogen. Ein strenges Zweckentfremdungsverbot ist für sie ein essentielles Werkzeug, um den Charakter ihres Kiezes und bezahlbaren Wohnraum zu erhalten.",
+      "begruendung_selbst": "Es macht mich wahnsinnig, wenn in meiner Straße Wohnungen zu Ferienapartments werden oder jahrelang leer stehen. Wir brauchen endlich harte Regeln gegen diese Spekulation, damit hier normale Menschen leben können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Staat muss selbst bauen!",
+      "thema": "wohnen",
+      "programmpunkt": "Gründung einer Landeswohnungsbaugesellschaft, die dauerhaft gebundenen bezahlbaren Wohnraum schafft und Projekte übernimmt, die der freie Markt nicht sozialverträglich umsetzt.",
+      "seite": 84,
+      "zitat": "Wir setzen uns für die Gründung einer Landeswohnungsbaugesellschaft ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ist von der reinen Marktlogik im Wohnungswesen tief enttäuscht. Die Schaffung einer starken öffentlichen Akteurin, die dauerhaft sozialen Wohnraum bindet, gibt ihr die Hoffnung, dass die Stadt dem Markt nicht länger hilflos ausgeliefert ist.",
+      "begruendung_selbst": "Der Markt regelt gar nichts, der Markt verdrängt uns. Wir brauchen endlich wieder eine starke öffentliche Hand, die selbst baut und Wohnungen schafft, die dauerhaft bezahlbar bleiben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im Wahlprogramm der Linken exakt die Antworten auf ihre größten Ängste vor Verdrängung und steigenden Mieten. Die konsequente Abkehr von der Marktlogik, die Forderung nach einer Landeswohnungsbaugesellschaft und das Verbot der Modernisierungsumlage bestätigen ihr Weltbild, dass Wohnen Daseinsvorsorge ist. Auch die Verkehrspolitik mit Fokus auf kostenlosen ÖPNV und Radinfrastruktur passt perfekt zu ihrem autoarmen, großstädtischen Alltag, weshalb das Programm aus ihrer Sicht kaum Wünsche offenlässt.",
+    "score": 2
+  }
+}

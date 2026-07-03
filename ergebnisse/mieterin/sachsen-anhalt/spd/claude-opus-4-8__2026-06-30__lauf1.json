@@ -1,0 +1,88 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sozialer Wohnungsbau wird gestärkt",
+      "thema": "wohnen",
+      "programmpunkt": "Die SPD will den sozialen Wohnungsbau stärken, besonders für altersgerechte und barrierefreie Wohnungen.",
+      "seite": 27,
+      "zitat": "Der soziale Wohnungsbau wird gestärkt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla setzt auf mehr gemeinwohlorientierten Wohnraum als Gegengewicht zum Markt; die Stärkung des sozialen Wohnungsbaus trifft ihren Kern.",
+      "begruendung_selbst": "Mehr geförderter Wohnraum – das ist genau die Richtung, die mein Viertel braucht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Ausverkauf öffentlicher Wohnungen",
+      "thema": "wohnen",
+      "programmpunkt": "Die SPD will Zwangsverkäufe kommunaler und genossenschaftlicher Wohnungen zur Haushaltssanierung ausschließen.",
+      "seite": 27,
+      "zitat": "Zwangsverkäufe zur Haushaltskonsolidierung werden ausgeschlossen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht kommunale Wohnungen als Schutz vor reiner Marktlogik; ihr Erhalt sichert bezahlbaren Bestand.",
+      "begruendung_selbst": "Öffentliche Wohnungen dürfen nicht verscherbelt werden – die sind unser Schutzschild.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kommunale Wohnungsunternehmen gestärkt",
+      "thema": "wohnen",
+      "programmpunkt": "Die SPD will kommunalen Wohnungsunternehmen ermöglichen, über Gemeindegrenzen hinweg tätig zu sein.",
+      "seite": 27,
+      "zitat": "Kommunale Wohnungsunternehmen sollen über Gemeindegrenzen hinweg tätig sein können",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Handlungsfähige kommunale Anbieter entsprechen Carlas Wunsch nach gemeinwohlorientiertem Wohnraum statt reinem Markt.",
+      "begruendung_selbst": "Starke kommunale Vermieter sind mir tausendmal lieber als reine Renditejäger.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutschlandticket abgesichert",
+      "thema": "verkehr",
+      "programmpunkt": "Die SPD will das Deutschlandticket langfristig bezahlbar und verlässlich absichern.",
+      "seite": 26,
+      "zitat": "Das Deutschlandticket wird langfristig bezahlbar und verlässlich abgesichert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als autofreie Pendlerin profitiert Carla von einem dauerhaft bezahlbaren Ticket.",
+      "begruendung_selbst": "Ein verlässlich günstiges Ticket – darauf kann ich als Mieterin ohne Auto bauen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rad bleibt kostenlos mit",
+      "thema": "verkehr",
+      "programmpunkt": "Die SPD will die kostenlose Fahrradmitnahme in Regional- und S-Bahnen erhalten.",
+      "seite": 26,
+      "zitat": "Die kostenlose Fahrradmitnahme in Regional- und S-Bahnen bleibt erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla kombiniert Rad und Bahn; die kostenlose Mitnahme erleichtert ihren autofreien Alltag.",
+      "begruendung_selbst": "Rad und Bahn zusammen ohne Aufpreis – so stelle ich mir Stadtmobilität vor.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im SPD-Programm viel, das ihre Prioritäten trifft: gestärkter sozialer Wohnungsbau, geschützte kommunale Wohnungsunternehmen und ein verlässlich bezahlbares Deutschlandticket. Ein klar formuliertes Mietregulierungs-Instrument vermisst sie, doch die gemeinwohlorientierte Grundrichtung liegt nah an ihren Hoffnungen.",
+    "score": 1
+  }
+}

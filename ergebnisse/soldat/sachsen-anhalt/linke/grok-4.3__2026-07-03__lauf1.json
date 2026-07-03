@@ -1,0 +1,76 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:46:20.821Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95853,
+    "output_tokens": 1409,
+    "cached_tokens": 2752,
+    "total_tokens": 97262,
+    "dauer_ms": 14508,
+    "usd": 0.12153165
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Militärausgaben blockieren meine Ausrüstung!",
+      "thema": "verteidigung",
+      "programmpunkt": "Ablehnung höherer Militärausgaben und Fokus auf Abrüstung statt Stärkung der Bundeswehr",
+      "seite": 13,
+      "zitat": "gegen die Erhöhung der Militärausgaben",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan sieht in der programmatischen Ablehnung höherer Verteidigungsausgaben eine direkte Bedrohung seiner Einsatzfähigkeit und Sicherheit an der NATO-Ostflanke.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren – ich brauche funktionierendes Material, keine Kürzungen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wehrpflicht-Ablehnung schwächt die Truppe!",
+      "thema": "verteidigung",
+      "programmpunkt": "Gegnerschaft zur Wiedereinführung der Wehrpflicht und generelle Ablehnung von Wehrhaftigkeit",
+      "seite": 13,
+      "zitat": "gegen die schrittweise Einführung der Wehrpflicht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan untergräbt die kategorische Ablehnung der Wehrpflicht die personelle und strukturelle Wehrfähigkeit, die er für den Bündnisauftrag als unverzichtbar ansieht.",
+      "begruendung_selbst": "Wer den Auftrag ernst nimmt, muss auch die Mittel dafür bereitstellen – nicht die jungen Leute davon abhalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Standort Holzdorf und Heide werden blockiert!",
+      "thema": "verteidigung",
+      "programmpunkt": "Gegnerschaft gegen militärische Nutzung und Hochrüstung an Standorten wie Holzdorf und Colbitz-Letzlinger Heide",
+      "seite": 13,
+      "zitat": "gegen die weitere Hochrüstung des Standortes Holzdorf",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan nimmt die programmatische Ablehnung der militärischen Nutzung wichtiger Übungs- und Garnisonsflächen als direkte Bedrohung seines eigenen Standorts und der Ausbildung wahr.",
+      "begruendung_selbst": "Ich stehe für dieses Land ein – dann darf man mir nicht die Flächen wegnehmen, auf denen ich übe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "NATO-Skepsis gefährdet mein Bündnis!",
+      "thema": "sicherheit",
+      "programmpunkt": "Kritik an NATO und westlicher Verteidigungspolitik zugunsten von Abrüstung und Interessensausgleich",
+      "seite": 12,
+      "zitat": "der Krieg wird wieder als legitimes Mittel nationaler Interessen propagiert",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan bewertet die programmatische Distanzierung von NATO und westlicher Abschreckung als gefährliche Schwächung des Bündnisses, auf das er seinen Auftrag stützt.",
+      "begruendung_selbst": "Ohne verlässliches Bündnis und klare Haltung an der Ostflanke wird mein Auftrag unmöglich.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan lehnt das Programm der Linken in allen verteidigungs- und bündnispolitischen Kernpunkten klar ab. Die systematische Ablehnung von Militärausgaben, Wehrpflicht und militärischer Nutzung von Standorten widerspricht direkt seinen täglichen Erfahrungen mit Ausrüstungsmängeln und der Bedrohungslage. Er sieht darin eine fundamentale Untergrabung seines Auftrags und der NATO-Ostflanke.",
+    "score": -2
+  }
+}

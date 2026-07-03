@@ -1,0 +1,77 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Gesundheit ist keine Ware",
+      "thema": "gesundheit",
+      "programmpunkt": "Die AfD lehnt die vollständige Vermarktlichung des Gesundheitswesens ab und bekennt sich zu Gesundheit als öffentlichem Gut jenseits von Marktlogik.",
+      "seite": 20,
+      "zitat": "Gesundheit aber ist keine Ware und darf deshalb nicht dem freien Markt ausgeliefert werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla hält Daseinsvorsorge grundsätzlich für eine staatliche Aufgabe. Das AfD-Bekenntnis gegen die vollständige Kommerzialisierung des Gesundheitswesens entspricht formal ihrem Daseinsvorsorge-Prinzip – auch wenn sie dieses Prinzip konsequent auch auf Wohnen anwenden würde, was die AfD nicht tut.",
+      "begruendung_selbst": "Das ist der eine Satz im AfD-Programm, dem ich zustimmen würde. Nur: Was für Gesundheit gilt, muss auch für Wohnungen gelten. Aber das fehlt dann.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "ÖPNV ist 'Autofahrerfeindlichkeit'?",
+      "thema": "verkehr",
+      "programmpunkt": "Die AfD bezeichnet die bestehende Verkehrspolitik als klimapolitisch motivierte Feindseligkeit gegenüber Autofahrern und richtet ihre Verkehrspolitik primär auf den motorisierten Individualverkehr aus.",
+      "seite": 16,
+      "zitat": "eine klimapolitisch bedingte Autofahrerfeindlichkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla ist täglich ÖPNV- und Radnutzerin ohne Auto. Die AfD rahmt Maßnahmen für saubere Luft, Radwege und ÖPNV als unzulässige Benachteiligung von Autofahrern – eine Perspektive, die ihre Alltagsrealität und ihre Wunschvorstellung einer autoarmen, lebenswerten Stadt direkt konterkariert.",
+      "begruendung_selbst": "Autofahrerfeindlichkeit? Ich fahre jeden Tag Rad und ÖPNV. Wenn die AfD das als Feindseligkeit bezeichnet, meint sie damit auch mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mieterschutz: Fehlanzeige",
+      "thema": "wohnen",
+      "programmpunkt": "Das AfD-Programm enthält kein Kapitel zu Wohnungspolitik oder Mieterschutz. Regulierungsinstrumente wie Mietpreisbremsen, Milieuschutz oder Modernisierungsumlage-Begrenzung werden nicht thematisiert.",
+      "seite": 13,
+      "zitat": "Die planwirtschaftliche Energiewende der Altparteien ist dramatisch gescheitert",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Programm enthält kein wohnungspolitisches Kapitel für Stadtmieterinnen. Die AfD lehnt staatliche Eingriffe in Märkte grundsätzlich ab – ein Ansatz, der Carlas zentralen Sorgen (Modernisierungsumlage, Verdrängung, Mietpreissteigerung) keine Antwort bietet. Das Zitat aus der Wirtschaftspolitik illustriert die generelle Haltung gegen staatliche Steuerung.",
+      "begruendung_selbst": "Die AfD hat einfach kein Kapitel zum Mieterschutz. Das sagt schon alles. Die großen Sorgen meines Lebens – Modernisierung, Verdrängung, steigende Mieten – kommen nicht vor.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gemischte Stadt? Nicht ihr Bild.",
+      "thema": "integration",
+      "programmpunkt": "Die AfD beschreibt den demografischen Wandel in ethnisch-nationaler Sprache und verfolgt eine Migrationspolitik, die auf weitgehende Remigration zielt.",
+      "seite": 4,
+      "zitat": "das Aussterben des Deutschen Volkes",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla lebt in einem kulturell gemischten Innenstadtviertel und schätzt die lebendige, diverse Stadtgesellschaft. Die völkisch-nationalistische Framing des AfD-Programms steht fundamental im Widerspruch zu ihrem Stadtbild und ihren progressiven Werten.",
+      "begruendung_selbst": "Mein Viertel ist bunt, gemischt, lebendig. Das ist sein Wert. Die AfD beschreibt das, was mich umgibt, als Bedrohung – da leben wir in verschiedenen Welten.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das AfD-Programm bietet Carla als großstädtischer Mieterin kaum Anknüpfungspunkte. Ein Wohnpolitikkapitel fehlt vollständig; die zentralen Sorgen von Stadtmieterinnen – Mietpreisregulierung, Modernisierungsumlage, Verdrängungsschutz – werden nicht angesprochen. Die Verkehrspolitik richtet sich gegen die urbane Mobilitätsform, die Carla täglich lebt. Lediglich das Daseinsvorsorge-Prinzip im Gesundheitsbereich klingt an, ohne auf Wohnen übertragen zu werden. Das demographische Weltbild der AfD steht im Kontrast zu Carlas gelebter gemischter Stadtgesellschaft.",
+    "score": -2
+  }
+}

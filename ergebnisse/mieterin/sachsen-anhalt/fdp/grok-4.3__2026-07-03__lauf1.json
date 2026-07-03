@@ -1,0 +1,76 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:46:13.780Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49931,
+    "output_tokens": 1657,
+    "cached_tokens": 128,
+    "total_tokens": 51588,
+    "dauer_ms": 13654,
+    "usd": 0.06813685
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Eigentum für alle – außer für mich!",
+      "thema": "wohnen",
+      "programmpunkt": "Förderung von Wohneigentum durch Grunderwerbsteuer-Freibetrag und zinsvergünstigte Darlehen für Erstkäufer",
+      "seite": 12,
+      "zitat": "Grunderwerbsteuer-Freibetrag für den erstmaligen Erwerb selbstgenutzten Wohneigentums",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla besitzt kein Eigentum und kann sich in ihrem aufgewerteten Viertel keinen Kauf leisten; die Maßnahme begünstigt ausschließlich Käufer und treibt indirekt die Preise weiter nach oben.",
+      "begruendung_selbst": "Das hilft nur denen, die schon Geld haben – für mich als Mieterin bleibt nur die Angst vor noch höheren Preisen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Modernisierung = Mieterhöhung!",
+      "thema": "wohnen",
+      "programmpunkt": "Steuerliche Modernisierungs-Abschreibung für energetische Sanierungen im Bestand statt direkter Förderung",
+      "seite": 13,
+      "zitat": "dauerhafte Modernisierungs-Abschreibung starten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla fürchtet genau solche Modernisierungen, weil sie zu Mieterhöhungen oder Eigenbedarfskündigungen führen; das Programm setzt hier auf Anreize für Vermieter ohne Mieter-Schutz.",
+      "begruendung_selbst": "Wieder so ein Brief mit Modernisierung im Briefkasten – und ich zahl die Rechnung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Markt entscheidet, ich verliere!",
+      "thema": "wohnen",
+      "programmpunkt": "Staat setzt nur Rahmenbedingungen, Investitionsentscheidungen treffen Eigentümer und Unternehmen selbst",
+      "seite": 12,
+      "zitat": "die Entscheidungen über Investitionen treffen Unternehmen, Eigentümer und Familien selbst",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla sieht in der reinen Marktlogik die Ursache ihrer Verdrängungsangst; das Programm lehnt aktive Mieter-Schutzmaßnahmen ab und überlässt alles den Eigentümern.",
+      "begruendung_selbst": "Wohnen ist für die kein Dach über dem Kopf, sondern nur ein Geschäft – und ich bin die Verliererin.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Altschuldenfonds statt Mieterschutz!",
+      "thema": "wohnen",
+      "programmpunkt": "Befristeter Altschuldenfonds für kommunale Wohnungsunternehmen zur Entlastung von DDR-Altschulden",
+      "seite": 12,
+      "zitat": "landeseigenen, befristeten Altschuldenfonds auflegen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla wünscht sich mehr gemeinwohlorientierten und preisgebundenen Wohnraum; der Fonds stabilisiert Vermieter, ohne Mieter vor steigenden Kosten zu schützen.",
+      "begruendung_selbst": "Wieder Geld für die Vermieter, während meine Miete weiter steigt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla sieht im Programm eine konsequente marktliberale Wohnungspolitik, die Eigentümer und Investoren begünstigt, ohne Mieter vor Verdrängung oder Mieterhöhungen zu schützen. Ihre zentralen Sorgen um bezahlbares Wohnen und Viertelstabilität werden nicht adressiert. Sie lehnt das Programm daher klar ab.",
+    "score": -2
+  }
+}

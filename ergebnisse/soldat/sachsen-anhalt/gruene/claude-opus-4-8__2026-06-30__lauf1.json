@@ -20,57 +20,70 @@
   },
   "besonders_gut": [
     {
-      "titel_selbst": "Sie planen den Verteidigungsfall mit",
+      "titel_selbst": "Reservisten den Rücken freihalten",
       "thema": "verteidigung",
-      "programmpunkt": "Es sollen Konzepte für Aufmarsch-, Spannungs-, Bündnis- und Verteidigungsfall entwickelt und mit militärischen Dienststellen abgestimmt werden.",
+      "programmpunkt": "Freistellung und Priorisierung von Personal für Reservistendienst in der Bundeswehr.",
       "seite": 48,
-      "zitat": "Bündnis- und Verteidigungsfall",
+      "zitat": "für den allgemeinen Dienst als Reservist*in der Bundeswehr",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Stefan will seinen Auftrag ernst genommen sehen; dass das Land Verteidigungs- und Bündnisfall ausdrücklich einplant, bestätigt seine sicherheitspolitische Erwartung.",
-      "begruendung_selbst": "Endlich wird auch zivil mitgedacht, dass es einen Verteidigungsfall geben kann – das nimmt meinen Auftrag ernst.",
+      "begruendung": "Dass ausgerechnet die Grünen den Reservistendienst der Bundeswehr aktiv erleichtern wollen, überrascht Stefan positiv und trifft seinen Berufskern der Wehrfähigkeit.",
+      "begruendung_selbst": "Reservisten freistellen statt behindern, das hätte ich hier nicht erwartet, aber es ist genau richtig für unsere Einsatzbereitschaft.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Reservisten werden freigestellt",
+      "titel_selbst": "Zivil-militärisch endlich geplant",
       "thema": "verteidigung",
-      "programmpunkt": "Beschäftigte sollen für Dienst als Reservist der Bundeswehr und Weiterbildungen im Heimatschutz freigestellt und priorisiert werden.",
+      "programmpunkt": "Planungen für Bündnis- und Verteidigungsfall sollen mit zuständigen militärischen Dienststellen abgestimmt werden.",
       "seite": 48,
-      "zitat": "als Reservist*in der Bundeswehr",
+      "zitat": "mit zuständigen militärischen Dienststellen abzustimmen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Stefan wünscht Wertschätzung der Truppe; klare Freistellungsregeln für Reservistendienst stärken die Verzahnung von Bundeswehr und Gesellschaft, die ihm wichtig ist.",
-      "begruendung_selbst": "Wenn Reservisten ohne Hürden zu Übungen dürfen, zeigt das: Die Truppe wird hier ernst genommen.",
+      "begruendung": "Zivil-militärische Zusammenarbeit für Aufmarsch, Bündnis- und Verteidigungsfall ist für Stefans Auftrag zentral. Diese konkrete Abstimmungspflicht deckt sich mit seinem Lagebild.",
+      "begruendung_selbst": "Aufmarsch- und Verteidigungsfall mit den Dienststellen durchplanen, das ist ernsthafte Vorsorge und kein Symbolpapier.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Wehrhaft auch im Staatsdienst",
+      "titel_selbst": "Wehrhafte Demokratie im Dienst",
       "thema": "demokratie",
-      "programmpunkt": "Das Programm bekennt sich zu einer wehrhaften Demokratie im Staatsdienst und konsequentem Vorgehen gegen Verfassungsfeinde.",
+      "programmpunkt": "Bekenntnis zu einer wehrhaften Demokratie im Staatsdienst; Verfassungsfeinde sollen aus dem Dienst entfernt werden.",
       "seite": 40,
-      "zitat": "wehrhafte Demokratie im Staatsdienst",
-      "bezug": "betrifft_mich",
+      "zitat": "Wir stehen für eine wehrhafte Demokratie im Staatsdienst ein",
+      "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
-      "begruendung": "Als verfassungstreuer Berufssoldat teilt Stefan das Anliegen, dass der Staat seine Institutionen gegen Verfassungsfeinde schützt.",
-      "begruendung_selbst": "Wer dem Staat dient, muss zur Verfassung stehen – das sehe ich genauso.",
+      "begruendung": "Verfassungstreue im Staatsdienst ist Teil von Stefans Selbstverständnis. Eine wehrhafte Demokratie, die Verfassungsfeinde konsequent entfernt, entspricht seiner Haltung.",
+      "begruendung_selbst": "Wer für den Staat Waffe oder Verantwortung trägt, muss fest zur Verfassung stehen. Da bin ich voll dabei.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Bündnis auch beim Schutz zählt",
-      "thema": "verteidigung",
-      "programmpunkt": "Der Katastrophenschutz soll enger mit dem EU-Zivilschutz-Mechanismus rescEU verzahnt werden.",
-      "seite": 48,
-      "zitat": "EU-Zivilschutz-Mechanismus (rescEU)",
-      "bezug": "betrifft_mich",
+      "titel_selbst": "Drohnenabwehr ist Pflicht",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Polizei soll gezielt zur Drohnenabwehr befähigt werden, da hybride Gefahren zunehmen.",
+      "seite": 42,
+      "zitat": "die Polizei gezielt zur Drohnenabwehr befähigen",
+      "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
-      "begruendung": "Bündnistreue ist Stefans Kernwert; die engere europäische Verzahnung im Schutzbereich entspricht seiner Überzeugung von verlässlichen Bündnissen.",
-      "begruendung_selbst": "Sicherheit gibt es nur im Bündnis – dass man auch im Zivilschutz europäisch zusammenarbeitet, ist genau richtig.",
+      "begruendung": "Drohnen und hybride Bedrohungen gehören zu Stefans realem Lagebild. Dass die Grünen Spionage und Sabotage durch Drohnen ernst nehmen, wertet er als realistisch.",
+      "begruendung_selbst": "Drohnen sind keine Spielerei mehr, die kann man militärisch wie zivil nicht ignorieren. Gut, dass das jemand angeht.",
       "beleg_ok": true
     }
   ],
-  "besonders_schlecht": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Waffenrecht: nicht meine Baustelle",
+      "thema": "sicherheit",
+      "programmpunkt": "Konsequentes Verbot des Waffenbesitzes für Extremisten und massiv gestärkte Waffenbehörden.",
+      "seite": 40,
+      "zitat": "Kein Waffenbesitz für Extremist*innen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan teilt das Ziel, Extremisten von Waffen fernzuhalten; als Grundhaltung passt es zu seiner Verfassungstreue. Es berührt seine Lage nur am Rand, doch inhaltlich stimmt er zu.",
+      "begruendung_selbst": "Extremisten gehören keine Waffen, das ist doch selbstverständlich. Mit meinem Dienst hat das wenig zu tun, richtig ist es trotzdem.",
+      "beleg_ok": true
+    }
+  ],
   "gesamt": {
-    "zusammenfassung": "Stefan findet auf Landesebene mehr Anknüpfung, als er erwartet: ernsthafte Planung für den Bündnis- und Verteidigungsfall, Freistellung für Reservisten, ein Bekenntnis zur wehrhaften Demokratie und europäische Zusammenarbeit im Schutzbereich. Seine Kernthemen Bundeswehr-Ausrüstung und NATO liegen beim Bund und bleiben offen, doch das Programm zeigt keine Bündnisskepsis. Insgesamt fällt sein Urteil verhalten positiv aus.",
+    "zusammenfassung": "Stefan ist überrascht, wie ernst die Grünen Wehrfähigkeit und zivile Verteidigung nehmen: Reservistendienst erleichtern, Bündnis- und Verteidigungsfall mit militärischen Dienststellen abstimmen, Zivilschutzräume schaffen und Drohnenabwehr aufbauen. Auch die wehrhafte Demokratie im Staatsdienst trifft seine Werte. Punkte gegen seine Lage findet er kaum; das Programm liest sich für ihn sicherheitspolitisch anschlussfähiger als erwartet.",
     "score": 1
   }
 }

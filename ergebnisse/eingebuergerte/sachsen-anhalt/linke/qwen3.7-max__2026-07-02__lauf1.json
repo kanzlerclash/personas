@@ -60,26 +60,24 @@
       "thema": "demokratie",
       "programmpunkt": "Die Partei positioniert sich klar gegen Rechtsextremismus, rechte Kulturkämpfe und Angriffe auf Minderheiten; sie will zivilgesellschaftliche Strukturen und demokratische Akteure schützen.",
       "seite": 69,
-      "zitat": "Angriffe auf die kulturelle Freiheit sind gezielte Kulturkampf-Statements von rechts.",
+      "zitat": "gezielte Kulturkampf-Statements von rechts, denen wir uns entschieden entgegenstellen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin erlebt den Rechtsruck und Begriffe wie 'Remigration' als direkten Angriff auf ihre Zugehörigkeit. Die klare, benennende Haltung der Partei gegen rechte Hetze gibt ihr das Gefühl, dass ihre Sorgen ernst genommen werden.",
       "begruendung_selbst": "Wenn ich 'Remigration' höre, geht es um mich. Dass eine Partei das klar als Bedrohung benennt und sich schützend vor Menschen wie mich stellt, ist für mich existenziell wichtig.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Diskriminierung im Gesundheitswesen benannt",
       "thema": "gesundheit",
       "programmpunkt": "Die Partei fordert den Abbau von Stigmatisierung im Gesundheitswesen, etwa gegenüber Trans-Personen, Menschen mit HIV oder Migrationsgeschichte, sowie verpflichtende Sensibilisierung des Fachpersonals.",
-      "seite": 51,
-      "zitat": "Stigmata effektiv durch Aufklärung des medizinischen Fachpersonals abbauen.",
+      "seite": 52,
+      "zitat": "Stigmata effektiv durch Aufklärung, insbesondere des medizinischen Fachpersonals, abbauen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Aylin kennt aus eigener Erfahrung oder aus ihrem Umfeld, wie Menschen mit Migrationsgeschichte im Gesundheitssystem manchmal nicht ernst genommen werden. Die explizite Benennung und Bekämpfung solcher Diskriminierung bestätigt ihre Alltagserfahrungen.",
       "begruendung_selbst": "Ich war schon beim Arzt und wurde anders behandelt, weil mein Name nicht 'deutsch' klingt. Dass das endlich als Problem anerkannt wird, ist überfällig.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Schnelle Anerkennung von Abschlüssen",

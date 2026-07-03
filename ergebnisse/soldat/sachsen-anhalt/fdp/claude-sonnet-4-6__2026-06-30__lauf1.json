@@ -9,7 +9,7 @@
   "lauf": 1,
   "programm_stand": null,
   "prompt_version": "vergleich.v1",
-  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
   "metrik": {
     "input_tokens": null,
     "output_tokens": null,
@@ -20,45 +20,57 @@
   },
   "besonders_gut": [
     {
-      "titel_selbst": "Rüstungsinvestition nach Sachsen-Anhalt holen!",
+      "titel_selbst": "Hunderte Milliarden für aufgabenadäquate Ausrüstung – endlich!",
       "thema": "verteidigung",
-      "programmpunkt": "Sachsen-Anhalt soll vom Aufbau industrieller Wertschöpfung durch Bundesinvestitionen in die Bundeswehr profitieren; die Verteidigungsindustrie soll als zentrale Branche angesiedelt werden; rahmenbedingungen für schnellen Produktionsaufbau sollen verbessert werden.",
+      "programmpunkt": "Die FDP benennt explizit, dass der Bund hunderte Milliarden in die aufgabenadäquate Ausstattung der Bundeswehr investiert, und will diese Investitionen nach Sachsen-Anhalt holen.",
       "seite": 9,
-      "zitat": "Wir wollen, dass Sachsen-Anhalt vom Aufbau dieser industriellen Wertschöpfung und der damit verbundenen Arbeitsplätze profitiert.",
-      "bezug": "meine_sicht_auf_andere",
+      "zitat": "„Der Bund investiert hunderte Milliarden in die aufgabenadäquate Ausstattung der Bundeswehr”",
+      "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Stefan weiß, dass Ausrüstung und Material von Produktion abhängen. Rüstungsproduktion in Deutschland stärkt die Versorgungskette der Bundeswehr und signalisiert Ernsthaftigkeit beim Aufbau der Verteidigungsfähigkeit.",
-      "begruendung_selbst": "Wenn die Produktion in Deutschland ist, kommt das Material schneller zu uns. Das ist kein abstraktes Wirtschaftsthema — das ist meine Ausrüstung.",
+      "begruendung": "Stefan kennt den Unterschied zwischen warmen Worten und Ausstattungsrealität. Dass die FDP die milliardenschweren Bundeswehr-Investitionen nicht nur begrüßt, sondern aktiv für Sachsen-Anhalt erschließen will, trifft seinen Kernmaßstab: nicht reden, sondern Material liefern.",
+      "begruendung_selbst": "Das ist die Sprache, die ich verstehe: aufgabenadäquate Ausstattung. Nicht Bekenntnis, nicht Versprechen – sondern der klare Wille, die Mittel dahin zu bringen, wo ich diene.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Forschungsfreiheit für Verteidigungstechnologie!",
+      "titel_selbst": "Glaubwürdige Abschreckung als politisches Ziel",
       "thema": "verteidigung",
-      "programmpunkt": "Zivilklauseln an Hochschulen sollen abgelehnt werden; die Vernetzung zwischen heimischer Hochschullandschaft und innovativen Unternehmen der Verteidigungsindustrie soll gestärkt werden.",
+      "programmpunkt": "Die FDP nennt glaubwürdige und resiliente Abschreckung als Begründung für die Rüstungsproduktion in Deutschland und in Sachsen-Anhalt.",
+      "seite": 9,
+      "zitat": "„Zur Gewährleistung einer glaubwürdigen und resilienten Abschreckung”",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Abschreckung ist für Stefan kein abstraktes sicherheitspolitisches Konzept, sondern der Grund, warum seine Einheit täglich übt und einsatzbereit sein muss. Dass die FDP Abschreckung als konkrete politische Kategorie benennt, zeigt konzeptionelles Lagebewusstsein.",
+      "begruendung_selbst": "Abschreckung funktioniert nur, wenn sie glaubwürdig ist. Wer das benennt und nicht wegdiskutiert, hat verstanden, warum wir trainieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zivilklauseln ablehnen – Forschungsfreiheit für Verteidigung",
+      "thema": "verteidigung",
+      "programmpunkt": "Die FDP lehnt Zivilklauseln an Hochschulen ab und will die Vernetzung von Hochschulen und Verteidigungsindustrie stärken.",
       "seite": 10,
-      "zitat": "Zivilklauseln lehnen wir ab. Wir wollen die Vernetzung zwischen der heimischen Hochschullandschaft und innovativen Unternehmen der Verteidigungsindustrie stärken.",
+      "zitat": "„Zivilklauseln lehnen wir ab”",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
-      "begruendung": "Stefan ist darauf angewiesen, dass moderne Technologien entwickelt und beschafft werden. Forschungsfreiheit ohne Zivilklauseln ist für ihn ein Baustein einer ernsthaften Verteidigungspolitik.",
-      "begruendung_selbst": "Wenn Forschung verboten wird, weil jemand Waffen für Kriegsmittel hält, bleiben wir technologisch zurück. Ich brauche das Beste, was die Forschung kann.",
+      "begruendung": "Zivilklauseln, die militärrelevante Forschung an Hochschulen verbieten, schwächen aus Stefans Sicht die technologische Basis der Bundeswehr. Die klare Ablehnung durch die FDP zeigt, dass diese Partei Sicherheitspolitik konsequent mitdenkt und keine künstlichen Barrieren zwischen Wissenschaft und Verteidigung duldet.",
+      "begruendung_selbst": "Wer die Bundeswehr mit guter Ausrüstung versorgen will, kann nicht gleichzeitig Forschung dafür verbieten. Das ist konsequent.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Sondervermögen konsequent für Verteidigung nutzen!",
-      "thema": "verteidigung",
-      "programmpunkt": "Mittel aus dem Sondervermögen für Infrastruktur und Klimaneutralität sollen auch für Fachkräftesicherung, Genehmigungsverfahren, Netzanbindung und vorbereitende Infrastruktur neuer Kernenergie- und Verteidigungsprojekte nutzbar gemacht werden.",
-      "seite": 14,
-      "zitat": "Mittel aus dem Sondervermögen für Infrastruktur und Klimaneutralität auch für Fachkräftesicherung, Genehmigungsverfahren, Netzanbindung und vorbereitende Infrastruktur neuer Kernenergieprojekte nutzbar machen.",
+      "titel_selbst": "Rüstungsindustrie mit Mittelstand vernetzen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP will lokale mittelständische Unternehmen aus der Automobilindustrie mit Investoren aus der deutschen Rüstungsindustrie vernetzen und schnellere Produktionsaufbauten ermöglichen.",
+      "seite": 10,
+      "zitat": "besser mit Investoren aus der deutschen Rüstungsindustrie zu vernetzen",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
-      "begruendung": "Stefan bewertet Parteien an ihrer Bereitschaft, Verteidigung wirklich zu finanzieren. Das Bekenntnis, Sondervermögen für verteidigungsrelevante Infrastruktur nutzbar zu machen, zeigt substanzielle Ernsthaftigkeit.",
-      "begruendung_selbst": "Warme Worte kenne ich genug. Wenn Geld fließt — und zwar das richtige Geld für die richtige Infrastruktur — dann reden wir über Ernsthaftigkeit.",
+      "begruendung": "Stefan weiß, dass Einsatzbereitschaft von der Lieferfähigkeit der Industrie abhängt. Eine stärkere regionale Rüstungsproduktion bedeutet kürzere Lieferketten und mehr Resilienz – beides zentrale Voraussetzungen für eine verlässlich ausgestattete Truppe.",
+      "begruendung_selbst": "Kurze Lieferketten, regionale Produktion – das ist Resilienz. Was in der Region produziert wird, kommt auch an.",
       "beleg_ok": true
     }
   ],
   "besonders_schlecht": [],
   "gesamt": {
-    "zusammenfassung": "Stefan findet im FDP-Programm für Sachsen-Anhalt ein klares Bekenntnis zu Verteidigungsinvestitionen und Rüstungsproduktion in Deutschland, Forschungsfreiheit ohne Zivilklauseln und die Absicht, das Sondervermögen für verteidigungsrelevante Infrastruktur zu nutzen. Das Programm entspricht seinen Erwartungen an eine ernsthafte Verteidigungspolitik auf Landesebene. Kein nennenswerter Reibungspunkt.",
-    "score": 2
+    "zusammenfassung": "Die FDP ist für Stefan die stärkste sicherheitspolitische Stimme im Landesprogramm: Sie benennt Abschreckung als Ziel, befürwortet hunderte Milliarden für Bundeswehr-Ausstattung, will diese Investitionen nach Sachsen-Anhalt holen, lehnt Zivilklauseln ab und will Rüstungsindustrie regional verankern. Kein anderes Programm ist in der Konsequenz von Verteidigungslogik und industrieller Rüstungspolitik so klar. Für Stefan ein deutlich positives Bild.",
+    "score": 1
   }
 }

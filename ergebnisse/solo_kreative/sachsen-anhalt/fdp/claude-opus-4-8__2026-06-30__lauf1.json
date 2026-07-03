@@ -20,82 +20,82 @@
   },
   "besonders_gut": [
     {
-      "titel_selbst": "Kreativwirtschaft endlich ernst genommen",
+      "titel_selbst": "Ein Schalter für alles",
+      "thema": "demokratie",
+      "programmpunkt": "Eine digitale One-Stop-Agency soll Verfahren bündeln und Gründerinnen aktiv begleiten.",
+      "seite": 8,
+      "zitat": "die Verfahren bündelt und Gründerinnen und Gründer aktiv begleitet",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Eine zentrale Anlaufstelle, die Verfahren bündelt, entlastet Mareike, die zwischen zersplitterten Zuständigkeiten allein navigieren muss.",
+      "begruendung_selbst": "Statt mich durch fünf Ämter zu telefonieren, eine Stelle, die mich begleitet. Das würde meinen Alltag entlasten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Junge Betriebe entfesseln",
       "thema": "wirtschaft",
-      "programmpunkt": "Kulturelle Vielfalt und Kreativwirtschaft sollen ermöglicht werden, ohne sie in Bürokratie zu ersticken.",
-      "seite": 43,
-      "zitat": "Wir wollen kulturelle Vielfalt ermöglichen, ohne sie in Bürokratie zu ersticken",
-      "bezug": "betrifft_mich",
-      "resonanz": "bestaetigt",
-      "begruendung": "Mareike lebt von der Kreativwirtschaft und fürchtet Förderkürzungen; die Aufwertung der Kreativwirtschaft bei gleichzeitigem Bürokratieabbau trifft ihre Existenzgrundlage.",
-      "begruendung_selbst": "Endlich wird meine Branche als Wirtschaft gesehen und nicht als Hobby - und das ohne neue Formulare. Das ist mein Thema.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Weniger Behördenkram für Kleinste",
-      "thema": "digitalisierung",
-      "programmpunkt": "Verwaltungsleistungen sollen durchgängig digital, ohne Medienbrüche und Papier nutzbar sein.",
-      "seite": 48,
-      "zitat": "vom Antrag bis zum Bescheid, ohne Medienbrüche und ohne Papier",
-      "bezug": "betrifft_mich",
-      "resonanz": "bestaetigt",
-      "begruendung": "Mareike ist von der Bürokratielast als Soloselbstständige überfordert; eine durchgängig digitale Verwaltung verringert ihren Verwaltungsaufwand spürbar.",
-      "begruendung_selbst": "Buchhaltung und Behörden fressen meine Zeit. Wenn das alles digital läuft, kann ich wieder arbeiten statt verwalten.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Gründer von Zwängen befreien",
-      "thema": "arbeit",
-      "programmpunkt": "Junge Unternehmen sollen von Dokumentationspflichten und Zwangsmitgliedschaften entlastet werden.",
+      "programmpunkt": "Junge Unternehmen sollen von Befragungen, Dokumentationspflichten und Zwangsmitgliedschaften entlastet werden.",
       "seite": 8,
       "zitat": "von Befragungen, Dokumentationspflichten und Zwangsmitgliedschaften soweit möglich entlastet",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Als Soloselbstständige empfindet Mareike Pflichten und Beiträge als unverhältnismäßig zur Betriebsgröße; eine Entlastung kommt ihr direkt zugute.",
-      "begruendung_selbst": "Ich bin ein Ein-Frau-Betrieb, kein Konzern. Weniger Zwangsbeiträge und Pflichten - genau das brauche ich.",
+      "begruendung": "Weniger Pflichtmitgliedschaften und Meldepflichten senken die Fixkosten und den Aufwand, die Mareike als Kleinste besonders spürt.",
+      "begruendung_selbst": "Zwangsbeiträge und Fragebögen fressen mein Geld und meine Zeit. Weniger davon hieße mehr Luft für die eigentliche Arbeit.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Steuerlast vereinfachen",
+      "titel_selbst": "Endlich gleichbehandelt",
       "thema": "steuern",
-      "programmpunkt": "Das Steuerrecht soll vereinfacht und Fälle doppelter Besteuerung abgeschafft werden.",
-      "seite": 9,
-      "zitat": "setzen uns im Land und im Bund für eine Vereinfachung des Steuerrechts ein",
+      "programmpunkt": "Die FDP fordert die Gleichbehandlung Selbstständiger und Freiberufler beim steuerfreien Zuverdienst der Aktivrente.",
+      "seite": 39,
+      "zitat": "die Gleichbehandlung Selbstständiger und Freiberufler",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Mareike erlebt Steuer- und Beitragslast als überfordernd; eine Vereinfachung des Steuerrechts senkt ihren Aufwand und entspricht ihrer Hoffnung.",
-      "begruendung_selbst": "Allein die Steuererklärung kostet mich Nerven und Geld. Vereinfachung wäre für Kleinste wie mich Gold wert.",
+      "begruendung": "Die Forderung, Selbstständige nicht schlechter zu stellen, greift Mareikes Erfahrung auf, steuerlich oft zwischen den Kategorien zu fallen.",
+      "begruendung_selbst": "Immer bin ich die Ausnahme, die leer ausgeht. Dass Selbstständige mal ausdrücklich gleichgestellt werden sollen, gefällt mir.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Antrag bis Bescheid digital",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungsleistungen sollen durchgängig digital nutzbar sein, ohne Medienbrüche und ohne Papier.",
+      "seite": 48,
+      "zitat": "vom Antrag bis zum Bescheid, ohne Medienbrüche und ohne Papier",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein durchgehend digitaler Behördenweg passt exakt zur digital-affinen Arbeitsweise der Soloselbstständigen.",
+      "begruendung_selbst": "Papierlos vom Antrag bis zum Bescheid, so arbeite ich sowieso. Das nimmt mir echten Reibungsverlust.",
       "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
     {
-      "titel_selbst": "Absichern? Mach's selbst",
+      "titel_selbst": "Privat vorsorgen? Womit denn?",
       "thema": "gesundheit",
-      "programmpunkt": "Bei der Vorsorge wird auf kapitalgedeckte Elemente und Anreize für private Vorsorge gesetzt.",
+      "programmpunkt": "Die FDP will kapitalgedeckte Elemente und Anreize für private sowie betriebliche Vorsorge stärken.",
       "seite": 70,
       "zitat": "Anreize für private sowie betriebliche Vorsorge gestärkt werden",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
-      "begruendung": "Mareikes Kernsorge ist die fehlende soziale Absicherung Soloselbstständiger; der Verweis auf private Vorsorge lässt ihr Risiko bei Krankheit, Flaute und Alter ungelöst.",
-      "begruendung_selbst": "Private Vorsorge - wovon denn, in den mageren Monaten? Genau da, wo ich Schutz brauche, lässt mich das allein.",
+      "begruendung": "Ein Kurs auf private Vorsorge setzt Rücklagen voraus, die Mareike bei schwankendem Einkommen kaum bilden kann; ihre Altersvorsorge bleibt ungelöst.",
+      "begruendung_selbst": "Privat vorsorgen klingt gut, wenn Geld übrig ist. Bei mir ist am Monatsende oft nichts da, das ich zurücklegen könnte.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Eigenverantwortung als Leerstelle",
-      "thema": "arbeit",
-      "programmpunkt": "Sozialpolitik betont Eigenverantwortung und 'Fördern und Fordern' statt Ausweitung sozialer Sicherung.",
-      "seite": 40,
-      "zitat": "den Menschen mehr von ihrem Geld zu lassen und ihnen Arbeit zu ermöglichen",
+      "titel_selbst": "Sozialstaat nur auf Bewährung",
+      "thema": "gesundheit",
+      "programmpunkt": "Sozialleistungen sollen Menschen nicht dauerhaft versorgen, sondern rasch zurück in den Arbeitsmarkt bringen.",
+      "seite": 39,
+      "zitat": "Sozialleistungen Menschen nicht dauerhaft versorgen",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
-      "begruendung": "Mareike fällt zwischen die sozialen Raster; eine auf Eigenverantwortung verengte Sozialpolitik bietet keine Antwort auf die Absicherungslücke der Soloselbstständigen.",
-      "begruendung_selbst": "Eigenverantwortung schön und gut - aber ich falle durch jedes Raster. Ein nettes Wort ersetzt keinen Schutz bei Krankheit.",
+      "begruendung": "In Auftragsflauten braucht Mareike ein verlässliches Netz; eine primär auf Aktivierung und Sanktion angelegte Sozialpolitik wirkt für sie unsicher.",
+      "begruendung_selbst": "Wenn die Aufträge wegbleiben, will ich kein Misstrauen, sondern ein Netz. Dieses Fördern-und-Fordern lässt mich zittern.",
       "beleg_ok": true
     }
   ],
   "gesamt": {
-    "zusammenfassung": "Mareike begrüßt die Aufwertung der Kreativwirtschaft, den Bürokratieabbau, die Entlastung von Zwangsmitgliedschaften und die Steuervereinfachung - all das trifft ihren Alltag als Soloselbstständige. Ihre tiefste Sorge, die fehlende soziale Absicherung, beantwortet das Programm jedoch mit privater Eigenvorsorge, was ihre Absicherungslücke gerade nicht schließt. Konkrete Entlastungen und ungelöste Existenzsicherung halten sich für sie die Waage.",
+    "zusammenfassung": "Die FDP bedient Mareikes unternehmerische Seite stark: One-Stop-Agency, Entlastung junger Betriebe, ausdrückliche Gleichbehandlung Selbstständiger und durchgehend digitale Verwaltung. Doch bei ihrer Kernsorge, der sozialen Absicherung, setzt sie auf private Vorsorge und einen aktivierenden, sanktionsbetonten Sozialstaat, was Mareikes prekäre Lage kaum auffängt. Für sie ein echtes Zwiespalt-Programm.",
     "score": 0
   }
 }

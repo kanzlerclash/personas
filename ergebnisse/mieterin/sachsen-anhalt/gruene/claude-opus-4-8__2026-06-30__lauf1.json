@@ -1,0 +1,88 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mietendeckel gegen steigende Mieten",
+      "thema": "wohnen",
+      "programmpunkt": "Die Grünen wollen zur Sicherung bezahlbaren Wohnraums Mietendeckel einsetzen.",
+      "seite": 91,
+      "zitat": "Mietendeckel eingesetzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein Mietendeckel ist genau das Instrument gegen Mietsteigerungen, das Carla sich für ihr aufgewertetes Viertel erhofft.",
+      "begruendung_selbst": "Endlich jemand, der die Mieten deckeln will – das nimmt mir die Angst vor dem nächsten Brief.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nahverkehr wird ausgebaut",
+      "thema": "verkehr",
+      "programmpunkt": "Die Grünen setzen sich für einen umfassenden Ausbau des öffentlichen Nahverkehrs ein.",
+      "seite": 27,
+      "zitat": "umfassenden Ausbau des öffentlichen Nahverkehrs",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein starker ÖPNV entspricht Carlas Wunsch nach einer autoarmen, gut vernetzten Stadt.",
+      "begruendung_selbst": "Mehr Busse und Bahnen – so wird meine Stadt ohne Auto lebbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rad kostenlos im Zug",
+      "thema": "verkehr",
+      "programmpunkt": "Die Grünen wollen die kostenfreie Fahrradmitnahme in Zügen des Nahverkehrs sichern.",
+      "seite": 28,
+      "zitat": "kostenfreie Mitnahme von Fahrrädern in Zügen des Nahverkehrs sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla kombiniert Rad und Bahn; die kostenfreie Mitnahme unterstützt ihren autofreien Alltag direkt.",
+      "begruendung_selbst": "Rad und Bahn ohne Extrakosten – genau so komme ich durch die Stadt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Autofreie Zonen für lebendige Viertel",
+      "thema": "verkehr",
+      "programmpunkt": "Die Grünen wollen autofreie Zonen einrichten.",
+      "seite": 93,
+      "zitat": "Einrichtung autofreier Zonen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Autofreie Zonen decken sich mit Carlas Bild einer autoarmen, lebenswerten Innenstadt.",
+      "begruendung_selbst": "Weniger Autos, mehr Leben im Viertel – das ist meine Stadt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnförderung für Leute ohne Eigenheim",
+      "thema": "wohnen",
+      "programmpunkt": "Die Grünen wollen Förderprogramme schaffen, die besonders Menschen ohne Eigenheim zugutekommen.",
+      "seite": 30,
+      "zitat": "Das kommt besonders Menschen ohne Eigenheim",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla besitzt kein Wohneigentum; eine Förderung, die gezielt Mieterinnen adressiert, spricht ihre Lage direkt an.",
+      "begruendung_selbst": "Endlich mal Förderung, von der auch ich als Mieterin etwas habe.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Grünen-Programm trifft Carlas Prioritäten fast durchgängig: Mietendeckel gegen steigende Mieten, gezielte Förderung für Menschen ohne Eigenheim sowie ein ausgebauter, radfreundlicher und teils autofreier ÖPNV. Aus ihrer mieter- und stadtpolitischen Sicht findet sie hier ihre Kernanliegen bestätigt.",
+    "score": 2
+  }
+}

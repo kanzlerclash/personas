@@ -12,7 +12,7 @@ TPL="prompts/llm-cli-vorlage.md"
 
 PARTEIEN=(cdu spd gruene afd fdp linke bsw)
 SLUGS=(landwirt handwerkerin pendler rentnerpaar polizist studentin_queer \
-       alleinerziehende pflegekraft eingebuergerte mieterin_berlin industriearbeiter \
+       alleinerziehende pflegekraft eingebuergerte mieterin industriearbeiter \
        energie_strukturwandel junge_familie_bau solo_kreative landaerztin soldat)
 
 valide() {  # 0 = vorhanden, wohlgeformt, mit Metadaten

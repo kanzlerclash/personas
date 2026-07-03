@@ -1,0 +1,125 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:57:04.330Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41172,
+    "output_tokens": 8840,
+    "cached_tokens": 0,
+    "total_tokens": 50012,
+    "dauer_ms": 185257,
+    "usd": 0.10926375
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Rüstungswirtschaft im Land!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die FDP will Sachsen-Anhalt als Standort für die Verteidigungsindustrie positionieren, gesetzliche Rahmenbedingungen für schnelleren Produktionsaufbau schaffen und lokale Zulieferer mit der Rüstungsindustrie vernetzen.",
+      "seite": 9,
+      "zitat": "Wir wollen, dass Sachsen-Anhalt vom Aufbau dieser industriellen Wertschöpfung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan erlebt täglich, wie Ausrüstungsmängel die Einsatzbereitschaft gefährden. Die Aussicht, dass Rüstungsproduktion und Wartungskapazitäten direkt in seinem Bundesland entstehen, signalisiert ihm, dass Materialengpässe strukturell angegangen werden – nicht nur mit Absichtserklärungen aus Berlin.",
+      "begruendung_selbst": "Wenn hier im Land endlich Rüstungsgüter produziert und gewartet werden, kommt vielleicht auch mal was bei der Truppe an. Das ist mehr als nur ein Lippenbekenntnis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Forschungsfreiheit ohne Zivilklausel!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die FDP lehnt Zivilklauseln an Hochschulen ab und will die Vernetzung zwischen Hochschullandschaft und Verteidigungsindustrie stärken.",
+      "seite": 10,
+      "zitat": "Zivilklauseln lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Stefan ist es frustrierend, wenn Universitäten sich per Selbstverpflichtung von wehrrelevanter Forschung ausschließen. Die klare Ablehnung von Zivilklauseln bestätigt seine Erwartung, dass Wissenschaft und Landesverteidigung zusammengehören.",
+      "begruendung_selbst": "Es kann nicht sein, dass Unis sich per Klausel aus der Verantwortung ziehen. Verteidigungsforschung gehört dazu – wer das Land schützen will, braucht auch die Köpfe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klare Kante bei Abschiebungen",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP fordert konsequente Durchsetzung der Ausreisepflicht, eine Abschiebungshafteinrichtung bis Ende 2027 und elektronische Fußfesseln als mildere Alternative.",
+      "seite": 11,
+      "zitat": "Ausreisepflichtige Ausländer müssen zügig das Land verlassen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan erwartet vom Staat, dass Gesetze durchgesetzt werden – das gilt für ihn auch im Migrationsrecht. Die klare Position zur Rechtsdurchsetzung bestätigt sein Verständnis von staatlicher Handlungsfähigkeit und innerer Sicherheit.",
+      "begruendung_selbst": "Wenn jemand ausreisepflichtig ist, dann hat das auch zu passieren. Ein Rechtsstaat, der seine eigenen Regeln nicht durchsetzt, verliert Glaubwürdigkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Polizei, klare Aufgaben",
+      "thema": "sicherheit",
+      "programmpunkt": "Die FDP hält an 7.000 Polizeistellen fest und will zusätzlich 1.200 Verwaltungsstellen schaffen, damit Vollzugsbeamte sich auf Kernaufgaben konzentrieren können.",
+      "seite": 52,
+      "zitat": "Wir halten an der Zielzahl fest, damit hochqualifizierte Beamtinnen und Beamte ihre Kernaufgaben wahrnehmen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soldat weiß Stefan, wie wichtig es ist, dass Fachpersonal sich auf den Kernauftrag konzentrieren kann. Die Parallele zur eigenen Truppe – weniger Verwaltung, mehr Einsatzfähigkeit – überzeugt ihn auch bei der Polizei.",
+      "begruendung_selbst": "Genau wie bei uns: Wenn die Leute mit Papierkram zugemüllt werden, leidet der Auftrag. Gut, dass die Polizei endlich Verwaltungskräfte bekommt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bündnistreue statt Sonderwege",
+      "thema": "verteidigung",
+      "programmpunkt": "Die FDP bekennt sich in der Präambel zur gesellschaftlichen Verantwortung und zum Zusammenhalt, ohne NATO-Skepsis oder Abrüstungsforderungen zu formulieren. Das Programm enthält keine Positionen, die das Bündnis infrage stellen.",
+      "seite": 3,
+      "zitat": "Wir glauben an die Kraft der Mitte, wir wissen, dass es immer mehr als zwei Lösungen gibt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan ist erleichtert, dass das Programm keine NATO-skeptischen oder isolationistischen Töne anschlägt. Für ihn ist das Fehlen bündnisfeindlicher Positionen ein wichtiges Signal – auch wenn Verteidigung primär Bundessache ist.",
+      "begruendung_selbst": "Endlich mal eine Partei, die nicht am Bündnis rüttelt. Ich brauche Verlässlichkeit – keine Debatten über NATO-Austritt oder Appeasement.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Verteidigung nur als Wirtschaftsthema?",
+      "thema": "verteidigung",
+      "programmpunkt": "Die FDP behandelt Verteidigung fast ausschließlich als wirtschaftliches Thema – Rüstungsproduktion, Arbeitsplätze, Wertschöpfung – ohne substanzielle Aussagen zu Ausrüstung, Einsatzbereitschaft, Truppenstärke oder Bündnisverpflichtungen.",
+      "seite": 9,
+      "zitat": "Die Verteidigungsindustrie wird damit zu einer zentralen Branche im Aufbau von industrieller Wertschöpfung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan vermisst ein klares Bekenntnis zur Truppe selbst: keine Aussagen zu Beschaffung, Materiallage, Übungsintensität oder personeller Ausstattung. Verteidigung wird auf Wirtschaftsansiedlung reduziert – das fühlt sich an, als würde der eigentliche Auftrag ausgeblendet.",
+      "begruendung_selbst": "Schön, dass Rüstungsjobs entstehen sollen. Aber wo steht was über meine Ausrüstung? Über die Einsatzbereitschaft? Ich bin nicht nur Wirtschaftsfaktor – ich bin Soldat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Wort zur NATO-Ostflanke",
+      "thema": "verteidigung",
+      "programmpunkt": "Das gesamte Programm enthält keine explizite Positionierung zur Bedrohungslage an der NATO-Ostflanke, zu Russland oder zur Bündnisverteidigung.",
+      "seite": 5,
+      "zitat": "Internationale Krisen wie die Corona-Pandemie, der Krieg in der Ukraine oder wachsende Handelskonflikte.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan ist die Bedrohungslage an der Ostflanke der zentrale sicherheitspolitische Referenzrahmen. Dass der Ukraine-Krieg nur als eine von mehreren Wirtschaftskrisen erwähnt wird, ohne klare Positionierung zur Bündnisverteidigung, enttäuscht ihn zutiefst.",
+      "begruendung_selbst": "Der Krieg in der Ukraine ist für mich keine Fußnote in der Wirtschaftspolitik. Das ist die Bedrohung, auf die ich mich jeden Tag vorbereite. Wo ist das Bekenntnis zur Landes- und Bündnisverteidigung?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sonderwirtschaftszone statt Sondervermögen?",
+      "thema": "verteidigung",
+      "programmpunkt": "Die FDP fordert Sonderwirtschaftszonen mit Steuererlass und Bürokratiebefreiung für Intel und Leuna, erwähnt aber das Sondervermögen Bundeswehr nicht und fordert keine prioritäre Ausstattung der Truppe.",
+      "seite": 7,
+      "zitat": "Steuern werden vollständig erlassen oder auf das vorgeschriebene Mindestmaß abgesenkt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan beobachtet mit Bitterkeit, dass für Wirtschaftsprojekte radikale Sonderregeln gefordert werden, während die Bundeswehr seit Jahren auf Material wartet. Die Diskrepanz zwischen wirtschaftspolitischer Entschlossenheit und verteidigungspolitischer Zurückhaltung stößt ihm auf.",
+      "begruendung_selbst": "Für Intel gibt's Steuerbefreiung und Turbo-Genehmigungen – und meine Kompanie wartet seit zwei Jahren auf neue Funkgeräte. Prioritäten sehen anders aus.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan nimmt das Programm als wirtschaftsliberal und sicherheitspolitisch dünn wahr. Die Ansiedlung von Rüstungsindustrie und die Ablehnung von Zivilklauseln begrüßt er, vermisst aber substanzielle Aussagen zu Ausrüstung, Einsatzbereitschaft und der Bedrohungslage an der NATO-Ostflanke. Verteidigung wird vorrangig als Wirtschaftsfaktor behandelt – das enttäuscht ihn als Soldat, der täglich mit Materialmängeln konfrontiert ist.",
+    "score": 0
+  }
+}

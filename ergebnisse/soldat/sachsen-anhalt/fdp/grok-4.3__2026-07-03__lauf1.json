@@ -1,0 +1,64 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:46:06.308Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49929,
+    "output_tokens": 1307,
+    "cached_tokens": 2752,
+    "total_tokens": 51236,
+    "dauer_ms": 11036,
+    "usd": 0.06413915
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Verteidigung endlich nach Sachsen-Anhalt holen!",
+      "thema": "verteidigung",
+      "programmpunkt": "Bundeswehr-Investitionen und Rüstungsproduktion gezielt nach Sachsen-Anhalt holen, lokale Zulieferer vernetzen und Forschungsfreiheit stärken.",
+      "seite": 9,
+      "zitat": "Wir wollen, dass Sachsen-Anhalt vom Aufbau dieser industriellen Wertschöpfung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan sieht hier direkte Unterstützung für die Stärkung der Verteidigungsindustrie und damit verbundene Ausrüstungsverbesserungen in seiner Region.",
+      "begruendung_selbst": "Endlich wird nicht nur geredet, sondern Produktion und Wertschöpfung hierher geholt – das stärkt unsere Truppe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zivilklauseln weg – Forschung muss frei sein!",
+      "thema": "verteidigung",
+      "programmpunkt": "Ablehnung von Zivilklauseln und Stärkung der Vernetzung zwischen Hochschulen und Verteidigungsindustrie.",
+      "seite": 10,
+      "zitat": "Zivilklauseln lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan erlebt täglich, wie Forschungseinschränkungen die Einsatzfähigkeit behindern; die klare Ablehnung passt zu seiner Forderung nach verlässlicher Ausrüstung.",
+      "begruendung_selbst": "Mit Zivilklauseln kann ich keine funktionsfähige Ausrüstung bekommen – endlich wird das ausgesprochen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Lokale Zulieferer mit Rüstung vernetzen!",
+      "thema": "verteidigung",
+      "programmpunkt": "Mittelständische Unternehmen aus der Automobilindustrie mit Rüstungsinvestoren vernetzen und Austauschformate schaffen.",
+      "seite": 10,
+      "zitat": "besser mit Investoren aus der deutschen Rüstungsindustrie zu vernetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan profitiert mittelbar von einer robusten heimischen Verteidigungsindustrie, die Materialengpässe beheben kann.",
+      "begruendung_selbst": "Wenn hier vor Ort produziert wird, haben wir endlich Material, das funktioniert.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Stefan bewertet das Programm positiv, weil es konkrete Maßnahmen zur Stärkung der Verteidigungsindustrie, zur Abschaffung von Forschungseinschränkungen und zur Ansiedlung von Rüstungsproduktion in Sachsen-Anhalt vorsieht. Diese Punkte treffen direkt seine täglichen Sorgen um Ausrüstung und Bündnisfähigkeit. Andere Themen berühren seine Lage kaum.",
+    "score": 2
+  }
+}

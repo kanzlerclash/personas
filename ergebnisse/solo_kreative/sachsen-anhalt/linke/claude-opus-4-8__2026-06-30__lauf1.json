@@ -7,7 +7,7 @@
   "zeitpunkt": "2026-06-30T00:00:00Z",
   "temperatur": 0,
   "lauf": 1,
-  "programm_stand": "beschlossen 19.03.2026",
+  "programm_stand": null,
   "prompt_version": "vergleich.v1",
   "erzeugt_via": "claude-code-subagent (ohne Gateway)",
   "metrik": {
@@ -20,58 +20,70 @@
   },
   "besonders_gut": [
     {
-      "titel_selbst": "Mindesthonorare – endlich faire Bezahlung!",
-      "thema": "wirtschaft",
-      "programmpunkt": "Verbindliche Mindesthonorare für Künstler:innen, gerade bei öffentlich geförderten Projekten.",
-      "seite": 70,
-      "zitat": "verbindliche Mindesthonorare für Künstler:innen",
-      "bezug": "meine_sicht_auf_andere",
-      "resonanz": "bestaetigt",
-      "begruendung": "Mareike kämpft mit schwankenden Honoraren und dünner Absicherung; verbindliche Mindesthonorare entsprechen ihrem Wunsch nach fairen Regeln für kreative Arbeit.",
-      "begruendung_selbst": "Endlich jemand, der sagt: Kreativarbeit hat einen Mindestpreis – genau daran scheitert es bei uns ständig.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Basishonorare für Selbstständige – das bin ich!",
-      "thema": "wirtschaft",
-      "programmpunkt": "Verlässliche Finanzierung der freien Kulturszene mit Tarifbindung und Basishonoraren für Selbstständige.",
+      "titel_selbst": "Basishonorare für Selbstständige",
+      "thema": "arbeit",
+      "programmpunkt": "Die Linke will Tarifbindung und Basishonorare für Selbstständige in der Kulturförderung verankern.",
       "seite": 71,
-      "zitat": "Basishonorare für Selbstständige",
-      "bezug": "meine_sicht_auf_andere",
-      "resonanz": "bestaetigt",
-      "begruendung": "Als Solo-Kreative fällt Mareike durch jedes Raster; Basishonorare und verlässliche Kulturförderung adressieren ihre Existenzgrundlage direkt.",
-      "begruendung_selbst": "Ich falle durch jedes Raster – Basishonorare für Selbstständige wären endlich mal ein Boden, auf den ich mich stellen kann.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Weniger Bürokratie in der Verwaltung – ja bitte!",
-      "thema": "digitalisierung",
-      "programmpunkt": "Verwaltungsprozesse entschlacken und eine spürbare Entlastung in den Abläufen der Verwaltung schaffen.",
-      "seite": 143,
-      "zitat": "spürbare Entlastung in den Abläufen der Verwaltung",
+      "zitat": "Tarifbindung und Basishonorare für Selbstständige",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Bürokratie- und Steuerlast überfordern Mareike als Kleinste; ein erklärter Wille zu schlankeren, verlässlichen Verfahren trifft ihren Frust mit dem Aufwand.",
-      "begruendung_selbst": "Der Aufwand steht in keinem Verhältnis zu meiner Betriebsgröße – jede echte Entlastung im Behördenkram hilft mir sofort.",
+      "begruendung": "Verbindliche Basishonorare treffen Mareikes Alltag als projektbezogen arbeitende Kreative unmittelbar und sichern ihr Einkommen nach unten ab.",
+      "begruendung_selbst": "Ein Boden unter meinen Honoraren, das hätte ich gern. Dann muss ich nicht mehr jeden Auftrag unter Wert annehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mindesthonorare bei Förderung",
+      "thema": "familie",
+      "programmpunkt": "Bei öffentlich geförderten Projekten sollen verbindliche Mindesthonorare für Künstlerinnen gelten.",
+      "seite": 70,
+      "zitat": "verbindliche Mindesthonorare für Künstler:innen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mindesthonorare bei geförderten Projekten wirken direkt auf Mareikes Auftragskonditionen und schützen vor Selbstausbeutung.",
+      "begruendung_selbst": "Wenn öffentliches Geld fließt, sollen auch faire Honorare drin sein. Genau daran hängt bei mir oft die Miete.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rente, in die alle einzahlen",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke will eine gemeinsame gesetzliche Rentenversicherung, in die alle einzahlen.",
+      "seite": 44,
+      "zitat": "gesetzliche Rentenversicherung, in die alle einzahlen müssen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Eine Rentenversicherung, in die auch Selbstständige einbezogen werden, adressiert Mareikes ungelöste Altersvorsorge unmittelbar.",
+      "begruendung_selbst": "Meine Altersvorsorge ist ein Loch. Eine Rente, in die wir alle einzahlen, wäre für mich endlich ein Fundament.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Freibetrag schützt Kleine",
+      "thema": "steuern",
+      "programmpunkt": "Eine Gemeindewirtschaftssteuer soll einen einheitlichen Freibetrag von 24.500 Euro enthalten, damit kleine Existenzen geschützt bleiben.",
+      "seite": 18,
+      "zitat": "damit kleine Existenzen geschützt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein hoher Freibetrag mit degressiven Sätzen soll Kleinselbstständige entlasten, was Mareikes Sorge um Belastung der Kleinsten aufgreift.",
+      "begruendung_selbst": "Wenn ein Freibetrag kleine Existenzen wie meine ausdrücklich schützt, kann ich mit so einer Steuerreform leben.",
       "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
     {
-      "titel_selbst": "Neue Steuer auf Selbstständige – ausgerechnet wir!",
+      "titel_selbst": "Alle Einkommen in die Umlage?",
       "thema": "steuern",
-      "programmpunkt": "Gewerbesteuer zur Gemeindewirtschaftssteuer ausweiten und Solo-Selbstständige mit einem Freibetrag von 24.500 Euro einbeziehen.",
+      "programmpunkt": "Die geplante Gemeindewirtschaftssteuer bezieht alle selbstständig erwirtschafteten Einkommen in die Bemessung ein.",
       "seite": 18,
-      "zitat": "mit einem einheitlichen Freibetrag von 24.500 Euro",
+      "zitat": "Alle selbstständig erwirtschafteten Einkommen werden",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
-      "begruendung": "Mareike empfindet die Beitrags- und Steuerlast für die Kleinsten als überfordernd; die Einbeziehung von Solo-Selbstständigen in eine erweiterte Gewerbesteuer wirkt trotz Freibetrag wie eine neue Belastung.",
-      "begruendung_selbst": "Erst recht in den Flaute-Monaten fürchte ich jede zusätzliche Abgabe – mich noch in eine Gewerbesteuer zu ziehen, macht es nicht leichter.",
+      "begruendung": "Die Ausweitung der Bemessungsgrundlage auf alle Selbstständigen weckt bei der ohnehin abgabengeplagten Mareike die Sorge vor einer neuen Belastung, trotz Freibetrag.",
+      "begruendung_selbst": "Freibetrag hin oder her, sobald es heißt alle Selbstständigen werden einbezogen, werde ich hellhörig. Ich zahle jetzt schon genug.",
       "beleg_ok": true
     }
   ],
   "gesamt": {
-    "zusammenfassung": "Mareike findet bei der Linken starke Signale für ihre Branche: verbindliche Mindesthonorare, Basishonorare für Selbstständige und der Wille zu weniger Bürokratie. Eine echte Absicherung für Soloselbstständige bei Krankheit, Auftragsflaute und im Alter bleibt aber weitgehend ungeklärt, und die geplante Gemeindewirtschaftssteuer beunruhigt sie. Da das Programm Sachsen-Anhalt betrifft, wirkt es für ihre Berliner Lage vor allem als wohlwollende, aber lückenhafte Bestätigung.",
+    "zusammenfassung": "Die Linke adressiert Mareikes materielle Kernsorgen ungewöhnlich konkret: Basis- und Mindesthonorare für selbstständige Kreative, eine Rentenversicherung für alle und ein Freibetrag zum Schutz kleiner Existenzen. Die geplante Ausweitung der kommunalen Wirtschaftssteuer auf alle Selbstständigen weckt zugleich Vorbehalte. Für ihre Absicherung überwiegt klar das Positive.",
     "score": 1
   }
 }

@@ -1,0 +1,125 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:52:19.141Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69745,
+    "output_tokens": 7488,
+    "cached_tokens": 59008,
+    "total_tokens": 77233,
+    "dauer_ms": 140482,
+    "usd": 0.0765445
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen ist kein Spekulationsgut!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei fordert den Einsatz von Mietendeckeln und stellt klar, dass Wohnungen kein Spekulationsobjekt sind.",
+      "seite": 91,
+      "zitat": "Wohnen ist ein Grundrecht und Wohnungen sind kein Spekulationsobjekt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht in der Finanzialisierung des Wohnungsmarktes die Hauptursache für Verdrängung. Die klare Absage an Spekulation und die Forderung nach einem Mietendeckel treffen ihren Kernwunsch nach staatlicher Regulierung.",
+      "begruendung_selbst": "Endlich sagt mal jemand klar: Wohnen ist kein Aktienpaket! Ein Mietendeckel ist das Einzige, was uns vor den immer neuen Mieterhöhungen schützt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit der Verdrängung!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm zielt darauf ab, Gentrifizierung aktiv entgegenzuwirken, das kommunale Vorkaufsrecht auszuweiten und Bodenspekulation zu verhindern.",
+      "seite": 91,
+      "zitat": "Wir wollen Durchmischung fördern, Tauschprogramme unterstützen und Gentrifizierung entgegenwirken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der explizite Kampf gegen Gentrifizierung und die Stärkung kommunaler Instrumente gegen Bodenspekulation geben Carla die Hoffnung, dass ihr Viertel nicht weiter an Investoren abgetreten wird.",
+      "begruendung_selbst": "Wenn die Stadt endlich ihr Vorkaufsrecht nutzt und Investoren ausbremst, kann ich vielleicht auch in zehn Jahren noch in meinem Kiez leben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Viertel gehört den Menschen!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will autoarme Quartiere fördern, Durchgangsverkehr begrenzen und das Prinzip der 15-Minuten-Stadt umsetzen.",
+      "seite": 93,
+      "zitat": "Wir fördern autoarme Quartiere durch Begrenzung des Durchgangsverkehrs sowie Erleichterungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als autofreie Großstädterin, die das Rad und den ÖPNV nutzt, begrüßt Carla die Rückgewinnung von Straßenraum und die Fokussierung auf Nahmobilität und Aufenthaltsqualität.",
+      "begruendung_selbst": "Die Straßen sind für Menschen da, nicht für parkende SUVs. Wenn mein Viertel endlich autofrei wird, steigt die Lebensqualität enorm.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Klimaschutz darf nicht vertreiben!",
+      "thema": "wohnen",
+      "programmpunkt": "Energetische Sanierungen sollen mit Mieterschutz und fairen Heizkosten verbunden werden, um Verdrängung durch die Wärmewende zu verhindern.",
+      "seite": 25,
+      "zitat": "energetische Sanierungen, Mieterschutz und faire Heizkosten zusammen gedacht werden müssen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carlas größte Angst ist die grüne Modernisierungsumlage, die sie aus ihrer Altbauwohnung drängen könnte. Die Verknüpfung von Klimaschutz und Mieterschutz beruhigt diese Existenzangst.",
+      "begruendung_selbst": "Ich habe panische Angst vor dem Brief mit der Modernisierung. Gut, dass die Grünen kapieren: Klimaschutz darf nicht über die Miete finanziert werden!",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ergebnisoffen prüfen? Lächerlich!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Einführung eines Mietenkatasters, das Transparenz über Mietpreise und Erhöhungen schaffen würde, soll nur ergebnisoffen geprüft werden.",
+      "seite": 91,
+      "zitat": "Die Einführung eines Mietenkatasters wollen wir ergebnisoffen prüfen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Carla ist ein Mietenkataster ein essenzielles Werkzeug, um Wuchermieten und illegale Erhöhungen aufzudecken. Die zögerliche Formulierung klingt für sie nach typischer politischer Hinhaltetaktik.",
+      "begruendung_selbst": "Ein Mietenkataster ist das schärfste Schwert gegen Wuchermieten. 'Ergebnisoffen prüfen' ist doch nur Politiker-Sprech für 'Wir machen es nicht'.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Geld für sozialen Wohnungsbau?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei bekennt sich dazu, Ausgaben und Einnahmen wieder auszugleichen und die Schuldenbremse nur verantwortungsvoll zu reformieren.",
+      "seite": 96,
+      "zitat": "Wir treten dafür ein, Ausgaben und Einnahmen wieder auszugleichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla weiß, dass der Markt das Problem nicht löst und der Staat massiv in kommunale Wohnungsbestände investieren müsste. Das Festhalten an der schwarzen Null signalisiert ihr, dass für die nötige Wohnungsbau-Offensive kein Geld da sein wird.",
+      "begruendung_selbst": "Wie wollen die denn tausende Sozialwohnungen bauen und Vorkaufsrechte nutzen, wenn sie krampfhaft an der schwarzen Null festhalten? Das geht nicht zusammen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vorkaufsrecht reicht nicht!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm setzt auf kommunale Vorkaufsrechte, vermeidet aber Forderungen nach der Enteignung oder Vergesellschaftung großer privater Wohnungsbestände.",
+      "seite": 98,
+      "zitat": "Deshalb wollen wir das kommunale Vorkaufsrecht sichern und ausweiten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aus Carlas Sicht sind große Immobilienkonzerne die Haupttreiber der Verdrängung. Dass die Grünen nur auf Vorkaufsrechte bei einzelnen Grundstücken setzen, statt den Bestand großer Konzerne anzugreifen, empfindet sie als zu schwach.",
+      "begruendung_selbst": "Vorkaufsrecht hilft bei einem einzelnen Haus, aber was ist mit den ganzen Blöcken, die den großen Konzernen gehören? Da trauen die sich wieder nicht ran.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wer zahlt die Sanierung?",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm fordert vereinfachte Sanierungsförderungen, schweigt aber zur strikten Deckelung oder Abschaffung der Modernisierungsumlage, die auf Mieter abgewälzt wird.",
+      "seite": 92,
+      "zitat": "Sanierungsförderungen werden vereinfacht und für einkommensschwache Haushalte zugänglich gemacht.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Auch wenn Mieterschutz an anderer Stelle erwähnt wird, fehlt Carla hier das explizite Verbot, Sanierungskosten über die Modernisierungsumlage auf die Mieter abzuwälzen. Solange die Umlage nicht gekappt wird, bleibt die Verdrängungsgefahr bestehen.",
+      "begruendung_selbst": "Der Staat gibt dem Vermieter Zuschüsse für die Dämmung, aber der wälzt trotzdem noch Kosten auf mich ab? Die Modernisierungsumlage muss endlich komplett weg!",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla sieht im Programm der Grünen viele ihrer zentralen Forderungen nach Mietregulierung, Schutz vor Verdrängung und einer autoarmen Stadt wieder. Die explizite Absage an Spekulation und die Forderung nach einem Mietendeckel geben ihr Hoffnung, auch wenn sie das Festhalten an der Schuldenbremse und die zögerliche Haltung bei Enteignungen als Hindernisse für eine echte Wohnungswende kritisiert. Insgesamt überwiegt die Zustimmung, da die Partei das Thema Wohnen konsequent als Daseinsvorsorge und nicht als Marktgeschehen begreift.",
+    "score": 1
+  }
+}

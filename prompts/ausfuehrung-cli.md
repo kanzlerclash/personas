@@ -42,7 +42,7 @@ und die statische Seite unverändert weiterfunktionieren und die Modelle verglei
 
 ## Die 16 Persona-Slugs
 `landwirt, handwerkerin, pendler, rentnerpaar, polizist, studentin_queer,
-alleinerziehende, pflegekraft, eingebuergerte, mieterin_berlin, industriearbeiter,
+alleinerziehende, pflegekraft, eingebuergerte, mieterin, industriearbeiter,
 energie_strukturwandel, junge_familie_bau, solo_kreative, landaerztin, soldat`
 
 ## Ausgabe — genau eine Datei pro Persona

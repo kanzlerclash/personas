@@ -1,0 +1,161 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:56:59.752Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41168,
+    "output_tokens": 8483,
+    "cached_tokens": 0,
+    "total_tokens": 49651,
+    "dauer_ms": 162529,
+    "usd": 0.10372375
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Bürokratie-Overkill!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die FDP will Bürokratielasten für Bürger und Unternehmen deutlich senken, Berichtspflichten vereinfachen oder abschaffen und Genehmigungsverfahren verbindlich beschleunigen.",
+      "seite": 7,
+      "zitat": "Bürokratieabbau heißt am Ende: weniger Stillstand, mehr Tempo",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike empfindet den bürokratischen Aufwand für ihre Ein-Frau-Operation als völlig unverhältnismäßig. Die Aussicht auf weniger Berichtspflichten und schnellere Verfahren trifft genau ihren Schmerzpunkt im Alltag zwischen Akquise und Buchhaltung.",
+      "begruendung_selbst": "Ich verbringe Stunden mit Formularen, die für Konzerne gemacht sind – nicht für mich allein am Küchentisch. Wenn das wirklich weniger wird, kann ich endlich wieder arbeiten statt verwalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kultur ist Wirtschaft, nicht Luxus!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP anerkennt Kultur ausdrücklich als bedeutenden Wirtschaftsfaktor und will die Kreativwirtschaft sowie die Veranstaltungs- und Eventbranche stärker vernetzen und fördern.",
+      "seite": 44,
+      "zitat": "Kultur ist zugleich ein starker Wirtschaftsfaktor.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike fühlt sich mit ihrer kreativen Arbeit oft nicht als echte Wirtschaftsakteurin wahrgenommen. Dass die FDP die Kreativwirtschaft explizit als ökonomischen Faktor und Jobmotor anerkennt, bestätigt ihr Selbstverständnis als Unternehmerin.",
+      "begruendung_selbst": "Endlich sagt mal jemand, dass wir Kreativen nicht nur 'schön' sind, sondern auch Wirtschaft. Ich zahle Steuern, ich schaffe Werte – ich bin kein Hobby.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digital first – kein Papierkrieg mehr!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Verwaltung soll alle Leistungen durchgängig digital anbieten, Medienbrüche abschaffen und den Bearbeitungsstand von Anträgen online verfolgbar machen.",
+      "seite": 48,
+      "zitat": "Bürgerinnen, Bürger und Unternehmen sollen Verwaltungsleistungen durchgängig digital nutzen können",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als digital affine Soloselbstständige erwartet Mareike von Behörden dieselbe Effizienz wie von ihren eigenen Tools. Die Aussicht auf vollständig digitale, nachvollziehbare Verwaltungsprozesse ohne Papier und Medienbrüche entspricht ihrem Arbeitsalltag.",
+      "begruendung_selbst": "Ich mache alles digital – meine Projekte, meine Rechnungen, meine Kunden. Nur das Finanzamt schickt mir noch Briefe. Das muss endlich aufhören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Überstunden steuerfrei – ja bitte!",
+      "thema": "steuern",
+      "programmpunkt": "Die FDP will jede Überstunde steuerfrei stellen und die Einkommensteuer über eine Bundesratsinitiative senken.",
+      "seite": 40,
+      "zitat": "Gleichzeitig wollen wir jede Überstunde steuerfrei stellen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "In guten Monaten arbeitet Mareike weit über 40 Stunden, um für die Flaute vorzusorgen. Eine Steuerbefreiung für Mehrarbeit würde ihr direkt mehr finanziellen Spielraum geben und ihre schwankende Einkommenssituation etwas abfedern.",
+      "begruendung_selbst": "Wenn ich im guten Monat 60 Stunden reinbrenne, damit ich im schlechten überlebe, will ich nicht auch noch die Hälfte davon ans Finanzamt abdrücken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gründerinnen aktiv begleiten!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Land soll eine digitale One-Stop-Agency einrichten, die Gründerinnen und Gründer aktiv begleitet, Verfahren bündelt und junge Unternehmen in den ersten Jahren von Dokumentationspflichten entlastet.",
+      "seite": 8,
+      "zitat": "One-Stop-Agency, die Verfahren bündelt und Gründerinnen und Gründer aktiv begleitet",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike hat sich ohne institutionelle Unterstützung selbstständig gemacht und kennt das Gefühl, mit allen Anträgen allein gelassen zu sein. Eine zentrale Anlaufstelle und die Befreiung von Zwangsmitgliedschaften und Dokumentationspflichten in den Anfangsjahren würde ihr konkret helfen.",
+      "begruendung_selbst": "Am Anfang hätte ich jemanden gebraucht, der mir sagt, was ich wann wo einreichen muss – statt mich durch zehn verschiedene Ämter zu wühlen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Bürgergeld kürzen? Ich bin nicht das Problem!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will das Bürgergeld reformieren, Sanktionen konsequent ausschöpfen, gemeinnützige Arbeitspflichten einführen und Langzeitarbeitslose zur Bürgerarbeit verpflichten.",
+      "seite": 40,
+      "zitat": "Wir wollen, dass Langzeitarbeitslose zur Bürgerarbeit verpflichtet werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike weiß, wie schnell man zwischen die Räder geraten kann – eine Auftragsflaute, eine Krankheit, und sie selbst könnte auf Grundsicherung angewiesen sein. Die harte Sanktionslogik und Arbeitspflicht empfindet sie als Bedrohung und Stigmatisierung von Menschen in prekären Lagen, zu denen sie sich selbst zählt.",
+      "begruendung_selbst": "Ich bin eine schlechte Grippe und zwei abgesagte Projekte davon entfernt, selbst beim Jobcenter zu sitzen. Und dann soll ich zur 'Bürgerarbeit' gezwungen werden? Das ist doch keine Perspektive, das ist Demütigung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wo bleibt die Absicherung für mich?",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP setzt auf Eigenverantwortung und private Vorsorge im Alter, will die Pflegeversicherung um ein kapitalgedecktes Element ergänzen und Anreize für private Vorsorge stärken.",
+      "seite": 70,
+      "zitat": "ein kapitalgedecktes Element muss wie bei der Krankenversicherung ergänzt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike hat kaum Rücklagen und keine betriebliche Altersvorsorge. Der Verweis auf Eigenverantwortung und private Kapitaldeckung trifft sie an ihrer verwundbarsten Stelle: Sie kann schlicht nicht privat vorsorgen, wenn das Einkommen schwankt und die KSK-Beiträge schon am Limit sind.",
+      "begruendung_selbst": "Kapitalgedeckt? Wovon denn? In den Monaten, wo nichts reinkommt, kann ich nicht mal meine Krankenversicherung locker machen. 'Eigenverantwortung' ist ein Luxuswort für Leute mit festem Gehalt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kultur soll sich selbst tragen?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP erwartet von kulturellen Einrichtungen verantwortungsvolles und wirtschaftliches Handeln und betont, dass öffentliche Förderung Eigeninitiative und Eigeneinnahmen nicht ausschließt.",
+      "seite": 45,
+      "zitat": "Öffentliche Förderung ist die Grundlage freier kultureller Arbeit – sie schließt jedoch Eigeninitiative, Eigeneinnahmen und effiziente Strukturen nicht aus.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike kennt die Realität der Kreativszene: Viele Projekte tragen sich nicht rein marktwirtschaftlich. Die Betonung von Eigeneinnahmen und wirtschaftlichem Handeln klingt für sie nach einem schleichenden Rückzug des Staates aus der Kulturförderung, der ihre Existenzgrundlage bedroht.",
+      "begruendung_selbst": "Klar, ich will auch wirtschaftlich arbeiten. Aber wenn jedes Kulturprojekt sich selbst tragen muss, können wir gleich zu – dann bleibt nur noch Kommerz. Wer fördert das Experimentelle, das Kleine, das Neue?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Rundfunkbeitrag streichen – und dann?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP will den Rundfunkbeitrag für Unternehmen streichen, automatische Indexmodelle ablehnen und den Programmauftrag des ÖRR reduzieren.",
+      "seite": 43,
+      "zitat": "Wir setzen uns dafür ein, für Unternehmen den Rundfunkbeitrag zu streichen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Mediennutzerin und Kreative, die auf vielfältige, unabhängige Berichterstattung und Kultursendungen angewiesen ist, sieht Mareike die Schwächung des ÖRR mit Sorge. Die Beitragsstreichung für Unternehmen und die Reduktion des Programmauftrags deuten für sie auf eine Ausdünnung hin, die auch kulturelle Inhalte trifft.",
+      "begruendung_selbst": "Ich höre Deutschlandfunk, ich gucke Arte – das ist mein Fenster zur Welt. Wenn der ÖRR immer weiter zusammengestrichen wird, wer macht dann noch Qualitätsjournalismus und Kultur?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozial ist nur, wer sich's leisten kann",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP betont, dass Sozialleistungen Menschen befähigen sollen, schnellstmöglich in den Arbeitsmarkt zurückzukehren, und sieht Leistungsausweitungen aufgrund steigender gesellschaftlicher Erwartungshaltungen kritisch.",
+      "seite": 39,
+      "zitat": "Ursächlich hierfür sind neben Fehlanreizen auch eine zunehmende Leistungsausweitung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike empfindet die Rhetorik von 'Fehlanreizen' und 'Erwartungshaltungen' als pauschales Misstrauen gegenüber Menschen, die auf Unterstützung angewiesen sind. Sie selbst bewegt sich in einem System ohne Sicherheitsnetz und wünscht sich mehr, nicht weniger soziale Absicherung.",
+      "begruendung_selbst": "Erwartungshaltung? Ich erwarte, dass ich nicht in die Armut rutsche, wenn ich mal drei Monate krank bin. Ist das zu viel verlangt? Dieses Gerede von 'Fehlanreizen' trifft immer die Falschen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Privatisierung? Wer kauft dann meine Kultur?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP fordert eine umfassende Privatisierungsoffensive bei Landesbeteiligungen, da staatliche Unternehmen unwirtschaftlich seien und den freien Markt verzerren.",
+      "seite": 9,
+      "zitat": "Für uns ist Privatisierung kein Unwort, sondern eine hinreichende Ausweitung wirtschaftlicher Freiheit.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike befürchtet, dass eine umfassende Privatisierung auch kulturelle Infrastruktur und öffentliche Einrichtungen betreffen könnte, von denen die Kreativszene abhängt. Die reine Marktlogik ohne Rücksicht auf Gemeinwohlleistungen bedroht aus ihrer Sicht die Grundlagen ihres Ökosystems.",
+      "begruendung_selbst": "Wenn alles privatisiert wird, was passiert dann mit den städtischen Bühnen, den Kulturhäusern, den Atelierflächen? Der Markt interessiert sich nicht für Nischen – der will Rendite.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet bei der FDP starke Impulse für Bürokratieabbau und digitale Verwaltung, die ihren Alltag als Soloselbstständige konkret erleichtern würden. Auch die Anerkennung der Kreativwirtschaft als Wirtschaftsfaktor und steuerliche Entlastungen bei Mehrarbeit sprechen sie an. Gleichzeitig stößt sie sich fundamental an der liberalen Betonung von Eigenverantwortung und privater Vorsorge – genau dort, wo sie als Kreative mit schwankendem Einkommen durch jedes soziale Raster fällt. Die harte Sanktionslogik beim Bürgergeld und die Rhetorik von 'Fehlanreizen' empfindet sie als Bedrohung ihrer eigenen prekären Existenz.",
+    "score": -1
+  }
+}

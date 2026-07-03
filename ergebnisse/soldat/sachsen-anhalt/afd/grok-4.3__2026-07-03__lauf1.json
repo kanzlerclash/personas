@@ -1,0 +1,52 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:45:55.267Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 90308,
+    "output_tokens": 1305,
+    "cached_tokens": 128,
+    "total_tokens": 91613,
+    "dauer_ms": 12692,
+    "usd": 0.1180081
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Russland-Frieden ist naiv!",
+      "thema": "verteidigung",
+      "programmpunkt": "AfD will Sanktionen gegen Russland beenden und Frieden mit Russland anstreben",
+      "seite": 12,
+      "zitat": "Wirtschaftsschädliche Sanktionen beenden!",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan sieht in der Forderung nach Beendigung der Russland-Sanktionen eine direkte Schwächung der Abschreckung an der NATO-Ostflanke.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren – ich brauche ein klares Bündnis gegen Russland.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Putinversteher-Position gefährdet uns!",
+      "thema": "verteidigung",
+      "programmpunkt": "AfD verteidigt sich gegen den Vorwurf, Putinversteher zu sein, und betont Frieden mit Russland",
+      "seite": 3,
+      "zitat": "keinen Krieg mit Russland und Frieden in Europa wollen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Diese Haltung widerspricht aus Stefans Sicht der realen Bedrohungslage und untergräbt die Bündnistreue, die er täglich lebt.",
+      "begruendung_selbst": "Ich stehe für dieses Land ein – dann erwarte ich auch, dass das Bündnis verlässlich bleibt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet im Programm keine Unterstützung für eine starke Bundeswehr oder NATO-Treue. Stattdessen dominieren Positionen, die Russland-Sanktionen ablehnen und Frieden mit Russland betonen – genau das Gegenteil dessen, was er für seine Einsatzbereitschaft und die Ostflanke braucht.",
+    "score": -2
+  }
+}

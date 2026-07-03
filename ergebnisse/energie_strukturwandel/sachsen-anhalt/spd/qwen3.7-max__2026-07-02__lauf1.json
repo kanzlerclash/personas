@@ -62,13 +62,12 @@
       "thema": "klima",
       "programmpunkt": "Ein neues Klimaschutzgesetz soll verbindliche Reduktionspfade für Treibhausgasemissionen festschreiben.",
       "seite": 15,
-      "zitat": "Darin festgelegt werden Reduktionspfade für Treibhausgasemissionen, die Orientierung",
+      "zitat": "Reduktionspfade für Treibhausemissionen, die Orientierung und Planungssicherheit für Kommunen, Wirtschaft und Gesellschaft geben",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Ronny befürchtet, dass gesetzlich fixierte Reduktionspfade seine Anlage zur Schließung zwingen, bevor adäquater Ersatz für die Grundlast und seine Arbeitsplätze bereitsteht.",
       "begruendung_selbst": "Ein Gesetz kann noch keine Kilowattstunde produzieren. Wenn die Pfade starr sind, reißen sie uns die Brücke unter den Füßen weg, bevor das Neue steht.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Gas ist mehr als 'teuer'",

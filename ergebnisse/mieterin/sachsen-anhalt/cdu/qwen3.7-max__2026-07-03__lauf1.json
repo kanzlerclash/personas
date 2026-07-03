@@ -1,0 +1,101 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:47:34.334Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 47010,
+    "output_tokens": 8267,
+    "cached_tokens": 42112,
+    "total_tokens": 55277,
+    "dauer_ms": 154767,
+    "usd": 0.07252925
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Fokus auf Rad und ÖPNV!",
+      "thema": "verkehr",
+      "programmpunkt": "Ausbau von Radwegen, Förderung des Alltagsradelns und Erhalt des Deutschlandtickets.",
+      "seite": 63,
+      "zitat": "Wir wollen die Zahl der gebauten Radwege steigern und regionale Radwegekonzepte stärker unterstützen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla nutzt im Alltag kein Auto, sondern verlässt sich auf Rad und ÖPNV. Die Ankündigung, Radwege auszubauen und das Deutschlandticket zu erhalten, entspricht genau ihrer Forderung nach einer autoarmen, gut vernetzten Stadt.",
+      "begruendung_selbst": "Ich brauche keine freien Straßen für SUVs, sondern sichere Radwege und einen Takt, auf den ich mich verlassen kann. Das ist für meinen Alltag in der Stadt das Einzige, was zählt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kreativszene wird endlich ernstgenommen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU will die Kultur- und Kreativwirtschaft als Zukunftsbranche fördern und gezielt Startförderungen für Clubs und kreative Orte auflegen.",
+      "seite": 82,
+      "zitat": "Kreative Berufe schaffen Identität, Innovation und Beschäftigung, von Design über Film bis Clubkultur.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Angestellte im Kreativsektor freut sich Carla, dass ihre Branche nicht nur als nettes Beiwerk, sondern als relevanter Wirtschaftsfaktor und Identitätsstifter für das städtische Leben anerkannt und gefördert werden soll.",
+      "begruendung_selbst": "Wir sind nicht nur 'bunte Deko' für die Stadt, wir schaffen echte Werte und Kultur. Gut, dass das endlich auch die Politik kapiert und Orte wie unseren Club fördern will.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kein Schutz vor Verdrängung!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei lehnt Mietpreisdeckel und andere regulierende Eingriffe in den Wohnungsmarkt strikt ab und setzt auf den freien Markt.",
+      "seite": 65,
+      "zitat": "Wir lehnen ideologisch motivierte Markteingriffe wie Mietpreisdeckel, willkürliche Enteignungen und weitere",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Carla ist die Ablehnung von Mietregulierungen ein direkter Angriff auf ihre Existenz in ihrem Viertel. Sie sieht den freien Markt als Ursache für Verdrängung und fühlt sich durch diese Haltung schutzlos den Investoren ausgeliefert.",
+      "begruendung_selbst": "Wenn ihr den Mietpreisdeckel ablehnt, liefert ihr mich und mein Viertel direkt den Investoren aus. Wohnen ist Daseinsvorsorge, kein Spekulationsobjekt für euren 'freien Markt'!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Freie Fahrt für Autos? Nein!",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will Umweltzonen in Innenstädten aufheben und lehnt Tempo 30 auf Durchgangsstraßen ab, um den Autoverkehr nicht zu beschränken.",
+      "seite": 62,
+      "zitat": "Überholte Umweltzonen in Innenstädten wollen wir aufheben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla engagiert sich für eine lebenswerte, autoarme Innenstadt. Die Aufhebung von Umweltzonen und die Ablehnung von Tempo 30 stehen im völligen Widerspruch zu ihrer Vision von urbaner Lebensqualität und Sicherheit im Viertel.",
+      "begruendung_selbst": "Ihr wollt Umweltzonen kippen und Tempo 30 verhindern? Dann bleibt die Innenstadt laut, dreckig und gefährlich. Das ist genau die falsche Richtung für eine moderne Stadt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanierung bedeutet für mich Rauswurf",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei fördert energetische Sanierungen, ohne dabei den Schutz von Mietern vor Verdrängung durch Modernisierungsumlagen zu thematisieren.",
+      "seite": 65,
+      "zitat": "fördern den sozialen Wohnungsbau und unterstützen energetische und barrierefreie Sanierungen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla fürchtet Modernisierungen als Vorwand für Mieterhöhungen und Verdrängung. Dass die CDU Sanierungen fördern will, ohne Mieterschutz oder Kappungsgrenzen zu erwähnen, bestätigt ihre Angst vor dem Verlust der Altbauwohnung.",
+      "begruendung_selbst": "Jedes Mal, wenn ich 'energetische Sanierung' höre, weiß ich: Bald liegt die Kündigung oder eine unbezahlbare Umlage im Briefkasten. Ohne Mieterschutz ist das einfach nur Verdrängung im grünen Gewand.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zwangsarbeit ist keine Sozialpolitik!",
+      "thema": "gesundheit",
+      "programmpunkt": "Arbeitsfähige Sozialleistungsempfänger sollen zu gemeinnütziger Arbeit verpflichtet werden, wenn sie eine Beschäftigung verweigern.",
+      "seite": 30,
+      "zitat": "Wer eine staatliche Leistung bekommt und arbeitsfähig ist, der muss auch etwas zurückgeben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aus Carlas progressiver und solidarischer Sicht ist die Androhung von Zwangsarbeit für Bedürftige eine entwürdigende Stigmatisierung. Sie erwartet von einer sozialen Politik Unterstützung und Augenhöhe, nicht Bestrafung.",
+      "begruendung_selbst": "Leute, die ohnehin schon am Rand stehen, mit Zwangsarbeit zu drangsalieren, ist zutiefst unsolidarisch. Sozialpolitik sollte Menschen auffangen, nicht wie im 19. Jahrhundert bestrafen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm bietet Carla mit dem Fokus auf Radverkehr und die Kreativwirtschaft zwar punktuelle Lichtblicke, scheitert aber an ihren existenziellen Ängsten. Die strikte Ablehnung von Mietregulierungen, die blinde Förderung von Sanierungen ohne Mieterschutz und die autozentrierte Verkehrspolitik bestätigen ihre Befürchtung, dass die CDU den freien Markt über den Schutz vor Verdrängung stellt.",
+    "score": -2
+  }
+}

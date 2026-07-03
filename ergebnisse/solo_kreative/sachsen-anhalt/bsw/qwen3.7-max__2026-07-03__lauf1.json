@@ -1,0 +1,113 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T08:02:06.278Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66041,
+    "output_tokens": 8841,
+    "cached_tokens": 59008,
+    "total_tokens": 74882,
+    "dauer_ms": 164201,
+    "usd": 0.082407
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich wird die KSK gestärkt!",
+      "thema": "arbeit",
+      "programmpunkt": "Die soziale Lage von Künstlern und Kulturschaffenden soll durch eine Reform der Künstlersozialkasse und besseren Schutz vor Altersarmut verbessert werden.",
+      "seite": 40,
+      "zitat": "Reform der Künstlersozialkasse, besseren Schutz vor Altersarmut und Verdienstausfällen sowie durch die Stärkung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike sorgt sich als Soloselbstständige massiv um ihre Altersvorsorge und die Absicherung bei Verdienstausfällen. Das explizite Bekenntnis zur Reform der KSK und zur Stärkung freier Akteure trifft den Kern ihrer existenziellen Hoffnungen.",
+      "begruendung_selbst": "Wenn ich krank werde oder die Aufträge wegbleiben, fange ich keinen Schutz auf. Dass die KSK endlich reformiert und Altersarmut bei Kreativen thematisiert wird, ist für mich ein absoluter Lichtblick.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Solidarisch versichert, nicht allein.",
+      "thema": "gesundheit",
+      "programmpunkt": "Einführung einer solidarischen Bürgerversicherung für alle, in die jeder einzahlt, um die Zwei-Klassen-Medizin zu überwinden.",
+      "seite": 56,
+      "zitat": "Wir fordern die Einführung einer solidarischen Bürgerversicherung für alle, um die Zwei-Klassen-Medizin zu überwinden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die hohen und schwankenden Krankenversicherungsbeiträge belasten Mareike in umsatzschwachen Monaten stark. Eine Bürgerversicherung, in die alle einzahlen, verspricht ihr eine fairere Lastenverteilung und mehr Sicherheit.",
+      "begruendung_selbst": "Als Selbstständige zahle ich mich in der Flaute fast kaputt an die Krankenkasse. Ein System, in das alle solidarisch einzahlen, würde mir endlich die Angst vor dem finanziellen Absturz nehmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Papierkram, mehr Kreativität.",
+      "thema": "digitalisierung",
+      "programmpunkt": "Aufbau eines landesweiten Unternehmensportals für medienbruchfreie digitale Verwaltung und Genehmigungen, um kleine Unternehmen und Selbstständige von Bürokratie zu entlasten.",
+      "seite": 21,
+      "zitat": "Für Unternehmen wollen wir ein landesweites Unternehmensportal mit einem einheitlichen Zugang für alle",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist digital-affin, aber völlig genervt von der analogen Bürokratie und den komplexen Antragsverfahren der Behörden. Ein zentrales, digitales Portal würde ihren Arbeitsalltag als Ein-Frau-Unternehmen spürbar erleichtern.",
+      "begruendung_selbst": "Ich verbringe viel zu viel Zeit mit Steuerzeug und Anträgen, statt zu designen. Ein echtes digitales Portal, wo ich alles an einer Stelle erledigen kann, wäre ein echter Gamechanger.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kultur ist Daseinsvorsorge, kein Luxus.",
+      "thema": "familie",
+      "programmpunkt": "Kultur wird als Teil der öffentlichen Daseinsvorsorge verstanden und die institutionelle Förderung auch für kleine, freie und soziokulturelle Projekte verstetigt.",
+      "seite": 40,
+      "zitat": "Die freie Szene braucht langfristige Perspektiven, etwa durch Kulturstiftungen oder vergleichbare Modelle, die",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Kreativwirtschaft und freie Szene leiden oft unter Projektitis und unsicherer Finanzierung. Die Anerkennung der freien Szene als systemrelevant und die Aussicht auf langfristige Perspektiven sichern Mareikes berufliches Umfeld.",
+      "begruendung_selbst": "Wir Kreativen werden oft als nettes Extra behandelt, das man bei Ebbe als erstes streicht. Zu hören, dass die freie Szene langfristige Perspektiven und verlässliche Strukturen braucht, gibt mir Hoffnung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ausgrenzung statt offener Gesellschaft.",
+      "thema": "integration",
+      "programmpunkt": "Forderung nach einer strengen Quote für den Anteil von Kindern mit Migrationshintergrund in Kindergärten und Schulklassen, um sogenannte Ghettoisierung zu verhindern.",
+      "seite": 65,
+      "zitat": "wobei eine Quote von 30 % nicht überschritten werden sollte.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike schätzt Offenheit und Diversität, besonders in der urbanen Kreativszene. Starre Quoten und die pauschale Problematisierung von Migrantenkindern widersprechen ihrem liberal-progressiven Menschenbild und ihrer Vorstellung einer inklusiven Gesellschaft.",
+      "begruendung_selbst": "In meiner Blase leben und arbeiten wir völlig selbstverständlich divers. Diese starren Quoten und das Gerede von 'Ghettoisierung' stempeln Menschen ab und spalten, statt zu integrieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Freie Szene unter Generalverdacht.",
+      "thema": "demokratie",
+      "programmpunkt": "Staatliche Förderprogramme für zivilgesellschaftliche Projekte sollen kritisch überprüft und auf politische Neutralität verpflichtet werden, um indirekte Parteienfinanzierung zu unterbinden.",
+      "seite": 14,
+      "zitat": "Förderstrukturen wie „Demokratie leben! – Partnerschaften für Demokratie“ müssen kritisch überprüft werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Kreative, die oft an der Schnittstelle von Kultur, Sozialem und politischer Bildung arbeitet, sieht Mareike in solchen Programmen wichtige Freiräume. Die pauschale Unterstellung, diese Projekte seien nur ideologische Ersatzparteien, bedroht die finanzielle Basis vieler freier Träger.",
+      "begruendung_selbst": "Viele meiner Kolleginnen und Kollegen machen wichtige Bildungs- und Kulturprojekte über solche Töpfe. Wenn die jetzt alle unter Ideologie-Verdacht gestellt und abgewürgt werden, stirbt die freie Szene.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zurück in die Mottenkiste.",
+      "thema": "familie",
+      "programmpunkt": "Ablehnung von staatlichen oder kommunalen Konzepten zu Themen wie Geschlecht, Sexualität oder Identität in Bildungseinrichtungen, um Kinder vor ideologischer Einflussnahme zu schützen.",
+      "seite": 39,
+      "zitat": "Staatliche und kommunale Einrichtungen dürfen keine ideologischen Konzepte zu Themen wie Geschlecht, Sexualität oder",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes progressives Weltbild umfasst die Akzeptanz queerer Identitäten und diverser Lebensentwürfe. Die Abwertung von Aufklärung über Geschlecht und Sexualität als Ideologie empfindet sie als rückständig und feindselig gegenüber Minderheiten.",
+      "begruendung_selbst": "Dass Aufklärung über Identität und Sexualität jetzt als 'Ideologie' gebrandmarkt wird, ist einfach nur rückwärtsgewandt. Das schützt keine Kinder, das macht das Leben für queere Menschen nur härter.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das Programm bietet Mareike mit der Reform der Künstlersozialkasse, der Bürgerversicherung und dem Bürokratieabbau direkte Antworten auf ihre größten existenziellen Nöte als Soloselbstständige. Gleichzeitig stoßen die konservativen bis rechtspopulistischen Positionen in der Migrations- und Gesellschaftspolitik sowie die pauschale Abwertung zivilgesellschaftlicher Projekte ihr liberal-progressives Weltbild massiv ab. Diese Zerrissenheit zwischen ökonomischer Hoffnung und kultureller Alienation führt zu einer ambivalenten Gesamtbewertung.",
+    "score": 0
+  }
+}

@@ -20,57 +20,57 @@
   },
   "besonders_gut": [
     {
-      "titel_selbst": "Künstlerförderung ausgebaut",
-      "thema": "wirtschaft",
-      "programmpunkt": "Programme zur Förderung von Künstlerinnen und Künstlern sollen ausgebaut werden, gerade in ländlichen Räumen.",
-      "seite": 70,
-      "zitat": "Programme zur Förderung von Künstler*innen auszubauen",
-      "bezug": "betrifft_mich",
-      "resonanz": "bestaetigt",
-      "begruendung": "Mareike fürchtet die Streichung von Kultur- und Kreativförderung; ein ausdrücklicher Ausbau der Künstlerförderung trifft ihre Existenzgrundlage.",
-      "begruendung_selbst": "Wenn Förderung ausgebaut statt gekürzt wird, ist das für jemanden wie mich überlebenswichtig.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Standort für Games und Content",
-      "thema": "digitalisierung",
-      "programmpunkt": "Sachsen-Anhalt soll zu einem attraktiven Standort für Games-Entwicklung werden, mit niedrigschwelliger Förderung kleiner Studios.",
-      "seite": 70,
-      "zitat": "attraktiven Standort für Games-Entwicklung",
-      "bezug": "betrifft_mich",
-      "resonanz": "bestaetigt",
-      "begruendung": "Mareike arbeitet im Kreativ- und Digitalbereich; die Förderung digitaler Kreativwirtschaft wie Games entspricht ihrem Tätigkeitsfeld.",
-      "begruendung_selbst": "Digitale Kreativarbeit ernst nehmen und niedrigschwellig fördern – endlich denkt mal jemand an Leute wie mich.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Mehr Geld für die Freie Szene",
-      "thema": "wirtschaft",
-      "programmpunkt": "Die Fördermittel für die Freie Szene sollen erheblich erhöht und mehrjährige Förderverträge zum Standard werden.",
-      "seite": 70,
-      "zitat": "Fördermittel für die Freie Szene erheblich erhöhen",
-      "bezug": "betrifft_mich",
-      "resonanz": "bestaetigt",
-      "begruendung": "Planungssicherheit fehlt Mareike bei schwankenden Aufträgen; höhere Mittel und mehrjährige Verträge für die Freie Szene würden ihr Verlässlichkeit geben.",
-      "begruendung_selbst": "Mehrjährige Verträge statt Förder-Lotterie – das wäre für mich endlich ein bisschen Planbarkeit.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Absicherung auch für Selbstständige",
+      "titel_selbst": "Alle in eine Versicherung",
       "thema": "gesundheit",
-      "programmpunkt": "Auf Bundesebene wird eine Bürgerversicherung befürwortet, die unabhängig vom Beschäftigungsstatus alle einbezieht.",
-      "seite": 76,
-      "zitat": "unabhängig vom Beschäftigungsstatus",
+      "programmpunkt": "Die Grünen setzen sich für eine Bürgerversicherung ein, in die alle einzahlen.",
+      "seite": 38,
+      "zitat": "dem Einsatz für eine Bürgerversicherung",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Mareike fällt als Soloselbstständige durch jedes soziale Raster; ein Solidarsystem unabhängig vom Beschäftigungsstatus spricht genau ihre fehlende Absicherung an.",
-      "begruendung_selbst": "Ich falle durch jedes Raster – ein System, das auch Selbstständige mitnimmt, wäre für mich ein echter Halt.",
+      "begruendung": "Eine Bürgerversicherung würde Soloselbstständige wie Mareike solidarisch einbinden und ihre unsichere Kranken- und Vorsorgesituation stabilisieren.",
+      "begruendung_selbst": "Wenn alle einzahlen, falle ich nicht länger durchs Raster. Genau so eine verlässliche Absicherung suche ich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mutterschutz auch für mich",
+      "thema": "arbeit",
+      "programmpunkt": "Selbstständige Frauen sollen gefördert und Mutterschutz auch für Selbstständige ermöglicht werden.",
+      "seite": 91,
+      "zitat": "Mutterschutz auch für Selbstständige",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als selbstständige Frau ohne betriebliche Absicherung profitiert Mareike direkt davon, dass Schutzrechte auf Selbstständige ausgeweitet werden.",
+      "begruendung_selbst": "Selbstständig zu sein heißt bisher: keinerlei Schutz. Dass hier auch an Frauen wie mich gedacht wird, ist selten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Alles über eine App",
+      "thema": "digitalisierung",
+      "programmpunkt": "Alle Verwaltungsdienstleistungen sollen über einen zentralen Zugang, die Sachsen-Anhalt-App, erreichbar sein.",
+      "seite": 89,
+      "zitat": "über einen zentralen Zugang erreichbar sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein einziger digitaler Zugang zu allen Verwaltungsleistungen spart der digital arbeitenden Mareike Wege und Zeit.",
+      "begruendung_selbst": "Eine App statt Behördenirrgarten, das ist meine Welt. So wird Verwaltung endlich zu etwas, das ich nebenbei erledige.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Runter mit der Bürokratie",
+      "thema": "demokratie",
+      "programmpunkt": "Dokumentations- und Berichtspflichten sollen reduziert und Verfahren beschleunigt werden.",
+      "seite": 89,
+      "zitat": "Wir wollen Bürokratie abbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Weniger Berichts- und Dokumentationspflichten entlasten gerade Kleinste, für die der Aufwand außer Verhältnis zur Betriebsgröße steht.",
+      "begruendung_selbst": "Jede gestrichene Meldepflicht ist ein halber Arbeitstag zurück für meine eigentliche Arbeit.",
       "beleg_ok": true
     }
   ],
   "besonders_schlecht": [],
   "gesamt": {
-    "zusammenfassung": "Mareike sieht ihre Anliegen als Solo-Kreative aufgegriffen: Ausbau der Künstler- und Freie-Szene-Förderung, ein Games-Standort und eine Bürgerversicherung, die auch Selbstständige absichert. Als Berlinerin profitiert sie von den Sachsen-Anhalt-Maßnahmen nur mittelbar, teilt aber klar die Richtung. Insgesamt fällt ihr Urteil positiv aus.",
+    "zusammenfassung": "Die Grünen greifen mehrere von Mareikes Kernanliegen auf: Bürgerversicherung, Mutterschutz für Selbstständige, ein zentraler digitaler Verwaltungszugang und Bürokratieabbau. Der Schwerpunkt liegt eher auf Handwerk, Gründung und Industrietransformation, doch für ihre Absicherung als Soloselbstständige bietet das Programm konkrete Ansätze. Insgesamt spürbar auf ihrer Seite.",
     "score": 1
   }
 }

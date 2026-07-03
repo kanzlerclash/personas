@@ -1,0 +1,90 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:45:15.244Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 57102,
+    "output_tokens": 1769,
+    "cached_tokens": 128,
+    "total_tokens": 58871,
+    "dauer_ms": 15719,
+    "usd": 0.0772156
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau für Kleine!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Bürokratieabbau und Belastungsmoratorium für Unternehmen, One-in-One-out-Prinzip",
+      "seite": 13,
+      "zitat": "Belastungsmoratorium für die Wirtschaft durchsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike leidet unter unverhältnismäßiger Bürokratie als Soloselbstständige; das Moratorium und vereinfachte Verfahren würden ihren Verwaltungsaufwand direkt senken.",
+      "begruendung_selbst": "Endlich weniger Formulare und Berichtspflichten – ich verbringe schon genug Zeit mit Buchhaltung statt mit Aufträgen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kreativwirtschaft als Zukunft anerkennen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Kultur- und Kreativwirtschaft als Zukunftsbranche fördern und Startförderungen auflegen",
+      "seite": 82,
+      "zitat": "Kultur- und Kreativwirtschaft als Zukunftsbranche weiterentwickeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Kreativschaffende profitiert Mareike von gezielter Förderung und Anerkennung ihrer Branche als wirtschaftlicher Faktor.",
+      "begruendung_selbst": "Endlich wird meine Branche nicht nur als Hobby gesehen, sondern als echtes Wirtschaftspotenzial.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Verwaltung – ein Gang reicht!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Digitale Verwaltungsprozesse und einmalige Dateneingabe statt mehrfacher Formulare",
+      "seite": 51,
+      "zitat": "Behördengang reicht. Weniger Formulare, mehr Service",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike nutzt digitale Kanäle intensiv; vereinfachte, papierlose Verfahren mit Datenweitergabe zwischen Behörden reduzieren ihren Aufwand spürbar.",
+      "begruendung_selbst": "Weniger Papierkram und ein einziges Mal Daten angeben – das spart mir Stunden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Fordern und Fördern – auch für Solo?",
+      "thema": "arbeit",
+      "programmpunkt": "Bürgerarbeit und verbindliche Arbeitsaufnahme für Leistungsempfänger, Fordern-und-Fordern-Prinzip",
+      "seite": 33,
+      "zitat": "Wer Hilfe braucht, soll sie unkompliziert",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike fällt als Soloselbstständige oft durch soziale Raster; eine stärkere Betonung von Pflichten ohne passgenaue Absicherung für Freelancer verschärft ihre Unsicherheit.",
+      "begruendung_selbst": "Ich falle schon durch jedes Raster – jetzt soll ich auch noch beweisen, dass ich 'genug leiste'?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine echte Absicherung für Kreative!",
+      "thema": "gesundheit",
+      "programmpunkt": "Keine spezifischen Maßnahmen zur sozialen Absicherung von Soloselbstständigen oder Stärkung der KSK",
+      "seite": null,
+      "zitat": null,
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Trotz Erwähnung von Kreativwirtschaft fehlen konkrete Vorschläge zu Krankenversicherung, Altersvorsorge oder KSK-Stabilität, die Mareikes zentrale Existenzsorgen betreffen.",
+      "begruendung_selbst": "Wenn Aufträge wegbleiben oder ich krank werde, gibt es immer noch keinen Schutz – das Programm lässt mich allein.",
+      "beleg_ok": null,
+      "beleg_hinweis": "kein Zitat/keine Seite"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike sieht positive Ansätze beim Bürokratieabbau, der Digitalisierung von Verwaltung und der Anerkennung der Kreativwirtschaft, die ihren Alltag erleichtern könnten. Gleichzeitig bleibt die fehlende soziale Absicherung für Soloselbstständige unadressiert, was ihre Kernängste nicht lindert. Insgesamt überwiegt leichte Zustimmung zu praktischen Erleichterungen.",
+    "score": 1
+  }
+}

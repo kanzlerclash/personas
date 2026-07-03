@@ -1,0 +1,78 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:45:26.944Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 48433,
+    "output_tokens": 1584,
+    "cached_tokens": 128,
+    "total_tokens": 50017,
+    "dauer_ms": 13961,
+    "usd": 0.06597435
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sozialer Wohnungsbau muss endlich stärker werden!",
+      "thema": "wohnen",
+      "programmpunkt": "Stärkung des sozialen Wohnungsbaus für bezahlbaren Wohnraum in Oberzentren und für junge Menschen",
+      "seite": 27,
+      "zitat": "Der soziale Wohnungsbau wird gestärkt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht im Ausbau sozialen Wohnungsbaus eine direkte Chance, bezahlbaren Wohnraum in ihrer aufgewerteten Innenstadt zu sichern und Verdrängung zu verlangsamen.",
+      "begruendung_selbst": "Endlich wird der soziale Wohnungsbau gestärkt – das könnte mir und anderen Mieterinnen helfen, bezahlbar zu bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutschlandticket und Radwege – endlich bezahlbar mobil!",
+      "thema": "verkehr",
+      "programmpunkt": "Langfristige Absicherung des Deutschlandtickets und Ausbau von Radverkehrsinfrastruktur sowie Förderung von Fahrradmitnahme",
+      "seite": 26,
+      "zitat": "Der Radtourismus als Wirtschaftsfaktor wird gemeinsam mit Kommunen weiterentwickelt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla nutzt täglich ÖPNV und Rad und begrüßt Maßnahmen, die ihre Mobilität ohne Auto günstiger und sicherer machen.",
+      "begruendung_selbst": "Das Deutschlandticket und bessere Radwege sind genau das, was ich brauche – ohne Auto komme ich so besser durch die Stadt.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Wärmewende darf keine zweite Miete werden!",
+      "thema": "wohnen",
+      "programmpunkt": "Forderung, dass klimafreundliche Wärmeversorgung bezahlbar bleibt und nicht zu zusätzlichen Kosten für Mieter führt",
+      "seite": 27,
+      "zitat": "Die klimafreundliche Wärmeversorgung darf keine zweite Miete werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla fürchtet steigende Nebenkosten durch energetische Sanierungen und sieht hier eine klare Schutzlinie für Mieter.",
+      "begruendung_selbst": "Genau – die Wärmewende darf nicht einfach auf uns Mieter abgewälzt werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nur Bauen, kein Schutz vor Verdrängung!",
+      "thema": "wohnen",
+      "programmpunkt": "Beschleunigung von Planungs- und Genehmigungsverfahren sowie serielles Bauen ohne zusätzliche Mieter-Schutzmechanismen",
+      "seite": 27,
+      "zitat": "Planungs- und Genehmigungsverfahren werden beschleunigt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla sieht in der reinen Beschleunigung von Bauverfahren ohne Mieterschutz oder Milieuschutz keine Lösung gegen steigende Mieten und Eigenbedarfskündigungen.",
+      "begruendung_selbst": "Sie bauen schneller, aber was schützt mich vor der nächsten Mieterhöhung oder Modernisierungsumlage?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet einzelne positive Ansätze beim sozialen Wohnungsbau und bei Mobilität, die ihre Lage als Mieterin direkt betreffen. Gleichzeitig vermisst sie konkrete Instrumente gegen Verdrängung und Mietsteigerungen, sodass das Programm ihre zentralen Sorgen nur teilweise adressiert.",
+    "score": 0
+  }
+}

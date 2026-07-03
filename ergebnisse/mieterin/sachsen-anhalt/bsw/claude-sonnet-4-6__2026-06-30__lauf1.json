@@ -1,0 +1,113 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen ist Daseinsvorsorge!",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW bekennt sich klar zu Wohnen als Daseinsvorsorge und lehnt die Spekulation mit Wohnraum explizit ab.",
+      "seite": 30,
+      "zitat": "Wohnen ist Teil der Daseinsvorsorge und darf nicht zum Spekulationsobjekt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carlas Grundüberzeugung ist: „Wohnen ist Daseinsvorsorge, kein Spekulationsgut.“ Das BSW formuliert exakt diese Haltung im Programm und macht sie zum Ausgangspunkt seiner Wohnpolitik.",
+      "begruendung_selbst": "Das ist Satz für Satz das, was ich denke. Endlich ein Programm, das Wohnen nicht als Investitionsgut, sondern als öffentliche Aufgabe begreift.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietendeckel! Jetzt!",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW unterstützt einen bundesweiten Mietendeckel als geeignetes Instrument zur wirksamen Begrenzung von Mietsteigerungen.",
+      "seite": 30,
+      "zitat": "Ein bundesweiter Mietendeckel ist dafür ein geeignetes Instrument",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Mietendeckel ist Carlas konkreter politischer Wunsch. Das BSW ist eine der wenigen Parteien, die ihn explizit befürworten – ein direkter Treffer auf ihren zentralen politischen Punkt.",
+      "begruendung_selbst": "Mietendeckel – das Wort klingt endlich mal an. Das ist kein Umweg, kein 'Markt wird's richten', das ist direkt. Das höre ich vom BSW.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine weiteren Privatisierungen!",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW lehnt weitere Privatisierungen von öffentlichen Wohnungen und Grundstücken ab, solange diese nicht dem Eigenbedarf dienen.",
+      "seite": 30,
+      "zitat": "Solange Wohnraum nicht dem Eigenbedarf dient, lehnen wir weitere Privatisierungen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht die Privatisierung öffentlichen Wohnraums als wesentlichen Treiber von Verdrängung und Spekulation. Das BSW zieht hier eine klare Grenze, die ihrer Grundhaltung entspricht.",
+      "begruendung_selbst": "Öffentliche Wohnungen dürfen nicht an Investoren verkauft werden. Das ist nicht verhandelbar. Gut, dass das BSW das genauso sieht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutschlandticket günstiger machen!",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW will das Deutschlandticket erhalten und perspektivisch günstiger machen, um ÖPNV für alle zugänglich zu halten.",
+      "seite": 33,
+      "zitat": "Das Deutschlandticket hat sich bewährt, muss erhalten bleiben und perspektivisch günstiger werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ist auf das Deutschlandticket angewiesen. Das BSW geht über bloßes Erhalten hinaus und will es perspektivisch günstiger machen – eine Entlastung, die Carla mit ihrer angespannten Haushaltslage entgegenkommt.",
+      "begruendung_selbst": "Günstiger als jetzt – das wäre wirklich etwas. Das Ticket ist schon gut, aber wenn es noch erschwinglicher wird, ist das eine echte Verbesserung für mich.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Lösung heißt Kauf? Nicht für mich.",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW sieht als Ziel auch, Mieterinnen den Erwerb einer eigenen Wohnung zu ermöglichen – und denkt Mieterschutz teilweise als Vorstufe zum Eigentumserwerb.",
+      "seite": 30,
+      "zitat": "Mietern den Erwerb einer eigenen Wohnung zu ermöglichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla kann und will in der Innenstadt kein Eigentum kaufen – ein Kauf ist für sie schlicht unerreichbar und auch nicht ihre Lösung. Der BSW-Ansatz, Mieterschutz teilweise als Weg zu Eigentumsbildung zu rahmen, hilft ihr in ihrer konkreten Lage nicht.",
+      "begruendung_selbst": "Ich will keine Eigentümerin werden, ich will sicher mieten können. Eigentumserwerb als Antwort auf das Mietenproblem trifft mich nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "QNG-Standards weg – und der Mietschutz?",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW lehnt verpflichtende Nachhaltigkeitszertifizierungen beim Bauen ab, weil sie Kosten erhöhen – aber ohne zu benennen, wie Mieterinnen bei energetischen Sanierungen geschützt werden.",
+      "seite": 31,
+      "zitat": "Eigentumsbildung für Normalverdiener erschweren",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das BSW priorisiert die Eigentumsbildung für 'Normalverdiener' als wohnpolitisches Leitmotiv und begründet damit den Verzicht auf Qualitätsstandards. Carla als Dauermieterin ist nicht diese Zielgruppe; ohne warmmietenneutrale Sanierungspflicht bleibt sie bei Renovierungen den Entscheidungen privater Vermieter ausgeliefert.",
+      "begruendung_selbst": "Eigentumsbildung für Normalverdiener – das bin ich nicht, und das will ich nicht. Ich will mieten. Was schützt mich dabei?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radverkehr: zu wenig Konkretes",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW nennt Radverkehr als wichtige Säule der Mobilitätspolitik, ohne jedoch konkrete Ausbauziele oder ein Radschnellwegenetz für Städte zu benennen.",
+      "seite": 33,
+      "zitat": "Der Ausbau des Radverkehrs ist eine wichtige Säule der Mobilitätspolitik",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla fährt täglich Rad und wünscht sich konkrete Infrastrukturverbesserungen. Das BSW bekennt sich zum Radverkehr prinzipiell, ohne messbare Ziele wie Radschnellwegenetze oder gesetzlich verankerte Förderquoten zu nennen.",
+      "begruendung_selbst": "Radverkehr als 'wichtige Säule' – okay, aber was konkret? Ich brauche sichere Radwege, jetzt. Prinzipienerklärungen sind kein Radweg.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das BSW trifft mit dem Bekenntnis zu Wohnen als Daseinsvorsorge, dem klaren Ja zu einem Mietendeckel und dem Nein zu weiteren Privatisierungen öffentlicher Wohnungen Carlas Kernüberzeugungen direkt. Das Deutschlandticket soll zudem günstiger werden. Einschränkend wirkt, dass das BSW Wohnpolitik teilweise über Eigentumsbildung denkt – ein Weg, der für Carla in ihrer Innenstadtlage nicht gangbar ist. Konkrete Mieterschutzinstrumente wie die Abschaffung der Modernisierungsumlage fehlen im Programm.",
+    "score": 1
+  }
+}

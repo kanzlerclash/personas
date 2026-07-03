@@ -1,0 +1,101 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Deutschlandticket bleibt!",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will das Deutschlandticket erhalten und den ÖPNV im Land verbessern.",
+      "seite": 62,
+      "zitat": "Das Deutschlandticket wollen wir erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ist autofreie ÖPNV-Nutzerin und auf das Deutschlandticket für ihre Alltagsmobilität angewiesen. Das Bekenntnis der CDU, es zu erhalten, entspricht ihrer konkreten Nutzungssituation.",
+      "begruendung_selbst": "Das Ticket ist für mich kein Nice-to-have, das ist mein tägliches Netz – gut, dass die CDU es nicht einfach abschaffen will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Radwege – endlich!",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will die Zahl der gebauten Radwege in Sachsen-Anhalt steigern und regionale Radwegekonzepte unterstützen.",
+      "seite": 63,
+      "zitat": "Wir wollen die Zahl der gebauten Radwege steigern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla nutzt das Fahrrad im Alltag und profitiert unmittelbar von einer besseren Radwegeinfrastruktur in der Stadt.",
+      "begruendung_selbst": "Ich fahre täglich Rad – sichere Radwege bedeuten für mich weniger Stress und mehr Sicherheit auf dem Weg zur Arbeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pflege bezahlbar halten",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU setzt sich für eine wohnortnahe Gesundheitsversorgung ein und will Pflege für Betroffene bezahlbar halten.",
+      "seite": 27,
+      "zitat": "Pflege für Betroffene bezahlbar halten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla hält Gesundheit und soziale Absicherung als Daseinsvorsorge für wichtig. Das Bekenntnis zu bezahlbarer Pflege entspricht ihrer Erwartung an den Sozialstaat.",
+      "begruendung_selbst": "Gesundheit ist keine Luxus-Dienstleistung. Wenn Pflege unbezahlbar wird, trifft das alle – das sehen wir wenigstens in der CDU auch so.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mietpreisdeckel? Abgelehnt!",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU lehnt staatliche Markteingriffe im Wohnungsmarkt wie Mietpreisdeckel oder Enteignungen explizit ab und setzt auf Neubau und Eigentumsförderung.",
+      "seite": 65,
+      "zitat": "Markteingriffe wie Mietpreisdeckel, willkürliche Enteignungen und weitere Eingriffe",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carlas zentrale Hoffnung ist eine wirksame Mietregulierung. Die CDU lehnt genau diese Instrumente explizit als „ideologisch motiviert“ ab – das trifft ihr politisches Grundanliegen direkt.",
+      "begruendung_selbst": "Die CDU nennt meinen größten Wunsch – Mietpreisdeckel – beim Namen und sagt Nein. Das ist keine Kleinigkeit, das ist die Kernfrage meines Lebens im Viertel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentum statt Mieterschutz",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU rahmt steigende Mieten als Problem, das Mieterinnen durch den Erwerb von Wohneigentum lösen sollen – Mieterschutzinstrumente für bestehende Mietverhältnisse fehlen.",
+      "seite": 65,
+      "zitat": "Eigentum schafft Heimatverbundenheit, schützt vor Mietsteigerungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla kann sich keinen Kauf in der Innenstadt leisten und will auch keinen – sie braucht Schutz als Mieterin. Die CDU bietet als Antwort auf Mietsteigerungen allein den Kauf an, was ihre konkrete Lage ignoriert.",
+      "begruendung_selbst": "Toll, Eigentum schützt vor Mietsteigerungen. Und wer, wie ich, kein Eigentum kaufen kann? Die Antwort der CDU: Pech gehabt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umweltzonen abschaffen!",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will Umweltzonen in Innenstädten als veraltet aufheben und lehnt ideologisch motivierte Fahrverbote ab.",
+      "seite": 62,
+      "zitat": "Überholte Umweltzonen in Innenstädten wollen wir aufheben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla lebt und bewegt sich ohne Auto in der Großstadt. Umweltzonen sind für sie eine Form von Stadtschutz – weniger Autoverkehr bedeutet bessere Luft, weniger Lärm und mehr Platz für Rad und ÖPNV. Die CDU-Position widerspricht ihrer Vorstellung von einer autoarmen Stadt.",
+      "begruendung_selbst": "Umweltzonen 'überholt'? Für mich als Radfahrerin ohne Auto bedeutet mehr Autoverkehr innenstadt mehr Dreck, mehr Gefahr, mehr Lärm. Das will ich nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Das CDU-Programm bietet Carla mit dem Bekenntnis zum Deutschlandticket und zum Radverkehrsausbau einige Übereinstimmungen in der Mobilitätspolitik. Im Kernbereich ihres Alltags – dem Mieterschutz – ist die CDU jedoch klar auf Gegenkurs: Die explizite Ablehnung von Mietpreisdeckeln und die Eigentumslogik als einzige Antwort auf Mietsteigerungen widersprechen direkt ihren Hoffnungen auf wirksame Regulierung. Die Forderung, Umweltzonen aufzuheben, steht zudem ihrer Vorstellung einer autoarmen, lebenswerten Stadt entgegen.",
+    "score": -1
+  }
+}

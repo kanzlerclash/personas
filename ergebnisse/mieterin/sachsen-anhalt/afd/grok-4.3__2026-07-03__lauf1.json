@@ -1,0 +1,66 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:46:00.124Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 90310,
+    "output_tokens": 1589,
+    "cached_tokens": 128,
+    "total_tokens": 91899,
+    "dauer_ms": 17268,
+    "usd": 0.1188856
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich keine Zwangssanierung!",
+      "thema": "energie",
+      "programmpunkt": "Abschaffung des Wärmeplanungs- und Gebäudeenergiegesetzes sowie Ende der Wärmepumpen-Förderung",
+      "seite": 13,
+      "zitat": "Wärmeplanungs- und Gebäudeenergiegesetz abschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla fürchtet Modernisierungsumlagen, die ihre Miete massiv erhöhen würden. Das Programm lehnt staatlichen Zwang im Wärmesektor ab und will die entsprechenden Gesetze abschaffen.",
+      "begruendung_selbst": "Ich will nicht, dass mir der Vermieter plötzlich die Wärmepumpe aufzwingt und die Miete hochgeht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Eigenheim nur für Familien mit Kindern!",
+      "thema": "wohnen",
+      "programmpunkt": "Zinsvergünstigter Kredit bis 300.000 Euro für Eltern unter 40 mit Nachwuchsprämie beim Hauskauf",
+      "seite": 4,
+      "zitat": "zinsvergünstigter Kredit bis zu einer Höhe von 300.000 Euro",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Das Programm fördert ausschließlich den Erwerb von Wohneigentum durch junge Familien mit Kindern. Für eine Mieterin ohne Kinder in der Innenstadt gibt es keinerlei Schutz oder Unterstützung.",
+      "begruendung_selbst": "Wieder nur was für die, die kaufen können – für mich als Mieterin bleibt nichts übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mieten und Verdrängung kein Thema!",
+      "thema": "wohnen",
+      "programmpunkt": "Fehlende Positionen zu Mieterschutz, Modernisierungsumlage oder Milieuschutz",
+      "seite": null,
+      "zitat": null,
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Im gesamten Programm finden sich keine Maßnahmen gegen steigende Mieten, Eigenbedarfskündigungen oder Verdrängung in innerstädtischen Altbauvierteln.",
+      "begruendung_selbst": "Kein Wort zu meinem größten Problem – als ob Mieten einfach so weiter steigen dürfen.",
+      "beleg_ok": null,
+      "beleg_hinweis": "kein Zitat/keine Seite"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla sieht in dem Programm keine Antwort auf ihre existenziellen Sorgen um bezahlbares Wohnen und Verdrängung. Die einzige positive Berührung ist die Ablehnung erzwungener energetischer Sanierungen. Ansonsten dominiert die Förderung von Wohneigentum für Familien, während Mieterinteressen komplett fehlen.",
+    "score": -2
+  }
+}

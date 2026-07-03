@@ -1,0 +1,101 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:54:59.239Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76973,
+    "output_tokens": 8175,
+    "cached_tokens": 63232,
+    "total_tokens": 85148,
+    "dauer_ms": 160090,
+    "usd": 0.087063
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Daseinsvorsorge ist kein Spekulationsgut!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei lehnt die Privatisierung von Krankenhäusern ab und fordert, dass Kommunen und das Land Vorrang vor privaten, gewinnorientierten Klinikkonzernen haben.",
+      "seite": 20,
+      "zitat": "Kommunen und das Land haben immer Vorrang vor privaten Käufern.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carlas Grundüberzeugung, dass essentielle Bereiche der Daseinsvorsorge nicht der reinen Marktlogik und dem Profitstreben ausgesetzt werden dürfen, wird hier direkt bestätigt. Sie sieht den Ausverkauf öffentlicher Infrastruktur an private Konzerne als Kernproblem, das die Partei in diesem Punkt ebenfalls kritisiert.",
+      "begruendung_selbst": "Endlich mal jemand, der kapiert, dass Gesundheit und Daseinsvorsorge keine Aktienpakete sind! Wenn private Konzerne nur auf Profit optimieren, leiden die Patienten und die Pflegekräfte. Da muss die Stadt das Ruder in der Hand behalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kommunale Wohnungen stärken!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm betont, dass soziale Wohnraumversorgung Teil der Daseinsvorsorge ist, und will kommunale Wohnungsgesellschaften finanziell unterstützen, um bezahlbaren Wohnraum zu schaffen und zu sanieren.",
+      "seite": 15,
+      "zitat": "Die soziale Wohnraumversorgung ist ein Element der Daseinsvorsorge.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla fordert seit langem eine Abkehr vom reinen Markt im Wohnungswesen und mehr gemeinwohlorientierten Wohnraum. Dass die Partei kommunale Wohnungsgesellschaften als unverzichtbar für bezahlbare Mieten anerkennt, deckt sich mit ihren Hoffnungen auf eine stärkere Rolle der öffentlichen Hand.",
+      "begruendung_selbst": "Dass hier mal jemand das Wort 'Daseinsvorsorge' für bezahlbares Wohnen in den Mund nimmt und die kommunalen Gesellschaften pushen will, ist genau das, was wir in den Städten brauchen. Ob die das am Ende wirklich so meinen, ist eine andere Frage – aber auf dem Papier ist das genau meine Forderung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Geldhahn für die Stadt zudrehen!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will die finanzielle Bevorzugung von Großstädten bei Förderprogrammen beenden und Mittel stattdessen massiv in den ländlichen Raum umleiten.",
+      "seite": 15,
+      "zitat": "Schluss mit der Bevorzugung der Städte!",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Bewohnerin einer aufgewerteten Großstadt in Sachsen-Anhalt ist Carla auf städtische Infrastruktur, Kultur- und Sozialprojekte angewiesen. Die pauschale Umverteilung von städtischen Fördergeldern in den ländlichen Raum bedroht direkt die Lebensqualität und die sozialen Einrichtungen in ihrem Viertel.",
+      "begruendung_selbst": "Wir in Halle oder Magdeburg zahlen eh schon die Zeche für die ganzen Strukturschwächen, und jetzt sollen uns auch noch die Fördergelder für Stadtteilprojekte und Infrastruktur gestrichen werden? Das ist doch pure Feindseligkeit gegen alles, was urban und lebendig ist!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radwege sind keine 'Waffe'!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm priorisiert das Auto mit Verbrennungsmotor, lehnt die Förderung von Lastenrädern ab und warnt davor, Radwege in Städten als 'Waffe gegen den Autoverkehr' zu nutzen.",
+      "seite": 16,
+      "zitat": "Bau von Radwegen gerade in den Städten nicht als Waffe gegen den Autoverkehr",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla lebt autofrei, nutzt ÖPNV und Rad und wünscht sich eine autoarme Stadt. Die aggressive Verteidigung des Autoverkehrs und die Abwertung von Radinfrastruktur als ideologische 'Waffe' steht im völligen Widerspruch zu ihrem Alltag und ihren verkehrspolitischen Forderungen.",
+      "begruendung_selbst": "Ich fahre jeden Tag mit dem Rad zur Arbeit und ärgere mich über jede fehlende Spur. Dass die Partei Radwege als 'Waffe' diffamiert und Lastenräder als Ideologie abtut, zeigt doch nur, dass sie null Ahnung vom echten Leben in der Stadt haben. Die wollen uns zurück in die 90er zwingen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nur Eigentümer werden belohnt!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei plant massive finanzielle Entlastungen für Immobilienkäufer durch die Halbierung der Grunderwerbsteuer und Eigenheimkredite, während konkrete Maßnahmen zum Mieterschutz oder zur Mietregulierung völlig fehlen.",
+      "seite": 19,
+      "zitat": "Grunderwerbsteuer von aktuell fünf Prozent auf zweieinhalb Prozent absenken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla ist Mieterin, für die ein Immobilienkauf in der Innenstadt unerreichbar ist. Die einseitige Subventionierung von Eigentum hilft ihr nicht gegen steigende Mieten und Modernisierungsdruck, sondern zementiert aus ihrer Sicht die Ungleichheit auf dem Wohnungsmarkt.",
+      "begruendung_selbst": "Was bringt mir eine halbierte Grunderwerbsteuer, wenn ich mir nicht mal eine halbe Eigentumswohnung in meinem Viertel leisten kann? Das ist ein reines Geschenk an Investoren und Besserverdiener, während wir Mieter mit unseren Ängsten vor Eigenbedarf und Modernisierung komplett allein gelassen werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kulturkampf gegen mein Viertel!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei will Fördermittel für kommunale Einrichtungen, Vereine und Projekte streichen, wenn diese als 'Regenbogenideologie' oder 'Genderismus' eingestuft werden.",
+      "seite": 15,
+      "zitat": "nur wenn sie den Bürgern dienen, nicht der perversen Regenbogenagenda.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla ist in einem progressiven, gemischten Innenstadtviertel verwurzelt und engagiert sich in lokalen Initiativen. Die Drohung, städtische Kultur- und Sozialprojekte aus ideologischen Gründen finanziell auszutrocknen, bedroht direkt das soziale Gefüge und die Vielfalt ihres Lebensumfelds.",
+      "begruendung_selbst": "In meinem Viertel gibt es bunte Initiativen, queere Jugendprojekte und offene Nachbarschaftstreffs. Wenn die an die Macht kommen und all diesen Projekten den Geldhahn zudrehen, weil ihre verquere Ideologie nicht passt, dann stirbt genau das, was unsere Stadt eigentlich lebenswert macht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet in den Forderungen nach kommunaler Daseinsvorsorge bei Krankenhäusern und im sozialen Wohnungsbau theoretische Ansatzpunkte, die ihre Ablehnung reiner Marktlogik spiegeln. Dennoch überwiegen die massiven Konflikte: Die pauschale Benachteiligung von Großstädten bei Fördergeldern, die aggressive Auto-Zentrierung im Verkehr, die einseitige Subventionierung von Immobilieneigentümern und der Kulturkampf gegen progressive städtische Projekte bedrohen direkt ihre Lebensrealität und ihr Viertel. Das Programm ist für eine urbane, autofreie Mieterin fundamental feindlich.",
+    "score": -2
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mobilität gehört allen!",
+      "thema": "verkehr",
+      "programmpunkt": "Die SPD will eine Mobilitätsgarantie für alle Regionen, sodass Erreichbarkeit nicht vom Wohnort abhängt – Bus und Bahn als verlässliches Angebot.",
+      "seite": 26,
+      "zitat": "Mobilität darf nicht vom Wohnort abhängen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ist auf ÖPNV angewiesen. Das Bekenntnis der SPD zu flächendeckender und bezahlbarer Mobilität als Daseinsvorsorge trifft ihre Alltagssituation als Stadtbewohnerin ohne Auto.",
+      "begruendung_selbst": "Genau das ist der Punkt: Wer kein Auto hat, darf nicht abgehängt werden. Mobilität ist keine Frage des Geldbeutels, sondern ein Recht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wärme darf nicht wuchern!",
+      "thema": "wohnen",
+      "programmpunkt": "Die SPD will verhindern, dass die Kosten der klimafreundlichen Wärmeversorgung vollständig auf die Mieterinnen abgewälzt werden.",
+      "seite": 27,
+      "zitat": "Wärmeversorgung darf keine zweite Miete werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla hat Angst vor explodierenden Nebenkosten durch energetische Sanierungen. Die SPD benennt dieses Problem direkt und verpflichtet sich, die Wärmekosten für Mieterinnen erschwinglich zu halten.",
+      "begruendung_selbst": "Endlich sagt das mal jemand: Klimaschutz darf nicht auf dem Rücken der Mieterinnen ausgetragen werden. Das ist genau das, wovor ich Angst habe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kommunale Wohnungen bleiben!",
+      "thema": "wohnen",
+      "programmpunkt": "Die SPD schließt den Verkauf kommunaler Wohnungsunternehmen zur Haushaltskonsolidierung aus und erklärt sie zur Daseinsvorsorge.",
+      "seite": 27,
+      "zitat": "Zwangsverkäufe zur Haushaltskonsolidierung werden ausgeschlossen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla begrüßt gemeinwohlorientierte Wohnungspolitik. Das Verbot von Zwangsverkäufen kommunaler Wohnungsunternehmen schützt den öffentlichen Wohnungsbestand, den sie als wichtiges Gegengewicht zu Marktspekulation betrachtet.",
+      "begruendung_selbst": "Kommunale Wohnungen dürfen nicht verkauft werden, nur weil gerade Haushaltslücken gestopft werden müssen. Das ist eine rote Linie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Krankenhaus nicht für Profit!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die SPD will eine Krankenhausversorgung, die sich an Qualität, Erreichbarkeit und Wirtschaftlichkeit orientiert – nicht an Kapitalinteressen.",
+      "seite": 9,
+      "zitat": "an den Kriterien Qualität, Erreichbarkeit und Wirtschaftlichkeit orientiert",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht Daseinsvorsorge als staatliche Aufgabe, nicht als Marktware. Das Bekenntnis der SPD zu einer Gesundheitsversorgung jenseits von Kapitalinteressen entspricht ihrer grundsätzlichen Haltung zur Rolle des Staates.",
+      "begruendung_selbst": "Was für Krankenhäuser gilt, muss auch für Wohnungen gelten: kein Spekulationsobjekt, sondern Daseinsvorsorge. Die SPD denkt das zumindest im Gesundheitsbereich richtig.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sozialer Wohnungsbau ohne mich",
+      "thema": "wohnen",
+      "programmpunkt": "Die SPD stärkt den sozialen Wohnungsbau insbesondere für altersgerechte Wohnungen, Familien und Studierende – nicht explizit für berufstätige Einzelpersonen in gentrifying Vierteln.",
+      "seite": 27,
+      "zitat": "Wohnraum für Familien in Oberzentren sowie junges Wohnen für Studierende",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla ist 35, berufstätig, Single oder in einer Zweier-Konstellation, lebt in einer privaten Altbauwohnung in einem sich aufwertenden Viertel. Die SPD-Wohnpolitik richtet sich hauptsächlich an andere Zielgruppen; ihr eigenes Mietverhältnis im privaten Markt bleibt ungeschützt.",
+      "begruendung_selbst": "Gut für Familien und Studierende – aber was ist mit mir? Ich bin 35, zahle Privatmiete in einem aufwertenden Viertel und werde nirgends genannt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Führerschein billiger? Falsche Priorität.",
+      "thema": "verkehr",
+      "programmpunkt": "Die SPD will den Führerschein günstiger machen – ein Mobilitätsangebot, das Carla als autofreie ÖPNV-Nutzerin nicht anspricht.",
+      "seite": 27,
+      "zitat": "Der Führerschein soll günstiger werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla fährt kein Auto und hat keins. Aus ihrer Perspektive fließt hier Aufmerksamkeit in eine Mobilitätsform, die sie nicht nutzt – statt diese Mittel in ÖPNV-Ausbau oder günstigere Tickets zu investieren.",
+      "begruendung_selbst": "Ich hab keinen Führerschein und will auch keinen. Günstiger Führerschein ist für mich kein Argument – lieber günstigeres Deutschlandticket.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leerstand auf dem Land – und ich?",
+      "thema": "wohnen",
+      "programmpunkt": "Die SPD setzt in der Wohnraumpolitik einen Schwerpunkt auf den Abbau von Leerstand im ländlichen Raum durch Abrissprogramme.",
+      "seite": 27,
+      "zitat": "Leerstand im ländlichen Raum",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla wohnt in der Innenstadt und ist von Aufwertungsdruck und steigenden Privatmieten betroffen – ein Problem des urbanen Wohnungsmarkts, nicht des ländlichen Leerstands. Die SPD-Wohnpolitik adressiert eher das Gegenproblem.",
+      "begruendung_selbst": "Leerstand auf dem Land ist ein echtes Problem – aber es ist nicht meins. Mein Problem ist, dass mein Viertel immer teurer wird und ich irgendwann raus muss.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die SPD trifft mit dem Schutz kommunaler Wohnungsunternehmen, der Wärmekostenbremse und dem Mobilitätsbekenntnis einige zentrale Anliegen Carlas. Das Programm denkt Daseinsvorsorge im Gesundheits- und Wohnbereich erkennbar mit. Lücken bleiben jedoch: Die private Mietpreisentwicklung in aufwertenden Innenstadtvierteln – Carlaskonkrete Lage – wird nicht durch Mietpreisbremse oder Modernisierungsumlage-Abschaffung adressiert. Der Fokus des sozialen Wohnungsbaus liegt auf anderen Zielgruppen als der berufstätigen Stadtmieterin.",
+    "score": 1
+  }
+}

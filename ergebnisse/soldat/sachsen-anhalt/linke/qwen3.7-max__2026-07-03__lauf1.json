@@ -1,0 +1,113 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:59:10.267Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82431,
+    "output_tokens": 6646,
+    "cached_tokens": 73856,
+    "total_tokens": 89077,
+    "dauer_ms": 125931,
+    "usd": 0.0724765
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich die Familien im Blick!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei fordert familienfreundliche Schichtmodelle und den Schutz vor Überlastung, um die Vereinbarkeit von Beruf und Familie zu verbessern.",
+      "seite": 86,
+      "zitat": "familienfreundliche Schichtmodelle,",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Dienst in der Bundeswehr mit seinen Bereitschaften und Übungen belastet das Familienleben stark. Stefans Wunsch nach verlässlicher Planung und Rücksicht auf die Familie wird hier zumindest im zivilen Sektor als Forderung erkannt.",
+      "begruendung_selbst": "Der Dienst frisst oft die Wochenenden. Wenn die Politik endlich versteht, dass Schichtarbeit die Familien belastet, ist das ein richtiger Schritt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Versorgung auf dem Land sichern!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm fordert den Erhalt und Ausbau der flächendeckenden, wohnortnahen medizinischen und ambulanten Versorgung, besonders im ländlichen Raum.",
+      "seite": 54,
+      "zitat": "für eine gute, flächendeckende, barrierefreie und bedarfsdeckende gesundheitliche Versorgung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Stefan mit seiner Familie in einer ländlichen Garnisonsregion lebt, ist er auf eine funktionierende zivile Infrastruktur für seine Familie angewiesen, wenn er selbst im Dienst oder im Einsatz ist.",
+      "begruendung_selbst": "Wenn ich auf Übung bin, muss ich mich darauf verlassen können, dass meine Familie vor Ort schnell einen Arzt findet.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Abrüsten gefährdet mein Leben!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei lehnt die Erhöhung der Militärausgaben ab und bezeichnet diese als Profitförderung für Rüstungskonzerne, die Mittel für Soziales rauben.",
+      "seite": 13,
+      "zitat": "gegen die Erhöhung der Militärausgaben, die nicht die Sicherheit,",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt täglich, wie fehlende Budgets die Einsatzbereitschaft und den Schutz der Truppe gefährden. Die pauschale Ablehnung von Verteidigungsinvestitionen empfindet er als direkten Angriff auf seine Sicherheit und seinen Auftrag.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Wenn ihr das Budget streicht, lasst ihr uns im Ernstfall im Stich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Russland und USA gleichsetzen?!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm stellt die USA und Russland auf eine Stufe, wenn es um die Propagierung von Krieg als Mittel nationaler Interessen geht, und lehnt nationale Kriegstüchtigkeit ab.",
+      "seite": 12,
+      "zitat": "Ob Russland oder die USA – der Krieg wird wieder als legitimes Mittel",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan ist die NATO das unverzichtbare Schutzbündnis. Die Gleichsetzung des Aggressors Russland mit dem Bündnispartner USA und die Ablehnung von Abschreckung widersprechen seinem sicherheitspolitischen Kompass völlig.",
+      "begruendung_selbst": "Wer den Aggressor im Osten und unser Schutzbündnis in einen Topf wirft, hat die Lage an der Ostflanke nicht verstanden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Hände weg von unseren Standorten!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Linke positioniert sich gegen die militärische Nutzung des Flughafens Leipzig-Halle und gegen die weitere Aufrüstung des Bundeswehrstandortes Holzdorf.",
+      "seite": 13,
+      "zitat": "gegen die weitere Hochrüstung des Standortes Holzdorf.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Holzdorf und die Colbitz-Letzlinger Heide sind zentrale Infrastrukturen für die Truppe in Sachsen-Anhalt. Deren Abbau oder Blockade würde Stefans Arbeitsumfeld, die Einsatzfähigkeit und die regionale Verankerung der Bundeswehr massiv beschädigen.",
+      "begruendung_selbst": "Wir brauchen funktionierende Standorte und Übungsräume, keine politischen Blockaden vor unserer Kasernentür.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Geheimdienste sind kein Selbstzweck!",
+      "thema": "sicherheit",
+      "programmpunkt": "Der Verfassungsschutz in seiner jetzigen Form wird als überflüssig abgetan und soll durch eine Agentur für Demokratie und Menschenrechte ersetzt werden.",
+      "seite": 129,
+      "zitat": "Ein Verfassungsschutz in seiner jetzigen Form ist überflüssig.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Soldat weiß Stefan um die Bedeutung von nachrichtendienstlichen Erkenntnissen für die eigene Sicherheit, etwa bei Spionage oder hybriden Bedrohungen. Die Abschaffung des Verfassungsschutzes hält er für naiv und gefährlich.",
+      "begruendung_selbst": "Wer den Verfassungsschutz abschaffen will, macht uns blind für die Feinde unserer Demokratie – im Inland wie im Ausland.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Europa muss wehrhaft sein!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei lehnt es ab, die Europäische Union zu einem militärischen Akteur in der globalen Auseinandersetzung zu entwickeln.",
+      "seite": 95,
+      "zitat": "Wir wenden uns dagegen, die EU zu einem weiteren militärischen Akteur",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan befürwortet eine starke europäische Säule der Verteidigung zur Entlastung und Absicherung. Die Ablehnung einer wehrhaften EU schwächt aus seiner Sicht die kollektive Sicherheit des Kontinents.",
+      "begruendung_selbst": "Wenn Europa sich nicht selbst verteidigen kann, werden wir erpressbar. Sicherheit braucht auch europäische Stärke.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Für Stefan ist das Programm der Linken in den Kernfragen seiner Existenz als Soldat ein einziger Affront. Die Ablehnung von Verteidigungsinvestitionen, die Gleichsetzung von NATO und Russland sowie die Forderung nach Abbau militärischer Infrastruktur und des Verfassungsschutzes widersprechen seinem Sicherheitsverständnis fundamental. Lediglich bei zivilen Themen wie der Vereinbarkeit von Familie und Schichtarbeit oder der ländlichen Gesundheitsversorgung findet er vereinzelt Zustimmung.",
+    "score": -2
+  }
+}

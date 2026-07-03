@@ -7,9 +7,9 @@
   "zeitpunkt": "2026-06-30T00:00:00Z",
   "temperatur": 0,
   "lauf": 1,
-  "programm_stand": "beschlossen 19.03.2026",
+  "programm_stand": null,
   "prompt_version": "vergleich.v1",
-  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
   "metrik": {
     "input_tokens": null,
     "output_tokens": null,
@@ -18,71 +18,72 @@
     "dauer_ms": null,
     "usd": null
   },
-  "besonders_gut": [],
+  "besonders_gut": [
+    {
+      "titel_selbst": "Demokratie als Schutzprinzip – das unterschreibe ich",
+      "thema": "demokratie",
+      "programmpunkt": "Die Linke fordert lebendige Demokratie vor Ort als besten Schutz gegen Rechtsextremismus und stellt dabei Demokratiestärkung über Überwachung.",
+      "seite": 15,
+      "zitat": "„Demokratie ist kein Luxus, sie ist der beste Schutz für uns alle”",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan schwört auf die Verfassung, nicht auf eine Partei. Der Satz, dass Demokratie kein Luxus, sondern Schutz ist, trifft seine Grundhaltung der wehrhaften Demokratie. Dass er von der Linken kommt, ändert nichts an seiner Richtigkeit.",
+      "begruendung_selbst": "Das stimmt – und ich sage es auch so. Demokratie ist das, was ich schütze. Nicht wegen einer Partei, sondern weil es mein Auftrag ist.",
+      "beleg_ok": true
+    }
+  ],
   "besonders_schlecht": [
     {
-      "titel_selbst": "Gegen mehr Verteidigungsausgaben – das ist absurd",
+      "titel_selbst": "Russland und USA gleichgesetzt – das ist keine Lageanalyse",
       "thema": "verteidigung",
-      "programmpunkt": "Die Linke streitet gegen die Erhöhung der Militärausgaben und sieht darin keine Sicherheitsverbesserung, sondern Profite für Rüstungskonzerne.",
-      "seite": 13,
-      "zitat": "gegen die Erhöhung der Militärausgaben",
-      "bezug": "betrifft_mich",
-      "resonanz": "kontraer",
-      "begruendung": "Stefan erlebt täglich die Folgen unzureichender Ausrüstung. Ausrüstungsmängel gefährden nach seiner Erfahrung nicht nur die Einsatzbereitschaft, sondern auch die Sicherheit der Soldatinnen und Soldaten. Das kategorische Nein zu Mehrausgaben ist für ihn kein abstraktes Politikstatement, sondern betrifft direkt seinen Dienst und seinen Auftrag.",
-      "begruendung_selbst": "Mit Ideologie kann ich keine Übung fahren. Wir haben Material, das nicht funktioniert. Wenn die Linke sagt, kein Geld für die Bundeswehr, dann sagt sie mir: Dein Problem interessiert uns nicht.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Gegen Wehrpflicht – meinen Nachwuchs gibt es nicht",
-      "thema": "verteidigung",
-      "programmpunkt": "Die Linke streitet gegen die schrittweise Einführung der Wehrpflicht und sieht darin eine Beraubung junger Menschen ihrer Freiheit.",
-      "seite": 13,
-      "zitat": "gegen die schrittweise Einführung der Wehrpflicht",
-      "bezug": "meine_sicht_auf_andere",
-      "resonanz": "kontraer",
-      "begruendung": "Die Wehrfähigkeit Deutschlands hängt auch von ausreichend Personal ab. Stefan sieht eine Wiedereinführung der Wehrpflicht als mögliche Antwort auf den Personalmangel der Truppe. Die Ablehnung durch die Linke – verbunden mit der moralisch aufgeladenen Framing-Sprache ('Beraubung ihrer Freiheit') – wertet seinen eigenen Beruf und seinen Dienst ab.",
-      "begruendung_selbst": "Ich habe mich freiwillig verpflichtet, für dieses Land einzustehen. Wenn die Wehrpflicht als Freiheitsraub bezeichnet wird, dann bezeichnet man das, wofür ich stehe, als etwas Schlechtes.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "'Kriegstüchtigkeit' – das ist kein Schimpfwort",
-      "thema": "sicherheit",
-      "programmpunkt": "Die Linke lehnt den Begriff und das Konzept der 'nationalen Kriegstüchtigkeit' ab, den sie als gefährliche Spirale von Militarisierung und Aufrüstung beschreibt.",
+      "programmpunkt": "Die Linke setzt in ihrer Friedensanalyse Russland und die USA als gleichermaßen kriegstreibende Mächte gleich.",
       "seite": 12,
-      "zitat": "sondern die Herstellung einer nationalen Kriegstüchtigkeit",
-      "bezug": "betrifft_mich",
-      "resonanz": "kontraer",
-      "begruendung": "Das Linke-Programm rahmt 'Kriegstüchtigkeit' als das Falsche, wofür andere Parteien stehen. Für Stefan als Berufssoldat ist Einsatzbereitschaft kein ideologischer Begriff, sondern sein Kernauftrag. Die Ablehnung dieses Konzepts delegitimiert aus seiner Sicht nicht nur die Verteidigungspolitik, sondern seine eigene Berufsrolle.",
-      "begruendung_selbst": "Kriegstüchtigkeit heißt für mich: Wir können uns verteidigen, wenn es drauf ankommt. Wenn das als Problem dargestellt wird, hat die Partei kein Verständnis dafür, was wir tun und warum.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Flughäfen nicht militärisch nutzen – direkte Einschränkung",
-      "thema": "verteidigung",
-      "programmpunkt": "Die Linke lehnt die militärische Nutzung des Flughafens Leipzig/Halle ab und positioniert sich gegen die weitere Ausrüstung militärischer Standorte wie Holzdorf.",
-      "seite": 105,
-      "zitat": "keine militärische Nutzung des Flughafens",
+      "zitat": "„Ob Russland oder die USA – der Krieg wird wieder als legitimes Mittel nationaler Interessen propagiert”",
       "bezug": "meine_sicht_auf_andere",
-      "resonanz": "kontraer",
-      "begruendung": "Militärische Infrastruktur – Flughäfen, Standorte, Logistikwege – ist der operative Unterbau von Stefans Arbeit. Die Forderung, militärische Nutzung von Flughafen-Infrastruktur zu unterbinden, schwächt konkret die logistischen Kapazitäten der Truppe. Solche Infrastrukturentscheidungen auf Landesebene haben direkte Folgen für Übungen und Einsatzbereitschaft.",
-      "begruendung_selbst": "Diese Infrastruktur ist nicht Dekoration. Wenn Logistikwege gekappt werden, fehlen sie im Ernstfall. Das ist keine Meinung, das ist operative Realität.",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan denkt an der NATO-Ostflanke. Für ihn ist Russland nicht dasselbe wie die USA – ein Land hat einen Angriffskrieg geführt, das andere ist sein Bündnispartner. Die Gleichsetzung untergräbt jede ernsthafte sicherheitspolitische Analyse und entwertet den Auftrag, dem er täglich folgt.",
+      "begruendung_selbst": "Diese Gleichsetzung zeigt, dass hier niemand sitzt, der die Lage kennt. Russland und die USA sind nicht dasselbe. Das ist keine Analyse – das ist Propaganda in eigener Sache.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "NATO-Ausgaben als Rüstungsprofit-Rede – das verletzt mich",
-      "thema": "sicherheit",
-      "programmpunkt": "Die Linke rahmt Rüstungsausgaben nicht als Sicherheitsinvestitionen, sondern als Gewinne für Rüstungskonzerne und beschreibt den Weg zur nationalen Verteidigungsfähigkeit als 'immer gefährlicher werdende Spirale von Militarisierung'.",
+      "titel_selbst": "Gegen Militärausgaben – Ausrüstungsmängel als Programm",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Linke positioniert sich ausdrücklich gegen die Erhöhung der Militärausgaben und sieht darin lediglich eine Förderung von Rüstungskonzernen.",
       "seite": 13,
-      "zitat": "Spirale von Militarisierung, Aufrüstung und Bedrohung",
+      "zitat": "„gegen die Erhöhung der Militärausgaben, die nicht die Sicherheit, sondern lediglich die Profitrate von Rüstungskonzernen verbessert”",
       "bezug": "betrifft_mich",
-      "resonanz": "kontraer",
-      "begruendung": "Stefan ist Berufssoldat an der NATO-Ostflanke. Die rhetorische Gleichsetzung von Verteidigungsausgaben mit Militarisierung und Aufrüstungs-'Spirale' negiert aus seiner Sicht die reale Bedrohungslage, die er im Dienst täglich einkalkuliert. Das Programm zeigt kein Verständnis für den Unterschied zwischen Aggression und Verteidigung.",
-      "begruendung_selbst": "Ich stehe für dieses Land ein. Wenn mein Dienst als Teil einer 'gefährlichen Spirale' beschrieben wird, bin ich nicht Schutzkraft, sondern Problem. Das ist eine Sicht auf Bundeswehr, die ich nicht akzeptieren kann.",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt Ausrüstungsmängel täglich. Wer Militärausgaben als bloße Konzernförderung abtut, versteht nicht, was mangelndes Material am Standort bedeutet. Diese Position untergräbt direkt seine Arbeitsfähigkeit und die Einsatzbereitschaft der Bundeswehr.",
+      "begruendung_selbst": "Ich weiß, was es bedeutet, wenn Material fehlt. Wer dann sagt, das ist alles nur für Konzerne, hat noch nie in einer Kaserne gearbeitet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Übungsgelände als Friedensprojekt",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Linke setzt sich für die friedliche Nutzung der Colbitz-Letzlinger Heide ein und positioniert sich gegen die militärische Nutzung.",
+      "seite": 13,
+      "zitat": "„für die friedliche Nutzung der Naturlandschaften (z.B. Colbitz-Letzlinger Heide) im Land”",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Colbitz-Letzlinger Heide ist das größte Truppenübungsgelände Mitteleuropas – direkt bei Stefans Garnison in der Altmark bei Letzlingen. Die Forderung nach friedlicher Nutzung bedeutet im Klartext: kein militärisches Training mehr. Das trifft Stefans Arbeitsgrundlage unmittelbar.",
+      "begruendung_selbst": "Dieses Gelände ist kein Naherholungsgebiet – das ist unser Hauptübungsplatz. Wer dort Naturpark will, schafft die militärische Ausbildungskapazität ab. Das geht nicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kriegstüchtigkeit abgelehnt – Wehrfähigkeit als Feindbild",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Linke kritisiert die 'Herstellung nationaler Kriegstüchtigkeit' als falsche Antwort auf die Sicherheitslage und lehnt diesen Ansatz aller anderen Parteien ab.",
+      "seite": 12,
+      "zitat": "„Die Antwort von AfD bis Grünen ist aber nicht der Einsatz für das Völkerrecht, Abrüstung und Interessensausgleich, sondern die Herstellung einer nationalen Kriegstüchtigkeit”",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan ist Kriegstüchtigkeit kein Schimpfwort – es ist sein Beruf. Dass die Linke Wehrfähigkeit als das Gegenteil von Frieden darstellt und alle anderen Parteien deshalb kritisiert, zeigt ein grundsätzlich anderes Verständnis von Sicherheit, das mit seinem Dienst unvereinbar ist.",
+      "begruendung_selbst": "Kriegstüchtigkeit ist das, wofür ich ausgebildet werde. Wer das als Problem sieht, sieht mich als Problem. Das ist kein Missverständnis – das ist ein grundsätzlicher Gegensatz.",
       "beleg_ok": true
     }
   ],
   "gesamt": {
-    "zusammenfassung": "Für Stefan als Berufssoldat an der NATO-Ostflanke ist das Linke-Programm in zentralen Punkten direkt kontraproduktiv: Es lehnt höhere Verteidigungsausgaben ab, positioniert sich gegen die Wehrpflicht-Diskussion, framt Verteidigungsbereitschaft als 'Militarisierung' und fordert Einschränkungen militärischer Infrastruktur. Das Programm enthält keinen einzigen Punkt, der Stefans professionelle Kernsorgen – Ausrüstung, Bündnistreue, Einsatzfähigkeit – aufgreift oder würdigt. Die anti-militärische Grundhaltung ist nicht nur eine politische Differenz, sondern trifft Stefan in seiner Berufsidentität.",
+    "zusammenfassung": "Die Linke und Stefan stehen in zentralen Punkten in direktem Widerspruch: Sie lehnt Militärausgaben ab, setzt Russland und die USA gleich, will das größte Truppenübungsgelände Mitteleuropas in Stefans direktem Arbeitsumfeld friedlich nutzen und erklärt Kriegstüchtigkeit zum Irrweg. Der einzige Schnittpunkt ist der Demokratie-Satz auf Seite 15. Für Stefan ist dieses Programm in seiner Verteidigungslogik nicht akzeptabel.",
     "score": -2
   }
 }

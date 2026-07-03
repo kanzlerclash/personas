@@ -59,14 +59,13 @@
       "titel_selbst": "Kostenlose Schulbücher, ja!",
       "thema": "bildung",
       "programmpunkt": "Das BSW fordert echte Lernmittelfreiheit in Sachsen-Anhalt, damit alle Schüler unabhängig von der sozialen Herkunft kostenfreien Zugang zu Schulbüchern und Arbeitsheften haben.",
-      "seite": 42,
-      "zitat": "Das BSW setzt sich dafür ein, eine echte Lernmittelfreiheit einzuführen.",
+      "seite": 43,
+      "zitat": "Das BSW setzt sich dafür ein, in Sachsen-Anhalt eine echte Lernmittelfreiheit einzuführen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Für Nadine sind die jährlichen Ausgaben für Schulbücher und Arbeitshefte eine spürbare Belastung. Die Forderung nach vollständiger Lernmittelfreiheit trifft genau ihren Alltag und bestätigt ihren Wunsch, dass Bildung nicht vom Geldbeutel abhängen darf.",
       "begruendung_selbst": "Jedes Jahr diese Listen mit Büchern, die ich kaufen muss – das reißt Löcher. Wenn das endlich kostenlos wäre, wäre meinen Kids geholfen.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Ganztagsschule gibt mir Luft!",
@@ -134,27 +133,25 @@
       "titel_selbst": "Selbstbestimmungsgesetz wird infrage gestellt!",
       "thema": "familie",
       "programmpunkt": "Das BSW orientiert sich an der biologischen Zweigeschlechtlichkeit und will die Auswirkungen des Selbstbestimmungsgesetzes überprüfen, insbesondere in Bezug auf Schutzräume und Minderjährige.",
-      "seite": 36,
-      "zitat": "Auswirkungen des Selbstbestimmungsgesetzes auf Minderjährige überprüft werden.",
+      "seite": 37,
+      "zitat": "die Auswirkungen des Selbstbestimmungsgesetzes auf Minderjährige und auf diese Schutzbereiche überprüft werden",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Nadine ist zwar primär mit Alltagsfragen beschäftigt, aber sie hat ein grundsätzliches Unbehagen bei Politik, die Minderheiten infrage stellt. Die skeptische Haltung zum Selbstbestimmungsgesetz signalisiert für sie ein konservatives Familienbild, das ihr eigenes Lebensmodell als Alleinerziehende potenziell ebenfalls abwertet.",
       "begruendung_selbst": "Wenn die anfangen, bei Minderheiten rumzumäkeln, frage ich mich, was die als Nächstes bei uns Alleinerziehenden bemängeln. Lasst die Leute doch in Ruhe.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Corona-Aufarbeitung? Meine Sorgen sind heute!",
       "thema": "demokratie",
       "programmpunkt": "Das BSW fordert einen parlamentarischen Untersuchungsausschuss zur Corona-Politik, Amnestie für Corona-Bußgelder und Rehabilitierung von Impfverweigerern.",
-      "seite": 15,
-      "zitat": "Wir fordern die Einsetzung eines parlamentarischen Untersuchungsausschusses.",
+      "seite": 16,
+      "zitat": "Wir fordern daher die Einsetzung eines parlamentarischen Untersuchungsausschusses im Landtag von Sachsen-Anhalt.",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Nadine hat die Corona-Zeit als belastend erlebt, aber sie blickt nach vorn. Die intensive Fokussierung auf Corona-Aufarbeitung wirkt auf sie, als würde die Partei sich an Themen abarbeiten, die für ihren aktuellen Alltag – Kita, Miete, Arbeit – keine Lösung bieten. Sie fragt sich, ob hier Energie in die falschen Prioritäten fließt.",
       "begruendung_selbst": "Corona war schlimm, ja. Aber jetzt brauche ich einen Kita-Platz und bezahlbare Miete. Warum verbringen die so viel Zeit mit diesem alten Thema?",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

@@ -1,0 +1,101 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:47:41.542Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 46997,
+    "output_tokens": 8667,
+    "cached_tokens": 42112,
+    "total_tokens": 55664,
+    "dauer_ms": 162006,
+    "usd": 0.075093
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Förder-Bürokratie!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU will die Kulturförderung vereinfachen, Antragsverfahren digitalisieren und Beratungen ausbauen, damit mehr Zeit für Inhalte bleibt.",
+      "seite": 81,
+      "zitat": "Damit mehr Zeit für Inhalte bleibt wollen wir die Antragsverfahren digitalisieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike leidet unter dem massiven Verwaltungsaufwand bei Förderanträgen für Kreativprojekte. Die Aussicht auf digitalisierte, schlanke Verfahren und bessere Beratung trifft genau ihren Wunsch nach weniger Bürokratie und mehr Zeit für die eigentliche kreative Arbeit.",
+      "begruendung_selbst": "Wenn ich für jeden kleinen Fördertopf stundenlang Formulare ausfüllen muss, bleibt die eigentliche Arbeit liegen. Endlich scheint jemand zu kapieren, dass uns dieser Papierkram erstickt!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kreative sind endlich Wirtschaft!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei erkennt die Kultur- und Kreativwirtschaft als Zukunftsbranche an und plant gezielte Förderungen sowie eine intensivere Zusammenarbeit.",
+      "seite": 82,
+      "zitat": "Kreative Berufe schaffen Identität, Innovation und Beschäftigung, von Design über Film bis Clubkultur.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soloselbstständige im Designbereich fühlt sich Mareike oft nicht als echte Wirtschaft wahrgenommen. Die explizite Nennung ihrer Branche als Innovationsmotor und die Ankündigung gezielter Förderungen geben ihr das Gefühl, dass ihre ökonomische Realität endlich anerkannt wird.",
+      "begruendung_selbst": "Wir sind nicht nur 'bisschen was mit Kunst', wir sind ein echter Wirtschaftsfaktor. Gut, dass das jetzt auch mal so benannt und gefördert werden soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Formulare, mehr Service!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Das Land will ein umfassendes Berichtsmoratorium einführen, Berichtspflichten begründen und befristen sowie digitale Verwaltungsstandards etablieren.",
+      "seite": 56,
+      "zitat": "Wir greifen diese Sorge auf und werden ein umfassendes Berichtsmoratorium in Angriff nehmen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die ständige Dokumentations- und Nachweispflicht gegenüber Finanzamt und Ämtern frisst bei Mareike unverhältnismäßig viel Zeit. Ein Moratorium und der Abbau unnötiger Meldepflichten würden ihren Arbeitsalltag als Ein-Personen-Unternehmen spürbar entlasten.",
+      "begruendung_selbst": "Ich bin Designerin, keine Vollzeit-Buchhalterin. Wenn das Land endlich aufräumt und unnötige Meldepflichten streicht, kann ich wieder Geld verdienen statt nur Formulare zu wälzen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Eigenverantwortung schützt nicht!",
+      "thema": "arbeit",
+      "programmpunkt": "Die CDU betont in der Sozial- und Wirtschaftspolitik stark das Prinzip der Eigenverantwortung und Leistungsbereitschaft, ohne spezifische Lösungen für die soziale Absicherung von Soloselbstständigen bei Krankheit oder Auftragsflaute anzubieten.",
+      "seite": 12,
+      "zitat": "Vertrauen in Leistung, Eigenverantwortung und Unternehmertum wieder stärken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike wünscht sich strukturelle Sicherheitsnetze für Soloselbstständige, etwa bei Krankheit oder unverschuldeter Auftragsflaute. Der reine Verweis auf Eigenverantwortung und unternehmerische Freiheit ignoriert ihre prekäre Realität, in der ein einziger Krankheitsmonat die Existenz bedroht.",
+      "begruendung_selbst": "Von 'Eigenverantwortung' kann ich meine Miete nicht zahlen, wenn ich drei Wochen krank im Bett liege und kein Krankengeld bekomme. Das ist keine Freiheit, das ist pure Angst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "KSK und Solo-Schutz fehlen!",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Gesundheitskapitel konzentriert sich auf Krankenhäuser, Landärzte und Pflege, lässt aber die spezifischen Probleme von Soloselbstständigen mit schwankenden Einkommen und hohen Krankenversicherungsbeiträgen völlig außen vor.",
+      "seite": 27,
+      "zitat": "Wir sichern eine flächendeckende medizinische Versorgung als Kern der Daseinsvorsorge.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Während das Programm ausführlich die Infrastruktur von Kliniken und Praxen behandelt, wird das für Mareike existenzielle Thema der bezahlbaren Kranken- und Pflegeversicherung bei schwankenden Solo-Einkommen komplett ignoriert. Sie fühlt sich mit ihrem spezifischen Absicherungsproblem unsichtbar.",
+      "begruendung_selbst": "Schön, dass die Kliniken modernisiert werden. Aber wer hilft mir, wenn meine KSK-Beiträge bei einer Flaute ins Unermessliche steigen? Dazu steht hier kein einziges Wort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nur Chemie und Mittelstand!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die wirtschaftspolitischen Maßnahmen konzentrieren sich stark auf Großansiedlungen, Chemie-Industrie und den klassischen Mittelstand, während die spezifischen Bedürfnisse der Solo-Selbstständigen und Kleinstkreativen kaum vorkommen.",
+      "seite": 13,
+      "zitat": "Den Mittelstand als Rückgrat der Wirtschaft in Sachsen-Anhalt nachhaltig stärken",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike nimmt wahr, dass Wirtschaftspolitik in Sachsen-Anhalt fast ausschließlich für große Industrieparks und den klassischen Handwerks- oder Produktionsmittelstand gemacht wird. Soloselbstständige Kreative fallen durch dieses Raster und erhalten keine passgenauen Instrumente gegen Auftragsflauten.",
+      "begruendung_selbst": "Wenn von 'Wirtschaft' geredet wird, meinen die immer nur Chemieparks oder den 50-Mann-Betrieb. Dass wir Solo-Kreativen auch Wirtschaft sind und ganz andere Hilfen bräuchten, kommt in deren Welt nicht vor.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike begrüßt die geplanten bürokratischen Erleichterungen und die explizite Anerkennung der Kreativwirtschaft als förderwürdigen Wirtschaftszweig. Gleichzeitig frustriert sie das konservative Festhalten an reiner Eigenverantwortung und klassischer Mittelstandsförderung, da ihre spezifischen existenziellen Nöte als Soloselbstständige – etwa bei Krankheit oder Auftragsflaute – völlig ausgeblendet werden.",
+    "score": 0
+  }
+}

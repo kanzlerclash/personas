@@ -1,0 +1,25 @@
+verifiziert: false
+anteil: "Mehrheitslage in den Städten: in Sachsen-Anhalt wohnt gut die Hälfte der Haushalte zur Miete, in Halle/Magdeburg rund drei Viertel"
+bezug: >
+  Sachsen-Anhalt hat eine der niedrigsten Wohneigentumsquoten der Flächenländer;
+  über die Hälfte der Haushalte lebt zur Miete. In den Großstädten Halle und Magdeburg
+  ist der Mieteranteil deutlich höher (grob drei Viertel). Carla als innerstädtische
+  Altbau-Mieterin mit Aufwertungs-/Verdrängungsangst gehört damit zur klaren
+  Mehrheitslage der städtischen Haushalte — die enge Teilgruppe (Altbau, akute
+  Modernisierungsangst in nachgefragten Vierteln) ist kleiner.
+quellen:
+  - titel: "Zensus 2022 – Gebäude und Wohnungen / Wohnsituation der Haushalte (Sachsen-Anhalt)"
+    herausgeber: "Statistische Ämter des Bundes und der Länder"
+    jahr: 2022
+    wert: "Eigentümerquote Sachsen-Anhalt niedrig (~40 %) → Mieteranteil der Haushalte über die Hälfte; ZU PRÜFEN: exakter Landeswert + Stadtwerte Halle/Magdeburg"
+    url: "https://www.zensus2022.de/"
+  - titel: "Wohnen / Gebäude- und Wohnungsbestand"
+    herausgeber: "Statistisches Landesamt Sachsen-Anhalt"
+    jahr: 2023
+    wert: "ZU PRÜFEN: Mieteranteil Halle und Magdeburg (Großstädte, deutlich über Landeswert)"
+    url: "https://statistik.sachsen-anhalt.de/"
+unsicherheit: >
+  Entwurf — exakte Zahlen noch nicht verifiziert. Der genaue Mieteranteil (Land vs. Großstädte)
+  ist aus Zensus 2022 bzw. dem Statistischen Landesamt Sachsen-Anhalt zu belegen, bevor
+  verifiziert: true gesetzt wird. Carlas engere Lage (Altbau, akute Verdrängungsangst in
+  aufgewerteten Innenstadtvierteln) ist eine kleinere Teilgruppe der Mieterhaushalte.

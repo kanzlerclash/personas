@@ -1,0 +1,76 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:46:45.306Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 79424,
+    "output_tokens": 1737,
+    "cached_tokens": 2752,
+    "total_tokens": 81161,
+    "dauer_ms": 14979,
+    "usd": 0.1025954
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Mietendeckel statt Spekulation!",
+      "thema": "wohnen",
+      "programmpunkt": "Forderung nach bundesweitem Mietendeckel und wirksamer Begrenzung von Mietsteigerungen zum Schutz vor Verdrängung",
+      "seite": 30,
+      "zitat": "Ein bundesweiter Mietendeckel ist dafür ein geeignetes Instrument.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht in der expliziten Forderung nach einem Mietendeckel und der Begrenzung von Mietsteigerungen eine direkte Antwort auf ihre Angst vor steigenden Kosten und Verdrängung in ihrem aufgewerteten Viertel.",
+      "begruendung_selbst": "Endlich jemand, der versteht, dass ich nicht aus meiner Wohnung fliegen will, nur weil Investoren Rendite wollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnen ist Daseinsvorsorge, kein Spekulationsgut!",
+      "thema": "wohnen",
+      "programmpunkt": "Wohnen als Teil der Daseinsvorsorge definieren und Privatisierung öffentlichen Wohnraums bei Wohnraummangel ablehnen",
+      "seite": 30,
+      "zitat": "Wohnen ist Teil der Daseinsvorsorge und darf nicht zum Spekulationsobjekt werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die klare Positionierung gegen Spekulation und für gemeinwohlorientierten Wohnraum bestätigt Carlas Überzeugung, dass bezahlbares Wohnen kein Marktspiel sein darf.",
+      "begruendung_selbst": "Genau, Wohnen ist kein Aktienpaket – wer das nicht kapiert, hat mein Viertel nie erlebt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr sozialer und gemeinnütziger Wohnungsbau!",
+      "thema": "wohnen",
+      "programmpunkt": "Deutliche Ausweitung des sozialen und gemeinnützigen Wohnungsbaus sowie Stärkung kommunaler und genossenschaftlicher Wohnungsunternehmen",
+      "seite": 31,
+      "zitat": "Sozialen und gemeinnützigen Wohnungsbau ausweiten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla begrüßt die konkrete Forderung nach mehr bezahlbarem Wohnraum durch öffentliche und genossenschaftliche Träger als Schutz vor Verdrängung.",
+      "begruendung_selbst": "Endlich mehr Wohnungen, die nicht renditegetrieben sind – das gibt mir Hoffnung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leerstand nutzen statt neue Luxuswohnungen!",
+      "thema": "wohnen",
+      "programmpunkt": "Bessere Nutzung von Leerstand und regionale Steuerung des Wohnungsmarkts zur Schaffung bezahlbaren Wohnraums",
+      "seite": 31,
+      "zitat": "Leerstand nutzen und Wohnungsmarkt regional steuern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Forderung, Leerstand aktiv zu nutzen, passt zu Carlas Sorge, dass in ihrem Viertel Wohnraum künstlich verknappt wird.",
+      "begruendung_selbst": "Warum stehen Wohnungen leer, während ich Angst vor der nächsten Mieterhöhung habe?",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im BSW-Programm klare und direkte Unterstützung für ihre zentralen Anliegen im Wohnungsbereich. Die Forderungen nach Mietendeckel, Ausbau sozialen Wohnungsbaus und der Definition von Wohnen als Daseinsvorsorge bestätigen ihre Haltung gegen Verdrängung und Spekulation. Andere Themen berühren ihre Lage weniger unmittelbar.",
+    "score": 2
+  }
+}

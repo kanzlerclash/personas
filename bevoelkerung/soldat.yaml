@@ -2,7 +2,7 @@ verifiziert: false
 anteil: "ca. 0,1 % der Erwerbstätigen (Berufssoldat:innen bundesweit)"
 bezug: >
   Berufssoldat:innen der Bundeswehr: rund 58.000 — etwa 0,1 % der ~46 Mio.
-  Erwerbstätigen. Stefan ist Berufssoldat (an einem Standort in MV). Soldat:innen
+  Erwerbstätigen. Stefan ist Berufssoldat (an einer Garnison in Sachsen-Anhalt). Soldat:innen
   insgesamt (inkl. Zeit-/Freiwillige) rund 186.000.
 quellen:
   - titel: "Aktuelle Personalzahlen der Bundeswehr"
@@ -17,5 +17,5 @@ quellen:
     url: "https://www.das-parlament.de/inland/verteidigung/die-bundeswehr-in-zahlen"
 unsicherheit: >
   %-Wert grob (58.000 bezogen auf ~46 Mio. Erwerbstätige bundesweit). Bundeswehr-Personal
-  ist regional an Standorte gebunden (Stefans Lage: MV); ein MV-spezifischer Anteil ist
-  hier nicht ausgewiesen.
+  ist regional an Standorte gebunden (Stefans Lage: Sachsen-Anhalt); ein landesspezifischer
+  Anteil ist hier nicht ausgewiesen.

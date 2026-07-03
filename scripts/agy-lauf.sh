@@ -12,7 +12,7 @@ AGY="/Users/jan/.local/bin/agy"
 TPL="prompts/llm-cli-vorlage.md"
 
 SLUGS=(landwirt handwerkerin pendler rentnerpaar polizist studentin_queer \
-       alleinerziehende pflegekraft eingebuergerte mieterin_berlin industriearbeiter \
+       alleinerziehende pflegekraft eingebuergerte mieterin industriearbeiter \
        energie_strukturwandel junge_familie_bau solo_kreative landaerztin soldat)
 
 for P in "${SLUGS[@]}"; do

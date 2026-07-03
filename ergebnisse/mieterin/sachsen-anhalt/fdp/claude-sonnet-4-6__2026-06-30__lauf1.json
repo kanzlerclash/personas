@@ -1,0 +1,89 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Lebensmittel günstiger – gut!",
+      "thema": "steuern",
+      "programmpunkt": "Die FDP will die Mehrwertsteuer auf Lebensmittel und Grundversorgungsgüter vollständig abschaffen, um die Lebenshaltungskosten zu senken.",
+      "seite": 9,
+      "zitat": "Auf Lebensmittel und Grundversorgungsgüter soll die Mehrwertsteuer komplett entfallen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla hat mit mittlerem Einkommen und hoher Mietbelastung wenig finanziellen Spielraum. Eine Abschaffung der Mehrwertsteuer auf Lebensmittel würde ihre Alltagsausgaben real senken und ihre Haushaltslage verbessern.",
+      "begruendung_selbst": "Günstigere Lebensmittel helfen mir tatsächlich – das ist wenigstens eine konkrete Entlastung, die ich im Alltag spüren würde.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kommunale Wohnungsunternehmen stärken",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP will die wirtschaftliche Basis kommunaler Wohnungsunternehmen und Genossenschaften stärken und historische DDR-Altschulden abbauen.",
+      "seite": 12,
+      "zitat": "kommunalen Wohnungsunternehmen und Genossenschaften wollen wir nachhaltig stärken",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla befürwortet gemeinwohlorientierte Wohnungsunternehmen als Gegengewicht zum spekulativen Markt. Die FDP-Unterstützung für kommunale Wohnungswirtschaft und Genossenschaften geht in diese Richtung, auch wenn es sich um einen strukturellen Ansatz handelt, der Carla nicht direkt schützt.",
+      "begruendung_selbst": "Kommunale Wohnungsunternehmen stärken – das höre ich gern, auch von der FDP. Wenn das ehrlich gemeint ist, ist das ein Schritt in die richtige Richtung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Eigentum statt Mieterschutz",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP setzt Wohnpolitik gleichbedeutend mit Wohneigentumsförderung: Lösungen für Mieterinnen werden über den Weg des Eigentumserwerbs gedacht, nicht über Mietpreisregulierung.",
+      "seite": 12,
+      "zitat": "Eigentum stärkt Unabhängigkeit: Wohneigentum fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla kann sich in der Innenstadt kein Eigentum kaufen und will auch keins – sie braucht Mieterschutz. Die FDP-Wohnpolitik sieht Wohneigentum als Lösung für hohe Mietkosten, was für Carla in ihrer konkreten Lage keine Antwort darstellt.",
+      "begruendung_selbst": "Eigentum stärkt Unabhängigkeit – schön. Und wer kein Eigentum kaufen kann oder will? Auf mich hat die FDP keine Antwort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tariftreue abschaffen schadet mir",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will das Tariftreue- und Vergabegesetz abschaffen, das faire Löhne bei öffentlichen Aufträgen sichert.",
+      "seite": 7,
+      "zitat": "das Tariftreue- und Vergabegesetz schnellstmöglich abzuschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla arbeitet als Angestellte im Dienstleistungs- und Kreativbereich. Tariftreue-Regelungen schützen die Lohnuntergrenze in ihrer Branche. Die Abschaffung schwächt die Verhandlungsposition von Beschäftigten gegenüber Arbeitgebern mit öffentlichen Aufträgen.",
+      "begruendung_selbst": "Wenn das Tariftreuegesetz abgeschafft wird, haben Auftragnehmer weniger Anreiz, faire Löhne zu zahlen. Das betrifft Beschäftigte wie mich direkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Steuergeschenke für Vermieter",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP setzt auf steuerliche Investitionsanreize für private Vermieter statt auf direkte Mieterschutzinstrumente, was Modernisierungen anreizt, ohne sie für Mieterinnen kostenneutral zu machen.",
+      "seite": 13,
+      "zitat": "steuerliche Investitionsanreize statt auf Förderbürokratie",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla fürchtet die Modernisierungsumlage als existenzielles Risiko. Die FDP stärkt die private Wohnungswirtschaft durch Steueranreize für Modernisierungen, ohne gleichzeitig warmmietenneutrale Auflagen zu fordern – das erhöht das Risiko von Mieterhöhungen nach Modernisierungen.",
+      "begruendung_selbst": "Steuerliche Anreize für private Vermieter zu modernisieren, ohne Mietschutz – das ist das Rezept für die Briefe, die ich fürchte: 'Wir modernisieren. Ihre Miete steigt.'",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die FDP bietet Carla mit der Mehrwertsteuersenkung auf Lebensmittel und der Unterstützung kommunaler Wohnungsunternehmen zwei begrenzt positive Ansätze. Ihr grundlegendes wohnungspolitisches Konzept – Eigentumsförderung statt Mietpreisregulierung, steuerliche Anreize für private Vermieter – trifft Carlas Situation als Innenstadtmieterin in einem aufwertenden Viertel jedoch nicht. Die Abschaffung des Tariftreuegesetzes und das Fehlen jedes Mieterschutzinstruments machen das FDP-Programm für sie insgesamt wenig attraktiv.",
+    "score": -1
+  }
+}

@@ -72,13 +72,12 @@
       "thema": "gesundheit",
       "programmpunkt": "Die Partei will einen Gerechtigkeitsfonds für ehemalige DDR-Beschäftigte einführen, der regelmäßige Ausgleichszahlungen gewährt und die besondere Situation von in der DDR geschiedenen Frauen berücksichtigt.",
       "seite": 44,
-      "zitat": "Einführung eines Gerechtigkeitsfonds für ehemalige DDR-Beschäftigte",
+      "zitat": "Einführung eines Gerechtigkeitsfonds, der regelmäßige Ausgleichszahlungen an einen erweiterten Kreis ehemaliger DDR-Beschäftigter gewährt",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Facharbeiter aus DDR- und Nachwendezeit fühlen sich Helga und Dieter von der Rentenüberleitung benachteiligt. Ein Fonds, der ihre Lebensleistung anerkennt, trifft ihr Gerechtigkeitsempfinden.",
       "begruendung_selbst": "Wir haben in der DDR genauso geschuftet wie die im Westen – und bei der Rente wurden wir abgehängt. Endlich will das mal jemand korrigieren.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Polizei muss vor Ort sein!",
@@ -97,13 +96,12 @@
       "thema": "verkehr",
       "programmpunkt": "Die Linke will den ÖPNV im ländlichen Raum ausbauen, Rufbusse gesetzlich ermöglichen und mittelfristig einen Nulltarif einführen.",
       "seite": 101,
-      "zitat": "Rufbusse und Anrufbusse müssen gesetzlich ermöglicht werden",
+      "zitat": "Rufbusse und Anrufbusse, die wie ein Taxi fungieren, müssen als weiterer Baustein einer Mobilität",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Solange Helga und Dieter noch Auto fahren, ist die Versorgung gesichert – aber sie denken voraus. Rufbusse und ein ausgebauter ÖPNV geben ihnen die Perspektive, auch ohne Auto mobil zu bleiben.",
       "begruendung_selbst": "Irgendwann können wir nicht mehr Auto fahren. Wenn es dann einen Rufbus gibt, der uns zum Arzt bringt – das wäre was. Sonst sind wir gefangen.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Keine Experimente mit der Rente!",
@@ -160,13 +158,12 @@
       "thema": "steuern",
       "programmpunkt": "Das Programm befürwortet eine kurzfristige höhere Verschuldung für Investitionen in Bildung, Gesundheit und Klimaschutz, die langfristig durch Steuerreformen kompensiert werden soll.",
       "seite": 19,
-      "zitat": "Eine kurzfristige höhere Verschuldung wird langfristig kompensiert",
+      "zitat": "Eine kurzfristige höhere Verschuldung wird durch unsere steuerpolitischen Änderungen und die Förderung der Binnenwirtschaft langfristig kompensiert",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
       "begruendung": "Helga und Dieter sind sparsam und skeptisch gegenüber großen Reformversprechen. Mehr Schulden klingen für sie nach Risiko – besonders, wenn die Kompensation durch Steuerreformen ungewiss ist.",
       "begruendung_selbst": "Erst mal Schulden machen und dann wird das schon? So haben wir auch nicht gewirtschaftet. Wer garantiert uns, dass das nicht auf unsere Kosten geht?",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Vermögenssteuer trifft auch uns?",
@@ -185,13 +182,12 @@
       "thema": "familie",
       "programmpunkt": "Das Programm fordert eine progressive Rundfunkfinanzierung, bei der Haushalte bis 30.000 Euro Jahreseinkommen maximal 10 Euro zahlen sollen – aber der Beitrag für andere nicht sinkt.",
       "seite": 73,
-      "zitat": "Haushalte bis 30.000 Euro Jahreseinkommen maximal 10 Euro",
+      "zitat": "Haushalte bis 30.000 Euro Jahreseinkommen sollen maximal 10 Euro monatlich zahlen",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Helga und Dieter schauen regelmäßig öffentlich-rechtliches Fernsehen und nutzen die Regionalzeitung. Mit zwei kleinen Renten zusammen könnten sie knapp über der 30.000-Euro-Grenze liegen und weiterhin den vollen Beitrag zahlen, während die Reform ihnen keine Entlastung bringt.",
       "begruendung_selbst": "Wir gucken jeden Abend die Tagesschau und die MDR-Sendung. Aber billiger wird's für uns nicht – nur für die unter 30.000. Da gucken wir knapp drüber und zahlen wie bisher.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "gesamt": {

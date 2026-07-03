@@ -1,0 +1,125 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Modernisierungsumlage weg!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will die Modernisierungsumlage abschaffen, die es Vermietern ermöglicht, Modernisierungskosten dauerhaft auf die Miete aufzuschlagen.",
+      "seite": 84,
+      "zitat": "die Modernisierungsumlage abschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Modernisierungsumlage ist Carlas größte Einzelsorge: Ein Modernisierungsbrief kann ihre Miete dauerhaft und erheblich erhöhen. Die direkte Forderung der Linken, dieses Instrument abzuschaffen, adressiert ihren zentralen Angstpunkt.",
+      "begruendung_selbst": "Das ist genau der Brief, den ich fürchte. Die Linke sagt: Dieser Brief darf keine Mieterhöhung mehr bedeuten. Das ist das Erste, was ich höre, das sich wirklich nach Schutz anfühlt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanierung darf nicht teurer machen!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke fordert, dass Sanierungen und der Heizungstausch warmmietenneutral durchgeführt werden – Mieterinnen tragen also keine Mehrkosten durch Modernisierung.",
+      "seite": 84,
+      "zitat": "Sanierungen und Heizungstausch warmmietenneutral",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla fürchtet, dass Klimaschutzmaßnahmen im Gebäudebestand ihre Miete treiben. Die Forderung nach warmmietenneutralen Sanierungen beantwortet diese Sorge direkt: Klimaschutz geht, aber nicht auf Kosten der Mieterinnen.",
+      "begruendung_selbst": "Wenn saniert wird, darf meine Gesamtmiete nicht steigen. Das ist die einzige Art, wie Klimaschutz im Wohnbereich für mich fair ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Grundsteuer nicht auf Mieter!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will durchsetzen, dass die Grundsteuer nicht mehr auf Mieterinnen umgelegt werden darf, da dies eine versteckte Mieterhöhung darstellt.",
+      "seite": 84,
+      "zitat": "die Grundsteuer nicht mehr auf die",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Grundsteuer ist eine Nebenkosten-Position, die Vermieter in der Regel einfach weitergeben. Carla profitiert unmittelbar, wenn dies verboten wird – ihre Gesamtwohnkosten sinken oder steigen zumindest nicht durch diese Weitergabe.",
+      "begruendung_selbst": "Die Grundsteuer auf mich umzulegen ist eine stille Mieterhöhung. Das die Linke das abschaffen will, spart mir bares Geld.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnraum zurück in öffentliche Hand!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will einen Rekommunalisierungsfonds einrichten, der Gemeinden beim Rückkauf von Immobilien und Grundstücken in öffentliches Eigentum unterstützt.",
+      "seite": 83,
+      "zitat": "mit einem (Re)Kommunalisierungsfonds Gemeinden unterstützen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla hofft auf mehr gemeinwohlorientierte Wohnungswirtschaft als strukturelles Gegengewicht zum spekulativen Markt. Der Rekommunalisierungsfonds ist ein konkretes Instrument, um Wohnraum dauerhaft dem Markt zu entziehen.",
+      "begruendung_selbst": "Wohnraum zurück in öffentliche Hand – das ist der systemische Wandel, den es braucht. Solange Wohnungen als Anlageform behandelt werden, verlieren wir das Rennen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV zum Nulltarif – Ziel!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will den öffentlichen Nahverkehr mittelfristig landesweit zum Nulltarif anbieten und schrittweise soziale Tickets einführen.",
+      "seite": 102,
+      "zitat": "Wir wollen ihn deshalb mittelfristig landesweit zum Nulltarif anbieten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ist vollständig ÖPNV-abhängig. Kostenfreier Nahverkehr würde ihren Alltag direkt entlasten und Mobilität zu einem echten öffentlichen Gut machen – entsprechend ihrer Überzeugung von Daseinsvorsorge.",
+      "begruendung_selbst": "Nulltarif im ÖPNV – das ist konsequent. Mobilität als Daseinsvorsorge bedeutet auch: kein Ticket kaufen müssen. Das würde mein Leben real verändern.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "'Junges Wohnen' ohne mich",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke fördert das Programm 'Junges Wohnen' insbesondere für Auszubildende und ermöglicht ihnen Wohnheimplätze – Carla als 35-jährige Berufstätige ist nicht Zielgruppe dieses Programms.",
+      "seite": 85,
+      "zitat": "damit Auszubildende ebenso von Wohnheimplätzen profitieren können",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Programm adressiert junge Auszubildende und Studierende, nicht berufstätige Erwachsene Mitte 30 in Privatwohnungen. Carla ist durch die anderen Maßnahmen der Linken geschützt, aber dieses Teilprogramm trifft sie nicht.",
+      "begruendung_selbst": "Gut für Auszubildende – aber ich bin 35 und wohne seit Jahren in meiner Wohnung. Das Programm ist nicht für mich gemacht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gewerbemieten statt Wohnmieten",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke thematisiert im Städtebau-Kapitel das Problem explodierender Gewerbemieten in Innenstädten – die Situation von Wohnmieterinnen in denselben Vierteln wird separat behandelt.",
+      "seite": 85,
+      "zitat": "leiden unter explodierenden Gewerbemieten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla leidet unter steigenden WOHN-Mieten in ihrem Innenstadtviertel. Die Linke thematisiert hier das Problem der Gewerbeverdrängung – ein reales Problem, aber nicht Carlas unmittelbares Wohnproblem.",
+      "begruendung_selbst": "Die Verödung der Innenstadt durch hohe Gewerbemieten kenne ich. Aber ich zahle auch immer mehr für meine Wohnung. Beides ist ein Problem.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nulltarif erst 'mittelfristig'",
+      "thema": "verkehr",
+      "programmpunkt": "Der kostenfreie ÖPNV ist als mittelfristiges Ziel formuliert, nicht als sofortige Maßnahme – Carla profitiert zunächst nur von Zwischenschritten.",
+      "seite": 102,
+      "zitat": "mittelfristig landesweit zum Nulltarif anbieten",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Nulltarif-Ziel ist für Carla grundsätzlich positiv, aber 'mittelfristig' bedeutet, dass sie zunächst weiter Ticketkosten trägt. Als Geringverdienerin mit hoher Mietbelastung wäre eine schnellere Umsetzung für sie entlastend.",
+      "begruendung_selbst": "Mittelfristig – okay, aber ich zahle das Ticket gerade jetzt. Ich würde mir wünschen, dass es schneller geht, auch wenn ich den Plan grundsätzlich richtig finde.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die Linke adressiert Carlas zentrale Sorgen mit einer Präzision, die keine andere Partei erreicht: Modernisierungsumlage abschaffen, Grundsteuer nicht auf Mieterinnen umlegen, warmmietenneutrale Sanierung, Rekommunalisierung und mittelfristig kostenfreier ÖPNV. Das Programm denkt konsequent aus der Perspektive von Mieterinnen. Die wenigen Lücken – Fokus auf Auszubildende beim Wohnheimbau, Gewerbemieten-Schwerpunkt im Städtebaukapitel – betreffen Teilbereiche; die Kernforderungen treffen Carlas Situation direkt.",
+    "score": 2
+  }
+}

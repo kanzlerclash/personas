@@ -1,0 +1,101 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kommunale Wohnungsunternehmen stärken",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP will die wirtschaftliche Basis kommunaler Wohnungsunternehmen und Genossenschaften nachhaltig stärken.",
+      "seite": 12,
+      "zitat": "kommunalen Wohnungsunternehmen und Genossenschaften wollen wir nachhaltig stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Handlungsfähige kommunale und genossenschaftliche Vermieter entsprechen Carlas Wunsch nach gemeinwohlorientiertem Wohnraum jenseits reiner Rendite.",
+      "begruendung_selbst": "Starke kommunale Vermieter und Genossenschaften – die sichern bezahlbaren Wohnraum.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV weiter ausbauen",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP will das Angebot des ÖPNV weiter ausbauen.",
+      "seite": 72,
+      "zitat": "wollen wir das Angebot des ÖPNV weiter ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein besseres Nahverkehrsangebot unterstützt Carlas autofreien Alltag.",
+      "begruendung_selbst": "Mehr ÖPNV kann ich als Frau ohne Auto immer gebrauchen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutschlandticket bleibt",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP will das Deutschlandticket als Teil des Angebots erhalten.",
+      "seite": 73,
+      "zitat": "Das Deutschlandticket bleibt Teil des Angebots",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Erhalt des Tickets sichert Carlas bezahlbare Mobilität.",
+      "begruendung_selbst": "Gut, dass mein Ticket bleiben soll.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Alles Eigentum, nichts für Mieter",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP stellt Wohneigentum als Freiheit ins Zentrum ihrer Wohnungspolitik.",
+      "seite": 12,
+      "zitat": "Eigentum stärkt Freiheit, Verantwortung und gesellschaftlichen Zusammenhalt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die FDP setzt in der Wohnungspolitik ganz auf Eigentumsbildung; Carla als vermögenslose Innenstadt-Mieterin findet ihr Anliegen – Mietschutz – nicht wieder.",
+      "begruendung_selbst": "Immer nur Eigentum – aber ich kann nicht kaufen und brauche Schutz beim Mieten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigenheim als Leitbild",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP will das selbstgenutzte Wohneigentum wieder erreichbar machen.",
+      "seite": 12,
+      "zitat": "Wir machen die eigenen vier Wände wieder erreichbar",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Leitbild der eigenen vier Wände geht an Carlas Realität vorbei; ihre Sorge vor Verdrängung im Mietbestand bleibt unbeantwortet.",
+      "begruendung_selbst": "Die eigenen vier Wände sind für mich unerreichbar – was ist mit meiner Miete?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auto zuerst – nicht meine Stadt",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP geht davon aus, dass außerhalb der Städte das Auto die Mobilität der Wahl bleibt.",
+      "seite": 72,
+      "zitat": "außerhalb der Städte das Auto die Mobilität der Wahl",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carlas Leitbild ist die autoarme Stadt; die Betonung des Autos als Mobilität der Wahl liegt quer zu ihrer Vorstellung von Mobilität.",
+      "begruendung_selbst": "Ich denke Mobilität ganz ohne Auto – da hört sich das für mich falsch an.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla begrüßt, dass die FDP kommunale Wohnungsunternehmen und Genossenschaften stärken sowie den ÖPNV und das Deutschlandticket erhalten will. In der Wohnungspolitik dominiert jedoch das Leitbild des Wohneigentums, das für sie unerreichbar ist und ihren Mietschutz-Bedarf ausblendet. Unterm Strich bleibt die marktliberale Grundlinie ihrer Lage fern.",
+    "score": -1
+  }
+}

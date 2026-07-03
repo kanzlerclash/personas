@@ -1,0 +1,125 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Deutschlandticket bleibt – gut!",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will das Deutschlandticket erhalten.",
+      "seite": 62,
+      "zitat": "Das Deutschlandticket wollen wir erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla fährt ohne Auto und ist auf bezahlbaren ÖPNV angewiesen; der Erhalt des Tickets sichert ihre Alltagsmobilität.",
+      "begruendung_selbst": "Ohne Auto ist das Ticket mein Alltag – gut, dass es bleiben soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Radwege, endlich",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will die Zahl der gebauten Radwege erhöhen und Alltagsradeln fördern.",
+      "seite": 63,
+      "zitat": "Wir wollen die Zahl der gebauten Radwege steigern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Rad- und ÖPNV-Nutzerin profitiert Carla direkt von mehr Radinfrastruktur in ihrem Viertel.",
+      "begruendung_selbst": "Mehr Radwege heißt für mich sicherer durch die Stadt kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus und Bahn attraktiver",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will den ÖPNV modernisieren und verlässlicher machen.",
+      "seite": 62,
+      "zitat": "Busse und Bahnen sollen verlässlicher und attraktiver werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein besserer Nahverkehr entspricht Carlas Wunsch nach einer guten ÖPNV-Stadt ohne Autozwang.",
+      "begruendung_selbst": "Wenn Busse und Bahnen zuverlässiger werden, brauche ich erst recht kein Auto.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mietschutz? Ideologie, sagt die CDU",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU lehnt Mietpreisdeckel und andere Markteingriffe ab und setzt auf Eigentumsförderung.",
+      "seite": 65,
+      "zitat": "Wir lehnen ideologisch motivierte Markteingriffe wie Mietpreisdeckel",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Genau die Marktlogik, die Carla für ihre steigende Miete verantwortlich macht, wird hier zum Programm; Mieterschutz wird als Ideologie abgetan.",
+      "begruendung_selbst": "Mein Mieterschutz ist keine Ideologie – das ist meine Existenz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentumsrechte vor Mieterschutz",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU lehnt Enteignungen und weitere Eingriffe in Eigentumsrechte entschieden ab.",
+      "seite": 65,
+      "zitat": "willkürliche Enteignungen und weitere Eingriffe in Eigentumsrechte entschieden ab",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla sieht gemeinwohlorientierte Instrumente gegen Spekulation als nötig an; die CDU stellt sich klar hinter Eigentümer und Investoren.",
+      "begruendung_selbst": "Immer nur die Rechte der Eigentümer – und wer schützt mich vor Verdrängung?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentum als Antwort – für mich unerreichbar",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU sieht Wohneigentum als Schutz vor Mietsteigerungen und will die Eigentumsquote erhöhen.",
+      "seite": 65,
+      "zitat": "Eigentum schafft Heimatverbundenheit, schützt vor Mietsteigerungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla hat kein Vermögen für einen Kauf in der Innenstadt; die einzige angebotene Lösung ist für sie nicht erreichbar und lässt Mieterinnen außen vor.",
+      "begruendung_selbst": "Kaufen kann ich mir nicht – ich brauche Schutz als Mieterin, nicht als Eigentümerin.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umweltzonen weg? Falsche Richtung",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will überholte Umweltzonen in Innenstädten aufheben.",
+      "seite": 62,
+      "zitat": "Überholte Umweltzonen in Innenstädten wollen wir aufheben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla wünscht sich eine autoarme Innenstadt; das Aufheben von Umweltzonen läuft ihrem Bild einer lebenswerten Stadt zuwider.",
+      "begruendung_selbst": "Ich will weniger Autos in meinem Viertel, nicht wieder mehr.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung nur fürs Land-Eigenheim",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU will die Grunderwerbsteuer beim ersten Eigenheim im ländlichen Raum befreien.",
+      "seite": 31,
+      "zitat": "Grunderwerbsteuerbefreiung beim erstmaligen Erwerb selbstgenutzten Wohneigentums im ländlichen Raum",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Entlastung zielt auf Landeigentümer; Carlas Problem – bezahlbares Mieten in der aufgewerteten Innenstadt – wird davon nicht berührt.",
+      "begruendung_selbst": "Ein Eigenheim auf dem Land löst mein Problem in der Stadt kein bisschen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla erkennt bei ÖPNV und Radverkehr Punkte, die ihren autofreien Alltag stützen. In der Wohnungspolitik sieht sie jedoch genau die Marktlogik bestätigt, die sie für steigende Mieten und Verdrängung verantwortlich macht: Mieterschutz gilt als Ideologie, die Antwort heißt Eigentum, das sie sich nicht leisten kann. Unterm Strich fühlt sie sich als Innenstadt-Mieterin nicht adressiert.",
+    "score": -1
+  }
+}

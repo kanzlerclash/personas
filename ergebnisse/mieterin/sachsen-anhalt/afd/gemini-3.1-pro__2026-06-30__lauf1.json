@@ -1,0 +1,101 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Daseinsvorsorge statt Profitgier!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Partei fordert, dass der Gesundheitssektor nicht dem freien Markt und dem unternehmerischen Profitstreben überlassen werden darf.",
+      "seite": 20,
+      "zitat": "Gesundheit aber ist keine Ware und darf deshalb nicht dem freien Markt ausgeliefert werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lehnt eine rein marktliberale Daseinsvorsorge konsequent ab. Dass die Partei diese Anti-Markt-Logik im Gesundheitsbereich so pointiert vertritt, spiegelt genau ihre eigene Haltung wider, die sie vor allem bei der Wohnungspolitik anlegt.",
+      "begruendung_selbst": "Genau diese Haltung brauche ich! Gesundheit ist keine Ware, und genau das Gleiche gilt für unsere Wohnungen, die nicht den Investoren überlassen werden dürfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnraum ist ein Grundrecht!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei bekennt sich zum sozialen Wohnungsbau als Teil der staatlichen Grundversorgung, der für Menschen mit niedrigem und mittlerem Einkommen erhalten werden muss.",
+      "seite": 15,
+      "zitat": "Die soziale Wohnraumversorgung ist ein Element der Daseinsvorsorge.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Angst vor steigenden Mieten und Verdrängung bestimmt Carlas Leben. Dass sozialer Wohnraum explizit als Daseinsvorsorge geschützt werden soll, gibt ihr die Hoffnung auf einen Gegenpol zum spekulativen Wohnungsmarkt.",
+      "begruendung_selbst": "Wenigstens eine klare Ansage, dass Wohnraum zur Grundversorgung gehört. Wir brauchen mehr kommunalen Wohnungsbau, um dem Wahnsinn auf dem freien Markt etwas entgegenzusetzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Geld für meine Radwege!",
+      "thema": "verkehr",
+      "programmpunkt": "Die finanziellen Mittel des Landes zur Unterstützung und zum Ausbau des kommunalen Radverkehrsnetzes sollen deutlich erhöht werden.",
+      "seite": 16,
+      "zitat": "Ebenso sind die Fördermittel des Landes zur Unterstützung des kommunalen Radverkehrsnetzes deutlich zu erhöhen.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Carla kein Auto besitzt und sich im Alltag größtenteils mit dem Rad und dem ÖPNV bewegt, profitiert sie direkt von besseren und sichereren Radwegen in ihrer Stadt.",
+      "begruendung_selbst": "Mehr Geld für Radwege ist überfällig. Ich bin jeden Tag auf dem Rad unterwegs und brauche sichere Infrastruktur in der Innenstadt, kein Stückwerk.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Autofreundlich heißt stadtfeindlich!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei setzt massiv auf das Automobil als primäres Verkehrsmittel und will die Verkehrspolitik bedingungslos an den Interessen der Autofahrer ausrichten.",
+      "seite": 16,
+      "zitat": "Wir werden deshalb den Verkehr so autofahrerfreundlich wie möglich gestalten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als großstädtische Verfechterin einer autoarmen Stadt sieht Carla ihre Lebensqualität durch eine extrem autofreundliche Politik bedroht, die Lärm, Abgase und Gefahren im Straßenverkehr manifestiert.",
+      "begruendung_selbst": "Das ist doch ein Rückschritt ins letzte Jahrhundert! Wir brauchen weniger Blechlawinen in unseren Vierteln und nicht eine Verkehrspolitik, die nur dem Auto huldigt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohneigentum ist für mich unerreichbar!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei glorifiziert Wohneigentum als Weg zur Freiheit und plant steuerliche Erleichterungen für den Immobilienerwerb, ohne echten Mieterschutz zu priorisieren.",
+      "seite": 19,
+      "zitat": "Wohneigentum bedeutet Freiheit.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Carla ist der Kauf einer Immobilie finanziell komplett unerreichbar. Die Fixierung auf Eigentum geht an ihrer prekären Lebensrealität vorbei und weckt die Angst, dass Mietwohnungen wie ihre in Eigentum umgewandelt werden.",
+      "begruendung_selbst": "Für Leute mit meinem Einkommen ist Eigentum ein Märchen. Wenn die Politik nur Käufer fördert, ist es nur eine Frage der Zeit, bis mein Altbau umgewandelt wird und ich fliegen muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Toleranz ist kein Verbrechen!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei diffamiert progressive Aufklärung, Toleranzförderung und alternative Lebensentwürfe als extremistische Ideologie, die angeblich Kinder gefährdet.",
+      "seite": 4,
+      "zitat": "Unter dem Deckmantel der Toleranz nehmen pervers-linke Fanatiker die Seelen unserer Kinder ins Visier.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla hat ein urbanes, progressives Weltbild und schätzt ein tolerantes, diverses Umfeld in der Großstadt. Diese aggressive und ausgrenzende Sprache gegen Minderheiten und progressive Akteure stößt sie zutiefst ab.",
+      "begruendung_selbst": "So eine hasserfüllte Sprache ist unerträglich. Ich stehe für eine offene Gesellschaft, in der Vielfalt kein Feindbild ist, sondern unser Zusammenleben in der Stadt bereichert.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die AfD bietet der Mieterin Carla zwar punktuelle Überschneidungen bei ihrer Kritik an der reinen Marktlogik und der Forderung nach sozialem Wohnungsbau sowie dem Ausbau von Radwegen. Die überwiegende Ausrichtung des Programms steht jedoch in extremem Widerspruch zu ihrem progressiven, urbanen Lebensentwurf. Die stark pro-automobil ausgelegte Verkehrspolitik, die einseitige Fixierung auf Wohneigentum und die aggressive Rhetorik gegen Vielfalt bewirken eine deutliche Gesamtablehnung.",
+    "score": -2
+  }
+}

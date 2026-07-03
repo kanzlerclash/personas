@@ -1,0 +1,174 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 76266,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen ist kein Spekulationsgut",
+      "thema": "wohnen",
+      "programmpunkt": "Die Grünen erklären Wohnen zum Grundrecht, benennen steigende Mieten und Immobilienpreise und wollen bezahlbares, klimagerechtes, barrierefreies und gemeinwohlorientiertes Wohnen ermöglichen.",
+      "seite": 91,
+      "zitat": "Wohnen ist ein Grundrecht",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla findet ihre Grundhaltung direkt bestätigt: Wohnen wird nicht als normale Ware behandelt, sondern als soziale Sicherheit. Gerade weil sie als Altbau-Mieterin Verdrängung fürchtet, ist diese Rahmung für sie zentral.",
+      "begruendung_selbst": "Genau darum geht es mir: Meine Wohnung ist nicht irgendein Anlageprodukt, sondern mein Zuhause und mein Viertel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Mietendeckel prüfen",
+      "thema": "wohnen",
+      "programmpunkt": "Zur Sicherung bezahlbaren Wohnraums sollen Mietendeckel genutzt, sozialer Wohnungsbau gestärkt und Mittel für bezahlbaren Wohnraum erschlossen werden.",
+      "seite": 91,
+      "zitat": "sollen Mietendeckel eingesetzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sucht konkrete Mietregulierung statt bloßer Marktappelle. Ein Mietendeckel trifft ihren größten Kosten- und Angstrisikopunkt unmittelbar.",
+      "begruendung_selbst": "Wenn meine Miete jedes Jahr weiterzieht, helfen mir schöne Worte nicht. Ich brauche eine echte Bremse.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gentrifizierung beim Namen genannt",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm will gemeinschaftliche Wohnformen fördern, Kommunen befähigen und Durchmischung stärken, um Gentrifizierung entgegenzuwirken.",
+      "seite": 91,
+      "zitat": "Durchmischung fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla erlebt Aufwertung als reale Bedrohung ihres Alltags. Dass das Programm Gentrifizierung ausdrücklich als Problem fasst und gemeinschaftliche Wohnformen stärkt, passt zu ihrer gemeinwohlorientierten Sicht.",
+      "begruendung_selbst": "Ich will kein schickes Viertel, aus dem die Leute wegmüssen, die es lebendig gemacht haben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Räumungen stoppen, Zuhause sichern",
+      "thema": "wohnen",
+      "programmpunkt": "Die Grünen befürworten ein landesweites Moratorium für Zwangsräumungen bei Mietschulden in öffentlichen Wohnungen und bevorzugen Housing First.",
+      "seite": 92,
+      "zitat": "Moratorium für Zwangsräumungen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Carla nicht selbst wohnungslos ist, sieht sie Wohnen als Menschenrecht und nicht als Marktstrafe. Der Schutz vor Räumungen entspricht ihrer solidarischen Sicht auf prekäre Mieter*innen.",
+      "begruendung_selbst": "Niemand soll wegen Mietschulden einfach auf der Straße landen. Erst ein Dach, dann der Rest.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanieren ohne Verdrängen",
+      "thema": "energie",
+      "programmpunkt": "Bei der Wärmewende sollen energetische Sanierungen, Mieterschutz und faire Heizkosten zusammen gedacht werden; Förderungen sollen einkommensabhängig und einfacher werden.",
+      "seite": 25,
+      "zitat": "Mieterschutz und faire Heizkosten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla hat Angst vor Modernisierungsschreiben und steigenden Wohnkosten. Die Verbindung von Wärmewende, Mieterschutz und fairen Heizkosten adressiert genau diesen Konflikt.",
+      "begruendung_selbst": "Ich bin nicht gegen Sanierung. Ich bin dagegen, dass sie als Vorwand für höhere Mieten benutzt wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vorkauf gegen Bodenspekulation",
+      "thema": "wohnen",
+      "programmpunkt": "Kommunale Vorkaufsrechte sollen gesichert und ausgeweitet werden, um Privatisierung öffentlicher Flächen, Bodenspekulation und fehlenden bezahlbaren Wohnraum zu bekämpfen.",
+      "seite": 98,
+      "zitat": "Bodenspekulation zu verhindern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla nimmt Immobilieninvestoren und Bodenspekulation als Gegeninteresse zu sicherem Wohnen wahr. Stärkere kommunale Instrumente sprechen ihre Erwartung an, dass der Staat dem Markt Grenzen setzt.",
+      "begruendung_selbst": "Wenn die Stadt Flächen sichern kann, haben Spekulanten nicht automatisch das letzte Wort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus, Bahn, Rad zuerst",
+      "thema": "verkehr",
+      "programmpunkt": "Der öffentliche Nahverkehr soll ausgebaut, günstiger und barrierefrei werden; der Umweltverbund aus Bus, Bahn, Rad, Fußverkehr und Carsharing soll Vorrang erhalten.",
+      "seite": 28,
+      "zitat": "den Nahverkehr ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt ohne Auto und bewegt sich mit ÖPNV und Rad durch die Stadt. Ein Vorrang für den Umweltverbund verbessert ihre alltägliche Mobilität und unterstützt ihre Vorstellung einer lebenswerten Stadt.",
+      "begruendung_selbst": "Ich will nicht jeden Tag um Platz kämpfen müssen. Bus, Bahn und Rad müssen endlich zuerst kommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Autoarme Quartiere, bitte",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm will autoarme Quartiere fördern, Durchgangsverkehr begrenzen und autofreie Zonen erleichtern; zudem sollen kurze Wege und Nahversorgung gestärkt werden.",
+      "seite": 93,
+      "zitat": "Wir fördern autoarme Quartiere",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla wünscht sich eine lebendige, sichere Innenstadt mit guter Nahmobilität statt Autodominanz. Autoarme Quartiere passen direkt zu ihrem Alltag im Viertel.",
+      "begruendung_selbst": "Mein Viertel wäre so viel besser, wenn nicht jede freie Ecke fürs Auto reserviert wäre.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mietenkataster nur vielleicht?",
+      "thema": "wohnen",
+      "programmpunkt": "Die Einführung eines Mietenkatasters soll nur ergebnisoffen geprüft werden, statt als festes Instrument für Transparenz am Mietmarkt vorgesehen zu sein.",
+      "seite": 91,
+      "zitat": "ergebnisoffen prüfen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla will konkrete Instrumente, um steigende Mieten sichtbar und regulierbar zu machen. Eine bloß ergebnisoffene Prüfung wirkt aus ihrer Perspektive zu vorsichtig.",
+      "begruendung_selbst": "Ich brauche keine Endlosschleife aus Prüfaufträgen. Ohne klare Mietdaten bleibt der Druck unsichtbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Aufwertung macht mich nervös",
+      "thema": "wohnen",
+      "programmpunkt": "Bei der Innenentwicklung sollen Nachverdichtung und Aufwertung urbaner Grünflächen verbunden werden, um kompakte und durchmischte Quartiere zu schaffen.",
+      "seite": 93,
+      "zitat": "kompakte und durchmischte Quartiere",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla liest Aufwertung in ihrem Viertel nicht neutral, sondern als möglichen Vorlauf von höheren Mieten und Verdrängung. Der Programmpunkt ist zwar ökologisch gemeint, bleibt aus ihrer Sicht aber sensibel, solange sozialer Schutz nicht an dieser Stelle konkret mitgeführt wird.",
+      "begruendung_selbst": "Aufwertung klingt für mich schnell nach teurerem Café, teurerer Miete und weniger Platz für uns.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Pop-ups retten keine Mieten",
+      "thema": "wirtschaft",
+      "programmpunkt": "Leerstand soll auch durch Start-ups, Pop-up-Stores und nichtkommerzielle Treffpunkte zwischengenutzt werden.",
+      "seite": 93,
+      "zitat": "nichtkommerzielle Treffpunkte",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla schätzt nichtkommerzielle Räume, ist aber skeptisch, wenn Stadtentwicklung stark über Start-ups und Pop-up-Konzepte läuft. In einem aufwertenden Viertel können solche Nutzungen für sie nach symbolischer Belebung statt dauerhaftem Schutz vor Verdrängung klingen.",
+      "begruendung_selbst": "Ich will keine kurzlebige Schaufenster-Belebung, wenn am Ende die Mieten und Ladenpreise weiter steigen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wegziehen ist keine Lösung",
+      "thema": "wohnen",
+      "programmpunkt": "Die Grünen wollen in Berlin und Leipzig für das Wohnen im ländlichen Sachsen-Anhalt werben, besonders bei jungen Familien.",
+      "seite": 92,
+      "zitat": "gezielt junge Familien anspricht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla kann ländliche Entwicklung nachvollziehen, aber ihre zentrale Sorge ist Verdrängung in Halle oder Magdeburg. Eine Kampagne fürs Wegziehen aus teuren Städten berührt ihre Skepsis, dass Politik Wohnungsdruck eher umlenkt als innerstädtisch entschärft.",
+      "begruendung_selbst": "Ich will nicht hören, dass andere einfach woanders hin sollen. Städte müssen bezahlbar bleiben.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla würde das grüne Programm überwiegend positiv lesen, weil es Wohnen als Grundrecht fasst, Mietendeckel, gemeinwohlorientierte Wohnformen, Vorkaufsrechte und Schutz vor Zwangsräumungen anspricht. Auch ÖPNV, Radverkehr und autoarme Quartiere passen sehr gut zu ihrem Alltag ohne Auto. Kritisch bleibt sie dort, wo Instrumente nur geprüft werden oder Stadtentwicklung nach Aufwertung, Pop-up-Belebung und Ausweichbewegung klingt statt nach hartem Schutz vor Verdrängung.",
+    "score": 2
+  }
+}

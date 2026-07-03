@@ -1,0 +1,78 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:46:03.191Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 90333,
+    "output_tokens": 1546,
+    "cached_tokens": 128,
+    "total_tokens": 91879,
+    "dauer_ms": 15219,
+    "usd": 0.11832685
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Bürokratieabbau für Unternehmen und Mittelstand",
+      "seite": 12,
+      "zitat": "Bürokratisierung beenden, Bürokratieabbau einleiten!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike leidet unter überproportionaler Bürokratie als Soloselbstständige; der Punkt verspricht direkte Entlastung bei Anträgen und Nachweisen.",
+      "begruendung_selbst": "Jede Stunde, die ich nicht mit Formularen verbringe, ist eine Stunde, die ich arbeiten kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Steuern runter für die Kleinen!",
+      "thema": "steuern",
+      "programmpunkt": "Bagatellsteuern streichen und allgemeine Steuerentlastung",
+      "seite": 19,
+      "zitat": "Bagatellsteuern abschaffen, weil sie einen hohen bürokratischen Aufwand verursachen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Schwankende Einkünfte und Vorauszahlungen belasten sie besonders; Vereinfachung und Senkung treffen ihre finanzielle Unsicherheit direkt.",
+      "begruendung_selbst": "Weniger Steuerstress bedeutet, dass ich in schlechten Monaten nicht gleich pleite gehe.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Nur traditionelle Familien zählen!",
+      "thema": "familie",
+      "programmpunkt": "Familie aus Mann und Frau als normative Normalität fördern, alternative Lebensentwürfe ablehnen",
+      "seite": 4,
+      "zitat": "Wir sprechen uns daher klar gegen die staatliche Bewerbung und Förderung alternativer Lebensentwürfe aus.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Single ohne Kinder und mit selbstbestimmtem Lebensstil fühlt sich Mareike von der einseitigen Normierung ausgeschlossen und in ihrer Existenzform abgewertet.",
+      "begruendung_selbst": "Ich passe nicht in ihr Bild von der richtigen Familie – und dann gibt’s auch keine Unterstützung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "KSK und Solo-Absicherung? Fehlanzeige!",
+      "thema": "gesundheit",
+      "programmpunkt": "Keine Maßnahmen zur Stärkung sozialer Absicherung für Soloselbstständige oder KSK",
+      "seite": null,
+      "zitat": null,
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Ihre zentralen Sorgen – Krankheit, Flaute, Alter – werden im gesamten Programm nicht adressiert; stattdessen liegt Fokus auf Familien und traditionellen Strukturen.",
+      "begruendung_selbst": "Wenn ich krank werde oder Aufträge wegbleiben, fange ich immer noch nichts auf.",
+      "beleg_ok": null,
+      "beleg_hinweis": "kein Zitat/keine Seite"
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike sieht punktuelle Entlastung bei Bürokratie und Steuern, doch das Programm ignoriert ihre existenziellen Risiken als Soloselbstständige und drängt stattdessen ein enges Familienbild. Insgesamt überwiegt die Enttäuschung.",
+    "score": -1
+  }
+}

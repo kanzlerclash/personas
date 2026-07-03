@@ -1,0 +1,101 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:46:36.627Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95878,
+    "output_tokens": 2073,
+    "cached_tokens": 128,
+    "total_tokens": 97951,
+    "dauer_ms": 18105,
+    "usd": 0.1263706
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Freibetrag für Solo-Selbstständige!",
+      "thema": "steuern",
+      "programmpunkt": "Weiterentwicklung der Gewerbesteuer zur Gemeindewirtschaftssteuer mit einheitlichem Freibetrag von 24.500 Euro für kleine Existenzen",
+      "seite": 18,
+      "zitat": "mit einem einheitlichen Freibetrag von 24.500 Euro",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike spürt die Steuer- und Beitragslast als Soloselbstständige mit schwankendem Einkommen besonders stark; der Freibetrag würde ihre Kleinbetriebsgröße direkt entlasten.",
+      "begruendung_selbst": "Endlich wird meine winzige Existenz nicht mehr wie ein Großkonzern behandelt – 24.500 Euro Freibetrag, das ist mal fair.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Verwaltung statt Formular-Dschungel!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungsdigitalisierung mit Prozessanalyse, Digital-Check für Gesetze und KI-Einsatz zur Entlastung",
+      "seite": 143,
+      "zitat": "Untersuchungen in allen Verwaltungsbereichen durchführen, bevor digitalisiert wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike kämpft täglich mit Akquise, Buchhaltung und Behördenwegen; echte Bürokratievereinfachung und digitale Anträge würden ihren Alltag spürbar erleichtern.",
+      "begruendung_selbst": "Weniger Papierkrieg, mehr Zeit für echte Arbeit – endlich wird die Verwaltung nicht noch komplizierter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kulturförderung und faire Honorare!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Stärkung öffentlicher Kulturförderung, verbindliche Mindesthonorare und Dynamisierung der Landesmittel für Kultureinrichtungen",
+      "seite": 70,
+      "zitat": "verbindliche Mindesthonorare für Künstler:innen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Kreativschaffende ist Mareike direkt auf Kulturförderung und faire Bezahlung angewiesen; die Forderung nach Mindesthonoraren und verlässlicher Finanzierung trifft ihre Existenzgrundlage.",
+      "begruendung_selbst": "Endlich wird nicht nur von Kultur geredet, sondern auch dafür gezahlt – das brauche ich zum Überleben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Alles nur für Angestellte – ich falle wieder durchs Raster!",
+      "thema": "arbeit",
+      "programmpunkt": "Tarifbindung stärken, Mitbestimmung und Vergabemindestlohn vor allem für Beschäftigte in Betrieben",
+      "seite": 86,
+      "zitat": "Tarifbindung stärken - faire Löhne sichern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist Soloselbstständige ohne Tarifvertrag oder Betriebsrat; die Maßnahmen adressieren fast ausschließlich abhängig Beschäftigte und lassen ihre prekäre Lage unberührt.",
+      "begruendung_selbst": "Schön für die mit festem Job, aber für mich als Solo gibt’s wieder nichts – ich bin einfach nicht vorgesehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Steuern und Beiträge, weniger Netto!",
+      "thema": "steuern",
+      "programmpunkt": "Wiedereinführung der Vermögenssteuer und Reform der Erbschaftssteuer zur Umverteilung",
+      "seite": 17,
+      "zitat": "Eine Bundesratsinitiative zur Wiedereinführung der Vermögenssteuer",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike hat kaum Rücklagen und schwankendes Einkommen; zusätzliche Steuerlasten auf Vermögen oder höhere Beiträge würden ihre ohnehin dünne finanzielle Lage weiter belasten.",
+      "begruendung_selbst": "Ich hab kaum was, und jetzt soll noch mehr abgeben werden? Das trifft genau die, die schon am Limit sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "KSK und Selbstständigen-Absicherung? Fehlanzeige!",
+      "thema": "gesundheit",
+      "programmpunkt": "Fokus auf stationäre Versorgung, Pflegevollversicherung und kommunale Gesundheitsfinanzierung ohne spezifische Regelungen für Soloselbstständige",
+      "seite": 56,
+      "zitat": "eine solidarische Pflegevollversicherung auf Bundesebene",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist über die KSK versichert und hat keine betriebliche Absicherung; das Programm spricht fast nur von abhängig Beschäftigten und Pflegebedürftigen, nicht von der Lücke für Solo-Selbstständige.",
+      "begruendung_selbst": "Krankheit oder Flaute – bei mir springt nichts ein. Das Programm vergisst Leute wie mich komplett.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet punktuelle Entlastungen bei Steuern für Kleinste und bei Kulturförderung sowie Digitalisierung der Verwaltung nachvollziehbar und hilfreich. Gleichzeitig überwiegt die Enttäuschung, weil fast alle sozialen und arbeitsmarktpolitischen Maßnahmen auf abhängig Beschäftigte zugeschnitten sind und ihre spezifische Lage als Soloselbstständige mit schwankendem Einkommen und fehlender Absicherung kaum adressiert wird.",
+    "score": -1
+  }
+}

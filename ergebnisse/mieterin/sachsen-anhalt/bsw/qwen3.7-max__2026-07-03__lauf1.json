@@ -1,0 +1,101 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T08:01:53.925Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66054,
+    "output_tokens": 7714,
+    "cached_tokens": 59008,
+    "total_tokens": 73768,
+    "dauer_ms": 143052,
+    "usd": 0.0756695
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich eine echte Mietpreisbremse!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei fordert einen bundesweiten Mietendeckel und will den Aufkauf großer Wohnungsbestände durch renditeorientierte Investoren klar begrenzen.",
+      "seite": 30,
+      "zitat": "Ein bundesweiter Mietendeckel ist dafür ein geeignetes Instrument.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht in der Begrenzung von Mietsteigerungen und der Eindämmung von Immobilieninvestoren genau die Maßnahmen, die sie vor Verdrängung in ihrem aufgewerteten Viertel schützen könnten.",
+      "begruendung_selbst": "Wenn die Mieten nicht gedeckelt werden, kann ich mir mein eigenes Viertel bald nicht mehr leisten. Gut, dass hier jemand den Investoren die Grenzen zeigen will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnen ist kein Spekulationsgut!",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm fordert die Rekommunalisierung der Wohnungswirtschaft und lehnt weitere Privatisierungen ab, da Wohnen in öffentliche oder genossenschaftliche Hand gehöre.",
+      "seite": 76,
+      "zitat": "Wohnungswirtschaft und soziale Infrastruktur gehören in öffentliche oder genossenschaftliche Hand",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carlas Grundüberzeugung, dass Wohnen Teil der Daseinsvorsorge ist und dem reinen Markt entzogen werden muss, wird hier explizit bestätigt.",
+      "begruendung_selbst": "Wohnen ist Daseinsvorsorge und kein Aktienpaket. Endlich sagt mal jemand klar, dass Wohnungen der Allgemeinheit und nicht renditegeilen Konzernen gehören.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vorkaufsrecht stoppt die Verdrängung!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will die kommunalen Vorkaufsrechte konsequent nutzen, um Leerstand und Spekulation auf dem Wohnungsmarkt zu bekämpfen.",
+      "seite": 34,
+      "zitat": "konsequente Nutzung kommunaler Vorkaufsrechte gegen Leerstand und Spekulation.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Schutz vor dem Ausverkauf ihres Viertels an Investoren ist für Carla existenziell; das Vorkaufsrecht ist für sie ein zentrales Werkzeug des Milieuschutzes.",
+      "begruendung_selbst": "Wenn der Eigentümer verkauft, muss die Stadt zuschlagen können, bevor wieder ein anonymer Investor zuschlägt und uns alle rausmodernisiert.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Verkehrswende ist kein Zwang!",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW lehnt eine erzwungene Verkehrswende ab und betont, dass das Auto in vielen Regionen unverzichtbar bleibe.",
+      "seite": 32,
+      "zitat": "Eine erzwungene Verkehrswende lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Großstädterin, die auf ÖPNV und Rad setzt, stößt sie sich an der pauschalen Ablehnung einer erzwungenen Verkehrswende, die sie als Rückschritt für die autoarme Stadt und als Zugeständnis an die Autolobby wertet.",
+      "begruendung_selbst": "In der Innenstadt brauchen wir weniger Autos und mehr Platz für Menschen. Wer die Verkehrswende als Zwang diffamiert, hat die Probleme meiner Stadt nicht verstanden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Quoten in meinem Viertel!",
+      "thema": "integration",
+      "programmpunkt": "Das Programm fordert eine Obergrenze für die Belegung von Wohnungen mit Zuwanderern in bestimmten Wohnvierteln, um Ghettobildung zu verhindern.",
+      "seite": 65,
+      "zitat": "Obergrenze für die Belegung von Wohnungen mit Zuwanderern in den Wohnvierteln",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carlas progressives, auf soziale Gerechtigkeit und eine gemischte Stadt ausgerichtetes Menschenbild kollidiert frontal mit der Forderung nach räumlicher Segregation und Obergrenzen für Migranten.",
+      "begruendung_selbst": "Eine lebendige Stadt lebt von ihrer Vielfalt. Menschen nach Herkunft in Stadtviertel sortieren zu wollen, ist nicht nur unrealistisch, sondern zutiefst diskriminierend.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Queere Sichtbarkeit ist kein Nischenthema!",
+      "thema": "familie",
+      "programmpunkt": "Die Partei marginalisiert Debatten über Pronomen oder das Hissen von Regenbogenflaggen als unwichtige Symbolpolitik und warnt vor ideologischer Einflussnahme.",
+      "seite": 39,
+      "zitat": "Hissen von Flaggen im Landtag halten wir nicht für politische Kernaufgaben.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als progressive Großstädterin empfindet Carla die Abwertung queerer Sichtbarkeit und den Kulturkampf gegen sogenannte Gender-Ideologie als rückständig und als Angriff auf die offene, diverse Stadtgesellschaft.",
+      "begruendung_selbst": "Sichtbarkeit und Respekt für queere Menschen sind keine Symbolpolitik, sondern Grundlage einer freien Gesellschaft. Dieser Kulturkampf ist einfach nur von gestern.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla begrüßt die klaren mieterschützenden und anti-spekulativen Positionen im Wohnungsbau, die ihre existenziellen Ängste vor Verdrängung direkt adressieren. Gleichzeitig stoßen die konservativen kulturpolitischen Aussagen und die autozentrierte Verkehrspolitik sie als progressive Großstädterin massiv ab. Die materielle Sicherheit im Wohnbereich und die kulturelle Entfremdung halten sich für sie die Waage.",
+    "score": 0
+  }
+}

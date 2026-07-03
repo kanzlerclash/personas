@@ -1,0 +1,101 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:59:22.068Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 82427,
+    "output_tokens": 7519,
+    "cached_tokens": 0,
+    "total_tokens": 89946,
+    "dauer_ms": 142310,
+    "usd": 0.1531375
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich faire Mindesthonorare!",
+      "thema": "familie",
+      "programmpunkt": "Die Linke fordert verbindliche Mindesthonorare für Künstler:innen und Kreative bei öffentlich geförderten Projekten sowie eine Erhöhung des Kulturbudgets.",
+      "seite": 70,
+      "zitat": "verbindliche Mindesthonorare für Künstler:innen, gerade bei öffentlich geförderten Projekten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike begrüßt die Forderung nach Mindesthonoraren, da sie als Kreative oft mit niedrigen Budgets und Ausbeutung im Kulturbereich konfrontiert ist. Die verbindliche Untergrenze gibt ihr Verhandlungssicherheit bei öffentlichen Aufträgen.",
+      "begruendung_selbst": "Wenn ich für öffentliche Projekte arbeite, soll endlich Schluss sein mit der Bettelei. Ein festes Mindesthonorar gibt mir die Sicherheit, die meine Arbeit wert ist.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Bürokratie-Wahnsinn!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Partei plant eine systematische Prozessanalyse, um überflüssige Aufgaben zu streichen und widersprüchliche Verfahren vor der eigentlichen Digitalisierung radikal zu vereinfachen.",
+      "seite": 143,
+      "zitat": "Überflüssige Aufgaben werden gestrichen, komplizierte und widersprüchliche Verfahren vereinfacht.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soloselbstständige ohne eigene Verwaltungsabteilung leidet Mareike extrem unter dem bürokratischen Aufwand. Das Versprechen, Prozesse vor der Digitalisierung zu verschlanken, trifft genau ihren Nerv.",
+      "begruendung_selbst": "Ich verbringe Tage mit Formularen, die keinen Sinn machen. Wenn die Ämter ihren Mist vorher ausmisten, statt ihn nur zu digitalisieren, wäre mir schon riesig geholfen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kreativwirtschaft wird gesehen!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Ein neues Landesförderprogramm soll offene, partizipative Ansätze und die lokale Kreativwirtschaft gezielt finanziell unterstützen.",
+      "seite": 70,
+      "zitat": "lokale Kreativwirtschaft und demokratische Teilhabe fördert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike hofft auf bessere Förderzugänge für die freie Kreativszene jenseits der großen Institutionen. Die explizite Nennung der lokalen Kreativwirtschaft weckt Hoffnungen auf neue Auftrags- und Fördermöglichkeiten in Halle.",
+      "begruendung_selbst": "Es geht nicht nur um Theater und Museen. Dass die freie Kreativwirtschaft vor Ort endlich als Wirtschaftsfaktor und Förderziel genannt wird, gibt mir Hoffnung auf faire Chancen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Steuerfalle für Freiberufler!",
+      "thema": "steuern",
+      "programmpunkt": "Die Gewerbesteuer soll zu einer Gemeindewirtschaftssteuer erweitert werden, die ausnahmslos alle selbstständigen Einkommen einbezieht, also auch die von Freiberuflern und Solo-Selbstständigen.",
+      "seite": 18,
+      "zitat": "Alle selbstständig erwirtschafteten Einkommen werden einbezogen – mit einem einheitlichen Freibetrag",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Kreative im KSK-System ist Mareike bisher von der Gewerbesteuer befreit. Die Einbeziehung in die neue Gemeindewirtschaftssteuer bedeutet für sie ab dem ersten Euro über dem Freibetrag eine massive zusätzliche Steuer- und Bürokratielast.",
+      "begruendung_selbst": "Ich bin Freiberuflerin, keine GmbH! Mich jetzt in diese Gemeindewirtschaftssteuer zu zwingen, bedeutet nur noch mehr Steuerstress und weniger Netto von meinen eh schon schwankenden Einnahmen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umlage für Solo-Kreative?",
+      "thema": "arbeit",
+      "programmpunkt": "Es soll eine Ausbildungsumlage eingeführt werden, die Betriebe finanziell belastet, die nicht selbst ausbilden, um die Kosten der Ausbildung umzuverteilen.",
+      "seite": 86,
+      "zitat": "Betriebe, die nicht selbst ausbilden, an den Kosten der Ausbildung beteiligt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist soloselbstständig und kann strukturell gar keine Auszubildenden einstellen. Eine Umlage für 'Nicht-Ausbilder' würde sie finanziell bestrafen, obwohl ihre Betriebsstruktur eine Ausbildung schlicht nicht zulässt.",
+      "begruendung_selbst": "Ich bin ein Ein-Personen-Betrieb mit schwankenden Aufträgen – wie soll ich denn bitte ausbilden? Dass ich jetzt eine Umlage zahlen soll, nur weil ich solo bin, ist völlig an der Realität vorbei.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Renten-Zwang für Selbstständige!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke fordert eine gemeinsame gesetzliche Rentenversicherung, in die ausnahmslos alle Erwerbstätigen, also auch Selbstständige und Freiberufler, einzahlen müssen.",
+      "seite": 44,
+      "zitat": "eine gemeinsame gesetzliche Rentenversicherung, in die alle einzahlen müssen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Bei stark schwankendem Einkommen und häufigen Flauten fürchtet Mareike die starren monatlichen Beiträge der gesetzlichen Rentenversicherung. Sie bevorzugt flexible Modelle, die ihre unregelmäßige Auftragslage berücksichtigen, anstatt starrer Zwangssysteme.",
+      "begruendung_selbst": "In Monaten, wo die Aufträge wegbleiben, kann ich mir starre Rentenbeiträge einfach nicht leisten. Dieser Zwang ignoriert komplett, wie prekär und unberechenbar mein Alltag als Solo-Kreative ist.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike begrüßt die Forderungen nach Mindesthonoraren im Kulturbereich und den versprochenen Bürokratieabbau, da dies ihre tägliche Arbeit erleichtern würde. Gleichzeitig bedrohen die Pläne zur Gemeindewirtschaftssteuer für Freiberufler, die Ausbildungsumlage für Solo-Betriebe und der Zwang zur gesetzlichen Rente ihre finanzielle Flexibilität. Das Programm ignoriert an vielen Stellen die spezifischen Realitäten der Soloselbstständigkeit und würde ihre ohnehin prekäre Absicherung weiter belasten.",
+    "score": -1
+  }
+}

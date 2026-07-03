@@ -7,7 +7,7 @@
   "zeitpunkt": "2026-06-30T00:00:00Z",
   "temperatur": 0,
   "lauf": 1,
-  "programm_stand": "Stand 07.05.2026",
+  "programm_stand": null,
   "prompt_version": "vergleich.v1",
   "erzeugt_via": "claude-code-subagent (ohne Gateway)",
   "metrik": {
@@ -20,82 +20,70 @@
   },
   "besonders_gut": [
     {
-      "titel_selbst": "Endlich an Solo-Selbstständige gedacht",
+      "titel_selbst": "Endlich sieht mich jemand!",
       "thema": "arbeit",
-      "programmpunkt": "Wirtschaftspolitik soll bei Solo-Selbstständigen die besonderen Rahmenbedingungen berücksichtigen und soziale Absicherung und Vorsorge stärken.",
+      "programmpunkt": "Die SPD will Kleinbetriebe und Solo-Selbständige mit ihren besonderen Rahmenbedingungen berücksichtigen und ihre soziale Absicherung stärken.",
       "seite": 5,
-      "zitat": "stärkt soziale Absicherung und Vorsorge",
+      "zitat": "insbesondere bei Kleinbetrieben und Solo-Selbständigen die besonderen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Mareikes größte Lücke ist die fehlende Absicherung als Soloselbstständige; dass das Programm sie ausdrücklich als eigene Gruppe nennt und Absicherung verspricht, trifft ihr Kernanliegen.",
-      "begruendung_selbst": "Dass Solo-Selbstständige überhaupt vorkommen und nicht nur die großen Betriebe, ist schon mehr, als ich sonst lese. Absicherung ist genau mein Thema.",
+      "begruendung": "Das Programm benennt Solo-Selbständige ausdrücklich und verspricht, ihre Absicherung und Vorsorge zu stärken, also genau Mareikes größte Lücke.",
+      "begruendung_selbst": "Zum ersten Mal steht meine Erwerbsform da, mit Namen. Soziale Absicherung für Soloselbstständige, das ist mein Thema.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Keine Selbstausbeutung mit Förderung",
-      "thema": "wirtschaft",
-      "programmpunkt": "Honoraruntergrenzen und soziale Mindeststandards sind Voraussetzung öffentlicher Förderung, Selbstausbeutung wird abgelehnt.",
+      "titel_selbst": "Schluss mit Selbstausbeutung",
+      "thema": "arbeit",
+      "programmpunkt": "Öffentliche Kulturförderung soll an soziale Mindeststandards und Honoraruntergrenzen geknüpft werden.",
       "seite": 25,
-      "zitat": "Selbstausbeutung mit öffentlichen Mitteln lehnen wir ab.",
+      "zitat": "Selbstausbeutung mit öffentlichen Mitteln lehnen wir ab",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Mareike kennt Aufträge zu Dumpingkonditionen; Honoraruntergrenzen als Förderbedingung schützen genau jene faire Bezahlung, von der ihre Existenz abhängt.",
-      "begruendung_selbst": "Honoraruntergrenzen statt Arbeiten zum Nulltarif - das ist überfällig. In meiner Branche wird Selbstausbeutung viel zu oft als normal verkauft.",
+      "begruendung": "Honoraruntergrenzen und faire Bedingungen bei geförderten Projekten treffen Mareikes Alltag zwischen guten Monaten und Flaute direkt.",
+      "begruendung_selbst": "Kreativarbeit für ein Taschengeld kenne ich zu gut. Mindesthonorare bei Förderung würden meine Aufträge endlich fair machen.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Faire Zahlungsbedingungen",
-      "thema": "arbeit",
-      "programmpunkt": "Für Kleinbetriebe und Solo-Selbstständige sollen faire Vergabe- und Zahlungsbedingungen gesichert werden.",
+      "titel_selbst": "Weniger Last für die Kleinsten",
+      "thema": "steuern",
+      "programmpunkt": "Abgaben sollen gerade für geringe Einkommen spürbar gesenkt werden, damit mehr netto bleibt.",
+      "seite": 33,
+      "zitat": "Abgaben gerade für geringe Einkommen spürbar gesenkt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bei schwankendem, im Mittel niedrigem Einkommen wirkt eine Entlastung bei Abgaben für Geringverdiener unmittelbar auf Mareikes Budget.",
+      "begruendung_selbst": "Meine Beiträge fressen die schlechten Monate auf. Weniger Abgabenlast unten wäre für mich sofort spürbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie soll nicht ausbremsen",
+      "thema": "demokratie",
+      "programmpunkt": "Berichts- und Dokumentationspflichten sollen reduziert und Förderprogramme leichter zugänglich gemacht werden.",
       "seite": 5,
-      "zitat": "sorgt für faire Vergabe - und Zahlungsbedingungen",
+      "zitat": "Bürokratie darf sie nicht ausbremsen",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Vorfinanzierung und späte Zahlungen bringen Mareike in Liquiditätsnot; faire Zahlungsbedingungen adressieren eine ihrer konkreten Existenzsorgen.",
-      "begruendung_selbst": "Wenn Kunden ewig nicht zahlen, sitze ich auf dem Trockenen. Faire Zahlungsbedingungen sind für mich keine Nebensache, sondern Überleben.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Auch Games sind Kultur",
-      "thema": "wirtschaft",
-      "programmpunkt": "Das Kulturverständnis wird auf digitale Angebote wie Computerspiele erweitert und diese in die Förderung einbezogen.",
-      "seite": 24,
-      "zitat": "Wir erweitern das Kulturverständnis aktiv auf digitale Angebote wie Computerspiele",
-      "bezug": "betrifft_mich",
-      "resonanz": "bestaetigt",
-      "begruendung": "Mareike arbeitet im digitalen Kreativbereich; eine Förderung, die digitale Formate als Kultur anerkennt, öffnet ihr und ihrer Branche neue Zugänge.",
-      "begruendung_selbst": "Endlich wird Digitales als Kultur ernst genommen und nicht belächelt. Das ist genau die Welt, in der ich arbeite.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Ämter ohne Papierkram-Hölle",
-      "thema": "digitalisierung",
-      "programmpunkt": "Verwaltungsverfahren sollen vom Antrag bis zum Bescheid durchgängig digitalisiert werden.",
-      "seite": 34,
-      "zitat": "konsequent Ende - zu - Ende digitalisiert",
-      "bezug": "betrifft_mich",
-      "resonanz": "bestaetigt",
-      "begruendung": "Bürokratie- und Steuerlast überfordern Mareike als Kleinste; eine echte Ende-zu-Ende-Digitalisierung verspricht weniger Aufwand, der bei ihr außer Verhältnis zur Betriebsgröße steht.",
-      "begruendung_selbst": "Ich verbringe Tage mit Formularen, die meinen Mini-Betrieb völlig überfordern. Wenn das digital durchläuft, gewinne ich Zeit zum Arbeiten.",
+      "begruendung": "Vereinfachte Nachweise und leichtere Förderzugänge senken den Verwaltungsaufwand, der für Mareike außer Verhältnis zur Betriebsgröße steht.",
+      "begruendung_selbst": "Ich bin ein Ein-Frau-Betrieb, kein Konzern mit Rechtsabteilung. Einfachere Anträge nehmen mir echten Druck.",
       "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
     {
-      "titel_selbst": "Sichtbarkeit zahlt keine Krankenkasse",
-      "thema": "gesundheit",
-      "programmpunkt": "Die Unterstützung für Solo-Selbstständige bleibt bei Qualifizierung, Beteiligung und Sichtbarkeit, ohne konkretes Sicherungsinstrument.",
-      "seite": 5,
-      "zitat": "öffnet Qualifizierungsangebote und verbessert Beteiligung und Sichtbarkeit",
+      "titel_selbst": "Zahle ich in einen Fonds ein?",
+      "thema": "arbeit",
+      "programmpunkt": "Ein solidarischer Ausbildungsfonds soll geschaffen werden, in den alle Unternehmen einzahlen.",
+      "seite": 8,
+      "zitat": "in das alle Unternehmen einzahlen",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
-      "begruendung": "Mareikes existenzielle Lücke ist die Absicherung bei Krankheit, Auftragsflaute und im Alter; das Programm bietet hier vor allem weiche Maßnahmen wie Sichtbarkeit und Qualifizierung, während die harte soziale Sicherung Bundessache bleibt.",
-      "begruendung_selbst": "Qualifizierung und Sichtbarkeit sind nett, aber wenn ich krank werde oder die Aufträge wegbleiben, fängt mich das nicht auf. Da ist immer noch nichts.",
+      "begruendung": "Ein Umlagesystem für alle Unternehmen könnte auch Solo-Selbständige ohne Ausbildungsmöglichkeit belasten und ihren finanziellen Druck erhöhen.",
+      "begruendung_selbst": "Ausbilden kann ich als Einzelkämpferin gar nicht. Wenn ich trotzdem in so einen Fonds zahlen soll, ärgert mich das.",
       "beleg_ok": true
     }
   ],
   "gesamt": {
-    "zusammenfassung": "Mareike sieht ihre Lebenslage seltener Weise überhaupt mitgedacht: Solo-Selbstständige werden als eigene Gruppe benannt, Honoraruntergrenzen und faire Zahlungsbedingungen geschützt, digitale Kultur gefördert und die Verwaltung entbürokratisiert. Ihr Kernproblem - eine echte soziale Absicherung bei Krankheit, Flaute und im Alter - bleibt jedoch bei weichen Maßnahmen stehen, weil die harte Sicherung Bundessache ist. Für die liberal-progressive, auf Absicherung angewiesene Solo-Kreative überwiegt ein vorsichtig positives Bild mit spürbarer Lücke beim Sicherungsnetz.",
-    "score": 1
+    "zusammenfassung": "Die SPD trifft Mareikes Lebenslage fast punktgenau: Sie benennt Solo-Selbständige ausdrücklich, will ihre soziale Absicherung stärken, Honoraruntergrenzen in der Kulturförderung setzen, Abgaben für Geringe senken und Bürokratie abbauen. Nur ein möglicher Umlage-Fonds weckt leichte Skepsis. Insgesamt das Programm, das ihre Kernsorgen am direktesten aufgreift.",
+    "score": 2
   }
 }

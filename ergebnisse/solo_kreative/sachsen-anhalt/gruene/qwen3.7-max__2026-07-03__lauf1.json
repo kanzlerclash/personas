@@ -1,0 +1,125 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:51:35.395Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69732,
+    "output_tokens": 3150,
+    "cached_tokens": 59008,
+    "total_tokens": 72882,
+    "dauer_ms": 63368,
+    "usd": 0.041552
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Schutz bei Auftragsflaute!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei will soziale Arbeitsmärkte stärken und plant auf Bundesebene eine Bürgerversicherung, die alle Erwerbstätigen und Einkommensarten einbezieht.",
+      "seite": 76,
+      "zitat": "Die Integration von Langzeitarbeitslosen wollen wir über soziale Arbeitsmärkte deutlich stärken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike lebt in der ständigen Angst, bei einer längeren Auftragsflaute oder Krankheit ohne Einkommen dazustehen und durch das soziale Raster zu fallen. Die Aussicht auf soziale Arbeitsmärkte als Auffangnetz und eine Bürgerversicherung, die auch Selbstständige und Kapitaleinkünfte einbezieht, trifft genau ihren Kernwunsch nach einer Absicherung jenseits der reinen Marktlogik.",
+      "begruendung_selbst": "Wenn die Aufträge mal wieder wochenlang ausbleiben, fange ich keinen Schutz auf. Dass jetzt endlich über soziale Arbeitsmärkte und eine Bürgerversicherung für alle geredet wird, gibt mir die Hoffnung, dass ich im Notfall nicht komplett ins Leere falle.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Schluss mit dem Bürokratie-Wahnsinn!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Die Partei fordert den konsequenten Abbau von Bürokratie, Dokumentations- und Berichtspflichten sowie medienbruchfreie, digitale Prozesse und eine zentrale Sachsen-Anhalt-App für alle Verwaltungsdienstleistungen.",
+      "seite": 89,
+      "zitat": "Wir wollen Bürokratie abbauen, Dokumentations- und Berichtspflichten sollen reduziert und Verfahren durch klare Zuständigkeiten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soloselbstständige verbringt Mareike unverhältnismäßig viel Zeit mit Steuererklärungen, KSK-Meldungen und Förderanträgen. Das Versprechen, Bürokratie abzubauen und digitale, zentralisierte Zugänge zu schaffen, resoniert stark mit ihrem Alltag, in dem jeder administrative Aufwand direkt von der bezahlten Projektarbeit abgeht.",
+      "begruendung_selbst": "Ich bin Ein-Frau-Unternehmen, keine Verwaltungsbehörde! Wenn ich für jeden Förderantrag und jede Meldung einen halben Tag opfern muss, fehlt mir die Zeit fürs eigentliche Geldverdienen. Eine App und weniger Papierkram wären ein echter Gamechanger.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kultur ist keine Sparmasse!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei lehnt Einsparungen im Kulturbereich kategorisch ab, definiert Kultur als Pflichtaufgabe der Daseinsvorsorge und fordert eine verlässliche, mehrjährige Förderung für die Freie Szene und Soziokultur.",
+      "seite": 69,
+      "zitat": "Einsparungen im Kulturbereich lehnen wir ab, denn Kultur ist Daseinsvorsorge. Deswegen fordern wir, dass mindestens 1,5 Prozent",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareikes Existenzgrundlage hängt direkt an der Kultur- und Kreativwirtschaft. Die klare Absage an Kürzungen und die Forderung nach einer gesetzlichen Verankerung der Kulturförderung als Daseinsvorsorge bestätigen ihre Haltung, dass kreative Arbeit systemrelevant ist und nicht bei jedem Haushaltsloch zur Disposition stehen darf.",
+      "begruendung_selbst": "Bei jedem leeren Haushaltstopf wird zuerst bei der Kultur gekürzt, als wären wir nur ein nettes Hobby. Dass hier klar gesagt wird: Kultur ist Daseinsvorsorge und Einsparungen gibt es mit uns nicht, ist für meine Branche ein echtes Überlebenssignal.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Steuern automatisch – endlich!",
+      "thema": "steuern",
+      "programmpunkt": "Die Partei will Steuerpflichtige, die nur Einkünfte aus nichtselbstständiger Arbeit oder Renten beziehen, von der Pflicht zur Steuererklärung befreien und stattdessen automatische Festsetzungsentwürfe einführen.",
+      "seite": 96,
+      "zitat": "Steuerpflichtige, die ausschließlich Einkünfte aus nichtselbstständiger Arbeit bzw. Renteneinkünfte beziehen, wollen wir von der Pflicht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Mareike als Selbstständige weiterhin Erklärungen abgeben muss, begrüßt sie die Entlastung von Normalarbeitnehmern. Es passt zu ihrer progressiven Grundhaltung und entlastet ihr Umfeld sowie potenzielle Auftraggeber von unnötigem Verwaltungsaufwand, was sie im Sinne einer modernen, digitalen Verwaltung absolut unterstützt.",
+      "begruendung_selbst": "Warum müssen Leute, die nur einen normalen Job haben, überhaupt noch diese komplizierten Formulare ausfüllen? Dass das Finanzamt das endlich automatisch macht, ist überfällig und entlastet Millionen Menschen vom selben Bürokratie-Mist, der mich täglich nervt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kreativwirtschaft wird ernstgenommen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei plant ein Landesprogramm für Soziokultur, mehrjährige Förderverträge als Standard für die Freie Szene und die Anerkennung von Clubs als schützenswertes Kulturgut mit Basisförderung.",
+      "seite": 70,
+      "zitat": "Wir setzen uns entschlossen dafür ein, die Freie Szene und die Soziokultur in Sachsen-Anhalt zu stärken, indem wir die Fördermittel",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mehrjährige Förderverträge und die Aufstockung der Mittel für die Freie Szene bedeuten für Mareike und ihr Netzwerk verlässlichere Auftraggeber und weniger prekäre Projektfinanzierungen. Die strukturelle Stärkung der Soziokultur sichert das Ökosystem, in dem sie als Kreative arbeitet.",
+      "begruendung_selbst": "Dieses ständige Hinterherrennen von Projektförderungen, die nur für drei Monate reichen, macht einen mürbe. Wenn die Freie Szene jetzt mehrjährige Verträge und verlässliche Basisförderungen bekommt, können wir endlich planen, statt nur zu überleben.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wo bleibt die KSK-Absicherung?",
+      "thema": "arbeit",
+      "programmpunkt": "Das Programm fordert eine Ausbildungsgarantie, faire Löhne und die Stärkung von Tarifverträgen, schweigt aber vollständig zur spezifischen sozialen Absicherung von Soloselbstständigen und der Zukunft der Künstlersozialkasse.",
+      "seite": 76,
+      "zitat": "Gute Arbeit braucht verlässliche Rahmenbedingungen wie faire Bezahlung, sichere Jobs und starke Mitbestimmung. Tarifverträge und Betriebsräte",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes größte existenzielle Sorge ist die fehlende Absicherung bei Krankheit oder im Alter als Soloselbstständige in der KSK. Dass das Programm 'gute Arbeit' fast ausschließlich über Tarifverträge, Betriebsräte und klassische Angestelltenverhältnisse definiert und die spezifische Prekarität der Solo-Selbstständigkeit sowie den Schutz der KSK mit keinem Wort erwähnt, enttäuscht sie zutiefst.",
+      "begruendung_selbst": "Ich lese hier seitenlang von Tarifverträgen und Betriebsräten – super für Angestellte! Aber ich bin soloselbstständig. Wenn ich krank bin oder die KSK unter Druck gerät, bin ich komplett nackt. Dass meine Realität in der 'Gute Arbeit'-Strategie einfach ignoriert wird, fühlt sich an wie ein Schlag ins Gesicht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fördergelder nur für Öko-Tech?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Wirtschaftsförderung und GRW-Mittel sollen konsequent an den Beitrag zur Transformation zu einer kohlenstoffarmen Wirtschaft und an Klimaziele gekoppelt werden.",
+      "seite": 88,
+      "zitat": "Die Ausreichung der Wirtschaftsförderung aus den GRW-Mitteln im Land soll neben dem Förderzweck auch an den Beitrag zum Transformationsprozess",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike befürwortet Klimaschutz, sieht aber die Gefahr, dass Fördermittel für die Kreativ- und Digitalwirtschaft abgezweigt oder an Hürden geknüpft werden, die für eine Solo-Designerin irrelevant oder unerfüllbar sind. Wenn 'GreenInvest' und CO2-Neutralität die einzigen Maßstäbe für Wirtschaftsförderung werden, fällt die klassische Kreativwirtschaft oft durchs Raster.",
+      "begruendung_selbst": "Klar, Klimaschutz ist wichtig. Aber wenn ich als Designerin oder Texterin mal einen Zuschuss für neue Software oder ein Studio brauche, werde ich doch nicht nach meinem CO2-Fußabdruck gefragt! Ich habe Angst, dass das ganze Fördergeld nur noch an Tech-Startups und Öko-Industrie geht und wir Kreativen wieder leer ausgehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Honorare? Fehlanzeige!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Programm fordert faire Erzeugerpreise in der Landwirtschaft und Tariftreue bei öffentlichen Aufträgen für Baugewerbe und Industrie, ignoriert aber die Problematik von Dumping-Honoraren in der Kreativ- und Medienbranche.",
+      "seite": 76,
+      "zitat": "Öffentliche Aufträge sollen nur an Unternehmen mit fairen Löhnen vergeben werden. Auch in der Privatwirtschaft sollen Tarifbindung und",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Öffentliche Auftraggeber sind für Mareike oft wichtige Kunden. Dass das Tariftreuegesetz hier primär auf klassische Gewerke und Löhne abzielt, aber keine Mindesthonorare oder faire Vergütungsstandards für freiberufliche kreative Dienstleistungen (Design, Text, Konzeption) bei öffentlichen Ausschreibungen fordert, lässt ihr spezifisches Honorar-Problem ungelöst.",
+      "begruendung_selbst": "Wenn die Stadt ein neues Logo oder eine Kampagne braucht, wird oft der billigste Freelancer genommen, statt auf faire Honorare zu achten. Dass hier nur von 'fairen Löhnen' bei Baufirmen die Rede ist, aber öffentliche Auftraggeber uns Kreative weiterhin mit Dumping-Honoraren abspeisen dürfen, ist ein echtes Versäumnis.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike schätzt das klare Bekenntnis zur Kulturförderung als Daseinsvorsorge und den versprochenen Bürokratieabbau, da dies ihre tägliche Arbeitsrealität direkt entlastet. Gleichzeitig enttäuscht sie das Fehlen konkreter sozialpolitischer Antworten für Soloselbstständige und die Künstlersozialkasse, da das Programm 'gute Arbeit' fast ausschließlich aus der Perspektive klassischer Angestelltenverhältnisse denkt. Die starke Fokussierung der Wirtschaftsförderung auf klimarelevante Tech-Branchen lässt sie um den Zugang zu Mitteln für die klassische Kreativwirtschaft fürchten.",
+    "score": 0
+  }
+}

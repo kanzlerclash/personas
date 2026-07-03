@@ -1,0 +1,88 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mietendeckel gegen Mietsteigerungen",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW will Mietsteigerungen wirksam begrenzen und hält einen bundesweiten Mietendeckel für geeignet.",
+      "seite": 30,
+      "zitat": "Ein bundesweiter Mietendeckel ist dafür ein geeignetes Instrument",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein Mietendeckel adressiert Carlas zentrale Sorge vor weiter steigenden Mieten in ihrem aufgewerteten Viertel.",
+      "begruendung_selbst": "Ein Mietendeckel – endlich eine Bremse für die Mieten in meinem Viertel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Ausverkauf öffentlicher Wohnungen",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW lehnt die Privatisierung öffentlichen Wohnraums bei Wohnraummangel ab.",
+      "seite": 31,
+      "zitat": "Keine Privatisierung öffentlichen Wohnraums bei Wohnraummangel",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht öffentlichen Wohnraum als Schutz vor reiner Marktlogik; ein Privatisierungsstopp sichert bezahlbaren Bestand.",
+      "begruendung_selbst": "Öffentliche Wohnungen gehören nicht auf den Markt – die sind unser Schutz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozialer Wohnungsbau ausweiten",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW will den sozialen Wohnungsbau deutlich ausweiten.",
+      "seite": 76,
+      "zitat": "Der soziale Wohnungsbau muss deutlich ausgeweitet",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mehr Sozialwohnungen entsprechen Carlas Wunsch nach mehr gemeinwohlorientiertem Wohnraum.",
+      "begruendung_selbst": "Mehr Sozialwohnungen – das entlastet den Markt und Leute wie mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Deutschlandticket günstiger",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW will das Deutschlandticket erhalten und perspektivisch günstiger machen.",
+      "seite": 33,
+      "zitat": "muss erhalten bleiben und perspektivisch günstiger werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein erhaltenes, günstigeres Ticket senkt Carlas Mobilitätskosten in ihrem autofreien Alltag.",
+      "begruendung_selbst": "Mein Ticket bleibt und wird günstiger – besser geht es für mich kaum.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV langfristig kostenfrei",
+      "thema": "verkehr",
+      "programmpunkt": "Das BSW setzt sich für einen öffentlich organisierten ÖPNV ein, der langfristig für alle kostenfrei ist.",
+      "seite": 76,
+      "zitat": "öffentlich organisierten ÖPNV ein, der langfristig allen Menschen kostenfrei",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein kostenfreier, öffentlich organisierter Nahverkehr stützt Carlas autoarme Stadtvorstellung und entlastet sie finanziell.",
+      "begruendung_selbst": "Ein öffentlicher Nahverkehr für alle, kostenlos – so stelle ich mir Daseinsvorsorge vor.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Auf Carlas Kernthemen liegt das BSW-Programm nah bei ihren Hoffnungen: bundesweiter Mietendeckel, Privatisierungsstopp für öffentlichen Wohnraum, mehr sozialer Wohnungsbau sowie ein erhaltenes, günstigeres und perspektivisch kostenfreies ÖPNV-Angebot. Aus ihrer mieter- und gemeinwohlorientierten Sicht sieht sie ihre zentralen Anliegen bestätigt.",
+    "score": 2
+  }
+}

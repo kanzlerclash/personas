@@ -1,0 +1,150 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 54038,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mehr Sozialwohnungen, endlich",
+      "thema": "wohnen",
+      "programmpunkt": "Die SPD will den sozialen Wohnungsbau stärken, besonders in Oberzentren und für Gruppen mit hohem Bedarf.",
+      "seite": 27,
+      "zitat": "„Der soziale Wohnungsbau wird gestärkt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sucht konkrete Entlastung auf angespannten innerstädtischen Mietmärkten. Mehr sozial gebundener Wohnraum in Oberzentren passt zu ihrem Interesse an bezahlbaren Wohnungen jenseits reiner Marktlogik.",
+      "begruendung_selbst": "Wenn in Halle oder Magdeburg wirklich mehr Sozialwohnungen entstehen, nimmt das Druck aus dem Kessel. Genau solche Wohnungen fehlen in meinem Viertel.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine zweite Miete",
+      "thema": "wohnen",
+      "programmpunkt": "Die klimafreundliche Wärmeversorgung soll so finanziert werden, dass sie Mieterinnen und Mieter nicht zusätzlich überfordert.",
+      "seite": 27,
+      "zitat": "„darf keine zweite Miete werden“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla fürchtet Modernisierungskosten und steigende Nebenkosten fast so stark wie die Kaltmiete. Die Formulierung trifft ihre Sorge, dass Klimaschutz im Gebäude nicht als neue Mietbelastung bei ihr landet.",
+      "begruendung_selbst": "Klimaschutz ja, aber nicht als Brief im Kasten, der meine Warmmiete sprengt. Diese Grenze will ich schwarz auf weiß sehen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kommunale Wohnungen schützen",
+      "thema": "wohnen",
+      "programmpunkt": "Kommunale und genossenschaftliche Wohnungsunternehmen sollen als Daseinsvorsorge stabilisiert werden; Zwangsverkäufe zur Haushaltssanierung sollen ausgeschlossen sein.",
+      "seite": 27,
+      "zitat": "„Zwangsverkäufe zur Haushaltskonsolidierung werden ausgeschlossen“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla bewertet öffentliche und gemeinwohlorientierte Wohnungsbestände als Schutz gegen Verdrängung. Dass kommunale Wohnungen nicht aus Finanznot verkauft werden sollen, bestätigt ihr Verständnis von Wohnen als Daseinsvorsorge.",
+      "begruendung_selbst": "Bitte verkauft nicht wieder die Wohnungen, die uns vor Renditedruck schützen sollen. Kommunale Bestände sind kein Sparschwein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mieter-Solar mitdenken",
+      "thema": "energie",
+      "programmpunkt": "Mieterinnen und Mieter mit geringem Einkommen sollen bei Balkonsolaranlagen und Speichern gefördert werden.",
+      "seite": 6,
+      "zitat": "„Balkonsolaranlagen und Speichern“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn Carla nicht zwingend geringverdienend ist, erkennt sie hier, dass Energiewende nicht nur Eigentümerinnen und Eigentümer adressiert. Das passt zu ihrer Erwartung, dass Daseinsvorsorge und Klimapolitik mietende Haushalte berücksichtigen.",
+      "begruendung_selbst": "Endlich werden nicht nur Leute mit Eigenheim und Dach bedacht. Auch Mieterinnen brauchen Zugang zu günstiger Energie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus und Bahn zählen",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm verspricht ein leistungsfähiges, bezahlbares und verlässliches Bus- und Bahnangebot sowie eine Mobilitätsgarantie.",
+      "seite": 26,
+      "zitat": "„bezahlbares und verlässliches Angebot von Bus und Bahn“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt ohne Auto und misst Stadtpolitik auch an alltagstauglichem ÖPNV. Ein verlässliches, bezahlbares Angebot stützt ihre urbane Lebensweise und reduziert den Zwang zum eigenen Auto.",
+      "begruendung_selbst": "Ich brauche keinen Parkplatz vor der Tür, ich brauche Bahnen, die fahren und bezahlbar bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietgewinne fair besteuern",
+      "thema": "steuern",
+      "programmpunkt": "Erträge aus Mietimmobilien sollen wie andere Einkommen besteuert werden; steuerliche Privilegien für Vermögenseinkünfte sollen wegfallen.",
+      "seite": 33,
+      "zitat": "„Erträge aus Mietimmobilien, Aktien, Kryptowährungen oder Zinsen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht Immobilienvermögen und Mietrenditen als Gegeninteresse zu sicherem Wohnen. Die Gleichbehandlung von Mietimmobilienerträgen mit Arbeitseinkommen spricht ihr Gerechtigkeitsempfinden direkt an.",
+      "begruendung_selbst": "Wer an Mieten verdient, soll nicht steuerlich besser dastehen als Leute, die jeden Monat ihre Miete erarbeiten.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wo ist der Mieterschutz?",
+      "thema": "wohnen",
+      "programmpunkt": "Die SPD benennt bezahlbares Wohnen als Herausforderung, bleibt aber bei Carlas Kernängsten vor Modernisierungsumlage, Eigenbedarf und Umwandlung ohne konkrete Schutzinstrumente.",
+      "seite": 27,
+      "zitat": "„Bezahlbarer Wohnraum bleibt auch“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla erwartet wirksame Mietregulierung und Verdrängungsschutz, nicht nur die allgemeine Problembeschreibung. Dass die Passage keine konkreten Instrumente gegen ihre dringendsten Risiken nennt, lässt sie skeptisch zurück.",
+      "begruendung_selbst": "Ja, bezahlbarer Wohnraum ist eine Herausforderung. Aber was schützt mich konkret vor Modernisierung, Eigenbedarf oder Umwandlung?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentum statt Miete?",
+      "thema": "wohnen",
+      "programmpunkt": "Auf Bundesebene fordert die SPD Entlastungen beim Ersterwerb von Immobilien und eine neue Eigenheimzulage für Familien mit niedrigen Einkommen.",
+      "seite": 33,
+      "zitat": "„Eigenheimzulage für Familien mit niedrigen Einkommen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla hat kaum Vermögen und hält den Kauf in der Innenstadt für unerreichbar. Eigentumsförderung kann für sie wie eine Fehlpriorität wirken, wenn gleichzeitig konkrete Mietpreis- und Verdrängungsschutzinstrumente fehlen.",
+      "begruendung_selbst": "Ich kann mir keine Innenstadtwohnung kaufen. Mir hilft keine Eigenheimzulage, wenn meine Miete nächsten Monat steigt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bauen reicht nicht",
+      "thema": "wohnen",
+      "programmpunkt": "Planungs- und Genehmigungsverfahren sollen beschleunigt und Vergaberecht vereinfacht werden, um schneller zu bauen.",
+      "seite": 27,
+      "zitat": "„Planungs- und Genehmigungsverfahren werden beschleunigt“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla ist nicht gegen Neubau, misstraut aber einer Wohnungspolitik, die vor allem Beschleunigung und Vereinfachung betont. Ohne klare Bindungen an bezahlbare, gemeinwohlorientierte Wohnungen klingt das für sie nach zu viel Vertrauen in den Markt.",
+      "begruendung_selbst": "Schneller bauen ist nur gut, wenn am Ende bezahlbare Wohnungen entstehen. Sonst wird mein Viertel nur noch teurer.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zu viel Asphalt",
+      "thema": "verkehr",
+      "programmpunkt": "Neben ÖPNV und Radverkehr werden große Straßen- und Autobahnprojekte sowie Ortsumfahrungen ausdrücklich als notwendige Neubauprojekte genannt.",
+      "seite": 27,
+      "zitat": "„neue Elbbrücken bei Havelberg, Barby und Aken“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla bewegt sich mit ÖPNV und Rad und wünscht eine autoärmere Stadt. Große Straßenprojekte wirken aus ihrer Perspektive wie ein falscher Schwerpunkt gegenüber städtischer Lebensqualität und klimaschonender Mobilität.",
+      "begruendung_selbst": "Ich will mehr Platz für Bahn, Rad und Menschen. Neue Straßen lösen in meiner Stadt nicht das Wohn- und Lebensqualitätsproblem.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im SPD-Programm mehrere Punkte, die ihre mieterorientierte Perspektive bestätigen: sozialer Wohnungsbau, Schutz kommunaler Wohnungsunternehmen, bezahlbare Wärmewende, ÖPNV und steuerliche Fairness bei Mietimmobilien. Gleichzeitig bleibt ihr wichtigster Schutzbedarf gegen konkrete Verdrängungsmechanismen wie Modernisierungsumlage, Eigenbedarf und Umwandlung weitgehend offen. Insgesamt würde sie das Programm als sozial anschlussfähig, aber wohnungspolitisch nicht hart genug empfinden.",
+    "score": 1
+  }
+}

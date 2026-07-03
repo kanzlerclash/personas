@@ -1,0 +1,101 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:54:17.216Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76960,
+    "output_tokens": 8499,
+    "cached_tokens": 0,
+    "total_tokens": 85459,
+    "dauer_ms": 161810,
+    "usd": 0.153545
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich weniger Papierkram!",
+      "thema": "demokratie",
+      "programmpunkt": "Für jede neue bürokratische Maßnahme müssen mindestens zwei überflüssige Regelungen gestrichen werden, um den Vorschriftendschungel abzubauen.",
+      "seite": 17,
+      "zitat": "müssen mindestens zwei alte Regelungen ersatzlos gestrichen werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike erstickt als Soloselbstständige im administrativen Aufwand, der für ihre Betriebsgröße völlig unverhältnismäßig ist. Eine feste Regel zum Bürokratieabbau verspricht direkte Entlastung im Alltag.",
+      "begruendung_selbst": "Ich verbringe gefühlt mehr Zeit mit Steuererklärungen und Anträgen als mit meinen eigentlichen Design-Projekten. Wenn endlich mal Vorschriften gestrichen statt nur erfunden werden, wäre das ein echter Gamechanger für mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Anträge online, Fristen bindend!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Digitale Prozesse und Bürgerportale werden verpflichtend eingeführt; bei Überschreitung von Entscheidungsfristen durch Behörden gilt ein Antrag automatisch als genehmigt.",
+      "seite": 17,
+      "zitat": "Wenn eine Behörde die vorgeschriebene Entscheidungsfrist überschreitet, gilt der Antrag automatisch als genehmigt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als digital affine Kreative erwartet Mareike moderne, schnelle Verwaltungsprozesse. Die Genehmigungsfiktion schützt sie vor dem finanziellen Risiko, durch behördliche Verzögerungen Aufträge oder Fördergelder zu verlieren.",
+      "begruendung_selbst": "Ich bin es so leid, wochenlang auf irgendeinen Stempel vom Amt zu warten, während meine Deadline beim Kunden längst abgelaufen ist. Wenn die Verwaltung endlich digital wird und Fristen einhalten muss, spart mir das Nerven und Geld.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weg mit den Mini-Steuern!",
+      "thema": "steuern",
+      "programmpunkt": "Bagatellsteuern sollen auf Landesebene abgeschafft werden, um bürokratischen Aufwand ohne nennenswerten Ertrag zu beenden.",
+      "seite": 19,
+      "zitat": "Wir werden Bagatellsteuern abschaffen, weil sie einen hohen bürokratischen Aufwand verursachen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn die Biersteuer sie nicht direkt trifft, signalisiert die Abschaffung von Bagatellsteuern und -abgaben den Willen, unnötige finanzielle und administrative Kleinstbelastungen für Selbstständige und Bürger zu entfernen.",
+      "begruendung_selbst": "Jede noch so kleine Abgabe bedeutet für mich extra Buchhaltungsaufwand. Wenn die Politik endlich kapiert, dass dieser Kleinkram nur Zeit und Nerven kostet, bin ich dafür.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kunst nur noch mit Gesinnungstest?",
+      "thema": "familie",
+      "programmpunkt": "Staatliche Kulturförderung soll vorwiegend an Kunst und Projekte vergeben werden, die einen Beitrag zur deutschen Identitätsfindung leisten; 'antideutsche' Kunst wird nicht mehr gefördert.",
+      "seite": 6,
+      "zitat": "vorwiegend solche Kunst fördern, die einen Beitrag zu deutscher Identitätsfindung leistet.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Mareike ist künstlerische Freiheit und Offenheit die Grundlage ihres Berufs. Die Idee, dass eine Regierung definiert, was 'patriotische' Kunst ist und Fördergelder an ideologische Kriterien knüpft, bedroht ihre Existenz und die gesamte freie Kreativszene.",
+      "begruendung_selbst": "Wer entscheidet denn bitte, ob mein Design 'patriotisch' genug ist? Wenn ich nur noch Fördergelder bekomme, wenn ich der Regierung nach dem Mund male, ist meine künstlerische Freiheit und damit meine Existenzgrundlage komplett am Ende.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Freie Szene wird abgewürgt!",
+      "thema": "demokratie",
+      "programmpunkt": "Dem freien Radio Corax in Halle soll die finanzielle Förderung entzogen werden, da es angeblich linksextremen Ideologien eine Plattform bietet.",
+      "seite": 18,
+      "zitat": "wird die neue Landesregierung die Landesmedienanstalt auffordern, die Bezuschussung einzustellen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike lebt in Halle und schätzt die alternative, offene Kulturszene. Der gezielte Entzug von Fördergeldern für etablierte freie Medienprojekte empfindet sie als Zensur und als direkten Angriff auf das kulturelle Ökosystem, in dem sie sich bewegt.",
+      "begruendung_selbst": "Radio Corax ist hier in Halle einfach Teil der freien Szene. Dass die Partei solchen Projekten jetzt aus rein ideologischen Gründen den Stecker ziehen will, zeigt doch nur, dass sie keine echte Vielfalt aushalten, sondern nur noch Gleichschaltung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Singles und Kinderlose sind nichts wert?",
+      "thema": "familie",
+      "programmpunkt": "Alternative oder nicht-reproduktive Lebensentwürfe werden abgewertet, während ausschließlich die traditionelle Familie aus Vater, Mutter und Kindern als schützenswert und förderwürdig angesehen wird.",
+      "seite": 4,
+      "zitat": "dass sexuelle Abweichungen und nicht-reproduktive Lebensweisen mittlerweile mehr Akzeptanz genießen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Als Single ohne Kinder fühlt sich Mareike durch die Abwertung 'nicht-reproduktiver Lebensweisen' gesellschaftlich und politisch ausgegrenzt. Das Programm ignoriert ihre Lebensrealität und ihren Wert für die Gesellschaft jenseits der traditionellen Familienstruktur.",
+      "begruendung_selbst": "Ich bin 39, Single und lebe von meiner Kreativität. Dass meine Lebensweise hier als 'nicht-reproduktiv' abgewertet und als Problem für die Gesellschaft dargestellt wird, ist einfach nur respektlos und zeigt, dass ich in deren Weltbild gar nicht vorkomme.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike begrüßt die Ansätze zum Bürokratieabbau und zur Digitalisierung der Verwaltung, da sie als Soloselbstständige unter dem administrativen Aufwand leidet. Gleichzeitig schreckt sie die ideologische Gängelung der Kulturförderung und die Abwertung alternativer Lebensentwürfe massiv ab, da dies ihre künstlerische Freiheit und ihre persönliche Lebensrealität als Single direkt bedroht.",
+    "score": -1
+  }
+}

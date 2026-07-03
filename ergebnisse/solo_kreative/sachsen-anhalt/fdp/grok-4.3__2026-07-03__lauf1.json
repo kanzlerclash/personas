@@ -1,0 +1,102 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:46:18.520Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 49954,
+    "output_tokens": 1943,
+    "cached_tokens": 128,
+    "total_tokens": 51897,
+    "dauer_ms": 15326,
+    "usd": 0.0686956
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau für Kleinste!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Bürokratieabbau und digitale One-Stop-Agency für Gründer und Selbstständige",
+      "seite": 8,
+      "zitat": "digitale One-Stop-Agency, die Verfahren bündelt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike spürt die Entlastung durch vereinfachte Verfahren und digitale Bündelung direkt in ihrem Alltag mit Akquise und Buchhaltung.",
+      "begruendung_selbst": "Endlich nicht mehr wochenlang mit Zuständigkeiten kämpfen, sondern mein Produkt machen.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Steuern vereinfachen, keine neuen Lasten!",
+      "thema": "steuern",
+      "programmpunkt": "Vereinfachung des Steuerrechts und Ablehnung neuer Verbrauchssteuern",
+      "seite": 9,
+      "zitat": "gegen die Einführung neuer, erzieherischer Verbrauchssteuern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Schwankende Einkünfte machen komplexe Steuerregeln besonders belastend; die angekündigte Vereinfachung und der Verzicht auf neue Steuern treffen ihre finanzielle Realität.",
+      "begruendung_selbst": "Weniger Papierkram und keine Zuckersteuer oder so – das spart mir Zeit und Geld.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Verwaltung, weniger Wege!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Durchgängig digitale Verwaltungsleistungen und Automatisierung",
+      "seite": 48,
+      "zitat": "Verwaltungsleistungen durchgängig digital nutzen können",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soloselbstständige ohne eigene Verwaltungsabteilung profitiert Mareike von medienbruchfreien, digitalen Prozessen bei Anträgen und Nachweisen.",
+      "begruendung_selbst": "Alles aus dem Wohnzimmer beantragen, ohne hin und her zu rennen – genau das brauche ich.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Eigenverantwortung ohne Netz für mich!",
+      "thema": "arbeit",
+      "programmpunkt": "Stärkung von Eigenverantwortung und weniger staatliche Fürsorge",
+      "seite": 4,
+      "zitat": "Weg von zu viel staatlicher Fürsorge und Bevormundung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike fällt bereits durch bestehende Sicherungssysteme; eine weitere Betonung von Eigenverantwortung ohne konkrete Absicherung für Soloselbstständige verschärft ihre prekäre Lage.",
+      "begruendung_selbst": "Wenn ich krank werde oder Aufträge wegbleiben, fange ich nichts auf – da ist einfach nichts.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kreativwirtschaft bleibt außen vor!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Fokus auf Industrie, Mittelstand und Verteidigung statt Kreativwirtschaft",
+      "seite": 9,
+      "zitat": "Verteidigungsindustrie wird damit zu einer zentralen Branche",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Das Programm priorisiert industrielle und rüstungsbezogene Ansiedlungen, während die Kreativszene, von der Mareike lebt, keine vergleichbare Förderung oder Vernetzung erfährt.",
+      "begruendung_selbst": "Alles für Intel und Rüstung, aber für uns Kreative kommt nichts raus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanktionen statt Absicherung für Selbstständige!",
+      "thema": "gesundheit",
+      "programmpunkt": "Reform des Bürgergelds mit konsequenter Sanktionierung bei fehlender Mitwirkung",
+      "seite": 40,
+      "zitat": "Sanktionsspielraum konsequent ausgeschöpft werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike ist auf flexible Absicherung bei Auftragsflaute angewiesen; die einseitige Betonung von Sanktionen ohne Anpassung an Soloselbstständige ignoriert ihre spezifische Risikolage.",
+      "begruendung_selbst": "Ich falle durch jedes Raster – zu selbstständig für Schutz, zu klein für die Regeln.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike begrüßt die angekündigten Bürokratie- und Steuervereinfachungen sowie die Digitalisierung der Verwaltung, da diese ihren Alltag als Soloselbstständige direkt entlasten. Gleichzeitig lehnt sie die einseitige Betonung von Eigenverantwortung und die fehlende Berücksichtigung von Kreativwirtschaft und sozialer Absicherung für Selbstständige ab. Insgesamt überwiegen die Lücken bei ihrer existenziellen Unsicherheit.",
+    "score": -1
+  }
+}

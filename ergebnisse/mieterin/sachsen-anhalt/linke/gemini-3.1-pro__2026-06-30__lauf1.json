@@ -1,0 +1,100 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich ein Deckel drauf!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke plant, eine Verordnung für angespannte Wohnungsmärkte zu erlassen und eine Mietpreisbremse einzuführen.",
+      "seite": 82,
+      "zitat": "uns für eine Mietpreisbremse einsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla wünscht sich dringend Instrumente gegen die stark steigenden Mieten in ihrem aufgewerteten Altbauviertel. Eine Mietpreisbremse würde ihr finanzielle Sicherheit geben und die drohende Verdrängung bremsen.",
+      "begruendung_selbst": "Eine Mietpreisbremse ist genau das, was wir hier im Viertel jetzt am dringendsten brauchen!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Angst mehr vor Sanierungen!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei fordert die komplette Abschaffung der Modernisierungsumlage, damit Sanierungen nicht mehr auf die Mieten umgelegt werden.",
+      "seite": 84,
+      "zitat": "die Modernisierungsumlage abschaffen,",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ihre größte finanzielle Sorge ist eine teure energetische Sanierung ihres Altbaus. Der Verzicht auf die Umlage nimmt ihr diese existenzielle Angst vor einem erzwungenen Auszug.",
+      "begruendung_selbst": "Dass Sanierungen nicht mehr auf meine Miete abgewälzt werden, nimmt mir meine allergrößte Sorge.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Staat muss selber bauen!",
+      "thema": "wohnen",
+      "programmpunkt": "Es soll eine landeseigene Wohnungsbaugesellschaft gegründet werden, um dauerhaft bezahlbaren und sozial gebundenen Wohnraum zu schaffen.",
+      "seite": 84,
+      "zitat": "Wir setzen uns für die Gründung einer Landeswohnungsbaugesellschaft ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sie misstraut profitorientierten Immobilienunternehmen und befürwortet einen starken staatlichen Akteur auf dem Wohnungsmarkt, der sich am Gemeinwohl statt an Renditen orientiert.",
+      "begruendung_selbst": "Ein landeseigenes Unternehmen kann endlich mal Wohnungen bauen, die auch langfristig bezahlbar bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kostenlose Bahn für uns alle!",
+      "thema": "verkehr",
+      "programmpunkt": "Der öffentliche Personennahverkehr (ÖPNV) soll mittelfristig landesweit komplett kostenfrei zur Verfügung gestellt werden.",
+      "seite": 102,
+      "zitat": "mittelfristig landesweit zum Nulltarif anbieten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla besitzt kein Auto und ist im städtischen Alltag vollständig auf den Nahverkehr angewiesen. Ein Nulltarif würde ihre Lebenshaltungskosten spürbar senken.",
+      "begruendung_selbst": "Da ich ohnehin nur mit der Bahn fahre, würde ein Nulltarif mich jeden Monat enorm entlasten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gesundheit gehört ins Viertel!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die Linke möchte kommunale Versorgungszentren aufbauen, die als zentrale und wohnortnahe Anlaufstellen für die Gesundheit dienen sollen.",
+      "seite": 54,
+      "zitat": "Wir wollen kommunale Versorgungszentren als Rückgrat der wohnortnahen Gesundheitsversorgung fördern.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Sie betrachtet eine gut erreichbare und bezahlbare Gesundheitsversorgung als grundlegende Daseinsvorsorge. Kommunale Zentren direkt in ihrem Umfeld würden ihr im Alltag viel Sicherheit geben.",
+      "begruendung_selbst": "Gesundheit darf kein Luxus sein. Eine verlässliche Anlaufstelle direkt bei mir im Kiez gibt mir Sicherheit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gemeinwohl statt Profitmaximierung!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei will eine Wirtschaftspolitik, die den Menschen in den Mittelpunkt stellt, statt rein marktwirtschaftlichen Profitinteressen und Konzernzentralen zu dienen.",
+      "seite": 87,
+      "zitat": "Wir wollen eine Wirtschaft, die den Menschen dient",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ist der festen Überzeugung, dass der Markt grundlegende gesellschaftliche Aufgaben wie Wohnen und Leben nicht gerecht regelt. Diese systematische Abkehr von reiner Profitlogik spricht ihr aus dem Herzen.",
+      "begruendung_selbst": "Genau meine Meinung: Die Wirtschaft muss den Menschen hier vor Ort dienen und nicht nur Rendite abwerfen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der Linken spricht Carla als urbane Mieterin in fast allen Punkten aus der Seele, da es ihre existenziellen Ängste vor steigenden Mieten und Verdrängung direkt adressiert. Die Forderungen nach einer strikten Mietpreisbremse, der Abschaffung der Modernisierungsumlage und der Gründung einer landeseigenen Wohnungsbaugesellschaft decken sich vollständig mit ihren eigenen politischen Überzeugungen.",
+    "score": 2
+  }
+}

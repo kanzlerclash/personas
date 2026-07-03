@@ -1,0 +1,89 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:45:12.981Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 57079,
+    "output_tokens": 1615,
+    "cached_tokens": 128,
+    "total_tokens": 58694,
+    "dauer_ms": 13441,
+    "usd": 0.07654935
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Deutschlandticket bleibt!",
+      "thema": "verkehr",
+      "programmpunkt": "Erhalt und Ausbau des Deutschlandtickets mit stärkerer Nutzung im ländlichen Raum",
+      "seite": 62,
+      "zitat": "Das Deutschlandticket wollen wir erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla nutzt täglich ÖPNV und Rad und hat kein Auto; der Erhalt des Tickets senkt ihre Mobilitätskosten direkt.",
+      "begruendung_selbst": "Endlich ein Ticket, das ich mir auch weiter leisten kann, ohne ständig aufs Auto umsteigen zu müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radwege und Alltagsradeln fördern",
+      "thema": "verkehr",
+      "programmpunkt": "Ausbau von Radwegen und Unterstützung von Fahrradpendlern mit sicheren Abstellanlagen",
+      "seite": 63,
+      "zitat": "Wir wollen die Zahl der gebauten Radwege steigern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Viertelbewohnerin ohne Auto profitiert Carla von besserer Radinfrastruktur für den Alltag.",
+      "begruendung_selbst": "Mehr sichere Radwege bedeuten für mich endlich entspannteres Pendeln ohne Angst vor dem Verkehr.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mietpreisdeckel? Nein danke!",
+      "thema": "wohnen",
+      "programmpunkt": "Ablehnung von Mietpreisdeckeln und anderen Markteingriffen zugunsten von Eigentumsförderung",
+      "seite": 65,
+      "zitat": "Wir lehnen ideologisch motivierte Markteingriffe wie Mietpreisdeckel",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla fürchtet genau diese Marktlogik, weil sie in ihrem aufgewerteten Viertel bereits steigende Mieten und Verdrängung erlebt.",
+      "begruendung_selbst": "Wieder nur Eigentum fördern und Mieterschutz ablehnen – das ist genau das, was mein Viertel kaputt macht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Enteignungen sind tabu",
+      "thema": "wohnen",
+      "programmpunkt": "Entschiedene Ablehnung willkürlicher Enteignungen und Eingriffe in Eigentumsrechte",
+      "seite": 65,
+      "zitat": "willkürliche Enteignungen und weitere Eingriffe in Eigentumsrechte entschieden ab",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Carla sind gemeinwohlorientierte Instrumente gegen Spekulation notwendig; die CDU stellt sich hier klar auf die Seite von Investoren.",
+      "begruendung_selbst": "Als Mieterin brauche ich Schutz vor Spekulanten, nicht noch mehr Rechte für Vermieter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Erst Eigenheim auf dem Land",
+      "thema": "wohnen",
+      "programmpunkt": "Steuerliche Entlastung beim erstmaligen Erwerb selbstgenutzten Wohneigentums im ländlichen Raum",
+      "seite": 31,
+      "zitat": "Grunderwerbsteuerbefreiung beim erstmaligen Erwerb selbstgenutzten Wohneigentums im ländlichen Raum",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla wohnt in der Innenstadt und hat kein Vermögen für Eigentum; die Maßnahme hilft ihr nicht und ignoriert städtische Mieterprobleme.",
+      "begruendung_selbst": "Ich kann mir sowieso nichts kaufen – warum wird nur das Land-Eigenheim gefördert?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla sieht im Programm vor allem eine marktliberale Wohnungspolitik, die ihre zentrale Sorge – steigende Mieten und Verdrängung – ignoriert oder verschärft. Positive Aspekte bei ÖPNV und Radverkehr können die grundsätzliche Ablehnung von Mieterschutzmaßnahmen nicht ausgleichen.",
+    "score": -1
+  }
+}

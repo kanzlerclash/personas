@@ -1,0 +1,125 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mein Ticket bleibt erhalten!",
+      "thema": "verkehr",
+      "programmpunkt": "Das bundesweit nutzbare Deutschlandticket für den Nah- und Regionalverkehr soll dauerhaft gesichert werden.",
+      "seite": 62,
+      "zitat": "Das Deutschlandticket wollen wir erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Carla kein Auto besitzt und im Alltag vollständig auf Bus und Bahn angewiesen ist, bedeutet diese Zusage für sie eine verlässliche finanzielle Entlastung.",
+      "begruendung_selbst": "Zum Glück wird das Deutschlandticket nicht angetastet! Für mich als tägliche Bahnfahrerin ist das wirklich eine enorme Erleichterung, um in der Stadt mobil zu bleiben.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich mehr sichere Radwege!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei kündigt an, den Ausbau der Radweg-Infrastruktur voranzutreiben und entsprechende regionale Konzepte zu stärken.",
+      "seite": 63,
+      "zitat": "Wir wollen die Zahl der gebauten Radwege steigern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als passionierte Radfahrerin profitiert Carla unmittelbar von einem besseren Wegenetz, das ihre alltäglichen Strecken durch die Stadt sicherer macht.",
+      "begruendung_selbst": "Das ist ein echter Pluspunkt. Ich bin jeden Tag mit dem Rad unterwegs und wir brauchen hier im Viertel dringend mehr Platz und Sicherheit auf den Straßen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sichere Parkplätze für mein Rad!",
+      "thema": "verkehr",
+      "programmpunkt": "Menschen, die mit dem Fahrrad zur Arbeit fahren, sollen durch die Einrichtung sicherer Abstellanlagen und Ladestationen unterstützt werden.",
+      "seite": 63,
+      "zitat": "Fahrradpendler unterstützen wir durch sichere Abstellanlagen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Diese Maßnahme zeigt Verständnis für die praktischen Bedürfnisse des Radverkehrs und löst ein alltägliches Problem von Mieterinnen ohne eigenen Innenhof oder Stellplatz.",
+      "begruendung_selbst": "Gute und sichere Abstellanlagen in der Stadt sind extrem wichtig. Bisher muss ich immer Angst haben, dass mein Fahrrad geklaut wird, wenn ich es draußen anketten muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wichtig für die soziale Mischung!",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU bekennt sich dazu, den Bau von geförderten Sozialwohnungen gezielt zu unterstützen.",
+      "seite": 65,
+      "zitat": "den sozialen Wohnungsbau",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Auch wenn sie als Gutverdienerin selbst nicht in einer Sozialwohnung lebt, ist ihr die Durchmischung ihres Viertels ein Kernanliegen, weshalb sie diesen Schritt ausdrücklich begrüßt.",
+      "begruendung_selbst": "Geförderter Wohnraum ist das Einzige, was unsere Viertel noch davor bewahrt, reine Reichen-Ghettos zu werden. Es ist gut, dass das wenigstens gefördert werden soll.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Mietregulierung ist keine Ideologie!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei positioniert sich klar gegen staatliche Eingriffe in den Wohnungsmarkt und lehnt Schutzmaßnahmen wie den Mietpreisdeckel ab.",
+      "seite": 65,
+      "zitat": "ideologisch motivierte Markteingriffe wie Mietpreisdeckel",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla wünscht sich verzweifelt strenge Regulierungen gegen den Mietenwahnsinn. Dass die CDU solche Schutzmechanismen als ideologisch abtut, empfindet sie als direkte Bedrohung ihrer Existenz im Viertel.",
+      "begruendung_selbst": "Wenn bezahlbare Mieten als „ideologischer Markteingriff“ abgetan werden, zeigt das nur, dass hier Politik für Investoren gemacht wird. Wer schützt mich denn vor Verdrängung, wenn nicht der Staat?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentum schützt mich nicht!",
+      "thema": "wohnen",
+      "programmpunkt": "Um Menschen vor Mietsteigerungen zu bewahren, setzt die Partei primär auf die Förderung von privatem Wohneigentum anstelle von Mieterschutz.",
+      "seite": 65,
+      "zitat": "Deshalb wollen wir den Erwerb von Wohneigentum erleichtern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Da Carla über kein nennenswertes Vermögen verfügt, ist der Kauf einer Immobilie in ihrem teuren Viertel ausgeschlossen. Dieser Lösungsansatz geht völlig an ihrer Lebensrealität vorbei.",
+      "begruendung_selbst": "Soll ich jetzt einfach eine Altbauwohnung kaufen? Das ist für mich völlig unerschwinglich! Anstatt Mieter zu schützen, gibt es wieder nur Geschenke für die, die sich ohnehin Eigentum leisten können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Abgase vor meiner Haustür?",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU plant, die bestehenden Umweltzonen in den Innenstädten aufzuheben und abzuschaffen.",
+      "seite": 62,
+      "zitat": "Überholte Umweltzonen in Innenstädten wollen wir aufheben.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla legt großen Wert auf ein lebenswertes, autoarmes Wohnumfeld in ihrer Großstadt. Die Rücknahme der Umweltzonen widerspricht ihrem Bedürfnis nach sauberer Luft und weniger Verkehrslärm.",
+      "begruendung_selbst": "Ich bewege mich nur mit Rad und Bahn durch mein Viertel. Wenn sie jetzt die Umweltzonen kippen, haben wir nur noch mehr Verkehr, Abgase und Lärm direkt vor der Haustür.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Freie Fahrt für Autos statt für uns!",
+      "thema": "verkehr",
+      "programmpunkt": "Maßnahmen zur Einschränkung des Autoverkehrs, wie beispielsweise Fahrverbote, werden von der Partei vehement abgelehnt.",
+      "seite": 61,
+      "zitat": "sowie diskriminierende Fahrverbote strikt ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als überzeugte Verfechterin einer Verkehrswende hin zu mehr ÖPNV und Radverkehr empfindet Carla die einseitige Verteidigung des motorisierten Individualverkehrs als rückwärtsgewandt und hinderlich.",
+      "begruendung_selbst": "Sobald man fordert, den Autoverkehr in der Stadt endlich mal einzuschränken, schreien sie sofort „Fahrverbot“ und „Ideologie“. So wird das nie etwas mit einer menschenfreundlichen und sicheren Stadt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die CDU punktet bei Carla zwar durch verkehrspolitische Positionen wie den Erhalt des Deutschlandtickets und den Ausbau der Radinfrastruktur. Ihre miet- und wohnungspolitischen Kernforderungen – insbesondere die entschiedene Ablehnung von Mietpreisdeckeln und der Fokus auf Wohneigentum – empfindet die Mieterin jedoch als realitätsfremd und als direkte Bedrohung angesichts ihrer massiven Angst vor Verdrängung.",
+    "score": -1
+  }
+}

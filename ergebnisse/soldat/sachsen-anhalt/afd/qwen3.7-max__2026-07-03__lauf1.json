@@ -1,0 +1,89 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:53:59.066Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 11.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 76964,
+    "output_tokens": 6024,
+    "cached_tokens": 63232,
+    "total_tokens": 82988,
+    "dauer_ms": 112362,
+    "usd": 0.073083
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Schutz für die Truppe!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei fordert ein hartes Vorgehen gegen linksextreme Gruppen, die gezielt Straftaten gegen die Bundeswehr verüben.",
+      "seite": 9,
+      "zitat": "schwerste Straftaten gegen die Polizei, unsere Infrastruktur, die Bundeswehr und Bürger",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan nimmt die Bedrohung durch linksextreme Gewalt gegen militärische Einrichtungen ernst und begrüßt, dass die AfD diese Angriffe auf die Truppe klar benennt und eine harte Verfolgung fordert.",
+      "begruendung_selbst": "Es ist verdammt noch mal richtig, dass endlich jemand ausspricht, was diese linken Chaoten machen. Die greifen nicht nur Polizisten an, sondern ganz gezielt unsere Kasernen und die Truppe. Da muss der Rechtsstaat hart durchgreifen, das ist unser Schutzschild.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sanktionen aufgeben ist naiv!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die AfD will sich für die Aufhebung der Wirtschaftssanktionen gegen Russland einsetzen.",
+      "seite": 12,
+      "zitat": "für die Aufhebung der Russlandsanktionen und aller anderen Wirtschaftssanktionen einsetzen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan sind die Sanktionen ein zentrales Druckmittel des Westens gegen russische Aggression; ihre Aufhebung würde aus seiner Sicht die NATO-Ostflanke schwächen und den Aggressor belohnen.",
+      "begruendung_selbst": "Wie soll ich an der Ostflanke abschrecken, wenn die Politik gleichzeitig die Sanktionen fallen lassen will? Das ist ein fatales Signal an Moskau und untergräbt unsere gesamte Bündnisstrategie.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bedrohungslage wird verkannt!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei betont, keinen Krieg mit Russland zu wollen, und kritisiert die aktuelle Außenpolitik als kriegstreibend.",
+      "seite": 3,
+      "zitat": "dass wir keinen Krieg mit Russland und Frieden in Europa wollen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt die russische Bedrohung an der NATO-Ostflanke als real; die Rhetorik der AfD ignoriert aus seiner Sicht die Notwendigkeit militärischer Abschreckung und Bündnistreue.",
+      "begruendung_selbst": "Frieden in Europa gibt es nur mit einer starken NATO und glaubwürdiger Abschreckung. Wer die russische Bedrohung an unserer Ostflanke ausblendet, hat den Ernst der Lage im Dienst nicht verstanden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ukraine-Hilfe ist kein Geschenk!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die finanzielle und militärische Unterstützung der Ukraine wird als Verschwendung von Steuergeldern abgetan.",
+      "seite": 3,
+      "zitat": "oder an die Ukraine verschenkt werden, während die Schlaglöcher in unseren Straßen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan sieht die Unterstützung der Ukraine als essenziell für die europäische Sicherheitsarchitektur; die Gleichsetzung mit verschenktem Geld widerspricht seinem Verständnis von Bündnissolidarität.",
+      "begruendung_selbst": "Die Ukraine kämpft an vorderster Front für unsere gemeinsame Sicherheit. Das als 'verschenktes Geld' abzutun, ist zynisch und zeigt, dass man keine Ahnung von geopolitischer Verantwortung hat.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Abhängigkeit von Russland?",
+      "thema": "energie",
+      "programmpunkt": "Die Partei fordert die Reparatur und Wiederinbetriebnahme der Nord-Stream-Pipelines für russisches Gas.",
+      "seite": 13,
+      "zitat": "die energiepolitischen Sanktionen gegen Russland beendet und die deutsch-russischen Handelsbeziehungen normalisiert",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Eine Rückkehr zu russischen Energieimporten würde aus Stefans Sicht die strategische Abhängigkeit von einem aggressiven Akteur wiederherstellen und die nationale Sicherheit gefährden.",
+      "begruendung_selbst": "Wir haben mühsam gelernt, dass wir uns nicht von russischem Gas erpressen lassen dürfen. Jetzt wieder die Pipelines aufzumachen, wäre sicherheitspolitisch ein absoluter Rückschritt und ein Geschenk an den Kreml.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan bewertet das Programm überwiegend sehr negativ, da die außen- und sicherheitspolitischen Positionen der AfD seinen Kernwerten als NATO-orientierter Berufssoldat fundamental widersprechen. Die Forderungen nach einer Annäherung an Russland, der Aufhebung von Sanktionen und die Abwertung der Ukraine-Hilfe untergraben aus seiner Sicht die Bündnistreue und die Abschreckung an der Ostflanke. Einzig die harte Linie gegen linksextreme Gewalt, die sich auch gegen die Bundeswehr richtet, findet seine Zustimmung.",
+    "score": -2
+  }
+}

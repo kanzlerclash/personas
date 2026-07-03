@@ -1,0 +1,138 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:57:48.770Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 25.04.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 41181,
+    "output_tokens": 8916,
+    "cached_tokens": 39168,
+    "total_tokens": 50097,
+    "dauer_ms": 169524,
+    "usd": 0.07001325
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich bessere Radwege!",
+      "thema": "verkehr",
+      "programmpunkt": "Ausbau des Radwegenetzes, Schließung von Lücken, sichere Abstellanlagen und digitale Buchung von Fahrradstellplätzen an Bahnhöfen und ÖPNV-Knoten.",
+      "seite": 71,
+      "zitat": "Den Ausbau des Wegenetzes für Radfahrer erreichen wir vor allem durch das Schließen von Lücken.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla nutzt im Alltag vor allem Rad und ÖPNV und besitzt kein Auto. Der Fokus auf durchgängige, sichere Alltagsradrouten und gute Abstellmöglichkeiten an Knotenpunkten entspricht exakt ihrer Mobilitätsrealität.",
+      "begruendung_selbst": "Ich fahre jeden Tag mit dem Rad zur Arbeit – wenn die Lücken im Netz endlich geschlossen werden und ich mein Rad sicher am Bahnhof abstellen kann, ist das für mich direkt spürbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV-Offensive klingt gut",
+      "thema": "verkehr",
+      "programmpunkt": "Ausbau des ÖPNV mit 30-Minuten-Erreichbarkeit, besserer Pünktlichkeit, On-Demand-Shuttles, Mobilitäts-App und Sicherung von Nebenstrecken.",
+      "seite": 73,
+      "zitat": "Wir bauen das Landes-Bus-Netz aus und modernisieren Angebote im ländlichen Raum",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als autofreie Großstadtbewohnerin profitiert Carla von einem attraktiveren, zuverlässigeren ÖPNV. Die Ankündigung besserer Takte, einer landesweiten Mobilitäts-App und die Sicherung von Neben-strecken decken sich mit ihrem Wunsch nach einer autoarmen Stadt.",
+      "begruendung_selbst": "Wenn Bus und Bahn endlich verlässlich kommen und ich alles in einer App buchen kann, brauche ich erst recht kein Auto. Das ist die Stadt, in der ich leben will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Altschulden endlich angehen",
+      "thema": "wohnen",
+      "programmpunkt": "Ein landeseigener Altschuldenfonds soll kommunale Wohnungsunternehmen und Genossenschaften von DDR-Altlasten befreien, damit diese investieren können.",
+      "seite": 12,
+      "zitat": "Wir wollen einen landeseigenen, befristeten Altschuldenfonds auflegen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla wohnt vermutlich bei einer Genossenschaft oder einem kommunalen Unternehmen. Wenn diese von historischen Schulden entlastet werden, könnte das die Bestände stabilisieren und Modernisierungen ohne extreme Mieterhöhungen ermöglichen.",
+      "begruendung_selbst": "Wenn unsere Genossenschaft endlich Luft zum Atmen bekommt, statt an DDR-Schulden zu ersticken, hilft das vielleicht auch mir als Mieterin – solange es nicht nur den Privaten nützt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Markt richtet's? Von wegen!",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP setzt auf steuerliche Investitionsanreize für private Vermieter statt auf Förderbürokratie und lehnt regulierende Eingriffe ab. Modernisierung soll über Abschreibungen beschleunigt werden.",
+      "seite": 13,
+      "zitat": "Deshalb setzen wir auf steuerliche Investitionsanreize statt auf Förderbürokratie.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla fürchtet genau das: dass Modernisierungen über Steuervorteile für private Vermieter angekurbelt werden, ohne dass der Mieterschutz gestärkt wird. Steuerliche Abschreibungen bedeuten für sie das Risiko steigender Mieten nach energetischer Sanierung.",
+      "begruendung_selbst": "Steuerbonus für Vermieter und dann wird modernisiert – und ich darf die Miete zahlen. Wer schützt mich eigentlich vor dieser 'Investitionsfreiheit'?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentum für alle – außer mich",
+      "thema": "wohnen",
+      "programmpunkt": "Förderung von selbstgenutztem Wohneigentum durch Grunderwerbsteuer-Freibetrag und zinsvergünstigte Darlehen. Der Staat soll den Zugang zu Eigentum erleichtern.",
+      "seite": 12,
+      "zitat": "Wir machen die eigenen vier Wände wieder erreichbar",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Carla ist Wohneigentum in der aufgewerteten Innenstadt unerreichbar. Die FDP-Fokusverschiebung hin zur Eigentumsförderung statt hin zum Schutz von Mieterinnen fühlt sich für sie wie eine Politik für Besserverdienende an, die ihre Lage ignoriert.",
+      "begruendung_selbst": "Eigentum fördern – schön für die, die es sich leisten können. Aber was ist mit mir? Meine Miete steigt, und das Programm redet vom Eigenheim.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Privatisierung? Bloß nicht!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Das Land soll alle Unternehmensbeteiligungen evaluieren und eine umfassende Privatisierungsoffensive starten, da der Staat kein guter Unternehmer sei.",
+      "seite": 9,
+      "zitat": "Wir fordern eine umfassende Privatisierungsoffensive zu starten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla sieht Wohnen als Daseinsvorsorge und befürwortet gemeinwohlorientierte Strukturen. Eine pauschale Privatisierungsoffensive – die potenziell auch kommunale Wohnungsbestände betreffen könnte – widerspricht ihrer Überzeugung, dass der Markt bei der Wohnversorgung versagt.",
+      "begruendung_selbst": "Erst die Wohnungen dem Markt überlassen und dann auch noch alles privatisieren, was der Staat hält? Das ist genau die Logik, die mein Viertel kaputt macht.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    },
+    {
+      "titel_selbst": "Kein Wort über Mieterschutz",
+      "thema": "wohnen",
+      "programmpunkt": "Das gesamte Wohnkapitel fokussiert auf Eigentumsförderung, Bürokratieabbau beim Bauen und steuerliche Anreize für private Investoren. Mietregulierung, Milieuschutz oder Kappungsgrenzen werden nicht erwähnt.",
+      "seite": 11,
+      "zitat": "Unser Leitbild bleibt klar liberal: Der",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carlas zentrale Ängste – Modernisierungsumlage, Eigenbedarfskündigung, Umwandlung in Eigentumswohnungen, Milieuschutz – kommen im gesamten Wohnkapitel nicht vor. Die liberale Grundhaltung, den Markt machen zu lassen, ist für sie das genaue Gegenteil dessen, was sie braucht.",
+      "begruendung_selbst": "Ich habe das ganze Wohnkapitel durchgelesen: kein Wort zu Mietpreisbremse, kein Wort zu Milieuschutz, kein Wort zu meinem Schutz vor Verdrängung. Als ob Mieterinnen wie ich gar nicht existieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürgergeld kürzen – herzlos",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Bürgergeld soll reformiert werden mit konsequenten Sanktionen, gemeinnütziger Arbeitspflicht für Langzeitarbeitslose und Leistungskürzungen bei Verweigerung.",
+      "seite": 40,
+      "zitat": "Wer die Teilnahme verweigert, muss mit Leistungskürzungen rechnen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carlas progressives, sozial gerechtigkeitsorientiertes Weltbild kollidiert mit der Forderung nach Sanktionen und Arbeitspflicht. Sie sieht darin eine Stigmatisierung einkommensschwacher Menschen, die in ihrer aufgewerteten Stadt ohnehin unter Druck stehen.",
+      "begruendung_selbst": "Leute, die eh schon am Rand stehen, noch mehr unter Druck setzen? Das ist nicht die solidarische Stadt, für die ich kämpfe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ladenöffnung sonntags? Nein!",
+      "thema": "arbeit",
+      "programmpunkt": "Die FDP will das Ladenöffnungszeitengesetz vollständig liberalisieren und insbesondere Sonntags- und Feiertagsöffnungen maximal ausweiten.",
+      "seite": 8,
+      "zitat": "Wir werden schnellstmöglich die vollständige Liberalisierung des Ladenöffnungszeitengesetzes",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als Angestellte im Dienstleistungssektor weiß Carla, dass Sonntagsöffnungen vor allem Beschäftigte im Einzelhandel belasten. Die vollständige Liberalisierung steht im Widerspruch zu ihrer Haltung zu Arbeitnehmerrechten und einem geschützten Ruhetag.",
+      "begruendung_selbst": "Sonntags öffnen – auf Kosten der Verkäuferinnen, die dann auch noch ran müssen? Das ist keine Freiheit, das ist Ausbeutung im Namen der Bequemlichkeit.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im FDP-Programm fast nichts, was ihre zentrale Sorge – den Schutz vor Verdrängung und steigenden Mieten – adressiert. Die wenigen positiven Punkte betreffen ihre Mobilität als Radfahrerin und ÖPNV-Nutzerin. Die Wohnungspolitik der FDP, die auf Eigentumsförderung, Privatisierung und steuerliche Anreize für private Investoren setzt, steht in direktem Widerspruch zu ihrer Überzeugung, dass Wohnen Daseinsvorsorge ist und nicht dem freien Markt überlassen werden darf.",
+    "score": -2
+  }
+}

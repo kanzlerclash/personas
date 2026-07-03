@@ -16,7 +16,7 @@ for P in cdu spd gruene afd fdp linke bsw; do node scripts/fix-agy.mjs "$P" sach
 pnpm run verify --fix || true
 pnpm run build || true
 
-N=$(node -e 'const fs=require("fs");const S="landwirt handwerkerin pendler rentnerpaar polizist studentin_queer alleinerziehende pflegekraft eingebuergerte mieterin_berlin industriearbeiter energie_strukturwandel junge_familie_bau solo_kreative landaerztin soldat".split(" ");const P="cdu spd gruene afd fdp linke bsw".split(" ");let n=0;for(const pa of P)for(const sl of S){try{const d=JSON.parse(fs.readFileSync(`ergebnisse/${sl}/sachsen-anhalt/${pa}/gpt-5.5__2026-06-30__lauf1.json`));if(Array.isArray(d.besonders_gut)&&d.gesamt&&d.modell_slug)n++;}catch(e){}}console.log(n);')
+N=$(node -e 'const fs=require("fs");const S="landwirt handwerkerin pendler rentnerpaar polizist studentin_queer alleinerziehende pflegekraft eingebuergerte mieterin industriearbeiter energie_strukturwandel junge_familie_bau solo_kreative landaerztin soldat".split(" ");const P="cdu spd gruene afd fdp linke bsw".split(" ");let n=0;for(const pa of P)for(const sl of S){try{const d=JSON.parse(fs.readFileSync(`ergebnisse/${sl}/sachsen-anhalt/${pa}/gpt-5.5__2026-06-30__lauf1.json`));if(Array.isArray(d.besonders_gut)&&d.gesamt&&d.modell_slug)n++;}catch(e){}}console.log(n);')
 echo "[finalize] GPT-5.5 valide: $N/112"
 
 git add -A

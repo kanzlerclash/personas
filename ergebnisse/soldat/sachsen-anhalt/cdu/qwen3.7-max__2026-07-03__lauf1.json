@@ -1,0 +1,88 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:47:30.257Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 47001,
+    "output_tokens": 7822,
+    "cached_tokens": 0,
+    "total_tokens": 54823,
+    "dauer_ms": 150729,
+    "usd": 0.11218875
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich europäische Wehrhaftigkeit!",
+      "thema": "verteidigung",
+      "programmpunkt": "Sicherung und Ansiedlung von chemischer Grundstoffindustrie, explizit auch für die Verteidigungsindustrie, um europäische Souveränität zu gewährleisten.",
+      "seite": 12,
+      "zitat": "Nitro-Chemie für die Verteidigungsindustrie, Düngemittel-Produktion mit Ammoniak.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan weiß, dass moderne Ausrüstung und Munition ohne eine funktionierende heimische Chemie- und Verteidigungsindustrie nicht denkbar sind. Das Bekenntnis zur Produktion strategisch wichtiger Güter in Europa bestätigt seine Forderung nach echter Wehrhaftigkeit statt nur warmer Worte.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Wenn Europa souverän sein will, müssen wir die Grundstoffe für unsere Ausrüstung auch selbst herstellen können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bundeswehr im Katastrophenschutz!",
+      "thema": "sicherheit",
+      "programmpunkt": "Personelle Stärkung der Krisenmanagement-Abteilung als explizite Schnittstelle zur Bundeswehr für den Bevölkerungsschutz.",
+      "seite": 10,
+      "zitat": "Schnittstelle zum Bund, zur Bundeswehr, zu den Ländern, Ressorts und Kommunen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soldat im Landesinneren ist die Zusammenarbeit mit zivilen Behörden bei Hochwasser oder Großschadenslagen Teil seines Auftrags. Eine gestärkte, klare Schnittstelle zur Bundeswehr bedeutet für ihn effizientere Abläufe und weniger bürokratische Hürden im Ernstfall.",
+      "begruendung_selbst": "Wenn der Ernstfall kommt, zählen klare Kommandowege und eine funktionierende Schnittstelle zur zivilen Seite. Gut, dass das Land hier die Strukturen mit der Truppe stärkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentum für Familien fördern!",
+      "thema": "wohnen",
+      "programmpunkt": "Grunderwerbsteuerbefreiung beim erstmaligen Erwerb von selbstgenutztem Wohneigentum im ländlichen Raum.",
+      "seite": 31,
+      "zitat": "Grunderwerbsteuerbefreiung beim erstmaligen Erwerb selbstgenutzten Wohneigentums im ländlichen Raum.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan lebt mit seiner Familie in der Nähe einer ländlichen Garnison. Die finanzielle Entlastung beim Bau oder Kauf eines Eigenheims gibt ihm und seiner Familie Planungssicherheit und hilft, trotz möglicher Versetzungen Wurzeln im Land zu schlagen.",
+      "begruendung_selbst": "Wir Soldatenfamilien werden oft versetzt, aber wenn wir uns im ländlichen Raum niederlassen, brauchen wir Unterstützung beim Eigentum. Das gibt uns ein echtes Zuhause.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verlässliche Betreuung für Soldatenfamilien!",
+      "thema": "familie",
+      "programmpunkt": "Ausbau flexibler Öffnungszeitenmodelle in der Kinderbetreuung, um die Vereinbarkeit von Familie und Beruf zu verbessern.",
+      "seite": 50,
+      "zitat": "Flexible Öffnungszeitenmodelle sollen helfen, Familie und Beruf besser zu vereinbaren.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Dienst in der Bundeswehr erfordert oft Schichtarbeit, lange Übungen oder spontane Bereitschaften. Stefan ist darauf angewiesen, dass die Kinderbetreuung am Standort verlässlich und flexibel funktioniert, damit er seinen Auftrag erfüllen kann.",
+      "begruendung_selbst": "Ich stehe für dieses Land ein, auch nachts oder am Wochenende. Da muss ich mich darauf verlassen können, dass die Betreuung meiner Kinder flexibel mitspielt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Experimente mit Radikalen!",
+      "thema": "demokratie",
+      "programmpunkt": "Klare Abgrenzung gegen radikale Forderungen von den politischen Rändern, die das Land als Experimentierfeld nutzen wollen.",
+      "seite": 4,
+      "zitat": "Die hitzigen und radikalen Forderungen von ganz links und ganz rechts sind gefährlich.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan verachtet politische Strömungen, die aus ideologischen Gründen NATO-Bündnisse infrage stellen oder Russland-Nähe zeigen. Die klare Absage an radikale Ränder bestätigt sein Verständnis einer wehrhaften, verfassungstreuen Demokratie.",
+      "begruendung_selbst": "Wer an der NATO sägt oder sich nach Osten anbiedert, gefährdet meinen Auftrag und unsere Sicherheit. Solche Experimente brauchen wir nicht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet im Programm der CDU viele Ansatzpunkte, die seine Werte als Soldat und Familienvater im ländlichen Raum bestätigen. Besonders die Fokussierung auf europäische Wehrhaftigkeit durch die Verteidigungsindustrie, die zivil-militärische Zusammenarbeit im Katastrophenschutz und die Förderung von Familieneigentum und flexibler Kinderbetreuung treffen seine Lebensrealität. Da das Programm radikale, bündnisskeptische Strömungen klar ablehnt und konservative Sicherheitspolitik betont, gibt es für ihn kaum inhaltliche Reibungspunkte, auch wenn verteidigungspolitische Kernthemen naturgemäß dem Bund vorbehalten bleiben.",
+    "score": 2
+  }
+}

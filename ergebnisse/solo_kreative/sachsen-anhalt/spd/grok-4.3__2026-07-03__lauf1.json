@@ -1,0 +1,90 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:45:29.041Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 48456,
+    "output_tokens": 1583,
+    "cached_tokens": 128,
+    "total_tokens": 50039,
+    "dauer_ms": 13795,
+    "usd": 0.0656306
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau für Solo-Selbstständige!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Entlastung von Solo-Selbstständigen durch vereinfachte Förderprogramme und reduzierte Dokumentationspflichten",
+      "seite": 5,
+      "zitat": "stärkt soziale Absicherung und Vorsorge",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike profitiert direkt von der angekündigten Vereinfachung von Förderanträgen und Dokumentationspflichten, die ihre ohnehin knappen Ressourcen schonen.",
+      "begruendung_selbst": "Endlich wird anerkannt, dass ich als Einzelkämpferin nicht dieselbe Bürokratie stemmen kann wie ein Großbetrieb.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Soziale Absicherung auch für die Kleinsten!",
+      "thema": "arbeit",
+      "programmpunkt": "Stärkung sozialer Absicherung und Vorsorge speziell für Solo-Selbstständige",
+      "seite": 5,
+      "zitat": "stärkt soziale Absicherung und Vorsorge",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das Programm nennt explizit Solo-Selbstständige als Zielgruppe für bessere soziale Absicherung, was Mareikes zentrale Existenzsorge adressiert.",
+      "begruendung_selbst": "Endlich steht da schwarz auf weiß, dass auch ich nicht durchs Raster fallen soll.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Verwaltung – weniger Papierkrieg!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Beschleunigte Digitalisierung von Genehmigungs- und Verwaltungsverfahren",
+      "seite": 34,
+      "zitat": "Genehmigungs- und Verwaltungsverfahren werden konsequent Ende-zu-Ende digitalisiert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike spart Zeit und Nerven, wenn Anträge und Nachweise digital und ohne Medienbrüche laufen.",
+      "begruendung_selbst": "Weniger Formulare, mehr Zeit für echte Aufträge – das hilft mir sofort.",
+      "beleg_ok": false,
+      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Tarifzwang trifft die Kleinsten am härtesten!",
+      "thema": "arbeit",
+      "programmpunkt": "Stärkung der Tarifbindung durch Tariftreue- und Vergabegesetz ohne Ausnahmen für kleine Betriebe",
+      "seite": 7,
+      "zitat": "Mit dem Tariftreue- und Vergabegesetz stärken wir die Tarifbindung",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike hat keine Tarifpartner und würde durch verpflichtende Tarifbindung bei Aufträgen oder Förderungen zusätzlich belastet.",
+      "begruendung_selbst": "Wer soll das bei mir umsetzen – ich hab weder Betriebsrat noch Tarifvertrag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kulturförderung bleibt vage für Kreative!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Allgemeine Stärkung von Kultur und Kreativwirtschaft ohne konkrete Maßnahmen für Soloselbstständige",
+      "seite": 24,
+      "zitat": "Kultur und Sport sind mehr als Freizeitangebote",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Programm spricht Kultur allgemein an, bleibt aber bei konkreten Förderinstrumenten für freie Kreativschaffende unkonkret.",
+      "begruendung_selbst": "Schöne Worte, aber wo bleibt der verlässliche Topf für uns Solos?",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike sieht einige direkte Entlastungen bei Bürokratie und sozialer Absicherung für Solo-Selbstständige, gleichzeitig aber auch neue Belastungen durch Tarif- und Mitbestimmungsregeln, die auf ihre Betriebsgröße nicht passen. Insgesamt bleibt das Programm ambivalent zu ihrer prekären Lage.",
+    "score": 0
+  }
+}

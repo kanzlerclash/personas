@@ -1,0 +1,88 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:46:30.323Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 19.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 95855,
+    "output_tokens": 1691,
+    "cached_tokens": 2752,
+    "total_tokens": 97546,
+    "dauer_ms": 16541,
+    "usd": 0.12269165
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Mietpreisbremse und Schutz!",
+      "thema": "wohnen",
+      "programmpunkt": "Einführung einer Mietpreisbremse in angespannten Wohnungsmarktlagen und Förderung sozialen Mietwohnungsbaus ohne Befristung.",
+      "seite": 82,
+      "zitat": "uns für eine Mietpreisbremse einsetzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht in der Mietpreisbremse und dem Fokus auf unbefristeten sozialen Mietwohnungsbau direkte Instrumente gegen steigende Mieten und Verdrängung in ihrem Viertel.",
+      "begruendung_selbst": "Endlich wird die Miete nicht mehr dem Markt überlassen – das gibt mir Hoffnung, dass ich nicht raus muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Modernisierungsumlage weg – endlich!",
+      "thema": "wohnen",
+      "programmpunkt": "Abschaffung der Modernisierungsumlage und warmmietenneutrale Sanierungen.",
+      "seite": 84,
+      "zitat": "die Modernisierungsumlage abschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla fürchtet Modernisierungskosten als existenzielle Bedrohung; die klare Absage daran trifft ihre größte Sorge.",
+      "begruendung_selbst": "Kein Brief mehr mit Modernisierung im Kasten, der mich finanziell killt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Landeswohnungsbaugesellschaft – ja!",
+      "thema": "wohnen",
+      "programmpunkt": "Gründung einer Landeswohnungsbaugesellschaft als Partnerin für bezahlbaren, dauerhaft gebundenen Wohnraum.",
+      "seite": 84,
+      "zitat": "Gründung einer Landeswohnungsbaugesellschaft",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla begrüßt eine öffentliche Akteurin, die nicht profitorientiert handelt und bezahlbaren Wohnraum dauerhaft sichert.",
+      "begruendung_selbst": "Endlich jemand, der Wohnungen baut, ohne sie gleich wieder teuer zu verkaufen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV zum Nulltarif – perfekt!",
+      "thema": "verkehr",
+      "programmpunkt": "Einführung eines landesweiten Nulltarifs im ÖPNV mittelfristig und günstige Tickets sofort.",
+      "seite": 102,
+      "zitat": "langfristig kostenfreien ÖPNV für Alle",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ist auf guten, bezahlbaren ÖPNV angewiesen und begrüßt die klare Priorität für Bus und Bahn.",
+      "begruendung_selbst": "Ich brauche kein Auto – der Nulltarif wäre für mich Alltagserleichterung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Reiche sollen zahlen, nicht Mieter!",
+      "thema": "steuern",
+      "programmpunkt": "Wiedereinführung der Vermögenssteuer und Reform der Erbschaftssteuer zur Umverteilung.",
+      "seite": 17,
+      "zitat": "Große Vermögen müssen endlich wieder ihren gerechten Beitrag",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht Immobilieninvestoren und große Vermögen als treibende Kräfte der Verdrängung und begrüßt deren stärkere Besteuerung.",
+      "begruendung_selbst": "Die, die schon viel haben, sollen endlich mittragen statt uns Mieter auszuquetschen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Carla findet das Programm in ihren Kernanliegen Wohnen und Mobilität sehr nah an ihren Interessen. Die konkreten Forderungen zu Mietregulierung, Abschaffung der Modernisierungsumlage und öffentlichem Wohnungsbau treffen ihre existenziellen Sorgen direkt. Sie sieht darin eine klare Abkehr von reiner Marktlogik.",
+    "score": 2
+  }
+}

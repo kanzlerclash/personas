@@ -1,0 +1,101 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:50:32.013Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39861,
+    "output_tokens": 9328,
+    "cached_tokens": 37888,
+    "total_tokens": 49189,
+    "dauer_ms": 170470,
+    "usd": 0.07526075
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Absicherung für Soloselbstständige!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Wirtschaftspolitik soll die besonderen Rahmenbedingungen von Solo-Selbstständigen berücksichtigen und deren soziale Absicherung sowie Vorsorge stärken.",
+      "seite": 5,
+      "zitat": "Solo-Selbständigen die besonderen Rahmenbedingungen, stärkt soziale Absicherung und Vorsorge",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike fühlt sich in ihrer prekären Lage als Soloselbstständige erstmals explizit wahrgenommen. Das Versprechen, soziale Absicherung und Vorsorge für ihre Gruppe zu stärken, trifft genau ihren größten Schmerzpunkt: das fehlende Netz bei Krankheit oder Auftragsflaute.",
+      "begruendung_selbst": "Ich falle immer durch jedes Raster – zu selbstständig für Schutz, zu klein für die Bürokratie. Dass die SPD jetzt explizit die soziale Absicherung für Soloselbstständige wie mich stärken will, ist genau das, was ich zum Überleben brauche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Faire Honorare, weniger Papierkram!",
+      "thema": "familie",
+      "programmpunkt": "Öffentliche Kulturförderung soll an soziale Mindeststandards und Honoraruntergrenzen geknüpft werden, während gleichzeitig Selbstausbeutung abgelehnt wird.",
+      "seite": 25,
+      "zitat": "Honoraruntergrenzen sind Voraussetzung öffentlicher Förderung. Selbstausbeutung mit öffentlichen Mitteln lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Kreative in Halle kennt Mareike den Druck, für öffentliche Projekte zu Dumpingpreisen zu arbeiten. Die Forderung nach Honoraruntergrenzen und das Verbot von Selbstausbeutung bestätigen ihren Kampf um faire Vergütung in der Kreativszene.",
+      "begruendung_selbst": "Endlich sagt mal jemand laut, dass man mit öffentlichen Geldern keine Selbstausbeutung finanzieren darf! Honoraruntergrenzen wären ein Gamechanger für uns Freelancer in der Kulturszene.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Weniger Bürokratie für die Kleinen!",
+      "thema": "demokratie",
+      "programmpunkt": "Dokumentations- und Berichtspflichten für Betriebe sollen reduziert und Förderprogramme durch geringere Antragsanforderungen zugänglicher gemacht werden.",
+      "seite": 5,
+      "zitat": "Dokumentationspflichten werden vereinfacht oder abgeschafft. Förderprogramme werden durch geringere Antragsanforderungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike verbringt als Ein-Frau-Unternehmen unverhältnismäßig viel Zeit mit Steuer- und Förderanträgen. Die Aussicht auf vereinfachte Dokumentationspflichten und digitale Nachweise gibt ihr die Hoffnung, wieder mehr Zeit für ihre eigentliche kreative Arbeit zu haben.",
+      "begruendung_selbst": "Ich bin Designerin, keine Vollzeit-Buchhalterin. Wenn Dokumentationspflichten endlich abgeschafft und Förderanträge digitaler werden, kann ich vielleicht wieder mal pünktlich Feierabend machen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Angst vor der Scheinselbstständigkeits-Keule!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Partei setzt sich stark für Tariflöhne und den Schutz vor prekärer Beschäftigung ein, was in der Praxis oft zu strengeren Prüfungen von Freelancern führt.",
+      "seite": 5,
+      "zitat": "gute Arbeitsbedingungen und den Schutz vor prekärer Beschäftigung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike fürchtet, dass der gut gemeinte Schutz vor prekärer Beschäftigung zu einer verschärften Jagd auf Scheinselbstständigkeit führt. Das würde bedeuten, dass potenzielle Auftraggeber aus Angst vor Strafen keine Freelancer mehr buchen, was ihre Existenzgrundlage direkt bedroht.",
+      "begruendung_selbst": "Wenn 'Schutz vor prekärer Beschäftigung' wieder nur bedeutet, dass Unternehmen aus Panik vor der Rentenversicherung keine Freelancer mehr beauftragen, nützt mir das gar nichts. Dann bleiben meine Aufträge einfach weg.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Jobcenter will mich nur vermitteln!",
+      "thema": "arbeit",
+      "programmpunkt": "Die Grundsicherung wird primär als Instrument zur Aktivierung und Vermittlung in den Arbeitsmarkt durch Jobcenter verstanden, statt als echtes Sicherheitsnetz für schwankende Selbstständigen-Einkommen.",
+      "seite": 8,
+      "zitat": "Die Grundsicherung ist dabei Instrument der Aktivierung, Qualifizierung und Vermittlung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Mareike ist das Bürgergeld kein echtes Sicherheitsnetz für ihre Selbstständigkeit, sondern ein demütigender Apparat, der sie in eine Festanstellung zwingen will. Das Programm ignoriert die Notwendigkeit einer echten Arbeitslosenversicherung für Soloselbstständige, die das Business in der Flaute am Leben hält.",
+      "begruendung_selbst": "Wenn ich eine Flaute habe, will ich mein Business am Leben halten und nicht vom Jobcenter in irgendeinen Callcenter-Job vermittelt werden. Das Bürgergeld ist für mich keine Absicherung, sondern ein Albtraum.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kreativszene? Fehlanzeige!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Der wirtschaftliche Strukturwandel und die Landesförderung konzentrieren sich fast ausschließlich auf die Chemieindustrie und klassische Infrastruktur, während die digitale Kreativwirtschaft kaum vorkommt.",
+      "seite": 6,
+      "zitat": "Der industrielle Kern im Chemiedreieck Mitteldeutschland hat für uns eine besondere Bedeutung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike beobachtet mit Frustration, wie Millionen in die Transformation der Chemieindustrie gepumpt werden, während die Kultur- und Kreativwirtschaft in Halle oft nur als nettes Beiwerk behandelt wird. Sie vermisst eine echte Industriepolitik für die digitale und kreative Wertschöpfung.",
+      "begruendung_selbst": "Klar, Chemie ist wichtig. Aber dass die ganze Wirtschaftspolitik nur um das Chemiedreieck kreist und wir Kreativen in Halle mit unseren digitalen Geschäftsmodellen völlig unter dem Radar fliegen, ärgert mich total.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike nimmt das Programm als ambivalent wahr. Einerseits fühlt sie sich durch die explizite Nennung von Solo-Selbstständigen und die Forderung nach Honoraruntergrenzen in der Kultur endlich gesehen. Andererseits überwiegt die Skepsis, da der Fokus auf dem klassischen Normalarbeitsverhältnis und der Schwerindustrie ihre realen Probleme wie Scheinselbstständigkeits-Prüfungen und das unpassende Jobcenter-Sicherheitsnetz ignoriert.",
+    "score": 0
+  }
+}

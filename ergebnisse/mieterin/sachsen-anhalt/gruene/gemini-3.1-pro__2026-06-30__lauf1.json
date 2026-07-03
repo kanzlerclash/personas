@@ -1,0 +1,76 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen ist keine Anlageform!",
+      "thema": "wohnen",
+      "programmpunkt": "Wohnraum wird als fundamentales Grundrecht deklariert und die Spekulation mit Wohnungen ausdrücklich abgelehnt.",
+      "seite": 91,
+      "zitat": "Wohnen ist ein Grundrecht und Wohnungen sind kein Spekulationsobjekt.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla steht Immobilieninvestoren, die Wohnraum als bloße Renditequelle betrachten, zutiefst ablehnend gegenüber. Die klare Feststellung, dass Wohnen kein Spekulationsobjekt sein darf, deckt sich exakt mit ihrem Menschenbild.",
+      "begruendung_selbst": "Wohnen ist Daseinsvorsorge, kein Aktienpaket. Es wird höchste Zeit, dass die Politik den Spekulanten endlich klare Grenzen setzt!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietendeckel endlich einführen!",
+      "thema": "wohnen",
+      "programmpunkt": "Um Wohnraum wieder bezahlbar zu machen, sollen staatliche Mietendeckel eingesetzt werden.",
+      "seite": 91,
+      "zitat": "Zur Sicherung von bezahlbarem Wohnraum sollen Mietendeckel eingesetzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla befürwortet strikte Markteingriffe gegen unkontrollierte Mietsteigerungen, da ihre eigene Miete eine massive finanzielle und psychische Belastung darstellt. Ein Mietendeckel ist ihre zentrale politische Hoffnung.",
+      "begruendung_selbst": "Genau das brauche ich! Ein Mietendeckel würde mich endlich davor schützen, durch die nächste saftige Erhöhung aus meinem geliebten Kiez verdrängt zu werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Viertel muss bleiben!",
+      "thema": "wohnen",
+      "programmpunkt": "Es sollen Maßnahmen ergriffen werden, um gemeinschaftliche Wohnformen zu stärken und der Gentrifizierung von Vierteln entgegenzuwirken.",
+      "seite": 91,
+      "zitat": "Wir wollen Durchmischung fördern, Tauschprogramme unterstützen und Gentrifizierung entgegenwirken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla wünscht sich eine lebendige, sozial durchmischte Stadt und sorgt sich stark um die elitäre Aufwertung ihres Viertels. Gezielte Maßnahmen gegen Verdrängungsprozesse bestätigen ihr Kernanliegen.",
+      "begruendung_selbst": "Mein Kiez darf nicht zum reinen Spielplatz für Reiche werden. Der konsequente Kampf gegen Gentrifizierung ist genau der richtige Weg!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verlässliches Ticket für den Alltag!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Land soll sich für eine dauerhaft gesicherte Finanzierung des Deutschlandtickets einsetzen.",
+      "seite": 29,
+      "zitat": "Wir fordern eine verlässliche und dauerhafte Finanzierung des Deutschlandtickets.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Carla kein eigenes Auto besitzt, ist sie in ihrem städtischen Alltag vollständig auf den Nahverkehr angewiesen. Ein dauerhaft bezahlbares Ticket garantiert ihr finanzielle Planungssicherheit.",
+      "begruendung_selbst": "Ohne Auto brauche ich einfach ein günstiges Ticket, auf das ich mich verlassen kann. Endlich mal eine klare Kante für uns ÖPNV-Nutzer!",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der Grünen deckt sich extrem stark mit Carlas Forderungen nach einer sozialen und gemeinwohlorientierten Wohnungspolitik. Forderungen wie ein Mietendeckel, der Kampf gegen Gentrifizierung und das Bekenntnis zu Wohnraum als Grundrecht treffen exakt ihre Lebensrealität und Sorgen. Da die Partei zudem energetische Sanierungen ausdrücklich an Mieterschutz knüpfen will, sieht Carla in diesem Programm keine direkten Widersprüche zu ihren Interessen.",
+    "score": 2
+  }
+}

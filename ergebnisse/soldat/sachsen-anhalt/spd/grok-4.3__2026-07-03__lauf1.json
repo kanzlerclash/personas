@@ -1,0 +1,53 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:45:26.245Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 48431,
+    "output_tokens": 1413,
+    "cached_tokens": 128,
+    "total_tokens": 49844,
+    "dauer_ms": 12342,
+    "usd": 0.06611685
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Zivile Verteidigung stärken!",
+      "thema": "verteidigung",
+      "programmpunkt": "Anerkennung der logistischen Rolle Sachsen-Anhalts im Bündnisfall und Forderung nach Stärkung von Zivilschutz und ziviler Verteidigung.",
+      "seite": 33,
+      "zitat": "Sachsen-Anhalt hätte im Bündnisfall eine besondere logistische Bedeutung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan sieht hier eine direkte Anerkennung der militärischen und logistischen Bedeutung des Standorts und eine klare Forderung nach Unterstützung der Verteidigungsfähigkeit.",
+      "begruendung_selbst": "Endlich wird gesagt, dass wir im Ernstfall gebraucht werden und der Bund liefern muss.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Abrüstung statt Ausrüstung!",
+      "thema": "verteidigung",
+      "programmpunkt": "Betonung, dass Sicherheit nicht allein militärisch entstehe und Abrüstung sowie internationale Zusammenarbeit zentrale Aufgaben bleiben.",
+      "seite": 33,
+      "zitat": "Sicherheit entsteht nicht allein militärisch. Diplomatie, Verständigung, Abrüstung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan empfindet die Hervorhebung von Abrüstung als direkte Schwächung seines Auftrags und der notwendigen Ausrüstung der Truppe.",
+      "begruendung_selbst": "Mit Abrüstung kann ich keine Übung fahren und keine Ostflanke sichern.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet im Programm nur wenige direkte Berührungspunkte mit seiner beruflichen Lage als Berufssoldat. Das klare Bekenntnis zur zivilen Verteidigung im Bündnisfall spricht ihn an, während die Betonung von Abrüstung ihn klar ablehnt. Insgesamt bleibt das Programm für ihn weitgehend irrelevant.",
+    "score": -1
+  }
+}

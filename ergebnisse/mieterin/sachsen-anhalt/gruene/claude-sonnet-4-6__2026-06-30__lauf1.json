@@ -1,0 +1,101 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "claude-sonnet-4-6",
+  "modell_slug": "claude-sonnet-4-6",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen ist kein Spekulationsobjekt!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Grünen bekennen sich zu Wohnen als Grundrecht und lehnen die Vermarktlichung von Wohnraum ab.",
+      "seite": 91,
+      "zitat": "Wohnungen sind kein Spekulationsobjekt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carlas Grundhaltung ist: „Wohnen ist Daseinsvorsorge, kein Spekulationsgut.“ Die Grünen formulieren exakt dasselbe Prinzip und verankern es als wohnungspolitisches Leitmotiv.",
+      "begruendung_selbst": "Endlich jemand, der es auch so sieht. Wohnungen sind keine Aktien. Das Prinzip muss Grundlage aller Mietpolitik sein.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietendeckel? Ja!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Grünen wollen zur Sicherung bezahlbaren Wohnraums Mietendeckel einsetzen und den sozialen Wohnungsbau stärken.",
+      "seite": 91,
+      "zitat": "Mietendeckel eingesetzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carlas zentrale Hoffnung ist eine wirksame Mietregulierung. Der ausdrückliche Einsatz von Mietendeckeln durch die Grünen entspricht genau diesem Wunsch und unterscheidet sie von CDU und FDP.",
+      "begruendung_selbst": "Das ist das, was ich mir von allen Parteien wünsche – eine echte Bremse für Mieten, kein warmes Reden. Die Grünen sagen es klar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bodenspekulation stoppen!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Grünen wollen das kommunale Vorkaufsrecht sichern und ausweiten, um Bodenspekulation zu verhindern und gemeinwohlorientierte Infrastruktur zu fördern.",
+      "seite": 98,
+      "zitat": "das kommunale Vorkaufsrecht sichern und ausweiten, um Bodenspekulation zu verhindern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla nimmt Immobilieninvestoren als ihr Gegeninteresse wahr. Das kommunale Vorkaufsrecht ist ein strukturelles Instrument, das Verdrängung durch Bodenspekulation bremsen kann – genau das, was sie sich wünscht.",
+      "begruendung_selbst": "Wenn Investoren Grundstücke aufkaufen, verlieren wir das Viertel. Das kommunale Vorkaufsrecht ist ein echter Hebel – gut, dass die Grünen ihn stärken wollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radwege gesetzlich verankern!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Grünen wollen die Radwegeförderung gesetzlich verbindlich regeln – analog zum Straßenbau – und ein flächendeckendes Radschnellwegenetz vorantreiben.",
+      "seite": 28,
+      "zitat": "Die Radwegeförderung soll, analog zum Straßenbau, verbindlich gesetzlich geregelt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla fährt täglich Rad. Die gesetzliche Verankerung der Radwegeförderung bedeutet Planungssicherheit und strukturellen Vorrang für Radmobilität – das stärkt die Infrastruktur, auf die sie täglich angewiesen ist.",
+      "begruendung_selbst": "Wenn Radwege genauso verbindlich gefördert werden wie Straßen, ist das eine Systemveränderung. Das würde meine Stadt wirklich verändern.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Moratorium nur für öffentliche Wohnungen",
+      "thema": "wohnen",
+      "programmpunkt": "Das Grünen-Moratorium für Zwangsräumungen wegen Mietschulden gilt nur für Wohnungen in öffentlicher Hand – private Mietverhältnisse sind nicht erfasst.",
+      "seite": 92,
+      "zitat": "bei Wohnungen in öffentlicher Hand",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla wohnt in einer privaten Altbauwohnung. Das Moratorium greift für sie nicht direkt – der Schutz vor Zwangsräumungen gilt nur im öffentlichen Wohnungsbestand, nicht im privaten Markt, in dem sie lebt.",
+      "begruendung_selbst": "Gut gemeint, aber ich wohne in einer Privatwohnung. Das Moratorium schützt mich nicht – ich brauche Schutz im privaten Mietmarkt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanierung ohne Mietkostenschutz?",
+      "thema": "wohnen",
+      "programmpunkt": "Die Grünen priorisieren Gebäudesanierung über Neubau, ohne dabei explizit eine warmmietenneutrale Umsetzung oder die Abschaffung der Modernisierungsumlage zu fordern.",
+      "seite": 92,
+      "zitat": "Der Vorrang des Bestands wird Leitprinzip",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla hat Angst vor dem Brief mit der Modernisierung im Kasten, weil Sanierungskosten per Modernisierungsumlage auf sie umgelegt werden können. Der Fokus auf Sanierung ohne expliziten Schutz vor Kostenweitergabe an Mieterinnen lässt diese konkrete Sorge unbeantwortet.",
+      "begruendung_selbst": "Sanierung statt Neubau klingt gut – aber wer zahlt die Sanierung? Wenn die Kosten auf mich umgelegt werden, ist das für mich keine gute Nachricht.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Die Grünen sprechen Carlas wohnungspolitische Grundüberzeugungen direkt an: Mit dem Bekenntnis zu Mietendeckeln, dem Prinzip 'Wohnungen sind kein Spekulationsobjekt', dem kommunalen Vorkaufsrecht und einer gesetzlich verankerten Radwegeförderung trifft das Programm ihre wichtigsten Hoffnungen. Lücken bestehen bei der Modernisierungsumlage, die die Grünen nicht explizit abschaffen, und beim Zwangsräumungsmoratorium, das nur öffentliche Wohnungen schützt. Insgesamt ist das Grünen-Programm für Carla aber ein starkes Signal in die richtige Richtung.",
+    "score": 2
+  }
+}

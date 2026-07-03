@@ -1,0 +1,198 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 81706,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen ist Daseinsvorsorge",
+      "thema": "wohnen",
+      "programmpunkt": "Die AfD bezeichnet soziale Wohnraumversorgung als Teil der Daseinsvorsorge.",
+      "seite": 15,
+      "zitat": "Die soziale Wohnraumversorgung ist ein Element der Daseinsvorsorge",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht Wohnen nicht als normale Ware, sondern als soziale Grundsicherung. Dass das Programm soziale Wohnraumversorgung ausdrücklich zur Daseinsvorsorge zählt, trifft ihren zentralen Maßstab.",
+      "begruendung_selbst": "Genau darum geht es mir: Eine Wohnung ist nicht irgendein Produkt, sondern die Basis dafür, überhaupt in der Stadt leben zu können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auch mittlere Einkommen zählen",
+      "thema": "wohnen",
+      "programmpunkt": "Bezahlbare Wohnungen sollen auch für Menschen mit geringem und mittlerem Einkommen vorgehalten werden.",
+      "seite": 15,
+      "zitat": "bezahlbare Wohnungen für Personen mit geringem und mittlerem Einkommen vorzuhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla hat ein mittleres Einkommen, aber die Miete ist ihr größter Risikofaktor. Eine Wohnraumversorgung, die nicht nur die Ärmsten, sondern auch mittlere Einkommen adressiert, berührt ihre Lage direkt.",
+      "begruendung_selbst": "Ich verdiene nicht nichts, aber eine modernisierte Altbauwohnung kann mich trotzdem aus dem Viertel drücken.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kommunale Wohnungen stärken",
+      "thema": "wohnen",
+      "programmpunkt": "Kommunale Wohnungsgesellschaften sollen mit Fördermitteln bezahlbare Wohnungen sanieren und sozialen Aufgaben nachkommen können.",
+      "seite": 15,
+      "zitat": "kommunalen Wohnungsgesellschaften bezahlbare Wohnungen sanieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla wünscht mehr gemeinwohlorientierten Wohnraum und misstraut rein renditegetriebenen Eigentümern. Stärkere kommunale Anbieter passen zu ihrem Wunsch nach dauerhaft bezahlbaren Beständen.",
+      "begruendung_selbst": "Wenn öffentliche Wohnungsunternehmen bezahlbar sanieren, ist das näher an meiner Realität als Luxusmodernisierung mit Mieterhöhung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus und Bahn ausbauen",
+      "thema": "verkehr",
+      "programmpunkt": "Der öffentliche Personen-Nahverkehr soll als Ergänzung zum privaten Pkw ausgebaut werden.",
+      "seite": 16,
+      "zitat": "den öffentlichen Personen-Nahverkehr weiter ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt ohne Auto und bewegt sich im Alltag mit ÖPNV und Rad. Jeder konkrete Ausbau des Nahverkehrs verbessert für sie die städtische Alltagstauglichkeit.",
+      "begruendung_selbst": "Ich brauche keine Sonntagsrede, ich brauche Busse und Bahnen, die im Alltag funktionieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Geld fürs Rad",
+      "thema": "verkehr",
+      "programmpunkt": "Die Fördermittel für kommunale Radverkehrsnetze sollen deutlich erhöht werden.",
+      "seite": 16,
+      "zitat": "Fördermittel des Landes zur Unterstützung des kommunalen Radverkehrsnetzes deutlich zu erhöhen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla nutzt das Rad in der Stadt und erwartet eine belastbare Infrastruktur. Die angekündigte Erhöhung der Radverkehrsförderung berührt ihre Mobilität direkt, auch wenn der Ton des Abschnitts stark autozentriert bleibt.",
+      "begruendung_selbst": "Mehr Geld für Radwege hilft mir ganz konkret, wenn ich morgens sicher zur Arbeit kommen will.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gesundheit ist keine Ware",
+      "thema": "gesundheit",
+      "programmpunkt": "Das Programm grenzt Gesundheit vom freien Markt ab und fordert eine bezahlbare Versorgung.",
+      "seite": 20,
+      "zitat": "Gesundheit aber ist keine Ware",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla überträgt ihre Daseinsvorsorge-Perspektive auch auf andere Grundbedürfnisse. Die Absage an reine Marktlogik im Gesundheitswesen bestätigt ihre soziale Grundhaltung.",
+      "begruendung_selbst": "Bei Gesundheit klingt es hier genauso, wie ich es beim Wohnen meine: Nicht alles darf dem Markt überlassen werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Klinik als Renditeobjekt",
+      "thema": "gesundheit",
+      "programmpunkt": "Kommunen und Land sollen beim Verkauf von Krankenhäusern Vorrang vor privaten Käufern haben.",
+      "seite": 20,
+      "zitat": "Kommunen und das Land haben immer Vorrang vor privaten Käufern",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla steht profitorientierter Daseinsvorsorge skeptisch gegenüber. Der Vorrang öffentlicher Träger bei Krankenhäusern entspricht ihrem Misstrauen gegenüber Konzernlogik bei existenziellen Gütern.",
+      "begruendung_selbst": "Wenn es um Versorgung geht, will ich öffentliche Verantwortung sehen und nicht den nächsten Konzern, der Rendite sucht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Eigentum schützt mich nicht",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm stellt Wohneigentum als Quelle von Stabilität und Identität heraus.",
+      "seite": 4,
+      "zitat": "Wohneigentum gibt auch Stabilität und schafft Identität durch Bindung an den Wohnort",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla hat kein Wohneigentum und sieht einen Kauf in ihrem Viertel als unerreichbar. Eine Politik, die Stabilität vor allem über Eigentum beschreibt, lässt ihre Mietrealität und ihren Schutz vor Verdrängung außen vor.",
+      "begruendung_selbst": "Meine Bindung ans Viertel hängt doch nicht daran, ob ich eine Eigentumsurkunde habe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung nur für Familien",
+      "thema": "wohnen",
+      "programmpunkt": "Die Wohneigentumsquote deutscher Familien soll gezielt gesteigert werden.",
+      "seite": 4,
+      "zitat": "Wohneigentumsquote von deutschen Familien in Sachsen-Anhalt deutlich steigern",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla ist Single oder lebt als Paar ohne Kinder und braucht vor allem Mieterschutz im innerstädtischen Bestand. Eine auf deutsche Familien und Eigentum zugeschnittene Förderung geht an ihrer Lebenslage vorbei.",
+      "begruendung_selbst": "Ich bin Mieterin ohne Kinder im Altbau, und genau für diese Lage finde ich hier kaum Schutz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Miete bleibt das Problem",
+      "thema": "wohnen",
+      "programmpunkt": "Die AfD setzt steuerlich auf erleichterten Eigentumserwerb und stellt Wohneigentum als Freiheit dar.",
+      "seite": 19,
+      "zitat": "Wohneigentum bedeutet Freiheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla erlebt Freiheit zuerst als Sicherheit vor Mieterhöhung, Modernisierungsumlage und Verdrängung. Die starke Fixierung auf Eigentum trifft ihr Kernproblem nicht.",
+      "begruendung_selbst": "Freiheit wäre für mich, nicht bei jedem Brief vom Vermieter Angst zu bekommen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Steuerbonus statt Mieterschutz",
+      "thema": "steuern",
+      "programmpunkt": "Die Grunderwerbsteuer soll deutlich gesenkt werden, um Eigentumserwerb zu erleichtern.",
+      "seite": 19,
+      "zitat": "Grunderwerbsteuer von aktuell fünf Prozent auf zweieinhalb Prozent absenken",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla kann sich in ihrem Viertel keinen Kauf leisten; eine niedrigere Grunderwerbsteuer hilft vor allem Käuferinnen und Käufern. Für ihre Sorge vor steigender Miete bietet dieser Punkt keinen direkten Schutz.",
+      "begruendung_selbst": "Eine halbierte Kaufsteuer bringt mir nichts, wenn ich schon an der nächsten Mieterhöhung hänge.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Auto zuerst, Stadt später",
+      "thema": "verkehr",
+      "programmpunkt": "Das Auto mit Verbrennungsmotor bleibt im Programm die zentrale Grundlage der Mobilität.",
+      "seite": 16,
+      "zitat": "das Verkehrsmittel Nummer 1 bleibt",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla lebt großstädtisch, nutzt ÖPNV und Rad und wünscht eine autoärmere Stadt. Eine Verkehrspolitik, die das Auto zur Nummer eins erklärt, widerspricht ihrer Alltagsmobilität.",
+      "begruendung_selbst": "In meinem Alltag ist nicht das Auto Nummer eins, sondern Bahn, Rad und ein Viertel, in dem man atmen kann.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radwege unter Autovorbehalt",
+      "thema": "verkehr",
+      "programmpunkt": "Radwege sollen zwar gefördert werden, dürfen in Städten aber nicht gegen den Autoverkehr eingesetzt werden.",
+      "seite": 16,
+      "zitat": "nicht als Waffe gegen den Autoverkehr eingesetzt wird",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla will sichere Radinfrastruktur und weniger Dominanz des Autos im Stadtraum. Die Formulierung rahmt städtische Radwege als potenziellen Angriff auf Autofahrer und schwächt aus ihrer Sicht die Priorität für sichere Wege.",
+      "begruendung_selbst": "Ein Radweg ist keine Waffe, sondern oft der Unterschied zwischen sicher ankommen und ständig ausweichen müssen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Meine Stadt wird verdächtig",
+      "thema": "landwirtschaft",
+      "programmpunkt": "Bei Infrastrukturprogrammen soll ausdrücklich verhindert werden, dass die Stadt zum Maßstab wird.",
+      "seite": 15,
+      "zitat": "Die Infrastruktur der Stadt darf nicht zur Maxime werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla lebt bewusst in einer Großstadt und braucht dort bezahlbares Wohnen, ÖPNV, Kultur und soziale Infrastruktur. Wenn Stadtentwicklung vor allem als Gegenpol zum ländlichen Raum erscheint, fühlt sich ihre Lebensrealität abgewertet.",
+      "begruendung_selbst": "Ich will kein Gegeneinander von Dorf und Stadt, aber mein Viertel ist nicht das Problem.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im AfD-Programm einige überraschend anschlussfähige Punkte: sozialer Wohnungsbau, kommunale Wohnungsunternehmen, ÖPNV- und Radförderung sowie eine klare Absage an Privatisierung im Gesundheitswesen. Ihr zentrales Mieterschutzproblem bleibt aber weitgehend ungelöst, während Eigentum, Auto und ländliche Prioritäten stark dominieren. Aus ihrer Perspektive ist das Programm deshalb in einzelnen Daseinsvorsorge-Fragen attraktiv, insgesamt aber zu wenig mieterinnen- und stadtorientiert.",
+    "score": -1
+  }
+}

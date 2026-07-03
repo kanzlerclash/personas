@@ -1,0 +1,77 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:49:54.727Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39865,
+    "output_tokens": 7602,
+    "cached_tokens": 0,
+    "total_tokens": 47467,
+    "dauer_ms": 144464,
+    "usd": 0.1027025
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Vergleichbarkeit bei Versetzungen!",
+      "thema": "bildung",
+      "programmpunkt": "Die SPD fordert eine Initiative der Kultusministerkonferenz für vergleichbare Lehrpläne und Prüfungsstandards, um Brüche bei Umzügen zu vermeiden.",
+      "seite": 13,
+      "zitat": "Für Familien mit beruflich bedingten Umzügen bedeutet dies Unsicherheit.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Berufssoldat muss Stefan mit regelmäßigen Versetzungen über Ländergrenzen hinweg rechnen. Die daraus resultierenden Bildungsbrüche für seine Kinder sind ein massiver Belastungsfaktor für seine Familie.",
+      "begruendung_selbst": "Jede Versetzung in ein anderes Bundesland ist für die Schulnoten meiner Kids ein Albtraum. Wenn die Politik das endlich angleicht, nimmt das uns Soldatenfamilien eine riesige Last von den Schultern.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz ist Dienstpflicht!",
+      "thema": "demokratie",
+      "programmpunkt": "Die SPD setzt sich für ein AfD-Verbotsverfahren und den Schutz der Demokratie vor Rechtsextremismus ein.",
+      "seite": 20,
+      "zitat": "Deshalb setzt sich die SPD Sachsen-Anhalt für die Prüfung eines AfD-Verbotsverfahrens...",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soldat hat Stefan den Eid auf die Verfassung geschworen. Er erwartet, dass die Politik wehrhaft gegen jene vorgeht, die diese demokratische Ordnung von innen heraus zerstören wollen.",
+      "begruendung_selbst": "Ich stehe mit meinem Eid für diese Verfassung ein. Da erwarte ich, dass die Politik genauso konsequent gegen Verfassungsfeinde vorgeht und nicht lange fackelt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Logistik-Drehscheibe ist Realität.",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Programm erkennt die besondere logistische Bedeutung Sachsen-Anhalts im Bündnisfall und fordert eine Stärkung des Zivilschutzes durch den Bund.",
+      "seite": 33,
+      "zitat": "Sachsen-Anhalt hätte im Bündnisfall eine besondere logistische Bedeutung.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan weiß, dass die Infrastruktur in Sachsen-Anhalt für die NATO-Verlegefähigkeit essenziell ist. Dass die Landespolitik diese strategische Rolle und den Bedarf an ziviler Verteidigung anerkennt, bestätigt seine tägliche Realität.",
+      "begruendung_selbst": "Wir sind hier die Drehscheibe für die NATO. Gut, dass das Land endlich anerkennt, welche strategische Last und Verantwortung auf unserer Infrastruktur liegt.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Abrüstung? Nicht an der Ostflanke!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die SPD betont, dass Sicherheit nicht allein militärisch entsteht und setzt auf Diplomatie, Verständigung und Abrüstung.",
+      "seite": 33,
+      "zitat": "Sicherheit entsteht nicht allein militärisch. Diplomatie, Verständigung, Abrüstung...",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt die Bedrohung an der NATO-Ostflanke täglich. Für ihn ist Abschreckung durch Wehrfähigkeit und Ausrüstung das Gebot der Stunde. Die Forderung nach Abrüstung liest er als Realitätsverweigerung, die seinen Auftrag untergräbt.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Wer jetzt von Abrüstung spricht, hat die Bedrohungslage an der Ostflanke nicht verstanden.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan bewertet das Programm ambivalent. Einerseits begrüßt er das Bekenntnis zur wehrhaften Demokratie, die Anerkennung der logistischen Rolle des Landes für das Bündnis sowie die Initiative für vergleichbare Bildungsstandards, die seiner Familie bei Versetzungen hilft. Andererseits stößt ihn die klassische Friedensrhetorik mit der Forderung nach Abrüstung massiv ab, da sie aus seiner Sicht die aktuelle Bedrohungslage und den Bedarf an echter Wehrfähigkeit ignoriert.",
+    "score": -1
+  }
+}

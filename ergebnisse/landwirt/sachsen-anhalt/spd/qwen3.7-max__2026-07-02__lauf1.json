@@ -74,13 +74,12 @@
       "thema": "klima",
       "programmpunkt": "Ein Klimaschutzgesetz mit verbindlichen Reduktionspfaden für Treibhausgasemissionen soll Planungssicherheit schaffen und Klimaschutz sozial gerecht ausstatten.",
       "seite": 15,
-      "zitat": "Reduktionspfade für Treibhausgasemissionen, die Orientierung",
+      "zitat": "Reduktionspfade für Treibhausemissionen, die Orientierung und Planungssicherheit für Kommunen, Wirtschaft und Gesellschaft geben",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Frank befürchtet, dass verbindliche Reduktionspfade im Agrarsektor direkt zu weiteren Verschärfungen bei der Düngung, beim Pflanzenschutz und beim Agrardiesel führen. Für ihn bedeutet das weniger Ertrag, höhere Kosten und noch mehr Gängelung durch Theoretiker.",
       "begruendung_selbst": "Was die in Berlin 'Reduktionspfade' nennen, heißt für mich: noch weniger Dünger, noch mehr Ernteausfall und am Ende importieren sie das Futter aus Übersee. Den Klimaschutz zahlen wieder nur wir Bauern.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Brüssel diktiert meine Felder",

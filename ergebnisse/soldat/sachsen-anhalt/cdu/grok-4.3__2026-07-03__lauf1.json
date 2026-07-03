@@ -1,0 +1,52 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:45:13.901Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 13.06.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 57077,
+    "output_tokens": 1382,
+    "cached_tokens": 128,
+    "total_tokens": 58459,
+    "dauer_ms": 14364,
+    "usd": 0.07675435
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Moderne Ausrüstung für die, die schützen",
+      "thema": "sicherheit",
+      "programmpunkt": "Landespolizei flächendeckend mit Tasern, Bodycams und KI-gestütztem Videoschutz ausstatten sowie Personal aufstocken",
+      "seite": 7,
+      "zitat": "flächendeckend mit Distanz-Elektroimpulsgeräten (Taser) ausstatten",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan sieht in der konsequenten Modernisierung und personellen Stärkung der Sicherheitskräfte eine Bestätigung seiner Forderung nach funktionsfähigem Material und verlässlicher Ausstattung.",
+      "begruendung_selbst": "Endlich mal klare Ansage: Wer schützt, braucht Gerät, das funktioniert – nicht nur warme Worte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Migration auf null – klare Regeln",
+      "thema": "sicherheit",
+      "programmpunkt": "Irreguläre Migration auf null reduzieren und konsequente Rückführungen durchsetzen",
+      "seite": 6,
+      "zitat": "irreguläre Migration auf null zurückführen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die klare Linie gegen unkontrollierte Zuwanderung und für Abschiebungen entspricht Stefans Ablehnung von Positionen, die Sicherheit und Bündnisverlässlichkeit untergraben.",
+      "begruendung_selbst": "Wer hier nicht klare Kante zeigt, gefährdet am Ende auch unseren Auftrag.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet die Betonung moderner Ausstattung und konsequenter innerer Sicherheit zustimmenswert, da sie seine Grundhaltung zu Verlässlichkeit und Ausrüstung widerspiegelt. Das Programm enthält jedoch keine Aussagen zu Bundeswehr, NATO oder äußerer Verteidigung, was seine zentralen Anliegen nicht direkt berührt.",
+    "score": 1
+  }
+}

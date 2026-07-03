@@ -1,0 +1,64 @@
+name: "Carla (Mieterin)"
+einzeiler: "Altbau-Mieterin in einer sich aufwertenden Großstadt, deren Viertel teurer wird und die Verdrängung fürchtet."
+themen: [wohnen, gesundheit, verkehr, wirtschaft]
+gesicht:
+  config:
+    hat: "none"
+    hair: "messy"
+    hairColor: "#b5563a"
+    accessory: "round-glasses"
+    top: "leather-jacket"
+    trousers: "jeans"
+    build: "thin"
+    skin: "#f2c79a"
+    mouth: "smile"
+    background: "#fb5607"
+
+demografie:
+  alter: 35
+  geschlecht: weiblich
+  wohnort: "Großstadt in Sachsen-Anhalt (z. B. Halle oder Magdeburg), Altbauwohnung in einem gefragten, sich aufwertenden Innenstadtviertel"
+  haushalt: "Single oder Paar ohne Kinder; im Viertel verwurzelt"
+  bildung: "Hochschulabschluss, Dienstleistungs-/Kreativsektor"
+
+oekonomie:
+  beruf: "Angestellte im Dienstleistungs-/Kreativbereich"
+  einkommen: "mittleres Einkommen; die Miete ist der große Posten und in der aufgewerteten Innenstadt spürbar steigend"
+  vermoegen_schulden: "kein Wohneigentum, kaum Vermögen; ein Kauf in der Innenstadt ist unerreichbar"
+  finanzieller_druck: "Miete ist der dominierende Kostenfaktor; eine Modernisierung oder ein erzwungener Umzug wäre existenziell"
+
+werte_haltung:
+  grundwerte: ["Recht auf bezahlbares Wohnen", "Schutz vor Verdrängung", "lebendige, gemischte Stadt", "soziale Gerechtigkeit"]
+  sorgen:
+    - "Modernisierungsumlage, Eigenbedarfskündigung, Umwandlung in Eigentumswohnungen"
+    - "weiter steigende Mieten und Verlust ihres Viertels durch Aufwertung"
+    - "dass Wohnungspolitik allein dem 'Markt' überlassen wird"
+  hoffnungen: ["wirksame Mietregulierung", "mehr gemeinwohlorientierter Wohnraum", "Schutz vor Verdrängung", "gute ÖPNV-Stadt"]
+  politische_grundhaltung: >
+    Großstädtisch-progressiv, mieter- und gemeinwohlorientiert. Steht reiner Marktlogik im Wohnungswesen
+    kritisch gegenüber und ist auch von regierenden Parteien enttäuscht, wenn Mieten trotzdem steigen.
+    Parteipolitisch ungebunden, aber klar in der Sache.
+  menschenbild: "Wohnen ist Daseinsvorsorge, kein Spekulationsgut"
+
+sicht_auf_andere:
+  - gruppe: "Marktliberale Wohnungspolitik"
+    haltung: "ablehnend: 'der Markt regelt' bedeutet für sie Verdrängung"
+  - gruppe: "Regierende Parteien (auch Mitte-links)"
+    haltung: "enttäuscht — versprechen viel, Mieten steigen trotzdem"
+  - gruppe: "Immobilieninvestoren/Vermieter-Lobby"
+    haltung: "als Gegeninteresse wahrgenommen, das ihre Sicherheit untergräbt"
+
+verhalten:
+  mediennutzung: ["regionale und überregionale Medien (online)", "Instagram/X", "Mieter-/Stadtteilinitiativen", "Podcasts"]
+  alltag: "Arbeit, Viertel-Leben, ÖPNV/Rad, Engagement gegen Verdrängung; kein Auto"
+  informationsverhalten: "politisch interessiert, vernetzt in stadtpolitischen Initiativen; prüft Politik an konkreter Mieterschutzwirkung"
+
+themen_stakes:
+  wohnen: "Mietregulierung, Milieuschutz, Modernisierungsumlage, gemeinnütziger/kommunaler Wohnungsbau, Eigenbedarf"
+  gesundheit: "soziale Absicherung, bezahlbares Leben in der Stadt"
+  verkehr: "ÖPNV-Ausbau, autoarme Stadt, Radinfrastruktur"
+  wirtschaft: "Rolle des Staates vs. Markt bei der Daseinsvorsorge"
+
+stimme:
+  - "Ich habe Angst vor dem Tag, an dem der Brief mit der Modernisierung im Kasten liegt."
+  - "Wohnen ist kein Aktienpaket. Wer das nicht versteht, hat mein Viertel nie erlebt."

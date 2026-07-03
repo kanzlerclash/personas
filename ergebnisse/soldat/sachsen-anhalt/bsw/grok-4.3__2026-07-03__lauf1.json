@@ -1,0 +1,88 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:46:35.417Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 79422,
+    "output_tokens": 1682,
+    "cached_tokens": 2752,
+    "total_tokens": 81104,
+    "dauer_ms": 14593,
+    "usd": 0.1022029
+  },
+  "besonders_gut": [],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kriegskredite? Nicht mit uns!",
+      "thema": "verteidigung",
+      "programmpunkt": "Ablehnung von Rüstungsausgaben und Schuldenbremse-Ausnahmen für Verteidigung",
+      "seite": 8,
+      "zitat": "Nein zu diesen Kriegskrediten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan sieht in der pauschalen Ablehnung von Verteidigungsausgaben eine direkte Bedrohung seiner Einsatzfähigkeit und der Bündnisverpflichtung.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Ich brauche Ausrüstung, die funktioniert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wehrpflicht? Absage!",
+      "thema": "verteidigung",
+      "programmpunkt": "Klare Ablehnung einer Wiedereinführung der Wehrpflicht",
+      "seite": 9,
+      "zitat": "Klare Absage an eine Wiedereinführung der Wehrpflicht",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Position untergräbt aus Stefans Sicht die notwendige personelle Verstärkung der Bundeswehr an der Ostflanke.",
+      "begruendung_selbst": "Ich stehe für dieses Land ein – dann erwarte ich auch, dass Material und Bündnis verlässlich sind.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine Werbung an Schulen!",
+      "thema": "verteidigung",
+      "programmpunkt": "Verbot von Bundeswehrwerbung an Schulen und öffentlichen Einrichtungen",
+      "seite": 9,
+      "zitat": "Nein zu Bundeswehrwerbung an Schulen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan empfindet dies als Abwertung des Berufsstands und als Hindernis für Nachwuchsgewinnung.",
+      "begruendung_selbst": "Junge Menschen dürfen nicht aus sozialer Unsicherheit in militärische Laufbahnen gedrängt werden – aber wer soll dann die Truppe halten?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Letzlinger Heide bleibt tabu!",
+      "thema": "verteidigung",
+      "programmpunkt": "Ablehnung jeder Erweiterung militärischer Truppenübungsplätze",
+      "seite": 9,
+      "zitat": "Keine weitere Ausweitung militärischer Truppenübungsplätze",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Die Haltung blockiert notwendige Übungs- und Ausbildungskapazitäten in unmittelbarer Nähe seines Standorts.",
+      "begruendung_selbst": "Ohne vernünftige Übungsflächen wird die Truppe nicht einsatzbereit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "NATO-Drehscheibe? Nein danke!",
+      "thema": "verteidigung",
+      "programmpunkt": "Ablehnung der Nutzung Sachsen-Anhalts als militärische Transit- und Logistikdrehscheibe",
+      "seite": 9,
+      "zitat": "Ablehnung der Nutzung Sachsen-Anhalts als militärische Transit- und Logistikdrehscheibe",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan sieht darin eine Schwächung der Bündnisfähigkeit und der Abschreckung an der Ostflanke.",
+      "begruendung_selbst": "Wer das Bündnis ernst nimmt, muss auch die Infrastruktur dafür bereitstellen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan lehnt das Programm in allen verteidigungspolitischen Kernpunkten entschieden ab. Die durchgängige Ablehnung von Aufrüstung, Bündnisverpflichtungen und militärischer Infrastruktur widerspricht seinen Grundwerten von Bündnistreue und verlässlicher Verteidigungsfähigkeit.",
+    "score": -2
+  }
+}

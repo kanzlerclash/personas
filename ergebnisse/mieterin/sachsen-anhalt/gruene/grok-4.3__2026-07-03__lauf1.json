@@ -1,0 +1,88 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:45:42.854Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 82348,
+    "output_tokens": 1768,
+    "cached_tokens": 128,
+    "total_tokens": 84116,
+    "dauer_ms": 15906,
+    "usd": 0.1090506
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Mietendeckel gegen Verdrängung!",
+      "thema": "wohnen",
+      "programmpunkt": "Einführung von Mietendeckeln zur Sicherung bezahlbaren Wohnraums",
+      "seite": 91,
+      "zitat": "Zur Sicherung von bezahlbarem Wohnraum sollen Mietendeckel eingesetzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht in Mietendeckeln ein direktes Instrument gegen steigende Mieten und Verdrängung in ihrem aufgewerteten Viertel.",
+      "begruendung_selbst": "Endlich wird die Miete nicht mehr dem Markt überlassen – das gibt mir Hoffnung, dass ich nicht raus muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kein Zwangsräumung wegen Mietschulden!",
+      "thema": "wohnen",
+      "programmpunkt": "Moratorium für Zwangsräumungen bei Wohnungen in öffentlicher Hand",
+      "seite": 92,
+      "zitat": "ein landesweites Moratorium für Zwangsräumungen aufgrund von Mietschulden",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das schützt Mieterinnen wie Carla unmittelbar vor existenzieller Unsicherheit durch Modernisierung oder Mieterhöhungen.",
+      "begruendung_selbst": "Ich habe Angst vor dem Brief mit der Modernisierung – dieses Moratorium nimmt mir die größte Sorge.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Housing First statt Obdachlosigkeit!",
+      "thema": "wohnen",
+      "programmpunkt": "Bevorzugung des Housing-First-Ansatzes für wohnungslose Menschen",
+      "seite": 92,
+      "zitat": "Der Ansatz „Housing First“ bevorzugt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla begrüßt die klare Absage an reine Marktlogik und die Anerkennung von Wohnen als Menschenrecht.",
+      "begruendung_selbst": "Wohnen ist kein Aktienpaket – endlich wird das auch politisch gesagt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanierung statt Neubau auf der grünen Wiese!",
+      "thema": "wohnen",
+      "programmpunkt": "Vorrang von Bestandssanierung und Umbau vor Neubau",
+      "seite": 92,
+      "zitat": "Sanierung statt Neubau. Abrisse sollen nur erfolgen, wenn sie sozial und klimapolitisch notwendig sind",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Das schützt bestehende Mieterhaushalte und verhindert weitere Verdrängung durch Neubauprojekte.",
+      "begruendung_selbst": "Mein Altbauviertel soll erhalten bleiben, nicht abgerissen und neu vermietet werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr gemeinwohlorientierte Wohnungen!",
+      "thema": "wohnen",
+      "programmpunkt": "Förderung von Genossenschaften und gemeinwohlorientierten Wohnformen",
+      "seite": 91,
+      "zitat": "Gemeinschaftliche Wohnformen wie Genossenschaften, Mehrgenerationenwohnen oder Miethausprojekte wollen wir gezielt fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht darin eine langfristige Alternative zu renditegetriebenen Vermietern.",
+      "begruendung_selbst": "Genossenschaften und sozialer Wohnungsbau – das ist genau das, was mein Viertel braucht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Carla erkennt im Programm eine klare, mieterfreundliche Haltung zum Wohnen als Daseinsvorsorge. Die konkreten Instrumente gegen Verdrängung und für bezahlbaren Wohnraum treffen ihre zentrale Sorge direkt.",
+    "score": 2
+  }
+}

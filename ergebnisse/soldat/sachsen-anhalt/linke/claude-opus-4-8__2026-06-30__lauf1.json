@@ -7,7 +7,7 @@
   "zeitpunkt": "2026-06-30T00:00:00Z",
   "temperatur": 0,
   "lauf": 1,
-  "programm_stand": "beschlossen 19.03.2026",
+  "programm_stand": null,
   "prompt_version": "vergleich.v1",
   "erzeugt_via": "claude-code-subagent (ohne Gateway)",
   "metrik": {
@@ -18,84 +18,83 @@
     "dauer_ms": null,
     "usd": null
   },
-  "besonders_gut": [
-    {
-      "titel_selbst": "Rettungskräfte gut ausstatten – richtig!",
-      "thema": "sicherheit",
-      "programmpunkt": "Hilfswerk und Rettungsdienste mit modernem Equipment, ausreichend Personal und regelmäßiger Schulung stärken.",
-      "seite": 130,
-      "zitat": "modernem Equipment, ausreichend Personal und regelmäßiger Schulung",
-      "bezug": "meine_sicht_auf_andere",
-      "resonanz": "bestaetigt",
-      "begruendung": "Stefan misst Sicherheit an funktionierenden Strukturen; dass Katastrophenschutz und Rettungsdienste gut ausgestattet werden sollen, deckt sich mit seinem Anspruch an einsatzfähige Institutionen.",
-      "begruendung_selbst": "Wenigstens beim Bevölkerungsschutz wird Ausstattung ernst genommen – funktionierendes Material rettet Leben, das kenne ich aus dem Dienst.",
-      "beleg_ok": true
-    }
-  ],
+  "besonders_gut": [],
   "besonders_schlecht": [
     {
-      "titel_selbst": "Gegen mehr Verteidigungsausgaben – das untergräbt meinen Auftrag",
+      "titel_selbst": "Wehrfähigkeit als Feindbild",
       "thema": "verteidigung",
-      "programmpunkt": "Sich gegen die Erhöhung der Militärausgaben stellen, die angeblich nur Rüstungskonzernen nütze.",
+      "programmpunkt": "Ablehnung der Herstellung einer nationalen Kriegstüchtigkeit.",
+      "seite": 12,
+      "zitat": "die Herstellung einer nationalen Kriegstüchtigkeit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Wehrfähigkeit ist Stefans Auftrag. Dass Die Linke das Streben nach Kriegstüchtigkeit grundsätzlich ablehnt, stellt aus seiner Sicht die Einsatzbereitschaft der Truppe in Frage.",
+      "begruendung_selbst": "Kriegstüchtig zu sein heißt nicht, Krieg zu wollen, sondern ihn zu verhindern. Wer das verteufelt, schwächt genau meine Aufgabe.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Gegen jeden Verteidigungseuro",
+      "thema": "verteidigung",
+      "programmpunkt": "Ablehnung einer Erhöhung der Militärausgaben.",
       "seite": 13,
       "zitat": "gegen die Erhöhung der Militärausgaben",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
-      "begruendung": "Stefan erlebt Ausrüstungs- und Materialmängel täglich; eine Ablehnung höherer Verteidigungsausgaben steht seiner Forderung nach einer einsatzfähigen, gut ausgestatteten Truppe direkt entgegen.",
-      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren – wer die Mittel für die Truppe verweigert, gefährdet meinen Auftrag.",
+      "begruendung": "Ausrüstungsmängel sind Stefans größte Sorge; sie lassen sich nur mit Mitteln beheben. Eine pauschale Absage an höhere Militärausgaben trifft ihn unmittelbar.",
+      "begruendung_selbst": "Ohne Geld keine funktionierende Ausrüstung. Wer jede Erhöhung blockiert, lässt uns mit dem Mangel allein.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Gegen die Wehrpflicht – gegen die Wehrfähigkeit",
+      "titel_selbst": "Antimilitarismus als Programm",
       "thema": "verteidigung",
-      "programmpunkt": "Sich gegen die schrittweise Einführung der Wehrpflicht stellen.",
+      "programmpunkt": "Mobilisierung für eine antimilitaristische Politik.",
+      "seite": 13,
+      "zitat": "für eine antimilitaristische Politik mobilisieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Eine erklärt antimilitaristische Grundlinie steht Stefans Beruf und Selbstverständnis diametral entgegen und lässt für seine sicherheitspolitischen Anliegen keinen Raum.",
+      "begruendung_selbst": "Antimilitarismus als Ziel, das richtet sich direkt gegen das, was ich bin und tue. Da bleibt für mich nichts übrig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wehrpflicht abgelehnt, Kraft verschleudert?",
+      "thema": "verteidigung",
+      "programmpunkt": "Ablehnung einer schrittweisen Einführung der Wehrpflicht.",
       "seite": 13,
       "zitat": "gegen die schrittweise Einführung der Wehrpflicht",
-      "bezug": "betrifft_mich",
-      "resonanz": "kontaer",
-      "begruendung": "Angesichts der Bedrohungslage an der Ostflanke hält Stefan personelle Aufwüchse für nötig; die Ablehnung der Wehrpflicht widerspricht aus seiner Sicht der Wehrfähigkeit.",
-      "begruendung_selbst": "An der Ostflanke fehlt es überall an Leuten – wer die Wehrpflicht ablehnt, schwächt genau die Truppe, die schützen soll.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Keine militärische Nutzung – das geht an der Lage vorbei",
-      "thema": "verteidigung",
-      "programmpunkt": "Gegen die militärische Nutzung von Flughäfen und Standorten sowie deren Hochrüstung positionieren.",
-      "seite": 13,
-      "zitat": "gegen die militärische Nutzung des Flughafens",
-      "bezug": "betrifft_mich",
-      "resonanz": "kontaer",
-      "begruendung": "Stefan ist bündnis- und auftragsorientiert; das Zurückdrängen militärischer Infrastruktur erlebt er als Schwächung der Einsatzbereitschaft in einer ernsten Sicherheitslage.",
-      "begruendung_selbst": "Wer militärische Standorte zurückbaut, ignoriert die Bedrohungslage, mit der ich jeden Tag zu tun habe.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Frontex abschaffen – realitätsfern!",
-      "thema": "verteidigung",
-      "programmpunkt": "Die Abschaffung von Frontex fordern und die EU nicht als militärischen Akteur ausbauen.",
-      "seite": 96,
-      "zitat": "Frontex gehört abgeschafft",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
-      "begruendung": "Stefan setzt auf verlässliche Sicherheit und Bündnisstrukturen; die Forderung, eine europäische Grenzschutzagentur abzuschaffen, läuft seinem Sicherheitsverständnis zuwider.",
-      "begruendung_selbst": "Grenzschutz und Bündnis abzubauen, während die Lage eskaliert – das passt für mich überhaupt nicht zusammen.",
+      "begruendung": "Stefan sieht Personalfragen als Teil der Wehrfähigkeit. Die Ablehnung selbst einer schrittweisen Wehrpflicht ordnet er der grundsätzlichen Abwehr gegen eine einsatzfähige Truppe zu.",
+      "begruendung_selbst": "Ob Wehrpflicht oder nicht, kann man diskutieren. Aber sie als Freiheitsraub abzutun, verkennt, warum wir überhaupt Personal brauchen.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Fördergeld weg von der Rüstung – trifft den Auftrag",
+      "titel_selbst": "Abrüstung statt Schutz",
       "thema": "verteidigung",
-      "programmpunkt": "Zivile Produktion priorisieren und Landesfördermittel von der Rüstungslogik abziehen.",
+      "programmpunkt": "Priorität für eine friedensorientierte Politik aus Diplomatie und Abrüstung.",
       "seite": 122,
-      "zitat": "zivile Produktion priorisieren",
+      "zitat": "eine friedensorientierte Politik stärken, die auf Diplomatie, Abrüstung",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
-      "begruendung": "Stefan bewertet Politik an Ernsthaftigkeit bei Ausrüstung und Bündnistreue; öffentliche Mittel bewusst von Verteidigungsindustrie abzulenken erlebt er als Untergrabung seines Auftrags.",
-      "begruendung_selbst": "Ich stehe für dieses Land ein – wenn selbst Fördergeld aus der Verteidigung abgezogen wird, fühle ich mich im Stich gelassen.",
+      "begruendung": "Abrüstungsforderungen untergraben aus Stefans Sicht die Abschreckung an der Ostflanke. Diplomatie ohne wehrhafte Grundlage empfindet er als gefährlich naiv.",
+      "begruendung_selbst": "Diplomatie ohne starke Truppe ist ein Bittgang. Abrüstung in dieser Lage nimmt mir die Mittel, mein Land zu schützen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz abschaffen? Nein",
+      "thema": "demokratie",
+      "programmpunkt": "Der Verfassungsschutz wird für überflüssig erklärt und soll durch eine Agentur ersetzt werden.",
+      "seite": 129,
+      "zitat": "Demokratie verteidigen statt Geheimdienst ausbauen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Für Stefan gehört ein handlungsfähiger Verfassungsschutz zur wehrhaften Demokratie und zur Abwehr von Spionage und Sabotage. Ihn für überflüssig zu erklären, widerspricht seiner Institutionentreue.",
+      "begruendung_selbst": "Spionage und Sabotage sind real. Den Verfassungsschutz abzuwickeln, schwächt die wehrhafte Demokratie, statt sie zu stärken.",
       "beleg_ok": true
     }
   ],
   "gesamt": {
-    "zusammenfassung": "Stefan stößt mit seinem sicherheits- und bündnisorientierten Selbstverständnis fast durchgängig auf Widerspruch: Ablehnung höherer Verteidigungsausgaben, der Wehrpflicht und militärischer Infrastruktur, die Forderung nach Frontex-Abschaffung und das Abziehen von Mitteln aus der Rüstung. Nur die gute Ausstattung von Katastrophen- und Rettungskräften findet seine Zustimmung. Für seinen Auftrag fällt die Bewertung klar negativ aus.",
+    "zusammenfassung": "Für Stefan kollidiert das Programm der Linken frontal mit seinem Beruf und seiner Sicherheitslage: Ablehnung von Kriegstüchtigkeit, keine höheren Militärausgaben, erklärter Antimilitarismus, Absage an die Wehrpflicht, Abrüstung als Leitlinie und die Abwicklung des Verfassungsschutzes. Positive Anknüpfungspunkte an seine Anliegen findet er nicht. Er liest die Linie als grundsätzliche Gegenposition zu Bündnisverteidigung und Wehrfähigkeit.",
     "score": -2
   }
 }

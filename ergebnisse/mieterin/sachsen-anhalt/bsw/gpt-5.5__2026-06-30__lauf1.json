@@ -1,0 +1,162 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 74972,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wohnen ist keine Ware",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW ordnet Wohnen als Daseinsvorsorge ein und will es der Spekulation entziehen.",
+      "seite": 30,
+      "zitat": "Wohnen ist Teil der Daseinsvorsorge",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht ihr Zuhause nicht als Anlageobjekt, sondern als Grundlage ihres Lebens im Viertel. Die klare Gemeinwohl-Sprache trifft ihren Kernkonflikt mit renditegetriebener Aufwertung.",
+      "begruendung_selbst": "Genau darum geht es: Meine Wohnung ist mein Zuhause, kein Posten in irgendeinem Portfolio.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mietendeckel, endlich konkret",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei will Mietsteigerungen begrenzen und nennt einen bundesweiten Mietendeckel als geeignetes Instrument.",
+      "seite": 30,
+      "zitat": "Ein bundesweiter Mietendeckel ist dafür ein geeignetes Instrument.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Carla ist die Angst vor steigenden Mieten existenziell. Ein ausdrücklich benannter Mietendeckel ist für sie stärker als allgemeine Versprechen zu Neubau oder Marktentspannung.",
+      "begruendung_selbst": "Ich brauche keine warmen Worte, ich brauche eine Grenze, ab der meine Miete nicht weiter hochschießt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr gemeinnützige Wohnungen",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm fordert den Ausbau von sozialem und gemeinnützigem Wohnungsbau.",
+      "seite": 31,
+      "zitat": "Sozialen und gemeinnützigen Wohnungsbau ausweiten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla hofft auf mehr Wohnungen, die nicht nach maximaler Rendite bewirtschaftet werden. Gemeinnütziger Wohnungsbau passt zu ihrem Wunsch nach einem gemischten, bezahlbaren Viertel.",
+      "begruendung_selbst": "Wenn es mehr gemeinnützige Wohnungen gibt, muss nicht jede freie Wohnung sofort zur Renditemaschine werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Stoppt den Ausverkauf",
+      "thema": "wohnen",
+      "programmpunkt": "Öffentlicher Wohnraum soll bei Wohnraummangel nicht weiter privatisiert werden.",
+      "seite": 31,
+      "zitat": "Keine Privatisierung öffentlichen Wohnraums bei Wohnraummangel",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla nimmt Immobilieninvestoren als Gegeninteresse wahr. Der Stopp weiterer Privatisierungen spricht ihre Sorge an, dass öffentliche Bestände dauerhaft aus der sozialen Steuerung fallen.",
+      "begruendung_selbst": "Jede verkaufte kommunale Wohnung fehlt später genau den Leuten, die hier bleiben wollen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Daseinsvorsorge zurückholen",
+      "thema": "wirtschaft",
+      "programmpunkt": "Zentrale kommunale Bereiche wie ÖPNV, Energie, Wasser und Wohnungswirtschaft sollen rekommunalisiert und Privatisierungen gestoppt werden.",
+      "seite": 77,
+      "zitat": "Daseinsvorsorge rekommunalisieren und Privatisierungen stoppen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lehnt reine Marktlogik in der Daseinsvorsorge ab. Die Forderung nach öffentlicher oder genossenschaftlicher Hand stärkt genau die Akteure, denen sie eher zutraut, Mieten und Versorgung sozial zu steuern.",
+      "begruendung_selbst": "Wenn Wohnen und Nahverkehr wieder öffentlich gedacht werden, hat mein Alltag mehr Schutz vor Profitdruck.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus und Bahn bezahlbar",
+      "thema": "verkehr",
+      "programmpunkt": "Der öffentliche Nahverkehr soll verlässlich, verständlich und bezahlbar werden; das Deutschlandticket soll erhalten und günstiger werden.",
+      "seite": 33,
+      "zitat": "Das Deutschlandticket hat sich bewährt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt ohne Auto und braucht einen funktionierenden ÖPNV für Alltag, Arbeit und Stadtleben. Bezahlbarkeit und einfache Tarife entsprechen ihrer Erwartung an eine gute urbane Mobilität.",
+      "begruendung_selbst": "Ich fahre nicht aus Lifestyle-Gründen Bahn, sondern weil mein Alltag ohne Auto funktionieren muss.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radwege zählen auch",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm will alltagstaugliche sichere Radwege sowie Bike-and-Ride und Park-and-Ride stärken.",
+      "seite": 33,
+      "zitat": "alltagstaugliche, sichere Radwege",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla bewegt sich im Alltag mit ÖPNV und Rad. Sichere Radwege sind für sie ein konkreter Beitrag zu einer Stadt, in der Mobilität nicht vom eigenen Auto abhängt.",
+      "begruendung_selbst": "Sichere Radwege sind kein Extra, sondern die Frage, ob ich entspannt durch meine Stadt komme.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Zu viel Eigenheim-Brille",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW will zusätzliche Bauflächen besonders für Eigenheime von Familien und Erstkäufern ausweisen.",
+      "seite": 31,
+      "zitat": "insbesondere für den Bau von Eigenheimen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla hat kaum Vermögen und sieht einen Kauf in der Innenstadt als unerreichbar. Eine starke Ausrichtung auf Eigenheimförderung fühlt sich für sie wie Politik für andere an, während ihr konkretes Mietrisiko bestehen bleibt.",
+      "begruendung_selbst": "Ich brauche Schutz in meiner Mietwohnung, keine Förderlogik für Leute, die bauen können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Steuergeschenke für Eigentümer",
+      "thema": "steuern",
+      "programmpunkt": "Junge Familien sollen bei selbstgenutztem Wohneigentum dauerhaft von der Grundsteuer befreit werden.",
+      "seite": 31,
+      "zitat": "Grundsteuer auf selbstgenutztes Wohneigentum vollständig abschaffen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla empfindet Eigentumsförderung als nachrangig gegenüber wirksamem Mieterschutz und gemeinnützigem Bestand. Die Maßnahme hilft Haushalten mit Eigentumsperspektive, nicht den Menschen, die von Verdrängung bedroht sind.",
+      "begruendung_selbst": "Warum wird Eigentum entlastet, während Mieterinnen jeden Monat bangen, was die nächste Erhöhung bringt?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine autoarme Haltung",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei lehnt eine erzwungene Verkehrswende ab und betont die fortbestehende Unverzichtbarkeit des Autos.",
+      "seite": 32,
+      "zitat": "Eine erzwungene Verkehrswende lehnen wir ab.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla wünscht sich eine gute ÖPNV-Stadt und lebt ohne Auto. Die Formulierung signalisiert ihr, dass autoarme Stadtpolitik und konsequente Verkehrsverlagerung nicht im Zentrum stehen.",
+      "begruendung_selbst": "Wenn jede echte Verkehrswende gleich als Zwang klingt, bleibt meine Straße am Ende doch Autoraum.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verbrenner bleiben gesetzt",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm will die Entwicklung effizienterer Verbrenner und synthetischer Kraftstoffe weiter unterstützen.",
+      "seite": 32,
+      "zitat": "Ein pauschales Verbrennerverbot lehnen wir ab.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla priorisiert ÖPNV, Rad und eine weniger autozentrierte Stadt. Die industriepolitische Offenheit für Verbrenner wirkt aus ihrer Sicht wie ein Festhalten an Autopolitik statt an urbaner Mobilitätswende.",
+      "begruendung_selbst": "Ich will weniger Abhängigkeit vom Auto, nicht die nächste Runde Technikversprechen für denselben Autoverkehr.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im BSW-Programm ungewöhnlich viele klare Signale für ihre Kernanliegen: Mietendeckel, gemeinnütziger Wohnungsbau, Anti-Privatisierung und Daseinsvorsorge vor Rendite. Gleichzeitig stören sie eigentumszentrierte Förderideen und eine Verkehrspolitik, die ihr zu vorsichtig gegenüber Auto und Verbrenner bleibt. Insgesamt überwiegt für sie wegen der direkten wohnungspolitischen Treffer deutlich das Positive.",
+    "score": 2
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:45:47.970Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 82371,
+    "output_tokens": 1913,
+    "cached_tokens": 128,
+    "total_tokens": 84284,
+    "dauer_ms": 18926,
+    "usd": 0.10951935
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Bürokratie-Abbau für Kleine!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Bürokratieabbau und Vereinfachung von Verfahren für Unternehmen und Selbstständige",
+      "seite": 89,
+      "zitat": "Wir wollen Bürokratie abbauen, Dokumentations- und Berichtspflichten sollen reduziert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike erlebt die Dokumentations- und Berichtspflichten als existenzielle Belastung bei schwankendem Einkommen. Das Programm verspricht hier direkte Entlastung.",
+      "begruendung_selbst": "Endlich weniger Papierkram, der mich als Einzelkämpferin überfordert – das spart Zeit und Nerven.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kreativwirtschaft braucht Förderung!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Stärkung von Innovation, Start-ups und Kreativbranchen durch Cluster und Transfer",
+      "seite": 89,
+      "zitat": "Wir wollen landesweite Innovationscluster als spezialisierte Gründerökosysteme aufbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soloselbstständige im Kreativbereich profitiert Mareike von besseren Vernetzungs- und Förderstrukturen für ihre Branche.",
+      "begruendung_selbst": "Endlich wird meine Szene als Wirtschaftsfaktor ernst genommen und nicht nur als Hobby.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Digitale Verwaltung muss her!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Zentrale digitale Bürgerportale und Once-Only-Prinzip für Verwaltungsleistungen",
+      "seite": 97,
+      "zitat": "Bis 2030 sollen nahezu alle Behördengänge vollständig digital, barrierefrei",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike nutzt digitale Kanäle und leidet unter analogen Behördenwegen; ein zentrales Portal würde ihren Alltag spürbar erleichtern.",
+      "begruendung_selbst": "Einmal alles digital und ohne doppelte Anträge – das wäre für mich als Nomadin endlich praktikabel.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Wieder nur Angestellte im Fokus!",
+      "thema": "arbeit",
+      "programmpunkt": "Stärkung von Tarifbindung und Mitbestimmung primär für abhängig Beschäftigte",
+      "seite": 76,
+      "zitat": "Tarifverträge und Betriebsräte verbessern Arbeitsbedingungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike fällt als Soloselbstständige durch klassische Arbeitnehmerinstrumente und erhält keine konkrete Absicherung für Krankheit oder Flaute.",
+      "begruendung_selbst": "Tarifbindung und Betriebsräte helfen mir nicht – ich brauche Schutz für Selbstständige, nicht nur für Angestellte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "KSK und Altersvorsorge bleiben außen vor!",
+      "thema": "gesundheit",
+      "programmpunkt": "Bürger*innenversicherung auf Bundesebene ohne konkrete Maßnahmen für KSK-Versicherte",
+      "seite": 76,
+      "zitat": "Im Bereich der Sozialversicherungen setzen wir uns auf Bundesebene für das Prinzip der Bürger*innenversicherung ein",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die vage Ankündigung einer Bürger*innenversicherung adressiert nicht Mareikes konkrete Lücken bei Krankheit, Pflege und Rente als KSK-Mitglied.",
+      "begruendung_selbst": "Bürger*innenversicherung klingt gut, aber ohne echte Lösung für meine KSK-Beiträge und Altersvorsorge bleibe ich im Regen stehen.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet punktuelle Entlastungen bei Bürokratie und Digitalisierung sowie indirekte Anerkennung der Kreativwirtschaft. Gleichzeitig bleibt die zentrale Sorge – soziale Absicherung für Soloselbstständige – weitgehend unadressiert, was zu einer insgesamt zurückhaltenden Bewertung führt.",
+    "score": 0
+  }
+}

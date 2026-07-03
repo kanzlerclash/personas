@@ -48,13 +48,12 @@
       "thema": "bildung",
       "programmpunkt": "Die Partei will das BA/MA-System abschaffen und zu den traditionellen deutschen Studienabschlüssen zurückkehren, um akademische Freiheit und Gründlichkeit zu fördern.",
       "seite": 8,
-      "zitat": "Der sogenannte Bologna-Prozess bleibt ein wissenschaftspolitischer Irrsinn.",
+      "zitat": "Der sogenannte Bologna-Prozess, also die Ersetzung der deutschen Studienabschlüsse Magister und Diplom",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
       "begruendung": "Als Studentin der Sozialwissenschaften leidet Jule unter der starken Verschulung und dem Prüfungsstress des BA/MA-Systems. Die Forderung nach mehr akademischer Freiheit und weniger starrer Verschulung trifft ihren Nerv, auch wenn die Begründung der Partei konservativ ist.",
       "begruendung_selbst": "Dieser ständige Prüfungsstress und die Verschulung im Bachelor rauben mir jede Zeit für echtes Engagement und tiefes Denken. Wenn die das wirklich kippen wollen, wäre das ein Traum für meine akademische Freiheit.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     }
   ],
   "besonders_schlecht": [

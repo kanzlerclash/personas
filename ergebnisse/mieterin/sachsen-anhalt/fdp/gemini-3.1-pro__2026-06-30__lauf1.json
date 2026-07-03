@@ -1,0 +1,125 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "Gemini 3.1 Pro (High)",
+  "modell_slug": "gemini-3.1-pro",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "agy (gemini-3.1-pro, ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Kommunale Wohnungen entschulden!",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP will kommunale Wohnungsunternehmen und Genossenschaften über einen Fonds von ihren historischen Altschulden befreien, damit diese wieder mehr investieren können.",
+      "seite": 12,
+      "zitat": "Wir wollen einen landeseigenen, befristeten Altschuldenfonds auflegen, der kommunale Wohnungsunternehmen und Genossenschaften gleichbehandelt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla befürwortet gemeinwohlorientierten Wohnraum als Gegengewicht zu privaten Spekulanten. Die finanzielle Entlastung kommunaler und genossenschaftlicher Wohnungsunternehmen gibt ihr Hoffnung auf ein faireres Mietengefüge in der Stadt.",
+      "begruendung_selbst": "Es ist absolut richtig, dass Genossenschaften und kommunale Vermieter gestärkt werden. Sie sind unser wichtigster Schutz gegen die reine Profitgier der privaten Investoren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das Deutschlandticket muss bleiben!",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei bekennt sich zur Fortführung des Deutschlandtickets als festem Bestandteil des öffentlichen Nahverkehrsangebots, sofern die Qualität nicht leidet.",
+      "seite": 73,
+      "zitat": "Das Deutschlandticket bleibt Teil des Angebots, darf jedoch nicht zu Lasten von Qualität",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Da Carla kein eigenes Auto besitzt und alle Wege im Alltag mit öffentlichen Verkehrsmitteln oder dem Rad zurücklegt, ist das Ticket für sie eine essenzielle und verlässliche finanzielle Entlastung.",
+      "begruendung_selbst": "Ich fahre jeden Tag mit Bus und Bahn zur Arbeit. Dass das Deutschlandticket bleibt, ist für mich finanziell enorm wichtig, weil die Miete ohnehin schon mein halbes Gehalt frisst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich lückenlose Radwege!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Radwegenetz soll durch Lückenschlüsse und landkreisübergreifende Planung zu durchgängigen, sicheren Alltagsrouten ausgebaut werden.",
+      "seite": 71,
+      "zitat": "Menschen wollen mit dem Rad mobil sein, wir schaffen die Infrastruktur dafür.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ist in der Stadt viel mit dem Fahrrad unterwegs. Die konsequente Schließung von Netzlücken bedeutet für sie deutlich mehr Sicherheit und Komfort auf ihren täglichen Wegen.",
+      "begruendung_selbst": "Als Radfahrerin werde ich im Verkehr oft an den Rand gedrängt. Wenn diese nervigen Lücken im Radnetz endlich geschlossen werden, fühle ich mich im Alltag deutlich sicherer.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Ein Freifahrtschein für Modernisierungen!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei möchte private Wohnungseigentümer durch bessere steuerliche Abschreibungen bei energetischen Sanierungen und Modernisierungen entlasten.",
+      "seite": 13,
+      "zitat": "Bundesratsinitiative für eine dauerhafte Modernisierungs-Abschreibung starten, damit energetische Sanierungen und barrierereduzierende Maßnahmen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla hat massive Existenzängste vor einer Modernisierungsumlage, die sie aus ihrer Wohnung verdrängen könnte. Die einseitige steuerliche Förderung von Sanierungen ohne flankierenden Mieterschutz ist für sie ein Horrorszenario.",
+      "begruendung_selbst": "Ich habe panische Angst vor dem Tag, an dem der Brief mit der Modernisierung im Kasten liegt. Wenn Vermieter das jetzt noch leichter steuerlich absetzen können, ist meine Vertreibung doch schon beschlossene Sache.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Der Markt regelt nur Verdrängung!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die FDP ist der Überzeugung, dass der Staat bei der Wohnungspolitik nur Rahmenbedingungen setzen sollte, während private Eigentümer und Unternehmen die Investitionsentscheidungen treffen.",
+      "seite": 12,
+      "zitat": "die Entscheidungen über Investitionen treffen Unternehmen, Eigentümer und Familien selbst.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carlas politische Haltung richtet sich klar gegen eine marktliberale Wohnungspolitik. Sie erlebt in ihrem Viertel täglich, dass die freien Entscheidungen von Eigentümern meist in steigenden Mieten und Gentrifizierung resultieren.",
+      "begruendung_selbst": "Wenn ich so etwas lese, wird mir schlecht. 'Der Markt regelt' bedeutet für mich und meine Nachbarn am Ende immer nur Verdrängung durch Luxussanierungen und Spekulation.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohneigentum rettet mich nicht!",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP setzt bei der Schaffung von Wohnraum massiv auf die Förderung von privatem Wohneigentum, beispielsweise durch die Einführung von Freibeträgen bei der Grunderwerbsteuer.",
+      "seite": 12,
+      "zitat": "Grunderwerbsteuer-Freibetrag für den erstmaligen Erwerb selbstgenutzten Wohneigentums, für den wir uns auf Bundesebene",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Carla ist der Kauf einer Immobilie in ihrem aufgewerteten Viertel finanziell völlig utopisch. Die politische Konzentration auf Wohneigentum geht an ihrer Lebensrealität als Mieterin mit mittlerem Einkommen komplett vorbei.",
+      "begruendung_selbst": "Die tun so, als könnte sich jeder mal eben eine Altbauwohnung kaufen! Für mich ist ein Kauf völlig unerreichbar, ich brauche eine Politik, die mich als Mieterin schützt und nicht nur Immobilienkäufer fördert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Privatisierung verkauft unsere Sicherheit!",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die Partei fordert, staatliche Unternehmensbeteiligungen umfassend zu privatisieren, da der Staat nach ihrer Auffassung kein guter Unternehmer sei.",
+      "seite": 9,
+      "zitat": "alle Beteiligungen des Landes kritisch zu evaluieren und eine umfassende Privatisierungsoffensive zu starten.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla betrachtet elementare Daseinsvorsorge – wie Wohnen oder Gesundheit – nicht als gewinnorientierte Marktprodukte. Privatisierungen von staatlichen Beteiligungen stehen ihrem Wunsch nach einer gemeinwohlorientierten Gesellschaft fundamental entgegen.",
+      "begruendung_selbst": "Wohnen und Leben in der Stadt sind Daseinsvorsorge, kein Spekulationsgut! Wenn der Staat alles privatisiert und dem freien Markt überlässt, regelt das am Ende nur eins: Die Preise für uns alle steigen weiter.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Strafarbeit für Erwerbslose!",
+      "thema": "gesundheit",
+      "programmpunkt": "Die FDP fordert strenge Sanktionen in der Grundsicherung und will Langzeitarbeitslose zu gemeinnütziger Arbeit, der sogenannten Bürgerarbeit, verpflichten.",
+      "seite": 40,
+      "zitat": "Wir wollen, dass Langzeitarbeitslose zur Bürgerarbeit verpflichtet werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Als progressiv eingestellte Person mit einem starken Fokus auf soziale Gerechtigkeit empfindet Carla Zwangsarbeit und harte Leistungskürzungen für Arbeitslose als unsozial und stigmatisierend.",
+      "begruendung_selbst": "Menschen in Not zu einer Arbeit zu zwingen, ist der völlig falsche Ansatz. Wir brauchen eine echte soziale Absicherung in Krisenzeiten und keine Bestrafung von Leuten, die ohnehin schon ganz unten sind.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla lehnt das Programm der FDP in weiten Teilen ab, da die marktliberale Ausrichtung ihren Kernüberzeugungen und existenziellen Bedürfnissen als Mieterin widerspricht. Die Fokussierung auf privates Wohneigentum, steuerliche Erleichterungen für Modernisierungen und weitreichende Privatisierungen schüren ihre konkrete Angst vor Verdrängung und steigenden Lebenshaltungskosten. Einzelne positive verkehrs- und kommunalpolitische Ansätze können diesen fundamentalen Konflikt bei der Daseinsvorsorge nicht ausgleichen.",
+    "score": -2
+  }
+}

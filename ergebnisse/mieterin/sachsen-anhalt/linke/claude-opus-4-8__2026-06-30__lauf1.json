@@ -1,0 +1,100 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mietpreisbremse für die Städte",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will per Verordnung für angespannte Wohnungsmärkte eine Mietpreisbremse in den Städten ermöglichen.",
+      "seite": 82,
+      "zitat": "eine Mietpreisbremse für die Städte zu ermöglichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Eine Mietpreisbremse für angespannte städtische Märkte adressiert Carlas Kernsorge – steigende Mieten in ihrem aufgewerteten Viertel.",
+      "begruendung_selbst": "Eine Mietpreisbremse für meine Stadt – genau das habe ich mir gewünscht.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Modernisierungsumlage abschaffen!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will die Modernisierungsumlage abschaffen.",
+      "seite": 84,
+      "zitat": "die Modernisierungsumlage abschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Modernisierungsumlage ist genau der Verdrängungshebel, vor dem Carla Angst hat; ihre Abschaffung trifft ihre größte Sorge.",
+      "begruendung_selbst": "Kein Angst-Brief mit Modernisierungsumlage mehr – das nimmt mir eine echte Existenzangst.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sanierung ohne Mietsprung",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will Sanierungen und Heizungstausch warmmietenneutral gestalten.",
+      "seite": 84,
+      "zitat": "Sanierungen und Heizungstausch warmmietenneutral",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Warmmietenneutrale Sanierung schützt Carla davor, dass energetische Modernisierung zum Verdrängungsinstrument wird.",
+      "begruendung_selbst": "Sanieren ja – aber nicht auf meine Kosten und nicht raus aus der Wohnung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zweckentfremdung wird bestraft",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will die Zweckentfremdung von Wohnraum per Gesetz sanktionieren.",
+      "seite": 85,
+      "zitat": "ein Gesetz, das die Zweckentfremdung von Wohnraum sanktioniert",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein Zweckentfremdungsverbot gibt Kommunen ein Werkzeug gegen Spekulation und Umnutzung – Instrumente, die Carla als Schutz ihres Viertels sieht.",
+      "begruendung_selbst": "Wohnungen dürfen nicht zweckentfremdet werden, während ich um meine bange.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wohnen ist ein Menschenrecht",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke versteht Wohnen als Menschenrecht.",
+      "seite": 85,
+      "zitat": "Wir setzen auf Wohnen als Menschenrecht",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Diese Haltung deckt sich exakt mit Carlas Menschenbild, dass Wohnen Daseinsvorsorge und kein Spekulationsgut ist.",
+      "begruendung_selbst": "Wohnen als Menschenrecht – das ist genau meine Überzeugung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV zum Nulltarif",
+      "thema": "verkehr",
+      "programmpunkt": "Die Linke will den ÖPNV mittelfristig landesweit zum Nulltarif anbieten.",
+      "seite": 102,
+      "zitat": "mittelfristig landesweit zum Nulltarif anbieten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Kostenloser Nahverkehr senkt Carlas Mobilitätskosten und stützt ihre autofreie Stadtvorstellung.",
+      "begruendung_selbst": "Ein ÖPNV zum Nulltarif – das wäre für mich ohne Auto ein Traum.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [],
+  "gesamt": {
+    "zusammenfassung": "Das Programm der Linken trifft Carlas Anliegen nahezu Punkt für Punkt: Mietpreisbremse für angespannte Städte, Abschaffung der Modernisierungsumlage, warmmietenneutrale Sanierung, Zweckentfremdungsverbot und Wohnen als Menschenrecht. Ergänzt um einen ÖPNV zum Nulltarif sieht sie ihre mieter- und stadtpolitischen Kernforderungen umfassend bestätigt.",
+    "score": 2
+  }
+}

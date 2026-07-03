@@ -20,69 +20,81 @@
   },
   "besonders_gut": [
     {
-      "titel_selbst": "Gemeinsame Verteidigung stärken - ja!",
+      "titel_selbst": "Endlich Ausrüstung ernst genommen",
+      "thema": "sicherheit",
+      "programmpunkt": "Beste Ausstattung für Polizei, Feuerwehren und Rettungsdienste in Stadt und Land.",
+      "seite": 6,
+      "zitat": "Beste Ausstattung für Polizei, Feuerwehren und Rettungsdienste",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan bewertet Parteien an Ausrüstung und Ernsthaftigkeit. Dass die CDU Einsatzkräften beste Ausstattung zusagt statt nur warmer Worte, entspricht genau seinem Maßstab.",
+      "begruendung_selbst": "Das ist die Sprache, die ich verstehe: nicht nur Bekenntnisse, sondern beste Ausstattung für die, die den Kopf hinhalten.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bevölkerungsschutz für die neue Lage",
+      "thema": "sicherheit",
+      "programmpunkt": "Wegen veränderter geopolitischer Lage rückt der Bevölkerungsschutz stärker in den Fokus.",
+      "seite": 10,
+      "zitat": "eine veränderte geopolitische Lage ist der Bevölkerungsschutz verstärkt in den Fokus gerückt",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Soldat denkt Stefan die Bedrohungslage an der Ostflanke täglich mit. Dass die CDU den Bevölkerungsschutz geopolitisch begründet, zeigt ihm ein realistisches Lagebild.",
+      "begruendung_selbst": "Endlich benennt jemand die Lage, wie sie ist. Der Ernstfall ist nicht abstrakt, und Vorsorge ist keine Panikmache.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zivil und Militär greifen ineinander",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Abteilung Bevölkerungsschutz soll als Schnittstelle zu Bund und Bundeswehr gestärkt werden.",
+      "seite": 10,
+      "zitat": "Schnittstelle zum Bund, zur Bundeswehr, zu den Ländern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Zivil-militärische Zusammenarbeit ist für Stefans Auftrag zentral. Eine personell gestärkte Schnittstelle zur Bundeswehr trifft direkt seinen Berufsalltag am Standort.",
+      "begruendung_selbst": "Wenn es ernst wird, muss das zwischen Land, Bund und Truppe funktionieren. Genau da anzusetzen, ist richtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz stärken, gut so",
+      "thema": "demokratie",
+      "programmpunkt": "Angesichts zunehmender extremistischer Bestrebungen soll der Verfassungsschutz gestärkt werden.",
+      "seite": 7,
+      "zitat": "der Verfassungsschutz weiter gestärkt werden",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan steht für eine wehrhafte Demokratie und Vertrauen in Institutionen. Ein gestärkter Verfassungsschutz gegen jeden Extremismus deckt sich mit dieser Haltung.",
+      "begruendung_selbst": "Wer die Verfassung schützt, braucht Rückhalt. Extremismus jeder Farbe gehört im Blick behalten, nicht kleingeredet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bündnis mitdenken auf EU-Ebene",
       "thema": "verteidigung",
-      "programmpunkt": "Forderung nach einer EU, die ihre Außengrenzen schützt und die gemeinsame Verteidigung stärkt.",
+      "programmpunkt": "Die CDU will eine EU, die die gemeinsame Verteidigung stärkt.",
       "seite": 89,
       "zitat": "die gemeinsame Verteidigung stärkt",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Stefan bewertet Politik an Bündnistreue und Ernsthaftigkeit; ein Bekenntnis zur Stärkung der gemeinsamen Verteidigung entspricht seinem Kernanliegen.",
-      "begruendung_selbst": "Ich stehe für dieses Land ein. Dass die gemeinsame Verteidigung gestärkt werden soll, ist genau die Ernsthaftigkeit, die ich erwarte.",
+      "begruendung": "Bündnistreue ist einer von Stefans Grundwerten. Ein klares Bekenntnis zur Stärkung gemeinsamer Verteidigung in Europa bestätigt seine sicherheitspolitische Erwartung.",
+      "begruendung_selbst": "Sicherheit gibt es nur im Bündnis. Dass hier gemeinsame Verteidigung nicht als Schimpfwort steht, rechne ich hoch an.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Klares Ja zu Europa und Sicherheit.",
-      "thema": "verteidigung",
-      "programmpunkt": "Bekenntnis zu einer Europäischen Union, die Sicherheit, Wohlstand und Freiheit garantiert.",
-      "seite": 88,
-      "zitat": "klar zu einer Europäischen Union, die Sicherheit, Wohlstand und Freiheit",
-      "bezug": "betrifft_mich",
-      "resonanz": "bestaetigt",
-      "begruendung": "Stefan lehnt Bündnisskepsis ab; ein klares Bekenntnis zu einer sicherheitsgebenden EU stützt seinen Auftrag an der Ostflanke.",
-      "begruendung_selbst": "Bündnisskepsis untergräbt meinen Auftrag. Ein klares Ja zu Europa und Sicherheit ist für mich keine Floskel, sondern Grundlage.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Verteidigungsindustrie im Land - gut.",
-      "thema": "verteidigung",
-      "programmpunkt": "Ansiedlung von Chemie für die Verteidigungsindustrie als Beitrag zur europäischen Souveränität.",
+      "titel_selbst": "Verteidigungsindustrie ins Land",
+      "thema": "wirtschaft",
+      "programmpunkt": "Ansiedlung von Nitro-Chemie für die Verteidigungsindustrie als Teil europäischer Souveränität.",
       "seite": 12,
       "zitat": "Nitro - Chemie für die Verteidigungsindustrie",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "bestaetigt",
-      "begruendung": "Stefan frustriert, wenn Bekenntnisse ohne Ausstattung bleiben; die Förderung wehrtechnischer Produktion stärkt aus seiner Sicht die materielle Basis.",
-      "begruendung_selbst": "Mit warmen Worten fahre ich keine Übung. Dass wehrtechnische Produktion ins Land geholt wird, ist mal konkret statt nur Symbolik.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Bevölkerungsschutz mit der Bundeswehr.",
-      "thema": "sicherheit",
-      "programmpunkt": "Stärkung der Abteilung Bevölkerungsschutz als Schnittstelle zu Bund, Bundeswehr und Ländern angesichts veränderter Lage.",
-      "seite": 10,
-      "zitat": "Schnittstelle zum Bund, zur Bundeswehr",
-      "bezug": "betrifft_mich",
-      "resonanz": "bestaetigt",
-      "begruendung": "Stefan erlebt die veränderte Bedrohungslage unmittelbar; eine gestärkte Schnittstelle zur Bundeswehr im Bevölkerungsschutz entspricht seinem Sicherheitsdenken.",
-      "begruendung_selbst": "Die Lage hat sich verändert, das spüre ich täglich. Dass Land und Bundeswehr beim Schutz enger zusammenarbeiten, ist überfällig.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Wehrhafte Demokratie gegen die Ränder.",
-      "thema": "demokratie",
-      "programmpunkt": "Stärkung des Verfassungsschutzes gegen zunehmende extremistische Bestrebungen.",
-      "seite": 7,
-      "zitat": "der Verfassungsschutz weiter gestärkt werden",
-      "bezug": "betrifft_mich",
-      "resonanz": "bestaetigt",
-      "begruendung": "Stefan ist verfassungstreu und lehnt staatsgefährdende Strömungen ab; ein gestärkter Verfassungsschutz entspricht seiner Haltung zur wehrhaften Demokratie.",
-      "begruendung_selbst": "Eine wehrhafte Demokratie muss sich verteidigen können. Einen starken Verfassungsschutz halte ich für selbstverständlich.",
+      "begruendung": "Stefan weiß, dass Einsatzbereitschaft von Produktion und Nachschub abhängt. Dass die CDU die Verteidigungsindustrie strategisch stärken will, passt zu seinem Blick auf Resilienz.",
+      "begruendung_selbst": "Ohne eigene Produktion keine verlässliche Ausrüstung. Verteidigungsindustrie hier anzusiedeln ist genau die richtige Konsequenz.",
       "beleg_ok": true
     }
   ],
   "besonders_schlecht": [],
   "gesamt": {
-    "zusammenfassung": "Als Landesprogramm berührt das Papier Stefans Kernthema Verteidigung nur am Rand, doch wo es das tut, liegt es klar auf seiner Linie: Stärkung der gemeinsamen Verteidigung, klares Bekenntnis zu Bündnis und Sicherheit, wehrtechnische Industrie im Land, Bevölkerungsschutz mit der Bundeswehr und ein starker Verfassungsschutz. Gegen seine Lage gerichtete Punkte findet er nicht; die konkrete Truppenausstattung bleibt aber Bundessache.",
+    "zusammenfassung": "Stefan erkennt in der CDU eine verlässliche, sicherheits- und bündnisorientierte Linie: beste Ausstattung der Einsatzkräfte, gestärkter Bevölkerungsschutz mit Bundeswehr-Schnittstelle, ein starker Verfassungsschutz und ein Bekenntnis zu gemeinsamer Verteidigung und Verteidigungsindustrie. Direkte Aussagen zu seiner Besoldung oder Truppenausstattung fehlen, weil das Bundessache ist, doch die Grundhaltung trifft seine Erwartungen. Für ihn ein solides, ernsthaftes Programm.",
     "score": 1
   }
 }

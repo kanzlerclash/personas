@@ -1,0 +1,77 @@
+{
+  "persona": "solo_kreative",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:46:50.683Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 79447,
+    "output_tokens": 1554,
+    "cached_tokens": 2752,
+    "total_tokens": 81001,
+    "dauer_ms": 14053,
+    "usd": 0.10173665
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "KSK endlich reformieren!",
+      "thema": "arbeit",
+      "programmpunkt": "Soziale Lage von Künstlern und Kulturschaffenden gezielt verbessern, u. a. durch Reform der Künstlersozialkasse",
+      "seite": 40,
+      "zitat": "Die soziale Lage von Künstlern und Kulturschaffenden ist gezielt zu verbessern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike ist als Soloselbstständige in der KSK versichert und leidet unter unzureichender Absicherung bei Krankheit und Alter. Die explizite Reformforderung trifft ihre existenzielle Sorge direkt.",
+      "begruendung_selbst": "Endlich wird meine KSK-Situation ernst genommen – da habe ich jahrelang drauf gewartet.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bürokratie für die Kleinsten runter!",
+      "thema": "digitalisierung",
+      "programmpunkt": "Vereinfachung und Digitalisierung von Verwaltungsverfahren für kleine und mittlere Unternehmen sowie Soloselbstständige",
+      "seite": 21,
+      "zitat": "Unternehmen können dort Anträge stellen, Unterlagen hochladen und mit Behörden kommunizieren",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike kämpft mit komplexen Anträgen, Vorauszahlungen und Formularen, die ihre knappe Zeit fressen. Ein zentrales Unternehmensportal mit medienbruchfreien Verfahren würde ihre Alltagslast spürbar senken.",
+      "begruendung_selbst": "Weniger Formulare, weniger Fristenstress – endlich mal was Praktisches für Leute wie mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kulturförderung stabilisieren!",
+      "thema": "familie",
+      "programmpunkt": "Institutionelle Förderung für kleine und mittlere Kultureinrichtungen und freie Szene ausbauen und verstetigen",
+      "seite": 40,
+      "zitat": "Die freie Szene braucht langfristige Perspektiven",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mareike lebt von Aufträgen aus dem Kultur- und Kreativbereich. Verlässliche Förderstrukturen sichern indirekt ihre Auftragslage und schaffen Planungssicherheit.",
+      "begruendung_selbst": "Wenn die Szene gefördert wird, kommen auch für mich wieder mehr Jobs.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Steuern runter – aber für wen?",
+      "thema": "steuern",
+      "programmpunkt": "Progressive Besteuerung hoher Einkommen und Wiedereinführung der Vermögensteuer",
+      "seite": 35,
+      "zitat": "Wer mehr hat, soll mehr beitragen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareike verdient im Jahresmittel niedrig und schwankend; die Forderung nach höherer Belastung von Vermögenden und hohen Einkommen ändert nichts an ihrer eigenen Beitrags- und Steuerlast als Kleinste.",
+      "begruendung_selbst": "Klingt gerecht, aber bei mir bleibt trotzdem alles gleich teuer und kompliziert.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Mareike findet im Programm klare Anknüpfungspunkte bei der Absicherung von Kreativschaffenden und Bürokratieabbau, die ihre prekäre Soloselbstständigkeit direkt betreffen. Gleichzeitig bleiben zentrale Steuer- und Beitragsfragen für Kleinste ungelöst, sodass die Resonanz insgesamt moderat positiv ausfällt.",
+    "score": 1
+  }
+}

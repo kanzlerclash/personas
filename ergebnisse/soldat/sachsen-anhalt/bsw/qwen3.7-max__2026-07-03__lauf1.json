@@ -1,0 +1,113 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "bsw",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T08:01:23.178Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 07.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 66045,
+    "output_tokens": 7106,
+    "cached_tokens": 0,
+    "total_tokens": 73151,
+    "dauer_ms": 132903,
+    "usd": 0.1281825
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Entlastung für das Eigenheim.",
+      "thema": "wohnen",
+      "programmpunkt": "Das BSW fordert die Abschaffung der Grundsteuer für selbstgenutztes Wohneigentum, um Familien den Vermögensaufbau zu erleichtern.",
+      "seite": 31,
+      "zitat": "die Grundsteuer auf selbstgenutztes Wohneigentum vollständig abschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als verheirateter Vater mit Familie am Standort plant Stefan langfristig und könnte ein Eigenheim besitzen oder anstreben. Die finanzielle Entlastung bei den Wohnkosten begrüßt er als pragmatische Unterstützung für Familien, auch wenn er der Partei sicherheitspolitisch skeptisch gegenübersteht.",
+      "begruendung_selbst": "Wenn man mit der Familie am Standort verwurzelt ist, zählt jeder Euro fürs Eigenheim. Da ist eine gestrichene Grundsteuer ein echtes, greifbares Signal für Familien.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beitragsfreie Kitas helfen der Familie.",
+      "thema": "familie",
+      "programmpunkt": "Die Partei fordert die Einführung beitragsfreier Kitas, um Familien finanziell zu entlasten und frühkindliche Bildung unabhängig vom Einkommen zu machen.",
+      "seite": 46,
+      "zitat": "Wir setzen uns deshalb für beitragsfreie Kitas in Sachsen-Anhalt ein.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Die Vereinbarkeit von militärischem Dienst und Familie hängt stark an verlässlicher und bezahlbarer Kinderbetreuung. Die Forderung nach beitragsfreien Kitas trifft Stefans Bedürfnis nach planbaren Familienfinanzen und guter Infrastruktur am Standort.",
+      "begruendung_selbst": "Der Dienst fordert oft Flexibilität, da muss wenigstens die Betreuung der Kinder verlässlich und bezahlbar sein. Beitragsfreie Kitas wären für unsere Familienkasse eine spürbare Entlastung.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Keine NATO-Manöver? Das ist mein Job!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das BSW lehnt die Nutzung Sachsen-Anhalts als militärische Transit- und Logistikdrehscheibe sowie NATO-Manöver ab.",
+      "seite": 9,
+      "zitat": "Keine NATO-Manöver und militärische Nutzung ziviler Infrastruktur",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan ist als Berufssoldat in Sachsen-Anhalt stationiert und direkt in die logistische Unterstützung und Bündnisverteidigung der NATO-Ostflanke eingebunden. Die pauschale Ablehnung von NATO-Manövern und der Infrastruktur-Nutzung entzieht seinem täglichen Dienst und der strategischen Bedeutung seines Standorts die Grundlage.",
+      "begruendung_selbst": "Ich stehe hier an der Ostflanke für unsere Bündnispartner ein. Wenn die Politik NATO-Manöver und Logistik-Drehscheiben verbieten will, sägt sie genau an dem Ast, auf dem unsere Sicherheit und mein täglicher Auftrag sitzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Übungsplätze sind kein Luxus!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Partei fordert einen Stopp der Erweiterung von Truppenübungsplätzen, explizit in der Letzlinger Heide, aus ökologischen und gesellschaftlichen Gründen.",
+      "seite": 9,
+      "zitat": "Wir lehnen jede weitere militärische Erweiterung von Truppenübungsplätzen in Sachsen-Anhalt ab",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Letzlinger Heide ist einer der wichtigsten Truppenübungsplätze in Sachsen-Anhalt. Für Stefan bedeutet die Forderung nach einem Ausbau-Stopp, dass realistische Ausbildung und Einsatzvorbereitung zugunsten von Tourismus und Naturschutz eingeschränkt werden sollen, was er als fahrlässig für die Einsatzbereitschaft empfindet.",
+      "begruendung_selbst": "Ohne vernünftige Übungsplätze wie die Letzlinger Heide können wir nicht für den Ernstfall trainieren. Wer Ausbildung gegen Naturschutz ausspielt, schickt uns im Zweifel unvorbereitet in den Einsatz.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Warme Worte kaufen keine Ausrüstung.",
+      "thema": "verteidigung",
+      "programmpunkt": "Das BSW lehnt das Sondervermögen und zusätzliche Rüstungsausgaben ab und bezeichnet diese als 'Kriegskredite', die zu Lasten sozialer Investitionen gehen.",
+      "seite": 8,
+      "zitat": "Nein zu diesen Kriegskrediten.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan erlebt den Materialmangel der Bundeswehr täglich. Die Weigerung der Partei, zusätzliche Mittel für die Ausrüstung der Truppe bereitzustellen, und die Umdeutung von Verteidigungsinvestitionen in 'Kriegskredite' widerspricht seiner Forderung nach einer verlässlich ausgestatteten Armee zutiefst.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Ich brauche Ausrüstung, die funktioniert. Wer notwendige Investitionen als 'Kriegskredite' diffamiert, lässt uns im Stich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Russland-Nähe ist ein Sicherheitsrisiko.",
+      "thema": "sicherheit",
+      "programmpunkt": "Das BSW fordert Verhandlungen mit Russland über Gaslieferungen und die Nutzung von Nordstream, um die Energieversorgung zu sichern.",
+      "seite": 20,
+      "zitat": "Das BSW fordert langfristige Importverträge und Verhandlungen mit Russland",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Aus Stefans Sicht an der NATO-Ostflanke ist Russland der primäre Aggressor und Bedrohungsfaktor. Die Forderung nach erneuter energiepolitischer und diplomatischer Anbindung an Moskau empfindet er als naiv und als direkte Untergrabung der europäischen Sicherheitsarchitektur, die er verteidigt.",
+      "begruendung_selbst": "An der Ostflanke sehen wir jeden Tag, wer hier die Bedrohung darstellt. Sich wieder von russischem Gas abhängig zu machen, ist kein Friedensplan, sondern ein sicherheitspolitischer Selbstmord.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wir führen keinen Angriffskrieg!",
+      "thema": "demokratie",
+      "programmpunkt": "Das BSW unterstellt, dass die aktuelle Aufrüstung und Bündnispolitik auf die Vorbereitung von Angriffskriegen und eine Militarisierung der Gesellschaft abziele.",
+      "seite": 6,
+      "zitat": "Unser Land darf nie wieder für einen Angriffskrieg gerüstet werden.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan versteht seinen Dienst als reine Bündnis- und Landesverteidigung. Die pauschale Unterstellung, die Bundeswehr und ihre Partner würden für 'Angriffskriege' rüsten, empfindet er als moralische Entwertung seines Eidess und der demokratischen Legitimation seines Auftrags.",
+      "begruendung_selbst": "Ich habe meinen Eid auf die Verteidigung dieses Landes und unserer Verbündeten geschworen. Zu unterstellen, wir würden hier einen Angriffskrieg vorbereiten, ist eine bodenlose Respektlosigkeit gegenüber der Truppe.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan schätzt die familienpolitischen Entlastungen wie beitragsfreie Kitas und die Abschaffung der Grundsteuer für Eigenheime, die seine Lebensplanung am Standort unterstützen. Die sicherheits- und verteidigungspolitischen Positionen des BSW sind für ihn als Berufssoldat jedoch ein absoluter Affront: Die Ablehnung von NATO-Manövern, der Ausbau-Stopp für Truppenübungsplätze und die Weigerung, in Ausrüstung zu investieren, untergraben seinen Auftrag und die Einsatzbereitschaft. Die russlandfreundliche Energiepolitik und die Diffamierung der Bündnisverteidigung als 'Angriffskrieg' machen die Partei für ihn unwählbar.",
+    "score": -2
+  }
+}

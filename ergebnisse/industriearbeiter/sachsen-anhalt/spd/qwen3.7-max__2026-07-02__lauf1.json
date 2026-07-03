@@ -86,13 +86,12 @@
       "thema": "klima",
       "programmpunkt": "Ein Klimaschutzgesetz soll verbindliche Reduktionspfade für Treibhausgase festschreiben, was Uwe als starren Zwang interpretiert, der bei technologischen Rückschlägen zu Werksschließungen führen könnte.",
       "seite": 15,
-      "zitat": "Darin festgelegt werden Reduktionspfade für Treibhausmissionen",
+      "zitat": "Reduktionspfade für Treibhausemissionen, die Orientierung und Planungssicherheit für Kommunen, Wirtschaft und Gesellschaft geben",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
       "begruendung": "Obwohl Uwe Klimaschutz prinzipiell befürwortet, fürchtet er starre gesetzliche Vorgaben ohne technologische Alternativen. Verbindliche Reduktionspfade klingen für ihn nach einem Damoklesschwert über den Produktionsstätten, das im Zweifel Jobs opfert.",
       "begruendung_selbst": "Verbindliche Reduktionspfade im Gesetz? Was passiert denn, wenn die neue Technik noch nicht fertig ist, aber die Frist abläuft? Dann machen die uns den Laden dicht! Klimaschutz darf kein Selbstmordprogramm für unsere Industrie werden.",
-      "beleg_ok": false,
-      "beleg_hinweis": "Zitat im Dokument nicht gefunden"
+      "beleg_ok": true
     },
     {
       "titel_selbst": "Klimaneutralität klingt nach Ausstieg!",

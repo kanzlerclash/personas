@@ -1,0 +1,77 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:52:06.693Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 69736,
+    "output_tokens": 6956,
+    "cached_tokens": 0,
+    "total_tokens": 76692,
+    "dauer_ms": 131963,
+    "usd": 0.13428875
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich den Bündnisfall mitdenken!",
+      "thema": "verteidigung",
+      "programmpunkt": "Das Land soll Planungen für die zivil-militärische Zusammenarbeit explizit auch für die Szenarien Aufmarsch, Spannungsfall, Bündnisfall und Verteidigungsfall entwickeln und mit militärischen Dienststellen abstimmen.",
+      "seite": 48,
+      "zitat": "für die Szenarien Aufmarsch-, Spannungsfall, Bündnisfall und Verteidigungsfall eigenständig zu entwickeln",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan erlebt oft, dass Landespolitik die militärische Realität ausblendet. Dass die Grünen hier explizit den Bündnis- und Verteidigungsfall in die zivil-militärische Katastrophenschutzplanung aufnehmen, zeigt für ihn ein ernsthaftes Verständnis der aktuellen Bedrohungslage und der Rolle der Bundeswehr.",
+      "begruendung_selbst": "Es ist verdammt noch mal an der Zeit, dass die Landespolitik begreift, wofür wir da sind. Wenn ihr den Bündnis- und Verteidigungsfall in eure Planungen aufnehmt und mit uns abstimmt, zeigt das, dass ihr die Lage an der Ostflanke endlich ernst nehmt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kurze Wege für meine Kids",
+      "thema": "familie",
+      "programmpunkt": "Das Programm 'HeimatKita' garantiert, dass die nächste Kindertagesbetreuung im selben Ort oder maximal 15 Minuten entfernt ist, was besonders Familien in ländlichen Garnisonsstandorten entlastet.",
+      "seite": 57,
+      "zitat": "Die nächste Kindertagesbetreuung ist entweder in derselben Ortschaft oder maximal 15 Minuten entfernt!",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als Vater in einer ländlichen Garnisonsregion ist Stefan auf verlässliche und wohnortnahe Kinderbetreuung angewiesen, um Dienst und Familie zu vereinbaren. Das Versprechen einer maximal 15-minütigen Entfernung zur Kita trifft genau seinen Alltag und seine Bedürfnisse als junger Vater.",
+      "begruendung_selbst": "Wir wohnen hier draußen am Standort, und lange Fahrzeiten zur Kita sind bei meinen Schicht- und Übungsdiensten einfach nicht drin. Wenn das Land garantiert, dass die Betreuung im Ort oder in 15 Minuten erreichbar ist, hilft mir das als Vater enorm.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Übungsplatz ist kein Freizeitpark!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die Colbitz-Letzlinger Heide soll primär für Erholung, Naturtourismus und Landschaftsschutz 'friedlich' genutzt werden.",
+      "seite": 95,
+      "zitat": "Die Colbitz-Letzlinger Heide soll für Erholung und Naturtourismus friedlich und naturverträglich genutzt werden",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan ist als Soldat in Sachsen-Anhalt auf realistische Übungsräume wie das Gefechtsübungszentrum in der Colbitz-Letzlinger Heide angewiesen. Die Forderung nach einer rein 'friedlichen' und touristischen Nutzung ignoriert die militärische Notwendigkeit dieses Truppenübungsplatzes für die Einsatzbereitschaft der Truppe völlig.",
+      "begruendung_selbst": "In der Letzlinger Heide üben wir für den Ernstfall an der Ostflanke. Wenn ihr da nur noch Touristen und Naturschutz wollt, nehmt ihr uns die Grundlage für unsere Einsatzbereitschaft. Mit 'friedlicher Nutzung' kann ich keine Gefechtsführung trainieren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Ordnung muss durchgesetzt werden!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Partei will Ersatzfreiheitsstrafen abschaffen und durch Alternativen wie gemeinnützige Arbeit ersetzen, da sie Armut nicht kriminalisieren wollen.",
+      "seite": 47,
+      "zitat": "Wir lehnen die Kriminalisierung von Armut ab. Ersatzfreiheitsstrafen treffen besonders Menschen in prekären Lebenslagen",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan schätzt Recht und Ordnung als Grundlage eines funktionierenden Staates. Für ihn ist die konsequente Ahndung von Verstößen wichtig; die Abschaffung von Ersatzfreiheitsstrafen empfindet er als falsches Signal, das die Autorität des Rechtsstaats gegenüber Regelbrechern schwächt.",
+      "begruendung_selbst": "Wenn jemand seine Strafe nicht zahlt, muss es Konsequenzen geben. Einfach 'Armut' als Ausrede zu nehmen und die Strafe zu streichen, untergräbt den Respekt vor dem Gesetz. Der Staat muss wehrhaft und konsequent bleiben, sonst verlieren wir die Ordnung.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan honoriert das ernsthafte Mitdenken des Bündnisfalls und die familienfreundliche Kita-Politik für ländliche Standorte. Die Forderung nach einer rein 'friedlichen' Nutzung des Truppenübungsplatzes Colbitz-Letzlinger Heide ist für ihn jedoch ein massiver Affront gegen die militärische Realität und Einsatzbereitschaft. Zudem stößt die Abschaffung von Ersatzfreiheitsstrafen auf sein striktes Ordnungsverständnis.",
+    "score": -1
+  }
+}

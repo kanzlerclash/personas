@@ -9,7 +9,7 @@
   "lauf": 1,
   "programm_stand": null,
   "prompt_version": "vergleich.v1",
-  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
   "metrik": {
     "input_tokens": null,
     "output_tokens": null,
@@ -18,47 +18,48 @@
     "dauer_ms": null,
     "usd": null
   },
-  "besonders_gut": [],
+  "besonders_gut": [
+    {
+      "titel_selbst": "Innere Sicherheit als Staatszweck Nummer eins",
+      "thema": "sicherheit",
+      "programmpunkt": "Die AfD erklärt die Gewährleistung innerer Sicherheit zum Hauptzweck des Staates – noch vor allen sozialen Aufgaben.",
+      "seite": 9,
+      "zitat": "„Die Gewährleistung innerer Sicherheit ist der Hauptzweck des Staates”",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan schätzt eine klare staatliche Prioritätensetzung. Die Aussage, dass Sicherheit vor allen anderen Staatsaufgaben steht, entspricht seiner Grundüberzeugung: Ohne Schutz nach innen und außen ist alles andere hinfällig. Auf Bundeswehr-Verteidigung geht das Programm nicht ein, aber das Staatsprinzip trifft seinen Maßstab.",
+      "begruendung_selbst": "Das ist wenigstens klar gesagt. Sicherheit ist keine Nebensache, sondern die Grundlage. Das kann ich unterschreiben, auch wenn es hier nur um die innere Sicherheit geht.",
+      "beleg_ok": true
+    }
+  ],
   "besonders_schlecht": [
     {
-      "titel_selbst": "Frieden mit Russland – das ist naiv!",
+      "titel_selbst": "Ukraine-Hilfe als Steuerverschwendung geframt",
       "thema": "verteidigung",
-      "programmpunkt": "Das Programm nennt explizit den Wunsch nach 'keinem Krieg mit Russland und Frieden in Europa' und kritisiert diejenigen, die das anders sehen, als 'Putinversteher'.",
+      "programmpunkt": "Die AfD stellt in der Präambel die Unterstützung der Ukraine als Verschwendung von Steuergeldern dar und zieht sie mit Wohlstandsmigration in eine Reihe.",
       "seite": 3,
-      "zitat": "keinen Krieg mit Russland und Frieden in Europa wollen",
+      "zitat": "„unsere Steuern für die Umsorgung von Wohlstandsflüchtlingen verpulvert oder an die Ukraine verschenkt werden”",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
-      "begruendung": "Stefan steht an der NATO-Ostflanke und erlebt die russische Bedrohung als konkrete Realität; eine Partei, die Kritik an dieser Haltung als 'Putinversteher'-Vorwurf karikiert, untergräbt das Sicherheitsverständnis, das sein Dienst täglich verlangt.",
-      "begruendung_selbst": "Ich stehe für dieses Land ein – dann erwarte ich auch, dass Material und Bündnis verlässlich sind. Wenn eine Partei sagt, sie will Frieden mit dem, der uns bedroht, frage ich mich, gegen wen ich eigentlich übe.",
+      "begruendung": "Stefan denkt an der NATO-Ostflanke. Für ihn ist die Unterstützung der Ukraine kein Geschenk, sondern Teil der kollektiven Verteidigung Europas. Wer das als Steuerverschwendung framt, untergräbt das Bündnis und den Auftrag, dem Stefan täglich folgt.",
+      "begruendung_selbst": "Das ist eine feindliche Botschaft an alles, wofür ich stehe. Die Ukraine ist kein Fass ohne Boden – das ist die Ostflanke. Wer das nicht versteht, hat kein Lagebewusstsein.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Russlandsanktionen aufheben – jetzt?!",
+      "titel_selbst": "Kein Wort zur Bundeswehr, kein Wort zur Verteidigung",
       "thema": "verteidigung",
-      "programmpunkt": "Das Programm will sich im Bundesrat für die Aufhebung der Russlandsanktionen einsetzen.",
-      "seite": 12,
-      "zitat": "Aufhebung der Russlandsanktionen und aller anderen Wirtschaftssanktionen einsetzen",
+      "programmpunkt": "Das AfD-Landesprogramm enthält kein einziges Kapitel und keine programmatische Aussage zur Bundeswehr, zur Landes- oder Bündnisverteidigung.",
+      "seite": 3,
+      "zitat": "was die Ukraine, der UN-Migrationspakt oder die Pariser Klimakonferenz wollen und vorschreiben, ist unser Maßstab",
       "bezug": "meine_sicht_auf_andere",
       "resonanz": "kontaer",
-      "begruendung": "Für Stefan als Berufssoldat sind die Sanktionen Teil des westlichen Druckregimes gegenüber Russland; ihre Aufhebung würde Russland wirtschaftlich entlasten und die NATO-Solidarität schwächen.",
-      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Wenn man Sanktionen aufhebt, stärkt man den Gegner. Das ist keine abstrakte Frage für mich – das ist meine Lage an der Ostflanke.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Verfassungsschutz umbauen – das schützt nicht!",
-      "thema": "demokratie",
-      "programmpunkt": "Das Programm will den Verfassungsschutz so reformieren, dass er die AfD als Opposition nicht mehr verfolgt.",
-      "seite": 11,
-      "zitat": "Für einen Verfassungsschutz, der die Verfassung schützt!",
-      "bezug": "meine_sicht_auf_andere",
-      "resonanz": "kontaer",
-      "begruendung": "Stefan vertraut auf wehrhafte demokratische Institutionen; Pläne, Kontrollbehörden so umzubauen, dass sie die eigene Partei nicht mehr beobachten, untergräbt das institutionelle Vertrauen, das er für seinen Dienst braucht.",
-      "begruendung_selbst": "Ich schwöre auf die Verfassung. Wenn eine Partei die Kontrollbehörde umbaut, damit sie selber nicht mehr draufschaut – das macht mir Sorgen, egal von welcher Seite.",
+      "begruendung": "Ein Landesprogramm, das keine einzige Aussage zur Bundeswehr, zur Bündnisverteidigung oder zur Ostflanke macht, gibt Stefan keinerlei Orientierung. Die einzige sicherheitspolitische Aussage in der Präambel – die Abwertung der Ukraine-Unterstützung – sendet das falsche Signal.",
+      "begruendung_selbst": "Im ganzen Programm kein Wort zur Bundeswehr, zum Bündnis, zur Verteidigung – und das einzige, was kommt, ist die Ukraine-Hilfe als Verschwendung. Für mich gibt es hier nichts Substanzielles.",
       "beleg_ok": true
     }
   ],
   "gesamt": {
-    "zusammenfassung": "Stefan findet im Programm vor allem Positionen, die seinen Dienst und sein Bündnisverständnis untergraben: die Russland-nahen Wirtschaftsforderungen, die NATO-skeptisch wirkende Rhetorik und die geplante Verfassungsschutzreform. Da das Programm ein Landesprogramm ist und Bundeswehr-Themen kaum berührt, gibt es wenig konkret Positives.",
+    "zusammenfassung": "Das AfD-Landesprogramm enthält kein Kapitel zur Bundeswehr oder Verteidigung. Die einzige sicherheitspolitische Linie – innere Sicherheit als Staatszweck – trifft Stefans Grundhaltung. Gleichzeitig sendet die Präambel ein klares Signal gegen die Ukraine-Unterstützung, die Stefan als Teil der kollektiven Ostflanken-Verteidigung versteht. Das Fehlen jeder Aussage zum Bündnis, zur NATO oder zur Bundeswehr macht dieses Programm für Stefan nahezu wertlos – und das Ukraine-Framing aktiv problematisch.",
     "score": -1
   }
 }

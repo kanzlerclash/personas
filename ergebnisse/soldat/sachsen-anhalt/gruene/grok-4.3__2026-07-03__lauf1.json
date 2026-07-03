@@ -1,0 +1,78 @@
+{
+  "persona": "soldat",
+  "land": "sachsen-anhalt",
+  "partei": "gruene",
+  "modell": "xai/grok-4.3",
+  "modell_slug": "grok-4.3",
+  "zeitpunkt": "2026-07-03T07:45:42.570Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 09.05.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (xai/grok-4.3)",
+  "metrik": {
+    "input_tokens": 82346,
+    "output_tokens": 1785,
+    "cached_tokens": 128,
+    "total_tokens": 84131,
+    "dauer_ms": 16318,
+    "usd": 0.1094181
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Reservisten gehören zur Truppe!",
+      "thema": "verteidigung",
+      "programmpunkt": "Freistellung von Personal für den allgemeinen Dienst als Reservist*in der Bundeswehr",
+      "seite": 48,
+      "zitat": "sowie für den allgemeinen Dienst als Reservist*in der Bundeswehr",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan sieht hier eine direkte Anerkennung seiner Rolle als Berufssoldat und Reservist, die seine Dienstverpflichtung mit zivilen Aufgaben verbindet.",
+      "begruendung_selbst": "Endlich wird der Dienst als Reservist anerkannt und Freistellung ermöglicht – das ist für uns Soldaten wichtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wehrhafte Demokratie braucht Haltung!",
+      "thema": "demokratie",
+      "programmpunkt": "Stärkung der wehrhaften Demokratie gegen Rechtsextremismus und Verfassungsfeinde im öffentlichen Dienst",
+      "seite": 40,
+      "zitat": "Wehrhafte Demokratie im Staatsdienst",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan begrüßt das klare Bekenntnis zur wehrhaften Demokratie und die konsequente Entfernung von Verfassungsfeinden aus dem Staatsdienst, da dies seine eigene Verfassungstreue unterstützt.",
+      "begruendung_selbst": "Wer für den Staat arbeitet, muss zur Verfassung stehen – genau so sehe ich das auch.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Keine Ausrüstung, nur warme Worte!",
+      "thema": "verteidigung",
+      "programmpunkt": "Fehlendes Bekenntnis zu Bundeswehr-Ausrüstung, NATO-Bündnis und äußerer Verteidigungsfähigkeit",
+      "seite": null,
+      "zitat": null,
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das Programm enthält keinerlei Aussagen zu Ausrüstung, Finanzierung oder Bündnisverpflichtungen der Bundeswehr, was Stefan als direkte Vernachlässigung seines Auftrags und der Einsatzbereitschaft empfindet.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren – ich brauche Ausrüstung, die funktioniert.",
+      "beleg_ok": null,
+      "beleg_hinweis": "kein Zitat/keine Seite"
+    },
+    {
+      "titel_selbst": "NATO-Ostflanke? Nicht unser Thema!",
+      "thema": "sicherheit",
+      "programmpunkt": "Ausschließliche Fokussierung auf innere Sicherheit und Katastrophenschutz ohne Bezug zur äußeren Bedrohungslage",
+      "seite": 3,
+      "zitat": "Innere Sicherheit und Bürgerrechte",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Stefan nimmt wahr, dass die Bedrohung an der NATO-Ostflanke und die Notwendigkeit einer starken äußeren Verteidigung im Programm nicht adressiert werden.",
+      "begruendung_selbst": "Ich stehe für dieses Land ein – dann erwarte ich auch, dass Bündnis und Auftrag verlässlich sind.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Stefan findet punktuelle Übereinstimmungen bei der Anerkennung von Reservistendienst und wehrhafter Demokratie, sieht aber das Programm insgesamt als unzureichend, weil es keine Aussagen zu Ausrüstung, NATO und äußerer Verteidigung trifft.",
+    "score": -1
+  }
+}

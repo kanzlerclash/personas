@@ -1,0 +1,186 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "cdu",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 62657,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Mehr Wohnungen, bitte konkret",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU will Wohnraum verfügbar und bezahlbar halten und neben Eigentumsförderung auch sozialen Wohnungsbau fördern.",
+      "seite": 65,
+      "zitat": "Wohnraum muss verfügbar, bezahlbar und nachhaltig sein",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sucht jede belastbare Zusage, dass Wohnen nicht nur als Eigentumsfrage behandelt wird. Die Förderung des sozialen Wohnungsbaus berührt ihr Interesse an mehr bezahlbaren Mietwohnungen direkt, auch wenn der Punkt im Programm knapp bleibt.",
+      "begruendung_selbst": "Wenn wenigstens sozialer Wohnungsbau vorkommt, ist das ein Ansatz. Für mich zählt am Ende, ob daraus echte, bezahlbare Mietwohnungen in der Stadt werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Leerstand statt Verdrängung",
+      "thema": "wohnen",
+      "programmpunkt": "Brachflächen, Baulücken und alte Industrieareale sollen für neue Nutzungen aktiviert werden, statt weitere Flächen zu verbrauchen.",
+      "seite": 66,
+      "zitat": "Brachflächen, alte Industrieanlagen und Baulücken",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla kann darin eine städtische Wohnraumperspektive sehen, die nicht sofort gegen bestehende Mieterinnen gerichtet ist. Wenn Baulücken und Brachen genutzt werden, kann neuer Wohnraum entstehen, ohne gewachsene Viertel zusätzlich unter Abriss- oder Umwandlungsdruck zu setzen.",
+      "begruendung_selbst": "Bevor mein Haus luxussaniert wird, sollen sie lieber leere Flächen und Baulücken sinnvoll nutzen. Das kann der Stadt helfen, ohne Leute rauszudrängen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umbau braucht Förderung",
+      "thema": "wohnen",
+      "programmpunkt": "Städtebau- und Wohnraumförderprogramme des Bundes sollen weiterhin vom Land kofinanziert werden, besonders für altersgerechten, barrierefreien und energieeffizienten Umbau.",
+      "seite": 66,
+      "zitat": "Städtebau - und Wohnraumförderprogramme des Bundes",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Für Carla ist öffentliche Wohnraumförderung wichtig, weil energetischer Umbau sonst schnell als Mieterhöhung bei ihr ankommen kann. Eine fortgesetzte Förderung kann Sanierung sozial abfedern, auch wenn das Programm keine klare Begrenzung von Modernisierungsumlagen nennt.",
+      "begruendung_selbst": "Sanieren ist nicht mein Problem, wenn es fair finanziert wird. Ich will nur nicht, dass jede Modernisierung am Ende meine Miete sprengt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mein Ticket bleibt wichtig",
+      "thema": "verkehr",
+      "programmpunkt": "Das Deutschlandticket soll erhalten bleiben und der Schienenpersonennahverkehr gestärkt werden.",
+      "seite": 62,
+      "zitat": "Das Deutschlandticket wollen wir erhalten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt ohne Auto und ist auf bezahlbaren Nahverkehr angewiesen. Der Erhalt des Deutschlandtickets passt zu ihrem Alltag, auch wenn das Programm den Nutzen besonders für den ländlichen Raum betont.",
+      "begruendung_selbst": "Ohne Auto ist ein bezahlbares Ticket keine nette Zugabe, sondern Alltag. Gut, wenn das nicht wieder zur Verhandlungsmasse wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radwege sind Alltag",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei will mehr Radwege bauen, regionale Radwegekonzepte unterstützen und sichere Abstellanlagen für Fahrradpendler fördern.",
+      "seite": 63,
+      "zitat": "Radverkehr stärken und Alltagsradeln fördern",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla bewegt sich im Alltag mit Rad und ÖPNV. Mehr Radwege und sichere Abstellanlagen verbessern für sie unmittelbar die Mobilität in einer Stadt, in der sie nicht auf ein Auto setzen will.",
+      "begruendung_selbst": "Radfahren ist für mich kein Freizeitding, sondern der Weg zur Arbeit und durchs Viertel. Dafür brauche ich sichere Wege, keine Symbolpolitik.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Innenstadt muss leben",
+      "thema": "wohnen",
+      "programmpunkt": "Stadtkerne sollen als Orte von Begegnung, Kultur und Wirtschaft gestärkt und Leerstand mit kreativen Konzepten bekämpft werden.",
+      "seite": 66,
+      "zitat": "Stadtkerne als Orte der Begegnung",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla hängt an einem gemischten, lebendigen Innenstadtviertel. Die Zusage zu Stadtzentren, Begegnung und Leerstand passt zu ihrem Wunsch nach einer Stadt, die nicht nur Renditeobjekt oder Durchfahrtsraum ist.",
+      "begruendung_selbst": "Ich will keine tote Innenstadt und keine reine Investmentkulisse. Mein Viertel lebt von Läden, Kultur, Nachbarschaft und bezahlbaren Orten.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Kein Mietendeckel, keine Sicherheit",
+      "thema": "wohnen",
+      "programmpunkt": "Die CDU lehnt Mietpreisdeckel und weitere Eingriffe in Eigentumsrechte ausdrücklich ab.",
+      "seite": 65,
+      "zitat": "Markteingriffe wie Mietpreisdeckel",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Das trifft Carla an ihrem Kernanliegen: wirksame Mietregulierung gegen Verdrängung. Eine pauschale Ablehnung von Mietpreisdeckeln signalisiert ihr, dass steigende Mieten eher über Neubau und Markt als über Schutzrechte begrenzt werden sollen.",
+      "begruendung_selbst": "Genau davor habe ich Angst: Wenn die Miete steigt, heißt es wieder nur, der Markt soll es richten. Davon bleibt meine Wohnung nicht bezahlbar.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigentum schützt mich nicht",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm stellt Wohneigentum als Schutz vor Mietsteigerungen und Altersvorsorge heraus und will die Eigentumsquote steigern.",
+      "seite": 65,
+      "zitat": "Eigentum schafft Heimatverbundenheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla hat kaum Vermögen und kann in ihrer Innenstadt realistisch keine Wohnung kaufen. Wenn Schutz vor Mietsteigerungen vor allem über Eigentum gedacht wird, fühlt sie sich als Mieterin an der entscheidenden Stelle nicht adressiert.",
+      "begruendung_selbst": "Ich kann mir meine Wohnung nicht einfach kaufen. Wenn Eigentum die Antwort sein soll, bin ich aus der Antwort schon rausgefallen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Förderung fürs Land, nicht mich",
+      "thema": "wohnen",
+      "programmpunkt": "Beim erstmaligen Erwerb selbstgenutzten Wohneigentums im ländlichen Raum soll die Grunderwerbsteuer entfallen.",
+      "seite": 31,
+      "zitat": "Das erste Eigenheim auf dem Land",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die Maßnahme hilft jungen Familien mit Kaufperspektive im ländlichen Raum, nicht einer urbanen Mieterin mit steigender Altbaumiete. Carla sieht darin eine Prioritätensetzung, die ihre Verdrängungsangst nicht beantwortet.",
+      "begruendung_selbst": "Schön für Leute mit Eigenheim-Plänen, aber mein Problem ist die nächste Mieterhöhung in Halle oder Magdeburg. Dafür lese ich hier keine harte Antwort.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Wieder Vorrang fürs Auto",
+      "thema": "verkehr",
+      "programmpunkt": "Die Partei setzt stark auf Wahlfreiheit beim Verkehr und nennt ausdrücklich auch den Familien-Diesel.",
+      "seite": 61,
+      "zitat": "vom Bürgerbus bis zum Familien - Diesel",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla wünscht sich eine gute ÖPNV- und Radstadt mit weniger Autodominanz. Die starke Betonung motorisierter Wahlfreiheit wirkt auf sie wie eine Fortsetzung der alten Prioritäten im Straßenraum.",
+      "begruendung_selbst": "Ich brauche keine Politik, die den Diesel zum Freiheitszeichen macht. Ich brauche Straßen, auf denen Bus, Rad und Fußwege endlich ernst genommen werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Tempo 30 wird blockiert",
+      "thema": "verkehr",
+      "programmpunkt": "Eine Ausweitung von Tempo 30 auf innerörtlichen Durchgangsstraßen wird als ideologisch motiviert abgelehnt.",
+      "seite": 62,
+      "zitat": "Ausweitung von Geschwindigkeitsbeschränkungen",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Carla ist Verkehrsberuhigung ein Teil lebenswerter, sicherer Stadtquartiere. Die ablehnende Rahmung von Tempo 30 passt schlecht zu ihrem Wunsch nach autoärmeren Straßen und mehr Schutz für Radfahrende und Anwohnerinnen.",
+      "begruendung_selbst": "Tempo 30 vor meiner Haustür ist nicht ideologisch, sondern Lärm, Sicherheit und Lebensqualität. Das als Verbotspolitik abzutun, nervt mich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Umweltzonen sollen weg",
+      "thema": "verkehr",
+      "programmpunkt": "Die CDU will überholte Umweltzonen in Innenstädten aufheben.",
+      "seite": 62,
+      "zitat": "Umweltzonen in Innenstädten wollen wir aufheben",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla lebt in der Innenstadt und erwartet, dass Stadtpolitik Luft, Lärm und Aufenthaltsqualität schützt. Die Aufhebung von Umweltzonen klingt für sie nach weniger Schutz für genau die Räume, in denen sie wohnt.",
+      "begruendung_selbst": "Innenstadt heißt für mich nicht, dass alles dem Autoverkehr offenstehen muss. Wenn Umweltzonen fallen, zahlen Anwohnerinnen mit Luft und Lärm.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Markt zuerst beim Lohn",
+      "thema": "wirtschaft",
+      "programmpunkt": "Steigende Einkommen sollen nicht durch staatliche Vorgaben und Umverteilung entstehen, sondern durch starke Unternehmen.",
+      "seite": 12,
+      "zitat": "nicht durch staatliche Vorgaben und Umverteilung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla misstraut einer Politik, die soziale Fragen vorrangig über Markt- und Unternehmensstärke lösen will. Aus ihrer Sicht braucht Daseinsvorsorge, gerade Wohnen, aktive Regulierung und Umverteilung, nicht nur Wachstumshoffnung.",
+      "begruendung_selbst": "Wenn es um Mieten und Einkommen geht, reicht mir nicht das Versprechen, dass starke Unternehmen schon alles richten. Ohne Regeln gewinnen meistens die mit Eigentum.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im CDU-Programm einzelne nützliche Ansätze für sozialen Wohnungsbau, Wohnraumförderung, Radverkehr, Deutschlandticket und lebendige Innenstädte. Gleichzeitig stößt sie sich stark daran, dass Mietpreisdeckel und Eigentumseingriffe ausdrücklich abgelehnt werden und Wohnen deutlich über Eigentum, Bauen und Marktlogik gedacht wird. Auch die verkehrspolitische Betonung von Auto, Anti-Tempo-30 und Aufhebung von Umweltzonen passt schlecht zu ihrer Vorstellung einer bezahlbaren, autoärmeren Stadt.",
+    "score": -1
+  }
+}

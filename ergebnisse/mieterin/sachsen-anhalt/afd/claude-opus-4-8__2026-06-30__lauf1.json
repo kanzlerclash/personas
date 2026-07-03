@@ -1,0 +1,101 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "afd",
+  "modell": "claude-opus-4-8[1m]",
+  "modell_slug": "claude-opus-4-8",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": null,
+    "dauer_ms": null,
+    "usd": null
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Sozialen Wohnungsbau wiederbeleben",
+      "thema": "wohnen",
+      "programmpunkt": "Die AfD will die Kofinanzierung der Bundesmittel für den sozialen Wohnungsbau wiederbeleben.",
+      "seite": 15,
+      "zitat": "Kofinanzierung der Bundesmittel für den sozialen Wohnungsbau wiederbeleben",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Mehr sozialer Wohnungsbau entspricht Carlas Wunsch nach gemeinwohlorientiertem, bezahlbarem Wohnraum.",
+      "begruendung_selbst": "Geld für sozialen Wohnungsbau – das hilft Leuten wie mir wirklich.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine gekürzten Buslinien",
+      "thema": "verkehr",
+      "programmpunkt": "Die AfD will ein flächendeckendes Nahverkehrsangebot statt gekürzter Buslinien und geschlossener Bahnhöfe.",
+      "seite": 15,
+      "zitat": "flächendeckendes Angebot im öffentlichen Nahverkehr sorgen, statt Buslinien zu kürzen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Ein verlässlicher Nahverkehr stützt Carlas autofreien Alltag.",
+      "begruendung_selbst": "Wenn Busse und Bahnhöfe bleiben, komme ich auch ohne Auto überall hin.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV ausbauen – begrüße ich",
+      "thema": "verkehr",
+      "programmpunkt": "Die AfD will den öffentlichen Personennahverkehr weiter ausbauen.",
+      "seite": 16,
+      "zitat": "den öffentlichen Personen-Nahverkehr weiter ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Der Ausbau des ÖPNV deckt sich mit Carlas Interesse an guter Mobilität ohne Auto.",
+      "begruendung_selbst": "Mehr Nahverkehr nehme ich gern – auch wenn sonst wenig für mich dabei ist.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Eigentum = Freiheit, Mieter = weniger frei?",
+      "thema": "wohnen",
+      "programmpunkt": "Die AfD stellt Wohneigentum als Freiheit dar und will den Eigentumserwerb erleichtern.",
+      "seite": 19,
+      "zitat": "Wohneigentum bedeutet Freiheit",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Die AfD verortet Sicherheit ausschließlich im Eigentum, das Carla sich nicht leisten kann; Mieterinnen erscheinen als weniger frei, ihr Schutzbedarf bleibt außen vor.",
+      "begruendung_selbst": "Ich bin Mieterin, nicht unfrei – ich brauche Schutz, kein Eigentums-Predigt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Niedrige Mieten als Problem – nein!",
+      "thema": "wohnen",
+      "programmpunkt": "Die AfD führt geringe Mieten als Grund an, warum Sanierungen von Altbauten unwirtschaftlich seien.",
+      "seite": 6,
+      "zitat": "machen bei geringen Mieten die Sanierungen unwirtschaftlich",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla erlebt Sanierungen als Verdrängungshebel; die Darstellung niedriger Mieten als Kernproblem stellt sich auf die Seite der Vermieterinteressen.",
+      "begruendung_selbst": "Für mich sind niedrige Mieten die Rettung, nicht das Problem.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Radwege nicht gegen Autos – schade",
+      "thema": "verkehr",
+      "programmpunkt": "Die AfD will, dass Radwege in Städten nicht als Mittel gegen den Autoverkehr dienen.",
+      "seite": 16,
+      "zitat": "dass der Bau von Radwegen gerade in den Städten nicht als Waffe",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla wünscht sich eine autoarme Stadt mit Vorrang fürs Rad; die AfD stellt den Autoverkehr ausdrücklich schützend über die Radförderung.",
+      "begruendung_selbst": "Radwege sollen meine Stadt lebenswerter machen, nicht dem Auto untergeordnet sein.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla erkennt bei sozialem Wohnungsbau und Nahverkehr einzelne Punkte an, die ihre Lage stützen. Grundausrichtung und Sprache des Programms zielen jedoch auf Wohneigentum und Autoverkehr; niedrige Mieten werden als Problem, Radwege als potenzielle Gegner des Autos gerahmt. Als städtische Mieterin ohne Kaufperspektive fühlt sie sich damit überwiegend nicht adressiert.",
+    "score": -1
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "spd",
+  "modell": "alibaba/qwen3.7-max",
+  "modell_slug": "qwen3.7-max",
+  "zeitpunkt": "2026-07-03T07:49:58.657Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": "beschlossen 21.03.2026",
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "ai-gateway (alibaba/qwen3.7-max)",
+  "metrik": {
+    "input_tokens": 39874,
+    "output_tokens": 7658,
+    "cached_tokens": 37888,
+    "total_tokens": 47532,
+    "dauer_ms": 144320,
+    "usd": 0.06379075
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Wärmewende darf nicht verteuern!",
+      "thema": "wohnen",
+      "programmpunkt": "Die Partei betont, dass die Kosten der klimafreundlichen Wärmeversorgung nicht zu einer zusätzlichen Belastung für Mieterinnen und Mieter werden dürfen.",
+      "seite": 27,
+      "zitat": "Die klimafreundliche Wärmeversorgung darf keine zweite Miete werden.",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla unterstützt den Klimaschutz, hat aber existenzielle Angst vor den Kosten energetischer Sanierungen. Die explizite Forderung der SPD, dass die Wärmewende nicht zur zweiten Miete werden darf, spricht ihre größte Sorge direkt an und gibt ihr Hoffnung auf Regulierung.",
+      "begruendung_selbst": "Endlich sagt mal jemand laut, was wir Mieterinnen jeden Monat fürchten: Dass die Wärmewende auf unsere Kosten geht und uns die Heizungsumrüstung aus der Wohnung treibt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Vermieter endlich normal besteuern!",
+      "thema": "steuern",
+      "programmpunkt": "Erträge aus Mietimmobilien sollen steuerlich nicht länger privilegiert, sondern wie reguläre Arbeitseinkommen besteuert werden.",
+      "seite": 33,
+      "zitat": "Erträge aus Mietimmobilien, Aktien, Kryptowährungen oder Zinsen sollen besteuert werden wie andere Einkommen.",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla betrachtet den Immobilienmarkt kritisch und lehnt die Behandlung von Wohnraum als reines Spekulationsgut ab. Die Forderung, Mieteinnahmen wie normale Löhne zu besteuern, trifft genau ihre Haltung gegenüber der Vermieter-Lobby und bestätigt ihren Wunsch nach mehr Steuergerechtigkeit.",
+      "begruendung_selbst": "Es kann nicht sein, dass ich als Angestellte voll besteuert werde, während Vermieter ihre Gewinne aus unseren Mieten steuerlich privilegieren. Wohnen ist Daseinsvorsorge, kein Aktienpaket!",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Endlich Vorfahrt fürs Rad!",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm legt fest, dass mindestens zehn Prozent der Landesmittel für den Straßenbau dauerhaft in den Fuß- und Radverkehr investiert werden müssen.",
+      "seite": 26,
+      "zitat": "Mindestens zehn Prozent der Landesmittel für den Straßenbau werden dauerhaft für Fuß- und Radverkehr",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Als autofreie Großstadtbewohnerin ärgert sich Carla über die Dominanz des Autos im Stadtbild. Die feste Quote für Rad- und Fußverkehr ist für sie ein konkreter, struktureller Schritt hin zu einer lebenswerteren, autoarmen Stadt, die ihre tägliche Mobilität sicherer macht.",
+      "begruendung_selbst": "Ich brauche keine neuen Autospuren, sondern sichere Radwege. Dass jetzt ein fester Prozentsatz der Gelder fürs Radfahren reserviert wird, ist genau das, was meine Stadt lebenswerter macht.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Sanierung bedeutet für mich Verdrängung.",
+      "thema": "wohnen",
+      "programmpunkt": "Das Programm fordert eine Stärkung der Bestandssanierung, ohne dabei den Mieterschutz oder die Begrenzung von Modernisierungsumlagen zu erwähnen.",
+      "seite": 27,
+      "zitat": "Serielles Bauen senkt Kosten, die Bestandssanierung wird gestärkt.",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla fürchtet energetische und luxuriöse Sanierungen, die über die Modernisierungsumlage zu massiven Mieterhöhungen führen. Dass die SPD die Bestandssanierung fördern will, aber kein Wort über Milieuschutz oder Kappungsgrenzen verliert, bestätigt ihre Angst vor Verdrängung.",
+      "begruendung_selbst": "Wenn die Politik 'Bestandssanierung' fördert, aber kein Wort über Mieterschutz verliert, dann weiß ich genau, wer am Ende die Zeche zahlt und aus seinem Viertel verdrängt wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Kaufprämien heizen nur an.",
+      "thema": "wohnen",
+      "programmpunkt": "Die SPD fordert auf Bundesebene eine Befreiung von der Grunderwerbsteuer für den Ersterwerb sowie eine neue Eigenheimzulage.",
+      "seite": 33,
+      "zitat": "Befreiung des Ersterwerbs von Immobilien von der Grunderwerbsteuer sowie eine Wiederauflage der Eigenheimzulage",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Für Carla ist Wohneigentum in der aufgewerteten Innenstadt unerreichbar. Staatliche Kaufprämien und Steuervorteile für Erwerber sieht sie als Marktverzerrung, die die Immobilienpreise weiter treibt, anstatt das knappe Geld in den Schutz bestehender Mietverhältnisse zu stecken.",
+      "begruendung_selbst": "In meinem Viertel sind die Kaufpreise längst jenseits von Gut und Böse. Da Steuergeschenke an Käufer zu verteilen, hilft nur den Investoren und treibt uns Mieterinnen weiter die Preise hoch.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla begrüßt die klaren Signale für eine autoarme Stadt, die Besteuerung von Immobiliengewinnen und das Versprechen, die Wärmewende nicht auf Mieter abzuwälzen. Gleichzeitig enttäuscht sie das Fehlen klassischer Mieterschutz-Instrumente wie Milieuschutz oder Mietpreisbremse. Die Förderung von Wohneigentum und Bestandssanierung ohne flankierenden Verdrängungsschutz weckt in ihr die Sorge, dass die Gentrifizierung ihres Viertels politisch nicht wirksam gestoppt wird.",
+    "score": 1
+  }
+}

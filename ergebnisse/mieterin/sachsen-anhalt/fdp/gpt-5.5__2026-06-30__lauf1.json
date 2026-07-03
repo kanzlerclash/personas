@@ -1,0 +1,174 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "fdp",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 116129,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Genossenschaften endlich entlasten",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP will einen befristeten Altschuldenfonds auflegen, der kommunale Wohnungsunternehmen und Genossenschaften von historischen Lasten befreit und ihnen Investitionen in Quartiere ermöglicht.",
+      "seite": 12,
+      "zitat": "„kommunale Wohnungsunternehmen und Genossenschaften gleichbehandelt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla sieht kommunale und genossenschaftliche Bestände als Gegengewicht zum renditegetriebenen Wohnungsmarkt. Eine strukturelle Entlastung dieser Träger kann ihre Hoffnung auf stabilere, gemeinwohlorientierte Quartiere bestätigen.",
+      "begruendung_selbst": "Wenn Genossenschaften und kommunale Vermieter wieder Luft zum Investieren haben, ist das für mein Viertel besser als noch mehr Druck von Investoren.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Quartiere statt Rendite",
+      "thema": "wohnen",
+      "programmpunkt": "Durch die Entlastung kommunaler und genossenschaftlicher Wohnungsunternehmen sollen Mittel für energetische Sanierung, Barrierefreiheit und Quartiersentwicklung freiwerden.",
+      "seite": 12,
+      "zitat": "„mehr investive Freiheit für energetische Sanierung, Barrierefreiheit und Quartiersentwicklung“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla legt Wert auf lebendige, gemischte Stadtviertel und nicht nur auf einzelne Eigentumsinteressen. Quartiersentwicklung über gemeinwohlnahe Träger berührt ihre Sorge vor Verdrängung positiv, auch wenn konkrete Mietschutzinstrumente fehlen.",
+      "begruendung_selbst": "Sanieren ist okay, wenn es dem Quartier dient und nicht nur als Vorwand für die nächste Mieterhöhung benutzt wird.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr sichere Radwege",
+      "thema": "verkehr",
+      "programmpunkt": "Die FDP will Kreuzungen und Querungen sicherer machen, Lücken im Radwegenetz schließen und durchgängige Alltagsrouten schaffen.",
+      "seite": 71,
+      "zitat": "„Menschen wollen mit dem Rad mobil sein“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla bewegt sich im Alltag mit Rad und ÖPNV und wünscht sich eine Stadt, in der das ohne Auto zuverlässig funktioniert. Sichere, durchgängige Alltagsrouten passen direkt zu ihrem Mobilitätsprofil.",
+      "begruendung_selbst": "Ich will nicht für jeden Weg ein Auto brauchen. Sichere Radwege sind Alltag, kein Luxus.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "ÖPNV muss verlässlich sein",
+      "thema": "verkehr",
+      "programmpunkt": "Im Schienenpersonennahverkehr sollen Pünktlichkeit steigen und Zugausfälle sinken; das ÖPNV-Angebot soll weiter ausgebaut werden.",
+      "seite": 73,
+      "zitat": "„die Zugausfälle sollen um 30 Prozent sinken“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla ist im Alltag auf öffentlichen Verkehr angewiesen. Konkrete Ziele für weniger Ausfälle und mehr Zuverlässigkeit entsprechen ihrer Hoffnung auf eine gute ÖPNV-Stadt.",
+      "begruendung_selbst": "Wenn Bus und Bahn wirklich verlässlich werden, kann ich mein Leben planen, ohne doch wieder aufs Auto geschoben zu werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eine App für alles",
+      "thema": "verkehr",
+      "programmpunkt": "Eine landesweite Mobilitäts-App soll Echtzeitdaten, Bezahlung, Check-in/out sowie Sharing- und On-Demand-Angebote verbinden.",
+      "seite": 73,
+      "zitat": "„Mobility-as-a-Service wird zum Standard“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla nutzt im Alltag flexible, autofreie Mobilität. Eine integrierte App kann ÖPNV, Rad- und Sharing-Angebote zugänglicher machen und passt zu ihrer urbanen Lebensweise.",
+      "begruendung_selbst": "Wenn ich alles in einer App finde und bezahlen kann, wird autofrei leben endlich weniger kompliziert.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Geld für Nahverkehr",
+      "thema": "verkehr",
+      "programmpunkt": "Die Schülerbeförderung soll künftig aus dem Landeshaushalt finanziert werden, damit mehr Regionalisierungsmittel für den öffentlichen Nahverkehr verfügbar sind.",
+      "seite": 75,
+      "zitat": "„mehr Regionalisierungsmittel für den öffentlichen Nahverkehr“",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla bewertet Politik daran, ob sie das Leben ohne Auto praktisch erleichtert. Zusätzliche Mittel für den öffentlichen Nahverkehr können ihre Abhängigkeit von funktionierenden Verbindungen direkt positiv berühren.",
+      "begruendung_selbst": "ÖPNV wird nicht besser durch Sonntagsreden, sondern durch Geld für echte Verbindungen.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Eigentum hilft mir nicht",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP setzt stark auf Förderung selbstgenutzten Wohneigentums, Grunderwerbsteuer-Entlastung und Eigentum als Leitbild für Freiheit und Stabilität.",
+      "seite": 12,
+      "zitat": "„Eigentum stärkt Freiheit, Verantwortung und gesellschaftlichen Zusammenhalt“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla kann sich Wohneigentum in ihrem Innenstadtviertel kaum leisten und braucht Schutz als Mieterin. Ein Eigentumsleitbild beantwortet ihre existenzielle Sorge vor Modernisierung, Eigenbedarf und Verdrängung nur sehr indirekt.",
+      "begruendung_selbst": "Schön für Leute mit Eigenkapital. Mein Problem ist die nächste Mieterhöhung, nicht der Traum vom Kaufvertrag.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Das ist Vermieterpolitik",
+      "thema": "wohnen",
+      "programmpunkt": "Die FDP will die private Wohnungswirtschaft ausdrücklich stärken, weil Modernisierung ohne private Vermieter und mittelständische Unternehmen nicht gelingen könne.",
+      "seite": 13,
+      "zitat": "„Wir stärken die private Wohnungswirtschaft“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla nimmt private Vermieter- und Investoreninteressen als Gegenmacht zu ihrer Wohnsicherheit wahr. Dass das Programm hier die Angebotsseite stärkt, ohne Mieterschutz zu benennen, trifft ihre Sorge vor Marktlogik im Wohnungswesen.",
+      "begruendung_selbst": "Wenn zuerst die private Wohnungswirtschaft gestärkt wird, frage ich sofort: Wer schützt dann mich?",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Modernisierung macht mir Angst",
+      "thema": "wohnen",
+      "programmpunkt": "Energetische und barrierereduzierende Modernisierungen im Bestand sollen über eine dauerhafte steuerliche Modernisierungs-Abschreibung erleichtert werden.",
+      "seite": 13,
+      "zitat": "„eine dauerhafte Modernisierungs-Abschreibung starten“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla fürchtet Modernisierungsumlagen und Verdrängung nach Sanierungen. Investitionsanreize ohne erkennbare Begrenzung der Mietfolgen berühren genau den Brief, vor dem sie sich in ihrem Profil sorgt.",
+      "begruendung_selbst": "Bei Modernisierung denke ich nicht an schicke Fenster, sondern an den Brief, der meine Miete sprengt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Nicht wegregulieren?",
+      "thema": "wirtschaft",
+      "programmpunkt": "Beim Wohnen und Bauen setzt die FDP auf private Investitionen und weniger Regulierung statt auf stärkere staatliche Eingriffe.",
+      "seite": 13,
+      "zitat": "„private Investitionen statt sie wegzuregulieren“",
+      "bezug": "betrifft_mich",
+      "resonanz": "kontaer",
+      "begruendung": "Carla hält Wohnen für Daseinsvorsorge und steht reiner Marktlogik kritisch gegenüber. Die Formulierung legt nahe, dass Regulierung vor allem als Investitionshindernis gesehen wird, während ihr Mieterschutzinteresse unsichtbar bleibt.",
+      "begruendung_selbst": "Für mich ist Regulierung nicht Schikane, sondern manchmal das Einzige zwischen mir und Verdrängung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Staat raus reicht nicht",
+      "thema": "demokratie",
+      "programmpunkt": "Im Staatsverständnis betont die FDP, der Staat solle sich weitgehend aus dem Leben der Bürgerinnen und Bürger heraushalten und sich auf Kernaufgaben konzentrieren.",
+      "seite": 46,
+      "zitat": "„hält sich der Staat weitestgehend raus“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla misstraut einer Politik, die Daseinsvorsorge stark dem Markt überlässt. Für Mieterinnen, Menschen mit wenig Vermögen und von Verdrängung betroffene Nachbarschaften klingt dieser Grundsatz nach zu wenig öffentlicher Schutzmacht.",
+      "begruendung_selbst": "Wenn der Staat sich raushält, halten sich Investoren nicht automatisch zurück.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Markt zuerst, Hilfe später",
+      "thema": "wirtschaft",
+      "programmpunkt": "In der Landesentwicklung setzt die FDP auf Markt, Wettbewerb und Innovation, ergänzt nur dort durch öffentliche Unterstützung, wo Versorgung sonst nicht gesichert ist.",
+      "seite": 63,
+      "zitat": "„Markt, Wettbewerb und Innovation, wo sie tragen“",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla betrachtet Wohnen und städtische Daseinsvorsorge nicht als Bereich, in dem der Markt zuerst ausprobieren soll. Für sie kommt öffentliche Unterstützung erst dann zu spät, wenn gemischte Quartiere bereits kippen.",
+      "begruendung_selbst": "Der Markt trägt eben oft die, die schon Geld haben. Mein Viertel braucht Schutz, bevor es kippt.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet im FDP-Programm einige praktische Verbesserungen bei Radverkehr, ÖPNV und eine begrenzte Stärkung kommunaler sowie genossenschaftlicher Wohnungsbestände. Beim Kernthema Wohnen dominiert für sie jedoch ein liberaler Angebots- und Eigentumsansatz, der private Wohnungswirtschaft und Modernisierung erleichtert, ohne Mietregulierung, Milieuschutz oder Schutz vor Verdrängung sichtbar zu machen. Deshalb überwiegt aus ihrer Perspektive trotz einzelner Mobilitäts- und Quartierspunkte die Skepsis.",
+    "score": -1
+  }
+}

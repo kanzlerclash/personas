@@ -9,7 +9,7 @@
   "lauf": 1,
   "programm_stand": null,
   "prompt_version": "vergleich.v1",
-  "erzeugt_via": "claude-code-subagent (ohne Gateway, Sonnet 4.6)",
+  "erzeugt_via": "claude-code-subagent (ohne Gateway)",
   "metrik": {
     "input_tokens": null,
     "output_tokens": null,
@@ -20,70 +20,69 @@
   },
   "besonders_gut": [
     {
-      "titel_selbst": "Bevölkerungsschutz gestärkt!",
+      "titel_selbst": "Geopolitik endlich realistisch benannt!",
       "thema": "sicherheit",
-      "programmpunkt": "Die CDU will Katastrophenschutz und Bevölkerungsschutz stärken, Katastrophenschutzübungen regelmäßig durchführen und das Ehrenamt in diesem Bereich fördern.",
-      "seite": 9,
-      "zitat": "Brand- und Katastrophenschutz sowie unsere Feuerwehren weiter stärken",
-      "bezug": "meine_sicht_auf_andere",
-      "resonanz": "bestaetigt",
-      "begruendung": "Stefan denkt als Soldat gesamtverteidigungspolitisch: Bundeswehr und zivile Resilienz sind zwei Seiten derselben Medaille. Ein gestärkter Bevölkerungsschutz erhöht die Gesamtresilienz des Landes – das ist seine Perspektive.",
-      "begruendung_selbst": "Im Einsatz denkt man gesamtheitlich: Was nützt eine gute Truppe, wenn das Hinterland nicht funktioniert? Bevölkerungsschutz ist Sicherheitspolitik – ich bin froh, dass das Priorität hat.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Verteidigungsindustrie ausgebaut!",
-      "thema": "wirtschaft",
-      "programmpunkt": "Die CDU will die Nitro-Chemie als Teil der Verteidigungsindustrie in Sachsen-Anhalt stärken und entsprechende Industriekapazitäten als strategisch wichtig ausbauen.",
-      "seite": 12,
-      "zitat": "Nitro - Chemie für die Verteidigungsindustrie",
-      "bezug": "meine_sicht_auf_andere",
-      "resonanz": "bestaetigt",
-      "begruendung": "Stefan weiß aus eigener Erfahrung, dass Ausrüstungsmängel oft am Mangel an nationalen Produktionskapazitäten liegen. Der Aufbau einer Nitro-Chemie-Kapazität für die Verteidigungsindustrie in Sachsen-Anhalt ist ein konkreter Schritt zu mehr Versorgungssicherheit.",
-      "begruendung_selbst": "Wir haben gelernt, dass Abhängigkeit von Importen im Ernstfall tötet. Wenn Sachsen-Anhalt Teil der Rüstungsproduktion wird, ist das kein Militarismus – das ist Verantwortung.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Extremismus aller Art bekämpfen!",
-      "thema": "sicherheit",
-      "programmpunkt": "Die CDU will jede Form des politisch und islamistisch motivierten Extremismus konsequent bekämpfen und den Verfassungsschutz gezielt stärken.",
-      "seite": 7,
-      "zitat": "jede Form des politisch und islamistisch motivierten Extremismus bekämpfen",
-      "bezug": "meine_sicht_auf_andere",
-      "resonanz": "bestaetigt",
-      "begruendung": "Stefan sieht Extremismus als direkte Bedrohung für innere und äußere Sicherheit. Die klare Benennung und konsequente Bekämpfung aller extremistischen Strömungen entspricht seinem Selbstverständnis als Soldat, der Verfassungswerte schützt.",
-      "begruendung_selbst": "Ich habe den Eid auf das Grundgesetz geschworen. Wer diesen Staat bedroht – von wo auch immer –, ist mein Gegner. Gut, dass das ohne Wenn und Aber so benannt wird.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "SAFE – Europa muss sich schützen!",
-      "thema": "verteidigung",
-      "programmpunkt": "Die CDU unterstützt das SAFE-Programm (Security Action for Europe), mit dem europäische Rüstungskapazitäten koordiniert aufgebaut werden sollen.",
-      "seite": 13,
-      "zitat": "SAFE Security Action for Europe",
-      "bezug": "meine_sicht_auf_andere",
-      "resonanz": "bestaetigt",
-      "begruendung": "Stefan denkt NATO und europäische Sicherheitsarchitektur als Einheit. Die Unterstützung des SAFE-Programms signalisiert ihm, dass Sachsen-Anhalt die europäische Verteidigungsdimension ernst nimmt und nicht nur Bundeswehr-Kompetenz beim Bund sieht.",
-      "begruendung_selbst": "Europa muss sich selbst mehr schützen können. Das SAFE-Programm ist ein Schritt in die richtige Richtung – auch wenn der Löwenanteil Bundespolitik bleibt.",
-      "beleg_ok": true
-    }
-  ],
-  "besonders_schlecht": [
-    {
-      "titel_selbst": "Bundeswehr kaum Thema!",
-      "thema": "verteidigung",
-      "programmpunkt": "Als Landeswahlprogramm enthält das CDU-Papier erwartungsgemäß kaum direkte Aussagen zu Bundeswehr, Ausrüstung, Besoldung oder NATO-Verpflichtungen – das ist Bundeskompetenz.",
-      "seite": 88,
-      "zitat": "dass Sachsen-Anhalt auf europäischer Ebene sichtbar bleibt",
+      "programmpunkt": "Die CDU begründet den verstärkten Bevölkerungsschutz ausdrücklich mit der veränderten geopolitischen Lage.",
+      "seite": 10,
+      "zitat": "„eine veränderte geopolitische Lage ist der Bevölkerungsschutz verstärkt in den Fokus gerückt”",
       "bezug": "betrifft_mich",
-      "resonanz": "kontaer",
-      "begruendung": "Stefans Kernthemen – Ausrüstungsmängel, Besoldung, Bündnisfähigkeit – liegen in Bundeshand. Das Landeswahlprogramm kann hier strukturell kaum Antworten geben. Das ist kein Fehler des Programms, schränkt aber die Relevanz für ihn erheblich ein.",
-      "begruendung_selbst": "Ich mache mir täglich Gedanken um Ausrüstung und Einsatzbereitschaft. Das wird hier kaum angesprochen – aber ich verstehe, dass das Landespolitik nicht leisten kann.",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan denkt die Bedrohungslage an der NATO-Ostflanke täglich mit. Dass das Programm Bevölkerungsschutz offen geopolitisch begründet, zeigt ihm ein realistisches Lagebild statt beruhigender Floskeln.",
+      "begruendung_selbst": "Wer die Lage benennt, wie sie ist, der kann auch sinnvoll planen. Das ist nicht Panikmache – das ist Ehrlichkeit.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Zivil-Militär-Schnittstelle personell stärken",
+      "thema": "sicherheit",
+      "programmpunkt": "Die Bevölkerungsschutz-Abteilung des Landes soll als Schnittstelle zu Bund, Bundeswehr und Ressorts personell gestärkt werden.",
+      "seite": 10,
+      "zitat": "„Schnittstelle zum Bund, zur Bundeswehr, zu den Ländern”",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Zivil-militärische Koordination ist für Stefans Dienst am Standort zentral. Eine gestärkte Landesbehörde als Ansprechpartner für die Bundeswehr verbessert direkt die Zusammenarbeit, auf die er im Ernstfall angewiesen ist.",
+      "begruendung_selbst": "Wenn es ernst wird, zählt jede Minute. Dass das Land seine Schnittstelle zur Truppe ausbaut, ist genau das, was ich von einem Landesprogramm erwarte.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "EU-Verteidigung gemeinsam stärken!",
+      "thema": "verteidigung",
+      "programmpunkt": "Die CDU will eine EU, die ihre gemeinsame Verteidigung stärkt und wirtschaftlich wettbewerbsfähig bleibt.",
+      "seite": 89,
+      "zitat": "„die gemeinsame Verteidigung stärkt”",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Bündnistreue ist einer von Stefans Grundwerten. Ein klares Bekenntnis zur Stärkung gemeinsamer Verteidigung auf EU-Ebene bestätigt die sicherheitspolitische Linie, der er täglich dient.",
+      "begruendung_selbst": "Sicherheit gibt es nur im Bündnis. Dass das hier explizit steht und nicht kleingeschrieben wird, ist mir wichtig.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Beste Ausrüstung – nicht nur Worte!",
+      "thema": "sicherheit",
+      "programmpunkt": "Die CDU verspricht beste Ausstattung für Polizei, Feuerwehren und Rettungsdienste in Stadt und Land.",
+      "seite": 6,
+      "zitat": "„Beste Ausstattung für Polizei, Feuerwehren und Rettungsdienste”",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan bewertet Parteien am Maßstab: Ausrüstung statt warme Worte. Die klare Selbstverpflichtung auf beste Ausrüstung für Einsatzkräfte trifft genau diesen Maßstab, auch wenn es hier um Landespolizei geht.",
+      "begruendung_selbst": "Mit warmen Worten kann ich keine Übung fahren. Dass hier schwarz auf weiß Ausrüstung zugesagt wird, nehme ich zur Kenntnis.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Verfassungsschutz mit 360-Grad-Blick",
+      "thema": "demokratie",
+      "programmpunkt": "Angesichts zunehmender extremistischer Bestrebungen soll der Verfassungsschutz gestärkt und jede Form des Extremismus bekämpft werden.",
+      "seite": 7,
+      "zitat": "„der Verfassungsschutz weiter gestärkt werden”",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "bestaetigt",
+      "begruendung": "Stefan steht für eine wehrhafte Demokratie und Vertrauen in staatliche Institutionen. Ein Verfassungsschutz, der alle Formen des Extremismus ohne ideologische Schlagseite im Blick behält, entspricht seiner Haltung.",
+      "begruendung_selbst": "Extremismus jeder Farbe ist eine Bedrohung für das, was ich schütze. Wer das klar sieht und handelt, hat mein Vertrauen.",
       "beleg_ok": true
     }
   ],
+  "besonders_schlecht": [],
   "gesamt": {
-    "zusammenfassung": "Stefan findet im CDU-Programm einige Aussagen, die seinen Grundüberzeugungen entsprechen: Bevölkerungsschutz, Verteidigungsindustrie, Extremismusbekämpfung und europäische Sicherheitszusammenarbeit. Sein Kernthema – Bundeswehrausstattung und Bündnisverpflichtungen – kann ein Landeswahlprogramm strukturell nicht adressieren. Das macht das Programm für ihn wenig relevant für seine eigentlichen Berufsfragen, aber nicht negativ in der Grundhaltung.",
+    "zusammenfassung": "Stefan erkennt in der CDU eine verlässliche sicherheits- und bündnisorientierte Linie: Die Bundeswehr wird als Koordinationspartner des Landes explizit benannt, die geopolitische Lage offen angesprochen und gemeinsame EU-Verteidigung befürwortet. Direkte Aussagen zu Bundeswehr-Finanzierung oder Truppenausstattung fehlen erwartungsgemäß, weil das Bundessache ist. Für Stefan ein solides, glaubwürdiges Programm ohne relevante Widersprüche.",
     "score": 1
   }
 }

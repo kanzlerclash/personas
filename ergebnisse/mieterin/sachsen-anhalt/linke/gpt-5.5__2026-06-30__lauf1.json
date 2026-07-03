@@ -1,0 +1,138 @@
+{
+  "persona": "mieterin",
+  "land": "sachsen-anhalt",
+  "partei": "linke",
+  "modell": "gpt-5.5",
+  "modell_slug": "gpt-5.5",
+  "zeitpunkt": "2026-06-30T00:00:00Z",
+  "temperatur": 0,
+  "lauf": 1,
+  "programm_stand": null,
+  "prompt_version": "vergleich.v1",
+  "erzeugt_via": "codex/gpt-5.5 (medium, ChatGPT-Login)",
+  "metrik": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_tokens": null,
+    "total_tokens": 70588,
+    "dauer_ms": null,
+    "usd": null,
+    "hinweis": "Gesamt-Tokens laut CLI (kein Input/Output-Split)"
+  },
+  "besonders_gut": [
+    {
+      "titel_selbst": "Endlich Mietpreisbremse für Städte",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will eine Verordnung für angespannte Wohnungsmärkte erlassen, damit Städte eine Mietpreisbremse anwenden können.",
+      "seite": 82,
+      "zitat": "eine Mietpreisbremse für die Städte zu ermöglichen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla wohnt in einem aufwertenden Innenstadtviertel und erlebt steigende Grundmieten als existenzielle Bedrohung. Eine städtische Mietpreisbremse trifft direkt ihren Wunsch nach wirksamer Regulierung statt Marktlogik.",
+      "begruendung_selbst": "Genau darum geht es: In meinem Viertel müssen Mieten politisch gebremst werden, sonst sortiert der Markt einfach alle aus, die nicht mithalten können.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Holt Häuser zurück",
+      "thema": "wohnen",
+      "programmpunkt": "Kommunen sollen mit einem Rekommunalisierungsfonds Immobilien und Grundstücke wieder in öffentliche Hand bringen können.",
+      "seite": 83,
+      "zitat": "Immobilien und Grundstücke in die öffentliche Hand zu holen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla nimmt Immobilieninvestoren und renditegetriebene Eigentümer als Gegeninteresse zu sicherem Wohnen wahr. Öffentlicher Zugriff auf Boden und Gebäude stärkt aus ihrer Sicht gemeinwohlorientierten Wohnraum im Quartier.",
+      "begruendung_selbst": "Wenn die Stadt wieder Häuser und Grundstücke in die Hand bekommt, gibt es wenigstens eine Chance, dass mein Zuhause nicht nur als Anlageobjekt zählt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Sozialwohnungen ohne Ablaufdatum",
+      "thema": "wohnen",
+      "programmpunkt": "Wohnungsbauförderung soll nur noch in unbefristet gebundenen sozialen Mietwohnungsbau fließen, nicht in Eigentumsförderung.",
+      "seite": 83,
+      "zitat": "nur für unbefristet gebundenen sozialen Mietwohnungsbau",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla fürchtet, dass bezahlbarer Wohnraum in attraktiven Lagen verschwindet. Dauerhafte Bindungen passen zu ihrer Erwartung, dass gemeinwohlorientierter Wohnraum nicht nach wenigen Jahren dem privaten Markt überlassen wird.",
+      "begruendung_selbst": "Ich will nicht noch ein Fördermodell, bei dem die Wohnungen irgendwann wieder teuer werden. Bezahlbar muss dauerhaft bezahlbar heißen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Modernisierung darf nicht verdrängen",
+      "thema": "wohnen",
+      "programmpunkt": "Die Linke will die Modernisierungsumlage abschaffen und Sanierungen sowie Heizungstausch warmmietenneutral gestalten.",
+      "seite": 84,
+      "zitat": "die Modernisierungsumlage abschaffen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Modernisierungsankündigungen gehören zu Carlas größten Sorgen, weil sie dadurch aus ihrem Viertel gedrängt werden könnte. Die Abschaffung der Umlage adressiert genau diesen Druckpunkt.",
+      "begruendung_selbst": "Das ist der Brief, vor dem ich Angst habe. Sanierung darf nicht der elegante Weg sein, mich aus meiner Wohnung rauszupreisen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Keine kalte Wohnung",
+      "thema": "energie",
+      "programmpunkt": "Strom- und Gassperren sollen gesetzlich verboten und Grundbedarfe über Sockeltarife bezahlbar abgesichert werden.",
+      "seite": 106,
+      "zitat": "Strom - und Gassperren gesetzlich verbieten",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla hat ein mittleres Einkommen, aber steigende Wohn- und Energiekosten belasten ihr Haushaltsbudget deutlich. Ein Verbot von Sperren und sozial gerechte Energiepreise passen zu ihrem Verständnis von Wohnen als Daseinsvorsorge.",
+      "begruendung_selbst": "Eine warme Wohnung ist kein Luxus. Wenn Miete und Nebenkosten steigen, darf niemand auch noch im Kalten sitzen.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Bus und Bahn bezahlbar",
+      "thema": "verkehr",
+      "programmpunkt": "Der ÖPNV soll zunächst günstiger und langfristig für alle kostenlos werden.",
+      "seite": 102,
+      "zitat": "langfristig kostenfreien ÖPNV für Alle",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla lebt ohne Auto und nutzt ÖPNV und Rad im Alltag. Ein günstiger bis kostenfreier Nahverkehr unterstützt ihre Vorstellung einer bezahlbaren, autoärmeren Stadt.",
+      "begruendung_selbst": "Ich brauche keinen Parkplatz vor der Tür, ich brauche Busse und Bahnen, die funktionieren und nicht jeden Monat teurer werden.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mehr Platz fürs Rad",
+      "thema": "verkehr",
+      "programmpunkt": "Radschnellwege, Fahrradstraßen, Radparken und sichere Radwege sollen systematisch ausgebaut werden.",
+      "seite": 104,
+      "zitat": "Radschnellwege und Fahrradstraßen systematisch ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla bewegt sich im Alltag mit Rad und ÖPNV und wünscht sich eine Stadt, die nicht auf das Auto ausgerichtet ist. Der Ausbau sicherer Radinfrastruktur verbessert ihre tägliche Mobilität direkt.",
+      "begruendung_selbst": "Ich will nicht mutig sein müssen, nur weil ich mit dem Rad zur Arbeit fahre. Fahrradstraßen und sichere Wege gehören in die Stadt.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Mieterinnen bei Energie mitdenken",
+      "thema": "energie",
+      "programmpunkt": "Balkonkraftwerke, Kleinspeicher und kostenfreie Smart-Meter-Rollouts sollen ausdrücklich auch Mieter:innen zugutekommen.",
+      "seite": 107,
+      "zitat": "Balkonkraftwerke und Kleinspeicher für Mieter:innen ausbauen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Carla besitzt keine Immobilie und hat wenig Vermögen; Energiewende darf für sie nicht nur Eigentümer:innen erreichen. Die explizite Nennung von Mieter:innen entspricht ihrem Wunsch nach Teilhabe ohne Wohneigentum.",
+      "begruendung_selbst": "Gut, dass Mieterinnen nicht wieder nur zuschauen sollen. Ich habe keinen Dachstuhl, aber ich will trotzdem entlastet und beteiligt werden.",
+      "beleg_ok": true
+    }
+  ],
+  "besonders_schlecht": [
+    {
+      "titel_selbst": "Zu viel Verständnis fürs Auto",
+      "thema": "verkehr",
+      "programmpunkt": "Das Programm betont, dass der Pkw in schlecht angebundenen Dörfern wichtig bleiben und bezahlbar sein müsse.",
+      "seite": 101,
+      "zitat": "der PKW für Menschen in Dörfern ohne Anbindung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Carla versteht die Lage schlecht angebundener Orte, liest die Formulierung aber als autozentrierte Rückversicherung. Aus ihrer großstädtisch-progressiven Perspektive sollte der Schwerpunkt klarer auf autoarmer Mobilität und öffentlicher Infrastruktur liegen.",
+      "begruendung_selbst": "Ich verstehe das Problem auf dem Dorf, aber ich will nicht, dass Politik immer sofort wieder beim bezahlbaren Auto landet.",
+      "beleg_ok": true
+    }
+  ],
+  "gesamt": {
+    "zusammenfassung": "Carla findet in dem Programm sehr viele Punkte, die ihre Lage als Mieterin in einem aufwertenden Innenstadtviertel direkt treffen: Mietpreisbremse, Rekommunalisierung, dauerhafte Sozialbindungen, Abschaffung der Modernisierungsumlage und Schutz vor Energiearmut. Auch ÖPNV- und Radpolitik passen stark zu ihrem Alltag ohne Auto. Ein kleiner Reibungspunkt bleibt die Rücksicht auf bezahlbare Pkw in ländlichen Räumen, insgesamt überwiegt aber klar das Gefühl, dass Wohnen als Daseinsvorsorge statt als Spekulationsgut behandelt wird.",
+    "score": 2
+  }
+}

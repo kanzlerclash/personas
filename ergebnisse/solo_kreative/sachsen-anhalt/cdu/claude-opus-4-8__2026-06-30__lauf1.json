@@ -20,58 +20,82 @@
   },
   "besonders_gut": [
     {
-      "titel_selbst": "Weniger Formulare - endlich!",
-      "thema": "digitalisierung",
-      "programmpunkt": "Digitaler Staat mit weniger Formularen, mehr Service und verlässlichen digitalen Abläufen, ein Behördengang soll reichen.",
-      "seite": 51,
-      "zitat": "Weniger Formulare, mehr Service",
-      "bezug": "betrifft_mich",
-      "resonanz": "bestaetigt",
-      "begruendung": "Mareike ist von Bürokratie überfordert, deren Aufwand außer Verhältnis zu ihrer Betriebsgröße steht; weniger Formulare entlasten sie direkt.",
-      "begruendung_selbst": "Ich falle durch jedes Raster und ersticke trotzdem in Papierkram. Weniger Formulare wären für mich Gold wert.",
-      "beleg_ok": true
-    },
-    {
-      "titel_selbst": "Förderung für Clubs und Kreative!",
+      "titel_selbst": "Endlich Rückenwind für Kreative!",
       "thema": "wirtschaft",
-      "programmpunkt": "Gezielte Startförderungen für Clubs und kreative Orte, Weiterentwicklung der Kultur- und Kreativwirtschaft als Zukunftsbranche.",
+      "programmpunkt": "Die CDU will die Kultur- und Kreativwirtschaft als Zukunftsbranche ausbauen und gezielte Startförderungen auflegen.",
       "seite": 82,
-      "zitat": "gezielte Startförderungen, insbesondere für Clubs und kreative Orte",
+      "zitat": "Kreative Berufe schaffen Identität, Innovation und Beschäftigung, von Design über Film bis Clubkultur",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Mareike fürchtet Kürzungen der Kreativförderung; gezielte Startförderungen für ihre Branche sichern ihre Existenzgrundlage statt sie zu beschneiden.",
-      "begruendung_selbst": "Meine Existenz hängt an der Kreativszene. Dass die gefördert statt gekürzt wird, ist für mich eine echte gute Nachricht.",
+      "begruendung": "Mareike sieht ihre Branche als Zukunftsfeld anerkannt statt als Kostenfaktor; Startförderungen für kreative Orte betreffen ihr Arbeitsumfeld direkt.",
+      "begruendung_selbst": "Dass Design und Kreativarbeit hier als richtige Branche mit Zukunft gelten und nicht als Hobby, das tut mal gut.",
       "beleg_ok": true
     },
     {
-      "titel_selbst": "Digitale Förderung für Kleine.",
-      "thema": "digitalisierung",
-      "programmpunkt": "Unterstützung von Start-ups und Mittelstand bei Investitionen in digitale Technologien und vereinfachte Förderprogramme.",
-      "seite": 52,
-      "zitat": "Start - ups und Mittelstand bei Investitionen in digitale Technologien",
+      "titel_selbst": "Weniger Papierkram, ja bitte!",
+      "thema": "demokratie",
+      "programmpunkt": "Für jede neue Belastung soll eine bestehende Regel wegfallen; ein Belastungsmoratorium soll die Wirtschaft entlasten.",
+      "seite": 13,
+      "zitat": "Für jede zwingend erforderliche neue Belastung soll",
       "bezug": "betrifft_mich",
       "resonanz": "bestaetigt",
-      "begruendung": "Als Solo-Kreative im Digitalbereich profitiert Mareike von einfacheren digitalen Förderzugängen; das adressiert ihren Wunsch nach machbaren Regeln.",
-      "begruendung_selbst": "Förderung klingt gut, wenn ich nicht drei Wochen Antrag dafür brauche. Einfacher Zugang für Kleine - das nehme ich.",
+      "begruendung": "Als Kleinste im System trifft Bürokratie Mareike überproportional; ein konsequentes One-in-one-out-Prinzip verspricht ihr spürbare Entlastung.",
+      "begruendung_selbst": "Ich ertrinke in Formularen und Nachweisen. Wenn für jede neue Pflicht eine alte fliegt, atme ich auf.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Amt aus dem Wohnzimmer",
+      "thema": "digitalisierung",
+      "programmpunkt": "Verwaltungsprozesse sollen digitalisiert werden, damit Bürger im Alltag weniger Formulare ausfüllen müssen.",
+      "seite": 52,
+      "zitat": "im Alltag weniger Formulare ausfüllen zu müssen",
+      "bezug": "betrifft_mich",
+      "resonanz": "bestaetigt",
+      "begruendung": "Digitale Verwaltung spart der digital-affinen Soloselbstständigen Zeit, die zwischen Akquise und Buchhaltung ohnehin knapp ist.",
+      "begruendung_selbst": "Ich mache alles digital, nur das Amt nicht. Wenn ich Anträge online erledige, gewinne ich echte Arbeitszeit.",
       "beleg_ok": true
     }
   ],
   "besonders_schlecht": [
     {
-      "titel_selbst": "Eigenverantwortung - und wer fängt mich auf?",
+      "titel_selbst": "Markt allein rettet mich nicht",
       "thema": "wirtschaft",
-      "programmpunkt": "Stärkung des Vertrauens in Leistung, Eigenverantwortung und Unternehmertum als Leitbild der Wirtschaftspolitik.",
+      "programmpunkt": "Sichere Einkommen entstehen laut CDU durch eine starke Wirtschaft, nicht durch staatliche Vorgaben und Umverteilung.",
       "seite": 12,
-      "zitat": "Vertrauen in Leistung, Eigenverantwortung und Unternehmertum wieder stärken",
+      "zitat": "Einkommen entstehen jedoch nicht durch staatliche Vorgaben und Umverteilung",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Mareikes Kernsorge ist die fehlende Absicherung Soloselbstständiger; die reine Marktlogik lässt gerade sie im Risiko allein.",
+      "begruendung_selbst": "Schöne Theorie, aber wenn die Aufträge wegbleiben, fängt mich kein Markt auf. Genau da brauche ich Absicherung.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Fördern und Fordern trifft mich",
+      "thema": "gesundheit",
+      "programmpunkt": "Die CDU will das Prinzip Fördern und Fordern in der Grundsicherung wieder stärken und Missbrauch sanktionieren.",
+      "seite": 17,
+      "zitat": "das Prinzip Fördern und Fordern in der Grundsicherung wieder stärken",
       "bezug": "betrifft_mich",
       "resonanz": "kontaer",
-      "begruendung": "Mareike braucht soziale Absicherung, die das Programm für Soloselbstständige nicht bietet; die Betonung reiner Eigenverantwortung lässt sie im Risiko allein.",
-      "begruendung_selbst": "Eigenverantwortung schön und gut - aber wenn die Aufträge wegbleiben, fange ich nichts auf. Da ist einfach kein Netz.",
+      "begruendung": "In Flautephasen kann Mareike auf Grundsicherung angewiesen sein; ein misstrauisch-sanktionierender Kurs erhöht ihre Existenzangst.",
+      "begruendung_selbst": "In einer schlechten Flaute lande ich schnell beim Amt. Mehr Druck und Misstrauen ist das Letzte, was ich dann brauche.",
+      "beleg_ok": true
+    },
+    {
+      "titel_selbst": "Eigenverantwortung ist zu wenig",
+      "thema": "wirtschaft",
+      "programmpunkt": "Die CDU will das Vertrauen in Leistung, Eigenverantwortung und Unternehmertum wieder stärken.",
+      "seite": 12,
+      "zitat": "das Vertrauen in Leistung, Eigenverantwortung und Unternehmertum wieder stärken",
+      "bezug": "meine_sicht_auf_andere",
+      "resonanz": "kontaer",
+      "begruendung": "Das Leitbild reiner Eigenverantwortung ist genau die Haltung, die Mareike kritisch sieht, weil es die Lücke bei ihrer sozialen Absicherung ausblendet.",
+      "begruendung_selbst": "Eigenverantwortung lebe ich jeden Tag. Nur ersetzt sie keine Kranken- oder Altersvorsorge, wenn ich durch jedes Raster falle.",
       "beleg_ok": true
     }
   ],
   "gesamt": {
-    "zusammenfassung": "Mareike begrüßt, was ihren Alltag konkret berührt: Bürokratieabbau, einfachere digitale Förderzugänge und ausdrückliche Startförderung für Clubs und Kreativwirtschaft. Ihr existenzielles Kernthema - soziale Absicherung für Soloselbstständige - bleibt im Landesprogramm unbeantwortet, und die Betonung der Eigenverantwortung lässt sie skeptisch. Per Saldo leicht positiv.",
-    "score": 1
+    "zusammenfassung": "Die CDU punktet bei Mareike mit Bürokratieabbau, digitaler Verwaltung und Anerkennung der Kreativwirtschaft. Ihre Kernsorge, die fehlende Absicherung Soloselbstständiger, bleibt jedoch unbeantwortet und wird durch eine markt- und eigenverantwortungszentrierte Logik eher verschärft. Unterm Strich hilfreich beim Papierkram, blind bei ihrem größten Risiko.",
+    "score": -1
   }
 }

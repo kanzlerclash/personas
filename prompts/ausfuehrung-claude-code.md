@@ -38,7 +38,7 @@ So entstanden bereits: **alle 7 Parteien in `sachsen-anhalt`** (je 16 Personas, 
 
 ## Die 16 Persona-Slugs
 `landwirt, handwerkerin, pendler, rentnerpaar, polizist, studentin_queer,
-alleinerziehende, pflegekraft, eingebuergerte, mieterin_berlin, industriearbeiter,
+alleinerziehende, pflegekraft, eingebuergerte, mieterin, industriearbeiter,
 energie_strukturwandel, junge_familie_bau, solo_kreative, landaerztin, soldat`
 
 Parteien-Schema (je nach Antritt im Land): `cdu, spd, afd, gruene, fdp, linke, bsw`.
